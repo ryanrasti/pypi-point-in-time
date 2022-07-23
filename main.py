@@ -39,7 +39,7 @@ def main():
 
   logging.info('Writing out index')
   if os.path.exists(out_dir):
-    subprocess.check_call(['mv', out_dir, tempfile.gettempdir()])
+    subprocess.check_call(['rm', '-rf', out_dir])
   subprocess.check_call(['mkdir', '-p', out_dir])
   with open(os.path.join(out_dir, 'index.html'), 'w') as f:
     f.write(str(simple_root))
@@ -61,11 +61,12 @@ def main():
 
   with futures.ThreadPoolExecutor(max_workers=100) as ex:
     @tenacity.retry(stop=tenacity.stop_after_attempt(10), wait=tenacity.wait_fixed(2))
-    def download_all(out):
+    def download_all():
       session = requests.Session()
       for item in iter(q.get_nowait, False):
         try:
-          out.put(download(session, item))
+          logging.debug('Downloading %s', item)
+          download(session, item)
         except:
           q.put(item)
           logging.exception('Failure downloading:')
@@ -74,7 +75,7 @@ def main():
 
     def print_info():
       while q.qsize() > 0:
-        time.sleep(10)
+        time.sleep(1)
         logging.info('%.2f %% done', 1 - q.qsize() / len(items))
 
     for _ in range(99):
