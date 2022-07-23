@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="pypi:repository-version" content="1.0">
+    <title>Links for omigami-client</title>
+  </head>
+  <body>
+    <h1>Links for omigami-client</h1>
+    <a href="https://files.pythonhosted.org/packages/4f/ae/98a936d90871adec7e53e881b2e630b2bb79e6f89c420c4b09bf69fd3b61/omigami_client-0.1.0-py2.py3-none-any.whl#sha256=3e618d904b0e6328d3aed02ec6d06c9a984c4044e2a8736d02af5fd27a9557ad" >omigami_client-0.1.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/26/d6de73583977dd4a23fd64a1b7017d75b12e0005eb020ae8f440a408cd8c/omigami_client-0.1.0.tar.gz#sha256=04c92ef4b72c8bd07a54de60ce362a82d60c68c1b0d927c6b7f121775db92885" >omigami_client-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/9a/bab90de2a279c1ec54534985ba7e02de3b10f66d362f128d74f788ed3cd8/omigami_client-0.1.1-py2.py3-none-any.whl#sha256=eee0b6593374209c3201e8edca4b98e044624da83ce32afe28cc2eefb99bb4df" >omigami_client-0.1.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/81/b5b4ff8ed1b30891ae811d222f2dfcc6052d09bdc81b2db8f121cc8d5440/omigami_client-0.1.1.tar.gz#sha256=e9c1053e2efd66b6525590c4d8a4246ed82529d8d4fc21a4ad5b4b755e50f125" >omigami_client-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/c1/4ae0ce03433c110ed5d1d00beb8265aca1063335cfe849b727edea2aab69/omigami_client-0.1.2-py2.py3-none-any.whl#sha256=c178163ffe5b285e9d728353439cc5c94f9201f30f4f195420da83544763ca93" >omigami_client-0.1.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/b0/38a72e833be9b9fecb1d8ca88dc5b261bdd69187c65fbfe31ddecaa64601/omigami_client-0.1.2.tar.gz#sha256=30cece47ef6f6c002a0cf57acc33c9119717f03cb97e9da251625a3d656bf360" >omigami_client-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/a9/425686b7f229fd75a924143e371daed4e60435e7932e48e2d344a5601de2/omigami-client-0.2.0.tar.gz#sha256=f89d31fd02a160b895640637a476caf9a68e9038855c2a3b8224d261b62bad91" data-yanked="The client consider changes in the backend that are not implemented and the client will need to be extended later to completely incorporate all changes (API server URL changes)" >omigami-client-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/2f/4d522471a8a533f786a12b6683f64a508bbfbc1895a6f23ed2b085d34214/omigami_client-0.2.0-py2.py3-none-any.whl#sha256=e7a0e199026685ce0990e260ec3033a48710fb875ce57d04856a15d2297a9d96" data-yanked="The client consider changes in the backend that are not implemented and the client will need to be extended later to completely incorporate all changes (API server URL changes)" >omigami_client-0.2.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/f4/5614e42654bc87909a54289982bf1006f5fbe1083ede428721d01340a98a/omigami-client-0.2.1.tar.gz#sha256=381994930ff2d08cc5931b28ffc4ff8c55cfab674fbe9fa8706572eeaec722d6" data-yanked="" >omigami-client-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/a7/9e65eeb17f3ba04049ab5d18626ecfd33be83ff78825d3a7165bad5f7d7f/omigami_client-0.2.1-py2.py3-none-any.whl#sha256=2dbd762beadbc47011f056a6b02f2710dab1408d9d14b06438ec281070b3f5e1" data-yanked="" >omigami_client-0.2.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/45/6651241d9f67f7aa680faaf648227ad922b93bd7e0d2fc45303f7fb70f75/omigami-client-0.2.2.tar.gz#sha256=c6419d461491232d28523abe693cf81b804b48a6793772fcd12cdce982eba7d9" data-yanked="" >omigami-client-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/90/a410a6eeb591e95d233bcb950d79cca555a78902a168fde5b5bc22005e4f/omigami_client-0.2.2-py2.py3-none-any.whl#sha256=656673b3b36dbbc68018de526f11acf8121deafa25b100d20cc9ba539b6a08e1" data-yanked="" >omigami_client-0.2.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/8a/4e4aab0dc93dab9ec79758f1caea3a5513e685ee2113d39092770027da0c/omigami-client-0.2.3.tar.gz#sha256=79e7c2f6295649cafb328de386edc83023b6d7e01cf86ce8603d0b06646dbd6d" >omigami-client-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/98/f3c38e3eb6ba1723e43d947c79dbeec4de2a594b36c5b111fb2274cfc0b8/omigami_client-0.2.3-py2.py3-none-any.whl#sha256=38fee6cb8e2784d47ff67d1235762918b8f54df8297e15f0c81ab7ae3a4b1e4e" >omigami_client-0.2.3-py2.py3-none-any.whl</a><br />
+    </body>
+</html>
+<!--SERIAL 11965508-->

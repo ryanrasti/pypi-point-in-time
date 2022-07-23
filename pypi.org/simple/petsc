@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="pypi:repository-version" content="1.0">
+    <title>Links for petsc</title>
+  </head>
+  <body>
+    <h1>Links for petsc</h1>
+    <a href="https://files.pythonhosted.org/packages/ed/67/692027c1bfc2b418eceea8a4d6d505104735ef85c3ac281b118bcb80839d/petsc-3.7.1.tar.gz#sha256=4c1ae29e6f58562f08540fbdd5958759f1ff09d561c6f90d6896875f1c771bec" >petsc-3.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/b8/96f4b32700d653d0e7a6018dcb34c3aac1c7ac0e367a3b9f9dbc05b6797c/petsc-3.7.2.1.tar.gz#sha256=ad4cdc761ebc337cd1a461c685c7df12cc90b8a805fc1a63e04f7dd2b2c1d949" >petsc-3.7.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/0f/bb1acabc67acd3d4fa95db2c0dfddc994a329531ae58485595a9a0f684ee/petsc-3.7.6.tar.gz#sha256=0deeb26784aee33bd7815dc0f0b8d19c4545231aeff8da4a0cd2a387e939fc65" >petsc-3.7.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/4c/eea35784db2433871030171fb7b35f245cd62e2fc4fecaec2e135fc199d9/petsc-3.8.0.tar.gz#sha256=dcbf370383a7e3a25fece91b72342773833d6ee2eddc53810bbb459de7d72a93" >petsc-3.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/72/016efc6095b04871da012ecc26a10b4e282f16748f5807a6538828e52b1b/petsc-3.8.1.tar.gz#sha256=fdc94525422c41ed617b38d09723bb27c6dbf4831c4c6cc1e27850e60788ccfa" >petsc-3.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/5e/99a7d25c5246bdb612d2957ecab221f3bc865dddc4bde64d1b030c8f881e/petsc-3.9.0.tar.gz#sha256=a233e0d7f69c98504a1c3548162c6024f7797dde5556b83b0f98ce7326251ca1" >petsc-3.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/6c/555ad15fd1f9f2d8a044577c2df9fe855a7cd0f47d2716ebf478a2ca0a37/petsc-3.9.1.tar.gz#sha256=8e3455d2ef0aed637d4d8033dab752551e049a088f893610b799aa3188a5c246" >petsc-3.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/6c/494af329ab9bde8fff6aa8667e379c6cb942cbc13d4b1a2e4e27e562e5b3/petsc-3.9.2.tar.gz#sha256=65100189796f05991bb2e746f56eec27f8425f6eb901f8f08459ffd2a5e6c69a" >petsc-3.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/fc/8a07561bbe53c86d8ddc81182f1ac6a21e71f3402a0c3752d497dbe9eb86/petsc-3.10.0.tar.gz#sha256=4237b75d748980f09c0526769081e012aebd06c26950178d01166a526fb5c1b6" >petsc-3.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/31/3e0c9ec6b3c228f902bf90c7582e7a36b4fb880e5d17bcf889d0f588bd92/petsc-3.10.3.tar.gz#sha256=f03650ea5592313dd2b8be7ae9cc498369da660185b58f9e98689a9bc355e982" >petsc-3.10.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/95/72eb7cc74ef8ee5b7803196523267535524e6a5e261013330ddd421054e7/petsc-3.11.0.tar.gz#sha256=9eccc9283cfca45369d8b71b4246409fc071a681c633cacbd316896e12175211" >petsc-3.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/0a/aecec2c090617258c813d369e631cb4882bb6844e3bbfed917cb3391035e/petsc-3.11.1.tar.gz#sha256=d14ffc082bfa83cd1fc5a0486d264ef19e2e43356ed768918eaa028ebb9be9d4" >petsc-3.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/b6/e7efd498872b6a8de72879cb7731e4a48f8129e14f14eb5ee30ce3653fb0/petsc-3.12.0.tar.gz#sha256=a2a17264a5bbcf9daacae317d2751dae4fef18e641245242ab157ca9fceed019" >petsc-3.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/01/f7e55782839c31b4e8bc2770993950e13c7cec28d0106a710a373c432f8c/petsc-3.12.1.tar.gz#sha256=28c25cde288f689605f2160613feef45863c9ef3ceb2d1a44c2226b779938781" >petsc-3.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/06/93fa0f279d77f941833049a880051c6e45f6b800b818b8421388314f3e16/petsc-3.12.2.tar.gz#sha256=c30bf8a005e850d1db137b7807a1b780286f70e650e5eba251061133ebd27f63" >petsc-3.12.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/8e/3874fb197874f93e56427550c95b36b843761371527dde55272bf24ef716/petsc-3.12.3.tar.gz#sha256=72421acc7e4b79f58ead871649f9e1160f57b9a8c447a2a58fe3791cbcb8aa85" >petsc-3.12.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/99/939ce00a286ec78172b65ce6f9ae6af030c4f363454cd744ed854ad7aaa0/petsc-3.12.4.tar.gz#sha256=800a965dd01adac099a186588cda68e4fcb224af326d8aaf55978361c019258f" >petsc-3.12.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/f9/2ba130f4f7084b2e08d9974624b4db71f43fb9571ba0491308f2ee4509c0/petsc-3.12.5.tar.gz#sha256=b4e9aae06b1a343bc5a7fee975f391e7dbc7086fccc684068b5e0204ffa3ecad" >petsc-3.12.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/b0/3b6fdaa4121a339cab673e2523c77b8a5453802ed247dc329697fa0d5a1f/petsc-3.13.0.tar.gz#sha256=f0ea543a54145c5d1387e25b121c3fd1b1ca834032c5a33f6f1d929e95bdf0e5" >petsc-3.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/bb/5475732b904ee1945521de0b43d08aa2fd9ff413dce479d7b680e23b4b4c/petsc-3.13.1.tar.gz#sha256=74a895e44e2ff1146838aaccb7613e7626d99e0eed64ca032c87c72d084efac3" >petsc-3.13.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/f6/d41d08629197a3f7a5259fdc24445d9adfeaa40b5d82922683e6161e031f/petsc-3.13.2.tar.gz#sha256=6083422a7c5b8e89e5e4ccf64acade9bf8ab70245e25bca3a3da03caf74602f1" >petsc-3.13.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/1e/4a5e1751945fdbf98a7f0c7eb2e19b74495c090a2659d8db6cc52b5a4e53/petsc-3.13.3.tar.gz#sha256=dc744895ee6b9c4491ff817bef0d3abd680c5e3c25e601be44240ce65ab4f337" >petsc-3.13.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/92/2b67d42e63ff5bb3a6dc7e98f8df6773185f726e10d901dd54e138c9c856/petsc-3.13.4.tar.gz#sha256=8d470cba1ceb9638694550134a2f23aac85ed7249cb74992581210597d978b94" >petsc-3.13.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/88/1354e10677429e413da31d9510734696319c918ed0a686fdff9cbde8c3f0/petsc-3.13.5.tar.gz#sha256=10fc542dab961c8b17db35ad3a208cb184c237fc84e183817e38e6c7ab4b8732" >petsc-3.13.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/6f/da8a229b1f593a6e2ac52cef9abf272f40a699f9142adb6b93c5d3b73ead/petsc-3.14.0.tar.gz#sha256=a8f9caba03e0d57d8452c08505cf96be5f6949adaa266e819382162c03ddb9c5" >petsc-3.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/55/ed0fbcd23fec5c833de5f8724fabf3c3d8d147b57e5bc2d43abe41755b02/petsc-3.14.1.tar.gz#sha256=0b4681165a9af96594c794b97ac6993452ec902726679f6b50bb450f89d230ed" >petsc-3.14.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/2e/2032cf031f4184509b6df13dedac7f576f7a2352f9071e3364882e0bb521/petsc-3.14.2.tar.gz#sha256=87a04fd05cac20a2ec47094b7d18b96e0651257d8c768ced2ef7db270ecfb9cb" >petsc-3.14.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/14/3e20e74a1ae56bb7f18795b0a013a5ecca4257128aee110c484d16284f89/petsc-3.14.3.tar.gz#sha256=63ed7e3440f2bbc732a6c44aa878364f88f5016ab375d9b36d742893a049053d" >petsc-3.14.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/b2/05a5d9e6691d5cdda129f10ed882a2bfbb68f1135d63dab5b185c79f16b0/petsc-3.14.4.tar.gz#sha256=b030969816e02c251a6d010c07a90b69ade44932f9ddfac3090ff5e95ab97d5c" >petsc-3.14.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/69/e2ff8c8ed7e75320091ba8108611032b06690407d9ac0a4dbc9ff4c2336b/petsc-3.14.5.tar.gz#sha256=8b8ff5c4e10468f696803b354a502d690c7d25c19d694a7e10008a302fdbb048" >petsc-3.14.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/32/bbd5ae3037dc3789ab29c525857b75663584d4188f35fbde46b1179475ef/petsc-3.15.0.tar.gz#sha256=ac46db6bfcaaec8cd28335231076815bd5438f401a4a05e33736b4f9ff12e59a" >petsc-3.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/4a/40502e85fdde33c93a756c907a82ab31bf4424af5b756317f0c65c1ff007/petsc-3.15.1.tar.gz#sha256=c0ac6566e69d1d70b431e07e7598e9de95e84891c2452db1367c846b75109deb" >petsc-3.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/ff/bf1b4cc861c41a8ec721606f117ed61f03c4e050be7231de95405e2ca2fc/petsc-3.15.2.tar.gz#sha256=3b10c19c69fc42e01a38132668724a01f1da56f5c353105cd28f1120cc9041d8" >petsc-3.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/78/e6193dad1a5fe27eb8899f9acc349cf853dfd65825ec2bf45d49a407be7e/petsc-3.15.3.tar.gz#sha256=483028088020001e6f8d57b78a7fc880ed52d6693f57d627779c428f55cff73d" >petsc-3.15.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/f0/e1139a979546bd4ae78f1648f7e90057bc21d5d98b732c40d4fc3c97f892/petsc-3.15.4.tar.gz#sha256=1e62fb0859a12891022765d1e24660cfcd704291c58667082d81a0618d6b0047" >petsc-3.15.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/1e/09f82db25485429d70e56c8b39c4c02b8e00b91284ecb86aeadc904f2e10/petsc-3.16.0.tar.gz#sha256=5aaad7deea127a4790c8aa95c42fd9451ab10b5d6c68b226b92d4853002f438d" >petsc-3.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/ff/c744a43aa2cd0f1d4e554fa7825c930fb14d7061bdfc1338277df2e99e4e/petsc-3.16.1.tar.gz#sha256=909cf7bce7b6a0ddb2580a1ac9502aa01631ec4105c716594c1804f0ee1ea06a" >petsc-3.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/9e/40405afcb7171d7ab13f79837910b1bf9a8d43d0ebd563faa0c2eeb0a25e/petsc-3.16.2.tar.gz#sha256=7ab257ae150d4837ac8d3872a1d206997962578785ec2427639ceac46d131bbc" >petsc-3.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/8f/9a5b9677b160802abceb5b74d0ca0a94acc2548755e3ab690853d21e2995/petsc-3.16.3.tar.gz#sha256=eff44c7e7f12991dc7d2b627c477807a215ce16c2ce8a1c78aa8237ddacf6ca5" >petsc-3.16.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/3c/6e3b2ad975231b0b8fa84e090067bc230638000a97a9d6f0e9979571a254/petsc-3.16.4.tar.gz#sha256=229cce22bdcfedb1fe827d306ed1afca9737786cdc3f0562b74a1966c1243caf" >petsc-3.16.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/79/8ef73d0913e289c8554295c24644b91452e86a4c0012fa892546fd0c77ad/petsc-3.16.5.tar.gz#sha256=7de8570eeb94062752d82a83208fc2bafc77b3f515023a4c14d8ff9440e66cac" >petsc-3.16.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/4d/ab0b6952b3e172e2cfdec0ea6dfc7de48c380693bc62a4908110e01f7d66/petsc-3.16.6.tar.gz#sha256=bfc836b52f57686b583c16ab7fae0c318a7b28141ca01656ad673c8ca23037fa" >petsc-3.16.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/f3/2a9aeb0ce297bcc4022187be0b535ef4023d0beeabb446ba6a50bb3830c9/petsc-3.17.0.tar.gz#sha256=96d5aca684e1ce1425891a620d278773c25611cb144165a93b17531238eaaf8a" >petsc-3.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/5a/7e4751944a1b7c5dbd4604f454eb67e65adff7c8ebafa49145c22bf47249/petsc-3.17.1.tar.gz#sha256=c504609d9f532327c20b6363d6a6c7647ebd3c98acfb382c28fcd3852300ddd1" >petsc-3.17.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/a2/4f1ead0b2dd5c10acd9d25a6c347a9705c42f859d80a4d40b2e6e1253033/petsc-3.17.2.tar.gz#sha256=2313dd1ca41bf0ace68671ea6f8d4abf90011ed899f5e1e08658d3f18478359d" >petsc-3.17.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/de/cecb7014dac7c774e9560b8113ac2ae91e286131b0c14a4387eab01b1138/petsc-3.17.3.tar.gz#sha256=5c24ade5e4b32cc04935ba0db1dafe48d633bebaaa30a3033f1e58788d37875f" >petsc-3.17.3.tar.gz</a><br />
+    </body>
+</html>
+<!--SERIAL 14320892-->

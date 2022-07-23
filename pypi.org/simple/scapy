@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="pypi:repository-version" content="1.0">
+    <title>Links for scapy</title>
+  </head>
+  <body>
+    <h1>Links for scapy</h1>
+    <a href="https://files.pythonhosted.org/packages/72/0b/5381f2a376035d06937064fb4ecfaf2c69fd94327000e13615a4f5d4cc13/scapy-2.2.0-dev.linux-x86_64.tar.gz#sha256=21d868519269059230c800840eb786007b7a85fd886d7911d174719e7aafba5e" >scapy-2.2.0-dev.linux-x86_64.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/29/48d6ed3c95571b5ff3ee91b1c987c820e7c5265dfd2c46b566573d87c662/scapy-2.2.0-dev.tar.gz#sha256=22a11787273110fb19cec6215c73e0a90a0d049a77142c34252bb96e70198692" >scapy-2.2.0-dev.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/f7/700afef531954770c6199f073edc7f599f6cfd6b61c4f69dac99f51f967b/scapy-2.2.0-dev.zip#sha256=e869985a337204171cd0447eea67083a9bf8ef4bfed3300856c53021ff3c17b9" >scapy-2.2.0-dev.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/cd/d20c1e121b09697bf4d7b1b9edde6573fc7d54eefc56860f457a7edfc0de/scapy-2.3.1.zip#sha256=c3089764ad4cdd96d56816ac8bed4cea3738ce49d18a1a7ef2906a11927ba28b" >scapy-2.3.1.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/72/c055abd32bcd4ee6b36ef8e9ceccc2e242dea9b6c58fdcf2e8fd005f7650/scapy-2.3.2.tar.gz#sha256=a9059ced6e1ded0565527c212f6ae4c735f4245d0f5f2d7313c4a6049b005cd8" >scapy-2.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/14/c792a14b9f8bc4bb9c74c0594c167a2da36e31964098d9e27202142cbd7d/scapy-2.3.3.tgz#sha256=9d3b0293dcdc2cc42eedacbc9003038109558c4b5c5e4a3fa01b8ef5762f1eb0" >scapy-2.3.3.tgz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/93/48affce95938507947d42137171927787521c961848827034d0246b07740/scapy-2.4.0rc2.tar.gz#sha256=143e9444dddd8c0bd98db27ad2157309219b8f076bee810511309bcfb35ab123" >scapy-2.4.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/7b/9685625313a0e4a785c08b9f5548b510c1efb744e226f42cf29003f52308/scapy-2.4.0rc3.tar.gz#sha256=27026b0935cd922a1989876cf4c9e5524e0b80084677d9e919b4ad36c6b35312" >scapy-2.4.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/55/392c68f2a8bad3a51d24de415645c042621937726b06d431ea40bf5922dd/scapy-2.4.0rc4.tar.gz#sha256=2f967bac849eb19e8920ab8ebaef90fa093b8a3a3d542e23cd0f04c3acde2851" >scapy-2.4.0rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/ac/0b00f81dfec78db461d092a7fa7df6c0daf78ac8da6f4c61ac80187f10c1/scapy-2.4.0rc5.tar.gz#sha256=8faef1d5ffe84a6655959d50a46763e5d96ed7b630536956cf71451a8a2b5178" >scapy-2.4.0rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/01/b9943984447e7ea6f8948e90c1729b78161c2bb3eef908430638ec3f7296/scapy-2.4.0.tar.gz#sha256=452f714f5c2eac6fd0a6146b1dbddfc24dd5f4103f3ed76227995a488cfb2b73" >scapy-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/46/3de229d48d5c5465f0ab6e13ff445a8cd1a7f7eef381d033b7f8087f273e/scapy-2.4.1.tar.gz#sha256=71b8608a756f5df91387932e2b341557f2c66d2c2cebdfd07b2b0c07059ca065" >scapy-2.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/04/b8512e5126a1816581767bf95cbf525e0681a22c055bcd45f47ecff60170/scapy-2.4.2.tar.gz#sha256=1baa048936207ceb1a4281a0e1e3b4317667c754872a0bb4734c5213c468e86a" >scapy-2.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/79/98e9eaa970c15f87e1617f9a9e70f3aa2115695fa017d5dd2dd2163e1ace/scapy-2.4.3rc1.tar.gz#sha256=1d6a1a6578fe5e7e52f239908b3906799ed970feeea34097fcae2db84019d695" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.3rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/05/824b418ab9beabefcd41081f0d6c3f1b64182928260f870f2a363995b164/scapy-2.4.3rc2.tar.gz#sha256=193da281a73d368b9f4b9b6b712bd3fee7ee40e07d69dfbe2763ecd409a064e6" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.3rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/c5/2f49c366fc2871a34d4760c135f5640b797180348961748f0c6f8c92d5e3/scapy-2.4.3rc3.tar.gz#sha256=f056be75340e0d190d0ee0da377f8202a9b29288419f5ae19db4f278c94bbfa3" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.3rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/00/d4d12afbe08d448931dd3346ba6c8756ddcda66a3670a81b107d74adc2e0/scapy-2.4.3rc4.tar.gz#sha256=e76e453b77c906ab8ce76a98472ac12db4b62b8d069f9502a8bf6903bf329f93" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.3rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/e7/464079606a9cf97ad04936c52a5324d14dae36215f9319bf3faa46a7907d/scapy-2.4.3.tar.gz#sha256=e2f8d11f6a941c14a789ae8b236b27bd634681f1b29b5e893861e284d234f6b0" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/e7/acd4980e2b0b66db315629c1debadf3d64e2e1decbd86b0b118c39f08e5b/scapy-2.4.4rc1.tar.gz#sha256=6198e5effb3569f8a218b97d0fda4697bf8e9d8a4d7734d624f57cce0b9be09d" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.4rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/3c/5b74be0f36e1bc1a3554666000d42bc6c6542c49f5635e08483c8995c86c/scapy-2.4.4rc2.tar.gz#sha256=e24626211faf1b15de736c5cff6c3e25eb024cde796801b8f88bb6f007d95ab4" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.4rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/8f/438d4d0bab4c8e22906a7401dd082b4c0f914daf2bbdc7e7e8390d81a5c3/scapy-2.4.4.tar.gz#sha256=ecfd7a14cd9c3ef0eb08d28d5bb71d97219edff1454ccbdff229f676b27900ee" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/87/219739325a0f0c30608c9c9792abe01868348c3ba14f0bf31f450e5d74c9/scapy-2.4.5rc1.tar.gz#sha256=820eb2a46cf2fff5452130c9aa9a9f05963f4418f7c9c91d5610eb8c587c5ad6" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.5rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/47/c919432ca258f354bb2c1e645623f891603f185bfc7563d4a21f6432e7ed/scapy-2.4.5.tar.gz#sha256=bc707e3604784496b6665a9e5b2a69c36cc9fb032af4864b29051531b24c8593" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, &lt;4" >scapy-2.4.5.tar.gz</a><br />
+    </body>
+</html>
+<!--SERIAL 14391077-->

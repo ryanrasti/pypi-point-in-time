@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="pypi:repository-version" content="1.0">
+    <title>Links for your-package-name</title>
+  </head>
+  <body>
+    <h1>Links for your-package-name</h1>
+    <a href="https://files.pythonhosted.org/packages/61/32/1fcfb88da2be943d69bf42d40a24e80ef4e5e39d5eac16db73c1d6c8b21a/your-package-name-1.0.0.tar.gz#sha256=666c12336a1830d421ff35447a415590e7c7613283e4f1b09006a7f4e9bedc1a" >your-package-name-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/2e/2f65ac1065173d0cfeefe968dd892b4b20b28c96fdbf8049a98c32927418/your_package_name-1.0.0-py3-none-any.whl#sha256=2f837b104ef1235756ccb95c9a0c6cc513b8772601afd53c32fbaff9c95e7f4b" >your_package_name-1.0.0-py3-none-any.whl</a><br />
+    </body>
+</html>
+<!--SERIAL 11425512-->

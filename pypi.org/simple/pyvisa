@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="pypi:repository-version" content="1.0">
+    <title>Links for pyvisa</title>
+  </head>
+  <body>
+    <h1>Links for pyvisa</h1>
+    <a href="https://files.pythonhosted.org/packages/9f/77/75bda8f1ff0ec234c1d8b766b759d274dfc316d3deb05ced9b73317b6461/PyVISA-1.3.tar.gz#sha256=135017d97ac658874bfc5562b3a3301ef66fc88a8c48e2befd4b0dde4c29d13f" >PyVISA-1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/21/ee674842278f0b17fb0aeacff6ca481475efa814d72a093d75108f9a77e6/PyVISA-1.4.tar.gz#sha256=6ff001554b206534a54bbb3f60121f9265f0dde5261726c9ee5d1aae67f8e4f0" >PyVISA-1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/0c/3b49d72a6c84b73edd2a47ef99f9d7fa9b35110a8c07960bedf8cd3c8d13/PyVISA-1.5.zip#sha256=bb8d93606576bf8bfda1d68a83c517158226f39037dcd1d20e78047bed68a738" >PyVISA-1.5.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/1d/245c076be7c4538acc4ee06c61fc6a87f1600abf88286d82ad22462763b0/PyVISA-1.6.zip#sha256=fa5adcb09c31c58a67684f34c4733160dfc318588f6a61bcb844a118a4824cb3" >PyVISA-1.6.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/14/3bef33e08edfca2283cc71cd9c4109e92fdfca8eec91bf6c8aed0a6fdc0a/PyVISA-1.6.1.zip#sha256=0af28d5e19ffb619703c12d04385c49eeab70d3befe76cf7f1998d0a8e5ef116" >PyVISA-1.6.1.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/80/f2b357954db373f1b869d13d5aabf6b7ee36e1e7ce2fd71847037a5e8852/PyVISA-1.6.2.zip#sha256=b610adbaecd8a45c0d2f772f9e5fdc70150f8be4ea88df2fc967294b3b0ccfe7" >PyVISA-1.6.2.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/9e/f77d939596b79269076b9683d89d1ca5f913a1ce420a2f5ba362e5e202c7/PyVISA-1.6.3.zip#sha256=c68e3e3c46815294b4571c4fa9bd56693cd16cd88b2e7572a1d5b8bd4a7ec8a3" >PyVISA-1.6.3.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/6c/d13469a48dec572286abf08cb51dce377c59a8102dc5aeceae1c2b542d17/PyVISA-1.7.tar.gz#sha256=b3684724ba0a7ac2790557d84d88fdc8e00cdca4e213a2239b74e1376d390182" >PyVISA-1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/ba/d4c57d15bac251cc624b64c6eb956952500eb9c2068e066246798e5a42c5/PyVISA-1.8.tar.gz#sha256=7d851486ce890be4f1119bd2e687c7380a105d4bc5337242b2b262bcbfe1eb2c" >PyVISA-1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/bb/9f3885442308b5a3aa916d0426113ae2034949a2acc4756a27f0a3a6ca8a/PyVISA-1.9.0.tar.gz#sha256=38e4a2800122b06441346d8469317f8117ee0d8ce700d12bf5bef337e6c152b5" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >PyVISA-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/0d/0044e549631fe9ebc204c1ad53d6a3333f621a324d167a4e0a2b75c0ab0d/PyVISA-1.9.1-py3-none-any.whl#sha256=01ec355a97b9cd3897c019ec0c8e76a1f4e0dbce2a89b869794f5dcce4ed06e5" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >PyVISA-1.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/85/4cd8bde960e0e3efc635428b00533b93f9f220922c5d45b2801a8d96c666/PyVISA-1.9.1.tar.gz#sha256=d387dd215928bcc40f4ac21f1f344ca7a511ec3e8078f76876fa717174dbb993" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >PyVISA-1.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/c2/659f257f4d97ac0e519c733c98c27fc981ae5b5adb525411f7bb9c044483/PyVISA-1.10.0.tar.gz#sha256=9133a5c1c28ae30c9846d55039a2361ad9f9f9af21920c1b0310145977afc313" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >PyVISA-1.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/d1/fc21b45228718cde06b33b08761a6a9aa859dfe51dfbf07e81e0f209e776/PyVISA-1.10.1.tar.gz#sha256=ba936e2943ae29d7e33c3df00077d554c6137b02d097457ed4f36d77977e3293" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >PyVISA-1.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/7b/f59cb428b0c827dc3b2057e68ce856b6cc4df33d1c025f1505b9efee5ff4/PyVISA-1.11.0-py3-none-any.whl#sha256=6f30f5a37672c9cf4d7f9e6692ede5df5d9251028e3823940fb4881529bd53b3" data-requires-python="&gt;=3.6" >PyVISA-1.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/3f/b57e1d5937214109129c2ec4909c6aef41223f8fb73a97403c734ef31f83/PyVISA-1.11.0.tar.gz#sha256=e0a1f363abf08c205969560ccffcfe4d7794f8f00ab5124af610123ac443256f" data-requires-python="&gt;=3.6" >PyVISA-1.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/2a/40c23370ac31f3248b270d371ea9bd9f49c515caadebd2202f2face5263e/PyVISA-1.11.1-py3-none-any.whl#sha256=ae554d94bc4c18dcb680d2e382b00a83b08f9ad842b33fe2fcf6df8924c999e7" data-requires-python="&gt;=3.6" >PyVISA-1.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/f9/e858600cbf4ccb8ed180189150f078d3ce10f88d7096be36c9960b27879b/PyVISA-1.11.1.tar.gz#sha256=38247a5a3d49ea7add8a429d51d5229ab6559343af8ff77fc45fce26891391d3" data-requires-python="&gt;=3.6" >PyVISA-1.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/d4/c507d577528f347e77bac1ae2e936ea07e7e3624421f50308fc4dcb24309/PyVISA-1.11.3-py3-none-any.whl#sha256=0a03d86cb0ec7b660cdade20d0c868f90feaecfda20dd5569be2cbb8e34cb394" data-requires-python="&gt;=3.6" >PyVISA-1.11.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/d1/9d19b5bee77eb030425028ab8b53880aae859b1f88b7981edffe3818ee3d/PyVISA-1.11.3.tar.gz#sha256=fb4b601d49fce1a00926fcdde5548bd54f0511f549188a3e0c1e4628c3d86703" data-requires-python="&gt;=3.6" >PyVISA-1.11.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/39/89f7db730e3c751d7738d52ce05da604796f50cccc907fd650cf217a7bc0/PyVISA-1.12.0-py3-none-any.whl#sha256=4cbe2f37f75dd233638154f377af7522b8c1dc8324cce3dc3e9563a9b7b84add" data-requires-python="&gt;=3.7" >PyVISA-1.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/e8/565ec099db6048b866dc28a38a5937913e7de1c247bee0ae26fc5d10bd1f/PyVISA-1.12.0.tar.gz#sha256=73a38e6bf7431449bd3e1c7bf51a995f62fcae68df580c01c30628629c6b5cbf" data-requires-python="&gt;=3.7" >PyVISA-1.12.0.tar.gz</a><br />
+    </body>
+</html>
+<!--SERIAL 13782180-->
