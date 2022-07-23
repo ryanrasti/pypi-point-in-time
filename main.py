@@ -56,7 +56,6 @@ def main():
 
   logging.info('Downloading all %d package pages' % len(items))
 
-  items = items[:100]
   q = queue.Queue()
   for item in items:
     q.put(item)

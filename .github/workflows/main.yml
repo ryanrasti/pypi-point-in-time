@@ -20,5 +20,5 @@ jobs:
       uses: cachix/install-nix-action@v15
     - name: Run
       run: |
-        NIX_PATH=nixpkgs=default.nix nix-shell --pure --run ./main.py
+        NIX_PATH=nixpkgs=default.nix time nix-shell --pure --run ./main.py
     - uses: EndBug/add-and-commit@v9 
