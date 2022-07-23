@@ -47,8 +47,10 @@ def main():
     f.write(str(simple_root))
 
   def download(session, name):
+    page = session.get(f'{index}{name}', stream=True)
+    if page.status_code == 404:
+      logging.info(f'404: Skipping %s', name)
     with open(os.path.join(out_dir, name), 'wb') as f:
-      page = session.get(f'{index}{name}', stream=True)
       page.raise_for_status()
       page.raw.decode_content = True
       shutil.copyfileobj(page.raw, f)
@@ -77,7 +79,7 @@ def main():
     def print_info():
       while q.qsize() > 0:
         time.sleep(1)
-        logging.info('%.2f %% done', 1 - q.qsize() / len(items))
+        logging.info('%.2f %% done', 100 * (1 - q.qsize() / len(items)))
 
     for _ in range(99):
       ex.submit(download_all)
