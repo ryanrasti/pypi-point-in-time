@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/bin/env python3
 import contextlib
 import subprocess
 from concurrent import futures
@@ -11,6 +11,8 @@ import tempfile
 import threading
 import urllib3
 import time
+import sys
+
 
 import bs4
 import requests
