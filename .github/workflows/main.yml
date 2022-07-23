@@ -1,7 +1,7 @@
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '30 5,17 * * *'
+    - cron:  '0 0 * * 0'
   watch:
     types: [started]
 jobs:
@@ -20,5 +20,5 @@ jobs:
       uses: cachix/install-nix-action@v15
     - name: Run
       run: |
-        nix-shell --run ./main.py
+        NIX_PATH=nixpkgs=default.nix nix-shell --pure --run ./main.py
     - uses: EndBug/add-and-commit@v9 

@@ -38,7 +38,8 @@ def main():
         items.append((m.group(1)))
 
   logging.info('Writing out index')
-  subprocess.check_call(['mv', out_dir, tempfile.gettempdir()])
+  if os.path.exists(out_dir):
+    subprocess.check_call(['mv', out_dir, tempfile.gettempdir()])
   subprocess.check_call(['mkdir', '-p', out_dir])
   with open(os.path.join(out_dir, 'index.html'), 'w') as f:
     f.write(str(simple_root))
@@ -67,6 +68,7 @@ def main():
           out.put(download(session, item))
         except:
           q.put(item)
+          logging.exception('Failure downloading:')
           raise
 
 
@@ -78,7 +80,7 @@ def main():
     for _ in range(99):
       ex.submit(download_all)
 
-    ex.submit(print_info).result()
+    ex.submit(print_info)
 
 
   logging.info('Done!')
