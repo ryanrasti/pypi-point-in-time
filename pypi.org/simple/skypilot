@@ -6,14 +6,12 @@
   </head>
   <body>
     <h1>Links for skypilot</h1>
-    <a href="https://files.pythonhosted.org/packages/6a/a0/048be96ef677134c49aaf9696fdb66ae43aa4b3497205d42cd81c32bb8c1/skypilot-0.0.0-py3-none-any.whl#sha256=ac43b64e6f781975b5fe8be762216a0b1ba3cc54b23dc4cb3c53300529f6007b" data-requires-python="&gt;=3.6" >skypilot-0.0.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e0/34/d0c2fff629e54e26b1c48c2c2b0490dd73b64f80fc3357eaeb13ffa3a567/skypilot-0.0.0.tar.gz#sha256=920340f5978567d47db314ad9c7632f2459e3d8595490e177b68d792e1eed93f" data-requires-python="&gt;=3.6" >skypilot-0.0.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/2c/19/c7fee92fa3ff3e092fd3b17fea6cb36bbad83887a084c00b24472a3750c6/skypilot-0.0.1-py3-none-any.whl#sha256=fb7300e2055ca46141079ce8e0df1f4a9e73c59a0ca3f2817f9a3454eb14d0c2" >skypilot-0.0.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/aa/77/ca96b0269ff88ee09b5c726d24ed867c7c79674f23e454c820433c0bd581/skypilot-0.0.1.tar.gz#sha256=f89b24cbd264abc2e51c854456649265f85abe7e9c9cf295d0355817465b4285" >skypilot-0.0.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/cf/f4/022a827ab9811a96022d59fdc4fa4ebc3ea25ea0ab00cb6ee04cf871bcef/skypilot-0.0.2-py3-none-any.whl#sha256=1f5cb56ff9e30cf7962186716a7674f83f67828a5dfeaf518bb45d2030cf342a" >skypilot-0.0.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/1b/a1/14a989abcfa91805a988e76f21770092a6a7b1b5b93aad754b09515e7ff6/skypilot-0.0.2.tar.gz#sha256=5355a07282e7e3431026605df23a540b1508a2f8e2b3ae5d3dbe4deaed3f7d8c" >skypilot-0.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/3e/84/0c3a3d35837e0500213ae93898560672d9f12efdbedfd029df0db6cc8e82/skypilot-0.0.3-py3-none-any.whl#sha256=186ef8d2bf837a946e090a21047d7cfaf83bb9948f3c9917d7534cac294bfd63" >skypilot-0.0.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/cc/93/88e960dccfddade8a83217a716ad43510244d947715cd51cf02dd4301c3d/skypilot-0.0.3.tar.gz#sha256=c15d3263a0c64cede7940503a9193bc1e5827bedf557023f51207a61bab98170" >skypilot-0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/20/decff083cfb17c16c12438e5f46ad43332ad8c62ff602308f28967ee6f49/skypilot-0.1.1rc1-py3-none-any.whl#sha256=458422ff0f0e0e2dc2d8356e72aad8b1ad19a12ec0fc609ed9b68fa9aee22803" >skypilot-0.1.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/90/e922edb7d431db9b01b776b5194df0f93a1c9add6014b475dc174d2dabdc/skypilot-0.1.1rc1.tar.gz#sha256=a8bd33a358916e1984dcdf1465fbe40397266df5af39950362833d783db759e0" >skypilot-0.1.1rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/4b/eab0fd848261aa176f5890a9a370551113865fe665b471c587a94271e2e0/skypilot-0.1.1rc2-py3-none-any.whl#sha256=6d06ef5580b697944ee9c8548b4cab72dcdbfc92c3f6fef3dedc31d3fcd7dbd0" >skypilot-0.1.1rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/d0/43f3d0e6669b49a5dd0e139e1c838232b3f295610f5fda126b4e35bd891b/skypilot-0.1.1rc2.tar.gz#sha256=cafa1a8aa87939a5888f0141733da576699c8a128f15a8af14e2feafd49a5250" >skypilot-0.1.1rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/53/17b976ad9de787496014ec29fefd72873f8955128279e6d17730c52bb921/skypilot-0.1.1-py3-none-any.whl#sha256=eba91e829cc870251d7b5ebaccb3094c7ef20f9fca4a226a8907771393715961" >skypilot-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/0d/9c2b0d7d4589d1ac15cb553189e71f3d1308d123300bd1df93508be88496/skypilot-0.1.1.tar.gz#sha256=8ccab1e6e7b89eb344c426b1c6b4032631041e0ee51c2c66237d7d33beb37354" >skypilot-0.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14583953-->
+<!--SERIAL 14712768-->
