@@ -778,6 +778,8 @@
     <a href="https://files.pythonhosted.org/packages/51/48/c0643d68f5551ab68d29779f40ee5d6e1c81c0c45307f218fcc4bfbfbf42/dagster_dask-0.15.8-py3-none-any.whl#sha256=9056be46e4bac1e6b3b00b004789fe4dbb7ff8503aed6aa927982438a471472f" >dagster_dask-0.15.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/31/50/f516d93eaeaa37254861c6f74eafc82b7b0bb40b03781f68ada286e33bac/dagster-dask-0.15.9.tar.gz#sha256=ac76d4b62deaad168c9591f37dd49179d99532c4a5e15b491ba377403c21c669" >dagster-dask-0.15.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/38/41892e37319a495f7c664ef7dd3bacf02c6da63eac5e1a25628cbca25db1/dagster_dask-0.15.9-py3-none-any.whl#sha256=f8921480e182658ab0bb5e64191dafb73a04f8026bafb741d7db89cea279a8ad" >dagster_dask-0.15.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/ee/06ba893fff9496f15e8b78149f0565e709f94006d209f171139331db8626/dagster-dask-0.15.10.tar.gz#sha256=12cbda0838e99e8e451a8ed1303ca0c33c4f5c5497b27d7e95ad994871f67bc8" >dagster-dask-0.15.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/64/e9d94ec8ff56e181ababd8c8facd9dd122de603fe3ac4b76e829ae6764e6/dagster_dask-0.15.10-py3-none-any.whl#sha256=e85200517d08eb92df40d34ea995e469b52f1dc4a26b26f667461802e37a9701" >dagster_dask-0.15.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/2a/c866fc61414d113e23e904ad1d5b9f3e4af5731afaa3fe904f6e0c5560d5/dagster-dask-0.16.0rc2.tar.gz#sha256=766237db8551730bb58ed5aa7fed0e35f8daca31d38627a91dcdc3419b9fee34" >dagster-dask-0.16.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/06/bc891fa57249c4d2df3edeffb18d10708669ad76432f3236143b579e3b5e/dagster_dask-0.16.0rc2-py3-none-any.whl#sha256=094fbeafab902a4f5c6343079f30de17ff35f028c9dc38bb70c1ebd436e45a37" >dagster_dask-0.16.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/6f/118648dc7fc83fc6f929c5f056fc842e5c1100afe0e3eaf99ba1db8b4222/dagster-dask-0.16.0.tar.gz#sha256=777db6e0dbe44fea8499b75b0ad794f94f7828528e4b4449882eefd962e529d6" >dagster-dask-0.16.0.tar.gz</a><br />
@@ -796,8 +798,10 @@
     <a href="https://files.pythonhosted.org/packages/80/5b/e2fc48e8096776e91f55dd05c38f414a35ddc89a850875922bf2b0ebdbc0/dagster_dask-0.16.7-py3-none-any.whl#sha256=bcc8d046600ae10a6f135518d9afc7829c3db1d792b878c092fe8dbb3eca5b1c" >dagster_dask-0.16.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/45/ed980fc82aee79dec655094a83013340767abf5a77920148e6a31581662d/dagster-dask-0.16.8.tar.gz#sha256=86ab9acd916d500a66016dbaf1bd2321a245c38676d9af476e87eca8cbb9c9b9" >dagster-dask-0.16.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/69/7c/e3a034a831f2d6d72ff8f69663c7a15edec0f9617b67d8bb3ba523d5fdca/dagster_dask-0.16.8-py3-none-any.whl#sha256=8301c98f29849cfe43ea0acc69517dd80826712d01e132d6be7f62452da8d660" >dagster_dask-0.16.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/91/1ce8a592353b48060a801a5eb87b2fb2051a98a2f13a197ee7c37baf2826/dagster-dask-0.16.9.tar.gz#sha256=6a8c077571377c884486e95d3b50a7516f3cd30959042b44d636a544da494e77" >dagster-dask-0.16.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/bc/a5bfc99dfee07b741e4d20727fe0bc1f77d371f0d6db0dbefcecad58b988/dagster_dask-0.16.9-py3-none-any.whl#sha256=1e7717a1dd32f94b479d353d0d997d7025e3eca14251e43bcece77373795b07b" >dagster_dask-0.16.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/82/a104618b2a96ef426203781d99ad136aba4f8b6cc3ab4e895fd88b404155/dagster-dask-1.0.5.tar.gz#sha256=4fbb5c11d80d87106c3a4e11b83e168d65e17cdf7f8d61447d0deab08a003061" data-yanked="" >dagster-dask-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/10/7a3932d79a7b6aa0b4e89893598be7b0a837f01ac216eb50811981378e8c/dagster_dask-1.0.5-py3-none-any.whl#sha256=e778de1c74cd1839b48df6fdb53000d4ac6b34d8fdb9944a2b8ea3284a895cc1" data-yanked="" >dagster_dask-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15037248-->
+<!--SERIAL 15109093-->
