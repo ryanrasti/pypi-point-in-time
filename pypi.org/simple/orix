@@ -47,8 +47,10 @@
     <a href="https://files.pythonhosted.org/packages/7f/9b/52106ef3f34b699b99ffed1f5d545187ce423ce0ad51a1ff82f5272788f3/orix-0.9.0.tar.gz#sha256=375571175215a24ccd2953979979fb3de6651989eb530b15f112d7e6949aea56" >orix-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/cc/3ff201d5a728e08d39aacf167f95f9699ddf1f3cdceeea7547fc88cc6a94/orix-0.9.0.post0-py3-none-any.whl#sha256=ffeb630b2d22e6e21012c503eca12d08410017331d47d1214bd313adb574b167" >orix-0.9.0.post0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e2/a3/ac91f52f30742ab9c62047b4918cace2790f1690029e396365c52ea9c706/orix-0.9.0.post0.tar.gz#sha256=30e2a7a9d316a495cfe55d965d5bd03f206dbb60294aad5de1c7cbcb02b57b7d" >orix-0.9.0.post0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/48/96/ccab93a078d42fd6420a3102ed651d50cc456d6292142c2ab7db4911e142/orix-0.10.0-py3-none-any.whl#sha256=0a605767e84e7e7d1a18eedfa2ac9dd26f59fc849e38d1cfa5d311621fb3340a" >orix-0.10.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/9c/7a/e38c3da804e11263dcf0c1bad24a6808b7197a821c9579aafbe4902bf294/orix-0.10.0.tar.gz#sha256=b1ed6f740a94ed5bca3cf7661eeedfc4c5f12007477cf61558b7fba1c39a5907" >orix-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/96/ccab93a078d42fd6420a3102ed651d50cc456d6292142c2ab7db4911e142/orix-0.10.0-py3-none-any.whl#sha256=0a605767e84e7e7d1a18eedfa2ac9dd26f59fc849e38d1cfa5d311621fb3340a" data-yanked="Python 3.6 support was dropped in this release, but it is is still installable with Python 3.6 unless yanked" >orix-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/7a/e38c3da804e11263dcf0c1bad24a6808b7197a821c9579aafbe4902bf294/orix-0.10.0.tar.gz#sha256=b1ed6f740a94ed5bca3cf7661eeedfc4c5f12007477cf61558b7fba1c39a5907" data-yanked="Python 3.6 support was dropped in this release, but it is is still installable with Python 3.6 unless yanked" >orix-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/7e/3672f03fe0625e1d09a8702443050ec05a2a92fe211312662937e509b316/orix-0.10.1-py3-none-any.whl#sha256=a943fe3922cead7f808ad5331dedf30c481c7eda28c27797f652964a4c202596" data-requires-python="&gt;=3.7" >orix-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/17/b1ab2997bd07c5658cc049296e9e73df16faeca27ce0d62fe6397464a6e1/orix-0.10.1.tar.gz#sha256=c1ebf19a78cdc791db95925f95102b4a86ef6e14a7e9b26b9d3bcca26a4df167" data-requires-python="&gt;=3.7" >orix-0.10.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15177743-->
+<!--SERIAL 15293152-->
