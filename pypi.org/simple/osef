@@ -30,8 +30,8 @@
     <a href="https://files.pythonhosted.org/packages/e4/c1/44a7598378b52d7e9b60c6dd9ee00e3fb0be5074a1c3effac0d598d0a007/osef-1.2.0.tar.gz#sha256=d51efd0e3e396a535666e0661f7cbb9b0df52e888882e3f61b34f1c9b02fdb2c" data-requires-python="&gt;=3.6" >osef-1.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/32/80c5a1ffad7d121c7687c41c7086fe2b9cf53a91de32faf73853a67508f0/osef-1.2.1-py3-none-any.whl#sha256=659f4f050ee50fa818ecfc1b800b1e940d94f65688d6198166acdd3ab7bdf2d7" data-requires-python="&gt;=3.6" >osef-1.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/83/23f464e4ff8c61872de60cc7d4d4e2298c9c0f856f520a0441b9ddeba8bc/osef-1.2.1.tar.gz#sha256=e2b8e643a1ad9b4d669b7a2baaf32a7f5e0f02075ef51168ec5528870e6e9175" data-requires-python="&gt;=3.6" >osef-1.2.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/59/e2/1f3f7519f1534c4931a39184aebc7c1e2669cd22c2066ea2a352fdd9854c/osef-2.0.0-py3-none-any.whl#sha256=8879d75248235597accd1fad4fe2b33663f7b8a1d05c116f395aa4491c4cfa6a" data-requires-python="&gt;=3.6" >osef-2.0.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/dd/9f/dd8df30235d90ed55d0e831a978a4301defd267bce89f51e5a6a028a8c88/osef-2.0.0.tar.gz#sha256=bf04e250343c0d5785ab88935d69a011c081fbe9fbd0901d7e42131e18a4be14" data-requires-python="&gt;=3.6" >osef-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/e2/1f3f7519f1534c4931a39184aebc7c1e2669cd22c2066ea2a352fdd9854c/osef-2.0.0-py3-none-any.whl#sha256=8879d75248235597accd1fad4fe2b33663f7b8a1d05c116f395aa4491c4cfa6a" data-requires-python="&gt;=3.6" data-yanked="Numpy shape issues of output" >osef-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/9f/dd8df30235d90ed55d0e831a978a4301defd267bce89f51e5a6a028a8c88/osef-2.0.0.tar.gz#sha256=bf04e250343c0d5785ab88935d69a011c081fbe9fbd0901d7e42131e18a4be14" data-requires-python="&gt;=3.6" data-yanked="Numpy shape issues of output" >osef-2.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/10/21dd595f10a7568edf8b0aca52dd163f52a171a2f6508180d491e5240e21/osef-2.0.1-py3-none-any.whl#sha256=e6ca10f4e5e9ffb5e335d5f72754107446fad5ff182594d4d123a8b2bb092d00" data-requires-python="&gt;=3.6" >osef-2.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/19/da19d4c4b3cc26416f0faad3728c7a8dd6450d9b5bc435db64f72e995040/osef-2.0.1.tar.gz#sha256=7639e235dd9f407e8731ac01973bd9d56c592d871d19a27da9ddff6ede71afc6" data-requires-python="&gt;=3.6" >osef-2.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/8e/8408be17ea15a8e50d9dcdcb4796af2ec1529c7e861a960735bda4f27e2c/osef-2.1.0-py3-none-any.whl#sha256=2bf0ec2e472f860136c6dca18afde8344c0590d407e1c8e40b70d845a43a07ac" data-requires-python="&gt;=3.6" >osef-2.1.0-py3-none-any.whl</a><br />
@@ -50,4 +50,4 @@
     <a href="https://files.pythonhosted.org/packages/87/c5/b5461c3374a79010078bec31f06999810c4b656591c45d8668843dca939d/osef-2.4.0.tar.gz#sha256=a82ea9b7d04f2d05e8dca1ac83345941e77a200162c299a292fa24852f951613" data-requires-python="&gt;=3.6" >osef-2.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15332134-->
+<!--SERIAL 15376048-->
