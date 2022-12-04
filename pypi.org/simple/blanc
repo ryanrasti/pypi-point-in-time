@@ -6,8 +6,8 @@
   </head>
   <body>
     <h1>Links for blanc</h1>
-    <a href="https://files.pythonhosted.org/packages/0e/28/1eea9b23842da2cefcb64d6461e388fd9a9e2b66a54a3d49b761ba5eb72f/blanc-0.1.0-py3-none-any.whl#sha256=2dfc9a2122c13a77f7574c9e8a0866288db6acbe4b8c161d20f44ee2159942d6" data-requires-python="&gt;=3.6" data-yanked="Version 0.1.1 added some guards against obscure scenarios. Default gap is changed 6 to 2" >blanc-0.1.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/fa/22/a46203c7f37d8dab73c34670c115cbc0a7c0482e9ff2c0fe3f86d1bc5bae/blanc-0.1.0.tar.gz#sha256=09a7d2dbcab0b23416df90748b2f6fb82dc468949de39d2b01e04e4bdd8bf3f4" data-requires-python="&gt;=3.6" data-yanked="Version 0.1.1 added some guards against obscure scenarios. Default gap is changed 6 to 2" >blanc-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/28/1eea9b23842da2cefcb64d6461e388fd9a9e2b66a54a3d49b761ba5eb72f/blanc-0.1.0-py3-none-any.whl#sha256=2dfc9a2122c13a77f7574c9e8a0866288db6acbe4b8c161d20f44ee2159942d6" data-requires-python="&gt;=3.6" >blanc-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/22/a46203c7f37d8dab73c34670c115cbc0a7c0482e9ff2c0fe3f86d1bc5bae/blanc-0.1.0.tar.gz#sha256=09a7d2dbcab0b23416df90748b2f6fb82dc468949de39d2b01e04e4bdd8bf3f4" data-requires-python="&gt;=3.6" >blanc-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/de/90/4fdc988d4a42dfe1dde17b962fb711eed88a1d3de752ba1d88d7d6f1233d/blanc-0.1.1-py3-none-any.whl#sha256=00aef51998aeb52cc392e886604fcfbc750acd49761bdfaabf83c78d7db48d35" data-requires-python="&gt;=3.6" >blanc-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3e/48/40324b9e4cf29d7c33666b61106bcd8934d6bfaf15b161aec1b670624681/blanc-0.1.1.tar.gz#sha256=6d43f9d21bbbf1fbd25cc152735ca94d1b73ac021eca758680ae23f5908acf2b" data-requires-python="&gt;=3.6" >blanc-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/97/3c/fd3a5e27b4cadc7108b6fda77439d83f4f9439a99f07a0e9dd7d042d51d3/blanc-0.1.3-py3-none-any.whl#sha256=2479d98f03c7288a6b7a8e1f8f1a8a1eaf38b09ca43d1701bd8ccbe6936119de" data-requires-python="&gt;=3.6" >blanc-0.1.3-py3-none-any.whl</a><br />
@@ -36,6 +36,10 @@
     <a href="https://files.pythonhosted.org/packages/9f/45/a1c2d60dcf68dd870e3aa9b1c0aee32f4a6391298cf87308521fc7de7533/blanc-0.2.6.tar.gz#sha256=a5e51cf50359e116543ab30e123c637c47189d2df3dc7add1a2f24cffec28d92" data-requires-python="&gt;=3.6" >blanc-0.2.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/70/b9/f04976f489c7d28a0d2eb99a4516ce3b6195c51f21743eaad40c9676c618/blanc-0.2.7-py3-none-any.whl#sha256=d5799ac8474dc50a7592c6c2308075e20e023f78bf2ca4a25747d215ae30732e" data-requires-python="&gt;=3.6" >blanc-0.2.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/05/51141a606834188d2e08ed24e956da1a71dcdb76c4a3bf7feaf2d5f323a3/blanc-0.2.7.tar.gz#sha256=f463f39b96aa443906ad8e1986897bd7ff053df4275dff66ec101b176ccd61ea" data-requires-python="&gt;=3.6" >blanc-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/ce/12e4740fb342f43143bba528bcc2f05e971e147416468805932151b56623/blanc-0.2.8-py3-none-any.whl#sha256=e4a6690a4a4a5dc91ce250f9f3af70516dfc996a8032c799c9a21efdd25e8607" data-requires-python="&gt;=3.6" >blanc-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/29/f5d19fe8460a535032704922d7e306fd596888ecc240c6f87880332e7591/blanc-0.2.8.tar.gz#sha256=9b3e69947e6e2bf5dacf865e03951f1cd31e09901391bf732bb853abd2e2b4e2" data-requires-python="&gt;=3.6" >blanc-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/83/1000c49f7e231ec9fd1d6f7f30944165b8476254c91bea119b997d9e027f/blanc-0.3.0-py3-none-any.whl#sha256=16ed4354889cf4243e8744417939d8427be37803b110b38ef5b4c4caac13bb10" data-requires-python="&gt;=3.6" >blanc-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/c5/a7dce94acf3146a578678481edd96b0d5e0eb1cad2aca1df3980b568cb19/blanc-0.3.0.tar.gz#sha256=51ef8cb1418056f32a96d4b6d28a2853d3cd5b3f421e0a7568725eca84651bcc" data-requires-python="&gt;=3.6" >blanc-0.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13629194-->
+<!--SERIAL 15907083-->
