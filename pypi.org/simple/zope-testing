@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Links for zope-testing</h1>
-    <a href="https://files.pythonhosted.org/packages/ca/fa/ab3c83655968c1872a77568c98815148becee636f4ef79efd896590ee610/zope.testing-4.1.0dev-r124241.tar.gz#sha256=83e777d7ab2f5c9273a0423938ad17e13f398201d004cd35c432df43c0463db7" >zope.testing-4.1.0dev-r124241.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/fa/ab3c83655968c1872a77568c98815148becee636f4ef79efd896590ee610/zope.testing-4.1.0dev-r124241.tar.gz#sha256=83e777d7ab2f5c9273a0423938ad17e13f398201d004cd35c432df43c0463db7" data-yanked="dev release" >zope.testing-4.1.0dev-r124241.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/a0/21bc8334dd310d1aa324a286989f83b84a6ffe7d1431a29af30859124a6e/zope.testing-3.0-py2.3.egg#sha256=8c7c92beeb673db09dfe550a96c29c500f1e5459865ff19422df79d800eb2611" >zope.testing-3.0-py2.3.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/0a/ed8de3a385c3f173e72e453dd4d3492f7fc86ba122d024dd7e07fae6dd58/zope.testing-3.0-py2.4.egg#sha256=e79c77a0f3b347e6769b66f4630a82235f049cf2d150dda40ee276774f644898" >zope.testing-3.0-py2.4.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/1e/2b/faf3ac04622a5347899ad4f71598fa8aa20af960e895ab1161ed1010ea79/zope.testing-3.0.tar.gz#sha256=6747e769940b90853b319e591a35427a1946b3f7f934215296a41efafca980a0" >zope.testing-3.0.tar.gz</a><br />
@@ -70,6 +70,10 @@
     <a href="https://files.pythonhosted.org/packages/28/2c/91b2082cba956e28433785bc3cd67ab51bfc9b2965fa9b62216c16bf6239/zope.testing-4.9.tar.gz#sha256=475cb847a7af9d547313ee93f5d0b8800bf627e6d0d9a51d11967984083cb54e" >zope.testing-4.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/53/ce3cbb166f6e2eacc6af0ea6e3656d68d04658654a064307ffaf25fd90f0/zope.testing-4.10-py2.py3-none-any.whl#sha256=aa32eeb971aa5e50aaa1657d97ff97669e4c1054db0dc92ee6338361f2864be4" >zope.testing-4.10-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/b8/f18718a7fceb109664b70c908e2aa5743eb6a057138251ceaf7d5ab0bd9b/zope.testing-4.10.tar.gz#sha256=3b6e5906caddd148c23fe958e6aae3fadc8a08a8a53f747d9791c2d8135ee56e" >zope.testing-4.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/34/511eb4ea71d0d911fe4cd18e056f75023508f12199f25fb29955b820063a/zope.testing-5.0-py2.py3-none-any.whl#sha256=9bfafe0fc4dd1847fbdab0381bfaa0be203a9450ac2eb1ac4f739a2248ac96a0" data-yanked="wheel was marked as universal but no longer supports Python 2" >zope.testing-5.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/a1/905063e38fbe80ad59311c8a3f7b76b922f83bde2e780fa70dfe497cfb24/zope.testing-5.0.tar.gz#sha256=c8325c321952ae35f253581365815f227b60acf6fed185c32ed19378563a080d" data-yanked="wheel was marked as universal but no longer supports Python 2" >zope.testing-5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/eb/d09f00ea8c73cfbf8d0d72109fca19808c283b1d0da701b1be9c40b99e42/zope.testing-5.0.1-py3-none-any.whl#sha256=b3c8fc322418ab561d56d1cdad92812a2b2d79d366e7bb9a31437c72ad4b4dad" >zope.testing-5.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/45/a22985a9a5bb886ae0665f04c1ffe985d9558c3e9881fde808fc9dc0a6f9/zope.testing-5.0.1.tar.gz#sha256=e87cd0d8d666573cdaf133816ab7b9beec801a64a86595c19cb5fe992ef3d649" >zope.testing-5.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14401206-->
+<!--SERIAL 16161311-->
