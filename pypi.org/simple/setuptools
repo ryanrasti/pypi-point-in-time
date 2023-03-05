@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for setuptools</title>
   </head>
   <body>
@@ -1326,6 +1326,26 @@
     <a href="https://files.pythonhosted.org/packages/b6/21/cb9a8d0b2c8597c83fce8e9c02884bce3d4951e41e807fc35791c6b23d9a/setuptools-65.6.3.tar.gz#sha256=a7620757bf984b58deaf32fc8a4577a9bbc0850cf92c20e1ce41c38c19e5fb75" data-requires-python="&gt;=3.7" >setuptools-65.6.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/97/9dc902414912192d68364cc01cf17e826d259ef9753504b7ae1a256f2e35/setuptools-65.7.0-py3-none-any.whl#sha256=8ab4f1dbf2b4a65f7eec5ad0c620e84c34111a68d3349833494b9088212214dd" data-requires-python="&gt;=3.7" >setuptools-65.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/29/f2ad3b78b9ebd24afa282eed9add27b47ef52b37291198021154b4b65166/setuptools-65.7.0.tar.gz#sha256=4d3c92fac8f1118bb77a22181355e29c239cabfe2b9effdaa665c66b711136d7" data-requires-python="&gt;=3.7" >setuptools-65.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/ef/76cffd20061a0c6512dad4ba3537314904c6350738b99526c2f48992ff58/setuptools-66.0.0-py3-none-any.whl#sha256=a78d01d1e2c175c474884671dde039962c9d74c7223db7369771fcf6e29ceeab" data-requires-python="&gt;=3.7" >setuptools-66.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/ba/27235b9eebee2492fbf03ac1828a997d3d686031445d491f9cfa36a7085e/setuptools-66.0.0.tar.gz#sha256=bd6eb2d6722568de6d14b87c44a96fac54b2a45ff5e940e639979a3d1792adb6" data-requires-python="&gt;=3.7" >setuptools-66.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/94/00e3d21daa5a47c4f13d278ff08c1b3dbd167231e4a1c4b2c99e4616790e/setuptools-66.1.0-py3-none-any.whl#sha256=fc19f9f62120a763300fd78e234b3cbd3417be098f08c156eaaf36420627e57b" data-requires-python="&gt;=3.7" >setuptools-66.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/4d/5c3547ed1dd4cb8623ec6843a49a6a0598b37ec5358551e84b97bc4f5ee8/setuptools-66.1.0.tar.gz#sha256=78a02bdea8a5cb66dec1c507598c443bcc75562817d2556c1a17f7a344615bb4" data-requires-python="&gt;=3.7" >setuptools-66.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/8b/abb577ca6ab2c71814d535b1ed1464c5f4aaefe1a31bbeb85013eb9b2401/setuptools-66.1.1-py3-none-any.whl#sha256=6f590d76b713d5de4e49fe4fbca24474469f53c83632d5d0fd056f7ff7e8112b" data-requires-python="&gt;=3.7" >setuptools-66.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/7b/00030a938499c8f8345be02ab5b7d748d359ea59c2f020b7b0a21b82f832/setuptools-66.1.1.tar.gz#sha256=ac4008d396bc9cd983ea483cb7139c0240a07bbc74ffb6232fceffedc6cf03a8" data-requires-python="&gt;=3.7" >setuptools-66.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/27/969c914650fdf0d08b0b92bdbddfc08bea9df6d86aeefd75ba4730f50bc9/setuptools-67.0.0-py3-none-any.whl#sha256=9d790961ba6219e9ff7d9557622d2fe136816a264dd01d5997cfc057d804853d" data-requires-python="&gt;=3.7" >setuptools-67.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/db/68d856066c59bd9f05e827c3cf80164d870b8b6af37dc5ad6c87a71d20f2/setuptools-67.0.0.tar.gz#sha256=883131c5b6efa70b9101c7ef30b2b7b780a4283d5fc1616383cdf22c83cbefe6" data-requires-python="&gt;=3.7" >setuptools-67.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/24/157fed9a57108b3e1b6ccd86e95823327f231ef12464b0eca13650eb33ac/setuptools-67.1.0-py3-none-any.whl#sha256=a7687c12b444eaac951ea87a9627c4f904ac757e7abdc5aac32833234af90378" data-requires-python="&gt;=3.7" >setuptools-67.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/7c/3a0bb8db53f6b6dec4cb162d307cc5d37162dee65458b2be42817de30fda/setuptools-67.1.0.tar.gz#sha256=e261cdf010c11a41cb5cb5f1bf3338a7433832029f559a6a7614bd42a967c300" data-requires-python="&gt;=3.7" >setuptools-67.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/6a/d89fe6b83a7fa4c39686d8a5cda83b48da0b117a13484f0e294c2cc2c337/setuptools-67.2.0-py3-none-any.whl#sha256=16ccf598aab3b506593c17378473978908a2734d7336755a8769b480906bec1c" data-requires-python="&gt;=3.7" >setuptools-67.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/36/7374297692bb9dbd7569a0f84887c7e5e314c41d5d9518cb76fbb130620d/setuptools-67.2.0.tar.gz#sha256=b440ee5f7e607bb8c9de15259dba2583dd41a38879a7abc1d43a71c59524da48" data-requires-python="&gt;=3.7" >setuptools-67.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/24/947bdd86115a19054af1c2cdca844340f7e49c5bba0dd82d9b3a4c4061ab/setuptools-67.3.1-py3-none-any.whl#sha256=23c86b4e44432bfd8899384afc08872ec166a24f48a3f99f293b0a557e6a6b5d" data-requires-python="&gt;=3.7" >setuptools-67.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/48/c22cae4aa8f5ed6a64fd9d5be995b740230abab7affa31176af34a6e56ce/setuptools-67.3.1.tar.gz#sha256=daec07fd848d80676694d6bf69c009d28910aeece68a38dbe88b7e1bb6dba12e" data-requires-python="&gt;=3.7" >setuptools-67.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/7b/f35d72b7a6acbc27732e88d7ceb7f224b3e0683bf645e1c9e2ac2cd96c0d/setuptools-67.3.2-py3-none-any.whl#sha256=bb6d8e508de562768f2027902929f8523932fcd1fb784e6d573d2cafac995a48" data-requires-python="&gt;=3.7" >setuptools-67.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/56/f49e7877e8d8a09faaeecde5ca61169e9cfd46d014def474daa31bf217ca/setuptools-67.3.2.tar.gz#sha256=95f00380ef2ffa41d9bba85d95b27689d923c93dfbafed4aecd7cf988a25e012" data-requires-python="&gt;=3.7" >setuptools-67.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/c4/76600761f528b66389955ca299049c8414152712825bb8200eb855d82e89/setuptools-67.3.3-py3-none-any.whl#sha256=9d3de8591bd6f6522594406fa46a6418eabd0562dacb267f8556675762801514" data-requires-python="&gt;=3.7" >setuptools-67.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/6f/9d257b50d60f67d0b54b88fb39d4a9bade8406d4a926da3e4f05bf04f38b/setuptools-67.3.3.tar.gz#sha256=ed4e75fafe103c79b692f217158ba87edf38d31004b9dbc1913debb48793c828" data-requires-python="&gt;=3.7" >setuptools-67.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/3a/e0340041dad00234d1fe569ed55b602d24eb11a4939b0a2ec844e970a87d/setuptools-67.4.0-py3-none-any.whl#sha256=f106dee1b506dee5102cc3f3e9e68137bbad6d47b616be7991714b0c62204251" data-requires-python="&gt;=3.7" >setuptools-67.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/31/2c88d37d4f8036c6648745e74ec51f73a6ba945a06e069601900f81fe00a/setuptools-67.4.0.tar.gz#sha256=e5fd0a713141a4a105412233c63dc4e17ba0090c8e8334594ac790ec97792330" data-requires-python="&gt;=3.7" >setuptools-67.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16393954-->
+<!--SERIAL 16964667-->

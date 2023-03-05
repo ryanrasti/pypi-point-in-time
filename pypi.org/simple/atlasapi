@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for atlasapi</title>
   </head>
   <body>
@@ -100,6 +100,16 @@
     <a href="https://files.pythonhosted.org/packages/c7/b1/0cb049430ef849db82918b6d7d9bbab5c26ac95bfd924bc0897cdc90e23f/atlasapi-2.0.6.tar.gz#sha256=9d36647584e63d5412615761220f712b0cc3400fa919897340772f58cbfcedc3" data-requires-python="&gt;=3.7" >atlasapi-2.0.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/4a/18b4b9637f6a9d5d8b69eda47eb8ca8e08d0ce73f9b09cb00b9f542a0546/atlasapi-2.0.7-py3-none-any.whl#sha256=4745b0315f31c2f3f5a9066cb725d6e9bb87fb4b056d43be3120feba22d2b51a" data-requires-python="&gt;=3.7" >atlasapi-2.0.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/81/f96950fb1cc6fd623cea19fea92f69e8fa49d999165f0dbacdb0a7834b74/atlasapi-2.0.7.tar.gz#sha256=ebb474d06004c12b8e3c71aa39362ce49df76c0bd80856e36a1b05956b9df0c3" data-requires-python="&gt;=3.7" >atlasapi-2.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/5f/6f9d9364ac1f4bea60fa45c842eead1e904cefb0d08bc8ebae795d1c8dc6/atlasapi-2.0.8-py3-none-any.whl#sha256=f303784ef4e336e7a1ca9de92fbecabd74047bc1447337f691b3a81f7250078c" data-requires-python="&gt;=3.7" >atlasapi-2.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/50/6579b68f0534fa459717bc92fb4780f7b4e84c6f876dc6f9083275020dd0/atlasapi-2.0.8.tar.gz#sha256=572c0a6fe04641786b07eda2dee2833427ee096f8b38243199b1be840bcc6220" data-requires-python="&gt;=3.7" >atlasapi-2.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/6f/9ce60f1f7b79273bccf5970cafdb80acb75098fb0a3084beb41afa93744f/atlasapi-3.0.1b1-py3-none-any.whl#sha256=77103c5c2634c33e4194155ded7d50fb5549f055ac1b514501b223ef9de14ef4" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/f3/75e853f0d177a231806bbfa0dbd407964b43b7f08a8ef704cb802748121d/atlasapi-3.0.1b1.tar.gz#sha256=ea65ceaa24f60231af7b01b65874d7c22589860cd9347d7033eade887cf1c6ae" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/3b/a1a0ac40dc96af8421ba87f642f0f21aee8c7a14fe17576d3dded5b6857d/atlasapi-3.0.1b3-py3-none-any.whl#sha256=213c4e7d789107e4a2b4da524597fc4a1b6c4909b6b1d1628625c057ac830b11" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/bb/e72e3421c70d3b14f278c891d3090bbee70a2e6cdbfb496ecf363a905092/atlasapi-3.0.1b3.tar.gz#sha256=84c3328bd13c62f840ea7ffe1e4cb016c3b75ec6a43256939aa8c8d128db34c6" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/13/5c176e86863c26505c651dea85ec9f06474e9eda872f7c50b0fced7ecc44/atlasapi-3.0.1b4-py3-none-any.whl#sha256=fb86367f7a445c57d04ccf37159129b8b138af8ce1123d955cbf97e111b256ba" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/c6/9416bfead21296858a2ba2fa8eb37d3e902e30d91801c6708dc52f551a06/atlasapi-3.0.1b4.tar.gz#sha256=3a708798963da80393bfbf4dd86618f209a4898db4a90ec1729d8c1deda350e8" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/68/c3f6e0fe783ef8aedbec1c955c2137a5075ad0103498fb29f141cd8f27a0/atlasapi-3.0.1b5-py3-none-any.whl#sha256=0de8a703d813e89f1bfb7276e4924d5c092a6883541f749fd6a6f78bbdddd376" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/4b/081aa8381dd3bfb1b072b438309a3014f3abf68e51cc8c8f9353b5017f15/atlasapi-3.0.1b5.tar.gz#sha256=fc099a01defb2b007ca8242f5a4a5556a5a8644aec0924221bd6f4d87eb4a48b" data-requires-python="&gt;=3.7" >atlasapi-3.0.1b5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16336008-->
+<!--SERIAL 17002310-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vpscli</title>
   </head>
   <body>
@@ -118,6 +118,22 @@
     <a href="https://files.pythonhosted.org/packages/38/3b/181dd045f1534e89ae77390a7f363c8151fb8bd7f540c22c6b0beeb16346/vpscli-0.3.5.tar.gz#sha256=fb547c022a8f3e935642cda63ed3246209a66780de92a7796978b39c84805d2b" >vpscli-0.3.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/51/a9/7c0cba47e28c624063b2c18da814d107a0af115df32353583269e841de64/vpscli-0.3.6-py3-none-any.whl#sha256=ce633d2f554d042362324220072e676fadf37dc77a45065efb894338b9d9ca5e" >vpscli-0.3.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/71/c4/843fbbb0683296ac7e53880b64c44236fb80c5021802317617b05f10c817/vpscli-0.3.6.tar.gz#sha256=4e2924552ed65ecfd7198e5642c76bb948b4f22fd7ae86cda14006f950b358cc" >vpscli-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/61/e76f8bab4e9154fca636f6cc0bf9686fc90054f9d4e43c54a5396ae78897/vpscli-0.3.7-py3-none-any.whl#sha256=9c19ab92d4db7b54cc311303a2b9fe366f11b22058bc1c6e03d10cec89a4001d" >vpscli-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/ed/447214aa0bd1f60a7347803cdbc2603f3fd46ec503bd981a6d78c83b952e/vpscli-0.3.7.tar.gz#sha256=9e97c0c832bbdcbc795829e83e5b7aaa968a2dd7f6a595499b0fd487d23ba62b" >vpscli-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/44/2195b323e12bf3d8de794ddf89e4a480f90c7998b794ba4f67804a6ffbd4/vpscli-0.3.8-py3-none-any.whl#sha256=82daa47c6e4d603884b1faeac619f31b05d576fab074fa30804ed2422f2b7000" >vpscli-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/b3/72adaf6b187842cfe3de451a12e08f4f8bcbe74dfd34f24a4fe956c2d854/vpscli-0.3.8.tar.gz#sha256=abfb508b497fd76bdd1e51d1cc4a94393879199657bb1cce831613e990dfc084" >vpscli-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/56/d793762d8d3cc0a9c5e8bca12f1e4ac5bc9701435b58b0c1d85780e105d0/vpscli-0.3.9-py3-none-any.whl#sha256=6301a2ef079b0348f94b86ef95c193f5aae143b8e632c0b0738f24275cf4c4e5" >vpscli-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/b0/33e03d770560f49d1ed7ea98e93872d21bfef6cbe8e7a135f3721968db44/vpscli-0.3.9.tar.gz#sha256=0dcfa436aaa57dfcc2362df07db186db5408e7739346bdc085ac6a751ab6ee4d" >vpscli-0.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/ec/770a32b67cd9e5bcb7e75eb98a597e73a5ecb38e7c91488ac32055302f07/vpscli-0.3.10-py3-none-any.whl#sha256=3e3917158c7d0267daa2b29172fa26b169eb205d990c3e7fa4968a36737fabf8" >vpscli-0.3.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/77/fcbe670eb3ed425f0aeddde38e78579af0815acb9e491534b5450bdf4bcb/vpscli-0.3.10.tar.gz#sha256=a95e7b64c2d3e482dff14298d14d05029792669d4c86ad53e64f17b2c3883605" >vpscli-0.3.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/a9/10b260d7b04e1864eb8cfd4dd83680c4081eb40d086d482ca7a511061c52/vpscli-0.3.11-py3-none-any.whl#sha256=1f80f83232ece3600c8b712b812716ae470bcc8f9a6326e8696b4f8895a0ba91" >vpscli-0.3.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/db/ea5e4182e38dbc996a0b9211d914091e3643d5ab9ecb3eb5aabb46f8470c/vpscli-0.3.11.tar.gz#sha256=86dfc8bfc266ccaab640a42a3e71f9ee3068b361d360fdb8613e6d6753a5469e" >vpscli-0.3.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/24/19b24e31dbcd7cf7baad6942cd09f6b8e0a56e314df3be4c57b4bb947f67/vpscli-0.3.12-py3-none-any.whl#sha256=48fd9b9b9602839b17bf199501205bc1300b14f01d4c1045cdbd8ca9d7902981" >vpscli-0.3.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/86/f12783c582bf9c8292c6723eaa7b7d5544684f06afb2bf9d7074adfc3589/vpscli-0.3.12.tar.gz#sha256=0683daa0b8c086d290411eaae4eae00ff8669a076c347437bd648e241d32ce41" >vpscli-0.3.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/56/d6893cf8afba63c115fd160f0c2c3a24b5676b468a23543a52fbb99181e1/vpscli-0.3.13-py3-none-any.whl#sha256=330b990c3bffc9a0ab55941c9c1647496df09971f8b1b03dcafb8d21b8da4bfd" >vpscli-0.3.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/62/0a0a9a4cec935bbd32604170e9af72e8123ff231d3a12ce5629f1b4d65a8/vpscli-0.3.13.tar.gz#sha256=a03c36c2ba8de37e58030f757baa4230e0029da217220dac8b52c2ff53b3c64b" >vpscli-0.3.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/8a/5affbf126be22a4221eb8b5ea687b5c96989bc0ad9fb4564bd255809872a/vpscli-0.3.14-py3-none-any.whl#sha256=b2843a51a1e3f0c1e485b0dcf7fb8edd02b2b0a42f303c08e555de3a40a76931" >vpscli-0.3.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/30/a25848af78d380c9fd562e3def4ee2167aac981e308c782b13ffd1b9c739/vpscli-0.3.14.tar.gz#sha256=58e900ec3c993f4ec8d3007e22e8a563a9c9c0e322cab18f4ae5babd498a6783" >vpscli-0.3.14.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16400557-->
+<!--SERIAL 16690744-->

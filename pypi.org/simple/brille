@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for brille</title>
   </head>
   <body>
@@ -134,6 +134,27 @@
     <a href="https://files.pythonhosted.org/packages/76/ea/de7fd1c4c2016588eed59ae7e40a1be1a09e2c1e4f70c26ba5622278371a/brille-0.6.0-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=0ba5e08ad7983682851010da125de80431ba08f40b3a382076b28d4104e33732" >brille-0.6.0-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/08/044eaac9c0730b2195a4c758ebb3a78e850068f304d65d049b7ae957f3a6/brille-0.6.0-cp39-cp39-win_amd64.whl#sha256=ba34af2a3407699142a39257fb106856efd1ccc4173d586c5fef67d4470fb4da" >brille-0.6.0-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/80/a7b05a912523cb281e4b221f1af4f1d8800de63c2b5d850395374382f181/brille-0.6.0.tar.gz#sha256=bb92d37dda175e83cafd3a85e9df2f090bd37bd57e45ec1347ef376fa30df1f7" >brille-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/7c/173eeafae0741ed0530b8b0dbc74ab1bc6754c841e67e5936ee8fa89e675/brille-0.7.0-cp310-cp310-macosx_10_15_x86_64.whl#sha256=ab5bac06c947cdaa59eb3275ba0e56b80c74b55f223d412be739838d4552ca8f" >brille-0.7.0-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/68/a93f61f243fa800f74be94f9ce61f478412aa40f45604f8a9d42725f0e47/brille-0.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=58203e1a6a84839fc1d5f4a93c56cefc319c616164bae388daeb605a68cff92a" >brille-0.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/f6/4b700cac3147f8890f99a44bd46d54553224bf5e2f7ab8d86b07fca45a98/brille-0.7.0-cp310-cp310-musllinux_1_1_x86_64.whl#sha256=009c3ee12c5178036e902e1a4cf881ca1dbef60bdaabf6895f58f3c025c896b1" >brille-0.7.0-cp310-cp310-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/32/4ee713906e02219faf27d3e63d9d1b28bafb564e9baaf6fca82a716be690/brille-0.7.0-cp310-cp310-win_amd64.whl#sha256=7b93cb362f5bedeaf2126cd78d5cb0c1d0f3e03e13848ed7b9a4db4b75f89a75" >brille-0.7.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/05/59c18163882c6c351b3686ee935f66915338bf0cb15f12c02036551829f7/brille-0.7.0-cp311-cp311-macosx_10_15_x86_64.whl#sha256=ee84cfd045916dd4d23412eb0e5da9b07124556f23de11dabf5d2b6cdf59945a" >brille-0.7.0-cp311-cp311-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/8d/b3d8b930a283894c1a245472e4d4d512d04e435af9a4b22d0d7df76a3110/brille-0.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8785bc7ee42399261bd236e2125a746a5d06467fe0b6964812b9856a0ecad67c" >brille-0.7.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/bd/dd82014f414c3d9394ca49567ab05863b681595b8313d3c6bae8cf69a115/brille-0.7.0-cp311-cp311-musllinux_1_1_x86_64.whl#sha256=f338e9b40f14f5df372ceaf1d49c1927357d7e9c076a0c3e3a91efd016f885f7" >brille-0.7.0-cp311-cp311-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/88/2c3002916d23bcf69ab3d5212575224ed47dde1f3c1b7ad6e5fdec8d52cb/brille-0.7.0-cp311-cp311-win_amd64.whl#sha256=df240717833527dae17ebaf93e834e2ef6f16fed270829bad0a9e454af751a10" >brille-0.7.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/37/3215ae4729940512b87fe9bc69f7194c6c5135867b157d07f95bd87c3207/brille-0.7.0-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=009d047e3c10e669a45c5bee65c89aa50cc4059f0d23dfc9d0e80117da92930b" >brille-0.7.0-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/b5/daf53a0e63e6e12945e9c0356f12a9cda67e82c8dc81c51679cc1c11dccf/brille-0.7.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=337b6363d0c316eb4165fac88881a09bc5bb64ffc6149070eeed1a7a44867b07" >brille-0.7.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/eb/dad9747d95f78ebf05a5f0a0780af2beee86dbdbd179c375ca7bca436529/brille-0.7.0-cp37-cp37m-musllinux_1_1_x86_64.whl#sha256=055f2eb7b7fc9500d1ca324b1201c84fc5d4c5e9892b8212db113b576f6ee3c7" >brille-0.7.0-cp37-cp37m-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/dd/62cf52cfce06fdc84de858b3528a25d3068e18b31b36bc57f5a0be7fe31b/brille-0.7.0-cp37-cp37m-win_amd64.whl#sha256=ba709449649fdd886827a7b640255d7b5cd90468127545f736e1e0e999b9b5f8" >brille-0.7.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/43/613e8968edcdb219d48ed7922291dd7a73734ef310c1f382981bdff730d7/brille-0.7.0-cp38-cp38-macosx_10_15_x86_64.whl#sha256=5bf61f254401deca3958385ea824153d8e8e22c660a5ee9ec73f38b71b72baad" >brille-0.7.0-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/07/f53246bbed833d0d250d4660dee2ca7c1c58f53826cf5375678e674c68b8/brille-0.7.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bac21dbd84a58bf86f646739f173868f340690a8ab21af508f311ddada9c4cf9" >brille-0.7.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/4e/8264d5b7403b28a720e6f6db11db69a4e0860f9b5c5e306b2fb7fc4408ff/brille-0.7.0-cp38-cp38-musllinux_1_1_x86_64.whl#sha256=cf2f7e1b92fd77afdf4548221feb0301c45a5af0494d57f2c645c3ed3ff5704d" >brille-0.7.0-cp38-cp38-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/84/efc1ab19d16b22a70c1e54b3701e238dc1603823ea9b4167a63fec561414/brille-0.7.0-cp38-cp38-win_amd64.whl#sha256=0b0197d5cae1644a2a8c1430ca19609e36dd96d4916676625d495adb678d290b" >brille-0.7.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/15/c663f0fbff81fc7ebd7093178761a88d332924f5acfc20f0052ccc5d7335/brille-0.7.0-cp39-cp39-macosx_10_15_x86_64.whl#sha256=6b438da04f15c04e9b0ee5b4dadf695af4492b93b8591d8e1b9b8e5238034ea3" >brille-0.7.0-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/8e/eec1f106c2c013fe272bbf796c4405b815b9be361bf725f30b8d40287a6b/brille-0.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=46dc6b26b4ecf8760d3f2135db098f3bbebed0eda7304333a096b39fdf00d6e6" >brille-0.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/bc/af04521423dcf5f0576d32231e5d1c0b7b6060ae91aa78d19c08d743f206/brille-0.7.0-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=2f35fde404be742014895e2f79f5c847ce4dacec3086a1b84f2e896331350ca4" >brille-0.7.0-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/3b/ce2c89a6f41bac886745ddb38e59eb22999564d7675e8fa0b717622b65ad/brille-0.7.0-cp39-cp39-win_amd64.whl#sha256=4e1d4887d83f3f8ba19ac5b28d99f9ceb191e12ba0c5c170b5c643a3a5d5f002" >brille-0.7.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/55/ccf2095ba62d55d397c270405ea8feb7746aa4d7efcc0fc6d67805fa9128/brille-0.7.0.tar.gz#sha256=dea5f42f339cbf0065407722e8a1564f22b1225e8f53b6494672ba30bd1f4e9b" >brille-0.7.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14331811-->
+<!--SERIAL 16549535-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-cfdi</title>
   </head>
   <body>
@@ -376,6 +376,31 @@
     <a href="https://files.pythonhosted.org/packages/3d/20/f242fff80582577f3579b78825dfe0848299b9d1fd22a8262280eadaba81/django_cfdi-2.61-py3-none-any.whl#sha256=5fabdec237661ab6277b207c91280c9445bda0072a62c7142362c910d49624f8" >django_cfdi-2.61-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/1e/078e050dba3ae504c8467650159e88f1075d019bb193cb10f86d3efde7c4/django_cfdi-2.62-py3-none-any.whl#sha256=e3be6ce977fdcd23aca20036d808203d761cf91adac66e5a19abc51f2210d977" >django_cfdi-2.62-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/25/e81f0d5973c90e99c2581af9ad92f96346e589ad895fe5d5019cd47943de/django_cfdi-2.63-py3-none-any.whl#sha256=062cac45ca9586c31822c41e2266b226744cfa78e6a3071f246d77e4b21314b9" >django_cfdi-2.63-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/83/49fcbbc88f6114a9f37343ad4951cc09d43f6a0fae5f12f88e0653d4580f/django_cfdi-2.64-py3-none-any.whl#sha256=1f9dcae9d343028943635dd16914a7bff4957ecb98f5cb628aa8a7e30fe39ef8" >django_cfdi-2.64-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/4e/f819952cd9db462073e7674cb47d6d2dd8d3ee9b0101ca567be5c40277d6/django_cfdi-2.65-py3-none-any.whl#sha256=5fdd187010b66bfd90bf4747e0c3dda465b9dff4a1226d70ac03f7873e59dbee" >django_cfdi-2.65-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/49/c1663e9766bc7da532d953bcb5dc44c718f539d65b3a553c174a6eab171a/django_cfdi-2.66-py3-none-any.whl#sha256=9d2efcfca6ef030ba974a1d5574cf517d733cb6087c7c88ebfc9379b47c08bff" >django_cfdi-2.66-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/c8/332b0e9fd44082656da058657dd79cb2fe081bdbe5161b62cb9211414751/django_cfdi-2.68-py3-none-any.whl#sha256=2a5c3946878764144e0fc8c9333238536c15d14c77b5075b0bc27bff858ff460" >django_cfdi-2.68-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/8c/3275ef362903cb8e9a906cb498cbbfde7bb6bb9c911a3eff9bbc8efa6743/django_cfdi-2.69-py3-none-any.whl#sha256=44878814aa22a69cf0d0b120b78d2df2c8c2894d2f0738c02bcfe521fca71396" >django_cfdi-2.69-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/e3/6d13a5ae3a4b6fcec9818592fe6787f7c150dbc27ef6ba3919b264346d3e/django_cfdi-2.70-py3-none-any.whl#sha256=2e395a943aed35bd20e5f31fd62da8ed0cdf90ac5097170b897b5c4c854a4591" >django_cfdi-2.70-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/12/8e31df130958a0691e49f09339f3477f048bfe2d93b9994ec54dcd457313/django_cfdi-2.71-py3-none-any.whl#sha256=d81e581b2e157f23565adfe80e50c35c8e528d561f2e11f25989ce63953518db" >django_cfdi-2.71-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/38/4f9ef5a2b0fe01d04d2f20b9cc1f0d6428fc28eb945497b49dd65c1182db/django_cfdi-2.72-py3-none-any.whl#sha256=d1fc09ea3937752c34d8a83ed67a36b10f947fae9380751293507a835798b63b" >django_cfdi-2.72-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/2a/2e6dc3d1a0f6db15b70a2be057824581b6850dc14c326d924c46847281e3/django_cfdi-2.73-py3-none-any.whl#sha256=427e5dd0b7f04ef2d97a4e20a1cf11170066f38c8a3f1422a44599bb075f895b" >django_cfdi-2.73-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/3e/1cde5866ee580ce890cdb93e4d7ee4f6de0d209356bfe970357265435c37/django_cfdi-2.74-py3-none-any.whl#sha256=25c5907f850b62caf2e44cc29d5ea038d26883c00a7eeec3376a964f6a02efad" >django_cfdi-2.74-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/96/f26a4734fd5e129e89945e93945977c310606c967380d719b9e2fd6734a2/django_cfdi-2.75-py3-none-any.whl#sha256=19bee0897b7eb9d3ca4d9495f12823e6a3c919dd5ba3ed71d1226095d54e9f25" >django_cfdi-2.75-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/40/111a0e8f7e1b1d4c28e2173af610115ab764e1bfd2cc1ccde442fe0439e2/django_cfdi-2.76-py3-none-any.whl#sha256=4067942829dfd9d392f122bd4f2dbce694a293e33889eb40c10aedc1294f2170" >django_cfdi-2.76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/12/13736bddd8a78d706bce20add3955f284905ddbb00d952d65b81eaf06279/django_cfdi-2.77-py3-none-any.whl#sha256=ed040697d6a2af0589866897a791933996f0d0a4f2b1401089381303cfbf3844" >django_cfdi-2.77-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/35/9f48a6e644abd4959856e0bc42535ad88af39d26ae66aea54fa895d398ab/django_cfdi-2.78-py3-none-any.whl#sha256=deace7e43581c228a3f1540316d55c55d881ce84d96508e4de6452dbf4f6e0b1" >django_cfdi-2.78-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/ea/2b7e6b5f5ec58d540e0c1f594cea971eee73ad1f2e724d02b71c30b1ad2a/django_cfdi-2.79-py3-none-any.whl#sha256=823c7ad8fb4b9970cdb68df9eda9881ba66fbd7492268c672e22a96c7a752b5c" >django_cfdi-2.79-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/95/a74d8176891c7fd6da4d4f6bda05ab0df8e9708d6607dbf4980af790c630/django_cfdi-2.80-py3-none-any.whl#sha256=bb18df8d415cc31d0ce2993f234a15a426c43b8cce963863910a913e978994ff" >django_cfdi-2.80-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/24/fd54b05f25230c026286697d3ba1b29274fabb152b5c817985b57d2b2ee5/django_cfdi-2.81-py3-none-any.whl#sha256=8f646194713e21e7b3cc4ec71a0876977435d99415b89e6d20d1fa5d27273776" >django_cfdi-2.81-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/5c/68fc773343bda68ea26374fc1ff7671409e83995ee3548357e7462355e5b/django_cfdi-2.82-py3-none-any.whl#sha256=29cb6e075b2d143c7407e5c936dd2a9666bfc1afc174af6dd92c14e76d5ae91c" >django_cfdi-2.82-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/a2/27c64247e6f80a161677a98d227f62f52bdbfdd6f3b003bafb3928713522/django_cfdi-2.83-py3-none-any.whl#sha256=d9cd4cbf8fe4f6d53338cefb579288e02bf52d94230bed3dc0f6be0832e47fd3" >django_cfdi-2.83-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/b5/e915a950bdfa87a32b83d78a38b76fddaeca327c20fccfbba9b15415c98a/django_cfdi-2.85-py3-none-any.whl#sha256=e12f3cc59c631d2c898197bec846f00fa620f4935f0038e73b4cd1752b5a2411" >django_cfdi-2.85-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/82/779c38ebe81928ea3bfd852479579d833ba773fbcad40a21324b10d76377/django_cfdi-2.86-py3-none-any.whl#sha256=283d19f6ed14ac7575fac3b4bab10905d7b3429c94039a069a5ecf0965cacb51" >django_cfdi-2.86-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/63/23c3ff00b926d0d8e07997f2661330a7e9a27d0a356267c96d87ceb43afe/django_cfdi-2.87-py3-none-any.whl#sha256=095447d71397de76fd35afac8439cb8d8646be7bea1c79b025082b00b7754adf" >django_cfdi-2.87-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/92/adde532d4af8ba4835c719b355cde759bb2b7e1bab24df7909ba5c9722b2/django_cfdi-2.88-py3-none-any.whl#sha256=c7ebea6d40b6ac3e4643174c38d0bbf399d5b2ddee9a4181adb3858ecb8b5716" >django_cfdi-2.88-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/0f/61e2ccedf6c51032a3bb372a800b9e01ce6bf60f5afbe714c7e8e6e7a415/django_cfdi-2.89-py3-none-any.whl#sha256=e165b6ffa7cd43c9b5f43d9f3ebbf5aa579d29036c93899b8156c007f69b3125" >django_cfdi-2.89-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/6a/264b78e6068dbb1d16596ad3ee6a3e131f8a8d58a989fd5133f9f52d7ebe/django_cfdi-2.90-py3-none-any.whl#sha256=13f5f0889a26634cd8bb2dfc09cffc02cef9823189509cf82c6e847866cca6f8" >django_cfdi-2.90-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16377462-->
+<!--SERIAL 17100372-->

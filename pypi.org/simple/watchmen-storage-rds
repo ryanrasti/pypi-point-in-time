@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-storage-rds</title>
   </head>
   <body>
@@ -70,6 +70,8 @@
     <a href="https://files.pythonhosted.org/packages/a9/36/7021ccfcd21ae89b7702e3a958ced03fa7e3bb99ce471ce6576cba7e94f5/watchmen_storage_rds-16.3.23.tar.gz#sha256=1a14a4ddfbc52f8528ef80f3fdf7c42c9e5b671873e650cf69742f9e4b342773" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/99/eb4ec30e5ad07f5ffc1eb8b7edcc6970c97f52470c8be22a120b1fe6d04b/watchmen_storage_rds-16.3.24-py3-none-any.whl#sha256=a06dccca763c6c8a117d59997c956dae85033f3d6b7e24295a2e6a44f36aba76" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/39/12/911f89f7f222388d37cdd5e4d390fef55e31235d3ba02a1c81c06ed11bdc/watchmen_storage_rds-16.3.24.tar.gz#sha256=c2cbd41bb19f938b15c5af8c787e65366284d80ba2a6e06ce4a26d12af3da6bf" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/f4/a4ec6aaec93fb49c0c1dcc248623992e9e6bb12faec17ca21b5e57b00c9b/watchmen_storage_rds-16.3.25-py3-none-any.whl#sha256=692aeb2485615ffaff821c07cb146f360b681596c5bf1081b08d9bed6b050349" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/1f/895e06758116dbbddf4d3747255b69df7aca2b510509bc7ee523570b37b7/watchmen_storage_rds-16.3.25.tar.gz#sha256=1d8b52ca5433630f2e794e006cccddd54b876c8bcffa309669fb01970bd64205" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/b3/2e8a751a1654e2c0876a24e70550bac9ff4af3af9bbe0fb853ca661b9e33/watchmen_storage_rds-16.4.0-py3-none-any.whl#sha256=096fc91198ce7e751a7769855bc8f3853f5eb2369cb09fb41b19599d071cf5bd" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/24/22bdee800c7e6ff58ddb48cf537f76eae86a194e951b0d0a6463c42c15d9/watchmen_storage_rds-16.4.0.tar.gz#sha256=104998b73f5ac4d19ee26bb225d47d12a8d3f91e4adea7afc81fe56a7e1a5b71" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/95/ed/6b3d2bb0867292b8f49a068a6d416bd138e70aeefda847452b5c0e61988c/watchmen_storage_rds-16.4.1-py3-none-any.whl#sha256=09d72ea47ad0d28208f76d7b54461878c639d7fa7cfbdeb8d44671a19c4f12a9" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.1-py3-none-any.whl</a><br />
@@ -82,6 +84,12 @@
     <a href="https://files.pythonhosted.org/packages/93/4b/6c04b9cd216f6fcad1042bc35906081d14a54e280c47eda6a673e511b41f/watchmen_storage_rds-16.4.4.tar.gz#sha256=b78c49496a672a9a5243cebdb714c07b7417b15d8705c518ed654640b070a5d3" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2a/a4/f52f47da8edff2b49564dd8594fea0cb455a54ea1bf8bf6e36e11c1381fa/watchmen_storage_rds-16.4.5-py3-none-any.whl#sha256=252db1dbe1231f62377dedeefdeedc259574e0739d14e151781301ad9bac99eb" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/05/f3f5ff6bd1fac1d77f68a9089b6ef8bf86b173816cecadae2857d0833224/watchmen_storage_rds-16.4.5.tar.gz#sha256=b58a7f1fc6d8892dae173617bffa907c14aa6a77a4d93ea1f0f83a9e2cdb1c53" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/12/4dfc98863a4721a13490b82b56cabc8c21dc3a192349529201bc4c8057ad/watchmen_storage_rds-16.4.6-py3-none-any.whl#sha256=aaef58e5e13ecc6e18873aaa642256b6423c9c2504df6b8b511d81be2c00368a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/e3/1ce5ce0b3027f9277244b5c5ec071229d9b462ee2a137beee67dfa9eb124/watchmen_storage_rds-16.4.6.tar.gz#sha256=a9ee7285585c3c8e4e324a9f27a4061c49eed0326f990c1aafa448509fa923d1" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/54/4f47264ed59cc4d5603b8f2f464d5adbadd49133caf1146ae77288ec38dd/watchmen_storage_rds-16.4.7-py3-none-any.whl#sha256=c6b4b32d54008582e4fb7cd6222f77822a3a4531f15cdecae338645919a448eb" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/fe/64eafbe713b44b0c36bded6892161540333c518de53e2f1a5c4810fab47b/watchmen_storage_rds-16.4.7.tar.gz#sha256=d1af50ddcfb4de65352c48a542c25b7edc2fc4ff5694b8297902764fcef3da9f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/37/5ac91cd9222abec9aa6cd59e9169670db6a6b740cb4cf5b8382c953c0c33/watchmen_storage_rds-16.4.9-py3-none-any.whl#sha256=6496167ff6bfee44516013eee99417f0470685bd0035e9ee3b3772ab69dd8f71" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/b8/8e1a0d6f810445ec56947a3b7d832dfad302251c8ed85de7c6a04ca3097c/watchmen_storage_rds-16.4.9.tar.gz#sha256=53cb3268ef825913d2783aa7715a7568eeafe77501a0de93f99e9bfc03fea067" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_rds-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398835-->
+<!--SERIAL 16991510-->

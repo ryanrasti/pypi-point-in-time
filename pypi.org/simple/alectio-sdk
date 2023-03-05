@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for alectio-sdk</title>
   </head>
   <body>
@@ -32,9 +32,18 @@
     <a href="https://files.pythonhosted.org/packages/1b/37/26eb3e3a219741a949537936b5af7cee15fd616cef36fdde8adea9360ce9/alectio_sdk-0.6.19.tar.gz#sha256=5e63a77337eafedc0d5bcb22f3cd11dfee4a715783e7b3f52226353cef0054b5" data-requires-python="&gt;=3.6" >alectio_sdk-0.6.19.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/21/9bf1b6639bcb46f8bf6b4c57220e88830d077866d36c8a3fa50af29595bd/alectio_sdk-0.6.20.tar.gz#sha256=7d7b99cbb26ffec41eccaec94081c379415f3e7517d08cae7680edf1f184086f" data-requires-python="&gt;=3.6" >alectio_sdk-0.6.20.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/60/d858478afb27abf2156b0198692740c093c533481294e953cd779ebac559/alectio_sdk-0.6.21.tar.gz#sha256=56a10c5d19f54a67b40639a19cb07a33ca86ab357d01d32c8b844fe96403cc53" data-requires-python="&gt;=3.6" >alectio_sdk-0.6.21.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/80/b9/5ca929dcdfdc2b04d5aca0815cf43fa93bc07f0c509c516aa9b2b40f3e93/alectio_sdk-0.6.23-py3-none-any.whl#sha256=b8fa0c37097bd47608af2531e7582ad20b96e8da3b0093c5fc2310fd28e99ee3" data-requires-python="&gt;=3.6" >alectio_sdk-0.6.23-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/db/6e/295e405d13daa3eddf45caf2d9000f4a277c779b8823ba41a7e781fa3ea3/alectio_sdk-0.7.3-py3-none-any.whl#sha256=1c606a9d0341ff3d4d39dd0280662461c03f401c36a62974e07a7471d6d25c15" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/65/bfe8b7fda4af26505da5c0b26648559ce69f587d98ff3e5a8286b88b17c3/alectio_sdk-0.7.4-py3-none-any.whl#sha256=e9151f052dccc73bfd92920972fa3508ebb5ca83948cbe0ed555c894506065fc" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/04/f28da13a4cafb9a9566f10354f3ec7e905ed0f24fe352f586f05811ac0a8/alectio_sdk-0.7.5-py3-none-any.whl#sha256=ce4965f3bdc8d39fb11fcddf7749b15a1b295299b1d6efd727cfe6583a363693" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/3d/e20c802dc0e6a8adb34a68a7a9e406271eeb472e42795126d0b63e4690fd/alectio_sdk-0.7.5.tar.gz#sha256=7e4bf7990ec2eed3fd9169f8d5f87ff337ae844be2bec948d48d5394d2a9e2f5" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/7b/7001fa3b8cb00413ae849b3aa4d90700f5d2849532036789a78c17a9b507/alectio_sdk-0.7.6-py3-none-any.whl#sha256=bbbc5f90eaee3eb69be3efbf817e73ef03e22267ba92c40f4a219fe0435f3289" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/bc/6fce219383de63304bd35f2590ea40c043bb337314eb043f2cc7d622945d/alectio_sdk-0.7.6.tar.gz#sha256=93d808c813875eec47636efc6fb1b8766915d5da4527904948e8c9e1c9e32d07" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/77/dd68d84f58165b682968648a59a32793030d661fdd48656fd2e880c6b291/alectio_sdk-0.7.7-py3-none-any.whl#sha256=421250f9fda90035315f2cf7ee625438d4deea0d0b8fd6d7689910c17317d8fe" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/1d/280c912b354f74a89c2ec515cc1f9714b3eb53957f18801d84255ce26257/alectio_sdk-0.7.7.tar.gz#sha256=0f86194fac63a2b93309f0b623ceb57d2a1bfd2c69a3678d6c2ea7d958aa06e1" data-requires-python="&gt;=3.6" >alectio_sdk-0.7.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/07/a73cceeb913be2a755808d4ca5ec304116e7aaff67a9739b5c1b4334fc89/alectio_sdk-1.0.1-py3-none-any.whl#sha256=3e22f817ff5087db648979d759317898a50ff0d5d97c01ff93a5b5d1ab5020a3" data-requires-python="&gt;=3.6" >alectio_sdk-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/5e/7d1d74ee36fcd4e0a8d04abf2b1d848eb8c21cdeb13a568d009cd84262f8/alectio_sdk-1.0.1.tar.gz#sha256=5188c5dee68c83d3e6148d9ce94cf8d77b4ace0c369a6156dea05d503cd7044b" data-requires-python="&gt;=3.6" >alectio_sdk-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/50/b6406787283c22473e1b6c3cf3285c9af09ef60ffb73e124a4ba94a6c64b/alectio_sdk-1.0.2-py3-none-any.whl#sha256=75fe709722df7e75863283270660b8927f5886396aa78a2d7cec43d19f7a06f0" data-requires-python="&gt;=3.6" >alectio_sdk-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/ca/3544bbbe58ab0130f336c2ebd15c37232a22f94ba3178952fc09c1335f3c/alectio_sdk-1.0.2.tar.gz#sha256=f0e8d22ab4515f7317bb3b73bc945a9b9a3e509521f46cf007388c98fd30c2e3" data-requires-python="&gt;=3.6" >alectio_sdk-1.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16248927-->
+<!--SERIAL 16942227-->

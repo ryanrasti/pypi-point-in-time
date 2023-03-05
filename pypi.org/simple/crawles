@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for crawles</title>
   </head>
   <body>
@@ -14,6 +14,20 @@
     <a href="https://files.pythonhosted.org/packages/4e/73/f83f53fcce8921da6deb8a225c2f409b3e947245fd618052cd1c3322ad06/crawles-0.1.0.tar.gz#sha256=81b85a100de8caad4dc256c8ae6e3a2a7c9c8485d00798b20c8bd151a2c290e1" data-requires-python="&gt;=3.8" >crawles-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/6d/6bd65a1a55f778b15fb5aa7f0adb3262d47234c21ce811f791a664bb495d/crawles-0.1.1-py3-none-any.whl#sha256=b17514a12c05d5646dc3414e1258463633fb466ec4e4e6d943cc755f43bc4d17" data-requires-python="&gt;=3.8" >crawles-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/b8/afce3e60f317381e922f085418c52cd7e333c30b241b7b80a6f3425a431d/crawles-0.1.1.tar.gz#sha256=e1d5e8087a0e799eb3538586de6780a262d4312cc6fcfa7f6ee0f1ba2b0a37a6" data-requires-python="&gt;=3.8" >crawles-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/4f/f947fba4a860f5f6d94aed08a3da1712c4e2310ffd9b4b4e9a3dc728f175/crawles-0.1.3-py3-none-any.whl#sha256=206f2d2dd3983bad2a20b4161c60db2174bf1180a7efecf799aa108c1b540844" data-requires-python="&gt;=3.8" >crawles-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/62/2229f9b5506972a8b4c514a62125722faa8290bd4b6dd1a9015096207af3/crawles-0.1.3.tar.gz#sha256=5e15778e78dcc058a8c893320b48ce0f5a47edcb33106d8778d84505ef73f4f9" data-requires-python="&gt;=3.8" >crawles-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/82/155ebb3e29ed4c726ad21893722e7698b711a845a4ff7beb41c223d435f7/crawles-0.1.4-py3-none-any.whl#sha256=05becc6150600bcab65ace09535f228eacfe2e2965183adf0b7b3e45a4c77541" data-requires-python="&gt;=3.8" >crawles-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/04/8a098c66a206afd64d0998cb7bebffa360d0072dcfb80ef2597cd7ae51ed/crawles-0.1.4.tar.gz#sha256=93791644be16838c30d640026c3a8367460610fc623e223a6c77d4e51fd0d5e2" data-requires-python="&gt;=3.8" >crawles-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/22/a771b39ee2ddf0dfd6a3d8c19c259a8ab1582f741e6d69e39a93b78e1816/crawles-0.1.5-py3-none-any.whl#sha256=1a41a1f49b1265707fa92581c5a7507fae011904bd82f3cbbdbe34735a1ee938" data-requires-python="&gt;=3.8" >crawles-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/16/1889e6f0fb4520d35ecf5b710900c314a307e75cf87a7b06d112783102a7/crawles-0.1.5.tar.gz#sha256=4ad5a9ee84571ca2e78219e58723be3a5f591670d36e368ce7a94d51b8f36750" data-requires-python="&gt;=3.8" >crawles-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/d2/7cd2668fc896d2ce97d3c84c2c890006c5c98e19ef1131b478e45905fcec/crawles-0.1.6-py3-none-any.whl#sha256=393be9009716f179b34e73f707cae71cfc16fc9d62288d9aa37d586874656220" data-requires-python="&gt;=3.8" >crawles-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/67/0f9fd7eed61cf0d7f54fdd97aed9345968d2063152152cc72a469b939550/crawles-0.1.6.tar.gz#sha256=dc36503f7bf76ae7989fa6a78d8f0de8827042e2973cdda9c90dc8a67d625c3f" data-requires-python="&gt;=3.8" >crawles-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/8d/fe1ee50c5fd60bb5287c266179436302421e5226a996f85d1dbbced4f09c/crawles-0.1.7-py3-none-any.whl#sha256=d188ce3851e8b091dd5fbe13be63b72e55b31b6e2257438f3c9947497acf58f2" data-requires-python="&gt;=3.8" >crawles-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/20/94d1943d0a9ac35d8d3cdf9c185ac486c0995c7a5b11cb60fa48cd7cdda5/crawles-0.1.7.tar.gz#sha256=7c50633875f6a73dea5736e8fb7e5f2f6ee97ce8db921f5d15132b4b5a7a2e31" data-requires-python="&gt;=3.8" >crawles-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/0d/10baa7c3d6e4df785a6a1bdc9dafeddfacc1cb55fccbc80a5264c4f67cf3/crawles-0.1.8-py3-none-any.whl#sha256=171eae92244be9a3ad3763fe137038429c9ce7902b5ad55c6610e3b1e9d27480" data-requires-python="&gt;=3.8" >crawles-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/ea/38f9e87826578c1eb5c0e035721571002ffee69c149252fed255581cff24/crawles-0.1.8.tar.gz#sha256=158bdc4cb6568af9b00ca4caaaf1b439217f898a65be4b87b259314cbf9c1847" data-requires-python="&gt;=3.8" >crawles-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/f3/a05f559898b418cd489c3751ea0e54b841ff0651810677daed2b5e105202/crawles-0.1.9-py3-none-any.whl#sha256=e7d382697ff3931e80fb4fd44a088353635e908c6e2a9bf55ddefffb09fae3ba" data-requires-python="&gt;=3.8" >crawles-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/41/5f4f9be5c1fd7be4fd01285fd067da0c252956a38cd1ef5bb9a20288e8e8/crawles-0.1.9.tar.gz#sha256=58e2b91f08569482df3f11dcba2565906b07ce0157cf2f25c4734c3cc9dd47d8" data-requires-python="&gt;=3.8" >crawles-0.1.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16416837-->
+<!--SERIAL 17007051-->

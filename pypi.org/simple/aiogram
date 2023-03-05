@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aiogram</title>
   </head>
   <body>
@@ -142,6 +142,10 @@
     <a href="https://files.pythonhosted.org/packages/f1/06/02fb4eaa25e47df9cd18d8882183f124dc45d676ef0b91dc35cc5cfc879b/aiogram-2.23.1.tar.gz#sha256=b1feb596839b78a5e75931398a8118cadd9297a9f26b961d84d09c6e14c1eade" data-requires-python="&gt;=3.7" >aiogram-2.23.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/70/57/2383e39c959ebf7c6771738a330ad38e63f12dfbd570ccf7908c503dcdd3/aiogram-2.24-py3-none-any.whl#sha256=1d70539f92277be9710a02c107f81fc082d54781f29b71257ca3d2493a0442d0" data-requires-python="&gt;=3.7" >aiogram-2.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/14/a2/625b510627cf63a018b5bbcd57bd951f68db25d97b5667fc847253868257/aiogram-2.24.tar.gz#sha256=3eca413b5479970532f49e18ec0608ac29e7664b078f190544abcc2d4c3237ac" data-requires-python="&gt;=3.7" >aiogram-2.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/95/d4c3234dfa4d19bc0fee7e57240d0ddaec362b60203215425c9339d3af94/aiogram-2.25-py3-none-any.whl#sha256=6819343519c1cdab22796a2bb62cfbe0434bf6a384b43559cbb173e702c58d6a" data-requires-python="&gt;=3.7" >aiogram-2.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/77/a1b5ccf5a755f072e1f6e190fd1a05058759f9535eb2b9d9f83651c50854/aiogram-2.25.tar.gz#sha256=0b3e2acd2b12497334a9d00c2c85095a56debf7d3846a85d31d3eeb85b847977" data-requires-python="&gt;=3.7" >aiogram-2.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/68/1c41d0245849af98250058dd1f702c56025c9fb4e19fe07158283852bbc0/aiogram-2.25.1-py3-none-any.whl#sha256=7bb770cd0459f1dbaea00578bf13fb2e6a1812f22adf94a988c11a7c0d5f33e1" data-requires-python="&gt;=3.7" >aiogram-2.25.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/6b/adbb9409f7af5deaeb461e76a553ae1640f86dd60ae3ca5939abb03dd844/aiogram-2.25.1.tar.gz#sha256=59ad78fc0ebbef1fd471c15778a4594b60117e0d7373bc2ce7bcd192074d527d" data-requires-python="&gt;=3.7" >aiogram-2.25.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/68/d0/bb59b29a33abeba3a6b33709536ed75894aa32489eb60b04460ea8a4e1f0/aiogram-3.0.0a12-py3-none-any.whl#sha256=cf66a7bc260ff30ab1affacc81e06dd4d2f505244e92eab135097cd3bc4483b1" data-requires-python="&gt;=3.8,&lt;4.0" >aiogram-3.0.0a12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/08/af/3d84fb9d4105090fcf20a7585f72b807e1c98f681dc008501e326bd39ed2/aiogram-3.0.0a12.tar.gz#sha256=84f10eb89639691084c814a3f1f55d6ed15d438d43393084b611d6e582d02394" data-requires-python="&gt;=3.8,&lt;4.0" >aiogram-3.0.0a12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/8c/67f96a9530569d4c7cdac0d605065c5813b6dbb2b528f3c54a83e2b572c9/aiogram-3.0.0a13-py3-none-any.whl#sha256=6c12f791d6c0b84d4310f6c3dcffff56992428ad40329c343784749dae41fd3f" data-requires-python="&gt;=3.8,&lt;4.0" >aiogram-3.0.0a13-py3-none-any.whl</a><br />
@@ -168,6 +172,8 @@
     <a href="https://files.pythonhosted.org/packages/92/2a/6a568d393b80e546ace41481ca10865f4726433f63c8b1fb79837099595d/aiogram-3.0.0b5.tar.gz#sha256=d714d6d11a5e0d1ce27a445f73a5d34815873edf22ad8d398db8bf00acee728a" data-requires-python="&gt;=3.8,&lt;4.0" >aiogram-3.0.0b5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/60/4ac0088ea1523dbea9eeb5f4b23ff1fcf05ab9ec744d3c6d30069ba606d2/aiogram-3.0.0b6-py3-none-any.whl#sha256=0fc67867a4f12d22871d3b0244e1019c9ff8a18859a48cf82aa0d29c555ad01b" data-requires-python="&gt;=3.8,&lt;4.0" >aiogram-3.0.0b6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/18/04f0f78ddd2f7bef1a927e802ba45cf58fdb7948da440853af4e32357155/aiogram-3.0.0b6.tar.gz#sha256=2f4382ca23a8ae45d9d1016307ea576b8e11fc0ca5235be03f138934c35602cb" data-requires-python="&gt;=3.8,&lt;4.0" >aiogram-3.0.0b6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/5f/71f1790ae22f2e3cde7a261766d471dd93e1e3b52d5554f27caa3edc346c/aiogram-3.0.0b7-py3-none-any.whl#sha256=9c2256bfd0a3f06dfee9cd077ac510eb967da62a529fbfb443c680539cdd1870" data-requires-python="&gt;=3.8" >aiogram-3.0.0b7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/6d/e5a96d42baaa225a7ef76c2d28ea67a8c7d59a0b16e051c224df6f8a2a65/aiogram-3.0.0b7.tar.gz#sha256=683c9aafa477e42f54df427089db3d18e4db15a2520abb9da5c4305a02e7fd82" data-requires-python="&gt;=3.8" >aiogram-3.0.0b7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16262583-->
+<!--SERIAL 16915072-->

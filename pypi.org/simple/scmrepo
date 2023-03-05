@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scmrepo</title>
   </head>
   <body>
@@ -70,6 +70,22 @@
     <a href="https://files.pythonhosted.org/packages/d1/51/ea4886a32e0713fc066016a98ee741cd8d984230a5209fc8642443ad0e5e/scmrepo-0.1.5.tar.gz#sha256=27cdbc3c5ead363a2ed6f9b0d7cd38d9df2c3225bf4044b3d56ec90fa437e095" data-requires-python="&gt;=3.8" >scmrepo-0.1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/49/71cf78edd3cdf948d28e046e176ed4b15a1f82a84308e7ec4d885b388d92/scmrepo-0.1.6-py3-none-any.whl#sha256=d714a20a3189c8436bb8e8601b0141ac182dc1ea3f0e6ea5ac31ab873ecdeb4f" data-requires-python="&gt;=3.8" >scmrepo-0.1.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/67/5ff9bed103c78a1f408f9e3aee69718545cff914a70091dc36107c988c7a/scmrepo-0.1.6.tar.gz#sha256=ed083676c3da26eb98d9fe43b7f00814094109be1c51c023143070187eebf4d6" data-requires-python="&gt;=3.8" >scmrepo-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/01/834caa50fff5b068a4288b44da74a8a179713102144b1bd2aa1accdc8ed1/scmrepo-0.1.7-py3-none-any.whl#sha256=335b0955e0bffc13ba61c7b9519d42c26dc0658744c19062108a105407ee83c0" data-requires-python="&gt;=3.8" >scmrepo-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/d2/1d5828013a34b868b1ca6c61e735171920efbc6889855196e5b7123caacb/scmrepo-0.1.7.tar.gz#sha256=f58d6ebf192ae67ed3ae21ffb54757087335e58de5c55c3a725531c899f50e92" data-requires-python="&gt;=3.8" >scmrepo-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/b6/a0d7bb9e5366726eb62c1386bb6eb3d8b12708e3a851257cc4549bc7c5c2/scmrepo-0.1.8-py3-none-any.whl#sha256=83fb305efe5f740a0f3634f9ab8f5d007a00a15e2ba88f073591c6ed00272945" data-requires-python="&gt;=3.8" >scmrepo-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/e2/7205263855dad4f601759eb97755f9200311a3414e356bcc78f078ed888a/scmrepo-0.1.8.tar.gz#sha256=a5e38f69f674f58c7919596ed44c67d5b5206b4504d438db0dd09e81e6093195" data-requires-python="&gt;=3.8" >scmrepo-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/cc/036e9ce94de2ed62a6ff904c2d701a1d1c672d22120dc533071a2de815c0/scmrepo-0.1.9-py3-none-any.whl#sha256=ceed08ff86a6d7a397f516a2f5133019f0b1e29c53b62fce58caf23dd06c8840" data-requires-python="&gt;=3.8" >scmrepo-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/8c/f2eb887bf9eadee079dc7d213c1d1a2a9dd221fbd0f9d1dd3160fc30e084/scmrepo-0.1.9.tar.gz#sha256=31139c92590582977f33399e307e7d8f63aa245aea54f47e393a0f30a0bce80c" data-requires-python="&gt;=3.8" >scmrepo-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/7c/0e419ca886e669f87f05395d25f543cba21167aa805c34084c82519d8012/scmrepo-0.1.10-py3-none-any.whl#sha256=51c02846cb9625330ba8be3b53949ab2740591a95477a097f2f2962273cc8d1b" data-requires-python="&gt;=3.8" >scmrepo-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/e7/9be14f6d87f44a8d403f545f169b3d1a3d9dae485706f40be538222f0f03/scmrepo-0.1.10.tar.gz#sha256=11629300f4f6da1741e685806e87f4f39fa66a0f99f5868e8724fb01779776cc" data-requires-python="&gt;=3.8" >scmrepo-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/e0/e106196871d5658c4cc7ff4af69aac47adf9a9c36430fd756ab33375ced0/scmrepo-0.1.11-py3-none-any.whl#sha256=1b6b2b28384473efa099cf5810a5e211bb6e56a2e0fae221fb98e7d701d7c540" data-requires-python="&gt;=3.8" >scmrepo-0.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/76/ff04030770182ebff0b86b3115b4734e3a4c7828d0fcea321c3823baf83c/scmrepo-0.1.11.tar.gz#sha256=795773823668604681c280d77c713eabc8ad023ed9133d8373b2fb314241ee11" data-requires-python="&gt;=3.8" >scmrepo-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/30/8a5d1e1e9149eeb5dc71285613344c54f416e5c649d1d29af38b19098a44/scmrepo-0.1.12-py3-none-any.whl#sha256=35066423ca9842216481ac359d50c1de925b4da003a50201b690cb448d9b3b57" data-requires-python="&gt;=3.8" >scmrepo-0.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/c2/f0b3e66ff20919d7c4cd498de4932f0aaab8768edcb5a84b287edf1601f2/scmrepo-0.1.12.tar.gz#sha256=ba7ed590b8218cfa2449806d2081c2f7aff4967f0fb36730946df0d0ed07ef54" data-requires-python="&gt;=3.8" >scmrepo-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/06/41f991ae3412bdfbdb8388b8c521b301e00c6704cf99091f92d19062e326/scmrepo-0.1.13-py3-none-any.whl#sha256=37b4f5bb8c9cc3c50703131c5383efaf9b846538f262f62af29c2c8d9e9f6bdc" data-requires-python="&gt;=3.8" >scmrepo-0.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/4b/22630ec35eaddeb0a00b0faddc6f95bcdc3836b2a56332115a040dbd4e1b/scmrepo-0.1.13.tar.gz#sha256=4aeceb48377fdbd45e2a9a1dc30db16d30d998255b8fc2f4469a79ffed101d72" data-requires-python="&gt;=3.8" >scmrepo-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/d0/68ff91c49604d988f37a42be34af9bdeb3f33630feec085fa7bd66239421/scmrepo-0.1.14-py3-none-any.whl#sha256=2588298ed571237e36190530b48fbab8830a09d80a5f9f3c90fdd37cad89e0e9" data-requires-python="&gt;=3.8" >scmrepo-0.1.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/72/993d9cbc5ff3c26dd2bb1c979d69fa7a9f0c9f4c65936ab593c524d54864/scmrepo-0.1.14.tar.gz#sha256=4f5aef05d807409c3717f37705e9045f12e53326d57eb2b8a3eec0b32d65ce98" data-requires-python="&gt;=3.8" >scmrepo-0.1.14.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16328325-->
+<!--SERIAL 17144034-->

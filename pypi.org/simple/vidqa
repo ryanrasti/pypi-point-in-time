@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vidqa</title>
   </head>
   <body>
@@ -22,6 +22,18 @@
     <a href="https://files.pythonhosted.org/packages/fe/4c/027ee85860576cc526936878d91b22deebc906d5bd5bdb9d863eaed46f49/vidqa-0.1.7.tar.gz#sha256=eab43959560d6bc645bf03ddea644dbece386e19907798bedaab2120a28112c5" data-requires-python="&gt;=3.6" >vidqa-0.1.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/41/51/4e570b3f55ff830b669225e2828382e734fe6c413e4e51bd00786c39a3b0/vidqa-0.1.8-py2.py3-none-any.whl#sha256=79541ccd516078ef8775046acd1d383daf033065ac0026e7028cd766f0b8e273" data-requires-python="&gt;=3.6" >vidqa-0.1.8-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/1f/b3a403aa50a536a1b1e40959f6de0262accad85f5613148e2a3b29ee7e07/vidqa-0.1.8.tar.gz#sha256=eec2a5a3af45fd8e5c40d070a26eadff1bf4a4d5fe3a4dad2bb6456586790a57" data-requires-python="&gt;=3.6" >vidqa-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/1e/c6064f5ebc836ea8326f45619fcd6cea5a22122a42e0ff683bc64e452612/vidqa-0.1.10-py2.py3-none-any.whl#sha256=0c2557005bb2c93152551439ffbc5a538f8b739a44e3ce58d0007a9d56ea6b62" data-requires-python="&gt;=3.6" >vidqa-0.1.10-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/05/a7b357b502f2b9e0b3a7264520c0aec302e2a2b85947381f8814e91fc93f/vidqa-0.1.10.tar.gz#sha256=10ccd05ab43528e456f040b7f26fe0f95369f988286aeeb9e25f7a22413a0209" data-requires-python="&gt;=3.6" >vidqa-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/d2/4752032b0b935e7f7ac2377005de111f06e1f72a1b282f136087a14c2cf9/vidqa-0.1.11-py2.py3-none-any.whl#sha256=be3951fced0e1a6a032e31c2d6c870d025e4dba3248bbd3443e437eeb768e94e" data-requires-python="&gt;=3.6" >vidqa-0.1.11-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/68/37e1e9d61493929542683cc133ff40390fcfa36225cb7737b311703d2210/vidqa-0.1.11.tar.gz#sha256=b904beb05dd55822fef200548fbc642607d9dcf8a16ede69e85444f65e13ef70" data-requires-python="&gt;=3.6" >vidqa-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/6a/977e96e4f6abc0f852c6f175ac9a508867290568c859c907223107ad0c04/vidqa-0.1.12-py2.py3-none-any.whl#sha256=d7b9879d32abaa271cea7b75d361c005dfd2de2ce25d930f5dda88fbdb0d288e" data-requires-python="&gt;=3.6" >vidqa-0.1.12-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/84/c3b8d4d5a186220709f586a93de39c054ed5b0afae4682f720600b6617bf/vidqa-0.1.12.tar.gz#sha256=91ee5ac069024e6cbb92f01cf8fb9679b68e2c1c5a43400ac8bcce80db058893" data-requires-python="&gt;=3.6" >vidqa-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/c9/99da30abf6d197f32c02ed7fb6ff3389bac1a5379a14ce02bf552abf4bd8/vidqa-0.1.13-py2.py3-none-any.whl#sha256=99bb43f008a6d8f0fa2627c603e043b53aea5b8e3637a5b1f23c0919e768bac9" data-requires-python="&gt;=3.6" >vidqa-0.1.13-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/eb/bb5cd45bf862d829e566e3db6839ada5fde8a0992c1ee92ffd45c800bfe6/vidqa-0.1.13.tar.gz#sha256=bca265e5efa38b053a7b918aac735c08a9a758296c86e1d7f77995c1c75a87fd" data-requires-python="&gt;=3.6" >vidqa-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/8e/1508e5c5256c676e3bfadb10207cb3a13313a4cc01c444d171c1fa74b403/vidqa-0.1.15-py2.py3-none-any.whl#sha256=1b7d936be5099e366fa3756c3d5fde96e918d95688f248de429c4fb375719958" data-requires-python="&gt;=3.6" >vidqa-0.1.15-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/8d/966c0990787e808f41a862910e06eda31111aec33415c2cb260fe0284cbd/vidqa-0.1.15.tar.gz#sha256=a9cdac3c98e612fc390af87631c293e41f683f133ecf35823a7b2f49598281f7" data-requires-python="&gt;=3.6" >vidqa-0.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/32/a7c84466897c5aeb7cc95a8a1b9c54c4373c77c8bf889ba3a69ed818d0c2/vidqa-0.1.16-py2.py3-none-any.whl#sha256=416fcbdf89f5a1a2c5af7b08673b230e02ed50b35d4dfec4df45f6ee4c21dc6b" data-requires-python="&gt;=3.6" >vidqa-0.1.16-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/9e/0cff045d18cb559737bd2629b3f99c0901bdb045d82386b718bfccb8c399/vidqa-0.1.16.tar.gz#sha256=afcdc453183dd8f8ac10e33f44b25b0d9b3d5dab4aa1d77b571de7ac6dc6bf05" data-requires-python="&gt;=3.6" >vidqa-0.1.16.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15354144-->
+<!--SERIAL 16965611-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for deepsparse</title>
   </head>
   <body>
@@ -134,6 +134,16 @@
     <a href="https://files.pythonhosted.org/packages/90/ca/4a045229b140f68a2cdc5e0bb1ed66359de583b68eba7fc503b4c26fef78/deepsparse-1.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0f7b1ec50ba9735becdf29326a9685aa1fceb42d6ee1c0804139d5393d23d12f" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/23/04/1039de5cd9534e8208cb9c5d99a119173fde254b3ca17a02950a5406943a/deepsparse-1.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b316f5cfb480dcab0b1d55a7659f702565a37ff0d6b3131acf39656cdd9d1308" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/61/09/76b56b7d1ba333706dc8588b331bfa1ab30a2356cb9d33a7d39d319bd197/deepsparse-1.3.1.tar.gz#sha256=0058a25fd25da2fd5bbc77f463813a01d7f1c9d59ff3322281f032a59611dab8" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/ef/f23c53bcd3fc457b85301105070ac9cb3e9e560ddbe00c59b5ec158d2869/deepsparse-1.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=86448068079738826546dee097e76927c579478a5f8d2f19455c85434a936ef2" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/23/1118f4b0dcc4554bbad731279861dab4c4d74701bceca46113d5c9c5fa5f/deepsparse-1.3.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=86c067483c5423f31cc69617b302a01d2c5abf4cbb841d2ceaea32d98288c4a0" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/eb/97428131f528e89ac9eacc43caa8d90d7eaea10141b57db0ba23cfd0591c/deepsparse-1.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fd43c186b56e48c573959461040b9e78be71c75e9be5433ce1ea629c1e489845" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/d1/e5534d550ef659f7d8f5616c4bd45153b205a0f1d546bbbc7cf14e3d7580/deepsparse-1.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=618e9d1ee5d6df4e315d615411ed95a5d868e7091a76149de97d8306ae7a0f26" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/58/9aab42d8eab1f0ebf80188e94f9e87d940e3468624beb57e005ae525fcbf/deepsparse-1.3.2.tar.gz#sha256=ecb88136ec98879eb96364e72f8883708768a47abff473a9f63a6bb3379ea1ee" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/e3/0a8ed238a41285bdef03d47941817d41aa7de7a79e35a5ea81e92bef0f17/deepsparse-1.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=29c3d35925d28c9cba1e71de0f623f4a50e6d50eebbd907222a9ea984566d0a3" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/c1/c3596e7b71451f901e86668230b6ec839cddf092ffa975b30dac243dd0f1/deepsparse-1.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=14b9137cab1b263d576be6e3d50cab90a8220523f37ad90c3fc45cb7697815a2" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.4.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/77/c11806cd431c501077e219c364f9a6d63145fcf5378eb1d5fc603a63e601/deepsparse-1.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8dfe42a8ad490ea36bb860eca6c3e2e8a2525735c45e811a57873cf8811a2ca6" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/ce/c1a3dbeb4b1a8f4f3d10d0b13b962041dac6122aeff831a7a9ed2a69fe74/deepsparse-1.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=eb4bd9b5c42ad4a8867d635cd5fa738763a4c687f54ab86211d3571434060775" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/8c/acd59ad1264e35148d32f0a186aa39a13e3e7239b3590d393cd465ae7317/deepsparse-1.4.0.tar.gz#sha256=26871797174a648a12e0cb289499174696aae106b9744b0dfd84e55b6850c3de" data-requires-python="&gt;=3.7, &lt;3.11" >deepsparse-1.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16302928-->
+<!--SERIAL 16893532-->

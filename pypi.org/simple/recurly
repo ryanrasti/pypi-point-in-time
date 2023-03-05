@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for recurly</title>
   </head>
   <body>
@@ -152,6 +152,10 @@
     <a href="https://files.pythonhosted.org/packages/63/7e/e95f227b4f6970ec55cdfafa600c22a604bdda12712806b954b43c7ef7d9/recurly-2.9.36.tar.gz#sha256=7a8e50c81904dc466238725487c8257ae6328224a44a75592bc85531683ab4c1" >recurly-2.9.36.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/ed/96c9dc4b471fcba439a4cf64ba75b44749b4f59ad92856e9236e146f2d25/recurly-2.9.37-py3-none-any.whl#sha256=a589c9781cc3f826c843a89282451c4506451e7c436d1567dc31323edce9cb39" >recurly-2.9.37-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/97/d0/e263bf8c809efe912d296ab2e88698c2e0a3f7e0121e6ba6e1f0d03c635e/recurly-2.9.37.tar.gz#sha256=94ac3c63e4df832f3cc8fe9d432db40d885acf6fae39c58409fa9fa8fd5e9422" >recurly-2.9.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/dd/fd6a1dded08b3ab48bb4ceb960e7c6cb191d4d9833cf13b7fb11f4bfd799/recurly-2.9.38-py3-none-any.whl#sha256=599051689e171e44b7edc01b3ffc946bd85a0c6fa7ed231b1d3cf5996ea2d4ad" >recurly-2.9.38-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/8d/a168489a132fe60047b23cb581b870e0b2a486b0be7464dc4c0ebb2bff25/recurly-2.9.38.tar.gz#sha256=e0b5f7ff3af4a286b1413bfd1db94b2fe64dc1dc1cfb6077af30b64935fbca4d" >recurly-2.9.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/1d/3c7aed6c9bd94643aaee0f58cf1a5989a3ca955381707e51e55cbaf91f9a/recurly-2.9.39-py3-none-any.whl#sha256=bebb7171cff5fa69042ba38683e58e384bfc8a539708591766280f6a9017e4d5" >recurly-2.9.39-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/4a/ab371e2836f6696806ed2d5abb0e38ea1536319a8c5b06ee5ecd175fbb00/recurly-2.9.39.tar.gz#sha256=f9f0e9a0190f7a403b0404f01d7d9c50383b773fca670cad9caca4485e156fb3" >recurly-2.9.39.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/00/b1/35856b24c73c5d6f12f46b6e1288b5b2064288b2b8f63d429d06ceab06b6/recurly-3.0b2-py3-none-any.whl#sha256=cd7cee2c52d7d5613bec5771da32938d061e57cc35c7a901d29a999604016964" >recurly-3.0b2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/89/f5/a596cb198f02002fd4c1999695070fbf576a747d97f8a8a267cff003a862/recurly-3.0b2.tar.gz#sha256=c0769bc02dcc9540501098eb1b1f84e40f398b2defd922fd23d348af45d49f4c" >recurly-3.0b2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/14/ac/dd6229ae91190b2fc87cdaef870c54b22dd1c3577b1f9655bc2f21196960/recurly-3.0b3-py3-none-any.whl#sha256=1d777826aaba8c73ad82fb809a046558bad8bd0d85639b1d186217aba0f1ecd6" >recurly-3.0b3-py3-none-any.whl</a><br />
@@ -212,6 +216,8 @@
     <a href="https://files.pythonhosted.org/packages/b8/05/527b8176e3cff58aab937da6bd8efd1f92ffa6cf5c5b5cc283981202d834/recurly-3.20.0.tar.gz#sha256=72b3c1f149e8ef4ca0358a3134c4590e4b5896fff732b17f81d9be14c44a4e47" >recurly-3.20.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f6/69/c4914f58dbb15c6340ca463073ec651f0a9a02ce68d1898eea560fac4461/recurly-3.21.0-py3-none-any.whl#sha256=34d63f7630f1fc7e300fb2b30c3541411a4aff9c36f579354fdb987519a2e3c4" >recurly-3.21.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/ba/702b218222298f369144986999e58a23a4a68a0e18f9c33eee65212e8272/recurly-3.21.0.tar.gz#sha256=949a8fe0c2b45b05acf49baf6bd16dee61cbe023b753210004e0be1ffeeeb4df" >recurly-3.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/4b/b5c9d272d1b9576f15b8244df3a56ab3b778dc6d47d9ba560fbf1a3f3f6b/recurly-3.22.0-py3-none-any.whl#sha256=0ed2623557876244b161d853dcb338bb69e27dcebc5a78948dd06fb71ccdfd3a" >recurly-3.22.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/2a/7b1bc918b4231b377ec7a3cf270486788e1ee66ce5274f405c2e7ae29cda/recurly-3.22.0.tar.gz#sha256=e833e3beb5058e9f0751dd0db73fdbd411d42ad90a77455e0883f72855d13d9a" >recurly-3.22.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/bf/4592c6d276eac764036c38f9b7cfc594e96c0afeab727fa1d239647b45cb/recurly-4.0.0-py3-none-any.whl#sha256=dac574712d9391ba47cd0e29e72844bbc3331bc0f7feb311fb099de30d885e7b" >recurly-4.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/bc/30aa1ce26774be17fb7b408a7dc63ae2540fffd935cadbc30c0fd812fc96/recurly-4.0.0.tar.gz#sha256=b9a21835f97d3aec21710eea22df32adaf5f43d620f28ecae25f694829412263" >recurly-4.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/d6/a86dd58203e67dd2f86b9d409bb74cde830ab278047774bac01b660e373f/recurly-4.0.1-py3-none-any.whl#sha256=f2b0d74300af07163393ec2e09cc596d29dad717c8b77b3caa7033d5dfa4e6d7" >recurly-4.0.1-py3-none-any.whl</a><br />
@@ -270,6 +276,12 @@
     <a href="https://files.pythonhosted.org/packages/91/56/d3ea80be198a44400b68f6253b2507ad0344fa974ba9fc9335b17b533e4c/recurly-4.24.0.tar.gz#sha256=0ad77281adbebbf74754407fd8ee9a4e639d83568be044380434b3d092d6a56f" >recurly-4.24.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/1e/79708fae55f56bde411a0039bb871f9f15cf4e9179dafcef77c5d3860d07/recurly-4.25.0-py3-none-any.whl#sha256=d4e43a2074c10975f3f1d3496d965ec385c82045704ed51ab00b883954ed6fc7" >recurly-4.25.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/0e/e46a71698d5266ae8dd3fc4271777e347b436cc940ed6991aa44f122849f/recurly-4.25.0.tar.gz#sha256=401fe6f18ff8b2e79ebc0e5c423b021cbf73a2879fb14d47ed94555a96e07cb8" >recurly-4.25.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/36/928113098e724ec17f211fe469dce161cffcaec4203b26eff5e8250e5a41/recurly-4.26.0-py3-none-any.whl#sha256=e1dd850d06d5197150691ed80f5e4ce2fbb8a505c9d62e11458f5741ef083929" >recurly-4.26.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/28/76927acc624c3dea03cf3d8af44b2680d2936da0987c2b0f77a0558a85e7/recurly-4.26.0.tar.gz#sha256=d47818bd98f1a9b610b96563567be40b79de538fd5806dbb1e85caeb4bda996f" >recurly-4.26.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/a9/17cd3869db2eeebba45d916c258c0da5041fe7ad89f6ad38436e93da1dfb/recurly-4.27.0-py3-none-any.whl#sha256=a29d97ac3ca6db63afb8e6ede9fdf71c0faedb46e50763b3e681227c466e1c6c" >recurly-4.27.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/6b/eaedd90c47f8d1a4737bc29a801e1893cdc16b13cc102dbd0851428d679e/recurly-4.27.0.tar.gz#sha256=1cfa06ee7e46ee69a5c7d70cdc939232c8c7e1076a390e4b9642bac5ba02ea6d" >recurly-4.27.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/cb/022012979e39dbaf898fc39a6538af5e6bca2b664eb5288aa41c4e42ec0f/recurly-4.28.0-py3-none-any.whl#sha256=3f2dd160fbcb0a419232d740c591d4b837319b5c4ff568fbf54cc100d7b9b7cd" >recurly-4.28.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/da/249361c02b9cf3fb7ab3789962b3efc16ec3507ab56d3921db073e71f65d/recurly-4.28.0.tar.gz#sha256=2573f97b4b5234ab0e6c372eb83f8b196ee9d3bada76a1e2977c446d5dc0ed2a" >recurly-4.28.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16393565-->
+<!--SERIAL 16982277-->

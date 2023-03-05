@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-sam-translator</title>
   </head>
   <body>
@@ -139,6 +139,18 @@
     <a href="https://files.pythonhosted.org/packages/95/dd/b8f4cf982a303fc8b0268a45cea14966208965f294dc2c86bf60a0fccdac/aws-sam-translator-1.57.0.tar.gz#sha256=5953b973468f72c11ce6fe3ae4c5bea11fb774bf46c91970e3ab4460c5e1798e" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws-sam-translator-1.57.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/33/7e398bd78e93369322252c16504b8608085b92c85da9ab0c33b5deadf8f6/aws_sam_translator-1.57.0-py2-none-any.whl#sha256=b7fd46bf28d94d5d5174883534469358edb4612b64a6eff1db884d267a45a6e3" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.57.0-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/80/5ecd5ec1cf34027057d98551f25e2bc2d3c05c1091e06677b549215c3fdb/aws_sam_translator-1.57.0-py3-none-any.whl#sha256=8bfdb6dd8cdc9b777e54de1924e60eddc6f068218016e28f629db2bd41af953e" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.57.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/33/d01190b7f72856a666f06407035b921d9c5951f4e0d8e779d6793bf50c4e/aws-sam-translator-1.58.0.tar.gz#sha256=74eff244a4923320e5df2f37617d85505356353e6022ae9812c6f0abcfbad5d3" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws-sam-translator-1.58.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/72/d78f4e4b2790980d7419d60c9d1418a04d2a1a1c057132a46a1c0eab7ffc/aws_sam_translator-1.58.0-py2-none-any.whl#sha256=9aaa3070a205669fdb3821b0c3eccaba1ff7917327c0e7d23dcc16d131d5dc30" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.58.0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/87/31f2a10beffa33faf09f3937c2c0c0e201dd447c8c20916bb2532801eb2a/aws_sam_translator-1.58.0-py3-none-any.whl#sha256=627997303bcfb69209bc752f6b5b28b665b07341cec353d3711b05fc30e21ef8" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.58.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/9c/1061fce18ff0442fa004e464299f8c5c2eb119ce7ee5f5eee1d8034e1b3d/aws-sam-translator-1.58.1.tar.gz#sha256=cd60a19085d432bc00769b597bc2e6854f546ff9928f8067fc5fbcb5a1ed74ff" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws-sam-translator-1.58.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/98/cda0f11e547189c9c1ec831f54a5c3b35469f28f33ef32c2ef7059b7338b/aws_sam_translator-1.58.1-py2-none-any.whl#sha256=c4e261e450d574572d389edcafab04d1fe337615f867610410390c2435cb1f26" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.58.1-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/4a/32b212da83d9fbe31e4c7d1b57a6d479d325768a013491e3d3de2f9fdb36/aws_sam_translator-1.58.1-py3-none-any.whl#sha256=ca47d6eb04d8cf358bea9160411193da40a80dc3e79bb0c5bace0c21f0e4c888" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.58.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/f2/991ddbe70dec85bebb0bce18f7b4902ad46885f91ffa27108df061cf3ff8/aws-sam-translator-1.59.0.tar.gz#sha256=9b8f23a5754cba92677d334ece5c5d9dc9b1f1a327a650fc8939ae3fc6da4141" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws-sam-translator-1.59.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/1e/c020889d3173affc106deafed493ccb3d04df8881b9d5f6041515b70110e/aws_sam_translator-1.59.0-py3-none-any.whl#sha256=6761293a21bd1cb0e19f168926ebfc4a3a6c9011aca67bd448ef485a55d6f658" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.59.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/d0/42434a73d2908bed6b24ad7b6d17b45589621d35319938aeca9c6c83152d/aws-sam-translator-1.60.0.tar.gz#sha256=ba3c4e38c6dd2f7e530f71eec2012b491fb7cde934d0ff5db4145209995095dd" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws-sam-translator-1.60.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/95/29ab2ae58275464e18eb6342faf2b0c5a5cb2966b437f63ffcd1260acaeb/aws_sam_translator-1.60.0-py3-none-any.whl#sha256=b104e327a8542cb966ca9e1ddf7f94d7821497d4c8c4a66ef0eb5e2ec4212af1" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.60.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/f3/1992ced4e2fc69137f37c563b23249a5bd142979214fb77fb6258c04edb4/aws-sam-translator-1.60.1.tar.gz#sha256=a73f5ad997e63f36ffc77dcfbe23fbaa68bafdfea993420b7a9c40b2f190e985" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws-sam-translator-1.60.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/b7/0c2153d33ea95b4f9fde14fbebeae4ee01e121fb9e2f66f15df96e38d93e/aws_sam_translator-1.60.1-py3-none-any.whl#sha256=52192c137e4961ca086bb4fd03f515bafe18cdb3ce335f95df01b792d1579ee5" data-requires-python="&gt;=3.7, &lt;=4.0, !=4.0" >aws_sam_translator-1.60.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16407175-->
+<!--SERIAL 17101787-->

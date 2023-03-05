@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for emote-rl</title>
   </head>
   <body>
     <h1>Links for emote-rl</h1>
     <a href="https://files.pythonhosted.org/packages/05/56/1f55cfb390ee9ca7356fc94f80b4a33d9026506945d55a0f8711e48fb0f5/emote-rl-22.0.0.tar.gz#sha256=1b797abcdcac7e5e83af88a27a98ad4ab6661ae603585f04ab94bdcb8a01f314" data-requires-python="~=3.8" >emote-rl-22.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/f8/d0670a5d74e3b224d8eca42edbb7bb8d50cfc09eb28ad252c5c485be027d/emote_rl-22.0.0-py3-none-any.whl#sha256=6e76675246346c683e98e9f6a7924916096905f11bac81169a54fe241ca4b671" data-requires-python="~=3.8" >emote_rl-22.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/03/a0257926d9435e9a2bf567183f4cc263bca1e96fce1b407bbe7a5ff981bf/emote-rl-23.0.0.tar.gz#sha256=1ceb94c19fc97747322c5f656c77321a67d4468c1c205cbd0730ec8649351090" data-requires-python="&gt;=3.9" >emote-rl-23.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/1b/3f9692baa6210673227c623f23fb4e8a3dc732db78dec36d9f9518a45801/emote_rl-23.0.0-py3-none-any.whl#sha256=b9f58e77bb4eb11d1712895aeda6de0c71f6f8df9c38ad6175cfa9596236f4a3" data-requires-python="&gt;=3.9" >emote_rl-23.0.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15608754-->
+<!--SERIAL 17144278-->

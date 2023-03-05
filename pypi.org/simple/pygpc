@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pygpc</title>
   </head>
   <body>
@@ -202,6 +202,21 @@
     <a href="https://files.pythonhosted.org/packages/10/5b/68feec069812c21863693d670ab71941795eb84d0a0fb3ef90b4271f2ea5/pygpc-0.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=50b168cc0d48e0053111b7951c67fc1d31802b6b2fdeb50d5aff0ad5515861ba" >pygpc-0.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/d9/ff590ad12fbd4c737a8d8052d3ea228d731a950d7b5ad0299a189b572341/pygpc-0.3.2-cp39-cp39-win32.whl#sha256=c73b1e4de39fe06fa97349dd149d09083388b16e3fdec9dcd98f37441549c30d" >pygpc-0.3.2-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/a2/98bb7ce187aea34473d87843a81d12d7c49fa419503458fa2de37fc0f4f4/pygpc-0.3.2-cp39-cp39-win_amd64.whl#sha256=fdbe06411b0e024c6df9b4addc707732e8f46e5f3a751735ff64b2c503a59877" >pygpc-0.3.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/2c/8d27bbb121a3b21f5fb181051c4ff46f1cdc8754d4c4b95e73fb86439855/pygpc-0.3.3-cp310-cp310-macosx_10_9_x86_64.whl#sha256=2782b7c6a6a8ff7007f035f090fe50d46e889fde6531e47dbf995c3418eed357" >pygpc-0.3.3-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/09/0ab3190a0fd08d3db8409e68e8ac99160b09e5e6188e309dbb8fdcdd1cbd/pygpc-0.3.3-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=5e37c58cdc2d398157d6e7b7330c291213ef2a14fa6998c6ba3a97c6b4b0979d" >pygpc-0.3.3-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/ac/e2096cfe8ac67267aafd61b9563344abaaaa609a2ad3e366e2a30a66daa9/pygpc-0.3.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c54aeb11ba38422d68877efcaa5ee3d5a7fee63b34ebd784cc474b4af2054fbb" >pygpc-0.3.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/86/a83c080c902c54a90001d98abadcda0c83f55e7776f80efa02f9e3e324b0/pygpc-0.3.3-cp310-cp310-win32.whl#sha256=7a99ecaa7703a95cb57983dec2c1615d4fc90635e4cbca163db6d9dbe794ec40" >pygpc-0.3.3-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/d7/453bf75dee5991821ea946400e9b2959164704cbfc9a419cb75cfda1be78/pygpc-0.3.3-cp310-cp310-win_amd64.whl#sha256=92e5e6daf89e217883cb0e30c84e1817e86ae129686d18899af6705f9f54ebad" >pygpc-0.3.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/15/0b913155f61912cf326e4096717b83cf083a68907e9c2b7b07416d0c4d48/pygpc-0.3.3-cp38-cp38-macosx_10_9_x86_64.whl#sha256=246da4c3f83f26ec88b4a9a63f798d4d060816629216eb6fdae29d5c317fe0b0" >pygpc-0.3.3-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/b2/91a268e02e59d8bc51d2c84debd6ae3195519a3d7779e8bda139c7b51a69/pygpc-0.3.3-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=ad16af0b782879a0acc3ae721af0cdc00869fccc0aefdbf678dc159972e8f0b6" >pygpc-0.3.3-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/82/1886f5cf1d6218288a050c1ee49a3fec37f0cce6e60d8c823571fe52644e/pygpc-0.3.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=eff54d2de4f4b9038fb6075bd1c8d35cad86c581fadd056553c030bc95eb4eb8" >pygpc-0.3.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/b6/a7635afd9f173a17fe17c5400a4ea8edcefb909f8cffb970e1229f7c30a5/pygpc-0.3.3-cp38-cp38-win32.whl#sha256=b8757326cc353503546c14e6858e75370f72577b378f575a64f5e2fcc9c03a94" >pygpc-0.3.3-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/c8/88cee796394671d38a7f96ad7e8ce00825bfe6accf93c5a6b7177ca144bf/pygpc-0.3.3-cp38-cp38-win_amd64.whl#sha256=7a89dc5b5798f96779d283caac095947dc6270274ecf76097d9f34a69dc4e314" >pygpc-0.3.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/a1/7fb578a864c7087b46c4fb82274adf2c11a81eab12cbeb859100f754d5c2/pygpc-0.3.3-cp39-cp39-macosx_10_9_x86_64.whl#sha256=933ab114d9e29285c2141402ddcaaead475cf34288fe5e504c573161a2e463fd" >pygpc-0.3.3-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/fa/0f4a87b7f2a30f0a1485d722aaa49aba88c18724fb0bc317725a9ad18f90/pygpc-0.3.3-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=7d8b30edc5a67ac7a4ac74dc69a491f07f98a31b41f17eb92fda7d24296dfbd0" >pygpc-0.3.3-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/2a/4d1647b4d9f08553a81ebfef6184b791067eefab4054e76efdc38f8732fc/pygpc-0.3.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=98046b333e5b47519e6154a20577c597aaa40e3e0c989f50b52aa962f1318bd4" >pygpc-0.3.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/3d/49e30499bcd6d2f7c58ccfd7cf774341872aa3853b0402d6f79684dd5fe3/pygpc-0.3.3-cp39-cp39-win32.whl#sha256=3b05ca33a99588edeef4e0e8156338302d55cb54ab3ff66b6e5a57f98cc4a96d" >pygpc-0.3.3-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/21/031af11bd4ebe85d765e13a121c12753b0cfffe3e4e5e19c2ddce1d9ce05/pygpc-0.3.3-cp39-cp39-win_amd64.whl#sha256=1a765a7c68e8954c5321c3ef1948b2890709511ebc7e7812dcf378124f32cc13" >pygpc-0.3.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14156074-->
+<!--SERIAL 16438335-->

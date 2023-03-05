@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for timelinecluster</title>
   </head>
   <body>
@@ -50,6 +50,20 @@
     <a href="https://files.pythonhosted.org/packages/da/34/1c9e6b51cfa64a09ab271a5f50014b00720cbb87a0c638d3ef6b6e7cc883/timelinecluster-2.3.tar.gz#sha256=eedc840b3997e8a23bf74ba7983796cfeeff9536d49d1319254b7245269bbc95" data-requires-python="&gt;=3.6" >timelinecluster-2.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/42/da/2b8bd8949359cf3cb1e9647d91a316259eebfd0b138e5decf2a7af327e76/timelinecluster-2.4-py3-none-any.whl#sha256=0b6b51b9267ff6a5780aa0170e0f8c38e9434257089566892c4fa5cea60ce6fa" data-requires-python="&gt;=3.6" >timelinecluster-2.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/74/e4/143065464e9fc2a3428393dff2f0c32ae43dfa62fee688b4a18efa0c1abe/timelinecluster-2.4.tar.gz#sha256=67494628c1c52221f2152569f3adde652069b82c46457c639e2376f0f085e7db" data-requires-python="&gt;=3.6" >timelinecluster-2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/78/fa18981a5ee8a94bf505af7fcd26cdb362e1ebef920a5851a3b67fe39aeb/timelinecluster-2.5-py3-none-any.whl#sha256=ede1f19b2c92161718c63724263c0f88be1d31f7368e8018663047b318dbd177" data-requires-python="&gt;=3.6" >timelinecluster-2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/02/fa433d9d9544f4be6af5eda7b4e93a54892c9a79406aa870b6313950dd25/timelinecluster-2.5.tar.gz#sha256=20b2a987f3164bfc3290dfaa09a113a73bed6f29154f0ebe681a3b48eef9fe59" data-requires-python="&gt;=3.6" >timelinecluster-2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/1d/0010cadbbc519d0fb3744e5e161edb713f56b8283a2e1bf1edb4af87e11b/timelinecluster-2.6-py3-none-any.whl#sha256=8098d8009a80dd23f65fe6c530e257d25b2eefe0205a8811c25af39ca16cd6a2" data-requires-python="&gt;=3.6" >timelinecluster-2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/d5/0d253482454e3701dd2169728f3c83fe56084f07a5c1fd4cd4a182e4c1ed/timelinecluster-2.6.tar.gz#sha256=0fa0d22bd11d81e032ccedc6e0efbca3f919f005ff60885100bf3a16debea0b9" data-requires-python="&gt;=3.6" >timelinecluster-2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/97/90c119c57c531fda4c49277428f87fc09ecf9a704f7a34c9ac68aa9a054e/timelinecluster-2.7-py3-none-any.whl#sha256=52b4aa04e4e0f11ad2f78e858c84d68b85544c521e11c48c9157f4ef75b18270" data-requires-python="&gt;=3.6" >timelinecluster-2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/49/9d52684d757d9fa723a5161bec9686340fd8426dbf9e453523cbd06d921f/timelinecluster-2.7.tar.gz#sha256=1893001d359ab0e7416704a78f991e9e1afbb7eec0f789b13931a7f900985377" data-requires-python="&gt;=3.6" >timelinecluster-2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/f0/538fdc5af80cf285c22d6d64b92cfcbf801682954e2688250273f0a1413a/timelinecluster-2.8-py3-none-any.whl#sha256=1e217117ac65b62c0b6ae73bd00ab7dfc5ce847d8a8ec0fbf8468b1a21918330" data-requires-python="&gt;=3.6" >timelinecluster-2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/b9/d39c9040ec1bd2e29968df1df9a4c5225d67de7c9c1571adb7c8013d86a2/timelinecluster-2.8.tar.gz#sha256=f5cd9bfc3f28e800b90e6a4a2a91cc328161aefecf1ee4ff0373285e1bd7bf36" data-requires-python="&gt;=3.6" >timelinecluster-2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/ee/4c38ba856eaf85c35d1d4cf7441bc60f4b98ae61d6f49319ed8f806c7773/timelinecluster-2.9-py3-none-any.whl#sha256=2066a856ff9c7dc4d8d5a6a2345f3af131ceae16159172cdb3b6912419fd1645" data-requires-python="&gt;=3.6" >timelinecluster-2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/8f/a677876079a08327507392d7e548996666d67634b395bb97ced1c7f9edb5/timelinecluster-2.9.tar.gz#sha256=5614b916e628469eec012b2b1f96c9712d2642d0ca8c231d798e6e157ca2696f" data-requires-python="&gt;=3.6" >timelinecluster-2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/17/0afab8a393349a43a1a77794d87acaf303defabee701c73aca953e0da138/timelinecluster-3.0-py3-none-any.whl#sha256=4611d53da8bd3f49075f59933cd9440e718ac4e23aa91dc1fc70cf826bdc545b" data-requires-python="&gt;=3.6" >timelinecluster-3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/5f/ab815ca607d51bc3ee276b8246d2b3962c8ea61947b72b6686672019ebe6/timelinecluster-3.0.tar.gz#sha256=24f819910f54aa4600d4fd931b590151a0712f7ede3a60cb246903f2b430b8c0" data-requires-python="&gt;=3.6" >timelinecluster-3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/57/8c5b258e0a97d1167a94a4de8b8dc9e690377984e3f0dfdb7fcc7dda212d/timelinecluster-3.1-py3-none-any.whl#sha256=83291310fef6b3125ec4291a7b7f0df2bfaf0feb2718a376b93ce8e07ff23bdd" data-requires-python="&gt;=3.6" >timelinecluster-3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/9f/8ecb14b2b62382d6058abe8525d9954559dc130c79091a4a6c1d8ead329b/timelinecluster-3.1.tar.gz#sha256=84d56ace052c67cbbbfc935dc2b2a27be11762d7e9f8b9eaf46828321c22580b" data-requires-python="&gt;=3.6" >timelinecluster-3.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16314763-->
+<!--SERIAL 16587492-->

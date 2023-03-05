@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for invenio-communities</title>
   </head>
   <body>
@@ -289,6 +289,24 @@
     <a href="https://files.pythonhosted.org/packages/7a/22/3316703cdff6f783eb8cfc0a5d5a1ecfbd8dcb162f491e1a1f8ee8d727d0/invenio_communities-4.0.4-py2.py3-none-any.whl#sha256=b6a686b990f1c79382c0cb260217177bada4e503074f904d256ceef36b73546a" data-requires-python="&gt;=3.7" >invenio_communities-4.0.4-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/26/a5/671de6a9d09cc5c9d1f435eac41241ed9e5685df210b48944453abf41ce9/invenio-communities-4.0.5.tar.gz#sha256=619ea64eb1bc8ea4f5e0bdae20ef0e2d9ef4b9eaf09178aa9e7bc383b2caaa31" data-requires-python="&gt;=3.7" >invenio-communities-4.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/47/9f/8dc5ed87efe67f0bfe71d95218861438fab0a395211bbde3b8a127a3393b/invenio_communities-4.0.5-py2.py3-none-any.whl#sha256=2965e1421734bb82fd992526a9c3f61900abd1ca14421297e1b573d492d246cf" data-requires-python="&gt;=3.7" >invenio_communities-4.0.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/ac/ad02f89b4d32fa14a49bad8bedf6dbc834ce0e9aac40307b1139a660251a/invenio-communities-4.0.6.tar.gz#sha256=668b41cabb3fe8d0cd2c63581427ad56d7677ec5f19e14615d5cbbc46c08a26c" data-requires-python="&gt;=3.7" >invenio-communities-4.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/9a/d1c9ad8a1e90f63fb9aa57115c32b397799536ec01969fc05a27caaaf30a/invenio_communities-4.0.6-py2.py3-none-any.whl#sha256=26b81c2bf59fbf7b4ff74c2d5c406d478b32d683ad47be56ae6f222e6305eb6f" data-requires-python="&gt;=3.7" >invenio_communities-4.0.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/4f/059b44b1818b4be986a2d96a0d913214de3a20a4de52fe69b5b4f8dac9a7/invenio-communities-4.0.7.tar.gz#sha256=f548398af6238a217a08d8e10cbe899791fc16bde470805a085146a1380d5efd" data-requires-python="&gt;=3.7" >invenio-communities-4.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/fc/4bf316daddccc3e07567c676b6814dfc6555df651516725ad915c0478353/invenio_communities-4.0.7-py2.py3-none-any.whl#sha256=e5a9d806bc4212771a95d72b67032c04bef16b5384ed7181ef9bc63eee890647" data-requires-python="&gt;=3.7" >invenio_communities-4.0.7-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/aa/20bdc8430b622cbd2c5ebc47065c4c6e9d686d337598a3604cce67ced0a8/invenio-communities-4.1.0.tar.gz#sha256=bd53b4675ac30bddf3c03585c2b7b924779529458c40be7d58c109f1e391420e" data-requires-python="&gt;=3.7" >invenio-communities-4.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/58/051b755003a8a29ecad146b166a2d5659afe4deb7d2f025aa8380f5c68cc/invenio_communities-4.1.0-py2.py3-none-any.whl#sha256=9929280cf2906ca4aeb61c90573e3f37e1764dae70c1122514d6ca1d4e6966a4" data-requires-python="&gt;=3.7" >invenio_communities-4.1.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/bf/91910e7ee9a71f7e94d0abbecb0235e45532797eb2c44a6de1ad3d545941/invenio-communities-4.1.1.tar.gz#sha256=aa0e52cf7d248366e1298f33be7d5ff4473f7a132b750accd715361a817f46b3" data-requires-python="&gt;=3.7" >invenio-communities-4.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/5e/ba0533ee2a5ff2ac61856ad2af61ceec99514dd359790787ed58967a529d/invenio_communities-4.1.1-py2.py3-none-any.whl#sha256=6bcd2767afea835804e733c8ef6a0d21ba994166656514d1e5ec7366e7f8287c" data-requires-python="&gt;=3.7" >invenio_communities-4.1.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/a6/9d9447733c59e2252b205869c2b38c73146690eae8f737bfbae90583ed0b/invenio-communities-4.1.2.tar.gz#sha256=005974ff287435288a14bce2cc7b5b8071871714f3cb468db09eb1388299d634" data-requires-python="&gt;=3.7" >invenio-communities-4.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/2c/8cc5f19986fc143a0b3e32b57d711fb3a43ff3a2e190a2cc5a8d7fa2b2a4/invenio_communities-4.1.2-py2.py3-none-any.whl#sha256=6994c734c622969976e83768bc216ae655ebaa268176a27e426b26ea233243f5" data-requires-python="&gt;=3.7" >invenio_communities-4.1.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/b4/4b5b0eb1eeebd8d81d9c743f58feacb128d94e3fd89a2693f6a3e97b085a/invenio-communities-5.0.0.tar.gz#sha256=49f281e47f29ad9e6989e9ec1068ec8446fbd1f3c5c351b8546d6bc4fb2b5d4f" data-requires-python="&gt;=3.7" >invenio-communities-5.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/07/8da65033437da690addbd6a07f88ba0115f968e67607991543a0dfc08139/invenio_communities-5.0.0-py2.py3-none-any.whl#sha256=b09bdd41a4faf576ad411d5bf95dfaef63d358f7d01f69cd4d4c876cb6324e7f" data-requires-python="&gt;=3.7" >invenio_communities-5.0.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/12/71306eacd0d908ff8e5fe0d2c43cba443cc6bff493726543085173bb787c/invenio-communities-5.0.1.tar.gz#sha256=fd423fb78a24bc92e2389434eec0c01fca5024b8dd02357c3b68ecc5bdd4c0ba" data-requires-python="&gt;=3.7" >invenio-communities-5.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/36/787ce4a98ff2ce692cb93f31d6ad5fe016e2f57f576aa11e85c98f0cc093/invenio_communities-5.0.1-py2.py3-none-any.whl#sha256=0caff473372df88cd9701ce728022e0c8cb9f1ff450914bb14fb2b0dd3ed3738" data-requires-python="&gt;=3.7" >invenio_communities-5.0.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/a9/3faf240de34210e7d54b94b875522b971212112dafaef684180e48b2fc68/invenio-communities-5.1.0.tar.gz#sha256=866c07ee566a97f099b1c27a641b331c94c71f4668c4e55a16060c615655185d" data-requires-python="&gt;=3.7" >invenio-communities-5.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/73/7955f7df1449f262f7f031ca4011144a6bdb54a613a316383813ea3dd573/invenio_communities-5.1.0-py2.py3-none-any.whl#sha256=0a4aa8ac4e155eeb605227fa5e42e0248427a1574a0fb777c2864f88523d0341" data-requires-python="&gt;=3.7" >invenio_communities-5.1.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/44/26a46b4944e4c9afbc8f0ea5aebe5b273df4a759d0fb5923bbe85e72a03f/invenio-communities-5.2.0.tar.gz#sha256=fe78f9a88749f6522237fb73b316a6a970c2199c4316c238eca349945b4379ed" data-requires-python="&gt;=3.7" >invenio-communities-5.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/a1/2030b37ab0df463e3c8fb131982af2bc52761860bafb86b4b61ece8d3b53/invenio_communities-5.2.0-py2.py3-none-any.whl#sha256=5742862f0b24adc6d5455fb2ae7b22cccbbae89fc9b31acc1c3ae901ab0cb602" data-requires-python="&gt;=3.7" >invenio_communities-5.2.0-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16316117-->
+<!--SERIAL 17141431-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kaskada</title>
   </head>
   <body>
@@ -62,6 +62,22 @@
     <a href="https://files.pythonhosted.org/packages/2f/8b/505fb6ce39d9edbb8218ac6cb16e5eec8e526bcf5c7c03f5e95f93a18411/kaskada-0.0.21.tar.gz#sha256=748da23c1237263bec40d70da31a9395c4bcc28063d8e1c1bcd56496d75c7dae" data-requires-python="&gt;=3.6" >kaskada-0.0.21.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/d4/c07316309b627951638ee7a62d4da0922e0f7fc075e4271ef21374019386/kaskada-0.0.22-py3-none-any.whl#sha256=2892df4a324332f900faf2c558ecdcd06a5d8712687b41b5f0a881baa1d2851c" data-requires-python="&gt;=3.6" >kaskada-0.0.22-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/f7/7c948cd2b21317c37a5b40a3be117d4d09310c50500b6396125389aa4d6b/kaskada-0.0.22.tar.gz#sha256=b655f9ae2aba39d28639dcfb2f835d046ad02c3ed29d276ef425c3812bfa7869" data-requires-python="&gt;=3.6" >kaskada-0.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/41/85e1cb7e5810fce308bbd305e82843bc75aa29746780efa12c32f5cf0268/kaskada-0.1.0a0-py3-none-any.whl#sha256=0cdee7ef09a218a747fbed417050740a7caf4e69ff519089170e0f5fc044751d" data-requires-python="&gt;=3.9,&lt;4.0" >kaskada-0.1.0a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/2a/015bcc6634c2fc536a2231429b8fa832be2e00bb2fa8061cbc1d25e176d4/kaskada-0.1.0a0.tar.gz#sha256=c7f53f924906904034785ebeddf3219b51f79ac391d7dddfde290702956032d5" data-requires-python="&gt;=3.9,&lt;4.0" >kaskada-0.1.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/ce/dc7187fab558b9233884a35b91e410d28efa9b9acbf66edb164eec352b39/kaskada-0.1.0a1-py3-none-any.whl#sha256=da190aa613f580fa55a45027876037e873d7c8e702eb9da1fe76e4e82ffe6d9e" data-requires-python="&gt;=3.9,&lt;4.0" data-yanked="same as 0.1.0a0" >kaskada-0.1.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/5e/1d77013b46fca32289ba40288cd29e02783deb7c6e36ecd7ec2f614056f3/kaskada-0.1.0a1.tar.gz#sha256=c282491b3962757b28ba63ba7c1a5981eb2b22a328f77a0a9f228b4e05228bdd" data-requires-python="&gt;=3.9,&lt;4.0" data-yanked="same as 0.1.0a0" >kaskada-0.1.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/30/b6f926a71f17c90be8051580bbf3546fead3237dac3ab92c2764064b19d4/kaskada-0.1.1a1-py3-none-any.whl#sha256=353cefe0d618238db60f66f30414f09b72729e00067b95cb5a97fa818790e8d6" data-requires-python="&gt;=3.9,&lt;4.0" >kaskada-0.1.1a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/64/487b8bec09e8fd92a92ec2b6cced6bd8d774cb43622b91eede533f64cdcd/kaskada-0.1.1a1.tar.gz#sha256=876a60f4153052c5142d5a044ff7f3c9092a4787ea6c9c4d202de3db3e317d27" data-requires-python="&gt;=3.9,&lt;4.0" >kaskada-0.1.1a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/3e/bec1057aa051c39c1e10d386ba13c14ef7e4a6d67d7bdd33dcaebf026270/kaskada-0.1.1a2-py3-none-any.whl#sha256=cf17431b593f2e7f0897eb21e6ef6b76c6e528c7e00c5306b5f673dc8b280167" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/e2/855f3df3371cbceaf0eaec2affc1478eafb5f980a4fda48745e71c06db43/kaskada-0.1.1a2.tar.gz#sha256=b269f20a9ade5d508ac58d9fde03a209536c295c763c6402ac554962cdb00655" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/40/84741f64d2228abdde8a2ebbec8c91f1aa28af995a2a4d00ad6b6e658d1b/kaskada-0.1.1a3-py3-none-any.whl#sha256=b25e62c4f541e8f7ef5e2da3ee302897fd2b9287819589d8426148fc491fc25f" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/72/d2a83e7cce1571e83d17cc29d29e724597f08233eb64ac77b7bae2757670/kaskada-0.1.1a3.tar.gz#sha256=0c1ecef91152036647fb387976f6744d0dd86143d0c3c59aaee8d2b617489782" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/ab/3aee7ba7987b3f33728d2be4d6662cf6e5a1c839666b898db3634bb065d4/kaskada-0.1.1a4-py3-none-any.whl#sha256=aafb0209afae263fd222f8000d0ef3a346b37f3f3c135050ec08d023a2439695" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/ad/2f4c0e3ba8add8cd55274ec66a2c24cbc7d6da5aa4d17b0fbf37a48e51b3/kaskada-0.1.1a4.tar.gz#sha256=d10214b90d0c267f68edc29594b78bceea9d95a466353190e86056cda4d1b028" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/dd/25d4a37aae49f3836d555fb6f2272ac0c2b712130e1ccfda5067cc1e70d3/kaskada-0.1.1a5-py3-none-any.whl#sha256=9278b8acdacfc98d31ca4df3d21a85d5aa9a0620adc1fcffd401350b84cb3677" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/20/80eda3c2b5ba139cd9c6df08fec0f1633662b6587f40fc04b0c748eed5b9/kaskada-0.1.1a5.tar.gz#sha256=b8bff5cc657fe3934c059932eb79045b570b076984ed1c2f0c00d504291c7d28" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/12/95714a4f204a61cde5c865264cb8ce6f7e72a5d08554ce1dcee97ed23b7b/kaskada-0.1.1a6-py3-none-any.whl#sha256=3aaf48abdda7758dddf6fa5db45630f3f209f384871ff8501f5f4cfd0f56bd10" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/1d/50716c86966d0ece8cb212f4d0846c21f0d89aede5f37c12cdde49709441/kaskada-0.1.1a6.tar.gz#sha256=89616415540e365d662d2febdcd36f718a8952f8fc9d7adb76ad12fa51926d5d" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >kaskada-0.1.1a6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15414260-->
+<!--SERIAL 17132638-->

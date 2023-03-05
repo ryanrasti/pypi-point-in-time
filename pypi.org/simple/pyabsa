@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyabsa</title>
   </head>
   <body>
@@ -180,6 +180,18 @@
     <a href="https://files.pythonhosted.org/packages/78/42/700ded43fca7df70e90e889a97722e5f6a5e7b9a35c0e3db0786d1251369/pyabsa-2.0.20-py3-none-any.whl#sha256=c0618ec3361a260e5b563b1cf4f409b7fcc92180cf125c6969b7cb82a4c54139" data-requires-python="&gt;=3.7" >pyabsa-2.0.20-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ae/e2/57c9067f3aa73ae3e5d76a0d1ced2bddbf89a73595e2662e2cb55cec2c82/pyabsa-2.0.22-py3-none-any.whl#sha256=3ec0a90e6e844ef9c60c6d58b99ca94f4ad9ab0f04bff897f1e53fd2cd19eab5" data-requires-python="&gt;=3.7" >pyabsa-2.0.22-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/1a/3e3fdb83bdcdca6aefd4797b163658736cbbad532589dd6477567e120cb1/pyabsa-2.0.23-py3-none-any.whl#sha256=5ec935fe3ce429918306899c67303fdc781e48b647d18daedae40dd3e02c9b46" data-requires-python="&gt;=3.7" >pyabsa-2.0.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/b7/c52be481c082221fe33a6bfb5cd201170d20f1eb76317b95f7a9507cc876/pyabsa-2.0.24-py3-none-any.whl#sha256=ff4de78250f4f82e4683e011eee0f5258521191592a6b0bb8cba15c0e8e3b8fd" data-requires-python="&gt;=3.7" >pyabsa-2.0.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/a7/c0d9a518f7bdaa5ca0ee7d9719208e611fdadc444b07bb32b06eda29f303/pyabsa-2.0.24.1-py3-none-any.whl#sha256=bb2439650769e165d9fd7ed4bbf588e7c23fe8823d71f96a8d07ce06eecb9a0b" data-requires-python="&gt;=3.7" >pyabsa-2.0.24.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/a1/cb7257a3d308e6476d3069512801a80121e92791de307826122c3a9738fa/pyabsa-2.0.25-py3-none-any.whl#sha256=0239745cf5a1b65956b6af0f839fdbe1e7faea335e811ef17bebb65400cad0fe" data-requires-python="&gt;=3.7" >pyabsa-2.0.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/10/20b97b1aa6b1206038ca986342d7d3fa8edf3a484d81f44f1fdf3d95d75c/pyabsa-2.0.25.1-py3-none-any.whl#sha256=6fb6d4aadfe126e4a999ed51635b369d0f521a2fa152fe60daeac9e4e156b0b2" data-requires-python="&gt;=3.7" >pyabsa-2.0.25.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/f7/598f757ee4dda902735e66c6971cf740d0fc1ea297b20e21ef0b46a58588/pyabsa-2.0.25.2-py3-none-any.whl#sha256=c90af201c083a8f93f64a65f3b83595a516ef30e121c012e8db227c107fbc330" data-requires-python="&gt;=3.7" >pyabsa-2.0.25.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/8a/892e4323234a52919984ad1738a03e74ca7011dd1d6dcd58d6af998af791/pyabsa-2.0.26-py3-none-any.whl#sha256=512b6398ada0971f0050dd48ee1a99d80d1a25653f52e5dacc19bc88a5c1091c" data-requires-python="&gt;=3.7" >pyabsa-2.0.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/db/f4627319c86dc3fcc0cd18bad39b1940ce585c93612eb73b5e0ec6138e2e/pyabsa-2.0.27a0-py3-none-any.whl#sha256=2dbb94068bf82f2810a537944318fb609e3e3aa67f6ecbf947f14445aec69abd" data-requires-python="&gt;=3.7" >pyabsa-2.0.27a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/76/568530b2766e478988560aba4562be3f9fcf14860baee12b3e8fdb69ca1b/pyabsa-2.0.27a1-py3-none-any.whl#sha256=43f141406e5b94309f0fb49dd462aedcf6527935c51abec33cb48d55851f8ba7" data-requires-python="&gt;=3.7" >pyabsa-2.0.27a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/05/488af33392dd76729f7fafe3815c92b85ab451388757757edf1ad1b283fe/pyabsa-2.0.27a2-py3-none-any.whl#sha256=cc885a0c8488e46a9a9c2f99835385e916f6488c62962a788a4bafbd704e18af" data-requires-python="&gt;=3.7" >pyabsa-2.0.27a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/07/7e471bcce4f5e0262074a09ebf88ffc4874a3bc89fd707601ce756293d89/pyabsa-2.0.27-py3-none-any.whl#sha256=e841a775c790142ec34a07c345ff2da2b1cf3ae92220b7cc25dc8570337de464" data-requires-python="&gt;=3.7" >pyabsa-2.0.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/07/67296d39adb97c27cc38405418ba2c6281cf1608d6e5c88bde8ac8f5c15a/pyabsa-2.0.28a2-py3-none-any.whl#sha256=4bc5497f6a2233dc45587722bfa57d891b34a5e146df1d0b25dba4cc98884ecf" data-requires-python="&gt;=3.7" >pyabsa-2.0.28a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/69/a9e2598f0bce67732055231f7883380c04e6db68acb6caa0b297b2d310c6/pyabsa-2.0.28-py3-none-any.whl#sha256=75fd3b26d67db3a7d96e5e3fc04a4c7783e3abf46eb922bc033c6d21e517f78f" data-requires-python="&gt;=3.7" >pyabsa-2.0.28-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16291073-->
+<!--SERIAL 16842304-->

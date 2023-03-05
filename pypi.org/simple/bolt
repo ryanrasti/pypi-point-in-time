@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bolt</title>
   </head>
   <body>
@@ -104,6 +104,28 @@
     <a href="https://files.pythonhosted.org/packages/27/82/5a8483163f9fdc64f3e0996561371a69e0e0a029ff4b1b859e997e3c1aef/bolt-0.21.1.tar.gz#sha256=886cb42e3a15ef90ffb59d9cdc463a58f0f61841fefad7fd832e225c9589bf18" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.21.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/89/84/fdc61e24cf6e5f87f642e8494a8ed548c20ea6af8892fae8bc312bc64537/bolt-0.22.0-py3-none-any.whl#sha256=d3297200d073e04ace016a92a8c591c90174dd79df44f727c5129931d28e60ca" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.22.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/31/ac/2921e9021c4cdd09b9344e11ebcdbcace1b5a75ec56724c945458e0e4ac5/bolt-0.22.0.tar.gz#sha256=9050f48946318049f60ce2722757af6f43460c1f20c409b60cbdb3172955ee51" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.22.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/26/cab1b110b65c42ad73f2d5d6027badb48ae992335c0785afb1b4c08afb7c/bolt-0.23.0-py3-none-any.whl#sha256=d7bd9d2a646396fae6bd88023ff51b22fc2c0d1dca605c26fa22f16617b8f058" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.23.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/bb/948eac4f74bf536b042c297687ae0fb209c333a2996a8f3bc4a83b06b13c/bolt-0.23.0.tar.gz#sha256=6c50d697f80990ee1512bc390bc448fabd13b48ad034a9a7201d799cdc598391" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.23.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/e4/c39c59d6b04a69e1592c4fa0def702e440521f9e8f88e2b12becbd2b8cb7/bolt-0.24.0-py3-none-any.whl#sha256=45f537bab6ad3df2ec2b1194e21374c795e57b487daccfa2b8cbd298aed3f548" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.24.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/f3/13bd202ea81f53d1bbcddd8d2a00813823552404b983e9a4c8ba8255d002/bolt-0.24.0.tar.gz#sha256=47a67cf6147474cd494a821eaf80203623c6700f89356a54481a00aea4774a82" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.24.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/ce/d4d5048e62046013275b4796b18b8bb37c5f4be946a8ee31b4acf2a6db79/bolt-0.24.1-py3-none-any.whl#sha256=e8db61096d969e79b3b8265f69d896095727932c64d11adbaeef6fcafede05da" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.24.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/16/2791935b8199cb65474322acf8a9f316eba449e0da43c628b71fecd08e42/bolt-0.24.1.tar.gz#sha256=c638696b0e254f25ca36f10abe098654cca548b1b91abfebf564c705be4d2ee2" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.24.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/c9/6b4e2e0088cfdb76d4ec2f6d641232810c9da83a77d661e2c37e428ab083/bolt-0.25.0-py3-none-any.whl#sha256=4a7e0dec534d583535dd5e876e7835757b697714df7ee5a4809f46e42468f380" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.25.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/18/931c190371930dc330f22d9664217b351d7f1e876ecf824a06e66bc2fe01/bolt-0.25.0.tar.gz#sha256=b6850485f73fdbfde860f1aa4742126bc2eadb8f91459535bbb5e457e4adefdd" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.25.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/73/4458a32b58dcacfe932a9d19ff6d7c532b02198d9927550ab0272bca5e91/bolt-0.26.0-py3-none-any.whl#sha256=b1560620a8f6542007b65297a7f2d21ea3fed7cc14756ccec8d3e929ab641ba6" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.26.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/0c/de1cb83c6b9eb84e8f895a3f1a0514d018df8499d0ea1509ebe53774dbf1/bolt-0.26.0.tar.gz#sha256=899af8ca3cfa23d27dcef994fcef2c7ff2533f52e829f8960f668310575ad60d" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.26.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/4c/dc3a5b9cbfa98b83e8bf78c7b4fd1f3915f368df5951dc8e783e54700a9d/bolt-0.27.0-py3-none-any.whl#sha256=064ac510aebb49e852a558a2f1197ea01c0f5e3963408c0dcd922bf05571ec84" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.27.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/3f/01c0dd2e2e64b2d057805351ffe73807994ab04f4f93ca119d5ebc6deac2/bolt-0.27.0.tar.gz#sha256=9927ae79c3a499263cc3985a4a7241bfb85cd431d2c9c45497ee4eff9471280a" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.27.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/de/5eb6f5de979fbde9ac1aae26a88f9dd44ca2849a4fa71d1daebf1f2e15b4/bolt-0.28.0-py3-none-any.whl#sha256=88ac9a0ab7e1ee43d5c90217e5b070c1b1d9823a21ba15c9f8b4639960ec6deb" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.28.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/34/f45a3af92f56764dc7a2c5872b4211737225c066d6c189d0ad69a4687fec/bolt-0.28.0.tar.gz#sha256=4cc904159a6fce8f7dd69e1082ac940a2c50e6bc1c2c0beb3a03478c8daf27ea" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.28.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/c4/399cc14a2b81602f861dd06d29b29d1b58a347b1421ffa55d4028ec9bdbf/bolt-0.29.0-py3-none-any.whl#sha256=fa8e77260d8c05c21db3dc995be729b3c212ba576cfc2b1731233a805efac5a9" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.29.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/d3/01bd60fe9dc3a1cf0c547e1de166e04fa5f932463661a6f3188802c1e6dc/bolt-0.29.0.tar.gz#sha256=c0b210e0a8ecd31cef6a0624cc9ca0c7004d2902cf2cd21c3d7cb50db7912100" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.29.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/b4/23620b438a9f84ec53fb3fc65cdbbaed17aba52c6e6329f79d24c2420f66/bolt-0.30.0-py3-none-any.whl#sha256=0a449e7b0c46d152278b0aedb5efbfc2a1e94deda07e324d0796f270d6467716" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.30.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/76/195caac55e058c34c60c970ef13ba88c539031abcc8cd14fb317c38c1ecc/bolt-0.30.0.tar.gz#sha256=3b0bc44985cfe66e539eecbb2e5064e366e0342527c6822117496960d292a7e2" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.30.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/e0/4aa5131cd57414187e7d17be833865ac31abda25449ef83dbfc86e0923d2/bolt-0.30.1-py3-none-any.whl#sha256=c2f66ae3b3e99b676c946536aa0fcc6b53bf4021f502cfeb0b3807ab523a92a4" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.30.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/0d/77c8f16c114d04b3048d1960a9e546e84c2bb9de76a5eae56b0878b95fb9/bolt-0.30.1.tar.gz#sha256=a3301993fe870a2984a820c78faba301898d730169537bb22c716644dc8fb1b8" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.30.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/14/c9ae04b4551e87644e2061ebba7acb8133b7170e88945c93e11e37cc79c5/bolt-0.31.0-py3-none-any.whl#sha256=89b54ef0048a82f60e84e4dec5bfc118ffd13576ce9cf7600099b88408a9a41c" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.31.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/15/9ac9094240376148a01843a9b2d00dbc1ce3eaacc6e27f235834b8c18af9/bolt-0.31.0.tar.gz#sha256=f95d164e554bb602fbdcfafa59fbc694843a9aa5247829677b10644db624d51a" data-requires-python="&gt;=3.10,&lt;4.0" >bolt-0.31.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15982365-->
+<!--SERIAL 16923976-->

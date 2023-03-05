@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for blazar</title>
   </head>
   <body>
@@ -42,6 +42,8 @@
     <a href="https://files.pythonhosted.org/packages/04/1a/90446a564c6921d480cc5f838c0202e1278effef16488e81e57b44647999/blazar-8.0.0.0rc1.tar.gz#sha256=544246b6462fa1c6ff17618de50ef6a572c928598ae8f68c23e16eddf4245ffd" data-requires-python="&gt;=3.6" >blazar-8.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/70/d4/2dd6525e263ae666401312892b0a71e210d0d7adf043e398005cbe7f7dcb/blazar-8.0.0-py3-none-any.whl#sha256=3d175df5bb5f0fa1a0e075c6780c46b72b0ffd5651c17b8974f5ebd73d7a5538" data-requires-python="&gt;=3.6" >blazar-8.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/99/d0/7cad60240b95ee0298db9b789d04eef4a64723f80b79933effee85ffe593/blazar-8.0.0.tar.gz#sha256=46c04d848b8b0b8d2825bad12f2f808e38d74c52f8b67ed192d3609940fc427d" data-requires-python="&gt;=3.6" >blazar-8.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/fa/c1145530043a501eed63ce94e3c1c539867d16a209ca0c3edab3410b5d40/blazar-8.0.1-py3-none-any.whl#sha256=d4605e1920d87d2f198b606d90733521f08b715b75d9cf531a6a0be3f3e8aae8" data-requires-python="&gt;=3.6" >blazar-8.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/fb/b1f7fd9849664217e860c4682a041ef7c72f8d7df0ae2affba7304ba0839/blazar-8.0.1.tar.gz#sha256=3a16421b584660f038f565db3927cd3035a5afb290a72c6a7d2949045a4b1d40" data-requires-python="&gt;=3.6" >blazar-8.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/66/3c/f92de4f33c5c2befcb1d647fb44a41dce64e65819168e90b859d7cf906fe/blazar-9.0.0.0rc1-py3-none-any.whl#sha256=d5a1545fe729099cf60beba61198cd0f621c41b564ff3feee775e202d1730c7c" data-requires-python="&gt;=3.6" >blazar-9.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/38/fcd342554cf306c7885b6226c6d06cdbaab6881dc8ce812d9f7ce7b832f0/blazar-9.0.0.0rc1.tar.gz#sha256=5cebb74a15834fe2cb907f6773694272a90d9873114e68a5aeb39f36cf1ecd8b" data-requires-python="&gt;=3.6" >blazar-9.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/02/2c88b122bdaa76f24fdcaa12f892e02c8ceac03357a9ae04b710739e9f09/blazar-9.0.0-py3-none-any.whl#sha256=e60f784207085cd6e59ee9af98ce146d94c70174c806d9e4f62e5262b6fee7b4" data-requires-python="&gt;=3.6" >blazar-9.0.0-py3-none-any.whl</a><br />
@@ -50,6 +52,8 @@
     <a href="https://files.pythonhosted.org/packages/a8/4b/bd3ecf2fa7e77b99830787f7e31d307b890b55caf86b79fb020c1f316f8f/blazar-10.0.0.0rc1.tar.gz#sha256=6981061d6778a591a2f522939df812ef41f062821ab25765e8a8b31f7042ac82" data-requires-python="&gt;=3.8" >blazar-10.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/45/d4b19f29ba9ad285d678056f68d816722625e0adb31d0e7f374171f555fd/blazar-10.0.0-py3-none-any.whl#sha256=119e48303b64e986479e375e991fd58ecdaffcfc38eeb09dde63ee9e9bcc39bf" data-requires-python="&gt;=3.8" >blazar-10.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c2/83/d4e16521381eca4b02f54a6458485c8ef756c5a065a21097ada2c040289b/blazar-10.0.0.tar.gz#sha256=4d411086b43dfbfc79cf4cbe7e5761a60a2ccb29e612a6a7b7efb6824b71b69d" data-requires-python="&gt;=3.8" >blazar-10.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/52/153f6461ad9df5d9fd191e92e3ebfe36f0b90761c3e05ef39cd654e4eace/blazar-11.0.0.0rc1-py3-none-any.whl#sha256=fe154b07c3ece5616784cd59c13e6856c1af3d9b1ae0c6943414427c5edc7578" data-requires-python="&gt;=3.8" >blazar-11.0.0.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/e6/3c396a7dac4964ced2756d16ea76c8b40ac07c0497bb61bbfb99969a50e0/blazar-11.0.0.0rc1.tar.gz#sha256=9b4e8f3740fe09dffd7c22514e8f2ba1e8f7abb0403ecda869a3ef1ffc6dded2" data-requires-python="&gt;=3.8" >blazar-11.0.0.0rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15311603-->
+<!--SERIAL 17095843-->

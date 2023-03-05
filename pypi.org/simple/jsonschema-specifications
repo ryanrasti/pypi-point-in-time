@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jsonschema-specifications</title>
   </head>
   <body>
@@ -18,6 +18,18 @@
     <a href="https://files.pythonhosted.org/packages/fd/28/0d9c35c36b4e82e462f1a7b2b0eca12f9077df53f28c2c1efc653c973bed/jsonschema_specifications-2022.12.2.tar.gz#sha256=d22fc9d7d743ecd90003f5c31e20c80885130f6fc56100dccb51473bde1a0fa4" data-requires-python="&gt;=3.8" >jsonschema_specifications-2022.12.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/65/9bb5a407f71b7d0d69ded394e1c77f3df6ce1e104bf977ad3457a35ddec3/jsonschema_specifications-2022.12.3-py3-none-any.whl#sha256=33532f9f9b5d89b36bf532085fa5bd31c68d1127a05c4cd75e9ddb29cf48170d" data-requires-python="&gt;=3.8" >jsonschema_specifications-2022.12.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/bc/6786a24f5a94a8ee3ddfc5d05f89c8d4ab8cd83f2817c89b616ba4d8eaa5/jsonschema_specifications-2022.12.3.tar.gz#sha256=fef851ead358271c9b5cf75dc663e9e18154ad6c1e3b95a022007ff289c0ec66" data-requires-python="&gt;=3.8" >jsonschema_specifications-2022.12.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/21/3079b64bf6836e397fd1ff83edb77a5e169ae1c8ae69dd936a026db22dd6/jsonschema_specifications-2023.2.1-py3-none-any.whl#sha256=e86b16673903dd035a56759b366016a99a3f1b54a144723ffb2db355be202c3f" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/ff/4f8bfbc6eb72b9ebbef7c66b7d11e32e92e495fd55747158851bc94b460c/jsonschema_specifications-2023.2.1.tar.gz#sha256=e04d464cc4539069ec68d96fb85d60a7d44c492ca58a13925859cd43f5e6e499" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/3f/c5ceb594688ee4725a214d157cedae321d158b42e554573fea1dab477114/jsonschema_specifications-2023.2.2-py3-none-any.whl#sha256=e43901f9190adb236cfa1b9387f27a8ecc306b04d7cd0e9aa292488d7d1fdde0" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/54/01696fad602336537df79784d5ef5c4f00f2748f9b0bf88be49c31ce2a48/jsonschema_specifications-2023.2.2.tar.gz#sha256=1837797c11a2d118ee465793df160f781fb21f82b97e45ae3c24b63841b9cba3" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/77/ecc85bde529da14f8df81f4a9e4d164e51701cc1e5504077d33b92aa6e5a/jsonschema_specifications-2023.2.4-py3-none-any.whl#sha256=12da0251e8b9d088262370ac2ec8dacca92563f5baf15b173459108599f4373f" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/a1/592233ae107f847719bc5fdd3785283691b64bbb9cbcc5ee2e816c41a107/jsonschema_specifications-2023.2.4.tar.gz#sha256=1c0bfdc551552e4c8756606e38f50eaa43af0b0ee1fefb5aadb63a784be64565" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/f7/f566945b3364d0c5a0766b9000f1b49b2f87bc775af8a20c16848b8796b9/jsonschema_specifications-2023.3.1-py3-none-any.whl#sha256=33be8d8839274b7b3692beded1a7fbc724f0ac0112372fffca043e55da9d2c69" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/21/13610d2cf087654575f421f544bbc67b0baaa0e0df6f1124554634416915/jsonschema_specifications-2023.3.1.tar.gz#sha256=83fe3ada7e2b038ca7e8412000b3c952c741d348b455d396ece2f08d89846f2c" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/81/f0a001f1e352279aa253a2f9a104e033dcfe8e696f743cea70db7b3806bd/jsonschema_specifications-2023.3.2-py3-none-any.whl#sha256=9d4ea2bdc0992aa1d434e3e4743f597aa745f5208e477966314c740a33a1effe" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/2e/bac6f236ded8f6750a824ce0ff716199b8b8687fea15aab622375ca2a3c7/jsonschema_specifications-2023.3.2.tar.gz#sha256=5802bd650c01f47668a164e2505f375e673e1fee68f08a4c6670c5fa50e8b436" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/79/04f37f29d1440153658bdf1b2029444b468ba52e4f5b426a5972634751a9/jsonschema_specifications-2023.3.3-py3-none-any.whl#sha256=764a2b9325c225208121948b15f2b2d16fddbe223fdfc096b45c70c1f7f7b8c1" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/bd/23109f3a3ac2204acc75a9d7f06ba2e02c1c341e23d3420044d6e16bb4fc/jsonschema_specifications-2023.3.3.tar.gz#sha256=ea8ac9919aaba3a42b76bac0109b473fcc51bc39ae3ad997a56323bfb9c3f116" data-requires-python="&gt;=3.8" >jsonschema_specifications-2023.3.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16233746-->
+<!--SERIAL 17071232-->

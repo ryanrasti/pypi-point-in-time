@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pkgmt</title>
   </head>
   <body>
@@ -43,6 +43,26 @@
     <a href="https://files.pythonhosted.org/packages/80/b3/8b38214a5b667b63a6f3584a69318bb4bc29ae7d1edd448fbd745077ffa8/pkgmt-0.0.18.tar.gz#sha256=ce7023de556869b41312d0709e8a47d13cb92a3db021acf056a1069938685dbb" >pkgmt-0.0.18.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/eb/77692582406b4938729f317a6fc9a40a1ac68ac73307914ca209334a71e5/pkgmt-0.1.0-py3-none-any.whl#sha256=34d6ce8972374e21a2b35f3c37485a1cdd989f96cac460e0d7d22eae4fa4002b" >pkgmt-0.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/b2/1cc841e27b5ee9f1a44fa4d45f972bf75d6209112ea70bc2e8f874b2f9d9/pkgmt-0.1.0.tar.gz#sha256=5ae181832fe685c6381c02f7ce58a1377a052fcaa19f2931a848d845b6c16047" >pkgmt-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/1b/409c749aa3b57f298fe34e8a7af3e867d52241f49bf37fd5cae66a8d130b/pkgmt-0.1.1-py3-none-any.whl#sha256=dbce85d88aca0fa89bfa46d1e0d0564c1e8a156419d5eb5655f837fd248fc66e" >pkgmt-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/11/6d41249b57c5e10c79e0539071a2ebecbedfc78eeb06f559f80ff56663d0/pkgmt-0.1.1.tar.gz#sha256=7c84c21551bd047be25c28b042e5a720c54adc6232026d2df219a014ad82e8a3" >pkgmt-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/9a/4278d1496b85d4e8f2466f91aed1fbddf48b8057b98a4cd8c9832d1a0cb0/pkgmt-0.1.2-py3-none-any.whl#sha256=7be4c8f3e3f15821d0b93f47e0d93148407dde5b94c52e0ffe793edc0fa49a4b" >pkgmt-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/1d/e0dbf5c32b0bc4c7354b307da02d8351632d5295502931adaf16a4a0e620/pkgmt-0.1.2.tar.gz#sha256=5da2c9e82d395a3dd942c4d5c418750e739466c7e608fb17873c967b31190a4e" >pkgmt-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/a4/813ecd188270a15a2ff4829373fdce07e82787de3937c40455df2748001b/pkgmt-0.1.3-py3-none-any.whl#sha256=d452265e7b626c5fcf7b41e88e7cfd824f3348c367b46b64c003a419c4429e97" >pkgmt-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/77/7054615a583a23b13b3a1c88d1d9f3738a4bc9c9599a1185ebfd0f562816/pkgmt-0.1.3.tar.gz#sha256=14fb47bca684081a3e7d7b89eca6385e63348023398ebbf18e6131a059b41549" >pkgmt-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/50/71150731ca1b39770d47725cf4c710737feda9865832cfffea960237167f/pkgmt-0.1.4-py3-none-any.whl#sha256=f89966d41a66fb7f2baf7a79e1c7e393495c363ed2b216d4781a0a41189be711" >pkgmt-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/3a/ba597cbed3b3b31537ab497cd52df1195a5a66e91c2e74dfcfe17f73a696/pkgmt-0.1.4.tar.gz#sha256=9b6de59d1e174fbb7913110b2e884364fd54f7e7a44046b93fec7b2bea2cc03e" >pkgmt-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/5f/a81c563f03290839f862d34791adeec02b798d8e621a6ffc18c60feb1828/pkgmt-0.1.5-py3-none-any.whl#sha256=260398c7bbf91483fd6a036b8afccec772eda1c8e4ea6d1c6f8aaf9079b95de2" >pkgmt-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/d0/350091f08efeeb649c4df5aff08b7461c3df57dd5649301d1f28acaa0df2/pkgmt-0.1.5.tar.gz#sha256=38567e67b7334bae03354779dcdf115d5a2a348800121688730b54fffbd0f69b" >pkgmt-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/af/62d822d76bc87148e19e8fda5622d09d2a044845b875906d484cbb14add8/pkgmt-0.1.6-py3-none-any.whl#sha256=0a3ddd9b5fb263423b78b266b7c82569c1513e5364fd9c3b5694af575a2344b5" >pkgmt-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/28/f92b3a5c8a6a16bd4d76503a0c6eaeed5d4419ef9b04a561531a50cfb017/pkgmt-0.1.6.tar.gz#sha256=bed473e7487877037b0a68717af963529af019ef9ff4f39767feddef42eb91fa" >pkgmt-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/5f/e0e216c51a64ce6f90a6e3086ef7c2f1d4d90d2e9f6747e5ca04754efb5b/pkgmt-0.1.7-py3-none-any.whl#sha256=f7c1ee3b7e9a5c23091bcf64440a5565ee64452bebf568bf062f6fdc5d53dbf7" >pkgmt-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/96/296701c8ee62b09fcc41db022dcbc04de9cb5dd9d54c93b323ba7fe70c7c/pkgmt-0.1.7.tar.gz#sha256=66fd873a90aa9554ff49dc0dbc58c459dabb8fbc5e86f68b6c92d6ab288b205f" >pkgmt-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/09/525b6375439dade276bf4be4a8ba1981d202736c902707c1614374fe24ff/pkgmt-0.1.8-py3-none-any.whl#sha256=046459cd65a61903cf5615a7d655d840a32962768b2e2e75dd2726c6434f14e5" >pkgmt-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/89/80095f79a1785a2e12f5a84c6b5a0956b40bc2a15242bc662ea9d3b6d455/pkgmt-0.1.8.tar.gz#sha256=2835c7137498a4a4131f07faffdd4be43c8ea322a55e1e3896707da8d6a6b407" >pkgmt-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/92/3432409d706c17eec0d091522e86ad1d1633922edd2c9b0d3e9e55b3c251/pkgmt-0.1.9-py3-none-any.whl#sha256=5edacb57fa17432e1404205f9433c1b164ff6c9f25ea7acd09ded0f92801a34b" >pkgmt-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/3f/1b895dfe6a74081abd837bfe98390cc26f224e2f292e7c759fcfe6eb3e12/pkgmt-0.1.9.tar.gz#sha256=0179289a3f8c5c6915faf51862d22cd9a72fa9d9a6921f06ceaae17ca039bba3" >pkgmt-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/59/8a580688c0646eb522a77701e070f7faf7092035543e09caa3f5c6af5d23/pkgmt-0.2.0-py3-none-any.whl#sha256=2a9908e709e8360c1b4b838740fa7350603cb6ecc0ac0c672e7531524897b270" >pkgmt-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/48/257b139d8c4fa20f70d1ceab120bef64e00d168ca152e81f01ab1404edae/pkgmt-0.2.0.tar.gz#sha256=19b2e355db0b33f454e6fdb6bb8b9b01b55cead753cfd07a5945e25581bfc4ef" >pkgmt-0.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16338186-->
+<!--SERIAL 16792430-->

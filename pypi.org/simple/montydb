@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for montydb</title>
   </head>
   <body>
@@ -55,6 +55,8 @@
     <a href="https://files.pythonhosted.org/packages/63/5d/8653da2c3e6d852bf984efa442cae0667c62ca7b3d72e8502d5f29c8cc64/montydb-2.3.12.tar.gz#sha256=188a16c115f7909aa8db51f5f90460023a41405a3d58cc484d2b64764e356afe" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,&gt;=2.7" >montydb-2.3.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5e/45/c888474e7d496d22b08a85aeef6672ecab1e42b5e0468a5b31366ac7bd97/montydb-2.4.0-py3-none-any.whl#sha256=a84da644e05a296dfa88f893e0c5434d964e1baf5d884083e05a9361e06e4a5c" data-requires-python="&gt;=3.6,&lt;3.11" >montydb-2.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/43/f2/111a745a4019283101caa38ac31ff66f161b0a0c533588eb9451cf766902/montydb-2.4.0.tar.gz#sha256=be0c710435783180a7cac7dc3760f1b6579eceb6ed72a2b773d8898eb3280fd9" data-requires-python="&gt;=3.6,&lt;3.11" >montydb-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/8e/9cb63a8f995587276a2321d664c5c94b16d4a433b240e911b772f58a4eb6/montydb-2.5.0-py3-none-any.whl#sha256=a6682bf3ea8dea5b931e79d936014435ec56aed28425e28d5dca74751b03233d" data-requires-python="&gt;=3.7,&lt;3.12" >montydb-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/a7/15299343e0a2d7d6f53bcb24a0ce6889ec5a2c5acc9177b8853abb37b9d9/montydb-2.5.0.tar.gz#sha256=4f9666fd1a33a77851ebf22d3b0f4f73037206b79d1e2d1de52a8bfa2c27bc5a" data-requires-python="&gt;=3.7,&lt;3.12" >montydb-2.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13750897-->
+<!--SERIAL 16687667-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gpboost</title>
   </head>
   <body>
@@ -191,6 +191,16 @@
     <a href="https://files.pythonhosted.org/packages/c4/0f/b77959761b7f307bed5170873ef3f2605a9d5f68994000082a2b8c368873/gpboost-0.8.0.1-py3-none-manylinux1_x86_64.whl#sha256=f796d2f5ef813c195135b1b53bccaa24377c7a3be136b299c88209abec805559" >gpboost-0.8.0.1-py3-none-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/94/ee/ee88f279a77f92456ee6eb82520933ecd1fb5c64ab8f1b79ecce92def77a/gpboost-0.8.0.1-py3-none-win_amd64.whl#sha256=b1c2f3dda5e31713ba340b01c110d9f950ab21ed694958580cd16b4876403591" >gpboost-0.8.0.1-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/20/7cc50011ef8d312550086bb1be054fb03c9fb97096debc960b5453101217/gpboost-0.8.0.1.tar.gz#sha256=75aea6f51bfe34cdb67db89a6cc06c4dbef2c951a1a2c7dcfa5eaea3dcf7c92f" >gpboost-0.8.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/33/14c09fa2d9ade73724ef7093616cb4cb88fb3e0c50920b1478cf1ed3f003/gpboost-0.8.1-py3-none-macosx_10_9_x86_64.whl#sha256=7c7c0f933cbac089638f82a9ecb40b117c6f9e156e84fb91821438e426b56054" >gpboost-0.8.1-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/a7/e50fde2dc272931296f6994ca35988a2bc6d83ea392d80f44a8981188d08/gpboost-0.8.1-py3-none-macosx_12_0_arm64.whl#sha256=6b57bb8a6cccd9b2b9e97150fdb2f38ec1fd92c9aeb643fda88aacd7cf1dcf7b" >gpboost-0.8.1-py3-none-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/03/ea4320c9729c6a35d2ca7173f0ba650f52655345c2dce3e37ef182094201/gpboost-0.8.1-py3-none-manylinux1_x86_64.whl#sha256=15a9cdfe9d373aaf904d25b48fc2bc39e8cd7221ffa03c9b198cc618391c09aa" >gpboost-0.8.1-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/8b/085f8501ba6083b30912339d65a46d34f4fc4b2fe9209ba6ef95973c5454/gpboost-0.8.1-py3-none-win_amd64.whl#sha256=64da37ea4dbf94a9ceb40f743cdc5ad96cb88d123f8ce39563074533aa5f9dfe" >gpboost-0.8.1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/41/d48d66afeee5ac1ee45a0495a750766588ce77b8aadd6aad89e3a214d383/gpboost-0.8.1.tar.gz#sha256=6c48930f65d8a9ad1a5d5dbd683a8eecceebfd1c5cb55ff5d4bfaa6ae5f0b73e" >gpboost-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/12/bf377f4d6f4f421a3e4e748ed7a2b2254f666007d8f4663f75c92721a81c/gpboost-0.8.2-py3-none-macosx_10_9_x86_64.whl#sha256=714f672fc30e9a466e7d2d7f8111f489df171d4f91bb83c03ec4132d4cd97f2c" >gpboost-0.8.2-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/01/8e0943f1cba01805189de9ae44db886a3c71981e781e00721db514fb3adf/gpboost-0.8.2-py3-none-macosx_12_0_arm64.whl#sha256=ce0d5c4f4d974c4615d282bdcfd60392d9beccc1234eceb691ec07d647191b79" >gpboost-0.8.2-py3-none-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/e5/0d9142283e4491d94f6e0a9f9587d9c426d644a7c15914e1abbc473834f4/gpboost-0.8.2-py3-none-manylinux1_x86_64.whl#sha256=5eb25c66ac6ce0f16adf12f87140cd5c96b8798e02af8bf9a4d36a2f14b7fe89" >gpboost-0.8.2-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/b2/5f6bca84f17b0ea14483d76973a385add31e76204aa8555520395ffa2c2e/gpboost-0.8.2-py3-none-win_amd64.whl#sha256=6b47326a6b3e57a57c7af9b38f49399701ec803761931cff970ba9ba63d92e33" >gpboost-0.8.2-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/98/9a03820bfea5203c2eba9a991d361497ff83bf707578159468c1eae71523/gpboost-0.8.2.tar.gz#sha256=0d24dd0a0c57143be6a75f3aa46cb231e5e8091fd9abeea878b7eb4f42a4cca5" >gpboost-0.8.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15993580-->
+<!--SERIAL 16905065-->

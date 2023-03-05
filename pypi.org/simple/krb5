@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for krb5</title>
   </head>
   <body>
@@ -64,6 +64,16 @@
     <a href="https://files.pythonhosted.org/packages/c2/66/b0f0ea0d4066ad0b853f79ccf1e78a9335ae82b606d84a1ce7ba57c4f036/krb5-0.4.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=82251d33ee1f393de64ec69bfe3ade32a7e8af6196aca42ae52574d8cc48be77" data-requires-python="&gt;=3.7" >krb5-0.4.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/0b/8e074a0a7b2876ac86c556f0654380a1ccccb1aebe31153e5df3fe99f60a/krb5-0.4.1-cp39-cp39-macosx_11_0_arm64.whl#sha256=474ef323593b0cd0d5d35f2deaccc828f544843a1e88cf93ba3fa385c3332228" data-requires-python="&gt;=3.7" >krb5-0.4.1-cp39-cp39-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/56/f6/64874f52a47e652e37c8648665374e723500a62d82938ea2db842496d2ed/krb5-0.4.1.tar.gz#sha256=606059b9db52086f4e03e15b161d1d172ccc1172880e42fa5744f99a4407cf57" data-requires-python="&gt;=3.7" >krb5-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/1e/380b15c72ef9e75c01352d80421108fa7f6155fe3f9c6e52de4962c09662/krb5-0.5.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=db6d5dada48a2e14793e3e61213fae5de3787c4f3d74dcb744ef8bf3a87afa96" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/d9/a28b9dfbcdba55432720fd29a21e94318ef253b9ab70cdfb586507ce79ca/krb5-0.5.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=939ba0fe5dd56eefb666485adc115216c034711c2ecf7a76f7a42864c2831a8c" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/a7/b51b162219155eb858c9d8353f227f71e2228c018d599043177fc639ff21/krb5-0.5.0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=a9609198ba4aa35586c1ceb55171c113434eedcc97187a9f743be32c4831115f" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/18/3ace9f937d358671a2b65e3a3f7c79af7cfc419cf0115d88a01dfb33ac4f/krb5-0.5.0-cp311-cp311-macosx_11_0_arm64.whl#sha256=31603913a068c148639d62c9aada9f51ddeb4ba77594c2d9857fbdfe6824376e" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/64/e578a981a07c60fe730689f8f1c71dd6c1626f5437c531a03a806cc0daa5/krb5-0.5.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=8221f288dc993013097257f0cc612132a07b414e0c5dc69396387c13e07e369e" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/52/fce96ce9d71bdb788341b6f503a645254b2451fcc337be56fa02e93cdcc3/krb5-0.5.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=e0a9debe7402ddb06f8b15d10da5894ae536317b80b95bb2393e916fd7e807b1" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/36/466e81cba9c7a68ccae2916a5f3ab78a9b89415c111d2bcf229233fbb1a1/krb5-0.5.0-cp38-cp38-macosx_11_0_arm64.whl#sha256=bfd76ea4e4aee06a23da7cbec1c50452cf0388f05fd63fac71b14b4a9474c250" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/83/8ad161ca9afa71b345a6af5d5c2613bf1f66c2ff1892a85c300d7eb14f13/krb5-0.5.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=3112879e5f77cd7f404c61552fceb9c8745cb330086db822289e10fd68911f33" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/f0/220c340ab5dc1f949f40d5ec3674f5faf87f12bd71cee1876ef69c94b8b2/krb5-0.5.0-cp39-cp39-macosx_11_0_arm64.whl#sha256=6e1ae1c1b114817a7fd12c6427688a00b9bc8fc3b9896efd455f513d8d3e1111" data-requires-python="&gt;=3.7" >krb5-0.5.0-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/e3/50ce47968c1ae283b99410ebb6eaa595b2f016f35f15a9d11426db65ae3e/krb5-0.5.0.tar.gz#sha256=33d6cf20ff9710cffb883136387fabc906360de1bce58bcd5673c4bb420e1657" data-requires-python="&gt;=3.7" >krb5-0.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15528153-->
+<!--SERIAL 16933999-->

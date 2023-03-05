@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rpaframework</title>
   </head>
   <body>
@@ -395,6 +395,24 @@
     <a href="https://files.pythonhosted.org/packages/bc/be/7c49e54613603c26e861dc3896484f70a1fafc6736e6aeca343d493a0ef0/rpaframework-20.0.1.tar.gz#sha256=87f28fbe79936c84e4627e11fa967cc753cfa3198b651e769947e2cfea7aae40" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/0a/c4beda2413cc5af7c3d0f7bd205981c5762f6579779b55d73fcf5dce3e08/rpaframework-20.0.2-py3-none-any.whl#sha256=68930d83dc7203aff37e7e3d70b003ac1121b91e717edd2663a1f91101e4a0e2" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/68/cd40c2232ee37d3d0ac38aa506ccdcae7ebbdb5f0b473fd180930a3d7cfa/rpaframework-20.0.2.tar.gz#sha256=2d9109b5fdb8d47ea1f52719a216fd9924a74745a0f7f3b8c08423630060b4f9" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/e4/15fbf6f51b6eaad997ef54cb8f8d460c188225c0b1790862158fee0706d8/rpaframework-20.1.0-py3-none-any.whl#sha256=a8dc196b5e644181a94179e2df835dc6e6c4529fe9f81e53a2dbbd7773b67e4b" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/68/b8423e65db070416c8fd867d2f8fb6fb9b426854da143b360e5088dd9ed6/rpaframework-20.1.0.tar.gz#sha256=e8532dc1141a241412ee9f0466f253dfec6dfa407ab7af50069ead240d07cfc2" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/a1/f2b211362724c672c2051e40cfa65eba9dc23dcc37af07223ea26ff51ca5/rpaframework-20.1.1-py3-none-any.whl#sha256=468aa40080977dd14ec563c390b4f7f1fd3da8f170e615552c7b116ec59a2084" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/f1/78168ec1b289c1d079030976f293a100d6eb9a61f96dfc66eec24d1a018f/rpaframework-20.1.1.tar.gz#sha256=d3f4e282c280d9b1413d89e26d3e03c246d52d538c629f255a689295fc62cabe" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/f7/3b72df023226a89b8a177451f428dab2cba3382d39aa1a9c1b5bd5cb936c/rpaframework-20.1.2-py3-none-any.whl#sha256=33f9b27b41ea4f52a53f6fb273255df90ee545efbe2e3b0e5aa1f7e2bfef61ef" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/08/96f9d3110c4bfe69bf559c1496a123fa5de5fdc6a49e80ce795e202c80c7/rpaframework-20.1.2.tar.gz#sha256=babf77ce86c9714704b4d4ef7be5342d19ad404920cce58931929643952a2587" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-20.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/90/c1d28725f344afc9b595865ce7027b6f6fda0a30096cdd455761fd984e60/rpaframework-21.0.0-py3-none-any.whl#sha256=a03b3376af8698bbe77b18a93733aee17e268d5f702d3334af3f3a274cc786a7" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/e1/79b9215ae9f99c3cd4218063ef2ad46c9d541492e1a1db9e7338d8ae67a7/rpaframework-21.0.0.tar.gz#sha256=029087b561a6363cabd635260b51a569c0fa1e56ce595ed66ba1e45a1f71f42a" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/f9/59ec86f62ae8c6cce2a158ba4786fbe78fac1b8f17b1024d743e655a7995/rpaframework-21.0.1-py3-none-any.whl#sha256=6831947c790f8b34bea977e2c875ade17cc707580b6604956d27efa4e39da361" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/ba/680078013bbb9d8460d9a7614c487cd5cc0f878a3855f94bae84567689d6/rpaframework-21.0.1.tar.gz#sha256=ef71d6feee4322432a15b55daf689dc1713e39b3754850e585daeb5c50eb9295" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/c0/ee23effcc476f397522bd785c0220b2577119e2a9a9230f02adb39796d9e/rpaframework-21.1.0-py3-none-any.whl#sha256=28ca94e04f695ac6921061c3b15b2230a3f1af8c60888c0857b859b0dacbccb0" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/82/5021b2d21b60ba195afd75cae816e562795efd33f10df09c0f8aaf81b98a/rpaframework-21.1.0.tar.gz#sha256=2bbf0963ff7abbb15868503438c64d61f6e8b1fffb8d14547c60f01e5d2fe798" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/d0/b5e6ff6927912a068ff759972dd859594e6877a57fd864c4a3afc66798c2/rpaframework-21.1.1-py3-none-any.whl#sha256=8106a916ea732fb46198dfa7b1766129ac516eb888a6923f24c352a13c07e8c0" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/be/90fa459c8e78aab26d6e2d29f4f458619ec6adfefd86f78eadcf7ccad300/rpaframework-21.1.1.tar.gz#sha256=4d45099adfdc0fb0f22e03db6418dd175665b937ed356f3a5b40cc129c4a33b9" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-21.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/d3/ec4d4bd22814c62d7de8285e97074da97d1a77a62899e7388fd503b724fc/rpaframework-22.0.0-py3-none-any.whl#sha256=7337b7a8fa266a9871f861aec3e4e8767661c958445647341ff7e60d9db880f8" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-22.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/a0/ffde45c5d3e5d8dbdfe75255fcda50ca930be03f4af94858c02e1f476794/rpaframework-22.0.0.tar.gz#sha256=5659e0b60e8099a2b6c3e504d90890e64ae1afabe0308c4c53e915681167b62e" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-22.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/77/32cdc57a002f010f3b890a70c3a58e941b68a7664a92c260d4d5d24a0a37/rpaframework-22.0.1-py3-none-any.whl#sha256=7e19d29669638deb85cbce864dd57b3cd78ebe1959a648ae98322b531352a62b" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-22.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/9d/db6d3c60df6c4ee721fab42645dfe9b25686651b6cb16b6e2a5fa30cf425/rpaframework-22.0.1.tar.gz#sha256=db9894bdc997fd7ee4ff512e452407203db133043e9d9064a2b2b3d7935db2cc" data-requires-python="&gt;=3.7,&lt;4.0" >rpaframework-22.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16374256-->
+<!--SERIAL 17141931-->

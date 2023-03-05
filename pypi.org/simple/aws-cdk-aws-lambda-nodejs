@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-lambda-nodejs</title>
   </head>
   <body>
@@ -394,6 +394,20 @@
     <a href="https://files.pythonhosted.org/packages/6b/e4/a043038d1a1cd3acd3f28ae9ed5c21fff7f3070ecf774d95e5f277b8556b/aws_cdk.aws_lambda_nodejs-1.187.0-py3-none-any.whl#sha256=ec051d8471e9297a662945c98d69596c3157efeb2935c6a6bb2618e375ff1d51" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/b0/08a73c7a9fd4f72aaca8177a14db38c641b3616219c3d4dd76900a350500/aws-cdk.aws-lambda-nodejs-1.188.0.tar.gz#sha256=e5f7d3a0265e8561f71e7682eb4a90cdd5b8f292b93e65048f30f79660589590" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/46/3a/8cb1dbda83c1abb11f5e09ea0f8b52f92a256b1906c071cfec7dba8354ba/aws_cdk.aws_lambda_nodejs-1.188.0-py3-none-any.whl#sha256=1dfd87fca72fe3244c951ed26499c1dafa1ca169d2234164d76dfacfe0900c54" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/bd/fcf55204f8e2c1f7e1a8618bbd6feb205d7bd89de65d39288b6f1d9631a1/aws-cdk.aws-lambda-nodejs-1.189.0.tar.gz#sha256=8bbe626d49da62526781cf9c95877c4283c09ff7ce7eb3a9d55d580e880eb08e" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/0f/971146c929bae4b1723ee3123e45a7a75092f2954c5a5f7eccd8ef21a012/aws_cdk.aws_lambda_nodejs-1.189.0-py3-none-any.whl#sha256=d41c90a55942eb4d2d3cfa85491e3c75ec854fc33741fcb8ba242d255a7c7146" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/20/77f3ae604382c4ff25f9a89914c92d59c698015bac8f6e828a97638b13fd/aws-cdk.aws-lambda-nodejs-1.190.0.tar.gz#sha256=7cb1a05e7dfac34481f102876aad465df7e1c98e11c6c4f499bf2db4403123f6" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/98/857f5a5ddd11444f8a61cdccae8fcbe3f811cc185e727d3d73c2308c26ab/aws_cdk.aws_lambda_nodejs-1.190.0-py3-none-any.whl#sha256=3f950bff753b62f656b984ec3369038d4cbfe2365f9f4c52d2f9daccf619b831" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/b4/df42b1472c260579fdadabe086642461f14130cd85eb2e1b419e9ffcd8c8/aws-cdk.aws-lambda-nodejs-1.191.0.tar.gz#sha256=ce106249a23d59cd66e05fe57370726281ecebac5d9cea7f16ba58c94b2c40fc" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/b7/2aa529540020595f2ad32335330f9066479e2297555bf023203b4f0113f8/aws_cdk.aws_lambda_nodejs-1.191.0-py3-none-any.whl#sha256=da9084e910b9aa7b4b3377a61551fec5306a56c80add82d402a11c1ef8e5cf2c" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/f4/3210a6a94db8535f940d01d63d2a698240512f81a9e1bb51be85f503be80/aws-cdk.aws-lambda-nodejs-1.192.0.tar.gz#sha256=20340ae7616a029a3356e37e7ee5fc436cccd27156532cf9c26f9abe654a71c0" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/50/2f19a219be6be745e6777381b1e695418849bd787c816f4eeccdacd9e989/aws_cdk.aws_lambda_nodejs-1.192.0-py3-none-any.whl#sha256=dd049141ad7aa7ae2bdc153c41267c59ab9398eee3c8c432bcf3e1e9478c094c" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/15/1273df175cd3adb8a8e1f2fea8f0c3f6a793171c295331a1771aa3265658/aws-cdk.aws-lambda-nodejs-1.193.0.tar.gz#sha256=a2da6949c92c6466b1aaa48ef2435a9e35972d0e5518eb05c33aef560ae6a694" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/e1/45510f568be4710ae3372756aeb57d96725946d36cb1372ed58cc3255d90/aws_cdk.aws_lambda_nodejs-1.193.0-py3-none-any.whl#sha256=67440d767bc2533ff985c308ecb2ae152007384e43d43193ce59412594301386" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/98/05505a1960f71201ac4d2e78c9512528cfd6e89b02e334c207ce47d6ea96/aws-cdk.aws-lambda-nodejs-1.194.0.tar.gz#sha256=f9b3dd788c2298006f8548e123bc1941230a90eb60a804d727ce04af1a5bf91d" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/5c/53c1fdc3e7de77fcf4d5434258b043f2a05e995ee2c4bdb5acccbb7358c4/aws_cdk.aws_lambda_nodejs-1.194.0-py3-none-any.whl#sha256=d8813466951ae9ae68e12aebcbf02f8d4df50b31337749dea0f796824888505b" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/c4/97c21fd5e070c37c67b6ef86885188f0954c7ab86317771970867ef7b56b/aws-cdk.aws-lambda-nodejs-1.195.0.tar.gz#sha256=54bbeeab18b8a6e6e9a5fa60b80777f1905e0dc7fc0db1ebebb228a8c0f8ce1e" data-requires-python="~=3.7" >aws-cdk.aws-lambda-nodejs-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/e8/58ddd9b749b0d419f17eb1530d76c116038db9add71c3f60ee4f5ae94583/aws_cdk.aws_lambda_nodejs-1.195.0-py3-none-any.whl#sha256=27a8f50c929ca70c83036282b800b07b459f1e3bf35620f76500c9443dad0780" data-requires-python="~=3.7" >aws_cdk.aws_lambda_nodejs-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393418-->
+<!--SERIAL 17131948-->

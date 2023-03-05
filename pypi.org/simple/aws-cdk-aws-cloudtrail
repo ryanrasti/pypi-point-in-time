@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-cloudtrail</title>
   </head>
   <body>
@@ -488,6 +488,20 @@
     <a href="https://files.pythonhosted.org/packages/85/4f/70cd210584a883321db9b2410838dd30702f73f4b8b07ec927c112bfe34e/aws_cdk.aws_cloudtrail-1.187.0-py3-none-any.whl#sha256=5f16c0787f91781bfce9df68ad2e4ecae038340fefbb2881d48351aa954b80ee" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/a2/e0cb5c41d4dd00aece09a00bdef69cb4bc0293993825bd1aa4d69fa63dc9/aws-cdk.aws-cloudtrail-1.188.0.tar.gz#sha256=36e4def07413457db612bc248f51910d50f2b7cb1c11d71599c79c5779649a3e" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/33/ac/bef43d774680c85cd153d057e995073cf18c949b40dbcc1849ef1f67f17f/aws_cdk.aws_cloudtrail-1.188.0-py3-none-any.whl#sha256=8dc057f1b3a534da94b3b1c3fb10d2b4bb8e16f9655ae7b11229fa837b21628f" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/ae/bcae79ea6f7ab534d253646416f143bfa450106b680e7349bc417baa54cf/aws-cdk.aws-cloudtrail-1.189.0.tar.gz#sha256=96c3b0a1662848c0e94bfc6dcd1de03fbaae7ff2603795be8f2e855bf087436a" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/fa/fb3bff4dbe0c7fc9f9b478eabd92d644cfa1eeab7affd40c04f270a4c6e3/aws_cdk.aws_cloudtrail-1.189.0-py3-none-any.whl#sha256=6d5e914ca0420146740008f48027d7a54c7ad88c36bc5991aef95cc79d00e366" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/ba/4c9c5c0df8100a70824bfc03bbcc693ff81d81bf2a4048d21a75d2395e2f/aws-cdk.aws-cloudtrail-1.190.0.tar.gz#sha256=43bbb51654a274d2218555eeb193d4a60b30671cad16cd9adae56c0c6d75bf8d" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/49/9959c9b899e15d87bd8f4175b67a66ac3f4a6a03d0b325786427bb248e1b/aws_cdk.aws_cloudtrail-1.190.0-py3-none-any.whl#sha256=a235209b1624937f0fabb9db059250b16dc5eaaf1a63758f8b7af9ef93ab0f0d" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/77/bcd7fd4897e32a2f0800c847c0c858f594a21dd46a4a74d7c16091aa4297/aws-cdk.aws-cloudtrail-1.191.0.tar.gz#sha256=6e9cea74207414d218bf4ae7131a546d8ced0f395d73198f701c01e3fdc20d8c" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/3e/e1a92ffd6bae373f6980e240bd63ba0dec8092ef2705c7fe769f48d690de/aws_cdk.aws_cloudtrail-1.191.0-py3-none-any.whl#sha256=4531cb62ccfab5c8a88e48409516d9c4642846aead4c8f5da01fec88b63770e9" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/bf/e585808ee83adf0c98dcc4d126d35f16b841d42050563a2659624467af2b/aws-cdk.aws-cloudtrail-1.192.0.tar.gz#sha256=9bea0e5bb670cca2bfec5a218d6929be7506abcf76ebecc7052e62c422bc8cd5" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/32/752755fdf7105ce158a2cd7e77a9514d4626d96a2df13bcb5f60efd320c7/aws_cdk.aws_cloudtrail-1.192.0-py3-none-any.whl#sha256=c3a2528416ecd011f2b45ef76a0ebab4803b578759a1be41d84a997e8e2e6ffd" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/b1/fa872819b43a2349de93838539f37d022588d55340033f4df100db6f7dfa/aws-cdk.aws-cloudtrail-1.193.0.tar.gz#sha256=d1273ff87c3e2c73976d24703c1a6f1943344b19e78475b5b5f3890506a4ea99" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/47/14079e1851169c198f264d65ada1e0fa9b968b428ef0e26d7454ebd8eea3/aws_cdk.aws_cloudtrail-1.193.0-py3-none-any.whl#sha256=75e3d2f2efa9bb6fe4f09f1cdf027120d7f686818b2364b1ebb35f191364de48" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/3d/2eac57e387b7f28fb83c6f3ceb5c5776a2b8d2cf755122ea621f2fecf000/aws-cdk.aws-cloudtrail-1.194.0.tar.gz#sha256=e8f41c5e12d784d2907a2829b49266bc097a338fbca652b460e5ef48500307e5" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/eb/9bdbb215bb8d9ed748a6789f9f7263a784602972c1f47fc5a38ae04df6c4/aws_cdk.aws_cloudtrail-1.194.0-py3-none-any.whl#sha256=9bd5c9bc65fcc0cc6fdb8e77ff1445cf27b52a5982c35a2410385f69d3fb08fa" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/c4/42e269454d2ee58f572bdfdf916326fefdf402b7ad720d3c888c3cb69dd8/aws-cdk.aws-cloudtrail-1.195.0.tar.gz#sha256=69249ffd993d007948c5d2c58bf394c6d975bf7550e7eacf3167a97b79c5f32d" data-requires-python="~=3.7" >aws-cdk.aws-cloudtrail-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/66/a9893bc5548c1417ceb9cabd29d5f018b7ffc961ce9643dbc734d3ccf52b/aws_cdk.aws_cloudtrail-1.195.0-py3-none-any.whl#sha256=8aa07ea026548f39a0c8175ee9e3fc0d6f1562e88def685e6aa1980e686b0856" data-requires-python="~=3.7" >aws_cdk.aws_cloudtrail-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393306-->
+<!--SERIAL 17131817-->

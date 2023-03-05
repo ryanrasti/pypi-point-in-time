@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyaud</title>
   </head>
   <body>
@@ -98,6 +98,24 @@
     <a href="https://files.pythonhosted.org/packages/6e/2e/0cc2b3bff2932fc9e48650a8298b13561763a5403775ed2f67e8ac9e3629/pyaud-4.0.2.tar.gz#sha256=7d7cb58039b2eab07c51da554cb714906e8f0b1c68e7eba72852b75ea3b9ccb1" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-4.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/d5/d4def271dc5e6ab7e1548ac8c69e05bf44a7ab614c1a210051563dfc7101/pyaud-4.1.0-py3-none-any.whl#sha256=3fdc5f39cd92913238578b16b218ffb006703cb17ff8a30c6bf8af076ea98b73" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-4.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/97/8a9e819d106ace4eaffa3bc2e4519f495c37f363925e79c65da559f99f90/pyaud-4.1.0.tar.gz#sha256=a4853644ec3fe502515d5ee0b77951ca1d0c8e2dc67dd94370018ecca3718a7f" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-4.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/77/ed8d1b3a0b85c605072553165abf7f175de23823e4fbf0c4e6fc2d6e5577/pyaud-5.0.0-py3-none-any.whl#sha256=4424e87abdaa5e20d741b77de176b309b2e5393b65cc6c55c4661e63dd3f5dee" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-5.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/31/6c0653dd29fd58a8cf3e72248742128dbbde18635ab20a30e46e5cd673d5/pyaud-5.0.0.tar.gz#sha256=73ee41e1a11722fb4e56b0135a7cc8f9b32af9206b710fb80419258b1c82fe34" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-5.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/ae/67dcfffc1bd36382758b3b684569bff246fafbef4ec3eb13f32ef2c09c62/pyaud-5.0.1-py3-none-any.whl#sha256=caa6dce30ae2895e70ead10af66dd65bc3e8d49c30cf4cfacd2a189654c77d27" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-5.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/bb/496ed86ab8156830bdb5e9f66880d4296a613c75a2ad275258689574ff4d/pyaud-5.0.1.tar.gz#sha256=288b600d2377fdd5667ec86bb9f16d211d9af111a1bb21b2058512e4ae646183" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-5.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/7c/5e6d6b07da4ea5ac1149ec10d8fedfd7a3df735acae21e769a2264210a61/pyaud-6.0.0-py3-none-any.whl#sha256=5ace5e5bdc17e71edc14227382c79ea73cbfce913bc10de96165b47b126e96e8" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/3c/cfc90bfa84c2a955afbfe656b44e6248ba054878b35fb697351ea332da43/pyaud-6.0.0.tar.gz#sha256=fd21836bb3bc2751d32ad36ab0258b4cc028a4513b9219a7599552cd6055092b" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/91/c3c419744f851d41e2f9b7e67b64df1917c637d9eccc6d8784ea28a5b7fa/pyaud-6.0.1-py3-none-any.whl#sha256=9f39a28ca41eeacffeff247720c06356b66680031d3aa04ba0159ee38ff51844" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/c7/2c73be101700173121daa50b0b25487971b3fc80517781ba5e840cc718a5/pyaud-6.0.1.tar.gz#sha256=b0d190b427174da329c3fb1e2287ed29cd779d817adb7589e41b7c93636c411e" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/d3/f856717ebbca55542ce743387051c3f9c286913ed481ccf71794aa3b1bef/pyaud-6.1.0-py3-none-any.whl#sha256=fcf0b3798c16d712f63684bf34dab800485a7d695825d9754b16f722c18dd43f" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/fc/97fcfad1b0a8e056c02ac2430ddb56f32e25cd6fcab1f377f3956dd7bcf7/pyaud-6.1.0.tar.gz#sha256=6d03c6bee54ca5b379f6edda030bf2d2ba7599f48f1fcf93c0ba0f9f49299762" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/b6/131125dc66e30a267a7bd9cc974d0acad929991e8e59b535a82902b210c4/pyaud-6.1.1-py3-none-any.whl#sha256=7859dbdd2f4729a619a8965757a7213c6c18d8976d0273e2f97e63b6122c5f9a" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/92/1a3520bd74d924401c0f708fea0a650ee6f1d885286d03992515d4440893/pyaud-6.1.1.tar.gz#sha256=83cf966e148f3bc0db7e7db5c984a08b31fc07a1d91eeb18bfbcdc34a18ef025" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/3a/8c1cc4abcc5315bc642acfb8a1ab55bab7a482a9dcdb396e57a996e8fcc1/pyaud-6.1.2-py3-none-any.whl#sha256=14d8e327b1b158f19fc696f6acb6bc0938285d4b7e5e895541ed0d11189154ea" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/48/fe28f3901c085c1607a66847af9819c2d32cca8acade5be34941e1eb02fd/pyaud-6.1.2.tar.gz#sha256=768328617c8a02cfad4804bf8c3b6e9e39795e7000eb2a46df48c5d1b313793a" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/13/b2f8480ab54ef79912693daeb40f46eb538abca9f841fd273d81704eac8f/pyaud-6.2.0-py3-none-any.whl#sha256=1a3557624ecc33a2d55a8705c49214e35286e8072846dd90566f75779fb78ba5" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/c3/8318762469895b41a0a3cc89f603af37db8f4bc24399cfc3c413a746be84/pyaud-6.2.0.tar.gz#sha256=9c095b85389b6347e0173a25199d507b61df79be8dcaab5e35f4d41fdf86fbc3" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/7d/aac696bedcd16ad16730850f589ff7b9320274c651df9b8507e7d91fcc24/pyaud-6.2.1-py3-none-any.whl#sha256=cb0b20c63b7e6b938a1e02826c36e51166c4f47399e4b18cea637fc78d6f3958" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/aa/c563bdaace7ab5ba807ee4ea2ebdec166a2081b84b05724a5f5083ec4b54/pyaud-6.2.1.tar.gz#sha256=57ddc5d3c0e7832a76ce97affee5594998430e63d2fb2837cf4017441d6e2fa2" data-requires-python="&gt;=3.8,&lt;4.0" >pyaud-6.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16309807-->
+<!--SERIAL 17079375-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for neptune-client</title>
   </head>
   <body>
@@ -157,6 +157,20 @@
     <a href="https://files.pythonhosted.org/packages/f4/a2/21b7a877df7149cb4cf96f5ca95583fd2b15f386e2de578cbcbf52799c56/neptune_client-0.16.14.tar.gz#sha256=1ea80ff7993abc923b55519c5a57188c3b698ff024e48116c39d9dc58d8179cd" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/06/893c50543bd9645d6f2001cf3e7e8bea29389776633ddebe8ce63380c4cb/neptune_client-0.16.15-py3-none-any.whl#sha256=46c4cb5782bb0a07796ba6c7180de0fb7356fba89c5a1e625cafb2f2c351c1f7" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/00/9c3e2727f93f0feafce823b03f3520c1cd71e59fbea32ada5be56dbd8b68/neptune_client-0.16.15.tar.gz#sha256=8ec130be68dd00b5b4716484054bfc36082d033906f7ed014bb3720293da19bb" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/13/5974c638beedae0663b595ea69bc1d51bee4040ac9ce74566904b3f3b960/neptune_client-0.16.16-py3-none-any.whl#sha256=f9f963eb813b030a8b737d2f2e6929f00bd6d35c9e698d6b3740cde4f99aa173" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/4a/5d996228fca01d2771be42d1ee445de183af95c51a85ee7e5b120b9d8ca4/neptune_client-0.16.16.tar.gz#sha256=983f020f4a664b06af598c55e47ff7baa2563fbe6ce8ae6c623424c7b25f21f6" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/bb/c2a131ceadcec829d84ebfe9802c82b74affc66e3fd86d3678430bee7b0d/neptune_client-0.16.17-py3-none-any.whl#sha256=c8ad3bcdf45ac4a367880fe29a17b92da2a539be0d89a21d09b49a498099a58e" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/d7/e9ed6331990c3138191c8639ca8333984fa9f5e07bcd8954e27ad750dbf4/neptune_client-0.16.17.tar.gz#sha256=f38d6a5be43ea5d5d33de4e178d0948ae32cb9b9e459dc78fd688faf39074b26" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/62/88cf5e794a771973f9c20941d20de71d472f57e27a9182fe39aa6a329512/neptune_client-0.16.18-py3-none-any.whl#sha256=1c4e21030ba3c653b61dc7e9423df93d75e49d3e6e0ead8f958ccf2910789144" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/7c/c5a9a95175f2612507d01c58148d03ae3e347f7f2534224209450c7017a2/neptune_client-0.16.18.tar.gz#sha256=908018ae1cdb44b2d99e0e65475e9471b08928bc2c038a6606dd78e047e0f54a" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-0.16.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/46/dd3906b271ba375e798e9c63d8dba35aeed7fed6f6814a101d25cf40b659/neptune_client-1.0.0-py3-none-any.whl#sha256=7896cd512a7d32a91313233fcbcf1d91d0b1673a0caf5f1521d6868dc15a4563" data-requires-python="&gt;=3.7,&lt;4.0" data-yanked="Unforseen interference between packages" >neptune_client-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/b5/a0f0aba7ef591a8feeb703f9632010a493e52ece0a5f946d60019b8dc3cd/neptune_client-1.0.0.tar.gz#sha256=0696c9b3330f5250a4b3b714d778054cf1566cfc34218555117e0c93203e6ad1" data-requires-python="&gt;=3.7,&lt;4.0" data-yanked="Unforseen interference between packages" >neptune_client-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/a0/55ff8e1ea6ded71b66f107611b4536d5fa72f9192062e90a36409e672f1c/neptune_client-1.0.1rc0-py3-none-any.whl#sha256=82db093ea8c6e0a05ade8123dc735b603ceb419181069ddeb9ecc4c17d13f4fe" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-1.0.1rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/f7/5a3f876f0f289132a8bfead8cb08359ac04b99895fbff735bf4af8706c4d/neptune_client-1.0.1rc0.tar.gz#sha256=ab3c3a0b835a04922276794cb4ff47714ee6e6ddc6a251dd737ab2b0b0964d0e" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-1.0.1rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/fc/b830020d6c0fb747b99f38e189b6328752b2987c76a30cc670b4f602d65e/neptune_client-1.0.1-py3-none-any.whl#sha256=bb1e5c5d5d9ec883075168986892dbbd37383c8245cf263fb407e4490e42fab6" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/7c/f02b6e38e95054d330f69f64e2dc57a79098be3173a2e4543a9215355953/neptune_client-1.0.1.tar.gz#sha256=c21ef35b038650253e78decba453612a10aa6d95eb93b4ac5b900b856a24dd62" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/db/a6f7b2d34a7bdd3b4085a182200d54995140a6b0d5ff1395fb963e6986fb/neptune_client-1.0.2-py3-none-any.whl#sha256=5ad6dda67d7bfc580dac25c3e749ece920b31cfbfd42955f87b1ccd3ebd93327" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/8f/44a9dd81807c61fb6c29a958cd49ee6777f9fed7c4f931720d53ecd8e52f/neptune_client-1.0.2.tar.gz#sha256=91c7600a674cb812969bfb29a2ee0a6f7aeddabfb0c8205057a2ecb21b76cc79" data-requires-python="&gt;=3.7,&lt;4.0" >neptune_client-1.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16086617-->
+<!--SERIAL 17095615-->

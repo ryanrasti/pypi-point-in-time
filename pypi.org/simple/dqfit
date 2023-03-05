@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dqfit</title>
   </head>
   <body>
@@ -28,6 +28,22 @@
     <a href="https://files.pythonhosted.org/packages/15/19/a6da27ff61b48934a7e118ad617812c44301b79f71bc59a98447de9a89fc/dqfit-0.0.9.tar.gz#sha256=31907c76ed059cac66151088143b7bc8cfffa7a1491b4991e278d114f59e9672" data-requires-python="&gt;=3.7" >dqfit-0.0.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/84/4e/144bec69c421f0b52e7c5713adbe6ed6e1c1009844a629f702567a0b3821/dqfit-0.0.10-py3-none-any.whl#sha256=53e79f12b3d5359a0f66dee3734418ca678a8427aa901113488e78573876fa8a" data-requires-python="&gt;=3.7" >dqfit-0.0.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/8d/ec24e9cb8a94477e502d34d5fe0bc9d2195e2aefb5be11f32eedf9ba2638/dqfit-0.0.10.tar.gz#sha256=532dd569e383b8c0529bf48a10df8856dc31f89af5b85e13dd458877581813dc" data-requires-python="&gt;=3.7" >dqfit-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/1e/87db03e62e38feb5052da38ced311277ad6dcf1a4d406cd0fcf27f378092/dqfit-0.0.11-py3-none-any.whl#sha256=1db4a3a01b4186be1db5a37c07c6064e0603f937c66859d4b1c49ba0b2f4c6b0" data-requires-python="&gt;=3.7" >dqfit-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/72/8862e8e9b811149e5899ec70babfaec7ea87f2601a75055f557300c1d9f1/dqfit-0.0.11.tar.gz#sha256=1ea9a75980da13d31d5d1f47092e98a1af55bfaed5fdd89aed57d6d5c41951a1" data-requires-python="&gt;=3.7" >dqfit-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/d4/a1194d177c52780701d8f979f6fd4890badbe84a4d51be2a525143177e5c/dqfit-0.0.12.tar.gz#sha256=b24a7d8bbb0dc680515b5b531b73116360ea05f4c6741a3951fb8cc85a17f590" data-requires-python="&gt;=3.7" >dqfit-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/b7/72ed78c38c92764d26126c5b12e44456dc91c5814614719a5622c27cac99/dqfit-0.0.20-py3-none-any.whl#sha256=073df6c6ef7a76a3ee4eb3c3d3ba72a196ebcf504d576f584e56c7bd27a66e34" data-requires-python="&gt;=3.7" >dqfit-0.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/44/c4819311ea9c2298ddab71f205f5ce79e3e5f3062c779435bdca93f64164/dqfit-0.0.20.tar.gz#sha256=0e6ebd6f6a8297dd36098045b5d89e7916b35de4ff38b93a6795fa523738c0ee" data-requires-python="&gt;=3.7" >dqfit-0.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/83/b1c36f75cf96f53c0d63111c6da405ed1c458d734db48dc53e2af6dfe765/dqfit-0.0.21-py3-none-any.whl#sha256=7bee435c5082382568058c3b2af8eb8c9eb55cfc9cf47390d974aee55cfeea6a" data-requires-python="&gt;=3.7" >dqfit-0.0.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/99/3d0f6496518e9af33ea7de789b03b1c53c3337970f3e724a37a71225536f/dqfit-0.0.21.tar.gz#sha256=3d5ee41279719ea8fbc18172b722e38cb7bb69d33f40fb73a3159b7bdc3bea43" data-requires-python="&gt;=3.7" >dqfit-0.0.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/e0/50367b4b7bb798f594a72e3a2388947c6577f63969363dee992649f81b00/dqfit-0.0.22-py3-none-any.whl#sha256=d638f73687a45cdcea98d186324705ee0e9416ec4b0b2724fb38597bfa6e929a" data-requires-python="&gt;=3.7" >dqfit-0.0.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/d9/39e41403651f5052bf8a72ba0b28c0501e25e78c9f6d27d6f22c9f6f6682/dqfit-0.0.23-py3-none-any.whl#sha256=a924fc1c27dea6656eaa138a353c71814cecbd46add5d39ebdcd2b767425cc79" data-requires-python="&gt;=3.7" >dqfit-0.0.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/f0/ec5760fd7d8c2f63c9c8190e7d5a507c86a04cb4e1c19a91f11aea6101a6/dqfit-0.0.23.tar.gz#sha256=a4db52970746b779b4c36cb8c7bea21c2867fb02c72c39e6d04ad6956e4df4dc" data-requires-python="&gt;=3.7" >dqfit-0.0.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/0a/71047455cd207e08658f504a46692c1a5becd475d2779f026715270ae954/dqfit-0.0.25-py3-none-any.whl#sha256=b28b54ebb19cb2f908c94d1aa2c5fa1590e758c41280e25c81851cac0df1f101" data-requires-python="&gt;=3.7" >dqfit-0.0.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/56/301b5d7a0e7a6cf3ddb02c2109384f0d5cb50c7494a2304edac4889610ad/dqfit-0.0.25.tar.gz#sha256=7512ac01edaea93cd3d7f15d0cd8119584fccf9676c03a75fe6a25475ae74259" data-requires-python="&gt;=3.7" >dqfit-0.0.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/3e/388e68e6e105a76088ae61853137edf28fa7d7bc474ececb1e13de3d6e7a/dqfit-0.0.26-py3-none-any.whl#sha256=74e466a44ec0f57227e784fdd9491eaba9292f10f9fcb488c5d9356dc64985ab" data-requires-python="&gt;=3.7" >dqfit-0.0.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/3d/5d26b67ff7786c5696d88ea7eb8cc08c7a23ba8cd153f3cb4db071a24f8b/dqfit-0.0.26.tar.gz#sha256=e0179de367d79a88008907ed81b420e0bd40021f4113d65bcdf833b97e1e0388" data-requires-python="&gt;=3.7" >dqfit-0.0.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/03/58bd8c866e8a5882b7c6a9792a3ee9894adf397b7f966ce644a631a418cc/dqfit-0.0.27-py3-none-any.whl#sha256=6bdea9e5575531c6482ba55bc16399f1d6dc5c176adc88e10c4a0a843ecf8f2e" data-requires-python="&gt;=3.7" >dqfit-0.0.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/6e/fdb4e452d31caf6d32c6881d89da917d706c41efca8b253d91130482dae0/dqfit-0.0.27.tar.gz#sha256=c7c87a65ccf6cc5508929fdf1a128e25a18df55eb546143bb95d36df0d450834" data-requires-python="&gt;=3.7" >dqfit-0.0.27.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15971120-->
+<!--SERIAL 17146774-->

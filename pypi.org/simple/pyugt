@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyugt</title>
   </head>
   <body>
@@ -52,6 +52,18 @@
     <a href="https://files.pythonhosted.org/packages/bb/62/6f4873c3512fa2c93144e437cfbaadeba8948f6fcc829ea309d76addf4bd/pyugt-0.5.2.tar.gz#sha256=3fcf2446eb702fc4bb430f633b1c1359eb3a388dfc14f5434c1bc2880f65c0ea" >pyugt-0.5.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/25/370547fb725cf2dcf743b5e692746c298418f199c8930e7180a23bb83848/pyugt-0.5.3-py3-none-any.whl#sha256=2e797a8903317a2626803f084e0cbec30ed8670f64f86b64fa19b5ed91a308bf" >pyugt-0.5.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/4c/82d3bf153bc27c5b19392effd8e416d11d005b2e72cc4c650e8b721834ca/pyugt-0.5.3.tar.gz#sha256=dccc2026af8e7160e18c742fbb2b6e00cdaeef7f00f58af808d9e746dec5d4af" >pyugt-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/fa/734fc7da7cfc71e3040c32763d41f39dd055eb384c7a352a6897a7ae0b6f/pyugt-1.0.0-py3-none-any.whl#sha256=6c711f1d826e8e5cf5fb345225e7f49e0e0fc7af4140295375b69b0104c020d5" >pyugt-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/89/bf54bd487a5f73e9261bc231ddb6846bfd3a3d6fa0650e106dba3f07b7fd/pyugt-1.0.0.tar.gz#sha256=3122f41dca309f1dd9c9d61137e52b1fc3d8398a9673baad586f9047221c14e1" >pyugt-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/86/59552bbde4f88a48e53c25c3058546b3448a7a158ed12ab7eb81cbe956ce/pyugt-1.0.1-py3-none-any.whl#sha256=d885f9a4a01ab3a61c0407a08dd754d6b3bf22938dac32ba302ff0c2d41b53dc" >pyugt-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/5c/cfaf0153379a0e73a68a74f63cc094383ecb86b22eeadac698442a6473f1/pyugt-1.0.1.tar.gz#sha256=ca6bdd54b58ce415ad09443bbf826f106c1195b2c03c9f8d34360ec7b7065428" >pyugt-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/37/9a47869e80b9a4ad996bdf61e0af66f835f704109c60656a3791db39bbfa/pyugt-1.0.2-py3-none-any.whl#sha256=78409ab8750473d72b2f1f0bc281f90560b6636a04e01e14b2db9cb7f74a302a" >pyugt-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/c1/a4508d4568b4526b43e69c32517278cdd13f30c1903d95350159b73eb9b7/pyugt-1.0.2.tar.gz#sha256=bdf71bdbb97856b43711c936e579619f766c55ce2d8cc66b48618a9ef0d6e436" >pyugt-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/2d/02ea6b3a38c1c062e1fc67bd93c0bcb6eb141a93b230cf3ba2a8620986e4/pyugt-1.0.3-py3-none-any.whl#sha256=e3d4ddc4a233cc16a285691ed5b5ca1fdb72179d744e921972067bdd52083c09" >pyugt-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/7d/c511c0f7aebc4ab1e007de794ba3cb96155c80d2bc5d531aef8ee2cf87b5/pyugt-1.0.3.tar.gz#sha256=d6b07a1499b76011b1dd8e91ea8cec9b7707c40b56db35431e083b1a6aac5e69" >pyugt-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/ca/a0f8ea10570cd7b1a1bc4c86c587fcbc63e5282cc13623463485518bf288/pyugt-1.0.4-py3-none-any.whl#sha256=2cf46deb68fd9676769b5b141b733a9772e96e4663bf67939c3c8560b93faa60" >pyugt-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/1e/2ce7ad468161c548ca70fc8240a649a34d97a28196569c40e266f148e563/pyugt-1.0.4.tar.gz#sha256=3b00637373bc91435a0c7604518ea302bef95e4f299aeda307803b88f9fc8010" >pyugt-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/9e/a6d752d4e76ac9be3207fa4f68965b61c07878468254439e1a328452036a/pyugt-1.0.6-py3-none-any.whl#sha256=995527c3b20e575282b78175d8e8e4d38241c8707a3bff6a957f6bfc149dc62a" >pyugt-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/0f/6ad0e8357a7a3f1178f5f1f58defc57848e8f4999427063261c77b27f0c4/pyugt-1.0.6.tar.gz#sha256=93d620d79bc9ef7a1b872136dcfd0a3eb777debe901babdce5260f8366f5251d" >pyugt-1.0.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 7259542-->
+<!--SERIAL 17151382-->

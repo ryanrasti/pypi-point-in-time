@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for openseries</title>
   </head>
   <body>
@@ -138,6 +138,27 @@
     <a href="https://files.pythonhosted.org/packages/6b/60/e8954635abefd7b650583760bef3e3c09fe1363b122a32c26705c4f1cdb2/openseries-0.9.0.tar.gz#sha256=db18924f36db925133e1dae73e5e151d4a5283d0634bc1bc5e2d6d444893476e" data-requires-python="&gt;=3.10" >openseries-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/95/9cbc40165aab818883ae1cb36bc5f44a673f01147d0174afb99b9d5f3e25/openseries-0.9.1-py3-none-any.whl#sha256=2cddaca0bf93b5e7dc04ba0cb1b4eccf61e6968dcfd77805dab956912c69e19e" data-requires-python="&gt;=3.10" >openseries-0.9.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/20/3f856ecdff4b7e7f27b7207c0670d3758a88b40379d602814c240dfb3b51/openseries-0.9.1.tar.gz#sha256=6260d26c29de765725cb992adc5288e647ca74f90155cb4af51ab7b7a08ba70b" data-requires-python="&gt;=3.10" >openseries-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/3b/ae9de666d560061ee2242e741044285ab89ab584a53b264b6ac683c17fa9/openseries-0.9.3-py3-none-any.whl#sha256=bd1f2098a06836933fc6ccc7753c86c39c18bdfb84254cd75048bfb020e8ee53" data-requires-python="&gt;=3.10" >openseries-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/63/51832b3dab3ec99eecbdddb093d935cbaa5e5c923dfb5944f9d18b9fe60d/openseries-0.9.3.tar.gz#sha256=6fd378084ca38545ab85a42eeecdd1605260822ec6e3ea1b114b58c1ced49b8f" data-requires-python="&gt;=3.10" >openseries-0.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/30/9619f5d7848f9bb0afb12ef06c84625596e2b064dff51ee3746eb1e9e1ae/openseries-0.9.4-py3-none-any.whl#sha256=39292b7b5e0f36a3fb2be93220e17bd29833c11aa2a5498ed44590f9c69047c1" data-requires-python="&gt;=3.10" >openseries-0.9.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/ac/5ae7b239ba58f993c6de64af29bdce3af66425ab717e0ab15d4b3e52cb13/openseries-0.9.4.tar.gz#sha256=afcb18737b0c1a5b8cb1b8140c9f9dd02990174ded090af0aa9429c0c0592335" data-requires-python="&gt;=3.10" >openseries-0.9.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/fc/bbc6ec3500c50bb043718928115bf6e8285e16fe364fa25bd6f591d1b9c9/openseries-0.9.5-py3-none-any.whl#sha256=724f0906d5ccd554d4ad56c08e6883d61d813ee9ff67f2477324e38af6ef84e4" data-requires-python="&gt;=3.10" >openseries-0.9.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/b0/5bbe377e0ce168f037d8cc116aa5dd891785e30b4f2fc33c2732c004c42d/openseries-0.9.5.tar.gz#sha256=f36a59e869a937c16ea5a5b5c17ac8b9d7de231b482ad27f0bb4c2bf8632e776" data-requires-python="&gt;=3.10" >openseries-0.9.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/56/5ece618f848b10537373cf898f556e09b011d2c8f51b8e54bd662b4f5ae9/openseries-0.9.6-py3-none-any.whl#sha256=549a659e4d6afc6424c194fed7937be5a8b3c33b89c8fade335fa5fb4548269a" data-requires-python="&gt;=3.10" >openseries-0.9.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/00/09f4e339aade8e9d702a715901752d77d5a7fbdfd90a4abe6a1e8ae76992/openseries-0.9.6.tar.gz#sha256=ccfdac6810747c44d8f4091a5900a62b36e17659f1902debfae090abb1398a7d" data-requires-python="&gt;=3.10" >openseries-0.9.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/c5/68db5b4c8e79a227862c010a5449ba1e65e96d38f463ad79e2c3408cab16/openseries-0.9.8-py3-none-any.whl#sha256=5c9c0aae5caa1759328cfaf7fdeb4228989f2a633ce43dbb076e3ff9f2fadd0f" data-requires-python="&gt;=3.10" >openseries-0.9.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/3e/819db6fcba649d5baa8f79545d9962310fa76f8627349aedf3a09302a1ce/openseries-0.9.8.tar.gz#sha256=72eb99d3b43224fd5b11ece0d16dbd1c9c3d284b6c7ad67d82eca09355925a21" data-requires-python="&gt;=3.10" >openseries-0.9.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/07/d069038fd4aa24a3601f7fa2f04ab3487a390dba0d48b00d4bdbae3aec10/openseries-0.9.9-py3-none-any.whl#sha256=d969bcb0dcde1656a26ebd1059e14b08aebf69a21252173439c28e738cb02fb6" data-requires-python="&gt;=3.10" >openseries-0.9.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/c1/0164029540ca70576138c3893424e40bb88eede48177ef628e0ae3e107cc/openseries-0.9.9.tar.gz#sha256=26481455e1c99780e722cfe032b205fd8560edb7b48cb1042ec0da5ccecd5ee0" data-requires-python="&gt;=3.10" >openseries-0.9.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/18/4f23ddb043cae153d4deeeb240d0bdf6e9e664277874fe160548d1dc5f1e/openseries-0.10.1-py3-none-any.whl#sha256=805430d64810a950cddce0dc21dd6a153f085dd8f7d379f3453fbca3b263fda2" data-requires-python="&gt;=3.10" >openseries-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/16/4c07b06a46b6a2412b762c9efd5a3f2b40d741d9e6799d292716ff881c5b/openseries-0.10.1.tar.gz#sha256=eafcd21f7d3dfc1757079729814af8b9c22f1becad5f5c41318cf4c8f9d06ed9" data-requires-python="&gt;=3.10" >openseries-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/ae/eb31bc132d433767ca958b8c2d25ba59edd1f18706afb92f6f7e337b302b/openseries-0.10.2-py3-none-any.whl#sha256=f46872a7027b5913837a687adeef842d7878a77ba42b6639e22d025578c723f8" data-requires-python="&gt;=3.10" >openseries-0.10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/a5/890926005776760250fc2506d214b811bd582bd1b0c43ad5551198d2e2ab/openseries-0.10.2.tar.gz#sha256=63128ac0d5ab539a1ea1757785850575aaec77fc19afecd11dd4c7600d7ae780" data-requires-python="&gt;=3.10" >openseries-0.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/53/618fbd5dd5b3f3d11a3e589d22f5e2fd9db68c7b469d8341f2ed279248b0/openseries-0.10.3-py3-none-any.whl#sha256=7e7d4f0047a41ab17972add13a4d36eb8fb32d7f0db4959bc400dc31e2eb8111" data-requires-python="&gt;=3.10" >openseries-0.10.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/23/d9fe6096a31f707ca99b0ef4df78ea53a419f64ecb7df662d74e82801f0b/openseries-0.10.3.tar.gz#sha256=08dde1735731ae7bc0e769a4ac13b5951340149c22343be6bc3e23dcf0142429" data-requires-python="&gt;=3.10" >openseries-0.10.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/91/7d9c97497ce74ca2f2f1fa641de8a054a1b7b016484a2f31c46c647d9b65/openseries-0.10.5-py3-none-any.whl#sha256=f1e6cf98fb2f26473e8fb4fd45435c33cc04fac0d3c35552cc6e2592182f3337" data-requires-python="&gt;=3.10,&lt;4.0" >openseries-0.10.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/bf/1008194d518b55ac17cc4efb3c8ddad2b93f1a47c373c8726496071665a9/openseries-0.10.8-py3-none-any.whl#sha256=8f5ff547f25fd7c8784e79676e66e3268a48b97ae9079736cdcb618cf5709b32" data-requires-python="&gt;=3.10,&lt;4.0" >openseries-0.10.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/e8/0f82e26cf2438e4f269faa7015a18f7baad129c14d526b779de1e1036b5d/openseries-0.11.0-py3-none-any.whl#sha256=654aaff59c07a2726c0c505022107137e822294168a37e531e8ea83c8e124dc5" data-requires-python="&gt;=3.10,&lt;4.0" >openseries-0.11.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16409881-->
+<!--SERIAL 17117055-->

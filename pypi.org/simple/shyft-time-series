@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for shyft-time-series</title>
   </head>
   <body>
@@ -212,6 +212,16 @@
     <a href="https://files.pythonhosted.org/packages/42/f2/d1655a7471198577cf0f94ec20f6e35972c679770e5eff7bad29bd0b283c/shyft.time_series-4.26.23-cp310-cp310-win_amd64.whl#sha256=b3209eb763335cf8e007e9e4a99395da2847e40c8683a0e3710f1058e6381007" >shyft.time_series-4.26.23-cp310-cp310-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/21/ce/ae40b89142945c754f32ba00987610756714ba3e41022dd0b8e294c7aa6e/shyft.time_series-4.26.24-cp310-cp310-manylinux1_x86_64.whl#sha256=a76e491ac16c9511e621e0657d258dfd5040710cc30a199b1b0b05da611c0830" >shyft.time_series-4.26.24-cp310-cp310-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/54/3e/5dbc2d7b5295c76be2015b570dfcd5f783ee3a8fc5c9884ff36ef452f383/shyft.time_series-4.26.24-cp310-cp310-win_amd64.whl#sha256=45ef06b6cd6741dae99c7cbec3111bc7d704e00af266496994b47f29db8da738" >shyft.time_series-4.26.24-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/32/ea7010f0dd7a70e3e767ceff03d0cef962cb32eded3794bbfdd3147c0d56/shyft.time_series-4.26.25-cp310-cp310-manylinux1_x86_64.whl#sha256=20dc3ca9118cf626991cc2fedf502eecc340cc44fb1eb3f1cbb313a55e50626c" >shyft.time_series-4.26.25-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/85/37d817c50e1e23eba47bb8a095be6ee5145696c9823889b40e5a39f11311/shyft.time_series-4.26.25-cp310-cp310-win_amd64.whl#sha256=6bc597a415e45cf531b2de80012857a9610a71b8d0712e523111a8fe70dc5177" >shyft.time_series-4.26.25-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/39/11e587bfbfa4b06e2e091e36290c766afbeefeb7f650fe5c5d64c61da5f5/shyft.time_series-5.1.1-cp310-cp310-manylinux1_x86_64.whl#sha256=b7446e34b4f23a758e67a81b870cf7ee7eefa69822be95d5f9681145be66fd8e" >shyft.time_series-5.1.1-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/8a/3f2fe5e0ac24c1b050b01e8d95542b8a3d16bdbe74ebc5cd83868ebf0ef9/shyft.time_series-5.1.1-cp310-cp310-win_amd64.whl#sha256=e0198f41718d235847b69fb0e15550c8c568cd78b0f79186be93c5490969ee77" >shyft.time_series-5.1.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/eb/992ae9607ab1c4111d60ab7f1ce50240675e65fe9734f4a67e0337cade22/shyft.time_series-5.1.2-cp310-cp310-manylinux1_x86_64.whl#sha256=a4cdb3109a520ff51b4b4d119dbe29f404aa2fc181c7c5d908cf56e0992ece05" >shyft.time_series-5.1.2-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/c4/e22d162690e0363d8b30b9a300574cfcdaf6c0c499c7326c4d56dcee64be/shyft.time_series-5.1.2-cp310-cp310-win_amd64.whl#sha256=0b049b055cbc20caa765a03c1517666a7477c3545761fb2cf9b78a117817752c" >shyft.time_series-5.1.2-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/1c/1de035d1fb182639165323e08d4d472a0f1a6a3a72c58050a2ce652b9f5c/shyft.time_series-5.1.3-cp310-cp310-manylinux1_x86_64.whl#sha256=199522a55ad52611018e43afde520acf3820e7e30c830ae8227c980eeb15f27b" >shyft.time_series-5.1.3-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/76/5feb3c80a81f3149829b29adc4e36324fb05ef85e2a0733b586316e41ef0/shyft.time_series-5.1.3-cp310-cp310-win_amd64.whl#sha256=7c9ffa34b08f012903815368b7213498f4118143b5c7070d1777230f0e1fe89f" >shyft.time_series-5.1.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/e8/77c7504144620e6cfc970cc1d7ac96702ce87f35d3f2376ff909df9cba75/shyft.time_series-5.1.4-cp310-cp310-manylinux1_x86_64.whl#sha256=c35187ef1801f027733bab2b740b9d773b0ff0027521d0ea898a7764d7198956" >shyft.time_series-5.1.4-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/5e/470f0db00ff85fecb3e92cb4b299d909160d271c7847273a5e982db3f518/shyft.time_series-5.1.4-cp310-cp310-win_amd64.whl#sha256=a409ec7ffca0277e1c2a88f65d1d81c377e4291312d3bf6c00b308d1b713cf6e" >shyft.time_series-5.1.4-cp310-cp310-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16097802-->
+<!--SERIAL 17071990-->

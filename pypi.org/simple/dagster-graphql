@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-graphql</title>
   </head>
   <body>
@@ -902,6 +902,30 @@
     <a href="https://files.pythonhosted.org/packages/c8/69/b5dc61b406e3b2c89e1d7a40cd9b048d80263e3390153d63601b118c2b0a/dagster_graphql-1.1.9-py3-none-any.whl#sha256=91db616593cdf834e54430112869e0029f6227cad0829ee97d75d85f59de30d4" >dagster_graphql-1.1.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/71/d982c0663b6aba29e5d9dc3e57b198ccf1aaed403b3775ab36ee75641c11/dagster-graphql-1.1.10.tar.gz#sha256=a0cdd869deb1271ae7e01ef879e960364a93b6dc48f5bccc48bb66f414ee2106" >dagster-graphql-1.1.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/e3/acc137852efd4333dc0d20b178f32d68020569f0ee85288fe446f2536da7/dagster_graphql-1.1.10-py3-none-any.whl#sha256=3d58430e4ecb47fc8ccf73da8cdc665d376b8c442d4ac04a53b2e3b1ab6c807b" >dagster_graphql-1.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/20/04c8511290b709b8a3284d923369ba9ebbd3d5175028baa1bcdfc1e7d617/dagster-graphql-1.1.11.tar.gz#sha256=216e3893249cf8f540d8bc5a0cf2f9377e0b2b4f7ce80f2c00e002c7deadd290" >dagster-graphql-1.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/a0/b18e8aafe5414b68b100df730584fb3449881149807bbcf9f9920478af5a/dagster_graphql-1.1.11-py3-none-any.whl#sha256=523043a3f153b4d591ae53a77fe72c56413aef19f5e8928007c6a4b4d7707fd2" >dagster_graphql-1.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/57/b32c6896c9728f903c72e7d3b8b00f4698501cf14b94ab069f648c35ce90/dagster-graphql-1.1.12.tar.gz#sha256=1d8c25fb92804c6be9403e228ad54bce55c4e5fc6a675feb6893d740fee1c0db" >dagster-graphql-1.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/63/de4aadca46e40e2cf5864489337e524aa9ac56c1d7e68b4ed93fdc20ffa6/dagster_graphql-1.1.12-py3-none-any.whl#sha256=925b6c14b9a796fc533ebc07e25bcfc7aa12d4f89759c96038088d5b70c941f6" >dagster_graphql-1.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/f7/34763919e8cdf55e2d88128c9817e0125033697a0895483d666d067b376c/dagster-graphql-1.1.13.tar.gz#sha256=ca6c7abe329511b45ac4f69cf83b2d790dd9c47ef84b9dbe7628e3ebd0d3cda4" >dagster-graphql-1.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/6f/dd9ca60bdd7e25643890026fac9f91bc2e7e917a0c5dd6e26fc879b378ea/dagster_graphql-1.1.13-py3-none-any.whl#sha256=659cde033e0ed159d32c638f69818e2a1576a1ee03e4ed8688240aa22e9cdfae" >dagster_graphql-1.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/03/57c0a8a8219303dee140c1447ba352ea7aaaa6e246609a1855bd4aa54f09/dagster-graphql-1.1.14.tar.gz#sha256=df0562e48853718c7fd2459905017a618f6c39a579789eb05d59f24b70aee1e0" >dagster-graphql-1.1.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/26/d5ef956e6457c768084ace3f4dcfb904b3b36ca2f9e12409677ba439b17a/dagster_graphql-1.1.14-py3-none-any.whl#sha256=f1f4d1761f23e7d2f51fefe572e5efda2649b5c5dcd9a77fb56f83163cc88745" >dagster_graphql-1.1.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/fa/6dd98a0235d0c9cff88eb89ef0b28991a50e7d58d4c46e757068a5b60db1/dagster-graphql-1.1.15.tar.gz#sha256=ebc1bb447cfc6f7d0f3110494209d9f1658123992d2b42adfabe92b5f316adbf" >dagster-graphql-1.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/ae/c7ee8b89031dfcf60ea62467fa4a385460f5de68f3d661ffa7f8444651ba/dagster_graphql-1.1.15-py3-none-any.whl#sha256=c2d80f7d5c21bac98cdc9024fd52095f58cbbb3ac1e3357daa6c7d52cf3a6dd1" >dagster_graphql-1.1.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/c1/9000bd0a372ad501757fb808e47f4e8a7e77223a87655a2fc8e5c3228ea7/dagster-graphql-1.1.16rc0.tar.gz#sha256=ee66eccfadb079327379133e859fafeec350df795f720bdc1ad100dc159c8361" data-yanked="" >dagster-graphql-1.1.16rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/16/843fa4ef27e7c15a7d4b83b3bc15cc788fb5a147ee929b4b39aa462e6bf3/dagster_graphql-1.1.16rc0-py3-none-any.whl#sha256=db1494a053ca765e7dcfc4ace36cbf034c68d811a8a4a0141a02d7cbba48cfbe" data-yanked="" >dagster_graphql-1.1.16rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/dd/7429cd2edb3577d646a63679c15288026e53a83b15ff73169b1fa240c71b/dagster-graphql-1.1.17rc0.tar.gz#sha256=53e5e4cf9441ffc5f04bb82e0820250333a07e87852e84f2afb10f693344ae95" >dagster-graphql-1.1.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/17/26392fcc8edec810cf033f847aaef83f2bde98650ed51dd36f23521f51bf/dagster_graphql-1.1.17rc0-py3-none-any.whl#sha256=cdd726e21d51611741732fc9ef73e68134d6b155d92be7f5cc3d3b75d17cf386" >dagster_graphql-1.1.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/b3/fa7f66e27c72655b7cc2230c7ac75fe14ce1253a1f9d58db85fe2f7f06fa/dagster-graphql-1.1.17.tar.gz#sha256=a439563b98887c9f859884c3b4ecdfe910da566d35d131e1bcc235b512e57aa1" >dagster-graphql-1.1.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/f9/949ff818d2f80231fb291c5b9d005c30ee54cf44f7f09910dbe0ce46e6f1/dagster_graphql-1.1.17-py3-none-any.whl#sha256=7e6e311c571ca3620f4c861cebed5f6e8dc0513b5722d91abaa226ec5de481c7" >dagster_graphql-1.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/25/0d68ed3ae02ab3b1115dcb1b3ff7acf4fb98c30736c15da56504daa609ac/dagster-graphql-1.1.18.tar.gz#sha256=0bb461ad1a9ded545b59fda6dc8bb7f72fb392e2bc8d642787084cdba17ef8f8" >dagster-graphql-1.1.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/56/565d88ce1bbe99b31f92d6454d36c162236485e237c64fb3156731077cfc/dagster_graphql-1.1.18-py3-none-any.whl#sha256=d21b8d1d4532e3deb1f2dc92870a680b2321c408f95998ce448fcf1b3d92c3ab" >dagster_graphql-1.1.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/ee/0d6ef8d67039e139ec745c54d73f18832875a2c5c27136aa1f37e4185f2b/dagster-graphql-1.1.19.tar.gz#sha256=9fae6c76bda61c4b16733b4e0b614de67162a884aacc7a2d185c90c71ae6f10f" >dagster-graphql-1.1.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/27/d524172b30ff00c50963c4077b7f83155a1c753e297a0e83874ed6007f51/dagster_graphql-1.1.19-py3-none-any.whl#sha256=46d9046d89b4cc7c2d3143c16e00d7f16bd3f09dbf53d9c9f7cbfcd4a7a7416b" >dagster_graphql-1.1.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/0e/c2784f676d90b80b571632bfcc9a43dd83d278290069d0fb0105e3a57dc9/dagster-graphql-1.1.20.tar.gz#sha256=e8803a47a35cad022a6aa9a4bae604f1003e0651e8dac7592855e8865339f914" >dagster-graphql-1.1.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/25/ae1e4c0bfb54f2db193628c8412fac4cad1095ca1d3a15d88e1b52f47a7b/dagster_graphql-1.1.20-py3-none-any.whl#sha256=aaffe170fc3bcdfba894bdb09d854c62f37f4c4a931c8e556a92e54cd1d320e3" >dagster_graphql-1.1.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/44/5d6f6717af5eb6712e3d6282338d68c13dd8e35ad352df056714da3ac02a/dagster-graphql-1.1.21.tar.gz#sha256=d9204b565b26eedc1f4678614ea72712cf5465e094660b6d181e9cc7d705fc9d" >dagster-graphql-1.1.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/09/9b8a38e02526c166c4d68414f39fba173a6c02957663ab609fbcd9331512/dagster_graphql-1.1.21-py3-none-any.whl#sha256=84e47d31b7f8d054c46bf5bcc34a6fc8ee30f3da31e1ba74636fcb6ceca5101a" >dagster_graphql-1.1.21-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408508-->
+<!--SERIAL 17135753-->

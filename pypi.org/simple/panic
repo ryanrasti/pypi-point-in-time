@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for panic</title>
   </head>
   <body>
@@ -23,6 +23,8 @@
     <a href="https://files.pythonhosted.org/packages/d3/e9/f38fdf27a353121edc1423ba97fe1286bce29fd5f124855b9e23bf50a35b/panic-7.5.1.tar.gz#sha256=7231871155ad0ecad9ed433ce3d33a6c50d298837dbec11c9bc65e322adb30dd" data-requires-python="&lt;=2.8" >panic-7.5.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/c0/6778e6659f0a3643048af204caaf4d3cf06267e9584a97d2f9146548b5e1/panic-7.6.2.tar.gz#sha256=3689c97b037c4faefa53d76929241deb1f7d4fc1bb0dd133e946ff5401155312" data-requires-python="&lt;=2.8" >panic-7.6.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/90/7cf4c7dce93fe1913c328eef3bdcf2b1dc37c1a168e46f491d5bef070f55/panic-7.6.3.tar.gz#sha256=72342f7a49b56e84b202bb00a9c37125f3d341935dcc5f16c0a4a5da17ffba82" data-requires-python="&lt;=2.8" >panic-7.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/2a/fdf873666421c6833ace7825ea951cab00e93f7ab81f87f90716ee3ed057/panic-9.1.2.tar.gz#sha256=7f4bc82c20403ee21ef33256f0f123af81ecb9d07261cdcbb21c319cdb485a3e" data-requires-python="&gt;=3" >panic-9.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/77/4cb6dd2b4ac23ef64e47cf954f650925c757ca6b7e074dcdfef7151d645a/panic-9.1.4.tar.gz#sha256=7f76763d6cf666046032dea2352b3bb97fd59e52de0c2763f4b71497cb499925" data-requires-python="&gt;=3" >panic-9.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15972177-->
+<!--SERIAL 17099540-->

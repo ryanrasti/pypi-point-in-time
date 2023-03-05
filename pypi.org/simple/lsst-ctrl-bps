@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lsst-ctrl-bps</title>
   </head>
   <body>
@@ -48,6 +48,18 @@
     <a href="https://files.pythonhosted.org/packages/e1/9f/45b7f7321de10770adedb97fc13f136bbc1d994e76871a68d9f9753f11ab/lsst_ctrl_bps-25.0.0a20225000-py3-none-any.whl#sha256=402e113b8bde19fe9c35243e55a327de6f947d79df689f21ed7318f2c7e33953" >lsst_ctrl_bps-25.0.0a20225000-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/0b/ea612ec87b88b0ba868d3207a9a6ff180bfb0bd7279c1eb2438aaa5eba63/lsst-ctrl-bps-25.0.0rc1.tar.gz#sha256=37eec9ea6273200df6237fc52c80b100f325f9bee590fdb54b8b6ae4717574d1" >lsst-ctrl-bps-25.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/fa/0257c7733f341b65996c847cd1a4a78b07188118269b04dced3e17e8ccf4/lsst_ctrl_bps-25.0.0rc1-py3-none-any.whl#sha256=803551d592be5b44fc7c0026dcf8062f67819998afbf5059f48e10618ea589d2" >lsst_ctrl_bps-25.0.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/4d/35a6f525159adbec67bd01eabc423fabd340d95ca870b7a29edf8d51eeda/lsst-ctrl-bps-25.0.0rc2.tar.gz#sha256=4d946bee9cf0d4f7fe4b77cc835ecfbe9de19f9cdfc2b6da3cdb78a6375caa84" >lsst-ctrl-bps-25.0.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/e9/54439c3225ef6dc6c00b4a994de089c2e7b3006fa9e5a1b273c7bdff60db/lsst_ctrl_bps-25.0.0rc2-py3-none-any.whl#sha256=33fb8a8e3ddaaad11de322529ef030ab6465132197841c0f1cd5888ac4e344f3" >lsst_ctrl_bps-25.0.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/67/59139dd476ff65a10644ebc025f241ebe56580b6fff04e06b5e80f90adbf/lsst-ctrl-bps-25.0.0rc3.tar.gz#sha256=0c388b681370a0b256aa8bbc271473322fbbd2e286a9c35f050628c54685c1a7" >lsst-ctrl-bps-25.0.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/89/c88aaf006827a8f1114a73bec2bd516ed1e3de599f4dd1d77960010d1144/lsst_ctrl_bps-25.0.0rc3-py3-none-any.whl#sha256=e0f74c9b65633c1629a92044d1a83c6fe90f2b8af89ec71e29b7a7503b27eec4" >lsst_ctrl_bps-25.0.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/ab/677aad4c0f2d71e0f06d97b2bdcf721a1fbf4acb45330dfeef092c1274be/lsst-ctrl-bps-25.2023.600.tar.gz#sha256=18a85492bf53411d08d56ed5c952f9f991169177e83f1fb1787cad57bb8ebb8c" >lsst-ctrl-bps-25.2023.600.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/05/13da575853a1331432efa3ba47e2fac6eafba4b0b35e2925b8ca45a00d8a/lsst_ctrl_bps-25.2023.600-py3-none-any.whl#sha256=505dd148a2c732125b08032dc4de8f39bc3ce9165cee47a8d3835ff93e2739bb" >lsst_ctrl_bps-25.2023.600-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/2d/1915cfc582da0b48d36ea718bf7b061549d8e27f7fabeb8b6ad43d7b68fd/lsst-ctrl-bps-25.2023.700.tar.gz#sha256=eef97726658834afb64102900d615f214416dfafd0d96c2decced4c873e288d9" >lsst-ctrl-bps-25.2023.700.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/bb/b7ed432a295ded691d8102256edc911f5ad6ecf8ded90eab8eed01b86054/lsst_ctrl_bps-25.2023.700-py3-none-any.whl#sha256=dc657e5befc0f7d47152815e433445ee4f38116897e87e60d413bc5bbd0e7907" >lsst_ctrl_bps-25.2023.700-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/af/11a9aba35d1573476132d49d4efd9fe147667496113212a082ff773d375c/lsst-ctrl-bps-25.2023.800.tar.gz#sha256=77835a53d878a2211a193c00087a00107477ce1c8f7f2cd0f72067d366ec3635" >lsst-ctrl-bps-25.2023.800.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/6e/1ebf8c245bc6a45b5cba23d884823b7568f8b5a344b1147bae0456270c7e/lsst_ctrl_bps-25.2023.800-py3-none-any.whl#sha256=b7055ec4e2ccaf80b7a4ecbb83189eeadb8f02431d1de58ad85ac7a113867c4d" >lsst_ctrl_bps-25.2023.800-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/bf/9b193c50f5f9638678eb406749567ee3178a10e32fb3fb1fe6d45fe2efb4/lsst-ctrl-bps-25.2023.900.tar.gz#sha256=ec82efdee301721d1f7436b84e9fda06f0d812b05f69eff18fed9e02ff159ae9" >lsst-ctrl-bps-25.2023.900.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/1c/13c4d1ffd35d01826941655b932bb3a0836e2bc7998d1192399c72774bae/lsst_ctrl_bps-25.2023.900-py3-none-any.whl#sha256=56f369b3635bbb69912d8b59fed25e945fc17485ed03b625536d5d207756e6c7" >lsst_ctrl_bps-25.2023.900-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/40/5f17fa1cd7fa6aac1bf32957eb05046439aa89e6a02ca82bd43ffbf13648/lsst-ctrl-bps-26.0.0a20225100.tar.gz#sha256=47689598902685f7e950abfe538f95895bd3f76a0a14983359228279030003d8" >lsst-ctrl-bps-26.0.0a20225100.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/cf/d02eff7d6d638a36080fd79178311d6135f69e21c65f20f600662b833e42/lsst_ctrl_bps-26.0.0a20225100-py3-none-any.whl#sha256=403179596d36f4e35d411752455fe274269cc5271d0f54861dd185b0ed2f7f7e" >lsst_ctrl_bps-26.0.0a20225100-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/0f/0f67f5e5e484326f9f0ff9441b6bc03826a3900bfbd0d2bdf6ced04c0602/lsst-ctrl-bps-26.0.0a20225200.tar.gz#sha256=359f3bd21dbd774ee2e2b531580d3bd9fd991a9f4082f26608031f8dbbaeb94c" >lsst-ctrl-bps-26.0.0a20225200.tar.gz</a><br />
@@ -58,6 +70,12 @@
     <a href="https://files.pythonhosted.org/packages/cd/c3/189a96ab076179c2e7513d370222ef8df710fd8514708c615ec8469b460c/lsst_ctrl_bps-26.0.0a20230100-py3-none-any.whl#sha256=b7b9d85f3c465d1c063462258d3f5eebf972e7bf14110d867223baab1f5283df" >lsst_ctrl_bps-26.0.0a20230100-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/ef/d1cca592cbb11eb85121c55ce09e58b15b0049f3e614d195c638da1c7bcc/lsst-ctrl-bps-26.0.0a20230200.tar.gz#sha256=ffd8600ef942e79717888ecdc7cff20b66d3128fdda3529e25d3633c97c4e2bc" >lsst-ctrl-bps-26.0.0a20230200.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/30/41/bc8f44bfe912a23c740b64ada238bff209f891d3979e42b2ade8f6dc1da4/lsst_ctrl_bps-26.0.0a20230200-py3-none-any.whl#sha256=1120f6b589756504bd6be2725855cd1fab33316aba2f5008e2fe55e583eb0dab" >lsst_ctrl_bps-26.0.0a20230200-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/5c/d07e2aa3e8d4e7f185e82c891b377b627560fb3394354650559a50b46125/lsst-ctrl-bps-26.0.0a20230300.tar.gz#sha256=f32b2db77a6b438393ee68427e4a09efbd9ed3169e8b1465439b40c044adbc7b" >lsst-ctrl-bps-26.0.0a20230300.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/6e/7cdda04079e251903c827ab07fdaa50590b98a5bdc35c91ea80c0cf94a9c/lsst_ctrl_bps-26.0.0a20230300-py3-none-any.whl#sha256=6970831db355e90ddabca96046ee6dce77eb8d270ce31e7217eddb4c2f514d94" >lsst_ctrl_bps-26.0.0a20230300-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/25/dd5788122d831e91f7a5b6df98e8e2d65df587d64b2a7e8e703b9f85d293/lsst-ctrl-bps-26.0.0a20230400.tar.gz#sha256=849b6de9c47fa44134d46dac3d6a80fedce336ee7f7559f048a235907494d107" >lsst-ctrl-bps-26.0.0a20230400.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/2f/7c488512d63e7bf6750218de68e5bdbbebd2c2567a8ade547a5dd4ec9b65/lsst_ctrl_bps-26.0.0a20230400-py3-none-any.whl#sha256=000b685ac9ddfadca1d8bd9d8711ef4304c4d1215240d6c0baae056daf0f915f" >lsst_ctrl_bps-26.0.0a20230400-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/ca/f9dbc4fb6958267f1ee9ce347a76bcb3d1dcb671ceaf427711055ab6c67c/lsst-ctrl-bps-26.0.0a20230500.tar.gz#sha256=7e3cdc8777f0823d6937ba07ac33d67a2551832ef7d5527355306e65306f068d" >lsst-ctrl-bps-26.0.0a20230500.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/a6/83bc4f99c8f8677258bd0218a14927d4307c984ba1053d228c988a80789e/lsst_ctrl_bps-26.0.0a20230500-py3-none-any.whl#sha256=800328230c01496532e8b8879a0a9c08d457e09463304d5c085a7fa75f93334b" >lsst_ctrl_bps-26.0.0a20230500-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16401856-->
+<!--SERIAL 17124366-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cmake</title>
   </head>
   <body>
@@ -1176,6 +1176,23 @@
     <a href="https://files.pythonhosted.org/packages/98/3e/6030edd3408325a303f60a6b5ecab5db79392242754eabda92ff3fae4d25/cmake-3.25.0-py2.py3-none-win32.whl#sha256=7548a3354d37f3c9f56b5b6fd0347a0f8e916d224b93b4e7aa0640a9e6e96f71" >cmake-3.25.0-py2.py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/29/15b4ab83da6163d4ca5b97b4b35ae6596c2ac68c85519baf6730c15acbf7/cmake-3.25.0-py2.py3-none-win_amd64.whl#sha256=849f3760576810aee84108b3110a7e083c9fdc72fde26401c4ff4c340a2232c7" >cmake-3.25.0-py2.py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/67/3d545c3a706bc427b1bd2a9108e3986dfc8c1450be0da8149fe591902875/cmake-3.25.0.tar.gz#sha256=d1658afd3362273782f57697f2fc4637fda1f5798ac64e0f3418a8ba5f6e790f" >cmake-3.25.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/0c/8a4ba1841436e5fb505bdb98f5194e0147c80d49dd69c4e24774ba613ba0/cmake-3.25.2-py2.py3-none-macosx_10_10_universal2.macosx_10_10_x86_64.macosx_11_0_arm64.macosx_11_0_universal2.whl#sha256=962224cfb988ce9c9f3223de9cea68cd3a9d7c0f251866aee5db4620bed2ef73" >cmake-3.25.2-py2.py3-none-macosx_10_10_universal2.macosx_10_10_x86_64.macosx_11_0_arm64.macosx_11_0_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/19/b4ac60d7f20926f1127625e04c2fc0abbea1d0bb6c02cd069870e62b9cee/cmake-3.25.2-py2.py3-none-manylinux_2_12_i686.manylinux2010_i686.whl#sha256=42053bbaf7f77a13f713acd2cc6d724a2899b00a8f6042c0c80c9581f1ad9fde" >cmake-3.25.2-py2.py3-none-manylinux_2_12_i686.manylinux2010_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/14/d5d60c19b90749a93ba6c6bb7f53754107c33573a103e6c162d7c7b3aecf/cmake-3.25.2-py2.py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=a6d849fd0316a0bfa29b44752de8f30ea798771fea6a06d9f1cc5799910f10bf" >cmake-3.25.2-py2.py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/54/6a866cf7b4e864adf6271b3dba714242ea2d892ff3efa9b5aeeafe0b9fc5/cmake-3.25.2-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=c94571e1225e54e9444f8e8c47987932194fa4ab45ce96dc4de4fe5dfcc89afa" >cmake-3.25.2-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/6e/aeeddf2f5b16542b6a30ceab4896421e8705d8e9a9296dba79395db11b00/cmake-3.25.2-py2.py3-none-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=715ef82e81b48db3e4c7744614c15ff361d53f6987fd70b1b66b0880595f2e2c" >cmake-3.25.2-py2.py3-none-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/40/a390b1fae90dd64f2bf4c1edc65092612c1ff35984f8b181af93819c40c1/cmake-3.25.2-py2.py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=679900ad25bfbb83fc5f7ed8885711d68e334bcde51011f237520b4268b4d900" >cmake-3.25.2-py2.py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/0b/0e9e4d8dd598b24ab9637ac97dcd835431803177486b17358d5b3a75eb54/cmake-3.25.2-py2.py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl#sha256=a550a4d16d89fd78e48bacb97eea906486625fe8a8eac8d4607ccfd89a00372a" >cmake-3.25.2-py2.py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/3c/b6503e5915773c293482fad193dbfd8537eb7740432692cda0267b8dc957/cmake-3.25.2-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f9587645cea5298d5eb20649f58a83cc53c9efa7d57b0716449a39f366a74986" >cmake-3.25.2-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/34/fa268296c73ccc80b415c7da69f3bbb8b32852d530f6592ab208012ec88a/cmake-3.25.2-py2.py3-none-musllinux_1_1_aarch64.whl#sha256=27462531ffcd213397012cce341a7ff2b647d4f57a153a23f1a054805384ca05" >cmake-3.25.2-py2.py3-none-musllinux_1_1_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/b9/ae20873365ef8991f329d2a70f8ca90e0fa1d19957d1a3a39c46a64596b1/cmake-3.25.2-py2.py3-none-musllinux_1_1_i686.whl#sha256=3bab3f5a60bd5843b07b83df97368983c59e2ab6b09ab08a80e608e9a37a6a09" >cmake-3.25.2-py2.py3-none-musllinux_1_1_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/b6/eba4ae0a9206957fbc5d1cbfccec4b15720d6f25d67987c76a4f28e51e28/cmake-3.25.2-py2.py3-none-musllinux_1_1_ppc64le.whl#sha256=faf8eb7e38a3167c1d502f6b6355717b645400f9c48947e9aab992f52d52df68" >cmake-3.25.2-py2.py3-none-musllinux_1_1_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/b2/cc12aec864801ff326b91114a349071e0232257297ca4ce3686b8ca657db/cmake-3.25.2-py2.py3-none-musllinux_1_1_s390x.whl#sha256=ef3b68c6096388fd4b139a6e4da5dd25e8fe8786b980375fe70914b81bac7f77" >cmake-3.25.2-py2.py3-none-musllinux_1_1_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/e5/3511cd1285a8fcb5c17142553f0cd3203458e35b4b1a66ddb3c2a8cac94b/cmake-3.25.2-py2.py3-none-musllinux_1_1_x86_64.whl#sha256=48d9a496eb1b1da375b98753009f3c69a59a207e61ecdb13d2bf06e33491dad3" >cmake-3.25.2-py2.py3-none-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/e0/b3d9d35a1c290e319dc787fd65f100f968c846314a3b40fab91c51d15274/cmake-3.25.2-py2.py3-none-win32.whl#sha256=36407f07f6241258fbe05c937304f52a9a8291fcc8e709c2fa1970632dc27aa3" >cmake-3.25.2-py2.py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/18/ec180605f3515ca19919b81d91e74efea2ec465bc94ad298af349e9dd648/cmake-3.25.2-py2.py3-none-win_amd64.whl#sha256=e77f856b09f3246d22e4c99458678f0e3d094a73903643bbc422fbc92b77e574" >cmake-3.25.2-py2.py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/62/e71f3192d86fa361698f1c46c8c6ce06182ac17bbbc827de546de772f2fb/cmake-3.25.2-py2.py3-none-win_arm64.whl#sha256=814800cf5a1f5a32cb7af659f830e8f810692929bdf5c9a30e5c263b3d16af7c" >cmake-3.25.2-py2.py3-none-win_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/e1/b8121035216cb41c3f119e887f8c831b325bc31e63ee95d94d76daa831f9/cmake-3.25.2.tar.gz#sha256=bcf9f0369743278ec26961542b31ed1610e6f4cfc20c00a3f1c61985abb3b0d2" >cmake-3.25.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15796476-->
+<!--SERIAL 16654431-->

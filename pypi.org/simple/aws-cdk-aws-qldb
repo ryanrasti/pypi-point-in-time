@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-qldb</title>
   </head>
   <body>
@@ -438,6 +438,20 @@
     <a href="https://files.pythonhosted.org/packages/89/85/f7b94c4ca4675f7efd17be54469b1883359e9b7ce6a143be4f3f829b7eda/aws_cdk.aws_qldb-1.187.0-py3-none-any.whl#sha256=55581089e43f124c63ec7fe6daccd6a2329d0677b3f6fed695e17356aa5cfa8f" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/73/9b3138b44df7a31a3aa92a0af5989c6702bc52a351eef8a025e8f4fc77a0/aws-cdk.aws-qldb-1.188.0.tar.gz#sha256=821c8946b2d16c3607546da09861a748ccdaf41d81d6a222f84d307c6201bf55" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/58/03/61d7e2a08009181c604a724ab8be0cbf1c65adfd1a12707dc15bbc7d7641/aws_cdk.aws_qldb-1.188.0-py3-none-any.whl#sha256=d37012296e9f20c630e3346c94f2e2d8cba7fa3d64bb7e19ccfa02fbc4c6fdc8" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/cd/6e18877614da4011c24037cfb983c733ff2312c2a73b842ac97b00b473bc/aws-cdk.aws-qldb-1.189.0.tar.gz#sha256=ba2255af33660ca4aa21698bf6f7ecb6958334bfa11070c2c6343281f99e4e65" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/ef/6adb45e3dd19f7328094ba5a2268d1efced1da038c32f5be752bf29453bf/aws_cdk.aws_qldb-1.189.0-py3-none-any.whl#sha256=88e5b5e3b6a63280289eadb7c8a20bfe141f2183738a7882d23e568c5ca5fc6b" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/da/18611e6455e8d2bcd6be60d2ebf2ef98736b2a9dd90edc11ad09426ce975/aws-cdk.aws-qldb-1.190.0.tar.gz#sha256=ad3058d66decd5462cc42d32987c8f9cd84d6cacb84bb722426e27ed970a9c87" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/d7/184958d7a478ae35288e1a0803199fc6fdc31738738bfe5babff62602003/aws_cdk.aws_qldb-1.190.0-py3-none-any.whl#sha256=a397e1aa8d04f7ec6b7ee2bd56639ead8e2dd7f7fed9aa44d582a71806979981" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/39/0fd335cd2f3f73d6c384e29eacd01465492ebfacf578e7ea40b9b1f6e4fc/aws-cdk.aws-qldb-1.191.0.tar.gz#sha256=d29f66a5f7b4766266b4e9b7079ebc0984f883d8cb820a9b167ee1c76f4d5cf1" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/32/9cb4bc488c7742289fbc48c1a0dbeb5af2f32cae5bb6150cc3907e35f325/aws_cdk.aws_qldb-1.191.0-py3-none-any.whl#sha256=d1c0f145edc52b8986361723eee830d853260121d145882af41d69927db697aa" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/b5/b760c8717d379cf8f9c90b4a3b2dfea8694aab3b1fe604115ecc6e742700/aws-cdk.aws-qldb-1.192.0.tar.gz#sha256=27286e1913185e8b3265b2bf46e0cec9dc96b453e0555a9ac705fdbed4fa83db" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/a4/a96c364142abe3058f8a0a827c8404a6722caafd24dfa074bf443975c507/aws_cdk.aws_qldb-1.192.0-py3-none-any.whl#sha256=9a5e83a1fe594ac44d7d8540b46bd754f49b92764d958407ec7770f77549946a" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/49/f614b50db36709bedfc8b6358e4895537afcb11ae0d1d04a3a675e250eec/aws-cdk.aws-qldb-1.193.0.tar.gz#sha256=143d1eaf8f3fae60786e538e693a4f251e6de0d50803b671e3ff092f48147beb" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/f9/dc94e0a54269a35508943858212d26104c829d83fae57fd2c3748adbed7a/aws_cdk.aws_qldb-1.193.0-py3-none-any.whl#sha256=2bc5893214b6b3273af8a6caade4d446a6f8f03fd4511b58f2ed59fe2544623f" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/97/edea80d341e077e9aaeddd4e37b1c0581322a4a7021bc80386f187450715/aws-cdk.aws-qldb-1.194.0.tar.gz#sha256=60ed327a1a05709bc77e35f39618a5d6621961137354d02b7e143e15f47c7c87" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/ec/7cb21181ec300efb6a54ac70d16bd1666960274e6dd1520f042b77e2be73/aws_cdk.aws_qldb-1.194.0-py3-none-any.whl#sha256=db857862ea2046230f3b26dcc85811b13664eaea0ba016c1662cb03e951443eb" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/36/17d5901f0a91d39edf57fc88a633c0a33a688731598c890825e7b576eb86/aws-cdk.aws-qldb-1.195.0.tar.gz#sha256=7f90f60afaa1bf9619dfafb9b486965f5f1402284bb6f371f976f756640aecab" data-requires-python="~=3.7" >aws-cdk.aws-qldb-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/dd/b689e43e4dec3cdd275afd9cea75b64478b85c231388f5ff83610c762169/aws_cdk.aws_qldb-1.195.0-py3-none-any.whl#sha256=0ec3168564fc915759af7ed7413b82e50cf8b474442e2ecf1070cf027056f504" data-requires-python="~=3.7" >aws_cdk.aws_qldb-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393458-->
+<!--SERIAL 17131987-->

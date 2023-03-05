@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pylipd</title>
   </head>
   <body>
@@ -14,6 +14,23 @@
     <a href="https://files.pythonhosted.org/packages/8a/c1/a2c00ff069e29dd1c5d3925e071ce2b62966892ee304aef0ed327f070921/pylipd-0.9.2.tar.gz#sha256=4e09379a6a2c951b01c2d9b5ef9dc2b55bfedbc93f2139d30155e26db4d6c3df" data-requires-python="&gt;=3.6" >pylipd-0.9.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/82/da/55f9faf96f1a59e9969960f7e39786a4fe11b38e694c819188a2ce2dbd6a/pylipd-0.9.3-py3-none-any.whl#sha256=22451ba159166aceda5de12b15b684e432b0afe869909e22adbc158208f52749" data-requires-python="&gt;=3.6" >pylipd-0.9.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/62/82e134571d685b25a8e96200dd3529bef6fe790e252eda96a64c520b44b6/pylipd-0.9.3.tar.gz#sha256=276a8b5f1aeee97a6180a40aff80382bdc2921f17cb2a2648b3242834373db36" data-requires-python="&gt;=3.6" >pylipd-0.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/1d/5ee72ac2e65b81927084c31da71800591471621f6faff5be9512c1569add/pylipd-0.9.4.tar.gz#sha256=ba91b5e7e4544f734b0ebf64ce733a40a175b2febe28a0e9a797054c1ffe9f06" data-requires-python="&gt;=3.9.0" >pylipd-0.9.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/ad/63200a8b6eeb75652878b70421f318f1feb12b1f05fdfdb86bc8d6cb8539/pylipd-0.9.5-py3-none-any.whl#sha256=c9d7349502c0fc72c753cf49c3e317bcdbee76aceba99ff0645abbc78e87bbd5" data-requires-python="&gt;=3.9.0" >pylipd-0.9.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/d1/2a2c7663939665c719645847e573e5eb24e7f67230fba42bb73179d66242/pylipd-0.9.5.tar.gz#sha256=f0a40bf016778996a18459ebf389f77922588aabf3abdb306f9e4056a06bb3db" data-requires-python="&gt;=3.9.0" >pylipd-0.9.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/6a/2e1c4ef3c51cb575198173c9639f3a7c3e22285c87982b7aad8475a9fde3/pylipd-0.9.6-py3-none-any.whl#sha256=eb7a2dff62d93606eac262bc2fdbab394952b4c86584fa1ae3563be7cf52a237" data-requires-python="&gt;=3.9.0" >pylipd-0.9.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/a2/a187b726e219dea14d56669ea2ebce8685b82c71021d8ed73575b04518e1/pylipd-0.9.6.tar.gz#sha256=a951eb709e4be20bcc880391b4975507814f3f185efe0b08e0c8e5ef3b7eb590" data-requires-python="&gt;=3.9.0" >pylipd-0.9.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/0a/c50c73eba6103d50e9a12d22939ad1de44cb68f11ca12c6ba1f8c9bfa560/pylipd-0.9.7-py3-none-any.whl#sha256=21065241667e896b4799f7cdd1c9d96af6ac610aad07cba3dd8387fea9acd446" data-requires-python="&gt;=3.9.0" >pylipd-0.9.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/d2/516e0bf79f9db3dcd4744d28930ce010e8943dfdca6a5ded0b36dfbdac2a/pylipd-0.9.7.tar.gz#sha256=1b1922f45565791e3e620b31270abbab304c523a89bdf24ee35982aa7dbdd0bc" data-requires-python="&gt;=3.9.0" >pylipd-0.9.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/17/0f83cb1a4f7fbcc861dff2391bae0e62c19321cbec44a62fe0b155dfa75c/pylipd-0.9.8-py3-none-any.whl#sha256=484d370f74d9a585998109aba096a70a4009d3a3d25c130463cd2443e029d03f" data-requires-python="&gt;=3.9.0" >pylipd-0.9.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/57/d3d301a3d8f696e54505814c7fd83011c6870143fe60009157d3d1b77ca7/pylipd-0.9.8.tar.gz#sha256=61835a0ed7bc758ba4a7465411cf8e2ad392242a2fb34defe3141769b1e4251a" data-requires-python="&gt;=3.9.0" >pylipd-0.9.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/ed/4b7a1e5abc9108422cf22a03e6d32b7c89523d8479d7f32e691ced4fe854/pylipd-0.9.9-py3-none-any.whl#sha256=de17097d590415460a598da8eb37ceb398e05de651afad1e122ed9e7b0a813ee" data-requires-python="&gt;=3.9.0" >pylipd-0.9.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/38/7748595342ceed8422e57f66df68af04ac9b52e275783c3bc65b1b3aea5d/pylipd-0.9.9.tar.gz#sha256=283bb51598c8b3691985638927a05e26b79333239f6d396ffcfaa991407625fb" data-requires-python="&gt;=3.9.0" >pylipd-0.9.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/6a/ac6faeb973c0c105e2b5935239076b6c940d6a3ebe6a7699ea17dd49add5/pylipd-1.0.0-py3-none-any.whl#sha256=6ccac2457992b4b35e9ba18c167b02d13c77fc27bae76a258b76fe46d509be89" data-requires-python="&gt;=3.9.0" >pylipd-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/0d/d7ff7fcced748618417433175348e20374d52b93d3dca2288d025d3f67fc/pylipd-1.0.0.tar.gz#sha256=ad92e734fa98c2beb71e3747940474c85538a3fd93cbabbaa937d2ef6b9e577a" data-requires-python="&gt;=3.9.0" >pylipd-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/a0/cb6926fb50bcdd41560e38f0398d1301306b7a9b4ce8ba44c10515c71a72/pylipd-1.0.1-py3-none-any.whl#sha256=9ec7977e854f3fc0ea80ee333f8fc866f3cfa4e1c6b8ac4ee2b6909f1ee61e89" data-requires-python="&gt;=3.9.0" >pylipd-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/10/319c55534b58f754e5440a6169db1e4d59aa42f6fc8d86805785c915e03f/pylipd-1.0.1.tar.gz#sha256=a0656600573536677c1e25dedc393a9d4128b9f2d07009e4d8c5fc4d88810c4e" data-requires-python="&gt;=3.9.0" >pylipd-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/76/1a0bd8d9de90f0f208eb9319134de3ef2b6634fdd37d0a30f87ff380ade9/pylipd-1.0.2-py3-none-any.whl#sha256=7bcecc2266743c7c44f36883bfe985f973f0604498bf067228e9616b989d13fa" data-requires-python="&gt;=3.9.0" >pylipd-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/2f/7c85737fa021c3f0f49c5c7ab97aeed74bff77b9932bc0ed2aefdf617953/pylipd-1.0.2.tar.gz#sha256=33ab3fe1a6591b040d194844f3b52c7d3749448ff926a6699e5d21b456fe1a3e" data-requires-python="&gt;=3.9.0" >pylipd-1.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16378448-->
+<!--SERIAL 17008659-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for merlin-sdk</title>
   </head>
   <body>
@@ -120,6 +120,18 @@
     <a href="https://files.pythonhosted.org/packages/fc/8e/6aed2c3e6f168147e6f26455b7ab473ae81d962949534dfbf748e36eab25/merlin_sdk-0.25.0rc3-py3-none-any.whl#sha256=81a96b5db0a68577b7aceb9d56ba9e0d3f0833281b2d8a047ca08c252b229a32" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.25.0rc3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/32/511f9b276828c4acf9e4bd6b63edb9a47c11e251bb31b18ecb2a383ec08c/merlin-sdk-0.25.0.tar.gz#sha256=803eeda85a36bf07b95e04e0e2ca9733c46a506327b8f83629825e587f24b8d2" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.25.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/26/deea9cf8163228061f95a5f00b98b64c457d7e721d39f46ebcb93f6483ea/merlin_sdk-0.25.0-py3-none-any.whl#sha256=a4e6793e2ba278d009fd42c7f1d8e0f81cdde8de5eecd59bdc392b47a77fa46b" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.25.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/46/f8fd87051ed385ef95cb804d9615ee54ac310fc7917d1583ada64891ba6f/merlin-sdk-0.26.0rc1.tar.gz#sha256=ad17ff425587c63d5f93dc688f246173ce6f26f9139a55bc8093112e6701e2a2" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.26.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/7c/2404256e05b5aae1d1d105919b3ee6dc507f5384e64e3143b02342cfacb4/merlin_sdk-0.26.0rc1-py3-none-any.whl#sha256=ebff85f0fd5f2c7a77fe4fdfd7aeb5f656b788d0f7e279fbe2533ca2053f58fe" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.26.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/f9/c0b901a6530aee95c1d2b6d6d664d25aeb599db331a879324e7d15516a00/merlin-sdk-0.26.0rc2.tar.gz#sha256=6b25e3fd30b50aef1c1793f4fdcc564337b2b0a09385bad74cea23050eddaecf" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.26.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/53/12f681cd4a851defe88abd2d999da15649375b47caa51ce5c47405aea400/merlin_sdk-0.26.0rc2-py3-none-any.whl#sha256=fa7cb936492a0f740bf319cb41e653bcb2c26de9861ba793b241ccf85efafa47" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.26.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/1e/8ec5231f0dffecc5e96ee188bad0e1f66ba6f4dcb032bb7e7e79b44811c6/merlin-sdk-0.26.0rc3.tar.gz#sha256=9a41dc354ee3ab2b2c08e9f65a03fb89e8dac04570c3f62b2bb5540fa83a7c20" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.26.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/5a/445182ada6b859b7c730f461358a23a35a9de3da1e363674d731793440fa/merlin_sdk-0.26.0rc3-py3-none-any.whl#sha256=8beb4dfcf0800fd1d2a2de14f8ef257179f072954c2858f29108bb6201cf9848" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.26.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/db/193e8e62421139f83c487f5cf4d8ebde92d777dec1fb5adf0ba3c610a7b2/merlin-sdk-0.26.0rc5.tar.gz#sha256=a1b31f04fa362c39d8fb74b3545ad0328bfb6a2e80185ef5ac998dda91e783cf" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.26.0rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/94/356bacb8d095cf6973ebfaa1d82393eaafedfb1f5d785fe26dcf78d5afc6/merlin_sdk-0.26.0rc5-py3-none-any.whl#sha256=d4681b1aba57256a3207effd085b6a69bacf97b2210c8e4d1c20c92daf890be6" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.26.0rc5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/20/de5b17ad7d30657f06626aa9b3b95a5996d6a2728a5c1d81ddc47a9773e5/merlin-sdk-0.26.0rc6.tar.gz#sha256=b13c6a062c3715ea606e37509cd4e88b383c784fce3a050b51f79a2a562c136c" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.26.0rc6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/1f/17bbfdbc64e23f640fd2602eeb663ebda0ec337058d4d4348d71ff820a2f/merlin_sdk-0.26.0rc6-py3-none-any.whl#sha256=fd377695e0354817bc9104856031d8d9c03bc9b83b666bbd9facee68d111c183" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.26.0rc6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/4d/2d486039227d559d5e29eafa310399666aaa2fcc7e42595f7694fad40034/merlin-sdk-0.26.0rc7.tar.gz#sha256=69196e1a44681a0c88671e3e9243ea510406f0adae8fd234d08debae9723db57" data-requires-python="&gt;=3.7,&lt;3.11" >merlin-sdk-0.26.0rc7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/e5/40cc2ccbed039dcf10fe35bd7c6ea0d49e1f8c42e3878cb719e304e9b4c2/merlin_sdk-0.26.0rc7-py3-none-any.whl#sha256=4d7825191531462e2a7d3d81a5e62bfd576c084d6c1ab742bb5e14a92f48ebb2" data-requires-python="&gt;=3.7,&lt;3.11" >merlin_sdk-0.26.0rc7-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16003233-->
+<!--SERIAL 17142532-->

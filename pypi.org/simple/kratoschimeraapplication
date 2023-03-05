@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kratoschimeraapplication</title>
   </head>
   <body>
@@ -67,6 +67,14 @@
     <a href="https://files.pythonhosted.org/packages/d4/63/fd1baa914476a7f56c2e49793a3d08b2a186cfadaa7b4362a2b48540b375/KratosChimeraApplication-9.2.2-cp37-cp37m-win_amd64.whl#sha256=458d2c5487013ea6b6a22311432aabc3ccc14e6332daab6b2c7b645e74d6f9a3" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.2.2-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/fd/e82135479925fa2e28baa5feb2be6d3e60b3508f0bf78f4b71cbc0ae0e59/KratosChimeraApplication-9.2.2-cp38-cp38-win_amd64.whl#sha256=02c0bbe6cfdfec3bd2ec01e06a30172631a313c2da20159d2467bbfbc02b4f60" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.2.2-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/e9/b82c585eab4bff1c5e478893c925a39ae5aaec8138d03a1320efbded0265/KratosChimeraApplication-9.2.2-cp39-cp39-win_amd64.whl#sha256=f6e47f881113b791bc66350ab0422a6fe699b39ff43e31fade1559ef9b8212a5" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/2f/e0396652f0735d0228854d2a6df95d8de82219623f1cea2ac51ad1441403/KratosChimeraApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8277b3903cb156adf3e07044e6c27fc69e8523336571673f3ccc8ef30bcaf33c" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/dc/dd787e9adeda0c55ac7ccaf7f62c5bc76af5d2454b011777a9d0681209e2/KratosChimeraApplication-9.3-cp310-cp310-win_amd64.whl#sha256=13885bf1fb33c72764d7f156e0ccb02147b9e4cec4a4c6991603045ba6104450" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/04/9b3f12fa3a592b9b61cbecdfce0c3ab6b8a3bfe944d66617e70133ea19ef/KratosChimeraApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d15bc2d4046d566c4145d36a5e6de3e7f4a1a9f60d8b05464cbfdabce722356b" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/65/ea50b5aeca1e4dfe0c45e1863a0a1c498b5b53255d57b3170cb050b6146a/KratosChimeraApplication-9.3-cp311-cp311-win_amd64.whl#sha256=be9b00d9e1c658e97c654b5146c320d9b1c8ec1dea95c493c2b8399c2bf0d9e2" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/9c/7e072fc0153a6053df4b31eea3b3c9df3a35c523aabe46181107fff71826/KratosChimeraApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=44dd1d20125289b4b0f2e58d12501be44d839c557c3fe1d8d5b62648913d34f3" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/5f/7c6fd909986b5e4c304cc8c19104945c74efa751ded214529b64b7b6db10/KratosChimeraApplication-9.3-cp38-cp38-win_amd64.whl#sha256=702bde755bf0a461d39589bb75f80569eea4455c69a83a1c8b32d0ea9904ba3e" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/19/0073eb919ead28505f896252f3322b411e7914f116ecfb2fbd419b1abf1c/KratosChimeraApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=47ad168f14fab5f01deadfd0a2b56502bc68f1b1931477a3c18fb65ef896d129" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/14/7edc6af9b5941d74822b4510ed0e58cd923500c8eec44c57d247f1eab6ac/KratosChimeraApplication-9.3-cp39-cp39-win_amd64.whl#sha256=858828634c5966b3366fe909d8fd83ea1583211d4fec8ae6494878964f2b0437" data-requires-python="&gt;=3.6" >KratosChimeraApplication-9.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15413761-->
+<!--SERIAL 17063675-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyqt5</title>
   </head>
   <body>
@@ -141,6 +141,16 @@
     <a href="https://files.pythonhosted.org/packages/c6/ea/5fa344ed69086218b30542c3b2e381c1f52ec4b141f878e9601e3b81dc71/PyQt5-5.15.7-cp37-abi3-win32.whl#sha256=08694f0a4c7d4f3d36b2311b1920e6283240ad3b7c09b515e08262e195dcdf37" data-requires-python="&gt;=3.7" >PyQt5-5.15.7-cp37-abi3-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/85/31a12415765acb48fddac3e207cfffcbbae826fe194cf1d92179d8872f59/PyQt5-5.15.7-cp37-abi3-win_amd64.whl#sha256=232fe5b135a095cbd024cf341d928fc672c963f88e6a52b0c605be8177c2fdb5" data-requires-python="&gt;=3.7" >PyQt5-5.15.7-cp37-abi3-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/57/2023316578646e1adab903caab714708422f83a57f97eb34a5d13510f4e1/PyQt5-5.15.7.tar.gz#sha256=755121a52b3a08cb07275c10ebb96576d36e320e572591db16cfdbc558101594" data-requires-python="&gt;=3.7" >PyQt5-5.15.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/98/737d31d80331dc2b73a067947c07cab0d7652922661bff389b5d6cb6c519/PyQt5-5.15.8-cp37-abi3-macosx_10_13_x86_64.whl#sha256=c6ee352bef5ef6392039db2d09a376908ca6ed34d1892bfe8be08e28e1992a89" data-requires-python="&gt;=3.7" >PyQt5-5.15.8-cp37-abi3-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/7d/6c34272198b7f2950ec62a2b8a43f946ca5970db782597c1a447facbdfc6/PyQt5-5.15.8-cp37-abi3-manylinux_2_17_x86_64.whl#sha256=85f72addcf430b958e156fe90b975aec5c2dfe0a53f5b13c69e072de989000f7" data-requires-python="&gt;=3.7" >PyQt5-5.15.8-cp37-abi3-manylinux_2_17_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/29/5fe123c67f6e7b8b6642a88327f041248529b59e3564ecf847060e2ec34c/PyQt5-5.15.8-cp37-abi3-win32.whl#sha256=7daa668d2c36b62da8fb3b68670b70455dba659fe5006400222280d6153dc035" data-requires-python="&gt;=3.7" >PyQt5-5.15.8-cp37-abi3-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/1c/d4124e61d522af99ba2f67eb0cd40b1309d8d921200d5af345d4f2e3a8da/PyQt5-5.15.8-cp37-abi3-win_amd64.whl#sha256=e812ff1f9b994f592392f764246372d29dd3e8d800087064cab47109d9aad1f7" data-requires-python="&gt;=3.7" >PyQt5-5.15.8-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/c3/76c52be757e2e07e2f76dfda0e89546a14c1b97004cc7e126851764370b3/PyQt5-5.15.8.tar.gz#sha256=bc85e3efb9135c56c8b88157c8825005fb7cd0f14babd93976778aae82eda360" data-requires-python="&gt;=3.7" >PyQt5-5.15.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/c7/82f92662afdd85b69d126353d498f71e0fce03cbf1c01b700e0e495adf16/PyQt5-5.15.9-cp37-abi3-macosx_10_13_x86_64.whl#sha256=883ba5c8a348be78c8be6a3d3ba014c798e679503bce00d76c666c2dc6afe828" data-requires-python="&gt;=3.7" >PyQt5-5.15.9-cp37-abi3-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/99/78db05e606dbb4a9425c159e7f1f64b69683c16ee3dcd0f97ed9ede6b205/PyQt5-5.15.9-cp37-abi3-manylinux_2_17_x86_64.whl#sha256=dd5ce10e79fbf1df29507d2daf99270f2057cdd25e4de6fbf2052b46c652e3a5" data-requires-python="&gt;=3.7" >PyQt5-5.15.9-cp37-abi3-manylinux_2_17_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/b5/00a3c80a4c738e92e9d9e144c9bb5bd9d0842bac5517c63d42e7c9633826/PyQt5-5.15.9-cp37-abi3-win32.whl#sha256=e45c5cc15d4fd26ab5cb0e5cdba60691a3e9086411f8e3662db07a5a4222a696" data-requires-python="&gt;=3.7" >PyQt5-5.15.9-cp37-abi3-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/5d/8df8a2aa0de6588965d048fca9306cf15a5801be3078f195e8f8f41fa863/PyQt5-5.15.9-cp37-abi3-win_amd64.whl#sha256=e030d795df4cbbfcf4f38b18e2e119bcc9e177ef658a5094b87bb16cac0ce4c5" data-requires-python="&gt;=3.7" >PyQt5-5.15.9-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/46/b4b6eae1e24d9432905ef1d4e7c28b6610e28252527cdc38f2a75997d8b5/PyQt5-5.15.9.tar.gz#sha256=dc41e8401a90dc3e2b692b411bd5492ab559ae27a27424eed4bd3915564ec4c0" data-requires-python="&gt;=3.7" >PyQt5-5.15.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14173529-->
+<!--SERIAL 16711063-->

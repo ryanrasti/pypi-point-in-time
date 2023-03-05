@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bhfutils</title>
   </head>
   <body>
@@ -72,6 +72,18 @@
     <a href="https://files.pythonhosted.org/packages/88/58/dca6ac64bfb9192d74fab479c7a5971a57455dbf1269f8eb8ce70d950297/bhfutils-0.0.79.tar.gz#sha256=d0a7584a2f9a328e07daed830c1b535848c44371441b29b0d180ec7ad0b2465b" >bhfutils-0.0.79.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/4e/016f4e7c91b9f7dbb8923f61944086076c3a07b567ec29dc12d3f9e7c8a8/bhfutils-0.0.80.tar.gz#sha256=08b4cb89ebfe55c468ac2fee484af64e54eacc685b293c5ac95b279df5b027b2" >bhfutils-0.0.80.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/22/86/b754debecf4342aa0b73e4e1e31289ad8e268d94d2aa78da33f85373d84d/bhfutils-0.0.81.tar.gz#sha256=abef6fd90b444885bdf1aee4d8dafa19f7d8093259077f6d3baa475d8fb4a10c" >bhfutils-0.0.81.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/1c/347af0393ff8d1a354b1385653cace33fcfcb4abe08bc6dc1a572a414e1d/bhfutils-0.0.82-py3-none-any.whl#sha256=d9fe779761a536f5b43891e3df6eb5c59a0b537d236bc230a999c8eb966caef4" >bhfutils-0.0.82-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/7a/f8a2999cd66b62421b84faf2b9fd13104980c91720d014017fc608f2405f/bhfutils-0.0.82.tar.gz#sha256=fdd1c282c80d23db0d43dec2f6a694ccd96c25b5c194eb701fd296f4c7a95464" >bhfutils-0.0.82.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/57/0bb3a2c3ed96b15cd984ee7b308efbe4e4e5931d57a737c275966259d8ba/bhfutils-0.0.83-py3-none-any.whl#sha256=869c25763b40303129c315c01face8732e913ddc0ac2cc5c74259047dc8e2024" >bhfutils-0.0.83-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/0a/dd25f88cb0f4340dc544b41d87aa144d3b4db8725251555369a0612d0a09/bhfutils-0.0.83.tar.gz#sha256=8b34904f2f35d974edb9beb6dc31b6f6f59b8855feafbbf3e060339e3ed855aa" >bhfutils-0.0.83.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/44/f06fb97646f66ae71614b550fe51e18ba9599f0e015f3e0322cc98c86688/bhfutils-0.0.84-py3-none-any.whl#sha256=5bfa3b31a8bfd4f42279a89e840b8faf8a20649309155384f9b3d3235db78bf6" >bhfutils-0.0.84-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/68/23951b07ebc368732f5e6a93799f5262f7b97e30a75855dda6fa0a0758af/bhfutils-0.0.84.tar.gz#sha256=a0acf317b41a42538f4b6b82916abbedad538395ced9c4b14d228846ce9e8c0d" >bhfutils-0.0.84.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/77/33447d3657ed042bbce9a5158acd741641930b9443084cd52e5017f25c92/bhfutils-0.0.85-py3-none-any.whl#sha256=47badee85821c83cc95aa29e01c1fabfc0142860765dc39e0206c94f2a0eb79b" >bhfutils-0.0.85-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/d1/2c3e73147c885ec212210c0a2d19d5ec46ae71aeea05555c4801e86a6a5f/bhfutils-0.0.85.tar.gz#sha256=0c9e007f487b713df667cc92235d2b49f48dc5b7bd4ff0ed1ad7877100420f04" >bhfutils-0.0.85.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/dc/01c10604d8388fb3a0959d90ed9fdb7f1bbd3b6bc8d9ff4265e3391d4a0a/bhfutils-0.0.86-py3-none-any.whl#sha256=a0bd4f3667c08819646512978198924fe5f066334d3e829d1723b2fa323c48a0" >bhfutils-0.0.86-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/3c/bbac413fdf82352ee4315fd94e0e79ea06db923e544d5ec2158468409c77/bhfutils-0.0.86.tar.gz#sha256=a4a3b3115940d981ce086190b465072d44140488c54bcc80dd0d62e5e2a1b506" >bhfutils-0.0.86.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/d3/4b68164d35ac0b239c7ee6025535035ccd8f6fa679627bed5d1499f92013/bhfutils-0.0.87-py3-none-any.whl#sha256=dd5a3e8a578013e2809ca8f066cb00de0168757e9bc9bfaa600a6749e9995c3f" >bhfutils-0.0.87-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/70/0ed9cf313c1983bab3cb75ccfb38ac91f8d0aa622c1644337b53cd3b03be/bhfutils-0.0.87.tar.gz#sha256=5999465cb0da620a6f595aa56b852ae19b113de8d61419ca967af2ca642fb7b2" >bhfutils-0.0.87.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14384615-->
+<!--SERIAL 16650439-->

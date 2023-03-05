@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-census</title>
   </head>
   <body>
@@ -140,8 +140,32 @@
     <a href="https://files.pythonhosted.org/packages/77/6e/fbe411e071fe35292f929f0c092fe2db394c0166c1a1b32e230946b1d28d/dagster_census-0.17.9-py3-none-any.whl#sha256=35513f5f5f51b8b0cf2c8752d55452a93e747ac4172db9f923e44f6ea42f77d5" >dagster_census-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/01/a958594276c4a2dfd22caf51a4f0a13174899f87dfa60f905d7eb2ebb147/dagster-census-0.17.10.tar.gz#sha256=9f575d34eaf38eccdd639034debae135c971b59084e1e267cfb280ce92f468c6" >dagster-census-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/09/06f22e291b3e662748df8fe21b47677df5617d9103cce20c2cc56886e1d4/dagster_census-0.17.10-py3-none-any.whl#sha256=18629f8b385b5581fb1e6b560616272f1a35c7fe9d178213aedeade2555f1928" >dagster_census-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/5b/d38ff0f60d9b528a3dad6402ec33768fbcf037f82b9f4e8ee63ff6cec2b0/dagster-census-0.17.11.tar.gz#sha256=6a52d43396adedb254ecd033ebb514c7ea564b0b13ea2c853a965b2d9cbe826b" >dagster-census-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/65/9a4f17c80021df569f5f782770b753b9e782fe4720828ad60e52f3e8cb60/dagster_census-0.17.11-py3-none-any.whl#sha256=5fb9d9459cd394c459a361b6f6a4d70e676b5a72bfafd4208375defa571bfd4c" >dagster_census-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/88/6fa1d4c722b43bac07827d7b4891216307699ac42970f022b943a1324d1d/dagster-census-0.17.12.tar.gz#sha256=6b615549c595ef285e1063208590bc7f1dc98d8027dfe8751b429a89b126cb24" >dagster-census-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/8a/dbc5f639b266e7f3ca0a10c127b9e67127e1467c92c418dcf1e3daffb02d/dagster_census-0.17.12-py3-none-any.whl#sha256=89667949f6a1760623e5619d75d4f45d5364b1453b7327713118a78baf2870f3" >dagster_census-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/dd/eca3da86572e592fd544fb292fb2749c44b48da0a904c3d616ab4d7e6764/dagster-census-0.17.13.tar.gz#sha256=bc483be03c0f195ffa3ab0505f62d1461612b743415e84480cbad04a3bd2565f" >dagster-census-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/14/88ec34edeb9f6e2eb7b4f97490b46ae21b9bf00ce794cf62732c4f7fb860/dagster_census-0.17.13-py3-none-any.whl#sha256=37736ac7c391b771a0cc7098af1d6339a82fc1437413935d0eea49f77bb5cc7d" >dagster_census-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/c5/28272c61491965356a07f65230e9e72739997456ecc738c688660ddaae71/dagster-census-0.17.14.tar.gz#sha256=b4ae31fa7bc2f79637e1e4c3820c7436def581c3adeae2369286842e6cd7baaa" >dagster-census-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/7d/44af2d9d151b45d645eefc0aec5aab3415e3f9e2e002b484c6cee85dc5b0/dagster_census-0.17.14-py3-none-any.whl#sha256=f03c99ae3dec1817e0a185cda98041e134e4ee27c1a1bcef50b8359892cc9179" >dagster_census-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/94/b076011f28c9af7807f2e0b93440d7d031093e41a478535c352b659f95b9/dagster-census-0.17.15.tar.gz#sha256=3bee924f350f9d80b5403a21af436b1e777c0a06baaa3efe77ec369dcd92bbd4" >dagster-census-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/f3/197968508e0ad58484151ccb980b770e9a2c032b69158d38662313221164/dagster_census-0.17.15-py3-none-any.whl#sha256=a9869470c8b29974671c317c3e2c546ce8ca54fcc3a2826d72ee8964a661bd39" >dagster_census-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/29/af0ac657bb7a35ddb44219176255c4d62c898527cb6377c206dfd9998594/dagster-census-0.17.16.tar.gz#sha256=e0cde8e705115e78c0de0c7cf2d10c8894061e08a32efe2c68bc48572280501a" data-yanked="" >dagster-census-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/da/0a191c0bc258455fe0b724c84987d504a17c365a2002217618801828a9c4/dagster_census-0.17.16-py3-none-any.whl#sha256=338631be1546a5d1bee079254cf7aa5701d041e4c92077a6fb4c12849e933948" data-yanked="" >dagster_census-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/42/0f625b808782382109ed36115526d79b50c79d18409ee2578994c309ff59/dagster-census-0.17.17rc0.tar.gz#sha256=2062f688ea76cbe9acc12084348058084fc1057610c65ef68d1fb3880ebfe9fd" >dagster-census-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/79/00c9e51bfd3726b35302d2e64d7bed1e0ca9ef3634969db4598744483cf4/dagster_census-0.17.17rc0-py3-none-any.whl#sha256=d3e22e10e05fcc6147eafc3ea30462bf0b405555c2c5d1eff5be445646fef91a" >dagster_census-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/b9/fd659ff83db85880219cc99063f8de6fce159ebced8f4336dc61b2da5b99/dagster-census-0.17.17.tar.gz#sha256=43aa01305bc77fcd0942b1d2a83953a4ea38af23f08bacbd976126376a092c2a" >dagster-census-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/3b/695f8d7071147142138ccc659e3a8d07eecc2342a900f288aec2045f096d/dagster_census-0.17.17-py3-none-any.whl#sha256=a6cf73ab8b55098857f73ae98401617f228bb1bee519ea49319eb508a1a60510" >dagster_census-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/a8/41bacb0ea412f8f02cccc5de7dc5c15da9fe16235aab57ce82b8983cbddf/dagster-census-0.17.18.tar.gz#sha256=2f8e00c382dc1e44e21ccce23e7133fa1d45c4d03171f220a93d4ecb6b812f45" >dagster-census-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/90/32783c9ce952a2044f053488457849fda4f8c9ffd05cc5d57082ab15534f/dagster_census-0.17.18-py3-none-any.whl#sha256=73fc72f8765f10e2399a1a4a902ebf041503510dc2301d957b510665948edac2" >dagster_census-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/7e/65451e0551e7c5e736a60584dae45399324b78044ed1130ea89cbe8511f9/dagster-census-0.17.19.tar.gz#sha256=4c6d75aab3a4f8f10bf5b4a88d57f5d646dc4da94fa0e2c04b51055a34a41fa2" >dagster-census-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/20/0cdb3ab837bc361698c8ec869a2c1e7ffc06eb290a481d817969f3c30381/dagster_census-0.17.19-py3-none-any.whl#sha256=33673d5cecf7b016d2678300e74568801c1fc7e03852de2c6aad1da899ccf237" >dagster_census-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/d9/c9617775d425402656fa3b30a85881c0a2fb87d55475c9f913e02b562094/dagster-census-0.17.20.tar.gz#sha256=2be0ae64d602f51276f9c43a26413f0ec85267f4607d1c493f35a37df7925299" >dagster-census-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/3f/9dbcfa30a8a6db4757f10c313d4a07c142be55cecf99d32169778311904e/dagster_census-0.17.20-py3-none-any.whl#sha256=bbeede1ffcfa29d41bb636fa94dffa811fb732ea12af192b18bb15f5cc7082ce" >dagster_census-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/7c/151341e319307d68686585b30da2da12de0948a6d79f829d7cd91fb773d5/dagster-census-0.17.21.tar.gz#sha256=b0ee0543c47d09b81b6e5d57b4904824b3aac885c8c75c6f653c858ced5bf34b" >dagster-census-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/64/41b6dd953142fedaa393a78945e07a66694efd459a1bd7b2812f6768af7c/dagster_census-0.17.21-py3-none-any.whl#sha256=5fb6b49d5810ed7a4038754bd9c8ab8e03f2ddfa955261f3ee94461eee785c4e" >dagster_census-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/fa/661d16993c2d9f2c02bec6f90da05530cdad86d472f8620984a2b81e9e3b/dagster-census-1.0.5.tar.gz#sha256=549bfd2ae834c9023292a8f0d94a89e79cd0ebc173d05c87a85ec747070a9453" data-yanked="" >dagster-census-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/a2/97585e8089f8cc7f338c4e2f383055ac9919c8954f469bcb1b3a63095a8a/dagster_census-1.0.5-py3-none-any.whl#sha256=b0e8bf28fb279fe02d73572ebdb3069e6a7cb982e6bb7b805a32924706b32438" data-yanked="" >dagster_census-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408540-->
+<!--SERIAL 17135867-->

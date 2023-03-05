@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for deeponto</title>
   </head>
   <body>
     <h1>Links for deeponto</h1>
-    <a href="https://files.pythonhosted.org/packages/f9/fd/888966f24ba555ffc79dead8415a750085108f1eedc65462ec1ec033b312/deeponto-0.1.0-py3-none-any.whl#sha256=39ef29d645c4043b90eef84d36ffed669f440302c45082a6d6b655ab343c852f" data-requires-python="&gt;=3.7" >deeponto-0.1.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/33/fd/b97a74710413e7a25c35953e6c0b3bc5cc14346831ec53a0d723702dda7c/deeponto-0.1.0.tar.gz#sha256=3f34d80e6e6812d739fca9e0b2e376ed927ea8516546b823b77aa93219cc7a46" data-requires-python="&gt;=3.7" >deeponto-0.1.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ae/73/522a2f8a5b6a6cbb5bd1091b58794f84ad2491f64e450c627147b3d83384/deeponto-0.2.0-py3-none-any.whl#sha256=4a05e77d30c0f3e1a342c3e5ca05f9363a19846672a74d10471c18a1a9e60548" data-requires-python="&gt;=3.7" >deeponto-0.2.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/66/13/fd4ac0fce87600ef0701580639ac8f280affbd68815efd7359745c7f2d41/deeponto-0.2.0.tar.gz#sha256=7ed1fa5c64c9e333176ab2f0454c2c798f575b333bfa3e76876cb2058c00865b" data-requires-python="&gt;=3.7" >deeponto-0.2.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/31/1c/687ef3193bbcdffb0a7c651f28b91cb647e1b9f2435f42ed0c76821da249/deeponto-0.2.1-py3-none-any.whl#sha256=758a9f85877b402e0ec85d49502b3780850bd03ad506f6c7281457a3c797c6b1" data-requires-python="&gt;=3.7" >deeponto-0.2.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/04/ce/cee9bbe1af0274a9a47c26972e4bed68a4cbc50deeb5829c85450490bb60/deeponto-0.2.1.tar.gz#sha256=e750e016dde2a3d1486ed77e4c8575c75449002114cb853571883a1b778e8892" data-requires-python="&gt;=3.7" >deeponto-0.2.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/2b/9b/72e8933c3e80acb7b1a79f7c5d09838f3a66acd470b1c265b121554fb534/deeponto-0.3.0-py3-none-any.whl#sha256=8897d7e034d2df7451eba32e18b18ede7b2b51816731abb27ca60784cb070c46" data-requires-python="&gt;=3.7" >deeponto-0.3.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/aa/98/5d71601495b46f8185f880cb75668d0db4d9cc7b00e38880e616bdb0efcf/deeponto-0.3.0.tar.gz#sha256=bb708024277130b8b7b498ec335e59a74155abe483a5080ab2cf022c57a3bf0b" data-requires-python="&gt;=3.7" >deeponto-0.3.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/43/87/1835420044a6c291a0204467d0d4e07395641784e93d48f0032b53f9208b/deeponto-0.3.1-py3-none-any.whl#sha256=70bcb6c39bed71174341b23febe093f9c1778e780faf00f1f3688e87292e394a" data-requires-python="&gt;=3.7" >deeponto-0.3.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/d6/e7/dcab73a97c0e62f25883c48ae8dda5f6760a5630abea39f196ff77a4a785/deeponto-0.3.1.tar.gz#sha256=a03bc41caa4c7ad9c8f3d6cb0ea7c1710b786bc01f9652381328b468fe9b771c" data-requires-python="&gt;=3.7" >deeponto-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/05/e77a71b07574072c3318efd01b584fc828e91019770b05165eeaa3b29593/deeponto-0.5.0-py3-none-any.whl#sha256=be7b05019a86af658487f78c0f9f735ce4eba96aeab096de219820742b79ca0c" data-requires-python="&gt;=3.8" data-yanked="pip layout is not appropraite" >deeponto-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/31/db1b5e4e94279f1913f15583a83659d882464be5250c70eb23bdeedd61f6/deeponto-0.5.0.tar.gz#sha256=46bc5c1ea370969769b124e89ae228ac8c52accc7de3e3080afd9541f1dbecca" data-requires-python="&gt;=3.8" data-yanked="pip layout is not appropraite" >deeponto-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/c0/7d57137372bc92cf92bc92be202d29c51a458e46429bdadb4b362620a8eb/deeponto-0.5.1-py3-none-any.whl#sha256=3bef4bae40a48b0acab222e688cd716da62bfe45c70309ae56c896645343a7bd" data-requires-python="&gt;=3.8" data-yanked="pip layout is not appropriate" >deeponto-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/79/5e22ec7be50c98205192c403c2de8d7d8084ac55a9b7d8b5db21b30993c8/deeponto-0.5.1.tar.gz#sha256=5e643d8962fa4e28d7a128397a127f4a0294f54e4084c1e34f5580f04b4d1d1d" data-requires-python="&gt;=3.8" data-yanked="pip layout is not appropriate" >deeponto-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/a7/aba7bb0a67f212d910038959e592a882f0a22e7cfb9c1b6b83c1a458ab50/deeponto-0.5.2-py3-none-any.whl#sha256=7b506c4e28d2a8e2bd74676c08440d527d199b63b60dded2dcb94b0c65d56aa4" data-requires-python="&gt;=3.8" data-yanked="pip layout is not appropriate" >deeponto-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/d8/fcb74986ef4a9ef9886b48289f2e3edd16450780e65207bdf8c910d4a9e3/deeponto-0.5.2.tar.gz#sha256=cab7f19e02eb203b43b1c43620019f13409e6409c7571e9008b5e4af92b7354c" data-requires-python="&gt;=3.8" data-yanked="pip layout is not appropriate" >deeponto-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/82/e80c02f466a5f1e1ef5b04af5990dc34c3c46f5a93b07fb1a478da36da6b/deeponto-0.5.3-py3-none-any.whl#sha256=6ff027d93cd4f88713d3874de2c6ae24df7126cb096d8d6a34a1ac164cfcee3b" data-requires-python="&gt;=3.8" >deeponto-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/d8/05ff6de446b4b9434085261b4e7883c5c4c82f3497d986e89e5206d18770/deeponto-0.5.3.tar.gz#sha256=4c6f977b8fa6744eb398f6ec71a490c419ba48c6d19fda6e428f40879b078a7d" data-requires-python="&gt;=3.8" >deeponto-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/13/95e7db5233708f8e3e57ecadd70fa210b1f1c71aadd9acabfee0d5784540/deeponto-0.5.4-py3-none-any.whl#sha256=21e7110a1c7cfb7caabf108dd538976279bfe5847f8546b7da825c7c842a299e" data-requires-python="&gt;=3.8" >deeponto-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/a9/55c3b97b5af76778e0d53dae35878f23c514811cff3926ae13e1e94cbbc5/deeponto-0.5.4.tar.gz#sha256=cc6cd73e7200d33298ca2cd8f17ae3dcd387b10c57ce50d5ffa7366354cf3634" data-requires-python="&gt;=3.8" >deeponto-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/a2/1b9791e5a9efadc9179655e89363cb717e408b7714bd0229d0122f86aac0/deeponto-0.5.5-py3-none-any.whl#sha256=e7289982252e6a711c0152bb246f6ce37c77db223e229f76f65057ea20385dde" data-requires-python="&gt;=3.8" >deeponto-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/80/762da4bb86f6f93d19f873e87d4aadf1ef356642f8651d03b88eec90e69b/deeponto-0.5.5.tar.gz#sha256=a1bdbbeb0637da67cf8145de6a07dd9628ef6d264ee584a5382b17dd9d7b2978" data-requires-python="&gt;=3.8" >deeponto-0.5.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15980119-->
+<!--SERIAL 17123657-->

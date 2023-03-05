@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for shynais</title>
   </head>
   <body>
@@ -20,6 +20,18 @@
     <a href="https://files.pythonhosted.org/packages/bb/04/e3cc812bd57fc7d187513a09cc9b2feb5a2284c21a57c4622603abce4916/shynais-0.0.6.tar.gz#sha256=0a86e535cce0b7af06da6273ddd21b4e481a6f72e518f70d75cffda479c342b0" >shynais-0.0.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/81/5a467fab0279dffa08c6fc4da297de77bb29b09d533a0649fb43ed6ffe2a/shynais-0.0.7-py3-none-any.whl#sha256=a6ba864b6e935ab75e1aacfa4487c18a51a18fed0207d729b9cd93d72ccbe54b" >shynais-0.0.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/10/18/5848764460efd64555dc955b6438e07236aa25c124fff599a9036140b9ad/shynais-0.0.7.tar.gz#sha256=b429d0243db8ad6d76fc4f71fa92601c7f09c5c3f376f4dcbfcbfc6fe0b33c54" >shynais-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/8a/9d9fb277584682b5d5886772632c4e44632a5f91d928affaba7be4bc34aa/shynais-0.0.8-py3-none-any.whl#sha256=0402f96efddb4bd993d70b020b30a330cec3265b7c6c8d73e271e60c0b15d50c" >shynais-0.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/4c/551d34c773165ed335aca4d91bcbb3901db2402d7b554aa49b9fceeec434/shynais-0.0.8.tar.gz#sha256=3d001b60f62f148f6feed2b8f59f345b1cf3a2b2e0036020bfc84cdf3a5bd092" >shynais-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/38/199dbe6664c19d2e5a263055eca647ca253192f427afe074b957b782df24/shynais-0.0.9-py3-none-any.whl#sha256=90bd44d72080ee84bf60a99825df5fe39cf818541797b233595838bef4b1f63c" >shynais-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/9d/7397d83986863c59e1c484a1884c911f2e84ce62f71de18ad31848d7b3ba/shynais-0.0.9.tar.gz#sha256=2fc20f3272f2a557524e56fb627e7a8217f203898c59276eb99f1c0132086232" >shynais-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/12/13fb7c984c0a433319960e3f94e0e5d61d1667d6d51e8936ef0beb74ceb7/shynais-0.0.10-py3-none-any.whl#sha256=509b8fe80e6ff7cdb553b18387609ef05ec52601e7cf6ca22e3b049700f8cb15" >shynais-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/82/22746d1b2844333e670a7e8f04a0364572a0757346f13f44c62a9d21916e/shynais-0.0.10.tar.gz#sha256=d0354bfa7be92e78f4e548e83c8d1892ce35dcff7c9410c0604c5413ce1f8a0b" >shynais-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/ff/51c2f089fcdd1844da935e9921484e6566b46ce1731f2bf265c769c15bce/shynais-0.0.11-py3-none-any.whl#sha256=82f224788a600f3aaabc13f0574a6af1af8adbb71ec4e5aa5cf95236a3d9aab1" >shynais-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/7b/25b2a530c92cb085fb3e9e9fda4fc1673c983e6dabe9aacee951d60aebc5/shynais-0.0.11.tar.gz#sha256=1644e8026fab0a2860df095b6e0faeaeea98dacfafd7dad410c55fb545f32acd" >shynais-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/c4/17b1312def7c6aa43a764b4eb16ece2bf14af13956fb31b3bcfb4676dc0d/shynais-0.0.12-py3-none-any.whl#sha256=90e5723da4a881acd27f07b5eebf28772bc0dd004f9507559635df4ccc923e5a" >shynais-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/11/cc52d6d3441d2d40b5bca53b303c2d983b8fd83ac62dbc8f014699fb720f/shynais-0.0.12.tar.gz#sha256=cf01bf81fec5c75cfda81b1288174ec27bf213f8d6628ef38b5e662c0d181260" >shynais-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/41/1eeb96766131a3480abeb03fc6e2cb081979a985c31dc4c3b662aaa09e40/shynais-0.0.13-py3-none-any.whl#sha256=69e3613806c21ea04ccf8999e4b8387b1376fe03630761ecd171556c22609bca" >shynais-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/20/35fbc682e7c1bb51a57bd5a6db2cd36f13ec3e9c79649cd142e09703375c/shynais-0.0.13.tar.gz#sha256=939e63849a710ba07337f8b1a88725973c384ff2954395f3bebc44b10fffb259" >shynais-0.0.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16430780-->
+<!--SERIAL 17060019-->

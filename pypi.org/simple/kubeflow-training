@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kubeflow-training</title>
   </head>
   <body>
@@ -13,6 +13,8 @@
     <a href="https://files.pythonhosted.org/packages/52/70/3e21c8ca12d269c97d636e274d46d4aab175d45c940bc77ceb9f48d928a1/kubeflow_training-1.5.0rc0-py3-none-any.whl#sha256=8fd1ff10f39be85220d9d037099e60e91a596cf45ace37d780bdde6a0e46644d" >kubeflow_training-1.5.0rc0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e2/4f/817e1056227af7aac0221e33d2d6a6491bf2883e4022d6882985ce1b2c79/kubeflow-training-1.5.0.tar.gz#sha256=8b0f997c9a5b47d75c23454e2130a8d6c1c5a47e7d5ab061abe58f1708b7891b" >kubeflow-training-1.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/82/acd724d27c41a5552787a6a66bdcae82700a2f818a3334e67bf19c4ee6c9/kubeflow_training-1.5.0-py3-none-any.whl#sha256=f51d595d7c129440f7b454ed259fa36503fbb29aa2e448473fd2f0472f709741" >kubeflow_training-1.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/6e/24c9fa23625529fa654fd8fb25a1bf96208a6dd69015a2bc312a04a74f42/kubeflow-training-1.6.0rc0.tar.gz#sha256=56d5a58663c0290ebb3571c3f81af7519b411928f7c73867f3e5a185642fa7bd" >kubeflow-training-1.6.0rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/9d/9eec04cf4f3ca737c4eb09b0b3c73e11c3b54cfa17b38e758cf013edb155/kubeflow_training-1.6.0rc0-py3-none-any.whl#sha256=a53563bd4c6f0c41f58745314a546fcaf083d25e80ccecd8023ccc7f9e16bacd" >kubeflow_training-1.6.0rc0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14809786-->
+<!--SERIAL 16574592-->

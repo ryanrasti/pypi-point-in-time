@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for eko</title>
   </head>
   <body>
@@ -45,10 +45,12 @@
     <a href="https://files.pythonhosted.org/packages/0d/cd/eea27dad1e23ad8018d4ad2b13dd34929d82cbc7e485a70464d3fe6be9d5/eko-0.10.2.tar.gz#sha256=4ac95d57002795b604164e82e754d2160136921364893fa8e1b52bfba8cb175a" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.10.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/76/f3/86f2f3fe23b22d473e8c1cfb9cde119c5466eff3ef5b624e89553d131411/eko-0.10.5-py3-none-any.whl#sha256=e5c50f54c4665fa10ff845293c9f794fc1f448302c667b3d10eb1ed705baedec" data-requires-python="&gt;=3.8,&lt;3.11" data-yanked="Incompatible with 0.10 line" >eko-0.10.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/f1/c51442485f25e961e16ebb9286215f44d3dfb98f576105361d3a29bcf388/eko-0.10.5.tar.gz#sha256=d15bdf3e8a6efa61b41578516763df942ca5db153098e0757f5ce96efeabd5cb" data-requires-python="&gt;=3.8,&lt;3.11" data-yanked="Incompatible with 0.10 line" >eko-0.10.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/55/74/d95a9bf73254e2b6dfc69106f0a99e062875c816c7342d788ba78eedff67/eko-0.11.0-py3-none-any.whl#sha256=fe4705cd73d6c496d365cf797c8de958e79422eaa3d24b3fb5cd387c7aaeb5c3" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.11.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/bf/99/3fa4106995baeee3c12135b6103c7047f03696d24c73f5707d42a289ba97/eko-0.11.0.tar.gz#sha256=5d20d0982b1f261571fe7b29793b74bf83ac22260c3e57f8d33f0e428c5e8c6c" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.11.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/8c/db/89e19dc7aa38a876b3526ed4b84af537f651161ebf0cb4002d1f52ec48b6/eko-0.11.1-py3-none-any.whl#sha256=f1c39f0449be00f18d4cb2f311a206541d13a06fb03f9f9bfbccda92e979ad4d" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.11.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ee/a1/4701bafa8ecea34f5afe8bb7e16942af99a94baf0bee0b6188c961ca2e28/eko-0.11.1.tar.gz#sha256=06e74028fa74dc80d0981c3cfa20e1f49728a5234f66530707dcd43d99dd5039" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/74/d95a9bf73254e2b6dfc69106f0a99e062875c816c7342d788ba78eedff67/eko-0.11.0-py3-none-any.whl#sha256=fe4705cd73d6c496d365cf797c8de958e79422eaa3d24b3fb5cd387c7aaeb5c3" data-requires-python="&gt;=3.8,&lt;3.11" data-yanked="Not possible to store manipulations" >eko-0.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/99/3fa4106995baeee3c12135b6103c7047f03696d24c73f5707d42a289ba97/eko-0.11.0.tar.gz#sha256=5d20d0982b1f261571fe7b29793b74bf83ac22260c3e57f8d33f0e428c5e8c6c" data-requires-python="&gt;=3.8,&lt;3.11" data-yanked="Not possible to store manipulations" >eko-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/db/89e19dc7aa38a876b3526ed4b84af537f651161ebf0cb4002d1f52ec48b6/eko-0.11.1-py3-none-any.whl#sha256=f1c39f0449be00f18d4cb2f311a206541d13a06fb03f9f9bfbccda92e979ad4d" data-requires-python="&gt;=3.8,&lt;3.11" data-yanked="Not possible to save manipulations" >eko-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/a1/4701bafa8ecea34f5afe8bb7e16942af99a94baf0bee0b6188c961ca2e28/eko-0.11.1.tar.gz#sha256=06e74028fa74dc80d0981c3cfa20e1f49728a5234f66530707dcd43d99dd5039" data-requires-python="&gt;=3.8,&lt;3.11" data-yanked="Not possible to save manipulations" >eko-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/65/d5f8d1f8649e50ab7688c8fd26a5cfd2a2a39839a0ba52cd91b447a73a41/eko-0.12.0-py3-none-any.whl#sha256=f70c17d8c98f33aa3b07b97d47b3647c48fbe6356011f70b8032d36cc92db5b8" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/f9/8b3829063f81fb59eb26791f2a9bb1cc8d37eb2b04551256254df5765c4d/eko-0.12.0.tar.gz#sha256=f962f20f1a5bec25775a7dd8c4432e43986972c5968fda8c1afd5e34fa09fc38" data-requires-python="&gt;=3.8,&lt;3.11" >eko-0.12.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15508937-->
+<!--SERIAL 16715324-->

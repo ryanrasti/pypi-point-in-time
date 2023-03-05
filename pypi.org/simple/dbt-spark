@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dbt-spark</title>
   </head>
   <body>
@@ -116,10 +116,20 @@
     <a href="https://files.pythonhosted.org/packages/c7/d4/5cf6d986131a805868653f1248466962b85a3b6180fc531372e7b4eca8c1/dbt_spark-1.3.0rc2-py3-none-any.whl#sha256=d7773bfeb775812556696df3e5df7ea086dd93931e10cbceefaf2cd4358438e5" data-requires-python="&gt;=3.7" >dbt_spark-1.3.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/56/57/4c528d6cad7db0e0b78dd6f461df88d3b5a60b44936baad8ae0978aaad39/dbt-spark-1.3.0.tar.gz#sha256=99f6dbeec2d135f7a1c91b75abb2ff13aee9fa5285e53a19200ed0ec03f13a9d" data-requires-python="&gt;=3.7" >dbt-spark-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/1a/3cac575f5c43cd43658b262df5ca4118c0719cd098431e3b4712eca21063/dbt_spark-1.3.0-py3-none-any.whl#sha256=52362eacf814e0bd5964ec0f67eb818fd596df0328be07a2ce0b9b9d40d072da" data-requires-python="&gt;=3.7" >dbt_spark-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/47/409ccbbb6ecea8fb9b02d25587e21a620ba8e3616741e37a063ab70c793c/dbt-spark-1.3.1.tar.gz#sha256=446621830c4f6218c7759ff9aabf2524ef4b62c8d2052f1fd7c1ab8150422aec" data-requires-python="&gt;=3.7" >dbt-spark-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/ca/7e22889bb031ae996a4eeb3405e9621cfb8566d3221449a0771905a00b9c/dbt_spark-1.3.1-py3-none-any.whl#sha256=e7c17249044690e10f3a0044dc05a14fee70d6548358a328b285ec81c8b65280" data-requires-python="&gt;=3.7" >dbt_spark-1.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/47/08/634db336b973cd0cd57926735f8c26dcaa84370b8bca8a1d890d65c41c32/dbt-spark-1.4.0b1.tar.gz#sha256=122af6c012a9ac63b92a177ecefdcc3546cb0a3d1dca76f15fe83f100427f19d" data-requires-python="&gt;=3.7" >dbt-spark-1.4.0b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/58/1dc397bccecce33ad3cc51adfed093043bbf7d7f87b53b81a2f2754ad221/dbt_spark-1.4.0b1-py3-none-any.whl#sha256=b04d0e173650db03d235b28678b5ded5b9a5858414194826f891da4a9c6cf399" data-requires-python="&gt;=3.7" >dbt_spark-1.4.0b1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/23/d1/316b61a61023cd715acb63bf836fa969e52d65e475455475580e9323c9e3/dbt-spark-1.4.0rc1.tar.gz#sha256=12ff13f54d6f0e229386496111d71d51480be0825741bf8da2b1753b0ee04a77" data-requires-python="&gt;=3.7" >dbt-spark-1.4.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/65/41/72a2526869ed9ebd90a82ecff422a4e7186c78cfa1961a7746d55a922fd5/dbt_spark-1.4.0rc1-py3-none-any.whl#sha256=737486d0fd9d89df857033ea2b3f87baa1ff561d867fb5143fb4742810bb0751" data-requires-python="&gt;=3.7" >dbt_spark-1.4.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/91/d25e6e48906b3522a617827b6867b7057fa23ef81f8c5816b81e056a5f8a/dbt-spark-1.4.0.tar.gz#sha256=b216e96cdb2a69bdcf2c6ed3b4ad0dd949715d4f6cfc0addadb98130643a0c6b" data-requires-python="&gt;=3.7" >dbt-spark-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/18/d2df7284bdba7101c758245ad12abca14d71e85b8a7a16b364ae9c7f7313/dbt_spark-1.4.0-py3-none-any.whl#sha256=cc630bd89ece93d2021a2260433b5953a20c3db03bb52c5de069627275c47fd3" data-requires-python="&gt;=3.7" >dbt_spark-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/02/2276924d6fc6d559aed653a566c86347765f01d31a2b1f45c13820a3e6f4/dbt-spark-1.4.1.tar.gz#sha256=5fca740b88dfed00190ef3bc8ca0147c6ca37b5e3f0415942b3307f8c199641f" data-requires-python="&gt;=3.7" >dbt-spark-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/f8/07ed4404ab9f12a05380d086e635dd01db7206362f500a52abc402d28089/dbt_spark-1.4.1-py3-none-any.whl#sha256=5ec38b3705cd3de7738222d5f9fe60c9231d3c931d339e148f1aeda05a7b70b3" data-requires-python="&gt;=3.7" >dbt_spark-1.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/cd/2c6b1aef66d899fd674140d786788a15f9b4fc24483d65220030c79d2b3c/dbt-spark-1.5.0b1.tar.gz#sha256=3dab31796fed2647c846fd833a0c57a70ba76f8c51945f43decd749062b0effa" data-requires-python="&gt;=3.7" >dbt-spark-1.5.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/a7/5184c8efda28a1ec3f4baf047eb25184bcb1cc33c66e0cfef50b02061b85/dbt_spark-1.5.0b1-py3-none-any.whl#sha256=4f2f5bcdd4ac25365ac890db9c53a0b719b4194c0f9b1adcb63146a7fc96aca5" data-requires-python="&gt;=3.7" >dbt_spark-1.5.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/cc/1a94eaec9c3ab0b146b2ef35877f75c525c3c7bcbaf4ef809f8cfca6523c/dbt-spark-1.5.0b2.tar.gz#sha256=8e58d8576b456496ccd2553f84cad7151643fa4ae6b1b805a57ab6afe290e258" data-requires-python="&gt;=3.7" >dbt-spark-1.5.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/09/efe441cdb586a75ce129a2308abb4c0aa869cf4a5508e7b59bbf327963b9/dbt_spark-1.5.0b2-py3-none-any.whl#sha256=aa6a4406c4f15a0d99858867a1a9b3ca837dc0777588f9f10c611a42c006cc84" data-requires-python="&gt;=3.7" >dbt_spark-1.5.0b2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16395436-->
+<!--SERIAL 17139702-->

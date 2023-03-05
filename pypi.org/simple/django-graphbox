@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-graphbox</title>
   </head>
   <body>
@@ -64,6 +64,20 @@
     <a href="https://files.pythonhosted.org/packages/1e/24/57635625f85b0212b2dcb6bcce1d397be3e2d5cb657e7c7c4075e0a53271/django_graphbox-1.0.28.tar.gz#sha256=2b2873b2cbca10c078b1625325360db55470730cd59465561bff491a2c2a5ebf" data-requires-python="&gt;=3.6" >django_graphbox-1.0.28.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/5a/4a9d776c3d4020166ceb8628e06bf20c00224ac933f2a77972fe6df8dd4f/django_graphbox-1.0.29-py3-none-any.whl#sha256=dd30a83c73c24af2eeceda7295ab407f92e760d22f6411d1c686600c2d7c93e0" data-requires-python="&gt;=3.6" >django_graphbox-1.0.29-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/17/f5/73d98502033bfc6da964eef06e13028677a78fa88b2e5c4a13029766cc7c/django_graphbox-1.0.29.tar.gz#sha256=3be67051a476de923ef953be9f5a491ecd4fa313b45d7efaa995ca36f9de4db3" data-requires-python="&gt;=3.6" >django_graphbox-1.0.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/51/24cbdbeb195a04b83743118b60008f6b4b8c444d62e715e09c14e0992dbe/django_graphbox-1.1.0-py3-none-any.whl#sha256=841db1ffeb8786a91c6e061e027a783052baba71a92119b44e5b79c56cb6fbf4" data-requires-python="&gt;=3.6" >django_graphbox-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/f7/737d51033c401e44e14ed611711227811453b756ee271b3864b22a0e1b60/django_graphbox-1.1.0.tar.gz#sha256=d09c0ba17b80d6fd41b4a790e81ff6f1da90d1e8b361ae8985d876089baa0ac6" data-requires-python="&gt;=3.6" >django_graphbox-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/ce/639bf97df243365bc9116e2295e021b257ffd2fbdca2929687875ed26f58/django_graphbox-1.1.1-py3-none-any.whl#sha256=51bac1812f715cee88c72a0616dc3326db1887fc7c36b511627f0924d5591dc7" data-requires-python="&gt;=3.6" >django_graphbox-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/c6/f9d29b5114f5e39e3b0067275af26a56d6bd97ec271f4da0063ad3292adb/django_graphbox-1.1.1.tar.gz#sha256=922684549693a70083a54ae204b89a536dd1be2969145ab8faca406f70857f02" data-requires-python="&gt;=3.6" >django_graphbox-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/43/68b84c4f32e0aa3c22f37eda94156997a3a918a73864540c9ab78fb9613d/django_graphbox-1.1.2-py3-none-any.whl#sha256=87462dab2a2687ed0e8a9b7294ee9349542c0a2beb6cbd3d492f0890f9813829" data-requires-python="&gt;=3.6" >django_graphbox-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/fe/88acdc1772d05439deb9823ebc5760aad56304447d145fcccccff5ffc45d/django_graphbox-1.1.2.tar.gz#sha256=87bf2e0123685f168d89394edc69fa6a1c92e4ef5122fb08ebd39fb3c5e91fca" data-requires-python="&gt;=3.6" >django_graphbox-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/86/bbf0dccf896bd50d7d2e21f3af4a5cc4f6c59265a141bf67c242ebe435ad/django_graphbox-1.1.3-py3-none-any.whl#sha256=4c524d246287848ef6dece9b86d9b2b2dab1537c0f1f56bf39f0d3ea56f7f5d6" data-requires-python="&gt;=3.6" >django_graphbox-1.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/d3/8cbccb136d547672f1b076b081577d0bbdbc4a17f81c90a6e19a90210505/django_graphbox-1.1.3.tar.gz#sha256=11ea374191dd6c936fe0da67f268bce417b73799a29452098bde442ccf2e7f03" data-requires-python="&gt;=3.6" >django_graphbox-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/a6/0f26663071217cfc9c7801e6809a27ed2b377a272721ba7465fefb958c09/django_graphbox-1.1.4-py3-none-any.whl#sha256=46cf0f70bb70079093e4afbbac9fc940d543aff4709b511855d714b442f5ed50" data-requires-python="&gt;=3.6" >django_graphbox-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/ab/471ad17c35722c98edbd0abd7e4616c0f27e04dbfb511d7b7bf3c58c624f/django_graphbox-1.1.4.tar.gz#sha256=6708077226f4b3b745d63e82f881994fd46601ccd340867c6620b7e55c11f369" data-requires-python="&gt;=3.6" >django_graphbox-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/41/356d9b55c6ce7f3a182b9f2cc3cfcf420bdaad833591a8d2d5c92a220573/django_graphbox-1.1.5-py3-none-any.whl#sha256=425544cc9d865586e6f9b4322dbe7d02c1c522988e305f808b2d3210cbe6a7ab" data-requires-python="&gt;=3.6" >django_graphbox-1.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/8d/695653d8e926aa1f0f4cdecdba8b9a70cc3e31146bfde1e784572bc89641/django_graphbox-1.1.5.tar.gz#sha256=76cfb98d748ca8b79c63771af9377b2b23b2374b7b88f9b494666d433cd55904" data-requires-python="&gt;=3.6" >django_graphbox-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/1d/0a5ff03463b6f034388552408b61c44b5b1906a8047c1ea6cf9cced3231f/django_graphbox-1.2.0-py3-none-any.whl#sha256=1c5a455f6139e997fc6e792b1158fd2c25b2c2f3e6f2726c7bf066d18e9354de" data-requires-python="&gt;=3.6" >django_graphbox-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/c3/52f0c846ef070be23714d13df735f12dbaec48026af357434880252a5065/django_graphbox-1.2.0.tar.gz#sha256=96cc0f5a297ee3ff8ff18863d48af37c873bf841fb32ffb0fba17776aed9fb1c" data-requires-python="&gt;=3.6" >django_graphbox-1.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15515831-->
+<!--SERIAL 17006283-->

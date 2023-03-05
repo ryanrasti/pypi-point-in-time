@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cupy</title>
   </head>
   <body>
@@ -128,10 +128,14 @@
     <a href="https://files.pythonhosted.org/packages/92/3c/f72d7a85c770ddded45ade707a756f596df1097809480bba2a46996fe278/cupy-11.2.0.tar.gz#sha256=c33361f117a347a63f6996ea97446d17f1c038f1a1f533e502464235076923e2" data-requires-python="&gt;=3.7" >cupy-11.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/a7/e8470d74c066a91ba6a5d2ee9c69cc5717b9d10409eef4f8b2225ce03092/cupy-11.3.0.tar.gz#sha256=d057cc2f73ecca06fae8b9c270d9e14116203abfd211a704810cc50a453b4c9e" data-requires-python="&gt;=3.7" >cupy-11.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/41/29/c7ead5a0e05692fee23bf9238faa4c7cf4ffb9c6f49935b76755fdf676d6/cupy-11.4.0.tar.gz#sha256=03d52b2626e02a3a2b46d714c1cd03e702c8fe33915fcca6ed8de5c539964f49" data-requires-python="&gt;=3.7" >cupy-11.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/7d/6f7ba8894524f96f9b6749411d25ab7f9da7c0d365f046b48019ab216cbb/cupy-11.5.0.tar.gz#sha256=4bc8565bded22cc89b210fd9fb48a5d5316f30701e12bb23852a60314e1f9f6e" data-requires-python="&gt;=3.7" >cupy-11.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/62/c808623b8000185efebd8b4542efdf76cc93d20dfd3f0a3eaeb5e5697430/cupy-11.6.0.tar.gz#sha256=53dbb840072bb32d4bfbaa6bfa072365a30c98b1fcd1f43e48969071ad98f1a7" data-requires-python="&gt;=3.7" >cupy-11.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/42/996ef220642ebd4093f420042d40df7faee54d933b8ef802dd4b3fc110e6/cupy-12.0.0a1.tar.gz#sha256=aa3e9ca2a35793950dc3a4a81eb0ca96dc7c57d39838b2806e3cb8e5eb46c857" data-requires-python="&gt;=3.7" >cupy-12.0.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/92/580f56c3dfc06777b60fcdfd93e943642589f80dc623cb5926fb4dc70f61/cupy-12.0.0a2.tar.gz#sha256=b24f991f24f5cc67eef07517bd704b18f5371c9dbf7ce45e84bc498d8ebc512b" data-requires-python="&gt;=3.7" >cupy-12.0.0a2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/ba/5927d6e43bf960641ab7457dc0f6f49a3868b77f0be97e61bed305f956c3/cupy-12.0.0b1.tar.gz#sha256=051ca1ad4c8c537115b43ca80b6c37bd692eb21b0254df598eed9e3a0dabda65" data-requires-python="&gt;=3.7" >cupy-12.0.0b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/70/84/90ad9ec6a95f51ba4e695da5f8a763f83fee04c6e832528fbb42ffba5d89/cupy-12.0.0b2.tar.gz#sha256=85fcbbce4e8809acfaf8a864ad190797f6d0206550361beb9b31c92d3f77881a" data-requires-python="&gt;=3.7" >cupy-12.0.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/3a/663aee84a46915b2e570624c1457b5e1bd3d7d02a97197d5cba11b689683/cupy-12.0.0b3.tar.gz#sha256=48835ea095aee6d369671a6b4b26ff57aacdf953e2c44d3d7fbd4555f649dac1" data-requires-python="&gt;=3.7" >cupy-12.0.0b3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/37/44a23af26920250280983c2fb339a98d1d83c781dba10b9a7956c732f35e/cupy-12.0.0rc1.tar.gz#sha256=28b1029984d541f590e0ae3e2b1a49aa3e347d723aaf3411829ba8ac077b1db3" data-requires-python="&gt;=3.8" >cupy-12.0.0rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16028713-->
+<!--SERIAL 17120221-->

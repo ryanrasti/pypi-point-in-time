@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nestpy</title>
   </head>
   <body>
@@ -286,19 +286,24 @@
     <a href="https://files.pythonhosted.org/packages/83/95/ded17e675730b3145a9e7d387823b292db064bddae434727b81b0222c1b2/nestpy-1.5.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8a7b573c8a4a41b734d520c7e30d71e2b6e49e40d3791d4d72ed3039f61779b1" >nestpy-1.5.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/fa/4e954db405824ca3aba3c22252bd67f966f477ed23474a5547bbf12b25ce/nestpy-2.0.0-cp310-cp310-macosx_10_15_x86_64.whl#sha256=61a14e8a28d485c1044558a67dee9c35b4833509a19c278f3ea19f2a0fca9557" >nestpy-2.0.0-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/14/5b17141369916b427ee5cc6ba6dc782fa40a10c2c726409f5c9d2713c307/nestpy-2.0.0-cp310-cp310-macosx_11_0_x86_64.whl#sha256=a2b174b5e23a10dfaf454c5b6ca5216c24745b13f0c39138bbf16b8ccab31c48" >nestpy-2.0.0-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/df/6099d7c60fa42bdba539b8c79393cc60bffcc65fea5e2711d52e329e569d/nestpy-2.0.0-cp310-cp310-macosx_12_0_x86_64.whl#sha256=e9edffa7323d162377ce71f138893dc6df19dbabdd078ee70bf8dd2826abb428" >nestpy-2.0.0-cp310-cp310-macosx_12_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/54/73/6094d7c9384bfa22c04e67e4bbac7c383a578257a8528220a0a3a1a798ff/nestpy-2.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=587d1c609c3a7e2db93dae4f6d98f0419990a09173ec5bd1af12cf3ebee56470" >nestpy-2.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/c6/2d1c501a10dd010f42cdb4d9fd87307a34d99695eb8d8e9d176d9b1159df/nestpy-2.0.0-cp36-cp36m-macosx_10_15_x86_64.whl#sha256=2484394db882cc1c1ce635f8e10d7e7668426a193ed7a145025322e964aeb05a" >nestpy-2.0.0-cp36-cp36m-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/54/7b/6ec1d916d70c7e18d9d5a2f0858829e13324dfe43c6cf6f540cd6ee7a69b/nestpy-2.0.0-cp36-cp36m-macosx_11_0_x86_64.whl#sha256=2985be1efbeb3a0355f5b8949cfbb01054ff6df65f9b43e523c92906d247a3b2" >nestpy-2.0.0-cp36-cp36m-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/fe/c05b3b7b5a480ffd3915a30cbf1ce8095afa84d3c9ffdedf022db4b91178/nestpy-2.0.0-cp36-cp36m-macosx_12_0_x86_64.whl#sha256=4af435fc8d5b7b5b39d41e9fc1ac7f50cb4c3cf817c1875e82ac1ff89ea276cc" >nestpy-2.0.0-cp36-cp36m-macosx_12_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/f7/7fc0bc6657cb586982418e9071df6b96a6b705f8cf429ce54f130080c54e/nestpy-2.0.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=87db78533b8c96102a17c0953da64133a5fa98785c8a5ab2a0f54f23976fdea7" >nestpy-2.0.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/85/b5/73e64b37be8c54e0fd2b697430e80e1bbc1324fd160890b5c8e9ca9f9a96/nestpy-2.0.0-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=9ed9a333355ae9bf72670f6ae5e79e0e075fca3636147a218b7ce967fc26c642" >nestpy-2.0.0-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/5a/8f1fd1d0870be3cd5aeacc0f6bed56d4d7ad67f8d207e073f4f28c898907/nestpy-2.0.0-cp37-cp37m-macosx_11_0_x86_64.whl#sha256=0cdbe10e78e4ae88159b03694e2af98e6e4d675390a0b27313ac8c139da7ad32" >nestpy-2.0.0-cp37-cp37m-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/2b/2faff89d944245ae91a77b041ee083beb1b4a35143c98f649a5762502b7f/nestpy-2.0.0-cp37-cp37m-macosx_12_0_x86_64.whl#sha256=990c661fb43c179d3d2290c9cfd1467aa8cd3f914864de78fbae92f3d0a00272" >nestpy-2.0.0-cp37-cp37m-macosx_12_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b9/d2/db9c87b114a1bd09cd273f1d9982c7cbdbc6e6e23c2b88cf5e406227a99a/nestpy-2.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=69615828990142db0ff420e81a4e37dffa4cb856fd2993240f3d8eb5cab1578e" >nestpy-2.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/f4/77d9fda1143bd4b33d55e7b0ae527db0837f346e73c11b05d49d7398fc61/nestpy-2.0.0-cp38-cp38-macosx_10_15_x86_64.whl#sha256=42715b1aaab5b551220d774b9d4f37f3e1f8731b6cd4fd91fe86b0df66d5c87c" >nestpy-2.0.0-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/88/5d5a34fb6824caf8f79b7601e5ca832e19354343ed419163e7f3feaee2ce/nestpy-2.0.0-cp38-cp38-macosx_11_0_x86_64.whl#sha256=6e439e5b78d23985ad5712953a4752d4658a6908cae0071bf0315d90de5a18f1" >nestpy-2.0.0-cp38-cp38-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/59/eb7f0c03c1f1f059f204e120aec4ad8abaabe89636cd0bde80dd15ff0293/nestpy-2.0.0-cp38-cp38-macosx_12_0_x86_64.whl#sha256=3c81d9fc9baa979e7be702e98940ad82a635773254a161cb5c2498543400512f" >nestpy-2.0.0-cp38-cp38-macosx_12_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/40/61/d50b67080a100803faa02cf69a0d53d4e00ea5c8a0958aa3a62911d73aa2/nestpy-2.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=03fa940160c755bdf613fb8d8779bd66b7a4e64d95810d1c48d5f6bfe9dffe98" >nestpy-2.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8d/6e/56aba614bc4bd9feab7a5acee7d9fc8b4bce2ea28280d1112c7c9b80bc80/nestpy-2.0.0-cp39-cp39-macosx_10_15_x86_64.whl#sha256=c308f405cc23a87461119747027d2b8ab913fe99ca9d74e07f61fb97c8d7e4b4" >nestpy-2.0.0-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/35/ae/f078c704792a9231d153942c1af3dceb6bfbb26f2a18f2bcc7281aedbd58/nestpy-2.0.0-cp39-cp39-macosx_11_0_x86_64.whl#sha256=af9dd1784cb0de42a9b6e5721995b004063442eadda670d77cb551142b07f5d1" >nestpy-2.0.0-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/cb/d870e3bd9fdf171fec29a0d5fb23d666c7f2dc0789b28ca6872278923989/nestpy-2.0.0-cp39-cp39-macosx_12_0_x86_64.whl#sha256=1ca4e0cae36469ebc6565df33f5bfe470d60e2fa46d6b8e0fe6735a0f9a6993d" >nestpy-2.0.0-cp39-cp39-macosx_12_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/67/62/779d7245d8aaac72b9fc8b7e82b9d677ea3ed52f6a80db4be2ea9a181113/nestpy-2.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=960aad2616aad95c03528dc009da33b2864c13d552182a74f0835413342363a6" >nestpy-2.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15034488-->
+<!--SERIAL 16491604-->

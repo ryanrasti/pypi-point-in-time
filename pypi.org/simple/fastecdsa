@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fastecdsa</title>
   </head>
   <body>
@@ -122,8 +122,11 @@
     <a href="https://files.pythonhosted.org/packages/88/e4/0081bef22304409919e27e092b84f140e458901239ff9501f330cf593f0d/fastecdsa-2.3.0-cp310-cp310-win_amd64.whl#sha256=c72f8f13160798b431c8a772e4e4bce39adf6faeea80fbf75f88010d0b304aa1" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp310-cp310-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/d6/eec43aa4d16fc626e8a7fdbc437278b97903ec8ff69a0075cbd8e40d1f93/fastecdsa-2.3.0-cp311-cp311-macosx_12_0_arm64.whl#sha256=b943a1ad3e1e306f0df422b198f544d029a70f19581e5b56a36ddfbe6302a33d" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp311-cp311-macosx_12_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/19/e9/0aa5a5dddadacdb92a27735fc9795a9348c1c1aa156bc2ae9571bb422a79/fastecdsa-2.3.0-cp37-cp37m-macosx_12_0_arm64.whl#sha256=82985e09b299ba400f1a21f2872dcc8e659bc127286f026d01b3540853298f9c" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp37-cp37m-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/58/3f4297c80ddea592101e6954cee21718c44eb71d53044daf1ba81a593b8b/fastecdsa-2.3.0-cp37-cp37m-win_amd64.whl#sha256=8011db68e65b747b11ffa9575dc5bc6ad6d02aa971054e952e261694f705845a" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/c0/157f944319d958f18b05b428390198b2e371343adfab118a81fb3c29caaa/fastecdsa-2.3.0-cp38-cp38-macosx_12_0_arm64.whl#sha256=fd61e461389a4fc1e965a1bbd5efb77588a0ebae2328aecdf011a5e9d439ce66" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp38-cp38-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/64/95dcbc61bfebde626502d1a4c90dc38088bbb47150dcc44bd7572cc7647f/fastecdsa-2.3.0-cp38-cp38-win_amd64.whl#sha256=b0a4637e99cc22b5107d32ae001c2e36a5821c7a50ac001b806d64c157bf62c0" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/ae/bdb782e2ebfdfc2d828b4a78f608e6b8ca2b686ea1a490e1e5b92cd97d32/fastecdsa-2.3.0-cp39-cp39-macosx_12_0_arm64.whl#sha256=7b91663b36137454299d7487a7a1b4a345120bd098ab5f7d7b0a02b50d6c9706" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp39-cp39-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/d7/4bea8f902271bcd6b454ee58adb64ac7f2a0cec2d7f9a9d1e1ba7c60f231/fastecdsa-2.3.0-cp39-cp39-win_amd64.whl#sha256=e45be9bcd063362576f93b344e032c743572c2a9ca7426eea3e4035ba21b1654" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b1/da/c87a9e1a489d1c4f408309ea6704e125f2cbba9110eac07071f6e1b3b4bb/fastecdsa-2.3.0.tar.gz#sha256=6c59aba650862a59f601ff7f66cd6712f4798ae68907c953d58417a5887103de" data-requires-python="&gt;=3.7" >fastecdsa-2.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/59/62/70eb64ba05fda534fda6a786aa71eb239a1de23d0b4a3ed162effe311ad4/fastecdsa-2.3.1-cp310-cp310-macosx_10_9_x86_64.whl#sha256=6ab0dd6358251ac91463605b490f0b98bd868e58f3d49df213d2f78d117cb510" data-requires-python="&gt;=3.7" data-yanked="Various architecture&#39;s wheel C extensions were improperly built in CI/CD" >fastecdsa-2.3.1-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/46/68/aa5be0ad55580ca1c25c34b1d51f8deea83946904a7432d12072338103de/fastecdsa-2.3.1-cp310-cp310-macosx_11_0_arm64.whl#sha256=2e78c07c082dbc7ab71fd7575cb1311b55de4745b83011d915a5fafa67f422e1" data-requires-python="&gt;=3.7" data-yanked="Various architecture&#39;s wheel C extensions were improperly built in CI/CD" >fastecdsa-2.3.1-cp310-cp310-macosx_11_0_arm64.whl</a><br />
@@ -166,4 +169,4 @@
     <a href="https://files.pythonhosted.org/packages/7b/52/4b7a654273518f95cd2a2b31ca2be882f4b3b1718812c1bc90ace06a9c3d/fastecdsa-2.3.1.tar.gz#sha256=f198ce44f6946cabb02988a9f49d14efc410dba5e211e98321ba9d8737b23ff8" data-requires-python="&gt;=3.7" data-yanked="Various architecture&#39;s wheel C extensions were improperly built in CI/CD" >fastecdsa-2.3.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16356729-->
+<!--SERIAL 16498354-->

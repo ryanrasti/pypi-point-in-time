@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pytorch-lightning</title>
   </head>
   <body>
@@ -284,6 +284,18 @@
     <a href="https://files.pythonhosted.org/packages/7a/b8/8f5d44a83f5243163b04cad2985e3d1ccf7db24d9a23c73362c5202d2a33/pytorch_lightning-1.8.6-py3-none-any.whl#sha256=8b6b4126b85c56a9dd08a03f7096ce749bcb452a9a50f6201a7165dbd92d866d" data-requires-python="&gt;=3.7" >pytorch_lightning-1.8.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/55/52f6d7fd266e28b7c20229a189534768bb8379a2efe6c93b5324d51191cb/pytorch-lightning-1.9.0rc0.tar.gz#sha256=1744e150367a6e114f4a2c4ee1c290f0b119f40df8f65b85bac0efee6bdfba89" data-requires-python="&gt;=3.7" >pytorch-lightning-1.9.0rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/c5/5f9d35e8f1df6c26a8f4e142c3fe03b757e94f24bea438f706bebe63d25e/pytorch_lightning-1.9.0rc0-py3-none-any.whl#sha256=f5f8655e82f433d1fa7608e7de09ca823103ef3427f13930c63abf9a7ee3e195" data-requires-python="&gt;=3.7" >pytorch_lightning-1.9.0rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/77/b932aea31e98fba3b8c84ec2bcbd720c4492084174b31d130d39ef285381/pytorch-lightning-1.9.0.tar.gz#sha256=5b75fe936d16ef86dae22ea1cb0a73db281605cade682c0ef44e6508a99a0b37" data-requires-python="&gt;=3.7" >pytorch-lightning-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/a5/e8f046591b09d9e92582cf2ef3c3a40fcca829cae250521ae593c7236bed/pytorch_lightning-1.9.0-py3-none-any.whl#sha256=fcd19d985db8d1a9656faaed80bb79a3548f2ed0471c05c089e01e0fb7ff92b2" data-requires-python="&gt;=3.7" >pytorch_lightning-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/90/9c5273ca777f73d723516806b4534b093a38b9c7527af31eacd4c2d42abf/pytorch-lightning-1.9.1.tar.gz#sha256=45b1031f1bdf68d9350fa42e5ec01ff8492d5badda9685a2ae48e5fd8598510a" data-requires-python="&gt;=3.7" >pytorch-lightning-1.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/2d/d556b71fbb6a61e452d75de8dccc6b192e52877a53e7f95da26a8455e2b9/pytorch_lightning-1.9.1-py3-none-any.whl#sha256=c143ee0a7e4c5779b54aa1bf1ae5faa19ed3e5546e31dad4a0298db6b115cc21" data-requires-python="&gt;=3.7" >pytorch_lightning-1.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/5d/de2913314bb5761dc71e7e70988aaefce90619ac1c6df1c8b08b53a80912/pytorch-lightning-1.9.2.tar.gz#sha256=e60303e258457ccf7ec37c46a616892691fe3fbb23ab12f5c02b8018f03bf223" data-requires-python="&gt;=3.7" >pytorch-lightning-1.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/37/879011263bb09039463e5e86e2434c5a952613028cf941580ea4d303a21a/pytorch_lightning-1.9.2-py3-none-any.whl#sha256=a92c4053c4a57cc79778e9317b5aac57b0594b0f1718909730ab8a5b529639dc" data-requires-python="&gt;=3.7" >pytorch_lightning-1.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/dd/67a4931a6ff11e9f9279875e7cdaecd589a5681197bf2f46d8b80bd91bb8/pytorch-lightning-1.9.3.tar.gz#sha256=479164caea190d49ee2a218eef7e001888be56db912b417639b047e8f9ca8a07" data-requires-python="&gt;=3.7" >pytorch-lightning-1.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/9d/ba77d6d9fd7ca5ff7260ae5033c2355e6f920d3dad764ef107d8c2b54a27/pytorch_lightning-1.9.3-py3-none-any.whl#sha256=cd642fbbe763968269637835efe68833dd5019801359c950c04898e355b74fea" data-requires-python="&gt;=3.7" >pytorch_lightning-1.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/25/076001a2bfcf19d2cce2d034966e69e7ffbb72db1f58de2290b0433cbf1f/pytorch-lightning-1.9.4.tar.gz#sha256=188a7f4468acf23512e7f4903253d86fc7929a49f0c09d699872e364162001e8" data-requires-python="&gt;=3.7" >pytorch-lightning-1.9.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/ac/09980114432e759e56e8ff35c16d05dd7c8c0f512c9a88a91c5110272a1f/pytorch_lightning-1.9.4-py3-none-any.whl#sha256=a2d2bd7657716087c294b076fe385ed17879764d6daaad0a541394a8f7164f93" data-requires-python="&gt;=3.7" >pytorch_lightning-1.9.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/2c/6d0ad652c8131421ebfa0f125c1f4448dc82ee3e2672e27e18f5dae35e91/pytorch-lightning-2.0.0rc0.tar.gz#sha256=b1eb76235e053272ed75601ce6e004b564f2da255df999ef384be819b81b9d3e" data-requires-python="&gt;=3.8" >pytorch-lightning-2.0.0rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/03/2fc2c6878d210388521c1175a6ee0352b16286b47ffac599f2411e4f7f81/pytorch_lightning-2.0.0rc0-py3-none-any.whl#sha256=3889496101667590c392c362802a03c6a3b935a3420f1c3c6c05bf04aee1bf1a" data-requires-python="&gt;=3.8" >pytorch_lightning-2.0.0rc0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16329417-->
+<!--SERIAL 17128844-->

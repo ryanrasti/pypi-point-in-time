@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-pipelines</title>
   </head>
   <body>
@@ -324,6 +324,20 @@
     <a href="https://files.pythonhosted.org/packages/bc/7c/efe18515d12134db6d2cc56729278bc6a58d2b35b9d558c681e3245df740/aws_cdk.pipelines-1.187.0-py3-none-any.whl#sha256=118476ef3f35186a7db6cac77c97ec833db86e84e73f63375827b1079457deee" data-requires-python="~=3.7" >aws_cdk.pipelines-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/a2/ca324e8389e8ba864afd0595f5f15f00750ececeb3821b796655bd994651/aws-cdk.pipelines-1.188.0.tar.gz#sha256=a6d2e5213ef7b6996cd4c24427c42a7ad7cee765f651eab4c1bc43171a3c537f" data-requires-python="~=3.7" >aws-cdk.pipelines-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/50/ba/70ca45c40671fb78174d2a9543e8468489a52a89ba5ddc823eca6d4e85a4/aws_cdk.pipelines-1.188.0-py3-none-any.whl#sha256=679e4af18f775d7627fe673cd6614f8297c5254cdaaab40e37f01e2598672f81" data-requires-python="~=3.7" >aws_cdk.pipelines-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/99/130bb98618b9b3fade1e44078727fed5623c590a57ae61d39403adab5b41/aws-cdk.pipelines-1.189.0.tar.gz#sha256=066c8f548e97da00fc6e6a13be96196748286234f6624c90668442efc5bcfd99" data-requires-python="~=3.7" >aws-cdk.pipelines-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/16/7165cc8cdbfa918f61ac16cd0f57a8a4f8667296f67ba0382e80ed3b6521/aws_cdk.pipelines-1.189.0-py3-none-any.whl#sha256=4cfc9bc8b3d667fe88206cf8df948b18d307e2c3ed354c6340e27c05227113b3" data-requires-python="~=3.7" >aws_cdk.pipelines-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/2c/49ee34a09d6324acc5bc074fc7fd1467f22b7beb48fbb1072c6e73d997de/aws-cdk.pipelines-1.190.0.tar.gz#sha256=0c4f4b84952e5fcc7460d6a8a1efb9c2671a084afb28098aff6783b2110387f2" data-requires-python="~=3.7" >aws-cdk.pipelines-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/14/ce4385344e13fcbea4f15e243732c7cd81d0b34a9f76021e4dd2d7c2708e/aws_cdk.pipelines-1.190.0-py3-none-any.whl#sha256=8d100875b188e114ce6a5379ffdf98c7631fa6d806adfadf1655ea11265e043a" data-requires-python="~=3.7" >aws_cdk.pipelines-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/f5/33cb24334f94cf891585aee2e05153a9a39450a54f570f0cc33bac84d7a6/aws-cdk.pipelines-1.191.0.tar.gz#sha256=93e446c737615613fcdfc8b5efc190b582bd2573bb3314d30cb548eb0d00b5d4" data-requires-python="~=3.7" >aws-cdk.pipelines-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/6c/015eb6d2168a1a39196461d4021d7bebd30c60e7bab1b7f1ad1ad361f8a9/aws_cdk.pipelines-1.191.0-py3-none-any.whl#sha256=7f6aaacea72c70eb268175ffb2502c9363f11a548ac9d7083307b8fbf4f12b79" data-requires-python="~=3.7" >aws_cdk.pipelines-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/fe/1d996106e8ccd0cdbc36ebe3e7034bc01425ae88b12b2b62c698f53567c1/aws-cdk.pipelines-1.192.0.tar.gz#sha256=b978bab0549180f15dd9cd8d1bbe6c8ef0f385f50062a913e51345f2ade3082a" data-requires-python="~=3.7" >aws-cdk.pipelines-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/93/35133bbe678c97f6a9a5bb0c8fd71a5f31d2ffd4d10e1cf172f1d5af206d/aws_cdk.pipelines-1.192.0-py3-none-any.whl#sha256=b7aaa25d38a96e0f8d4bf23ad01c2b5a62f45965959248b3a822c7967354c52b" data-requires-python="~=3.7" >aws_cdk.pipelines-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/eb/b1f056222b6db29f68e6effba20f8191afc866e4fbfb4bbbafbd66431783/aws-cdk.pipelines-1.193.0.tar.gz#sha256=e9c8e1dae8785f31ddbb0a871ed1c59d8886303672d77a61266ac8ebcc6152b5" data-requires-python="~=3.7" >aws-cdk.pipelines-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/1e/55e2204fbc50d001a6dfe844e82cd26ce9dbdd3e1e0b7047d33696b79b24/aws_cdk.pipelines-1.193.0-py3-none-any.whl#sha256=d175faa34d75b9d8e226cbaf787bea4c88ed866477021d097548fff4069ccdf3" data-requires-python="~=3.7" >aws_cdk.pipelines-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/69/df6ed20b084ccab04083e40d5fc49088dbc3f86e38f222ccf2763f93c2b7/aws-cdk.pipelines-1.194.0.tar.gz#sha256=537174d8e7e060e59e555fc7f31efa276c7e7222d1f82427ef6e2b6a22fa8c4d" data-requires-python="~=3.7" >aws-cdk.pipelines-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/75/c8a740bc4aa913b45850c36e1530df527d1f9b2374130a714aba069c841b/aws_cdk.pipelines-1.194.0-py3-none-any.whl#sha256=59528364d9c4a1c9c5c2c26375033e67d2f7eea2cfa7ba12ed964b4deb1683a4" data-requires-python="~=3.7" >aws_cdk.pipelines-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/8d/5b85a7d6a5b04150e076bc5adda48fd891dd0c63f2f2b30c0d4664292ec5/aws-cdk.pipelines-1.195.0.tar.gz#sha256=3e88d1ff3af49a46a3d9bd85fbf077b339556f02449a0e9cbe07726731c2ceeb" data-requires-python="~=3.7" >aws-cdk.pipelines-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/78/fa89576144c996b1584177f75c46374999bd9f44c059db457edaafad5db4/aws_cdk.pipelines-1.195.0-py3-none-any.whl#sha256=1bf15f2ecb213a9c9986db630b535230fb3bff4e59ff29f4d3b81dd994be7dde" data-requires-python="~=3.7" >aws_cdk.pipelines-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393529-->
+<!--SERIAL 17132070-->

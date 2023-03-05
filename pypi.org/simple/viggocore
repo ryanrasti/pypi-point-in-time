@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for viggocore</title>
   </head>
   <body>
@@ -12,6 +12,18 @@
     <a href="https://files.pythonhosted.org/packages/32/99/a3555d62d48db1e267d92a999900376c167cbbc24aa011ebd297d1c4eb11/viggocore-1.0.1.tar.gz#sha256=bcb4999a7e8d711eb9d15c584457d5ea161ef8adbbe820128acb653000bd4d90" >viggocore-1.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/25/6b/ef6d2c941243af7dacb732cc20f2abfd16a03c880e82539b8d1f438ea952/viggocore-1.0.2-py3-none-any.whl#sha256=f497372cf467d0ca32785ea7d9178d032d6c3d96b4b5721ffcd976b01d0b2f5c" >viggocore-1.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/21/eb4968cf7337809192da73d36e2f3fcd4a61910e9d787df79d23d16eb9bd/viggocore-1.0.2.tar.gz#sha256=6745730711f3a9826b4c8c64c52c8aeea72b00268b33c14a8399540b860103ab" >viggocore-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/a6/81a1cc40fd4b43c2f9046994b631388bd51f630d8e24a2fe000013d431b2/viggocore-1.0.3-py3-none-any.whl#sha256=5ff379bc50b16aa1c460d8b936e93aeb1638a32867e3b62318bfb95a49c4c930" >viggocore-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/a3/e1282e34627e14c7f2802ea0089f39419d9aa42f43992cd7b5b7496f94b8/viggocore-1.0.3.tar.gz#sha256=894dd5166b133114573b2bb1faa59e482b2b099c41b860167d797d303440e51c" >viggocore-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/77/8d609434ef26523444f08bbcfab292c3b9ab2c1421cc4a55c75bf368fca6/viggocore-1.0.4-py3-none-any.whl#sha256=9e1bb1335b7350e2d70b3ae7d54ca956c1fc26c1912e1ad4b45d86b695c61c51" >viggocore-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/cb/478f4ecd56062a237fdc4cafbcea3712a0457abf5d6eaa137cefb84812b7/viggocore-1.0.4.tar.gz#sha256=026a54164223458b1e22d3e38ea337db9b04b9fd0a71a0f2928e292738b23891" >viggocore-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/78/7bc9a6c5e6d68f76eefd39eaa28787a3a02efd9c70f783fb00e926823ba1/viggocore-1.0.5-py3-none-any.whl#sha256=6233f635495fced8162ebb29a7b5860ccf0e7be9d581e858f8e725689c94642b" >viggocore-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/79/c311f1554cef02d09ad8e58a1198543f4c17044ea2eff13fb1e2ec59e2a7/viggocore-1.0.5.tar.gz#sha256=03019941b6b27b4e9e4d9b1eb1692a8200360740501788373c328e8003ebbee8" >viggocore-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/df/d20bc3cc29cffb3ada621bd8322218dc42ccff8ea4bdcb7cf15ff214b480/viggocore-1.0.6-py3-none-any.whl#sha256=80c2a0442113b00cf1937f9cc41a16019e1754b986867d3a48d13cc042176506" >viggocore-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/f3/0a298b40cbe00d2b605e2276f2ee1dd64e36434dc15bcd92cef48e33304c/viggocore-1.0.6.tar.gz#sha256=806a6e59a4924a32fa7b5841d4d416bb877ea0a9ff845c6b6c9969bfdebb6eed" >viggocore-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/1e/9e703b446aedcdec433d4fc9c7bb43edfa25cbb869ecb486bfe707d17896/viggocore-1.0.7-py3-none-any.whl#sha256=2733a4d757d2ec1ba942ad144cb15d28de5fbdbf33a934c194c75788780d46d4" >viggocore-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/97/7f1c795587f64ac05a0925c51da3dd469ddd758a7e88a7a31bc51df5e5ae/viggocore-1.0.7.tar.gz#sha256=89db46f8895e7afd03fc1f0e817f337703ecfe132be19d3259aa660b93d902e7" >viggocore-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/ae/aa48ae78da429851d78e4ec090f33af135f29c818b0d525ceb86dcbe30a3/viggocore-1.0.8-py3-none-any.whl#sha256=789055dba82ee757bc2ea843c695f50204df582e07e987a61f7d19ba98201ca3" >viggocore-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/a4/b53890f9517cd552c125fa1ae85fff95c7ba53cd9ef625b0db39a9ae2e8a/viggocore-1.0.8.tar.gz#sha256=e7053fb325b5c8d8f53179b09dcc03624b87bed321af0792529913cb82cdc250" >viggocore-1.0.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16379961-->
+<!--SERIAL 17147881-->

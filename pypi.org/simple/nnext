@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nnext</title>
   </head>
   <body>
     <h1>Links for nnext</h1>
-    <a href="https://files.pythonhosted.org/packages/c4/ae/518ba2b2a286cbb363cdc82b52bd946072e2f0c1cb005586b9964b42f007/nnext-0.0.3-py2.py3-none-any.whl#sha256=18b53594c13cc42b53bbb667e8287bcc06897ab9852cb54717b1f70c92d6dfb3" data-requires-python="&gt;=3.6" >nnext-0.0.3-py2.py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/3b/99/f53c1686ffe89f020a101208be6f4b9711380625cacfdf21bb58a9275ce4/nnext-0.0.4-py2.py3-none-any.whl#sha256=23058ef7aa1a794504c134b8af01625dbbb194969f9218fb2fa3b1c2eac7cfe8" data-requires-python="&gt;=3.6" >nnext-0.0.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/99/f53c1686ffe89f020a101208be6f4b9711380625cacfdf21bb58a9275ce4/nnext-0.0.4-py2.py3-none-any.whl#sha256=23058ef7aa1a794504c134b8af01625dbbb194969f9218fb2fa3b1c2eac7cfe8" data-requires-python="&gt;=3.6" data-yanked="Superceded" >nnext-0.0.4-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/4e/604dca388ef57576bd746416917d13f8487ef83a1aad9b9f0f5cd5048df9/nnext-0.0.5-py2.py3-none-any.whl#sha256=0e06f9751c2de93a22d5d1747f7309926311ad4f28afd40f8aea4da17797fe66" data-requires-python="&gt;=3.6" >nnext-0.0.5-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/9b/6144ade066c57810e064b7c6d39c37d5ec838b9d596afb49b13494eff45c/nnext-0.0.6-py2.py3-none-any.whl#sha256=19654ff4374ad32b1cf5bd951200af22589766fbe181874a90a7269c4d119b4a" data-requires-python="&gt;=3.6" >nnext-0.0.6-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/60/1487c11c39525666acfb7b63f8a8857d79542668ce868533b886f55c63ae/nnext-0.0.7-py2.py3-none-any.whl#sha256=a64ee58b602f0a1ed7dbe43b774501d5cba7569479de594897a46c62c54752b1" data-requires-python="&gt;=3.6" >nnext-0.0.7-py2.py3-none-any.whl</a><br />
@@ -34,6 +33,14 @@
     <a href="https://files.pythonhosted.org/packages/6b/13/b11d72a14b2031c280dd2089765e408acd046d76db3fddb1ef92ed8be708/nnext-0.0.38.tar.gz#sha256=217dd9a93f11ed313bdac7a0e45e5f2fcae868c32400c921436ada578ac57a9a" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.38.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/41/26/efbdade34ff287c8e170e963ec94d01e57fcff5609a2326c1aa8179dbfb1/nnext-0.0.39-py3-none-any.whl#sha256=b995041f504d039dbc9335a47175f096affed035740d16c3225efea5e865e8af" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.39-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/71/87/be6d80576c51b6957e95867c3217fe8b521a00ffb30194152cca1eca0ef9/nnext-0.0.39.tar.gz#sha256=c257d75214b7780592dc0645320609a5bf63943be5f6fe8cb99969eed7fc0587" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.39.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/ec/12448c17045c5bb4b5d7132ea3269eaf32635ff9f3272524d5ea33f9af26/nnext-0.0.40-py3-none-any.whl#sha256=4ee1be3371ff4f187711d212d6061ab0a7c33b9be9a33a087a980a4c86ea1a08" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/65/e0236ebce1c5b6b64962931c49269374e882d23f42515290a44dfc83f22a/nnext-0.0.40.tar.gz#sha256=9c1067797cf2e020c9b88a15716f2d856fa808129a9d8eaa84da32e563c50265" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/68/488cce6700edc90f7bc6d540df12f48aa782cb7e0ffb948bf7702ac64000/nnext-0.0.41-py3-none-any.whl#sha256=2c4ca54ef367efb28690139469e9553bd390b9d225e9bad4f3e0efd56ab187be" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.41-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/b6/febc8c71402d4d61461c92a6bae100a4e6d0139388647b1abe589323e33c/nnext-0.0.41.tar.gz#sha256=a22cde21031f52d66c7d80da3cd84d5d480d303f44b95b8a566f6d8d48d47272" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.41.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/ef/ed3476849ee6cf9b93a1746d64e99f8772bb048a8f779ab1e648eb77f7e4/nnext-0.0.42-py3-none-any.whl#sha256=866eb377b3255dc017d21b6fbbd744d50d359209d087eb074afe3cda9b472a75" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.42-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/18/fc388994894f4c31bae6599f1a9362ad487275fb4436b1336166b8f012e0/nnext-0.0.42.tar.gz#sha256=14c519e9093fba46d2d328ff38214ffa12d8ae8c09d0a88171570c88c3085579" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.42.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/6f/6ef79c49a2bfac8a7f319ca685373e8785d3a501de3432b6609b17086054/nnext-0.0.43-py3-none-any.whl#sha256=ac5475a9bd7f2f6a3fcc0bcc47464ab0855b18693e7b756d2ef5d0a7cd10af94" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.43-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/92/e16e3f06320c17b6933b4bb01c3c700c44c4e26bf1e7a1f77c05baa943af/nnext-0.0.43.tar.gz#sha256=af47e9cdd6cc44a815943623ddf42c075993183797f0fa5c8a18079b7b21dc7b" data-requires-python="&gt;=3.7,&lt;4.0" >nnext-0.0.43.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15053285-->
+<!--SERIAL 16730619-->

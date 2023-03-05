@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for penne</title>
   </head>
   <body>
@@ -19,6 +19,28 @@
     <a href="https://files.pythonhosted.org/packages/c2/53/b6aaa91962784bb7b20e752e68de28edd08e849d2d36b5c96543e1b1fa83/penne-0.2.3.tar.gz#sha256=6166cea4cab2c0b079fef0201db9060f10965aab90d83c0fda9f05234947d85d" data-requires-python="&gt;=3.8" >penne-0.2.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/51/7824b6bee6d69d38f0a03f7ad5fe3fa5bb26278cdac5d3ec35ad1a81351a/penne-0.2.4-py3-none-any.whl#sha256=a0609c39f4e3b75310fda843626c0b01428113d1e313babc06ff8c671a7b549d" data-requires-python="&gt;=3.8" >penne-0.2.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/79/65f6b7a4392e87f8a26186a3c525768f6d1cd9b665990cadc54fd04def22/penne-0.2.4.tar.gz#sha256=4777a26e1ad358246f45f3d320b0145220adb0fc4b81b64e87decbe1b0c55880" data-requires-python="&gt;=3.8" >penne-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/4d/7ec36ec2d9682f9a0311ecca979caa356e0698c2cf66a8cf29570891cf5b/penne-0.2.5-py3-none-any.whl#sha256=608d86db238e65f80e0bdd84d9f3330d6c946efd7fb6e02e3e9cf5369f8c3f8c" data-requires-python="&gt;=3.8" >penne-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/25/8449529e011c77b9153ef5ab4ef66df9a9e720a54e349b5335170c9542d5/penne-0.2.5.tar.gz#sha256=12593b343ac99184ca7ba3d1b6a7cb291414e23e411da5b8c02fa439a15b2ef3" data-requires-python="&gt;=3.8" >penne-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/06/8b8a4cc6395f1ce748324c8f9bc604dfdfd7a166b99878114f8999170ba1/penne-0.3.0-py3-none-any.whl#sha256=24fbd64e0caa937e13a6cd397e46e19cb251906bf6fd2d8d2fec98bebac9b15e" data-requires-python="&gt;=3.8" >penne-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/5d/24e60ed7c266efa89185befbbb53ab7578d160aa4b350cb6b0808f8ff09f/penne-0.3.0.tar.gz#sha256=31284907c8a937591d0350b47756c2bf1a2168dee7a5dc37ba63310130cc775c" data-requires-python="&gt;=3.8" >penne-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/0d/0a90867064bce3565dbbf55c9eb5ccdc53392daea975fb5b38c032e3938a/penne-0.3.1-py3-none-any.whl#sha256=c82d48cae8af63daa40fcbe06b4266a0e7dd32bec801f899cac2259a65868128" data-requires-python="&gt;=3.8" >penne-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/35/24a3f28706006d5c5abd92b005f71ce5df8d4970c6a1e2c821bdc19801b5/penne-0.3.1.tar.gz#sha256=f08d39578427ab522c58aeb5a5f2a973db14ee5f77abe71d2b2410940b5caa79" data-requires-python="&gt;=3.8" >penne-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/15/dd1b14317976d6a09c847182ca0585fdc7e4cfff6defb20bbffde1aae26f/penne-0.3.2-py3-none-any.whl#sha256=37d543914a8d51f37667b3e09bed2357c63a46fd2a4849df4150ddf4d1c8c5b8" data-requires-python="&gt;=3.8" >penne-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/e0/64aed4548646b8c6df92d4d35dafe9b5df9f8d1db44d7e46a4f16179d82a/penne-0.3.2.tar.gz#sha256=03856aed930acfbbed7fdeb257c739ac39099a9cb10268160ed33d1b250cb57e" data-requires-python="&gt;=3.8" >penne-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/cd/d1e1566d69f9cad81932ec4f5d95756ee9a48784ebe66c53a667e72b8b56/penne-0.3.3-py3-none-any.whl#sha256=cc2ea2deeaa464e79b1d85ff4acae1ae2a18aff2c2dfa804a5b54dc2e9c00900" data-requires-python="&gt;=3.8" >penne-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/e9/c06cf9212e4f5ed6acd70581787c06366ac5ea2dcd9564fe949fa63c36dc/penne-0.3.3.tar.gz#sha256=41ce072f51ae3eaf589e125241616570a2da30d01cb0e12329d60bed60cd7ed4" data-requires-python="&gt;=3.8" >penne-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/65/f94e8c0a89f1bb1be9bd79a14cdfdc7fcd29843eb434c24304e3c1446b53/penne-0.3.4-py3-none-any.whl#sha256=4947061664d234c534eaa024aada6a703b09c851fc9d5833075f202f4d02756b" data-requires-python="&gt;=3.8" >penne-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/1a/9b20f5b1539fee66e9c0304de42529cd9b4728e753175e43485f1f43c8c1/penne-0.3.4.tar.gz#sha256=2c13e43542d39ab19b026bd4aaffca156de77cb672ea16220224d43cb947fb35" data-requires-python="&gt;=3.8" >penne-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/a9/44a569f41f755b150309b0d3bb2fffa99b7357d287e5565043f3b02ed6ff/penne-0.3.6-py3-none-any.whl#sha256=89de65d6f234d1083285dc924a57166b5d6c02851f68ac10c1078baa37044e31" data-requires-python="&gt;=3.8" >penne-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/5a/0d6d443ce6d78e20d07db3a55a2f642a2983c04bf781b509fe3b75b202dc/penne-0.3.6.tar.gz#sha256=67f5029e58f8babd0cba463b19a1d7c8f3e14bc4f9df243da26f03725cf147e6" data-requires-python="&gt;=3.8" >penne-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/e5/c8137b077f3d113290a781b0b7683d0e834be51760bcec6564a13d97b591/penne-0.3.7-py3-none-any.whl#sha256=8e52ddea1445c7739bd477a92d3fd585cc9f0687d0aad6e583001e36d0830254" data-requires-python="&gt;=3.8" >penne-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/8d/b91c9a4f847464135ccb54761a4594728cf001309359e3131df6a0ec6919/penne-0.3.7.tar.gz#sha256=d4c919057cd5c0dd5d7a2401f4cb402596ea6fbfed0130f60be8f43f1148fe9d" data-requires-python="&gt;=3.8" >penne-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/43/72dfc5f2352b4a0c029a98d4cdd04635ec3984b61c1fccb7c8406e919d58/penne-0.3.8-py3-none-any.whl#sha256=3a3400a95d2ee0ae4ec4ed688e8bd94a559e0499821cf8613d904da094192688" data-requires-python="&gt;=3.8" >penne-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/6e/e32a1123dfc2d27ba9c65edb1f7a8cef05b2e68f2f4045a87c06d30630c7/penne-0.3.8.tar.gz#sha256=6e382b09ef01b9415a92e793814086e07f71cfbbe23888ff0d458e905263009b" data-requires-python="&gt;=3.8" >penne-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/70/9772e511d800710225ee4471a9a0362ca72cfd4760a9e681e144e17f39bf/penne-0.3.9-py3-none-any.whl#sha256=5a8a81c058e253ef5f7a0c73df0cad8ad5b87b1389c4dc8abe5eb8378cb397f3" data-requires-python="&gt;=3.8" >penne-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/bf/5cf54f2ddf7df797e65449375c6c712f868f3b0db55dd4ae67edb2b763da/penne-0.3.9.tar.gz#sha256=6d1b0b8e2d8e39b49b6f662fb86c2b55b9d89d1dc26b7e730d6018e7b420461f" data-requires-python="&gt;=3.8" >penne-0.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/83/441a58f1af276bc46cbc4bc275f81c5fbb78a8e8a97098e7c0ab0d6c42ce/penne-0.3.10-py3-none-any.whl#sha256=41b77cc6edaa0e1a7949f7102500014cd9bc36d97441539fa222e824e69569ec" data-requires-python="&gt;=3.8" >penne-0.3.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/e4/0d014ea508d1c330bd18f9052e73785eea9a4e4603e1c59da438239a8f33/penne-0.3.10.tar.gz#sha256=d5a57198ac65658b3579478e6609e66dce275c84f139e968fecf28138b2f362b" data-requires-python="&gt;=3.8" >penne-0.3.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15751840-->
+<!--SERIAL 17149198-->

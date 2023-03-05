@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dsw-command-queue</title>
   </head>
   <body>
@@ -28,6 +28,16 @@
     <a href="https://files.pythonhosted.org/packages/9d/7d/43ca0808713bc1891caa0e8e4d2347e0d001b8e96aa6e826aeab729a3247/dsw_command_queue-3.18.0-py2.py3-none-any.whl#sha256=3369b7764d6da38abefce5ef64210b96bed5bf71f9d9729dd5de3c48d4235666" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.18.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/a6/695197e844f578ba490e81a800395c7460d7c745c7a565951e351c91bc91/dsw-command-queue-3.19.0.tar.gz#sha256=e86c3dc790da333744527e1bce2dacafd743e1c1d2b6132b96f731474b58ce16" data-requires-python="&lt;4,&gt;=3.7" >dsw-command-queue-3.19.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/2b/5fe41861aa0abb57ed3443b56026699656ed782c5eb49d437efe5fd4866d/dsw_command_queue-3.19.0-py2.py3-none-any.whl#sha256=a5b626562651e4a3958d1d5933c6150589c9d54b2088324d321cbcb205811b5b" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.19.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/f7/e639160ebff81524fd66d89ebdd61f952bd96c949209f202d273c7395e40/dsw-command-queue-3.19.1.tar.gz#sha256=7755cd3b2f2371b8e907071c254602111c9330679c401b60057b8433ed1282e5" data-requires-python="&lt;4,&gt;=3.7" >dsw-command-queue-3.19.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/34/ccc8e1047095aa3f39a747fec321ac55867270ab5ee2fd80bcdd345ce29e/dsw_command_queue-3.19.1-py2.py3-none-any.whl#sha256=af4b6fdd2959d8bd81dda9c8b558c4d610a175db48d1e281a19a2434a366f10d" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.19.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/e1/94c995f4e852f27a1c7f7dfc8807008cf8b308df07c311d48e0a224906f1/dsw-command-queue-3.19.2.tar.gz#sha256=322b54c2d73cbf3c6cdc5b8e49e6f6b6219f5421bda7024f0fa45470b387cc14" data-requires-python="&lt;4,&gt;=3.7" >dsw-command-queue-3.19.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/55/be9d110b8edb9d051d3738c586f75d96f9fcf1347870325acbb1e6ec2287/dsw_command_queue-3.19.2-py2.py3-none-any.whl#sha256=829894f26e96363a8da3bb565c7f2196c9e90568f3df1895c79da13431cdf4fe" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.19.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/24/0f383352d30cd82b029d1998cce24f5e3621db5ccbe49ba3430eb1f3c642/dsw-command-queue-3.20.0.tar.gz#sha256=ce09c66846c1171606b0ac1699490e3409ba57686fc1c4703bf5d5d827c9debf" data-requires-python="&lt;4,&gt;=3.7" >dsw-command-queue-3.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/74/b41d89b0f6acce1f79670a39fee54201064bc6f3e32fe204db50cf60078f/dsw_command_queue-3.20.0-py2.py3-none-any.whl#sha256=1c4a18eab23d7dfbe77b3b4eb837c73e42c3be78bef1eabdfae5b99cef97094f" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.20.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/3b/a6bc803bd220890025a633830ddb2afb3b28206e6e649cc3ef0285f0fc97/dsw-command-queue-3.20.1.tar.gz#sha256=bf32fa1ebaee860dbb9e7c0db9710e97443431480aa598e5e8ad84d584a2c32c" data-requires-python="&lt;4,&gt;=3.7" >dsw-command-queue-3.20.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/49/22f5c05a89088c183b79577eb7c3148f3ce41bc99fafdd4d0acb44e9bec3/dsw_command_queue-3.20.1-py2.py3-none-any.whl#sha256=4e1b1cca0f515e250b7b96b12e5c956de27e1e7ff6c93fe8d5d2f0ec703cd682" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.20.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/29/90bbcea65ae2fa8f98266a9a63141e16bb838fefef15298ee554a598823d/dsw-command-queue-3.20.2.tar.gz#sha256=8cd014d561ab40b382510bdb214e484bd549e8710ae7b7ad4dc8249c10aeebdc" data-requires-python="&lt;4,&gt;=3.7" >dsw-command-queue-3.20.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/15/44aefb72ce036d4a3d2cb9106821775ea7504b3922b2acadfc23eeddd96e/dsw_command_queue-3.20.2-py2.py3-none-any.whl#sha256=d3cbdb34ce791bfe5bd0ea735757910ba50cadead904fe5cca07c56863de6a76" data-requires-python="&lt;4,&gt;=3.7" >dsw_command_queue-3.20.2-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16287250-->
+<!--SERIAL 16788262-->

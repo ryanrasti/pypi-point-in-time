@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bomf</title>
   </head>
   <body>
@@ -26,6 +26,32 @@
     <a href="https://files.pythonhosted.org/packages/c2/bc/f2472b7152763b9fbd5163a072a3536abc530f5f1e27bf24bb17b6d5cd5a/bomf-0.0.10.tar.gz#sha256=2636a9fd896128d55421d933e46db86295d5625c5f21f601c6b4067a87e5a4f8" data-requires-python="&gt;=3.10" >bomf-0.0.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/ba/9213e92c0e7afea00421f3fef60b425a8623b7fb75a715e6b26f45d4d32c/bomf-0.0.11-py3-none-any.whl#sha256=7de00c380c827e30c92ac985a657491da8c7223d7a901d6b14ab43012342b17c" data-requires-python="&gt;=3.10" >bomf-0.0.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/e4/2864b20f02cac0ab4a64286bc882dcedd9ff3cbc118453820608e659ac2e/bomf-0.0.11.tar.gz#sha256=40fb05e42663a4cff77806f33c957b59cd487175a71acf6f8e2be612191696d9" data-requires-python="&gt;=3.10" >bomf-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/1f/397839c9fb13e4cc7bdb0473406dd14e90bac0b734df6bb7e6ff5182cebc/bomf-0.0.12-py3-none-any.whl#sha256=e15d9f374351ecb017446b231026666fb45478c72b2970ff2c26ab255f34a0dc" data-requires-python="&gt;=3.10" >bomf-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/cb/98efa48f5a5fc8aee20bf490c8f61da0c067b6b5dd6fb946e6a203700a7a/bomf-0.0.12.tar.gz#sha256=331f4c990a6fbd7c7c8033e4456ba0025d1200c9afa52054816453ec9de1b95f" data-requires-python="&gt;=3.10" >bomf-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/97/17e8005ce57ab89d50a413361ee050832832662592041e93b069aa9aa795/bomf-0.0.13-py3-none-any.whl#sha256=b99fb32413ac8c4267ad31e8df681039ee0d552f15319d20c4255372d8fb744e" data-requires-python="&gt;=3.10" >bomf-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/be/633487c95449e740159aa23a198370a8e5b4dfd05ddb4b559f63502f814c/bomf-0.0.13.tar.gz#sha256=fba8f2e0d3d5e6228a2c5992d2da33636f8a9441bfc100abf3f4ecd8e3396667" data-requires-python="&gt;=3.10" >bomf-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/4b/469b3a74821775935d39ba54e4515e98e2c514d212c7b545f21771b74aa2/bomf-0.0.14-py3-none-any.whl#sha256=e62f6b95ce4f46949fd74d0f6e043454b6ba0dba2088018f2b03c9322fb057cf" data-requires-python="&gt;=3.10" >bomf-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/c1/c73135a6fc941b01c3e3d8caf54339866a3cbe30977a7717fcff96b64439/bomf-0.0.14.tar.gz#sha256=3a09cd493b6eed44a1ef2e2a23a03bfd1a47bea468a4aa4d6f32e3a4f22b136d" data-requires-python="&gt;=3.10" >bomf-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/90/32508ff50b4154fc18daf1f5be00737a1fd6674ee419f1435464591402af/bomf-0.0.15-py3-none-any.whl#sha256=a982bd7f8e0e6d04cec028af6311e9b8b803072c8ddf29bda66a3b55e2be0599" data-requires-python="&gt;=3.10" >bomf-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/39/35f14bb6ebe229b1d53d234fa6ba16bf206908842090e3771a15b6911472/bomf-0.0.15.tar.gz#sha256=0655924ead9fd2377aad79ebd00fd41fe0a13e58bebb0e9f9fb85c48a05be873" data-requires-python="&gt;=3.10" >bomf-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/cd/c290e2d6479f22982e1c646cf71a5a2c409e3cdc5748fb898dc842d4e1bc/bomf-0.0.16-py3-none-any.whl#sha256=1b682d3cb20caa6c680a24449d64731de6918d8cb754c6a6e8b33b04c63b6536" data-requires-python="&gt;=3.10" >bomf-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/b6/ab2c0181fa8dec75fe33026cafa0ecdec0ba988c4d10ac707fc30d5a82ca/bomf-0.0.16.tar.gz#sha256=9d6d3165bb5b12316c926b2182ce6b43a7675b454abc939bc44d59ad9d19d34a" data-requires-python="&gt;=3.10" >bomf-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/e2/b083103ce5a913635d6186557cdcfafd69576f2cb9c507c272db386ffba1/bomf-0.0.17-py3-none-any.whl#sha256=69f91fd118317a4844c43d91285be8ebef9e9872eda18c679d94a03186882750" data-requires-python="&gt;=3.10" >bomf-0.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/c8/e5ec701518e731aada7144251fcb453b081337c1a675a89b2b1e0d9c054e/bomf-0.0.17.tar.gz#sha256=16b71adf134cf70aa540c945ded702457aa0231046e29667bb6289f3bb9a234e" data-requires-python="&gt;=3.10" >bomf-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/27/dcf2b20c89bd53bdc7499c8f7501711ecfae8c4dddc78e606fc3ecf0f1cf/bomf-0.0.18-py3-none-any.whl#sha256=f57b9e81ccec7afb50986f864319358ee31653ab1d7f9d0a825a95f69b7ca3f2" data-requires-python="&gt;=3.10" >bomf-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/04/739b2597900ca4a420fd500882f838336e01510f14e8c37fcbeb35274c9a/bomf-0.0.18.tar.gz#sha256=7819e5a93d1595adeb4b6fce9e621029f3d7c0e59bb9ef91b87bc9362c7e92b2" data-requires-python="&gt;=3.10" >bomf-0.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/d5/6f964388678d2b391b558f6202a763cc9c6ac5194531c5c75ccfeb36bd79/bomf-0.0.19-py3-none-any.whl#sha256=981abcdbfde31c82d62718d1609e486544c2bbd8c213cc260f58704cd8945c0a" data-requires-python="&gt;=3.10" >bomf-0.0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/28/576d865afdcf6a8f4462e03d8fedba9065dc728c55ea1806e1d19c7e7738/bomf-0.0.19.tar.gz#sha256=ee3be60f07e73c464526c307d13ae2d910ee98399269d2160affdcaf956c2d69" data-requires-python="&gt;=3.10" >bomf-0.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/8c/6b90484204112095e809cd3b8c6ace25f8839f9f900c62c90c640bf71f4d/bomf-0.0.20-py3-none-any.whl#sha256=73f5b51506e9fc7ac4911dc51b46cbccd12417ba200f1e270766d6752c4cebab" data-requires-python="&gt;=3.10" >bomf-0.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/7c/83bef512ab8ad2f533eed08241688f3f38dd8cb1791ccd9811076336da18/bomf-0.0.20.tar.gz#sha256=f367554f883875f2e3375ec3d33e9a92eef438cfa815b5d95a2871da82e7665a" data-requires-python="&gt;=3.10" >bomf-0.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/ac/ab1e27cb8a2f1bbe8b7f35d2a1588d4030cbd4038c3c1e942083e067e16b/bomf-0.0.21-py3-none-any.whl#sha256=ff9b201a9d27721f07ed336c31c2b4e938db0a719cd361cc21d11bcbb15abcf4" data-requires-python="&gt;=3.10" >bomf-0.0.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/4b/deec04725fe6adda5504eafe3c510b864fa66f3ee4e839a75be231263879/bomf-0.0.21.tar.gz#sha256=4806adeab3ef8808253d00c60838f0a2e74b08b03212909199b03f9ea62a56e9" data-requires-python="&gt;=3.10" >bomf-0.0.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/64/8e9ff3f955830bc41959cf8ac051ae77205d00cf38d24f0c4876d5dc3b12/bomf-0.0.22-py3-none-any.whl#sha256=2a5e40caed4144c5dc53d842f076593db7c880039d4de190420bd8e615f41487" data-requires-python="&gt;=3.10" >bomf-0.0.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/48/8ac2926df9cb5eb6eb2b5cecad750cfd5bfdcd01a0ecfdd25dca036a5b7a/bomf-0.0.22.tar.gz#sha256=38e525020210f041f559425b9d9c06f2d09c6d21b9e6963da411123696ba7a45" data-requires-python="&gt;=3.10" >bomf-0.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/c5/ea155cb5045970e70def18f62171e7ab2fcae0a9e0d054f85a51af2ec71a/bomf-0.0.23-py3-none-any.whl#sha256=2e20c3126e01278dc3aa833c43011af84c0d01cba726a8d099a5c56fd51eec27" data-requires-python="&gt;=3.10" >bomf-0.0.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/7f/1a93bb28c82d6a89b21ce7c4e964f0d95a63ba651b90505a148a992e9b5a/bomf-0.0.23.tar.gz#sha256=ae9db9e49d3d7221c19c32873bb0f9a2272b8fd9dbbda6a01226256ebc215943" data-requires-python="&gt;=3.10" >bomf-0.0.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/e2/edf5344763fca43b888271fb55570be0945245ae6968d9c69eee3b0e5275/bomf-0.0.24-py3-none-any.whl#sha256=fcbd2dc519404583d000d488da11c868dc2c1ab9a40e47584e3c578e74aefee1" data-requires-python="&gt;=3.10" >bomf-0.0.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/e5/7284e36639c21c06548fc460426f8c5ffb423d19704757031c9978d88be8/bomf-0.0.24.tar.gz#sha256=0e5159e250799029160d29bb79f46553a07ed292beb0700ce999004af765168a" data-requires-python="&gt;=3.10" >bomf-0.0.24.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16360795-->
+<!--SERIAL 17008835-->

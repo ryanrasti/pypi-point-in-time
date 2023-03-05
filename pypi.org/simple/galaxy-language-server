@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for galaxy-language-server</title>
   </head>
   <body>
@@ -44,6 +44,10 @@
     <a href="https://files.pythonhosted.org/packages/e2/01/26873c5b3956bf7be004d542afc34f5c09051b325fa1d99df93c17f3c850/galaxy_language_server-0.8.0-py3-none-any.whl#sha256=9c4dc63dffb199db5c85f420c0e9f51f74914e1009dcd0086f99af8ac413fc2f" data-requires-python="~=3.8" >galaxy_language_server-0.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6a/d4/a66278ae26cf396060f0241f92caed8f0ea95d5b061b98745377bf2f78a5/galaxy-language-server-0.9.0.tar.gz#sha256=df554720b0d832e0edd7b60464dc7f347a1fa0606e03b294365643ad15766589" data-requires-python="~=3.8" >galaxy-language-server-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7e/36/bcc143caf9ded33a9c01c0c32f1f1498496ee9591bf7a27eb28c8abb321e/galaxy_language_server-0.9.0-py3-none-any.whl#sha256=6d7f95014917adcd5f76d21af44d0459b715e7792d9e4424596815cbf5f0529d" data-requires-python="~=3.8" >galaxy_language_server-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/c7/4ffe421809be7d0dda270d600ac007c77acf9a28d439846e92bac0813acd/galaxy-language-server-0.10.0.tar.gz#sha256=4d3fb6e8d1f973618f243747f36c5f4a47fb08894fde4a2d44c6b70501929ebc" data-requires-python="&gt;=3.8" >galaxy-language-server-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/64/39a7d3d9a6b1ab175504d4c601ec15dff6e084405ccd04f99dc931ee67f6/galaxy_language_server-0.10.0-py3-none-any.whl#sha256=d89600b47bd8aa94ed27f9e82477976342177e28ba1cb347b407eb7c474947a0" data-requires-python="&gt;=3.8" >galaxy_language_server-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/97/e6cea9cd51675d120bc5b5cdf5e15a6be387804d4b77b9e5311bb9c1fe40/galaxy-language-server-0.10.1.tar.gz#sha256=8e48aec0a39092a55dabd4e7c90de78c6f89085e8efe82bad0a790302c103324" data-requires-python="&gt;=3.8" >galaxy-language-server-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/43/b270ee03d71efc069f48a87163764c1f99e2aefe1660615a72f00c656c6d/galaxy_language_server-0.10.1-py3-none-any.whl#sha256=68c41083cdfff835bd89f9df3b12ca7b05f8ce2a5321be4075bdc2ab337d8d85" data-requires-python="&gt;=3.8" >galaxy_language_server-0.10.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15478248-->
+<!--SERIAL 17155134-->

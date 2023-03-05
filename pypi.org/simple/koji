@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for koji</title>
   </head>
   <body>
@@ -99,6 +99,9 @@
     <a href="https://files.pythonhosted.org/packages/51/42/81127958537cbddb8ad3d6875aec1ccebf568ecd42af03ebd1b56c82d4c1/koji-1.31.1-py2-none-any.whl#sha256=cd97c6c0c7a572a8b4a4b9c45daf37d40778eccbcbed41e8e990a35cbe3810dc" data-requires-python="&gt;=2.7" >koji-1.31.1-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/84/ee/3d3cadd6aff1e5a9477ef409eb8f78ac1c37edc591e37a68339bb00044b1/koji-1.31.1-py3-none-any.whl#sha256=392449a868d65c8cbd74e56696c972fc6e3d59d575a2e8c87c4318627238d22a" data-requires-python="&gt;=2.7" >koji-1.31.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/b3/72011e799b470e2faa183c902b1894d6bb3f5423abca3c8e358b894840ad/koji-1.31.1.tar.gz#sha256=e0f2dce99c622becfb1c4663ca5b0efddf2ec86380bff4ad031f583283aae80f" data-requires-python="&gt;=2.7" >koji-1.31.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/51/f1af1e6bca68091bb47d6e571131d51bb92a5e822c2ff4bb0348f1eaf1bf/koji-1.32.0-py2-none-any.whl#sha256=c62b71c2b755716343ef302b7e66974caa22b69e4de4b3840dedb83bc7074e6c" data-requires-python="&gt;=2.7" >koji-1.32.0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/25/e271245fa6124dd0b5c14bd641996d2aa5b30f78bd06d3e245ff7d0547be/koji-1.32.0-py3-none-any.whl#sha256=22ac627c4cfec6a39893479c20e3f56a503c94ab3cc027808eabb04962340707" data-requires-python="&gt;=2.7" >koji-1.32.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/59/a7a87d7058329f33512af9d1f5a64e66450fe4d9ad127c8b79243a2c1f42/koji-1.32.0.tar.gz#sha256=8634158ae5192e4f6f6c62b0a662b7ecdfad2397bf42994364af1eed52959d57" data-requires-python="&gt;=2.7" >koji-1.32.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16402027-->
+<!--SERIAL 16884826-->

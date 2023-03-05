@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-pandas</title>
   </head>
   <body>
@@ -904,8 +904,32 @@
     <a href="https://files.pythonhosted.org/packages/15/2f/54fe6510c575475a85606f1cad24dca65f9b60014e90724b1abd09df2f97/dagster_pandas-0.17.9-py3-none-any.whl#sha256=3b9835528a2e9f1532b7dd06b768e0a28d5b2cf1719978f6c32d603c8fbb6dab" >dagster_pandas-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/88/ad/a5a7b953af27f5123da1f27124647c96d6c88b85a2fba9cb6aa823e1e79f/dagster-pandas-0.17.10.tar.gz#sha256=fd52d4908c0aabe17fb3d6d76ed9784e397507ef860466b9b90bfd6d192b31d2" >dagster-pandas-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/88/c3/f11c4eac8cacb8d944b70692c6644b4be5ac291091a70511674385236729/dagster_pandas-0.17.10-py3-none-any.whl#sha256=e4ac4cc46399dbf530d4a93811def06712bb385ad12d81d3f91b365966b64aa5" >dagster_pandas-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/5f/81b3a4c875a2b6b1541c323e0f2231ac7e1f0ad2780f3753501c4f67dd44/dagster-pandas-0.17.11.tar.gz#sha256=5b18eb8deafc9574fa8bc9eb0f377cb008cf673dbfd35a3594f584da765c018c" >dagster-pandas-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/01/37ecd4b485503461c1d93129a425161645dfacdf573d6b622ef7859b2ac5/dagster_pandas-0.17.11-py3-none-any.whl#sha256=266468e25e1364e293320040ae8e14091b3f8d883e50ff5659acc1e44d3fe698" >dagster_pandas-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/7a/32483a88893db8ad3c58e936251796bdfd236d178cba90b185644cb5a4cc/dagster-pandas-0.17.12.tar.gz#sha256=78a68c9dfda9d79cd1e570757c9f358b0b3501ab830943a0f6382c1559f2e982" >dagster-pandas-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/9f/7167e7871165dfbdf3aafb16fbe26f9cd3d56341e0cbef9c3b84457b02fd/dagster_pandas-0.17.12-py3-none-any.whl#sha256=39b35f3fd21c6635458b6928b4575e9a5a42c360852db33601c160548fbf47f7" >dagster_pandas-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/0f/2cc3328c5135d79c47397a8afee17fa276da1d9fbf86c2808cd6202261f5/dagster-pandas-0.17.13.tar.gz#sha256=3085e74a32b32d0980e62a569681667ae3996e1b9e0e3070febf88115fd2b0eb" >dagster-pandas-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/be/53a41203831960fbeaf7239dab70097df997a0c0b081f607e9e61f746f2c/dagster_pandas-0.17.13-py3-none-any.whl#sha256=b96eff44b847b2432a3ac0263e42dd726a396b8c0936f8f1216188d5fb71d76d" >dagster_pandas-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/93/4bf07ff01d03e1c1fca79fe5146b0a62664e572af9a05314c6123eae89c5/dagster-pandas-0.17.14.tar.gz#sha256=0d684f5dfdf5e3bcdb6feb932620f2e193f43d7cbe893f6214dbc048b000cd7c" >dagster-pandas-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/a8/7de88bedfb179e333db6e4622d383a1e913eed17b6cc63909598d6c0632b/dagster_pandas-0.17.14-py3-none-any.whl#sha256=074f4a7449d320d01c6fd542c9809a536ed8e3e37ec466630edb260f593df676" >dagster_pandas-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/9d/5b06e7c7c272a0ec7aa2c9ef8b23386b29f5e1f38a52ca12caad249d44fe/dagster-pandas-0.17.15.tar.gz#sha256=4cce5159ec8c1a744760873511086f92208a158811336c8cf2c160ca8945bc20" >dagster-pandas-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/bf/a26a8ca2680ff328aec208574b374eb62e25c7cafc9f9a5d504b6f7efc38/dagster_pandas-0.17.15-py3-none-any.whl#sha256=9f26bf97cffe2237225a3e8859b154ba4a251da4ae8169d606f61b7d246a3929" >dagster_pandas-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/02/e7074716d5917949d47933e1d0bf65c30fa0fd281ddfe7e6678b05beeb4a/dagster-pandas-0.17.16.tar.gz#sha256=34f3ffd10296155df4ee81239c2af6dfae1626f2744b516ce543efdb25c7dfcf" data-yanked="" >dagster-pandas-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/fa/b60c414a720d19ca96f088482a2b05da5f4f810c5e131b82f25669e14c6b/dagster_pandas-0.17.16-py3-none-any.whl#sha256=a6f67d17f37238f5c5dd6188428ecf10ee0fbec1cee81138a95ef1cee5952819" data-yanked="" >dagster_pandas-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/7d/b49bf059d818fd35f1d67ea03f01b42590506b41361ec15e73e72a61e6d9/dagster-pandas-0.17.17rc0.tar.gz#sha256=9bd416425886a07fb9ca20595e095dc47c0df73a5fab9a423ea0f657561dd62a" >dagster-pandas-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/ba/65d97992708c003383afe0418c9f3d883edd99ed6f15bd69b67f07daa157/dagster_pandas-0.17.17rc0-py3-none-any.whl#sha256=0b5cb7d5750f29fe4a1299a5611fab0a7f7c853e939989cca7e4cd4058b0336c" >dagster_pandas-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/37/e8c0c560cc309636ce53c0e4139bd48bb6f5f318a8735bc3248e63122775/dagster-pandas-0.17.17.tar.gz#sha256=b1ce8f08d1eaba2caa60f3dfeef8459ec730aeb6b44aaf8ef298839fa13e050b" >dagster-pandas-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/82/41a80d30f7c3979a5cbb1905c63d844adbd18a1888fa57659a6c0bc394b8/dagster_pandas-0.17.17-py3-none-any.whl#sha256=5dd97332e2a5863ed055d14edcfb447767acbc5201d40a7b1b0717fe604d2b28" >dagster_pandas-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/95/9e6f8bf33d95992f62823a10d011d6b6e7288b1dcf8aa0bf311e32742f89/dagster-pandas-0.17.18.tar.gz#sha256=dfda926789446088322e331c956cedd2ffb593ac8c1ece7738c8393325cab827" >dagster-pandas-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/b9/36934dffdd56d5847f944d2b6c32bcef9a6a3a150505179ebd4470e8d574/dagster_pandas-0.17.18-py3-none-any.whl#sha256=efa3267c5d75ad680ae95a22462c7953085221a66839ba2a6bd653d61779cf8d" >dagster_pandas-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/82/47d4227bbaa6ad682470c4c7b9ccfe24f54bf783382eaf883103b2544a6a/dagster-pandas-0.17.19.tar.gz#sha256=bcd484b4379f092177e019b3a1e75d01f0d16eb85ba109afc42fe474356c201b" >dagster-pandas-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/4c/bda9eabc94dbc094d376af734b8ee02e4c3e641fc11ceff6dc9c0c906029/dagster_pandas-0.17.19-py3-none-any.whl#sha256=7d2810b8c0eaa522b63c237607fdf7e0e385278cc9bd4774178f4e7abe53a8e8" >dagster_pandas-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/de/ef74ed87f0e9aa9871ea9d300b84eb9266dc78d0bb0b67959b705092b64d/dagster-pandas-0.17.20.tar.gz#sha256=a02cbb41b89717bf635808da2c2a6ad07426a822c10da0f0d6e50e736692d0f6" >dagster-pandas-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/ab/4e806c9007438721211081d49bdcfad4d424e5f1ba05beb85468135ee2a6/dagster_pandas-0.17.20-py3-none-any.whl#sha256=416e169a61ce93f9ffb9764ea2da293b8b2fdf9a9dc7f450e5fb8654828a4191" >dagster_pandas-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/b9/f33fed4099b606e58f2bb025a3fe3aec2b82d106ea0e4cb387b6f5b54fb4/dagster-pandas-0.17.21.tar.gz#sha256=ac6e4f85599a705e3b3d12d40bbdafaf92e8451052e354b769f6518ba07cfb04" >dagster-pandas-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/ae/02f32feaffac8ba212dbdefbf28038fafbd1806ebcdafb1a7d5db86e2f1c/dagster_pandas-0.17.21-py3-none-any.whl#sha256=14ca52ba17762d6dc7d84db680f1f2a82f5308f4c76ee4a6d046f0ff4f49a30b" >dagster_pandas-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/58/2f1e9b81ef580d797790eef171625be2e94b3cfc3c18acb8763a4566db43/dagster-pandas-1.0.5.tar.gz#sha256=0ba2cdaf5c57efe889093cfeeefe4c4ef40bf8bfd7ea4de17fc535de3f26f2c2" data-yanked="" >dagster-pandas-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/96/371de861ac32dd99fa41e140b144dd82a14954da90296310386d8f15ef96/dagster_pandas-1.0.5-py3-none-any.whl#sha256=1562d8b414de6c71d259117aa6decf510892a3940003eb45f429698faf2d3524" data-yanked="" >dagster_pandas-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408590-->
+<!--SERIAL 17135858-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dstack</title>
   </head>
   <body>
@@ -104,6 +104,17 @@
     <a href="https://files.pythonhosted.org/packages/14/be/1010159f15acdb493a96e7c4b4fc109c6bafbe428c16ea36f2f82f0f3633/dstack-0.0.13.tar.gz#sha256=c2fde89ae2958c04f7b643f10f0d9946b35fd170a32c91aafb4455b1ba73e48c" data-requires-python="&gt;=3.7" >dstack-0.0.13.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/d4/1fc4bb75e7f59cccdb88d8cdb8e819fdab490a3861b9b0d2eaf02b0c1dd6/dstack-0.0.14-py3-none-any.whl#sha256=bf85e1602b359fb141cd38a6f80ef7dcec7bf0d964a264482f7bc40023d48531" data-requires-python="&gt;=3.7" >dstack-0.0.14-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/81/0e/37b306b6aa1d43a5e982d7ea02c4ca6f93cbc850c2558fe4d4f7c9ec57dd/dstack-0.0.14.tar.gz#sha256=217bab45d3104236916333e3bb1942c9d3bef7868574827ca733931aecc4c884" data-requires-python="&gt;=3.7" >dstack-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/92/d8ff595477db35d7ea4bfcdafa1d31242ccb0e3433e07412d9f2b47b1e63/dstack-0.1rc1-py3-none-any.whl#sha256=411468eb84df1abe4a47e622f57049a063be3e796a375ea8b8992a80858748d4" data-requires-python="&gt;=3.7" >dstack-0.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/0a/1aba984a6666ea83553da77e105fa5eed6db4f2b2fe12f9c2d86c48cad5a/dstack-0.1rc1.tar.gz#sha256=d071d1c0a5b79ba57eec325e749c792f431f7d15eae599576e4d74573a0cc02a" data-requires-python="&gt;=3.7" >dstack-0.1rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/d4/e81dd91f6e3f03a620a4f49cb6bb4f3f4c6b0218c260e0b8bf8852d487f0/dstack-0.1-py3-none-any.whl#sha256=f1278526ac1b07e6a244a198e1c1b3c47aa89f57a0a4ecbcf355abe514d0d6ab" data-requires-python="&gt;=3.7" >dstack-0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/de/8fa6143ce22dd1f8c4506308372b121113d25ad48f27f06e933af244951e/dstack-0.1.tar.gz#sha256=4812eae5589d14cd8962185dfe7bfa109d1d41045a082d1d06a8743648bb8d69" data-requires-python="&gt;=3.7" >dstack-0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/c5/3209454f1c6f661f5624dea8adcb5326941b7777169c0bda18f12c0377d8/dstack-0.1.1rc1-py3-none-any.whl#sha256=3de40e394c951ac89e7acf9d1723fa0247642835f9e71b12609b44df06a21cd8" data-requires-python="&gt;=3.7" >dstack-0.1.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/08/06690c3b194efb8522c051860798bbad063fa26b14c15ce149bb66b54e58/dstack-0.1.1rc1.tar.gz#sha256=340b5dfb524f1f18a89e0d93fc4e1973e5aa4be46b39d6de92e33108e05fe5dd" data-requires-python="&gt;=3.7" >dstack-0.1.1rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/76/62c67f09548640c2552a616113c16bd3e89d66ca41c7a4e46dc52710bfdc/dstack-0.1.1rc2-py3-none-any.whl#sha256=09b4c49c6b1a0e6e77e12d17b77a3e94c1d07ebf83848c032b8a7b89a0e49b65" data-requires-python="&gt;=3.7" >dstack-0.1.1rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/2a/06d17dff92111d790768574eebaa8383fb2deae4a6b9b1f19a7d40417874/dstack-0.1.1rc2.tar.gz#sha256=787724fd8b7cb8020027e7c5a2bf5b17d077a1f2e4e7e79cc05779a37d6f966a" data-requires-python="&gt;=3.7" >dstack-0.1.1rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/54/b318853a3dc582929887d2c47bc6ff9bdb74fdd6fb88ec28ca77d3bc79d4/dstack-0.1.1-py3-none-any.whl#sha256=0f48dabb218a54e9214bfde505f4127515249beb509a2f8e5cf2824512b1fd73" data-requires-python="&gt;=3.7" >dstack-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/08/e83ac7d24aec2a1bd7bb2a0ddf74e50c4c7cb43a2ef0bf4f7ecde2a0dcb2/dstack-0.1.2-py3-none-any.whl#sha256=0aaa4e5d1fe7a6c770fe2025c9849573f4bebd0bc5e31277172394f2cdb5dfec" data-requires-python="&gt;=3.7" >dstack-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/1c/41a171ebe14bfa5d2084e75baa580bb6800732c6c722ec50ed3502827264/dstack-0.1.2.tar.gz#sha256=70f5fbb22e52e2f9533cf07808cb53794ac215904065128ac2706e6765592172" data-requires-python="&gt;=3.7" >dstack-0.1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16000284-->
+<!--SERIAL 17116852-->

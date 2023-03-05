@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gempyp</title>
   </head>
   <body>
@@ -52,6 +52,16 @@
     <a href="https://files.pythonhosted.org/packages/d8/a4/fabd89c6634e063dace735b0eb095546ccc418c2f78042acd5425406e9e9/gempyp-1.0.22b2.tar.gz#sha256=8cbfd508c586946fe7435415c63f115ecd485ce003015811a05d32cebc610fae" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.22b2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f0/e1/e61d654874823748a548c02edbab2042a395649b4814e4886cc7f07b25e9/gempyp-1.0.40-py3-none-any.whl#sha256=9169d952b005573cf3666ba9ee6347364ba196fa51a2066a410f66e4a2a2b94d" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.40-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/2c/13c7b52a435d60fb0d987e518e866c8a3ba0913ba4230540319711e8d956/gempyp-1.0.40.tar.gz#sha256=cec8f4e0b253c7e1f697a3649e512ab8c268afa7250b0ed9253454d41a988247" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/22/015d12a49e58f1ce7826e93b4a5f936d0ed28481eeed0a4134b39de431a4/gempyp-1.0.50b0-py3-none-any.whl#sha256=8a341febc239faadc5c9754d5f8f7dae6d1fc5764fc1df04db11c826e0704799" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.50b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/dc/e6d12582963c15664c3000eb17309549a2758e3ba3f6c8cf4c89db992e9b/gempyp-1.0.50b0.tar.gz#sha256=67146efc0852be0704c4a4f3f0b88c14c8e50a755729272f9b55cbffd1640f7f" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.50b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/1d/9a216c455d6e2381a948d69f0af39e6644518851ea82e2c667acfad145a4/gempyp-1.0.50b1-py3-none-any.whl#sha256=e320fb493b710e74a9f181921ca043011a9d218364c9e94b6da9dddd45d769ac" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.50b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/92/613ddf2927084d10c6e065b17ee65e8f9379304fea019f6c384e51cb3f78/gempyp-1.0.50b1.tar.gz#sha256=8d1d3493e1a99af32ff07bb1c076bc9ca5801c3fbfc1b98af57d06161bc92ac3" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.50b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/07/563b82de64f093b75dbfc4933c6b76b0131c383f570d3087c7daf0f24067/gempyp-1.0.50-py3-none-any.whl#sha256=01a3f065717bb254ee5afbf4405ba1eb3524bc8ac6c499951efd74ebb0ac86d4" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.50-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/a1/8a77eb24a858d7e29156ad1bfe2954d1e0834080df69c706e6e47d9d11c4/gempyp-1.0.50.tar.gz#sha256=afc6ee2c723c4116224a49f46eefafbc45db9b8137a70425adce0c214dee652a" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.50.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/c4/4aa51bbd484822cbe0e08e7ba69688ed513fb242eb17609be47418e5f555/gempyp-1.0.60b0-py3-none-any.whl#sha256=13bc83f3d1571a7dfb88fe93336e69a1393534ed0c327a9481d69c8e1621aeaa" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.60b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/2a/cb5eccaad75f6062d5a042b7f36db8a8cce8fb67900dd3b283e22c973a1b/gempyp-1.0.60b0.tar.gz#sha256=b39d23542b53fb357fa3955e9b234fe614116b0c425cb288ae0717468aa1a437" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.60b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/4a/c9ee67800109f2ecb81578ebaf32566b2ceb32947db32c9eba6f8acbbf9e/gempyp-1.0.60b1-py3-none-any.whl#sha256=e663be20504f54e991d842efec8e1315def09b3db756d2b4d31daad54f8146c3" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.60b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/34/0e9f63e2144c0dc39e608c2cd3dc584ea52105d9695ff0a8466a1e4b8816/gempyp-1.0.60b1.tar.gz#sha256=af6e8904d26a4bf574cd476e8102fb98383558985b860d5f2dcfe5b0c5b1f812" data-requires-python="&gt;=3.6.8,&lt;4.0.0" >gempyp-1.0.60b1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16376596-->
+<!--SERIAL 17112533-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cgitize</title>
   </head>
   <body>
@@ -58,6 +58,16 @@
     <a href="https://files.pythonhosted.org/packages/de/48/9d23dd492d9af08f4736adbb793eef9c28b359a2f75600e7e2b8070b993e/cgitize-4.0.4.tar.gz#sha256=08c2c591ffe7b29c77dd86f2bafdf50ef0ea6e89a65060f5f485468ac24f2e0d" data-requires-python="&gt;=3.6" >cgitize-4.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/c6/f9967fb8bdbc93f4da75b5c59fe42d8d25afcc9c62ca34ee7704225b94b5/cgitize-4.0.5-py3-none-any.whl#sha256=b6ba338d5a262b16627d82e3a9ba7b33f87666330da71d1fedd381b636b9b83e" data-requires-python="&gt;=3.6" >cgitize-4.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7e/81/eab04ad7618fb2bc06441a6691a4d3c79a2890f316a52297f52407a417c0/cgitize-4.0.5.tar.gz#sha256=b3b879caee32202c6dfc9bd2052b0b31658a3c2f0d737c908d77c9fe53ca77fd" data-requires-python="&gt;=3.6" >cgitize-4.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/77/5650a78d104b64178bdda37daaf47b9876806693e100d5222b7e1a373ff4/cgitize-4.0.6-py3-none-any.whl#sha256=45883964779b9e148e33927e8ad0eb0b48f1fb3a483cbf2f99470983777c1b83" data-requires-python="&gt;=3.6" >cgitize-4.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/d8/d237fc8192b9e42183d07e3afd56235db02dc04e2249f90395852bd79dce/cgitize-4.0.6.tar.gz#sha256=387e9ad82605d92f952953588754bdaa7edec1d2374503c794ca67651e9c447b" data-requires-python="&gt;=3.6" >cgitize-4.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/77/9b2564fdc62f483b351ba888bc2e024b4dd50206c27e4bf5bb413f4ec02b/cgitize-4.0.7-py3-none-any.whl#sha256=781ca267b8b31bcabfcab62198e8c7bcdd378bcf2cc525144ef13b3df7e3c580" data-requires-python="&gt;=3.6" >cgitize-4.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/98/fb4b6b3ffb8082d8c89e0108436c834a3b8cdbd3b3b9cf6947a4f132434c/cgitize-4.0.7.tar.gz#sha256=d7a1ab89d553afa905b73c84654ea13b8dfaaa8ddd81c11ce1d04cc7f1ddc651" data-requires-python="&gt;=3.6" >cgitize-4.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/ac/8ac1ca18ca2315b752f63a64bb3337f462ecf1665d530319bcd5f44e3676/cgitize-4.0.8-py3-none-any.whl#sha256=0398702fbd986f7ae1ddc9539887ec2362d68b6fbd6367bb98f3cf34fb70bace" data-requires-python="&gt;=3.6" >cgitize-4.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/a6/af619d3e3c37c675333200591895838143d59ea329f3c4a316358fa9fca1/cgitize-4.0.8.tar.gz#sha256=89a8314e659e1683e842b3dace5f610eeb009639ed74d0120b21d5f6d4207a4e" data-requires-python="&gt;=3.6" >cgitize-4.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/35/643fcf1aa63a5a44db0cf453b57a9e3b6dded48c0bcb11dc40cbee4c3125/cgitize-4.0.9-py3-none-any.whl#sha256=a1ccdcc73c55b801fe9dccd75a3af0cc5218a31adcde8775e718a35ba7fe6891" data-requires-python="&gt;=3.6" >cgitize-4.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/fd/4b47fc4820bc008dff791fab46045c664fce13e4eea5693bfcb2c6c593eb/cgitize-4.0.9.tar.gz#sha256=163758cd9b86111166b1f140423b038506d1392ba2163b91b37abf2aa3bd9923" data-requires-python="&gt;=3.6" >cgitize-4.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/48/261b27d553cfc3fa9f860028866b3d46bc00ea61cd536436fcba93db3594/cgitize-4.0.10-py3-none-any.whl#sha256=b614efdd2ed4e9df69910a551b9387716b6f65c1e3fdd637928dddbad94cd2c8" data-requires-python="&gt;=3.6" >cgitize-4.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/8b/18bcfe7aeab233cd640d2c0e6505784c12a6f4562a39edba44da322b0fb9/cgitize-4.0.10.tar.gz#sha256=aafc7c2e1b0b4e4a9901b7d5df0c83659267a8ac64bbac1be795ec569728d7e5" data-requires-python="&gt;=3.6" >cgitize-4.0.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15987469-->
+<!--SERIAL 17130440-->

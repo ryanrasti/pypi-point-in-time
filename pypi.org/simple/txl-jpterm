@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for txl-jpterm</title>
   </head>
   <body>
@@ -18,6 +18,20 @@
     <a href="https://files.pythonhosted.org/packages/4a/59/c2ec1d0bae52293cc91c63a26dcdcb4e5ab20ac22590a3f716106b94e1ca/txl_jpterm-0.1.4.tar.gz#sha256=06c45f291b9d761999aca4c0bf8c177923a99e83cbd23768b950f1e637c764ea" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/c3/96e6b6b90964afe5418158e17e50b88074950531febc9319c9a7bc15a5ba/txl_jpterm-0.1.5-py3-none-any.whl#sha256=325c21c26ff56531b4599ddc9ffcb3def9cc052a833dc5186cfc76a5967b38dd" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ac/ea/c07dda20e738e9905019f44b1eb5ce5c18691b60f7fb2d1ed45202779ccf/txl_jpterm-0.1.5.tar.gz#sha256=d41df5a3e25904d2b842d18d2064871c9f17222b3230fdd41a29dcca037898f9" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/d6/5dcd6daa5c3ff6b42651e9748180556fa60d32f59a8dffbd7371a4308082/txl_jpterm-0.1.6-py3-none-any.whl#sha256=e333107894b34c90c4f299bbd51e7a2c741f69ea542c3bc260be25e0c6847596" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/93/cf827bc3768ed6f025b3bc0f14cb9ad614b403f406545e6b2c8fce8d6c6b/txl_jpterm-0.1.6.tar.gz#sha256=8903ee9fd42c20480ce25a2c821742e306b5b3611ce2fe710e0f0ab075465afa" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/6c/bf743ee2635f28c5afe83e9d6fd3a81745383bb0575d143a71855158ada0/txl_jpterm-0.1.7-py3-none-any.whl#sha256=974b9016fdeafa85ccef38886a7fa144c5c61286c1915332ce5f30c695744c0b" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/b6/a3535ebcb29833fabfe298fbc5d6f759adf71d964cbddc5460aeae7703b5/txl_jpterm-0.1.7.tar.gz#sha256=ce33d4e555154c9a07d6eeebc72a635eb3f8c2a65dd08599870b31ab926b98ff" data-requires-python="&gt;=3.7" >txl_jpterm-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/e6/d99fee119057753814110dd164903039c33618636edb6416ef2257bb8bac/txl_jpterm-0.1.8-py3-none-any.whl#sha256=e8277fb1cc87d16b56b86626e2e1209f4b84c937ca725915bf90d7497c5bf6f6" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/46/408fcb86720fba8182cb451ef12ff9ae594e6ab530d94f9ea73bb0e53dac/txl_jpterm-0.1.8.tar.gz#sha256=b95103238680376c032985ba04c35710fc763021cfaf0750eba4a091f78abf76" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/ef/a991c67a4cd4e5e54b44b6cfef02538a81bad1fd8181ca9eb9d06562d972/txl_jpterm-0.1.9-py3-none-any.whl#sha256=9aa56258bd20b5bfbff1608daf8e81969bdf36bf127bf635121e1a693124f400" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/e5/0eeabf50b21f8937837e3bba3b1ad1f72918ca8c55ed235493080230e357/txl_jpterm-0.1.9.tar.gz#sha256=97990f0adb005446b9ec7ad6b25f9fda57ca93261b72ba18f44c1212b57c0a42" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/d9/8d3998caf8c3bdbc9e1b8d5c2ad65b5ddfcb6aea0cc74d2e7eb0133f3e4f/txl_jpterm-0.1.10-py3-none-any.whl#sha256=2402501ef693cf3ef5e1efc4287654c53b5d786a8f2f0f5a30080fdba3e99a25" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/8c/74c7209013d97abe37ee9dd6af897a702a194cc8e7229bbf6b390d41f42e/txl_jpterm-0.1.10.tar.gz#sha256=b398ca235ad47db4d526b44ecaccde97e9194a4e9e5a81ba5aa73dc75de86052" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/d7/c2f7755de5f862aaf0c72fc3d091d4b10274ca54b80a5424bcb957ea70fe/txl_jpterm-0.1.11-py3-none-any.whl#sha256=50a3f55a81ded5535fcfed9ad665eba68f328df5a4451eaaf175e56cf6d07d9f" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/24/0e0983ea593667c491e9d097e344023042cbfdd562e374217d78c8498f04/txl_jpterm-0.1.11.tar.gz#sha256=7ac67dc1dc7be5f698c18d2b63d357963eb4ae2fe84adf59abdc5c3f4b61bf64" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/56/594509ded047f72e0d7648c0855ef39af70478d18eb9dcbc5ba30158bed6/txl_jpterm-0.1.12-py3-none-any.whl#sha256=b90b234f7342ce01012bce305e5552be70807685d6b555f6bc9a4fee76822853" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/24/4ad09448bfffa4a8dbb44c9510254ffffd6f14a9fe38319a8c619068ebf5/txl_jpterm-0.1.12.tar.gz#sha256=95ee470222717694c744bf73a5c8be41a4d544b895963e8452631b64c15a9538" data-requires-python="&gt;=3.10" >txl_jpterm-0.1.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16350080-->
+<!--SERIAL 16874542-->

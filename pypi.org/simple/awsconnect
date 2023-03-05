@@ -1,25 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for awsconnect</title>
   </head>
   <body>
     <h1>Links for awsconnect</h1>
-    <a href="https://files.pythonhosted.org/packages/75/b2/5d42969796d51eb418e1337ee9269bc2488f25a3ee662fed0a763c3e5deb/awsconnect-1.0.0-py3-none-any.whl#sha256=dfd47bc51a13272a4bd2c8c27c5a1f81f0d4f1551ff9e0f2136f1942208d5f78" >awsconnect-1.0.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/60/31/f6eb94e54c4f653f5c9cca190f464af2e36844ba0480cf4475b512eb59e0/awsconnect-1.0.0.tar.gz#sha256=5435f2acd6f30047c2d65235b70bc7a824433cfd73b9acb7ac0f8f149e7efe83" >awsconnect-1.0.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/16/fc/c658d5f392ebb0b173934e6f42f6c427fd285154d60036a992e6c50d884e/awsconnect-1.0.1-py3-none-any.whl#sha256=e1216e5a4ca9b0d4fe6cfaca1cdd000547c055adf3999dc5fe0c3b9f383619bb" >awsconnect-1.0.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/f9/d3/7367fd40740c43a4369451bb1033a3f4672e150b4c251cc489118c8c19e9/awsconnect-1.0.1.tar.gz#sha256=81962a3e9f7cfbfbb17fb16d04c3af2a6939203d81a2a8c388f9c7c80e9b8cb2" >awsconnect-1.0.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/fd/96/f68b57d3d4e05e6027bb0ece32eb24481264c0f65687828f8ab44c486150/awsconnect-1.0.2-py3-none-any.whl#sha256=bc927279c9de5c7afc4ad4c82f95e07d14bd96faa47286aa695c368b47c9e8f3" >awsconnect-1.0.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/48/31/8c9b34f3f698ee96a15a1beca8cdd2d57a445bafc57216c117918d785798/awsconnect-1.0.2.tar.gz#sha256=e6a06d1040a5318dea2e7f36895cb8a4a3882a206692d5de8fb49b7aa42a6ae1" >awsconnect-1.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/2c/7f/e0c946eddbb0afbd8ab4ab4ae124ceab1f97563477af6eecac60a4a8d871/awsconnect-1.0.3-py3-none-any.whl#sha256=7b5e810c64599589121dedd7eb290490c58bc4db41f275d14775b686209e5e05" >awsconnect-1.0.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/21/19/9353a7c7962c23bc1b08c83c2bb2baf781334d6c5b521659146e91ab9f74/awsconnect-1.0.3.tar.gz#sha256=8d8046928114ddba4a0bd8aca6fb6650763ba15c62edf6146647c391e1f87c88" >awsconnect-1.0.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/80/24/b34148d97eca5a6bd11848cec1ca3f54c729fb464109b2fbe890367a644b/awsconnect-1.0.4-py3-none-any.whl#sha256=40bbdaee6523c6081ec163b61b13e5af44ce8010b62a08a4726ebc0ca3fe9624" >awsconnect-1.0.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/93/9f/4ab8cb381d28df5bc90aeca3e8801d8f9762a912c8b81423c377059e3436/awsconnect-1.0.4.tar.gz#sha256=b472793832e339c755bc8741a4cf1f778f94adfa1648f38f718941fcc4af11c6" >awsconnect-1.0.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/d6/33/1f78df5c8937ff2bd2ead4b92d5ac2aa3daae55bdb38fae19ee7ba14b00d/awsconnect-1.0.5-py3-none-any.whl#sha256=85dc90bc30964df2490c4e563b6132f715ce99b69a8ed6766ad0d5814bcdadad" >awsconnect-1.0.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/07/2c/ffda14556a6b4985ff2e18994129ce0e304656df7606aff5309b08d39be3/awsconnect-1.0.5.tar.gz#sha256=d6aa919cf7b5ec90e62d610bf9fff6a80a4959fc561b05fbe2f673aae16937e6" >awsconnect-1.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/b4/46/9352449dd79a0cfedae3804483c6b83a3d9a4ac28f2fa59711b90b49002e/awsconnect-1.0.6-py3-none-any.whl#sha256=e01a478760a1bd0835febe7e864785c2de08b390d6688fa3397173c9cd8c6698" >awsconnect-1.0.6-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e9/1e/f9055124eebeed3d2700190ac43e0c9ebf4c9a1787cc7942d00e139c1cf4/awsconnect-1.0.6.tar.gz#sha256=4ed7b434a079cec5e026ca62c02ba0bd84162840eac56fe05a7e5daaef7f47fb" >awsconnect-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/ce/af38d80041ee8c120f1ca87f7dfe4376188dcca02030c6f3e8572680a412/awsconnect-1.2.8-py3-none-any.whl#sha256=872ec137a3f313d5303dd6bda2c60c42141a1c49dc81b777566d0f4935a1e90f" data-requires-python="&gt;=3.6" >awsconnect-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/c6/b2b6241fb30d98b5859b249facec80c053c620d246e2a84c1b0f031411ce/awsconnect-1.2.8.tar.gz#sha256=3c9aff98f2f99e89d952932d9378a94b49f54390d69b433f0fe77a62996be2b5" data-requires-python="&gt;=3.6" >awsconnect-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/22/63a0449976b9f6f1828f6dc22577f5c735da1a871027e9218cd2eadc2e66/awsconnect-1.3.0-py3-none-any.whl#sha256=24518e2295ed435d8f0191b6611d2957d86949223654339fc47b603b210f723d" data-requires-python="&gt;=3.6" >awsconnect-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/1e/56439b236b4e4c38f76462cc8d81e2c8a5eba0453e7f8db30a8563f7c5e1/awsconnect-1.3.0.tar.gz#sha256=be8e7d3047cbce5933a9822a68b4cf6043a67d998f2b33e4afe5e36c5d753c7a" data-requires-python="&gt;=3.6" >awsconnect-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/ea/921f08f47342935286f538ad8ac585e45b79162c20e889e8fbdea7873aee/awsconnect-1.3.1-py3-none-any.whl#sha256=74841b576486b5841401b7eea4343c60f4ead69f7d6ee3ed6efb4152e5a5deb2" data-requires-python="&gt;=3.6" >awsconnect-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/c4/9eadc14a22c73ef5d1207d72270a3fb5ca0fc79650fde5736acc499b913e/awsconnect-1.3.1.tar.gz#sha256=71e941d42a59a86709d7a20ee61bea3a64c572621752bd1e8ea1c2ce24d31fe0" data-requires-python="&gt;=3.6" >awsconnect-1.3.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14159741-->
+<!--SERIAL 16684289-->

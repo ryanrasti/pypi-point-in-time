@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pydantic-aioredis</title>
   </head>
   <body>
@@ -50,6 +50,10 @@
     <a href="https://files.pythonhosted.org/packages/23/99/29c8b213cf3093755e6682a12768200d4df14076b48a30118c24d00ca579/pydantic_aioredis-1.1.1.tar.gz#sha256=d7a0075ef112722833266df5d6eb26fcd3bd1b1e8a58b3b3ab57e2f1fdfc123c" data-requires-python="&gt;=3.7,&lt;4.0" >pydantic_aioredis-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/78/c90a81ec72b4b3d92888c036a7a767851e94566402a8a769c7755adb1f4e/pydantic_aioredis-1.2.0-py3-none-any.whl#sha256=1e31c15799699afbd4504e71d6884305a682dabaa62db5e6c6be38bcc9c31d55" data-requires-python="&gt;=3.7,&lt;4.0" data-yanked="Bugs in handling of complex types" >pydantic_aioredis-1.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/99/0c2664797434ec508adfad1f7417430b55cda2b7c008f24f39e189c01e04/pydantic_aioredis-1.2.0.tar.gz#sha256=bee1f8651933f97b4350a094802799544f320a25f74cb3998250de271e5ae7d5" data-requires-python="&gt;=3.7,&lt;4.0" data-yanked="Bugs in handling of complex types" >pydantic_aioredis-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/bf/f8f22b0245a29be21a02e84d28ab7e8fc187629dad51ce62f6dca44c596d/pydantic_aioredis-1.2.1-py3-none-any.whl#sha256=598dda8cab5e6f716380769acfffc1475b7f8605bdf891f45084bdcfcd360f7e" data-requires-python="&gt;=3.7,&lt;4.0" >pydantic_aioredis-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/14/58094d8b95c9ba674a2e34e4b740a64094d262c23d10e44ae1606f6dc953/pydantic_aioredis-1.2.1.tar.gz#sha256=2214c14d658759c04edc6e13fc254e2cbf4990e7080d608322fc0aafd5aa99b9" data-requires-python="&gt;=3.7,&lt;4.0" >pydantic_aioredis-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/13/9409e9d0b84654c0f7a421353f4fde738d8f6bed787a8b7c43881b44cf8a/pydantic_aioredis-1.2.2-py3-none-any.whl#sha256=dc0972150035c2a78faf4a46d78b78d9ac2aea560dc7a8e57692a5c3c05e1b60" data-requires-python="&gt;=3.7,&lt;4.0" >pydantic_aioredis-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/72/9a87e95f7bd832d6db5cf90d0d4ee79af2fcce76a1560c0bf7d57e64247a/pydantic_aioredis-1.2.2.tar.gz#sha256=b4d10bd1ad410a51d499fc93a12e3a26e4e1bab2b086286367967778fd92b5c1" data-requires-python="&gt;=3.7,&lt;4.0" >pydantic_aioredis-1.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16251179-->
+<!--SERIAL 16799469-->

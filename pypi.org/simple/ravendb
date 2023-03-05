@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ravendb</title>
   </head>
   <body>
@@ -16,6 +16,10 @@
     <a href="https://files.pythonhosted.org/packages/15/24/d967c860a7e5852cd286579f8bbafc71262f13c9c65830fbcdba0b82408d/ravendb-5.2.0b3.tar.gz#sha256=a2bb8132299a3b459983d7671d9b8b03fd04fa346fc29fa712c87dc06ae7d54b" data-requires-python="~=3.7" >ravendb-5.2.0b3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ae/a1/248574edee98c717e57f15b2189b4da3d19b5630e1b48fc15b856cc360bd/ravendb-5.2.0-py3-none-any.whl#sha256=3c1af21b67dc1ee6ac00962eebc020fee84104bcfc4dac7f019330e4876e9b88" data-requires-python="~=3.7" >ravendb-5.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/03/1e2a3031bdcda5c5e72483574fdfe3ed8c94e0dc8a29d4d0f589955a5218/ravendb-5.2.0.tar.gz#sha256=2db04e669fb3e61ec03b81be9ef1abd366aa244f95b086cebd72176c848403dc" data-requires-python="~=3.7" >ravendb-5.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/3b/7858b6f7565f0d69494e39aad050b18c827c476e04737467a208ec2c59a2/ravendb-5.2.1-py3-none-any.whl#sha256=fac9d425235b2b96496bb9324b2bc9bdc8432dc494552f3e2f287113c50ae0f3" data-requires-python="~=3.7" >ravendb-5.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/e7/db0843e6c55b0ce16f8ba6efbbb32cfb4cf6d37334a1800f221200910b79/ravendb-5.2.1.tar.gz#sha256=a74c9868fd63c77156b0d83746d40275feeeeb12db4ba3498811014b5a4d1a94" data-requires-python="~=3.7" >ravendb-5.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/4c/8f7b93d751788c4305864e9181eef7584ca57184fd220e035fc2ff7e07ba/ravendb-5.2.2-py3-none-any.whl#sha256=5a3acd50903b4f5c8e629bbbf0fdd23767339d4b01deafd5638adc6c4b0008d2" data-requires-python="~=3.7" >ravendb-5.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/a9/ad60f52756a9016be38a160d08538ede879308e27148768e0fc21a4d5eb8/ravendb-5.2.2.tar.gz#sha256=0b5fd7b2f232402db982f2b26a181e0dc093fbbdf80817837500c78a5b1d33a6" data-requires-python="~=3.7" >ravendb-5.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15626869-->
+<!--SERIAL 17144996-->

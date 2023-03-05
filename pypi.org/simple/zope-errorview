@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-errorview</title>
   </head>
   <body>
@@ -15,6 +15,8 @@
     <a href="https://files.pythonhosted.org/packages/da/56/0a8bb0e2e42ce900d6a71029884b02c1e5c4d85590f85f9ab2a228197510/zope.errorview-1.1.tar.gz#sha256=dd77fb84bfe1956ed7e7e00ba98e338efa3dd5354b219d37e1cc9944fb3087f4" >zope.errorview-1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6a/3f/e61d0c39d122637dfe59f3781523b200caca9735d176fcd1e483075f8568/zope.errorview-1.2.0-py2.py3-none-any.whl#sha256=79b6e2b65d58a93698840e1ae169d325051c5866fb8eef8e28f2261b06e64043" >zope.errorview-1.2.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/60/f9f6be27a253cc99503e2c048c35c94cfc1f4c02fb11b44d5a685e4cb10c/zope.errorview-1.2.0.tar.gz#sha256=e1423f00eb16046bda303073e408a9e66959e2eabc6cf6349886a7054d85b325" >zope.errorview-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/9d/934b2b92c0f6b29fc9c4b2c7a398b89506f375c196e8682d499eebfccd84/zope.errorview-2.0-py3-none-any.whl#sha256=dd6374e0f89a3c7022791723e0224562054d1808a9e0d4af40cf6fa0ff4ff33d" data-requires-python="&gt;=3.7" >zope.errorview-2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/fa/e76c2bdf201b74ec236eef03b2c68c7ebe9042f75672ce8e0ee819d44721/zope.errorview-2.0.tar.gz#sha256=c7815c9903e62f6d48d635acc4f100667d822942a0b02e1fff21dff07649814c" data-requires-python="&gt;=3.7" >zope.errorview-2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 3490596-->
+<!--SERIAL 16765180-->

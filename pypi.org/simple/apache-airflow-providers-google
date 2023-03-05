@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apache-airflow-providers-google</title>
   </head>
   <body>
@@ -134,6 +134,18 @@
     <a href="https://files.pythonhosted.org/packages/8d/4c/0866aa96d2d5636a4314b795cc6533a4a66f5aeb1d7947535200db4cc7ba/apache_airflow_providers_google-8.7.0-py3-none-any.whl#sha256=ad44965d4a2361414e134fed20f12438458d3b27c33279c57f58b1cd1836475c" data-requires-python="~=3.7" >apache_airflow_providers_google-8.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/23/18/42605221900da6acd0e5703db2c8865b22a9c8a4875d94069990530f4166/apache-airflow-providers-google-8.8.0rc1.tar.gz#sha256=06a4b8aab569cf55b55de2a991e5a3efd66f7f629ecae4e8ad88a3029d100d7a" data-requires-python="~=3.7" >apache-airflow-providers-google-8.8.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/59/c196614b9b5445c7aee10aec4e3bbf792c58dfd1d1b64586a2f3e542d003/apache_airflow_providers_google-8.8.0rc1-py3-none-any.whl#sha256=bd56b59b78006ba1508c6d299100b213de70abec33db4fdc4612c0521fc18a59" data-requires-python="~=3.7" >apache_airflow_providers_google-8.8.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/04/febb88d6357a526ede11327e74a8b4ff26756613c4770e16046c9a6b7913/apache-airflow-providers-google-8.8.0.tar.gz#sha256=0bcf211609963b1ebc7a168f0477da5d9ac431063d2554b7e0c4efefef2667e0" data-requires-python="~=3.7" >apache-airflow-providers-google-8.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/33/17fd30c3a7986a2885a70f278431f2adb6fec3b5545c20f48933935d0d54/apache_airflow_providers_google-8.8.0-py3-none-any.whl#sha256=764dbd9cb9ad015f57b8aa68ee2920291c3e920ee77ece5d4f9fe855e277efcf" data-requires-python="~=3.7" >apache_airflow_providers_google-8.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/76/7788fd74c3aace2a3e80fc63c780419d5b0d9f9d9d77e16f5ff56c3dde11/apache-airflow-providers-google-8.9.0rc1.tar.gz#sha256=6149912e25429b4202637222d271f29c86b74281e595620308fbb5ab0ed5bcd9" data-requires-python="~=3.7" >apache-airflow-providers-google-8.9.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/55/f60ae2e167ac50a440c6d9a23269f172cfca3ce4662c057ca8d7580eb1e6/apache_airflow_providers_google-8.9.0rc1-py3-none-any.whl#sha256=da702de3f0c89bb959e639fb64cb87507432841dbdc6132380271f737a575232" data-requires-python="~=3.7" >apache_airflow_providers_google-8.9.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/1f/2269f35765f4a89941f017a54822c771c3516e5ae0213e1d96ec0f3a3af5/apache-airflow-providers-google-8.9.0.tar.gz#sha256=8fd5f8a9c2a5880f337f3f5cc26f9e29e70c52da109659ab57472a7e99982903" data-requires-python="~=3.7" >apache-airflow-providers-google-8.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/24/c9ee4e96679d2c1132e3e4de9fca912866ff0bc583869ff5786fc29523d4/apache_airflow_providers_google-8.9.0-py3-none-any.whl#sha256=2a8bafdcea603e5d4a7e3e5a2dfd8cbeb3e042c4fa7e5d7c410f095a9c612df1" data-requires-python="~=3.7" >apache_airflow_providers_google-8.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/3b/b2ad1f7a777e3f197426cc728fea16112ee5f42fb3eb6178030de5dae963/apache-airflow-providers-google-8.10.0rc1.tar.gz#sha256=2c9799acddb6083489482e9666ce8b4d42af21e1009581c92aa6937f822e535f" data-requires-python="~=3.7" >apache-airflow-providers-google-8.10.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/33/fafeacb08a8cbd3149cd75f4468149a4baa44202c13e9dce769bacaefd44/apache_airflow_providers_google-8.10.0rc1-py3-none-any.whl#sha256=2e3cc1a250c8a094cb7db9f0dff06955bddd1b3419029a58d59e30b75dba0aa6" data-requires-python="~=3.7" >apache_airflow_providers_google-8.10.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/fd/17237521b8f2d281f6ca469d3bcccefcd337df349c5a3e9bd5feb609c336/apache-airflow-providers-google-8.10.0.tar.gz#sha256=f0764dd59dcbac038e2b0042acea1c6f267d2e75801e079b7b2c9ac0f4698559" data-requires-python="~=3.7" >apache-airflow-providers-google-8.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/81/e5e1d0b520956c9516990f558e04694e9a829c590ad9ec5169f811e019b3/apache_airflow_providers_google-8.10.0-py3-none-any.whl#sha256=83a1ed3c191eb1556a47a1c6aa07b3dd5b594273ec3a024fdfd7f852322acd2d" data-requires-python="~=3.7" >apache_airflow_providers_google-8.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/d7/735d985726eb7109c028fb1d44958663db915d27bcbf252aab1d85297ef0/apache-airflow-providers-google-8.11.0rc1.tar.gz#sha256=7dacc0faa823b23ff976259139f6936d2622ba8dae9b004037b2c7f7ad9928c8" data-requires-python="~=3.7" >apache-airflow-providers-google-8.11.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/87/f19c124eef9765a971a89b764a79751ec78b50b0643b6e9eff89f008599b/apache_airflow_providers_google-8.11.0rc1-py3-none-any.whl#sha256=b69ee495ef7acacc5833cab1394bc2f2c3080d8e2cab7a54beff4f6d10c7a85b" data-requires-python="~=3.7" >apache_airflow_providers_google-8.11.0rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16428217-->
+<!--SERIAL 17144501-->

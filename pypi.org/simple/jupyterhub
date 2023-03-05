@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jupyterhub</title>
   </head>
   <body>
@@ -148,6 +148,10 @@
     <a href="https://files.pythonhosted.org/packages/58/6d/9886b0a9e520fc7a2f61094588850dee934b2b3fed00c8c14faa8b89d7ad/jupyterhub-3.0.0.tar.gz#sha256=05cdfebd800cf3e55566fb5b61110c5f64fed8ca3c56ef0142290baffbc7fb69" data-requires-python="&gt;=3.7" >jupyterhub-3.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/93/7c7cf1bedb5ba58e13c4a7d9279c850ec7ba065f23fdc43c9b4b27a8141f/jupyterhub-3.1.0-py3-none-any.whl#sha256=da510020ae3240f7902f9539aea047b1eb5ecc7235e39c5b7251b25c5a5fc2b7" data-requires-python="&gt;=3.7" >jupyterhub-3.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/60/fac0341b28f6e3e2ed61f1808af34ed5d67f4fd094b2ab18f1c844927582/jupyterhub-3.1.0.tar.gz#sha256=eaf8735c32efd05c00aecc860b953f731af559d6e046b621b1802f850475626f" data-requires-python="&gt;=3.7" >jupyterhub-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/4b/40ba8344b4b477df8c6cfbef5392e40d8c7dda11e6c72ac95790b5fd47e5/jupyterhub-3.1.1-py3-none-any.whl#sha256=a56cf362859ce36a57c78369901c5968b5e2421b5be999f50ac4f0cb86c4b563" data-requires-python="&gt;=3.7" >jupyterhub-3.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/68/e6f441f789fdd76948be52a5583fcd8102bbeee69978d99cae7d9dcad00f/jupyterhub-3.1.1.tar.gz#sha256=bfdbc55d7cd29ed2b2c84d2fc7943ad13efdfc4a77740519c5dad1079ff75953" data-requires-python="&gt;=3.7" >jupyterhub-3.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/e3/9f86cbb46eb2dcac8fbe18a81181996b87a6b3d98c27ebda8546619f1dac/jupyterhub-4.0.0b1-py3-none-any.whl#sha256=4d57d34b01ad1597e262bae4b70169a8743503ef00f222a7c06b469b296303d8" data-requires-python="&gt;=3.7" >jupyterhub-4.0.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/c4/3995bfe02b74d3270be1daf610faa0995128f10441231f2aa6d0c1296a95/jupyterhub-4.0.0b1.tar.gz#sha256=3b8c3a1636e30a437405077ede25f14bbc08506c49a06bc3e43a1169b64fdcd3" data-requires-python="&gt;=3.7" >jupyterhub-4.0.0b1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15995787-->
+<!--SERIAL 17109655-->

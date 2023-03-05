@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dbt-trino</title>
   </head>
   <body>
@@ -17,6 +17,8 @@
     <a href="https://files.pythonhosted.org/packages/e2/71/b52e1606d9d3cc0090cc65987cba7e047979616e9d0c79281ac6c6a727ca/dbt_trino-1.0.1-py3-none-any.whl#sha256=78f810828baaa09735be3d667fc098403990e559ecb050b2ae1fe467c37380ad" >dbt_trino-1.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/a3/a97130ec3b3894275b985fd59db16c2a980a39515fcedbd87d8a6baa42cc/dbt-trino-1.0.3.tar.gz#sha256=2261cbf0a8907ea24570e7dff4aa3ad889f367bc421d8be41b13b74c0ac80827" >dbt-trino-1.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/e1/95581078e0dcbc93f071d6110becaac87dae09eed434a32139661b7d6b4f/dbt_trino-1.0.3-py3-none-any.whl#sha256=6d5a1552a1672a4b8eaf3ec15b4c7210b8ecad25ceb32372e60282c65f35fb29" >dbt_trino-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/c3/a191f394ad9388217e9486931a9efcbe1ef62fe5effca040cd019085d49b/dbt-trino-1.0.4.tar.gz#sha256=133901bbc541e134647332d2052c331944435470c27b8b4818f906191cedc871" >dbt-trino-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/83/31c85ed1b3c41da6b75731f8047d9f6309813831b8ea368c4a90cdeaafde/dbt_trino-1.0.4-py3-none-any.whl#sha256=f4962a882f401e107244d8332d418e4f7a130e93ff426d605d83b6cb75f90a30" >dbt_trino-1.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/83/a7490b2ec73e173949cad949ce2decb610fb93157bddc304b2da8b34bbdc/dbt-trino-1.1.0.tar.gz#sha256=df3efd3027d1e190497a6ccbe00deddef42dfe9844d5eca937afec7ba27ffa9c" >dbt-trino-1.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/e8/ca2aa32b811993e8588be130871f7f553dd1ad70f4ff6f59fac993259ead/dbt_trino-1.1.0-py3-none-any.whl#sha256=f41439cc4b481b8065f24c0c2977dc9d30d2bb8efe2c2efff4cab3da10197c76" >dbt_trino-1.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/31/b244aaea0f9cf51cd82d2124e18ef5bb063508cf0aa2d4c34c0b99e40f1b/dbt-trino-1.1.1.tar.gz#sha256=4fc6101c7ea2bc627fe41fc5373345718f29bc9173a5ec03e51311e4ae20e516" >dbt-trino-1.1.1.tar.gz</a><br />
@@ -35,6 +37,10 @@
     <a href="https://files.pythonhosted.org/packages/43/af/4266918cee25412bae2723c701ae980cc60bd29b1d2f084e1206d85f75aa/dbt_trino-1.3.1-py3-none-any.whl#sha256=cb81ead2a606d2c7a5b2d7d6d6edc4182e1c6c6dd6091a26d3570a430b765399" data-requires-python="&gt;=3.7" >dbt_trino-1.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/3e/dc6affffdd140820b56ed72677d9ad5e10f01284c31782d45f5f2ad3ede3/dbt-trino-1.3.2.tar.gz#sha256=7c67b947cdd46a2792fc16b0d4d94f9f93ba058345fa921c39ebfda6d535ef91" data-requires-python="&gt;=3.7" >dbt-trino-1.3.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/1f/2ba23b64c267b3004cdf281cc5b1746b28ebb42674b9360a6b336a43aafc/dbt_trino-1.3.2-py3-none-any.whl#sha256=47d9aa1d7fa0d75eb137266b34fd5066d3d22833240b098712f2e666d86bbfd2" data-requires-python="&gt;=3.7" >dbt_trino-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/fb/57792a5990ae8d949a941001f94dd0e4a066015a54920773c2e5f1ec2efd/dbt-trino-1.4.0.tar.gz#sha256=88f92952048c04e93e88987990104266d5e653ef9b2b8c04931814c28ea15d86" data-requires-python="&gt;=3.7" >dbt-trino-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/66/6811d01bd85c798e4a9d18d6706359b7fc21393aaed3e795eb17aededea2/dbt_trino-1.4.0-py3-none-any.whl#sha256=cf6ee739297008fbc3940e7efe16c15aec17f98c3eb5ed5fbaac0ef29ffcae3a" data-requires-python="&gt;=3.7" >dbt_trino-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/2a/5e797ed5a271ad0ff2d422a176a882482c30e22004d4dcdf7a002024e759/dbt-trino-1.4.1.tar.gz#sha256=f629520a49b295c275f6c7c300d1e6b256cb4862420e0c0884543897c746fc03" data-requires-python="&gt;=3.7" >dbt-trino-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/8a/f288472312aa1e19f92252d5f55a063697b6fbeaac4770a837ff668ccbcb/dbt_trino-1.4.1-py3-none-any.whl#sha256=af38bc48dc026927654bd8b1eecb7fe37b3b64abab66c9b3e4a3c3b0d441ac29" data-requires-python="&gt;=3.7" >dbt_trino-1.4.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16198652-->
+<!--SERIAL 17113505-->

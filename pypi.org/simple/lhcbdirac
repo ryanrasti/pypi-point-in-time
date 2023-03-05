@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lhcbdirac</title>
   </head>
   <body>
@@ -117,6 +117,18 @@
     <a href="https://files.pythonhosted.org/packages/5d/d7/7770de800fa4746c9212718aa4d71bc42142ee0f3f177742a2b62e10b875/LHCbDIRAC-11.0.0a12.tar.gz#sha256=f9448e8c23312f694c1c61cb317678b18359bd7401a66d11e02db477c1f5c08d" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0a12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/19/e23609de50faa0f8ff774d49a2e1451fdff1f281f3fa7522c22bec124798/LHCbDIRAC-11.0.0a13-py3-none-any.whl#sha256=ecedc21cb9e0005e066600f0d3b361d9025e569d20cf9f3bfd766135c1df906b" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0a13-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/d9/16e7d62c7acf6489ca549f0fc31dbbba70ad9ff4fd7f61d5bb0a154549ac/LHCbDIRAC-11.0.0a13.tar.gz#sha256=f16358d45c727868faeb69bf081c5e0e1d9869a268a4d8e65c33c0ff1d38fd3f" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0a13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/76/3f05f9e7bcc87dd1ef4b978dea480cfe490039fc1797d1bfa71dc32672f1/LHCbDIRAC-11.0.0a14-py3-none-any.whl#sha256=50a604e987860181423dfd1b6cb9455513a8513cf95cd6ba2be2a9c68e5f82f8" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0a14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/bf/6e36d0c97c078b39ef5f555d62fecd49b2c141401e6be5b47c6a9336eff9/LHCbDIRAC-11.0.0a14.tar.gz#sha256=1ce6714b69643ff92652acfa514d680774f35247b826a7f25da99990514adaa2" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0a14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/7a/fb5ec4d4fac0f94219cd53ef1c8ab08a4faa915e8003acdf106ab8c9ed60/LHCbDIRAC-11.0.0-py3-none-any.whl#sha256=e0bac14c18a8883c23d2f90b8fbbdf5d2289d73aac31c297c680d7df34b9f52e" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/f1/4c76adaacb42b5bc04df4200da09d9b86ec35f31b308db64b23692733133/LHCbDIRAC-11.0.0.tar.gz#sha256=661ab4ac0e17e230a191f90112b2bb8cff4f95ce4c5abc0ce0852f0e7f381c82" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/53/ee9d4a7aa1f59af016fa908e25dfa88c029f1e9428e8d887eaf030a29b89/LHCbDIRAC-11.0.1-py3-none-any.whl#sha256=70c9f9352fb7bc62b7aa33273927e1f7e5d98635e4c3629100dd592c8b4d9e77" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/99/3634a36bfbecc926c1e0e75a3ea8851e4452958403fc68fb9cb01d4d91c4/LHCbDIRAC-11.0.1.tar.gz#sha256=8700e2604d6c58a8c4046f4fd4b66b858950d209dcb132c35ddbf0946dd1a65b" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/a7/37dd9e6e7b10182827f6107a0cc367665e620063b8be8532a3df1363eb70/LHCbDIRAC-11.0.2-py3-none-any.whl#sha256=24404456a536d31a24cd8e288bcc5a94e5e4cd7b4df591be3fd53f5f448d9ab3" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/96/a377acdb9c0051c3f2b3910376e7c413fe5f6cf8bb7f859cf39584b5561f/LHCbDIRAC-11.0.2.tar.gz#sha256=b469348ba6020daf4bac73146a9e02caee7abf261a642d3b669602d9591a106e" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/2e/9b44a59f56ba0abe4310cdc38d88055e674043fa84ef6f65399895ba9b69/LHCbDIRAC-11.0.3-py3-none-any.whl#sha256=bfeb02c7ebc8bb0bbcc08d034bf31c7aaac1bc560848321d6eb950931bf66e70" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/c5/f47a0195cee0ac7cba95df41c785e2a1b181746cee86f47f1619ffe95eb4/LHCbDIRAC-11.0.3.tar.gz#sha256=1fc5503991a155462db96d273633277cae84d54efe2a66d50257122ecabbb9d2" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/9e/d89dd722a8095317cfba0c2155be87dc8abea674fece6ca572a0b83d497e/LHCbDIRAC-11.0.4-py3-none-any.whl#sha256=ce73ccf44f5ec559012fa2de63d7789512ea161d205cd2326efcd6417d4cea36" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/e6/555f30c758c168b662ff2b063eda678b6a8ee70b847d5a11da4868408a7d/LHCbDIRAC-11.0.4.tar.gz#sha256=d6d45958aa07164fb1234cb4d73b8e95e5f9560f6220019d6343b9d55a2ce009" data-requires-python="&gt;=3.9" >LHCbDIRAC-11.0.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16363414-->
+<!--SERIAL 16959127-->

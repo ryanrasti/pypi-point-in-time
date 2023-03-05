@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kangas</title>
   </head>
   <body>
@@ -53,6 +53,17 @@
     <a href="https://files.pythonhosted.org/packages/eb/36/8d5e20100ff545b9bdfdfd0a8ddcf9d9e748975ccdca00bbddba2aa423c9/kangas-1.3.1-py3-none-any.whl#sha256=59efc4a0ff1a058ba926ae4393f86ee07448b93df9f711bed1e308e350272bc4" data-requires-python="&gt;=3.7" >kangas-1.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/45/1d/3b0877f055143bdc82ada34b9d777d172ac04758f2a31074d8bf733ccf42/kangas-1.3.2-py3-none-any.whl#sha256=d1378501e1a56ce0efe18b08f966019137b91fcfbe7b33427e8804388abc2b6c" data-requires-python="&gt;=3.7" >kangas-1.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/f4/5650a39a6563e368917d14d3dfd25e9c19f56588361efab0811e8ea4fd29/kangas-1.3.3-py3-none-any.whl#sha256=7751c79343ffe5f3a5812f4b672b382f2639ec6359c5c9ff8cb6b33c6d3d9d41" data-requires-python="&gt;=3.7" >kangas-1.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/f4/a6eca471a5505a5b596bbb6e4622e3cec7a203880a08684ca3c474502d7d/kangas-1.3.4-py3-none-any.whl#sha256=ea046e26c32f8c0d7fe86b19a8f34f2a6c08745e8afcd3fce3b97de73d6472e3" data-requires-python="&gt;=3.7" >kangas-1.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/e4/7515dfe479955a1539a86fcd3fd21e86570e2c408e8c680ad3828e3d697d/kangas-2.0.0a1-py3-none-any.whl#sha256=bc040396aa82d1a55d53f821ed8bacc01983de91c94602353cad0cb60fbf687a" data-requires-python="&gt;=3.7" >kangas-2.0.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/54/15f74767e7fe6e580974c806494a0c857f88322ff762e401e6a683f042c9/kangas-2.0.0a2-py3-none-any.whl#sha256=feadb0b8486e29565d3619e8b4151ab5e648813fb47e9878d5826e8734672013" data-requires-python="&gt;=3.7" >kangas-2.0.0a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/57/67e4a6bfbb7c7266a677a0887a9e74218dfab2ff0faed4d8858b7aa27c6e/kangas-2.0.0a3-py3-none-any.whl#sha256=c899c71fba11e53244d705c798b9eea6dc66b3da6665fcd0b752f6a4c3f97929" data-requires-python="&gt;=3.7" >kangas-2.0.0a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/89/f36b2f33e2b4e72ecdad370d9dc18d0092efb3e15a46ac2e08ce610383cf/kangas-2.0.0a4-py3-none-any.whl#sha256=846436fadc7f596b7fc63c42cb54764bce142c2d16a3ab21fc6be74767d269ec" data-requires-python="&gt;=3.7" >kangas-2.0.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/d9/ef216b18e5db2b7cc64a4b6e831bc4636b76c72bd656edb5862432a149a2/kangas-2.0.0a5-py3-none-any.whl#sha256=dcfb0e157109c21526aaebcf1bf46c1dd1a77f04644428d7b1e4635aa2b1393e" data-requires-python="&gt;=3.7" >kangas-2.0.0a5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/0b/0fd46337f4294a38d328289113f7808bc859343b13e4d43970b1e1989122/kangas-2.0.0b1-py3-none-any.whl#sha256=caa9d6eb7f67e3dcdf0ff8615389d04c9fb4b7abae55c64222bce2ffcb46d6b8" data-requires-python="&gt;=3.7" >kangas-2.0.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/bf/b93ff9d2430386fe6354f10869fcb0da2e288a7f067d5e1361fed64725c3/kangas-2.0.0b2-py3-none-any.whl#sha256=d60f71cb4eca164331ab59dd53293c2ac8f92329a1766f77f66d39832ad6fc43" data-requires-python="&gt;=3.7" >kangas-2.0.0b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/72/1fc5b89d29de744fcf2f4bac63079589628247a1c55750384bdb422b8e36/kangas-2.0.0b3-py3-none-any.whl#sha256=118d6e213af40bdad8282827f6a43b2fb368af69a79cde862bc477dee7a834cd" data-requires-python="&gt;=3.7" >kangas-2.0.0b3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/aa/b77051d9cc7cdfa66b1c2e7bd04d7856c14940d7ae4facc6f9e46ce81fb2/kangas-2.0.0b4-py3-none-any.whl#sha256=1d43da76ebed333d7fb302be965d8b8888b164febf7a705a26b6e533d342d8ca" data-requires-python="&gt;=3.7" >kangas-2.0.0b4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/a0/a3953a9e4af654024fd2e275b03bc6dbac50f6b570bc4d7756d62486f4d9/kangas-2.0.0b5-py3-none-any.whl#sha256=b1b70eb6c8ba845ae27ec620f93842d2cae425eb50987c1c0317e998e1cfad65" data-requires-python="&gt;=3.7" >kangas-2.0.0b5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16077771-->
+<!--SERIAL 17152913-->

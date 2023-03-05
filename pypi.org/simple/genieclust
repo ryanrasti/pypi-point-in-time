@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for genieclust</title>
   </head>
   <body>
@@ -143,6 +143,22 @@
     <a href="https://files.pythonhosted.org/packages/2c/e3/491b039e799eeb733a5ab3d189d58734f79c21c6d4e358f081f2a514b73f/genieclust-1.1.2-cp39-cp39-win32.whl#sha256=a0bb99e066eac0eab724e14dcac34a1cb7edc7b98ebf0ce88adc710c9a0b7808" >genieclust-1.1.2-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/f7/f3864cb53fa2fdcb1dc630e38d36eedd129352fdf88f2e545b8fd0de7b17/genieclust-1.1.2-cp39-cp39-win_amd64.whl#sha256=0466aa02a8445bc163cbcd2cbeb57206387f2e2b911b07ffdbf3e731899e67ae" >genieclust-1.1.2-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/59/8e2b65c45704862344a1881093f1d324fc458b6eb9602dfcdbae6e13fb8d/genieclust-1.1.2.tar.gz#sha256=0efba25cb34b0b2a31e2dc372b1098fb66474916f944929d21e104c8a6db0bfa" >genieclust-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/b5/42c10e652c0cb24e2a974fc50fee94923a376a69bfd9c88979393c7ed7d2/genieclust-1.1.3-cp310-cp310-macosx_10_9_x86_64.whl#sha256=57e99aa87ec8f05a999c426504326ff611dc3b566d99e357cff39646e3dec3bd" >genieclust-1.1.3-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/fb/8740fcaa6c2382fc44f3433c4337e6e1a162b5d2da1b850cab91d84ffbe2/genieclust-1.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0601188da49f878df73d63eb7618b704974119a9a0608fd4d6a1a2817bb5568d" >genieclust-1.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/8a/a6bf8c1ab7d9a2ef1a97bee9355033568c9924b429e80617679dcef9fb86/genieclust-1.1.3-cp310-cp310-win_amd64.whl#sha256=c775de664ef916c3f5705b7b983f02d1595f40cbec74d9e693e5980191a733b8" >genieclust-1.1.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/f1/53ff545d6548379483ebc4d53faf10ff758a455c658be0d1af2f93f0f049/genieclust-1.1.3-cp311-cp311-macosx_10_9_x86_64.whl#sha256=c1c97c2a5248724d50c6ce0fea44e57bfddd9c50eed44628ad6e195178977612" >genieclust-1.1.3-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/44/58a9a9d20d7b82ae081c2090ab6120976e509b2321a66117e3bbd0a56762/genieclust-1.1.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=45aeaddae8f0a5a71579255dde9a15a27399e95dc5db510638b564248d42f45a" >genieclust-1.1.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/d9/26792c24bf120ed9919ad20a2324e727fb4d6ed835927a9a5b1562ca6b20/genieclust-1.1.3-cp311-cp311-win_amd64.whl#sha256=ee481836e914269d466435c6988983357cabc0170eda090c8a5021baf4a0b4ec" >genieclust-1.1.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/38/be2d7494b1414fb812ce351cd721cfb4726ed60b594c64b36112617298e7/genieclust-1.1.3-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=6140fd7dc2811ec1d3a73d68c2bf4097a4a0ce11fee1fcec781fca52bb6aea3c" >genieclust-1.1.3-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/1e/f289397339e8a613f8d5a5ff0844d8ef7d1c898ce39319424bd6b9528c62/genieclust-1.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=878ee002fc76ca38baba044f47729328391ee6893010ef855503be3b077638ce" >genieclust-1.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/7e/3b13e82d35ec869387fd9c39a2dff03ffbe18f9e91170552319d778d6f36/genieclust-1.1.3-cp37-cp37m-win_amd64.whl#sha256=fab05409919083c7ce708074326cd9e49b73de82b423859585a096107166844e" >genieclust-1.1.3-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/75/58b2ed5f2c5328d118a18884295ba50d463fb6bcd80837f0d03b6ad914fc/genieclust-1.1.3-cp38-cp38-macosx_10_9_x86_64.whl#sha256=3d1d2d4ee1c3fefec61a187983b3cd18f0e1a23701722ce22092b52faf5e0bfe" >genieclust-1.1.3-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/b2/ef73393f45eb7962bcac2fdcd61c8229b577ece40b8e088a792c43696f82/genieclust-1.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b7d89717a791d9215ca53e80428068c67fc3057f9a79b8d5db5db8b4a962326c" >genieclust-1.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/08/8ce929fc650366982bff6dc176ed25dd0e8ecd0b7c2c850e96c009d7d992/genieclust-1.1.3-cp38-cp38-win_amd64.whl#sha256=0af50cb8b783483feafd157f6e356188769d8331931c0a93e3bc0c21464cdb46" >genieclust-1.1.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/cb/a777e65071d13fe6a172201e41991a59de2034732a65c4f1e648186010ed/genieclust-1.1.3-cp39-cp39-macosx_10_9_x86_64.whl#sha256=fd5674a9c791cb194adf2ee66e7a4312af266dce870b47ef80bcc626bb2a51e8" >genieclust-1.1.3-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/ca/c295ec7302c2622c84bf5d73795c27ed6347661f2a4865e616e39b801971/genieclust-1.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1897bae0b4190caa68d6256ded5dfa4d0ba932890dfe6dd32a22c6ddcb77105b" >genieclust-1.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/2a/4ddfde086500711f3481acb2059994b10c1b683ddfad57af21b0794cf78d/genieclust-1.1.3-cp39-cp39-win_amd64.whl#sha256=ebc3742bb143ecf8790268c666e52871d4e6abab57d83ec4138c8b7dd7569169" >genieclust-1.1.3-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/db/ba5c27ba2759a51fd92821a9e02f73ca6064367c8637dfc1fdce1e193476/genieclust-1.1.3.tar.gz#sha256=15d0feb174c9260e6afe3c04c68bbc39abe327c62ae01a75712acf24e4615b51" >genieclust-1.1.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15126291-->
+<!--SERIAL 16450694-->

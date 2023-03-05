@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hata</title>
   </head>
   <body>
@@ -304,6 +304,18 @@
     <a href="https://files.pythonhosted.org/packages/b7/e3/8b7bfa690517dbc661f995fc937dc9165f2a40be4c513369997e0e63a697/hata-1.3.16.tar.gz#sha256=1714a7db7a4273463c65d43d1cb6ed94924b9702ab95c23977b9c6cb0019e174" data-requires-python="&gt;=3.6" >hata-1.3.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/21/2abca369004e39be6e7f9b9fa67c0ea838808fbab0ffc4fe1f34d3c230bc/hata-1.3.17-py3-none-any.whl#sha256=b95899d9363348a255e91fd8817c7bd203643b0a8b02353e4fe509d9df219790" data-requires-python="&gt;=3.6" >hata-1.3.17-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/11/00/fc7a9ff700cbd2146e6404ce00a75d07252315beada5440b21e35c51633e/hata-1.3.17.tar.gz#sha256=b1602fe30da5cb8cf5428b0ad25ce615fc63abcc0a5a666f06e2f1c9b594e6dc" data-requires-python="&gt;=3.6" >hata-1.3.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/9b/ff41a78435d4ccf339dc0bdd757ee6769728bd7f9b9b736f6c821f9791c2/hata-1.3.18-py3-none-any.whl#sha256=b81a7de3f1d94ff54e2495a5d29bbc76acee5098081a134a55ec1521f57eb186" data-requires-python="&gt;=3.6" >hata-1.3.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/1b/08c44fcb8c9ba4e7914ee32a0e44cfa4170930b90e3376bea25fbb8c9b15/hata-1.3.18.tar.gz#sha256=43ebfb7b6760e3a8cba25bf076c24bb82ea76543c0b6a62ad17b2fafbaf89e72" data-requires-python="&gt;=3.6" >hata-1.3.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/34/b54b88241c8d6d820dcb4641eab0f1c19aabd8fcc69b1cf672baf73052d7/hata-1.3.19-py3-none-any.whl#sha256=4cca8f9edeebea9de6aa8dc2ed06dfd746ccb84304ea165665c4b0c237618823" data-requires-python="&gt;=3.6" >hata-1.3.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/87/3c7f4644f7338eed8b47e3b02985ccffc43b88eef93c0c8cdf03bb29e588/hata-1.3.19.tar.gz#sha256=69b8511f38dc0da54f5dad8acf1bbb3a3b3d9dfdc03a6d1972c447706904f4a9" data-requires-python="&gt;=3.6" >hata-1.3.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/b5/348bdf5bc7f226f83f28166a6ec114ec99e87db0476367bf84141fc766b4/hata-1.3.20-py3-none-any.whl#sha256=d32f35767317c0a7682f2cfcdc12027b1ec440dc371226e88f7c9b080baf055b" data-requires-python="&gt;=3.6" >hata-1.3.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/25/6454d0bd0e31ac4a34946547a4c3d013a70ca292c29c8f99026fcad511f4/hata-1.3.20.tar.gz#sha256=a25f704e0f34c3a72b23dfedbd62afce052cada3160c2a32536524f3bb42efa9" data-requires-python="&gt;=3.6" >hata-1.3.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/8c/443be86522fe4715b646474170e87c834486dffc65ad7753fbc154af1b51/hata-1.3.21-py3-none-any.whl#sha256=76561268560562ce5e601bbd7bc035a8af6e88a6271fefddc79b8e96f4ce46ee" data-requires-python="&gt;=3.6" >hata-1.3.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/2a/101ec8a972bc884fa235ad72db8f5bdb6dba7b95fe06d1bd90bb7bc4bdc2/hata-1.3.21.tar.gz#sha256=230c449f772a696922ecd9152b4b51f9b834728fd4a07f7d6b8ff2a6190ab112" data-requires-python="&gt;=3.6" >hata-1.3.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/d8/7b8c3c2e5c734d2626dd3a11dccad70a932cfa55548991ff040d446adb05/hata-1.3.22-py3-none-any.whl#sha256=e7da20571687d093dfa1d0206aea2e5531595b46d970097197bd0a9cf6cf6540" data-requires-python="&gt;=3.6" >hata-1.3.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/34/5192053f8d6a2542d618070bac0b2bfd1d06e62e8eba981d888dd7a354a1/hata-1.3.22.tar.gz#sha256=3b2f7a8dc8318ec507e7f3ceed1cbef10ec6982ecdc17a711c77a804f9ef82c7" data-requires-python="&gt;=3.6" >hata-1.3.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/93/252847cbb1dc2a874c6474dea2ee513d578504061330bdcb2cda7699132a/hata-1.3.23-py3-none-any.whl#sha256=d0bd39e64fe64ed758606731fa6974aea1af630b1cdae657dece7a556d79a472" data-requires-python="&gt;=3.6" >hata-1.3.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/f3/62130379d1448b1aa79a1874eade604e26e66a31e051357182391eac3f54/hata-1.3.23.tar.gz#sha256=05230e11de608dc467314935416694297710643db56f36b9e486a0523bc157c8" data-requires-python="&gt;=3.6" >hata-1.3.23.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16188079-->
+<!--SERIAL 17132749-->

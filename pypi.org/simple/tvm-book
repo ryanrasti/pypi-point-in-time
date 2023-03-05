@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tvm-book</title>
   </head>
   <body>
@@ -16,6 +16,18 @@
     <a href="https://files.pythonhosted.org/packages/11/4c/945c9f0bb6becf33ada375d2d08f0c4b45d5a1d30ffc528222064f5b9d07/tvm_book-0.0.5.tar.gz#sha256=f42e898ac4e74b32ad88d7d232384684868bb957f561a40b7a1d6e2d639e12e4" data-requires-python="&gt;=3.10" >tvm_book-0.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/67/99/3b9d083beb6df8f6f6ad6bb84b2238738e667f1521701e86688452b9e679/tvm_book-0.0.6-py3-none-any.whl#sha256=619f664a756874c94d6c2627bb1366d6084e73ec6f7821d90bee614c5e0e5eeb" data-requires-python="&gt;=3.8" >tvm_book-0.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/51/6b/a28d16892dc2d9f053262d4664323b8b1296ea744a293f799c6c858f107d/tvm_book-0.0.6.tar.gz#sha256=dc3ec5adef775b44f87e508a4ce4b1ea043a6e76fa99369996dcaee7a5052102" data-requires-python="&gt;=3.8" >tvm_book-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/f4/35f38f06b88152fbb8b8c08a665a71a2a44338d642b6b098d9f6bcb9a1be/tvm-book-0.0.7.tar.gz#sha256=390066c2ac620c9b0d81a917bcde1a2fdf210ae9b0532cf42443bd5336beb33b" data-requires-python="&gt;=3.10" >tvm-book-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/ed/86886a7c4a3c9374cea1040eb11a2f07719a41e3a07b243d4f1c49338a61/tvm_book-0.0.7-py3-none-any.whl#sha256=bd253344b921a3e53e83413e814392abb3c1678e018183883ebcff5d30c5dcd0" data-requires-python="&gt;=3.10" >tvm_book-0.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/1b/46394f978e92956050d239f36a4ae756d79694245b3e02395afb48013bc7/tvm-book-0.0.8.tar.gz#sha256=9644a0866b9307c9a6b5b97f60deb48413d72d4ec8b13798d0922c50faf70a9a" data-requires-python="&gt;=3.10" >tvm-book-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/db/30908aca1d569232efe403a415705e9ec41cda0bf874e27f539920aaf07d/tvm_book-0.0.8-py3-none-any.whl#sha256=f53684e4f20eb9092e9897560f57c2d671354a05caf06109c1dc6551990ffbb6" data-requires-python="&gt;=3.10" >tvm_book-0.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/05/a7906c9b1ebf3682a13b8d26037a924657c392a81d7377abdb8fcda1e533/tvm-book-0.0.9.tar.gz#sha256=d31bc41f02750347bfdce9d0e92db7d766f3209e534b7bb6be52e6003379708f" data-requires-python="&gt;=3.10" >tvm-book-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/69/ab392c0874afa7362bf323998047755366bcd6d0efe6f3faf8d037672e27/tvm_book-0.0.9-py3-none-any.whl#sha256=467caa0358ebd89ccd1598ea8ee8ae0597ebeb30dd34d20966bf3485e86d4fb2" data-requires-python="&gt;=3.10" >tvm_book-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/f7/0a09f16045f1d6dbc3d69e992a2d303093c7016c9d6df2e2380abe2aa3fc/tvm-book-0.0.10.tar.gz#sha256=9c49e495b583aca2e54b67a4ba2f5b885c1742f44a78e9a9b8f4643826b9a158" data-requires-python="&gt;=3.10" >tvm-book-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/3d/056a5952588dd1cc3412118c8ce7b07557ed9fbd9bf8b0ff397aa94087bf/tvm_book-0.0.10-py3-none-any.whl#sha256=b3c03bd744fd3bacac7e98695db307c328c3e16a94824adcddc437d2cb1378b7" data-requires-python="&gt;=3.10" >tvm_book-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/bd/cfdc4d18b3385ab1e7a7dda701d6944ab1f55e3495f08d2a584616d04a68/tvm-book-0.0.11.tar.gz#sha256=0cd69b9300307e5a843683b37003c4d6ffe5055792003a171bf3364928917ab1" data-requires-python="&gt;=3.10" >tvm-book-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/7f/0457de889fc66370896e7f67e23297c97b22235bcd56555aae613cc37b61/tvm_book-0.0.11-py3-none-any.whl#sha256=c03e0d902f9421d408cca11dae2df05330e454a5541446413ff369180204c505" data-requires-python="&gt;=3.10" >tvm_book-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/db/1ebe6552aedb0654cb60da69451433f31101802935b4fbc6546454a89b24/tvm-book-0.0.12.tar.gz#sha256=19daf0248ec597ca5537103278f7ee6c3b81a709148ea43af7dd559ed4d9e8e7" data-requires-python="&gt;=3.10" >tvm-book-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/ad/0a563d703cc9884332f73b0d4713f5bfe58695add143b4ea35ebdf2249c2/tvm_book-0.0.12-py3-none-any.whl#sha256=d367d6a40f28ca6e510e0b1bd84cec60a5eb1d4d4a3bcfccf1c452605ee27208" data-requires-python="&gt;=3.10" >tvm_book-0.0.12-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15796254-->
+<!--SERIAL 17108403-->

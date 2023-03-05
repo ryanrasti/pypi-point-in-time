@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for devo-sdk</title>
   </head>
   <body>
@@ -94,6 +94,8 @@
     <a href="https://files.pythonhosted.org/packages/b1/2c/3a4b8e45cc394d1275f147470579108eeebe1a0b1241fa2d418af8444ab2/devo_sdk-3.6.3-2-py2.py3-none-any.whl#sha256=0adc856bb1dc9f921a9ce76040067e6d169c3c36db94c67ba3a51a431fff023f" >devo_sdk-3.6.3-2-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/a3/3735ecb155d4bab11ce56c6f22472ffdc1bb1be22e548180ccba49504b3f/devo-sdk-3.6.4.tar.gz#sha256=a82836e45d6e84d3fffa55f64b61ecab52c6a8470752378e9615bbccadbe3cbf" >devo-sdk-3.6.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/59/3b/3fec597c7cb6e177057d9e1c91a30d2de65c688b62e72cb0b22874ba5d27/devo_sdk-3.6.4-py2.py3-none-any.whl#sha256=35280a512185431476ff247988c871d06b415d3ffe4e030540eff6adda22b360" >devo_sdk-3.6.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/d7/41fd7b0a4ab8a4cfe5385c91aee3530b538cdc2503379f5e9fc1f7910eb7/devo-sdk-3.6.7.tar.gz#sha256=65ad1c239ea64d4aa628508dce93d5247c9d06a5f872d81792d08ffc6ac8db2b" >devo-sdk-3.6.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/2a/295cb59f110e27182f781c07c9d35d744b14ee3fb63df370b240425fda1d/devo_sdk-3.6.7-py2.py3-none-any.whl#sha256=47b6cb7d04ad3e4939cd945345acc36036289f872ecae76bac412c8722a80a00" >devo_sdk-3.6.7-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/4a/7304e16b25aebae23c92680d03f6a11ee7ea53cd4d7752c2f506c0c7d903/devo-sdk-4.0.0.tar.gz#sha256=107453061bf3b971e02bf6274995a663bfaca24e0626b1dc52302b2f6229a95b" >devo-sdk-4.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/00/e785baaec9661a5d5a2efa46abeaba389bebfcb13805387b4becacfdb704/devo_sdk-4.0.0-py2.py3-none-any.whl#sha256=a003657f0070d06dba2b90fc2fac5fa6222c8a2923c3c6a3c290e3c85df90132" >devo_sdk-4.0.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/bc/d98e91f9ee7ed9ae358b06710d9a30a3f6ba6667a8e1913ab64dcc26f09d/devo-sdk-4.0.1.tar.gz#sha256=8e38c6a2f52f5e8ff9b6da13a747583bc7daeaa264a84864229fa1153d14d9c9" >devo-sdk-4.0.1.tar.gz</a><br />
@@ -104,6 +106,12 @@
     <a href="https://files.pythonhosted.org/packages/ff/6b/b48ee0cd2e9f96e8b1a1c49bb5cb015d3e4df264b4de0a48ad9975d1526e/devo_sdk-4.0.3-py2.py3-none-any.whl#sha256=6bf7e5184107c3b5821f8b58effc6a08b897b87681223422230b75df0c32b87f" >devo_sdk-4.0.3-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/ed/387c2f38445877b41b1de08b300139cc8b612b0ccde62e5ad53de06bf340/devo-sdk-5.0.2.tar.gz#sha256=5d64f1619e63f3d9f3de344fe8d256bfe3978bf05517329b75d09e60fafee31f" >devo-sdk-5.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/53/7a/089ae413548ba710d221b6bbd88ccd1d0f4c88b6d969e201cc30e46a3c20/devo_sdk-5.0.2-py2.py3-none-any.whl#sha256=8535697a890daf0404ff16bb71992eed313b361e296a0e2e20e8e9dfddf413a6" >devo_sdk-5.0.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/71/d78f1c4d4737044801d63e8382c509530539619b0c20155210ae6a7e0cb4/devo-sdk-5.0.4.tar.gz#sha256=0fe31e519969017c4f825ceab5a475776a1342b2c506faddf5b759caaa6bc932" >devo-sdk-5.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/69/e85997a7744b90b951b78aac403251e5dd69751d329c36d8a35bc697daef/devo_sdk-5.0.4-py2.py3-none-any.whl#sha256=a4be600c961eec6dc988834d5152b79290404c40a40a5ed97c93978c0867400f" >devo_sdk-5.0.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/56/032c8f4345c286a8dc585a84ef3964c3e207f36907e4f6df0fbf8a5581be/devo-sdk-5.0.5.tar.gz#sha256=d4223e8558854c0567db86942b23c5eba5c37aa2ce2f23b7ab556630ba339aeb" >devo-sdk-5.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/42/87003f76a364e997fd7cdb70efc2cf7d81811b0dfac9758dfbebe142381c/devo_sdk-5.0.5-py2.py3-none-any.whl#sha256=6d4d2d6306cd7b67b7f31381ad3b636ca75e3fc593b4257f6d14c679e03e7dfa" >devo_sdk-5.0.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/e6/bbeb2f497b34b84d3d9d3999f727c5ff3cc70b6ee748b6c156afb6bf7dd3/devo-sdk-5.0.6.tar.gz#sha256=f8fb02f86a77f983ff00add46ea893943cd88aa2c21f1cfbfc4c495e7ffb3872" >devo-sdk-5.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/de/8aa262468d07d5f89cd2d88335c657084fc70e740202200da712222562aa/devo_sdk-5.0.6-py2.py3-none-any.whl#sha256=85ee36d24f6c3c5aad2f91c3ea617a3ae31f1a86ad9cb4ddb0aa9ca9140e14ec" >devo_sdk-5.0.6-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16302584-->
+<!--SERIAL 16963113-->

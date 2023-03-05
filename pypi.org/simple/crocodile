@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for crocodile</title>
   </head>
   <body>
     <h1>Links for crocodile</h1>
+    <a href="https://files.pythonhosted.org/packages/3c/54/f107311299454ce27f05eb3f083d627d37fc2a7abf746ce7bae413cb2131/crocodile-1.0-py3-none-any.whl#sha256=ae21cffcdc508e80148517d69ed8c26d5288ea2a3e64b9d3072343d155097e69" data-requires-python="&gt;=3.6" >crocodile-1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/cf/560197896dd41bb09763c79ce750f5673f0ab81ee9ea596eefcdbc74b0ec/crocodile-1.0.tar.gz#sha256=db598335a684699dbd4be30d5086fbda90c65b7bf56f406eb562670d60815589" data-requires-python="&gt;=3.6" >crocodile-1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/5c/e02ad917d8b503f2bd4c9fe81bec09f7062545e31f5664f2bb39de722c6c/crocodile-1.9.0-py3-none-any.whl#sha256=1b9499b185c015c07ca9d981e5255eda70864ac28392a43dfb0b236376393240" >crocodile-1.9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/72/de/fdf7cd596e06a04cedec252d44802348924a49ddad076a9b09da1effe5d8/crocodile-1.9.0.tar.gz#sha256=81a91f1554d24d1b728c1a3cac3afea32e52e44e172073dc8fef11ca4b2055dc" >crocodile-1.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/82/79/6e23b382f0e607f00cf0a5ddd8d0acb790d3fbddc350b911079903e6cb46/crocodile-2.0.0-py3-none-any.whl#sha256=9afe46237ee9868a75ea081a26644a455f11c40d3c4d780daaecd571de56c297" >crocodile-2.0.0-py3-none-any.whl</a><br />
@@ -88,6 +90,24 @@
     <a href="https://files.pythonhosted.org/packages/e9/40/be6d740c3728563bfe597684afb2910e709703124f4949c8feb4e58848c7/crocodile-8.40.tar.gz#sha256=cb6cd408b5d26af77a13a942261045a427ef83a73ba583e996482a9bf4a8cf57" data-requires-python="&gt;=3.6" >crocodile-8.40.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/c9/015b4b0333ae304cea69686cb98619b11e6fd71b63862520ca8e7f6f5330/crocodile-9.0-py3-none-any.whl#sha256=1c2acb142d8e96163c804911b904a652f1bf9331497cc32b07c4a08dc34cca40" data-requires-python="&gt;=3.6" >crocodile-9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/bf/2f3287d553ecdb0e999ea3393172dd7cd331c9581887d8d09d10b25fcdab/crocodile-9.0.tar.gz#sha256=1b7156b41e4f5322fdb4631219b64269e67202ed3deee5f56ea6fe59533b7dbb" data-requires-python="&gt;=3.6" >crocodile-9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/be/7fafa600df226731c1ccc4535757e7ade75969bdef7dc2ce66b483f218e3/crocodile-10.0-py3-none-any.whl#sha256=d0ef66acb65f24c0711342c59727aa75d609a82e9e2214bac42ed1b5110b8c5b" data-requires-python="&gt;=3.6" >crocodile-10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/0b/0140df5d6c5765acc32dc020b2ddefc08aab55114293815f378cf202b008/crocodile-10.0.tar.gz#sha256=911e0aa6f4c25b98a9a57509892e5659b5babe53a6c17a117badadec98d0760d" data-requires-python="&gt;=3.6" >crocodile-10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/d8/fe4c2e44e2d5b7c11fe0c7c702fc613722ae6bc540cdd407148938d94546/crocodile-10.1.0-py3-none-any.whl#sha256=e018852d239126717e8b8e2b61be416b40ce21e430b835025c6b9b248abe5740" data-requires-python="&gt;=3.6" >crocodile-10.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/b0/d363913c216d093f97528b7d8eb5810ca129cd9976a06e305e8043fc4b88/crocodile-10.1.0.tar.gz#sha256=24b42255d45dce990914527b0a30e0c9b454f7d4f56d5635dbbe01bdbb805647" data-requires-python="&gt;=3.6" >crocodile-10.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/33/19df38b92f372780a4903163bdd25fba415d69f5d88d3eafe9f39c7edcc1/crocodile-10.2-py3-none-any.whl#sha256=47c881d1b84bf3f4ba22ed7f4c2cebd2ba01e05d6141d1755d5cfa05449c78cc" data-requires-python="&gt;=3.6" >crocodile-10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/f0/ced292855bf85ab45d34369d7746da50f5e1f31a88b15e62073bc4062815/crocodile-10.2.tar.gz#sha256=9b05018aed55a4f3afb98bcafe2cd47480ec251e76e6dacdc7b83ebce4127605" data-requires-python="&gt;=3.6" >crocodile-10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/40/10dce869b6d2a7c7b41b857ba1b0bbfd6deedc6706a3fe88111b0dfd31a8/crocodile-10.3.0-py3-none-any.whl#sha256=c518fe03d9a43c4cabd506c925a98c39a6025bac48acd83c3640ec437bb16300" data-requires-python="&gt;=3.6" >crocodile-10.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/24/f87e1e7b7a316a9d45088976125c3ad538b010b15de05338d2af7cd5a1f1/crocodile-10.3.0.tar.gz#sha256=6b2e4740945d94454ffcbce52693b3ed33e1420731e096e199d3e5a23b0658ce" data-requires-python="&gt;=3.6" >crocodile-10.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/25/58f695928dea0d4eabd2de5260e483beaee0dc89155ddcf3d0bd6706fbfe/crocodile-10.3.1-py3-none-any.whl#sha256=99ce58bdd6753350ae9b66c51251f4e856493cbe0354051f63174d3115004245" data-requires-python="&gt;=3.6" >crocodile-10.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/36/48f4e5f6102db7acf11b54a8a9b2b5ca8ea2c3965f9208d1ba3420272d35/crocodile-10.3.1.tar.gz#sha256=c9be2ef3c8c1e5b2e0a8ddaed6818c46dbe9ae957c4ded3c0b62c0ce074a4e45" data-requires-python="&gt;=3.6" >crocodile-10.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/75/2178d31446e9679c19c64adf4659e817d00e6df36d68820e4410e2cab5ad/crocodile-10.3.3-py3-none-any.whl#sha256=d389fd9b054b6fad6592a50d0bc5dafeb36d00157f6ce001dbe696cab09760aa" data-requires-python="&gt;=3.6" >crocodile-10.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/fa/577e642c25822ddde3503e27727ddb2b3fb73d998251fb103fe5f08c1a0e/crocodile-10.3.3.tar.gz#sha256=5278daa87c9ee33826a21a470f0b50791f4870ec165af04df07cb329e5f79e58" data-requires-python="&gt;=3.6" >crocodile-10.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/61/a4dd225f7fe39824479984088fa174c3cad3266187686715a036f589c48c/crocodile-10.3.4-py3-none-any.whl#sha256=feb7ad7457d13273109f56bde8aae31c82b5c64c56a0ef93753f9b422c9f399d" data-requires-python="&gt;=3.6" >crocodile-10.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/6f/64b93330e01c1f43a8393d3a3d7b90e32421536f464105919ebfe96bc39f/crocodile-10.3.4.tar.gz#sha256=e39366f7d21ab22bdafee76dcab1fe5f5b3508d2ef9b6d2bdff31a0e16f180be" data-requires-python="&gt;=3.6" >crocodile-10.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/d3/0dae29009936d0b6210beb7030ea1810a53f871afdfea6d1aee70a2483f3/crocodile-10.3.5-py3-none-any.whl#sha256=31f034589f3b7cd73a93aefdfaac3948b809ffa6a881bad7fbfc15792a81c1da" data-requires-python="&gt;=3.6" >crocodile-10.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/a1/011b9699fd028a594215ff8b47eb745f3fbc9540370a6058d60067d2c662/crocodile-10.3.5.tar.gz#sha256=1437a064f5d029a47f159fec0e383cd839264c87829d40cd7965a04d901530f8" data-requires-python="&gt;=3.6" >crocodile-10.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/11/9e5ec05a73ad43ffee76ea9be9ecc17b118b36720aa479fcaf6f75420940/crocodile-10.4.0-py3-none-any.whl#sha256=2be5365911d68657415f77daa6bedc6578110963d253c0b2b44795ea008b474a" data-requires-python="&gt;=3.6" >crocodile-10.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/be/1958f48d65d9997e0c53626ddba0dba009fd5ad75d0dce4a757a4457f4a7/crocodile-10.4.0.tar.gz#sha256=efcfe276aa76ab0b63c525918a89b030e7a53fb225381f9b1d80776a32e0d7d2" data-requires-python="&gt;=3.6" >crocodile-10.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16411126-->
+<!--SERIAL 17009263-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for deeproc</title>
   </head>
   <body>
@@ -36,6 +36,28 @@
     <a href="https://files.pythonhosted.org/packages/13/91/b12659aaeb79815b78690df80eeee04231d795c6769c2288e5498606ab18/deeproc-1.0.5.tar.gz#sha256=81c9ee516ddc21896df4d9a7205d440b466d6db1407ef26702dfc4c87b18a4fb" data-requires-python="&gt;=3.6" >deeproc-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/34/9a/c0945e2af894bb5510e43579d1598aa16d834a97fb2542f8933647de37ca/deeproc-1.0.6-py3-none-any.whl#sha256=0039a7a4843d56dd276dac2fa6360402aa6a2d908fd4767a240fc7554b3b7851" data-requires-python="&gt;=3.6" >deeproc-1.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/47/c120c9de8446cea4fec3acbdbf0ae4f26c1bace1d6d2836e0491e06f9ad8/deeproc-1.0.6.tar.gz#sha256=4fc50438fb3a0f1bfb4bd32963001ce12cd745256a42badda601ccac170c2e8f" data-requires-python="&gt;=3.6" >deeproc-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/0e/d205ac2184da988aa627f7d2d51ff2b96b55135c8d7a9c03305dcd1a0d5d/deeproc-1.0.7-py3-none-any.whl#sha256=2120e33310206ddbe52072cf411c547f0b352ba637eb0ec440d21f518ab5e7f9" data-requires-python="&gt;=3.6" >deeproc-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/58/54dc2dfe3d2668a10d5814b7793048951d70ad11fb909721dc02979fe3a7/deeproc-1.0.7.tar.gz#sha256=b10a8acdbaec78a80b9f704871ea1758aaf817fe2b0f1969814c8afd7c4f0b19" data-requires-python="&gt;=3.6" >deeproc-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/62/9f9dbb8b01a292a3a7e5123d1769e2b5b60ef4cc4d2869e484e6712e0376/deeproc-1.0.8-py3-none-any.whl#sha256=4129abaf67fe9a6b1084c0829381e19a9f463bcb285334f027721ef179d26148" data-requires-python="&gt;=3.6" >deeproc-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/b9/131c41a9c464ee018cf6d90295cb6d694be5193ac5c5a0040cbee272ebbf/deeproc-1.0.8.tar.gz#sha256=0e4515a54376df344fcd8c7d444ea2c9f81eb9528e4413d09fba25b2d5d57949" data-requires-python="&gt;=3.6" >deeproc-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/b1/b59506542c560d3fcd86b202d24acb085dc71bcf147b72d54e1eab4fe81c/deeproc-1.0.9-py3-none-any.whl#sha256=6dd25730667b39422d290560da1eb4db11319c07c0fe0459bad5b59c89c5968e" data-requires-python="&gt;=3.6" >deeproc-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/b3/dfcedafa58db319322d583dd49244b83ca69f8fc7d6f8051002b270a7b9a/deeproc-1.0.9.tar.gz#sha256=248f3f36700d243e8cb9c9df7e4d1635848a7c9c6ee6b87d8f7c56d2a3b99e15" data-requires-python="&gt;=3.6" >deeproc-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/d0/8c0c44589cd0249f77b5968f0428d5cce05176f71a96dcb98bc342bdc25f/deeproc-1.0.10-py3-none-any.whl#sha256=eb4da059c0d1bfd32381efbb9d55f909589817ae11b4fda42f1329636016b800" data-requires-python="&gt;=3.6" >deeproc-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/40/6b6c744781d98513fa7007fcd990c66dcb72d0d258c93df57842646f0ac6/deeproc-1.0.10.tar.gz#sha256=5708b7ad054167b5135f002adad2c8209e6b4fb2976af47e7306c2f651c6e09c" data-requires-python="&gt;=3.6" >deeproc-1.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/9e/3d8ecb856297970c0a67c72853592893c34485c3b0221889a8c40c2011a4/deeproc-1.0.11-py3-none-any.whl#sha256=3ba10a6156d7b173cf371ffdfc63564edaba8f340b3bf1f4c0a265a8e4e51181" data-requires-python="&gt;=3.6" >deeproc-1.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/eb/28603728a5481a6786c8bf27559950850468adcbcf2cfa6d006e3790264f/deeproc-1.0.11.tar.gz#sha256=c2837e631b404e93f3f82750f9fd13db70f70854474adcea687790b23992c525" data-requires-python="&gt;=3.6" >deeproc-1.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/92/8169a6e9ec7b430b290e41e1c87c60b58c70bd57af82c374de820198ff32/deeproc-1.0.12-py3-none-any.whl#sha256=44d058d3a5463b4c2301c419f1bde55a9874023f3229aab40faba6d1f443cca3" data-requires-python="&gt;=3.6" >deeproc-1.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/c2/321b99b60787eaae54d732e593653925bf7dc6f2d35c82469a0572021c5c/deeproc-1.0.12.tar.gz#sha256=13c8749c142f2c89536ae3460f1bfdf8d52bd6f6b2c242b253fe1479aba36e75" data-requires-python="&gt;=3.6" >deeproc-1.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/c3/c3529a25a45fcd4677230c3099af70a495469f8620f5d85b074e4c60a7bf/deeproc-1.0.13-py3-none-any.whl#sha256=3e6caec9fd984dfcf31ebc71b62ad70cd67a21adb280ee32a484542c850d9434" data-requires-python="&gt;=3.6" >deeproc-1.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/53/d671696efb51cc6a5613c7c5ccfc27799eebffeb38dba85fcf405a840bff/deeproc-1.0.13.tar.gz#sha256=248d426b9548826e2ab320d1b276e18e5e2f938e6acdc42447f7da3f505747d2" data-requires-python="&gt;=3.6" >deeproc-1.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/fd/02ccfe7092436519dc4631235f68bd3a1d1eef6a58192046c965a3026c77/deeproc-1.0.14-py3-none-any.whl#sha256=310f4f4eae9dc5fb0e9df5b00ecb5056e1678e68275fd7aae0101c12e4a5b446" data-requires-python="&gt;=3.6" >deeproc-1.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/7d/d95681fde41ecc514c98f6801d33e664c3bea2004b27b3ff6d97de51375c/deeproc-1.0.14.tar.gz#sha256=215ffe8b1cf719e5ae05b4f73ba634f98d46da49ce69c1b574264dd2f0537d30" data-requires-python="&gt;=3.6" >deeproc-1.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/59/0e56650c077720d35c68a61ce28e7dc855c88f19aa948dc26a5fc1e92587/deeproc-1.0.15-py3-none-any.whl#sha256=0bc4b43bbf8c0752df194840bf0204ee9a2f7f470d528e95b31acf4043f62781" data-requires-python="&gt;=3.6" >deeproc-1.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/0f/e3e2e376a4fd431996986cac07debf2fa40b51b90f8f7330ae8fbc26fb76/deeproc-1.0.15.tar.gz#sha256=32c506deb303ed2b9b00a3595d18d39109a4a5a803516aa48b59a49f40fd5d66" data-requires-python="&gt;=3.6" >deeproc-1.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/0d/fa7d7fea427d8e93326665a629dc593089732aef653ba337a6e78e17b380/deeproc-1.0.16-py3-none-any.whl#sha256=c7d0efe356a8d6babda512ba9db0360bf66f92f0961b3dbf5299f922aa015747" data-requires-python="&gt;=3.6" >deeproc-1.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/56/eaceb68115bba3cac1a6104f53b2adf40667fe5c6505d2111e33dfdb35e8/deeproc-1.0.16.tar.gz#sha256=364169a7a6cb55b0678a041fac648ab553bd7b5f78ad7e9bf04209311b1f2679" data-requires-python="&gt;=3.6" >deeproc-1.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/3d/d4da85f74f6ab381e25cd34044181aba9c9cfa2e3cbca81ed73267095ef1/deeproc-1.0.17-py3-none-any.whl#sha256=c9df29a611ec401ec569c4fda8b07489f44c820adea718fead724c3271b65a07" data-requires-python="&gt;=3.6" >deeproc-1.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/cb/bc3a6756be2266daae08a8e970460e7ecc8e3c2eff766fc8a3587282d7b6/deeproc-1.0.17.tar.gz#sha256=6c7ed3165103765ae983c1f5cf6c34c81a82d7c84862326f3fe1b3a2101504a7" data-requires-python="&gt;=3.6" >deeproc-1.0.17.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14828269-->
+<!--SERIAL 16927794-->

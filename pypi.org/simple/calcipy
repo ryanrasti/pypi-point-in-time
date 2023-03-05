@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for calcipy</title>
   </head>
   <body>
@@ -70,6 +70,24 @@
     <a href="https://files.pythonhosted.org/packages/1a/99/e6c8f4ff0b8db7600a613d86b42e6b99a496a3275225f8d3e2376b94bb93/calcipy-0.21.4.tar.gz#sha256=9058fb6ea2bc7fe69c443e380468d944b15edae90a79e151f9c8c7b9002c81b2" data-requires-python="&gt;=3.8.4,&lt;4.0.0" >calcipy-0.21.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/f2/7c0bb017ffbc86f94c882a0d2befcb23a5034cc3ecb7e3eb11af026e6840/calcipy-0.21.5-py3-none-any.whl#sha256=485b6485a634239083d785253ddea65ecd59ed71e508348df556b214cc789920" data-requires-python="&gt;=3.8.4,&lt;4.0.0" >calcipy-0.21.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/53/5009e6cab4024a819e62fc8eba8c0b4f58f91e8a07725983c475db120f19/calcipy-0.21.5.tar.gz#sha256=df079ef10638004757f66f0780c8812d08bbf503fa7820d9f2cce924ba4c9fc1" data-requires-python="&gt;=3.8.4,&lt;4.0.0" >calcipy-0.21.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/f9/0e0f1f9c0445d38fd635dcfe22c6288ec758e6c697596d154c1b554060a9/calcipy-1.0.0rc0-py3-none-any.whl#sha256=1e8d25233171dce5abf9473ca706e37fc2e62ee463f06993d41d015c73525f9c" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/b1/e1f38172f22ff659bf2eefefe5b5745d6bf9b455b41577a206bca4a72d8a/calcipy-1.0.0rc0.tar.gz#sha256=63add819d70a3d3fdba8eb1343d2e512dd6a208644a2f9dcdf2e9310ec2d417d" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/ef/712cf5f52bc8551b8390b84c93c69c54d14abc16804fd9794a74cc173c54/calcipy-1.0.0rc1-py3-none-any.whl#sha256=c344ccccb59a796054d11022846c9d02ac721732b3f5816cee88e6b95e0cb269" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/b4/6881871378674cb5c0a4f5155ade4f78ea2a0a9ca7b6d54b871a75fb31b1/calcipy-1.0.0rc1.tar.gz#sha256=2450626e628629bdd59ae2e4271b5f1f07c787441b755fa42cd7ad0b5366dc6e" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/91/b5d49472a3b12e7d7c032385b451e46722c94c2e84a99267e8a4dcd03a3a/calcipy-1.0.0rc3-py3-none-any.whl#sha256=48f540dd1a90d86f840528200a0cf942f6e15c21bb11db92881219302c6c966d" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/05/49fa5cf1b974143e9fd9d54f391f9519b7a7e2ad2e4cb725b28ea2b19617/calcipy-1.0.0rc3.tar.gz#sha256=d23097fc4dbdf80834e5234ee542bb889127efb77b4b8c583d2bbbda7883082a" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/61/1ce5f0b252cc01ffce642877954ee92ab4538b4e407a4ce3ac84a3d8ea69/calcipy-1.0.0rc4-py3-none-any.whl#sha256=473129a0390692ec65e061596d655335bef0d20b8f018898035d0f3093be0394" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/6e/e52cb94d8a99bda36c4cc063c58915d98ad3f76dfe96a777399359aae656/calcipy-1.0.0rc4.tar.gz#sha256=5419d973d422d16f13e52799d8d6fe3a52e3fd7fe6192d1f388d1720e53d0b6c" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/8a/336b07595a5446d72c88759a1798c6b76704b070de4762ba6eae783a66eb/calcipy-1.0.0rc5-py3-none-any.whl#sha256=5552498926291669f259f63a22b0f292a5a6f6c0b4e002300940ec8c52f69c70" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/0c/a54be13d72b7ba72fc32b07bf2f971c58126a4b9558023aa8741586f33a8/calcipy-1.0.0rc5.tar.gz#sha256=6a74db3d5307f40a53628de39b463f8fda3305eca41e492b0e01ea31d8992772" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/8e/84d48bd049124546e534f606f3ec926a34815f18223bed66be607b322917/calcipy-1.0.0rc6-py3-none-any.whl#sha256=afbeebcfa6783d1d124d5846c913e265c7a2de872b9a0c13e486dcfda7128c5e" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/98/488c139f74d698187b2153895effc360d1db758c9ff0fd8ad63dc3dec6b5/calcipy-1.0.0rc6.tar.gz#sha256=a9ff8770e2d8fa0fe0db9ec9fd9d076e3e53b678ac3267fbf41900ae85db8ca7" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/f5/6591eed622552c09701b771b708a35d45bb392ee4aac4505cf23a3bf6698/calcipy-1.0.0rc7-py3-none-any.whl#sha256=32a4781ea322e353770108193ac88eca5297e3c2d3688263bcd700aa45f2a3dc" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/87/a0e23a4ec0f25bf76f925c847d3b2dff1d210a42cdde060dce26ec374e42/calcipy-1.0.0rc7.tar.gz#sha256=d0e23755b3875e9dbbb53be9fbc65e2d7d7c0180e0ca71a42cd059cfb55f5700" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0rc7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/bb/2c6ccf9ffca91f82f18292bd13360f4ee27212252492b08d611b33e9f47d/calcipy-1.0.0-py3-none-any.whl#sha256=743cf75993089338cf8f69ec475cd0b3c38e876c8eab120823f4a3ce0e37eb50" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/2b/b21793cc9e92122376dc5f67956ee524e4774d24db2dbe018846bfc8264b/calcipy-1.0.0.tar.gz#sha256=b45b13daa6adffdacfea4260dd3bc72a92facc32f54d3892f74a605588924e92" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/86/ebda6535ce224b233b1f57d0d7804bf75bcbe4733b8ae22ebec62ebd01fd/calcipy-1.0.1-py3-none-any.whl#sha256=43ae2788d0153a0cfd1a2651ff975c3b52fc75378eaeaa5f43b9365a4ec4e09f" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/41/2eb1a005065ea3e27076c5b81a92bf28313d1b13dec33a8a812a3a9fb085/calcipy-1.0.1.tar.gz#sha256=c9574fc143a0d1cd9e270f3351e33b1f062e2e5b9faf90ec1055b073d2049f42" data-requires-python="&gt;=3.8.12,&lt;4.0.0" >calcipy-1.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15907300-->
+<!--SERIAL 17122320-->

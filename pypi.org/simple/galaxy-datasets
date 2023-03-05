@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for galaxy-datasets</title>
   </head>
   <body>
@@ -12,6 +12,18 @@
     <a href="https://files.pythonhosted.org/packages/36/a6/4ef7b63fa059e02599685038f412da5258bdff45c802f0d184b02557d89b/galaxy_datasets-0.0.3-py3-none-any.whl#sha256=5a860dea82df368a1b7197623d7122414382514e20e9f7469b75911692bee15b" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/24/e6a0edee0a1b2a86a468419898a1e614a173615a52046db83e39926bfca4/galaxy-datasets-0.0.4.tar.gz#sha256=eacd5bc47c68fe7894423bdc2ad272d4e64ea3931b23a0ba7d3afa31b374f40d" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/af/cd/095e2c49d6c797dc996a7303841dea323849ccacfabe7a24e0552c7751d5/galaxy_datasets-0.0.4-py3-none-any.whl#sha256=345f8bfb9a989490606611298e7dee4a39fde4fe147a4a7ab33160922f51f264" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/a8/b0a1b909b400882a94078fd7ce505ef5c46a29d97b493d49ae8bfa4c1bb0/galaxy-datasets-0.0.5.tar.gz#sha256=cf0884cda6fc6df5132f26032ee3d10c925684536feed21456c0afd1b977af6e" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/5d/14a7713e1fa2553319a5122baf63b60dcdbd109c7862967cb7dc4f522bc5/galaxy_datasets-0.0.5-py3-none-any.whl#sha256=9d3fbd104870abd283049857f7eaf684b1d781d6e1f5418af96d5744311e9b03" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/64/9ee3486cab646466bfa7f57869198e7cdacd7e6137c9a4de67c1a7b6e5f7/galaxy-datasets-0.0.6.tar.gz#sha256=6695ed76549acf0e48f571331cdf5a16678ffbf138a3bb5fd00a8189018c7fe2" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/e1/3b4e88029e4dfc082046ac48d02c1db87fc14585d119d80d783dd255ed4f/galaxy_datasets-0.0.6-py3-none-any.whl#sha256=8c90aa094b2dc2c89a617b5f39d8734e269ed137ddbee3dc380de15d3da63699" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/32/2f4b96f59bc64523d46a4bb3788480afeb2ad48f95cf539f8c707a6e4443/galaxy-datasets-0.0.7.tar.gz#sha256=f8d1d39d749e2ea96777a7e8824800c538c0afd802e8ed6abcc651971347c163" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/9d/48d8748dc06866aac2430363575444d2d1a14efa9454c803bd8a184006c7/galaxy_datasets-0.0.7-py3-none-any.whl#sha256=cbbe4520d514c203ead9fbcf86642739bcef468e7bfce859a1ccb1563319cf57" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/ae/3fdb5c75c008d400b98ba2d0b81d7498955f3daba0f1fe7c4fc3ecd0f464/galaxy-datasets-0.0.8.tar.gz#sha256=3015e169bb1e28b08f90023178552fa7fba606b69c84ccd27303f583f30e9bc1" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/d9/804540b271c4a475b27163c7e30d9c4cf10bb9756fbc528eea948fb8386b/galaxy_datasets-0.0.8-py3-none-any.whl#sha256=5bd977213563fe61ffe58cfcce84227b3514e342310cbae11f7a3338f9951e8e" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/17/448650541c43f3a28ef0d00be76b14c3678bc3b2eac219ef57d2a489d994/galaxy-datasets-0.0.10.tar.gz#sha256=486315b1a3f99afc33b510b56cb06364bc48020803420c58d584016b99c4ae59" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/91/5f767d4ad826b9de6c4d9f68405416fea4271595d166907ca31a593947e3/galaxy_datasets-0.0.10-py3-none-any.whl#sha256=2ad85e103107a86392d9ffac187013db39d74bc2251bfc30048c5d47c4c6a9a6" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/40/2dd0fd7935a01ce9be356750071ae9d79b81bb597bb7fa908c1904e8fdd4/galaxy-datasets-0.0.11.tar.gz#sha256=c23d5eb4b34ab9381eccb298d6ff0edb62545c4a12453db3b21d672ddb35023e" data-requires-python="&gt;=3.7" >galaxy-datasets-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/be/168fdf12a9a65541d0eb5fc4915f659664a28df69c49d86df8f142ec0674/galaxy_datasets-0.0.11-py3-none-any.whl#sha256=61434f79fd7329c58063ba00e2a92539695aa5fc9801b7989e2a9bff018e4bd6" data-requires-python="&gt;=3.7" >galaxy_datasets-0.0.11-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16162105-->
+<!--SERIAL 17135717-->

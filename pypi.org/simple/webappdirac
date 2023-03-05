@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for webappdirac</title>
   </head>
   <body>
@@ -100,6 +100,10 @@
     <a href="https://files.pythonhosted.org/packages/5a/ca/7b4265de288a37e0e8870786ff5df725ef5eeafad646ef984615cf7ee8f3/WebAppDIRAC-5.0.2.tar.gz#sha256=1e1f7e063f876f76b1a59e1eeca0a290f7a68c38470abc3949934735de8dcbcd" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/91/64/1be55ee3067387bbe08e4dd399ee4882aaf563f34fe6b7a82f328902f577/WebAppDIRAC-5.0.3-py3-none-any.whl#sha256=6ab6491f9ab6a1e136ca6ec2a1faa9f87d569c91190563149a14db3a7813cefc" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/db/9cabe6c00373bab22f3c95eed1e3db986516aa6b807a1ad068825763db6c/WebAppDIRAC-5.0.3.tar.gz#sha256=196b9fb2e9f40704177924d0526fa45105c5eeca4b76bf8a0551bba7f04f8062" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/cb/934c45cec57a0aef601c0bee7f91bd0d2bf9d075284dfd1cc8c00abdaf09/WebAppDIRAC-5.0.4-py3-none-any.whl#sha256=a76bd83d45e74fcfa558d98cb76b0997319648ec95564e74a4b59d68d2173583" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/ad/bd629e41348b38d3bf5add52f1d22f05b494fa3d0c0f82b7c82524dc2a4d/WebAppDIRAC-5.0.4.tar.gz#sha256=5291767d3fc877cb6e7dcf5953cd51d7e73a8fdc4539d0afaaf74a7430875a6e" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/79/e900e4cf9aa7cb1a45f78ca8b249f3699b06542b6f505fa233b86776a9f1/WebAppDIRAC-5.0.5-py3-none-any.whl#sha256=e636e1c1116491c6c0aa63870ca5b76be79230ef6aa4bfae83f6fc3919a9c834" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/e7/c542c0b4db23cdb24ba374da6aa4ce72a2933a6728fbabdbef57f7724b57/WebAppDIRAC-5.0.5.tar.gz#sha256=daa808c546b1cc8d99980f0b8195494b0f413ac91ab4cc4dc76c4c9914fc2ea1" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/03/a0436df550a9a3b794c96121ce80771ce50346bca20bf97c475ee933be62/WebAppDIRAC-5.1.0a1-py3-none-any.whl#sha256=bb6bf51a589a242dde5371be81aeab04f4d09daa2c5bac30fdd3a0cc331961ee" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8d/b6/360852e2bacba8359358a15e0e894c3ef01bd15f30524e72ebfa6472c14b/WebAppDIRAC-5.1.0a1.tar.gz#sha256=8e2dcd210c5e58d1bb62113e5884d2407af91a14f6df3126e1ac0255c58f469d" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/56/dbb0b89f719de3cc61a1f591170018efa1c640bcc5e36ac2dd9640cfee2a/WebAppDIRAC-5.1.0a2-py3-none-any.whl#sha256=fae7105237b4c2a99b433390907c966e557a607d50139ef7568641fd272c7e37" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a2-py3-none-any.whl</a><br />
@@ -108,6 +112,8 @@
     <a href="https://files.pythonhosted.org/packages/e4/b7/e166833b7baaff8b6991aa4a201b7b318ca88a5698a7711b1bb729ca1e5e/WebAppDIRAC-5.1.0a3.tar.gz#sha256=3f4a78b9827c13819d1ee394ebe55842382702c314dce4bbefd8e763645377e1" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/54/302f6939b5e18db6b6f96dd307c9dbe25cbb31ff008ffa2daa861f5e679b/WebAppDIRAC-5.1.0a4-py3-none-any.whl#sha256=2a0aa32f7576592d2e4dc9afa83d00cf2ad994c9511857df68b758ac4f16ebce" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/55/59/a2cc3685719d06fc8b3ee4af5f8dde362afe643d0ef19004c95d2adf68d1/WebAppDIRAC-5.1.0a4.tar.gz#sha256=5aa252317821e45f4f46e414e2dedff6144fa8eb2775d2cfffb3be7e9bc2c445" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/d1/0ed65cb8e34364851eda0d3cfa35257f8527d6220334b3327afa4aad75bb/WebAppDIRAC-5.1.0a5-py3-none-any.whl#sha256=6298cab27a6f13a100f5d75210fe9f27b7d948a229f9578c6618668a4053751d" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/49/005629cf7604810e4ba864a7a3655500fc7c966ee6a95862cd830ace5883/WebAppDIRAC-5.1.0a5.tar.gz#sha256=2f017d4c392e47a46a8729a831543760bd070bcdc3ac38ff9477e1a83176c4ac" data-requires-python="&gt;=3.9" >WebAppDIRAC-5.1.0a5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16142650-->
+<!--SERIAL 16884922-->

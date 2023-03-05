@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for g2s</title>
   </head>
   <body>
@@ -253,15 +253,19 @@
     <a href="https://files.pythonhosted.org/packages/ae/a9/9f398116930996dc9150814a83bbc8d362ca668b1d8e353562930ddc3b90/G2S-0.98.13-pp39-pypy39_pp73-macosx_11_0_x86_64.whl#sha256=0f28b00835fc1e46076f6406c85d7fcfcba0593a1e41ed44c3af35ac55be5cbe" >G2S-0.98.13-pp39-pypy39_pp73-macosx_11_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/05/0e/2481443f9b0e974b01fd0dfd199e6e99430bd495cacde21003c7bc580ab6/G2S-0.98.13-pp39-pypy39_pp73-manylinux1_x86_64.whl#sha256=ff494df17fdb5c79189d657afffc657af32abb6a363d892ab67ff37847a116be" >G2S-0.98.13-pp39-pypy39_pp73-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/45/3b704964af23f5ecbb17073c27b9186adb89116b49aa40c5b08a3e5f5c26/G2S-0.98.13-pp39-pypy39_pp73-win_amd64.whl#sha256=d0cf4f482b295f40d2eb5f71ec459722870c0c376b6321398454c08450c829ff" >G2S-0.98.13-pp39-pypy39_pp73-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/f1/3f02598d66c17161c440a2f7c05f39a1b4af6bec8478ae90697cd1cf9540/G2S-0.98.15-cp310-cp310-macosx_11_0_arm64.whl#sha256=0eddba7341e313e83c5fd3b26f5388fa4aee6ea1f8f243089243a2d676b3caf1" >G2S-0.98.15-cp310-cp310-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/9f/7d2f3a2d01b984f7bd5d667baf8b3fbe3e0a8ecf6d0d5e7693ac790fc695/G2S-0.98.15-cp310-cp310-manylinux1_x86_64.whl#sha256=2a6b3a2097fddc26db19e36996f7e173acc5e0e6b8d1dfbf0a30046f08957c17" >G2S-0.98.15-cp310-cp310-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/8a/7d765c4da396528b170814e26d2d7e730e67de56bbc270a95b645a7cda04/G2S-0.98.15-cp310-cp310-win_amd64.whl#sha256=307e5a8738fb74bf1814a6d93a93fad7d9ef866cfb0ef5dd8f5b427ee7e8d8cc" >G2S-0.98.15-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/09/be6ee1483e396f197449094ed3bedfa34527fd8bbe2fbb9989fdd1d6d65f/G2S-0.98.15-cp311-cp311-macosx_11_0_arm64.whl#sha256=d8fe458d7ba3c91448945567ea47538ad28082d3ae1925a026e7087e2a61ea7c" >G2S-0.98.15-cp311-cp311-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/89/64/9946cf9d839e0b44e58bbea15d0620be4132b5e62635653869a29f1652f4/G2S-0.98.15-cp311-cp311-manylinux1_x86_64.whl#sha256=0207ef7ed459860f34feed3504cf4f442021c0e8cb218bf2833702e37abcdc10" >G2S-0.98.15-cp311-cp311-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/65/1d/c3950cea4a9534b49953d7beaa766c15621a28ca6dfdd415206cc78014d9/G2S-0.98.15-cp311-cp311-win_amd64.whl#sha256=1b6e84a2bbfa042c283d675f8e947d49a17b5d8253c141e8d5e844debb281167" >G2S-0.98.15-cp311-cp311-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/58/d3b3b7edc6f65e2c7d47a67aab51527c36328475ec5399d5956ee3034a4c/G2S-0.98.15-cp36-cp36m-manylinux1_x86_64.whl#sha256=a789e8f6ba1d5278067ff8fb450653c5169afabad31149d5a9df1922530167bf" >G2S-0.98.15-cp36-cp36m-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/26/2aff2109ac40d14e5eb684dcbed05f3420507ae684bb75da30da4518516b/G2S-0.98.15-cp37-cp37m-manylinux1_x86_64.whl#sha256=b23bc7635f3917b2bb0a9dfa1d1bc1ba26dc686c6964688a4fa64a6dcb7dbf0b" >G2S-0.98.15-cp37-cp37m-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/62/c1/636a6decf349a29f388858068a75b4851a5a11dca803e3af91fc4b675e55/G2S-0.98.15-cp37-cp37m-win_amd64.whl#sha256=0b15a3bd50afedb97787ac32d1521587c06ac0a48ae8eceb8065da2b745d0946" >G2S-0.98.15-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/e3/d44e4ed254564d8dd11f392a7ca548019ab45bc933e131ffad6f05ba8087/G2S-0.98.15-cp38-cp38-macosx_11_0_arm64.whl#sha256=8695a44dd9239efc24378312e744106bb1071fd00a50f616ea209352b3fea07a" >G2S-0.98.15-cp38-cp38-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/29/53177b48f6ee07f5df32d954d8575316f9b7b69c710f285dd3f83ffa092f/G2S-0.98.15-cp38-cp38-manylinux1_x86_64.whl#sha256=8c7c5426b192bbba53d904b6b5f3bc80b8e1f503b2bc6b71155406a09b24c41e" >G2S-0.98.15-cp38-cp38-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/3b/2c75479536a2bd4c36d6159fba56ec8a83f48aea29101640d73e41b6c24a/G2S-0.98.15-cp38-cp38-win_amd64.whl#sha256=627f32f0dde0ec4a63e3e8cfd719d1756ccc4cd4a754145e2726d247f4d91761" >G2S-0.98.15-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/f4/8416c5cad8c5d72ea8e1ef48fe1f8cb1168b4d92f9365a3d89db65bbc443/G2S-0.98.15-cp39-cp39-macosx_11_0_arm64.whl#sha256=24b5417ce7ee58ca2cd4bcbd03c7efd7299ce350e7b965ee7fbb563a3276fc8b" >G2S-0.98.15-cp39-cp39-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/ea/48823175eee7d2f77bff513a8325524c8976984a12c727ef2ec87630fd59/G2S-0.98.15-cp39-cp39-manylinux1_x86_64.whl#sha256=99c71a068b4902bc9c424441307264d55fe4f877264e0ebb00cdd514787409b0" >G2S-0.98.15-cp39-cp39-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/84/a9/41fbe74ef71786b83107d042d7af0a6bcf0d179408d6ed2e760407c647fc/G2S-0.98.15-cp39-cp39-win_amd64.whl#sha256=50dcecdd3ecc7442916a04db59e0c9a7dc5484bdfa679e8377fa71471ce0c4e9" >G2S-0.98.15-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/3a/d4da032deed7b2f6619a6c12f09fee352194366aff4e0acedb81418e0f36/G2S-0.98.15-pp37-pypy37_pp73-manylinux1_x86_64.whl#sha256=8d70cebc48a2a2a9a6f06bb0ea928147099adc2d1523d4f6ddafeb3a609f2bbc" >G2S-0.98.15-pp37-pypy37_pp73-manylinux1_x86_64.whl</a><br />
@@ -272,4 +276,4 @@
     <a href="https://files.pythonhosted.org/packages/56/0a/bd5d6c65e01a91b2a2b8e00f47fd6fd98f58cb0f665acbc3e598348b5668/G2S-0.98.15-pp39-pypy39_pp73-win_amd64.whl#sha256=28c1f18f3b73aef95e19b4d7834b0ad39b33e910eda43a49c96010dfba4a0737" >G2S-0.98.15-pp39-pypy39_pp73-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16135461-->
+<!--SERIAL 17130545-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jetty-core</title>
   </head>
   <body>
@@ -72,6 +72,18 @@
     <a href="https://files.pythonhosted.org/packages/86/69/459f90e5340adba7e73787a3bcd4f19891064ff265f10ba5c08dc160f653/jetty_core-0.2.4-py3-none-win32.whl#sha256=c254c49a087c935e9ebbb0d01ec5bf7da5cc82d2ca40f88c8a250150b31feab9" data-requires-python="&gt;=3.7" >jetty_core-0.2.4-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/8d/98b7c8da12512133769e69582592e9cafad4865e5949a0a0ba668148dc20/jetty_core-0.2.4-py3-none-win_amd64.whl#sha256=9336835791d9377fb09f7ce35f02a73d5a58d6ae2674241de01818c944fb9a1f" data-requires-python="&gt;=3.7" >jetty_core-0.2.4-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/97/82/592058ceb96704bc2f7d534cc220bcafc425a705e17d6da27a063f69e50d/jetty_core-0.2.4.tar.gz#sha256=e78271f41e44043a76770a0ea284b049f0513d49ec203fbc8965e64829ad64f2" data-requires-python="&gt;=3.7" >jetty_core-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/b9/9a527a059e1f6410d7e0f36f138fd13a1616affb09d6cd713116ee48bd02/jetty_core-0.2.5.dev2-py3-none-macosx_10_7_x86_64.whl#sha256=49cf22624fdeaa0c993a70e301d102585a36a25c7361b3e2a248a3920297b683" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev2-py3-none-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/62/2832246cc895e91094f7d2906a99616801e23c9ffa01b3e89e5eb72acd06/jetty_core-0.2.5.dev2-py3-none-macosx_11_0_arm64.whl#sha256=f1629c4d24a68d814e0de6ed00e711d10edb2f6fe1ef9b88b87db66f1381290e" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev2-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/2a/c45b04bf23f1ef2c42640cc5b9dbd1483f6514180994457b7e155ff8b3ce/jetty_core-0.2.5.dev2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=aa19a92ae63458e54c786dbb8aa555181a1d22994fbfe9bf25f8a46cf1ac3be4" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/2d/d0073a30631706ed48d31c134c2f2ba236fb172ea8d1bf799e53274549cc/jetty_core-0.2.5.dev2-py3-none-win32.whl#sha256=382f47e8b1d0e2282e9a41d52b691d3bab116eac1594fc7c17f5993813dcd2f1" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev2-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/7f/970c63611a9ac41a01b71eab79a47dd567e2e40b958a0dffb761ec42f53a/jetty_core-0.2.5.dev2-py3-none-win_amd64.whl#sha256=33656b6956ee6963a0db573c8c9679b0cc346da66838b411289cd3a9af498ba3" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev2-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/d7/6dbe929130c75b81fc718ab2fd7d27d315735b9ae0314e9920bc613c3d9c/jetty_core-0.2.5.dev2.tar.gz#sha256=3704ec234d383f0119384c10f0035b519694199940438d3a5152334df2698efd" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/c0/410640d26baedd7705ca49ebfc858b4023920755a4791813f6f6abbce4a0/jetty_core-0.2.5.dev3-py3-none-macosx_10_7_x86_64.whl#sha256=e218e5198b99f4083f2dfc29b2e7446998e4c288a948919d84e59a91a0e902ac" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev3-py3-none-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/b2/cc9869b232633ff74152e9abebef6054ea7b8259eefa98e85083df2fb56b/jetty_core-0.2.5.dev3-py3-none-macosx_11_0_arm64.whl#sha256=61c2c02e1b948c8907c584f3dee90de2054d552ef701af89e8dd2d3b2638c377" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev3-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/a3/3ac316d986d3bc6fdbeab35232331c3453923fa4596b1e0c353374abf38a/jetty_core-0.2.5.dev3-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bd9d3b38fef0eb45889fa5a3648efa53220b683994fe802d9a19e6b07212b61e" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev3-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/47/72bd69741c786ea8074c6be9de836a1845e0b9205b28ffc161586463ab2b/jetty_core-0.2.5.dev3-py3-none-win32.whl#sha256=28de4a6cae2c9ff437108720b4a1a967ffbda02e9add03507a7e7a2274ac4b05" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev3-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/3e/9f3db3be0f2ea3fc277cd4994ff1192612602dd4078e17d21639213124f7/jetty_core-0.2.5.dev3-py3-none-win_amd64.whl#sha256=36d72a5ede9b8bb6817aab8a18dba0c8297f996e92d3c13fe3938f5b6e23de73" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev3-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/e9/e383819c512364774b5a92238b8f2366a404a4998f2b55d8fc17a744199d/jetty_core-0.2.5.dev3.tar.gz#sha256=20bffd018aa5c889bd046fbd39e85ed22716e0cc388977f6bf1215ce1774d5ff" data-requires-python="&gt;=3.7" >jetty_core-0.2.5.dev3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16367960-->
+<!--SERIAL 16883367-->

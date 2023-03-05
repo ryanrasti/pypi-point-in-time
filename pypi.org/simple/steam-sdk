@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for steam-sdk</title>
   </head>
   <body>
@@ -278,6 +278,16 @@
     <a href="https://files.pythonhosted.org/packages/95/c2/9e762cc141be41372d8674081f4fbb62ad19ac11b72c0c5874d89984041b/steam_sdk-0.0.142-py3-none-any.whl#sha256=5ce74db9a1b3f6026b0df8e2ca120de7b69b9a85a5a6fa7cd26606f7c9cf3bdf" data-requires-python="&gt;=3.8" >steam_sdk-0.0.142-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/23/5b/015a144660b5b456e0da3aabad2cc0a3f5c9f52ce44b494bba59c74ddd46/steam_sdk-0.0.142.tar.gz#sha256=db60fe2df133496b13c36f4bd360a390a66e5056d53f2000f35769e4a85bc59d" data-requires-python="&gt;=3.8" >steam_sdk-0.0.142.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/c9/1107b80248dff4d70d382a53cc3458164453d456b4a9892a7a91d8e1598a/steam_sdk-0.0.143-py3-none-any.whl#sha256=23638b4ff47d4fbc176f3c46627737945bb800ab203894becdc44c580eeb6dc2" data-requires-python="&gt;=3.8" >steam_sdk-0.0.143-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/0d/fd9f0de29f7cdab09a8900e7d888e289cb7bd756343ed984e92488bd59b1/steam_sdk-0.0.144-py3-none-any.whl#sha256=c39598f5d06a6b1f6fd3e0c6ab3a6bc49d7302b076e33fe6aead827795596447" data-requires-python="&gt;=3.8" >steam_sdk-0.0.144-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/a9/598cbe4fbb09212d619d72b12117a4749d743ff590c9652b57f3295a12ae/steam_sdk-0.0.144.tar.gz#sha256=858b7e5e11c4958f8dbb9eaddac9190c9387564464c1a5de4e621e6b9abc3e2c" data-requires-python="&gt;=3.8" >steam_sdk-0.0.144.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/13/83ba872cd23cae3082383888eafe001db685adc336880093f979c7b7701f/steam_sdk-2023.2.0-py3-none-any.whl#sha256=9714c1fddaff894d15afb76195b2b56ca9247387c133072fef02fdce555baba8" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/8a/b16f7dc0d3652f028c6167176957c015884c7375c8a4df7ba82fcb7cd63e/steam_sdk-2023.2.0.tar.gz#sha256=16654c3c242f013f200a5d5187a373317897ac1cbfa517d45742b11f9ae57a6c" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/02/07c4f4e02a509b32c0bc1e6abe414b828e66936e51dfa07b2cf041eb60cc/steam_sdk-2023.2.1-py3-none-any.whl#sha256=96d75e65d84f6d2e240f400b34951fdbd8d6bd2c9f27a92000e8432fdad455d0" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/8a/adac4431db4920a16974969bc7e493eef75d94e32737f9242c9afffb1acb/steam_sdk-2023.2.1.tar.gz#sha256=b3589fc9865a5fe12b05f09cdb89519bec8e3f4efebaf536b381a7be7e0ed975" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/16/eaabe493e227cffda3618afa18855525f06cbdf9a692188e7cb96a6ea3df/steam_sdk-2023.2.2-py3-none-any.whl#sha256=231410d182e9f00d58f6dcc703ccf5db19588f655a1a509b6631384a42f5d893" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/52/a59d289f5031d1471d6be116abe3accd73b5667190b1dfb57151bb7000de/steam_sdk-2023.2.2.tar.gz#sha256=cca44119540689542e257b21ab7c7ae337ae5a162cf21e0b2936c92d84b37b71" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/63/f915be54759532eae95e1c41be99ef80bde539e6f800982ff653febccf24/steam_sdk-2023.2.3-py3-none-any.whl#sha256=f5851eef5478fe218e0c3a5b1c3f642fa8b9bb5f019babeb277c950dd2ca9fc6" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/7c/8ad86b47884d29a3ba61108e3c2d16a42824f83519977772763985c4c2b2/steam_sdk-2023.2.3.tar.gz#sha256=7b8b705212517925b57a52a1b85c2151f8f7d6b6698bfe5bfe11b94bbe59dc7d" data-requires-python="&gt;=3.8" >steam_sdk-2023.2.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16405584-->
+<!--SERIAL 17009965-->

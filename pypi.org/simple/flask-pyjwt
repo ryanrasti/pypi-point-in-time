@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flask-pyjwt</title>
   </head>
   <body>
@@ -24,8 +24,12 @@
     <a href="https://files.pythonhosted.org/packages/68/96/9459f43825d667aecb19935a9e0a001e908fbe777db6359d4e5e9ea20471/flask_pyjwt-0.1.8.tar.gz#sha256=807d5e2c7a90671cacf8080fabf4f91a79746bdad31783bea1b6497d684ae398" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.1.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/2b/5847cb646e890e9064d8720ec446f41f5471d88c3c30fb2448c6d8a8f9f6/flask_pyjwt-0.1.9-py3-none-any.whl#sha256=572eef3b403b19564406b5f1bfb075ac0a6f9a3de19dd1d2841425a5fd14efa5" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.1.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/d3/f7ecda43c3d8bfb34271e468383cb1605b428c17e9b72a1ee04e83f8fda3/flask_pyjwt-0.1.9.tar.gz#sha256=5d9eaf2588c8a8479a25a9f553e0a40b295c09c993bee53e6ae48a6cbd37f034" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.1.9.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/6e/af/e38a47733c4838d2d5317a4e5abd244abf5e704748269f8e4fbbb54cba9b/flask_pyjwt-0.2.0-py3-none-any.whl#sha256=2d7c2c55257ead5ece772277eb879ecde49c1dff182df278176b0f7dc7c3ffc0" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.2.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/4e/41/245d99e3cf720023291f10c73152c2074c259c98f0b43fb2fe572ecce13b/flask_pyjwt-0.2.0.tar.gz#sha256=a52d92dd7ab44d53d16ac4fba17587c14e4e5309384adaf1fa2d17e9e02f043a" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/af/e38a47733c4838d2d5317a4e5abd244abf5e704748269f8e4fbbb54cba9b/flask_pyjwt-0.2.0-py3-none-any.whl#sha256=2d7c2c55257ead5ece772277eb879ecde49c1dff182df278176b0f7dc7c3ffc0" data-requires-python="&gt;=3.8,&lt;4.0" data-yanked="Support for Flask 2 has been bumped to major release 1.x.x. Support for Flask 1 will continue to use major release 0.x.x" >flask_pyjwt-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/41/245d99e3cf720023291f10c73152c2074c259c98f0b43fb2fe572ecce13b/flask_pyjwt-0.2.0.tar.gz#sha256=a52d92dd7ab44d53d16ac4fba17587c14e4e5309384adaf1fa2d17e9e02f043a" data-requires-python="&gt;=3.8,&lt;4.0" data-yanked="Support for Flask 2 has been bumped to major release 1.x.x. Support for Flask 1 will continue to use major release 0.x.x" >flask_pyjwt-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/3e/a09474f49d438c8c8b06fc27031cbc9d7d446c461f582d544ab9283ff50b/flask_pyjwt-0.3.0-py3-none-any.whl#sha256=fd3ab1ae8a15b250701969b4b9bb6fa3a94151fc7918440c233aae186b044a01" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/d8/2a3600ad8a6bbc92153d230c1bbeb914a8a983df4cd21bcf4a393b2df80e/flask_pyjwt-0.3.0.tar.gz#sha256=bf7b5e89c9582d8c53a14aa59b2cc07c106ae960cd94e9b354e49b95490360b8" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/fb/bd83c93f5d7d43aa6cb1148ca6bae4406b8662d324964d281f80feff4a09/flask_pyjwt-1.0.0-py3-none-any.whl#sha256=42d5f7651e65b34d4c6ed9fdcb042c962b2a64b4e50b732c8dce266bceec435b" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/00/1636bb3268f7547387d020959a61cfc3223de277369784ebcccbc24dc50b/flask_pyjwt-1.0.0.tar.gz#sha256=0a7d8e191eaaadf8146757b3798803927acf0732071c341ee0a83ed6ca12458b" data-requires-python="&gt;=3.8,&lt;4.0" >flask_pyjwt-1.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15862886-->
+<!--SERIAL 16568788-->

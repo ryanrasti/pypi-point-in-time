@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for blackboxopt</title>
   </head>
   <body>
@@ -96,6 +96,16 @@
     <a href="https://files.pythonhosted.org/packages/ec/ef/65579e3f21d5e7e0307fa573835447ececab13510f6adf471c6584cbf74e/blackboxopt-4.8.1.tar.gz#sha256=bc7ef78ac470a5cd708fa15edcba1dbedbcd8fb2d70ca95f2baf2c8d2b172794" data-requires-python="&gt;=3.8,&lt;3.11" >blackboxopt-4.8.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/18/4bf71082ebdc81a76c2a80c2412577958c1aa57d3a25a2689ac1dcba0129/blackboxopt-4.8.2-py3-none-any.whl#sha256=beceb2b745dc450f722ee8e586a52ac5bb159ac40fef59e6591fd81924a8bb8d" data-requires-python="&gt;=3.8,&lt;3.11" >blackboxopt-4.8.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/74/95/3faa686d23d6320ba12c0908dff608610144ea3fdadc2bd6447043407ac6/blackboxopt-4.8.2.tar.gz#sha256=21784340c2c2d660a2b5f051d4630ba47b2600cd7c4506cbf7444c198222ed05" data-requires-python="&gt;=3.8,&lt;3.11" >blackboxopt-4.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/0c/95fcddfef75bab6eba51ad62aac44ca80f94a47d3fbcae1923ec7cadca19/blackboxopt-4.8.3-py3-none-any.whl#sha256=fce1c974c03051429ad565fc4259d71b2f67a18f32f5933ec3e689e69d0ecbd2" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/68/20a45fff3f8eb96684df8c0310f4861d3a667621a4f5d05cbe041dd942f8/blackboxopt-4.8.3.tar.gz#sha256=adf8adced76b9b124e8dcb323a711f4513798cb45c0c19c0c357e65edaf82e95" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/7a/4e30c4675a99ca8731f6eb12ca79d576c0cc842366ce75ffbd7a5d210a96/blackboxopt-4.8.4-py3-none-any.whl#sha256=76e204051573745017bbf026d9fdc43ae3681590f8c666d74cf3ca49c15e4a0a" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/4c/1eca41f57e2c334c431d94be95bfbd1b15c9236adc76f4c21bcd18e52a47/blackboxopt-4.8.4.tar.gz#sha256=a0e0b7a0875229168e2cb648f558cc2edd6bcb5edc78c5fe767b96ba021cbbd6" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/d2/7827c3841f9d5a8c21803e9f85cb1ce2b663e3a17938cca4c78566f1806c/blackboxopt-4.9.0-py3-none-any.whl#sha256=70087a80a64d8b62bef9d94f324bbc8ee3bd570f09c4e4400b3168ea4c5b80e3" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/d3/dcdd6db90f01688a0d2e1aaa801a905a114698eabb38fb0fc9d64cb4ae6f/blackboxopt-4.9.0.tar.gz#sha256=462247209d2960dc9cc49f2d07f2a1c3322d2729c2f9fc6dff1ad23000f97cb0" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/68/24cbf9a83d1ef7691e9ac932e50147e4d4b2b1e6a13109bac5b8cfd2420e/blackboxopt-4.9.1-py3-none-any.whl#sha256=2a96ea46790fd76b2ced762c7756fde5f354fd5c14ca5da14b047ca07cf67c79" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/10/8778a9fdf199408eac6823ba263f2add1d3b75175f56b5a76ea1922b4872/blackboxopt-4.9.1.tar.gz#sha256=d1c22e16544b6a0f1f944a978b9c34690582f1946e845f98c56e7895279209ad" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/90/0974d20e8c2019499863af7ca4326af42ff3e06865a6f3dea2a3229fa82b/blackboxopt-4.10.0-py3-none-any.whl#sha256=b4616f9a1cac054cd7362e152ca106f2312c2293b56081e640b66157f1471119" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/d2/e7f9a45a45d2921bb17c0a39fdaba2a3d8c8c3ce6f520acd99f80a329a0c/blackboxopt-4.10.0.tar.gz#sha256=359eb3b8c1bd507daf31982885c2339db3479e04a8968106c4c76eba24bf7c36" data-requires-python="&gt;=3.8,&lt;3.12" >blackboxopt-4.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16111277-->
+<!--SERIAL 16884629-->

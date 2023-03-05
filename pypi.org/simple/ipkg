@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ipkg</title>
   </head>
   <body>
@@ -24,6 +24,8 @@
     <a href="https://files.pythonhosted.org/packages/16/7d/6f58ddb5450c18c4648610398f936c533424a18665981248b18a253a0f5c/ipkg-0.1.7.tar.gz#sha256=151b43372bd62a5b7526dc6440ca364d808c77e7a9016e7ee87b181787d00465" data-requires-python="&gt;=3.10,&lt;3.12" >ipkg-0.1.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/bb/2085d2a8d23957ef2d871a70f71838153bfbb3089def148c36f5ce8be6bd/ipkg-0.1.8-py3-none-any.whl#sha256=6b7c8c1cb5bea33838811f5e9d9307e2e36e6f60e467b9421d036dcbe86ab012" data-requires-python="&gt;=3.10,&lt;3.12" >ipkg-0.1.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/62/dfd362475b76727a78cfc77a04c21e1182695db1f3e17fabdae87ca6c428/ipkg-0.1.8.tar.gz#sha256=13c97e54485465e5436104c7feae9ee4075804967b32e4aae09c34724077d118" data-requires-python="&gt;=3.10,&lt;3.12" >ipkg-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/04/f93376bc23ea7729ecedc9b7752874f25f657d36971cce7d9cd209e0406b/ipkg-0.1.9-py3-none-any.whl#sha256=b40795be9a3393eb103597aa5aa27fb8b562eaf0e3f7f760f6467cf4e3e431f4" data-requires-python="&gt;=3.11,&lt;3.12" >ipkg-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/af/265d07e589858aeeae1289049244d591dc242f8d248786a3734a6e29aca3/ipkg-0.1.9.tar.gz#sha256=b2496b1b9f2a17e484d511175daa57ddc04fd4e836fe01ec92de549f4c193c96" data-requires-python="&gt;=3.11,&lt;3.12" >ipkg-0.1.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16401605-->
+<!--SERIAL 16566164-->

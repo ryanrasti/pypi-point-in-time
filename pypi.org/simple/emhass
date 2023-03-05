@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for emhass</title>
   </head>
   <body>
@@ -58,6 +58,21 @@
     <a href="https://files.pythonhosted.org/packages/61/39/9bb47abf98824ba1434a29931d8f9a05cdbd3e83ee0aea953bac9660fe6c/emhass-0.3.19-py3-none-any.whl#sha256=0fe029578f6fc22dbb4bcd2ab0ceef93dd36011ece6ac5d2661e8f6188d98869" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.19-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/7e/2d61885497295f68176b235f40ead884e2457e03da2adaac430c130df8aa/emhass-0.3.20-py3-none-any.whl#sha256=8f4a990eeebc7310d711584a9720c8949b4a7c0dad9c02a2b78a931a7d1abec9" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.20-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/44/ce/01bc0405b248e4361b67374c4ac49021d92c411a249c487770a7675d1254/emhass-0.3.21-py3-none-any.whl#sha256=762f3a55ec03bd31cc5d6a78f9d085335414b53770cefa22a49006a6d5d9f55d" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/2b/84cab146f013f175d9db8882d1502eedc05fddf9e6b0fe1cfc01ea7f6946/emhass-0.3.22-py3-none-any.whl#sha256=ff422d5f07410e9591ffb2f5d20933d9148f4d3c5345775f59c1b21c886f960a" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/ff/1254f2954167da0a09b24a9a5e33ed26f7b39283a2864a16d0bb1cd579ec/emhass-0.3.23-py3-none-any.whl#sha256=bc379cf48aff46aa8764706b2d471dadedb955cbbc7afb24459a21d60be7081d" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/b8/d347883d6c81dfa03cce404f797dddae347a27b9b75075384548d42b3b6f/emhass-0.3.24-py3-none-any.whl#sha256=05926a1470f0d80dd2e10789ac03979e1444ac4957aa13b356d1309e7ee4012d" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/45/80ca0b1cf4da9044685f3a6f0ab2f7c31d79c486beaec86fc044c4d2e328/emhass-0.3.25-py3-none-any.whl#sha256=e2ba1b45138d4a546e71e79bc5166b647f6c83528dee2b74badb6051392694c7" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/70/2deebf5f0087367c11422b752a9846048fed55c914e18063fa47711d1e11/emhass-0.3.26-py3-none-any.whl#sha256=89ef65419641fe4f2bdbf03274083018b68aade8a3fe1218d84e3ba782096546" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/2a/4475038c3c75aff69034b9a8ddc2524e4f13ff49ca1201bc64f59a45edd4/emhass-0.3.27-py3-none-any.whl#sha256=1b82af52b6f6b2741b7adfca144cc625673496efcc38472f77234658bf19b7c6" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/4c/bf79cd304a16763b50089f88d7ac7e21a64f436e861c2ed6a948893dd6b3/emhass-0.3.28-py3-none-any.whl#sha256=e863324affe4b41383e79601f040bf5f21a8a428836e0404d49fa6bc0bb5f6dd" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/7e/d06ea680d858fe64ca9203aaee7ad72575d25cf1e0984737d1928f89cb5b/emhass-0.3.29-py3-none-any.whl#sha256=f566bd9b8d48b4a8ef148c6f839b2d90f19d437369f534263570ee0e2d912f68" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/04/82a68e1b6b9166e994e724943f5ac656676a1eed713b1bd337f597b1a033/emhass-0.3.30-py3-none-any.whl#sha256=c17c73e7407537a07d694916aba92887400348100aaeb58732c011753881705d" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/c7/2b9ccc36b2d113c1051a29fd407dcc041cc339db0c8e3872441ee20af7c7/emhass-0.3.31-py3-none-any.whl#sha256=4458b2db69064fb44bf6e1dfc3202ddcb35c949c617a139a1efe67096d6836e2" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/4b/a3cb0370c99f46c16927f633ba47ea47965f67d250c26b8f64cdb0ca81ad/emhass-0.3.32-py3-none-any.whl#sha256=92817e4948c2b24271433b1104a84a4a8919dfa9adb17fb8b66c62869e598737" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/f0/1c6c1ef9cce5bbbf1b876847022c34a0b1ce18452e319649096b307b3966/emhass-0.3.33-py3-none-any.whl#sha256=1894da3e0367f658abdaa1b9f4a618e0ec7f85bd5d50cece9c161060158a6fbe" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/10/60060d56cc5e18ed4f5967251b795739aeaa80b3838643a9d119bd5dec7c/emhass-0.3.34-py3-none-any.whl#sha256=337950bddc704526aab311c6f6ebe2630dfa52e6932650c2fe30815ad7e9c578" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/2f/494888787caa62f3cfd67bb47fb0108e17989105ff984bb120b8771405c8/emhass-0.3.35-py3-none-any.whl#sha256=f0a8d78ff666ab1f399ade87fc8225bd9abad7693b9feebfc39e5f40ab77fb9f" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/d2/70485f4a05b8c8dd61555e76a06d91eaff2d1ae22e2648ebe72ee6678527/emhass-0.3.36-py3-none-any.whl#sha256=eb439d337062695758fc1ef2ddb5606d0947db41e0326304eee51c320d5fce58" data-requires-python="&gt;=3.8, &lt;3.10" >emhass-0.3.36-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15587789-->
+<!--SERIAL 16632205-->

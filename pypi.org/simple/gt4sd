@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gt4sd</title>
   </head>
   <body>
@@ -100,6 +100,30 @@
     <a href="https://files.pythonhosted.org/packages/33/d2/86f69616ad2202ee0bcedb9e3dcb84a3e120ab8737fcdf680e92bea350e7/gt4sd-1.0.5.tar.gz#sha256=47f2d81522d3735068566ee588545a1cf08c17cc5a25cb62f7b97ed60e0b6629" >gt4sd-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/34/a5/037fb30e150953ff774fa613cf1c32ca51f01a30e9d2ccbfb38603521e47/gt4sd-1.0.6-py3-none-any.whl#sha256=878970cac9db85591e0722ad6e8c661ccd99091f1aa2dd5e1aaabf21b86ba772" >gt4sd-1.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/37/0f8b17c351696ade3c1740cf618219684b6c54b7b874ebc597e2b7fd2f0c/gt4sd-1.0.6.tar.gz#sha256=699eb890ed3b86b87bed62bfc8808af15d15e16271df8a84364e214bbc1c5454" >gt4sd-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/a8/d582f226799b3ef8dbbbdc334d70fcf8b073bc2b5c8d395e0eb7f01181bd/gt4sd-1.1.0-py3-none-any.whl#sha256=26473e68c19b84cac22035b3ec1800e444942427431512cc207d72e661f3bbce" >gt4sd-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/5f/993e148f9645b06c4bef5a56c43c081f2b2f0862137a8f36c24a418e742e/gt4sd-1.1.0.tar.gz#sha256=7f800336f5b46fc5480cb4d6852ec5c007b4e1f35b8c2957306ca88cc049acf2" >gt4sd-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/9b/d4d9d29dfee74bbf1d7bdb855d01da59d0a69d5ec5a6981dc30c013ccd0d/gt4sd-1.1.1-py3-none-any.whl#sha256=63825d9f02061d81f40c218ff95b97ad51f3d19e21020a945975560e8dd09206" >gt4sd-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/3c/6d727467f90281f18f342ba30c39b56314380575f7e72be554d65e9bff5d/gt4sd-1.1.1.tar.gz#sha256=63d71573eb14a9e7e2a8a7037267d2163a47c7c5da5972380c6af8c0678c3f20" >gt4sd-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/28/921778155e15423a2db5900df3c0177b1b70f0f9c2e36b9116ab148c95a9/gt4sd-1.1.2-py3-none-any.whl#sha256=86c5201d2cb0dc31cb4adb42b3e3573671bff9fd99e1cd02a248d4442603af4b" >gt4sd-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ac/b9d014ea01e34118d24425c86c03d422982bb8cf002ec74ce87588fd2f08/gt4sd-1.1.2.tar.gz#sha256=300079467a8a365979def4618e16a669b7c721399a78517f1f25d96800ee4349" >gt4sd-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/e0/02ce07a4af81c78e3b3cb077b0167207c22bb064814153146b0f6e5b1403/gt4sd-1.1.3-py3-none-any.whl#sha256=23857485253809bef62ef1fb2312680b977a9d3ef3caedfa178ea001edcedb4e" >gt4sd-1.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/f9/6f331bcc384bc883259a04e6b96d7047fa7cbab828c43a5ceeb6698fae0c/gt4sd-1.1.3.tar.gz#sha256=b60622e02952eaa460fbeebc1638d8fe4bf2bca96be7e02344ace74facb43769" >gt4sd-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/ae/87e261c0a866595250e9b3005a89489d39890931dcd992a49dd464e96dde/gt4sd-1.1.4-py3-none-any.whl#sha256=58c23610657789591eb74fcdc96a1c3bb9ebd0f12afaa88a9d0e84042a359d69" >gt4sd-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/48/68d3234e15246e34aaed7ebfe4f8d2802a6301751e38d5d053a93543b820/gt4sd-1.1.4.tar.gz#sha256=8089634e8db7521c48cd657b5c38ccbfdf59a328e153500c50f0cd35758bfac6" >gt4sd-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/5a/a108b86e43c3f4ec2f5ea24e11e28392acc00081dde408be13dbbc77d394/gt4sd-1.1.5-py3-none-any.whl#sha256=547e867849ccfa03e6af1fac501d4f8dbff7885c97f103466c455605d2810923" >gt4sd-1.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/a3/438723190af78bc24d528493119a42111b0f73410f794852aadb568a124d/gt4sd-1.1.5.tar.gz#sha256=2aaddd913121bfaf297e127f45de47eae76e8fdc653a377405c02ec56027c330" >gt4sd-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/a1/0df8e6395da35526c92c3634e7e3a6e963945b4a9b59d466b0e7c5c1b8cb/gt4sd-1.1.6-py3-none-any.whl#sha256=cfc38448cc6822a22d3262ab4b1273754b8019431badfdbe14dcd63b92ae7f9e" >gt4sd-1.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/41/b4840df86c89b6ab99e5bf8f31bd58a29f8af143fd125eb3138f099a3575/gt4sd-1.1.6.tar.gz#sha256=48d3c984eb82b1e577740aefaaec0fd9074453de536421bd5f4248ac69657a2a" >gt4sd-1.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/f0/8ff483c1732ed1b03071c4ed4672a5df61e06eca85d80c5d77a46a5b949a/gt4sd-1.1.7-py3-none-any.whl#sha256=576c505e4cb40aa3a652cd040ef2fadd26824abbaaeb53d747d4f552b8027465" >gt4sd-1.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/94/dd47ab2ac5bbc2138881228bdf18613e9676dff771a18ca7d51db3078044/gt4sd-1.1.7.tar.gz#sha256=c7901f169259e568a3fbb224d45cf104e386ee7a12bbd361b0c8b474230be1b2" >gt4sd-1.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/e0/82ecce085f83234eaddc2c1e187f2045f1ea8834b3d0851beedaa8ed5e59/gt4sd-1.1.8-py3-none-any.whl#sha256=bd4141fab7bc8af63c98b760f3af102483b60c88b8664e2ab6dbf130201eeadf" >gt4sd-1.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/6b/45e60b5ee49ab1fa3c9f96c81aaf7bd5944b37614c6ad63412deecb25f22/gt4sd-1.1.8.tar.gz#sha256=c96d0737a9871e70f37155952a92c0f5813b49c31ce2587fbdbd433869505e0b" >gt4sd-1.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/89/c7ee340e6b44c75bee2408f5c457aa63b0a1b61390b77124ed6a5e081ac7/gt4sd-1.1.9-py3-none-any.whl#sha256=79ca23183c56df23b884fc690f6ef10904b787dabf0aaea90f1b1ff7de77b707" >gt4sd-1.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/2f/acfc5c17f68b71eff55acfebd9c5334e140ed55742671e6234931add9f4f/gt4sd-1.1.9.tar.gz#sha256=009e86cfd4891b6a4897487372f080504e60c5ad515ad54922bb687fda93f2ca" >gt4sd-1.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/d4/bd83e803c7c5366b008a787a990d50e5d42ccaeeeed7dd2e5ce88dfc129d/gt4sd-1.1.10-py3-none-any.whl#sha256=281ddf42bb8a79cdfef4d30ebd039eb52d5ac59169c579bd6ab46db9ba4aa01c" >gt4sd-1.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/ee/5013a41b4e6dcfcaceccbac07804585c58177e238c616d4343736d8a0402/gt4sd-1.1.10.tar.gz#sha256=e31fe653f56973140ac00d55f21e069da7b3feb5f6edff7daed202597130d378" >gt4sd-1.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/82/36525593042030d947c1cb5b819d443ba2a78c5b6beeb4310c56c8188b40/gt4sd-1.1.11-py3-none-any.whl#sha256=8fb55c5566af2a6a2b7cd404b7abb4f7b03c8a33bd3d616b0103b31259aeace0" >gt4sd-1.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/52/a7c7fa75a98f8704f6a29c752c9e378a56fd4b6c2b5b2d92e766fdbc3196/gt4sd-1.1.11.tar.gz#sha256=fdf7290f40a6061e62966052ae96e5e8da07371df64fcaf182d29e2779d94906" >gt4sd-1.1.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16360351-->
+<!--SERIAL 16964897-->

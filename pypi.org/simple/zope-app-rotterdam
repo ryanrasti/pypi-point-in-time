@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-app-rotterdam</title>
   </head>
   <body>
@@ -17,6 +17,8 @@
     <a href="https://files.pythonhosted.org/packages/45/8e/17399427c09ca79faea60e9dc225e586502bec2d6bccff8b4426e83bdc3c/zope.app.rotterdam-4.0.0.tar.gz#sha256=2bed776d3651eb6a4bff270b8ab4e7fac10664866176e92ecfd3749063fe640a" >zope.app.rotterdam-4.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/a8/e2d17c81a40a5fc3916d8c149470660087544a2794a38e800abc64c18598/zope.app.rotterdam-4.0.1-py2.py3-none-any.whl#sha256=bc45676c2afc72fb7da5066edfcdd16d22beba99aadffe16278540fe93e67e5c" >zope.app.rotterdam-4.0.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/36/2fa8979fb774807e14fa50daf7de78389db7bbf0cbd81a6a6f14da2feba9/zope.app.rotterdam-4.0.1.tar.gz#sha256=13ebf6fc7918fd6bb0ff3dc0dace0d1a1638b18e412867a12e3f17a1da9a83b5" >zope.app.rotterdam-4.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/22/6e79454d88358e5a49499446a3c6e419ca1802992e300ea767514618101e/zope.app.rotterdam-5.0-py3-none-any.whl#sha256=f802d762def43708df9c3586dc088c3d3de8261a9aaabf7b136c5e513feadf4f" data-requires-python="&gt;=3.7" >zope.app.rotterdam-5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/a3/63939786bca1d7a1c05d75b0757652f533b4ee993d19935c413ba94c4598/zope.app.rotterdam-5.0.tar.gz#sha256=e0c416b03c2b02e8884d3ead636bb928aa535b2340e1dd815b1f07809096f099" data-requires-python="&gt;=3.7" >zope.app.rotterdam-5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 2897868-->
+<!--SERIAL 16724759-->

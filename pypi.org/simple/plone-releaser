@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for plone-releaser</title>
   </head>
   <body>
@@ -44,6 +44,8 @@
     <a href="https://files.pythonhosted.org/packages/80/07/e358edd096c0c996b06f8b74f4b74144517248e6752482daea2a645ce20f/plone.releaser-1.8.7.tar.gz#sha256=15523b31894e02cd6056c1d32129cdc1402a0e308c293540ac8c9c7aa5c621f0" >plone.releaser-1.8.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/00/74/2fbe88b1ed6ee0229c66d3d1b09fef19f874b6b0f03791ae65fbf5bc74b3/plone.releaser-1.8.8-py2.py3-none-any.whl#sha256=cb39d9500c97db0867a0a2887cc0bc99eb4206e6b709ef3a21961f0a6e86ff7f" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >plone.releaser-1.8.8-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/4f/0b35e6ea35d6f49f4ba76754104dd43ff5af7d48bd6bbcf6dffdc785cd4a/plone.releaser-1.8.8.tar.gz#sha256=19bc703845dd904e6d81acf0fabb8dc6cd388ed782407ea19433483ad3ebec40" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >plone.releaser-1.8.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/b3/8860cb7245033329e6464a779afc94bbd28a488ce1c2118257471f5841bc/plone.releaser-2.0.0-py3-none-any.whl#sha256=3bf5cefbf467577a98a4f1ce9d68429c54b92cf66395abc43b909a4d74412a4f" data-requires-python="&gt;=3.8" >plone.releaser-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/31/b8e2eda4bcbd687b098e735960f6feeb229810b7d09d3c856468a7e9cf7e/plone.releaser-2.0.0.tar.gz#sha256=18b040059942dd334f6b50563f556a1a92fb09ecbed7b488185b191186fe962e" data-requires-python="&gt;=3.8" >plone.releaser-2.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16174756-->
+<!--SERIAL 16993403-->

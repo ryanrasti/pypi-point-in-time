@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for divina</title>
   </head>
   <body>
@@ -28,6 +28,21 @@
     <a href="https://files.pythonhosted.org/packages/8d/f5/9e65081cc737f896c3566716a74e870b2b5eb7f6ac3ae8288bff03e647f2/divina-2021.11.23.tar.gz#sha256=636ce3171a788c739d24394d4b8127e5090446a2d7c3ece5ca16e0b9cd6068ad" >divina-2021.11.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/92/92/1e3e947ba6e942fc2c33a1350712d00f7820ab20b2c2e84bc1aee16554f3/divina-2021.11.29-py3-none-any.whl#sha256=6d606bc7466f083f90203569e242f7bd8679b4b621ad9c91471b07e64166be57" >divina-2021.11.29-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/9f/1bf4a83f1e0bc0251560a8f7da4efe375c25d8e3fe7e7bb362615ff2a97f/divina-2021.11.29.tar.gz#sha256=2f9c49d0f8959c05fbfc8db56144e396967ec9a72a1ff8a5270780e3e656215f" >divina-2021.11.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/ed/7265a66b605e48a709858f0c4152d52c8624b36ea521a5013a9accc35118/divina-2022.1.26b0-py3-none-any.whl#sha256=8ccae22fb22134e68f946ca4ee30afb1a1de320c6e68b7f7fcc4b345deb6635f" data-yanked="botched release" >divina-2022.1.26b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/03/77544179b879c44079d4822be1d1b36a07e385383aead5182af92cdd824a/divina-2022.1.26rc0-py3-none-any.whl#sha256=4710176cb80bde46f2af694f2aed3874c209c5c9143f3390cfac7909b80d75c6" data-yanked="botched release" >divina-2022.1.26rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/be/454d82b34b8c0fdfda3b51fef3526686da0513c600e34683e3bfd030c8a5/divina-2022.1.26-py3-none-any.whl#sha256=cbfbe45521ed20b1bc54594df54bedd1e8fe5016e3601729742fd55fefdedda1" data-yanked="botched release" >divina-2022.1.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/90/341111236fe0bb1c937cbb2a38e9b9312cfae1add38a28a27bd0cee25259/divina-2023.1.26.1-py3-none-any.whl#sha256=c743571f18108ee50a7c368eb7bc4525d66ad8ab55068e405f93a883e14d2975" >divina-2023.1.26.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/34/8fbe927d4ea63a0ff482d4c4e8773d404ab802deb40822258d95fe3bcd85/divina-2023.1.26.1.tar.gz#sha256=1326c9790583f244bc89f594333e4cb6530801cb362b8699ede1526722a1c9c5" >divina-2023.1.26.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/d9/a5129d5c16df392038d1ba2fc2935789e83cc578c413c9976ae4561fb69d/divina-2023.2.1-py3-none-any.whl#sha256=bb572bff77f0c6d79ba4b9563d3721225895c2af0d248951b8e9ed342f22c5aa" >divina-2023.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/27/035061b292ea38fa8d3b78c8d8336030157169a845e2cd44b0e244de2be3/divina-2023.2.1.tar.gz#sha256=ebf13a162eb2bcd0f1fe6bbf14c194c1ee3b7329f61f184530e627ad10fb6841" >divina-2023.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/76/7a6354c2da8869dc3f9ae3c1a1d01642118f3e6f8a43632ffd59c30c1463/divina-2023.2.7b0-py3-none-any.whl#sha256=2930ccafb697fb0a4b4b811fbf209cb0bf478086051ae0c2c4ab7e3c522cbe76" >divina-2023.2.7b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/15/853f6158af779a2686722c5ed57e9d8ae13d46a43fef024f71277ac098f4/divina-2023.2.7b0.tar.gz#sha256=10c1cac06ebecaaf1597d29e4f3cc93cbae246183dff7530379c258448c1f635" >divina-2023.2.7b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/7b/e51de1d9e667a00fa18d1337540ece1030d0d9848e65b9214a3b8f0915ec/divina-2023.2.7rc0-py3-none-any.whl#sha256=0123d2b745c0d1a321ddfdf1dae6f216fabd227a4079ab4bc99d8f3fd34e2ddd" >divina-2023.2.7rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/9d/6df250923ecdf25e6f3bcc27b1bdf0218dfcf69d6ffc3f16e82502c6cfa4/divina-2023.2.7rc0.tar.gz#sha256=bf798f031bb1b56744b47aecedb964f4b3e1c15157bfacb3e8885b0829386f8b" >divina-2023.2.7rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/6b/7bed8a1dc25e2d43365fe47af626471d467a1aad824b689424ad9eeb040e/divina-2023.2.7-py3-none-any.whl#sha256=315c72c810332f5e10098b5f827ff9f3a64151ac7d316564f68d917824a782f1" >divina-2023.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/6a/a403d9d31c5e7034357fa0884fd19e999cb2636b57eb7fa1da5871988133/divina-2023.2.7.tar.gz#sha256=374d81d7198da315743a21a996392abe96649adf3816212c1a8e698ce2de5566" >divina-2023.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/fb/d60bb5e92b0884d3eef8050bd95b9d2ff0a83a6bb711cfe674a301e424c6/divina-2023.2.7.1-py3-none-any.whl#sha256=7498068d4efb2020b41051903da983397d6f2058fa2bbb64d6b71ef9fccc9da4" >divina-2023.2.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/ec/fb82def425ff254317f5b91921cd04fe2661b7d369af203e08a442026aea/divina-2023.2.7.1.tar.gz#sha256=5de613a5d37d3cc2f2c3121703ee4f95fe1db4c36525470a00c504092748e515" >divina-2023.2.7.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12162721-->
+<!--SERIAL 16733275-->

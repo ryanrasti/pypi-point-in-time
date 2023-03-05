@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flytekitplugins-awsbatch</title>
   </head>
   <body>
@@ -128,6 +128,10 @@
     <a href="https://files.pythonhosted.org/packages/d1/95/45020c1fc051ff83961650be47598ecda164a14493de1ad61ac75682f278/flytekitplugins_awsbatch-1.2.6-py3-none-any.whl#sha256=a67cbb98b34632dff1580eed71c0541e6f44964844f77e736bef47020ffb20f8" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/5f/e3ddf3c1e5e968530a7b438412f4ea26e46d98c2a149a69e2d47f6491a26/flytekitplugins-awsbatch-1.2.7.tar.gz#sha256=966fa70ddc1c3dbe16308e06805008c1ea1a64aada85ca587593291702f2d2b6" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/61/0566f47a7a8b73e4a4c3dccf2c83ffbfebfdebf8042112c43e2f82efaaf2/flytekitplugins_awsbatch-1.2.7-py3-none-any.whl#sha256=ca4960a0d7e2ecf155ca4672e984606b2e95bb452ee8dd3b0c22d8b10ae77ca4" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/cd/80c7f39bf2e820ac8b8931bfffbd54c1f3cc594db6bd9c55ed3fb1a52aa2/flytekitplugins-awsbatch-1.2.8.tar.gz#sha256=9389757b946c45916bc8d400f00d9f22ead5ebcd22e91d0253243cfc9c144613" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/ba/68c49250104c7d250ee991ddab4843a9c10bf332d82fbdf7a7f65dcab298/flytekitplugins_awsbatch-1.2.8-py3-none-any.whl#sha256=577721025bac54a8453b6ef17092e138e3e7eb4579020b1cdc96e9d43503faac" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/30/cf31c20feb62226f0ed1b0db7414505f09b5c29212e237c6790d6b2a28d1/flytekitplugins-awsbatch-1.2.9.tar.gz#sha256=93ed8379e8bf45da6c73dc843de04fe8abc6d7ad8cdcacf6826165075cd4806f" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/44/35c35cd4f60893b9e50a1bbf6f7ae6a90cd284d1b2bc97e68a382e1e58eb/flytekitplugins_awsbatch-1.2.9-py3-none-any.whl#sha256=74102a5fea9e5d38f7ba546baa0a7de42c8e0d0b421c1ad48c122343019a571a" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.2.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/e2/11824c7c1504f40b0bdf1ed564ddf4e32fdb847668a067ea9f8c1d4258ed/flytekitplugins-awsbatch-1.3.0b0.tar.gz#sha256=daf739d708c412fa17c00eac1508dadde60ea02096e1e5a88c067539b7095c94" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.3.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/a8/2139ae1a7fa0ba06fc32b1e19b79f35cef037d5495697039955eba35308f/flytekitplugins_awsbatch-1.3.0b0-py3-none-any.whl#sha256=92bd40356360081d7221eeafc4cbaa4f3a2fb11012d6d8f52cb008d789fd6bdf" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.3.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5d/1d/9538e57344d8edf7e84cc6dca3d47aa9d265ecd056d78f054e6937b3bc65/flytekitplugins-awsbatch-1.3.0b1.tar.gz#sha256=0e70643e1929b9ab4fa330363bf0c9a3a5e86672a729cb30a46bc2ea2cdafd34" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.3.0b1.tar.gz</a><br />
@@ -144,6 +148,14 @@
     <a href="https://files.pythonhosted.org/packages/d9/ec/c51581584fbc6b152ad78e87a963004bc6ced94289456e6a05b4a32bb1b6/flytekitplugins_awsbatch-1.3.0b6-py3-none-any.whl#sha256=d7553f0fdbb5592230049ea0d59d098d93ae70817ba137d5b052d6720abcbca8" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.3.0b6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/70/5d3d1f08c97ffadeb7c90bbd553cba7c721c59fb2f62aef7a7c50b8a249a/flytekitplugins-awsbatch-1.3.0.tar.gz#sha256=68e5dfa807a406d86b72aaffcfd0f9bdacefd754c0d4ae6eed89edb7fe276153" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/66/61/dd2fa9a4a3d994fc6c1fbaa5d5707699235019dce4f4441f7ddba1c3fbbd/flytekitplugins_awsbatch-1.3.0-py3-none-any.whl#sha256=9a8c62b0c253e8c1886b8c6edd2fa7b1d368ca730139e39d796573a928ac76c8" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/ac/73eadbdfe61ebabfaffd2b4554c64348c97d4e556f18028e32e08f884cff/flytekitplugins-awsbatch-1.3.1.tar.gz#sha256=2e73a5420bcdd46dc9ae218fbb8f790f4652db21738278e8f9c6d8ad1f6866d6" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/4e/9686ddeaba648c5ae69541880e52539c91164a3722218002ac922870b381/flytekitplugins_awsbatch-1.3.1-py3-none-any.whl#sha256=3b05be5652ee1ef564c8502df24b6741ed645677344b5c3a6485f56f4a81494e" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/c2/f5f069052997b494b29134dca2a7510792026b448c610507bdb691eb62aa/flytekitplugins-awsbatch-1.3.2.tar.gz#sha256=750632811b6cf356e3c57ec869a53bd8f5b75650d8d845ac1a703a4c1870c2cd" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/9b/c8e6789619b49d63350da9499af4b6577f4470cb2d35590027ec84fc51a5/flytekitplugins_awsbatch-1.3.2-py3-none-any.whl#sha256=3e8f61379e34d799047751f30065181aa616508ffe2d99dc684fa27224992548" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/dc/561677fcfc80937c7f0e7fd92c4d63060340f98f6f5ed696d3ebdf91260b/flytekitplugins-awsbatch-1.4.0b0.tar.gz#sha256=6bc4641f903a560a8a9a04059f82d2df039e8708820b3152ce5c9b5c44084aac" data-requires-python="&gt;=3.7" >flytekitplugins-awsbatch-1.4.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/f9/b1d6cd0aefd3ed3d5825a5ea67096724831ef67bfc34a764cdc839fc595e/flytekitplugins_awsbatch-1.4.0b0-py3-none-any.whl#sha256=2d550810c3349be4ce4331196c18ff589e6bb0a25fefb14e92512ef1449cf916" data-requires-python="&gt;=3.7" >flytekitplugins_awsbatch-1.4.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/5f/64f8ba5222c8d3a1b676c459a3a45606fa0d336ef3a5c817ba6f1268fe28/flytekitplugins-awsbatch-1.4.0b1.tar.gz#sha256=00904e656f52316cbb43c623e3e920b8953f15ab9f8db5d0e34b3f225f96a0e8" data-requires-python="&gt;=3.8" >flytekitplugins-awsbatch-1.4.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/90/0b8549e1c8d5f6fffa98ed7288e53b4e2207a2229d0f6d8edd9ad116c58a/flytekitplugins_awsbatch-1.4.0b1-py3-none-any.whl#sha256=e9878508fb0e89711996108247e71d4b954318f8d357482bbe53bc8dd9e93f66" data-requires-python="&gt;=3.8" >flytekitplugins_awsbatch-1.4.0b1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408006-->
+<!--SERIAL 17100673-->

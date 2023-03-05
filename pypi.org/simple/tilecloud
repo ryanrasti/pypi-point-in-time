@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tilecloud</title>
   </head>
   <body>
@@ -44,6 +44,8 @@
     <a href="https://files.pythonhosted.org/packages/a5/b5/f20fc721da79fe9b5dd9470038885fe1033fc98b955e4b2ff056cc4bd719/tilecloud-0.5.0.tar.gz#sha256=fb68b07821036e53a192a44d51bd344d44db932d9a0f3d3f22e1135c0ef34dfd" >tilecloud-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/32/faf97eee725934ade62870c165f0a4da29f0f2da2ed0659b5b220c3ac670/tilecloud-0.5.1-py2-none-any.whl#sha256=c390dd3899c8ba4fd37b38e4c603a963fe492737f170c39ad39e1a6841ccdb2c" >tilecloud-0.5.1-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/ad/8bc133c4e80a191f9ced1f128f3a94234ee8e498e879d1ed8df723ffcbb8/tilecloud-0.5.1.tar.gz#sha256=079c4af88918cf98212da99cb0f7b1baf34258d9647562cda1db2f68ae29258f" >tilecloud-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/78/bbc65108a1e9fb80f8c8524373849a1585f1dadc64ab5f531746c4eda1df/tilecloud-0.9.2-py3-none-any.whl#sha256=e0e2b4deffd900b55afaad657f9c48b0accd6e8851b299b07c09a34fb0d36b1b" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-0.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/e6/ad008c66d17753396951e7d92ffe8608e8368a4e063bb70c9233cdb902b5/tilecloud-0.9.2.tar.gz#sha256=4a6d753a4e7f27821f746945ccbd63f0fad05c02103a6a80531a0c2661a42fa5" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-0.9.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/23/24/b56c717f1a144c2bfac0a523abc67d7b2a91689741ea4d0b9acd06dc0521/tilecloud-1.0.0-py2-none-any.whl#sha256=3d22112b8cab2a8b3bce69798edbab59dbd5f7f2cd912d25e463c294dcb4a7ad" >tilecloud-1.0.0-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/95/62/9987adb8e7334f3fb5b16097db16a024ca438db53eb2e355ac45da229b46/tilecloud-1.0.0.tar.gz#sha256=060cd9b73c84e950f49fec10f316b62dfa5292758180aab0140cab2560bf847b" >tilecloud-1.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/47/6da32e3fb65c2d674e1de170eb8229f4131bb295047e789adfc59176b451/tilecloud-1.0.1-py2-none-any.whl#sha256=2b1f4da0a10745d4601298972a6c817bd0e41355f1023d4257846467b245c1c8" >tilecloud-1.0.1-py2-none-any.whl</a><br />
@@ -99,6 +101,12 @@
     <a href="https://files.pythonhosted.org/packages/ef/96/b72f5394641544a01901e0c197b4ec17bb31a8e15c04af38199b11022071/tilecloud-1.9.0.dev20220609162044-py3-none-any.whl#sha256=61b5a68523f27dba1d8200a2aeb68aca632d49a193bc2d889a2e431cb7bfb9db" >tilecloud-1.9.0.dev20220609162044-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/39/53/b141fcd8c64038adeb46b7e380a8eae9a8f2306b0828541f589bce046df0/tilecloud-1.9.0.dev20220613095535-py3-none-any.whl#sha256=6985816b905331b679e87e3946ec7d8dc7eb1bbfc75941f66b9fd3614adfcb8c" >tilecloud-1.9.0.dev20220613095535-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/49/0f/444548125b7015e50c78a7d2bc5fb672eeec0829ee9a96ec87d0597a912c/tilecloud-1.9.0.dev20220624073910-py3-none-any.whl#sha256=fde6b1e46982cea1b47fc085630e15985966e9d8a7d99e493eba9d9cab591753" >tilecloud-1.9.0.dev20220624073910-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/34/8088d2c8889078b439b07d4afb9f15df04a32dac0071bf95fa14b0342b51/tilecloud-1.9.0-py3-none-any.whl#sha256=0766f2205efb46d5fa6c43978a24354513d97ce17def06a570b106f6936d46b6" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/19/212643bb4c3c730deb0b00a03fc7c958b2652e56d2a066f39b5026bc150f/tilecloud-1.9.0.tar.gz#sha256=e20bd3129663f765e583425febca6d208b480c64b6be58ad1f351b4e9c88f56a" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/f8/4227c3a055d5d3d65650a4e6891387ca46d9ee9c5afd3f08ff99229b0ac6/tilecloud-1.9.2-py3-none-any.whl#sha256=9b68369369ccc048e58f34885c23f407d0887353977b68798ed38af5a531aff0" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-1.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/18/742bddb77e5c9b140f7568826c7daa6cd901adae70f9d18d48ed96c7562c/tilecloud-1.9.2.tar.gz#sha256=8121cf12ffb4e49e45a16fffe37e49a549ae2cd9ef291e5cf4505f1654511392" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-1.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/a1/89997caece5523609f20cbad91666bc895732c694ce36f2185dd14122566/tilecloud-1.9.3-py3-none-any.whl#sha256=565d3d5c41461a24c91c0582c2af53e4abaccd4a6e56ace071c884199fd5b149" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-1.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/21/5da521956029834cd0bf6ad0a6bb648f29a7857ff297f4be9e13ad6c6061/tilecloud-1.9.3.tar.gz#sha256=76f7c70fe26b9bb89aebcf6b3a4e93cdbd45881c314071c09b0f91debe5aec12" data-requires-python="&gt;=3.8,&lt;3.11" >tilecloud-1.9.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14283873-->
+<!--SERIAL 16487208-->

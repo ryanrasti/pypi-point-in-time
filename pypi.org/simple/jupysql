@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jupysql</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/10/75/fedbb50bfe6196b67fa92774bd02f9a2ac390caea4638c55bf53f489e8f5/jupysql-0.5.1.tar.gz#sha256=735c2f5cb4a3ed1e2483c593ec968adfe7d8837f7b4ffa0202fbd579b38d9f30" >jupysql-0.5.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/19/1b/05f3fdb4a02290602bf994b30f132591e246e9b82984376215e00c7e61bc/jupysql-0.5.2-py3-none-any.whl#sha256=5f592c51909e16fc9a8f520eb9171cdbf83114ff76ee25f6ebbc0c72b3b1530a" >jupysql-0.5.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/56/757e6f4f9d2f31956a1cdf21ffb24bf4f5cb9ab8ef2d5a25eb4eca0f164e/jupysql-0.5.2.tar.gz#sha256=f4646f2144f3db33e9290594d40fff86f1e6e5718eb5022525489b6d3814f7b7" >jupysql-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/0b/5fbf01cd876238484fa32a80468c4aa7e570ecb4212dc75aba4315b47655/jupysql-0.5.3-py3-none-any.whl#sha256=f836dd60be2973cfa1c92a7d98a17afac2f6711a4e9d577ceb324e83a16bcbe0" >jupysql-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/7c/8dbb5a5a9c032af3ef8fb659d698820157a2fc8cc21f43c777bb02f33992/jupysql-0.5.3.tar.gz#sha256=494c5d1e2d0dca9cf554b06caed0a17f952e9ae7bdbab599954c5b03795caefb" >jupysql-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/da/78bd71e84b8416fb2d1860bf63149fd86ec667a2e91d66e7824798f67b45/jupysql-0.5.4-py3-none-any.whl#sha256=84210e485408a18683d2a0c50c2665f7d50be906ca9ffbce44c9ffed759da30a" >jupysql-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/f4/9c17bfb6ad0b3287c37b17e660c7597834eb70caddd72f60b99bc914e432/jupysql-0.5.4.tar.gz#sha256=4fe4114b54703e4ab6ac14045434ae4a634473b5346227b63ac93fcac66e57a3" >jupysql-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/26/5af7c50cf8332d21f977f8a6ceb5b856c67ddc05a958183064375afc2be3/jupysql-0.5.5-py3-none-any.whl#sha256=bfc4e2acf8ad73ee2f9bf31a0eb849cc6c082770368cc804feb9b32dc198c4fa" >jupysql-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/6a/6e43ed58edcd5e86cc91f423261cb9a936edc7e39b1f5eb0b6af3fe14411/jupysql-0.5.5.tar.gz#sha256=462bc6302b23b33316ba81607e308384d1f29d36b1688814e4a89cb79470e17c" >jupysql-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/6a/7ce4de5d5cf55363c4b1fb3d0e65ad7c1d1a70821037e56ad9d5727bae17/jupysql-0.5.6-py3-none-any.whl#sha256=f551e3e9353ffea7120d775efde73f812f78bee8b989d31d395799497d9bef1b" >jupysql-0.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/53/92ebebd5494372f2c61a7f29961e7b04301d81328ce1d148d918f5838f96/jupysql-0.5.6.tar.gz#sha256=783faf1418cca9033251b84c5e02bce63ecc946cfb754bb95f586a0fd690a403" >jupysql-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/98/f20221425cef82d747b0da1595c72a4d0fcc95610b5f6991389e87811723/jupysql-0.6.0-py3-none-any.whl#sha256=7f174aece9dd77306a9adcf61469f177ac06b3c479aceccc01fe582e82a4aa63" >jupysql-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/5f/db11fd97f8ed3199703fd061be71e1efc10ddcd1bf19e1ba1dff91a36cb7/jupysql-0.6.0.tar.gz#sha256=3004c1346d1157c777173406feef6cd1201ec3b380733cced418c86eda0a6274" >jupysql-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/7b/d0de91e9868757bb2a37363d97b05768387206586d289d10ddf54335bcf0/jupysql-0.6.1-py3-none-any.whl#sha256=aa431fe1f94798d50998188dcdefb973b60920a0a6b395a0a3d5c7e3085afb36" >jupysql-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/28/f49fbaf77c4740cae69373d6ec2d484860544700c06b6c4aacbc4bbb2e8c/jupysql-0.6.1.tar.gz#sha256=42228d23b06547ba96a5c046249406690830574e12d2568d2ef007b5e1e43691" >jupysql-0.6.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16290613-->
+<!--SERIAL 17138178-->

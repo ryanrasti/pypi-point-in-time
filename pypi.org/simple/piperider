@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for piperider</title>
   </head>
   <body>
@@ -148,6 +148,28 @@
     <a href="https://files.pythonhosted.org/packages/23/ef/a42fd156a20d3b333a24e5e87f2e068efeac078c086bc6d0902bdc88dc2e/piperider-0.17.0rc1.tar.gz#sha256=0588a1dfbe4ad52f2654513625bd09581e80ceb958a3094cd61e82720a4d216b" data-requires-python="&gt;=3.7" >piperider-0.17.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c2/74/c53753d334477e2ac356ea5a87ced614bb025c83cb434135e00ee2d35d79/piperider-0.17.0-py3-none-any.whl#sha256=dc9ca846eff4c6d5bec350ac6f6e78748584423c9cfaa7d7e50ee754058eeb39" data-requires-python="&gt;=3.7" >piperider-0.17.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/65/fa97ff185dc72003f2645edb2bd5c2f1cfbb03965d740a5c2a8e2c8b540c/piperider-0.17.0.tar.gz#sha256=95adebee682d27a6579f0c30035625c99ddf84c29b7862663ef9afe9241394bf" data-requires-python="&gt;=3.7" >piperider-0.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/bf/a6016b71ba23ff2fb9c2f815ed3a77fc3bc4ca63c65f2292de18ec874d7d/piperider-0.17.1-py3-none-any.whl#sha256=01f6871682faaf44ad844912180dd48a621719273d971fb82b94d7d0bce87c24" data-requires-python="&gt;=3.7" >piperider-0.17.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/b1/c429b6b2db79497bf8a94e7b4b7e38c2095a893c19eaaa00bb136a1268a1/piperider-0.17.1.tar.gz#sha256=fbc9fc706f2da81ab88fb8ea4b92db59329847bce4c0fc4059bb3c0342c7c5c8" data-requires-python="&gt;=3.7" >piperider-0.17.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/f0/fd5c989fe59ce7a41dcd0ec4353a2c9333d2da6fbf137a276fa658c77852/piperider-0.18.0rc1-py3-none-any.whl#sha256=91e9904b6a536c52a08a892763745225ae21366c5d39a0eb740f77755167836e" data-requires-python="&gt;=3.7" >piperider-0.18.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/f3/fad584842dbbffb7759ba578b161ef3ac0fa0982b94e5465861c15a2737e/piperider-0.18.0rc1.tar.gz#sha256=30a6fe11bfae1fb1c48e89d436cfed1efce1e70a43a7d061cb42cef857fd7c15" data-requires-python="&gt;=3.7" >piperider-0.18.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/44/d09af4ffcda9cb7260453ddc6730dea6e4b42df7b77171aaef847194b7ea/piperider-0.18.0rc2-py3-none-any.whl#sha256=a24904e2e781200851cb796bfbdcc466e991a79b48d3848c09f14d5a9f63e3ea" data-requires-python="&gt;=3.7" >piperider-0.18.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/1d/94a854c8957b7feb2a370a5c70a38d59ec4256f4e2693325990f6c016cd5/piperider-0.18.0rc2.tar.gz#sha256=deece7f0632139dcf1713a1e2772e34d216d1082b3b6dcf8a1fe7889b80b413c" data-requires-python="&gt;=3.7" >piperider-0.18.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/e9/2708eb4d31818ce966ed198da9578040f3e6d98aa265382c3c6b3cac439b/piperider-0.18.0-py3-none-any.whl#sha256=b16a35ee19d11cea0c13817bfd0ec8db0cac9ce50a031e017c1fced518638abe" data-requires-python="&gt;=3.7" >piperider-0.18.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/1e/bd919d9ba49ccdf31fc904e6314099013989acddf460c270ec3dad7105e4/piperider-0.18.0.tar.gz#sha256=11012944eca9a9a2e38d50a8c3d945007fd4faf28f1a3292f3b68894fbdfce3f" data-requires-python="&gt;=3.7" >piperider-0.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/63/2e867add17faaf5167de2abb3fd5aec7ca5563b764eca5d006615aedff5f/piperider-0.18.1-py3-none-any.whl#sha256=0164507e6cd9b5c490d3ab63cb1aac081e3a0d3d9392fe3857b6ac482a1966d6" data-requires-python="&gt;=3.7" >piperider-0.18.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/e9/fb55d11a139db10fd9d65610f3acb3574bfe488cecdc8e42f1dde882422d/piperider-0.18.1.tar.gz#sha256=49f0e75a5782617b9e1b3a96437a333dc566c58cf186da9562385dc0d354e8c6" data-requires-python="&gt;=3.7" >piperider-0.18.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/4a/e20fa3b82c1769638139f881b7c69dfd631a243f2c04748fcd33b4d45f0d/piperider-0.19.0rc1-py3-none-any.whl#sha256=78c7239435dcdafc5dd3cff3e26a2a14dcaa63fdcc49c89e394198512dc23527" data-requires-python="&gt;=3.7" >piperider-0.19.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/5f/212f415c7a4951ff9f0a503260ecce6ef47128f1b5bb18908bf1d3a36801/piperider-0.19.0rc1.tar.gz#sha256=52cc165eb8105209305bbe1f5a540a4af7531762f41b5968756bd9efbd320728" data-requires-python="&gt;=3.7" >piperider-0.19.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/6e/e7806e50a3864e0630f49389d874d57d89a75619bf5829838b3714c98c93/piperider-0.19.0rc2-py3-none-any.whl#sha256=2c4a5768e3ab9c9d889e70ed99ae82d494a95c79fc1770e48955f92017150244" data-requires-python="&gt;=3.7" >piperider-0.19.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/d6/09c91ace25fcb82eaecd440fbe9006367c835faca759d5fe264d4764cd53/piperider-0.19.0rc2.tar.gz#sha256=8d73a872267e4f23c16278a11c0fd1295c56189b55b03459fc41b852fc2d1ebb" data-requires-python="&gt;=3.7" >piperider-0.19.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/2f/d2512996fb8b72ac0bd5a529d9dc538f7f8e434a178fd21abe1c083ff67f/piperider-0.19.0rc3-py3-none-any.whl#sha256=ccaff5cd282c869a322ec6a1baddfffacecc8a05cce39e0e44ec8dcef942557a" data-requires-python="&gt;=3.7" >piperider-0.19.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/a2/38a914c3a4623647b48e880a843b579cb00e802eff50f76688a48ef033a6/piperider-0.19.0rc3.tar.gz#sha256=cb899094f7999cbc6a5f1b299979fb8dd43d88b4357e5fbdeddbe155b87b04ab" data-requires-python="&gt;=3.7" >piperider-0.19.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/31/7197960635cb219d7838b201a74d419f49e53bec0e52df228d40260539e0/piperider-0.19.0rc4-py3-none-any.whl#sha256=019a14d7410a63199ac09793d07405fa5957859405a68fa59a68764571d34cf2" data-requires-python="&gt;=3.7" >piperider-0.19.0rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/35/3120d493d8ad37069ca4bde096c1c15759bc9b8815b37dfdc2c3b2b6140d/piperider-0.19.0rc4.tar.gz#sha256=5675a9d3961abf2273db0466508a7887772f7e0a8f6732063d2e2a9069ad6591" data-requires-python="&gt;=3.7" >piperider-0.19.0rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/af/fd9a577fcfe4ec75817d1e758b5adbdfa19971cd57c141d235bdb60f5c9f/piperider-0.19.0-py3-none-any.whl#sha256=7f1fea923e4530eeb222aa373869fbede00a3111626c0f3b126e710128dbc334" data-requires-python="&gt;=3.7" >piperider-0.19.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/0e/5dbfda0fa7c48c51f4b35497a69c22d726af21eb1316c50e6d96f4d2dffa/piperider-0.19.0.tar.gz#sha256=49ff2eaf4d4db5f69e76d94dab1a0b4821eabddfc80f93df853b782ae7a9c466" data-requires-python="&gt;=3.7" >piperider-0.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/a8/21f04ba98a413c5dd34c03741a63f43e07849daf640f65e9f72dca3f227f/piperider-0.19.1-py3-none-any.whl#sha256=62a884451fcfa7b8c023429d4fd7677e69892eca0224ce71ea9f5a41feeaca22" data-requires-python="&gt;=3.7" >piperider-0.19.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/4a/e56af838835625aa4ce1acc5285679260a4521a5e40e5ba7d6933f1325a3/piperider-0.19.1.tar.gz#sha256=2bcc0afd236e83ab6fa786283bf4bee578797505f86ff644fb23e9ecda2beacd" data-requires-python="&gt;=3.7" >piperider-0.19.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16400215-->
+<!--SERIAL 16899878-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for install-release</title>
   </head>
   <body>
@@ -10,6 +10,16 @@
     <a href="https://files.pythonhosted.org/packages/fe/a7/ea4f4f95281f71d63cf9149768ddb8effc3646742438b83b9ddcadbd2763/install_release-0.2.5-py3-none-any.whl#sha256=4ea585751581418fbb53393af45f1c4d37a08b6210af9277722c7eb625728907" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/12/c2ac74543ea4aa6c478fe9f44f4b77ec9294d7d108e703238d98b3048ab4/install_release-0.2.6-py3-none-any.whl#sha256=b5c5f6c0eb017424a37d22013b118798f201f63d4afe1c8b6f47ffc318a90f51" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/89/1feda8047d37891ebe53e3729c70e926bca44ea27447897d70dc12482fa5/install_release-0.2.6.tar.gz#sha256=3b732895a4542bf6190ff2beddcd65528b51cdcbf14603cc96d9c01f47e4d955" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/11/6e860306ffaa7423dfcabdaa4a6125e68428490d228c71247cf8b43b7516/install_release-0.2.8-py3-none-any.whl#sha256=2f4e51522e11e973d6e17a06572a5f9bea8d12b6a9925a8fd112168410a554db" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/ea/73ce80b42266f5b4dfb272cf074e687100f34eada938ca99b0a6355b1600/install_release-0.2.8.tar.gz#sha256=d943d0645b0e8f6949e8b593b88f4c11b349ed399345c85d6ed472a3fccd3444" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/83/71c4dd3fdfb689c16eaaa7291f1fb1be58f3478d8359350d9f523effe0dc/install_release-0.2.9-py3-none-any.whl#sha256=b6e307b2801777d51f1921dc31d03bab6a6da0b072654f1f266cab39c083177c" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/3d/a731b2204278af8753a5be9fc6b3520af765dfcde1eec0479a1d4fd5f00f/install_release-0.2.9.tar.gz#sha256=d693a06a572a162d43535b87abee3ce6308ec56cf35921aae773f70498bde2da" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/90/705a801a23286f6921b3c0e7112578dad722869699db0730971131ad4e9b/install_release-0.3.0-py3-none-any.whl#sha256=caff730a889f00c3495d4c6f64489c21cef31471256f2af9cb783ee5b985f63f" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/bf/07a5d02587c7623faa2ad3d74c6ad8af7121a9e71d4ccdf7e403b4cc9c12/install_release-0.3.0.tar.gz#sha256=3623bb1e4189f9abd256fbb08ab8f369a89fe6c64bbefc16c145780c8e36f5c0" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/40/1701763136233413619b8482056c3cdf5ca106cb035ed4e4cc2d0f2ddaff/install_release-0.3.1-py3-none-any.whl#sha256=dc02f0d60515352835fdaeca6e4b5bfd30476122ac6f7ab00bb68d953efeb11a" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/47/2b3f96e776e160c9147940898061104f425d8929db45d173d7088951f7a9/install_release-0.3.1.tar.gz#sha256=aa9a9882f098c50fe7e2eb942e638054d2251a479edf3faf6f7e093655e88514" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/77/8d0674d2a1c12739661707cdfa9a9604aee048b2d0b507b28dedf3f214f7/install_release-0.3.2-py3-none-any.whl#sha256=b19d3a042b1ecd6c13986a6bac17219e326c7b1806f07b960f171c22047876c2" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/cb/d4727664de10788af04f50a08d8814bccfe7b2f103f22ab7f86ba1f55014/install_release-0.3.2.tar.gz#sha256=68f8217fc93ed72e5aaa1f24203e1a43ee3d951c6025053ae0a9386f9d24c6dd" data-requires-python="&gt;=3.8,&lt;4.0" >install_release-0.3.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15972745-->
+<!--SERIAL 16944714-->

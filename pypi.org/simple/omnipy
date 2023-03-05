@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for omnipy</title>
   </head>
   <body>
@@ -23,6 +23,24 @@
     <a href="https://files.pythonhosted.org/packages/72/41/f8d2839da6d26dd1fedb26c44fa117908e5a0b3c8b5119234c15b54bdd82/omnipy-0.5.1.tar.gz#sha256=6950dfb267c84699bdcad32f492c7ef36ab05070f82dec89dcfdaafa6cd918e8" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.5.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/66/1b/281a53a7444f824c5ec6dc6042c94d4d8311b895f16c9dbd731fab7097c3/omnipy-0.5.2-py3-none-any.whl#sha256=a3392c3e2c2dd6c3ae1e8f491291fdd736dacf75e47d380bcca1ce4fc57c2669" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.5.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/03/5e45049bc96a81c78dcd1dac8b69a4adf6b532c99c73e211da51fe741c0a/omnipy-0.5.2.tar.gz#sha256=7339b37d21caf5214ab9e5b24ac2e01724e26eae0e66e3f8040c763f3ba8437d" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/57/52f116224ac4e935c015ef6bf1a455671c831b3c26b60d81884489405c9a/omnipy-0.6.0-py3-none-any.whl#sha256=b3693fcf60c044f7dd0ef6f5a4085256d1e174d21defc3d9c8bcecff5d152edc" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/ea/aa838bcd991efd1fcc82ca864a509e69ac488db35ea64e35101a6c9c4a1e/omnipy-0.6.0.tar.gz#sha256=ae4dba1b14c2592d8536d55d86274a160999bc6110f5a14d5ef086057e25abcc" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/6c/5106f529318c95d636b3555175061fe273d7c71909b50cf8a6dba63f0e82/omnipy-0.7.0-py3-none-any.whl#sha256=8f7976798532930ad9a81c7813b6a2217c41db3e0228848ee23c2f2cd337f790" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/bd/65993eb0984c909eae22b851442091d48aed0395c17bd1521869a88b711f/omnipy-0.7.0.tar.gz#sha256=c0b0cebfc0903dbe5f2a2d3b4ba419d40583f1723e44e2b9f7221056602bd87e" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/d4/8ec753cbd167b1fdf045d8b52efee93dd91e890695b5487d9d7c5e1f93c6/omnipy-0.8.0-py3-none-any.whl#sha256=99b71509d33f4ceb935cbc503341f32974bbb8048fe99930de3be767ba67022b" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/43/6fd201d0f8d5d0f7de272bdd79e38d512d8a459c61c7e8e52f9ac7feed86/omnipy-0.8.0.tar.gz#sha256=d754e1b8df630cbf48e85ae84b9057249ad7333cd6873ed26c3ff6333db79de6" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/73/5e591b9813bfe89693e7f7f26b6bada7d2a02970efd12d36efd26472c6af/omnipy-0.8.1-py3-none-any.whl#sha256=2be28cd811e80d7759f59a0105cc957c8d50a4a7848e6da26bccbd2bf590a5a8" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/9f/a6261d617882309201825a2bac5c0b777d098155d9ad776cad7074457a61/omnipy-0.8.1.tar.gz#sha256=c01c773d79f090627f97082d6122bb6ceeed1ff68b8689eddba0dc812c9241d9" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/8d/54d39f4aba597dd5875788281de0bbcd4154e036761d30e481b1790a5bcc/omnipy-0.8.2-py3-none-any.whl#sha256=d4b4424cd6ccdb34b9088387de9b57934ce989bb5124fed216a380acd6742342" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/ef/1887ea4828e05cea98eba40e2473f56c25d5cdc361b98b24851cf958e29d/omnipy-0.8.2.tar.gz#sha256=1b88ae183e5a7caf0984e5471b15f5c91cd8e60a2cbc1c7a869ecc0480ecb905" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/fc/ec0e0dee003014a5eae2f014cb6b78dc1885563120d6eb11eeb03d8b4f89/omnipy-0.9.0-py3-none-any.whl#sha256=c627dc86cd93a09a5dc13a735fb01a5b0f4e1409275ca71e8bcb07626c84a8d4" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/f4/ed91d6a7f1c778994157997785b01b85fe171a54e08e0a6faabec8828305/omnipy-0.9.0.tar.gz#sha256=e6b97b947391a9388d8ae930aa93d590c4b62f29b8659faf805036196bec2b7a" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/22/4d2b45c6658f0b47c7e9d68c890147e002b9bb5a03c3c89720111eee78cf/omnipy-0.9.1-py3-none-any.whl#sha256=24e37f108e472124d72978be7d7eabf0968505c6cd692002e4e0a201f91d9743" data-requires-python="&gt;=3.10,&lt;4.0" data-yanked="Released from branch that was later rebased" >omnipy-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/b3/310a61a0130ea610a198f40eec4d55365dcfadbf563ecd4d22d2589c8885/omnipy-0.9.1.tar.gz#sha256=972450bc44b2755d6ba6ae13ddc5811506b2376153f606639d70ef2f8674e5dd" data-requires-python="&gt;=3.10,&lt;4.0" data-yanked="Released from branch that was later rebased" >omnipy-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/c9/6437b1e4e32b6934e75cd0aff0c8d49d10061849f8d9e011b6f96088e478/omnipy-0.9.2-py3-none-any.whl#sha256=c60fde9bce401829002dd02fd7749b85aa4d256135fd9e16a268ff029bc71955" data-requires-python="&gt;=3.10,&lt;4.0" data-yanked="Released from branch that was later rebased" >omnipy-0.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/b4/d3027ef934253728c538d9fcd680008e77c3c0acf889789d7c2ba2ba0691/omnipy-0.9.2.tar.gz#sha256=9eec12bf5a0cff046760b2314820801eb423cc15edb98250d35116189f68127c" data-requires-python="&gt;=3.10,&lt;4.0" data-yanked="Released from branch that was later rebased" >omnipy-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/65/b004aa92a4c7274205c7daeb1cb83dc3440f5aeb2f4a39391aa13503ea22/omnipy-0.9.3-py3-none-any.whl#sha256=d01d136f7f73a0808ea0507ea2a8cef0c82a3e34a0c47a6bf394c3ec40ee9250" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/ef/f5bfccb5d8a26700c74675f8367c7f9b9de5c43c5a9cb662039052e2c4f3/omnipy-0.9.3.tar.gz#sha256=0037e3eb6ebbf0719aff054404d764fa28fbb10cfd06d536e4fbf74f842ddd75" data-requires-python="&gt;=3.10,&lt;4.0" >omnipy-0.9.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16408181-->
+<!--SERIAL 17107294-->

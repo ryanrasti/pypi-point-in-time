@@ -1,18 +1,34 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cog</title>
   </head>
   <body>
     <h1>Links for cog</h1>
     <a href="https://files.pythonhosted.org/packages/88/3d/9afb436209d3ad656f36c6464932513656d949ae5863fec0f349dfb13588/cog-0.0.3.tar.gz#sha256=cec443a0f8d640a69af0c640a90733c0453496105c280408c8e1b13c13475aaf" >cog-0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/81/861b196130b754f4bc4be1663aab17a9ff609662abf9850ddb1f75cde86e/cog-0.0.7b2-py3-none-any.whl#sha256=e3051c1da93ee6aabf6cef8766482e6af80feae31ac1f65059f3a529bc4a0c41" data-requires-python="&gt;=3.6" >cog-0.0.7b2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/45/46/981f02740b7f855ea30b5264033cb1982af25d7f14c4efb1d0f5421e1a4d/cog-0.4.3-py3-none-any.whl#sha256=6fd5c32bfaf6f46a05da3fea4d5218095b139caab31a51aa72ace78a9e731753" data-requires-python="&gt;=3.6.0" >cog-0.4.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/d9/a15ab4f63ed289fe7bf7de307b09812cf7fcd4a80826a7948b5f4ebc580b/cog-0.4.4-py3-none-any.whl#sha256=d77e7132999f41a961358b655a90b5f544730afdbd79720129b80f65a3ef8dfb" data-requires-python="&gt;=3.6.0" >cog-0.4.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/29/02f7a04c56c599822166e7f5c45381c0654fc28b120d907165b09ad9aa29/cog-0.5.0-py3-none-any.whl#sha256=49940504368a6ddb6092dd656fa1f5ef6fb140638e7c246be14d2a1fa8188db8" data-requires-python="&gt;=3.6.0" >cog-0.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/34/e4ea41c52d510896c5f84ec42e415afe48e718836e43e2c2b93579eb9444/cog-0.5.1-py3-none-any.whl#sha256=14cf7e686d2c1f7dfa2577b92382d701a0073e1d376bd6dd2de254653b48a3b6" data-requires-python="&gt;=3.6.0" >cog-0.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/28/31/00df01da9f67cbd373bb6d5474f0df6c3be5a2822c3a525b7ce680b0c86d/cog-0.6.0-py3-none-any.whl#sha256=69327b752eafe3533b756265ef4823fd14a13272c259fe02eeec9e38498ef8fd" data-requires-python="&gt;=3.6" >cog-0.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/96/3f/abf51cd88456e166f40a4b945124cd65f7de1338da19d536ae0bc799d8a1/cog-0.6.1-py3-none-any.whl#sha256=281795c4edf1a922c8dd670b967fbe12a31a651f26c376f6756d85a3f0a038c6" data-requires-python="&gt;=3.6" >cog-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/f9/e18e87229cb085ee63d6ea95bda200c6291b19eefccaef1800e6e08abd22/cog-0.7.0b1-py3-none-any.whl#sha256=c756569a8d17114d92857824d35f6747896a80eb1e29582a1029843313919adc" data-requires-python="&gt;=3.6" >cog-0.7.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/c3/92e3afa2c981bc15c809bfe0a96a6445748991d74d6b169ef0cd2bb30764/cog-0.7.0b2-py3-none-any.whl#sha256=dbadd308921d614967d191c2b1734b6be54146ed9cb1a96974df46b2eaa87db4" data-requires-python="&gt;=3.6" >cog-0.7.0b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/1b/636e57cf7688c06226d1aaae962c5f8ee3f3e3c08e302b056116d7c2f639/cog-0.7.0b3-py3-none-any.whl#sha256=b3c8e6831ca6bb4c22f84205f83098ca9f57dff1ed4a72637f3002ddc0a92604" data-requires-python="&gt;=3.6" >cog-0.7.0b3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/c9/0f11928f26b861ee98a17090113ebcdc378cd4612311e4e5483d4953562b/cog-0.7.0b4-py3-none-any.whl#sha256=57a930da3aa4450255ef2844121a14ce8ad172093fee08c80d46e3bbf0e9addf" data-requires-python="&gt;=3.6" >cog-0.7.0b4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/b9/b10f6c2b0583366575ca159b6d505e3698182f6eb32000c411d2c812b791/cog-0.7.0b5-py3-none-any.whl#sha256=6bc94311d49a6832c9030f1600f75bd9a3748a4d5d0495492f45d17438f05efd" data-requires-python="&gt;=3.6" >cog-0.7.0b5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/cf/b3bcefe7a7e03e0c3336590d03bb74e03e6def9194735a143e13a998f3c3/cog-0.7.0b6-py3-none-any.whl#sha256=0dfd14d08f6d0b543ea5d66e00a0d1789ad23077e42caf94faa255e76cb6fb7f" data-requires-python="&gt;=3.6" >cog-0.7.0b6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/dc/bd5cdd87a573890588fea02df28fbc837aefbaaca40126b3286820f622b4/cog-0.7.0b7-py3-none-any.whl#sha256=ad0cc394c50b251501fcd63716e38d9c0e29e9da390408b8e1cea54d61bafcc7" data-requires-python="&gt;=3.6" >cog-0.7.0b7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/38/09da3a52bfa2fe1e4a38f3d8cec99ae5583fc59ae2618ee46c9f8e140464/cog-0.7.0b8-py3-none-any.whl#sha256=74d620192696ba515f26454afb93a6bd2923f8f138b77e49ff51068abb2aef41" data-requires-python="&gt;=3.6" >cog-0.7.0b8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/52/8b2b2607e004f53fb44b3ec0fe94618c556326519698876eb95d1ea96c99/cog-0.7.0b9-py3-none-any.whl#sha256=2a5eec363eca4f33412de730883302591b6e215bf5113d2c5790cfa91baf8f41" data-requires-python="&gt;=3.6" >cog-0.7.0b9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/e2/6aeb21f19d4e7a66fe57b06ab2940734cbd370497ca3652a986e68fbef4c/cog-0.7.0b10-py3-none-any.whl#sha256=43632bd1ab21ef09d56d2ad5388a3222640405ca68668118f855726ee4423961" data-requires-python="&gt;=3.6" >cog-0.7.0b10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/3c/ce6a1f0c8230cd3f8210f8d27cb524acadbb40595a89ab844287f7a5525f/cog-0.7.0b11-py3-none-any.whl#sha256=60391efc7ea877fdcafbcbe00987ee879fff9280d6e5edf9bebe6220245ecfca" data-requires-python="&gt;=3.6" >cog-0.7.0b11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/0b/20a10387097d412bc098df0b533b96b095047334fc17997a97c79e6c9fa8/cog-0.7.0b12-py3-none-any.whl#sha256=fd9d1a3994c1c793cc10dfb6111586971e47fa437fc0d2ab30fe94a527a48e6a" data-requires-python="&gt;=3.6" >cog-0.7.0b12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ad/7d6f05ccc0704f4c3b3b93ea41933ebe5ed753d76d34e88d5b421d5ff849/cog-0.7.0b13-py3-none-any.whl#sha256=4c9e5d12d5949b17a040eaa3aa8d097d04d32bff087eb99fbea28ea5bc4ebf3f" data-requires-python="&gt;=3.6" >cog-0.7.0b13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/5c/4b0839d4420f9343ec736cc42b0ef43b15abc822cf1dd3a0beff95a5e729/cog-0.7.0b14-py3-none-any.whl#sha256=bdcfd2eaf5036ad7791e294097688c558fae2215343a58a77c2517675d4245cf" data-requires-python="&gt;=3.6" >cog-0.7.0b14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/cb/ea0ab3f055eabcf9755bc67f01832089c8eda9a70913eb917b0f356453bc/cog-0.7.0b15-py3-none-any.whl#sha256=059f2eaab9c7ae720a296a3ab5229157b034a953d7e7155be05fb4d56bd1a2cb" data-requires-python="&gt;=3.6" >cog-0.7.0b15-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16118180-->
+<!--SERIAL 17117914-->

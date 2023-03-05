@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for crudhex</title>
   </head>
   <body>
@@ -48,6 +48,18 @@
     <a href="https://files.pythonhosted.org/packages/36/05/88cf33ee8126068ec95ba8fb92b30deeef57f61aca1b630a025533d3a583/crudhex-0.14.0.tar.gz#sha256=292f9b06cca0765e72a34bee8fd9db777e18282034bd12c9bc309383de822a5d" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.14.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/db/1bf88b66837ccb4ea7ee299faed7d182f9ed07fe1001d723ddf06c16ad78/crudhex-0.15.0-py3-none-any.whl#sha256=a9a5ef5031626c642a964fd274065ecde9aba7c22c582866d720bf9c1a5725d2" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.15.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/05/b70910f7f737f80bd13645553e9e0faf08ed438e05e587275e249ddec9c1/crudhex-0.15.0.tar.gz#sha256=e0d74468b42761aaa7879a126f99dcdbf63f358c7b5c864c51472455c4cc5bea" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/4a/32832592834c9b149c01a4305f66a161fc70e9c69fadbf2de93d1e408475/crudhex-0.16.0-py3-none-any.whl#sha256=bfdd7374bda285c5a2761c14049d8f447c1f3f2fbb849938ff81c9317ed6884d" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/aa/b2830ff8afec7816422e6bca66e297a171f55bda5c16df20616f91624c28/crudhex-0.16.0.tar.gz#sha256=ec60252d99267482afe20a3d834e4398774891ee59ed1c5be5f5cd98fa2c7124" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/9a/342e1b76d1bb624e901257531b3c1a4b5dd2c6e5aaa25f5b38c736ae8ecc/crudhex-0.16.1-py3-none-any.whl#sha256=f5a07be41234ceede44b2f115245735a10c90fa73c0c016fdace87558ef7788b" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/e3/f261fb039ea011a83589e4599d35ae71bedc70eb8978bb57d4fe0d8ee1df/crudhex-0.16.1.tar.gz#sha256=a51da9e6d4890af5de660af43324bbe6fcc9f345683a56be29987244d9892801" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/db/6d1330bac4a9f7d47fae98d0fa967a577d9dee94f3a14c467624066e5e93/crudhex-0.17.1-py3-none-any.whl#sha256=ffc1f9f6003d8fd60a4620702840af5b3462d9890d2270a8135de0d10d1411d9" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/ff/0dc4abcfdc723e797209f1f022de1fb3088035a8dc02cf6aac4218b732b7/crudhex-0.17.1.tar.gz#sha256=46919aa84f5c6190b16e9ffcd5f8180e3c0cb61d70c632bb9e914bd535bfd5d4" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/2b/cbaa497ea994b07be7f9a9603ccc7919c9e4f7181ec04443109b3ebe4716/crudhex-0.17.2-py3-none-any.whl#sha256=03f53af4caa2a002ee13e7fea6e185d5f9bab43c6fb0870d6b592af4b74fbf38" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/80/0648b50162d7b31d82e83335da5e1b93d04228a85506f73345f91adb3bba/crudhex-0.17.2.tar.gz#sha256=6d22bea4c1d230069534d9925bf5d6dd91b062bb0f7343fac2f0d08d974ef6aa" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/ba/9d69ada327d62cd464abdde790a3d8da7aef1885d1de7715bfa9fd034e75/crudhex-0.17.3-py3-none-any.whl#sha256=d4863fcf28667915e4635321102805d68ff725a9f28101f2c5d5ab29923d3e39" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/50/8a4b7822eb527cc663cef6b713b4f629fc3a9a22d7e34de9086fbd20847b/crudhex-0.17.3.tar.gz#sha256=6fe3abb3074286e8056aea80842a5a3f5b1fc17596bb812e4e6b890f4fe2eed1" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/84/91f7ec82937c8644af67d18f9a84e6436395695f947ed50c1780dc5b9db7/crudhex-0.17.4-py3-none-any.whl#sha256=65934af78e9b0de54d0515fd2d943939e3406f15ae4a84ef0d529e219cb8df1d" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/c4/76d61eff5442e84ec286fc87ac05d541c5367856138d95b9724284074863/crudhex-0.17.4.tar.gz#sha256=1441447c927390b7a3e1d02bceb7ea6205d5c9db57bd7bc76636ec6fb8f042f2" data-requires-python="&gt;=3.7,&lt;4.0" >crudhex-0.17.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16395827-->
+<!--SERIAL 16827135-->

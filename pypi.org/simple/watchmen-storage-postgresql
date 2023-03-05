@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-storage-postgresql</title>
   </head>
   <body>
@@ -92,6 +92,8 @@
     <a href="https://files.pythonhosted.org/packages/0b/c4/427bc68c0b5989c4197beda1d9105a12f861ef4d6c0ed77e790c3adcc281/watchmen_storage_postgresql-16.3.23.tar.gz#sha256=14ba2050ec889c1392b5ff641684d611563d6c36694f5e809cbcd74f3a1d8bfb" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/86/8d/f305ee5be373bde25430b8691f153263cffe86d2b84479732ede333beeb6/watchmen_storage_postgresql-16.3.24-py3-none-any.whl#sha256=e1526bd46aeb8dee01f91a3e90ce3ff370a82d3b316b5d31b2dda25fe4cf01be" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/26/54/ebe7389c99078a4afcf59280008ac07dd20eb5ff391b40ed1537b6bd4401/watchmen_storage_postgresql-16.3.24.tar.gz#sha256=0261e9baabcddd43475d309e3b689d962d8ab54138159bf93893284a9df0086b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/ea/df2ccba82db44b5f820c8254d42c734a9d669769fb902896f7df91a54ae9/watchmen_storage_postgresql-16.3.25-py3-none-any.whl#sha256=1255048108edb4a3b0c50ed16dd7e1c60422a7311d1a89c54c3a07c3c01370f5" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/c9/aa14828a1d1c7208193dce8198a6b4f07822792c67ad60db8cfe622601bd/watchmen_storage_postgresql-16.3.25.tar.gz#sha256=012e4cee759deaaf56b126f7d5ce74ebd0df00bcac21034b5f306fddceb95ea7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/74/ae/83033585c77bae830a214476f81cdc7ffa0226d2d2b42e4bf9a3f379cf55/watchmen_storage_postgresql-16.4.0-py3-none-any.whl#sha256=9b356e63d4f788a66ac260e8148190e5c7feefc0671c7583e4fcb87f0416e282" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5f/cc/8012ce763cc22c22e53acf6db3a55d15d64d7bae1b275db8e5108cbb5d40/watchmen_storage_postgresql-16.4.0.tar.gz#sha256=7c57648993ffeb737f7907df47b08504dd88017cc7850d7543419ad7e1af863b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/c7/a5f79206ff8496839313f217686036ac4edf399d15f15059d02534d81ec7/watchmen_storage_postgresql-16.4.1-py3-none-any.whl#sha256=2ce584d686ee61efad9bad5168ae21fb833906cde4e61d695d754f54d4c41da6" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.1-py3-none-any.whl</a><br />
@@ -104,6 +106,12 @@
     <a href="https://files.pythonhosted.org/packages/36/96/d16ccdec2001f9030283430a73afd1c79555bcd0817962db66e4aff3c191/watchmen_storage_postgresql-16.4.4.tar.gz#sha256=96ebc7b43301374ad5c7e9c8d4044596faa5a35499d444d52d600308a601d46b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/74/e2/a02c4e31e0f794b1bed6c4d83f004e09fbf9ca2602d8c9fe4deeeea97fe7/watchmen_storage_postgresql-16.4.5-py3-none-any.whl#sha256=83155e16304c719a47bd379d9742a3b2f739b2183940ec557cbbd4bea0caa550" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/04/4169603f3a2ddd2d4fb861d136469ab41ef0b0d400d7633220c7d3bcc401/watchmen_storage_postgresql-16.4.5.tar.gz#sha256=629c491e473de42110fd6be04a95112dd46e152089edba378fb42d41afbc3b3f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/e3/66123171389479ef980818f0308fdcd393b5289f6477c2405af11de8931d/watchmen_storage_postgresql-16.4.6-py3-none-any.whl#sha256=0bd79672ee240173d31250a41c25441098e46843e46f0e08b2f4dcea1f0005a0" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/b1/90fb93e2dda9d3d0f1c34eb81bb871fb8d219d3fb01ff5b371b93422b7bf/watchmen_storage_postgresql-16.4.6.tar.gz#sha256=ddbf8d1b4e30b5db232355bff40d0284ba3c5afc6078f70da8b427aa5ee43439" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/6c/423ffe067506291f319d18a909de1f476f23fcb296c5b752be04940626dc/watchmen_storage_postgresql-16.4.7-py3-none-any.whl#sha256=4b4603ea5e1d79a3ab8a6b5da3b1d5fe2fb847199fce9e28fb66d3f7235b859e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/34/d3fc84d14fee58866de02bd305ded9e77ffeb7b0ed4a7b1061adb0593c7e/watchmen_storage_postgresql-16.4.7.tar.gz#sha256=bdea152ecdc23ad408518c2c0f793bf9ba9988a443d0d1bf66d5523ac7372aa0" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/35/db2f00516bdc42938402a0b6914f5a9568de0d1657987a7463f7868f6565/watchmen_storage_postgresql-16.4.9-py3-none-any.whl#sha256=61d463ea2cdf1ebbb10db9384e2f72a3c1fc387d3b8a28e19bae48022991b54f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/3d/820766a88ac1ab6abb48d9305df90e105746128164d1d0100d3bc128a557/watchmen_storage_postgresql-16.4.9.tar.gz#sha256=d8a4d03d02c6cc094f3696ca60b6f060869bdfeab41adc2cb23d28ff96fc37b8" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_postgresql-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398847-->
+<!--SERIAL 16991525-->

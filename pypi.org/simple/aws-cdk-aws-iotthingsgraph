@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-iotthingsgraph</title>
   </head>
   <body>
@@ -472,6 +472,20 @@
     <a href="https://files.pythonhosted.org/packages/f1/21/d0c5225a4559d2afb6e553994624cb043a16297d34d07092b57aca21255e/aws_cdk.aws_iotthingsgraph-1.187.0-py3-none-any.whl#sha256=68576c423337dc6b53ec005ed104d77484b09c9b5a640e8e685b72d083bd3677" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/da/9fdfd3bd18042abb696561160e7134ee763bbe0065702abb5e21bf956332/aws-cdk.aws-iotthingsgraph-1.188.0.tar.gz#sha256=9a38e5608e10d1f75a6dde624023912d39765f0e58ced48214f98bb224e73f7c" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/fa/0dcb3494e02a1456206e158eccb8c757a8c18470d081886928130f4fc06e/aws_cdk.aws_iotthingsgraph-1.188.0-py3-none-any.whl#sha256=0699b400bb551e9a68b54386f7516d10a148f977c1c8d7fb99b8df1d15930d38" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/e2/08805ecb472581e2a49c15ee9debd64d4afe12014ec44bda2b2883fcd5be/aws-cdk.aws-iotthingsgraph-1.189.0.tar.gz#sha256=d4670dd0f9e740c1bf76a6d3fc7943198e14e07f6d5ec08ff80277250df059d2" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/c5/463cbce5d33ebd5ee657f1f5ca2a22d04f45d7b74e4871dca9d22c736742/aws_cdk.aws_iotthingsgraph-1.189.0-py3-none-any.whl#sha256=a35aa60303fdefda8657741b4d4729041271d878a08f1e50a5233a581fd23d30" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/95/aa9156f5a8c42e01d27d19c0bc24d42862bb375fca73133ed15a19fbd136/aws-cdk.aws-iotthingsgraph-1.190.0.tar.gz#sha256=2c82e743a44dc8f09908312aaa195b57832d1677d3ca2c9c3d3f2cf26b2a9fa5" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/07/6dd9ecfd07b66822f47a5c651948d381452e64732a9523296b32524d219f/aws_cdk.aws_iotthingsgraph-1.190.0-py3-none-any.whl#sha256=90627267b8e6484243c24d5d767bc86575adcf1069d4029e11c0d03abba4d681" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/ce/3c99c0d3de7724300dab2a6ab744187480826871b0712211f86f38d05a72/aws-cdk.aws-iotthingsgraph-1.191.0.tar.gz#sha256=0508f1788ec912820ec6203602fb4fe9d103ef1a7fde810eaafc9efab6cf5ca9" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/a2/b39c68c188a73453f5cb080614d3f2fb315cd0d5ad72036be53139beaeb0/aws_cdk.aws_iotthingsgraph-1.191.0-py3-none-any.whl#sha256=3dbeaf6528e49fd3be52e09f47952dcd7317d835450fb202133e4140ffa9c3ad" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/32/f0803ce9c8323bbc0fbe726b7ada93c903a1761fc1b93df0e34da54013a9/aws-cdk.aws-iotthingsgraph-1.192.0.tar.gz#sha256=f3be368da7381417dde8998ac88f5502a0c0bac5975c8947fa29009bf8999ff9" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/d0/1d3e165c2ec07875130a980a9700cdd3060bffab77042bdf84576f64fb1f/aws_cdk.aws_iotthingsgraph-1.192.0-py3-none-any.whl#sha256=67fb4a6d1c2dd1e1109f3013a9b929f63acd7ce57840ce2c4958b259a427ba35" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/f6/ea7ca21cf21fcd64f3d1e248c6cafb3b986f55fc852f6a9393abc2b4ffda/aws-cdk.aws-iotthingsgraph-1.193.0.tar.gz#sha256=1fd6b956bf3d93cdab9306b8543e41258ca4656387f0b0d9204b272cf13357a2" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/81/3fcf7cd246080892c886968fb6410cd243ea0c213e3d588a3c5d7e835012/aws_cdk.aws_iotthingsgraph-1.193.0-py3-none-any.whl#sha256=2b62ca630a8874195ee7fee3057c919cd9746095c9792b4b15d4f2742d5ed488" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/8c/6e5807b4859ee97f3e25bff4a64beda759be8705c9b267c4b47978f1756b/aws-cdk.aws-iotthingsgraph-1.194.0.tar.gz#sha256=a52f204b12658b6b54c02df70200b8b42d1c9525d9c2218c75f0b8cc40067c44" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/cd/3f5f56807f858c29bc134911d66ada5eb3adb814fd79bb748186b97e36d7/aws_cdk.aws_iotthingsgraph-1.194.0-py3-none-any.whl#sha256=672245713a048f9a40c3b1d5cf1bd260b7dea8cfc428c49bcba646d02ae8b19e" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/0e/0b6b2faab9de0f45419e71461761f25bcd270cecccdcf8d267aeb39d41dc/aws-cdk.aws-iotthingsgraph-1.195.0.tar.gz#sha256=c8c3efb359685d90a21062f2e96b31cf342e85a98b9f0d9ada30b5f8b428178c" data-requires-python="~=3.7" >aws-cdk.aws-iotthingsgraph-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/95/d67d9fdf183fdf774887c0bce6a17eda60e76518bd9de98a96a409b9409f/aws_cdk.aws_iotthingsgraph-1.195.0-py3-none-any.whl#sha256=fb6f8fa5f2c49dcf405b6e06e3867315532e800edb980e7cb5e515a51a53c999" data-requires-python="~=3.7" >aws_cdk.aws_iotthingsgraph-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393399-->
+<!--SERIAL 17131925-->

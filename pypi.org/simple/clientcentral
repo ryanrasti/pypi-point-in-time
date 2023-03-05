@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for clientcentral</title>
   </head>
   <body>
@@ -47,7 +47,16 @@
     <a href="https://files.pythonhosted.org/packages/03/4b/a13de8d926f986ec7bbb3ea119d0a796bc529d04a896a62d6458e2d393c3/clientcentral-11.1.2.tar.gz#sha256=36614ab0f15c648a7c8801aad25d4fb39ca1997d32b820f47b2fe12f7873bd18" data-requires-python="&gt;=3.7" >clientcentral-11.1.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/04/04ab8cd4056b1b834d973e39bcee578163e6d145e838ecf5ebade001900d/clientcentral-12.0.1-py2.py3-none-any.whl#sha256=05989db7c02d0a165118e972ce9733518ef2755c9fc2b6bd3d8e88f8b5e2d89e" data-requires-python="&gt;=3.7" >clientcentral-12.0.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/9e/ca4d08574fe610f54983c9786391a2a63693598fd036f994ec1b0f273e5b/clientcentral-12.0.1-py3-none-any.whl#sha256=2f6a8538a4681b041ce57aa4db4d254f65f41cb122b08c0fc0c81787fa39cc16" data-requires-python="&gt;=3.7" >clientcentral-12.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/64/75cf63faaa324d96452fb42afcc4179b4436d241f3cd5e3f173f7ca03df4/clientcentral-12.0.1-py3.11.egg#sha256=4c792be97bea461030648cf5079a56b04deaf5fad4368db2b75de0780cfed50d" data-requires-python="&gt;=3.7" >clientcentral-12.0.1-py3.11.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/06/8a/5f2069c6fbaa492e9db1d85d535c64cd59deba9f7078e978c44c1b061a72/clientcentral-12.0.1.tar.gz#sha256=9fe234ea5a2024f2b747cd595671a3fc455870bbcae50efc282c3ac727ff4027" data-requires-python="&gt;=3.7" >clientcentral-12.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/c3/8f29e64a25f268043ce8327f0775b7b8d6477f32c1628677bf555666d305/clientcentral-12.1.0-py3-none-any.whl#sha256=9604c03ef43287128bcdcd6eecad570d540cff2d802fc6756de0335afebfbfab" data-requires-python="&gt;=3.9" >clientcentral-12.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/de/4f5d5a431b1ec5f8b660c994015cbee9573d0543e16e7e8b9292fc1b6425/clientcentral-12.1.0.tar.gz#sha256=95c8d9724eccd81d7e268d2fa0194b1f4ce677143d60391a1c97c640f1cdb3da" data-requires-python="&gt;=3.9" >clientcentral-12.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/f4/11630bd92d1950636e84f950265280a1250bc7df3fc1641202e365f51664/clientcentral-12.2.1-py3-none-any.whl#sha256=64425c15c0e9b8c0f8f31eff07e15459f1cf0c50757073e8ece4993607feeef8" data-requires-python="&gt;=3.9" >clientcentral-12.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/7b/1615985f41869622458c65b4c2015ccd606fbc4bdd91f2047c1bc9210389/clientcentral-12.2.1.tar.gz#sha256=7d29988da62826417b8215979c1d8c10a8349cbfbb1bfe21dd6b8a9b26b587e8" data-requires-python="&gt;=3.9" >clientcentral-12.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/79/43c0e92ccbb7b84b36a47aa00eed8c642b51efcfb8cd615a651d7855a8ac/clientcentral-12.2.2-py3-none-any.whl#sha256=f1aed17b3a84a751f8ab0dfdcb26271b1b6ad31d1ddd1f8c61c6fa84a01db035" data-requires-python="&gt;=3.9" >clientcentral-12.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/64/8cebbec4f1fe9657dc4bd03f68b398bcb51d01afb5aa04ffd01e742b88c4/clientcentral-12.2.2.tar.gz#sha256=d6f92e07c2a9b1c4bba295f70e2d4bf0acb65e1608947bea5b6bb222d078f525" data-requires-python="&gt;=3.9" >clientcentral-12.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/14/3ce1f9590cf9d3a8258199d040680066ce8d604605ada23f46967c9b0e71/clientcentral-12.3.0-py3-none-any.whl#sha256=e8c06d4631e3731fcd756180e52125516a19c4df31de64b8dcb5b56471d69ef1" data-requires-python="&gt;=3.9" >clientcentral-12.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/84/c1e1104a6925cb3d261861b906167835bb07b1f2d2dd96caedd571146fea/clientcentral-12.3.0.tar.gz#sha256=431dab6ec5c5ddeb7be56de36b4b6827d86a1f9700f71129e4c5f174b184e27f" data-requires-python="&gt;=3.9" >clientcentral-12.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14924341-->
+<!--SERIAL 17017187-->

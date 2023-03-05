@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for npu-compiler</title>
   </head>
   <body>
@@ -169,6 +169,16 @@
     <a href="https://files.pythonhosted.org/packages/25/a2/c9bcd344678c8254f8ea7029f37f5270f4d6ca306ff8e736b63165facc59/npu_compiler-1.5.8rc0-py3-none-any.whl#sha256=13823acd2ba0280e47d04b63cded7545e6524da796fada30b8a11cd10a8fc5c7" >npu_compiler-1.5.8rc0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/71/cd/bbf5db6ff782d885e666898539a73a1e6445770ce37e8d194bf94309df28/npu_compiler-1.5.8-py2-none-any.whl#sha256=aeaaa5f437011cd70bf50e656f8d03de813c96a55fe5c217d95f4e6c7307182a" >npu_compiler-1.5.8-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/3d/304e4a0b7041d636b905ddd4e99ec6a7923c08da33f0dfaddb61f0096feb/npu_compiler-1.5.8-py3-none-any.whl#sha256=164abfaaeede42035ba36464ffb4d4fa4299286b3472b21a83bdc4f145e4d755" >npu_compiler-1.5.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/6c/1c8c402569becd430a558604034b694006379bd14dbf702f85946759c65b/npu_compiler-1.5.9a1-cp36-cp36m-manylinux_2_5_x86_64.whl#sha256=a7cf13db2c94eb46c93e7dddee50169375b66828100a7814b17189ca51062e32" >npu_compiler-1.5.9a1-cp36-cp36m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/44/7f919fe2567b44cd6d9c6bf47db0a72e591d54d1c9840f8b14f0b76a731d/npu_compiler-1.5.9a1-cp37-cp37m-manylinux_2_5_x86_64.whl#sha256=83a98ced1887b980a02eee98d8448fd09a06fec86b96165dcf301198dee84eea" >npu_compiler-1.5.9a1-cp37-cp37m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/d1/9fcd59edb1918d9f8b3eba0f113671910c3be67c3fcde6eee2e40789c14c/npu_compiler-1.5.9a2-cp36-cp36m-manylinux_2_5_x86_64.whl#sha256=1c2f77bc5708043f7b70bde273e35124042cc996eee82e17ca4d78d6547fa592" >npu_compiler-1.5.9a2-cp36-cp36m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/d2/1e7fe9b9189d179f0ba7d5cb12d1feba27e5a38c5569a05350ecb514b067/npu_compiler-1.5.9a2-cp37-cp37m-manylinux_2_5_x86_64.whl#sha256=e1548faa731b7360913cbcd1e5d3d6c7a4f61092d722de351583c9a1fa7b5c2a" >npu_compiler-1.5.9a2-cp37-cp37m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/19/7ddd4a2412083d3224600ae4e7f44d5772c81e0e708de3a53fb7de63ac83/npu_compiler-1.5.9rc0-cp36-cp36m-manylinux_2_5_x86_64.whl#sha256=929a7c945359d47c4816916be6de1b9f624717a1340ac0ba6e3085dd79f7a08d" >npu_compiler-1.5.9rc0-cp36-cp36m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/4d/513d872e7c089de09c3072b70e0590b93275c781c9540b0ceb5d186cc8bd/npu_compiler-1.5.9rc0-cp37-cp37m-manylinux_2_5_x86_64.whl#sha256=b6f9e0df2cb42cdfdadabed48ef7c8f26a48d104a0e7e03ee73c256947ffb78b" >npu_compiler-1.5.9rc0-cp37-cp37m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/6e/6ecda6ad1808fcc0ab12c3209f5c81bc42afd429fd858b794b2ee8e88527/npu_compiler-1.5.9rc0-py2-none-any.whl#sha256=39a9d894b2a8455a1cd0180da4b8a00afc4491efabb45e0d5c19ad32f641ca5c" >npu_compiler-1.5.9rc0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/a0/15654ee6d1c5e6a6a1edfbd14ee98ea05241d262c74172a7532a813ec095/npu_compiler-1.5.9-cp36-cp36m-manylinux_2_5_x86_64.whl#sha256=505bfb20d56f00dded780420bd0af987c51a834a789c49aed8b824bb6f10c12a" >npu_compiler-1.5.9-cp36-cp36m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/69/34bd3e79ef1680b166659839d3104dc337454f08774699bd492bb578a724/npu_compiler-1.5.9-cp37-cp37m-manylinux_2_5_x86_64.whl#sha256=10a812a300423f1612921fbdf21278e2907d78afcec5dc9982473ea5a8be8e5e" >npu_compiler-1.5.9-cp37-cp37m-manylinux_2_5_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/db/a123f41a25586617177f003b550b3761591d572a46e1295422f52b3f96a0/npu_compiler-1.5.9-py2-none-any.whl#sha256=897bf1b90396f9d430e0049bb5bd5bc62d91fd50f596cb4d99aae0aec2281bc2" >npu_compiler-1.5.9-py2-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15707968-->
+<!--SERIAL 17140512-->

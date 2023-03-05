@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vantage6-server</title>
   </head>
   <body>
@@ -290,6 +290,20 @@
     <a href="https://files.pythonhosted.org/packages/7a/7e/bb567dabca6b47bf5dd270c1baf04dbdb0095959f9e4e132b0df04b48840/vantage6_server-3.6.1rc3-py3-none-any.whl#sha256=9cb9bbf81e360c1ecfa709701c7251e83ac3ae35cae08b92cd977053a802b51d" data-requires-python="&gt;=3.6" >vantage6_server-3.6.1rc3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/2d/4ddcd11bc98a05a7528f67bbed34a60cfa272af373ca449ad28025bff987/vantage6-server-3.6.1.tar.gz#sha256=edb6f0803b9271570767530ee0055d2d7f065feda66004551d41fe8dd1428083" data-requires-python="&gt;=3.6" >vantage6-server-3.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/03/5214b1e3342e52acb892bc09a1e7b8514fac730742a344e49c331628ee78/vantage6_server-3.6.1-py3-none-any.whl#sha256=4ac522fc9405fe505d9fe19e04a6aec74f6c61cd69c862614a21dad44e233cdc" data-requires-python="&gt;=3.6" >vantage6_server-3.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/5a/7dceacf32874e0322f5dc857c62a9ae7a5774625e5b5819f7e0b3a66f864/vantage6-server-3.7.0rc1.tar.gz#sha256=89b2c9f02f649c615523462130a246c1e1b2d7fcba283652ab8cd43d994c6807" data-requires-python="&gt;=3.6" >vantage6-server-3.7.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/1e/ab1b3e5cc20d0f2da37c3c0f6927844c7ebcc7e538985e523e27f0f1a565/vantage6_server-3.7.0rc1-py3-none-any.whl#sha256=5ae52dbdcdb4a023db2f767386720dfa02116798f84a778e54152aab434ac407" data-requires-python="&gt;=3.6" >vantage6_server-3.7.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/42/d0983e230b2ad70e299a4efb02a983e9427e0b0bf8398c29893e8b42a6e0/vantage6-server-3.7.0rc2.tar.gz#sha256=ea787dba307e551cabfe0114a0dedbbaffb48c6a2742acd77ac9619186d8bed5" data-requires-python="&gt;=3.6" >vantage6-server-3.7.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/69/f11965bc81d456d5a1dac066b175145328652996a6acc2bb28818af94679/vantage6_server-3.7.0rc2-py3-none-any.whl#sha256=6d13127ac060d5f21792469ddd6aff6d1986f2a22c5083a0441715603f370adc" data-requires-python="&gt;=3.6" >vantage6_server-3.7.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/b4/4bc40abe2aba4aa2350dff80a3741a22d7f68dc90e849aa599ae55c9a63d/vantage6-server-3.7.0.tar.gz#sha256=bd02d43bbebaf16a58194697adbf574528d2b1611def0047ee7b64dd89c10a4a" data-requires-python="&gt;=3.6" >vantage6-server-3.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/f3/4d8f881f7f3b882fb4dc2e6640d0aefd657c4984ced19346e8fb8d270b1a/vantage6_server-3.7.0-py3-none-any.whl#sha256=d97203b763395db5e3a75338133cbff8a2d16f786e4bbf8269493dda364b5107" data-requires-python="&gt;=3.6" >vantage6_server-3.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/5b/db53f9690da5f89829d319033b73e2ebda955fec39bb69275753bb4f86d7/vantage6-server-3.7.1.tar.gz#sha256=a5a7f320f326cbf667f53a83e99ee23da86533e9793c5257199b6170b5543ff8" data-requires-python="&gt;=3.6" >vantage6-server-3.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/e8/9c054d6de6c8d0082fd7a80cb3a39a0b88a32af4ca02aba2591f9ebbfc29/vantage6_server-3.7.1-py3-none-any.whl#sha256=3ac2e6cefaaf53972209a194c7b9abd8ba87a370fcf0af9927a9061a8833ec62" data-requires-python="&gt;=3.6" >vantage6_server-3.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/4e/a880d956767de5e5be004be5f850beeaf83e03124acef6186560973555f6/vantage6-server-3.7.2.tar.gz#sha256=fd8b518c4d96bca1b736fab31e018bf4f74ef0cfed3e6617a35f303a9a2616c7" data-requires-python="&gt;=3.6" >vantage6-server-3.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/8d/7c515956fa795f1ff8a510736d0c89837f7b432a0e2f7d3bbc5dcc00f79f/vantage6_server-3.7.2-py3-none-any.whl#sha256=a5d61a56151cf36c0bb6e579821aab9e5430594f9ea2344558b2920e336c1e2f" data-requires-python="&gt;=3.6" >vantage6_server-3.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/0e/fd224e12df216b346a45e941d7983c657df1860a492c69df998fd2aad46a/vantage6-server-3.7.3.tar.gz#sha256=ebe41bf4106411b1318ca5d94046f53af49affa79b26d00e9ddf80935fb32ae8" data-requires-python="&gt;=3.6" >vantage6-server-3.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/ff/43f3f89792b54af76933c5c988451ed3d3e0d6862e632855bbd07e866401/vantage6_server-3.7.3-py3-none-any.whl#sha256=64a65a85c1ab4c98e111260ea3a83ce0d0e6a5a7f41ed2db37ff5141367b74bb" data-requires-python="&gt;=3.6" >vantage6_server-3.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/29/5bf915888a5d5c9709b45ee4133b08ce6932f9ec1b39ef039a0fa1a0108b/vantage6-server-3.8.0rc3.tar.gz#sha256=bf8726f3af8a4af662f7fb2b96dcc36cdad52c56abc901136710426df80c8137" data-requires-python="&gt;=3.6" >vantage6-server-3.8.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/82/e2876633032b67e126a395b2834f985e8f2d6b83190cdc47465cf414101a/vantage6_server-3.8.0rc3-py3-none-any.whl#sha256=19382acf81e20ec5ecdc755d6c105b3aa806c91c2dc7a060cb2e4f53154791c5" data-requires-python="&gt;=3.6" >vantage6_server-3.8.0rc3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16404446-->
+<!--SERIAL 17108658-->

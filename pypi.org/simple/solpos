@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for solpos</title>
   </head>
   <body>
@@ -24,6 +24,15 @@
     <a href="https://files.pythonhosted.org/packages/17/be/7dba8db71ed19b19201c57ddfc5ab63a305634e00ba79945bebb576be62b/solpos-0.1.1-cp37-abi3-win_amd64.whl#sha256=f6d955de6f4d4458e901c7cfcd29322733970361342b66be6a39c664c8beb331" data-requires-python="&gt;=3.7" >solpos-0.1.1-cp37-abi3-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/db/f1a21f98a76d1baa5acffc19d3fe4c4068bcfd4792c83e9905b3f8bb19f6/solpos-0.1.1-cp38-abi3-macosx_11_0_arm64.whl#sha256=02528ada34fb0bcb201a8794851ea41b5964087b4bb820d336fc07f4bfbe2f36" data-requires-python="&gt;=3.7" >solpos-0.1.1-cp38-abi3-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/52/d1/d64324bb9f365ebb5fefce429e60367d4aab521b39c8006a6db19e6f204c/solpos-0.1.1.tar.gz#sha256=abc420576d494afc6b612fe0ce2128fb0c99b3d1da56451bd723d47d1660f87e" data-requires-python="&gt;=3.7" >solpos-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/c3/38f996458b82d8c813d9baf396226cc053b71ffcc9a842e0b97548ba4c04/solpos-0.1.2-cp37-abi3-macosx_10_9_x86_64.whl#sha256=257220002742f14c4c686c8622fbcd2138f0dc0ce77556171f2ae799ab6d94f0" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/34/6aaaf1b86f45958f9c73b485f4ab9a76da1070251d56b541f5f8078fdeea/solpos-0.1.2-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=3bc5837b64d807d992c359d24c1b425b249337c79cd8ab1007e18395180218f0" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/76/5711101086ea83b33a7d66a280b9c5b0fc65ea6a0ae1994b60d39e57f658/solpos-0.1.2-cp37-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=472846f9a052be4a8285e1532a198040b91da8c7961a8b7a6a76c391afe58329" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/bf/cd4d785fa063d17f39d4902116f0fdf1aa7c7c79edee9785a435481ffb5c/solpos-0.1.2-cp37-abi3-musllinux_1_1_aarch64.whl#sha256=45187b06b2a46b7fcd6ffaf3f8bc78dfa3cae0a79f7903cbf8fabdb7d67beb03" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-musllinux_1_1_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/ca/9793c46d672048a8e7bc346fdd807905810a52d23fceb02f21cc849c32b7/solpos-0.1.2-cp37-abi3-musllinux_1_1_x86_64.whl#sha256=72e058f91a8b0a3ed23aaec857c4ad23f9c67b4bfcaed301439159f52980fe94" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/f6/b13ccc2a5c1ba8de2099694274b5f33e38917b510418cb8c6285647a9653/solpos-0.1.2-cp37-abi3-win32.whl#sha256=b6e00b9ddf401be00decc8879f0ffbd9574592c6c4dfee7f5e416f828693a3b5" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/16/38da4b55f860b36a5b4ffefbc4c2db2a11b3b5314b8ccf0dadad369bdb65/solpos-0.1.2-cp37-abi3-win_amd64.whl#sha256=da7eb90e6bf245196e0f62168bbef7d64913fdd101e629a600fad49b5c61a8a4" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/fb/c4b62c6508afac8de39dacd6ca7eef93b4c48a280ae9abad46c5bd9dfaed/solpos-0.1.2-cp38-abi3-macosx_11_0_arm64.whl#sha256=4eadf18a48d4d8cad1abf566fc3d79b8948174fede3fcdcdf4cc6b8162300308" data-requires-python="&gt;=3.7" >solpos-0.1.2-cp38-abi3-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/f0/f1133a8cc387d6b869f2cca240f7e88e3314cbb68e7665ebd8a0587bed9b/solpos-0.1.2.tar.gz#sha256=e1553d974a100a5601006ef2d7d64cd434b971d2edca8ced0524cb0ca39ed80f" data-requires-python="&gt;=3.7" >solpos-0.1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15588472-->
+<!--SERIAL 16514556-->

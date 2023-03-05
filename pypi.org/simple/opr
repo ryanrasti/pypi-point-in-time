@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for opr</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/0f/db/9e39d26f3b184aee67c798bdbdb65e2c2ebe55c15da0ab0513a75b793307/opr-8.tar.gz#sha256=0857775d8faf562a9d9222265f41057ff44834975eb2e1cf4f430a75bda78fa5" >opr-8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/da/b85a4abb69bbc7442fa1331b5db3c1206cc1d4fb6e44bc49abfc513a1467/opr-9-py3-none-any.whl#sha256=afd5aa73bf31f5b338f230baac6c6081f45ffbfbbfe51a48039639f052d0dad9" >opr-9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/19/79/bd64a32f04386ef5e2dcedcec37056195a9d3864d18b0babdaa47c16ab1d/opr-9.tar.gz#sha256=8c9094d868b907e6f8c11ab08a9a4d886a3f77b055885bfffae05760c805bbd0" >opr-9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/40/75bcf724d04f08d1d82f21fdaec2d1f3bb7cf3f3b7d0666d803716f6380b/opr-10-py3-none-any.whl#sha256=d120e9c341a22b3d93c9983d7e31a983109931619b8840c6ab4ba55aa0739a40" >opr-10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/f8/87076156c43a52a562db2b9f3974695624e0eecb8695e3b8947622f33a6f/opr-10.tar.gz#sha256=e572038cd4a794d50a2dacc2e3519365370ba8f87d8f8fd5520faea045ac034c" >opr-10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/32/13ced745e6b3e7dfdc1fcbf4387e61b9bf2d4f8918fe66319ce978a93b88/opr-11-py3-none-any.whl#sha256=a99f099dc4eb4600cf9410d697228bedb787e40d0c39616f19ee1c2e1cd62f82" >opr-11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/cf/c0b45cfc3e23d459189e9d2e8f0ec5a365ed1768c23beb7b4576959e64bb/opr-11.tar.gz#sha256=9c058d13c469a205414e99257b29837c5f13fabf67f0ebc4a5db3ca18f3695f1" >opr-11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/24/b4ebf698f117eebc22b5c4af570d2ee966ef0919cd89bffccd9a3e4086d9/opr-12-py3-none-any.whl#sha256=5467be017252191194e9647bcbeae06b0cf308e87646b79be4b4e237aa256eea" >opr-12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/c2/0f33c8abdcb495fb9a9df2ef3f42a80d60a0c3d7fe0f46920fcd19cbaff3/opr-12.tar.gz#sha256=1f81af135412f15d1c18aa82e34b631d654745580c1a792a2a2eb12c3bccc316" >opr-12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/02/702e872ad9578f76777bdaf44ee3b237797a503010e4a7bbf166309dbd6a/opr-20-py3-none-any.whl#sha256=8157bd1b78682734c023d408c78d73cbe913c7e19b9248f3d80cb33285b2ef12" >opr-20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/6f/22ce17c79c86c746e13346e4c7537f558713c58015286ea926a4fa7e29a0/opr-20.tar.gz#sha256=4408e617ba9f38afd0a6dd8eb98e9ecb4f9b35e930dab08aed873b82bea2e6ec" >opr-20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/5b/8f850ceb7be52bdb219c51da6f83515ccddeb944c7945225af4b63a8b74f/opr-30-py3-none-any.whl#sha256=30e91eb79844fa0aec2eeef3da45a31e9a6770c66fe167775441c2f1855116cb" >opr-30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/d3/777418546e4ccc66ac842759a033597dc6224012d67c097c4559c347d0ab/opr-30.tar.gz#sha256=7407e96f1fb76325fd34945807f04fe88af3635f91a15e4b1e145bfe488693e9" >opr-30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/f7/c25e13a5c453addf7ddab90ca2468be48c36b8081ee561f946e8e9ac7647/opr-40-py3-none-any.whl#sha256=3333ee65ec784039318634a0b964918f0279f6259bb907667da328f7ea209941" >opr-40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/fe/346d84a0ffce6e86fc0337ec69b39ea565a83ce664c41d23a6cf061721f1/opr-40.tar.gz#sha256=2db1c2c33ba90c6304d34a9544bacbda79d89fc02316440513511cf1ad07026e" >opr-40.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16325172-->
+<!--SERIAL 17143661-->

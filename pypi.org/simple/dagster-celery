@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-celery</title>
   </head>
   <body>
@@ -788,8 +788,32 @@
     <a href="https://files.pythonhosted.org/packages/13/22/fff6e3e4d4495f604d7615dea72aad7247a6cea706dd9552bd13ce2f074b/dagster_celery-0.17.9-py3-none-any.whl#sha256=5f751cf07598e6cba9f189377f8eea569650374db03410d744914c532db8aa5d" >dagster_celery-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/44/bd/a2ae6a92c790d0c73e5cc0b49c9269a0e0045f43b1ccf3c30a7beda3546d/dagster-celery-0.17.10.tar.gz#sha256=293dd5be35523c86303b95316a3596f3ca21c1e88b84ac59f638e135de6ac8b2" >dagster-celery-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6a/c7/fb94c9cae852992a01ff7195bd4a943aebf554541246da98c6058e1d91d9/dagster_celery-0.17.10-py3-none-any.whl#sha256=8fc1aed08e694eec546cc46e3d4277a9e5acf8f33944bdf26c6cdfeb893ae2fa" >dagster_celery-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/db/203a89330af8028aecca4f32a854ee652ddc29f44c008212b63d18d979e4/dagster-celery-0.17.11.tar.gz#sha256=28f2747f8ee42d10f79d5ee105ecdc165f5c69d36d7d36bb7dad6225b4ab6dd5" >dagster-celery-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/98/556f27a709b24795c21a95363b25f4039e3d9aee66dca6086f16f9cd4d50/dagster_celery-0.17.11-py3-none-any.whl#sha256=8c0f5476899e10d4984986bec651f4b14007b67112f7e5b2059f7e3e77846af7" >dagster_celery-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/f1/a8d48b705d077124a163698c8c6251294feec19c94218654e73fa1eaa597/dagster-celery-0.17.12.tar.gz#sha256=6d91b6c5dc2071c5ce05aacf1c6cd04458a25b67f019a0c9d40414e0357b2969" >dagster-celery-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/78/3a4ef866c9ebb830ac30aa80260c926fdbc29e6674aad35246949a6f0b91/dagster_celery-0.17.12-py3-none-any.whl#sha256=2b0340e9364ec833f9ec002d417de61bc2bac77bd2a0cc5db6eb51932e077754" >dagster_celery-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/61/083da142ee35ebb8b80d752931fd5663986ae58e5b41e7fc17db2cbd27c6/dagster-celery-0.17.13.tar.gz#sha256=947ddd25c6c24068d387c35a2671de2945fb655a00b34ede611546656932a3d7" >dagster-celery-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/3b/4140cecc19ca409158b28dc9299e5a7010a93a59112b37c6a11c69963f89/dagster_celery-0.17.13-py3-none-any.whl#sha256=90d8454a4365bc8d67671939336655bc3d176ff7c690413e7362f85d63accb2a" >dagster_celery-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/6c/204ef8d9e26d3a3790155ed1eb2f148332fcc02edb8fc4167e428d482c0d/dagster-celery-0.17.14.tar.gz#sha256=f5e120d84055fbd589cd8609fcb2a927d7030ce3870f95488c2ee52440e7c6ed" >dagster-celery-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/13/028fd596d8d920ba45fade964b1ccd116fe51199fbcc84c44c072e9b539b/dagster_celery-0.17.14-py3-none-any.whl#sha256=a7b80a5b297ecb5a7f0841913c18faa6620f3ee06411dc54b7a7da2ed1ae13ca" >dagster_celery-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/a0/6748e55df2d67cc5986f32fc9686c8af7b72dc571fbc4ec7a6d3d8e1bd66/dagster-celery-0.17.15.tar.gz#sha256=7824a4b6d9548f988170afeb8a55bf71e2e0db21f35272e21f9c24f2316c0403" >dagster-celery-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/72/d4bf0529a1368a1dac15552a8d7f8a372a09eef37b318aa1a024e0e9820e/dagster_celery-0.17.15-py3-none-any.whl#sha256=7c446e5055a260fa20c55628df6b86e2839fa55b52f47372dc46b5ce4f3b0bdd" >dagster_celery-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/d1/f4418c7c49be1cd037b0c9fe6aa710a9577601addff2f9f8fdd60d78126c/dagster-celery-0.17.16.tar.gz#sha256=43ac06760f7ae589366eaa0544ddecd5a9b37c6a6f309052533c97fc521dd4b0" data-yanked="" >dagster-celery-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/9b/26879fb3d9dc9ead2064a78510d7a69e348e7169526f4420812b9e05ba11/dagster_celery-0.17.16-py3-none-any.whl#sha256=4c31439e0b94435642253d86160858b5db0dccd45160623edc7594b1c99fe12f" data-yanked="" >dagster_celery-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/0d/737ed8df9c31993af9e6b032180285b917d393c40935b188b6c092defaf3/dagster-celery-0.17.17rc0.tar.gz#sha256=3faa6750b777fbc8dbcfe84bb5e464ff5e28acafb1d22f9fcbada5d60cf8b019" >dagster-celery-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/2e/debcde55b17b349c73772953f9625023c980462fbbb6557ef60c34e45931/dagster_celery-0.17.17rc0-py3-none-any.whl#sha256=b635c3a93167426987f9918d472b0b30bce72a91ff5ec8f6cdb00c0c86ae370e" >dagster_celery-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/85/4ead51f5b2ab390c0060ce827e62f9581e93f0d1e3c9f488d19978a002fc/dagster-celery-0.17.17.tar.gz#sha256=ec01522b02ffa64b26ed273a6e469d945b9b7a5e9d2cfedce21ea9cdc02ef079" >dagster-celery-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/11/a448794d15553cdb11cf3015c097b2c4ba3a3a2ff84df798d0318d6f4d91/dagster_celery-0.17.17-py3-none-any.whl#sha256=d638238438783cf6f2ffef8942b21980958e3d1ed270062974dcbfb9a2e8d08e" >dagster_celery-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/4d/47e20e2e51fb6042b653f36dc6f2da1cf436e3f917e391dd3f9ccc466661/dagster-celery-0.17.18.tar.gz#sha256=09b1fb2692d04b8254446acb98cd1d0bf8c0f040d82694d8966be409f77a537c" >dagster-celery-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/c8/d78fbfbb20efdcef6108054fb24ac5d39263fa29410c69341a29d3dfb1f1/dagster_celery-0.17.18-py3-none-any.whl#sha256=6deb8fc807496fc849f4ee639de88485b0f31a3da8e002ab82a7db29a2126861" >dagster_celery-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/1c/a3e7385042d585ebfcb7d6177b4bcc5be178c84a403399021533c2cd5bba/dagster-celery-0.17.19.tar.gz#sha256=e5a507e152d0d1b3c75d352d471d95fb171828644abc1201c0a888050573c673" >dagster-celery-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/be/eb6497f17a9e4d42f6d7f54c2f9568f63fb0883d683f365ad6297a179555/dagster_celery-0.17.19-py3-none-any.whl#sha256=748e157331d1b775027f57f3a1cacc1e0c856a538ab7856a42e7331efeea9180" >dagster_celery-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/a9/c788bfb2cf23df21737f826dc289e6197e27f49a2b3f8047deabd9e60b97/dagster-celery-0.17.20.tar.gz#sha256=4cfb23952bf1d01cee78ecd361299bb40e5b4ab7bfa20a7aa0abca16ec972c6e" >dagster-celery-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/13/5fc631a595705f059dd15f949d43cb8662ea4a4848fdf8cd6a0ce758671c/dagster_celery-0.17.20-py3-none-any.whl#sha256=64170bb2d6786361dc47e01f92b2f218391b9d59f7306b8d1af22e32fd211235" >dagster_celery-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/c5/8ca97480a91ec88f500a16acb6051eab330cc8724e8cbeec65170d4a02cb/dagster-celery-0.17.21.tar.gz#sha256=2f64d88c685426fc2cca88612f910a4439bef89f7e4a107dace8e6fe10398185" >dagster-celery-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/6a/13ca985e5e8e2ff37c5deed613ca4c53059d3d52a9a32008c970889fb1ab/dagster_celery-0.17.21-py3-none-any.whl#sha256=2725340286ccf55d42dfceafc265f4ed7bcdef07e49bfdc45a2748976b69e0bb" >dagster_celery-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/09/d7ffd9f318a0935a91753295e1028866e33a5a752c5d3edef6477e55baf1/dagster-celery-1.0.5.tar.gz#sha256=ce0cba5497d5d2c312c0c9d437e8107c9a6516ad61cdcd040b8a75f024f4fdd9" data-yanked="" >dagster-celery-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/10/2f01f6450d0b6b7cdb1774ae0deae1a1d64324e28fa5bc6246df94744f11/dagster_celery-1.0.5-py3-none-any.whl#sha256=ebca5c2e64b336797783384150b3f68997950c1ea0f1e8c8868f80e926a662fa" data-yanked="" >dagster_celery-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408620-->
+<!--SERIAL 17135877-->

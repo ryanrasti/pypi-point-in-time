@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cdktf-cdk8s</title>
   </head>
   <body>
@@ -264,6 +264,18 @@
     <a href="https://files.pythonhosted.org/packages/7c/41/1c27efd8bc42b7b9cd7707bbcc693395c2383dceacf32e2dd620bf99868b/cdktf_cdk8s-0.4.5-py3-none-any.whl#sha256=72fe3c2567fc01a04d040618db1225645e9f66b2f05436d4e5782507be655d3c" data-requires-python="~=3.7" >cdktf_cdk8s-0.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/28/8a5896c4500369fa51ed5f7098000b5c613d4956bce6fde35e3abbb74682/cdktf-cdk8s-0.4.6.tar.gz#sha256=7258dd30bf6068db743cde9b890195e61c02719446cf735992fe2aae83918a81" data-requires-python="~=3.7" >cdktf-cdk8s-0.4.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/31/46cd46f95589d59240e77d4bdac60e4702e4559a1d60d864d1301030eff1/cdktf_cdk8s-0.4.6-py3-none-any.whl#sha256=718620e1f76651eb9eacff2b877c07d6c446566f30f4849d55c4ed1b0ac276b6" data-requires-python="~=3.7" >cdktf_cdk8s-0.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/42/86523a32810fe7148bcda0b5e89223ac3dc58dd9ef1cdc8c3dff0edcfcd2/cdktf-cdk8s-0.4.7.tar.gz#sha256=5e3f3f4e4bd9335a134c754593f49095f502746ccf9a8e7827bf1ec319d583f9" data-requires-python="~=3.7" >cdktf-cdk8s-0.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/32/77da1ff5ccff63607f1bd6f86f5c807d5bc742ba56d19d126e902900246f/cdktf_cdk8s-0.4.7-py3-none-any.whl#sha256=05f5daa79c6d1568960c893e4ad19081e88fceff4b7a6c79cf53d09daa162c81" data-requires-python="~=3.7" >cdktf_cdk8s-0.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/bf/061fda605c1bc1fae82473f1cbfed2760fc148b8f8823b0205f511c9091f/cdktf-cdk8s-0.5.0.tar.gz#sha256=a3a826c07475e4a6b2a900b2b18d6ae911ac7143c5d8aca752dffd804ad60096" data-requires-python="~=3.7" >cdktf-cdk8s-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/3b/01151fd3a81be6cfc27993e656a81ffe8e08d79399057ee2fea9a431ff60/cdktf_cdk8s-0.5.0-py3-none-any.whl#sha256=ea9f9ae9b2488ce87d2175ec8ed4dc61d2687d75f1368154ea48953098d802c0" data-requires-python="~=3.7" >cdktf_cdk8s-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/16/cff4e56e43b0c5765e1973b8955cf9acabeea4891164402b0230acc4bec4/cdktf-cdk8s-0.5.1.tar.gz#sha256=6b0059f48486e24d7963ab243eb708028ce0d49bfc0c5585ac0a87a087c7c6a7" data-requires-python="~=3.7" >cdktf-cdk8s-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/de/c189f7690949a4dc7c8a7fef1bce1a2b53f852439215c768005638241d2c/cdktf_cdk8s-0.5.1-py3-none-any.whl#sha256=8ef243c0157cb02b14bec8284a9478468f3eda2d3cd1b0aba3e9919185b5d4b3" data-requires-python="~=3.7" >cdktf_cdk8s-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/62/b8c21a34af61a8072f15f9f70bd575d48a5725d7827bf27f803941603f58/cdktf-cdk8s-0.5.2.tar.gz#sha256=ae16e518ebf33954c04b265214998c330819867dc530aed486df7744b986ba43" data-requires-python="~=3.7" >cdktf-cdk8s-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/76/be6922b0d1c8572cc881ff5db5277e07a1ad97baba20eb6cbd8648e0fb35/cdktf_cdk8s-0.5.2-py3-none-any.whl#sha256=a4b2a33f77cc2714c3f346bbcfd777d677b773b47cdd4aa6dec3a75631e55b47" data-requires-python="~=3.7" >cdktf_cdk8s-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/c1/d9fc2b0a80cc2520c6f953393a52de5b924e3c61ead56da85b6e180af653/cdktf-cdk8s-0.5.3.tar.gz#sha256=87c442455c43d37179272aec7fc1b1d926ffc31d2c87043118038e294ff767c6" data-requires-python="~=3.7" >cdktf-cdk8s-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/53/5a4d372a2fe0580c39db5b620ba3bb42fb6bba4659cf46a07e8c0a4a0d15/cdktf_cdk8s-0.5.3-py3-none-any.whl#sha256=c0fcdc7b2a210d5167ae0992445cb6a89e47ee35b5b268f39469c869575c347b" data-requires-python="~=3.7" >cdktf_cdk8s-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/99/30ca425446e932ddf46d11373de2824d16ab37da64555f5dc9fc50507d05/cdktf-cdk8s-0.5.4.tar.gz#sha256=fb698cb626cf061e9986de35b53f859cef03353908b13ce8dca4b7c8ba296c5e" data-requires-python="~=3.7" >cdktf-cdk8s-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/c7/2151061f28e1357c4ec5da5e295da3aaa8f78344365b4e9132dec64a61ad/cdktf_cdk8s-0.5.4-py3-none-any.whl#sha256=1158da24ad01a77962dc9abcb5536d7dd2b8c922affaebe82cf7912bab68e4c5" data-requires-python="~=3.7" >cdktf_cdk8s-0.5.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15837634-->
+<!--SERIAL 16790429-->

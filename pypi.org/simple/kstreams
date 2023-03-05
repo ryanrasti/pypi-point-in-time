@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kstreams</title>
   </head>
   <body>
@@ -74,6 +74,20 @@
     <a href="https://files.pythonhosted.org/packages/06/2d/303620973685c0766b4bd8bf9faf357df09490c07006b660b2c4fa57edd3/kstreams-0.7.0.tar.gz#sha256=fccec845585cc7ea33983b5794363d94e0c4f2a78d2b95beb62519fe80134972" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/28/77/9d5591428ca0305082e319c4b604d6ca4c5a47d26bfbf1ef17c19d670300/kstreams-0.7.1-py3-none-any.whl#sha256=f3e9b7d85f9910116e32a29054322974a7d0e1cdcd83797eea5fbe7e46a2c67b" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/75/d6a313c22402235372f4de06ff5dd0d9fa63d47bdb679d36e80482ae84a1/kstreams-0.7.1.tar.gz#sha256=1a3d66ac110f55307e1bf2145d1ff80685ee6445b4e5451e265e2392843d71c6" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/d8/00ca4495efdab73cecb47aed7ef49985b70638d0659b21ffc67de4ce0707/kstreams-0.7.2-py3-none-any.whl#sha256=c245b1e1fee92f6cbac0c382394929e1e22e80be8efcb1aac24aa7ca68df671a" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/3e/e4b1f1431b079870db9ba035a5e92cd4086c1f6e730b8b08aeaf4e97dd30/kstreams-0.7.2.tar.gz#sha256=22c7e591fcaa0a02ead8c1a8503368620ad3ad94e8f707849dbd1cb87af4c09a" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/65/a25c3393dd61c549a961a74c9abc049e218900d356872ef68df1cc9b9436/kstreams-0.7.3-py3-none-any.whl#sha256=ac21460b119fb25ecec623b31d9f682870dc18cda8b5fafa12bff46a58a791f4" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/0c/d371527e2710fde48c684284943695acc88623d8026a2f3ae9f1c0855cd5/kstreams-0.7.3.tar.gz#sha256=d331bd2bebf71904cc85d8874f306755a9439219d3b5d2b50ea228007b511f44" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/a4/50fa0e2bec8211fd57edb1e64eb16e2b1514f93567f61ae337bb06cd4d42/kstreams-0.7.4-py3-none-any.whl#sha256=2d5f2b8435038421bbbb0783e02e84127e2acc2c76a054dbfd306ffd9b800ef9" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/79/d73959aee33d4bda158ae1233eff4f05ddf22d746568c7445fd354fdadf4/kstreams-0.7.4.tar.gz#sha256=26831322d1259abbfbe5e1aa59b5111aa66fd95604e0c21884170052068d6b9a" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/76/dc2e3322b5a773ec9de66efeabb452548105e6e2a5c4e4283d577eaa8054/kstreams-0.8.0-py3-none-any.whl#sha256=37623e8169b5bb231e88236426bfe2d0fa9dc2e3f5e9bf2605c157bd3b54d0cd" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/4d/e75203db688a6ea8842101a04e87bea15c318a4643c8cba2f6b86dffbe81/kstreams-0.8.0.tar.gz#sha256=903505858513240d55c742e1e4e9016fa9e48e5aff17804f475b5eeed5f27330" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/7b/95da939262eee1c685b624832b39db70cab548234001ad6c03c62a33a826/kstreams-0.9.0-py3-none-any.whl#sha256=1b02580984c5ac06c5a125de19297db1afc5325a7c05419082f10e68fe44add0" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/1d/ca3e2b8b740d2aa5987bc32e9793e218566beceff074a61554892e99e7b2/kstreams-0.9.0.tar.gz#sha256=a6374083daafe7d19fe01c733126785de0f239ee2bb11ed232c10415c6dce513" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/1f/940609cde886997e3432d1f39bb0c0f01833dd108a5f834897419b97fa12/kstreams-0.9.1-py3-none-any.whl#sha256=2e3a2b8333eb2b396c0f85d9240c610b004b9148c39fd8ba6aa22600bb77ffaf" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/9f/51bb919a10a681dae9c3fa7686fbdb1d017488a680b89797d87c871743e4/kstreams-0.9.1.tar.gz#sha256=a68a4f6ab0427e736081037d434d6989b327c0cacd6a520144e2a2e79595e9fb" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/0c/4b60c43fc5e14a01bec9889c953687c8c49b3f9777e16926e25c5d64d385/kstreams-0.10.0-py3-none-any.whl#sha256=93fa776cb51045cf987862556af8ed33534406481edc77c0a543ac1a739db6c2" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/b6/f3c5711bdf6734b869f5fafa4e2e3d1ce90722c907c5458ab9effc305809/kstreams-0.10.0.tar.gz#sha256=76aa07884121ecd895a9a5e40e51a4afb71ed21ba782b1a44689d540de673d34" data-requires-python="&gt;=3.8,&lt;4.0" >kstreams-0.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16007963-->
+<!--SERIAL 17127510-->

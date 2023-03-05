@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lintrunner</title>
   </head>
   <body>
@@ -68,6 +68,18 @@
     <a href="https://files.pythonhosted.org/packages/08/5b/1fcb14a32da3beb6429b61ba72154b9dbd70da632f52dfd05f1f8ce75075/lintrunner-0.10.4-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=89d215b18550fe05e5da7c278c498f931bad697736b3bffa841694b8e0e98eef" data-requires-python="&gt;=3.6" >lintrunner-0.10.4-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/b8/5f71b0e39fd7be04eb13ec3906c97dbd3aaa60b55893b413a706619e1fa1/lintrunner-0.10.4-py3-none-win_amd64.whl#sha256=19b71967cbf6aeb5c476bfb86dfb8c85243a71597b44803bf253984acd90fea4" data-requires-python="&gt;=3.6" >lintrunner-0.10.4-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/60/c550cfc514d4de3119b3af17224550826f6ade67b195f836790f13b10a79/lintrunner-0.10.4.tar.gz#sha256=10d1c5b1786996171be7c262614aef5b18fde7813ce7077a08670924ffd706ef" data-requires-python="&gt;=3.6" >lintrunner-0.10.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/9d/0aaea64bc4e2ee30b231668e99c9f84744c3ad530e9790d4ce67e2987f45/lintrunner-0.10.5-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=03f29f79481c764ecc07bc009b4e92aeba5b73af9c885ad21cb1078178d71b6e" data-requires-python="&gt;=3.6" >lintrunner-0.10.5-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/ae/4ec501115a19eea5bcaed4695e199928e24428ac486a63a37e1de64a7cc2/lintrunner-0.10.5-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2c617ceaf3fa0064b284e97e1218678a4151c49512d78d06a1f5df2a1019d453" data-requires-python="&gt;=3.6" >lintrunner-0.10.5-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/30/4b6167679349326c0406295d474e3c06fb8be2e102298161855a30dd3b69/lintrunner-0.10.5-py3-none-win_amd64.whl#sha256=d748787b434017c678cbc6accd82a68755b781a2260f00fb7931dd899f219502" data-requires-python="&gt;=3.6" >lintrunner-0.10.5-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/fe/aa429ff0c298561fff22d2bb37fc8a2ebf718315f550644266fbf615decb/lintrunner-0.10.5.tar.gz#sha256=36568fce7792b748beb0c86b4bca2d4ce939ed70e0485c6ba1800df3b386ae21" data-requires-python="&gt;=3.6" >lintrunner-0.10.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/24/1e0d2550a32c7f82d09559c4c3ab0b642bd6fc4c12f6e0747d4d55127399/lintrunner-0.10.6-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=92923f9b6f783156d7c908e2a516c32a9c4f4cce3c00ba3e94c45688d5c31d61" data-requires-python="&gt;=3.6" >lintrunner-0.10.6-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/d5/bfd3c4bf264ccfadd29a0e478c2ee285fa35259b29496b74f7c2f23063c2/lintrunner-0.10.6-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b30883968358f2ec687dfa8e4a198dd36f36b99a0e3c1e74269b6fe52c3d920a" data-requires-python="&gt;=3.6" >lintrunner-0.10.6-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/b2/b02b5d5dd9564b9d39494ca853401fa7f66b7c7a54297abfea658c49c7aa/lintrunner-0.10.6-py3-none-win_amd64.whl#sha256=811acce1657489ba9d83607f4c78259d5b904617eae86896b3c05c1df522d48d" data-requires-python="&gt;=3.6" >lintrunner-0.10.6-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/81/6214101f762045da82f279ac50f4fe8495d9f90ef99283b93f1d3a3b0070/lintrunner-0.10.6.tar.gz#sha256=3802c066ad91d579b42214369c2bc140634ead020087ff644d661e3ec7a0c74f" data-requires-python="&gt;=3.6" >lintrunner-0.10.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/c4/6d731deb4560e6270d2c584af73f978f28e0ad2bb4e9b0b01eb6245694f8/lintrunner-0.10.7-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=d3c603a9c7db9b972e742bcbaa61cede97a1386cc653c39dfd0c5a8de19373b8" data-requires-python="&gt;=3.6" >lintrunner-0.10.7-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/c0/482bca82a43e7cf654f5a3b0d26ca484687a109422100d3656db35375eea/lintrunner-0.10.7-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9d93009df295c51f664a3bba3cb441f2a6c41c79acbcff1ce16ed1da94054ddb" data-requires-python="&gt;=3.6" >lintrunner-0.10.7-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/99/b0405c6214f2968a7f303ee92d436283b1332099bb207fff59e0a2ead2df/lintrunner-0.10.7-py3-none-win_amd64.whl#sha256=2d8a18c6679c2fe4e3bceeeb96f80904c197c8c28cc20caa1dd9915e2f76d67d" data-requires-python="&gt;=3.6" >lintrunner-0.10.7-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/fb/a3e904f351937bc2b5f28df5e1f0dad50c70fc27657a63e694835238266f/lintrunner-0.10.7.tar.gz#sha256=a63015db91540d183cbd9a9fb0345bf5f4cf9fba64fe6de417e4ed25ece33b62" data-requires-python="&gt;=3.6" >lintrunner-0.10.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16413133-->
+<!--SERIAL 17133343-->

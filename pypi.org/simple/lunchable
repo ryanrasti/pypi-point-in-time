@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lunchable</title>
   </head>
   <body>
@@ -58,6 +58,24 @@
     <a href="https://files.pythonhosted.org/packages/1b/fe/5c1d63206d3a69c2a977ab72524b8d1d3c1c310778bc9459ff1d1b14a35a/lunchable-0.3.0.tar.gz#sha256=4342d0b13537f8771eab053057685f6ef204c71643e5d487e75f0e21e9e64371" data-requires-python="&gt;=3.7,&lt;4.0" >lunchable-0.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/da/2a/be578ea1512e82f0ab8d6a47404bcfe6e8468f895729a530b4e0f1b86562/lunchable-0.3.1-py3-none-any.whl#sha256=58b8347ec0155ed25acb2a3e8f4a00fa63fc1adc779c0187a35d37f2f02af2c5" data-requires-python="&gt;=3.7,&lt;4.0" >lunchable-0.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/b3/a65867861efaf3143dc1486b4a63ddb90b507112a8ef8d1f17c23d36f358/lunchable-0.3.1.tar.gz#sha256=5199b5d8c917747e600ae58187471b8cf779dd2eb6c9590fff9c40d96348f509" data-requires-python="&gt;=3.7,&lt;4.0" >lunchable-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/ed/fe9ed67f7d5715c18df2ddfd2dfff1109f219f68454bdcd816a1a17eeb9e/lunchable-0.4.0-py3-none-any.whl#sha256=033b21d835e29e5a9a624e05b1934b73305af3c066e1c623306e93e7ae95e1cc" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/11/789457d9530b50dea075d3538d0593d05a8826150c18becf990ca8a3a641/lunchable-0.4.0.tar.gz#sha256=1c77148f56d953571df5f95e01c555345d317a6efd5fd606fdd3a6340e82196c" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/02/3e11ba6c5cce2c889a5a927183e358dc33dbf6798369f5617c1dd93eb409/lunchable-0.4.1-py3-none-any.whl#sha256=0ca4eb9893f6bb9153a021b4293c712ff625304aaab0326c81e68102931b1731" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/7c/dfec8dd9b6fa63a5c6dd86478fef92d3088d3d29e07736f352aa89950df2/lunchable-0.4.1.tar.gz#sha256=acbe3b18aac9abf4128ae9c67013c831e839c6a6c8a5a3da8dba2f82be0fe8ea" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/cf/f632e0e7d3ae557d8f60fbd512991f1526a41950049c089d6634075b0fee/lunchable-0.4.2-py3-none-any.whl#sha256=e6bbbc47f2873c41a50a98ecbc1f70bbb51a5028edf5e4565d76b5ebbe8efa40" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/f5/69f72599a1fb58411b945c9b8b102148489c38b5b5ac63481f0b382f72d6/lunchable-0.4.2.tar.gz#sha256=f4824476e13a73901ef6d815251f466f0c113da537302b402c259193feaf8a3b" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/20/2e61bd67777b7a09f9ddeb6057d3f80910eb13ab5e2aca0aa1a530add2d8/lunchable-0.4.3-py3-none-any.whl#sha256=910767d8732e2e6cabdb1495cd150514de3709b04dfc8220db82c383c63fcaba" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/fb/4fceac92997fb2dbffb073b715b8756d2c98d4c957d45bfe35af0cdc319f/lunchable-0.4.3.tar.gz#sha256=8669f9f45b49fa43c4b0fce963dbc594ceeda094371d1892b8ed27b0ae684cf8" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/7c/5fa158b24a91c65529fb1829f9ae8de3cd6ae99b11b025b2d7f1aaedb810/lunchable-0.4.4-py3-none-any.whl#sha256=af7e2b49caf868f264dbabf1b666f0bd457b81a1db2bcb4dccb5a2ef01556ec0" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/a3/fc414ab623fb77fbf0e40af7b3868df9d9cbf46293d219376d0a09a477fa/lunchable-0.4.4.tar.gz#sha256=6cb88549b3da1b96efebe9e3ba6ed56e67272d227c92f7c750a529a51caf9eb2" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/a5/746513f79e8cf9ff29c605731db28a1d86fffa5d3b6a572ab56310991c1c/lunchable-0.4.5-py3-none-any.whl#sha256=741d5d0d8c931e0d9f3cbae44e189b56b4ce7d1383e7f444a39220bf4f471787" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/6a/12cf1fd739b787a28e64d3f4373d6b37bc13882c718db4f52e2430af5c40/lunchable-0.4.5.tar.gz#sha256=6a0746094001db93a424695ea2e067d894cf16fa27ea93cb12ddc9c024760fc5" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/8b/3cd78cc6f65653f1d0f6124e766bcca0b2b914ff15796137011da1b3633c/lunchable-0.4.6-py3-none-any.whl#sha256=bf0f9872279036f6f39247d78784ba0e50bca75d59d5bb5a62fd0b9a3398c2ec" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/51/1ffc1935c9f082fcff823914db63f4c0f4523356d28aa57474d4c03240d4/lunchable-0.4.6.tar.gz#sha256=6b72644eaa285232ee650503fd8e4b75c37056b01faa4402f92f30f08ed76417" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/e8/7574e32d305d036ac9b3c8cb5e6d747dabe21584d5c5a47d0901b59b56ac/lunchable-0.4.7-py3-none-any.whl#sha256=d0f10279bd9fbaa152a347c90beafb28ec782b92b0adb02b55398dd75272ba50" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/48/b13dbb489b5a57ac4de59af1dd9467e075ec6c27cb893f2a1eacd3834597/lunchable-0.4.7.tar.gz#sha256=0d8706d890078f25d05eded02ad17a17bcec2959a57175c03a31a6fa96d6d1a5" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/a5/0bc30636aae5b9fb37931c36f3459bd2760aabf58cda955eaa7fb73c1748/lunchable-0.4.8-py3-none-any.whl#sha256=add270aee3128a239bb742da172bfcfdfe2eb701a3c6735c4277bd6e6c4cd850" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/38/e8757a158dfb680be98d3b5174e299644dcefc3abf7c17a21d068d53498b/lunchable-0.4.8.tar.gz#sha256=d5ec68776808de53a8f701cea340e47e874f338f4f4cb665e34eb2fcc2655c99" data-requires-python="&gt;=3.7.1,&lt;4.0" >lunchable-0.4.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16180717-->
+<!--SERIAL 17116901-->

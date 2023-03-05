@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for karrio-server-manager</title>
   </head>
   <body>
@@ -20,6 +20,21 @@
     <a href="https://files.pythonhosted.org/packages/9b/8c/cf94af3d17fe8ed58a14d1c01e304c9cd8604833efb5179dd76f0751235b/karrio.server.manager-2022.8-py3-none-any.whl#sha256=031c3b8ea68c6c3f3aa2b3957b738320152965f0f5b75c14187351802a02f735" >karrio.server.manager-2022.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/45/76ba32aa01e19572ede9651e3981c1feece6b2639cfac471d6a594d9d2a5/karrio.server.manager-2022.8.18-py3-none-any.whl#sha256=585283216ea29e2d19b201506bf4415e1ece1db2511227685e811b278bb3391c" >karrio.server.manager-2022.8.18-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/52/773064e95475c78c127dd4e320754b8f388e5dd7273cd7d966bdf3dc9436/karrio.server.manager-2022.8.20-py3-none-any.whl#sha256=7acc8ab769433a1afdbd919f68c4c24ddbc60cd5114ebb51537723358024c77c" >karrio.server.manager-2022.8.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/35/139c3a42cb49b7704e1cfc1fa6aa9aeb60d628302467614d0616f55ceccb/karrio.server.manager-2022.8.21-py3-none-any.whl#sha256=e05c73eef653421157366931d6eb22d814024d5e62fa5035376225974b85db7c" >karrio.server.manager-2022.8.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/a5/8f22e9e0cdaf8ba8e95080d7ddb2a8ee7fe6fabeef15d5b18b40790fc011/karrio.server.manager-2022.8.22-py3-none-any.whl#sha256=10791d2d4ef60b59a06f38240c5de4b0b141468ddb63ed366e85a08b7bca5556" >karrio.server.manager-2022.8.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/97/22cc682aea0d66f8fafdab421cdef61314cb4af583090c813878657a5496/karrio.server.manager-2022.8.23-py3-none-any.whl#sha256=bcb418c02d76671791467d328956ff249a842a319d152313f332f7bd141e6d8b" >karrio.server.manager-2022.8.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/94/9aa1cd94921f3f2193ee6a8e807d71f70e2f847701aea1f03093e7e21840/karrio.server.manager-2023.1rc0-py3-none-any.whl#sha256=98fe866e12d3b21f47e3a23bc55c54326a497d6098ef180329ac6aab223eac88" >karrio.server.manager-2023.1rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/c7/365095139a642dc3d658236fb04008c2a06c3e0609db2c6d794d9d521fcf/karrio.server.manager-2023.1rc1-py3-none-any.whl#sha256=4ed708389ef7d30e49e9ca53203d3bab3a32fa76cdba70779c67dcdf49d79dca" >karrio.server.manager-2023.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/99/a2a480faf772aab7c1d23b89ac4125429f7a3cff5d2366003a1e624dd0a7/karrio.server.manager-2023.1rc2-py3-none-any.whl#sha256=5592ce54faeeae1136b399c9edc6900af65bc45ac504a3e9fc0d6c605b668aa7" >karrio.server.manager-2023.1rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/e6/83725b549cca8dca5c1fd3148b3711f16dcce7b313edd0144cf4a3bdd977/karrio.server.manager-2023.1rc3-py3-none-any.whl#sha256=660f3743af29e533d0606bd4ced527147020104562b08ffaa76477d797a3dc72" >karrio.server.manager-2023.1rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/18/ae003529ccfe7ef005ff43b0d311caaa5a6683677e6a15a28badb654e220/karrio.server.manager-2023.1rc4-py3-none-any.whl#sha256=07aebe86855bce4c03f2ad1a888b5e54badb8ea8acea4692c1ae92798bdadfd0" >karrio.server.manager-2023.1rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/42/196834e6ab21b89825caaa6c4d905f9cf5927bb499fca452ec5361bcf7f2/karrio.server.manager-2023.1-py3-none-any.whl#sha256=490d03c7fcb76c2c78d1402b9c5926eaab83f8d784cbeab8088ef9d84fa33854" >karrio.server.manager-2023.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/8e/fe996761c4db9a45c2f10eff27a604eceefe20518ee81a5ea115d1feece8/karrio.server.manager-2023.1.1-py3-none-any.whl#sha256=6b7c44ebefdfec49266ac4bd76c705c91bb5173a5f218fc7d4e027aee2929f6b" >karrio.server.manager-2023.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/fa/965ac150a7531a72c9eedfdad5d4394db31b6e0cf3ad9ec9b24da55e775a/karrio.server.manager-2023.1.2-py3-none-any.whl#sha256=3c7c8aec7a674d9439393e0a92edb11cf72b08980c0b0da9fe74581bc742355c" >karrio.server.manager-2023.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/e4/10561d02afc2ee585ea21395110e928174ab652fe1fbb4f4a40cc2ee6c27/karrio.server.manager-2023.1.4-py3-none-any.whl#sha256=1a21a08fb1dc7b350a6f54689a70d5ddde0a6a6a571621d4a14ad2f882b65dad" >karrio.server.manager-2023.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/08/44eb0740b7f127520c68f3cb95ab017a0da513adc5fbd8976634d9a7f9d0/karrio.server.manager-2023.1.6-py3-none-any.whl#sha256=9ea68c4e4d5607f6706021128f171b472c684ca0e35a6e845e714c1f1e4a2421" >karrio.server.manager-2023.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/25/9c62eb05d9f5da6b86eaff501d915941539ad42c465ab444f8007555896f/karrio.server.manager-2023.1.9-py3-none-any.whl#sha256=138ceaacfe63212ef05fa5f57b5a69ef98f727de03d3bd9c7eb22719ff8eb3f9" >karrio.server.manager-2023.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/ce/bed708239bced4f63c9d5af213b4a4ceb2e9887c7417992c11e12f4a7d56/karrio.server.manager-2023.1.10-py3-none-any.whl#sha256=0c7d6173c6d66fe64217d6c7891c5f7bc43ef37cc76a4e4027f8e178d9a064bb" >karrio.server.manager-2023.1.10-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408280-->
+<!--SERIAL 17155254-->

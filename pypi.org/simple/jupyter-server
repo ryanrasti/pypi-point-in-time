@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jupyter-server</title>
   </head>
   <body>
@@ -202,6 +202,8 @@
     <a href="https://files.pythonhosted.org/packages/1b/2d/1e36c9a559059b9d44351565ec3ea2d3495e169925a9f7e24586cc2a9a83/jupyter_server-1.23.4.tar.gz#sha256=4ee4f311bd944bcf8060a8b746059571c40f6b8ada1d1e6e51239d26ab23b15c" data-requires-python="&gt;=3.7" >jupyter_server-1.23.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/77/d0/41f8ac982b49456fe93bd0b00efb49c2df1ac2bada8c92c3d4e702f80477/jupyter_server-1.23.5-py3-none-any.whl#sha256=d42e520af98af9fbb7f0fb0d069991054d88e4d2ee051eb7110aef35f3756cef" data-requires-python="&gt;=3.7" >jupyter_server-1.23.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/95/a9/053638b3798bf5bf4ae972946f6f0cf4a96ed88f07e53129bbecf7e5010d/jupyter_server-1.23.5.tar.gz#sha256=a2caa759e2a29ece1aad013c58215fe951f38317b97de462b921834955fe3fca" data-requires-python="&gt;=3.7" >jupyter_server-1.23.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/c4/2c22ebce27b5b51b19c09fd99a027eefb2bf72184afea58e7ccfbfd46166/jupyter_server-1.23.6-py3-none-any.whl#sha256=ede3a5c09b075541d960bb02854b617c0ffa58706c37de92e2d1c5acdc359c20" data-requires-python="&gt;=3.7" >jupyter_server-1.23.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/b8/a98535143a8dfb7d3ea0d0ba4a3cbd5fa2d0ef9d68c784017aa967584c9c/jupyter_server-1.23.6.tar.gz#sha256=fde15df6d11a053b17cf2450eea9984ec9a6f28ad3cb2caa73c31e53ea184fc1" data-requires-python="&gt;=3.7" >jupyter_server-1.23.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/b0/5c46710da8b5767284153f2e7c4cd1f2b8198409302036e46c3b24392f93/jupyter_server-2.0.0a0-py3-none-any.whl#sha256=7be4a24d79bace14bdf83208e32b9403a38890f747ff889c107a19a5e702d6f9" data-requires-python="&gt;=3.7" >jupyter_server-2.0.0a0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/ce/3deed5e6aab03a16bd2702c74c4fe8da13218aaa934c2dcabab002fac6e0/jupyter_server-2.0.0a0.tar.gz#sha256=6704e2791a4a508d8e78d323ed7a5ff94a9f869fb06edd7d243b1830aea1c255" data-requires-python="&gt;=3.7" >jupyter_server-2.0.0a0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/7a/03d365040ba8adca913806896391c624978fa38586cee3b823e61d9f285f/jupyter_server-2.0.0a1-py3-none-any.whl#sha256=fc328bfd06b4d12a90dd72495496a9ff8f6fa27776c05e4947aad3a0de6b7f9d" data-requires-python="&gt;=3.7" >jupyter_server-2.0.0a1-py3-none-any.whl</a><br />
@@ -248,6 +250,12 @@
     <a href="https://files.pythonhosted.org/packages/d3/89/002dc11714f441429b19e1e2ca353042a898849c6f328ba655a2a70d4296/jupyter_server-2.0.7.tar.gz#sha256=4cb9fb61d13a7d1b5a3fb52d8194c94a4aa9b9781d2b91d106079eb8610c98e0" data-requires-python="&gt;=3.8" data-yanked="accidental release" >jupyter_server-2.0.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/53/9e/02d382c8154f8a65903ef727322134edeb4d6eadfe458d4e79912794718a/jupyter_server-2.1.0-py3-none-any.whl#sha256=90cd6f2bd0581ddd9b2dbe82026a0f4c228a1d95c86e22460efbfdfc931fcf56" data-requires-python="&gt;=3.8" >jupyter_server-2.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/4d/e55b46c9453c4d09bbb0612dd823886b17d4cfedbfe8b92e5cae56c3213b/jupyter_server-2.1.0.tar.gz#sha256=efaae5e4f0d5f22c7f2f2dc848635036ee74a2df02abed52d30d9d95121ad382" data-requires-python="&gt;=3.8" >jupyter_server-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/8d/f4b496a474370e65243a72e485aaf1de1311eb748c6d67697c64780ba422/jupyter_server-2.2.0-py3-none-any.whl#sha256=9c79b7227a7e3974856265908da40715ab49b7014ac39478d80b07e164b5a70e" data-requires-python="&gt;=3.8" >jupyter_server-2.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/1b/fcd6d6573524fdd9f9058be215795a090a1b9d4d1884f0798522b2be5026/jupyter_server-2.2.0.tar.gz#sha256=f901efcb4adce2370c64dc5942be587bd181119644660a1eb123435c3cd01f95" data-requires-python="&gt;=3.8" >jupyter_server-2.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/90/93469c067391bc52c6809df1378cbe6262485f748e4157d8a48cf6feb639/jupyter_server-2.2.1-py3-none-any.whl#sha256=854fb7d49f6b7f545d4f8354172b004dcda887ba0699def7112daf785ba3c9ce" data-requires-python="&gt;=3.8" >jupyter_server-2.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/e1/2583e892d8f65e54ab20f8658fdefa1267c3d0f657fa81843744e423123d/jupyter_server-2.2.1.tar.gz#sha256=5afb8a0cdfee37d02d69bdf470ae9cbb1dee5d4788f9bc6cc8e54bd8c83fb096" data-requires-python="&gt;=3.8" >jupyter_server-2.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/91/81d1d6ce87a96e9d5299d274b0137847db974d3964ba372885f901f6ec9d/jupyter_server-2.3.0-py3-none-any.whl#sha256=b15078954120886d580e19d1746e2b62a3dc7bd082cb4716115c25fcd7061b00" data-requires-python="&gt;=3.8" >jupyter_server-2.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/c2/6e4e9d495f5bfb9c92d825e8c6ffa0e4fe96a06e2cc3e84bf2e6ebae3864/jupyter_server-2.3.0.tar.gz#sha256=29d6657bfb160b0e39b9030d67f33f918a188f2eba28065314a933b327fef872" data-requires-python="&gt;=3.8" >jupyter_server-2.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16411627-->
+<!--SERIAL 16872262-->

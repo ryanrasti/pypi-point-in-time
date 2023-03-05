@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for finstmt</title>
   </head>
   <body>
@@ -33,6 +33,20 @@
     <a href="https://files.pythonhosted.org/packages/da/17/ece5bf87fdd8a52762b1a3491b84c44ed72df9098eae8ba5f2b751716b88/finstmt-0.7.0.tar.gz#sha256=b700259ce3f0d029406371941f53a840107f7bd934f5b89150bf7544c263bb3c" >finstmt-0.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/3d/9d2992f19b56a156ce0cf03419962768b7e323243c9ec0f64773fe5953e0/finstmt-0.8.0-py3-none-any.whl#sha256=e031b0e042aee98e62adaa54c5aa86c46cf8fdccaf3db85b14fb43e3089ae5f3" >finstmt-0.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/4b/1fde4f085443e1449b9c5949dcbef1c92466aafd899aa9af602c7687f72f/finstmt-0.8.0.tar.gz#sha256=8f7ab82761a44aefc6252622548b10532634b9d7a90e75d3fc81eedea2f6c7fc" >finstmt-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/88/cefa995fa1659d85fce5a444aeff69c1c47220cc1879979057a577a565e9/finstmt-1.0.0a1-py3-none-any.whl#sha256=01d1e785771691b63ef41222442a925d58e4a30cb7b31f77c347bc117e5a8eae" data-requires-python="&gt;=3.8,&lt;4.0" >finstmt-1.0.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/ac/a3aa574eb5c2d13a2a2fabd1fcbf6afd348f0288b2d957431126460938bd/finstmt-1.0.0a1.tar.gz#sha256=d80198faa88a6cdabbd5959d9132fe4f1e049bd653dca1896b552962b845e738" data-requires-python="&gt;=3.8,&lt;4.0" >finstmt-1.0.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/87/2a3782fffcf747176fcc816f1cfb38c24da2b197581e6d5447219e2cc1f8/finstmt-1.0.0-py3-none-any.whl#sha256=b64d14f7362f81719f5be9d11bb386365fee3bcff201a8d0876d7ca660848d1a" data-requires-python="&gt;=3.8,&lt;4.0" >finstmt-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/2e/3c9c4f253c60338c3e150ab3e445a8f712b45e6cbe5c73b41d1e7a35f007/finstmt-1.0.0.tar.gz#sha256=0b441f9c3bf26151594b493064cf61125331174cae8a05df1218094b13c8d651" data-requires-python="&gt;=3.8,&lt;4.0" >finstmt-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/51/4d157240638fdc8d13373e22b7c55c686c42aa09863e5be6c0ec36412f6a/finstmt-1.0.1-py3-none-any.whl#sha256=c2d4bbd5cd7d2921f96d12e492659df03ab7c593a051039c8477be87154e0253" data-requires-python="&gt;=3.8,&lt;4.0" >finstmt-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/ee/a6f833bf8d6c414cd97112846122e976c11415003d77a67d95d2817c4b60/finstmt-1.0.1.tar.gz#sha256=a3ee2c56d421974ba3cbca9019c782113503ef2731b3e7222a6ead646172272b" data-requires-python="&gt;=3.8,&lt;4.0" >finstmt-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/78/8e4282c40909bbfc77b76667333f5bd97a79bc5d1595b117936d37e1d1ff/finstmt-1.1.0-py3-none-any.whl#sha256=1e56d1653a6b3fe57883a9b19d9376394ec1c2f744789802f1da2f06e2f0c4ca" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/9a/840566e218507849d5cb7ba4253e9591dcfa32a4fa25ea2f6a1e91c62943/finstmt-1.1.0.tar.gz#sha256=96705c11b5250876f31f50aa2c085f7e95c37555745c22708265681d7d7dde33" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/b4/a334e46db7187cc07c7ae8399edc2aa9578bfc07788710816a8b079a35f2/finstmt-1.2.0-py3-none-any.whl#sha256=e3a11f3edeb39aeca0c52aaac2657cd677bc61deb3835b5245f41228c5cdf841" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/63/a6b07cf8233a2c35e49fa41bdeb8e827b84c8510a192469da9212959c225/finstmt-1.2.0.tar.gz#sha256=c6c16014be61afdfd302fc04cdf88484b61ff23f5141b40ced96f676335d9817" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/18/dcc6328402975bf53af3fdb2ccd5aa65fb3f85011017190ea607db01ee36/finstmt-1.2.1-py3-none-any.whl#sha256=46b24c7600af0d3394754bf75f8d26e9835658f7afdb3bdc37e8dbe5b90a6de9" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/7a/6856e4e3e1aaa240c3a0451b2a091e24f13bbd7d15651165ef5a83c8199c/finstmt-1.2.1.tar.gz#sha256=54ba8bf76f0a5e169021babc85f6c66db813b12a24164b9a99f67d2f9abf7214" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/a7/de909d5d3e1b603a9cb31df23499415c7bd0b6cbf0281ab7cd91f6fa115d/finstmt-1.2.2-py3-none-any.whl#sha256=6ff60140b55d6a60bb831610b7e4f2ad827026307aa012ac54651cb074b9a374" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/6d/8d5cfd73c2ac8529ef7753aa19dfa41d26422ec71a425a7d04fa7363b210/finstmt-1.2.2.tar.gz#sha256=fa56194695807dbfbe8374c9e90adc288bf4e70c0fbceaddd106963a89a1ae64" data-requires-python="&gt;=3.8.1,&lt;4.0" >finstmt-1.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 9020762-->
+<!--SERIAL 16975268-->

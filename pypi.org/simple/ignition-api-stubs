@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ignition-api-stubs</title>
   </head>
   <body>
@@ -54,6 +54,20 @@
     <a href="https://files.pythonhosted.org/packages/53/7d/a7dba13943bf5edd03c14c552e5d7abdc2d89859ff2398f508fcc27aad6f/ignition_api_stubs-8.1.23.tar.gz#sha256=0d6a2983037f194b4e658c63a2e8413d0a4d9fe47d06b04a4b2162abeb87f0a6" data-requires-python="&gt;=3.6" >ignition_api_stubs-8.1.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/8c/1bd153f36de05b9567d85f65ff166a080f16c0f52a220c7e46f20b7a92ae/ignition_api_stubs-8.1.24-py3-none-any.whl#sha256=d9beb8528080d5daece27276270aafaf1bd6f45b124b50425d5fd7bd0f3d58d4" data-requires-python="&gt;=3.6" >ignition_api_stubs-8.1.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/df/6e81400dc710aacb206666101eebe8c592bfa04920d9192816c63a30ff2b/ignition_api_stubs-8.1.24.tar.gz#sha256=0c17565c849f5ff2fd39beb507c6c846b299c45cda2200124cda2c3acc674cbb" data-requires-python="&gt;=3.6" >ignition_api_stubs-8.1.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/ce/ac067a54296518b960013a7eaf1a964b6583dc853f769604ec91f12d64ad/ignition_api_stubs-8.1.24.post1-py3-none-any.whl#sha256=322d3de90e15ad46c564f5cabab12551b6ed6904b116fde3020bcabb16e6d4d2" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.24.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/29/877a9882fa7bd4b1d25b576edc6560d60a18194f87d8ec3976fa676bbc69/ignition_api_stubs-8.1.24.post1.tar.gz#sha256=a60cd56178d6e507b41247738a2c2c53bcc963a57e0c39062ed615b69bc10fba" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.24.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/30/40d93221224ee08afdbecb4a20d24e6dca1829909a3e04f8ab85b967f14e/ignition_api_stubs-8.1.24.post2-py3-none-any.whl#sha256=23138e140eb2691a10cf2a8ee72e743f1153dd46afb75e3b84e99fe9709d4cae" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.24.post2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/43/8bf34ff5feda5e92fa8078e69447d5786a1d521420282cef92aabed93375/ignition_api_stubs-8.1.24.post2.tar.gz#sha256=e53740e7c9699ef52849ccd9a7d11b6d376939202482d448d0f309baac13c80d" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.24.post2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/21/9b7355172e1fc3f966b2ab917526df8951d87b4461f2721ad40fc1f55663/ignition_api_stubs-8.1.24.post3-py3-none-any.whl#sha256=fc22e98118e91f8b8e1c0eae77d58400a5d166b71b7c43fd4da7b702d5a158a2" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.24.post3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/9a/8fba4fdf3771b4461a378ebff605c2e49d949b626efe5794e31ee22e4c1a/ignition_api_stubs-8.1.24.post3.tar.gz#sha256=0dcd4c7aac347089f52229ab2f57407473c0865d66d28262485e96da51a357d2" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.24.post3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/07/b130a204bf622bb7364dffdf823d4fce19ea81a3cd7892f371d1211d446b/ignition_api_stubs-8.1.25-py3-none-any.whl#sha256=235634aec5485adb1bc4724630b02982be4d0db4f83a3ec9382dd223bed3fd99" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/51/3ca9222232c4f1e1f8d354dfdc698f3b98f94e2a47978688ea63c15568cc/ignition_api_stubs-8.1.25.tar.gz#sha256=27c8934093e4e8b9bd08c9a3f9ab0c23ec1c6f4943adfb0fc2f4804080a7c9c4" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/99/5e520112d5261a3bbd024b048fcef7fa5092f588bd21dca1c53b690ed3ad/ignition_api_stubs-8.1.25.post1-py3-none-any.whl#sha256=0f6af4512599ba1803cc0c4a1ea9e35fb91416a7bedf3d8347054a39ce64bf21" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/d3/6e4d96dcd06b9b70ab2bf0951661445a6465000e5a883d5359593e58a0b9/ignition_api_stubs-8.1.25.post1.tar.gz#sha256=66cc6f955b4316ef42cb8ac5918d36ff365d7de6a561b9fde89628c54cc0a349" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/b4/921228966750255e031726e255359ef8d9e5756aaad6aff33e721f33274e/ignition_api_stubs-8.1.25.post2-py3-none-any.whl#sha256=711a26ea64f07f95391d816e731757e7c8ceb23a1a9d2dcbcc7e2c14cb4cb954" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.post2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/c8/3d003a68140bf4b77dde309391a855a8cee5c20009c3932a43ea62010b8c/ignition_api_stubs-8.1.25.post2.tar.gz#sha256=af24accf65e457ed8bb42bb3628250cb6064644d5f22cef54d6c52676ff8caec" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.post2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/16/ab27390a75328cb5042e74a68f95c2fe0eced860ce6bb2ca1a26718b439b/ignition_api_stubs-8.1.25.post3-py3-none-any.whl#sha256=052102fd01ce0c24aa12519b9ffee7819b456f91b3fd0c726abe949c985815be" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.post3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/63/04ed048f86e32586b46605b6231ac53d4546e7ed9821d8b22248b91411ea/ignition_api_stubs-8.1.25.post3.tar.gz#sha256=5109d1857d5cf9f0ebbe153ee4d749159fe4e8b8a2d25335b2907fa17cdf4bdb" data-requires-python="&lt;3.11,&gt;=3.7" >ignition_api_stubs-8.1.25.post3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16419286-->
+<!--SERIAL 17002478-->

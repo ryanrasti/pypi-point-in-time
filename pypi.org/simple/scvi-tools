@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scvi-tools</title>
   </head>
   <body>
@@ -120,6 +120,16 @@
     <a href="https://files.pythonhosted.org/packages/e0/52/96e75badf5e23508d3e3e3ca5084f224c59794c6e119993419761de040f5/scvi_tools-0.19.0-py3-none-any.whl#sha256=951abf0a11c2082c9e8fdc09a60de7449ce4168e7d1608c4568f85cf71e16b1d" data-requires-python="&gt;=3.7,&lt;4.0" >scvi_tools-0.19.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/76/6c6bea2b72f887c2877133bae06828835ee57b8a473da59cc7443e835af9/scvi_tools-0.20.0a0-py3-none-any.whl#sha256=cce99d24b721ef6a4cd752c0f9bb761039120a3ae7b50422003a52efae729658" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0a0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/d0/9ca74e9941eab3554765f3b695b25d7a2417697091b53863c39c21bf3552/scvi_tools-0.20.0a0.tar.gz#sha256=43b7e0a3191981de20a8151080789988ce58b2eb216454a19e939587254f445e" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/a8/d696125ec623b29f049bc1bcec6f5f0965962af3209ef5a7474f7cf96203/scvi_tools-0.20.0b0-py3-none-any.whl#sha256=916000482bddbbb30b96a66cc8ce5ffe8148d5da37ab7622450a59799395664e" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/ce/bce72d020de9ebfc4c326cdedff12381640ebd4a55e504e73b8e0e83a248/scvi_tools-0.20.0b0.tar.gz#sha256=90c47ae9a7eda18530c76a695aa6650d5ff1d0bce1dff35d5a12dcd1065f83fa" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/d8/7e07867f2bf08e3705f58ec3675b810fde35f7e787a5f2ac7b31812c0666/scvi_tools-0.20.0b1-py3-none-any.whl#sha256=87f9d05758e1076529dde8e288609a9cfc89000d517b45e8b9cc61767b893947" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/75/8e67f49df1a6282d75f6d923fc0849a5a5c9df0ea1c861532579f48d2114/scvi_tools-0.20.0b1.tar.gz#sha256=0f904334c0af8609381c0fc46091f97de7006e8a66ce8256e2160b4b7f70b0a3" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/f8/cd6c09c260aa16819f59b7dd6538435093090df544ab36087ff07bd984b6/scvi_tools-0.20.0b2-py3-none-any.whl#sha256=cbed16132788a3c51431640d01925abb234aefc4e433c7136e0d492e204d228c" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/d8/34a6e5f91f34a85d40813af1d6d097c5c6a4247ec0ed2801f146b9af4450/scvi_tools-0.20.0b2.tar.gz#sha256=425f498fb59ba2a436939d323d35d06923fcb36c5d3c0997ada36c389355fe47" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/03/bfb1a378fe3be32d8e8f2459e888c0604c2041b1ca3730765ef7f1b3141e/scvi_tools-0.20.0-py3-none-any.whl#sha256=ab274c73a70eecc688e6925c0167e53ac155cb1860ff871577eff5d8f712ab24" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/9c/068b3619e855ab448761c810c822282f5e4f1d47e0f1172121a1d72dcf2c/scvi_tools-0.20.0.tar.gz#sha256=7adf1e18f59fecd6bfc0481ed3c66b927a647390547b84c74ac0b0abd4fdd5d0" data-requires-python="&gt;=3.8" >scvi_tools-0.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/4e/6dc47fa9e3ccda23720da5723bfa278220a88ed72d86903b54a936f84291/scvi_tools-0.20.1-py3-none-any.whl#sha256=704b0fc6b944930965e0259abb22b3a21a912ac82ebc6c70d9f1bd305f007588" data-requires-python="&gt;=3.8" >scvi_tools-0.20.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/6c/6e1f9c8f012b4fad32e0c841df7fb21238d3c1a92f1b8a176369ddcc1ecb/scvi_tools-0.20.1.tar.gz#sha256=2ec2643d2de9e474514b00129a9b473eea407bd86ef07b9e2b39c15bf780b1a3" data-requires-python="&gt;=3.8" >scvi_tools-0.20.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16371089-->
+<!--SERIAL 16955239-->

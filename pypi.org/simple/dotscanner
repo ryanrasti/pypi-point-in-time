@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dotscanner</title>
   </head>
   <body>
@@ -34,6 +34,18 @@
     <a href="https://files.pythonhosted.org/packages/af/e7/c696c3a1c948bc616d36df1e31da3601b94625411ecaae7cb3b450b90512/dotscanner-1.2.13.tar.gz#sha256=41a72adc40f6f019071b0b35455d72a0773dd09f97c00564f77a62ca1546ebb6" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.13.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/69/be/6f411cfa6e9bafc89ecbd24f3b041f35f442c973d1c18dd6fb3666d08e56/dotscanner-1.2.14-py3-none-any.whl#sha256=7136b0cfe5f9ca67fe142b1effc4e6d39d26967bf45fa336e38e4eecb676848a" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.14-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/32/98/f5b58f274f500ae2cf52cba577a4d0dbd7aa8fb8eab2add790bde4e1e7f9/dotscanner-1.2.14.tar.gz#sha256=88884615ce97b300b0627baa9a20b15c5798e3b9658476ae73a15e20dc651c28" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/ae/d3a3748315467e38336a4585fd01b9140163f6ff163e349ce976c77654cc/dotscanner-1.2.15-py3-none-any.whl#sha256=863a6b9d3f02932e15688394d068042c0fdd9da8af6f45e2d1b3212aef840ec4" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/92/4fe39330a9563766ec883bcf7734e3b4d54f9a19ce6a7afd03163df71bae/dotscanner-1.2.15.tar.gz#sha256=2f15635f84a11c2229af9244d7579ded4a706f5b6f23921fc2cf579058ca4296" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/bb/580d6b6b9d99b81ef8ce55be2859c13547baf9ff934dbb4bc50dbb8f0150/dotscanner-1.2.16-py3-none-any.whl#sha256=7479fa7cec4d5fc06c199a971438231023e2565127da0b8f4f126084e8ba4a1f" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/c8/befe40aaae5c2ffd5607d74b236789d95e4f4f9426ddff99e661be96fac4/dotscanner-1.2.16.tar.gz#sha256=848ffee64703e5fdd18e60776dc1c356a609eece670b2f534d1778917a33ac16" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/c3/2ae431e8c247b39cb3ad54a2acc3272b1cf1e6897ec1982c72c72cb8551d/dotscanner-1.2.17-py3-none-any.whl#sha256=1e1c1f6dd222d03bb995b3d41d9e0902281cf03d411ffad0dcefe1df74ea99be" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/bf/001633b8f6c22beefd8ca91e3e7192a62af38757be77589b6ee0585a72c8/dotscanner-1.2.17.tar.gz#sha256=713f09f5196e2474e2d53eb7cce6e2680e584fca2fbf0e8048602179a63a7ac5" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/10/8ab3d4ab94ac30eace0a494fed4fd478e4a6eb2d17ac1dbbb4261459d2fd/dotscanner-1.2.18-py3-none-any.whl#sha256=3148018d3ea629e92da883126f608c3e3c9cafde8228fc768e262c0bed1831d4" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/2a/d826d01e65a9ac8371b26a087b4c124779b93727953abf60bdbd3327212d/dotscanner-1.2.18.tar.gz#sha256=b15acae9e8e926056c9676854a727f1767c30c3ca340e203901f99fcdf2215d3" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/f6/e89b656ce8b9859d07baf87d4d0cb3989092ca1623997d56aa7bacc0ef99/dotscanner-1.2.19-py3-none-any.whl#sha256=4ed38eec385a4767a3f480f6599dd9dd3f8b5d5e718100aa3c29f83df28e1ed0" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/e9/7a6de5815b0f2cd21abeedc708d6a6f27de1f33f5dbc68147a2989a17a85/dotscanner-1.2.19.tar.gz#sha256=a178e9cea16e067c1239e86d147b325fcafa4abf3fec9bc06d8434d840b55a64" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/4f/f29c8af2b7df66d9b2945ae6e43a71b9c16883037da81ecbfb9d4826dee1/dotscanner-1.2.20-py3-none-any.whl#sha256=df4126b025b85cf19ba78e0c63fd213f86cfc569fabbaa25b085da72d0327b56" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/6c/0f664867f40cb83f26ea46b408721c9f02e32be25972e16b8f8425b82feb/dotscanner-1.2.20.tar.gz#sha256=a9d4dac927cd50a8dcab40d6827845c52ab1d0ec8eff2e11435efd03855f858d" data-requires-python="&gt;=3.7, &lt;4" >dotscanner-1.2.20.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16351663-->
+<!--SERIAL 16658213-->

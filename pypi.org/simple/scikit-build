@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scikit-build</title>
   </head>
   <body>
@@ -60,6 +60,12 @@
     <a href="https://files.pythonhosted.org/packages/45/01/95a98e8f3915c4233c4e9ef9a696edc0763f95048bc33ab51a784291e9b3/scikit_build-0.16.3-py3-none-any.whl#sha256=5c66211a58e59dd009ac53b94f12e80e98b8043373351714b0679ee0db85532e" data-requires-python="&gt;=3.6" >scikit_build-0.16.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f0/dc/4dc5ef1b52d8ab46efd1bc047e1fc0c8864d450f5c0274dd3142404f2d9c/scikit-build-0.16.4.tar.gz#sha256=2a20c4adeab3c2aec11d70bce9690995cff0e53beafe321a7b530009aca8e731" data-requires-python="&gt;=3.6" >scikit-build-0.16.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/53/ab/82a39a3a7c16bc5bc3369dff693c52f609efed014833a9a09ea81580374e/scikit_build-0.16.4-py3-none-any.whl#sha256=c7041071d1b75a23754a54688e9cbe7c45b86197e1ac09dc472bd254246fc5ab" data-requires-python="&gt;=3.6" >scikit_build-0.16.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/d5/05741319aa773a5ba746fc8f590b0d8e267d1a438ec8d36017dce214184d/scikit-build-0.16.5.tar.gz#sha256=564bf3d004927d02f5b0007285e538ad4550eb891c1eb0448f94af165bbe6e63" data-requires-python="&gt;=3.6" data-yanked="A local cmake folder breaks CMake discovery" >scikit-build-0.16.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/3e/e92b856e9c19a732b915a63b7023775ad31aede0d7473c79cdea844979d1/scikit_build-0.16.5-py3-none-any.whl#sha256=c6ef3b0a860ff9b0cc36172de66f0389f9e87920bddc8fea9ae6a4a5d4d4ab51" data-requires-python="&gt;=3.6" data-yanked="A local cmake folder breaks CMake discovery" >scikit_build-0.16.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/91/2c7cd1a6b567e8e40c1677c61aba39e5f14ccf06ac78ae4fa6acb84ae140/scikit-build-0.16.6.tar.gz#sha256=9047817b0dd2522cc8b7122b398e8a41c18bf4cbd23de1644919bdf34941a8c6" data-requires-python="&gt;=3.6" >scikit-build-0.16.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/f5/0dc877f980b7d5fa8d2f0bc97bcdf3bed84c62c74d78ad45fc6a632b6dbb/scikit_build-0.16.6-py3-none-any.whl#sha256=f9282cdc9da433598c4f94512ae68e77be2a5ab7e944c76179bbeb9981bf1ba3" data-requires-python="&gt;=3.6" >scikit_build-0.16.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/10/50f19e9b0bbbfd6bbad482e301e7388dce708dd247a85e7bcd7cdc4eee2a/scikit-build-0.16.7.tar.gz#sha256=a9b9cc7479b71e6c8d434596dfade025253aae23adb22a9a2d85850fd51cecfd" data-requires-python="&gt;=3.6" >scikit-build-0.16.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/06/a7f2c013a4478941897560ae2d456fc9e43091cfcddf0fb108caeb512a61/scikit_build-0.16.7-py3-none-any.whl#sha256=1c789d5858080d05759b8bb9e36a5e689f970afd7f767b8aba05dc44a0b45c34" data-requires-python="&gt;=3.6" >scikit_build-0.16.7-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16130464-->
+<!--SERIAL 16893830-->

@@ -1,24 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for clusterq</title>
   </head>
   <body>
     <h1>Links for clusterq</h1>
-    <a href="https://files.pythonhosted.org/packages/f5/b6/f9a7d5e37be5ba4501a3fcdab30d19bf9a32d72cd40a5290e748d33c4f42/clusterq-0.1.0-py3-none-any.whl#sha256=22258b99de383afff38e779bcba5760dbe591a350442469965bd40eccbb42545" data-requires-python="&gt;=3.3" >clusterq-0.1.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/42/c9/7d07deb7b8e5d826dae4597a49c8ded091be6ff535a62d7e50114f046fd5/clusterq-0.1.1-py3-none-any.whl#sha256=99fd0e6fe7b4f09bd08502a103f972dff03f8a016e6ffbb8feb1132634701a55" data-requires-python="&gt;=3.3" >clusterq-0.1.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/7f/77/7cde3a188c8813c13d0914c3f726655eb4fb830d8621b8cb5cf9d2f02824/clusterq-0.1.2-py3-none-any.whl#sha256=01982f5a741e12ae8b1d91cb46161dd3562e08be5e15d672fd504c63cf247046" data-requires-python="&gt;=3.3" >clusterq-0.1.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/1e/5b/e9c423d4cffa6f08a50cec6e7a090db96d639c531b6ecd92f04c712af93b/clusterq-0.1.3-py3-none-any.whl#sha256=60fc303bf5635ee8ef4fa49c19b5b8d28a91bc0edb823b59228612dad6a6a026" data-requires-python="&gt;=3.3" >clusterq-0.1.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/b4/4d/e44ef299747d05ba4c72176689490f1f210ec2e1e4ae9068039408534604/clusterq-0.1.4-py3-none-any.whl#sha256=2ce1345971069b067a17ce82ce2b70da3295425fd1dfa8d9cf2187728e6de737" data-requires-python="&gt;=3.3" >clusterq-0.1.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/71/a8/70e628ea9d945622f6b2b7e1e6e77b605edec529e39cae8e21c8d02ff2b0/clusterq-0.1.4.post1-py3-none-any.whl#sha256=2808dfa1c132e86312413576af3898924daf71857f86778b57d4364da4871c06" data-requires-python="&gt;=3.3" >clusterq-0.1.4.post1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/15/b4/73f6b4b54362abfb763fd42d0047bc3cbca5e3411a38d263274fa1d78e30/clusterq-0.1.4.post2-py3-none-any.whl#sha256=232bf2e88a627612ce53a0f28e5db97a404bdc15e58b7ebec10abc909eafcc16" data-requires-python="&gt;=3.3" >clusterq-0.1.4.post2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/41/ea/8c07679e98588928768f5c07625ec146d9dbb10628bba893d58833dd558d/clusterq-0.1.4.post3-py3-none-any.whl#sha256=e4dc43d015800a261c4dbc26ef2e0b229fdca5d50100c6a0e82a70b0b642f14c" data-requires-python="&gt;=3.3" >clusterq-0.1.4.post3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a2/4d/aaacfd71202e97852570d1ffa0c05c6ebc3b7e646a8c0b517568e4e2872e/clusterq-0.1.5-py3-none-any.whl#sha256=32130e79c0dd89da24c50cfa895ca3fe721e2fd54105891ac2030233b0d15fc2" data-requires-python="&gt;=3.3" >clusterq-0.1.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/1c/07/c8f09e9a1c6c5d13f87bb4a507bf1e4c8089f61d7f5ae84ad9c20fff718d/clusterq-0.1.5.post1-py3-none-any.whl#sha256=3e2c69ddaabadf532c7afaf8095db8044c9762971de0f7f220111df4a38fdde7" data-requires-python="&gt;=3.3" >clusterq-0.1.5.post1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/6d/48/889eb4b680d256a5f7082f7cba2ca29d45ed526cac0174594a9ff79c1ae5/clusterq-0.1.5.post2-py3-none-any.whl#sha256=a064975dbc0263cc96554429260e15a9b9d41c82ef895814df57668d668d6095" data-requires-python="&gt;=3.3" >clusterq-0.1.5.post2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a3/74/13aad430260a29b9234307cd50173ea0171b32da972a1f588a98afa8de59/clusterq-0.1.5.post3-py3-none-any.whl#sha256=578fc232054e666f024d5b00605bdd5b068441a0a84afee8f579dc4b5767feac" data-requires-python="&gt;=3.3" >clusterq-0.1.5.post3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/5e/b7/c8eef6e374e785a02b1a7da323c80a7da114cf912692176e737b4f0f1ca2/clusterq-0.1.5.post4-py3-none-any.whl#sha256=09f7508b177ed1e7df744858d3d5183bbf620d95c93a1da9da91d1097a35f56c" data-requires-python="&gt;=3.3" >clusterq-0.1.5.post4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/c5/d91df453e2e728dce13203fea131e36697e03c0a9386b75394bc02b50580/clusterq-0.1.6-py3-none-any.whl#sha256=ca6b8137023a3656b86c73f9ccb1e7e15f9bc58fd8135c4b064e629aafdb1cea" data-requires-python="&gt;=3.3" >clusterq-0.1.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15902340-->
+<!--SERIAL 16987876-->

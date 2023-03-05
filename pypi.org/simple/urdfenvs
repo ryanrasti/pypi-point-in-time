@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for urdfenvs</title>
   </head>
   <body>
@@ -16,6 +16,20 @@
     <a href="https://files.pythonhosted.org/packages/04/63/dcbb8c37b31af4fc33c0f7e234dafcb9b51d40e65012db46b4fa075a2538/urdfenvs-0.4.2.tar.gz#sha256=3690b3c46ef27a4c21ee27ebd2de7d0773c9debeb29fdc5c9ba2112696fec743" data-requires-python="&gt;=3.6.5,&lt;3.10" >urdfenvs-0.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/c2/4b636fb0997b746546a424f895841cb91fcdf41ed9d763a7f1b1dbc14d7f/urdfenvs-0.5.0-py3-none-any.whl#sha256=b551cbc47ee02905d0475ee7e6d63a3ba9956454c906bcf4d5efc2d820050eb4" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/c2/85244af4d48d4fefb40987b9728d135c4b18e24e83ece3e81abedaa1b5e6/urdfenvs-0.5.0.tar.gz#sha256=11fa221d6b64fa527e3404841a812f546f715c2c5b45bc595a22fc075aae9636" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/20/9aba0ea10c87e1cfc52d43b33749a539cb691fc4cec06667392739cf498b/urdfenvs-0.5.1-py3-none-any.whl#sha256=632a348604f3d8950c36798455f11b30acf9de7b43bee38aa74ad75833ae4bad" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/44/420ce4068d1426d16c7726278f0a3bc5c8153a1051186aa80492a1258724/urdfenvs-0.5.1.tar.gz#sha256=4ed5e6d4e34bd5d9337bd4cff2fdefe9d9582da7875173c8ddb993e444b14aeb" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/a6/52a27e665963c4357a80952dd959dc54b08d567deff21fa4d310eb71ee92/urdfenvs-0.5.2-py3-none-any.whl#sha256=deaa6fd39deab9b653dee93c1ad5cf15ccb103178395eb9ee12be0bfa02ffcc3" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/02/153077e8b3df09aeed1265883c612c860a35c0a8a6c807aabd4efc8dc06a/urdfenvs-0.5.2.tar.gz#sha256=ea94e48fb76494bb1d01188390dcfbfc48e09871bd36c1e57aaf947929da6c14" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/fa/33d8b66b5eef5bba025ed8b4c4cbdaa3a3722c0c316d1b1aba0f748e2083/urdfenvs-0.5.3-py3-none-any.whl#sha256=95150df845717e74f944900c9d99808ff8799d80d7a6b6b7e164fef85db9f9f1" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/fe/1f662a0173efb9e7b73e007f0324ef5855d2a23955ef418645e0094afafa/urdfenvs-0.5.3.tar.gz#sha256=7c20aa81d74b0e4899d4f7e8eddd783dd2c9736c2cc0a41a3aa9a3e0394fd39a" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/88/1859576d90425fcfcb5a96ac228f21fe8aeb55da0dc7ab2903bd9373af64/urdfenvs-0.5.4-py3-none-any.whl#sha256=f2a4392182ada80f8c765966cf2ab5367e77916925ce5fa4cef88bdf81ac0c5f" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/9f/998d5da5ce58afaf9dce0a712b68c7844ec68fd55fc81120e2ce30e5db32/urdfenvs-0.5.4.tar.gz#sha256=aa276171f3916d495747f4db9b0ffe442f77824df3d3d1a1364ddbc21df05b2a" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/a6/5babe21d32312ae6cedb99d89342c9b43375b680ac68c7d4f420771bf4a8/urdfenvs-0.5.5-py3-none-any.whl#sha256=fb2b6f61ede19f2d5428f42931d1afb5434683d3dcbcc2e6229984cfe48aa259" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/a6/32c54b95b92b2eb6ccee66a343458c773fa64f30fd7336a981d6e8efb12d/urdfenvs-0.5.5.tar.gz#sha256=9eb79a27df39412df46ddd46fda982fa6688dd70eb31dd731e9655b1466616d2" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/cf/b4db8fb1d75e429ac4304de653ffb1b7d28c591ab01e4c853f63f0cd1e35/urdfenvs-0.5.6-py3-none-any.whl#sha256=dab593f02c26e3121575eb3be3429f738f55df5c7a67d802a1cba90216e59ac7" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/68/03e0c178e93b5b5995219d9f9dcc49805ab22094819b625ef30c1a06311f/urdfenvs-0.5.6.tar.gz#sha256=4424165b8be92db7af356a98407e5b6d9bf428b33e5c1727ab4f0a4e71bb242b" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/65/d4c9900aed7ed0b363249aeca2b23c16377a6d92b1ba1e90c19a4ec86523/urdfenvs-0.6.0-py3-none-any.whl#sha256=25735046c1e08b988aa00a884f6fa8738bb9f790556518621ec9da2a2a9eab16" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/83/082be723e0ef8be9f3061c5844c5c20f10f89066e214aa6e0f469cb88771/urdfenvs-0.6.0.tar.gz#sha256=7bb68308b5107c9f2780abd626e2b9736dbf50320c1994e14ecbef47339b1a46" data-requires-python="&gt;=3.8,&lt;4.0" >urdfenvs-0.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16388800-->
+<!--SERIAL 17109997-->

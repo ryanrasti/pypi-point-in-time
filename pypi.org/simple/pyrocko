@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyrocko</title>
   </head>
   <body>
@@ -125,6 +125,15 @@
     <a href="https://files.pythonhosted.org/packages/13/cb/6188dd54327e14bd9ed15df610cbd6adc503dc6fc72b44896351bad39d87/pyrocko-2022.11.29-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8191401f7ead4221f6edac3b448a65b74da74d099295704ed6ed3c8e82056d67" data-requires-python="&gt;=3.5, &lt;4" >pyrocko-2022.11.29-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/6a/bc5cb9618824db8243d0521a5def40e7d8766724128799d60fda751a2a49/pyrocko-2022.11.29-cp39-cp39-win_amd64.whl#sha256=b026f8ebb53d5fa5460e67f6ba5eef2bcdfc0ff3e3c340bd9099dbdd4ba51d75" data-requires-python="&gt;=3.5, &lt;4" >pyrocko-2022.11.29-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/c5/0aa1958059a843b9cfe289599cd389da42e99393120eac93943f75a67b79/pyrocko-2022.11.29.tar.gz#sha256=279885f1875ac943178fb9f83f44b5b7dc839216b95b33785f0266527fc619ed" data-requires-python="&gt;=3.5, &lt;4" >pyrocko-2022.11.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/2c/e87e1488ee1295dae6d912e3b793ee45684b6a277601090508766938228c/pyrocko-2023.1.20-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2c2ffc4e9677f5cb8cbfb6d54dfcc0dbd13c0b730d5f3afb0c6c1c94ff7ab3af" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/b7/7d8336db335cd2e3126111cf1ca1b143873a06011032702babce832b6e31/pyrocko-2023.1.20-cp310-cp310-win_amd64.whl#sha256=8e82651d0a54c39803b1bd2fa8967c2f1d595e28c8e2442b69b09ef03ec77c31" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/c8/499908567b573f0c3810800cf9d33b744a675c34d67bcbff66e6d9cada20/pyrocko-2023.1.20-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=228ac9b2b4a8508f2c931f8003015dc289674c2fbf399ba0844ae20063bc7934" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/04/00a57e9142d6083898fc7306a768611e0231e79e4f641804cb233a60725b/pyrocko-2023.1.20-cp37-cp37m-win_amd64.whl#sha256=6185f95596725856922992fd5725d3a8bc2e8069aec643ff886fd8bc93b23156" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/6a/cebdd314701ad1f62e2fb7b320e9675a343329f070b8fe550203bbfe11cd/pyrocko-2023.1.20-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7ec3a13c1f7ff48b99207ed0f18142db1da302ad59e987b33de6760d6f4d7b00" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/df/760f74276eebbee41f8f26ddb21efdf6c460bc28f8ea37e085f72fe27491/pyrocko-2023.1.20-cp38-cp38-win_amd64.whl#sha256=c3bb747cce5e6872e068d3dedcd34c5bfbbd6d7c33d8a0c29d89389931ca829a" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/61/2aa344fa9b80aaaf911f734023bfdb3aeb9fa57761999c56e89f531de341/pyrocko-2023.1.20-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=66d86061b61cf8f8ed2c3b877be47ba9438e7e59f8f5fdd7caf4a30c459ac6da" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/30/b213f1f6c340a2dc3ae5b611495afc8fe4204dbb0be40ba19fbe17fa44f3/pyrocko-2023.1.20-cp39-cp39-win_amd64.whl#sha256=1798fada9a61ddd1223901875c47d8c7925da11ea37ea4b26fb8aab01b41015e" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/33/7aeeaecfd7891d8dd8343da298269d768aad96cccb5c05eb67b6585c51df/pyrocko-2023.1.20.tar.gz#sha256=2b31278fbf805150a090ba8161c8c03b098e59c76ae3882804a13d9e4b69d566" data-requires-python="&gt;=3.7, &lt;4" >pyrocko-2023.1.20.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15926455-->
+<!--SERIAL 16500851-->

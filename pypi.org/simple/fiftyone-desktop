@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fiftyone-desktop</title>
   </head>
   <body>
     <h1>Links for fiftyone-desktop</h1>
-    <a href="https://files.pythonhosted.org/packages/db/03/d4fde3fd43a041a33793eb8a0b35d8df629d83ba8b89e4a42e36af2fa34b/fiftyone_desktop-0.12.0-py3-none-macosx_10_10_x86_64.whl#sha256=a6988e3e44b80d50895585988ddaf370a3fe225ddf8691fc3c37f5c5034299cd" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.12.0-py3-none-macosx_10_10_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/aa/cf/efddab2354da32cec39f73a223d2ee340dcab58e0d1e30e92d7921212bac/fiftyone_desktop-0.12.0-py3-none-manylinux1_x86_64.whl#sha256=c43710339bf20e0cc3c480b53e3b7170a5a031e7816fcea0ce8c531b182d6928" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.12.0-py3-none-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/f7/c8/6596d2f57e702355fe4f8700694c500c20273d703c9139d3fc69d53db88a/fiftyone_desktop-0.12.0-py3-none-win_amd64.whl#sha256=afe045a210fe22d1599b3b4934daf8fc21b83a39c8aafcbabce26952d664396b" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.12.0-py3-none-win_amd64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/45/ff/547e0502994f33386b51d3fd31ebb5d0254aae8707a9cd8d67884bf99391/fiftyone_desktop-0.13.0-py3-none-macosx_10_10_x86_64.whl#sha256=dcbebfe5dfb4d726887239a24006afc30be1ecc5adb811ee61b0aa56c79908b6" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.13.0-py3-none-macosx_10_10_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/c6/d2/470c5a49d4ea688a83f0b15d1c14d8a239dcb80ba37018814bfadc7246d1/fiftyone_desktop-0.13.0-py3-none-manylinux1_x86_64.whl#sha256=b8caf73a19e35715dc7af7438d7971b7e98eea1c506a0fcc05695bc34c0899cd" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.13.0-py3-none-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ff/ec/8579d57e18a0067e7685ec01f5f5e6c13916c6c1bad5a3cc1b216f3dedb8/fiftyone_desktop-0.13.0-py3-none-win_amd64.whl#sha256=97f75563277a3827847790d668ceaa2b82886a56bfabac45c7e9f56cdcef39c8" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.13.0-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/a5/ed214789d274c576b199304c0c79883cc2581d59aba8b4e2c394efb113d4/fiftyone_desktop-0.13.1-py3-none-macosx_10_10_x86_64.whl#sha256=fc4cc9000a9ac597155968c69ab5306be576a85aa68441b8d921961ed4333540" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.13.1-py3-none-macosx_10_10_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/31/8d/edde5cb1ec0d419f4f040b090065ec145748f21047fa42331a8f0b0e063d/fiftyone_desktop-0.13.1-py3-none-manylinux1_x86_64.whl#sha256=ec39756621ecc96a71c4d3f2e9fd45218dfcaa16ea69c5c51b2e86aa1768fce6" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.13.1-py3-none-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/51/141adfc8ba1a70789aebe6438684cb56b34652869ec2cc153d014713e4df/fiftyone_desktop-0.13.1-py3-none-win_amd64.whl#sha256=f1b5b4efabc63311f126b746d09b0433dce438973ee848fe778e0ff54415db50" data-requires-python="&gt;=3.6" >fiftyone_desktop-0.13.1-py3-none-win_amd64.whl</a><br />
@@ -142,6 +136,11 @@
     <a href="https://files.pythonhosted.org/packages/f2/49/50c9c4dfebd4ae7d6b5ceea476417b9d8a0dc6974a7463dbecda67e17d60/fiftyone_desktop-0.24.0-py3-none-manylinux1_x86_64.whl#sha256=65034b5ccf84f18fb83fc9326de610f43ed7f2e026dc6676bba902389ac9a366" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.24.0-py3-none-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/5f/c64057466c2cbbfbbeba8d2f664dc4808e0b4863c735497fdc33a72a5f4e/fiftyone_desktop-0.24.0-py3-none-manylinux2014_aarch64.whl#sha256=fb069697297f3fdc6cbd36895f33a4411bff8ddb721f0a35de7094b93199ff4a" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.24.0-py3-none-manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/db/460fe4b7f4831246c723e6ed36731deac94ba994fae37d823afbfef84fd4/fiftyone_desktop-0.24.0-py3-none-win_amd64.whl#sha256=af5d29723f3b409249b01ecb0aacc7328623eca4f9583f1bdca4a0caad75355e" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.24.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/08/7ca542db26588d30fcb6b8db5d68a1d2c57033f625580c870dff760b91a0/fiftyone_desktop-0.25.0-py3-none-macosx_10_10_x86_64.whl#sha256=62b535353a6d0f6d71595c086b1b023d47f8fe297e67ab3dc6cc3b26462897b0" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.25.0-py3-none-macosx_10_10_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/ec/97f5077ce4532960dfd14faae923edf3c4820b79d4fcf591b4f9bc512261/fiftyone_desktop-0.25.0-py3-none-macosx_11_10_arm64.whl#sha256=5a5a07c7e5d9c4a4398dd518f1db9bd92dd7a45d88bb273153c0543dfc69f3bf" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.25.0-py3-none-macosx_11_10_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/ab/9a25d6ab0c26420a475e3c64329d92594fe522b1e6eeab794188aee0ae47/fiftyone_desktop-0.25.0-py3-none-manylinux1_x86_64.whl#sha256=d7e06e0810b631c5aba8370faecf2d074ba4acb6ddcd426d5fe739b47ccda0bc" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.25.0-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/61/2d05bcc7d8b5b2a1b01325f83f4e711e3d82dace3fc719f5168f3b37163b/fiftyone_desktop-0.25.0-py3-none-manylinux2014_aarch64.whl#sha256=1b86c2fafb41fc0cd65e25f62a6136969ad20f85ebca35a692b2166bc6fe0126" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.25.0-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/85/c1649e3b6850a7ea584800254a45d4b7becfc97b9e8a611a9f4c58d68396/fiftyone_desktop-0.25.0-py3-none-win_amd64.whl#sha256=12d63d68717e3d9910d4b396b5f3cf9c2ecb6b2e6d9459f86602fa4e0f1beb31" data-requires-python="&gt;=3.7" >fiftyone_desktop-0.25.0-py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15719492-->
+<!--SERIAL 16777824-->

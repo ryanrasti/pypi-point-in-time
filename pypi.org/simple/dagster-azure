@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-azure</title>
   </head>
   <body>
@@ -704,8 +704,32 @@
     <a href="https://files.pythonhosted.org/packages/e6/9a/ac9f3c387f9ba11afe009b0c4633ccc75a54384c0bc3c3beba001afa28cc/dagster_azure-0.17.9-py3-none-any.whl#sha256=1ac3426d9b974ec05fe8d84a4fdb0f9d1c77de1d44a581768ed263bca435bc10" >dagster_azure-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b7/98/e5769e507182d6ba82783661a562619b1384befa7a2e001a6ca436001961/dagster-azure-0.17.10.tar.gz#sha256=127c69f82bdc8ccb86cacbc0d65050166f07714ea6c0d64c55c09eb5000720c5" >dagster-azure-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/7a/b1e081bef9b8f712ece485d9f6bba1ce1c92687175c52daff9e3584a7a23/dagster_azure-0.17.10-py3-none-any.whl#sha256=ca93944f07d92a0da3390d4296628bc12cc4ff9096894e9cd93142254345b3e0" >dagster_azure-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/34/3521b57863c8461f282f3a2fb9836e00aceff18918eb15e7abb99e7c6e91/dagster-azure-0.17.11.tar.gz#sha256=a54114333c996a10f1f0ede31c7b753a3292440d49b0645e15174b8345942056" >dagster-azure-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/18/448fb4284aa70573ad648d27f0c4d3e922835dc821b29aee23215550ff01/dagster_azure-0.17.11-py3-none-any.whl#sha256=bab47390dd124ceafe779e12fa28896d321950cbda83411dfbc84ab92cfa653b" >dagster_azure-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/12/96d56276cb8b8167b5a93b7d679e377fa6dde4e7ffb8eaccd3068b68249f/dagster-azure-0.17.12.tar.gz#sha256=cc9e8d8a62ec47113a9afc4791e9760c54b255022950452b706708652165c15f" >dagster-azure-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/fc/c7223a3b16fcc82fdd454098dac387800160fc0463693b3f424d1978f90c/dagster_azure-0.17.12-py3-none-any.whl#sha256=65c6db0095e16e17dda84242750ffe01fca0346b9f35b19a801a0bd3d7f1ea7c" >dagster_azure-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/aa/92cc74df770cf05bde156b95aaf7c7fc879c210f9e0f187d6a03e419d34c/dagster-azure-0.17.13.tar.gz#sha256=d51be6106ef2d62f0864a0d70d1b9725e9adfec59b034158e70d0eb2f2706979" >dagster-azure-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/f0/30d1772ef55e0432a74912f88ab5ff26f74638f77eb4567856c023fc1828/dagster_azure-0.17.13-py3-none-any.whl#sha256=d182b7ba35c76fcb3601a395fb243b6c7df33abe4a8e360777e45713efc6078b" >dagster_azure-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/a3/ec3be932b6b10d91e703b6f2b3f245b073c233d8c4a9d3838bdbc9c41d11/dagster-azure-0.17.14.tar.gz#sha256=3f778d76b7223a8f55640d0de3b9564a91aea1f40ec078d92a519742da1726ec" >dagster-azure-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/2c/b046a4128559e645369b5575d7d4a89150e1698c06daf7e7d12987f2a406/dagster_azure-0.17.14-py3-none-any.whl#sha256=aa2cb95b8651ef45b6e0d337f42273f8d906a7aea74d4a0930fe29174056cb93" >dagster_azure-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/86/1ea3e608295bed004f7cf7bc72c05b9004eb9b13de517b8176087a60b456/dagster-azure-0.17.15.tar.gz#sha256=a2768381e32d7df7f1b53e341861356e0a42314bd9ea5972c5bd8e7ff570ee40" >dagster-azure-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/bc/28ba00ed5c13853bfb59f3aaa161a946ce1261ffb7912248dd8f77f39e0b/dagster_azure-0.17.15-py3-none-any.whl#sha256=26dbf4dda813760ab7feac66c150738d48172a058252928fbde9653a7d5b3e80" >dagster_azure-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/b6/ac37f216511dcdc57807f069c9ccaf4efd8abf1dc61cfa19f1f82373199c/dagster-azure-0.17.16.tar.gz#sha256=fc35076f0150f0011ef92705392821001875ef1acd73886b87fa74a86ddc269c" data-yanked="" >dagster-azure-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/83/fdcfa0e7fcdf6e949c9a227a7fbc848668b9b4ca2f0333c7bb74e606d1a4/dagster_azure-0.17.16-py3-none-any.whl#sha256=6ffbaa244ba9e6e5c07e0ff97528a4e4e70c3567027eb9292c180b3facaa8fd2" data-yanked="" >dagster_azure-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/3d/d1018e9d3c3253adf5648d7610c92302b36a0d7d1051b186d7a9a3338a9a/dagster-azure-0.17.17rc0.tar.gz#sha256=d7bd88ca9432d11870fcacb39b522a82b73bf1547ddc67418b2682cb99149206" >dagster-azure-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/8f/7c4c7ab2aec7ccc15c98c733bb52957bb7fe003da1c622ed2bc15c44fff7/dagster_azure-0.17.17rc0-py3-none-any.whl#sha256=5f1ea91a590674f6c733b0d2af2fb4f5e3f469d9925a02263f4fa85697aea0f7" >dagster_azure-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/3c/0ffb2bb55d3439eb8d915fc4db00490c5cef35af8af8f5a176be67d43172/dagster-azure-0.17.17.tar.gz#sha256=a2aabac4d206f5e155a7f03ffa2df96731f6e4747a16020a238c9c0813db3e42" >dagster-azure-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/66/10c814eefa0f8fe32d53b38099e055a5e9c7915495da3752595ed0a4d459/dagster_azure-0.17.17-py3-none-any.whl#sha256=1fc29f88d7f0864ef2c882665db31644f87477d031f09ed8bf78a3ddad5fc200" >dagster_azure-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/8a/b4595da08a35ab69bcae7e3b269586cea43c286525f55327f7866e9f9071/dagster-azure-0.17.18.tar.gz#sha256=87cc6803a3c5fff73bc6a48c813921de804be57aa3d82b986e8d12b426c73a48" >dagster-azure-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/e3/dc80266a226a0e80f9741c8be954182b394ad65ec268d360d4de4574155a/dagster_azure-0.17.18-py3-none-any.whl#sha256=79870af6b2bde2d9bba967ce9b5a6136ad4957a30c00f0d150e1a9318ab71a97" >dagster_azure-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/b9/64f4787c7d11df90326b0f740687f8acda5fe5e10cc0e565ca608e6f4599/dagster-azure-0.17.19.tar.gz#sha256=8795f40b901a8f66e66e33664d5779c9db5e2d26746d5caea7caba3c2a7f7b9a" >dagster-azure-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/21/c0d81ac490707204702407420f67276b5b32f8bd2d02e5c1f0a80d9e9cdd/dagster_azure-0.17.19-py3-none-any.whl#sha256=86b2c462dd86992e8fe037c0aea538a94ebcf5b599cef13870ec729969868016" >dagster_azure-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/84/e3f4778339320b76689d7129aecbf857198e5a2e753125c3ead419c374c8/dagster-azure-0.17.20.tar.gz#sha256=0af783732e8bec1af0c20004703b447390330a441e522cbe4334cd30ec6ea6bf" >dagster-azure-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/1d/75d52e0dff18b10b90f9ea802cfba24ba3f8be370c25fd2c7da7ca89d6e4/dagster_azure-0.17.20-py3-none-any.whl#sha256=44f1dd05132b03c1c547de31394d62605f33d4eabcfe0affc931f1d98a199cc5" >dagster_azure-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/41/dfd7dd0e51eb96285ed38fd8c6ef989145d6bc87106f50b784128d378cea/dagster-azure-0.17.21.tar.gz#sha256=dfe4e088c19f461a766dedc4fb57c63bf8f5ad812fed10666aea8c4e8c1295d3" >dagster-azure-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/49/9c34bd83e9fd13b923db3b95e56a8ed18b69d7250ec366f2ba1dee0e70bb/dagster_azure-0.17.21-py3-none-any.whl#sha256=2af1209f839631f1ee8626ac1debff40d388d9cf9ff158b0bd438537d86ce3eb" >dagster_azure-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/85/10/a2686f7bf596e31ef905554f153a96fa41903035141ebd1ea5c4d881daa5/dagster-azure-1.0.5.tar.gz#sha256=ec588de82ee83044c64e95e9f1737230696e406026c4df9f9496992d600f7653" data-yanked="" >dagster-azure-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/31/78/a1108bdeeab43584d80a62739def83e780480c3d42925acbcdff98fc43e1/dagster_azure-1.0.5-py3-none-any.whl#sha256=d375bdc1e1bac0948a4c2cd7489954403a25fccd39f40484463c96537e96ba5e" data-yanked="" >dagster_azure-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408534-->
+<!--SERIAL 17135837-->

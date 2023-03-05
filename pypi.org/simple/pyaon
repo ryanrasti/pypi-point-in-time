@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyaon</title>
   </head>
   <body>
@@ -15,6 +15,15 @@
     <a href="https://files.pythonhosted.org/packages/d7/f9/b07db876de86119033ee969d2069573b484d67e8f8045de95e60c00de1de/pyaon-1.0.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=34b89217b725a1623dfe750fec2dbcd69849795ebf2908fa969d756bb7184860" data-requires-python="&gt;=3.7,&lt;4.0" >pyaon-1.0.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/14/fe/f116437ca0b3d427f5a910cdcf8faf7bbb31fdcd3e883a2f303b08b9cef3/pyaon-1.0.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a79e6cd0d75f1be29df70662700f6ffd8faf81dff7d3eb3863cdad5d4d23cc27" data-requires-python="&gt;=3.7,&lt;4.0" >pyaon-1.0.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/d3/2daf0c6a4c4ba6f654cdcbddca0d089aa3d51012aa372f4f293814421d44/pyaon-1.0.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4080c96a12fe7bfd4d54174507ebe7da5d97151cc383b59cb570f5ed954479e5" data-requires-python="&gt;=3.7,&lt;4.0" >pyaon-1.0.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/87/e9b4561ae5ff324def9cbb2feb28da0ae0f9f1d7d6e3d0cbe87775ce202d/pyaon-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d228bb7749f68305b97698dca07c8b441bf0c8b028bfdd91f3c4a0f311e4bdcb" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/a3/38ac37210511f192431b342db33e97c4ef0dc1f414a5b8e10ec70b3d1f1b/pyaon-1.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=03c544ba25588e354770c57f214a59488a2c18ba8ed85303be56669e79d2c27d" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/95/417428ff7382362d7b022ed06b9b16d2080fc79dbe773ba8d822fb029ff1/pyaon-1.0.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f937cb30a71872a4283c208eade599aa5723462be3d392a0e0e17fa15c2f485b" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/97/a139aa30d804a7c5614863d531a3472b75b3e498297f79b9db0df1cdeb37/pyaon-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=25d8febc1696fab8cbb5768b15fb674947a48cc5ee667f6b30f957b7a298a197" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/ce/cd2601782684bd401d5bbf73b170fb2beb123d7c8a1acbf1cbf2fe5f873e/pyaon-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=617a45d56f590a014f57435f6a8c615ea321aae0639376a9ade738bb4767264f" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/6e/bc8665600e7945dc89c141b91f6e50f98a1664bb82d15bcabec98d43a181/pyaon-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4023c50368863ddc5fd42af24ae5b6b7c62f835efde915df5bb3025bf6683405" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/ec/976bbd465468289cc56251b0243682eb4b91082dacf4ae80a84dfdc3ced9/pyaon-1.0.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=14eda5b9d9a0f967cf231c37925909ac428dea97ed4c213eb40cebca89785b8f" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/b2/259f95e2deaa5bf86abeff74d19ad9df3a6b845e74d80e2d7e6802dd06b5/pyaon-1.0.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7be0d48d51e52ede4f5889390989cf073f611ce4ffd5b1ba015fbe51f9f7312c" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/a2/653d95802b1e438c215f3f6482ee6d506832d98537eeaa8514719ae2f776/pyaon-1.0.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=72ccc2422a8b1582b182d3e74352af1ea904da57d32126eed19e3fb81d0831d8" data-requires-python="&gt;=3.5, &lt;4" >pyaon-1.0.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15879709-->
+<!--SERIAL 16967871-->

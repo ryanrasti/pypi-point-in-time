@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gurobipy</title>
   </head>
   <body>
@@ -167,6 +167,26 @@
     <a href="https://files.pythonhosted.org/packages/2f/e5/fa90684f6bf787d3e4ffab99eb89a11efc42f7807f1ffbb421bf4023b310/gurobipy-10.0.0-cp39-cp39-manylinux2014_aarch64.whl#sha256=edd43f86643eabb8d8c7a1bacaffcaee593fb934d59cf31a8fb2b5e0f2ed20a4" >gurobipy-10.0.0-cp39-cp39-manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d4/c7/523be9714f97d44565781183cc80f8357c088823b6e66f9c12e522c8837c/gurobipy-10.0.0-cp39-cp39-manylinux2014_x86_64.whl#sha256=7ec69223961e292b58a37e75b2625bb373dc67b2cb39b66615f9157195fca676" >gurobipy-10.0.0-cp39-cp39-manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/aa/84284d53a924d34e330535146c3031763db0721e1cc11a894e024e1bf907/gurobipy-10.0.0-cp39-cp39-win_amd64.whl#sha256=7e108ac28875f14815de16a8b4a442f8dfabbd13fb5212a67b34bd4cc715e538" >gurobipy-10.0.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/5b/0787e6570b65c1c1d6cf27e2007cbed0a7f1e2508219e3b16aa99631a3a7/gurobipy-10.0.1-cp310-cp310-macosx_10_9_universal2.whl#sha256=1ddfb3e340a5979aea27c3bd7d7fd4f08724bd167f7ae1db8f32ba5a8cbc6eeb" >gurobipy-10.0.1-cp310-cp310-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/3c/06a10a3a864403d7049fdfe493d4d34f64dc2a7ff5c180b25b7a4d10c2c3/gurobipy-10.0.1-cp310-cp310-manylinux2014_aarch64.whl#sha256=623f24b1d09bf2c1829b816769fcb5a1d08011a2cddce6f60f3a2261bea59ba6" >gurobipy-10.0.1-cp310-cp310-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/42/4e007957b38fcd1dfe745c32cef23b51dd4a68719544ddb657d18b816724/gurobipy-10.0.1-cp310-cp310-manylinux2014_x86_64.whl#sha256=ac0da9ae09c681ef59528b5eff28a60c858825c5976dac2fa6a1f5c0b7a324ad" >gurobipy-10.0.1-cp310-cp310-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/de/ff052a7c69a519a27e686345ad6c3a603ea862a15e1d618ceb6478937f43/gurobipy-10.0.1-cp310-cp310-win_amd64.whl#sha256=698fc0da03b0a7ca164eec08e884c8e0aad6679b30528ff70a5cec916ca050ba" >gurobipy-10.0.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/8d/1e6590f889ca893c5cb948a8ebcceb481a2ff4022a9fb6dad4c10691d00b/gurobipy-10.0.1-cp311-cp311-macosx_10_9_universal2.whl#sha256=7d0fbcae3f9ccb1529679163d2d2f31ec940d5937513223075a2c5e5d843d5c4" >gurobipy-10.0.1-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/55/33ff95f5fcc7ce12a593ea681d95efd0ae8d6fe501a8bee67eeeadc5a0c8/gurobipy-10.0.1-cp311-cp311-manylinux2014_aarch64.whl#sha256=823ff119205605bd0594cc6063480103c18026c6a37d06fc2637911500758349" >gurobipy-10.0.1-cp311-cp311-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/8d/e4a35680eaea80b6b20e74474e49b95bd4fbb2dd39bce18662d8fe091174/gurobipy-10.0.1-cp311-cp311-manylinux2014_x86_64.whl#sha256=6e1e6695be43cacc33fda828e35f9314189c26d2c8a38e990d87425441ca2499" >gurobipy-10.0.1-cp311-cp311-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/05/b3a5497058bcc86fd1cb1dbd1c0d9bda44fcdb625622ad9eb62a9e2c001a/gurobipy-10.0.1-cp311-cp311-win_amd64.whl#sha256=4b802040fa0db585f41893ed1bd4220788ccfa03e59b277aa1ee76cafadfc249" >gurobipy-10.0.1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/43/ba92309e5c142b0c1221b4984f69cf8e8d7a7685606ea3b60e13ba33ce78/gurobipy-10.0.1-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=81e0cb34f6d5f9b3afa2cdf1736b9774fce4d6ee260243f665f7a5ec2fd81d33" >gurobipy-10.0.1-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/f8/4f051a933b1b7161d47ff5e67029a3223ed51a2f770a58d3f5fcbac3f63c/gurobipy-10.0.1-cp37-cp37m-manylinux2014_aarch64.whl#sha256=f99dd7e31a6ad85512eaed9ead9f7c02ceca39a2e6d1f40ea65a39f1335fa1cc" >gurobipy-10.0.1-cp37-cp37m-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/9d/764a0c59173fa8628992a2d89d03cd034f2e47de591aafa8aae8b15d1e6c/gurobipy-10.0.1-cp37-cp37m-manylinux2014_x86_64.whl#sha256=5c098a07637152a6eb95eecf050ccb75759199a17f1f3da85cb1718ed59b3bf9" >gurobipy-10.0.1-cp37-cp37m-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/fc/24054a94d0339d5d268fcfb3ef6268d1fc7bd128b013ef490aef2f13c9ec/gurobipy-10.0.1-cp37-cp37m-win_amd64.whl#sha256=2c01d6ff9bb92d4097e841db6318fd5319ae095f6538f7d9b0067cafff17698c" >gurobipy-10.0.1-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/17/70f8e3d49cad42fc94a218bd38878e293606d6a0da3383d6c4736b97ac29/gurobipy-10.0.1-cp38-cp38-macosx_10_9_x86_64.whl#sha256=5642628902c58b960a5f1671aebf6b79fa60abc43e02a5e750fb3ca41cdaa77d" >gurobipy-10.0.1-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/a3/5942a24d88a614c509dba5c9c35d53272b0facbbac06739a90b6c49dd261/gurobipy-10.0.1-cp38-cp38-manylinux2014_aarch64.whl#sha256=1e62499b9d057989667e48cf27e4f75b33ac81e90a1701f9f612be807213d9fb" >gurobipy-10.0.1-cp38-cp38-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/8c/d80f693f0d28edae66b7ca004b3787c1fd49ab31f4516ef90fafaa45a9b9/gurobipy-10.0.1-cp38-cp38-manylinux2014_x86_64.whl#sha256=8e66b0564d9fa872da1dc605c6463ac0b0ddf3ce10b0e052fe9b256e16eb56c8" >gurobipy-10.0.1-cp38-cp38-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/5d/2c8a290e0817f54da82f8227b2ac477b400cfe752f9cd1ce0432c482399c/gurobipy-10.0.1-cp38-cp38-win_amd64.whl#sha256=c22653416f6a7d20a55e5e87c538a97fe8efefd3b35012c911abc54cebf4a796" >gurobipy-10.0.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/0f/f1ebcdba8cffe8fd44b81851b79ca6226d2cfe8f92857da43959bbed0c7f/gurobipy-10.0.1-cp39-cp39-macosx_10_9_universal2.whl#sha256=2b1d7d42b67e9b29a0405d7c3d853cd5bf41fa1884f164e921ee91098e352887" >gurobipy-10.0.1-cp39-cp39-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/43/23192268fb61dfd9abbb2889c88495d778442d580f1b2039431daa33a88f/gurobipy-10.0.1-cp39-cp39-manylinux2014_aarch64.whl#sha256=a69a91599ce8c457c78fa87702ad66375645908861123a86652b53ea94fbf090" >gurobipy-10.0.1-cp39-cp39-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/83/831a6a4c12bacbab73f6d1c78db0f478abc9c587344d23e7726c3405d453/gurobipy-10.0.1-cp39-cp39-manylinux2014_x86_64.whl#sha256=d1f906e827a190a934e4e0d84bd8cb84a7af28c5bca2b7c76561899e50f2f541" >gurobipy-10.0.1-cp39-cp39-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/a8/f56b0c47b970f0644081e42005e25b11ee6658b57071451bcf240c41943a/gurobipy-10.0.1-cp39-cp39-win_amd64.whl#sha256=8cb72bb557a70a68dc9619c73141dfc46f6b606082519a0eb9404c8e9eac05a7" >gurobipy-10.0.1-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15696098-->
+<!--SERIAL 16631007-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tensorlearn</title>
   </head>
   <body>
@@ -16,6 +16,20 @@
     <a href="https://files.pythonhosted.org/packages/8a/3f/6b52a262836b7612f421021290442ef33f91289f41d42a79ba467f6182c8/tensorlearn-1.1.2.tar.gz#sha256=601780fe90161b0d6150916bd4b1e860501bf969da217c9dc99cd9954164589d" >tensorlearn-1.1.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/12/c0/1931e61b6e1d0b4ff06e117e98c3f685e1902ffabe398a85e87143bde298/tensorlearn-1.1.3-py3-none-any.whl#sha256=36fb1329b9667ba52d10c75d4e9c844dbe708b85e67f9dd5ce3e1960f0b6a839" >tensorlearn-1.1.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/96/5b/65511fdd57a3b4b9df5d5afa21347b0478d1b6c1c44d80924e5e86c0d547/tensorlearn-1.1.3.tar.gz#sha256=f2d999d3031c82f355c0ca9142e63d8dff1c37f0934159f9064901116e875de0" >tensorlearn-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/8f/c4b7f27626e1c104b282aa108be44cc0a91f70c360fab4c8994337df68eb/tensorlearn-1.1.4-py3-none-any.whl#sha256=2f8e3b1d064cf967e68d39a84272d318108236350637643da3aa219d99ca960e" data-yanked="" >tensorlearn-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/d9/3e338f2180d2fa9c1583887230cdddd4e6866e957667b7e7ee0552f3d288/tensorlearn-1.1.4.tar.gz#sha256=1dc7a243b4cea6670e3aab3915cde4bcacd3d50b36db0faca67fe7e77f62e24f" data-yanked="" >tensorlearn-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/3e/0b1d82e40d200f2d503f8222c8c9a5770a8c76137242123a27b3dd64cfe0/tensorlearn-1.1.5-py3-none-any.whl#sha256=c6e3588466ab0eaaa22252a4dea26cead5dde434df7c3df48a8b33140409a308" data-yanked="" >tensorlearn-1.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/a8/18cb7c01c703ff2b57eb38bd9ff9811c66cbd680299607388379f903bad9/tensorlearn-1.1.5.tar.gz#sha256=51444a785bb62902c3d0e528a22892fa6c9b5989eaef2220a59cf7b605b88284" data-yanked="" >tensorlearn-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/02/5827d48e68bf21f1a9cdce3201d4fb931de513da06d03db7bbfdeab89a58/tensorlearn-1.1.6-py3-none-any.whl#sha256=47781dc51dcb0c8d79cdf151be728a74767439a9916c9e0a5bf9aa712fce5c2e" data-yanked="" >tensorlearn-1.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/d6/72074452a81094b08c85088eb6989dd7f7a50fba80bd6a140c535d68f8ee/tensorlearn-1.1.6.tar.gz#sha256=1c3fc8bb2a5764ee3bae91fe81cb060959c16d56acf408548782bc9d617f7a66" data-yanked="" >tensorlearn-1.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/32/7f33c8b490cdea229586aba7120da4a814a5ee42bdc90884379d044f3235/tensorlearn-1.1.7-py3-none-any.whl#sha256=07e2e7d112c90f0bd7ad96cf3e3678311bd3b97a1945c10fe2afb93100478632" data-yanked="" >tensorlearn-1.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/ee/bb2e28230a60d5c61f9c7ebb2e75580ebc9e3d3ceb2dbdac1cb8159e84e5/tensorlearn-1.1.7.tar.gz#sha256=55f049ceef6fc11e65726374842ddc2a4509329fa902b07211cd3ba514043a4a" data-yanked="" >tensorlearn-1.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/ab/210c73d00656ca941f164e4aba112b65e5b85827fdf89b4337b97dd8f189/tensorlearn-1.1.8-py3-none-any.whl#sha256=b942cecf335b4cc05cbd793867c1ee32de61051aea7cb08497064b866eade092" >tensorlearn-1.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/0b/9e67ad4c0bd26a99d673cf8b60a17faa881c7766fde6c555a8bb1d44d267/tensorlearn-1.1.8.tar.gz#sha256=c8cc362a3f693b0fa6a6f080ba6b1931e4ee07d649c26a3f6a415b82a84500e2" >tensorlearn-1.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/14/134b5aacfff4778d79213d5be3a60f064bb457eb13d8897fa8e11526d287/tensorlearn-1.1.9-py3-none-any.whl#sha256=8bd808b29e4ccbe073d12d57f164146541e857aad2b8543ef87c61164fdb042f" >tensorlearn-1.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/81/870386f7a1bd0d75d7f5902baf76a707632fbe645ab7a0488522c643d7fe/tensorlearn-1.1.9.tar.gz#sha256=13647cda2749f2ec0bd57344a0865f5bc2fed0cd77503b175b5602dade35c94f" >tensorlearn-1.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/41/07793716c798ff8033a3879e325ad69248600150f51ac4ecc11122a92554/tensorlearn-1.1.11-py3-none-any.whl#sha256=4f914b1f6b639e1a22bafc93b3454badade0c96d26972cd459f3e0d6f62acc3a" >tensorlearn-1.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/94/82cd5d9883fb075b0f8990b12648540294a71b2a70e7ede86b7aa4cf84bf/tensorlearn-1.1.11.tar.gz#sha256=62dfd3419f231344f10c7fad7afeeb7e210bf894ff76e1ae4f53b007f5266fdf" >tensorlearn-1.1.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15988663-->
+<!--SERIAL 17148328-->

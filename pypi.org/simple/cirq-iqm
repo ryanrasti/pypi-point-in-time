@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cirq-iqm</title>
   </head>
   <body>
@@ -70,6 +70,18 @@
     <a href="https://files.pythonhosted.org/packages/0b/0b/0197d0eab3ba1e66c79e9a09d05519ccdcfa7385ec8cc77f0e1c8ee23109/cirq_iqm-8.2-py3-none-any.whl#sha256=fbed3d8c06ba2dac1ef1e2967a50a30a31ba03a0f3bbc259a75b8d62ec0f3323" data-requires-python="~=3.9" >cirq_iqm-8.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/ae/5cd7add9610b459bc1fabc8b26e110edbba64d7062ec795d9acd9637f35a/cirq-iqm-9.0.tar.gz#sha256=adc71564f36470a94471dbbd07431a7b326b02f2b3dc686ac01592817d10aea0" data-requires-python="~=3.9" >cirq-iqm-9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/40/4f/bf79ae0c3709b25df29de1bf3c7fa52e1eb67e21b371bb0f34bb58ae4a87/cirq_iqm-9.0-py3-none-any.whl#sha256=9ff3ecb6b97aecab0ba5758f6ed752cc7a3c6d77e54b40c2e01159fcf5a697f7" data-requires-python="~=3.9" >cirq_iqm-9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/c2/dde7e011f5b3664b510cda123f544675053b305e8c9f6cc98d7eb6a005fc/cirq-iqm-10.0.tar.gz#sha256=1d59e7badb6f39b5fe521d60a36462baafa3a366aee8f7301bc70c9f5e441eff" data-requires-python="~=3.9" >cirq-iqm-10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/52/a7b60d1ff9ee6c4ec3d7e670d3d5269308918e4bdd05ee016d45746c0a24/cirq_iqm-10.0-py3-none-any.whl#sha256=d3d0358a7c72a74dd8591e361b20015aa1178869016c0d1779741f9e7ec9613f" data-requires-python="~=3.9" >cirq_iqm-10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/38/5e64f41fe75779ed2ab9c73fc4fa6bef05ea73871fbf885bd8e56ea955fc/cirq-iqm-10.1.tar.gz#sha256=606beeec36dbea22edfa3c5fe122c0fbf0258b36a7601dc317055671916ff342" data-requires-python="~=3.9" >cirq-iqm-10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/97/bc0ba7a2df0b6463cb7c7dc89fd2760de0df1f90e2536283d35af7701a7e/cirq_iqm-10.1-py3-none-any.whl#sha256=1b91919b02f07a9fbfcdd9be925baae41fc4b8bde678f660fbf95a6a576fc618" data-requires-python="~=3.9" >cirq_iqm-10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/c7/c94c89364988637de4f438b16c630e05e78f3d9aa2b4186dca5bb2d11a78/cirq-iqm-11.0.tar.gz#sha256=9bbc1fe6ed8f4e46e98512fe84f44b2c1b14f22ba26596f676f26760944036e4" data-requires-python="~=3.9" >cirq-iqm-11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/0b/b3d4c07cfd430a8ddbd55678b64b29a7fb14d9a8c0208ba151e1879c9c1b/cirq_iqm-11.0-py3-none-any.whl#sha256=d0356e09bbc718c2a3f29b7f9e9177c0f37cb8178dbfd0c931a00d3d823fca66" data-requires-python="~=3.9" >cirq_iqm-11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/e5/277961525b57b01ba73ec1d0c1cb42d8eb08d88f9b66b4859432d93429de/cirq-iqm-11.1.tar.gz#sha256=d01ce97cec58acd0ed5fa2f7bbd92b428f1cc6fa175c53017d0869eac96f2023" data-requires-python="~=3.9" >cirq-iqm-11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/84/0077ac53c0d37bcd6579ed82dd05bcc4f99048a71367fd70008a2bbb6bd0/cirq_iqm-11.1-py3-none-any.whl#sha256=9c342d30436a8271b1ae7ed45c0321c4ad711eed0f4b6f9923b572fe0c40c618" data-requires-python="~=3.9" >cirq_iqm-11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/d3/3c5ab5cbd28f122f1dddbd2727f2f83f4d7dec1062c2c27381c1bfdf1dbf/cirq-iqm-11.2.tar.gz#sha256=192299a3270ae3bf2f250be51e563acc66e11b8460f36d621720439f6c8d8ed8" data-requires-python="~=3.9" >cirq-iqm-11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/7e/96e58f2ed885c1f18e6b36086a73db3b266faed652f10a7465cbd206a983/cirq_iqm-11.2-py3-none-any.whl#sha256=a12867ad8502654e20979652616b1bf7b21eb0909ec48184c956ee228249a1f6" data-requires-python="~=3.9" >cirq_iqm-11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/51/8c96d4099ef1bbb1523f6eadad64af3cbca6a9f404f7e2fe67916ac7b57c/cirq-iqm-11.3.tar.gz#sha256=53cfb888377b8526275f0e8a1f2cb4a36dda6f6bfadf0355b151f41ce99962a5" data-requires-python="~=3.9" >cirq-iqm-11.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/3e/46defa9879d90d17cd5e9ef364312c972784dcf4ae66ac5dd9f0a7138f12/cirq_iqm-11.3-py3-none-any.whl#sha256=dcf6f51c41e65916721a602fb62611be1edcfa1dd026f4b51991886527dd0518" data-requires-python="~=3.9" >cirq_iqm-11.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16386306-->
+<!--SERIAL 16834779-->

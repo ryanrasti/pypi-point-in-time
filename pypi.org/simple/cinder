@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cinder</title>
   </head>
   <body>
@@ -158,6 +158,8 @@
     <a href="https://files.pythonhosted.org/packages/dc/f4/b6d2b0a0a4906427959ab8b34faa91b23dd03df724495c07a8e94188d226/cinder-19.1.0.tar.gz#sha256=ca41352a182b0ab38d4c893874715359a05c19d6075fc2a13cd4d1e78cd915c7" data-requires-python="&gt;=3.6" >cinder-19.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/7c/1a5830629a642cb40d43d9028ce108fdb74e393b0d691f17c29888428564/cinder-19.1.1-py3-none-any.whl#sha256=c442b05f9b97cb8b7044732dc63c212a35c648f743a1442018d701f2fcc28c55" data-requires-python="&gt;=3.6" >cinder-19.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/49/2f/bd39e8bf0b6ae67bf2dfcb58521531452cd1db64ea3678d27dfe5a9456b1/cinder-19.1.1.tar.gz#sha256=b8b2b429059d2308eb907470b11d6663c1196f3703583f892533ee108fad098b" data-requires-python="&gt;=3.6" >cinder-19.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/2f/9b094b3d450bc0471b642c6abc875587d19953065cb7e8b57259d09ad7a1/cinder-19.2.0-py3-none-any.whl#sha256=90d15204d5cbec86a7b53f1a5c1297327f282d2b5f78c6c780bba27f3d0a960f" data-requires-python="&gt;=3.6" >cinder-19.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/c4/2b58bf7f5e657f89ec97afc5238c7fcfbb511a78d8555e47c1de8405d6ae/cinder-19.2.0.tar.gz#sha256=ec20bfa29876529d0b077b79cf704e784005001582cf8b831468f742763c9fc9" data-requires-python="&gt;=3.6" >cinder-19.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/9c/b1207cf0b3aef2dbe2305ec4a067f9f09b6bac4f69f5a60cdecf52257d98/cinder-20.0.0.0rc1-py3-none-any.whl#sha256=5e840dc94dc3e2172c4e79be76414333b0c4c789d2a74f223260a3adf6b2a994" data-requires-python="&gt;=3.6" >cinder-20.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/a3/a680eeb2abd0b725b5df3f82c7af96fd7b7154c7cdc39a3ff341329aa19d/cinder-20.0.0.0rc1.tar.gz#sha256=63dbe388b2e25bc264a8c49ece8dbaa89a08ed8f51479ce15d5770911238a8f4" data-requires-python="&gt;=3.6" >cinder-20.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2a/5c/56706700d5b00369ffd438aca6a7fc2530dc875caaa598c3f6f3448e84ce/cinder-20.0.0.0rc2-py3-none-any.whl#sha256=df609522d895dc3fbcf2388d0b9d4ea708f98df0b223fec61089fe57fb2116bd" data-requires-python="&gt;=3.6" >cinder-20.0.0.0rc2-py3-none-any.whl</a><br />
@@ -166,10 +168,14 @@
     <a href="https://files.pythonhosted.org/packages/33/77/1170d340af9e9b4dd1552872787605f0a8d6c23929968de4cc5853087eba/cinder-20.0.0.tar.gz#sha256=11cdeb1ff4eff14bfc42920ae27b17d08f9b0a2abca9d58aef9d260539db67bb" data-requires-python="&gt;=3.6" >cinder-20.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/46/46/5a3a8b47f9cdd0a93be1549bf2dae2f0ee2606e5358961f1b995690a9101/cinder-20.0.1-py3-none-any.whl#sha256=341abc1938f37476c4f4b295322bec9acfa29935a0e731bc3614e653c0f6db0e" data-requires-python="&gt;=3.6" >cinder-20.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/95/b0/72914864454d0af3b3e377d1bb04d09df77ccad92281e8d94f4d1bacc93b/cinder-20.0.1.tar.gz#sha256=613d786c9052ba046ca49e1ad2e157b1cec52c4a14b7a836daa279804e335012" data-requires-python="&gt;=3.6" >cinder-20.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/d4/4ef7d4ed009eea87977455bc9d4f2ab9e9cfdd39378ad8822af0c7872da1/cinder-20.1.0-py3-none-any.whl#sha256=2a5ca91f098ffc412bb9d7da4677ae619faabc9a52187633750f44289143196e" data-requires-python="&gt;=3.6" >cinder-20.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/d4/004a07586850a7f7f0ff02688b908df99fda0a0b7100685385676978ddf8/cinder-20.1.0.tar.gz#sha256=d27571fdda05d26569f74ac0f8b0bdc90d13498d561ed95d01ab19dffb0bb32c" data-requires-python="&gt;=3.6" >cinder-20.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/42/dc/eaa03e127406bdae61906635c36f39dd584496f4e847052bf63be32585d1/cinder-21.0.0.0rc2-py3-none-any.whl#sha256=c584c00728a8edd67871f5dc2efc5a8dd1854cc9fac1da5f381400ba9e3520b4" data-requires-python="&gt;=3.8" >cinder-21.0.0.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/8a/ca04a00fad32f84f32906b635e9ac77f0bc4c6f1ce5ed2d87e6363d5b88b/cinder-21.0.0.0rc2.tar.gz#sha256=ff78a878b8bca27d5de99a1d9f63f3b1805093e7c6dad5d6421eac52ac5bb17b" data-requires-python="&gt;=3.8" >cinder-21.0.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/ea/af54839d7a638d43e5f36fe6a0aab73902697f93c7cae7f71dca2296e391/cinder-21.0.0-py3-none-any.whl#sha256=3784024f57f545e8d73e1a63d6b772497d9e3c0d67235aa4b0ac924a98c331f2" data-requires-python="&gt;=3.8" >cinder-21.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/c6/eb34b8fa25769c543cf533fb7aca3e620eb3d804a707b451e2f021d3f7ed/cinder-21.0.0.tar.gz#sha256=877f7b9f625351764ff157ec4530a7aaf9dad13cdeae319181f148f7367a98d9" data-requires-python="&gt;=3.8" >cinder-21.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/ab/a38fa83f2bfdc8f310d00e76b6a52998ff885173ee823aa1b1481ef54ab2/cinder-21.1.0-py3-none-any.whl#sha256=f6feff790a781886670e2d49f48d11cda2f820f4a74e85d27a67ad00d0b16ab6" data-requires-python="&gt;=3.8" >cinder-21.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/92/a44b70f756b781bc83ad687b49d18433e90e55bd58187a9a3007ddc8fac9/cinder-21.1.0.tar.gz#sha256=3582c2bb17228c8544667012f5cd7e8577c87da691b4fa6bdb2f9edad0f029b5" data-requires-python="&gt;=3.8" >cinder-21.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15639978-->
+<!--SERIAL 16574694-->

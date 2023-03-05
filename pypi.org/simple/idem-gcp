@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for idem-gcp</title>
   </head>
   <body>
@@ -20,6 +20,20 @@
     <a href="https://files.pythonhosted.org/packages/58/0e/b125eff71615155621c40902e39658eaf125d1d3b418d64392cf2c10ffef/idem_gcp-0.5.0.tar.gz#sha256=96a6d3adac00ef9bf23a24adf4030fb001539a3341e705257a748407f18b6fdf" data-requires-python="&gt;=3.7" >idem_gcp-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/6b/348df18ea84399553921c8ea5972835bc2f87d6df122b4746fb114a7ffbf/idem_gcp-0.6.0-py3-none-any.whl#sha256=132a0808f07380d677bf5214cdff687741b8bd633dd4318d19adeca5c3ddfa84" data-requires-python="&gt;=3.7" >idem_gcp-0.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/c4/5eba6134e70e75b56048cd7047ebcca49c626b7e88dd2b5549c1fe00de21/idem_gcp-0.6.0.tar.gz#sha256=80f37c3cf7f6a6c32371b37bbbc16fc2fb13abbe5245df5d931a0cd10bd196c4" data-requires-python="&gt;=3.7" >idem_gcp-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/03/2cdb87d7bf592235ad3c27e433f3d27dfc078d69f4cdca9b5431deee1432/idem_gcp-0.7.0-py3-none-any.whl#sha256=1c4828c9877515f021c6227c85df1d2a8bdfb887627aac5052b4823ccb9b48ac" data-requires-python="&gt;=3.7" >idem_gcp-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/df/c7d476f3029091beac18fdf81e7af01771dc996dd82490ac3fc6096e541f/idem_gcp-0.7.0.tar.gz#sha256=045cd1957fbd61f3d314484e11d25b192a8bf8715277daa94f1854cf9cb90570" data-requires-python="&gt;=3.7" >idem_gcp-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/51/33851226d49a7cccd3c953bd408feb305d718b1483b70b5e7a330fdfd0e4/idem_gcp-0.8.0-py3-none-any.whl#sha256=dbd1846f9e250167c205a1fb2f8397ebebe3e202edf1e56002e5b208eb6499a6" data-requires-python="&gt;=3.7" >idem_gcp-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/23/6cb8ee4fdfe5a4c27bc28f2d8658308883b7415e05456539a00d0844cbb4/idem_gcp-0.8.0.tar.gz#sha256=7b53dbda5522264637b2cc5bdbe3fa3fa2bf9799e9f009d54fc8bd8f704cc4d0" data-requires-python="&gt;=3.7" >idem_gcp-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/88/90872b31ff30c733d2ce8a2649f839d906e76b4b4052e63964f153ee6e63/idem_gcp-0.9.0-py3-none-any.whl#sha256=861d4f09c51e56b9fb91f1d8a223e2fd597e333946fd82ea5306a8386c1b37ad" data-requires-python="&gt;=3.7" >idem_gcp-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/15/ed9036d87031ececcf8c8d07783f31e76ac239648325b7d147abf78b5446/idem_gcp-0.9.0.tar.gz#sha256=cbe3db3b06742742e093f53d854098df5b958a848eba1af9698ee951d29fad5f" data-requires-python="&gt;=3.7" >idem_gcp-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/94/b07c4c49766cafd2a7dcdc71f52740ecd3b90868e154c5e41cd9bbe62a91/idem_gcp-0.10.0-py3-none-any.whl#sha256=5a04288e9cafbd25f5e7f8559d12d4196a1178ccaee774621e87dfdd5d038b73" data-requires-python="&gt;=3.7" >idem_gcp-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/d9/b88f5579395d44fc3973202dadef35407a428ea7b76b363fb2ba7b15eb53/idem_gcp-0.10.0.tar.gz#sha256=296034276d27f225eb47cd3276bd9d572b0d408726ec7cf98f35abc43863abfa" data-requires-python="&gt;=3.7" >idem_gcp-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/9d/730b36baf73a5ae2b72146e45805413ed57cffc337a086018c9211804ebd/idem_gcp-0.11.0-py3-none-any.whl#sha256=effdfc1c7b11d2c05f96afa445843240eda97ef5a68503100e5df220c26a9168" data-requires-python="&gt;=3.7" >idem_gcp-0.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/6f/83d36606a973fc102f6c6044782dae7eb9c47232439eab9349211efe799c/idem_gcp-0.11.0.tar.gz#sha256=b3271326e33280b25cc218ef768897929d7b06376a333b72f44d9a3109c902de" data-requires-python="&gt;=3.7" >idem_gcp-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/f5/2f5c972ef604c294f0691c049abf27f3954dee9c3b6ebd377a6d976f8bff/idem_gcp-0.12.0-py3-none-any.whl#sha256=e858e353d72d4f558e650eda56555f1ff64e2174dc1c8629650b86913994e70b" data-requires-python="&gt;=3.7" >idem_gcp-0.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/d8/8c04116f90c8a888d3cf94996c374eb2f53f7dcd54cdd0d35d21a1e298fa/idem_gcp-0.12.0.tar.gz#sha256=e9b8a583fb31e77ff61a4aa3609a7068795fd497ed7eac55fcbd59f5b8518d4d" data-requires-python="&gt;=3.7" >idem_gcp-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/d3/61f12e92343b2e152cf746e5d036e2ba83186ebd02a71017005b9049149c/idem_gcp-0.13.0-py3-none-any.whl#sha256=f55f3d6eb311800e0f8e5069973e3d64a6bb425aa18508b7fab269d1e57592d3" data-requires-python="&gt;=3.7" >idem_gcp-0.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/e3/dff68fc9b98c99d09dd7ebf2504c61555ffff94759b355fc32cd24429e79/idem_gcp-0.13.0.tar.gz#sha256=c05eb692ec1a64d6872fbc90cac6161ccc8007131d41c38335af28047b895448" data-requires-python="&gt;=3.7" >idem_gcp-0.13.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16078347-->
+<!--SERIAL 17068606-->

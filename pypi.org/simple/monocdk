@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for monocdk</title>
   </head>
   <body>
@@ -286,6 +286,20 @@
     <a href="https://files.pythonhosted.org/packages/3c/c0/504b2b5c1f25c26442e3ba3a333198d44c7bf4947f61a6a5856dbde2c3e6/monocdk-1.187.0.tar.gz#sha256=2a6123a221e73f1a68ce57e30971619bc2464ae1e388d8c35b492c89446f92a6" data-requires-python="~=3.7" >monocdk-1.187.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/1e/be5ed7f97e465fbc3259ce21f79db0e4e718ddb8829ca5b6562280dc706b/monocdk-1.188.0-py3-none-any.whl#sha256=ce36830d0f1eff9297b7c5bc3d528a4a822fede71a5c45d30e6213a2f4d01dac" data-requires-python="~=3.7" >monocdk-1.188.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/62/c7/ea00b3e7ee99bb2915b3d2a5a0789b92909b92e0817dcc2622400b149273/monocdk-1.188.0.tar.gz#sha256=e567483eba6d35d5f239a9df748a6a4c686a3f9b9b9d76e1cb98e9459211ddbb" data-requires-python="~=3.7" >monocdk-1.188.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/8f/6a534d58ee410f9a2080de5db55241b164688ba9ef302677af80701e7b36/monocdk-1.189.0-py3-none-any.whl#sha256=7f87c38757d5d5080aa1248bc7fd4ddb3cd03520d360b2005541cb311180230e" data-requires-python="~=3.7" >monocdk-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/94/c166ab6facbee2b24827e0055e313a0812fd6afe18e24f3b6d574f5b2ecb/monocdk-1.189.0.tar.gz#sha256=c80f6e262b755ee6834f44f8f57e6a5b745090c24041cd9b1d0d28a1ec59767e" data-requires-python="~=3.7" >monocdk-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/29/c2f98b0e202bc35291697f36b6e6746983ab507eb0685aa9670b319a3a2d/monocdk-1.190.0-py3-none-any.whl#sha256=f1c35b409e5f66336bb349310d59f2970196f4cea195c83dd2aea23a1e20ea14" data-requires-python="~=3.7" >monocdk-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/12/9ab75f3925c2e459f2f8d51c4126dd9cddf103d1ab9e03c3502e83427acf/monocdk-1.190.0.tar.gz#sha256=3d8ee7cdd94eff17744013391e8feded4a013be7d7ceb2f4a7b11f2a8b776f91" data-requires-python="~=3.7" >monocdk-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/c5/35eb398ba8b1ab89c2168920ab5b01555f62f24f7d19d745e47c2d3a421f/monocdk-1.191.0-py3-none-any.whl#sha256=cd6204d100a723b99660133409986d23149758bc1168101dbc71089e68b044e1" data-requires-python="~=3.7" >monocdk-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/67/e4c62f2c6b5594b49da49c9bf11bccf136a9b4ce013afa05d176c0169d40/monocdk-1.191.0.tar.gz#sha256=f544e5add6750e1d29e03debeefa7dafa65b1217d1f80c9c120156a0896da8e4" data-requires-python="~=3.7" >monocdk-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/ac/bf8a6267d7b579a046031304684deafea7f3883288f9e62fa2568a0f3219/monocdk-1.192.0-py3-none-any.whl#sha256=ad3a6773875bcb6505afb99d0d2c5be57af2e6a2ed9e44a94fba94466d932d32" data-requires-python="~=3.7" >monocdk-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/7e/b9be55677c8f6eca6ce40862a8eb4944d4a4bafbd91057dd177b266f5885/monocdk-1.192.0.tar.gz#sha256=47986d43e8a7cb8b85f744713729ea582979e53a02dc035d6cc6c4a67ad57c12" data-requires-python="~=3.7" >monocdk-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/22/7947442f959032d1483ea0250a7d3bbdd41ccb671e5905fb9f7ae275d61a/monocdk-1.193.0-py3-none-any.whl#sha256=b9a9b92998ea24c4d545692508f55f23b2336b42cd505abc9bb870aa1fde4140" data-requires-python="~=3.7" >monocdk-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/71/f27da4d013261cd62d91b88ca6a476e9442436c19788ff63fb38d9d56925/monocdk-1.193.0.tar.gz#sha256=6b074172474a26a887ba5fb836a192739bcd6f9e73555f2b07bf7fccb1394e26" data-requires-python="~=3.7" >monocdk-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/c1/eb62f65edcee89c0441c1a58499cf7512134507bddaa104480626a937715/monocdk-1.194.0-py3-none-any.whl#sha256=4eabf32e17c31ef92f8eb3a476ab2e7e4c96f8302b65ce53d2c0bfb673f769f1" data-requires-python="~=3.7" >monocdk-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/97/f88efa97b3c06ea23f4ce16e145f55ce371c6cc00d455d357a03d9f40913/monocdk-1.194.0.tar.gz#sha256=7409b185a7d25f9b97a2967670440dc07aa7e97d713970a301bf40d9fd1f237f" data-requires-python="~=3.7" >monocdk-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/d1/a18634f02c5c32241b6b7947116eca97e5a05d92fd8e9ee6b4add42ef063/monocdk-1.195.0-py3-none-any.whl#sha256=a7cdbd1ca486ca2e7d8176e078b1e9027d537207a14e3d00f198e5e3081db054" data-requires-python="~=3.7" >monocdk-1.195.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/93/3f6771afbb97aba00b360e7256a264fbdece6952eaf696921aa9f2eea269/monocdk-1.195.0.tar.gz#sha256=0b48a7f9a3144a623356a716be014f27f7fce902c445a3ea98df16956b694c91" data-requires-python="~=3.7" >monocdk-1.195.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16393533-->
+<!--SERIAL 17132076-->

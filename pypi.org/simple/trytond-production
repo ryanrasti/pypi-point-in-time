@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for trytond-production</title>
   </head>
   <body>
@@ -101,6 +101,8 @@
     <a href="https://files.pythonhosted.org/packages/73/81/132bb1c20ffca8bc12c487664b725d33de65bd0fa9f6ecafd6eac8591fbe/trytond_production-5.0.3.tar.gz#sha256=927e02e9d0f0de7b047803eda91aef93ba8a13c0e04816118ca4cd994d63e7c2" data-requires-python="&gt;=3.4" >trytond_production-5.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/bb/00183c6cd1a1d38289b6bea0b6b27ec61cf2ccf8c09f4dcb66102883e659/trytond_production-5.0.4-py3-none-any.whl#sha256=7a2fa188ed4696aabe3105499fceb8028f20b378f0fbf84fa31b7cfe17aa056f" data-requires-python="&gt;=3.4" >trytond_production-5.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/87/6c977cc65d7e71064229bf90e1eeeea0ff88763d8e5acbe3abb38b1ace02/trytond_production-5.0.4.tar.gz#sha256=192e605462d6924065853ead930e788da058e13393d40d0e14cb24962158844e" data-requires-python="&gt;=3.4" >trytond_production-5.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/a6/196006a0c4313bc2b6ce446ae26999b5b5f13bdb1ec0ecc7dbeadfe8f065/trytond_production-5.0.5-py3-none-any.whl#sha256=13837a94b03ade513bccbb4e7c76f442ff13e72028b9b3c53c3c764445af59f7" data-requires-python="&gt;=3.4" >trytond_production-5.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/78/add6bc4ecd4acdbb35315064fa72c9c21847e012fad0479726d6f46b664d/trytond_production-5.0.5.tar.gz#sha256=439ecbfc0c90e9b7cac04fde13eaf9fd0719f16d000871e453a777151c042014" data-requires-python="&gt;=3.4" >trytond_production-5.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/41/11ccde0055dd0b932fa730e4925ce50dee2dfcb7ce6ae74c3bb347e9a9a4/trytond_production-5.2.0-py3-none-any.whl#sha256=29510960f035f6e4779cb090e8f0545553d31328b34ca2424e6cb81aaac0fd5c" data-requires-python="&gt;=3.5" >trytond_production-5.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/45/d7/117c10308ee194ccd16e646a79e101630fd5d17f7dca6988d9775541137e/trytond_production-5.2.0.tar.gz#sha256=f0db8d4d468fe9ff633e6ed0ee4057d3acde722d44ac65f664feea723d1e6c5f" data-requires-python="&gt;=3.5" >trytond_production-5.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/c6/64ec10c21bb51174c54391fe560113ea71c5704a05fa5839b1f92f197921/trytond_production-5.2.1-py3-none-any.whl#sha256=b2ae9992d93e8ae2f1fa48b26f8afd9deb499dff1cfdba242f6ab852aab30d73" data-requires-python="&gt;=3.5" >trytond_production-5.2.1-py3-none-any.whl</a><br />
@@ -133,6 +135,8 @@
     <a href="https://files.pythonhosted.org/packages/73/48/823f3d7ca3b6c7a94af4e0ffe30bdc798c3e646b81caba4bc74966daad63/trytond_production-6.0.3.tar.gz#sha256=be272600adf6f309e36e7ed02174aacefb057ebf1a9b9996df07ea3db21a3826" data-requires-python="&gt;=3.6" >trytond_production-6.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/92/07b89f3f2c07b64d535c8f1769a51761f0000fc7c395ba524d8c530ea996/trytond_production-6.0.4-py3-none-any.whl#sha256=49a7ffa26e919d5c2e42ac7ff4a663101db74323cf114f886e274a2c8a2edc8e" data-requires-python="&gt;=3.6" >trytond_production-6.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/77/b89debdad909deada24d95a2bd58928ba2476a21b46af4b88d8e926d51c9/trytond_production-6.0.4.tar.gz#sha256=fe277ca63ea4204328902f12df5875afc69053803621e40386a7c5563ea05308" data-requires-python="&gt;=3.6" >trytond_production-6.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/ab/08974a30b6b011af6e088d6854f769dfdc1a3b6eb944e6cc7970a72d8781/trytond_production-6.0.5-py3-none-any.whl#sha256=b01184703b615db798bbc0f15708125d3eb501719f15c6e636c3ea79d4f24102" data-requires-python="&gt;=3.6" >trytond_production-6.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/59/7fd75052e8ee9ad5f4c380173cea9a00bc3d6152646728c1dea393994560/trytond_production-6.0.5.tar.gz#sha256=db9d11e6ae937f3df3cbabb737c209f96c23966fbf523fca113b13799c5c47ca" data-requires-python="&gt;=3.6" >trytond_production-6.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/28/81/c48783a1f5780c6194a27de53e7ee87b20275af0b1cb551c4d41bf086120/trytond_production-6.2.0-py3-none-any.whl#sha256=4cef563c66189c3fffa517b774c99d294cbf2a480cc67acdb0c85561fc5abcdd" data-requires-python="&gt;=3.6" >trytond_production-6.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/5d/0d55a7673ae3aea71fcaeecb54db7cfc774373c2bae8e306562c1dc5e123/trytond_production-6.2.0.tar.gz#sha256=ea8bf6802cd322c6c87cdb721e13ef30005c22580bd785d7095d8d737583f5ed" data-requires-python="&gt;=3.6" >trytond_production-6.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d5/3e/ed27af45db37ded6402b88d29b254e0669d5dc846d60a349b2ccf4d53d2d/trytond_production-6.2.1-py3-none-any.whl#sha256=9037b8b0cd5a60820458ef9be7f553874dcc41518ea2ad493cd3bd697e3bf0e4" data-requires-python="&gt;=3.6" >trytond_production-6.2.1-py3-none-any.whl</a><br />
@@ -145,8 +149,12 @@
     <a href="https://files.pythonhosted.org/packages/51/7a/628e5521e24163aa16a189a27b9e9429d6ea19491c447e9bb8a077846bfa/trytond_production-6.4.1.tar.gz#sha256=195cd86c196b5262ed75f6ee26a72d25c4817edf6ff89a9c45cbefed3868e45b" data-requires-python="&gt;=3.7" >trytond_production-6.4.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/42/41336e6609bba63c9a02420a2342f10f29a3f7cd3f2b3801d2b064366f87/trytond_production-6.4.2-py3-none-any.whl#sha256=377b70959852d7450c8f508a428d3fd362179d577c134e9f5370bee6fb230b6a" data-requires-python="&gt;=3.7" >trytond_production-6.4.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/2f/57513034072b2c1dd4cc7467e64368bc33580eb820d11fedd8bee5bf7f97/trytond_production-6.4.2.tar.gz#sha256=719d75dd9244c5317f03f02557a24078c5ee3038da44426141f8811c1cab3b12" data-requires-python="&gt;=3.7" >trytond_production-6.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/11/8146f623f1493811e9a7670d8916355034b3f5732cb05199482a2e3b973b/trytond_production-6.4.3-py3-none-any.whl#sha256=08e11d5db45bbec86714f8a4285f05cdb0f9031208e601c99439371a91089b7a" data-requires-python="&gt;=3.7" >trytond_production-6.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/97/b678a0c8abde16c1ba31e15b4364d48cf4b11084134e4feef438180ed9f1/trytond_production-6.4.3.tar.gz#sha256=c1e7a4f90ac520a534aa853e9cc066d9f68ef86c7746ee84c128b10f2063200b" data-requires-python="&gt;=3.7" >trytond_production-6.4.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/88/4a/5b75e354b634953cd4f666710cb31949908de0d40320b2859e11ed5c3e87/trytond_production-6.6.0-py3-none-any.whl#sha256=96b31fc87e6b15b9a0b51ec204b8ff1cce98d9d4c0014d9592bda39c00fc3747" data-requires-python="&gt;=3.7" >trytond_production-6.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/d5/67080db6e815ea4924bc9fbd638c2ee71ba95da95bd94ba3b465719d512b/trytond_production-6.6.0.tar.gz#sha256=c66236d82f07e3829f8a54959ea72a9b01d780885e53aafd6c919a2876a0156f" data-requires-python="&gt;=3.7" >trytond_production-6.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/c0/ea09713e2fe3ae6febe9b04da0ce7e7458468c2d592567028933c0712f18/trytond_production-6.6.1-py3-none-any.whl#sha256=7a79d05e2cf13415a3a81b5089981eff1eb106de574b1c299425fc75e95a87f9" data-requires-python="&gt;=3.7" >trytond_production-6.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/d3/e440d0472b7f0404105141c14945627cc7854b66b74ee70552498f2c1bac/trytond_production-6.6.1.tar.gz#sha256=e602adbe3b0d0fa6c014012e24244336ca149f442c3fe7445acefb3df5eeac22" data-requires-python="&gt;=3.7" >trytond_production-6.6.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15666764-->
+<!--SERIAL 17155623-->

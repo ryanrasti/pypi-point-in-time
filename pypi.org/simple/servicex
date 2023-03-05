@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for servicex</title>
   </head>
   <body>
@@ -130,6 +130,24 @@
     <a href="https://files.pythonhosted.org/packages/9c/d0/10a543a9c36bfa51a60c070325e54593d43c7924502b7383d718e89a07e4/servicex-2.6b1.tar.gz#sha256=92628d0c5696bd62658468da012c16aaa9727c824f6e126ec43efe862b02e930" data-requires-python="&gt;=3.6, &lt;3.11" >servicex-2.6b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/81/b40a3d77a2fe8a4e60a35bdf7be951bb4c05fb24a2a097f7a647368e232d/servicex-2.6.0-py3-none-any.whl#sha256=a3f47f0315984533f734e5e2cc525ebac7df893198d167e8187bf1c56112c364" data-requires-python="&gt;=3.6, &lt;3.11" >servicex-2.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/f3/e1bf30d068518e2be8989d2f1294ee72294f51e44b8a353d34f47ba570b9/servicex-2.6.0.tar.gz#sha256=2773ce11d42384a11559a80826331bdec09921cdf1faaf4bb70c86ddef03262f" data-requires-python="&gt;=3.6, &lt;3.11" >servicex-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/69/3d62e6e9a3891d30a4c98d8ef5754e26406e0d3e3622b813855edec56bc1/servicex-2.6.1a1-py3-none-any.whl#sha256=e77e88d5bc4060d9c261295b3b73da11a21816ba32b32a1a1888cd247c8331c6" data-requires-python="&gt;=3.7" >servicex-2.6.1a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/d7/0c53b98663e5b98051321b59b625f65aa36e93214c7f0de389c1bb0f7c8d/servicex-2.6.1a1.tar.gz#sha256=7c39433ebe4ec3988e16f59e0e2855925f442038a4ea92219d1a7a445bfbb3a1" data-requires-python="&gt;=3.7" >servicex-2.6.1a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/1b/1423646dd0e7f2108434a50d535a1eedf3eb95ce0921986402f4a9646d71/servicex-2.6.1a2-py3-none-any.whl#sha256=1352212736d09e92f4a6bc74e1182f71e48e867682e11a498a0965879feddda2" data-requires-python="&gt;=3.7" >servicex-2.6.1a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/4d/28e627494fc50341e55e0e9baa43cf2261e00dce02aa4e40ebbb9e80ef9d/servicex-2.6.1a2.tar.gz#sha256=04409da6eb6bffb6421feb28a82d799bfff15f38918923e52cefa0060dd803ca" data-requires-python="&gt;=3.7" >servicex-2.6.1a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/ad/979779306d9865fd896717912491f4537563e5537e111fb3780ef7fd3423/servicex-2.6.1b2-py3-none-any.whl#sha256=c055666f59f2ca9d38fbe2ae1fb04c904f0b921ed5caf8c2a492714b48785415" data-requires-python="&gt;=3.7" >servicex-2.6.1b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/f7/11d87913e4ec1ef24d0c5f9f8f8655cab26f3dc87baeb7e75ca744bbc04a/servicex-2.6.1b2.tar.gz#sha256=038b4493573466385f8511022f3cd1bb111f31dde772af1cfb28a9db2fbadddc" data-requires-python="&gt;=3.7" >servicex-2.6.1b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/2b/da6658ee8b1f629c6270bc4d07261601a61390005f3b74c704a350e856f6/servicex-2.6.1b3-py3-none-any.whl#sha256=d68a5993ea90e2ccb14ff3e855a0443a52239f90ecd0e5259e6f189930397289" data-requires-python="&gt;=3.7" >servicex-2.6.1b3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/bd/126a84d1947b16588cce6e47ea174901af3a44abd4b87381980c796aaac0/servicex-2.6.1b3.tar.gz#sha256=9c3bc70cbb586f9ce330f793b7b250a0a6b31624ee62b53582bef2103d9a1c8b" data-requires-python="&gt;=3.7" >servicex-2.6.1b3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/f0/8f56bf01cb7b05982dd8e51e43c6ac397d6c81ff412a0f04fb9187db69eb/servicex-2.6.1b4-py3-none-any.whl#sha256=22deb199450aca9adb8f7c37b7767dd1d3a60eca294c79610ab9513770823c94" data-requires-python="&gt;=3.7" >servicex-2.6.1b4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/d6/429e107e7534842edda6842e1455bec2b708a6895cb6172f6e70ad48b39c/servicex-2.6.1b4.tar.gz#sha256=047ffca9e6fe5de07aeaa0b21084953efbf4e262181e75688a8840164864203a" data-requires-python="&gt;=3.7" >servicex-2.6.1b4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/eb/4c071574de95b840978e99428619e910c36dd4853ceed675229f1ac50868/servicex-2.6.1-py3-none-any.whl#sha256=597b15b3a1ad328b7971762b8a63d7b896e737a793d14fc3314de2789198fffe" data-requires-python="&gt;=3.7" >servicex-2.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/d8/1f40daf0e7a64de1307562a8652a19b3c7e5d313e9a65d8731fff62a673f/servicex-2.6.1.tar.gz#sha256=734979c4df28cfe9bb6407348cea2a85971cb7ce9622ac16b488d2b4c56d9e03" data-requires-python="&gt;=3.7" >servicex-2.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/43/3b0dae4c56ccac6bbba0c923354fe8214fc211b71a5ba00abf1da00b1439/servicex-2.6.2a1-py3-none-any.whl#sha256=591ab079aba49736cb4cd10462ac7ced5c14a2f432b134beb3ede6e652fd6a50" data-requires-python="&gt;=3.7" >servicex-2.6.2a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/ba/316cf9fd5f3663d555d82aeb86435401bf25bb7ae1a3aeff26c50bc09967/servicex-2.6.2a1.tar.gz#sha256=fd0bd786f5437f421e134872f8b1c406d367ece2b0fbb73e23a5b1ccf36e17c4" data-requires-python="&gt;=3.7" >servicex-2.6.2a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/6c/43c9237cb5fd6820583709f037a9a089608a6816c7f2968f2f1e69447395/servicex-2.6.2a2-py3-none-any.whl#sha256=08d960158f0c92b42470e238934b8940d241c50341e245dea423244147ae9d2c" data-requires-python="&gt;=3.7" >servicex-2.6.2a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/d1/667dc6c090454858d7d9f5c74e51aae5da85fbb9652cf58c0b01907a3ac1/servicex-2.6.2a2.tar.gz#sha256=f2ca5288840438a58579313e83107d58c42d41a4079d99f8e248ade91ac55a4f" data-requires-python="&gt;=3.7" >servicex-2.6.2a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/88/5cccdaf91b28521a379444a686bcc48b9b0b6c16620b945885168506e0b2/servicex-2.6.2a3-py3-none-any.whl#sha256=d888250eae02d190f2efc88fda003a81344561fe8da9e87d96dd44edd9dc1445" data-requires-python="&gt;=3.7" >servicex-2.6.2a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/b5/c1144de30023e1bc4c684ae7562f0e81b312f475644c5005130bbee1064e/servicex-2.6.2a3.tar.gz#sha256=1ac236892ecb9618f11b8127d10bc7845b9983791dad6e93a9f4d753e64c380e" data-requires-python="&gt;=3.7" >servicex-2.6.2a3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16115932-->
+<!--SERIAL 17015318-->

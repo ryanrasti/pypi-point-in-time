@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pygeoprocessing</title>
   </head>
   <body>
@@ -266,6 +266,17 @@
     <a href="https://files.pythonhosted.org/packages/d6/fc/1b5a2ab22242e6e028316acb488231db45528352100bc7f9ec70c2a4fb7c/pygeoprocessing-2.3.5-cp39-cp39-win32.whl#sha256=eca6bd49b36443df83c343e7fc98b3ed6d3b6b279a46853210833f4ddfed7f87" >pygeoprocessing-2.3.5-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/67/83dab2f83ecb065c412b43ca8b5b1caf87c7fdf8420dbe75e7b21cb7821e/pygeoprocessing-2.3.5-cp39-cp39-win_amd64.whl#sha256=6b699091f0665d52f89f44862b73270828edc6d79e673c7e98a6f2f5dacfffb7" >pygeoprocessing-2.3.5-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/ea/a45eeefb57b3c954e5b2211aef2cf77b5286e60b0f5f075562f1b6776e2d/pygeoprocessing-2.3.5.tar.gz#sha256=a66642a2c1c2875026375863e33224310c070b2b3f0fd68541cd4cdc0dda5646" >pygeoprocessing-2.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/84/614a0cbb5606878df5df2164edf79effbfb4041fbbbd45e52fc389772a0c/pygeoprocessing-2.4.0-cp310-cp310-macosx_11_0_x86_64.whl#sha256=061d3ac2bb00e75f9672371a5de74303e9cce5d311fc30fa17d5c6495be8e962" >pygeoprocessing-2.4.0-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/45/b4557170e6c397706240d950200211eb9796b4a1fce8f4a99fc03c688fd0/pygeoprocessing-2.4.0-cp310-cp310-win_amd64.whl#sha256=27257e1c96e51b9f837495139e22ce6b906110f0596676d2824c13d3a6c0647a" >pygeoprocessing-2.4.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/95/1688dbbc3a3495e4c9e5f0e6692c2e3c164572d9a25bd586e84b786ce410/pygeoprocessing-2.4.0-cp311-cp311-macosx_10_9_universal2.whl#sha256=6227257346b39799865d8a32ed0a7a048694f1be26fa604a7105876f38592f9e" >pygeoprocessing-2.4.0-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/a0/8b1a3f1a94ecf095ff3ae13f4a2813571464c678b3c630d1283f94ade2b5/pygeoprocessing-2.4.0-cp311-cp311-win_amd64.whl#sha256=431830d50d63d26d3671acff067a3bf78538cbb3bbceb16889aa9983df5aeb0d" >pygeoprocessing-2.4.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/d5/2d4337eac178f1fff82454821d9b60f88827ee77a89335921cff95644a8c/pygeoprocessing-2.4.0-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=c663ced8cea93e96269cff098a15bc256ca48b0375bae30eb01db2a38f226297" >pygeoprocessing-2.4.0-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/41/4502c390a9a78d8943e240bd83f6e6baff2d44681847d4b2f947e347926d/pygeoprocessing-2.4.0-cp37-cp37m-win_amd64.whl#sha256=d11d5db7ae70a90f8f5a58e268d0fbe6ce4feb6665239698e4cd48e43248b72e" >pygeoprocessing-2.4.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/af/11a6eecd4f71aa9bf5e6f64df99d17c62555ffc2ed5202a34cdc20c41df7/pygeoprocessing-2.4.0-cp38-cp38-macosx_10_15_x86_64.whl#sha256=84507635e3f91a9e859a67a6d3fffcc7ddd3669c75f1f0f12c3be37e79f1146b" >pygeoprocessing-2.4.0-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/b2/0179f399c1004f10a3ba2998a611ca4a5296b6a5814b711860a4db2ec7f5/pygeoprocessing-2.4.0-cp38-cp38-win_amd64.whl#sha256=8e7bd23e35fedb704e2ab781337fea1494a2c320c21d79e80a290f257f06b584" >pygeoprocessing-2.4.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/77/e50f36d220446615d93566eda254df2d957ee7920ec89076788668299752/pygeoprocessing-2.4.0-cp39-cp39-macosx_11_0_x86_64.whl#sha256=85c4ea52905734c3d1a1a21f36b248009ba86664511547ae8a28db2087bb59e1" >pygeoprocessing-2.4.0-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/74/d02236efd1ffd582a238a144fcd2fc395ae8f2c6ae2e82be14cc705de88d/pygeoprocessing-2.4.0-cp39-cp39-win_amd64.whl#sha256=2d1b60d3f626ed277103989eb428ba9d9a75a278d33f8f5c961ae8eaac5159c4" >pygeoprocessing-2.4.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/b7/aa69372668b5c1f2bd65ddd784acda941af4f47cf1c0685f8afce273dcaa/pygeoprocessing-2.4.0.tar.gz#sha256=be50ec765788a30c4d2584b6b5af3efa92f457f52cba89aa1079c8defe316a9b" >pygeoprocessing-2.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16095217-->
+<!--SERIAL 17152993-->

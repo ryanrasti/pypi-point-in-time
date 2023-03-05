@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyisy</title>
   </head>
   <body>
@@ -71,6 +71,24 @@
     <a href="https://files.pythonhosted.org/packages/03/01/a8e958581f3e2256e846935b904bf03dff4f23e3973b0ad4eff2396025b2/pyisy-3.1.4.tar.gz#sha256=206cae98dc9b2b0eea8ad2a6e6c2187b47213aaea80bba7e173675be5398b8e8" data-requires-python="&gt;=3.8.2" >pyisy-3.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/94/a0e17c27c897e6c4d4340de7691fbdf3bb146f95a40fce27e9f985cb99a7/pyisy-3.1.5-py3-none-any.whl#sha256=38c22a057702260c7e44ca021f6055310497ea02dd98d470177804317358dfff" data-requires-python="&gt;=3.8.2" >pyisy-3.1.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/04/b335bec99d60dd7cf357ce789b7746d4cbca93bf7c084a1ac3e725575994/pyisy-3.1.5.tar.gz#sha256=40121095e213c5c210dd751bac590e7a9ab40f82d469ae3cac3dbbe740ac0b65" data-requires-python="&gt;=3.8.2" >pyisy-3.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/c4/646c34f93d7e1c5560975c95aba50d75eec1b4ea2c87e17a20e47cd90a59/pyisy-3.1.6-py3-none-any.whl#sha256=05dcc88543dcbb682fe8e01c26b332b82e299a723775de6b7e3513ee0d51064c" data-requires-python="&gt;=3.8.2" >pyisy-3.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/f1/33c7907e5d94927b97fd85084c9596d522d3c9823626001562d1e5102186/pyisy-3.1.6.tar.gz#sha256=9b371d1bf34d51502c2b9d6dc402c3776b36d05cd1115e59beedc94d3044a332" data-requires-python="&gt;=3.8.2" >pyisy-3.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/41/0d3586218451f4dc22d0c04982dfc18f39df3970b9395bb43af33e9d25d3/pyisy-3.1.7-py3-none-any.whl#sha256=ffd80e9737ebf38e9f1edf184ac305e9f4ba84c8941675f90f8d5b3bb6e56158" data-requires-python="&gt;=3.8.2" >pyisy-3.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/0b/0c17a9e8c8662bad8f6753f86153b3c0ecd9dca7014a20c1a1b3b0ef958a/pyisy-3.1.7.tar.gz#sha256=4abf4f4ac926bcda30b975f89a962066d2e85d760c0c0b4de17d80871e52d1e1" data-requires-python="&gt;=3.8.2" >pyisy-3.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/13/195e1c277f97f69cce5d0d989ba330722fc65bc6288843a11cf3b3899131/pyisy-3.1.8-py3-none-any.whl#sha256=f42e72c64445aaaa4bc2401a0a0f5cfced3d9d34f215c94554ab43fe445ba93d" data-requires-python="&gt;=3.8.2" >pyisy-3.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/cf/a84f1e78da8808a2fac622a9893e54cc9aab88a943683b5dc096d9e1c539/pyisy-3.1.8.tar.gz#sha256=9fd3e84e705a24f9c7a72f8f4ea2cd5d00c4902fa370b9efe6b43335a8f36e96" data-requires-python="&gt;=3.8.2" >pyisy-3.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/e2/d85fedce171bed3952e085d35465ad65d2cf182ad3484d292420ac7b2842/pyisy-3.1.9-py3-none-any.whl#sha256=2e92342d61c9cd76dc62b1ee15f70a21a66c846c901f3cd26104a2196440756b" data-requires-python="&gt;=3.8.2" >pyisy-3.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/c9/0f07ea917ae433ea20de2421d09143eb3638bbf34bcd6cbaddd8f00d532d/pyisy-3.1.9.tar.gz#sha256=3705fbb28aebe99a3eabb42399a4a4f476e8905431e8f1623b0d5b7c4b3bcf9f" data-requires-python="&gt;=3.8.2" >pyisy-3.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/81/ddb4ed7039f892ee63573fe5d0afc009836b0ccfa922869ebaca828afd1a/pyisy-3.1.10-py3-none-any.whl#sha256=1cbbc501ff7fe92706cf0994cfa7d999fb77a7d151367f1edfc0486a6f3dddb9" data-requires-python="&gt;=3.8.2" >pyisy-3.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/6c/2d074d98c37885b9e4c50d9b790f9fb4060ab19816ee4a10654b03752e1c/pyisy-3.1.10.tar.gz#sha256=bfce43922bbd90d0e59cb2435ffcc2ae6831a1b80f4c33ec4b72b0d5da4eb3bb" data-requires-python="&gt;=3.8.2" >pyisy-3.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/85/8fa6eb1269de8c0abdfa580f1b08e560f092aaa25fe0e9e2578f082687a1/pyisy-3.1.11-py3-none-any.whl#sha256=2c49ab952605ace03a307b3e33621c7936218c57ec2bf9ea1b8b6d6f5e37a94a" data-requires-python="&gt;=3.8.2" >pyisy-3.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/1b/ed49ccc3aab653e8562367c87d4d69fadc6a75b28736728cd423d1994b89/pyisy-3.1.11.tar.gz#sha256=bce93b716b1bf7030f555fad3e7301f944fcb1fa9ced183538f6ff6f7b17aed4" data-requires-python="&gt;=3.8.2" >pyisy-3.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/13/5aabc2f3364ea3de13110cf4e39276476f728046f56d7fbed82d7fa175a3/pyisy-3.1.12-py3-none-any.whl#sha256=811c0acebedd5766116294f0b38ed11f2d4f452915501f8444c0e6c9e152afb0" data-requires-python="&gt;=3.8.2" >pyisy-3.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/77/71b844899a1a17cc2ffe320b7cc3e08b2d379ab11a022a13d78f0a893a59/pyisy-3.1.12.tar.gz#sha256=76cf57d48242275bae02ba0e2e7f1e648f76f40f5e8e4d309fb0c3bf4c99ae9d" data-requires-python="&gt;=3.8.2" >pyisy-3.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/35/a822a7ad5888ad2ce985cee937459bc1c55276c8e28c8d3df225ab0cda99/pyisy-3.1.13-py3-none-any.whl#sha256=6361da1058e8c7e3f2ff582688f7cae4ea921afc112e9df4024dcbe1437204ed" data-requires-python="&gt;=3.8.2" >pyisy-3.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/af/7201852a4318fc9d7c2253e2634ecc6d475ad400476d301068b96f94c471/pyisy-3.1.13.tar.gz#sha256=8ffe35a8833678d138339650a3483535485a1db8de02394b2e80f9a4d2ed5f6c" data-requires-python="&gt;=3.8.2" >pyisy-3.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/fb/6193269db4fa16530ac1ff49ed61128703084b1e8f6fddbb709186001d16/pyisy-3.1.14-py3-none-any.whl#sha256=cdb6b37d78a9df579e07d8e97da9c226f2b672922ec5d10916a6a6d2ff3a679f" data-requires-python="&gt;=3.8.2" >pyisy-3.1.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/79/8396c6a461ecc88c5ab14dfb476d5347b18612515144a8413706e4580a2d/pyisy-3.1.14.tar.gz#sha256=33c2482394a1a6c9f550f0009b2339d39b2667481f8f6f0c391b0ba9b1e19c2d" data-requires-python="&gt;=3.8.2" >pyisy-3.1.14.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16431099-->
+<!--SERIAL 17025493-->

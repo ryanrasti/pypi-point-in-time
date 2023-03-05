@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for wavelet-buffer</title>
   </head>
   <body>
@@ -48,6 +48,16 @@
     <a href="https://files.pythonhosted.org/packages/87/78/dab6fd1c7599bc06bc37ccaa9c59dc8308172466068a5d13a1e807064b81/wavelet_buffer-0.5.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=e331c76243ae00aebf547001493b1ddd5b8ce491c70eef96d230d644e79c633a" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/b8/0dbfcfaa40dab39df79806221c464c49fc5b57d5f74712911c484fcb870e/wavelet_buffer-0.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4f7cafe54af4fe0ec0f599fdc1ca6faf2f3c6c74f7bef9eb82877248f8b692bf" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/12/80/df3b03425f7d43bfd7755c370008e152828948e681f2e673fc10c9158efc/wavelet_buffer-0.5.0-cp39-cp39-win_amd64.whl#sha256=a44417bba1dda1fe18d6ec550f5901f91881490b08122103a7c7cf4944acd804" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/e2/5756845bfae6d4ce19e4303b725c152211b4b60c3081a9b794dffa0e65c6/wavelet-buffer-0.5.1.tar.gz#sha256=9ee6ef1714fdd5a2aee3763a29f2e3f4c015c07ab662d956dd979b78adc6f1dd" data-requires-python="&gt;=3.8" >wavelet-buffer-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/fb/3128d80cd82fffff8bc12fb701f684b385251adabbab44284640cbcdee98/wavelet_buffer-0.5.1-cp310-cp310-macosx_10_9_x86_64.whl#sha256=c65cc8224fd99ac50081ebc9a5fde0bb1b0a5bf10121a2a7f8eeb2dc49eb54c1" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/c7/72b3e28732013448ba4e7e45642f36336ad17c1565c63b19898ea32a495c/wavelet_buffer-0.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=96f40e2449f68a2d1225d005a2bf46e541327955f2789ce667d5c951f281b576" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/b4/c53c785713b7b6ef8ad0ed48ad69cd6961964105b8c870932f7909528e82/wavelet_buffer-0.5.1-cp310-cp310-win_amd64.whl#sha256=da3b444ea283de39be0de968a0b716b3f8025b17a48e71a4c9121063fdfa0e2c" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/24/dfa305524525fa79bc01ab9e366782bc9cfe3a814a81d20be12933da8a0d/wavelet_buffer-0.5.1-cp38-cp38-macosx_10_9_x86_64.whl#sha256=ce3be66c3ade7dda06c23c93ec33eccd1477d48f0a04482a43396807f27fef1a" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/8d/de13b0608ee6209c7e46d007a2afed00a275e546079ab4b95121397249e8/wavelet_buffer-0.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c073aa35bdefcb115b1c8bf6cd6ac922250ff688b2399ec353716b3be237d7e3" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/1c/8b6f0f20f70ab4f6b7cb5fabfdd7b6cd98e2098015c60cfc442d7d3e141a/wavelet_buffer-0.5.1-cp38-cp38-win_amd64.whl#sha256=948be5500144491ff575033ecc40c6aef6726276453c713ddea35affc0050702" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/08/d47a791001ff0c6a1470f9fdb9e3b8905d013402d3ef626b28f5eb91acee/wavelet_buffer-0.5.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=b55cbf2a342e6a88c171b655afde7272935b70a1d8b6e23a8b5e71b36cd906cd" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/80/b38a79e92a6fb54ad137d34bc9e7cb32565e91d008e863ee094a05b76e26/wavelet_buffer-0.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=cb612fcf91a8191813218685bff151b9af0d6215704229e215ed3dc2d3f5aa33" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/a6/9b1c8dbee338d3bb91bea4844bd0efd83fd745ece2afaa178d21950cc6d4/wavelet_buffer-0.5.1-cp39-cp39-win_amd64.whl#sha256=e33cdb961c7ac3990c8842bd7e9fc8a5175f4fe42680788bfe5bfc17f6271463" data-requires-python="&gt;=3.8" >wavelet_buffer-0.5.1-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15816226-->
+<!--SERIAL 17068223-->

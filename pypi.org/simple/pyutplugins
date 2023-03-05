@@ -1,13 +1,37 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyutplugins</title>
   </head>
   <body>
     <h1>Links for pyutplugins</h1>
     <a href="https://files.pythonhosted.org/packages/9e/0b/0fdcf441effbe9a95154f97398eb71dc46b947fe4ff221be122db3d16b54/pyutplugins-0.6.6-py3-none-any.whl#sha256=e129ec7fc2100df6853d26b789ccf5a0292ec9cb5538508213a855fda44ff4d9" >pyutplugins-0.6.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/42/7b1d817e64b8675153bc7dd877f866b3c7a75e2377131cab63a471815af7/pyutplugins-0.6.6.tar.gz#sha256=950f567a0f87cf4a74403defa3cae34c4733065c1f25765b04bf4840f714b8d3" >pyutplugins-0.6.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/6b/b9c43a6574e21021db22e7724b0fee5892ee9910d5df3f3cc7bea527dc98/pyutplugins-0.6.7-py3-none-any.whl#sha256=90a42f0429033ddc1ad9f1fce661c16ba459543d607f3ce384f1012959cd7510" >pyutplugins-0.6.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/6a/8e0699c6a83c63b1b4fa0defb126a71893a72e14def05b75ffccb8a21a31/pyutplugins-0.6.7.tar.gz#sha256=934832e8dee18252e9d2128b128ecef139292a668e946e0a1e33eaf763941ed2" >pyutplugins-0.6.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/02/445ede078e83004f1a4768e437c9fbb8045e97469179832335b2ec53e04b/pyutplugins-0.6.8-py3-none-any.whl#sha256=9bd6f32f7a8b8a50f87819bcd9a2dd5c1a54d92ced50f1ee3579be00503c36a3" data-yanked="bad setup.py" >pyutplugins-0.6.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/f2/ab39721a4c5be6e1a3c0811475b16e0c066bcd269fe0d4f3c51a0e2ea977/pyutplugins-0.6.8.tar.gz#sha256=c60b7f21a8cc41d635804b4cfbc326763a9a4643c1bf65f1b802afb144ac2853" data-yanked="bad setup.py" >pyutplugins-0.6.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/cc/25040d61d15f3a23a01820db9d982b7a8e9346f53547d104011e0679a722/pyutplugins-0.6.9-py3-none-any.whl#sha256=a96404e20ff277287a1bffa4120f7a7e0ed2a4a682ff54ee9d278585ccf5c161" >pyutplugins-0.6.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/0c/0a59876beef6a298a0dc560e0cf7fc9b33b3647647e911174543e5a557d3/pyutplugins-0.6.9.tar.gz#sha256=f4a8cc9c2d251a070596348602f93f31203cd1c979167612475d275fa421c33d" >pyutplugins-0.6.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/20/96012f0bbb926985b38d91411db12d44fa2fe880c6bbd9d356c34c925393/pyutplugins-0.8.0-py3-none-any.whl#sha256=5743c9335e2f32a07c2216f05482316cdb6f8701d6f34ea3e9ab5ed3bd95d7b9" >pyutplugins-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/9e/27c92c59848dba6a0df1f6323d977659b04a3646071119203e609b9714e9/pyutplugins-0.8.0.tar.gz#sha256=e0da8f15acfed1e4fa6b830416a10203331f8de114219e2649e6e41728bbf0c8" >pyutplugins-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/d4/5e0a4d27a4d9075c6e4e5a8359a83862152a287cce4b7e6bd9cfc3ba7be1/pyutplugins-0.8.11-py3-none-any.whl#sha256=8dadb8ec477660efbabbb9f409d191f94fb72c5d76bef9d3df9a83949a0cb8d5" >pyutplugins-0.8.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/4e/62e879e92688d1f5aa0049de73c356948f99a3a53535e31d991f98684a31/pyutplugins-0.8.11.tar.gz#sha256=d281e1a81d3323d4030784550cdea20285197c3498a2ec002afe45700b90fee1" >pyutplugins-0.8.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/dd/e18f386bbf062d7d18281c04be8eb9f1ffd81dd8ee1fb5cfcabd6417ae12/pyutplugins-0.8.15-py3-none-any.whl#sha256=2c7746c1ef183c6cd0eb42c055b49a614d87f7d8dc239fee98e93694f9043039" >pyutplugins-0.8.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/26/970a3ea3cbd2e9ff992b03bafc47d2d19ccd215a10b28bf6f948d2a38dc0/pyutplugins-0.8.15.tar.gz#sha256=a17ed3cc71b3e6d41dab630923832e5571262995301711812b12603836787555" >pyutplugins-0.8.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/bf/fb0283c48edaf26579d46ebe47beb5668d340e6ca3373f00076b5b6e5622/pyutplugins-0.8.17-py3-none-any.whl#sha256=63fc8504198b1bf0e362a3254354bb521ad848535d559bd3ecca609fb01d3d2e" >pyutplugins-0.8.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/8c/2389460472480b235956583561b641a9fb52a54e90aa066710e0d25873ef/pyutplugins-0.8.17.tar.gz#sha256=63982231c6b923285a23a8105b3bfaa67f6960665d659f044838c9782c0c4f7c" >pyutplugins-0.8.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/b0/f165c18bd9e5954782afc11545811e9740d2ee914729a69dd9438353d210/pyutplugins-0.8.18-py3-none-any.whl#sha256=fa943cdb74166267e9be3284e35db3df2a5f0b200bd5a87ba18e250917866afd" >pyutplugins-0.8.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/e2/5d00791143a66c9a0cebcc355f633c540c0c94419596a9ec944261afb3ed/pyutplugins-0.8.18.tar.gz#sha256=d90ed4b558e93ed6447cdd197e3d7e7259d14e4f333fb8c3e8b7d30b84310cbf" >pyutplugins-0.8.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/4e/a67e94ca3808fbda7e227c78b76a59acd3d1ee1520a2f95314454a511bb9/pyutplugins-0.8.20-py3-none-any.whl#sha256=1a56a4fe4f8b73ab8ebc015f2221705b07920f5e0bff34d889909cb9b6766a86" >pyutplugins-0.8.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/79/4a1e9010c8365382dfb0ac499df701af1585d723f4b6e071ed15d4061e3f/pyutplugins-0.8.20.tar.gz#sha256=f1f30eab9f721b268b30c83264f99e17f788fe48b4fd786d5cd3778377789cfe" >pyutplugins-0.8.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/b1/eaa2cfc8cfe5a6a17a8a3d0abc582e0f66cb908dafd8c5157f9e3daf2427/pyutplugins-0.8.21-py3-none-any.whl#sha256=00802d5826c909cd08652a42281abde2bf6b2a89ef45a6f54965992280de5096" >pyutplugins-0.8.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/de/b8fdc6c7b489b2b58032ed04136df636513088a038af07665b7d66b53545/pyutplugins-0.8.21.tar.gz#sha256=0f238cf067b83671ad52acc2b2a42f889cb75589a66d99dcfd003faae936988d" >pyutplugins-0.8.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/43/5610d36c13a3e68d440e6945aebf0b8b01b5c0b6e7cf3c6d821f046235a3/pyutplugins-0.8.30-py3-none-any.whl#sha256=d5526a7c37c524c1179fc301ad87f1441ca42ed8564e40338c5b869ad01c2c57" >pyutplugins-0.8.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/2c/72d67a50a5156c3857179a58431c0797e03b64254411fb5220411bd2146d/pyutplugins-0.8.30.tar.gz#sha256=4fd1e0387b6fb7e8dec568ee89135026acdd3dceb9a918dc23133095925b84fe" >pyutplugins-0.8.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/63/7cdf610a394ce95111d29f741c23ec612e767be2f6a5a89e280d5ae35f85/pyutplugins-0.8.40-py3-none-any.whl#sha256=3d49de7b04d2205734f63ece97917bc4432b7cb877428f0fab91bf4bb8da81e8" >pyutplugins-0.8.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/b5/506279b4b9043c3b2da4346e45cc2d7ca42d30523d70d3628804c9ef130b/pyutplugins-0.8.40.tar.gz#sha256=327d692038c8b94b20c151eb4b013041f3266206cfd34c3c59c5b5e8d1cebf63" >pyutplugins-0.8.40.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16298569-->
+<!--SERIAL 16984272-->

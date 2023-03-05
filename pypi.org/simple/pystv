@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pystv</title>
   </head>
   <body>
@@ -10,6 +10,20 @@
     <a href="https://files.pythonhosted.org/packages/31/0d/0fc553b927b396f5e1f6f3e84d336b8d96fb6585b4fa0bf41fc10a920116/pystv-0.0.5.tar.gz#sha256=db3e75ee70697e6100a6702c713214e255bfa2488df4ed7ebd371f7078a3cbe1" data-requires-python="&gt;=3.7" >pystv-0.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/6c/87ec11b79bda4e41a39dc37e02ebc3e28ceced23895d3a1dbf6b4ac14eba/pystv-0.0.6-py2.py3-none-any.whl#sha256=30e934a3a940d70a5603f9971da3ad59897249829c33e8706a51a1556a892b16" data-requires-python="&gt;=3.8" >pystv-0.0.6-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/a5/5e372dcb2158c8e6a49285cc7942b0626320c1e2512345600010d957db1c/pystv-0.0.6.tar.gz#sha256=ef38192c7c266d1e3f64aed5d7d6f3ca6f685a468bf4309465c187f94197ade7" data-requires-python="&gt;=3.8" >pystv-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/bb/2f98cc2a7cc5b9b11313d69d54090633d554cb0b9e27884d73ea7276abd6/pystv-0.1.0-py2.py3-none-any.whl#sha256=f2dca77acdb030fbd727cd1a523aeee48b5c4f3f9ff528cfbae1c97f0b4b4529" data-requires-python="&gt;=3.8" >pystv-0.1.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/ed/b47a401972fc2f3b78a07017ea988ec7aa4354001d15ed7f3f57fdcb15fb/pystv-0.1.0.tar.gz#sha256=c060d7ec6ee034689f91bd55d66b8a3130059ae739ca9c687af2e8c24c8b0925" data-requires-python="&gt;=3.8" >pystv-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/a4/5be6933c791d990fa25a23825a8f5fa90dad87a64c44d55f1e7bcecadb5c/pystv-0.2.0-py2.py3-none-any.whl#sha256=69f4269fa1ae67947b507ca88b98a70a2bdafc19018ccacb35905a37cdad0c89" data-requires-python="&gt;=3.8" >pystv-0.2.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/91/d4dcef7254aef4a6485bf56a46293bf27b7b52b8b5082719528ab789a0e7/pystv-0.2.0.tar.gz#sha256=db7ecce96e1a66a8cea0bd596323f8ac14885f2ff2075a81fc33f348d39b6aa6" data-requires-python="&gt;=3.8" >pystv-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/fc/396088a6b2845920762672cbfa35cf12deacc06d4e702511e3ff7b51a6b3/pystv-0.3.1-py2.py3-none-any.whl#sha256=d20259223a9a8c45dda2b4b3ce5aca9ff88dcf4e8fd1bd30737cf5197e1f9bbb" data-requires-python="&gt;=3.9" >pystv-0.3.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/ac/029e40f399d92297ed3b30268dd9edd243b99461c973d0bcb043de300a1d/pystv-0.3.1.tar.gz#sha256=9eb89435f1045c6a7bbb8091ddc3b196753c4778fdd8f5f7596631457a83d038" data-requires-python="&gt;=3.9" >pystv-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/27/d50cf0f493d263728538d388aab1ea37ed6b2868f5b5b8b21e38eb615cfc/pystv-0.4.0-py2.py3-none-any.whl#sha256=8acf8b205ce5ce1c074f33e7e6b9b406e4b957b5cd019b895904aadb483119e3" data-requires-python="&gt;=3.9" >pystv-0.4.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/17/844720b352d881b0dcad12ff7ab02619848351ca227f570424a3a204f3a3/pystv-0.4.0.tar.gz#sha256=991acdd29dac9a6323143f6611e1db00a70dc0a569b90cb318fc93ed52aec436" data-requires-python="&gt;=3.9" >pystv-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/2f/fe7aef40da13cabe21198573f1fdf0aeaf881754fb4509579d91e87b4081/pystv-0.5.0-py2.py3-none-any.whl#sha256=455834af57ce01470fb460f1a541e318d8441f5b394856ffed89d84eb1269127" data-requires-python="&gt;=3.9" >pystv-0.5.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/41/e8bf9e23277d6c0052174b95bd9d27c1547679a699249bcbad647151b4e6/pystv-0.5.0.tar.gz#sha256=0c508b8a726875758859242cb63f199a9680d3c10ac42a2adfe1c6baa9541e20" data-requires-python="&gt;=3.9" >pystv-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/af/16ef2df522a3acd7e978a01fc9b9d4226ff7a5eb8661da76c430607629d2/pystv-0.6.0-py2.py3-none-any.whl#sha256=336f8c3433c53fea5974b72fa71e83f2fbdf40b08e5bf5bb6c55289412eeae77" data-requires-python="&gt;=3.9" >pystv-0.6.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/fc/9a7e53763f440e2068e825a3e6f04e2e31b4c30e39457ae93d59cd7ac95f/pystv-0.6.0.tar.gz#sha256=84aa1c703316bb2405a716107c411129a17a6d94eb9e175e122495bff4c596b6" data-requires-python="&gt;=3.9" >pystv-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/58/f26b284dd5f80cd164d8c2ff95be82051836c9f2020c75fae21f3e5f7be3/pystv-0.7.1-py2.py3-none-any.whl#sha256=66e0a20c1981100a535a26ad3711cef23899aedbe31ab41678d6af10901fc50d" data-requires-python="&gt;=3.9" >pystv-0.7.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/bc/f9adc886a8e414a92b044f834191864363f2268dea8fcc57f809033ad12c/pystv-0.7.1.tar.gz#sha256=de860fca81a419be4d5261453231271a863cc43ef792fe0bc27d74fe56416e51" data-requires-python="&gt;=3.9" >pystv-0.7.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14526030-->
+<!--SERIAL 16776864-->

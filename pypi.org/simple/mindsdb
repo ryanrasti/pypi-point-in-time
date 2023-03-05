@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mindsdb</title>
   </head>
   <body>
@@ -458,6 +458,18 @@
     <a href="https://files.pythonhosted.org/packages/20/10/968a07926bc5e9102988c7e9ea1e66408bf63909364adb531eed4104b60e/MindsDB-22.12.4.0.tar.gz#sha256=d4e801b3c9a4aef61144a3d3d860f1236e6c57cea071f3d8d3826ee3c37d72c8" data-requires-python="&gt;=3.7" >MindsDB-22.12.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/c8/21fcd86e455a225b8a99285192e3a966459173a7ccf0da7a449a27607fa3/MindsDB-22.12.4.2.tar.gz#sha256=c66fc2aa2c075be36dded44774f840062b27f70c2671f05fee584527d1674ca4" data-requires-python="&gt;=3.7" >MindsDB-22.12.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/b8/934d8359712391ff7783f9b3c722899905af4b15637ede7ab587940d3381/MindsDB-22.12.4.3.tar.gz#sha256=953386f9ae9c8777db047362a8f9db04dfc6189355ca8d72ae78989dbaa22e79" data-requires-python="&gt;=3.7" >MindsDB-22.12.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/5d/d9cc4f2fcf805dad51f48d6a29c3788c6a59dd9a89b18d1e6a01e50f37b0/MindsDB-23.1.3.0.tar.gz#sha256=722eb100c699cc35763ac4c67b4ad39ba57826eba662e3738235ac9988a4649a" data-requires-python="&gt;=3.7" >MindsDB-23.1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/8a/04648d970a2a1a7ac2fc5837e3fcb06887ae47c12e101d3af8d5a02e9dc4/MindsDB-23.1.3.1.tar.gz#sha256=89797589919ecf24046e96f11fc85486b9126c9f77d002efa608714b3972fe30" data-requires-python="&gt;=3.7" >MindsDB-23.1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/5d/a99f6d2076cfae1b55370814f2024bad3be70f99a125f0526445034545fb/MindsDB-23.1.3.2.tar.gz#sha256=6cf3f51ae5b3171f43c3e5a37ef18d95848cc452c9d6105ea99e0202a818e552" data-requires-python="&gt;=3.7" >MindsDB-23.1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/f4/8fdb25ef273b7925637698c421e49e38fe9201dcddedd96f7553b25df8cd/MindsDB-23.1.5.0.tar.gz#sha256=7ba89feb572cc492f413bddaeef536f2150741dc0552074031d6c17cca4c1d84" data-requires-python="&gt;=3.7" >MindsDB-23.1.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/46/dbab5f223f935f7cad9d0205e41430387dd73bf1eafaec80795e2d6f3575/MindsDB-23.2.1.0.tar.gz#sha256=21a424a987a090909114534e70cd3a99e47d2d74a81c3a3465fae6f598c3bb6e" data-requires-python="&gt;=3.7" >MindsDB-23.2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/35/62e93d601d96f7f233c8ea714e94994995d9a88adcda18d33adccf3f08e1/MindsDB-23.2.2.1.tar.gz#sha256=b1142c73ca4cdf513d46369f0c29ac05a992683ab7d09ef588ec471743f8d4fc" data-requires-python="&gt;=3.7" >MindsDB-23.2.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/6c/8ef02d6f0f62c5d409d2314438ab7df28bcb10e158419425c66859410022/MindsDB-23.2.3.0.tar.gz#sha256=d31a5c029ab8d6d1d44e54fc2807fd0b11a8cd082fca6de688dd293dca3d0ed0" data-requires-python="&gt;=3.7" >MindsDB-23.2.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/5c/7051ad3e84847e554c433fc5706d7295e7425b98d348b98551da961d7d2a/MindsDB-23.2.3.1.tar.gz#sha256=7a9cad07a9d37b52286ed9e046d47fbbb6e68aa6e13ccb404256407d876786b0" data-requires-python="&gt;=3.7" >MindsDB-23.2.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/94/22c466cfb7538ca821d1b3370f120e9a80093a88de6875b9376c00fffe18/MindsDB-23.2.4.0.tar.gz#sha256=8284d29aa6c5edf764a8d722720f831099fc6a11e40da2bee1a57f600691fee8" data-requires-python="&gt;=3.7" >MindsDB-23.2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/5e/299eb2b237351fdfe7720299e36917332e8e92a37f550c980635c532f522/MindsDB-23.2.4.1.tar.gz#sha256=de8471094d413e11cd4d607ac278cd434e3aa62fc0e6869322587e02bc911038" data-requires-python="&gt;=3.7" >MindsDB-23.2.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/ea/9a3fa35a6a678ef1067552f69cc7f26e4f7a0d5bc10f25593297711c4e48/MindsDB-23.2.4.2.tar.gz#sha256=eaec9053d393b6cae60ec7fcd1c743607bac0e4f15917d5365b175c55325403c" data-requires-python="&gt;=3.7" >MindsDB-23.2.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/d0/cc5a4a9a4193753df6e51e8d933d3b23d2583f156deb939944b004e71ca6/MindsDB-23.2.4.3.tar.gz#sha256=d0ec463f0825b32fefc438bac9373a8ae576a302384736fb18065163c8ad8761" data-requires-python="&gt;=3.7" >MindsDB-23.2.4.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16173058-->
+<!--SERIAL 17024190-->

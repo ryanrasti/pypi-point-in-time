@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vesselapi</title>
   </head>
   <body>
@@ -38,6 +38,16 @@
     <a href="https://files.pythonhosted.org/packages/ea/cb/7f2bfac63949bd6f27d1385c00fe70738a8f2f77354dafef543a11a97a2f/vesselapi-2.1.3.tar.gz#sha256=e078a61da866c14001a991e216f6dcac6fd60971d8323812219a5b4334c0f43b" data-requires-python="&gt;=3.9" >vesselapi-2.1.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/2f/bdcad758ec64e5488c5ef4644c106262a19d2bcccc6526f5ac1445081912/vesselapi-2.1.4-py3-none-any.whl#sha256=6b06dcb007c1433b8e346f63635ee9db7fd3637457541d123a6f8b2d61f522d8" data-requires-python="&gt;=3.9" >vesselapi-2.1.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/61/20/ee49c6d35e84848e0576d4a8b6116ce086a5de28ec0fb466837ad887f069/vesselapi-2.1.4.tar.gz#sha256=b6a1cb585e906e369236b4eef0c3c91cee09c6b4754f01d3c0e5d45b5fb39280" data-requires-python="&gt;=3.9" >vesselapi-2.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/32/0f3a0929acb707423e6f8ec2f5983bbaa1786cf8baf98768eb188e0af03b/vesselapi-2.2.2-py3-none-any.whl#sha256=01778e19d2b1518a6db8630cf639c7644ddc9662cc4e74e023eb58ef98b7edd1" data-requires-python="&gt;=3.9" >vesselapi-2.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/e3/663c033e2629bf5dd1b33528d019f4dfb41745f81553f26e1106648c0bef/vesselapi-2.2.2.tar.gz#sha256=1dcd3da9e297c6e72bd4c7ad49234a23262597032fbe08b9bb1073704276134f" data-requires-python="&gt;=3.9" >vesselapi-2.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/6f/6c26422753856a095353ad16c25ef8515f0e716a0638ed8fbc763d71c22a/vesselapi-2.2.4-py3-none-any.whl#sha256=f9bd805332c261d4a07bcd480744fa36ec3328d801ee69820477ede03a6ae659" data-requires-python="&gt;=3.9" >vesselapi-2.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/c3/cb122ec9e66f2ece1185cdaaf162ba124450f7b0b76497ece414064c46ed/vesselapi-2.2.4.tar.gz#sha256=2595c1034b5fba31ffcca046127acb1e1695d45710ada5d19dc99880e39cf996" data-requires-python="&gt;=3.9" >vesselapi-2.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/f5/fa61af4890bed92eeef4a74345413519f189af94b5a9af6459c503d11d54/vesselapi-3.0.0-py3-none-any.whl#sha256=dde411cc2c5a5b0900d310d2951dfd943177bbce2fd0c11cbf98d5f1377077cf" data-requires-python="&gt;=3.9" >vesselapi-3.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/93/293b2f9ae179ea8b81733c3e5dd53334a3b06c403aab801bb9ac5828a15d/vesselapi-3.0.0.tar.gz#sha256=16554bffe000eef1a8024f329574b1d3863f76f7659cdb29c11f8caee0ddeaa7" data-requires-python="&gt;=3.9" >vesselapi-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/f0/a1ad11efe6df584c1b8c892b9dfe5cdd22d6a83975397d42af6bbba43636/vesselapi-3.0.1-py3-none-any.whl#sha256=826c9e66211e71260f0c6739c53b82eacd28181eaa14a2219177fccb97603a1e" data-requires-python="&gt;=3.9" >vesselapi-3.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/50/aa0ab41a99b70a532bbcbdc25481379fe4ff218a1e1d3fcb3dd771a553ec/vesselapi-3.0.1.tar.gz#sha256=69f913d0248e283107251c42de291ccee9012fde259b3edf489e18bf32a198b9" data-requires-python="&gt;=3.9" >vesselapi-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/80/86e0125243f08b335b3f639c0f726268042c1fb461f01bd5558bf7a55f77/vesselapi-3.2.2-py3-none-any.whl#sha256=077335f0eda8a75e3330be3aa19cd0412d36299cffc43d034a82affaf8b27130" data-requires-python="&gt;=3.9" >vesselapi-3.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/2f/3e38048f42e00e47f8535d2dede8fb35ec95abf9a10d8b7a3d153a3b8cc2/vesselapi-3.2.2.tar.gz#sha256=bb8d3b064cc8dfcab5054121b81bd954de2d823860b2f712da2a656e2552c6f0" data-requires-python="&gt;=3.9" >vesselapi-3.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398249-->
+<!--SERIAL 17101364-->

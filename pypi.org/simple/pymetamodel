@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pymetamodel</title>
   </head>
   <body>
@@ -32,6 +32,16 @@
     <a href="https://files.pythonhosted.org/packages/37/cc/957e9338556ad4c63b6c76d6e90aeda9af99a64dc47e930626fc0d9c3080/pymetamodel-0.1.0.tar.gz#sha256=9bfd95a0098d49b2bba6796b1f93558289e6614d2e8e5c872ed8dbdba7cf9fc8" data-requires-python="&gt;=3.7" >pymetamodel-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/07/ee/daf737fc359b4a8f9936959c7ec417085ee29cce6ea5779de456d2f6cf2c/pymetamodel-0.1.2-py3-none-any.whl#sha256=a20f3f033e5ce350ccbf4d0dadbbea99f9167b5a39824b6892f751c4070ed388" data-requires-python="&gt;=3.7" >pymetamodel-0.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/04/e5/98362dd5bbb103a003582fc0eb27a51e02c7956bdd55f905db90864e3cc9/pymetamodel-0.1.2.tar.gz#sha256=048260b420e6dd2eb7f9259555b8abced12b202fb49025588836fa8ab29f3e77" data-requires-python="&gt;=3.7" >pymetamodel-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/e1/cbe6fea91dcc1abed189faea17ed810619bd50424ce19d971fcafc26fb42/pymetamodel-0.1.3-py3-none-any.whl#sha256=12bf8b07450dd102fcedbca7b3c2b5e37ca28990d8441a83b103404069c5e749" data-requires-python="&gt;=3.7" >pymetamodel-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/e1/92163c94f7eec854f6f6792b57640630116deea7b8999cdf3b93c89eb50f/pymetamodel-0.1.3.tar.gz#sha256=f309bb1c87e2f33766a224ace5580a097c0f012aea2f1190422c1f33382d1b15" data-requires-python="&gt;=3.7" >pymetamodel-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/47/40632ce04f1133bc0cb340a6803bc92dfd92032d1fb41e767637c16acd8c/pymetamodel-0.1.4-py3-none-any.whl#sha256=f85f97c03060ca80a5f74c64f960c256d4f430755e3bf02540e950a975050397" data-requires-python="&gt;=3.7" >pymetamodel-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/3f/546e53007d9903fdc674ca4d0c5cbf44dace8502815e986ef400bd4e446d/pymetamodel-0.1.4.tar.gz#sha256=9d67ba04a764cf74e8a5075e4c145acf7505f1acd95e760fce9795bdf1986d38" data-requires-python="&gt;=3.7" >pymetamodel-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/0e/e7b2658c869efecb89e66f14d4cc32094009ed1c86c8dbc0fab704ffa257/pymetamodel-0.2.1-py3-none-any.whl#sha256=b59d5456a08168cae7afdc9df19f4544a17f74fcd5f425e334c5bffa38d54aa9" data-requires-python="&gt;=3.8" >pymetamodel-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/76/215b42cb95affe0ebb570dfcba018b80ea226cf93850effd9db408fda602/pymetamodel-0.2.1.tar.gz#sha256=68ec6d82d2d20f5352b72a95b0dec8496bfc8261c382e6b73fe6f7129ae1bf98" data-requires-python="&gt;=3.8" >pymetamodel-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/be/735b7245248bc55a116a68a35e10af04a6f641146cdd92343d4dcb407c13/pymetamodel-0.2.2-py3-none-any.whl#sha256=389b42e3d1f66f0b6b9c25372462c9b6316adde923202dbe458e8304a32f0fd4" data-requires-python="&gt;=3.8" >pymetamodel-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/12/36edd496e44168ef696179f3df7f3e083030f4740dfa0d09a8751543c5bb/pymetamodel-0.2.2.tar.gz#sha256=f9fe2e384896f08613b0c44b669807ed7b0f853b31e6569f60ff7474c082203a" data-requires-python="&gt;=3.8" >pymetamodel-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/03/bc79e8045e3ad93c3e2ae33fe4d9985322c68d3e8069b0e9cdd8135a4e97/pymetamodel-0.2.3-py3-none-any.whl#sha256=29eb6e2c5f10867e72a78cecce2f466f420511a501b5f2aa0d906cb5bd11a0a1" data-requires-python="&gt;=3.8" >pymetamodel-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/4d/cb2af2352c438007bc70c204f8f489fa32714d244d38028c8f5a1ff1b765/pymetamodel-0.2.3.tar.gz#sha256=50b388b75977d76b136946182250813d5d8472a895a392f7b4a4170f33aae06f" data-requires-python="&gt;=3.8" >pymetamodel-0.2.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16141008-->
+<!--SERIAL 17141791-->

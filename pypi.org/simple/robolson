@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for robolson</title>
   </head>
   <body>
@@ -138,6 +138,22 @@
     <a href="https://files.pythonhosted.org/packages/63/00/9ead0ddca5ea34d239dbeb10a1a0d375499605d3199d0db16f6140094d7b/robolson-0.3.67.tar.gz#sha256=ff7cf91ffdcf25663b9e980c75a258a61b670711a8ad396cbda94ba2db32daa2" data-requires-python="&gt;=3.10,&lt;4.0" >robolson-0.3.67.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/71/ada03e996fc9d7319086b948fc27b567cd959de619d4a5f9bc1dbc01b7ca/robolson-0.3.68-py3-none-any.whl#sha256=429edb86d7953d37f185e9085706e2cb712eab319a11dda254d6cab3c5861c91" data-requires-python="&gt;=3.10,&lt;4.0" >robolson-0.3.68-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/7d/a7e26a2c22f2fdf4e3331aa6d34c767818d70a6572cb0fb49d8c966f623e/robolson-0.3.68.tar.gz#sha256=891638987dd64148edd1a01eaa96bf7386f345a074611ac3e3ae45c8afb54b25" data-requires-python="&gt;=3.10,&lt;4.0" >robolson-0.3.68.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/d8/1c8d2e2b006ffbc6d6c7f064a460bc8bc169686da1a9519afb0a0f768d51/robolson-0.3.69-py3-none-any.whl#sha256=53638a7dc7a44e82ebb8e594439c8bcbe101bf2b398d49a126fc5b5e854c118d" data-requires-python="&gt;=3.7,&lt;3.12" >robolson-0.3.69-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/aa/713002b29d47c30f83828bf4c2b75db83b3ddd7208dbea8d0f91787b9252/robolson-0.3.69.tar.gz#sha256=4d82099a353710aee3ebee87bc85b0fbb855c4e7f944f59347c4e3776b9eda1a" data-requires-python="&gt;=3.7,&lt;3.12" >robolson-0.3.69.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/ec/2673484a88dd514db4cb6ce469cd460418324d43f80da54f5387bcd17a7e/robolson-0.3.70-py3-none-any.whl#sha256=cece1df9f3a3f5483678dc5d648018640a9723c61eebf7793cb39780c5718f3f" data-requires-python="&gt;=3.7,&lt;3.12" >robolson-0.3.70-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/6d/d54f4007895eee50f8cf7d2f1f548cd069faab1f75b9142970a6189732ff/robolson-0.3.70.tar.gz#sha256=ccb5d8e00c45399ca447ac45f36e1c086bbf578ab5bf77c3877211d35701133e" data-requires-python="&gt;=3.7,&lt;3.12" >robolson-0.3.70.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/b9/5ba92c0ff13b5bf5a39a32d721d8019097d711ba10acd42e461c1d405821/robolson-0.3.71-py3-none-any.whl#sha256=ac5c75be5299f2e07b0db622d2e65236006f08390a6d5907afc09025bab415b3" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.71-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/51/32d3eccf43634e8dc69649fa1e4cb00d644d0841c5f703755ed27c4d0399/robolson-0.3.71.tar.gz#sha256=312ca4477b731e591509fba8a98800531bc3062672fb9300da9d3dbe1f3a66b1" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.71.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/38/4f6ee57e11cf814bd09dc9e2a0e04213c4a70ed6b56ad9e66ad83a2afa1a/robolson-0.3.72-py3-none-any.whl#sha256=92ad63d29ce37c814b7d96db5d702bfe6df4b3642c775c788e912c9680dd7dbf" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.72-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/05/681a52be826c62415fdc358129cacff8aaa348f3ba96d68bedccf7b38e99/robolson-0.3.72.tar.gz#sha256=847578040261650cce08b15621802a395d34ca25d37638f8e6ac861eb32dad9d" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.72.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/fa/edd9a6bdeb348be86dd0c77e670a97df0d978522433452bcf2edcaccd14b/robolson-0.3.73-py3-none-any.whl#sha256=6feed5d817d86bc90614c4043034a2d9aca9fc4a44f671a594d1aea5fe2ba6f1" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.73-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/20/41080a90b94734fe3f9a25ff00cb7a1ac5bbebabe9386430233f82abe3d5/robolson-0.3.73.tar.gz#sha256=f203fca175836c7958d6e939e7df0cd103aaa8cb3a90bbb94031128f596aec7a" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.73.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/6d/983997524e88c9389efbe635fe8e58cd23e42e217112918e8289e37cf984/robolson-0.3.74-py3-none-any.whl#sha256=f9f3bd9b7e1b2ceb8c8d986a620fe6ed980c75678ec5befa5496763dab26404f" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.74-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/f6/06419668bfe0d069b1e3fac72364515d9015f0a52aa3af0f4a20acdc9c37/robolson-0.3.74.tar.gz#sha256=ef94033a11ceca2a83c577e6fb77974e77f2ea70cbe5b07da87603118a2632a2" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.74.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/ba/3b17d9d161dd8a746b286878b5af9803e94e95c6ca450cfbda0478f65168/robolson-0.3.75-py3-none-any.whl#sha256=511b2dbe6f5419a8f4fdfdea0d28d217df6f86159afe4d70009fc210090af3c5" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.75-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/fb/10cfcfb3979bdd36b72eb28fead23c32d29b3b1f715def8d58b376d59d03/robolson-0.3.75.tar.gz#sha256=a11f1a1c850317b84a9d82fb9d2d55f95a66c86490646df68489b4cf1b07f37e" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.75.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/69/ba2440bbcc7aa3aee75442fa16da76fb8ef913929ac1ad6f7966798be20e/robolson-0.3.76-py3-none-any.whl#sha256=556e9c83b05446568bdea26e2b4ec327be37316e24ad8e98a1ec606f75893212" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/b0/70ce7098ca61d6349b2852dab3dd6413ac13873d8a99da5c83ccef8d0167/robolson-0.3.76.tar.gz#sha256=a51f32fcfa638c3e37556622d75f3d1bd8eeebc5c1147f64b9186cd729f23f61" data-requires-python="&gt;=3.7,&lt;3.11" >robolson-0.3.76.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16027014-->
+<!--SERIAL 16909138-->

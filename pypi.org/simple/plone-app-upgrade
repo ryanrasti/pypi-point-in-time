@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for plone-app-upgrade</title>
   </head>
   <body>
@@ -185,6 +185,8 @@
     <a href="https://files.pythonhosted.org/packages/ce/24/839c820a204789e27eefdf6a445a24c34b9b73bea3456375a1f3f1f03d7c/plone.app.upgrade-2.1.2.tar.gz#sha256=8da28edef29386d2bbc6aab6fcc5516caa7c1c552a6283a9dc31b84410486eb4" >plone.app.upgrade-2.1.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/9b/a44abe6e5adb3b83881ac8b510b1b432067e6f60dc53d898d6b08d2971cd/plone.app.upgrade-2.1.3-py2.py3-none-any.whl#sha256=2b3cccbbc624154e76e3bb5c4045f47b1db1444ed684fbb9e4ca47835362ef85" >plone.app.upgrade-2.1.3-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/74/e2/bfd12f163186daedced33975dc8e0175d0973316d5d30fa17b5d1805e129/plone.app.upgrade-2.1.3.tar.gz#sha256=bd5ab6d8980e4c94475163a94a9861050831f9437e0ac5a4fd0c52c021e484ca" >plone.app.upgrade-2.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/63/0cc04cf10a1017ba3e0a7c435bc7aac2067d9ecbfa9f9b0f128ddf0bf582/plone.app.upgrade-2.1.4-py2.py3-none-any.whl#sha256=6942a618bcfc733d44488c8c98aef6416fd8f49cd32cf1d147111c7efc5ce8a0" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >plone.app.upgrade-2.1.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/6d/2c125d77fd0bf9bcf43f3cd96f02b836a3f02d469317986056a83290b80f/plone.app.upgrade-2.1.4.tar.gz#sha256=6892ebcf6b4fc2fbe16ed68544c0c97809fa26e44bc4c56192ee875e29484d8d" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >plone.app.upgrade-2.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3e/b7/0dd3b516cfab700a7557c0e12e65e2ee20b152fb17c7411d1abb1215405c/plone.app.upgrade-3.0.0a1-py3-none-any.whl#sha256=fd7f93280b434e9bdfe1e10b7bc67e00327ba1449ef60c651d7c249f7749d8c1" >plone.app.upgrade-3.0.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6a/df/f4383f3ba06ef8fe13eeac0e1b38c7c3f85c6b34350829a660ff51302a96/plone.app.upgrade-3.0.0a1.tar.gz#sha256=46aefe2573f817aa4fe0a35b3bf2fd6b798c68a08c6e2f59002a01b63f2ef646" >plone.app.upgrade-3.0.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/62/a9/f8a843e841c83fd61163e7e9c784266450155419704df873c47d7412a600/plone.app.upgrade-3.0.0a2-py3-none-any.whl#sha256=78376d9c6acf8d0ad6ab96c099ade7f26cc18567e68991a8ccddeef4aa60cee8" >plone.app.upgrade-3.0.0a2-py3-none-any.whl</a><br />
@@ -209,6 +211,10 @@
     <a href="https://files.pythonhosted.org/packages/b3/10/b84fcbe2a5c0b1713af134973e4be717d05c0a30461d4f8d2d4de7333d5d/plone.app.upgrade-3.0.0rc2.tar.gz#sha256=7c90a78cbb552bce7ab6fba278122965635a4a0f21ee7d816f05e534d9575a9d" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/13/c1/4aa4f03e9a29ff282a403c33ebec998227534f159d149f97d472215908fc/plone.app.upgrade-3.0.0-py3-none-any.whl#sha256=f117fea78d1358654fd581117cc1e6d6e089b459a43bcc3c846ac673659f5766" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/61/23/1e0dba3a5e82287898ced00000013b1f70eed1ad198ac301db6564ced9b4/plone.app.upgrade-3.0.0.tar.gz#sha256=edcd1cffcf2b5f68434298a4c8bb68864d5c04da68a21d7b52df1e487936ad1a" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/b7/26bc720d5239b915c429a5b4aa15247387c38a0587e74670bdd6f950bca3/plone.app.upgrade-3.0.1-py3-none-any.whl#sha256=e88c7f43f3779f2f28b58dff6ee6c1910c8ed1a03460ee29322e369f407d3adb" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/d5/daf5e97974a866f26b093ac79fcde67ed03bedd9f2095af06a1928cf6c7b/plone.app.upgrade-3.0.1.tar.gz#sha256=e872730b543e600eb3602777ac53016d33953221418004f0ad976b8ba459317f" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/ea/859f7e69890240270caa62462cc943c910ec1116cbc8e6cad96ec440b37b/plone.app.upgrade-3.0.2-py3-none-any.whl#sha256=9ef900f46ec484ef13e8d2654e70de073a80370ebbc00a1c3348e657143eedee" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/29/30d91fad38680878751864fb9a555768d594d89d47c4de373deebc35498b/plone.app.upgrade-3.0.2.tar.gz#sha256=2eaa8e6122845733504e6f0a72f764242244143c5b57d0dcaa7006b4c719917b" data-requires-python="&gt;=3.8" >plone.app.upgrade-3.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16076033-->
+<!--SERIAL 17001313-->

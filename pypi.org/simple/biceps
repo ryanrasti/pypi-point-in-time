@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for biceps</title>
   </head>
   <body>
     <h1>Links for biceps</h1>
     <a href="https://files.pythonhosted.org/packages/63/0d/22cac56e2d06f1baa006927641f77775ec39a84b30cc97808f82516f348f/biceps-2.0b0.post0-py3-none-any.whl#sha256=9027a39365ee3d45a87f2a6d0177a42128ae92507a986ae054311a2f7f98d84a" data-requires-python="&lt;3.8" >biceps-2.0b0.post0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/51/67/66125e6e8b35aaa95b784dac66b229431cfea5c7a0167e727832b2afab7e/biceps-2.0b0.post0.tar.gz#sha256=c58573151e0b8aeb64b4c8a190641c4da30bd2d8982e7242c80d66cf5738a7ce" data-requires-python="&lt;3.8" >biceps-2.0b0.post0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/52/10b61ea3eee8e4b881615a54b3dda49a44165579e0be45b99b20b6728e83/biceps-2.0.0-py3-none-any.whl#sha256=63713300433128e3a7b7a03d0583b3848d5736e34ee353c7344bc3ce8fa371a5" data-requires-python="&gt;=3.7" >biceps-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/4e/638f9a2183bec0e04d1c570b677e64408b5575bf6f8eccf29f65d4c1e946/biceps-2.0.0.tar.gz#sha256=5a9a787dc789e4453290791a9c08e93d01e0300f87b0a0ae31024b94d948c8ce" data-requires-python="&gt;=3.7" >biceps-2.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 9331865-->
+<!--SERIAL 16702253-->

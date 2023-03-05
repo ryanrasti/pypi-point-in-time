@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for diffusers</title>
   </head>
   <body>
@@ -68,6 +68,16 @@
     <a href="https://files.pythonhosted.org/packages/2b/c2/98f175adf3f70c65715531f8ffcf986bf006b469b5593f35c8b2849fc272/diffusers-0.11.0.tar.gz#sha256=553978badef3bb95af7557679f037a3f01cc167e9991fd9618578d3971cd62f6" data-requires-python="&gt;=3.7.0" >diffusers-0.11.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5d/24/fa82fbb980df0c9be74306d929ed8f3cd858f8d0f440606bf688c28ebd8b/diffusers-0.11.1-py3-none-any.whl#sha256=5b3f0d113d369cb675d292c3dffb35d0bac96af095727b5380ca3d48eb0e3e94" data-requires-python="&gt;=3.7.0" >diffusers-0.11.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/14/fcd57a7fa7eef872d90319207b14e54075f2bdc27573a46ff245d67e717a/diffusers-0.11.1.tar.gz#sha256=32684204134a0fd5f5a2cb7d71bbd2f9f8c79128c98e1af42dd8922f30a00109" data-requires-python="&gt;=3.7.0" >diffusers-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/26/81bf03367a99e34f2b94a75fd7794d3e66ea70a4cf6a80491be94e88a55f/diffusers-0.12.0-py3-none-any.whl#sha256=050a0cc766c322a4fa6d462fa68bb1c94b1cc1cdeaf39ec14953ef54e38ad1b6" data-requires-python="&gt;=3.7.0" >diffusers-0.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/f9/4648a498422826469b35d1a167dd6bc36b8fc70463acdb042a69c1b467e0/diffusers-0.12.0.tar.gz#sha256=a9e6910c515e8203eacf797f345fa904c1070ea6304d482018a40cffe0712ef0" data-requires-python="&gt;=3.7.0" >diffusers-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/10/87a9334aed5972c73df2f590729623ddde175383582e05315ee950237c19/diffusers-0.12.1-py3-none-any.whl#sha256=9d1c078ebec37a1410a52b5dfb0fd9b32675c54f4ef8d13bdad5cfa130381db6" data-requires-python="&gt;=3.7.0" >diffusers-0.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/7d/53fa449b09e6dfbbe96df672d98025690f9d4d385be9f9912a9f2435aca1/diffusers-0.12.1.tar.gz#sha256=baabdf8cc36dcc0e282dae750d43d8feaa4892aea986b606e5b33b7745a91d4e" data-requires-python="&gt;=3.7.0" >diffusers-0.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/7e/83c1b33d01a38b7e94ccfebde68253eb1a13dde47dca77c4c47852e21d28/diffusers-0.13.0-py3-none-any.whl#sha256=07235899120153b7f91c579afa490caf6b88ed6810017675fc017b8711b9c8c7" data-requires-python="&gt;=3.7.0" >diffusers-0.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/76/823fe2fb17255c4e36435be1718476eda41c8b104dbbf5e669b0252a8aad/diffusers-0.13.0.tar.gz#sha256=cf58ef36b657e180a6cec4ded9694b4aba6b452c95f2f5c2acf552aeb8ea46ca" data-requires-python="&gt;=3.7.0" >diffusers-0.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/42/7b18f81cd84fcc2257fd6ad636e8a0b2a4700b8ceac17a08610b4334af3d/diffusers-0.13.1-py3-none-any.whl#sha256=e16a0659731b1b5298526fafdcb8ee5633f6a3fc1ece8bf5c06025e18ca8851e" data-requires-python="&gt;=3.7.0" >diffusers-0.13.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/f2/7cbb8063958689160e8023b49ec3aef83fdbddc3c406d93595da8c36ca4a/diffusers-0.13.1.tar.gz#sha256=29b67a1ef34d9f5b05c3eab0a496697dab249652d298da74255b8aa4fc4f8e4c" data-requires-python="&gt;=3.7.0" >diffusers-0.13.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/b4/5f719d41ebd5dc1c75a992e875cf7a8d402fb4acfe373eb04e4b7d805123/diffusers-0.14.0-py3-none-any.whl#sha256=2fcba252ce33a00afcc9de74bf08c56e696ea9e9dcc21825bd8dfca941b7fa04" data-requires-python="&gt;=3.7.0" >diffusers-0.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/78/c35afbfaae79b747c49fd0144fda67d92172a8d1b733e979fd5218bd7b72/diffusers-0.14.0.tar.gz#sha256=b2a42a12dab538cb45a3b0c65503053ba446e5f2df4836de385b5238df830a46" data-requires-python="&gt;=3.7.0" >diffusers-0.14.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16163312-->
+<!--SERIAL 17146059-->

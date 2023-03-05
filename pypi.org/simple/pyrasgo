@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyrasgo</title>
   </head>
   <body>
@@ -500,6 +500,18 @@
     <a href="https://files.pythonhosted.org/packages/12/56/033a79bcc89fe3bb9b4503cea4303533026dd9aab8ac4d5f91c69aa95740/pyrasgo-2.4.0.tar.gz#sha256=7a7c0604ad2ea1b5d60cdc1cb0a29c9df5a9733ac447e63141f0e8fdb76c5300" data-requires-python="&gt;=3.7" >pyrasgo-2.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/72/dd/21a413b48405c9542adca70a0a10bffc8ade4331e2f2f75db311be553a6c/pyrasgo-2.5.0-py3-none-any.whl#sha256=06ca7e4776d652dec0c7f5539395cd7a1cd4dcad2bbb15d8037d43541296a65c" data-requires-python="&gt;=3.7" >pyrasgo-2.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/95/4a687820a45d0e28ffccdc7385201be25400ef1c3478c200f6e19ad9c8a4/pyrasgo-2.5.0.tar.gz#sha256=0833f5c12aac10784a14cb382c4b8d73363b9beaf58b5d6e0435bec8b72d9493" data-requires-python="&gt;=3.7" >pyrasgo-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/2c/079cabbc005ae21d89a2686621f39ac17c4b0f64f97f8d0ddbc5ea6fa775/pyrasgo-2.5.1a1-py3-none-any.whl#sha256=fd748d90df3d5c9be5f3ba3e0bf3a23e249f931ea7d760d9e734482bb0d8a340" data-requires-python="&gt;=3.7" >pyrasgo-2.5.1a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/82/b7d8bf55cafca748fa27624829b8e69d71b6c4fa8e46a39632f7ed38e4dd/pyrasgo-2.5.1a1.tar.gz#sha256=8e77cadc6ba2a3de7112436a268ab2d58ea2d234ee9eedf51ac9cb2700863f01" data-requires-python="&gt;=3.7" >pyrasgo-2.5.1a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/09/455b8c923f48791d09beabc9900190829bf36825b4e989abc3390f3caba6/pyrasgo-2.5.1-py3-none-any.whl#sha256=0c64ee65f64bb4466e8abab8f4c3374f4f47819190791da20f22e249952bd17a" data-requires-python="&gt;=3.7" >pyrasgo-2.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/3c/b2d1f9b9347306bfcf922cc71d2380067b2d074a81aeeb8470609b090be3/pyrasgo-2.5.1.tar.gz#sha256=f00f879b7095a788590e022205866106f95909bcc322b15c5317a215864eb767" data-requires-python="&gt;=3.7" >pyrasgo-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/cc/4442c7aa604593e0099c656f2667dc0353b9eac54f08882411c086000aaf/pyrasgo-2023.1.1-py3-none-any.whl#sha256=c8fdf3a6c87b0298338786efe3c187ea821e85f5c0bd0a95020938c00856bed8" data-requires-python="&gt;=3.7" >pyrasgo-2023.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/70/5c630832b42fa6788de031468bf261a11fd75eddb04ebbee8d79f6b103c0/pyrasgo-2023.1.1.tar.gz#sha256=4136599a0a7f0282624ab28922ac6cf496b7e63899ca3edf5deb537d0aa886a2" data-requires-python="&gt;=3.7" >pyrasgo-2023.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/2c/350cb62843008a8db9159b760b9941335a51fd4a4aaf984d5da8dc94868b/pyrasgo-2023.1.2-py3-none-any.whl#sha256=3995f854478f2620586a1609f439807b2485586b791f28ce6f4e1f4c017c6b11" data-requires-python="&gt;=3.7" >pyrasgo-2023.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/92/16e9a1d0386d5d7f139281432d40bdc9010a9fe4025a1764b15a0968f7a4/pyrasgo-2023.1.2.tar.gz#sha256=b63696f342288e9d03b69bcd0b36e0bd844fecb22d1b460ac86a56369db33636" data-requires-python="&gt;=3.7" >pyrasgo-2023.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/2a/1cf4f4244aad0c2911f27eadc9dc31e3acff8876d3dcd628d880479077e2/pyrasgo-2023.2.1-py3-none-any.whl#sha256=44bf343264fae4390e943fae4e2e048ef99c00b9fe6334056a91438774f5d02d" data-requires-python="&gt;=3.7" >pyrasgo-2023.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/a2/ac13fdaf3d230360a13b190159f2bc730672882cdca62c74e9ddb097a809/pyrasgo-2023.2.1.tar.gz#sha256=17bceeb04f13dc6ea40f7ae41d12a46648f9525a91974cdc41830db1b7be79f0" data-requires-python="&gt;=3.7" >pyrasgo-2023.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/ef/1c666b8533d7df3488e280f38a5f7aebbc4fa40ff0972702d945a34fa399/pyrasgo-2023.2.2-py3-none-any.whl#sha256=e955ac0e1935fcb271b56bf71869911557f9c7b4ed9b6a20d6a8a648b54cf1b3" data-requires-python="&gt;=3.7" >pyrasgo-2023.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/60/08dab843a03bfc9504192a012c0e72159c783a8fc8c4d1e9f46eac633b7b/pyrasgo-2023.2.2.tar.gz#sha256=f6f5dd42bd8d3271b4aac279f693b688d7b7dcf755a77a4d02ca49ea1da3ba3d" data-requires-python="&gt;=3.7" >pyrasgo-2023.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16079088-->
+<!--SERIAL 17072112-->

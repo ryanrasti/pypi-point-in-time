@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for syndicate-py</title>
   </head>
   <body>
@@ -40,6 +40,18 @@
     <a href="https://files.pythonhosted.org/packages/85/1b/6ca4b0f50282b2261c6b7fc65ef3cf9e6850e8944e42707dc38b3f4b3e95/syndicate_py-0.8.4-py3-none-any.whl#sha256=af65f858d4245019e16474888d53dfd268a0fc187294f1a53e87ac327dd60bb0" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.8.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/ff/73860ff6b743e65965332ef07b140f1362469bd47d172bebf9a5582b3e3b/syndicate-py-0.8.5.tar.gz#sha256=1f3eb76d8a1f1469bcf16149ae55c3b8139017b6cf0ca59a76a5ffb773314ff4" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.8.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/b5/1418ab60171a91962f112ba52a9cbe37b563f699aa773cf4e424996e1220/syndicate_py-0.8.5-py3-none-any.whl#sha256=cd1460f2fa5f3afe040462cc48c854a72a875a9eea4e17de48acaa2db3eb6f62" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/15/7278ecce39015adb56532b461a934e9079acd054e0a86eac4a75bd2cfaeb/syndicate-py-0.9.0.tar.gz#sha256=afefeec6ad50ff0d18ba73eeb305855baf1312943d4ad6fa7ad6ebbc1863f7da" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/3b/68294460ee3ed5318dd6ac324b5bccd3db1efbcd8da406dacdbece5dd3d3/syndicate_py-0.9.0-py3-none-any.whl#sha256=6af128b380956e88d9095b543501fe7a302bce895dad588195443f12b9ac18a0" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/82/82fa950cbbdd204ff1f81e53051f2aa0d70ca5afbb23bcb111935029c7e9/syndicate-py-0.10.0.tar.gz#sha256=2e344d13f513ac8e004d45b08353e0564542bce8b82db9130d0de819d033f0f9" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/f8/a39d6a40a7e51ed9e51f3d83af30fd768e25c99e9225b9c8240691c0a8a5/syndicate_py-0.10.0-py3-none-any.whl#sha256=cda9d5e274fd1b959c7789276c6d0595173f4c32c8f631d2d5c8d794a77982ed" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/b1/fbe4fc6517b345b8dbb4fd6757e771f8980ce536544dbeccd6d409d6ecec/syndicate-py-0.11.0.tar.gz#sha256=88886ebacf0dcac2ff135ac031e3747d59ccf34891c1284e095e4501a412cc27" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/9b/9cf1073dbd2e2bf421bac38320a04c392e5d06375445f83c5024e25faf19/syndicate_py-0.11.0-py3-none-any.whl#sha256=a1908840d87096cce7c19c320dcd37f4dd9975db891fddf519abec265675c7b1" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/89/374fa33b6de72d5b86edfff807d000fe1e359c03e9c2f9777337f60c39ad/syndicate-py-0.11.1.tar.gz#sha256=b4710e4e61ca92430cf7fcfc257713a6e3079f313fdc6035a3eae46a0963644f" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/4e/fca13862d3f8394778ed73aa74abb1be45c2885abfa78a9bf9e7f0427593/syndicate_py-0.11.1-py3-none-any.whl#sha256=cee869485dd6156e84ac348faa03e54c76471f045592355ddfde8c42e3b91632" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/90/31209611a2a23d6f62eb4de45e7431d121b9781e9869fb4890951b81b95e/syndicate-py-0.11.2.tar.gz#sha256=2481807b7d96b6fedc209730357450a98d4d310f62eab1f9f72bcf20f1f2f1c7" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/1b/72676ced5ac3dff6d000065e0fca0133d8451d16b29b807f0e0bb42670b4/syndicate_py-0.11.2-py3-none-any.whl#sha256=693047703326d907caad18fa9fae24cc231aafb9a84d8d4b76ba373151434126" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/58/301b8aec572031372d647fbd4c4e1a6df3922441f809f2219fc3c3c1e3c5/syndicate-py-0.12.0.tar.gz#sha256=e8ff204f51656978d12668774359fa2958b99370c491f0ca0dd5418a70d2699d" data-requires-python="&gt;=3.6, &lt;4" >syndicate-py-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/97/a05030f2d5c554756aec2df5b0c4949d4393fbf5f74de0ca9d0efc0d9f8b/syndicate_py-0.12.0-py3-none-any.whl#sha256=35cadda34f8dc9bd607d66df933e10c8a686446b7391e277d0eb92833a59f5a5" data-requires-python="&gt;=3.6, &lt;4" >syndicate_py-0.12.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14517470-->
+<!--SERIAL 16827517-->

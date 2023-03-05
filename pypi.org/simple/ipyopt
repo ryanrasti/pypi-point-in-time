@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ipyopt</title>
   </head>
   <body>
@@ -57,6 +57,20 @@
     <a href="https://files.pythonhosted.org/packages/43/b4/498c65c3215340867aac42b4d6e7a953e6c3b70b4ae0e414d8df31c29634/ipyopt-0.12.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=63c7f17c3846917391f687aadb58182523d8164ef48293bbdaa503340ac37349" >ipyopt-0.12.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/4a/e2248f170170984c79cd786a0d54f621050d40b3247b3c48342a9d9a2691/ipyopt-0.12.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ebe1714ceb80ea190c967ee14df4096ee70e7ce37b547703ae8378febaa18e8c" >ipyopt-0.12.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/97/2e8ed24c057b37f950aea1c0a35c87fc3e983ccaa708c825ede1ffccfc59/ipyopt-0.12.5.tar.gz#sha256=70232722f6906bc99bbeff22ef714c385c8806b35f3415964e28158c3798f642" >ipyopt-0.12.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/79/6764dcfb1a388f185ca8b53c2323261d70ffbbaabf59ab6405f4eb59e970/ipyopt-0.12.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=17cdc398b7e35cb180d03cd59e83edb2d5079cdfca1ff0c56483c8c39e52459a" >ipyopt-0.12.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/c2/f04f1c27b8819d4922c183fb84e7965a6d644b81598bcf91334cfd161f64/ipyopt-0.12.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=381061ab021131827a8b2b3a55d7bf311c85689d2b3c12c8f81f6c847599cb2e" >ipyopt-0.12.6-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/3f/493924325f2a9340f8a53bc1571650893ee2fce82f3f573fc501409da1ee/ipyopt-0.12.6-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=068c72ec558760fa5fffd553e5556c7dfcaa9c7e90cb09a0baa0c7f31fef0916" >ipyopt-0.12.6-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/3f/8acadba4d86d62b2b4baa88676f5c4b2a238ddd89d779db1532214558fd5/ipyopt-0.12.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=93b4de058e050b75248c82c64c1fbb798a7798271c3a112be6b281f5ca471c9f" >ipyopt-0.12.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/2c/5068f7eead97a492ca9ec92aaa8e6ef052306af0beb060cf1d57c7297dfd/ipyopt-0.12.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f09c57949e527e8ad0f91d7772b9eaafe140d93d264b9d36f0abc09d4f2199b4" >ipyopt-0.12.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/86/679b8b1b5e6df26485e148abefac0b28be4b7e74cbb29b4d5accbdc4f38e/ipyopt-0.12.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f7867bb15e5adadce892ba59ca03ab046d569bca6c90b17a50ad6041e10f65cb" >ipyopt-0.12.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/e9/1c1b7204e3e9c59cb61b142c0b3986125dbeba56db1693ecc7a0b60c6fc8/ipyopt-0.12.6.tar.gz#sha256=8ff0dc59326da97d45e62c94ea1d79a0a8155b5e3ebfd30326864cbbabae4d0b" >ipyopt-0.12.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/c2/e392afe95140873f73b08333cfc2555078039b3e38c9d35ef2b3486fcb9f/ipyopt-0.12.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=eab89fec53182d3ed0fdd0d8f7ce06c51c3342e817c9b7b542f0ceb738ed0344" >ipyopt-0.12.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/6e/7b9824d226d15e83c01bee1211cc0e74f91d52e27a84e51b3b741241fa1b/ipyopt-0.12.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ba10bec219c0e8a295d18825a2f249457fe13edc3dbe49666d7ec720df3bce06" >ipyopt-0.12.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/93/3bcba2e9f73d6a2ced279429a6d6e735bfb28735d30b6ecffec1721c7f25/ipyopt-0.12.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=15523f8babfd25cb024df0ccfec82413008a443ada905498885da2fba477da40" >ipyopt-0.12.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/7b/f39616f3ebd2b86decc9dba20740540f11f7958991e6fa195d1f56f675d9/ipyopt-0.12.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=95781cc05e33d5dd739a2aa02121fe730af3d2257738b3067fa8297801a3e53f" >ipyopt-0.12.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/99/d7d9c9d87354101ffaeb4ecc23892a0e61de3cc954a5e6f6a0dedddccd0f/ipyopt-0.12.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=28d759033ada896f1dfb2b74be973ca5ccdd5b6451662a481d13e26975437ab7" >ipyopt-0.12.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/3b/ed77f49fcf21fdc4615e557238d16a6194a3991c95fea5ce7c7633a8ce6b/ipyopt-0.12.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=acc23f3d35f2af260d8ae1235e16df25e4d2a0e298f6f60beaea6772a3ec695c" >ipyopt-0.12.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/9e/83f593bd55c56540f8ef8ad4b2de6c2904588236d0360a66cf9330329982/ipyopt-0.12.7.tar.gz#sha256=ac9e0cf5180f0741f0e2b2f2cef4596fac259903361b3b8453762583168eebf6" >ipyopt-0.12.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16098228-->
+<!--SERIAL 17125625-->

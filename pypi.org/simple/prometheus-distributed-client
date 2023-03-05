@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for prometheus-distributed-client</title>
   </head>
   <body>
@@ -11,6 +11,8 @@
     <a href="https://files.pythonhosted.org/packages/a5/9c/632a1856cda8afe8283a6dc76a451072ffee659a35c79eb3454d253f0da0/prometheus-distributed-client-1.0.1.tar.gz#sha256=a07282014639ef0f73e98734452b85b35a302482688e35509a254764f1eb30cf" >prometheus-distributed-client-1.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/39/b2/3073ab4dcd30aba63e1bb51c16c415444cb24c5c03eb0a6dd54bbc086360/prometheus-distributed-client-1.1.0.tar.gz#sha256=cb10758201b2c3b1ccd356a28678fd77ac99796bd7d5204623d036b412f3c519" >prometheus-distributed-client-1.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/c1/85b7be6615ed0d4392eff58a35228ac0630235be9ff5ffe5ea48d2dcbcdc/prometheus-distributed-client-1.2.1.tar.gz#sha256=7218ba174ffd4dd188e03641ee725e9c690cf98bd533ce64bba21f2142d44aab" >prometheus-distributed-client-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/af/844ab330b77f0805f1d32b422f7c661ce3f96c2a3baf27f8a4419ff83ca6/prometheus_distributed_client-1.2.2-py3-none-any.whl#sha256=194fb46cd990d72403936b0d0569b24a36cb69ba8bd951f656d2a7ea5124b4bd" data-requires-python="&gt;=3.7,&lt;4.0" >prometheus_distributed_client-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/e3/9d75aea666a46820c7b6aad09d65ab45373fe5c9f2a275974a106c3abf63/prometheus_distributed_client-1.2.2.tar.gz#sha256=ae26c4f539e6b3e69e6086ff0e1376e82e49c1ad65ccf5eff1fc17e95debc278" data-requires-python="&gt;=3.7,&lt;4.0" >prometheus_distributed_client-1.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 7561580-->
+<!--SERIAL 16487826-->

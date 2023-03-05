@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for julia</title>
   </head>
   <body>
@@ -40,6 +40,8 @@
     <a href="https://files.pythonhosted.org/packages/33/90/ba856cddadd923c94b7ce07dd3623d37cfea22b815076f0c70a47d867a3e/julia-0.5.7.tar.gz#sha256=f24b9788f3e30f33d53fc8854f2fcc54193c84412149cfbc652bde2edd6e8a85" >julia-0.5.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/58/dd/1fb5ad7343961c2aa7676db9b331de3be592d57a152560408b1df8b2d41b/julia-0.6.0-py2.py3-none-any.whl#sha256=a0f7ea9522c121ffd516807c6f910cc239f622d4e4d6072f6acce1b1d715b7a4" data-requires-python="&gt;=3.4" >julia-0.6.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/38/68/b6a214c0721c87ae54296796b93f75bab60f3dd76d0fce25950dc33ea792/julia-0.6.0.tar.gz#sha256=ebe674265064ff5cdcd33dc0454f7894ca46e62aa36a848977fdf06ff5d092b0" data-requires-python="&gt;=3.4" >julia-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/c7/2ad9c2b286ec4d8b3eba3f60bb403544649ff4e85238ae4cb2e8402b9430/julia-0.6.1-py2.py3-none-any.whl#sha256=69b997866dac2900e23563bd954ba634f8829f4f16ab7107ba1e9b4a90381b67" data-requires-python="&gt;=3.4" >julia-0.6.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/c6/d2d56c2825a171df48cbdc91a5afc98d22890ad44a77dda234649bfccbe4/julia-0.6.1.tar.gz#sha256=dbada3b47cb14b3e1893dae8339053e014cf09f8158f408b6a129ca4dfca1f61" data-requires-python="&gt;=3.4" >julia-0.6.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15835381-->
+<!--SERIAL 17078097-->

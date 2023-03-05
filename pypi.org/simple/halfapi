@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for halfapi</title>
   </head>
   <body>
@@ -67,6 +67,16 @@
     <a href="https://files.pythonhosted.org/packages/45/0d/8d49bf6968497ca052ff2694e21cee8f19179ef73e33eb8a99a7baf1d46d/halfapi-0.6.22.tar.gz#sha256=f24848a269294d3981129529610596005588e4e3ab213071458f75ba21c9a39b" data-requires-python="&gt;=3.8" >halfapi-0.6.22.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/ee/8ed3ff86ec6c9075e3999c7e98aa38593fac81b42a9285e0beb7d7864131/halfapi-0.6.23-py3-none-any.whl#sha256=9bbf3e2fb4c2a1478057b440ef6bac6375d3e8d3659306ca3b5c01e3d929977b" data-requires-python="&gt;=3.8" >halfapi-0.6.23-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/fe/65aa4b8d36ebe5a6f2db4115de8b5c7f244a961ed2def05889740133a53b/halfapi-0.6.23.tar.gz#sha256=491c05ea9aee4fd2760f99cadf4bc9427ba1aa0ca4565eea4edb9434605bded4" data-requires-python="&gt;=3.8" >halfapi-0.6.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/7c/eb21606c0cce40a7dba5c2683807d72b359527d5202257bcb6144917b6ad/halfapi-0.6.24-py3-none-any.whl#sha256=3b1aae6e5e9f9722e466541c3733daed02392deb5635d223452054a5eb4cdf0d" data-requires-python="&gt;=3.8" >halfapi-0.6.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/73/2c78803b5d1d37a93ae152facf65ae09cd02b476937c4252e5d2b6cde813/halfapi-0.6.24.tar.gz#sha256=c645866197d1541250299f8b5ed9fa0c906c2f53c3c042a111384c2647a9d1ab" data-requires-python="&gt;=3.8" >halfapi-0.6.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/57/0a31956f3ebe73843c0c680643b099b86677524ad9f6ccbd10b8f85b3702/halfapi-0.6.25rc0-py3-none-any.whl#sha256=9d88c7a140f9dc8da18f4295151078b11e1de4396a49f8680434de7c4971e385" data-requires-python="&gt;=3.8" >halfapi-0.6.25rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/c6/81af740b52acb610cdbc2c1ecd37ce762b32ea4e9d54bbca23b95986a162/halfapi-0.6.25rc0.tar.gz#sha256=85809fb80eccae16c4d62dbc57f51a1530e85a94ba34fe7a37125ce1b7a1c119" data-requires-python="&gt;=3.8" >halfapi-0.6.25rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/a2/c25a94ac6090d57548b6fa3d1c8f47c7de8492f4e01ed89d1c0c11a35098/halfapi-0.6.25-py3-none-any.whl#sha256=94e412fc34a2ef086818223b006abb7a873a0e943fad32406f0184094216a6d5" data-requires-python="&gt;=3.8" >halfapi-0.6.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/e0/b5cf13959608735a60a95d369e145d8ab743bb74a9b48c97c9e56aaa93c6/halfapi-0.6.25.tar.gz#sha256=89a832af2d88142416cd5b9a63333ea301e310c3da4376661ef6cd3653e1d5ec" data-requires-python="&gt;=3.8" >halfapi-0.6.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/6d/98396fe68b7e04a3a611c67ae715ed8313e6228aa9faff00d733054f2f9d/halfapi-0.6.26rc0-py3-none-any.whl#sha256=3c9cd171ab4a0a0c357231d9a169806a4ce732a8dc7a33edd301325f66137797" data-requires-python="&gt;=3.8" >halfapi-0.6.26rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/c1/4f6238de6bdd3fc7702e2a27ddb206aff20edcbc60b018725bfddc0fa78b/halfapi-0.6.26rc0.tar.gz#sha256=c8413515b6cec657e1ec6269156b2aa320e5bbcfead960347199e183b072c737" data-requires-python="&gt;=3.8" >halfapi-0.6.26rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/24/3c227ff5b720593238c12bda3fcaf35caa193ac09ebc1f84de829adaa731/halfapi-0.6.27rc0-py3-none-any.whl#sha256=e340dd6162ebaec80995b2116f5da785a1c0c645aa49b6b68c5f0945b8f62624" data-requires-python="&gt;=3.8" >halfapi-0.6.27rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/f2/5ba32283fafb4257cbcb5850941f4ae327a1c17476b6bbe9a6c026eb9afd/halfapi-0.6.27rc0.tar.gz#sha256=6c2cdf808af56b8b68f663bc41c31dfd78433231dae431861ebc8bd242aa412a" data-requires-python="&gt;=3.8" >halfapi-0.6.27rc0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16427246-->
+<!--SERIAL 16992341-->

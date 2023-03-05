@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for q2report</title>
   </head>
   <body>
@@ -17,6 +17,18 @@
     <a href="https://files.pythonhosted.org/packages/54/bf/5b13721197ae609967cf02ea22dfd67cf23b47e1a4f15889f92dc83b35de/q2report-0.1.17.tar.gz#sha256=ea5c9371f36b318dfd0f66e3c6a59fc126dc2c5b21ea118f3068daff3364b65d" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.17.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/13/dc67fd89c6b10002e830a1db1111fc5e4dd5b4af57c0771454bad7f93433/q2report-0.1.18-py3-none-any.whl#sha256=b297a4e18f63e520b162e3112e5627baf45818af243e970f4ea524f600007865" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.18-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/51/b7/53ec7ba9f3dd3735f158948d497f76e045f9df408273cf6c23c07ea4e401/q2report-0.1.18.tar.gz#sha256=8d7624f7bbcfe4fd3d608eef6ef9f07d80e17982ce68fd7db55e030692f7aacd" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/fe/82f9a74d1db9d1642901d7645c41b07e01ea46acef41f6aca2530ef7d482/q2report-0.1.19-py3-none-any.whl#sha256=db8a937d35e27c3557bccb64a867df25ec50b86688833e449e4f8e517e13cbbe" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/2c/2d814b1eeeee9fa0e2dd72c545dcb1b3a4b5fac8ad52d5ad00c3406785b2/q2report-0.1.19.tar.gz#sha256=ef3ca6bd60bd84ca4f0dfed7b3b3df111db5cfa07fc0ab9cd3042c8b1d8dff19" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/a5/6ed1a955c06e103d81b3281255485bc211c7eb76e6dd42735f677b61573b/q2report-0.1.20-py3-none-any.whl#sha256=827d9578ca4b141d916cd72478b4bf2757432fb09918be5c84241207fc237f3a" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/0c/1a649bdae4a0ff810b4d5e8bda0e6397957b409a76f217fcb4d03cfb12d2/q2report-0.1.20.tar.gz#sha256=e323056406ebb623729addf4c71b41e9241be4f8b7be504d75d9fb0c573420fb" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/7b/ffb39c4646a11faefff51b4bda1675e258bedaa513ec52f4997acdaaf17f/q2report-0.1.21-py3-none-any.whl#sha256=bc598f71905a0fd29bdcbdd45692a7e3a9f7f90ce3e294260e52d34c3b589e51" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/5c/f714154fb4ed3f9203c5bac158526bc5ab912b67a07e6eac125f72fd96c6/q2report-0.1.21.tar.gz#sha256=4385bb4a84d38204a37b56a20a9671500c501e31d2af9e0d5a53ad83dbacf37b" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/3c/7c00d05b2e1c909b3514532577ee3af78c799df4c05ee79059eaa51535c5/q2report-0.1.22-py3-none-any.whl#sha256=f00e1b5774acff04343b7cf26074e7bbf3a51cfb6e993ef0b14577f447d4cd82" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/81/c5435f4c8eaf61d15942cf6e83e73abccc5a2425af516d20d520663ad41c/q2report-0.1.22.tar.gz#sha256=fba32e77f305302a3ef1b7651dfa795d76713f2f4ef9686e1a800f39817ae2ab" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/8a/39cc4bb9ae1c0c98fbd8faa66e612b895caf59e6ef6d2994bbf738d588ce/q2report-0.1.23-py3-none-any.whl#sha256=9dc9d317cc9d9a48780f037a9edadbc6b8bd9fb22b5cad0d20923a5f7a9e3781" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/f5/c7dd213d5a4dbc3198810b495492ae85d5c70c04e7afd6959d1ff9d670f9/q2report-0.1.23.tar.gz#sha256=95514ceca17acd44ce77df17287f8ae12925e05e644a927622477e249258f574" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/e0/65465aeb5e5ca8a45a22d46203fb95b545ca47901985ac797a196a8bf097/q2report-0.1.24-py3-none-any.whl#sha256=74443c1f3d7317e1967ef18f37b7d615594e080a2f651ca88fd7eff8f1297bfd" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/a1/fbff09fdde6ad1c8dcec7e1f171e6f188167641eb1b3e79269c00459b6d8/q2report-0.1.24.tar.gz#sha256=7897b1c3154918d1a4a578de9212259ac197b79dd55b731507ca2ef26e82ac1c" data-requires-python="&gt;=3.8,&lt;4.0" >q2report-0.1.24.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16211739-->
+<!--SERIAL 17010655-->

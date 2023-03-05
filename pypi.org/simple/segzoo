@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for segzoo</title>
   </head>
   <body>
@@ -23,6 +23,10 @@
     <a href="https://files.pythonhosted.org/packages/ff/cd/4520f497fb9b0cc9442cb5e5f5e249e50747333e56fc9bad0344a37449a1/segzoo-1.0.7.tar.gz#sha256=78c86dfc1aad5ab4826973802a2d8eb35c6e0bcd055d6cc15dd946f7ac9e2951" data-requires-python="&gt;=3.8" >segzoo-1.0.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/f2/ac06afb0d007adc3c2ba1e6d38991eaba89895e335c806cfef6144ae8523/segzoo-1.0.9-py3-none-any.whl#sha256=e1f4f2ce9b3708e79584453f5b1da123c2890fb5a2e856ec3bc4bb822bd19bdc" data-requires-python="==3.8.*" >segzoo-1.0.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/66/41dda9f2dee075b3e7f2d4b87a3f3654eb5f2887e10772258a5dbe7a8989/segzoo-1.0.9.tar.gz#sha256=2f516cba94845cce3025d0fcb85b9c8bdb12306d58617491a36316bff0c85260" data-requires-python="==3.8.*" >segzoo-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/17/f3074dc2280eb8fedfbd927f61961282e0713a00b7ee435e72157aa13787/segzoo-1.0.10-py3-none-any.whl#sha256=3b6806b51c0fe7e5f7177d30085c7ac3007e91c61d26c83db800b341992eb752" data-requires-python="&gt;=3.7" data-yanked="extra file tmp.py contains non python code and can cause errors when installing." >segzoo-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/47/236e4154b5204a56f3e4a3d233c68ea3a027df4cdd16a682bfe24f295586/segzoo-1.0.10.tar.gz#sha256=1ef6f702308650fc1bd540fa0b0ba182a30be39be4eaa19b978743d0f0bb2024" data-requires-python="&gt;=3.7" data-yanked="extra file tmp.py contains non python code and can cause errors when installing." >segzoo-1.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/b1/7d7e1b57b165f54b4f28941f347e0c434265a250cbbf78ae36e926d45ab1/segzoo-1.0.11-py3-none-any.whl#sha256=edfbeb9723f8ddb3a01f8de71f2cb1985990e31a65c9355e375cf4bb4fcea2eb" data-requires-python="&gt;=3.7" >segzoo-1.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/a7/d2a3081650918706f7dd546b9a1e2c5cc737d41e3b381ac49d3ea9b9287a/segzoo-1.0.11.tar.gz#sha256=3422fc3e29320253e15bafef22d378470ed1d0d88b8364ecb553b756bb9a9d53" data-requires-python="&gt;=3.7" >segzoo-1.0.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15144715-->
+<!--SERIAL 16677078-->

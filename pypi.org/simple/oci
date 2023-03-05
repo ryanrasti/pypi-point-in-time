@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for oci</title>
   </head>
   <body>
@@ -440,6 +440,20 @@
     <a href="https://files.pythonhosted.org/packages/57/c9/2206a498e9be95332e9b3d119350e96564957a99a5e6dd360f7cf70a7159/oci-2.90.0.tar.gz#sha256=8724e9184cebed9f8a1c98b2009d086f60002442d28bcb6b355685b317c5d099" >oci-2.90.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/4f/e114aeed314790dd7c34028df3c09fb892bca587d3b13797d4016b03b396/oci-2.90.1-py2.py3-none-any.whl#sha256=3bf5ddba1cf03dfb6bf6f5834ad3494de8816384fda84ca72cfd48ef6ecf87a3" >oci-2.90.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/5d/a412a5c6d6e8a14e2c92dd9158b8245c8deb70e09a0502e3dd31ff44adc9/oci-2.90.1.tar.gz#sha256=e865b674eda7899ea8d39dbf77e96078521100bf28315dce72ef584436d3cce6" >oci-2.90.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/93/2be5b3bbb6aeb6ce148dc83689aa05abb55ba82de6cef8ac63b536523827/oci-2.90.2-py2.py3-none-any.whl#sha256=d1e6e5478da934448cbee91c6c71589d2f65bd600bc41b5c079507635c4e8c78" >oci-2.90.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/9f/aa4818d228e2a1d567f38be497107bd6ebbb22651e75a91afc73c37052ef/oci-2.90.2.tar.gz#sha256=7e1041d1c1160bd49c6e484cd1eb4a1c7609ab5925bb29941675bb918ea49050" >oci-2.90.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/0c/21b5d2d614808e1ad32932b714db33296828d3325852777eada730dbdbb1/oci-2.90.3-py2.py3-none-any.whl#sha256=ec7b8e301fba5fabcf6231b6f44e927372b796b5a4eca886954748cf213c79a4" >oci-2.90.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/07/32df41a10831ad10b4b1f4730da9f17fc989f9288a7973a540d31a4eca0f/oci-2.90.3.tar.gz#sha256=325e3ff501a86566b583c910f2aa218385de442a4d36367334c99a3455ea82bd" >oci-2.90.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/46/37c357618c12c1f66e21960de392ca93c6d6a7e676b48e73695a3735b3d6/oci-2.90.4-py2.py3-none-any.whl#sha256=9a7d14f49e05695c7ed300e8c3ed10427544ca3f6c770fa48c7b0d1bed41a137" >oci-2.90.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/58/811336d87ac0506c6ccfc3870f4911cc70aa3b92132bc8849295b09bd558/oci-2.90.4.tar.gz#sha256=5255663a461879831762029841a131e848977fa6aebbc7fae1aea9a6dd4a1401" >oci-2.90.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/99/f002735ae41938bf99c98a57636fc18fa6735885bbdfa8b3c32fe7520183/oci-2.91.0-py2.py3-none-any.whl#sha256=646a4f7c6a4040eb9d3729f3e39ff3ea3dfb863c378e1c3590eda6a5ab3f0a3d" >oci-2.91.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/10/b23275587038b17e57267d0ea7cecc1e6b6cdc2c743a0d51473111ad3b41/oci-2.91.0.tar.gz#sha256=78459fcd6ef542cc5f11b9d8f9aaf01513f167fee8b7976bb655545cd2355cbb" >oci-2.91.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/af/66e26db1805d571d8600f0ea28a079afc6a4568ae42a19ff6c47b45ab5b1/oci-2.92.0-py3-none-any.whl#sha256=ad3e20c84cf8467878c325098fc2d1157a7156a38249cd8f87f86a6616680a3d" >oci-2.92.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/a0/6355dccc9add66fbb6de5090d11245859d016dda63c2587f34d37268331c/oci-2.92.0.tar.gz#sha256=cedee8d35076396086a0a606cf08ad6da76fd835e8004dc70d0c0b2822c82531" >oci-2.92.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/fc/47db83f7796fdc8df65cd9e641bd38cb56cd36b34e7c24e888197c296a59/oci-2.93.0-py3-none-any.whl#sha256=1c57eaba48e79e400d29c12c9b2d0e0cdd83e7bb18a6339ead2d128c0e32b673" >oci-2.93.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/01/ac169ccc3f511fc36a79c79f01aae3602c5b875bfed2e21334b427b9124b/oci-2.93.0.tar.gz#sha256=fc39e163628b9fa7383da3df2ca396bb2bf9cc54be094cb6f5bf21067c8eb664" >oci-2.93.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/2f/33573e7708e2bac80ff642544a12178e920ab10da64288d535b3f8bc7347/oci-2.93.1-py3-none-any.whl#sha256=dfbd7673d06781789f1c588ba24e3a39868f109d1f972a7cd78a5ae3468480a6" >oci-2.93.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/5d/5b7b8cbe7a52505ca0ce95e28f58d7c7f56e44e8416287691dc3454d1d9e/oci-2.93.1.tar.gz#sha256=27e24551508ac0079620a39c0c7546dbd27e8e4a21e35243939266ccb1289634" >oci-2.93.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16369996-->
+<!--SERIAL 17073993-->

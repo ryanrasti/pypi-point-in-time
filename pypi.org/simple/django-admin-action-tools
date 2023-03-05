@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-admin-action-tools</title>
   </head>
   <body>
@@ -34,10 +34,20 @@
     <a href="https://files.pythonhosted.org/packages/ab/98/c27f4f1edd6a71fa59d047b587d579bad9d7d447f5a50b1269eb58acffa7/django_admin_action_tools-1.1.2-py3-none-any.whl#sha256=78a45cfe682bb53f745b7880db1d9b348efd1b4d44e697cadc30a2a9f79d6dca" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/b2/616e0f79aa53d302a1b6dd7cf440197f0cc1efc0a0480c7c7ccac999affe/django-admin-action-tools-1.1.3a1.tar.gz#sha256=88adbcec0f8a2a890d4d87fc4de176ca4e7b9d4b398806b41aeb0bcbac666b51" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.3a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/c4/f084425965654e11ccb8c5166ff641699ce5cf3c26e82acbcc954a962326/django_admin_action_tools-1.1.3a1-py3-none-any.whl#sha256=89caea0bce4f549d34089d89c04716cf210b4f8fb91bb13feb7b2506a6b421bd" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.3a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/a6/0b0b1ef1e95892f3efa645d4a29d287773bb6002220589be85e262ba147f/django-admin-action-tools-1.1.3a2.tar.gz#sha256=8b56a1498bb4166bb095584f4ce402c417ca259d3e8902ace99919745b079854" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.3a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/81/2444584d3b694f8398070f11485256a4f0199bd3aab1b2a50feaa9356fc6/django_admin_action_tools-1.1.3a2-py3-none-any.whl#sha256=1ffcba2b85d6272bd3004a99a3a53a4c9c8bedfbd709c592c3b4fcd3ad4c0e06" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.3a2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/2a/0edd0e26c25d60a577732f19ebbf000fafe7132edcc03f467201de6613cb/django-admin-action-tools-1.1.3.tar.gz#sha256=a7b9f4ef8bac814167aeab943933352ed248c61edfad19fe4260891eb609bdf5" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/9d/9d57ef73c30fcb3c5e7bb68692765389f893c155d4bfd6638251fa71552d/django_admin_action_tools-1.1.3-py3-none-any.whl#sha256=e031533e3a8c9821cfe1c427ecdb88219b2601f1cc4591d664ea2c108bb8d5bf" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/06/492887e7c3d078ac7f9d6d7fd7a28be904c2f5c4a9160189dd7f21be79ad/django-admin-action-tools-1.1.4.tar.gz#sha256=a76a292d732a7a6180c3ef8a1905811f1607804607c27ea6134a741396c0824b" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/8e/f5484dd424e2d206ade45da9a795bd6f45ee1a0763d2ad8825341243f1ff/django_admin_action_tools-1.1.4-py3-none-any.whl#sha256=cb519251a281cffd56218b84810a561d9867325e11c9fd0dd8c0dda4d9882e07" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/1c/ac86029ee3869bfcdfa25b0913a67a8551dd2aa0d5bc9a759c3c3ec74e65/django-admin-action-tools-1.1.5a1.tar.gz#sha256=713c3ab6f3e4fbbf168d5662411fc997873102d0c0c016161ef8b89b9ee1f892" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.5a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/a6/d22d2f79a40db96a0b364201358be3b3eada05f6a2e9d18a31d27d269f93/django_admin_action_tools-1.1.5a1-py3-none-any.whl#sha256=2765186dcdc53384d2f348803d03d00564dae5a6b2ac03b046dbc4c668460b06" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.5a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/23/000c08018cc1d24b2db366d9ca7e5c4064cad088c2188b26b8a6417f555c/django-admin-action-tools-1.1.5.tar.gz#sha256=b39c88646012f88622c5884fbe49afde16fd0854dca6c44671db5e303a782de6" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/ba/c4a49e1d25c1fb39017327f3bf5864a9fa92c6f4392b33eac9c2fb5a181e/django_admin_action_tools-1.1.5-py3-none-any.whl#sha256=bc3331b720100d4c9f00f5170c507a48eaaec947de298e8b789ba5a599bea6ae" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/83/c4668751fee6367ec63072f8fbcf7fa141d2e94cf27dbe40290b0fdb188d/django-admin-action-tools-1.1.6a1.tar.gz#sha256=00ec5ee602d11d4c471cbac1d54fa81ebd17fd216df9ca69983cded653362051" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.6a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/40/f94c33fb96885da016619c13a4cb37e848ece29307d9fceec122b7e7adb7/django_admin_action_tools-1.1.6a1-py3-none-any.whl#sha256=dfc04bbc4981128efb22a53da54bdaa803294756b652b3426fa0690bd6ed2f3f" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.6a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/10/3916febd7bb436576fe291a2a53d3b23533483df47ab783402d547c39120/django-admin-action-tools-1.1.6.tar.gz#sha256=6224cc9519a78980359052415c34a7f30ffceebdef56a4edec1561063c573790" data-requires-python="&gt;=3.8,&lt;4.0" >django-admin-action-tools-1.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/f6/720facab25b23a02234c48eb5401476fc76f0e108857ddece0f07647848a/django_admin_action_tools-1.1.6-py3-none-any.whl#sha256=742cce1086e8bf8728c478dd6452a7b003a01d53b87029e6b15c36cc4ac71f3f" data-requires-python="&gt;=3.8,&lt;4.0" >django_admin_action_tools-1.1.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16359493-->
+<!--SERIAL 16943390-->

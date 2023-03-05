@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pysdd</title>
   </head>
   <body>
@@ -24,6 +24,19 @@
     <a href="https://files.pythonhosted.org/packages/f8/22/11837147dcf1bf74c127084c495746403611388fdd2170c7905385524017/PySDD-0.2.8.tar.gz#sha256=e6b219235871a0d57cf8e1c3cf4dd7ac6151ae5501e45d12c0982e4aad9c9180" data-requires-python="&gt;=3.6" >PySDD-0.2.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/cc/efe22a49e83c0e8296240eea447a0c0b69669b566bafc6f50d1bf1741dd5/PySDD-0.2.9.tar.gz#sha256=db8ad98ea2f2eb0d13583bb2160666312acf991c65b57d976b13d966b0049bd0" data-requires-python="&gt;=3.6" >PySDD-0.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/5d/0bc570dda1dec89de5c1b7954aede5e0690fd9baee282ce20a27cf69f700/PySDD-0.2.10.tar.gz#sha256=ddeaca8a140e6c87c2f4f6d8b7e3260b5089e12fe7565d714523f66d233bb1d8" data-requires-python="&gt;=3.6" >PySDD-0.2.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/c0/9afac5d24007a70a12b58cab9d1efbf41e58d27d28188720af51f8b0ed1e/PySDD-0.2.11-cp310-cp310-macosx_11_0_x86_64.whl#sha256=25a7c18a7a2eb033becd3a328c0d62c736e3bc9ec6233438f396322c2ca328cc" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/62/1d20609aa9de542781b24ae4e19419067839f1010ce4359a484a803143a2/PySDD-0.2.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3fd1ae873fc0d28ba178e9f7ea47e2e0bcb1c03c75dcd1069e9cd40baa891592" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/93/536261f6a333e855085d4e789cef3370554cc7b5079dd650448164b1071b/PySDD-0.2.11-cp310-cp310-win_amd64.whl#sha256=ca9953810fef638b0d25d2db0eaea1ea9cba861efcd267ac717c0f11da7e82cb" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/53/1a07f4c708e96a42ca528462768b5c58bff99a3c4e7febf2e8e103d68528/PySDD-0.2.11-cp311-cp311-win_amd64.whl#sha256=860244fce8b0e21cfaa93503bd799e0ac7260b5551508601f8396d91c578112a" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/b3/23cfa9b7f118eadea9373e219c0a73881eea761f57d14912abb24a376441/PySDD-0.2.11-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=4520e5e95d815a61398e3189fb70e9faad8dfbe56fe256bf3a5f2675c9ea29bc" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/a7/7f83a9f9e6814a10cb3130e6cf47cc139ba7c83643ca7335a9ef1685e1a9/PySDD-0.2.11-cp37-cp37m-win_amd64.whl#sha256=4df2e6cdbebe01a982fb5c7bdee5edc7f58e6cb32d192679d93b15b04628f75a" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/c2/1d65b3adc46ccfc7056dcb50bbc44b9fd8fa7da3f2aa5ec05c4e2fb44ed2/PySDD-0.2.11-cp38-cp38-macosx_10_15_x86_64.whl#sha256=040c8e401a644b45481a19141b9599ca82dcb60c03f0cb948ddd839016f1248d" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/a5/ae9bc67920a328be29ab8e5ee7a98dae9dee73c7c9a982458d50c90b0dac/PySDD-0.2.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=33ba2adca0844d0cb0462aa4960252585529a3a37cb2f45cc090ac364a805129" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/1f/29cb6ca20a9f8560574d18592fc63cd0d7b93f8f09f27ed27e2e99000742/PySDD-0.2.11-cp38-cp38-win_amd64.whl#sha256=24c59e2be75d53c41ab0aab0742d4bff461a51caac810bad4ff9187ba593bae6" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/f7/79d3e67d2bcf0dccfc0c7621113ac4b319acff419c11f8d9b770c8434f5b/PySDD-0.2.11-cp39-cp39-macosx_11_0_x86_64.whl#sha256=7e8ad919777d51a6be4ad91835900cc9f27bf1cce17d11b9a41fa34c2177b404" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/91/c09be4f78a7b863820201abb504ecf693de1a3667eaf1c793cfd9a93b515/PySDD-0.2.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=161a1204b9f3badda9c7bec30139affd7bcdafee56a8eacbb681c7bd69405fb0" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/4b/3e60b401b2a20e56630c366843279e1ffe58a572041479264984b1920be7/PySDD-0.2.11-cp39-cp39-win_amd64.whl#sha256=d7893811f4d941c0dec191a130bc4eb2710b9c9e423f4cd1afa27d90401fcec7" data-requires-python="&gt;=3.6" >PySDD-0.2.11-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/eb/26991dfeb4a9e6ffb5f2c51673e492b407a10de066836eb302cedd528d76/PySDD-0.2.11.tar.gz#sha256=c1ab11c8e3ce98fb415bb233a87834bfb57c5c50c12a509e4cbf2e496117363d" data-requires-python="&gt;=3.6" >PySDD-0.2.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 6624214-->
+<!--SERIAL 16651327-->

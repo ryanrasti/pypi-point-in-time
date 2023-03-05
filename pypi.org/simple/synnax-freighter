@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for synnax-freighter</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/ed/e4/db3a7430c85b89076b9212e3e6824cb562328ee050de7d4d15f5a02f7393/synnax_freighter-0.2.5.tar.gz#sha256=c2948749edf24f7755433c759e2c65a37ff4a0720ab0579ab9cf7e085ba86e4e" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/4e/f3f60192b61c316646494208f0276592afce44ea0b86d1c0baecfdf34266/synnax_freighter-0.2.6-py3-none-any.whl#sha256=2c3f2abd03c9ada3206e9158f42074c4758f0f022a835a604a659ef691212cd6" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/87/72f612c6acede4a100c851ea0f707e9ba9ef3df5cb57b541cf31bb5e6030/synnax_freighter-0.2.6.tar.gz#sha256=25bd6e3b67c173710920f46eb9baa9c1a5677f2cf4fae8815fd54d3941e3317c" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/ce/c40f46e8d1a1b0f7ce06ae06c3b06a0f95c1ca464e431ef425238ef3be32/synnax_freighter-0.2.7-py3-none-any.whl#sha256=ae73a04ec691dfd530754970b7b248a06a0cfbf63cf73ec5a594d7c553214f98" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/58/584dcb3137c08d5553f76b93034014f38156c625ec24e5b82ba008811baa/synnax_freighter-0.2.7.tar.gz#sha256=aaf16368a9a2b2caa2126b22a91ec15ac69a7cbc7951efa86261e64bcb795c00" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/c6/0c26ceca0ea904c29a3125dbc696c5997e287b158c71a3f2f0a85b456363/synnax_freighter-0.2.8-py3-none-any.whl#sha256=41a7ea905bb85c0050fd0c5581d293c2c832a370e336697b870e2b2099a6465f" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/75/495d9314ff48c75e3038dad410752f6ce248727530dfa419788b0e82c910/synnax_freighter-0.2.8.tar.gz#sha256=952bab44e177bc058454737667b6e9decb47c563a884656a3c3df28e5454589d" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/a4/af702899b79d5fff1aebafe726bdc7205eba8e5b3fdc163ee7b63f75a526/synnax_freighter-0.2.9-py3-none-any.whl#sha256=c2c8bfeaa0d5a110f63df4d19ac30534858786b60d08c6e769058b2a7508f404" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/6a/807f5022d2bf0f78b35f96b774a36bace6f361bbb9f9bdaf2e47f3243580/synnax_freighter-0.2.9.tar.gz#sha256=60c41fd39af7bdc869217de1a96faa5f14029c28531c3d701ba3e5dafd7bb482" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/8d/ae291808af93f4a3b226d4a8c3fc49117b7e02aa52b40b0f26f9832d9036/synnax_freighter-0.2.10-py3-none-any.whl#sha256=d20b29721ac2abcfd1d7270229827557b2a1d9ba65f50b68fbd62be068c2783a" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/40/aca5b38ed5a21d820a99ccb54271f89b49d6f0089e9c20f65d8b8a85ea89/synnax_freighter-0.2.10.tar.gz#sha256=ed1ed71f37560d23a7961133f6765f72acef3d3ae206181c029aa349c7efe55f" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/03/09a392920ed98b0511c4e695bd03e0bd1cd4eff3f4854b18afc47566426b/synnax_freighter-0.2.12-py3-none-any.whl#sha256=0075dac00f3947eefc0a13f9e7803caea1bfd05400db077815392d337c4b8e2f" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/67/8f35a7c4ec486c861a2a0fd4cb7978b16504a2f8d3e1c8412a086dfb6d77/synnax_freighter-0.2.12.tar.gz#sha256=b3c3b39f971048d69b59c18fca661de2007a88dfd279969cfed537cc30a15ea1" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/7d/838f5a72e0d881a61295465a5e44cff5d48b91ba2d5cd0bbbed809b265e5/synnax_freighter-0.2.13-py3-none-any.whl#sha256=f1737ebd39615dcab0ffd48d3c23cb3960c7958ea33d20aec717de9dbcb53ad0" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/14/003c564bedad65544cf05a7a9032166df4c289538b51934d7b842e863865/synnax_freighter-0.2.13.tar.gz#sha256=5c38365758d968486930e4552a6e69e05251e67d85af1bcce85ef722ce740097" data-requires-python="&gt;=3.10,&lt;4.0" >synnax_freighter-0.2.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16377397-->
+<!--SERIAL 16812052-->

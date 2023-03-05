@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for text-fabric</title>
   </head>
   <body>
@@ -420,6 +420,18 @@
     <a href="https://files.pythonhosted.org/packages/39/a5/1514c118a9cade1ae40a1e3cc54d6576de90529b76508baeffacd448840b/text_fabric-11.1.0-py3-none-any.whl#sha256=cc6f5dc9109f8c3aadf536030f3a3d5b4ea2b21c8e71072617c20a29b807793d" data-requires-python="&gt;=3.7.0" >text_fabric-11.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/da/39920c147e475af7a6a95b0de896f1661887671eeb3990345be99f464048/text-fabric-11.1.1.tar.gz#sha256=e028fc583d6a0a46099a392c29915d907803d1386f5e2d203a7a71d6fc4879be" data-requires-python="&gt;=3.7.0" >text-fabric-11.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/5a/35bcca9f08362b348c7e3143d9cd83c066d2d74787b10815f824d5cd5fe0/text_fabric-11.1.1-py3-none-any.whl#sha256=4677db82f033b296d620ea8c74dfad0100d527375084769be9c6d2c284d54ed8" data-requires-python="&gt;=3.7.0" >text_fabric-11.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/b0/2233ac91cfad32c6302a17d1652dbd9c15ac88a0715693ff261c47e888b0/text-fabric-11.1.2.tar.gz#sha256=70d7c3bd312d5729f0abc55bdad60c3b7267b6e034365b8e69ab0b8809baa896" data-requires-python="&gt;=3.7.0" >text-fabric-11.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/69/9bb8aefdf449bb84012ad90e56250457a78fe5279cf2af3b180699ec37a5/text_fabric-11.1.2-py3-none-any.whl#sha256=6cec05c1dbbd9f4e0a5b6789000ed6fe36b66027b411ce1020fd31dbc6182fa4" data-requires-python="&gt;=3.7.0" >text_fabric-11.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/17/5a7feb150ed847324897886ceeaf296e82facb6868ebf79cb165c411781c/text-fabric-11.1.3.tar.gz#sha256=a7358135112d48c5c4f64ac2f724b064fb58a37708884cf43ab54ba5784a1b94" data-requires-python="&gt;=3.7.0" >text-fabric-11.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/be/16e51c8e1bb87ca9e266b24d01f223d8629543f94207931dc183a755938e/text_fabric-11.1.3-py3-none-any.whl#sha256=4ef419257b446e873c01c36020e62f62a3ecaf02d00b600d3fca03fda0a8441f" data-requires-python="&gt;=3.7.0" >text_fabric-11.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/c7/1dffe2e832d3d81c7172bf677bcf139570c4abf3da2077562a8749f4465e/text-fabric-11.1.4.tar.gz#sha256=a4f715dc2bb00b7a721c1309baf1e80809e32dacbe16647eb5f64cf7fc00d5a9" data-requires-python="&gt;=3.7.0" >text-fabric-11.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/62/1f760045cf1a81b6a9773d0e4cc6d950a83c212e6070f3ba41f01ad77281/text_fabric-11.1.4-py3-none-any.whl#sha256=f1e8bc48fe4c3612258a90dafe1c2c0cdfbba0a6d8ce255fdaf57a1b511f7f00" data-requires-python="&gt;=3.7.0" >text_fabric-11.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/67/2f408a29028d217650e7536492c8069febf09bf569d74c7a6c8a14e7a5f7/text-fabric-11.2.0.tar.gz#sha256=42368573509fe57827b05449d8b41f66dc3b693bc0994b56427de7966d9945f8" data-requires-python="&gt;=3.7.0" >text-fabric-11.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/c6/0d6f42054d333f3eb3227f869f26c4f941b9f95b0d6278cb58c9cbdbccf2/text_fabric-11.2.0-py3-none-any.whl#sha256=935b184e92e00c5c9e155426152bc2a20578d223a660fcf0cd073fe33f4abe26" data-requires-python="&gt;=3.7.0" >text_fabric-11.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/9e/c957760fa4eb88dd21c135054cccd3c18350c6262ff2f0ca16778fbcf904/text-fabric-11.2.1.tar.gz#sha256=9b0d20c9f0bd7eab77ff59f747b6deded9bd8b2cb2be49fc2a1f97163a2112f3" data-requires-python="&gt;=3.7.0" >text-fabric-11.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/24/9e5881fdafcde48d85448ec65d8ddbcb30d16e082b3ec188613dcf138507/text_fabric-11.2.1-py3-none-any.whl#sha256=cbea758d7776e52873d6eb947fb7a7efc1a3420b10e518ef081a40704335e5e1" data-requires-python="&gt;=3.7.0" >text_fabric-11.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/92/8ae9a68474758d4a5f521fdfb66f88814c20a9939cc1287557016ebf0b4e/text-fabric-11.2.2.tar.gz#sha256=5ea1e5d477ba153df1e492db7d079b078ee4221cd0eab46200acd127b72a9230" data-requires-python="&gt;=3.7.0" >text-fabric-11.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/7e/ac4966eccc2b131a43095e11c96eb1abe14342473669fc6d55df9f97f93f/text_fabric-11.2.2-py3-none-any.whl#sha256=2ac5402441c1b6cbe80571749433d8540e03f1271f51b7fc88c7fc563ced53f4" data-requires-python="&gt;=3.7.0" >text_fabric-11.2.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16419362-->
+<!--SERIAL 16975149-->

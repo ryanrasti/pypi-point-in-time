@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for opensafely</title>
   </head>
   <body>
@@ -178,6 +178,20 @@
     <a href="https://files.pythonhosted.org/packages/06/7e/cbf0ac256379322547fd5ee687555238af3aac9cf671f5e260426942bc31/opensafely-1.32.7.tar.gz#sha256=84659dc3331bc8b3ce60d1b24dff9cbd89c23452e2363da13c7ae40f1a55ccaa" data-requires-python="&gt;=3.8" >opensafely-1.32.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/af/db/4e2a1499130469f033a08efd03a7593f7ecc6a1ce74486ebbfa282349c09/opensafely-1.32.8-py3-none-any.whl#sha256=6028c977094bb8c180fea30968a4065bd3f5092f32eeb1ff8b8029ce8b50c18a" data-requires-python="&gt;=3.8" >opensafely-1.32.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/65/0d/64ef74b0b1101013867f7ca2fd7a46e7f6fc34cc51089fd79907abd172fc/opensafely-1.32.8.tar.gz#sha256=eb572ff10703a5eb7a1db39873bfe2fea32499878110373726097c849f672bfa" data-requires-python="&gt;=3.8" >opensafely-1.32.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/4a/ea47c1140c3ec47d987493f04a3fad2cdf33e0d12fc1cc320aeaedd269a7/opensafely-1.33.0-py3-none-any.whl#sha256=3439162af1e8b511f48ea280a4f8af9569968f199d0414b02d8107762850569e" data-requires-python="&gt;=3.8" >opensafely-1.33.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/3e/f55ea794783d6cceffba6b5b59b32eba8789490f9fb455f0bc9d8633c773/opensafely-1.33.0.tar.gz#sha256=e79fabc2f0bb5e89b286e425c6d713ce8535fa62fef877ee0cc54e49a736f89c" data-requires-python="&gt;=3.8" >opensafely-1.33.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/f3/0d9d25a1402baca6d827b108c9f570af9a31f5c2787697f98843078ab17a/opensafely-1.33.1-py3-none-any.whl#sha256=484702681cb31037699f812596c6b0a7aaaeb6a83c45f53f565d947c1f9e2dd7" data-requires-python="&gt;=3.8" >opensafely-1.33.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/84/762981d2477258be6d0cf959166de1ee7a1dbb595fb4e5a718c9f925c87a/opensafely-1.33.1.tar.gz#sha256=02b32c8d4e789559ece149cd81a5064cab9cea6d9d80e816ab054d621f71310d" data-requires-python="&gt;=3.8" >opensafely-1.33.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/30/1c4e664599982844a5739bc7b86200347c596c254fa99876518a4cfd219a/opensafely-1.33.2-py3-none-any.whl#sha256=22c18a9feed58c3f4b76493b56ea6de75b8fd8ac5ecbee2642abcb0754cd3963" data-requires-python="&gt;=3.8" >opensafely-1.33.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/a3/bd2054d526873d5db8fa1de6b4eb1fb20710a28d25fa4ebb23672ad3a9fb/opensafely-1.33.2.tar.gz#sha256=62e05aa336df006375972812cb51d107727f3e106b5a9d1d125e80cdd723918e" data-requires-python="&gt;=3.8" >opensafely-1.33.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/ff/aab2f4bf4ec9ecc2de343868e2201be5ec37bd4809a2f4b65b3332daf131/opensafely-1.33.3-py3-none-any.whl#sha256=12347a8bbdc1bffbdc808abba832a0efb5cc8830b962b181659d74ef844d4d84" data-requires-python="&gt;=3.8" >opensafely-1.33.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/10/f742baa7cacc640584737287e6b68b62c5d13ef62609f824f58b28d3dcb0/opensafely-1.33.3.tar.gz#sha256=0c782d3129817d2bef8794889a00bc78ad22745328ae4949395c6f9dd520e2af" data-requires-python="&gt;=3.8" >opensafely-1.33.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/32/e26adc5c0ee517304ddf43f504611a14d2ae02e9970753c81372e06bfac5/opensafely-1.33.4-py3-none-any.whl#sha256=645c02f274347d9fd2de70df5862694a0e85ec19b7b3900a4cd1fc8f81140034" data-requires-python="&gt;=3.8" >opensafely-1.33.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/11/fd7e888fec83a8ed2ab64cfbfa2b0a8dfd8d70394bb9e60ac5cc2734504c/opensafely-1.33.4.tar.gz#sha256=e27fc05ecb46273077acbfb5349011513acd4719da73660e7c98de1e7d273a08" data-requires-python="&gt;=3.8" >opensafely-1.33.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/ac/25d92315a7880ad39a2a4921e634286637d972f9b38c07e134e409d3d0f3/opensafely-1.33.5-py3-none-any.whl#sha256=ee1d6a72ee7ff79b6d28c8e94f44d1a744aa2becfc106af273fbfee2b40f27d2" data-requires-python="&gt;=3.8" >opensafely-1.33.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/b5/cebb6f037854c97065e8bef66641b9f252014640b17c65ae61d9a6e33710/opensafely-1.33.5.tar.gz#sha256=a1ea474b7bb7673532e2c74a6094cff9074c63a6e4ca48bf4dc9df2fefb278c6" data-requires-python="&gt;=3.8" >opensafely-1.33.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/08/5cf73a0008984c12c6ca8fbe1a2b919560d58496a0367da8fe3c2b6b35cd/opensafely-1.33.6-py3-none-any.whl#sha256=bc42c3b886968c5c3412e22c0cee65a1187c547962bf4a6bd6e094bf9feb641f" data-requires-python="&gt;=3.8" >opensafely-1.33.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/b1/e499e81adcd0757b6e6eafc6429cb1374bfda49605502e37ef6b7983cadb/opensafely-1.33.6.tar.gz#sha256=13549cd6d3e14e3d28bc440b31cdb37a94f7d8dcc2c4466ef614bf44e957c2e8" data-requires-python="&gt;=3.8" >opensafely-1.33.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16417111-->
+<!--SERIAL 17126606-->

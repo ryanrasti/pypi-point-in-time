@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pybpsapi</title>
   </head>
   <body>
@@ -18,6 +18,10 @@
     <a href="https://files.pythonhosted.org/packages/ff/0d/ed1105fe8e0e4fc7c0550dde57c423a4ddf5c3d627011a5a3f557e152eb7/pybpsapi-1.1.1.tar.gz#sha256=b89ac3c52e924dbf5654876cec5b0cd58deb5bad0dba14d16184c0a20607b939" data-requires-python="&gt;=3.6" >pybpsapi-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/03/d1/dc40acc5086e54b3141c19cd2101488c7f2c3b9141db6f0fdc88771d1e2a/pybpsapi-1.1.2-py3-none-any.whl#sha256=bea9937aa190718ee69e33d66e0b7fc10704b08336f1d97f85b31ad10973c306" data-requires-python="&gt;=3.6" >pybpsapi-1.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/86/3a/b88066606a8ad5cc7d80d214f6a361391edee77b0f9579fc42d92ab16a3e/pybpsapi-1.1.2.tar.gz#sha256=bacea62b30dce43dfbfc336c656b74d82930996d6ac70e48ef7b2b0c00a0ada7" data-requires-python="&gt;=3.6" >pybpsapi-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/9e/5de93ee0a4bf13126ba324915dad37dfc83ef2238c4828c7cbcc2cdff3c0/pybpsapi-1.2.0-py3-none-any.whl#sha256=6ebfaf2f7beec625640667522c5adea8593c07056afb2b48ce853454f0f4579e" data-requires-python="&gt;=3.6" data-yanked="THere is a major issue in this version which prevents a Database circularchecker to error out." >pybpsapi-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/cb/b015686678e05d0daf43f97e0b3c2c9b7fd8254fe66cdd756a1ae77aa1f0/pybpsapi-1.2.0.tar.gz#sha256=d5372ec5e99d780ba880653bd1ad4e2efb7789be71f18abd2d77be03e99519ca" data-requires-python="&gt;=3.6" data-yanked="THere is a major issue in this version which prevents a Database circularchecker to error out." >pybpsapi-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/77/5b1bcd6207cbfb3b71c2295fdd1e5d38cb9a66dc2d5e3d5db3bd27a7c0fd/pybpsapi-1.2.1-py3-none-any.whl#sha256=1a830829b63cdf67f3bdcc83a16f7b6ac234085b5d38c7e6df1be43afbb056ac" data-requires-python="&gt;=3.6" >pybpsapi-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/6e/0415bde532f1149c49ddbc01fab7c86c257d08e064f21563f10525e05844/pybpsapi-1.2.1.tar.gz#sha256=2494c5252a131ce44e45bb39886f6b036486d2b17d8090ff81166eb564077617" data-requires-python="&gt;=3.6" >pybpsapi-1.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15790189-->
+<!--SERIAL 16460482-->

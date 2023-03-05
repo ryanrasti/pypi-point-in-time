@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-indicator-kernel</title>
   </head>
   <body>
@@ -70,6 +70,8 @@
     <a href="https://files.pythonhosted.org/packages/10/be/3a62b76d50a15f67cd6a92e60b287b1448c39c4939201ea89b7ea39b0362/watchmen_indicator_kernel-16.3.23.tar.gz#sha256=5286ab9e970656c3fbdb59ac18ba3421f9d4900ee6957c3e1346477ea6089382" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/53/29/f1a559e091018f7d1b21b5d32107c69601fbf54a43ecc6b5eacb0f133872/watchmen_indicator_kernel-16.3.24-py3-none-any.whl#sha256=1665f68545b8a044a4d0d82386f4d5411b07f55a6a390f4f5f2e3a420bfd2753" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/12/25/49c4505b12bac8bdd051d3763730d946d1ef9b89af50ebe4b2b6ef4c21fa/watchmen_indicator_kernel-16.3.24.tar.gz#sha256=2f64afcc0c2264e6f55cc45c4ca68f554db4ebd4ee247a21c9233443e71e1a9f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/39/2c5a41787f4212d62c8709e35e64e2873aeaed074ab1c50ad0f154f1d5f4/watchmen_indicator_kernel-16.3.25-py3-none-any.whl#sha256=5b8e23470ff1c6f460fbdb36622412bc604f196e8ee34565de743a0db1df4b0e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/3a/9f457674e376669306d04b2694c2632e43f0f0eea955d1a1f56a6574b21b/watchmen_indicator_kernel-16.3.25.tar.gz#sha256=5497f479313afc3ad842171fe0ea2482b36d59aa2dc24d53e403e9184a10e8ec" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/57/9cef9cdc212ddeeabc8827a2d79eeb050eab9e659c212423ccea1af5afe1/watchmen_indicator_kernel-16.4.0-py3-none-any.whl#sha256=1e774606aeba7b976736584af7ab36c032b618b021dac4b58ac86e7e097534c9" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/03/55f1dbb9604812bd1ed8a4b008101d98c2085e237095da7a905e1fad4e62/watchmen_indicator_kernel-16.4.0.tar.gz#sha256=6f9af1d5ca59a07661c65a3101929343dd5d528f8572ea1b2696fa48e4536162" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/14/1c/09daeab8eceb5444efafc909feddacb37dfd6aa9ead5bcbe280b30906008/watchmen_indicator_kernel-16.4.1-py3-none-any.whl#sha256=855c0feff8fba2f19b693d48e18248a91a0dc7cfde4cc52560e7991da26a909e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.1-py3-none-any.whl</a><br />
@@ -82,6 +84,12 @@
     <a href="https://files.pythonhosted.org/packages/dd/0d/6ae95a1bab35526ecc3bc1786fc66b444a9256a68dde4ba8e68af54176dd/watchmen_indicator_kernel-16.4.4.tar.gz#sha256=7023ac82f0c057f7c47c5f38c0b4a4b954179a553c52cffed113a20cf5971335" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/72/efb5f1ac37d4a9b6e84f0debfcdf834c75324b060ac91003f14e49422d2c/watchmen_indicator_kernel-16.4.5-py3-none-any.whl#sha256=2d64d7534c46413f4883a0911ff6a957bb94726357f7b9ded1652d531901e64a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/d2/04c12182d26831f3e6d70febfd925e2aa041cf1928a57fb0db81a1b2e59c/watchmen_indicator_kernel-16.4.5.tar.gz#sha256=a33547cf6b7579a540d22e2131f7da760a41a016ec177a1bbbd51def856e02b4" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/1a/47859be4a646373139e204223e9d2a4a183a2db35ebf6bade57b4f86628f/watchmen_indicator_kernel-16.4.6-py3-none-any.whl#sha256=dea474b41d01f987b02a1a49b4db96e740c8c465c5efae808998f265f222e70f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/e4/0cbf857fd41fa151f9283e20e54bb35e0f76e25d824e710d512f95b26d0a/watchmen_indicator_kernel-16.4.6.tar.gz#sha256=b099e8f0898b836e547f3fec69c9ad954c99dded06b655f70eab6fb245671e0d" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/8a/017c9c26af45ba72128dfc3451d717a5222efa9f471f1726bab53cd9bbc0/watchmen_indicator_kernel-16.4.7-py3-none-any.whl#sha256=8fbc022795cf4b758b6dd2950879ad8391ea73401b094ac8d3f8e5d20ca115ea" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/d6/5f3f56b0b3f90203e17901f24e2aeb98faa20d4e14f09bb991ed853fc7d8/watchmen_indicator_kernel-16.4.7.tar.gz#sha256=12a258709d02575be2316b702c5318e73497c0a8b8f865485ee20f9cc5a1af93" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/1c/2d9df58f2212bf6f223e5fe4fe1954750b58e92633270f85fef6a124132b/watchmen_indicator_kernel-16.4.9-py3-none-any.whl#sha256=b8b17c57d087462c744e4d8227da356f9eb8cee86b59d9ab52f3a606c7d036dd" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/8a/839a1df59bd5f34ef07f7527353d1534f14eac486b0691e4e89ab85e032f/watchmen_indicator_kernel-16.4.9.tar.gz#sha256=f93a65556bb859ceb2ff5070a772a60e37a62f167b85952f74114c0afd9a63ff" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_indicator_kernel-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398901-->
+<!--SERIAL 16991590-->

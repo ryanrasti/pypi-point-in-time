@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bemserver-api</title>
   </head>
   <body>
@@ -24,6 +24,26 @@
     <a href="https://files.pythonhosted.org/packages/ea/2f/be257ea0b3f2b025ca45f81891b9a40e3e6293ea3d37ac0b7e4c09f0c710/bemserver_api-0.8.0-py3-none-any.whl#sha256=0b5b14d4d3918ba3c3c54ffb3b4714d8c40f230365147366156c64ecd14877fa" data-requires-python="&gt;=3.9" >bemserver_api-0.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/e7/77a339a63998e92a93bf92e8d87de9152b25180a76f0d202f8550beef516/bemserver-api-0.9.0.tar.gz#sha256=c61f01a73a6266880a5540ac7728de5c3cb588aeaa05a2264be701b138c6bd4f" data-requires-python="&gt;=3.9" >bemserver-api-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/be/c3/5f6128ab0a0b19f51f0a314b6ed232a27567c136c7288412c977b69bb5c6/bemserver_api-0.9.0-py3-none-any.whl#sha256=f9cf2e55f9243be017ebb3c67d499a219d9e3e9aecc5c3ee789b3aa438dc2957" data-requires-python="&gt;=3.9" >bemserver_api-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/95/8c79b8b7a819ced97a7d9c820484b877abeaddb002920c24827814defb6a/bemserver-api-0.10.0.tar.gz#sha256=016486af44858786e3ebee122742be9dd5d823ce002a35bfe1f46a6667aaa850" data-requires-python="&gt;=3.9" >bemserver-api-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/93/9d6fad18e9e0340a550d6c538854078a4ad22a25759ab36b0d539b77687f/bemserver_api-0.10.0-py3-none-any.whl#sha256=d512faa1789a9394bf0376faf89ab8a84bb93632e9705b767a084e1887867853" data-requires-python="&gt;=3.9" >bemserver_api-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/73/5316988fa38fa39e2ca685867404980fafb4fa8ff6e7db6361ad6c79b891/bemserver-api-0.10.1.tar.gz#sha256=8ef33fb2e379c73aa3dc21977a87a6ff5bead45b76818735111e9043965fc660" data-requires-python="&gt;=3.9" >bemserver-api-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/f3/7b40147a040e8a3eb20c31015ae62c6ee88ffe4a671c9f04728281338822/bemserver_api-0.10.1-py3-none-any.whl#sha256=fa15b4d3ed2b5eca9434b3fb4322219b4e3e4c7b4ea0603acec1010773c13b2c" data-requires-python="&gt;=3.9" >bemserver_api-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/ac/9cae698763f153370944287e4eb069224c5533ff971aaa699e23346f226b/bemserver-api-0.10.2.tar.gz#sha256=d74a6c4959f6ec944852a5aac0df924bfc7d03c934014699101f9f5796629e59" data-requires-python="&gt;=3.9" >bemserver-api-0.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/ea/e3bced45de2fb11265085488e435360fadadbfaa6efc88007b5d3732d038/bemserver_api-0.10.2-py3-none-any.whl#sha256=a2ad9212899c0ac05998dd0dbe377cc0581dcec6504477bb246825c45e12a7dc" data-requires-python="&gt;=3.9" >bemserver_api-0.10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/ea/4af4c6eb57cbbf8f7b98f556dd0043be6c69fb0a99cd5cd0490b96041ce2/bemserver-api-0.10.3.tar.gz#sha256=7b8d3cde7beedb734dcef09e5d1d324c6e17a45c5eef5cafeec7e2757bd6737b" data-requires-python="&gt;=3.9" >bemserver-api-0.10.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/77/3af54b8a01ab8b54265f5b6fa73e897e66b2f895a9218cc52fb3a8386e2f/bemserver_api-0.10.3-py3-none-any.whl#sha256=7ea8acddb4e02b76a126f6be70eadf72209070e18f24f31dbbb2122bca8bebef" data-requires-python="&gt;=3.9" >bemserver_api-0.10.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/d6/a4e960065feadbc302d562e83807c31e078d6877661b2310273240aa3cdf/bemserver-api-0.11.0.tar.gz#sha256=7ef522ac60a649a68cf97c5687ae3aae82fe52b74c62de2bd7acbea5136c9ce3" data-requires-python="&gt;=3.9" >bemserver-api-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/22/465aa3e84cffc9787fcb861e4dcda0fe9f2249ac9061d37818fa3d6c0180/bemserver_api-0.11.0-py3-none-any.whl#sha256=4faf0ab10b336d02db688c7e6a518ce9a4def35ab4b08ed9728d76de8af6272f" data-requires-python="&gt;=3.9" >bemserver_api-0.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/a4/55c9d09b800c5b5e8f06dee0dd337ab67ca351bfd62ef1ee549e95cb0ead/bemserver-api-0.11.1.tar.gz#sha256=9a0c479f17084951af76319e20d4f09126c24f62c34672e5261b5d484638e084" data-requires-python="&gt;=3.9" >bemserver-api-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/f8/f37103a4a4bf7cd9f403d4c9390e8b25ec6d57a3d7cb1579073628b4719b/bemserver_api-0.11.1-py3-none-any.whl#sha256=ad0b2991d5beddfe5215a9281f51e5cb0c16bd9a022ae46c85a00c285ed736d9" data-requires-python="&gt;=3.9" >bemserver_api-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/e6/0b7acb6b17f43f07123f4cb97a7423dae94d576da93e48064f4f220bc306/bemserver-api-0.12.0.tar.gz#sha256=0e2d4bdd3c4907664756a0fcacd014aaaf516dc7a70735b1f7721825329e92f4" data-requires-python="&gt;=3.9" >bemserver-api-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/cd/e87de2774d2fed17fd105712536aa3fac9324207c94ae93a9b33bbc1eb95/bemserver_api-0.12.0-py3-none-any.whl#sha256=5302d2f960c63e863b819ee3a9ddf9e118c495da93abdcc904f11530b74cfee8" data-requires-python="&gt;=3.9" >bemserver_api-0.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/92/e6375c9072d7088e173e42e2e88e7ce1596464461e83ab2fcda27e03fde2/bemserver-api-0.12.1.tar.gz#sha256=a69966c1a41fca5960283bc99b5f2fb795cc83587515a7e7ad603512da794faf" data-requires-python="&gt;=3.9" >bemserver-api-0.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/a1/72af71255a0ae0fe10137344a8bd8a174f68b39801a1764408f3524e3861/bemserver_api-0.12.1-py3-none-any.whl#sha256=9d274592316bd08724d5ecefca16d2fe18dd63a84ec685c33ea1f000db16d49c" data-requires-python="&gt;=3.9" >bemserver_api-0.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/9a/8d03060d4a5805c5ae1e26ec4a66c25f45ca89bf0e12a3a60a0cf119afb2/bemserver-api-0.13.0.tar.gz#sha256=50ddae33b51d115eaf58bac2406bb18b8bf3ab674ae7d1985f1738b3e834e246" data-requires-python="&gt;=3.9" >bemserver-api-0.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/26/3025fdff2f0707a58d701bc5c16f2c6fa65365de970b4cca8c4da0af588c/bemserver_api-0.13.0-py3-none-any.whl#sha256=54095b2447209a4864bedab67fc4009915eabd8fe035d59866fc25de5593adce" data-requires-python="&gt;=3.9" >bemserver_api-0.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/c3/c7a9216be52879791f595765c93a1488faccae59ca73ca0b3991d50608c7/bemserver-api-0.13.1.tar.gz#sha256=f9ee081d1fc5aff6f0fcb26c57120b6248a900125e95916cde7e10b9fb636ba3" data-requires-python="&gt;=3.9" >bemserver-api-0.13.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/16/f4d3d4a4515ff6f92cc5c9c67baf2be8c30f3dbe38cbbd3431e310cad6a1/bemserver_api-0.13.1-py3-none-any.whl#sha256=6ebcfab56a032ba4cf63b30a7cc5ca22498fa9ffdc8ce072671af32666d760d6" data-requires-python="&gt;=3.9" >bemserver_api-0.13.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16401797-->
+<!--SERIAL 17144443-->

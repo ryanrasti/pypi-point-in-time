@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for buffalo</title>
   </head>
   <body>
@@ -25,6 +25,14 @@
     <a href="https://files.pythonhosted.org/packages/13/3f/d44e7a26eeeb6930480a5ccc6d81ac7960abaac6971452e1fa3a10f0f083/buffalo-1.2.2b0.tar.gz#sha256=9123854ac64e88818f38faed71606d29aae301806766478cb932787363f95086" data-requires-python="&gt;=3.6" >buffalo-1.2.2b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/98/04/05877432564e1da564f599bf3d3e54215db2f66f38cc74f9b2ef10998bd6/buffalo-1.2.2rc0.tar.gz#sha256=4562bac65ac09b8a2dc2ca387f06218e16811e149a0d347b04831291bf83d557" data-requires-python="&gt;=3.6" >buffalo-1.2.2rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/dc/b5b4ea7b84041facc98239a0502ad36513f5f940dc1146abff0a78f002f0/buffalo-1.2.2.tar.gz#sha256=fd618cee892755553e45b203a316e47dab7735e56849f9ee79aafa4bd1a6d270" data-requires-python="&gt;=3.6" >buffalo-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/fd/29d1aba23f7f325eeb30d2dd21034f322cd113dafecc96e3882ac29d8e50/buffalo-2.0.0-cp310-cp310-manylinux_2_27_x86_64.whl#sha256=aa9a42a3c16791d1407328d0d68a6eb157cafa63a30c995b1391894fa014af2e" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.0-cp310-cp310-manylinux_2_27_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/e7/d414a0f81fcdfbc3d083a83eb4d021f894bac10b7f216dc006cb7dbf812e/buffalo-2.0.0-cp38-cp38-manylinux_2_27_x86_64.whl#sha256=c890e1d66398ea07023fb7a958ff432ab70390caf294478ca21e3af3b760518e" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.0-cp38-cp38-manylinux_2_27_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/49/b323c96bbd8cc699c38fab6c2d73f815821df10a85baafcb02f9d7a7a131/buffalo-2.0.0-cp39-cp39-macosx_13_0_arm64.whl#sha256=0b58e7a271dea42c4a590a21a701e555224631df6cfcdf27f4a95f255a431434" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.0-cp39-cp39-macosx_13_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/89/16db1112d0c34392a6d5e3e650b56d09efcd3bee0a196ec4c579ccff8e0a/buffalo-2.0.0-cp39-cp39-manylinux_2_27_x86_64.whl#sha256=c10ba05215c07fd046f44a81ba921d2452bcb62c1e376137dbe7aa2970f6c6bc" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.0-cp39-cp39-manylinux_2_27_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/8a/c8ec57142e6ff1c645dbaaf12b76021b204713b5d37c0111b394f2f297b0/buffalo-2.0.1-cp310-cp310-manylinux_2_12_x86_64.whl#sha256=e158afcc1f01602f5f7cf8c15512dc784247a05dc864b7990ae717260de87db8" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.1-cp310-cp310-manylinux_2_12_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/b0/2b7600ebc201c304f22972fb0754be341034c7424e2b159c31b756d33a10/buffalo-2.0.1-cp38-cp38-manylinux_2_12_x86_64.whl#sha256=016c27cf6526df930ac856fa0488e0323ccaedd8e8c845400a65a7a846c5ae48" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.1-cp38-cp38-manylinux_2_12_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/0f/1ecaea545279292d39962ec3475da8dc968ecc37de2a92223fb770042e84/buffalo-2.0.1-cp39-cp39-manylinux_2_12_x86_64.whl#sha256=9f846b1301f2eb343116b3ccd0abaf19171b94d1d6d13f7c6ea0d7495e9378ec" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.1-cp39-cp39-manylinux_2_12_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/d8/fc8b4bb8f4823a38ecd303fd89226eec907ad2989e07fbd06f1fd2bad937/buffalo-2.0.1.tar.gz#sha256=ca8bc72670fde01b082426e90f84485d9d42a0b9953eedd5a9bcccc32733538b" data-requires-python="&gt;=3.8.1,&lt;4.0.0" >buffalo-2.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16314827-->
+<!--SERIAL 17139962-->

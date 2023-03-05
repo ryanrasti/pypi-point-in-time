@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kuzu</title>
   </head>
   <body>
@@ -22,6 +22,21 @@
     <a href="https://files.pythonhosted.org/packages/ca/50/d12c5d50a765e8a1c3f0ba0cd1ea1aa6c2952929305d8d5faeadcd8e9137/kuzu-0.0.1-cp39-cp39-macosx_10_15_x86_64.whl#sha256=37369d1f52bdf4b396519f64c41574bc590785bc49630d784a48d9ab9a75ff06" >kuzu-0.0.1-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/8d/6065ac5938debe67f0c1e89c668cef2d4527a860cb61e478388c3544779d/kuzu-0.0.1-cp39-cp39-macosx_11_0_arm64.whl#sha256=1dd202dd40633c52cda863cf2a1e88cb934acf18ebaac0c88791b1de15368ca8" >kuzu-0.0.1-cp39-cp39-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/1c/768e117e96e0b7f70c650d3f5212c329478f29c63cbfc5957b25941160c0/kuzu-0.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8c8c578a169d07b8beab43c94a6c9cc40250af096733d21797d3b079639df520" >kuzu-0.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/d4/d20a20f8fdc53e3c08f673095416e3ab40e661ad10cfe23851b5867391e9/kuzu-0.0.2-cp310-cp310-macosx_10_15_x86_64.whl#sha256=0b737564bdc2deb7570356e862d55ad1564a3079a7de336c0659ab80798736a6" >kuzu-0.0.2-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/a8/c161013e79ae4e59ba66020c4ada3372944271937547e608fca0d69dc254/kuzu-0.0.2-cp310-cp310-macosx_11_0_arm64.whl#sha256=7365200633bad4509dbddce36007fcc9fa094b8cc5d35a6d61a129a88cd8de02" >kuzu-0.0.2-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/9a/edfad7275c362ac3a154ef093e375afd15eaaa21a5d52a1fef8363d9b525/kuzu-0.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c8793cd2e7ad8fa4b5e11afe733166548f35d8979864a1f5985ad16d33b2fbd8" >kuzu-0.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/58/aedcbcded283d1cf9fd5e588c82626d89e018a42e1928983d56e0e121ddc/kuzu-0.0.2-cp311-cp311-macosx_10_15_x86_64.whl#sha256=9aab36f4ddc7f2cb88a44b212a697b34c48d4f920972afaf2695ebb97d1c4537" >kuzu-0.0.2-cp311-cp311-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/08/df0b04413bf9c1f25c6a278afe601425d87e2a92ef41e228c865f3564c91/kuzu-0.0.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=6b15bbe4f42ca878e7789e05e16413f69133bd50879f63c7bc244c640ed6afca" >kuzu-0.0.2-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/91/63f82c6db342debd381e6f75a75769069135c49db8446f0a30c8cd6072a8/kuzu-0.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ee6283a93b3d0615b4ef68cfa49c8325063a631b5d005de0360d401cff6709b4" >kuzu-0.0.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/be/865a3aa4b47dff6ca31134ee5c9c18cb2b26cb171a335529880362fd341d/kuzu-0.0.2-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=6e7c75a950374b44974033c73f87658455c1182064cacd84d9302611acd5330a" >kuzu-0.0.2-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/5e/06799ecb024cbde32cb83a0550dcff991489216bb5e56c1cc7b70300ff1a/kuzu-0.0.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b063bf25e3ab78b9db52b1b77e3304a526b0660783cdc18235a1e95a69083e55" >kuzu-0.0.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/07/1baaa90f96f050eab71f68aa1b98315cab176cbf6f7b3af39c8560b1ea03/kuzu-0.0.2-cp38-cp38-macosx_10_15_x86_64.whl#sha256=03912ed3ab190207e2171e13442566f266dec8107d8554e8e81c6da086ee8252" >kuzu-0.0.2-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/b3/202d7552aa913ad1796c6e2ede311e8ea05b4e61a0c646a0db7417ad2094/kuzu-0.0.2-cp38-cp38-macosx_11_0_arm64.whl#sha256=899731665564f83898bde9cf957d7eedd769001da0e0af507c86a46ac495a08f" >kuzu-0.0.2-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/fc/61cc978c1b2a9f3911b1c3e9730396d4974e656c0a2051d52e4eef59b351/kuzu-0.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4eaa2f8c590df9c6e5b454fb3dc458cf75178b2fab2cd2e4802b276b674579f9" >kuzu-0.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/64/84fbf5a413e175a60e5680b804d853b607d50875cda9f3ae6affb110c109/kuzu-0.0.2-cp39-cp39-macosx_10_15_x86_64.whl#sha256=1326beb2167949b7f256966a3479adc2a354a0385aada08e7523cd0ae19888c2" >kuzu-0.0.2-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/7a/d0c7790fc7819c80311adecb138eec8dfbfa43155f887dc659237ff30665/kuzu-0.0.2-cp39-cp39-macosx_11_0_arm64.whl#sha256=7e86dd98d2f313bd777c6a09f4873143f00ead6830dec08acd2ebeee9a5ca0f8" >kuzu-0.0.2-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/3a/7a1b6e6938912a9a1a91a566d22f7a12bde19cfb0f9c5d121d698922f5e8/kuzu-0.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e19f0f1c0799cb23cf666b8b389b34b2cd9dc9b508d87327c6e58dc9868b7fe6" >kuzu-0.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/4d/64e1bcb741fbae199c4a2162204179625c04c405e8215bc819628751b4d5/kuzu-0.0.2.zip#sha256=87d9e7cd55defee1c84799c81d73586a9461eaf0361fa9b20e3de39df0807f98" >kuzu-0.0.2.zip</a><br />
     </body>
 </html>
-<!--SERIAL 15771485-->
+<!--SERIAL 16828090-->

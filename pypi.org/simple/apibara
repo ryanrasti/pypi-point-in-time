@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apibara</title>
   </head>
   <body>
@@ -56,6 +56,18 @@
     <a href="https://files.pythonhosted.org/packages/75/82/5e0d06e9a4e11bc2d4e9af7f7f9dd94bfb596c4c9c1121084425a492d95a/apibara-0.5.15.tar.gz#sha256=bc99511ddfedcd7adf312bb6707f6eda17a6f6b1783469639a49f2a5c02db764" data-requires-python="&gt;=3.8,&lt;3.10" >apibara-0.5.15.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/ae/72ad963c241142f558ce4ea8b97154ba2da4bf7f2ffef1741f4fcf716092/apibara-0.5.16-py3-none-any.whl#sha256=a3639b8db55df61f3fe8b41bb9569d2f7565a848c95d7bbdb10e634b4cab1909" data-requires-python="&gt;=3.8,&lt;3.10" >apibara-0.5.16-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/16/10/f59d163815576b565145488401e37b920a750066785d6351f3d5f4d37d31/apibara-0.5.16.tar.gz#sha256=7054bdfa2bccd53e5eace81f853a6892512846dc313e760f39997d95936e380d" data-requires-python="&gt;=3.8,&lt;3.10" >apibara-0.5.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/58/0b6f3fecf4a4441820f304d39bb233d737ef6e4dfe6c81c46577bbe246ec/apibara-0.6.0a0-py3-none-any.whl#sha256=3a925a69de8a71cb95e8e05db963dab509c6056149fc73d2eb5e161e8c4f71f3" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.0a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/22/22fbf29913950d61c64e185795ac746173e6fc1992a0443692a3e00ceae8/apibara-0.6.0a0.tar.gz#sha256=013cb6033b7432254d5ce0b88b6e934b7e595ce1612a8e7baa944e91b988b51c" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/95/cc5d52784fc35f077fb49e16b7d442acd28f22202eb47727eab5c7a89b44/apibara-0.6.0-py3-none-any.whl#sha256=23d2fd22136d49710065721431bff6207d12422c7ca465872169c1e496992cf8" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/df/935b0e7af7db671680ce3a8c0029782ebdf007f6e0c5bdb3736c3a62088c/apibara-0.6.0.tar.gz#sha256=7760adae0a75133bcf3cbc213ea4ff85203b29de44aa370bdf4c6f67ed9a8550" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/90/a79833159b85ebd4077bbc1ab47693e4b7365cb55543aa2f156111aa3483/apibara-0.6.1-py3-none-any.whl#sha256=5307eb576bb19bd1da5a0992af9031260d761b4354422b3a60d0d3ad4f918617" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/73/2b6e014fc43127b601768ff1d2b796ef0678e5110446e547d5f0152d22a5/apibara-0.6.1.tar.gz#sha256=6e98be7d04a1fe9603975550a924055de100fa3c5f27dd3ab525c044b14428b8" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/e7/4e5bb73ff5eacc561946525492da95a402115b6c089039f4a526ce617d9c/apibara-0.6.2-py3-none-any.whl#sha256=07570fb2e6fd0f16d754075eaf6d7e959e157d706d463c0ba08e50a75dc592ff" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/f8/24925b4f85aef1711cc2490d3154bb062dc0c363298e9e5034ffc3bd1d70/apibara-0.6.2.tar.gz#sha256=340aad00d8ca6f41781b12ec9c1d12ed359a888c00d393a9f5c7e199c369de2d" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/8a/d132b0549a5f77bd21c71cc1a864a517f9bde585ab62fb0bf48b0de591ac/apibara-0.6.3-py3-none-any.whl#sha256=51a3ae67964991797ab08f2a1a37bd63aa1303bc7a180aefb7d55b4aac3adb35" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/e4/66cb5b131657efbf8e894f05705b382a50c5aabb05a86e2dd12317feb7c3/apibara-0.6.3.tar.gz#sha256=d1f4ab8bf0777ab82bbadda593c0478b70768bed2abf25d2ca96e88356910cec" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/9d/1ff761a0b4ae4012bf458290b5994ca8386d6f1a95e584cb78c111cd6fb5/apibara-0.6.4-py3-none-any.whl#sha256=7d5d78c8b21c18d03762bbf647892a5b64597d4cc52e204406ee184c1ff53623" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/c2/5ed1e4894f3bfeae75a43f23ba268a6ece7a10cfee7e8a9a5113a767faf7/apibara-0.6.4.tar.gz#sha256=9fe37bbc9372b1aa08927fda8204f71aeb28f07c9488cb46aa2a8c714d1c5478" data-requires-python="&gt;=3.8,&lt;3.11" >apibara-0.6.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15998458-->
+<!--SERIAL 17019053-->

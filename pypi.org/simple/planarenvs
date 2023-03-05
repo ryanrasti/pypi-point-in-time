@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for planarenvs</title>
   </head>
   <body>
@@ -24,6 +24,16 @@
     <a href="https://files.pythonhosted.org/packages/f9/02/778cd932a8a472e634bc784658ddccf48c1d9fd03aa36ebecfb07323e5c4/planarenvs-1.1.1.tar.gz#sha256=c1626684d4e187e494ee840a6976ed7b8ac37a322cb65ae6a52fe363ad2f88df" data-requires-python="&gt;=3.6.5,&lt;3.10" >planarenvs-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/8f/872123a11cb5884537f90dbb106cc6f275320231f427791a5c4073f7198b/planarenvs-1.1.2-py3-none-any.whl#sha256=ad99387d15a86a03ab6ebb2c506a59fa6e3a4743abfa8d307e13a463bfe34864" data-requires-python="&gt;=3.6.5,&lt;3.10" >planarenvs-1.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/52/b040e5b13b996d39a22863a9a99f62b922515cb0a9b6568590c67586762b/planarenvs-1.1.2.tar.gz#sha256=542e9b61a3525f88d68802f0bf16f9d7d2b6355e78be5b16d68429d1fdeedd9f" data-requires-python="&gt;=3.6.5,&lt;3.10" >planarenvs-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/fa/9e957d97225377ca5efd9a3c4457c6a5efde9c4702845b8aef5f5d3712cb/planarenvs-1.2.0-py3-none-any.whl#sha256=2b7300b5df5df06666ad299c19bc6380235f5532896303c651c16a47155d4114" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/28/b2db0e8bdfeed0ac4f6743ae823a52438ed92f62fc8b7a3540aa5285b2d0/planarenvs-1.2.0.tar.gz#sha256=47a56b7a775294f14aaf601f1b031e5d5fc49547df13d38b108112e70b636e05" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/81/8d918d5f33445608bef5c2893169a16d7823e4df29d00daf068d3b28f035/planarenvs-1.2.1-py3-none-any.whl#sha256=e200e88f2b70cd5ddf8b6f252bf92226f156d5fda2019dd249fe01fbf24357c1" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/c2/15b42fa8d78378fce86db6320cd0b093d37fc1ef888fbd9f05004967c65f/planarenvs-1.2.1.tar.gz#sha256=d20eb28222a3497b59bc6a89fed4cadd5702714d860f6a3008a54a05d1410321" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/6f/843a0d771427c0367f657728647975dd2e31db9548c9d68a942f16c100a8/planarenvs-1.3.0-py3-none-any.whl#sha256=b9fa1b4093debf8bb430bf187942b542aeada628744d20565251da1d9b5becc1" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/3c/b19680b8f98d726defeee9f0a77f8f9fa4b8f932421650db1e75c615c6d4/planarenvs-1.3.0.tar.gz#sha256=897e04f168f895c5ca08a59fa1066be49e555898bce569df6b470540b0924d47" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/45/52f550deba3408da30a2ed7b0408002ad494463af8fe60fd4ac1673699c0/planarenvs-1.3.1-py3-none-any.whl#sha256=ad8b5d36c21675e01551302da113795a997d6fb696eb628b2d1d4d6944c04402" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/82/9afd3a1b4d906dabc633db833fefa9f89b150d6f00508e8aba8fc17937ae/planarenvs-1.3.1.tar.gz#sha256=341039cd008937f042b2c7fce2bcb2797fb1e7e27e91c60c6aec9ec8b9855075" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/6f/db30d8278d8c1ce0865688cb8410109f004c3f1f5d83e3409171dad5f77e/planarenvs-1.3.2-py3-none-any.whl#sha256=69f3995aedcb17e811bf2f371a9d7cfe2d9f659a50f04959cec66658b260074e" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/83/6760b6abb70c0da5dd53a788d1a2cc95f77053721a22eb879683068e0aa9/planarenvs-1.3.2.tar.gz#sha256=13dfb37a1bf819bbbf87ee0b20e5f0e34c5fddea0ff8e823a1b45b5a58a0de37" data-requires-python="&gt;=3.8,&lt;3.10" >planarenvs-1.3.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15523949-->
+<!--SERIAL 16979059-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for idom</title>
   </head>
   <body>
@@ -160,6 +160,22 @@
     <a href="https://files.pythonhosted.org/packages/b9/17/ac0abe472c7111883b7db58e7abe83058eaf3ff02269bcc7802ca2a36141/idom-0.42.0.tar.gz#sha256=c7e9ec836a79c477391d7c669366b9c44a36be4c46d3629ef95aa62d7b606ec6" data-requires-python="&gt;=3.7" >idom-0.42.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/83/2b/01c2ca638a6acaa4ae4541406554626e05bca627d51348a8c49ed93d1971/idom-0.43.0-py3-none-any.whl#sha256=2b694146d506de959d34ae43c83aa3bbbd2d397d6c562b952e42d3d0a581fdc0" data-requires-python="&gt;=3.7" >idom-0.43.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/57/d7/9d75b3cf20408614195229b4c3c81db0517bfea681d5f543dd2c39d34ef1/idom-0.43.0.tar.gz#sha256=b5041cf0893e72403cc62fbe9ddd3f22cb14980660ec732c67cfdd05a625a070" data-requires-python="&gt;=3.7" >idom-0.43.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/1f/e21e9a67f21bb2ec2d251f4dcca21c4e2fbec3e0f2164768d46c04256636/idom-0.44.0-py3-none-any.whl#sha256=ed829e0aa2e37d29ea969a14f6e64cd6ffc6f8c5692721b504bfe3d5bac42e06" data-requires-python="&gt;=3.7" data-yanked="Testing dependencies are accidentally imported." >idom-0.44.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/4d/9e279809863d92cd91d84c041b8c4a9339e2f8cf3be3bb21d1e4c12e1b6d/idom-0.44.0.tar.gz#sha256=17df454579b0a24487eb2cddbc0caa557ad884ee9af5e551206649336d42cf63" data-requires-python="&gt;=3.7" data-yanked="Testing dependencies are accidentally imported." >idom-0.44.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/de/dc020d2c346a40fe57b505f6a37845548b2897aa2c8c0576c7f767deaf90/idom-1.0.0a1-py3-none-any.whl#sha256=5568ad41510b4b129d486f5b08d2eb9d383b05ab4b5add0c398144a2210cbc0e" data-requires-python="&gt;=3.7" >idom-1.0.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/7d/146c2f2f540e921feee620a99c0804abd8e5e99c5d2d5c47816126d01c92/idom-1.0.0a1.tar.gz#sha256=39b925f410fa21be864f02802f116c7e881faa7a0e29bc62691feffcb1949fb6" data-requires-python="&gt;=3.7" >idom-1.0.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/b6/8c42857c0b1100de84ce38709cf388ef15c36fff018f74d2dbb251fad786/idom-1.0.0a2-py3-none-any.whl#sha256=9153d409620be44c7d8d80c18ad59c6da9c51dd65717fa9b680fa8a0061990c7" data-requires-python="&gt;=3.7" >idom-1.0.0a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/10/f3321c64c4359e90df1d2e1205a8982b9f98fdbb1c7aab3a2126c6b81c52/idom-1.0.0a2.tar.gz#sha256=f59010d55beb5ecdb66be97e0739ae085e3584910357b1e92a974d95ffa59543" data-requires-python="&gt;=3.7" >idom-1.0.0a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/47/3854e725b28fa22af7827ea3d204ba9faf2a819e7f604257d14d5245ddd8/idom-1.0.0a3-py3-none-any.whl#sha256=63457034119d08c37c097151b6b114d391b674379396b6a10e27cee9e7b4cc52" data-requires-python="&gt;=3.7" >idom-1.0.0a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/bd/138130ac139770555e9a15d89970a53e1b20d4905d420401ac44aa285995/idom-1.0.0a3.tar.gz#sha256=786accfd01ef10a2701620d93c5a6af53485d41451cba64a05340bc3fdec6da8" data-requires-python="&gt;=3.7" >idom-1.0.0a3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/fa/7c6d8cfc2593fc9e2ffbef6ac379e192936ff6b611526d9bb154b677163a/idom-1.0.0a4-py3-none-any.whl#sha256=d12f83becb8b508577dbbcf014bc5fe2c0743a3bc914549a1a56763fc0a058d6" data-requires-python="&gt;=3.7" >idom-1.0.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/36/bf8fde58952c79f41b2567708a2928c40014c41d323b094f0afb3af095e3/idom-1.0.0a4.tar.gz#sha256=becb527e8763ae36feca3581e2d36240cdfa023f0f901cee8fbffc97b2bd8351" data-requires-python="&gt;=3.7" >idom-1.0.0a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/7f/478781c3e8f3fc9e155bed6955f510dc407fd740500f5a5e39aa15ca1c40/idom-1.0.0a5-py3-none-any.whl#sha256=81298f233d74a099d0f76880f9aee99dfd1089f48546edb48d6745406a5bbd09" data-requires-python="&gt;=3.7" >idom-1.0.0a5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/31/efdf8b35029fe256e7a8aba2ff8205729d0bfafbc7bbd476ab8ce4dd1de1/idom-1.0.0a5.tar.gz#sha256=3957131b66fa51e8bd15852354ded976453be798f574912add1d1bfc3f678ca9" data-requires-python="&gt;=3.7" >idom-1.0.0a5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/e1/0d90ddc55895cd59bf2287424d9b35edf1c63c1b7f7fbd6a4d73a48e2a38/idom-1.0.0a6-py3-none-any.whl#sha256=37109297ee88a735301306e275f9255aa1e5b517174a0b022fc857b83a6d8675" data-requires-python="&gt;=3.7" >idom-1.0.0a6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/95/c8e1c87be7399bebdaf4789835faf035ffd2d19b9c242411160697a7a8d9/idom-1.0.0a6.tar.gz#sha256=e63e8974543b58a4e255c7a4f9fef4e5af5bb1d028e09cf4578f4bdcdbabd1d4" data-requires-python="&gt;=3.7" >idom-1.0.0a6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/90/da9e0e45bf7f0a6cc7ae5fba364134dbe93765de4ca60a01f7dbaf20af9b/idom-1.0.0-py3-none-any.whl#sha256=eab867e2440cabd0a1773a075082394a6824249b3236ad2f17769dc207180134" data-requires-python="&gt;=3.7" >idom-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/13/cea4d931be8ac4e8fe58de55ce49f84ac5a19558e6d123eeb0840f9d02f7/idom-1.0.0.tar.gz#sha256=80980ed6655862f5c0e07af49e44a7f7488695a2ccefd335aac93210b5e30e8d" data-requires-python="&gt;=3.7" >idom-1.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16357995-->
+<!--SERIAL 17052565-->

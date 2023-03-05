@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flytekitplugins-dbt</title>
   </head>
   <body>
@@ -26,6 +26,10 @@
     <a href="https://files.pythonhosted.org/packages/25/87/1889963194fbd1a2b134a1b00a2640497aa66a50634002136843384cecd2/flytekitplugins_dbt-1.2.6-py3-none-any.whl#sha256=cde66436be209ae270f4b96f099c302a35e4c7c7efa1c1473749a89bd4981e07" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/79/0326b759103a16d820d039948b4c37156e59d6225acc1bf1d913e4ed5385/flytekitplugins-dbt-1.2.7.tar.gz#sha256=d805ba91651b731f6e1c86b9e945db83167f128b1eadfb0bb5e81d65bd4293da" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/dc/c8ca49b3a4b43f155fe87cf0ad8e33bf2ea4ed9d1dbd6f3172268f7c7671/flytekitplugins_dbt-1.2.7-py3-none-any.whl#sha256=fe8a327c793b82a21222f6d39e89d4f509a15df23f68c66c779734af3622b611" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/1a/7898648605df890299082e9e32aadd58bfe8578cfd5b7bb422bb67b2fb83/flytekitplugins-dbt-1.2.8.tar.gz#sha256=00c56fd7570f31992480450bca31a3a670d6853e0a224e5bf0159bc80e8d87b9" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/b2/8135e1b0d838998f8d2fabb1bbff5efd8c0152fdd9aa33cda33ed77e673e/flytekitplugins_dbt-1.2.8-py3-none-any.whl#sha256=84afc77121d3976c5841970b4bf41adb8920dbd65dd440d816d598a9512ac559" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/fd/1c353ac02a9cb9c73b7fe7da5ad3c0a809bc6d36b5baf3ff616a24e9ec45/flytekitplugins-dbt-1.2.9.tar.gz#sha256=897b8657cf00cf27ab195afe5eb98e331d0acda71c66eccb0cb2519b2156e872" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/53/7778bde8b251c2e33ab2ada62eae82e8113194070a1f7cae7c34fd37a16d/flytekitplugins_dbt-1.2.9-py3-none-any.whl#sha256=978d2d3ada83f7b75f4ed1f3b70f5579999fa71e2892af13794fb54806d71aad" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.2.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/e6/dc4f301fb641728a937d2e0a34160f50b688d1398a82d9ff31d463e50233/flytekitplugins-dbt-1.3.0b0.tar.gz#sha256=642b69eaa38500c89d1cfeaa6571ef7112dc8c57a868fca5902f82668e2b0b0a" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.3.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/94/1830a7f9b3ff5da4284c775871fb6a425b13e9001a785c3889a7b958b7b8/flytekitplugins_dbt-1.3.0b0-py3-none-any.whl#sha256=fe2c7875d4da5b3ed6f23174ec3053c40bdd7c1f73453482cf976fee49d6df30" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.3.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/e5/ef0e280c4bfaa7b18496c5a904513eda437476b7f945994724ade0eb290c/flytekitplugins-dbt-1.3.0b1.tar.gz#sha256=4ff7f93840fe39d7baeb5101fa47ea39267c871003453025c76d0d286c5c7283" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.3.0b1.tar.gz</a><br />
@@ -42,6 +46,14 @@
     <a href="https://files.pythonhosted.org/packages/87/69/d49572a5a23201a92941dbb8b93f865174f3dd8c99bc3c1b9a647e9bdd6b/flytekitplugins_dbt-1.3.0b6-py3-none-any.whl#sha256=cfd2aa362eb8a410a4f30df35bdcfbaca9a65a3099885236cb03d5114de64985" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.3.0b6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/7f/49bc9300066d2d0823cf89090c016bfbfb678f0a61431e46ffd0f26aa5b7/flytekitplugins-dbt-1.3.0.tar.gz#sha256=6e06dc48b1c02996ff2e30c78fd32344c5b0f145a24583518363d49fdcce8411" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/13/8816dec2ed5e196eecd87cf4b86b41df2d48da7e524f9d52614c82b5524b/flytekitplugins_dbt-1.3.0-py3-none-any.whl#sha256=a4d0cd09351c410b6b23fd39685cf4840e46339251165d7ec8281fe0fbd0452d" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/67/dda9680a667c1ea476cf03994c14fad99e88e67c4ef8bbc434d3306e8c12/flytekitplugins-dbt-1.3.1.tar.gz#sha256=b7290bd0a65a786bd06d9860eef5e1a07df68b24a26e49e17b93c8243637b566" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/ba/1f57e199e7233b68ce2ad06f3e69bc5bbf9574b11c1e248f26c8cc1f8c97/flytekitplugins_dbt-1.3.1-py3-none-any.whl#sha256=363e856acf5a728a8493ad918b34f0c6232755e4a80406266af547ccb45ac5ca" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/c5/2dd460833443cf1be55d3a2b24f649e37cf88f2d5d736ea4a097fac60281/flytekitplugins-dbt-1.3.2.tar.gz#sha256=3127d56e2e87bb9dff96d47009f0188e5a249b6ddafc6c5533360d3c4f10e2d6" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/99/e224862a3e92cafa1e8e900c9a06b18cef88fa455d70e52ef608bb5752e2/flytekitplugins_dbt-1.3.2-py3-none-any.whl#sha256=4b48fdfca3e0967df22d7debbe2bdcac0e200ee2fc1889553ed0b47e097668cd" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/2c/1d737161f1dbf53648693fea42fd298dc1e98ae7ee2c8ca064d331735ca4/flytekitplugins-dbt-1.4.0b0.tar.gz#sha256=a1ff97e024d3b78a568c28c580e9fef3ff1b5cd9a82ee78ef7d7f31fe82c8ae6" data-requires-python="&gt;=3.7" >flytekitplugins-dbt-1.4.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/1a/ab3acf25179b1e3a02ad740bff8c1c20c1cd098464ef7e9e570821140517/flytekitplugins_dbt-1.4.0b0-py3-none-any.whl#sha256=8698f93ed37b0e54c70a9182672e009865a8e402e44f7a637515f93eecc57d89" data-requires-python="&gt;=3.7" >flytekitplugins_dbt-1.4.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/77/d8c05b759501098343480c27dd89e4ee96162ccf3b3945968a81b76590a9/flytekitplugins-dbt-1.4.0b1.tar.gz#sha256=e363e7b0d717049f96472a81a95bb0d82c6021b5e2ef125b6db796f0d694c452" data-requires-python="&gt;=3.8" >flytekitplugins-dbt-1.4.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/68/27b8f5dd9ff667f5b24b7e55e9668afbba18f8c0f6b2a6c95f39c388f26d/flytekitplugins_dbt-1.4.0b1-py3-none-any.whl#sha256=eecde7ef38a3fc5c8c9f3d844d29315b40e4e7ec0f05e7974eaad2347f7a95c1" data-requires-python="&gt;=3.8" >flytekitplugins_dbt-1.4.0b1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408011-->
+<!--SERIAL 17100677-->

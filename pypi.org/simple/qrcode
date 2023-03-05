@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qrcode</title>
   </head>
   <body>
@@ -45,6 +45,12 @@
     <a href="https://files.pythonhosted.org/packages/99/6f/3914ab406164775a6293ebe001e57d23e38c09d51f3909c45bd132684927/qrcode-7.2.tar.gz#sha256=153ad96f5892e6fe2f3699296240976ac3a6d068e2eb48bbfc64b4c4c4d675ea" data-requires-python="&gt;=3.6" >qrcode-7.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/12/a5/657b4e6323ddb0f3e25ae9295ac424cfa164b68d9bdd48f86344bea8348e/qrcode-7.3.tar.gz#sha256=d72861b65e26b611609f0547f0febe58aed8ae229d6bf4e675834f40742915b3" data-requires-python="&gt;=3.6" >qrcode-7.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/94/9f/31f33cdf3cf8f98e64c42582fb82f39ca718264df61957f28b0bbb09b134/qrcode-7.3.1.tar.gz#sha256=375a6ff240ca9bd41adc070428b5dfc1dcfbb0f2507f1ac848f6cded38956578" data-requires-python="&gt;=3.6" >qrcode-7.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/ed/25b79f182b7f6de6a3bbbf9f09f8213d35238ff27c05895be36ab184e42a/qrcode-7.4-py3-none-any.whl#sha256=7ff613c4ef2d56a0dddbc54d8d1b6dce8060794ed7d1737356a83e2bdf49bbe9" data-requires-python="&gt;=3.7" data-yanked="Broken for qrcodes &gt;= size 8" >qrcode-7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/94/6d4e8113d17add55e17d7c20e2271c5fd77b9fcb9a7048c7d93167002e31/qrcode-7.4.tar.gz#sha256=c775424e983c9eba814da1febdfcf853165ecc01e494077591e370c8d4802bd5" data-requires-python="&gt;=3.7" data-yanked="Broken for qrcodes &gt;= size 8" >qrcode-7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/87/8bc329c0bb7217f68fcae5bf1c70f9406b0820e16af59188394d4c0407f0/qrcode-7.4.1-py3-none-any.whl#sha256=ba7520e031f28dadcd92049a88832a585111d09342bd0d15ddae5ccf5af98c12" data-requires-python="&gt;=3.7" >qrcode-7.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/c9/15cd4e3097813a60ecf0fe643af6233008055ae5869a66e53abcb71cb03c/qrcode-7.4.1.tar.gz#sha256=26185f4c48ea8a896d5c9a0b080c41b75448e30b533b418ea0c65d91d10f0901" data-requires-python="&gt;=3.7" >qrcode-7.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/79/aaf0c1c7214f2632badb2771d770b1500d3d7cbdf2590ae62e721ec50584/qrcode-7.4.2-py3-none-any.whl#sha256=581dca7a029bcb2deef5d01068e39093e80ef00b4a61098a2182eac59d01643a" data-requires-python="&gt;=3.7" >qrcode-7.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/35/ad6d4c5a547fe9a5baf85a9edbafff93fc6394b014fab30595877305fa59/qrcode-7.4.2.tar.gz#sha256=9dd969454827e127dbd93696b20747239e6d540e082937c90f14ac95b30f5845" data-requires-python="&gt;=3.7" >qrcode-7.4.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 11606639-->
+<!--SERIAL 16704748-->

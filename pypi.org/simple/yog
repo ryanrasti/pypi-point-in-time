@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for yog</title>
   </head>
   <body>
@@ -30,6 +30,20 @@
     <a href="https://files.pythonhosted.org/packages/7f/38/47907c040e9fc289a9127663b10aced14bbb45b754113f8db7b632517cfe/yog-1.4.0.tar.gz#sha256=3eeb271e95b07845f78232fed348e0c2b68acfc4ee378f0e124aee9bb28fe8c9" data-requires-python="&gt;=3.8,&lt;4.0" >yog-1.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/76/2a/69c0750bd053bcc241e5e3be819259841889922845009d20e68d57cb3360/yog-1.4.1-py3-none-any.whl#sha256=6764fd73275fea6a8bcb165fc203227331b83f139ec02c3c35a5b353687f81ed" data-requires-python="&gt;=3.8,&lt;4.0" >yog-1.4.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/03/bbad0296b11e8d78901c6ad3cc5e80d06ea8d449e734a5a8a16ef5281c2b/yog-1.4.1.tar.gz#sha256=d3045694cd12dce4281901e5e243b947b63378a3e142dc739ba308cd4d5e8632" data-requires-python="&gt;=3.8,&lt;4.0" >yog-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/38/4d9c3bb601b7d421fb4d020e957ad0a4d3375a255fab70b528f915805132/yog-2.0.0-py3-none-any.whl#sha256=fce6030e6a9c508ab51239b3b4b3924d92e839ee02f4b6be5968cfa4eb7b96f0" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/c9/9520054ffb1692db9be113d22d6a3c935b986f0df4437052a221d877290d/yog-2.0.0.tar.gz#sha256=6fa36ff8306d13d454124c66df0615b47e93ef9d46765aa11c631d9354b2d9d3" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/d6/da7329edb8c2920d26be7989bb18384fa698a619938762553f029ef98d40/yog-2.0.1-py3-none-any.whl#sha256=6ebd9d65fa900ecba7499dfc6b6219cffb21d795ccaff2a6d134e37e323a84ce" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/d4/69ba270d651c3074d8309401ba52a29156eeb5ca97ff7d60fc0e13863e5a/yog-2.0.1.tar.gz#sha256=a410e1f73aa5e77f1076edd0508d344abc030e32ba68381f02b5ec41eae4e5e2" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/6d/7063917de428b65d5eaa1cdd1117bcee8ef09bb792d14dff064cdc040701/yog-2.1.0-py3-none-any.whl#sha256=4d1278605670e196db1dac06ee14ab532d6a9a98ff022936d9fd49e23c7bc2aa" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/48/a789aa0900405493f46f793f13a31869e24c6e105c95a07ad966a6119362/yog-2.1.0.tar.gz#sha256=43f3d1a3bdbbae9793b3ed832004b13bbace2b7051b97c765a3ac701a3ceec3a" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/7f/c1df85ee81317cb5279865a79c27b4cb1f89cd4c885e9b291f648ff1cdc3/yog-2.1.1-py3-none-any.whl#sha256=8b57b5b8be4f9380c4793937735dd07f5e5993462b5dbcc281acfd9dab85642f" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/f1/09a18cecf83fe9424deacb213ef631ee66727470b9004ac33c9e07ae0b6e/yog-2.1.1.tar.gz#sha256=4970014cca4c2c00531dbedaacbca51cf0709d60397c09b8260e36a288a58991" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/ef/cc33daea7b735b2088f41deb0a39d34f15984629fe81f3fdd329ef30075a/yog-2.1.2-py3-none-any.whl#sha256=916c72d6f5196d98f102c3a414380d3a3f39c52d6ef556ba3960b549c8735df0" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/f2/d6f36a70d63549a521b7834f91fc1382e202777a26207d14505abb0e4936/yog-2.1.2.tar.gz#sha256=a45569a7f61fceb62fb25a06b483a70396493255ecf3da918a454793bbeea8f2" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/31/f0076cd72a1b483722f5fe0165db05901e342e69544d7c85e31542ac0bc3/yog-2.1.3-py3-none-any.whl#sha256=c0988a7010c4466ecbe477062cd65d067928c4608a1d30307699628a44bda048" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/f8/53e6c2067f7ae78d48595a3fde007b699049949857337cc966c4f281509a/yog-2.1.3.tar.gz#sha256=4703b77a16f29e1f0c5d02d66b8fe35e36292dd3ba3d68700cc2d0b31584992d" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/08/e46517892d3c8be40084f2a838584b1db60cb5d1ba16b05592a91047418b/yog-2.1.4-py3-none-any.whl#sha256=db530911b14257c2c07198fbbd8aa52d73c262f2f540a102c208ae9bca396eb7" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/0c/f02418e7deaf4e722603cbd1383941d30fcfcde27836b9bb048a13ec9060/yog-2.1.4.tar.gz#sha256=46a1f9dcac067b40a9fd15f27f061836022305d02657a85d0dfbe995017a34b3" data-requires-python="&gt;=3.8,&lt;4.0" >yog-2.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398701-->
+<!--SERIAL 16983661-->

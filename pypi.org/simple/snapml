@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for snapml</title>
   </head>
   <body>
@@ -614,6 +614,26 @@
     <a href="https://files.pythonhosted.org/packages/02/0e/e389e0c6b8121f7f0716a3b916ef5af39a23b794309de776489d5612e266/snapml-1.11.1-cp39-cp39-manylinux2014_s390x.whl#sha256=bda1f32915da119208844209c6bfebbdba2cb53fc1b3dc2fad5c0c0453ec80ce" >snapml-1.11.1-cp39-cp39-manylinux2014_s390x.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/79/ee84c75b8adaaf7cce1fc11c1eb1a5140a2b5ac71e566ef2ecd738dc56e1/snapml-1.11.1-cp39-cp39-manylinux2014_x86_64.whl#sha256=5009149e5937615a55fe0ad643ae40e0f7fcad5b0c1e5563a786ba226064a83d" >snapml-1.11.1-cp39-cp39-manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/3c/18730e037b6d7e2593bd35f0169b7318999e8bc0984e7d08196ec7e61b10/snapml-1.11.1-cp39-cp39-win_amd64.whl#sha256=1c0ab4e9f0a54a7580a5fb2944a67bb7573563c1a9734e5988210f8a480774ab" >snapml-1.11.1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/c2/3e79399cc9577f4440154b3049a8817cb3ace5b50d9ce2be430afa374079/snapml-1.12.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=a27bc6b72098f89749e7ce33d1931bca751d232446f69d97b39f91efbc1dfd8c" >snapml-1.12.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/9e/303fb2d2f15128f73f0ef6dd51e48698717215d3e4ec2ea75180d30151c6/snapml-1.12.0-cp310-cp310-manylinux2014_ppc64le.whl#sha256=53a2b0c5cdcc65d63985f7ce4fcb16f65918b8237587fb2784ae2972bf9749c2" >snapml-1.12.0-cp310-cp310-manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/87/f96dffec5187f4fa16871cbfa7246b2053d8f7bdaada44937dfd82cc6318/snapml-1.12.0-cp310-cp310-manylinux2014_s390x.whl#sha256=b82dc507c68b71cb18ba48183587f0502192ed5f5767d2f60eadb4eb39043b6d" >snapml-1.12.0-cp310-cp310-manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/18/4d940c5a99dbf0937e539314f66eb6dba0a8bec4464d2ef5a6ccc489450f/snapml-1.12.0-cp310-cp310-manylinux2014_x86_64.whl#sha256=02d60a9d9b3a2f516199ddc417b0e5ece07b98c5d8df8378d041a557abded152" >snapml-1.12.0-cp310-cp310-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/0e/7ee4726e554409219ab17d957ad4a9ec5f2fc8269399e98aff3201681c17/snapml-1.12.0-cp310-cp310-win_amd64.whl#sha256=1f8cec66270c145f7447668fa9612174171394f4daae21fb148ddded5796fc57" >snapml-1.12.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/c5/053f932197529d534d2254a56580b0b65884af977d6cac542e87b9dfb2ab/snapml-1.12.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=3a25aad8ca77d2da85556b40f20c2df43aa1d294d6807835a0c4d1e8d8217895" >snapml-1.12.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/f3/8fb1bf623b772941920235436362ace0ab576224a22ab7c6d87e2b168fe3/snapml-1.12.0-cp37-cp37m-manylinux2014_ppc64le.whl#sha256=709352f315f1dafeda9eb614a2da4eccfe37f2122b760ec01eb875f73138a222" >snapml-1.12.0-cp37-cp37m-manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/cf/287ae781cef4231e4bdbbb6734fbc63c54e4ee911212a3abbfcecc9e81bf/snapml-1.12.0-cp37-cp37m-manylinux2014_s390x.whl#sha256=b61dee162ddb3eb78c4743b8b516f34cc5e8d97f53602eae90dab541da163ccc" >snapml-1.12.0-cp37-cp37m-manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/ce/813384608d9681ee1cad902598d5297f5cc78a73488282402a88842418d3/snapml-1.12.0-cp37-cp37m-manylinux2014_x86_64.whl#sha256=8c1e36af3e7f0dfa0c5a05ff516643e561bb04653f49af9366df58c9ce45df79" >snapml-1.12.0-cp37-cp37m-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/aa/c3b4bf870df8ba32de1000e77e0c7339060a9db8fa70e0191b2b945e9b56/snapml-1.12.0-cp37-cp37m-win_amd64.whl#sha256=5ecff252c056cf1b2e531e3c8361e6af2e1eb3e479159f0ae32b8c549779a915" >snapml-1.12.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/9b/6982d8f6e7636fa64731f5c824b909a9507ce3f1da180d619cc7ea78fcb0/snapml-1.12.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=0e17c718dce7521e5a55b6f3b36b663ee9822dbb8f0ee5d4b75e54da0bf09f1f" >snapml-1.12.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/ed/0d96c322a8e9c5c5d46d41a87ec21f37d587aa258b02b10b4e00c7ed9044/snapml-1.12.0-cp38-cp38-manylinux2014_ppc64le.whl#sha256=a43511eb0ed661d5cee478cd65a29eed4c0c3a0ccfbb6f54181a4861d1138ddd" >snapml-1.12.0-cp38-cp38-manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/51/3b1e8fa929745287098d0b5fc95d609c3eea903ec6f516e08647fbcccb3d/snapml-1.12.0-cp38-cp38-manylinux2014_s390x.whl#sha256=00e39aed7f6a2eac1509549e379759082aef6bc12e4f0333950a84eb981f3f64" >snapml-1.12.0-cp38-cp38-manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/ea/712d12e1a317712abf0b4aa32e39a0a1c35cbed21cb8c09bf21faad0e985/snapml-1.12.0-cp38-cp38-manylinux2014_x86_64.whl#sha256=4a4ee5282c40d9cc8a139b709770ced0873713872f0d776e0f4439383e25b42c" >snapml-1.12.0-cp38-cp38-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/e6/27b08da222f9452518289cc702e481a5dffc5f3ff2f3ab26900a1d2a2fe5/snapml-1.12.0-cp38-cp38-win_amd64.whl#sha256=c0004a3fe93ee3b3622f2b467840cbee6d2184ef997cb634ef0d4eae550d8acc" >snapml-1.12.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/47/f8c390ba3e903359b7c82e1350b584226ca551bb8794e542d4a0257b8603/snapml-1.12.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=547f65e5a92067b398d2c4a08cc981786e1623524f9d3a6a9923204ec807ba15" >snapml-1.12.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/61/3ef76d680e4754a5897efbd5612acfde8a4b712f15672c2385cd00fd3d40/snapml-1.12.0-cp39-cp39-manylinux2014_ppc64le.whl#sha256=dd67aff884eb876f9c1f74f7eb1e4cb6608b5992e4a25a24b7ab4ea90343ee19" >snapml-1.12.0-cp39-cp39-manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/b7/8b0a1863ff83c0d04ab32ca5740bcb35003d433180051860741985682036/snapml-1.12.0-cp39-cp39-manylinux2014_s390x.whl#sha256=e97cd510f82ab8a0518e47caa4f867d62bdadb626c4dbd6897ecf143b017f5b2" >snapml-1.12.0-cp39-cp39-manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/b4/92b8c76ec9a0b08a5192b9867b058780a28aea0fb689b9e26b2e31cca074/snapml-1.12.0-cp39-cp39-manylinux2014_x86_64.whl#sha256=cc1c1434985f2b5adce09c86ca4adbb22dfa4a082dde698cc05d09fdc25ef5a9" >snapml-1.12.0-cp39-cp39-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/cc/1b59a42b11e0d13d6052de3337d27f0d82d7eea71b03df017578d2c865bd/snapml-1.12.0-cp39-cp39-win_amd64.whl#sha256=c4e36acf64b210830a5d4e513789abf1aed191c954c86fb0461e02d9c95693a0" >snapml-1.12.0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15930427-->
+<!--SERIAL 16639819-->

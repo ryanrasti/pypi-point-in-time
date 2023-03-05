@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mitzu</title>
   </head>
   <body>
@@ -114,6 +114,20 @@
     <a href="https://files.pythonhosted.org/packages/58/7a/5fa675c7f66a46f4e95a3e8b50ca4c3abe38ded492fe2433de5eb67dfe6b/mitzu-0.3.1.tar.gz#sha256=a82644671583f4d6cf5f1cad8c397f373eac409fc4525b854dfcdd59a92a47c5" data-requires-python="&gt;=3.8,&lt;4" >mitzu-0.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/b1/8cf2500d9c4ed277e18d0eb81febd10b6211393c186546c83840f7006b31/mitzu-0.3.2-py3-none-any.whl#sha256=09dadee5e402b0d567e018ee713d9b31ec00e1704fd2b6c6a37202bc3e5f8177" data-requires-python="&gt;=3.8,&lt;4" >mitzu-0.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/de/0a/0e7547d3a98dbb020a3416b18b2f9600878885bf149159bdef88fdca3ce5/mitzu-0.3.2.tar.gz#sha256=3986c0940a46ee798b311f2d4dd7aa26c73b608d485d091e51c7f4c3b2d50d70" data-requires-python="&gt;=3.8,&lt;4" >mitzu-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/77/915eeb57249b1982a3884a673f376caacc19a639ec9947c5981e5e395d0c/mitzu-0.4.0rc2-py3-none-any.whl#sha256=5e25792dc636c04c4ded2bf76112cf0da9f174e72d95801f0bf099934a7316a3" data-requires-python="&gt;=3.8,&lt;4" >mitzu-0.4.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/da/fd4423e782ba1bf541249103f6b99565a73c05cbd2a7f0200ae4e90a63f7/mitzu-0.4.0rc2.tar.gz#sha256=867fbee68afe79b275171af677b0a56053802db036f48774bf0c1e239e6f8cc4" data-requires-python="&gt;=3.8,&lt;4" >mitzu-0.4.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/4b/fe738f0d7a64532d4f21786e9525deccfc4b81fa07a42df0c30f64e6a451/mitzu-0.5.0rc1-py3-none-any.whl#sha256=0fb7a04e90c767deb30f6fb30962b1f6f3640dba96fb5bb1f60d2c1c7206f833" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/1f/9193553aab6c0beb27241b5db34695b26dcac08ba0cca358b3df46dd8f76/mitzu-0.5.0rc1.tar.gz#sha256=b18fc27560a47fd2207321b69aa24088a168e7c16c5749179f38abb737babe12" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/c0/b146d6724392fc1137c86804cb73d7ca6ed762f2d6fca897c0d6ca40aa7d/mitzu-0.5.0rc2-py3-none-any.whl#sha256=3c119f2b64c1dea1cdb0919c61dc8d5120d1b0a3e2067e9f45e981dae35f93ff" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/20/66565b00b4399b86e26d0f6324747086608894ad7f248ec239baab2cbef4/mitzu-0.5.0rc2.tar.gz#sha256=a4df9ae91efe3ccd0d806278e8bc6adb9d41a5b0895392980a0caf54bc7d1d82" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/f3/e50901e687870876427f9669787b853489a45452c7ac8956acf83cd22448/mitzu-0.5.1-py3-none-any.whl#sha256=eb049505b94940d4eac6712daaf5ad99c17510265f4892119346de26dae270fd" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/6a/eca4f8f27165043fcfd7e4af239d5ca7bc83cdc67c74853bbcf0ff8aa883/mitzu-0.5.1.tar.gz#sha256=ce4e8cf7f84c7a4bbd9396ab5aebee604223a16a882bbf0c5a2862c1cb26ef6b" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/52/7b8365f348384d22b11fffdfe9e79aaa9dc1185f5a1b6d32d838720dd4d9/mitzu-0.5.2-py3-none-any.whl#sha256=34ff201ad5da9b8593b6facd0c47f3166c380f3f5641a7949e73e51391253aa7" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/f7/af00d011a5414db44e83a4168126e4e901f2430624eee53b84a9e1890acf/mitzu-0.5.2.tar.gz#sha256=021bc393a8b343e2e748d8bdbdbff7f8f2dea64dd438f71ea6336bf4261703b4" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/93/b24691d9bc9505853961aa7d5abb6f0b72eab2be65d885c4c1d6c969eb83/mitzu-0.5.4-py3-none-any.whl#sha256=04b2605d6092ec9c85a42d89b75ef52727c45a03c4a88f49146cb94d9c76b296" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/a8/f9aa09c98f35923ff25e50b7ee1c2b6becd4e107133c1de1268ac636e69f/mitzu-0.5.4.tar.gz#sha256=c6ba50675aa6ead82b1ac9d00d47f55e1a62965dad7f40297ca142f2debac1df" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/e3/8632c24c5f8b344aaa057730791a0e819e191f7459aa1678e08e392c3efc/mitzu-0.5.5-py3-none-any.whl#sha256=3dac14ad5f96b4c08f7e0de73c2181373f8cb77893a47b5ea276e27e8cbc1e96" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/67/346bb7a39ff73fcdc4766739de446a45b08d140d8527772c20fe0084b41b/mitzu-0.5.5.tar.gz#sha256=c98526ff447a080a5e5bff6901942b74a150dafcec51a040bdacb377b1f2ed07" data-requires-python="&gt;=3.8,&lt;3.11" >mitzu-0.5.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16038129-->
+<!--SERIAL 17147354-->

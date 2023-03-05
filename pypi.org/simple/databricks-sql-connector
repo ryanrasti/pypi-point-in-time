@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for databricks-sql-connector</title>
   </head>
   <body>
@@ -48,6 +48,10 @@
     <a href="https://files.pythonhosted.org/packages/c3/71/e006cd601a1359f5fc7ccd8035525490745c71d4a55255fb5fac5e6ce46c/databricks_sql_connector-2.1.0-py3-none-any.whl#sha256=b936adc8755902347faafab40dea7b3e63b6f2da87a55cfda770e0fb792613f4" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/71/07/db53a620a0e2160cfcd024b261bc07122ad6d1bf8ccd6dbdcda8364e14bb/databricks_sql_connector-2.2.dev1669954165-py3-none-any.whl#sha256=8af79f0dac87680f8d6db4b4a948cba81b062cf51fc148ee16708498a4a6bc93" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.dev1669954165-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/00/eb/0027caad96c26d683338c25a7f791b4ab3ba6d89ecfa7345694fe5dd57c5/databricks_sql_connector-2.2.dev1669954165.tar.gz#sha256=65b1acef8965145c8225b6d3e48cdeaa1801961d62cb7d92a2cf7b77b21e14fe" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.dev1669954165.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/55/b02aaffa7b4e246d4efb8f0829dbe21280c16e81123314873a623e95387f/databricks_sql_connector-2.2.dev1675985183-py3-none-any.whl#sha256=20759ae59513b1d46edc764842e604eed233eab330066846dcabc4aa778ba24a" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.dev1675985183-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/17/4ae891185a5241370fa79c3557b1a3d8e2edf078fca10d4bc96ba58ef5e7/databricks_sql_connector-2.2.dev1675985183.tar.gz#sha256=81ea40bc5392c409d7febe245b15f49090ed42065587d6b095381dfaa76f08b0" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.dev1675985183.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/89/0bf763efd07b0c7fbf887083e23e8ccee8a038b7864679c6b3d291f25b30/databricks_sql_connector-2.2.dev1676479629-py3-none-any.whl#sha256=3e39d9634f140737cbc8b04dba5294551a72b4356949d7bdb73662618ea82300" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.dev1676479629-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/05/08b8bc4b3358807d05681e5f91cac34a42e56b35fe426d59dcfc66cb8a9a/databricks_sql_connector-2.2.dev1676479629.tar.gz#sha256=77b0c08889c3a9d68886084d8d16b8ec015c1752f6d62103e0e5889448f6bc6a" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.dev1676479629.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/28/09ed074cf76d969e6bf017653479ab79e520de22a1ca5dd7d07c289a3524/databricks_sql_connector-2.2.0-py3-none-any.whl#sha256=11f4a252c88a111e5c13797b6a7c779b43da2cff928a7df7a9b0f06eeb55da22" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/74/96/b12d7c5cac030a5ff726502cb9acb2427f319e8763eb02f3279d3a0330c1/databricks_sql_connector-2.2.0.tar.gz#sha256=5308693ce89ee7c0318c7a1c7f704aafddc86ba7d2a9e87029fcbd08f95da678" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/ee/f455bb3254b243965fd1eb3c424672d8ceb9e2143e7c55913b5650a138b0/databricks_sql_connector-2.2.1-py3-none-any.whl#sha256=e94944e2920f1ecb3160ddbd582a51d58196dd18ced81188f7cf3961c0a89384" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.2.1-py3-none-any.whl</a><br />
@@ -58,6 +62,8 @@
     <a href="https://files.pythonhosted.org/packages/49/4b/4c9ada46e5dc657f37776a56b62122c2df33f142b1b801ff7a150cd008af/databricks_sql_connector-2.3.0.tar.gz#sha256=d6144ef7db7fece0b5c8f772115ae2973e2fcd8d0c9b08677ecc8aa1400427e3" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/dd/fd25e3742f212e8620f77d93b3d33124bfe5f5c4316dc70448c5fa13604f/databricks_sql_connector-2.3.1.dev1-py3-none-any.whl#sha256=251bdd40d5bcac5fc87d0119f75ab48229fd7a4eb9336083282fedb8bde3556d" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.3.1.dev1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/a2/36081e01dae5893971cb80d198c6fa9113d0d8a6209646de858c8c5e7890/databricks_sql_connector-2.3.1.dev1.tar.gz#sha256=0db0c44064876f5d9709f96296dd02f6d3145a41c84196e075fc3278e962d6e1" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.3.1.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/a6/140176189f85979f050ccfd539a07441781517639f634de5d0106ca565d7/databricks_sql_connector-2.4.0-py3-none-any.whl#sha256=6f07a86c35430c772df778a4f4f4bac9020f5a5fdfd22affd9f6125fccae48d6" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/a4/3c320b7a86a0c906483124b348a9ac112a6a850c73af1860c30a8eeb569d/databricks_sql_connector-2.4.0.tar.gz#sha256=8540bfd3d1b6eb01a3587299943a5ffde286b0fee2d3e6c7fd49c37db01cadb2" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >databricks_sql_connector-2.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16409796-->
+<!--SERIAL 16962127-->

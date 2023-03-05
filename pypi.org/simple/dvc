@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dvc</title>
   </head>
   <body>
@@ -718,6 +718,24 @@
     <a href="https://files.pythonhosted.org/packages/b0/04/8f5fe5fc20b00d0862cd5b4100c0cdbe9a981dd7cf1d0adc5bb5c22e5126/dvc-2.41.0.tar.gz#sha256=1c437cbfffe797f27de4e5768ad6578a345ccda52877624332445817261cc4e2" data-requires-python="&gt;=3.8" >dvc-2.41.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/13/57/ef5e1bea25e11f9b1c89b8b32252b5db962413ea1f70325e0095d2ffc7c2/dvc-2.41.1-py3-none-any.whl#sha256=a3fafd63c3e9bedd278add480d62be38b7f51db891e14e37d754c986c6bc284d" data-requires-python="&gt;=3.8" >dvc-2.41.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/3b/38b1a582323d934cc80df67242b5fefa1c545512712e62ed0274089fb323/dvc-2.41.1.tar.gz#sha256=d875358ce2463b0b93de1e4a91ee8ca960793b96462048e72f40d3168ae5e97c" data-requires-python="&gt;=3.8" >dvc-2.41.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/87/846b0a054c7ff213790da5682a229ad6e58c7322928ae09a59bea7a74551/dvc-2.42.0-py3-none-any.whl#sha256=20b8a58241f1a12647f3a0738f0ca1a113c30b2a2eee40525c23ced03551129c" data-requires-python="&gt;=3.8" >dvc-2.42.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/ef/1ca6024feb8da72823a4b378354434b5b9ec0e6f8cc1b216d64ff286b9a8/dvc-2.42.0.tar.gz#sha256=d717df1f12c90e8deda15ca10ef7d30ab2c73c9fa3151afe19690943e54b7312" data-requires-python="&gt;=3.8" >dvc-2.42.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/d3/3a502960ec37609f6516173e2f4db923805c3ac4caa850dacc8a7d28fa36/dvc-2.43.0-py3-none-any.whl#sha256=bdebe575bdcfd45a00fc05db896b0c0ea38a774186034da9a75ba58541f4bf20" data-requires-python="&gt;=3.8" >dvc-2.43.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/4f/444fa88e9e1e0a58a2c6f5f055e74e5935502438f512e0bf5f978799cf66/dvc-2.43.0.tar.gz#sha256=7a7a963b76e1733890e60a4b58242f6fe033f5ba1c9fbedcf9ff495512c3c7e9" data-requires-python="&gt;=3.8" >dvc-2.43.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/d9/e56d9a89fc88c5e017f2a815ffc16c677a5f4217dd7b799564be161c8a9b/dvc-2.43.1-py3-none-any.whl#sha256=4de11bc356faf0eddf1eaf936a632d9ca59f34a4714a5664a11ed546276a4c8e" data-requires-python="&gt;=3.8" >dvc-2.43.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/7f/f7e14608082eebd58027c15b176ee68f48ddb0efac089787eeff3f2c98e5/dvc-2.43.1.tar.gz#sha256=b4f6079590b4f5c79d7dc580099036bbfe1893e8722ba5d23390e87fab6778c5" data-requires-python="&gt;=3.8" >dvc-2.43.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/8b/cb61e68336c265d78f95308fc91d01ef03d734489f8633b5bcbf97cc1df7/dvc-2.43.2-py3-none-any.whl#sha256=d74650e60fdfe42957e2c00003a2cd635b8693383db892ccb8632c191f1660ee" data-requires-python="&gt;=3.8" >dvc-2.43.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/6d/d71535a8c2f2ce4b12edccc7866ee5318194d081eae2ac91daaad56ac519/dvc-2.43.2.tar.gz#sha256=735617d7bba706e8536af18721b32249539748fa89cccaa087bb2814c38cc1e5" data-requires-python="&gt;=3.8" >dvc-2.43.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/6f/b17f6fa990ad501b33d5ec4e404aa12688c64f2b15c56e57e0b07a53982d/dvc-2.43.3-py3-none-any.whl#sha256=ab4caa0b7c75244ac632f69471a01a425694b150ad268f7ec84ded9a11188faf" data-requires-python="&gt;=3.8" >dvc-2.43.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/48/b4f21a28d22fb0d04f6a14d6f2f9a0f1a8bb9a67ad6333e8eb25defb81fd/dvc-2.43.3.tar.gz#sha256=64d9a96f75b3f4798d7f0777d74fdb5c12462ec000d9b2cc737871609933f85c" data-requires-python="&gt;=3.8" >dvc-2.43.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/e9/935653183b6e2f1feb0850350e1a8cbd5791402c4904983e3135d076baba/dvc-2.43.4-py3-none-any.whl#sha256=888315d66dfec35cfc0b7a997ec8f6283732bccd7b1d597cfe5f626f0e5fb0af" data-requires-python="&gt;=3.8" >dvc-2.43.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/0f/e26016825ca0ed319f6bf36f3c99e3ae66710bd29a37a4c8314ce2984f05/dvc-2.43.4.tar.gz#sha256=cbd48ccc4ff19e70889410c21eab7f0bbe6907ae59deb135197e2c66d52828e3" data-requires-python="&gt;=3.8" >dvc-2.43.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/36/39f3f0edb5c6e03ee8535d204b9d85049a7504ef637fe85033a161c76c4c/dvc-2.44.0-py3-none-any.whl#sha256=18572d005c7128b7854645be3795055c780b56d722df2646bf3ec6624566aa3a" data-requires-python="&gt;=3.8" >dvc-2.44.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/6b/0180c737735b21ac72a4fccd4a3455742f33d6ba8b2eb17e67dcf66f2824/dvc-2.44.0.tar.gz#sha256=fd51cfd42eb88060813fa8f16478ddbb86c8421364fbccf2f2ac2b47d97cd9be" data-requires-python="&gt;=3.8" >dvc-2.44.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/f1/a558178e77ef6269bc808ce78f9ecefc210aa5df43e5814d56ad112d82ef/dvc-2.45.0-py3-none-any.whl#sha256=d0b5fa33a991087f0a9bee21218bc6aee69c5f6928736e62272f44cebe20430f" data-requires-python="&gt;=3.8" >dvc-2.45.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/45/3022d9973f3c19b56e5e6066478d6fb92de511c310e68a2de676bd9a2eae/dvc-2.45.0.tar.gz#sha256=94bb9ddf971d1aa15d834d864a8ddac18aae745bcb0cda362740839cd11b98f8" data-requires-python="&gt;=3.8" >dvc-2.45.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/59/b61442871dcf4e474bc601bdeb2be0e1a3a9126b1277a29631b7b5eb8da2/dvc-2.45.1-py3-none-any.whl#sha256=92b1e40406560f1a327eb81a9675f5503ca80f23485d1acf937b4040ad07679d" data-requires-python="&gt;=3.8" >dvc-2.45.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/19/692fb9f269c392e564be90aa50369a93dd179d4fd3fbdc8c0ec272baa06e/dvc-2.45.1.tar.gz#sha256=189c5c015cc275b96d7ffb2d89fb9d8ed11b2387fbfa5b447e20903c09ba2b32" data-requires-python="&gt;=3.8" >dvc-2.45.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16382330-->
+<!--SERIAL 16887956-->

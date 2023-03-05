@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for simstring-fast</title>
   </head>
   <body>
@@ -16,6 +16,21 @@
     <a href="https://files.pythonhosted.org/packages/14/93/7678804feab881fd747eb1282b413127716d24052ec5c811cae87ab5cf6e/simstring_fast-0.1.4-cp310-cp310-manylinux_2_31_x86_64.whl#sha256=3844d6e8542ef3706b6de8c868fa290e69a56bc6e77ca86890b16161f91d735e" data-requires-python="&gt;=3.7" >simstring_fast-0.1.4-cp310-cp310-manylinux_2_31_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/18/56/f5a9d4dde2d68a5e479c8045e35f5d2cd99f453afa1193a2e99ebab9e126/simstring_fast-0.1.4-py3-none-any.whl#sha256=3846a6186af4ed49f3c0be4910d37e438ae9fbbad6979077575dc2311a573327" data-requires-python="&gt;=3.7" >simstring_fast-0.1.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/47/ce6ecb161c96fd939696f464c23f77ea75e46ebf53ae9cd16ef9e33951c0/simstring_fast-0.1.4.tar.gz#sha256=fcab4dd946f9611fb8879444e1f61a808b187eaadfd5e32bae255b80671d0396" data-requires-python="&gt;=3.7" >simstring_fast-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/7e/7ac524079440201b7635403f2818dff6b07958e3eaba1ea5ca0c79392198/simstring_fast-0.1.5-cp310-cp310-manylinux_2_31_x86_64.whl#sha256=bc5febca21c914a3cf1d3210ddbb49f40afd48eef649d173dd1b479438f5809f" data-requires-python="&gt;=3.7" >simstring_fast-0.1.5-cp310-cp310-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/d1/3879a3ae5b93a200f42cca9ee2a92743e84f284e29669ad8e59f530b9da3/simstring_fast-0.1.5-cp311-cp311-manylinux_2_31_x86_64.whl#sha256=abf0603ff35e0be56f951d7b7adeddf70582fa9fc067fbdb267cfc799e18da63" data-requires-python="&gt;=3.7" >simstring_fast-0.1.5-cp311-cp311-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/a2/2125e9a260c88f922169e42a5dd9fed0727fb1a52c6da28f22b369c71942/simstring_fast-0.1.5-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=1ec98c32c0094a23c3d315b412c0fef68fe6431a2473051a9ab9dbb695abd4df" data-requires-python="&gt;=3.7" >simstring_fast-0.1.5-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/af/ad817c692d60df50b5d7a2201b45ab0e16356d3ba5e5c47447fe372e51af/simstring_fast-0.1.5-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=69d35fd050c62b9eecfd4c3cc280192541556ca7f3875469c1e47b009b39a9bd" data-requires-python="&gt;=3.7" >simstring_fast-0.1.5-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/52/b3233f34ccffd87d0b19f98a4a9ecb1043b88205e7a145d13a63416fca86/simstring_fast-0.1.5.tar.gz#sha256=4d08da7bfe0257ca189c2528b33e302b283d4322b12e32ebe4a806a6894a1811" data-requires-python="&gt;=3.7" >simstring_fast-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/f1/745e8d9df4284b08b8fd9bc7475ce782b17b71c8e62eda2df522a1f77c2b/simstring_fast-0.1.6-cp310-cp310-manylinux_2_31_x86_64.whl#sha256=21ea7de1c9ae2613eafacd4a4577b5f82af160ebada2d288b8f13d0e091de525" data-requires-python="&gt;=3.7" >simstring_fast-0.1.6-cp310-cp310-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/19/58c5c377c7c5d055188895b9b7a5fb69a777e13642e41ad02cbbf13a518a/simstring_fast-0.1.6-cp311-cp311-manylinux_2_31_x86_64.whl#sha256=101341cb8e398c68bc1f61ef5e39be152876dbbcb17a9dd5ff4e81dccc735a1a" data-requires-python="&gt;=3.7" >simstring_fast-0.1.6-cp311-cp311-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/f2/a13eddd1d6cf4986c1c380466fb440746c96894eb9245573edb879f593c7/simstring_fast-0.1.6-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=b3eadda4a83dec4334ae590a8f022e485f72924f776867763488f3b16c574a5d" data-requires-python="&gt;=3.7" >simstring_fast-0.1.6-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/4f/526ab388fe2e8e544813c59e0f0d2e7b312c55dbdd1b752a692c77e3395c/simstring_fast-0.1.6-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=fe1661ee6180e49dcd742c35ee2cb2d122912761ed2946d3a9a2d9aa66509f49" data-requires-python="&gt;=3.7" >simstring_fast-0.1.6-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/5d/267feda5d8b34253d3d1767f761e0a7cf0f98b62167c033b2b0430367d4e/simstring_fast-0.1.6.tar.gz#sha256=fbe9d75736ff8ee5b9e41feae1af6a3ab7c79c023ffb86344fd01fbb05cfb4d5" data-requires-python="&gt;=3.7" >simstring_fast-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/3c/98353651cfac8211fd44ab26ec4aa05f850b28a909aace616d6a28103bf5/simstring_fast-0.1.7-cp310-cp310-manylinux_2_31_x86_64.whl#sha256=4e95bfd19f5c242596d336189c1d4e7aec36851e0ca50897aa67ab099250a974" data-requires-python="&gt;=3.7" >simstring_fast-0.1.7-cp310-cp310-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/48/70956d144bb48c42e3d7761095301392df764b83292fd3a109c6ab173828/simstring_fast-0.1.7-cp311-cp311-manylinux_2_31_x86_64.whl#sha256=bb7b26a14f5f248f19aff4607f8671009948354920c18d56c4d1e936a8c38c24" data-requires-python="&gt;=3.7" >simstring_fast-0.1.7-cp311-cp311-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/1c/764892563a50828f4db4b914250e1ad90b90da5900636c1cd17993a02d42/simstring_fast-0.1.7-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=77f9c2c9d27ce39f22bdcf9ba4a4d4531d4ce1ef25345b9f9defc48ab16bad71" data-requires-python="&gt;=3.7" >simstring_fast-0.1.7-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/56/804ab4af31fd9373f9d225214e8bd90c67188c84ebd9868c50f29b9e36ea/simstring_fast-0.1.7-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=c7986ea03f697fc121150767576dd27c2f46a00e33c83d0d239c8279f74ee627" data-requires-python="&gt;=3.7" >simstring_fast-0.1.7-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/95/1755a079115c71315efc59e1954a5043f2788fd042fa182ef8e4e6774e6a/simstring_fast-0.1.7.tar.gz#sha256=81e5951d92c1c3dd6ca9b25e13cc1435c011bf684d80eb33c81067df2ec9ee08" data-requires-python="&gt;=3.7" >simstring_fast-0.1.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15855092-->
+<!--SERIAL 16854396-->

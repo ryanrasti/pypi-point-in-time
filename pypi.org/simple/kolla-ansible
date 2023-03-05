@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kolla-ansible</title>
   </head>
   <body>
@@ -206,6 +206,8 @@
     <a href="https://files.pythonhosted.org/packages/ad/a0/16aa3d68c857b762f336a29ca3af98680bef68401484cd954504dc4791d3/kolla_ansible-13.6.0-py3-none-any.whl#sha256=e96a0b2c1678cc1f39bade0e54af5f9fd8aeee70c10c4369c656b2356eeb259e" data-requires-python="&gt;=3.6" >kolla_ansible-13.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/96/68/eabba7dbc30216724d40e06c0015f6f2919fb5f16923c5196423f9949d7d/kolla-ansible-13.7.0.tar.gz#sha256=13a675071b06ee2d0edc9a1cb43870fa559801e3e16a3e7c947046b3b964804a" data-requires-python="&gt;=3.6" >kolla-ansible-13.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/44/4f/1ade6dba9ab5af13275137d9b442bdf48adb37c5794437377721565b46e3/kolla_ansible-13.7.0-py3-none-any.whl#sha256=23c153ab1a20a53c21a31349e4a49714fc21435d31caec4360fce5a1dd8a1dac" data-requires-python="&gt;=3.6" >kolla_ansible-13.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/a7/420b96cad34532293e641d10f31ebb5a41055a6015b821484e36ed1d693d/kolla-ansible-13.8.0.tar.gz#sha256=f9a607679af1629d7b3821f55861ffa88508b9bf59e10bf7fdf62af74ac1501a" data-requires-python="&gt;=3.6" >kolla-ansible-13.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/e1/334bf1411f03ac28d8fbdedb9171a8b435c02f554f8140507bea295b5713/kolla_ansible-13.8.0-py3-none-any.whl#sha256=3ca615c6bbdecd03b2714b6da1df82c66b05e9e55fc982e0f1d29c060afe7469" data-requires-python="&gt;=3.6" >kolla_ansible-13.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/25/c1cf0c98e74b052e59351bcafa1bc5171f1903ccf2f52e4df5a9bfb6e5bd/kolla-ansible-14.0.0.0rc1.tar.gz#sha256=f01c140fd99ca9573e8717a646119b89beffcc9a5a2f84aa263656e2c99a797f" data-requires-python="&gt;=3.6" >kolla-ansible-14.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/c3/093cbf96ccf76ce8619cb627b3ecd15e29edff6f0fe8b8b57276658317e1/kolla_ansible-14.0.0.0rc1-py3-none-any.whl#sha256=59e9f02bc9da51b05d0bc6a1f914f684cb26ce8a8fadcadf0bd1879baedf3bf4" data-requires-python="&gt;=3.6" >kolla_ansible-14.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/45/74bf9262d6b53e0018c0258a6c0a74a45e86bd01db95e5b9ea6d1215c850/kolla-ansible-14.0.0.0rc2.tar.gz#sha256=d9b1b72ae4fbaeda5ed11d9c91ff91751c903a94065c8979f6407ba7c8628364" data-requires-python="&gt;=3.6" >kolla-ansible-14.0.0.0rc2.tar.gz</a><br />
@@ -226,12 +228,16 @@
     <a href="https://files.pythonhosted.org/packages/5d/3a/f3de2986dbeb1b60c82a78c51fd64c69594a28b4c800de673528598935f7/kolla_ansible-14.6.0-py3-none-any.whl#sha256=f1ab59022f389378718fe4069e6b968d8af11b283710ffac80d6c7380ffc58d0" data-requires-python="&gt;=3.6" >kolla_ansible-14.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/fa/6434c6825581c99ba4c796a869a09259198dd7b3acc3269c5097c0c6372f/kolla-ansible-14.7.0.tar.gz#sha256=385ff5747c443f0e007911f1445421121491bfc98035a1032e417dd5fccad58c" data-requires-python="&gt;=3.6" >kolla-ansible-14.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/bb/cb2442fd552020b3f0c534739f30114ed7073d070e6ba66d70a664dbcf79/kolla_ansible-14.7.0-py3-none-any.whl#sha256=7a407d6f59d538af37d4f86342a240d4b72029c1765986670d5161831da14971" data-requires-python="&gt;=3.6" >kolla_ansible-14.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/f1/cc4eeb45f1789d7aad2ecbe7359c58027106ab98ccddf0c908308800fb31/kolla-ansible-14.8.0.tar.gz#sha256=e09b5c3e7fb274903c4606f38240586aa076a246f2849c237af842ea94a013f5" data-requires-python="&gt;=3.6" >kolla-ansible-14.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/7c/aee3040b6911021534a139bdafba422f8ebeba195083f6d563c2e87d0827/kolla_ansible-14.8.0-py3-none-any.whl#sha256=5a5681e1bf9d0aaedb049247cdf98ae6ddb66fa04a69665ad11d3f2a6827f145" data-requires-python="&gt;=3.6" >kolla_ansible-14.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/17/82/fce02a1122bd8d310495cdd2ee7c69cda2b636d3638f537598f652a04d33/kolla-ansible-15.0.0.0rc1.tar.gz#sha256=16dbeef9f9fd82ac98e12656e0b14a131e45b634f7aaadfbcfcfb1bcf44ad701" data-requires-python="&gt;=3.6" >kolla-ansible-15.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/20/56/a78129c4adb1aa94a1418dd0b4d38f1270bb690267946f7875ccbae31d78/kolla_ansible-15.0.0.0rc1-py3-none-any.whl#sha256=245e12a98dd9bd9e53d96fe579cdb0a4ebb8772f01cb6b9b12393cb0794bc333" data-requires-python="&gt;=3.6" >kolla_ansible-15.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/f8/6db46748a20211a9114fd6b7ba37cd49e80e8e9c2ede2c52472936d62f73/kolla-ansible-15.0.0.0rc2.tar.gz#sha256=b6942aee4720966eca95aca21fa28469ed6d557e45ef7390e1166bbd093f0e0b" data-requires-python="&gt;=3.6" >kolla-ansible-15.0.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/04/3f/fd8c52d92f08d6204faec743ea080b960ca43bc30d4aa5845ee5dad09fd3/kolla_ansible-15.0.0.0rc2-py3-none-any.whl#sha256=eb978918f6f0c842d1fc3eb1548f9d7be5aff6515fbd30d2dcd98d3d79efc621" data-requires-python="&gt;=3.6" >kolla_ansible-15.0.0.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/e2/939ffd77ffdf6bbbf55ed8dab9e7db235143e64090c0900a033bd6a6d3a3/kolla-ansible-15.0.0.tar.gz#sha256=3939415c4815ede2564a3b1b09e2d6b14e147cb52de9ac35fd5c71cc7d3675d1" data-requires-python="&gt;=3.6" >kolla-ansible-15.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/79/47/55cbc51fb35ced1119513f3bba1d543993082400745a24ec561eb2fcdd44/kolla_ansible-15.0.0-py3-none-any.whl#sha256=523f3097e44a443d296cb634c6379753cdb2ef1f3818d66aa40331bcd83d1482" data-requires-python="&gt;=3.6" >kolla_ansible-15.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/dd/c40ec78a31e876c0ae36f7a4d75b70372c4b3f9864c3f0f02e507b680634/kolla-ansible-15.1.0.tar.gz#sha256=6b1ffe61e3b7cd5212201b2600d36626e873bc4d686ea07c489a59c486785980" data-requires-python="&gt;=3.6" >kolla-ansible-15.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/4b/09728023aeb03a67d75ef6a4960cb1cfeabb5ac5a239704ef14e95f8c773/kolla_ansible-15.1.0-py3-none-any.whl#sha256=0d4c9ff2bdba829d7ae5f663eecb3a964ae87f3ea4cd253821fc8158da3c4c42" data-requires-python="&gt;=3.6" >kolla_ansible-15.1.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16114862-->
+<!--SERIAL 16959170-->

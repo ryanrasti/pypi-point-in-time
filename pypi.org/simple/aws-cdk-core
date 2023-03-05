@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-core</title>
   </head>
   <body>
@@ -468,6 +468,20 @@
     <a href="https://files.pythonhosted.org/packages/db/e2/d29e68c90481b59fc20019e0b8b0707acd68d70105414d115d3723d345a5/aws_cdk.core-1.187.0-py3-none-any.whl#sha256=74cb5c0068b60044a4af472cba0b7a7abbaa97f19481779f9ce2c03233e10909" data-requires-python="~=3.7" >aws_cdk.core-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/04/ce/095f62831a186aac79e6f4bdc654c93e2bb285433a1c889efa30445d0d18/aws-cdk.core-1.188.0.tar.gz#sha256=c201e2891921d7751eaabab16f91cd85f3435dabb2ba424d1eff5a9311b8d413" data-requires-python="~=3.7" >aws-cdk.core-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/03/1e3e061e3120b480bea21519e18dc244dc1c939d0533d1b5ee90bc645f04/aws_cdk.core-1.188.0-py3-none-any.whl#sha256=375be1603158b26b4309c0a388cb7706a4c2146419d7fa7331eed564462e96ee" data-requires-python="~=3.7" >aws_cdk.core-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/5c/b5bf9a51f16de0b5fe379443ffbec2dbabc303631f2971c7a3ed73c69fce/aws-cdk.core-1.189.0.tar.gz#sha256=125b7c92a28a3605425e42c6b105006d4923eb1db24f386c515d28511e8eac87" data-requires-python="~=3.7" >aws-cdk.core-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/fc/c22803c1556a76f5ac64c73dfe9ddb4d22bbc99df849d35a661d57c6c5ea/aws_cdk.core-1.189.0-py3-none-any.whl#sha256=b3ab63e08debb8256966a8d489d83a0364bd1cb6ed73df986e0c4bfb44651a06" data-requires-python="~=3.7" >aws_cdk.core-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/32/88b2db40e81b5a735b599f5e18c0ef4166510288ea0ced2d94f05d35d81b/aws-cdk.core-1.190.0.tar.gz#sha256=9f48c82c9f5c7537c6d2c13fbd2a476570129c5ced07b6a7879c9c3913faf258" data-requires-python="~=3.7" >aws-cdk.core-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/db/d7cc3ff36b56fbd1e3be9a7bf11b7b6889fb40a32c48ca9b9cdf7f946abf/aws_cdk.core-1.190.0-py3-none-any.whl#sha256=3d50000cc84c3ca23c6c089dee326f15c9dbe26647a4594829c695d150426732" data-requires-python="~=3.7" >aws_cdk.core-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/de/18832da9a5650b44c55fef1be2a04001971b98a91c00e3af5ef2d008adc2/aws-cdk.core-1.191.0.tar.gz#sha256=70d8c5e9fc10f1abc0bd62e864fab7d45b42118011dffacd58758b701b5dfc80" data-requires-python="~=3.7" >aws-cdk.core-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/62/c53d16aa3b966aab9fe9e4412f8a37a5e4264b8d30d294e2b17a75ed7a9b/aws_cdk.core-1.191.0-py3-none-any.whl#sha256=09c557a4b1d18888c09e918acd633248f9ba316cc263d825bc9672cb03fbd3c2" data-requires-python="~=3.7" >aws_cdk.core-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/37/4659a772ed34caf7126ca98a2eab0bd84c12658e4e9e9c056357d26bf465/aws-cdk.core-1.192.0.tar.gz#sha256=13129cc27f576e38a5b0ec9b86c54a1fa0b09890683679c3514e5276c26312dc" data-requires-python="~=3.7" >aws-cdk.core-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/ee/c404e8a486893c5a0acae4ee547713530332f52e5aec551f53476e986a11/aws_cdk.core-1.192.0-py3-none-any.whl#sha256=8ffb0cb28ea99442b713fd3750899a5aeed2678abec36f9a62b197b32e287589" data-requires-python="~=3.7" >aws_cdk.core-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/0f/82b08342728a01169e8b3d6bc766d02353f7f4905d894a6323a3d0c22abe/aws-cdk.core-1.193.0.tar.gz#sha256=d375f261123f89eaf3ed854249ff7cbfae725fc04a7108f31fad3f1fe8f40581" data-requires-python="~=3.7" >aws-cdk.core-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/8f/07da56dcf5458c2b6bbf3b812e44b1602a4a98453adfbc58615dfc81caa5/aws_cdk.core-1.193.0-py3-none-any.whl#sha256=b6890284405e93c5c840bc06ba3a266d36b74e8d2def837c7323b0966878d8f1" data-requires-python="~=3.7" >aws_cdk.core-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/b9/a76f49ed4035e5b0dcbfbb60233c75b3fd524141ff85bfd23c8e642edca5/aws-cdk.core-1.194.0.tar.gz#sha256=5e176ad0f6b7e50fd2cf0d0bc968584e63d14c2174fec7bb7e79c4814a3a5b15" data-requires-python="~=3.7" >aws-cdk.core-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/53/3f574679a90234a8adf5aed534a9cdf1bf7279cc33363894f59db3226102/aws_cdk.core-1.194.0-py3-none-any.whl#sha256=c09ad2973323b29a1ca7f4b0473af2097cefd39d7abf1b56d1a9e0b7c68fe91a" data-requires-python="~=3.7" >aws_cdk.core-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/08/64ea3aa7fd8e50ded299a159252bd21119cdb10666d554d9f1ddadfd55f1/aws-cdk.core-1.195.0.tar.gz#sha256=a0954ad300b0c5cfad5abcbc66efb489e914a30381cafee404e0cc5e25d82c27" data-requires-python="~=3.7" >aws-cdk.core-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/0f/effe229a5a96d6005659b4b04c360b463f17493ed5239da92e762f8edcb1/aws_cdk.core-1.195.0-py3-none-any.whl#sha256=4797e4d2d4ad3ab0f82ea4911df2a6873d29fde3d471cd4cb24b1fb9242af86a" data-requires-python="~=3.7" >aws_cdk.core-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393522-->
+<!--SERIAL 17132063-->

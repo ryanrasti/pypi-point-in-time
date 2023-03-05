@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for prismacloud-api</title>
   </head>
   <body>
@@ -76,6 +76,24 @@
     <a href="https://files.pythonhosted.org/packages/4a/c4/af94cd6b38db68fc611e0a051204e2ab4d0bb8326efdcb1122b31a5c6737/prismacloud_api-5.0.12-py3-none-any.whl#sha256=ecb1037baf048e0feec03a63d9e463d61d059cd7fd5c1883e1a37e90aac0563a" data-requires-python="&gt;=3.6" >prismacloud_api-5.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/c0/3e980aba8689cfb97943bedffb97dff9d15ccc0c1284a5f67924ea4efa00/prismacloud-api-5.0.13.tar.gz#sha256=1cd858d808899112f6e9334683cc0808dceaafd269c1be51fb69b26ea7a41f73" data-requires-python="&gt;=3.6" >prismacloud-api-5.0.13.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/26/a9e855ae486d511bab7697c861ce9d026f9b13b914cca643818ef40ca26a/prismacloud_api-5.0.13-py3-none-any.whl#sha256=98f7704666a3ccc401cc23eb92f3c42de02ca3cc3599fee18e24233474c8086f" data-requires-python="&gt;=3.6" >prismacloud_api-5.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/b2/dc35636635c4d7b13c9e943e9fba33c0d2470bee7d23e06e6f02ba370bdc/prismacloud-api-5.0.14.tar.gz#sha256=ee59638fe8fe3a6fbd83122cc15c1a7537d23ebb8e22d3d9e4f6bd75a20b72c3" data-requires-python="&gt;=3.6" >prismacloud-api-5.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/f9/d031b9530d9c673681e9737da77e89f0fce330ac68a3bc274b5f2d0ba76c/prismacloud_api-5.0.14-py3-none-any.whl#sha256=f336c9eaa3661f75577ae4b8bddcdb6ba1a7ec4d3e43ab720c55c8927eddbc82" data-requires-python="&gt;=3.6" >prismacloud_api-5.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/f2/62fa89a2deed2c358e992d1d4d4e82588cdb12f577221505264b7b55d513/prismacloud-api-5.0.15.tar.gz#sha256=0b6052f6f63ef1b361840a119f3b6246cb83131452d06ebbbdf0a892aef5f124" data-requires-python="&gt;=3.6" >prismacloud-api-5.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/71/fb35f2e79ed239b632dcc5b1c2cdf2e259eea69e19d57ef851778e7fb208/prismacloud_api-5.0.15-py3-none-any.whl#sha256=3af095c8199c9b664089acdf5baf9afcf26dcecc79b9757830fc6516b83a8b44" data-requires-python="&gt;=3.6" >prismacloud_api-5.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/61/d595c0ce0991f54799eba63d641358d09a46e1ee934ffb9c60b596e503d2/prismacloud-api-5.1.0.tar.gz#sha256=88c8cda85daca48e1052da029c4925ad463d0e52527df762294d6e0557d88899" data-requires-python="&gt;=3.6" >prismacloud-api-5.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/60/9cb30982ae9d0ddf5d20cae7740e71cf7dde8da9b69e5abd826c945c1f5c/prismacloud_api-5.1.0-py3-none-any.whl#sha256=bf89d3193fab81ab91a9535d6108a66f17842191d5b05e3bb0f0229f14b72bcf" data-requires-python="&gt;=3.6" >prismacloud_api-5.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/71/cc0c15abfbf6669a9a1c7e2d1bff90c561b422bfac87c9ca9a3b00a20a67/prismacloud-api-5.1.1.tar.gz#sha256=25ca0ee3ef6b2e08574f0d980aae7bb972ea571efab7c809903501cc47266cb3" data-requires-python="&gt;=3.6" >prismacloud-api-5.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/8f/2c69be76e935aa8b6cb4a0ed6459306f82c8be5701e1da6074dabcd1b065/prismacloud_api-5.1.1-py3-none-any.whl#sha256=99ec43bdf5feca3d59598a2e2673e23858ef79642e9d028e884776c628eb736e" data-requires-python="&gt;=3.6" >prismacloud_api-5.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/60/4f02b88bc6fda5760a1e7de14ff77b7c30e818efb5e661ba9cd1f0abf9b8/prismacloud-api-5.1.3.tar.gz#sha256=4070452ac68377539a7f8ddac5423f416de8f17fffaaf46176d2a5a7f5380d3c" data-requires-python="&gt;=3.6" >prismacloud-api-5.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/cb/3257b130fd7f099dd4365f23562f72c80e35e753160b52daf41eb3c24ee8/prismacloud_api-5.1.3-py3-none-any.whl#sha256=b71160a574a0eefe2d9bef0b7e8abf15cc10a107c620826ce76b6084775e122f" data-requires-python="&gt;=3.6" >prismacloud_api-5.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/c7/1a1eeac5e229b884d956984eea8378784caa2c845e3831d3a4d60ba96cdd/prismacloud-api-5.1.4.tar.gz#sha256=7340c23335e0c84e57851a352483bfd7ab89ed94313170d4784421ea4ebc0842" data-requires-python="&gt;=3.6" >prismacloud-api-5.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/54/1cd3fa99df611b69de29d91857678a2846783f57506a0153c3bee63e088c/prismacloud_api-5.1.4-py3-none-any.whl#sha256=bf80e3842d6f6a28b7919538224dcd216b0827098f87aff56ea710403326367e" data-requires-python="&gt;=3.6" >prismacloud_api-5.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/8c/b0c50f3b0c221e9165b82b8f385b6a30b3ab489390eac20b2a9c5f61309d/prismacloud-api-5.1.5.tar.gz#sha256=cb889b536e6d1fed3d07690a8a13f11e73129d8acc7b64a2d26e3e9a1fac5e28" data-requires-python="&gt;=3.6" >prismacloud-api-5.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/37/eb45c72b8ce99c9e39a87c0f265f1df9a65ad097ddccd2d08845cab5cdf5/prismacloud_api-5.1.5-py3-none-any.whl#sha256=14285ecaa6926f0b11c7c835d3ee0848cc23d0686f9876148305a67edbc6a112" data-requires-python="&gt;=3.6" >prismacloud_api-5.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/32/d4c6418abbe0243cc494d036e5130dcf0370835f736a972303348f2af241/prismacloud-api-5.1.6.tar.gz#sha256=51c5a3733805f42e080ffe4f334a51f0c1a2bdf48765b6fba1ca712c37e7cdf3" data-requires-python="&gt;=3.6" >prismacloud-api-5.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/d0/1254a1ad9ef6a26c11b15f874e06084c38cbf5f553f563431642525598b1/prismacloud_api-5.1.6-py3-none-any.whl#sha256=f01b1d7eaccd36334be703cc7e289cf9e6d98f46514fea6e564464a76c7ec3df" data-requires-python="&gt;=3.6" >prismacloud_api-5.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/68/49834467a95961f738e81155d445d0fd048037d8f65cac3345128ea1b912/prismacloud-api-5.2.0.tar.gz#sha256=8fc27a64d06334ea108c253d2734fc4ccfbeb99525f371f69f01fd72cd034deb" data-requires-python="&gt;=3.6" >prismacloud-api-5.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/11/1ad1d59c7d271108a1f61a165a667ab4298534838104c9657430349c6b6b/prismacloud_api-5.2.0-py3-none-any.whl#sha256=1a2bc514d9f2330591b6c64465e331cae5e74d02c7bfdaa2874dfb7ba9f0fc56" data-requires-python="&gt;=3.6" >prismacloud_api-5.2.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16420977-->
+<!--SERIAL 16799108-->

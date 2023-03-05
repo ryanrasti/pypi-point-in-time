@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qutip</title>
   </head>
   <body>
@@ -180,6 +180,19 @@
     <a href="https://files.pythonhosted.org/packages/b8/0f/6e20e10402c737e65ca9aa0fe347c2c8f554292b043c5c8cd91d44b9e396/qutip-4.7.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9df66605cf383596020a08bcca267b2dd8623d42b188f9068b7e1c813bbb8f21" >qutip-4.7.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/e6/ec81c6e56ee4db930a53bec91efa33d60b2130aa35a7b6f994163704f168/qutip-4.7.1-cp39-cp39-win_amd64.whl#sha256=fd2c970e2134161ceb5a540a34f99355a6f4feccd4ec0b401ce2ff4bf5eba87d" >qutip-4.7.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/b4/7dd554fb24f78e2c584ab9f5d204b41e8d7bd83b1d7b27b1bcdae0163800/qutip-4.7.1.tar.gz#sha256=9a87178e68b145c2145b526caa943ccc8400a111325ced45bd17f9b893663af2" >qutip-4.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/db/2f3e8944b913c49e2d55500c446a6a223f7ef31ea1cab56142a1fd0ccb90/qutip-5.0.0a1-cp310-cp310-macosx_10_9_x86_64.whl#sha256=17b66b3c956af15b191047c0dcb72ed095bb696c8c554576992cd15e062709f8" >qutip-5.0.0a1-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/0e/cdc0f92efaa75260e3050cb57eb4dc49a2bbf35c1c36db53d6d53a73f770/qutip-5.0.0a1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e939d6f6460585b6b8a44f7a5ee5e4b6e8f9d74b5a3eb8bb133bd84fa01de2ad" >qutip-5.0.0a1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/20/d0ff19ba9513a16e78a59eb863267226c16500a2c01fcb3613553d332263/qutip-5.0.0a1-cp310-cp310-win_amd64.whl#sha256=8e676ee76b1163137039e5b7ce1a89b9c4aa2fda2a8721ec094d2e9486af9002" >qutip-5.0.0a1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/00/e132955027884087c3fb12853b3df195286c01fbdda094aa65c65b872c2a/qutip-5.0.0a1-cp311-cp311-macosx_10_9_x86_64.whl#sha256=d3904a006748b032e3f6e246e501884c0c52abd023c22cef22873ae7e4e05622" >qutip-5.0.0a1-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/4a/8b11b7fbf98f7cdca6c8504d4506f5b574e92e4dd873de9ae994b8fb3dca/qutip-5.0.0a1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=537681eb3ed967d320d8d857ea1f976732adb365279adc7188d7714c0a695b85" >qutip-5.0.0a1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/27/67a903e3b7271d09b2b437c69063608c7ee3e264479f3d0f5096a39864e0/qutip-5.0.0a1-cp311-cp311-win_amd64.whl#sha256=52d2e4bd278653889b071b167a2b5f0b65ec826d58787ea4bd1707ab116ea410" >qutip-5.0.0a1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/a2/bb05c21e123a17524b6b57aea759758f3702b6717a03a867930b0ad80756/qutip-5.0.0a1-cp38-cp38-macosx_10_9_x86_64.whl#sha256=f39f337ee69f562c877ca7b169b1127ee5d0d999085c374e60e7429adb009673" >qutip-5.0.0a1-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/fb/1cf61546f3e15023afcc9676a8d945b370f1596825d6fb055ea78541cccf/qutip-5.0.0a1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=08e56005b61ede47217d4aae065f7b3ee133be3580ba8bdbb093c0879f1bf29d" >qutip-5.0.0a1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/f4/0b02fc16c6f74220801c20a2283f8636f4a2044a90ea28b410895336fe84/qutip-5.0.0a1-cp38-cp38-win_amd64.whl#sha256=c5cf1d48307c55f38098474c596f6e2555d440b6b675dcc9ddbb4416c6b9c68a" >qutip-5.0.0a1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/27/45b6b8674a38fd29fc48192f857179d4b356f388bbb01f005e8eaedb0c66/qutip-5.0.0a1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=6e850607142bcca2d2331f7b40aad1caef7efc4d1ac61860096ed117af374d27" >qutip-5.0.0a1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/9c/09db79b1e7531fd2c4a64d038e1c3fe7847d6ab770e3b16ca22e09547050/qutip-5.0.0a1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bc8fe6cb661f57b4b097fb650ddbe8dbb053cbd0840edef249983217fcda4171" >qutip-5.0.0a1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/4e/7a2079e45687bc74a7f59883bb6453a0497bd912bc4e03ede0eb43d157de/qutip-5.0.0a1-cp39-cp39-win_amd64.whl#sha256=95d7171a26c40936bdb18cb8f8e9592013d32d5ab7cc70b11ddf699e44c4eab8" >qutip-5.0.0a1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/27/68d15e39428127c6aa7a4672ec1f4fd9fc52acc5c208d37ba03bdd6c6424/qutip-5.0.0a1.tar.gz#sha256=1d374469dc17f1fa9db995ee41ad052bb60e56e8294ce35f428e27c1f53bcd17" >qutip-5.0.0a1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16079328-->
+<!--SERIAL 16732699-->

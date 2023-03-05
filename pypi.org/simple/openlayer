@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for openlayer</title>
   </head>
   <body>
@@ -9,6 +9,22 @@
     <a href="https://files.pythonhosted.org/packages/d8/d2/8ca461846d8f77b2ba86292915f3cb6ce9c8a29aa804d02d99377c95cb63/openlayer-0.0.0a0.dev0.tar.gz#sha256=d868f35cd0a21b843d41f1da12d1e724ee4e6838c61d7baceecbaa8c0ac312d2" data-requires-python="&gt;=3.7" >openlayer-0.0.0a0.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/3d/30f2606b7ef8e4c742c4ad82a44bed16c37247e9b655cedf281de8ea8a90/openlayer-0.0.0a0-py3-none-any.whl#sha256=3c02c6ff04c3b0d8b51e630f9680b05b09d573b1e35efa0e3d9b71d54d122495" data-requires-python="&gt;=3.7" >openlayer-0.0.0a0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/e5/508607c947ae0f1655fd9e29b8275565903c89666d7a7eaf782d2e0a722e/openlayer-0.0.0a0.tar.gz#sha256=c7201dd6d7fdff7b1198983fbecec1254a2751d369eadc176552f11a28c2b7bc" data-requires-python="&gt;=3.7" >openlayer-0.0.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/be/5121bcd055d97a7df0a7d8391317e06700ee39bb429595789cafa04576d2/openlayer-0.0.0a1-py3-none-any.whl#sha256=6b160a8197af92e3c917f5ae9f2a9bad18a6c8c432733ca911d378cb878bc92b" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/68/d261078fefc644582693c396b7bf88a29e78670fca984915f955062ed0e7/openlayer-0.0.0a1.tar.gz#sha256=4db2c47b4f2eee18f9e11a60570b899d307893492d55a843ab7cf603afd05b82" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/59/56c4f6cad0d6b1878d123eb9552d25b5fd1ed357c8adcfcdd4f269c0d5d5/openlayer-0.0.0a2-py3-none-any.whl#sha256=9eb7a29cdb9e5f4028f18d3c8f850284881e3df8e5d83c323dbc8bf3eccc9876" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/1a/54fafa8b595d326c49415f0882fed50ae3de5d134897cb416bf3b4d4aa49/openlayer-0.0.0a2.tar.gz#sha256=8c5a46e892d1a9f5171cb7d24d5c18123bba8e36f3aeaa21e67aef9a87425855" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/18/78017b8189076aabfd5d693c136d613d8fb1dadecd2fd45866c4030bb64f/openlayer-0.0.0a3-py3-none-any.whl#sha256=45c88a1919ded1c0fb12c0eb332e717630bf6b966077e7d7b4a75a701e8e506d" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/d7/8f94f6571b9f9c3ba2dd6487047ba49448425d48e59cffb81785b9d536e1/openlayer-0.0.0a3.tar.gz#sha256=48f76b98608e50e1cc650e3b21006800d9eb735ac14aadb011277b368a490883" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/ce/807214e5a66b7089219349067926d34df8c992805cd3f55f2725df4a9a5c/openlayer-0.0.0a4-py3-none-any.whl#sha256=d6920626a9dfb25c2b77dc637e6b6fd43ca9b93822811eb427e052ed211df8bc" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/03/095ad74a00b0a112e3b3bbd0d1e0825548e12fc79f3d98f4bc14606a56c2/openlayer-0.0.0a4.tar.gz#sha256=80e6b0e07eaed5935d4e4dfcb3c513eddaf1d3ea0465b53f19ee7f3e316e32ac" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/7f/e1e9aaafd7263286770b3bddd511d3bbf7347e41d7ed27344d0669a827c1/openlayer-0.0.0a5-py3-none-any.whl#sha256=48d12950ce09fa252816ecb338e583dff75f3493e4eb4c533712b4787f093ade" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/5f/f07336cd2e9e849c6a670c976d89cad346f372caf22e86913508336828b0/openlayer-0.0.0a5.tar.gz#sha256=cb84e0acd5d7881cccbc8f015e92691ac76df7d4687e2d3fcad831de323c34a0" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/33/3c2215c73c43157d27c2377526c10405030fdf5656e833939c3efa86e079/openlayer-0.0.0a6-py3-none-any.whl#sha256=5be895745e145d9f58a4dcfcc7c26ec89c9eba9b5d2773ab0d8ba414f8d6fdfa" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/19/cbb1e464c9e5b71039eff258e5bb1fd9d53706b4328581564ee9c9079bab/openlayer-0.0.0a6.tar.gz#sha256=c3ecef8812dd7f7b07c2fb8e8a14a29e9ca573d03be773841adf98259ce8fd03" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/48/5e9d73ad1a9476981eb9b4e8ce72dc9f5eb8f4ab500deb87ac67c71ec9de/openlayer-0.0.0a7-py3-none-any.whl#sha256=4d7603ef0e100de78481d4ba069c17457951840e936967cb8be45e8c54cc839a" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/31/5bfa2d456415dcb0eb2ce024f1e02a94264fa991836a353935fa41d2ca5a/openlayer-0.0.0a7.tar.gz#sha256=4fe715912d3f2bc2c4583584708896d3ba1344ca8ea90d953265af4117832be5" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/2b/8a9def1d501e634de953e48277c9ac3c240e68d84bf03fb0fce49f7415f2/openlayer-0.0.0a8-py3-none-any.whl#sha256=eb303c112018d9d94197c0dce69ebd959f8a0b1f15617c0b7da31fe91b777114" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/6a/5476c27da81f9111cf2b780b1138b7a9b3ebcaef00afd719225f140e7f7d/openlayer-0.0.0a8.tar.gz#sha256=1ca20e227ebc9bd5b7981185149e579925cc94e213d605f13a7130a6edb95934" data-requires-python="&lt;=3.9,&gt;=3.7" >openlayer-0.0.0a8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15233824-->
+<!--SERIAL 17069542-->

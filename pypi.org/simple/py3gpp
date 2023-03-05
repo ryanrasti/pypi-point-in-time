@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for py3gpp</title>
   </head>
   <body>
     <h1>Links for py3gpp</h1>
+    <a href="https://files.pythonhosted.org/packages/84/3b/2097f7622fd4655b88f3b50bb311c5ed3b0b0f24a771580370ec68283eaf/py3gpp-0.0.0-py3-none-any.whl#sha256=738a426674416d5eac8ff429b94958c5f4169bf17d75654b567c8d9e5e0a13ab" >py3gpp-0.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/e0/be4beb326778127015e0e28d465afa5471e0f152b91d75bf26f27dc5fefd/py3gpp-0.0.0.tar.gz#sha256=7f9bb20734503c2f3d935b7d2d4f78ccdaec909cef97decfe6beebe75380eb89" >py3gpp-0.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/c0/652e807de9e578b9f9c95015f9e0caec6117ec733e9ea45e789146cde495/py3gpp-0.0.1-py2.py3-none-any.whl#sha256=7760caca7b698e23eaa199d39d3350e6605b70368f236287eb0592ce0c268326" >py3gpp-0.0.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/62/c4b966497ecdaaa7a9adc41fa83f56ebb1dcca3f57d717997416c3caef8f/py3gpp-0.0.1.tar.gz#sha256=3aadae17f9ac5ab7dee177e71782ea5adce6de154eb26ade6d820880d7a98c3c" >py3gpp-0.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/94/83/c4c5ee21e8e82ed1721e53cc5f120c4ce7b49ada1fa863483e1a0aff5a12/py3gpp-0.0.2-py2.py3-none-any.whl#sha256=a07fc1a99462bd2c1e4c7f51edf61b27b827669428c737f2a9539a2bee014243" >py3gpp-0.0.2-py2.py3-none-any.whl</a><br />
@@ -24,6 +26,14 @@
     <a href="https://files.pythonhosted.org/packages/3f/b1/19c77beb20c1298ef28d4af691daad2d82cf6eec1ba947fb95d98257f645/py3gpp-0.1.0.tar.gz#sha256=b773d1126ed6df2d9bd41d6f8ddb60ce9b01c657cf622260006d1632db948987" >py3gpp-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/64/8b424146d65f5cfa8f9b13ff0a0898921d4c044ec9f7341073c7bff62405/py3gpp-0.1.1-py2.py3-none-any.whl#sha256=eab490ee590d9f4a869f1e9b2f3a6e430466c65c62f6ae53ed5d7054f6650c2e" >py3gpp-0.1.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/72/d6/217ad6871572190c3238deff957af3004a034834ee52e78a8d3c7faef0a8/py3gpp-0.1.1.tar.gz#sha256=2b2d101037bf9467bcbb042b412f6f9d3f190374d9db90cb3a3c2e757d538d04" >py3gpp-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/df/7179fe3f45862392370fd7f3e19ae976d731de4216ad8a768cafe7a7819f/py3gpp-0.1.2-py2.py3-none-any.whl#sha256=5083d860ca497720aa07db91097ecf02256482316204d84983bac3969e7e53bd" >py3gpp-0.1.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/47/ceee8a1204c0e580c3dfc616c33dbd2fad55b3ef23cb0853ca1f770a4f7f/py3gpp-0.1.2.tar.gz#sha256=6fb1d8d2e40ba32a5e31bc14a5d487c03b3f941cb650e50185943a6869394b43" >py3gpp-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/e1/c8da08fc5f4a60ffbc5a0fbda5a8603c9e1a8064651ab8ed8e4acd32ece1/py3gpp-0.1.3-py3-none-any.whl#sha256=39d8b5b66a1bbf37a6ac4b5c518034e5c16dc08c646a85b7877bd5fc63d1e03e" data-requires-python="&gt;=3.8" >py3gpp-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/e1/496b2509e0e4d947e41d2260cf7e7bccd358e80b8526a53845fbd6607aa7/py3gpp-0.1.3.tar.gz#sha256=270c1a992f83872d0f086acc19f6e51d06026baf63b2aa1c0fa315bf809d1661" data-requires-python="&gt;=3.8" >py3gpp-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/38/dd16dab48af97dfe8b82805e2e6dc6463f659838844581950449449fa0b3/py3gpp-0.1.4-py3-none-any.whl#sha256=1a0b731ba7084eebc9e9b8eadd1a3401541aaba9d4d70563c9f84f70552968e0" data-requires-python="&gt;=3.8" >py3gpp-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/8e/6198471aa214e6b09527ce631a6d6aa57cf24b50b58a6a726dba42c18278/py3gpp-0.1.4.tar.gz#sha256=2094517c2584824230f4af81e925f3a4ab73922e74e1e86a72dda846aaef3bc0" data-requires-python="&gt;=3.8" >py3gpp-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/de/70b00e20041141358c3f6933bfe463cab34ebb25592f3bb74fa0a1dee3b4/py3gpp-0.1.5-py3-none-any.whl#sha256=51991b4e7f53c99e66908d06b802f77b417452f84b4e6104b6123ab603efe023" data-requires-python="&gt;=3.8" >py3gpp-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/bc/c7c8a6e9194c47e75170d046a04772546d7fe4fde9bd260c9a4a7ab8ce9e/py3gpp-0.1.5.tar.gz#sha256=e2130b35aa8a5eece31340eaa3dab2ad1ef7cf0451be6257533ae92cda6ce673" data-requires-python="&gt;=3.8" >py3gpp-0.1.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16239432-->
+<!--SERIAL 17099710-->

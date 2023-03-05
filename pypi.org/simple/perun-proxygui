@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for perun-proxygui</title>
   </head>
   <body>
@@ -16,6 +16,22 @@
     <a href="https://files.pythonhosted.org/packages/1a/aa/3044be29aa0fbdd6c13eea33106fc3307a96497d32c4913da9e28d40b9a0/perun.proxygui-1.1.1.tar.gz#sha256=f79b4856958e8c2477f0b6df7cc09f1305a5d8f71537c9361b74e09e2a84492c" data-requires-python="&gt;=3.9" >perun.proxygui-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/41/2b/2497bb1f0179e9b661682c9ba5979541c50077646087821e189dcf050de8/perun.proxygui-1.2.0-py3-none-any.whl#sha256=af463a72ce1d4f7744ce759f2dddf3b4233e9b0a321febee4d09be5313b73e5d" data-requires-python="&gt;=3.9" >perun.proxygui-1.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/47/e3/4a7ac9bd0aa7458b346afc408c42d513a4ccea6fa23e6ba0f943839873d2/perun.proxygui-1.2.0.tar.gz#sha256=2e2a3ecdc42534bfe6c93b3f4f60576146d12ec9893a155ed9e6023d5aa40ce3" data-requires-python="&gt;=3.9" >perun.proxygui-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/63/a01b2592fc96b906762fa83dc38d2299ddf9b53ad1b7aa48ba06dcf58675/perun.proxygui-1.3.0-py3-none-any.whl#sha256=b08c1c1e273f36fc488fe96ba3a012b6f0ca83f185705b7c5d87e55f6d6a7ede" data-requires-python="&gt;=3.9" >perun.proxygui-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/83/6d80c2caf99cf871c4a2fd5b1b25aedbbaf3e4d884df7cbbad6d0070cd24/perun.proxygui-1.3.0.tar.gz#sha256=a6eda2b2bf8f175cf5ce5e20b251f7ed2fc6e2019d004c83f900d330f99d6adb" data-requires-python="&gt;=3.9" >perun.proxygui-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/75/66091189f3612724c6177453b29b1b63dcc7911c84b4f8c357a91358c2c6/perun.proxygui-1.3.1-py3-none-any.whl#sha256=a5b17df58a44bd7456cb81fe9f2616b66393875d2ba195737d3abc20c26167fe" data-requires-python="&gt;=3.9" >perun.proxygui-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/8d/1b3fc1359a4253de9e51fda7b0356f0856bd138664409c21f0b8ee4258f4/perun.proxygui-1.3.1.tar.gz#sha256=57e229805a9b3c55774cebc16d443a09e0791c2c4325ef2bd72122e5e22abcad" data-requires-python="&gt;=3.9" >perun.proxygui-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/68/873d6e5234a74b85a88e763ce709ecadb2f35f204c9463be1bcb7f2c49ed/perun.proxygui-1.4.0-py3-none-any.whl#sha256=4d1d2287dc3c561aef7ef66daac2f796024e7167acf98fb9ba760821200bfa9a" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/d2/c98f69b3f845e8c22da920fda2e3cbbc11f608f395f7a80d46d5605517bc/perun.proxygui-1.4.0.tar.gz#sha256=6ad2bf43662cc9c9e61170f7bde74a9e958ddb20008b635aec7eaea2dd5c37cd" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/51/889ad57ce650b1e0a019a41846198b257b57a066d306ae910333cb8993dc/perun.proxygui-1.4.1-py3-none-any.whl#sha256=91222ac64ace9ca4508f141658cab917e18ad608534f8152f9a35798bb1b695a" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/30/f6d915d52d6f220d6b23e85c7c9f90a6bb501dea2b060e2811355123da1d/perun.proxygui-1.4.1.tar.gz#sha256=3cea39246202142e4addfc246373c4f8237732b6ec68ccd344d4463d68ecaf2d" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/e3/733a2fcc551e7bd5db499bcbc31d7a4339f7b92adc628d5045cd5f1a20dd/perun.proxygui-1.4.2-py3-none-any.whl#sha256=432526662563fb7b75c8b89ee2aeb8f41e9a1438c9ef258082680b6b3cf76909" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/eb/a2c85dbbb926d21591764dac95a55d0d822e79443a5c6a01ff0645c3bb4a/perun.proxygui-1.4.2.tar.gz#sha256=78a7e4bb0b6039d789664278f107713adaf21e1ca7f1c371ab3a8c5bc42189c0" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/55/8ea8badc578bd73fe84c1bdafd802e5c78293737c07cc86801de40196a09/perun.proxygui-1.4.3-py3-none-any.whl#sha256=5e2c2a5f4bddeaf352be07beca7b1b0cc620aadd8916df1f01e6304202f2feca" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/e9/1d9ff5e3f3a8fe591b80797c04857a8cfa701764d431700f2a1c9a762c25/perun.proxygui-1.4.3.tar.gz#sha256=4422d88dadb4835a990721231e6c5091516b31dec39b1b511445ef504c166a06" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/02/2ac674aa306adf665eb1a92c22d2352a47a842ae86a7db709805c9924757/perun.proxygui-1.4.4-py3-none-any.whl#sha256=374804585050cb849c6131e3192bded421daf6a0e50b51c9faf501433919d364" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/cb/766a6fb6b4b1338846bf386ca1e4dca806f751f7399313c0d713857635b5/perun.proxygui-1.4.4.tar.gz#sha256=f4de6db12300d508ca2cf59cd5aa583dcddc1f4fbda3d73eeae74fc0dc25f462" data-requires-python="&gt;=3.9" >perun.proxygui-1.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/9c/70fa7b5b230edb5ce4635f82b8b45688316b57654fb690f0186281004455/perun.proxygui-1.5.0-py3-none-any.whl#sha256=19b320df15017903ce616ece233c8d3daf02d6cb1eee770659312c80219dd2ff" data-requires-python="&gt;=3.9" >perun.proxygui-1.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/d5/d887f3540905572fb87eb48ab4256d1615e074bc47f85d0450f90c7670b9/perun.proxygui-1.5.0.tar.gz#sha256=14c7d87c248b28972bf0e10220320146d6b145fffe9697bbafadfdd1559ffada" data-requires-python="&gt;=3.9" >perun.proxygui-1.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15676761-->
+<!--SERIAL 16887772-->

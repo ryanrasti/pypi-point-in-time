@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tcia-utils</title>
   </head>
   <body>
@@ -12,8 +12,20 @@
     <a href="https://files.pythonhosted.org/packages/bc/93/dfb439a2a5000cac3831bd8451646ce325ea7dfa2b620e4e4688188d4a88/tcia_utils-0.0.2.tar.gz#sha256=d156681eae7c2b4ac0a924fd8778a5d11380439d37e2c55bdd6ee936422f4bf7" data-requires-python="&gt;=3.7" data-yanked="filename conflict" >tcia_utils-0.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/5c/9c49e4f84a6918a862893c6985bf8cdfeb47f42283a7914187b862263437/tcia_utils-0.0.3-py3-none-any.whl#sha256=c3b997292bbb4a002371cb56840465a95fb7ee2ad9efffbd9d9fd239a60ae67f" data-requires-python="&gt;=3.7" data-yanked="" >tcia_utils-0.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/3c/2c37198290b7dd7be091dad7687af3043c0901070478e4e7c7fc06ef463e/tcia_utils-0.0.3.tar.gz#sha256=fc29c981730495a1ca64349d4e958954381852703474c26f9cd2c8b88da70ea7" data-requires-python="&gt;=3.7" data-yanked="" >tcia_utils-0.0.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ae/e9/ccb4240d55f9b59d7a84782de98822b36d4656b8ec1c94ca7751bd608475/tcia_utils-0.0.4-py3-none-any.whl#sha256=00e530ca052c3fd3c0cb67e0a649ac8533d9046784922bb73a060f4e06d4ac59" data-requires-python="&gt;=3.7" >tcia_utils-0.0.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e5/5a/97bc3652359e22ae36b324c38454d522e22db377f4cb3f66e3b6fa2cef40/tcia_utils-0.0.4.tar.gz#sha256=87e175b2f615da6031231ede9d092e48f1ea1e8c355ed3ed1d30eb8ab7a70d19" data-requires-python="&gt;=3.7" >tcia_utils-0.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/e9/ccb4240d55f9b59d7a84782de98822b36d4656b8ec1c94ca7751bd608475/tcia_utils-0.0.4-py3-none-any.whl#sha256=00e530ca052c3fd3c0cb67e0a649ac8533d9046784922bb73a060f4e06d4ac59" data-requires-python="&gt;=3.7" data-yanked="bug fix" >tcia_utils-0.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/5a/97bc3652359e22ae36b324c38454d522e22db377f4cb3f66e3b6fa2cef40/tcia_utils-0.0.4.tar.gz#sha256=87e175b2f615da6031231ede9d092e48f1ea1e8c355ed3ed1d30eb8ab7a70d19" data-requires-python="&gt;=3.7" data-yanked="bug fix" >tcia_utils-0.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/3b/ccc76ac89ab80fd7a39967dd064a2e8031c6965bc8e1a7424ab080a6818d/tcia_utils-0.0.5-py3-none-any.whl#sha256=e64ed9fe53588b2798c94d92cd6701d199fb005a1c4522315167d862c9f78246" data-requires-python="&gt;=3.7" >tcia_utils-0.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/71/8bf30d17bc7ab957657554f8ab3f2ed29c30fa5bd2aacbbe8d28ee4c3858/tcia_utils-0.0.5.tar.gz#sha256=915f894d7ce85385d47670047ed1e609cb591a13deab6596a314b9d912d832ea" data-requires-python="&gt;=3.7" >tcia_utils-0.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/34/3273e1644d0deb7079799870c68f5f1bee4dc018694aed9868018ee01dc5/tcia_utils-1.0.0-py3-none-any.whl#sha256=8c8d3bfc898bf3c28f1f25391b65447ebf726766c76b89f6b4bb3e8af8558bb1" data-requires-python="&gt;=3.7" >tcia_utils-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/d4/ed10481099271a3ca952d47676a9ba300e435ba8b5b8ca4af3ab1b23fb58/tcia_utils-1.0.0.tar.gz#sha256=e0f14ac98fcac40b7a40871ae55273c08869052ec89f8fa3018efbc7b121b7c5" data-requires-python="&gt;=3.7" >tcia_utils-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/c3/e2c8222275820133931030a22b181967ba8be3e05d814f1cc8c5a33614f2/tcia_utils-1.0.1-py3-none-any.whl#sha256=c8c6dd81c1b89269fc808563f4f84a2fa64a3bec7425e0f99ca25e898a74ac7c" data-requires-python="&gt;=3.7" >tcia_utils-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/c1/86393780b1c6ce1edd557d1a3802f603f159d4e481092be8e18c20b4b807/tcia_utils-1.0.1.tar.gz#sha256=74ff0142200cf091dc53f90ddf2bef48c6d66308ddd018bf3ede809eb5db36d0" data-requires-python="&gt;=3.7" >tcia_utils-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/6d/edd839339320152a06dd2c6f38a4bc44f94d7953f12f8f962aa0a00e0e04/tcia_utils-1.0.2-py3-none-any.whl#sha256=8b0f81d7babb666a4d329967c2a77cb4de88a13d4f86f4d5dc824ef2b4253488" data-requires-python="&gt;=3.7" >tcia_utils-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/dc/34b350eb4348bb114668ee3e0a81f5dec333c771b2bd9a0cb48243c55130/tcia_utils-1.0.2.tar.gz#sha256=ec9732992cfb2eaddb066d4427aecef7c3324ec6df71fda3ecf7e3b0387f735a" data-requires-python="&gt;=3.7" >tcia_utils-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/6c/f7d7388fa5e6d8877d195cbaa2648735042775cdd58c6eaad19e9e641d1a/tcia_utils-1.1.0-py3-none-any.whl#sha256=236d1d034335af2c4d9b620c1779bbafa3c9fe146dde596f63f21bdb5b686990" data-requires-python="&gt;=3.7" >tcia_utils-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/38/7d7948a664e1de33284ea1bd2b728e227da6a78c63cd3102e76d203fe6ca/tcia_utils-1.1.0.tar.gz#sha256=14d304cf1ea5bc99cd4a8c2b203a892c7f7da24cc55f894137925cf74143a685" data-requires-python="&gt;=3.7" >tcia_utils-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/91/344e3345f398cc153fc97198c892b51a5e8e45e5842f5d019272dc05f826/tcia_utils-1.1.1-py3-none-any.whl#sha256=085d1e832c30ec1809cb5bcb06a42a211e8f2d281f09481fc00332468313f338" data-requires-python="&gt;=3.7" >tcia_utils-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/20/7564810bbc39fcf3e056115bf6fb96c63e8edede91ff801d7118258b3eee/tcia_utils-1.1.1.tar.gz#sha256=42f2e865ef716e5ade70a4364ba22afd1f021fc97ffc910bb6ec883dc05e0435" data-requires-python="&gt;=3.7" >tcia_utils-1.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16421725-->
+<!--SERIAL 16943851-->

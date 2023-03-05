@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rosrestpy</title>
   </head>
   <body>
@@ -34,6 +34,18 @@
     <a href="https://files.pythonhosted.org/packages/ec/3c/d958855c729ade717ff47a93e2b93c2288c6243099b29f28f3437a6ca2e8/rosrestpy-0.2.0.tar.gz#sha256=b4cc17515f7bd1b45c3ebadc6c6ea7028c7719313293f88634132daccdb764ea" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/17/a0fb91f432c8d94d43a6e95f7981f8a2baabd925412079f88f47e83c9ac4/rosrestpy-0.2.1-py3-none-any.whl#sha256=3016594df4897f49e44adf5c2ff4ff405cb32f955ca5a311efa5fd36ba27f012" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/83/c163b564d713173ff84c31e3e15864b0fec617e7d216246826db4af9a958/rosrestpy-0.2.1.tar.gz#sha256=7a8cb4b45202c15b9a3ac4bf90b05df1dc5e43145160dcf0b19ad1b9fd3c5c47" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/4b/69af3512f0a63b274c18a5580b72cf1efa1df2630e148b57ae35ee392b7b/rosrestpy-0.2.2-py3-none-any.whl#sha256=582d3157238fd4689f2b705a11eb4caf1a7f6dbdfdba7d91509550a32000c8c7" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/0a/908d0f6284c28f0780757c2fdca9f253e42a8ae5e2807cffed4eea39a417/rosrestpy-0.2.2.tar.gz#sha256=73dc7f357b78a14e7afe23a6a114b0983836b9ed3c09fee0656fb12510fa524c" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/e8/c0476d577a3752a24645c6fc3b5c3c46f92edfacc9c21fd9996d3ac4fbc9/rosrestpy-0.3.0-py3-none-any.whl#sha256=1866260e898669ee32ae4234f66ecb60c5e1525c49453009f51f84a03e4cc588" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/c4/135f7a78621cc06816c17601e5b48a5506e8cb05da2790e531245bc8449d/rosrestpy-0.3.0.tar.gz#sha256=f7a89b1a75eea664614d892548e2b640119011c422669b87478239a142705534" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/be/59fa26261ded72502cd65bc975be04c080a57f21cf2cb56a2d23bcc0abf3/rosrestpy-0.3.1-py3-none-any.whl#sha256=e2dba3144dde7a621b4e1433f726073bf560b421a69a866369e8cf08d030dcb9" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/a4/00d90a3f35f40df25c40d39108f70e02d4f0868a7417bbc44dbffab6a393/rosrestpy-0.3.1.tar.gz#sha256=abe753a7faca1c65fa8b090586ba8d477bbcc583d8764db983e0e132e6654d6f" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/07/1fe84b489f1ad98272e723fee48765d1634087d2996886891c8fce5f6c9d/rosrestpy-0.4.0-py3-none-any.whl#sha256=1250f4e52b44be125442783f6b8169eaee8e905089cdedb9fc4df7775ca37e13" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/81/e7bb85808987db98af70f2d3c1d0a13fa67e5ec0bf2e4db18b416d04d2e7/rosrestpy-0.4.0.tar.gz#sha256=06ce79cdea2bf8c0a76b7a9e7e47450897d090c67e723bca7dba1c1880d6ccd0" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/79/01390d3c84b7d589020a5c6580262ba8803e5355b2fcc21e425bcc878236/rosrestpy-0.5.0-py3-none-any.whl#sha256=e9ddaf9315d1edbe20943ed0b89ce95ac5d68e414e104919c08d55f9f89f0150" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/2b/16654568fef9f91dba0a5a4fe5e5804779773eaa25d417d60876c91d5c73/rosrestpy-0.5.0.tar.gz#sha256=08a047092693bbf64f40fadaf48e6b59f3533c975f261c49966c8079ae15d7c4" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/7a/69eb49639cd7a5947bee47245cb9610a7fbc13f13a7df8c785855c8d73ea/rosrestpy-0.5.1-py3-none-any.whl#sha256=daaae762cfb52ea8725dddfc5574a96d57c894ef5e371da55760d80bf6120d4d" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/c7/ee7c24781e729322177401c8140abc0a959a7d175f54b5b9c9345e1fe548/rosrestpy-0.5.1.tar.gz#sha256=4c0100431008408ee9ffac0929fc15e1a0fd31dace3044f46d094466ac0ec439" data-requires-python="&gt;=3.8,&lt;4.0" >rosrestpy-0.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16120029-->
+<!--SERIAL 17060187-->

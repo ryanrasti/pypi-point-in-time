@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for funmap</title>
   </head>
   <body>
     <h1>Links for funmap</h1>
     <a href="https://files.pythonhosted.org/packages/84/65/1d58b2d76e9bdaf8a0afaf5ed72011b3c6986e48adab258ec564773f1ee2/funmap-0.1.0-py2.py3-none-any.whl#sha256=c725073faf5731e80e84bcb3338541006ab2b613bd4d11dbc1aa9ce49f9dd1a4" data-requires-python="&gt;=3.6" >funmap-0.1.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/84/23/5657562cefdb32ea6fa7ed2d6ecc74aa12a47693b7ec0bf1fdd24f63b1a0/funmap-0.1.0.tar.gz#sha256=f7a83f2b1714dcdec2b745bf60d0854420888169b34b15654b70dc79b5d3d816" data-requires-python="&gt;=3.6" >funmap-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/15/3c0a91201a0a27dc6134ff553a6f816909f7e37ae9e99840f2366aff8860/funmap-0.1.1-py2.py3-none-any.whl#sha256=a1b5534a6b6d596505a3060f4dc967b37eb3d902ada833971b4829288144bb39" data-requires-python="&gt;=3.7" >funmap-0.1.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/4c/ed37a321ccdd684f54481164de8db7739fec78ec4020635fc05a719f2719/funmap-0.1.1.tar.gz#sha256=86402d5693538cec7617c9ecf91a9894fa85cfac59a79f731d4014c67e33cb5a" data-requires-python="&gt;=3.7" >funmap-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/d1/417f1c5cf16ded6108fc961dad70ca041309ced02739c8e5242250e9ecde/funmap-0.1.2-py2.py3-none-any.whl#sha256=60958a5ef17a7698f24519d57a69a995508afdda3ac971058c358f2194881a7a" data-requires-python="&gt;=3.7" >funmap-0.1.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/6a/04cb5aa97f963b60a2d8fcea3f1810f07113438a7ac1309e499cda8476b1/funmap-0.1.2.tar.gz#sha256=f731a3928ab7b52fa4ac15401214be01a00d48e398fb24aea219018d86a78a83" data-requires-python="&gt;=3.7" >funmap-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/40/06b5054433cd3a8552a9e51c8de12001d74b5c86d8d0895ed0a5bcb32189/funmap-0.1.3-py2.py3-none-any.whl#sha256=8bc95fa8b923be4d21ecc68f62a3cfe3cd133c671090167646596ef1dcbf06c1" data-requires-python="&gt;=3.7" >funmap-0.1.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/a4/b57545c7f84947a0ceccd598a9461b5b19a9985b5d974c3bca6d3fbe3fe0/funmap-0.1.3.tar.gz#sha256=df6a263531efefe3b9fda7d4cb2dee58dc759832812411235495f863b3aae21d" data-requires-python="&gt;=3.7" >funmap-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/10/2a7ba763906acdf4453553006e89f3dd51c11245ad16a37edb428653f68e/funmap-0.1.4-py2.py3-none-any.whl#sha256=78ddee8b55713d8c9dae12d7dc8c483d513fb60f1027b8d67f1d7275067acc9d" data-requires-python="&gt;=3.7" >funmap-0.1.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/be/938c28f94c0757b5797f840c05246a85fb045ec4b80a5fd79a6299904865/funmap-0.1.4.tar.gz#sha256=ad40da93b944d4b10309428be81b49133cfcd1bcd61ba2630bc4829490319b59" data-requires-python="&gt;=3.7" >funmap-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/55/04816b7a293969186dc903da7ae40eb79aeb6501653f11ca3fcd8f4af7af/funmap-0.1.5-py2.py3-none-any.whl#sha256=586bb6b5c6b687895d1a56365c601fdbb3d607c68a6ed3389bbdbfc560775e3b" data-requires-python="&gt;=3.7" >funmap-0.1.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/f3/96c4d0196c88350e62cfe48cd9a54796386569d7469ae9f40f7c3d90080a/funmap-0.1.5.tar.gz#sha256=9e9037548a4a6438f4e8270171f512ccbbaac0564e6d337cf45158f158c1c617" data-requires-python="&gt;=3.7" >funmap-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/2a/6423b4efbf511b21c6fd7bbf40dba1a07f886de76f3dbb2ff2e3a50ad3da/funmap-0.1.6-py2.py3-none-any.whl#sha256=68ef029cd4f80e54dd36175061cead6810db52906f74d76425f6e7672df463c2" data-requires-python="&gt;=3.7" >funmap-0.1.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/50/5415f13904ad94c5938ed3e5535fc01b55ef090d469299394abfe5f0870b/funmap-0.1.6.tar.gz#sha256=d18230a54e56e1bfb333b0e267323392951e1d46fd0c3832a9fd2b54a6e1c9e2" data-requires-python="&gt;=3.7" >funmap-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/38/011a85bf7019806eecd07a09eaaf5efc4cf1ada114542afb86f2359e612c/funmap-0.1.7-py2.py3-none-any.whl#sha256=bd8b951fccedc49bc6b8f6dcc086de790d9c98dc924f250a628f66442dfcf2b3" data-requires-python="&gt;=3.7" >funmap-0.1.7-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/e5/1e4af619ff17478e7e3e2a5c8bc35bb8d5f62435aaa8738ddf20237e01e0/funmap-0.1.7.tar.gz#sha256=bb5c3c523d2f95b9776c34274e4429413c82f30deb8cc33195ffc721a21097fc" data-requires-python="&gt;=3.7" >funmap-0.1.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16166106-->
+<!--SERIAL 17101795-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for traceable-agent</title>
   </head>
   <body>
@@ -82,6 +82,17 @@
     <a href="https://files.pythonhosted.org/packages/bc/64/214b420ef7d8f3351fc58289c3d43b34986e0983e3f73c7378fc3e9a3168/traceable_agent-1.2.1-cp38-cp38-musllinux_1_1_x86_64.whl#sha256=f7eb575c33c0272080d9a53734b14546e977e7edcf2c8da8b371b2bfaa864221" data-requires-python="&gt;=3.6" >traceable_agent-1.2.1-cp38-cp38-musllinux_1_1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/93/46/90a2f5b888bbfd468033e3111ab92eed78f61c2473e245444c95448798e8/traceable_agent-1.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=31e678f2d8e1d888e132c8fe951156cd9481efcaf09dc6dcfb4830702064bc94" data-requires-python="&gt;=3.6" >traceable_agent-1.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/3b/dc0665f088bdd55178771cbb0fa4f086fc7d5856fca467967a04d86c4599/traceable_agent-1.2.1-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=2a075431e4307e9ed597a3719c308b450eaf89b4ac3b5978f5e4af12cf1105b4" data-requires-python="&gt;=3.6" >traceable_agent-1.2.1-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/eb/728fa2143ca6362ac7ff59f7aba9c41a003584d94493f9deaa12f6dbe63d/traceable-agent-1.2.2.tar.gz#sha256=f841dd125e41b81030e9d35f2c0efc14b17b3b31bbce7ea7c8732cbae03fd5a1" data-requires-python="&gt;=3.6" >traceable-agent-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/ae/2dd2fa8f7a6f61129512e4ef59e3ad3b667305ec6308ebb6e8cf7bd16cc2/traceable_agent-1.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f8cc9fa1871c09003ab293634b45562dded239fe6c643e5f2d42834687ea89fa" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/01/b061602c75dc314a8206de5eddad787eb5b89b440389a84fa68b490203df/traceable_agent-1.2.2-cp310-cp310-musllinux_1_1_x86_64.whl#sha256=00f3f3460fafae722b5e5da5767d984d5565c821ff72a575e003b352716e7fff" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp310-cp310-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/cf/12604c5efc6f4f22976b982e0cd7f68285572531dcce2bb52a24da387817/traceable_agent-1.2.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4c1972ba23fb0acc2d8ec20fe2857e2e72a67d1335d51953a724435f912fb88d" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/b2/912337da40eaf3dc60b802d336086d3068ef6fd96eb1160afd53d5f40668/traceable_agent-1.2.2-cp36-cp36m-musllinux_1_1_x86_64.whl#sha256=b721d02c66f0fe3a587ad9c1956be7c5cc5365de6f7965af802945875c5006c7" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp36-cp36m-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/4e/01729fa721451727fcf81b37f9801d0bd9b238f8d073e8003eb2f2272082/traceable_agent-1.2.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=31e52aa32ab49166d375e771fc65aea59ed9687e86b7aab3f84689f3e088b81f" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/16/bb2721b94a6a33d4949bf2d0fc253b7753a82529f1a529308b09f13b62b3/traceable_agent-1.2.2-cp37-cp37m-musllinux_1_1_x86_64.whl#sha256=8d3c816a930c6ece3fd9aaac0b45e3a1ea954c47be9d1ebf84b4cb02343c0a82" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp37-cp37m-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/8f/917eb6ca44eced419c8a19bcc4178ff76207961451370819a3162d84eb85/traceable_agent-1.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e01cf5b2efbb6a8035b86fcc6ea3fb854a6ec1a0f3d96eb4c2ca75bf85e13ce4" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/ae/97162b2b9e1506c7477b478e3bb2c8e1a5a30205ce731946a1e4b35d6992/traceable_agent-1.2.2-cp38-cp38-musllinux_1_1_x86_64.whl#sha256=efdbd7e7b538a5976d8cf0ec3a774c67782f8bf94d655b57064507482402f999" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp38-cp38-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/a4/f415b5ccc1e1a48c7f8ad7ab8134308d4643b6130638775dd17bb4ca5525/traceable_agent-1.2.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4df2b208b2ca5015bf8782aaf36719a4d0bc1cf16ac8ce0e5ba3a00ae97b1ffb" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/a2/3821140029d4e57223d3b355c8ea046abaaf7f63e05206c347025d76115d/traceable_agent-1.2.2-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=91c11de1fe1a0871b18d86e0c285ad93e9ebdd2955d36b8f5cad0af68b785c30" data-requires-python="&gt;=3.6" >traceable_agent-1.2.2-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15961113-->
+<!--SERIAL 16473957-->

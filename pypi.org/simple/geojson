@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for geojson</title>
   </head>
   <body>
@@ -50,6 +50,10 @@
     <a href="https://files.pythonhosted.org/packages/f8/92/3afac9986bb640dcc8736a69841435af32c8e8ae3d069da560927a4e5eb3/geojson-2.4.1.tar.gz#sha256=b175e00a76d923d6e7409de0784c147adcdd6e04b311b1d405895a4db3612c9d" >geojson-2.4.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e4/8d/9e28e9af95739e6d2d2f8d4bef0b3432da40b7c3588fbad4298c1be09e48/geojson-2.5.0-py2.py3-none-any.whl#sha256=ccbd13368dd728f4e4f13ffe6aaf725b6e802c692ba0dde628be475040c534ba" >geojson-2.5.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/8d/c42d3fe6f9b5e5bd6a55d9f03813d674d65d853cb12e6bc56f154a2ceca0/geojson-2.5.0.tar.gz#sha256=6e4bb7ace4226a45d9c8c8b1348b3fc43540658359f93c3f7e03efa9f15f658a" >geojson-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/f1/44737e1da63e7b0ccd3f89dd95c352f4eb73e1a4ed595cf6e0a1f032a6c5/geojson-3.0.0-py3-none-any.whl#sha256=fae22bb8c69da4cbff743e654d8f55cc45f6aedf19be3c962e7a15f607b5fa4d" data-requires-python="&gt;=3.7, &lt;=3.11" >geojson-3.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/8e/b7f0c2f85ed23b8b6a7bcf1362e41a12fed3ba92f42501f573dc4fb67d25/geojson-3.0.0.tar.gz#sha256=ea1df8246bdeb2bbf20d0756720911893414f9cee46b336a1e882d2cd60cfba1" data-requires-python="&gt;=3.7, &lt;=3.11" >geojson-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/51/2e8e2aae941e64f9cc840ab5cdc4efa9bc6652690c2ac613ce3ef15cad59/geojson-3.0.1-py3-none-any.whl#sha256=e49df982b204ed481e4c1236c57f587adf71537301cf8faf7120ab27d73c7568" data-requires-python="&gt;=3.7, &lt;3.12" >geojson-3.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/17/4f866d92f74ac1dcca4dad1665ce2e54c8feb861cd6e4b20de4fbf9b5f7b/geojson-3.0.1.tar.gz#sha256=ff3d75acab60b1e66504a11f7ea12c104bad32ff3c410a807788663b966dee4a" data-requires-python="&gt;=3.7, &lt;3.12" >geojson-3.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 5657685-->
+<!--SERIAL 16881422-->

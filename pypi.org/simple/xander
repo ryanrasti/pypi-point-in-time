@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for xander</title>
   </head>
   <body>
@@ -196,6 +196,28 @@
     <a href="https://files.pythonhosted.org/packages/1c/b2/c3738d5a3b422326fa26cf4b64586735cc303519809e9f4b367269895208/xander-0.4.9.tar.gz#sha256=3212c1595e51aeb938b9610308b3b3cda5287cdcdc560b255b512ab9f7419aa7" data-requires-python="&gt;=3.6" >xander-0.4.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/32/9b3d8f8f33ec573c1fb8a265257ecf434aec72a65a5529787b687939df34/xander-0.5.0-py3-none-any.whl#sha256=a2db1150aa08b9c5b98b83ae9b45c76259ea2fcfeb49eafc5bbbff4ac8f5a283" data-requires-python="&gt;=3.6" >xander-0.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/87/cdf1db8e1b6b5932c90ab61365702ad660e7423df2da5b98e9737e12085c/xander-0.5.0.tar.gz#sha256=6cd3ab4d07970c30e073bb70f657b9b54fbf5e42e0b065e4eb01c2cd1c891ac9" data-requires-python="&gt;=3.6" >xander-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/f7/7cdeb30ae3af0541199ddcd7309c8b036bfdae9236539e9ad08be79983a2/xander-0.5.1-py3-none-any.whl#sha256=a311b0a8a2c1a76b2ade056a464f7eebfaa38378daf09ac44deaf0681dfb0ada" data-requires-python="&gt;=3.6" >xander-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/75/dfc7c6a404014c72ee716c0c8138313bebed6fa49c3c8991dbb23a466ff8/xander-0.5.1.tar.gz#sha256=5ce4db181e6ed15c3fabc940d54e6d22411eb2a5c51c99333e547d91513d244a" data-requires-python="&gt;=3.6" >xander-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/e4/721d7a869bee430019e06c49ba9be6f7c354b45b231ab56f58a7c6be5902/xander-0.5.2-py3-none-any.whl#sha256=b45041b1c570f151096e173523c214c04915106f128c0b8f11a3600a417c9450" data-requires-python="&gt;=3.6" >xander-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/f2/00d4e6034eaa5e5ab81ffd35f4ece072dbf4111895168d740c72aa428e3f/xander-0.5.2.tar.gz#sha256=4bdbe8c8e85b845a8d4cf58a315d05aabfb32ab6a1819323b67ab70684e32867" data-requires-python="&gt;=3.6" >xander-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/ec/f36dbb539476cb1892359072badba31cba30075544ff1fbbc767233ef3c2/xander-0.5.3-py3-none-any.whl#sha256=f2963dc08b2959b17d7d6b3152bb3319a06846b86cd3db46b8addedfb004f822" data-requires-python="&gt;=3.6" >xander-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/f8/9a00a21da391aab7d51b957ac628981c66674128861552059f95c849a500/xander-0.5.3.tar.gz#sha256=2acec610a231f9f99641bc1b79d7806657c22a2f6a1662e5a0cdd5451df6a957" data-requires-python="&gt;=3.6" >xander-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/cf/01a762d3f4eaa374b87983b058268155b4d4a4a7ca5f684c13cac71ed3c9/xander-0.5.4-py3-none-any.whl#sha256=97c049c181882f4ae6e9ccc5f216add2067d6be3aa15d784cdf4237c0579942f" data-requires-python="&gt;=3.6" >xander-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/f8/6fd0d02c8f3e2e3efe653bc51201107c1da4aeeab7c433b869d3b20b7b9b/xander-0.5.4.tar.gz#sha256=4b656313ee2760e8a6b57e45a616880f65107e42de6139a0f2afef69794f5c0f" data-requires-python="&gt;=3.6" >xander-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/aa/246d04320fec13d48d5128af16d56e4e5f04b27cb7e57c7b43e94d1edf8a/xander-0.5.5-py3-none-any.whl#sha256=238439d69fb7cac454ff3fc78b5b4c7a5f3741b331f6af12fc184b17f90449bb" data-requires-python="&gt;=3.6" >xander-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/7d/51193ab72fdff8ed77d158fdf0d5a6c5dd2ddc6b859b10b1730492cd23fd/xander-0.5.5.tar.gz#sha256=9d20ade132a449cad4e37e95dec8479720ed16db4ad5b8ff24008bf841d51c31" data-requires-python="&gt;=3.6" >xander-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/24/30bbadce1d7285b1bf5753cf380a45017cd9b0566517f3c3091fe36ef980/xander-0.5.6-py3-none-any.whl#sha256=b0d0a6775172cb5c1cc8cbfa3f19e90ffcad192117da7deeb18b7aa1c982bf98" data-requires-python="&gt;=3.6" >xander-0.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/29/b1803ec93fdbddc7f3d9bfcee6d124794a54acac8e3b60bdfe0e91924d5e/xander-0.5.6.tar.gz#sha256=6db7d43cb392fc701386905a6ea9e075e104754f0277988ffe603b19df856c72" data-requires-python="&gt;=3.6" >xander-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/68/0226b0d93d3a4da9cba97005a8633faa9e23c13f10abc46ecfbc50cf6504/xander-0.5.7-py3-none-any.whl#sha256=a78fd0d10787ec83185a120e7f4aa92db50d971ebc23bb5f7cadd9629dd6e8e6" data-requires-python="&gt;=3.6" >xander-0.5.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/68/cd948b18d641ae867333d00a73e0842c6015b4fa1382acf3b591f5bf1063/xander-0.5.7.tar.gz#sha256=b745827d4939d6ef222ed1e03755fbf900b265db1ca8d2148842d0cb536aad61" data-requires-python="&gt;=3.6" >xander-0.5.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/22/0c6fea8f3c91e248fa91cb03ae579e6462d1d0aed94a52f28c88cdcefe7e/xander-0.5.8-py3-none-any.whl#sha256=708fdfe1108118702d16ce891da917e70e0ab3e2edeaf60c5cc37ddad9f79f9f" data-requires-python="&gt;=3.6" >xander-0.5.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/3a/35faa4b4c360ff09aeb1ba2e4658fc1d36a4a4eff95be33bafacd9037bcf/xander-0.5.8.tar.gz#sha256=d02f6963289fb7bf2eda80220b13272a4aaedc15ab85502a69fd0c37a530943c" data-requires-python="&gt;=3.6" >xander-0.5.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/d6/4ca4542712988c48754d63a787a8f819247e60c46ddc90fdc4a661f25543/xander-0.5.9-py3-none-any.whl#sha256=e104795abf4d4eb7f3ce9bad76418402722153267bc8f66f7faa61fdede0936e" data-requires-python="&gt;=3.6" >xander-0.5.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/54/3343317c62dfede366521b675e86bc0a5725951877e722450f2a6f4f61bf/xander-0.5.9.tar.gz#sha256=b670df765567c79766cfc636f0fca3291a5c844e2428b235bdc1af156b386068" data-requires-python="&gt;=3.6" >xander-0.5.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/8f/66ee1fc744f208f705dbd96c29d7aa8770a3fa6a906368247063b3a6a10d/xander-0.6.0-py3-none-any.whl#sha256=e3bb1d7b1a921f49fd95622afcf585c14796afc238968b459ff30dc6d0a9fd6b" data-requires-python="&gt;=3.6" >xander-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/d1/facf94fe6597e19b53ab8398762daad0525d2b84dbdfb5e4efcaa6bf2da7/xander-0.6.0.tar.gz#sha256=f2e14ee08aa7d85c6fa753e27e697958f3b20e10a57da379776e823085331a94" data-requires-python="&gt;=3.6" >xander-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/3a/b03ff46d291781803603795229dab55570280377ab6ba936cde88f3cda17/xander-0.6.4-py3-none-any.whl#sha256=0bb7ffa8b8ba9c83e8ed42bc944f4f2aba15e807b38102739fee9206f10f5501" data-requires-python="&gt;=3.6" >xander-0.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/e3/620d15a2057abcd0fe3d91201325fd2f0abe2481fc8c96219878dda95685/xander-0.6.4.tar.gz#sha256=7594ef513cbcf5995b0662fcd48c3eb3eae1271b29fc1c8758d32255bd7723f9" data-requires-python="&gt;=3.6" >xander-0.6.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16388210-->
+<!--SERIAL 16961349-->

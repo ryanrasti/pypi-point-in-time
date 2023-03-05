@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for n0vault</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/76/84/da547c32893daa3ac2a0bcb728f5d961e4faf2f8159680328748337e42cc/n0vault-0.2.5.tar.gz#sha256=d2c97bb5a39567011b9f3a9f6761089006963d27eb157a43975aaa2178e6b2b2" data-requires-python="&gt;=3.7" >n0vault-0.2.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/bd/c281975a237bf241e1de58e875b3f180360aa5ff4c81feec83af60c413bb/n0vault-0.2.6-py3-none-any.whl#sha256=563f9e211dcffc9e0f5ca6b5dbb96242bbddd0992efc6d74f8a4cc87f5d6c82b" data-requires-python="&gt;=3.7" >n0vault-0.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/fd/5e116f4607ff53fe4dff80d55c1a29d8358bddcc164516647c7c9cd547a7/n0vault-0.2.6.tar.gz#sha256=2cc3d31ae4cfa3289c684342b9496c50179503ca1c7c0fc79e00e424523a3696" data-requires-python="&gt;=3.7" >n0vault-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/3f/6be376af90533211f24d913257ea4ece221fb0e4b36b1b7912c1c1534334/n0vault-0.2.7-py3-none-any.whl#sha256=b5b7c71c90b8571aaf019ec070376876c2de47a22d5767ce65f4befb0d10b7c6" data-requires-python="&gt;=3.7" >n0vault-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/65/e355e7074946de93bc6a68cb32b93787e802ff1bc087cadbe68574884bcb/n0vault-0.2.7.tar.gz#sha256=c4f7b832c16bf1f32d9ebcc1debacc839f78cc2b92bd186167051b1f3e227b83" data-requires-python="&gt;=3.7" >n0vault-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/4a/4156c9ca29cc09a2d372a805daa1f890762273ac627242a9fe2c39402b74/n0vault-0.2.8-py3-none-any.whl#sha256=402e31f210c6cc065cedece949c9e6d4fff97856a0668663ca29b7b3f3de4f88" data-requires-python="&gt;=3.7" >n0vault-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/6b/97f0cff1fa9d0ebf706d705de4047917df3b487ec63297144863cd5ccf46/n0vault-0.2.8.tar.gz#sha256=5a49a1cd45c1f649a24baa6df4fef86899c0526a0ebcf4b0a00361ac68f89924" data-requires-python="&gt;=3.7" >n0vault-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/83/2d86122c6ae2ebe48adb077135f150f8d24cd0b521e3896c6c308a569ce3/n0vault-0.2.9-py3-none-any.whl#sha256=d458ee2d52d9bc62902196cc19777b4d14645e0dc36b6ce93b39b8e60949fb7c" data-requires-python="&gt;=3.7" >n0vault-0.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/37/df3f38ce64472d1e6cca14a8105b532bc55cc2e2c9df7a75725b2cd86ab6/n0vault-0.2.9.tar.gz#sha256=1d57324b54ddbced024f4a717752bb87c873c0cd536ad066005f4ff0012e7ee1" data-requires-python="&gt;=3.7" >n0vault-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/79/d5c7938f079f995263f8d743aa75694d62216ef2882f2d2150ca7b40d9ff/n0vault-0.2.10-py3-none-any.whl#sha256=ca84ff929bcfda81f7f2b7e933a0f505d1fe69743f3b036b75dc031f009657ed" data-requires-python="&gt;=3.7" >n0vault-0.2.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/d4/d812a2774225bd8dbf55433781cdfffeff895d50db81705ec8c632477dcc/n0vault-0.2.10.tar.gz#sha256=83b80e5d10a9b7f1d0e8ef9cf324b414a6e628f1c5afd809fd457249b3c5eb3a" data-requires-python="&gt;=3.7" >n0vault-0.2.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/07/0ab889cd25d7ffac7feb7df707621bde6766560eed30ffbe34bffdc471bb/n0vault-0.2.11-py3-none-any.whl#sha256=f2c5d6c19339387a80402a3d22546cb6db5564c6062b122433ec86a782f79634" data-requires-python="&gt;=3.7" >n0vault-0.2.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/4c/b703b0d23a91189fa10fa3c489311492cc5dc1655edf813ee71689cdca67/n0vault-0.2.11.tar.gz#sha256=ee3c40e96f28e54b27dacff89cb62fd8637395f552a7a14e55a63d5d3e7d5096" data-requires-python="&gt;=3.7" >n0vault-0.2.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/48/5792f20b70c7a88d5fa6805be6f41af29a2378c158dad122e890967727d9/n0vault-0.2.12-py3-none-any.whl#sha256=6aa22cea8d77d6b2f4f4c83ebc2bb18c32d8c7a43984723002f710c887b5b4ed" data-requires-python="&gt;=3.7" >n0vault-0.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/ec/5a751b78489684f8992d75d378deff4f148b422ae3d3df762ff173f2ca75/n0vault-0.2.12.tar.gz#sha256=944f1ca577f4b611b933c29d60f754dcb588e52aeea9dc717337dc21ebe7aa4d" data-requires-python="&gt;=3.7" >n0vault-0.2.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 11091086-->
+<!--SERIAL 17034265-->

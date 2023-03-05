@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for docassemble-demo</title>
   </head>
   <body>
@@ -755,6 +755,20 @@
     <a href="https://files.pythonhosted.org/packages/c9/50/510f14a8f28133f31087e17c9bacf49dc8cca973c77e4b5769922c454c93/docassemble.demo-1.4.23.tar.gz#sha256=b9af0abda424e04ae830b63efd2c329dd2e550818cd0a7dc12342861ba70b6e3" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b9/5b/e972786c0c2aca8966ff374c54f08399478d13e30cc3f590f00f6e64b09f/docassemble.demo-1.4.24.tar.gz#sha256=a80cdf441c2c7aaf1c3a96d3456863f5631432e5f3b586067aaa0f314740a9e3" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.24.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/04/ed/e91892bf92e88325ff8163ba91f8f334922ca4665f222686eaf1d4322fdc/docassemble.demo-1.4.25.tar.gz#sha256=3fbe1ef58184723dd334997fc52bc4aa8573b330504a02182013259a9fccf9c5" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/7e/ca527ca2bca095949f6c67f69e9217d144cfd34a6af8eee0658cfbda5ee5/docassemble.demo-1.4.26.tar.gz#sha256=91ef7cdf39af20c50734d182e3c15879fb99ac1fdc794bed28b7aed6413a9274" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/bf/fae557999ba58f9ff06a1e3abd2b1a47146c8566eea7b5ed66df03fee6fd/docassemble.demo-1.4.27.tar.gz#sha256=d3ef65b2aaf64c80adff670f5ac065e2f9831430c37a22c469042caee1a3fa56" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/02/7c932476363404f9253b9131cba73c4aba7e812182c1c5ba68f0ada4640d/docassemble.demo-1.4.28.tar.gz#sha256=9a1c9665e629b2358f441f588f7ebcfc127c98d421eb73d2e2e3f5f44f085488" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/07/ca5b49df227331172d6c9341d1d697af170b20eca7eab5359c6169058f49/docassemble.demo-1.4.29.tar.gz#sha256=49cb679463b6dcda1aa377a065f27931997c9f202f26161825a543da34f5e1dc" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/39/ba7dced4a332c3ea62a72e0f8310e31bdb75dae3deb4bcf283a033232651/docassemble.demo-1.4.30.tar.gz#sha256=dd7a58c128d28af686764f2ef78411c08ba925996a56b3ea39d51c725e3af2b8" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/b3/f2379cb129f0ff2a346393a2974a092b5a2a57c43a075a2a3636be478aca/docassemble.demo-1.4.31.tar.gz#sha256=e0a2d7b4a1b6c0210a471b045e084035ebbdc3103d59ee87d07f5b1bfc6448dd" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/89/5a27e2af741441f1c3bdf8393754e7df1b579b8e38bd69832fbfdefea803/docassemble.demo-1.4.32.tar.gz#sha256=064d9ed649b32ab2eafd76ed9442b926f2bf399372aaeb53597b222193e15dc1" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/b3/bcee47d8c74991c95125da579191cd38a8f4662e422b07752409f1e6f1fd/docassemble.demo-1.4.33.tar.gz#sha256=d2926068c4c95374ca41beb950297d92b48c3ae0079f68d588a241ce4c04072d" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/f5/875f97d8ce38bd955a08be6b276360c5a085b962612367a6d1fc4a80a97e/docassemble.demo-1.4.34.tar.gz#sha256=0a485e432b3cdc9ea76bd27db53445d36ac838c09824dab94c1a5c680c6b8128" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/30/3d3dd348c625668484d04c988d1eb877e77795aba2430fed3127275f6f95/docassemble.demo-1.4.35.tar.gz#sha256=5cd859c8d4e82366fc12a587cc693b13a354538dfb818fe8d901b7f0eaf36d31" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/46/8766892e68ed1acc7f941dd450c3e4e27eed0c26bc110ff84d50def5f86d/docassemble.demo-1.4.36.tar.gz#sha256=b2b50c6e077f62f319717b718edb62897d36463643dbd27104c2f5fc59e514dc" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/19/05a162300d39fd814f6794a829191d64e504eef8a88ffab36b2ecf8aaf0b/docassemble.demo-1.4.37.tar.gz#sha256=c8b6c9500c15f2e5d5e878474ed16293ea355950217a8bfbaba18029401d5319" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/da/0126764ff9fb3768e67cb2baae4ddb5501cb137ba0f59b8b054a955369c9/docassemble.demo-1.4.38.tar.gz#sha256=bda5573abe115d5db91139bd0607bf3f596dcdf47aa7293e5ecb8db7e737400e" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/0d/a530f19f57c6bd0d94b81e675f18e58027dd404cd060df4f6e0095ece02b/docassemble.demo-1.4.39.tar.gz#sha256=25c8c98d43515f84948bb1b36b37d40810f0f69f75af3b940cbe757aac8654f7" data-requires-python="&gt;=3.8" >docassemble.demo-1.4.39.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16326796-->
+<!--SERIAL 16978023-->

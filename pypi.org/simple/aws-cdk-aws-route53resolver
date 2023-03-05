@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-route53resolver</title>
   </head>
   <body>
@@ -488,6 +488,20 @@
     <a href="https://files.pythonhosted.org/packages/d1/f8/2cf787cf6b2d29a5802911101cf350777710b1c0cdd9ebb7aa4a0f74c4f7/aws_cdk.aws_route53resolver-1.187.0-py3-none-any.whl#sha256=681a7fd2b9e224c1e3a625b68470d37a8718c51c83b4f078420f5f9c9b2bf8a1" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/8d/719bf4a7cafefcd089f798171f7afdeb5e6ff1efe38ff126dd95271f0e1e/aws-cdk.aws-route53resolver-1.188.0.tar.gz#sha256=11ce16cd04ff8174859ecff4bf31c65432c25ce91737819dc2b43b6e7a10b58e" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/cd/0bf65e38647c51b369e06e9cf10ed6604060519cbf3f7f8633f69ef08734/aws_cdk.aws_route53resolver-1.188.0-py3-none-any.whl#sha256=1f4ee7713009e1b097991f87ae60e51f1c891fc91d7d5da3e046b237b24a9831" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/3d/0120182e8c4d19c32911407bb31de3041cdae6b17afc104ef99f28d4e3fc/aws-cdk.aws-route53resolver-1.189.0.tar.gz#sha256=b0c332d3b6f31eddf1bae891b710ee31e0c9795d4512f2da34c493fdc568b5e5" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/11/43054d497efde897c4f711fce5e6fd3be2aa4062a6d6927da49d7dd57ead/aws_cdk.aws_route53resolver-1.189.0-py3-none-any.whl#sha256=818ccfa8991d1734f884cdb1a1143fbfdd12fd2ac8f3ebe865c5b4f680afde42" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/c1/ce579474379a5b969c03db983042869d306781aa6623c0a918ee25d2e9c7/aws-cdk.aws-route53resolver-1.190.0.tar.gz#sha256=ebdf8de3de1ae0a3e279a0860ddc45caa8339442cc56d274d0d41e06135658c6" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/6f/30df7114c90ceb034edbacd867f9ff0bbd3fb91bfbf481cfc4841df1fe9c/aws_cdk.aws_route53resolver-1.190.0-py3-none-any.whl#sha256=44f4f250202fb44adb203acefdece7708661b90099aa8f0c3ce81623a1908e7e" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/06/ee1be4814d94139fad7c8f0497127493ac4a734a94c0a1ddb3f1cff7fd66/aws-cdk.aws-route53resolver-1.191.0.tar.gz#sha256=fb9045f1bed553ca24e357a9fe876be3a23e77014cf1e30d9a1f5ea674ba3635" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/ab/6c92e379726b1cd9946b06d26dfa8a99f32368743dda30b9c48073c56944/aws_cdk.aws_route53resolver-1.191.0-py3-none-any.whl#sha256=5e60e93925f6757782a09d92b4a49db7ef98046081069f2dbeaf3ed067a92f20" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/24/e084f53ea8c02233985ee13befb51113dadcd85bb33a88b62f0a4ace3317/aws-cdk.aws-route53resolver-1.192.0.tar.gz#sha256=2f55968aebe7db7f3b1655f276fc172da47fbabd11d920a1941e3aa4af3197ae" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/b4/7d6f27e38f8933335b4e818a0bca9b295806279b0501257922837e9a9dfd/aws_cdk.aws_route53resolver-1.192.0-py3-none-any.whl#sha256=f08b2575e02f4cb8b61a58cd1ae73cc72979e97a535d189cb1b2ba3227f902b8" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/f5/4c74fc513bd5bf19d5bca7171f143a4299447e223bafe3a7c8e5c65a1914/aws-cdk.aws-route53resolver-1.193.0.tar.gz#sha256=4536c2cb83e02ec5b52e5a291a55f179acfa9a1984f0815af3ce444895f65baa" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/68/f237d33055aff675946914d67cb719153260b35161c550b729167edf8cec/aws_cdk.aws_route53resolver-1.193.0-py3-none-any.whl#sha256=9885a2b845d243523157aa6dc04e084f305c88cfca4d1ad359610d1832a4e9bf" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/26/c152e719a7676d11cd831c485cfb3b5e23e47293775283c09d7aa7074122/aws-cdk.aws-route53resolver-1.194.0.tar.gz#sha256=ec9ca630a95298b6589699b029bf456533ad2793756562371ee413e25ae7e1c6" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/be/36fed0232c62b1b8b509eb3d5e0af8f773d2a9d1f6bf7858054f676bb141/aws_cdk.aws_route53resolver-1.194.0-py3-none-any.whl#sha256=1435f7c46c7cd5f9c2d8077775d2b22bf38dabef73c7c0a6f8b3ecff8e8a5f67" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/44/822f3c56452616f86f58822bd4dad1f77b81098b94e063bd035749975a73/aws-cdk.aws-route53resolver-1.195.0.tar.gz#sha256=cc88e8ec0f7d716f824adc4bab5bb1c849dc6fb1e6c95399d8ab9f163993d3d2" data-requires-python="~=3.7" >aws-cdk.aws-route53resolver-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/fe/bf6b7e3f308716f19f1252fa76a9d2744080ce589bbea7aa8a8c9a72e03b/aws_cdk.aws_route53resolver-1.195.0-py3-none-any.whl#sha256=32079e7c488f0315e50fb75377a03f11910fb0a7af5cb35f808c4824a5fed963" data-requires-python="~=3.7" >aws_cdk.aws_route53resolver-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393476-->
+<!--SERIAL 17132008-->

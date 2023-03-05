@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for matchmeta</title>
   </head>
   <body>
@@ -30,6 +30,18 @@
     <a href="https://files.pythonhosted.org/packages/55/b5/8612d61523fc7bb816f239c9cfec2a78f398762d9496affa416bd1b19116/matchmeta-9.1.tar.gz#sha256=209052c31c604d5306941225361a3be1ac4c0632f8e8965e3f54b122595af57d" data-requires-python="&gt;=3.7" >matchmeta-9.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/39/dd/747009e59e89fd027f470c059ed116bedc6556d32cc612f2c29c6ba1ac60/matchmeta-10.0-py3-none-any.whl#sha256=5076c06c861ff614263a055c1bac119d131be6bceaa84bf0fd954153b8affde1" data-requires-python="&gt;=3.7" >matchmeta-10.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/62/f5/d4632f469a774da8ef3732fd20c0e2ff03b29269744afa688d8be947a4c7/matchmeta-10.0.tar.gz#sha256=f09d24e49d94953af6b9ebec04829c83743ea210ae7519c6c58965398f2cbe13" data-requires-python="&gt;=3.7" >matchmeta-10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/22/23ce9a126ec913b89e1f425300d53bb73c609769dedca716fb480cc7a4b9/matchmeta-11.0-py3-none-any.whl#sha256=1b582e333dff12938f0702c0ee57abb952a045f391b9e8fa22d7785b87f94b7a" data-requires-python="&gt;=3.7" >matchmeta-11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/38/8b141a462a0823f7a92719104ef3589386ff0f0d2b361bff7a60fb84cf07/matchmeta-11.0.tar.gz#sha256=ada72ce1304e2757e7ebd3bb74a33c958b532bcd8792d9588f3029f85172a114" data-requires-python="&gt;=3.7" >matchmeta-11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/70/075cbfe7b13499427b00b012c343c1219c8fa47ff6211b56d5cc1c5b98c0/matchmeta-12.0-py3-none-any.whl#sha256=943e30d05ac71b603d46ac0ffaefe6380c06b42a870c647e843d16836abd88a6" data-requires-python="&gt;=3.7" >matchmeta-12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/73/a7c649125dd8b8f1f50d45a7fb48204d72b1bce04c199c0a1a9221ee7796/matchmeta-12.0.tar.gz#sha256=d2a5b4a5e4c2bf9d3392056ff71ff480ac18284e57143effb3800cb7bbebcac7" data-requires-python="&gt;=3.7" >matchmeta-12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/5e/b162ebe0be79f8437822a09aec045fb308b076796c71842ce89374dd6c9c/matchmeta-13.0-py3-none-any.whl#sha256=b2124ba68cc92dc499d8df2966299b16374ab09a24eddd3849496a50140e5bc3" data-requires-python="&gt;=3.7" >matchmeta-13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/aa/aeb86b64c87715063b6a339933adf8fda604fc1bc5bf2ecfe7f04a50eade/matchmeta-13.0.tar.gz#sha256=6c1a15bd6e9a2ccf0d5fea8b9897f01758cc9c5c5881b68adfcb2333f05bdf6a" data-requires-python="&gt;=3.7" >matchmeta-13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/46/0512be710aff53a74416433736582c6cfbdcd4b29622f8e7de76e662dceb/matchmeta-14.0-py3-none-any.whl#sha256=9f85d705de71d526e9e72377d09e0d5023d6a386be5eda8b6dcb500bd3ec29f5" data-requires-python="&gt;=3.7" >matchmeta-14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/44/b04a214443448bd1361c9f5ffe8fd7834bca1f0bf17509571089028e9188/matchmeta-14.0.tar.gz#sha256=78150e97ffceeb8ed88436940db32f0033cade5cc17dd7bc27136c76f25bba8b" data-requires-python="&gt;=3.7" >matchmeta-14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/06/e5d14d2e25282e10e6a3ef5257e6a164f6a4fe4c36b1b37d750177ce26e4/matchmeta-15.0-py3-none-any.whl#sha256=2bc04ba153a362a1ac60f3b2d29df1a115433590681fea3abd9036c769daffa9" data-requires-python="&gt;=3.7" >matchmeta-15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/46/cba08f0b25cb0ff0d79244c1cecf9ed4f52af1fb4e8f0031691c04ac61b2/matchmeta-15.0.tar.gz#sha256=2b0718ac30cb58641f3d99944adae971e3c66c99a028f99755289a697d3e1df8" data-requires-python="&gt;=3.7" >matchmeta-15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/42/46800ee417dd313726607a842713aa7f319171217440ee9e66c191a0e09e/matchmeta-16.2-py3-none-any.whl#sha256=85dc1d53c5be3ba1f8e9c640dd5c65a0e55aaf70441fed90037a05cf31dd270a" data-requires-python="&gt;=3.7" >matchmeta-16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/dd/e31a90979d5054b9b2ebfb25c06c4ef3e0a20b7902d3764346d7404dc879/matchmeta-16.2.tar.gz#sha256=a1d8bc8a793da888bf1b962c1b785f4357f923f07375b7b30aaf129c58e209f3" data-requires-python="&gt;=3.7" >matchmeta-16.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16143049-->
+<!--SERIAL 17110898-->

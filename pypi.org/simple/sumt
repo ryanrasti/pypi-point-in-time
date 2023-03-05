@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sumt</title>
   </head>
   <body>
@@ -26,6 +26,32 @@
     <a href="https://files.pythonhosted.org/packages/90/a2/a00a471d963d10c8daf01d0dd94cc77bbfe78740868efb42efaa2c2c051d/sumt-2.5.0.tar.gz#sha256=f58cc734c5e303f1a3b2ba08b1830d8fc58baf4aa02254d618f7aff1cbd736c0" data-requires-python="&gt;=3.6" >sumt-2.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/12/22058f04d227da7c11083686f98b7bdf565530a9f2352cf5f351a950e2b1/sumt-2.5.1-py3-none-any.whl#sha256=c7a520f28fe9a4753965ebaf847cd0bf947d75d0d603dfcb0fce8b1c2c72f6ce" data-requires-python="&gt;=3.6" >sumt-2.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/38/5b/883415b2473230fa1d48dca2759c070e4afc1c3ced6aed1c4a743c2e1c89/sumt-2.5.1.tar.gz#sha256=af97f6784eb905ef5450afce65ae5c5066f04fe8ff3319d515287c278f33223d" data-requires-python="&gt;=3.6" >sumt-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/0a/275570490fd0ff7b10a66f9798eb827cf4cada1c3782badce560fc9541ce/sumt-2.5.2-py3-none-any.whl#sha256=85a941ea887bfe59f987985cbd60176a4715628804f3043c0c9fc0125d8d6df3" data-requires-python="&gt;=3.6" >sumt-2.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/a6/be5a7d57759fa798c1f54fed7496b3ff4bcb89d34b5358a8a4acb05d365f/sumt-2.5.2.tar.gz#sha256=719daf6b4812969b4fa2df80d0080b041ccee486750df5f977c1da158b0cbed0" data-requires-python="&gt;=3.6" >sumt-2.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/47/b7556a01b4b9cdde1e5c08d9180e4ed2a261e893c7deb736fe9ea0ed554f/sumt-2.5.3-py3-none-any.whl#sha256=2109075972e1cc1ada79cab7c7989380732a1d8eaf7445257b8f02708ea0c8e2" data-requires-python="&gt;=3.6" >sumt-2.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/0b/a9c790ab77d5b910fd747b3db5cbb034b7a548ceaffa3eb030a362ae9310/sumt-2.5.3.tar.gz#sha256=ce9e6e39b3ce9bab95aa4a2eec5264721656d62ed8c2f2c444a1539c11afccd8" data-requires-python="&gt;=3.6" >sumt-2.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/a1/66c794a82a26e8548661b8d96f93fa923706702d53c34388c4594f556566/sumt-2.5.4-py3-none-any.whl#sha256=c8ca814eaa9a8b602737b5eaff3f50777145ac3817f175215cc473b23326c181" data-requires-python="&gt;=3.6" >sumt-2.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/6a/d85a7f8f8236b20ac90adfce6766fc125e37d28d99f83501d7d9244c872b/sumt-2.5.4.tar.gz#sha256=ac655ffba5f93cb3f34d6fa49397a778060347a042e63d0d110df206f217e695" data-requires-python="&gt;=3.6" >sumt-2.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/39/b55881fad87adc70b83c000417bfbb9daa143b3901658e6351f71c236d35/sumt-2.5.5-py3-none-any.whl#sha256=1cb553ecd4cf41391a30c9bd5f8e6d787104d3b1b57f073c072f8157dac9fdb6" data-requires-python="&gt;=3.6" >sumt-2.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/0f/45391f2400beecc86f0e66040a266174cb57a3abd1a6a8c4c63275bc30b1/sumt-2.5.5.tar.gz#sha256=6a7d3e2b98108efc9bb457b21f4f2c6fbcb75589da06e7aaab685a9f9823d948" data-requires-python="&gt;=3.6" >sumt-2.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/2e/d182798d3054a5716836bc66a5460e8eb77257966c1c64fb0b4a90aa36a3/sumt-2.6.0-py3-none-any.whl#sha256=61407bd58ff3ee538d042b7d11cfe328ac5c9fec21aac41cc2d04001a27a5280" data-requires-python="&gt;=3.6" >sumt-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/07/2a92e0fce71bfd65bd18cde21812e09214e23553dafbbd065814b4b1da10/sumt-2.6.0.tar.gz#sha256=32b87f92b7925693c162716da8b6969154a67861b28ba9074336bb5efc9ee1d9" data-requires-python="&gt;=3.6" >sumt-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/11/8379ad8b38d5abcc494eae9fa745eb2759d6bb69055d242e91949c4fb61a/sumt-2.6.1-py3-none-any.whl#sha256=90b4a04cd5f914bcd4025204cc24d779833846aef5bfe39a0b02db13e43d673d" data-requires-python="&gt;=3.6" >sumt-2.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/4d/632e974d6a3cffdd55f2f4d34d2302410e97d06b2fc591e0c1ccb7397d78/sumt-2.6.1.tar.gz#sha256=0ccf5d3401e2d6f01baa79cbda5e878a5f64dac1d199d988f514f8d9f1e8d023" data-requires-python="&gt;=3.6" >sumt-2.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/f0/18906cffc5394ca96e323a0b31348965cfd4cd681ce7e395e37f62d721e1/sumt-2.7.0-py3-none-any.whl#sha256=8566cfdcf32a9794ae159fdf451f7bf1dace6af69d780b5dd41377ec9c597f3e" data-requires-python="&gt;=3.6" >sumt-2.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/44/8bf54f9a6ecf8fad74862886d9f7df1a122f009d366ba9ddfc8b2fc6de37/sumt-2.7.0.tar.gz#sha256=258f443e648a0e9af19de618898abe3932041f9e8872b0d6121ffd79cdeb50ee" data-requires-python="&gt;=3.6" >sumt-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/0d/fe93ad42f86a265b2a93e2b3efa60decb696057f7237c5538be341440b21/sumt-3.0.0-py3-none-any.whl#sha256=d2b6552d0abea02986b7dba6b3b39b7327f43a76e07db5835ddc47a5185b2748" data-requires-python="&gt;=3.6" >sumt-3.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/90/75c40c7185587625faf139cd39c2fdc10e0b92f4ad6fdabc4ef8331320e0/sumt-3.0.0.tar.gz#sha256=4a778f691eb0d401dd88d495636f14459abc3defd1aaa903c45f1e2b47d35b90" data-requires-python="&gt;=3.6" >sumt-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/bf/9f68b3d5244f05ddb41bca5f94198cddd38dd1665bd2bd603ba85fd59692/sumt-3.0.1-py3-none-any.whl#sha256=f4e6a4112264a6e41b3ffa34df1a041a6e1a36e1fc5d4019c6156ac189405ff6" data-requires-python="&gt;=3.6" >sumt-3.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/be/3845e5be6aa905c6095b3a9f736ac49f510fa6c2131dd36959d0965d4b19/sumt-3.0.1.tar.gz#sha256=ff363844d0dd6772c1d341bf95321c535d25613e7341952f7898b1b3b691392d" data-requires-python="&gt;=3.6" >sumt-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/a7/036c62a89e8f99dc381a2ea8810098ac850dd648c5059cd6736ba92397f2/sumt-3.0.2-py3-none-any.whl#sha256=84751f2842d0f0eca69db07612f3818fa3c8687c508923aa0ec3abcc3d6e1ce9" data-requires-python="&gt;=3.6" >sumt-3.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/a6/f32a7732d18261d596189e508edcbce55d9ec157fb2c896efefef4c16eb9/sumt-3.0.2.tar.gz#sha256=985b633b88437796f9278313f9c3106f9d102a2f1c3a354a0fd79654a63f690c" data-requires-python="&gt;=3.6" >sumt-3.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/58/1f7945d15e4cdad003ceef69cb884e821f5269db349f4047a7cb41184216/sumt-3.1.0-py3-none-any.whl#sha256=33661bbb7b531263c6fca2ba446c0cab01d1ba643cd647b51d5138f5b5caebb6" data-requires-python="&gt;=3.6" >sumt-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/dd/7c5cbcffcdba2596d64a6ffd47a65cb22c7bac5a1c25ff8d9acb288619db/sumt-3.1.0.tar.gz#sha256=471db2c4a220f60768f6e51dcfa077bafe43cd09718dd87952dcea7a61675afd" data-requires-python="&gt;=3.6" >sumt-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/74/3780a89680431c2e977ce5f7498f29c26a3cee252ed0dcd16650036af7a3/sumt-3.1.1-py3-none-any.whl#sha256=31166e91074ef35a7ebbe62b08e350219cb67baff69335528fcc0030f32f146b" data-requires-python="&gt;=3.6" >sumt-3.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/c2/ad99a50e5fc5367dc2d575b365fd5a875950c7d5a1bd101d7a31f961b35d/sumt-3.1.1.tar.gz#sha256=2c5421b457e00e993cf826a3918fb484ae6a702d85e779eb7cba5fd136e154f3" data-requires-python="&gt;=3.6" >sumt-3.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/23/bf4bdef59ff59d438e68406e7ec907de37e6759eb806e246f9dc1f297e01/sumt-3.2.0-py3-none-any.whl#sha256=7b8c1e0319d64d062b30a35cd549e09f1e1384433a6d6998b9fc66f136534f48" data-requires-python="&gt;=3.6" >sumt-3.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/5e/b268906a31d569a0eab0fb1a00723b9f1c5cef83e97bf4427867dc9440a9/sumt-3.2.0.tar.gz#sha256=a0bdd0714bb192b3eaf7c2d11c6a4f40849b27c9723c7f6227a05d1126c1d90f" data-requires-python="&gt;=3.6" >sumt-3.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15703120-->
+<!--SERIAL 17112153-->

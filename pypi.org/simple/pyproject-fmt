@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyproject-fmt</title>
   </head>
   <body>
@@ -26,6 +26,18 @@
     <a href="https://files.pythonhosted.org/packages/c9/05/1d97eb30fec3f6df917772bbf7f7d8443cde758a47eab1b0655e32708704/pyproject_fmt-0.4.0.tar.gz#sha256=2f8745080facef7f6f76f61e84cee7300c67eb1c59a1c5e8483b137f45739152" data-requires-python="&gt;=3.7" >pyproject_fmt-0.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/62/b86008a8f30326adcbe33ea10c5d3a9418bd3c57d5b5d0ce25092f339a83/pyproject_fmt-0.4.1-py3-none-any.whl#sha256=f3693fb72f33b53aab047e53a146aa6a6d3e5a1d1b936c9515f9d4eb145ed671" data-requires-python="&gt;=3.7" >pyproject_fmt-0.4.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/52/79/9ed1a50bba469f19dd682c88b126c127b079ce921a76234a033693ef542b/pyproject_fmt-0.4.1.tar.gz#sha256=b90cf0dfee7435fd68503ee578cb30b898330d3eb2f1a5428e15c127a2e3841f" data-requires-python="&gt;=3.7" >pyproject_fmt-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/95/6ea2a46fe8a45da1e9cf2be55a3388f7d3f0422815e1c9208bf021ca7933/pyproject_fmt-0.5.0-py3-none-any.whl#sha256=1a3a9c25e27fab7bae2020914dbad584dde421ea9bc6997b1f2a3128f950a72b" data-requires-python="&gt;=3.7" >pyproject_fmt-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/61/c5a3ce95be11adf9b4fb5bc38e7de6e58f1b17727988a3862afe209cf935/pyproject_fmt-0.5.0.tar.gz#sha256=efd20414cb07bb659b9c924f1dc42efca113a0552866cf8e6047ac31d8ca2517" data-requires-python="&gt;=3.7" >pyproject_fmt-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/68/48b047a70c4e2260ab2ec971b9f519ab9f05ab4427b98cd4018eda61833f/pyproject_fmt-0.6.0-py3-none-any.whl#sha256=608621ed36bca428980422bed6760065fe4b20133be55be69ebbe893168c54c0" data-requires-python="&gt;=3.7" >pyproject_fmt-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/22/6b1911ea97b943b7c140deb2acd775b413dda35b416eb974fcf503485946/pyproject_fmt-0.6.0.tar.gz#sha256=18421e52c65bc643608975120d080c44c0baa0d9d1c18542c1d85c26b3707eac" data-requires-python="&gt;=3.7" >pyproject_fmt-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/b6/ba3bf8bc6c66924ab554574e74cd9809e40dfd95485dd5a6e58f9bfa1a49/pyproject_fmt-0.7.0-py3-none-any.whl#sha256=c03a2309d94b65d3977acb7e3aa5de951fc87a7a1920b124f0e1ec16c64b72f9" data-requires-python="&gt;=3.7" >pyproject_fmt-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/46/cdd759db3baede59c22e0c8b51b6a1af2dd47a9cce6ef0ee71cce9b58f2c/pyproject_fmt-0.7.0.tar.gz#sha256=1c342ceaa3946f44729bfdfbb167fb45d2287feddd88b51b78c4ab7cf08c7947" data-requires-python="&gt;=3.7" >pyproject_fmt-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/08/9fb8243f5d0471ad9f7ff55cf6c38346b9aec34bf397f985bf8a3d918cf8/pyproject_fmt-0.8.0-py3-none-any.whl#sha256=03e600a2cd46ce3cf489972e0942cdff041ddb9fb63d9d19bf3d897521df5322" data-requires-python="&gt;=3.7" >pyproject_fmt-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/a7/8adc1e4982db63bc67784b088b374d8be7a271a6bdc64ae91c6fcb0a1aa5/pyproject_fmt-0.8.0.tar.gz#sha256=eccca276f6a4f3587d7cbbced04214600752276134064b90067b4cb52cd325da" data-requires-python="&gt;=3.7" >pyproject_fmt-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/66/f784ce09afe1a8341fb8cd9f5600c2ae32ce663047ec7964b143ac90095e/pyproject_fmt-0.9.0-py3-none-any.whl#sha256=8030e005c3f56ff2d036d5c60a385ab884991159e55361097e17e8f12404150b" data-requires-python="&gt;=3.7" >pyproject_fmt-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/8f/b3525f0e801a8c0355e8cd3669be45d2acb1f04eab2caedc7bab0c35c17c/pyproject_fmt-0.9.0.tar.gz#sha256=540e67ca1834dc8cf5a7668f36bca35585db62bd8de7f6de7cfdea45c8009933" data-requires-python="&gt;=3.7" >pyproject_fmt-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/9e/5d6f3cbc94baeee10dde0a0cabfe96d1761402e189ad9c29c37d02a552aa/pyproject_fmt-0.9.1-py3-none-any.whl#sha256=45ba6640a4489dce00ffed715b0e179703959c51731e294e97b4b76c28a97eb6" data-requires-python="&gt;=3.7" >pyproject_fmt-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/69/dddb1f19c09b3ba9eaccf8dabaa49a95feba94b64cecc4eead8ac0481c43/pyproject_fmt-0.9.1.tar.gz#sha256=45404db8d5a0ea7b87d3e8fb619f3fda8274169231fe3fff2515b1333196f167" data-requires-python="&gt;=3.7" >pyproject_fmt-0.9.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15869606-->
+<!--SERIAL 16851291-->

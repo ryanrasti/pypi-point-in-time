@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for controlsbml</title>
   </head>
   <body>
@@ -44,6 +44,20 @@
     <a href="https://files.pythonhosted.org/packages/83/3a/83b559a37992d122f4275637092312cc1ce1c0766885a48254efca08c7c7/controlSBML-1.0.3.tar.gz#sha256=bdf6e12bfff787da81c095fcdf998a7f7badb37ef44e732bf1da7814930ab3ff" data-requires-python="&gt;=3.6" >controlSBML-1.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/95/af/2267e2c082373b33505c798e92c8043d9281daf4af12f0ec886f42c86531/controlSBML-1.0.4-py3-none-any.whl#sha256=f11a19e6f541a0abc56de5e1282639a839386baefe461c55cf1293756c7d9f4b" data-requires-python="&gt;=3.6" >controlSBML-1.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/40/73/501d15ac3751e3b66700e83a6a3191e387a3608d694444e1f3dda8696e76/controlSBML-1.0.4.tar.gz#sha256=ac51c6a410459b14fe4d4e031650c7b8982a4f5176291ec159a14cc438fda350" data-requires-python="&gt;=3.6" >controlSBML-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/11/e28685565204c54953aac760ba27d87410255c487ec6e94f7856901346a8/controlSBML-1.0.5-py3-none-any.whl#sha256=842d38465bf03e8a67db47a7475899faddff1b9ae7c8a38685ae5d79b8570311" data-requires-python="&gt;=3.6" >controlSBML-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/b9/bdb50b80c569cf48de35aac153650447b8febf17f1114dc673710b217b67/controlSBML-1.0.5.tar.gz#sha256=8a58a8f8392ae61fbf4d078ffaba952a7fea7f94e794847d6069d5eee38c70b9" data-requires-python="&gt;=3.6" >controlSBML-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/05/4925c884f70fb0e4f409bbf2866ab24ede4f9328cbe1ea65a204f50712ab/controlSBML-1.0.6-py3-none-any.whl#sha256=f37ae6d1c766b160fc69e483268c6e4c13a71a47ae54bdacbed3e7ae63e41eab" data-requires-python="&gt;=3.6" >controlSBML-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/c2/4c1c7b9bdd14d2de27bfaeae3b9091568c79617cabeaada632518a90b90f/controlSBML-1.0.6.tar.gz#sha256=f6343187564e81ee409aebc8f45e25cfdb3938153a5a187d7a81fad356626992" data-requires-python="&gt;=3.6" >controlSBML-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/71/4ef9ffe5f51c7f5c55197367be9375c39c37bbfbcddaaef59e3b4bafc709/controlSBML-1.0.7-py3-none-any.whl#sha256=933d0a8d97737b1d988c0188e04d112f6a83db9dde1f45bac8c5c9c824e224f0" data-requires-python="&gt;=3.6" >controlSBML-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/06/14b131b75a2016e1038c13d9d0f5afa8ac04940b08d31c5dd6e81d5ee5bc/controlSBML-1.0.7.tar.gz#sha256=f4ff3e154e50ac5e4f95ee4c3f3840c2f415815cc9e0ce5ec8779d82609fa7e0" data-requires-python="&gt;=3.6" >controlSBML-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/3c/3abcb52fe83ad3a32e0563861e3bbb360bbc6ea836a8cee8fc819237729a/controlSBML-1.0.8-py3-none-any.whl#sha256=5a979c190946057cd7d94148f6ca9f19e6c7731f42518e4b1221dd5e115050ec" data-requires-python="&gt;=3.6" >controlSBML-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/00/e227841d098702c24c536554e960d9033c1b018cb1f81f60d4c5379d3885/controlSBML-1.0.8.tar.gz#sha256=779ba0e323e8997088c366ef535be36fba2d6ac37adbc4920fefd0c6b71da072" data-requires-python="&gt;=3.6" >controlSBML-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/c6/19245629ac9c061fa243dce7cdf201337236c495ed6b904eba44bf27c19c/controlSBML-1.0.9-py3-none-any.whl#sha256=34d4a0913f60e7c3632bf8aab30890a7f6de44947ed3a9db2f89c30bf117227a" data-requires-python="&gt;=3.6" >controlSBML-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/01/5e63137e568d921e215773c34e926c6ca455836358451f43f8c50394e7f7/controlSBML-1.0.9.tar.gz#sha256=cfde4dad14efb962f28474b4146f1bd7b7b6a8c93334cb3b14e4611018c62e4e" data-requires-python="&gt;=3.6" >controlSBML-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/ea/edf5c7a9aeff1af9369e03b784a2c24081ca717afcc1c09141b651cbb4b6/controlSBML-1.0.10-py3-none-any.whl#sha256=dd7f99b71b6d6130afbd953fd1304b3a291df6ae9152867d26c742e3d41f0c94" data-requires-python="&gt;=3.6" >controlSBML-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/5a/3e3cb186546b9cd43a845407fb6bf145f1e36301fb2ee593481de7c58599/controlSBML-1.0.10.tar.gz#sha256=59692b021a93474661371367860b44747ed3677be22dd8716daca910b0f08771" data-requires-python="&gt;=3.6" >controlSBML-1.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/04/d860d04a7ae5a4460c0c10cfaf13e877a08c1528bbb3339b379b0a914a27/controlSBML-1.0.11-py3-none-any.whl#sha256=c60237eb674caf563a067fb306e550ba1fa246ade4676439b28c0a6c290ae23f" data-requires-python="&gt;=3.6" >controlSBML-1.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/11/09b71e3aaa9e467dab683cf0a3f1a878bb8e2a50665464b1a0e77f6ae8ad/controlSBML-1.0.11.tar.gz#sha256=8a145453d158bee6389a6aed5bcb2ec1a2bdec8ac7345cba90ede4a5cf054e44" data-requires-python="&gt;=3.6" >controlSBML-1.0.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16268516-->
+<!--SERIAL 16970957-->

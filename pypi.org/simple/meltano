@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for meltano</title>
   </head>
   <body>
@@ -268,6 +268,20 @@
     <a href="https://files.pythonhosted.org/packages/bc/6b/f0723a34f124b25e98983e22283ef0aee0e4cfecf976e43577c6824c3cee/meltano-2.12.0.tar.gz#sha256=2e1573d5427627756e9af98e0fe65a233ffb1c1912c5dd1ab2438ed412c7aa79" data-requires-python="&gt;=3.7,&lt;3.11" >meltano-2.12.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/9c/84a4deccbe268f6a4f8dcbaaabeb1a9c46c6e9cdf82217ccbefc0207766f/meltano-2.13.0-py3-none-any.whl#sha256=b28b6f7b443f89199babcb738c89af89fba68b5b62f06612a1c1fb67b4309faa" data-requires-python="&gt;=3.7,&lt;3.11" >meltano-2.13.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/c4/7ec94ba28af8a1b7bc66c7b6ef3ac0e4685f8adaed36958a06f3c06aebf5/meltano-2.13.0.tar.gz#sha256=a1a1cd777307d6085ce067b8158bb29dbeefabd81b05d2bb65bfdb3765a0f5f6" data-requires-python="&gt;=3.7,&lt;3.11" >meltano-2.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/aa/8b851a0293477bb5c10de3861231c25a32ee397c3941f6d2559b33ffeb07/meltano-2.14.0-py3-none-any.whl#sha256=7ad4fdccc53f25b3676970e0c4207e318b17e67861f240f8e065ef8c2d8ed74f" data-requires-python="&gt;=3.7,&lt;3.11" >meltano-2.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/60/76da5b70f385316d7d229e49a8dd906564c4a083f8830807103476fbbecb/meltano-2.14.0.tar.gz#sha256=aa02a836694aa5a51afdd25f7fb503e1cc9dddc640f46d842415603b93fad2e6" data-requires-python="&gt;=3.7,&lt;3.11" >meltano-2.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/10/9f6a7adead5820321514091d27f168ff8adeb4715b6d4978e897e26f0220/meltano-2.15.0-py3-none-any.whl#sha256=d7c5d722a82cae8d046f1e4bf0446f0503e6eeb811ecdb5e1d2f2d6eb3af6578" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/c9/05aa2e87acd10f86ab6617eeba59e7ca27a7456ee1a5626b6da5ed4168ac/meltano-2.15.0.tar.gz#sha256=faa31f655c238d630bc01a25d76e30afe9234cdd8416cee14110935e1c006893" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/09/40a8653a2cc9143ca32ffe4eaf9d1849996bae97532b6400e00343961dd8/meltano-2.15.1-py3-none-any.whl#sha256=9a7a68a57102637397e47f1f89b305f2bff9cd2519b8b1532a1ac48df164c497" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.15.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/c2/01cf7573fa88cec96d0d0afdedb9a26e77a219adf08dc4369a35a7b64754/meltano-2.15.1.tar.gz#sha256=e60d08c3e315bfdacdbd808204c67f01ffe32499bd5524bf32c6c5b81b8a99ca" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/e7/bfe75724a7ebddfb4153e62ef05df0440bb70fb3904fdb58679147be9606/meltano-2.15.2-py3-none-any.whl#sha256=36bb2999204c2a61e26a64b11353ed9b9eb199c8246a15eb963a363081dd87c9" data-requires-python="&gt;=3.7,&lt;3.12" data-yanked="yanking due to regression: https://github.com/meltano/meltano/issues/7293" >meltano-2.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/4a/ca49c9cba02d093407c1ed8c39a2720454fa378ef195489ec9e386208f18/meltano-2.15.2.tar.gz#sha256=57c25369837b0e50a19c725cf7603aac3e43b582041f9322a332d9acaeaf5634" data-requires-python="&gt;=3.7,&lt;3.12" data-yanked="yanking due to regression: https://github.com/meltano/meltano/issues/7293" >meltano-2.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/18/7f4f0041664ab8c8a13ae1cc0bae1eea553c8fe956b2a3b0e85157c76f25/meltano-2.15.3-py3-none-any.whl#sha256=4fd65e95075f9f7a70a4967e06701738656a371faf6d4ac2d50aefc6eb3d6fc0" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.15.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/a0/00f8bdd6bc633f453e6ddc8d337b734ffe609431fb68a07503a2280c6e1a/meltano-2.15.3.tar.gz#sha256=f55947b336bbb87d82a1a62757ee0d79b43745cc31dcae0179ef6ac4f7e7d173" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.15.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/5a/d3acbc1499c281022a4bea51c65e21f3a9c072b4d238d96767479b6f6782/meltano-2.16.0-py3-none-any.whl#sha256=636b2518b53a6602d84a86fdd071f9381ca17b110f2aa5e07caac9638cc0e1ed" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/30/dd8e1e776d88fe6d6f5a3ee22c30cc0462f0cf0ca7e3db28793444097bc9/meltano-2.16.0.tar.gz#sha256=752bfd519b0d3596ca8847633086a30dbad5a46cfee02b8ec7120f59a63edf9e" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/df/f5b3463f3aec0d546844f39ef2a625c970c8e88e6fe97765981d2bc1350f/meltano-2.16.1-py3-none-any.whl#sha256=78027775232490d8a35d92514308bc1f5e4ed33b50b66d3387fa941f6f25700a" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/84/fc676ee69dbbeb80d210274c0ce81585436fa0dedc90ed687264547f6e38/meltano-2.16.1.tar.gz#sha256=16d2921505aa50bed77387f0b1f231e8e086df3f84da6c758f02bc07df14e3d9" data-requires-python="&gt;=3.7,&lt;3.12" >meltano-2.16.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16329962-->
+<!--SERIAL 17011740-->

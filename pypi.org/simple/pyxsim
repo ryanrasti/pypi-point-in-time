@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyxsim</title>
   </head>
   <body>
@@ -213,6 +213,22 @@
     <a href="https://files.pythonhosted.org/packages/6e/b5/8f8734ebe7e6d135a4aece9381759fffb4b070f0b29d636323c49190c6c3/pyxsim-4.1.1-cp39-cp39-win32.whl#sha256=74adda2d8cca46826cc263b1012477ae052b77d1f4c9957c994a44977e88192c" >pyxsim-4.1.1-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/72/c9/17145958188392ab99e66cef538804e268ba8061f69740d45e4668d45be6/pyxsim-4.1.1-cp39-cp39-win_amd64.whl#sha256=83b5851df54e6e1667f8d1b217594b1807e27ba5a428bce154e3525e4a47eb73" >pyxsim-4.1.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/63/b7bde48091cf483c0473f919c5f609c54bcb2fd2807199f2e7ed88fd8dce/pyxsim-4.1.1.tar.gz#sha256=603e8408864ddc7ea57297a7d3b1a6625c9fa698bb252bd6a4767c4d88200c5d" >pyxsim-4.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/ec/7bfab9ed282d0b50c7eecdbb6590dac77f8a351661f81ac7787c0e5908fe/pyxsim-4.2b0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=16f949854828a7f96204333bba6215ee32692dd348d12c5a3722b7eb8df35ddd" >pyxsim-4.2b0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/cd/75fcb730a5067a52c509c8a1cc386c0022b5244018ba376db7121b35e750/pyxsim-4.2b0-cp310-cp310-macosx_11_0_arm64.whl#sha256=a4632a1b28032b0b3d89a3117bc3cea2bfefd8f2a9bf672a30ea8db6f5d54874" >pyxsim-4.2b0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/54/d88f4014bae05e30742144280f0986298d910233c6ff4af34a036e869011/pyxsim-4.2b0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f49d313b14600f50f3568d8f14949c6544ad62aa9350fbeb726016747bba5320" >pyxsim-4.2b0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/31/90d4018d986c4ee0a343a9ccee1502bc272bbeeaf35eb336e4ed18c56d74/pyxsim-4.2b0-cp310-cp310-win32.whl#sha256=78c8b45b7ab48ce6ab2a88e418118045d7f2947b34e254b828aa152c6f0ac31a" >pyxsim-4.2b0-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/76/ee35ae3a8187b2be50dd20706410620ca70f593805b406ba2cb7e562faea/pyxsim-4.2b0-cp310-cp310-win_amd64.whl#sha256=8ca5dc6537c48b850421922aae581292f97da209273bea5f201126c66c64bd65" >pyxsim-4.2b0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/b6/7ea42a290f33c6d160b894291851795ec995f323261bddb039be79d30261/pyxsim-4.2b0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=d9edf4f9795753ca5ddfcc13375aa8a2ba701aac1d30ec429c5d57a43321b52c" >pyxsim-4.2b0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/01/3c6cd1f1d53aaaebfa983a9d960a0e92d1a1c69996e24dfbe3ad1e2fe91b/pyxsim-4.2b0-cp311-cp311-macosx_11_0_arm64.whl#sha256=16d2473cd18a42300b5a9895aa832f5e47e187a2bd90c3f4b5e7d63387d8da4e" >pyxsim-4.2b0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/8a/619b4e295627ae4b9322399f9796a02b29f14d1ea08166c011e3876ba26e/pyxsim-4.2b0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=25680c801a4775770911f6c3214581961c5caec158bf2038cb93335d52d24d87" >pyxsim-4.2b0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/eb/257348ed4c19a95cd45b7aa30a343214e4f1ba3e1abf6a414b5b6fa8020d/pyxsim-4.2b0-cp311-cp311-win32.whl#sha256=a9b915aeb1dcccfe360a0a1a0f9ee664cef3667bd6d5471cf818fcc572bc1531" >pyxsim-4.2b0-cp311-cp311-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/57/2830e3be257723403a744d419c3a612dccec4c2a5a7712d0c7c47198c85d/pyxsim-4.2b0-cp311-cp311-win_amd64.whl#sha256=d32c227203a33809ca4e7d3d6bf6176ae071221133f53e4231aeb9b004f3e983" >pyxsim-4.2b0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/fe/ec65138dff745ff40ccd8b159cb7050f09d888873e8ae022491b37aefa93/pyxsim-4.2b0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=b67beb8859cfe3e5ea71b062dcd8538e8d1837da78a29171741675128614187b" >pyxsim-4.2b0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/e4/dbeb0d3fe0e19d855e662de2c78d22e502702a8609b1865ad0f299759cc9/pyxsim-4.2b0-cp39-cp39-macosx_11_0_arm64.whl#sha256=d506361b2549fe15f87620d117a70c8a5896dc9ea2fef9c68612ca8b011d1d9d" >pyxsim-4.2b0-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/e1/aabc9c157f2730147843ce6343d27483701ff086d8af8891f25ec19110b8/pyxsim-4.2b0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=903bf447df9ab17586d5742432b485f6dab53aba66ec971f6fffed8e4040226d" >pyxsim-4.2b0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/bf/b0db7c70524cc9b98236d56449d4d606f5527a98d61833116406ad8dfa34/pyxsim-4.2b0-cp39-cp39-win32.whl#sha256=e3ae2b7d82346d00957f8e61513db25c2f920c011e349ec1835185de5424f54d" >pyxsim-4.2b0-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/22/eb9520ff79b015211b81ada1d0174976f43ba0f2bbe1b5699979d8eb9892/pyxsim-4.2b0-cp39-cp39-win_amd64.whl#sha256=d2498660cbec01d4631e206ad3e088f292cf051db57989f30df5ce014eab5411" >pyxsim-4.2b0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/94/51a2471a626ac912d2a2a166ce1af617cf7b2b4d96065626121b3fa436b4/pyxsim-4.2b0.tar.gz#sha256=7167892da69a529c13a3496f7171fc2240e2475119ae3c1c3036abd20b918624" >pyxsim-4.2b0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16376114-->
+<!--SERIAL 16503391-->

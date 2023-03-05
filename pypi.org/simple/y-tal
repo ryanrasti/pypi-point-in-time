@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for y-tal</title>
   </head>
   <body>
@@ -42,6 +42,18 @@
     <a href="https://files.pythonhosted.org/packages/22/92/b8ee600516209373f360991798aedc4dd41caa79ec75d30279f63950cbc2/y_tal-0.7.0-py3-none-any.whl#sha256=3bf36fe6a29702ded41818979b2d70c106e826297e15cb4305e921b37036052c" data-requires-python="&gt;=3.7" >y_tal-0.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/24/b4/af49b76a841f36f6455a4464f6dd3b0ef627ee50fbedcfe92fc382664d7c/y-tal-0.7.1.tar.gz#sha256=82e69df0f08517b644295804a8d6dae04d16eea7cd25be86a429ccc5d015037d" data-requires-python="&gt;=3.7" >y-tal-0.7.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/62/91d0000450aca44249a913e8c9fc8de3d227c96228991bedfb640ea60dd4/y_tal-0.7.1-py3-none-any.whl#sha256=0d61ec25dbcc8cd0e22783ce9b4d315635f7f0aa024a6d15adc3a329be5bbcb2" data-requires-python="&gt;=3.7" >y_tal-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/4a/0eb86576bc8e2a768a25908d0bdb7a56443ac5995bde50ad7555762de6e7/y-tal-0.8.0.tar.gz#sha256=b970f80b9d74c2e167b4c592ceed6d8d2475bd7223cf2e93568bf98a9ed66843" data-requires-python="&gt;=3.7" >y-tal-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/4b/15c8f68ba7589286d89abfaee430048a46b7c1cee170a4948933524676af/y_tal-0.8.0-py3-none-any.whl#sha256=34565df2cab272a255813e57e47ee5c05e08e1599f0b4d6f28c88ff1143d6cdf" data-requires-python="&gt;=3.7" >y_tal-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/5b/d14cd9e873e7fc6ff9eaedfdeef0ee7dd866176c81e0d2da4b5b32288775/y-tal-0.8.2.tar.gz#sha256=e78a14bc2903162b315e0cf145f2a5ff6251b6861686a2a461d86f76266fe4d4" data-requires-python="&gt;=3.7" >y-tal-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/9c/52a4060580691891b62b837ae3aa5762da2aba5b92b8c3335e938f141b4d/y_tal-0.8.2-py3-none-any.whl#sha256=247f6794099397eba0a5b308ec874ee921fca418b3ebc3e16918a05e30dc5055" data-requires-python="&gt;=3.7" >y_tal-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/eb/57829b265a4e0d7c433830d1f82489c6d1f02bd1f716b591978a3444c824/y-tal-0.8.3.tar.gz#sha256=362143e4679374747494d374cf2e07f913c2d1be8c316a973f4ec544d60c5c90" data-requires-python="&gt;=3.7" >y-tal-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/48/73b093960e01139f786a0aa04b5914b73e6f02ab314d40cf27a15f57adbc/y_tal-0.8.3-py3-none-any.whl#sha256=c882217eacbbc0dbde7016f3a2663914efb8347ff049fd37169653c6bd11a3ae" data-requires-python="&gt;=3.7" >y_tal-0.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/68/34dd58c0126022761c391addae232211de81b0e307d02a242ce8e00c3525/y-tal-0.8.4.tar.gz#sha256=6904cd8969c38eab18d8bd86bebd2e5221f809bf377136169bdd7e7430062aa7" data-requires-python="&gt;=3.7" >y-tal-0.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/20/ea3792e60f19220fb6120625d6c9a850115942604bdb0d6b3b1d65596c0d/y_tal-0.8.4-py3-none-any.whl#sha256=0e9ce9e80ee348f0014690cb0b3aa3156fd17de93539d599ca41f6d72af36633" data-requires-python="&gt;=3.7" >y_tal-0.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/67/6b0d2f0ea42f5b14f930ed34689fbd5c3c3079317c14d196916f727edda7/y-tal-0.9.0.tar.gz#sha256=52a5acbf30c979558e243362501b81f3959d51e8ed4a6d231b3292ac43655bed" data-requires-python="&gt;=3.8" >y-tal-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/a6/5aca53cb551eba94860130c1dce6c6d762fbe672dca1c805ee45d85608e9/y_tal-0.9.0-py3-none-any.whl#sha256=76400beab33a51140e88404b897553ba97e5e1fa881ef2a607f4f3566d62f1fe" data-requires-python="&gt;=3.8" >y_tal-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/7e/7dcd1571bf43e48cfe749ee4c9b01c7ff4e4155309e51dafd9db4f0239b7/y-tal-0.9.1.tar.gz#sha256=331d3ad4f5f3ee9f677a677ffbb36ab9c03b208cd9dd305afb2510ae35d4f97c" data-requires-python="&gt;=3.8" >y-tal-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/a4/c41cbeff985609f96d96a138b8a99fccd597fc61b36d0958d117e4a9c72f/y_tal-0.9.1-py3-none-any.whl#sha256=0ffe1597c221c9ff7ec4db56d39b10ef74a49766c2a55004b10cf446f440410d" data-requires-python="&gt;=3.8" >y_tal-0.9.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16072180-->
+<!--SERIAL 17147328-->

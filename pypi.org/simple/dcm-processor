@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dcm-processor</title>
   </head>
   <body>
@@ -22,6 +22,20 @@
     <a href="https://files.pythonhosted.org/packages/09/31/9a945f1608d7adf02b29eeb47aefa44fce5188de60e3c35a2fa7c81d152e/dcm_processor-0.4.5-py3-none-any.whl#sha256=870d619b833a3f0f7589d366ccfa43feaed012fbf64e5f18804242fcf46be792" >dcm_processor-0.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/2d/57b8dd2ef301cfc36a36db1e5b2d043a26300b008dbdbc333a7295c187cb/dcm-processor-0.4.6.tar.gz#sha256=eecfaa71ea8b04f49f7b06868b79a2bc19425d2062976866f7117623994e7831" >dcm-processor-0.4.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/58/d1/77eeb195848db1886475ddcdf256dbc87a6221f87a83713d07683dd67695/dcm_processor-0.4.6-py3-none-any.whl#sha256=0cbe49b45c171e1df7d5f37acbe46a3c3e90db43ec7c0ff12a76868d8143bf61" >dcm_processor-0.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/53/569ffe26e069c8584a86e7137b37c33d73ca3feaea0f336c8a002cded398/dcm-processor-0.5.0.tar.gz#sha256=46a4ba3d7ef2e7260eb75b956b85525fbc70f33fa20668ddd3dc53355f053889" >dcm-processor-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/7c/aa5ee42495d1015d22fc99055d14b633e57ce8ec8631b8ca643e3c93a492/dcm_processor-0.5.0-py3-none-any.whl#sha256=43b0c7cc31efe78d77b2021eaed46cab7439a8e9a0f805699bc80eead4871e66" >dcm_processor-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/19/c96f23c3c3fd149f2bd21762e6679ba07b18780503f21df905eaa470188b/dcm-processor-0.5.1.tar.gz#sha256=81629b136e2742e370dc3544509646728d6c0a0d3d171fbbf6b52a6da6acec7b" >dcm-processor-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/af/3a4cdb111b2d4537f20db76593fa233f2e801c57b8d232f86409c9aa1524/dcm_processor-0.5.1-py3-none-any.whl#sha256=7cf6254ab0538abc4ffb5eb825fee1fbaa44df9c46a465e319bed778c68d1afe" >dcm_processor-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/fc/d52d4dfa51efe7475f9b3e6fe3f9710e4a98e5f1994a7bd84b789fc40855/dcm-processor-0.5.2.tar.gz#sha256=521232def7b33848da5dca9a0a21d19782672e71da0adb06f1c7e4aedbbb9534" >dcm-processor-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/d4/55e7346334e0353594d2ee133677800e538c004ca4679631599263e4bfc9/dcm_processor-0.5.2-py3-none-any.whl#sha256=33b4440440ff0c2b3d5b20b9bad6d698ecab8c2f123ff1cb0f12a863feebeddb" >dcm_processor-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/dd/c43157b0ef1a71a87528f8fd0c847983a387dd20dc97a96ce50355e9be57/dcm-processor-0.6.0.tar.gz#sha256=e5b2d2724d5612d4cbb99d296a1fce0344ed39d2216c7705a7a4f56b1415cf21" >dcm-processor-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/11/f833248c16622b48a748c39012f9955ab4b28961cbc230d11c196f7a4285/dcm_processor-0.6.0-py3-none-any.whl#sha256=9a274761eed78478069d5e967912caffc2b743290e9eb74ad5e1a7f7d553dc4c" >dcm_processor-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/21/20c7fa25209ba8ffcf07b5ffa82444c97b88bf9cb87eb319687033f33a06/dcm-processor-0.7.0.tar.gz#sha256=c4573bfcdf21ef0678c926f0b11e6d2853c897de50c8690f6c921072d25feb09" >dcm-processor-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/e0/327fc86ba8cc5ad39669915ff035deb08b1602ba8d84b07a420e158bb31a/dcm_processor-0.7.0-py3-none-any.whl#sha256=44e72e2046c2630b16ea92b3678b98fdf4ca65d237652324596f669ca9d1f26f" >dcm_processor-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/92/60a4de49e441cdf368b41702d439d2c078476d0f8c950a438bac9876b13d/dcm-processor-0.8.0.tar.gz#sha256=1cffe96b85bde3d312b4c07bb8028552f21fc6686d1d6ded263105dfa0629dd5" >dcm-processor-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/89/275e607fda70ed8da5045f419408a268a7ea76014e6219e36722e8d77203/dcm_processor-0.8.0-py3-none-any.whl#sha256=7b235c83e1a5c4149a290c86c303af3daf8113c1d99fede270d90189757c63a2" >dcm_processor-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/a3/f66c71c7465b0ed6550d195a727330b5e6f46e76f7392f4cc926fe1e8ef2/dcm-processor-0.8.5.tar.gz#sha256=da13c59ab03af73e10f37cf725ceed69957b3966b63b4f38b044813b35f9d04a" >dcm-processor-0.8.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/0b/ff5cf5f3a74fc03e6142ab86bf45bd6cf7fa27ec0396055236e21f039319/dcm_processor-0.8.5-py3-none-any.whl#sha256=7c74c98773d05e9a1070a512c12e6b78ea2f072f919b0936c0bf2952e805b043" >dcm_processor-0.8.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16420651-->
+<!--SERIAL 16672543-->

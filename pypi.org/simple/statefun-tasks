@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for statefun-tasks</title>
   </head>
   <body>
@@ -228,6 +228,8 @@
     <a href="https://files.pythonhosted.org/packages/9f/fc/689fadd45b0abadcb65258f47fb715ffaf3706986379f3bbea5477ef2669/statefun_tasks-0.8.88-py3-none-any.whl#sha256=e9b7be2bbc8dd5a4c28c0c43c925b372f604d376fd6b35b11ae368ea2a72d8a8" data-requires-python="&gt;=3.6" >statefun_tasks-0.8.88-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/91/deef6d46eb103dd4af7ab47147345dc8a8502a386d8b7c75883586fc7f5a/statefun-tasks-0.8.89.tar.gz#sha256=d608a1b6b401ad83f8e0a342b06714a05198a05a1037def235cb629a5be1d200" data-requires-python="&gt;=3.6" >statefun-tasks-0.8.89.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/67/e57d40e44b739cca79468aa75352cecae9e935c294ef3c70d93f07e068b0/statefun_tasks-0.8.89-py3-none-any.whl#sha256=23a866e47d1b9a2048dbab6a1750ff33419fe94c433858bbaf5ee1b331de12c9" data-requires-python="&gt;=3.6" >statefun_tasks-0.8.89-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/6e/6eedfad20a403c3f717ef2d01a7313dcee54fbf3e4bcdbffad592ca3c57f/statefun-tasks-0.8.90.tar.gz#sha256=e817a472213e49cbf78f09f059fb13cfb51c7e534a1881edfcea83a1e4711ca5" data-requires-python="&gt;=3.6" >statefun-tasks-0.8.90.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/ef/ae39446cb13862cf9ca369b06575743a7d96abf6a40bbef7ceb7b7ceed98/statefun_tasks-0.8.90-py3-none-any.whl#sha256=cdbab35cfd548412f888190039968a38447f463fa7fd7580b01752e8da186f31" data-requires-python="&gt;=3.6" >statefun_tasks-0.8.90-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/07/03/da9fb134db57a213851bf25580be325852c95e70597a3beb5e4bed47c679/statefun-tasks-0.9.0.tar.gz#sha256=818b0b0565cff5353ffe888dc2c563b9905df694bfbbf90909fd3d11c76b3942" data-requires-python="&gt;=3.8" >statefun-tasks-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7c/68/211869b36a9c0c62e70e402e89bdb248e9c2a8fc09899035529658f997d2/statefun_tasks-0.9.0-py3-none-any.whl#sha256=3513f3e76ccc600636868384383202ba5ccd19dac33b5fd2c42aa10fea8b3721" data-requires-python="&gt;=3.8" >statefun_tasks-0.9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/96/2297a6cc91638e1074228c1747d9d10aa84affda5b6f3df9214a48e00464/statefun-tasks-0.9.1.tar.gz#sha256=4699cb573da5f917aff5e83d3dfbfa99bac485269d618e2c8d31353804ceaf70" data-requires-python="&gt;=3.8" >statefun-tasks-0.9.1.tar.gz</a><br />
@@ -392,6 +394,8 @@
     <a href="https://files.pythonhosted.org/packages/f0/58/9de2d2e0be74873f30321092e29c3dc9f3fc9fa6e46577eeda7eb0b8dbe5/statefun_tasks-0.9.88-py3-none-any.whl#sha256=956c46ff715331095e2cfcca8b8e52127466a7921833a749c7aa490f0cfa1561" data-requires-python="&gt;=3.8" >statefun_tasks-0.9.88-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/28/5a/d76cc6740d80177609c9672b254db879e3e97879df7accb3979ca8c47b57/statefun-tasks-0.9.89.tar.gz#sha256=b1883d95fbc5be8899f33c7de516866ddee50931a33761dd9b187ae2b249668a" data-requires-python="&gt;=3.8" >statefun-tasks-0.9.89.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/46/19/0f2bc454d2259991226f67059d4b53c7b583d1cee6f15b7319731dd266c4/statefun_tasks-0.9.89-py3-none-any.whl#sha256=eb69a9c519d2b2d8269de04b2f90786b20b90a6c0baf4654a6cf7660e6fb7caa" data-requires-python="&gt;=3.8" >statefun_tasks-0.9.89-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/4a/e28a9f17e93f3f655d579e98b141d06959a0bb0baceee4a7fa78f7ee3064/statefun-tasks-0.9.90.tar.gz#sha256=ad64ce8ceaf27b6e06d020c52d195119b1143bbfed9fef477ef53b95978bd8a7" data-requires-python="&gt;=3.8" >statefun-tasks-0.9.90.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/ca/3995997a7e5c29906427941962881296c6d8dbe9f81065313e82805fd9d3/statefun_tasks-0.9.90-py3-none-any.whl#sha256=ca6d90e1d3b788f296fc8070944dc397493f3cff55fd0317b10656c81adae8f2" data-requires-python="&gt;=3.8" >statefun_tasks-0.9.90-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15930498-->
+<!--SERIAL 17148474-->

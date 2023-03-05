@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dynamicprompts</title>
   </head>
   <body>
@@ -60,6 +60,24 @@
     <a href="https://files.pythonhosted.org/packages/dc/c3/24d9044fe62d74ad8194ea7d0ed47347012f7f467d58da14d09c86eec385/dynamicprompts-0.2.5.tar.gz#sha256=fab0f282f82e56b10d14b25453a0f14972ebd1b27201c549dc4b87679e9965af" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.2.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/3b/3ce3470c1848fd8b2190af8a19c96c6aab64fd15b334ddd027962c66bc1c/dynamicprompts-0.2.6-py3-none-any.whl#sha256=a4549a5fddd48eadf94485e1bae7c59e3ed0efbd0f146b7b0d381f75bc0da881" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/61/6c/3f53ba5d1f29c5288dd37470fde2910a4484597c0f73422d7c2ae35fa867/dynamicprompts-0.2.6.tar.gz#sha256=a1b46938f4eb0b54e87450e2aa25d5b4fa9dbc1f4a3d46d61211690dc0a0df8d" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/ba/0a3ab379abd51fe36db9939d50c82dc25e8c2d340cf9a6e8b772d32df5df/dynamicprompts-0.3.0-py3-none-any.whl#sha256=305798fcff47a23998f46a9612f370824383aaf3ee08687eaf2f39cdbec41655" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/14/54e38b8c58f6aebd7f5e30cbc958e55f43a8ec0371cd902b136da17b6fec/dynamicprompts-0.3.0.tar.gz#sha256=6c39eee2d8510b0f7a8845606c4539a62baf9c23fd77ec062da7fa779c86e0eb" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/8b/811368b252deb870726f0c2e9dbbd6d03910b54056eadb6fe38e52ee7f58/dynamicprompts-0.3.2-py3-none-any.whl#sha256=c35a22f1c6f181d3e8da4d70284c5c122326041bee7b72caec3413129a1c18db" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/22/5c2a2160c9ec3aec5cec0b4b266f74d45786890eef5a7c655cf2cdc663a5/dynamicprompts-0.3.2.tar.gz#sha256=cfa54de2b8f397393756120ab4177b001a2e1cc3277747cb4f5d1a1d1f2802f2" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/67/f572e9da03b0f47063b84a5006e60ab67edb2b279e1a31a6817b4d5f3053/dynamicprompts-0.4.0-py3-none-any.whl#sha256=eacec5f9b1f641fdba18475010e3eb7b9149852c8f16578cd146e01e5ea87c7f" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/3c/bb4963532ab7d6f32b0ff781813b3f691acf298e2386263fdacb33076bf2/dynamicprompts-0.4.0.tar.gz#sha256=4b465a281a138b6506a7787e15560ceb60dcf4bb230a0ee75aa05f92052ec377" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/97/ec0fa311dd47b6b6dc0b8d48e9fb1b65aa541e590a068569d6f356e47145/dynamicprompts-0.4.1-py3-none-any.whl#sha256=c4e04b251c117cba76a9df365b866c58b7e21174f6aef295fb8ea486086fec63" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/69/1472df4bf94ae918e7ccbb572537ee3724f0fa42c88f1a330cb045b12ae9/dynamicprompts-0.4.1.tar.gz#sha256=2114017204d465361fab89710d71b5874d3278b40f545c209f5c45df16dcf7b8" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/53/c919135ad8f82dd538ca1ed5a9e28d2d4cddf9393fc2be7f078c5bdf5cef/dynamicprompts-0.4.3-py3-none-any.whl#sha256=52cfc8a8f1d767cce29acaee818fdc94d2b7b810f65ad3210c5e5a0e1fa7a131" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/7b/871b94bbc6eaeea9f0bd044e3d5e63bb451fa5ecb06c1e36bcc89e1cacb2/dynamicprompts-0.4.3.tar.gz#sha256=f4945951228d379057605fec945e6ef6daf91d4709d29befb2ce545f5d6b79d6" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/47/e4334b95279144a043181b9e10bf9a605f140ff596370735dbb2f36055ab/dynamicprompts-0.6.0-py3-none-any.whl#sha256=f86a23a6dffcb94ee49461626db6d419d0259dcba3457aa0d1e5e2683d9e216f" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/cc/ed319853dae986eec48147faf4dd707a8e1c50436e97180a865d64585cc6/dynamicprompts-0.6.0.tar.gz#sha256=4ed40effbf616980e202bb90a7bb6cfe5b44a86bfb04fcf375dbc1ce4351d150" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/8b/07f1a9517534f885d1ae3f38d363afc3b822c9dfbd304de9fa6c09eba64d/dynamicprompts-0.7.0-py3-none-any.whl#sha256=3742efa64535c2bb274d0a2fa672769daf9d3efb1eb42404815cabac9d3b9182" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/c2/5e3f25854cbb4d864594ad23ba6cb8e3fec7ea1f9019d6212fa5023079f5/dynamicprompts-0.7.0.tar.gz#sha256=6c54eee21ac5aa53733be05e7e12365c731424713fb1940bdfb9a46535698b8d" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/f0/4925348208858904c9be12aef0611cacfc746b00d3fa4c95dcd32d2de1bf/dynamicprompts-0.7.1-py3-none-any.whl#sha256=95248d9844fcc515dd44e3d1f10f443ef35f330cc9dc876dd5dec1404b75ec44" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/0d/5bdf08e801cc2236121d773910b04001eff8837954547fe8990a32ba43cb/dynamicprompts-0.7.1.tar.gz#sha256=50410b23089587afb48d8e12cb33960245cb8a43a502640451bfc0b55e62535d" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/07/10ea0e06a4b1b35941a14e2a4691dec53709947247d58f5304b3b68374c1/dynamicprompts-0.10.0-py3-none-any.whl#sha256=979b746fc1e3fced98845d2d5d16e16a7f4757955dec7e51d6c7c6235ba92f01" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/f3/8305507658721f9f1581339a105bef734519951f039132e73fa3fe3eafda/dynamicprompts-0.10.0.tar.gz#sha256=1c4604ab23766b0016793e868b54988af90cdcabaa9f38ed3a650f180f9a618c" data-requires-python="&gt;=3.7,&lt;4.0" >dynamicprompts-0.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16371659-->
+<!--SERIAL 17143689-->

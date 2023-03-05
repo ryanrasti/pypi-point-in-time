@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qdrant-client</title>
   </head>
   <body>
@@ -110,6 +110,22 @@
     <a href="https://files.pythonhosted.org/packages/f8/d2/0a570276579bb15de26ab1a2ef3130b4316efc5f105311664c52b74abfe4/qdrant_client-0.11.6.tar.gz#sha256=2ef1e6959eb2fa7936caa2f66259d343936bb4337c29a5d49f02c497905b5e31" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/83/10/84ab44dcdb9ee08573268e4eb91b40bc5a6c217cc3a42198a20ba84546b1/qdrant_client-0.11.7-py3-none-any.whl#sha256=7d56696bf35a08f07107933318bee61048e2f1b3da5a46a68c2608d53c64a96f" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/d1/6a2de16c6876a3ef8e21e262cba6bc8775677fec8c3c597c1e6f4ec8bd1f/qdrant_client-0.11.7.tar.gz#sha256=3fc0890de499c02317d3e37e178707b68bfdf0ddcca6602d9e0aabaefd927df2" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/6d/240e123e62c75b22ddaf6e3b9c19f9e0d668eafc02c9cb3a009fc020b33e/qdrant_client-0.11.8-py3-none-any.whl#sha256=51ec10e1af612d7f696b79253808ef021e94a840679b92474a818c257ee5b1ce" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/26/132a732cecc69c6dae1703b1292571a6bf7d1d3dc0e3ac719626c9316d9b/qdrant_client-0.11.8.tar.gz#sha256=e9cd7ff70c58d077bff8c840c6d7c81dbb17e39f68dc14aa8b36b692ae3d6e20" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/5a/136c08abce344c9a40077b7bd30ec31c4615722c425a589e36c79c79b52c/qdrant_client-0.11.9-py3-none-any.whl#sha256=52e24b7bdae6558b89117a910c4f2fb432f6cad2f85a343bf5dc483014c07643" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/a4/8cae43bac0e100e07f6454fd9f728456a8f54208de38b34e5dab376bed77/qdrant_client-0.11.9.tar.gz#sha256=a57275ee81601c0c58cf2a5d9f818a10dd91197996b48526dcfabcdcc7f3c1c3" data-requires-python="&gt;=3.7,&lt;4.0" >qdrant_client-0.11.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/83/9edd9ba293995512e3b67acebb71a276be7b105f3817617770ac30123cb0/qdrant_client-0.11.10-py3-none-any.whl#sha256=6be1165d9448b2908d3d7fbab36946f6757f0820b2e6e4523f2b6730dba2d330" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-0.11.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/92/b65f2471a0acbd5694553df2c0b40548356535da82d246591da4d342f491/qdrant_client-0.11.10.tar.gz#sha256=6e4f4eced8efb2b582ae3949d9a9dc2b004d223f3d83ac3b6124ebef758260c9" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-0.11.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/2b/df98da59c17bd11531015f86e502942e9ecdc3090e189ac6e926ad11a628/qdrant_client-1.0.0-py3-none-any.whl#sha256=4c587b3c8e81bbd7c35fc6a363612ea78a8cf75502b8b58ef013dde49157a5e3" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/a5/3c929a3bd7babed886a38614561948991cc4012a03fdd90e310597e14ef3/qdrant_client-1.0.0.tar.gz#sha256=be2f75a5c5d2d4a301ca387fa1457f944497ad4a15502ba8ba5fe7ab28f80558" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/ee/45935344ce3b858ceec0e7d4ffbe9840610a101f58c3abc7f74aaf9db681/qdrant_client-1.0.1-py3-none-any.whl#sha256=a4162882481a7cc461b3592fb781c995481627516d6a9ba89bbabfe1734d33e9" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/61/48c2ac09e482fb4115b3c1f0328d4ae3423ae752a0e9157782ecac32bbf5/qdrant_client-1.0.1.tar.gz#sha256=d703ed9d30b877348cc842945315ff17c99984df04174816894141902cb9e096" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/80/56ec2c08c89b478df23dc2ab62f4acc67082aa0b1d398377512fa614ac00/qdrant_client-1.0.2-py3-none-any.whl#sha256=ee8c2c71cfab4d44a1914a0d337a36fc93f033fa9fa96ec98c0cfcd542e23f52" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/ad/35ac4caf95abdf4c636a7f658272640be80a183d5100d5c895b5c3210ab4/qdrant_client-1.0.2.tar.gz#sha256=707f8382fa8c18dc94dd36872ee6d4ad126b9e1e957b88c04945e29ee3888cd1" data-requires-python="&gt;=3.7,&lt;=3.11" >qdrant_client-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/61/e3b20b37754e760a2d5382725cd1c907b49cb6c576297ba58f5f5b24e62d/qdrant_client-1.0.3-py3-none-any.whl#sha256=ad40254d4c53902f3a193def0bdafde436fc5022b3f141895cf8159fa511c683" data-requires-python="&gt;=3.7,&lt;3.12" >qdrant_client-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/1f/768285a9515bb35b0f9567be7cc71eb6134c4aa8248e567bb7af74b67a69/qdrant_client-1.0.3.tar.gz#sha256=d4e3eb4144629eeaffdf41e07b3f447710e23117ed313cf464de7d7f0e8e75c1" data-requires-python="&gt;=3.7,&lt;3.12" >qdrant_client-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/e8/b2c930a902967d34be746cfd50f20e22c1839986e0486159a9530f6d85a2/qdrant_client-1.0.4-py3-none-any.whl#sha256=f53888c1b8372026a3595aef4a14c81d9a9bd4d38befbd34b968225cb8723772" data-requires-python="&gt;=3.7,&lt;3.12" >qdrant_client-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/28/0cdaefe5200ba0b0ac953744f8c5769b5dba64795359bce2b5c67b58c2eb/qdrant_client-1.0.4.tar.gz#sha256=c170ddda0cea48ceaed40da3efd68b530056cb81fe86df4aaa31ebbf4a3ce2b5" data-requires-python="&gt;=3.7,&lt;3.12" >qdrant_client-1.0.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16418771-->
+<!--SERIAL 17114728-->

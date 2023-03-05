@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for typedpy</title>
   </head>
   <body>
@@ -546,6 +546,18 @@
     <a href="https://files.pythonhosted.org/packages/78/84/56c83a5681bd31bd7e51b3a824fadd999062ffaf7088a83b0cf938ecb68d/typedpy-2.19.5.tar.gz#sha256=5391dbc48617f9ee6fbb400ae03da7d6e43eda25eab37405f069335b220bd772" >typedpy-2.19.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/dc/96175c308c06225e3a17ab4f86b3cfb232f4479ac69ae8075b97d349bab7/typedpy-2.20.0-py3-none-any.whl#sha256=d9f410bfd5dd088fb1872baa863a6df06abb5596330376d95a0b9cfc65fd79d1" >typedpy-2.20.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/11/c6/a5c952887619d9b348b8c8d4f14fc4993be8d6e9c6456ee07fe2f6c6d38f/typedpy-2.20.0.tar.gz#sha256=9f6bac8f1073297bb5a9b94a4968489ae25cd3a96ee1025a5053e204147ca33b" >typedpy-2.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/59/ed5cfc56d18f7fcf3bb63be27dc4d3fec37c704b83639fe2cbca6fb7538a/typedpy-2.20.1-py3-none-any.whl#sha256=223ea863f897d770b17bb1ebde85b46214590ae691058146eb1a7748587088db" >typedpy-2.20.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/73/8179e4a9e8188cb8a19f0a4951b34de9fb7b7b13e763d575c7136cab64bc/typedpy-2.20.1.tar.gz#sha256=721f4a768e1b0f98e3e35fa7c782d04e07e94d25b12d0b9e56525ccd27d0b8a4" >typedpy-2.20.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/ca/6078f906c141012df367fb80b216ac36ea2852d4266d066d8e971ca2704d/typedpy-2.20.2-py3-none-any.whl#sha256=7c534781ed93ff15b4c9610b5312218d5a7e778980c6fdb8f0cf0b459fa1e360" >typedpy-2.20.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/78/c3451c0401d0162fba9c992f8d4da1ab7b56669d233f9b0cb684ece071fb/typedpy-2.20.2.tar.gz#sha256=24f1774e3213a9a02a4630918de876915227b70ea29bced5dd4099f7c48abc6d" >typedpy-2.20.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/9f/ba91c208edf197bf312b01cd576b786539f74e0c350773e0844393458149/typedpy-2.20.3-py3-none-any.whl#sha256=ddbcba0cae539ed593f7c8522336142707896357e31127af45f7870a824e414e" >typedpy-2.20.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/16/fc338d5b10a722cce17128aeab5acc62a20a23d7792819a8be5dcb219a80/typedpy-2.20.3.tar.gz#sha256=7610ae26370bc8030da987214b87b978365553d6d1c6bcbdf19b1b9f95ec7bf8" >typedpy-2.20.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/ed/cbd5523b5f89bb15b6c8cdaa0c9b279c123fa170d349a466342bc56ca28a/typedpy-2.20.4-py3-none-any.whl#sha256=0d20d9def7f2e10919dd1ed2461e782646b1c36b78619c6c20321a2ab8a4e949" >typedpy-2.20.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/71/3d0f0004842bf1820eb3fb7ffd3d09575b8b2eef667b89e272e4882426d2/typedpy-2.20.4.tar.gz#sha256=b4e1a1c1047bac182a5cc9590a0d3fbf25834281f2c78034a4325548ee548a10" >typedpy-2.20.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/5b/0a1e0719b3e64ec195f93bd97a0b5ddbb221e2222cd7552a1e5ffe526e4f/typedpy-2.21.1-py3-none-any.whl#sha256=3b547c4555af0a1d4217ae8892cfbe1f1c8513b1a77d244102cd763f76b02da4" >typedpy-2.21.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/02/6d5b0147b5e6ff883ec8af027abfbd6ccc71bad5a69e060189c9e23d9fee/typedpy-2.21.1.tar.gz#sha256=a4763513f638dc6682cc6d47d644792f07486dbd6a54bbeab2d559fc51d20b73" >typedpy-2.21.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/5c/cf3791d76629891553856b44b00bc554b62843adf83f7287001b4c4080bd/typedpy-2.21.2-py3-none-any.whl#sha256=5e658298fa5f3873356c16ec9cbf1ba4929d912294f8f7d579a94f061f5215a7" >typedpy-2.21.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/c1/fc3e421671ae6bf516e5d1dfe60e5a63b20c4d6bc976aec60b2d19c1f651/typedpy-2.21.2.tar.gz#sha256=e66a8103df9ad8b522baa8e18d3a2fcbe46ba7102842cc91fd4e7d1a00f100f4" >typedpy-2.21.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16399329-->
+<!--SERIAL 16782993-->

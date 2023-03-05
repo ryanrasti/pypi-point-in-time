@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hearthstone</title>
   </head>
   <body>
@@ -323,6 +323,18 @@
     <a href="https://files.pythonhosted.org/packages/0d/3d/129e3d6174f6ce429ff0b256aa09c8c0ba539500bb95e5329f1e0860802e/hearthstone-5.72.1.tar.gz#sha256=c751af3cdb2fa68e3db30004666127d44de6b761da6375a01be0da8d227d738e" >hearthstone-5.72.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/ad/8a40861bbf60901caadcb4bcd5875a4a7d1e8b467d72fc8f6d148498ae78/hearthstone-5.72.2-py3-none-any.whl#sha256=b0a132b0fb7ddf156c08f4f459eb7aa3a6040f8da3432a16c2516ce4eab06f89" >hearthstone-5.72.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/db/af3b0221e0a7a4ee6e7208df16f102a737c622f75e8c85a439e35b54ae08/hearthstone-5.72.2.tar.gz#sha256=c5f9b7a4c814356365fc204a7e5bf2a1f4cbbc5e87768be3f2a282acd6b63aa0" >hearthstone-5.72.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/47/5f2375856df16964eaf6dc2db1af0eac1eb4f7b3875da3556fa1349395b6/hearthstone-5.73.0-py3-none-any.whl#sha256=ae0ff342f0596c25c01085bf9c6a722eb4de15ccec9f2e1bdf50b03c0893ec70" >hearthstone-5.73.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/ed/8398e18858f2dd4b10857462ea006398b43504f3038ea9a16aa468919c79/hearthstone-5.73.0.tar.gz#sha256=1c9d987bed588d17bf7491d424f53e84905ef36a86350a5aac61e1d0c46be521" >hearthstone-5.73.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/d8/229708cfc079d8af6d1daaca0efb096dc70b004538cd8eac6f28c5ade815/hearthstone-5.74.0-py3-none-any.whl#sha256=1fa0f0b056a71d54f521ea88e85bd06d03faeb96b51bdb61371e84ffe88b133a" >hearthstone-5.74.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/f1/cdbf8d7dda5768f38457bfbfcfd98bdc0767634f6130b932ddd5f9afdd0d/hearthstone-5.74.0.tar.gz#sha256=707b392246237d95f1f0261be2d64a22b95aa8473f9667a9f6cc00ef393a4241" >hearthstone-5.74.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/24/c8ac3ba500eab85432119c9bd47e255f9c7ead04dbe009f3f1dfeef51449/hearthstone-6.0.0-py3-none-any.whl#sha256=ed16d92364db58a82043eedcfa85d0f49640c482d368b41a043a5d017f1b76d6" >hearthstone-6.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/08/cfdf15eed6be2bc86b54a89624d78ee3e7794d7926925619990db288c1c1/hearthstone-6.0.0.tar.gz#sha256=00758b36797084568daaa98cdf79859f630f399962629cdd30e56ba1f6ce9093" >hearthstone-6.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/92/08e13a9632b5f952bef8be8bf214f8c5dc9b56b94b49f9d448f5aa61fa86/hearthstone-6.0.1-py3-none-any.whl#sha256=7e098460d1c768235c27fddeea911b4a790c08700876e2d44e40ac40f001a39e" >hearthstone-6.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/2a/46d5dd18c3dcc61dfca6c367b5e618d11848058c6adc9229e798bedb8ed4/hearthstone-6.0.1.tar.gz#sha256=6d89b1985fa287f302b950fadbba08ee7ed6d343c3354acfe375dec9ffe5658d" >hearthstone-6.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/1b/13340cda88b06596b92772e6699d5ebe13287cb86fec309421d35642d306/hearthstone-6.0.2-py3-none-any.whl#sha256=ca31d98d441899563f9675020333eed512b336b5039012896c3df8194b841f27" >hearthstone-6.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/9f/e6f85ebcd02497f9ac2b6e82780346c5f65efcb30882af4422138db0ffcd/hearthstone-6.0.2.tar.gz#sha256=d70b238481c5ca8544716930492665bab626640e99fc22a1e17b75437c70369d" >hearthstone-6.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/69/5a1c9cccb3afa138d237eb85574fe60dc693d88f9fb31ee1fad714a31e29/hearthstone-6.0.3-py3-none-any.whl#sha256=96d84f1a547e5396e5be5b7cdf92634ee91fc060a9716dbc6e486332c0f6e521" >hearthstone-6.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/0a/54f55fb5cb5890ff5881fc7c32f9e70ffac161bc4db8fef8931046b65ff5/hearthstone-6.0.3.tar.gz#sha256=01887f539af356917c89c3bcc659264d4b7ce1cf73b1c4f305f07cff7ea6d129" >hearthstone-6.0.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16020524-->
+<!--SERIAL 17132915-->

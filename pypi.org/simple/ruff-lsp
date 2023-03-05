@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ruff-lsp</title>
   </head>
   <body>
@@ -36,6 +36,16 @@
     <a href="https://files.pythonhosted.org/packages/a5/81/019c38e8bb55f72a2bad7db7c0b6e38c49450eca15857eb8e4369e7b5362/ruff_lsp-0.0.14.tar.gz#sha256=4adcd828bb96bb5e4773077f037f8ccd5a55d3352b305e47d6f99c33f3419fa0" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/ef/2d50f199c666f6a445cde17b6dccf43bd506601bc305e8c09d5e20d5713e/ruff_lsp-0.0.15-py3-none-any.whl#sha256=c6d3b84490da3b6f2ca2500fd6f17896a8229d6fb92b67008037e92ac7738524" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/fd/fa604cb3b5c8c6f93942ec0e7c75aad0e57c8e3bf504530f6433347d7d32/ruff_lsp-0.0.15.tar.gz#sha256=516097af23e55b28b772f66c06202d18b5ad795bd39a0229f2da61c2f40f86cf" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/a2/d2f3c9bfc0185e2918eb7086eed4991b625bc32bf534e22f31b6dd5c0d36/ruff_lsp-0.0.16-py3-none-any.whl#sha256=0a7baa31006ed7affa990537dfa39003de53dc1655a3e98f6f374b15e6e5f7e1" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/d5/898b63541fda1152fc51bbe9f748b1cc9996018ec7ab9d965b673ee038f3/ruff_lsp-0.0.16.tar.gz#sha256=351c30cd53736e6a71b4b16180d7146fd53c26e8bf187375b972149c196dafdb" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/a7/3284ef673e7434665d9299452210e1866868de3538902a3c3aef6693df13/ruff_lsp-0.0.17-py3-none-any.whl#sha256=b2cb2ec2d57fda92e587beedc0edcef9f46ee8078f738d12b27ea09acea3b023" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/66/281118df13a5fecd8e32ca1d363cb400837acf52c531b912be46a15faac9/ruff_lsp-0.0.17.tar.gz#sha256=e7128884bcf4eb2d42c4b86d26950e85ca01ec73a2e6614428835c819b3876c5" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/c2/ae24042772ff5cf3b2b1685ae1b8d771518d9e6395676625a49414516748/ruff_lsp-0.0.18-py3-none-any.whl#sha256=9970241abbce7a909fb9b3183a958e6f3dd30ef97059137d2d445ce4fe60726b" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/dc/b0bc9232ca769ca872f75db72fdc15fefc83c4dc116bafef72eaa192d943/ruff_lsp-0.0.18.tar.gz#sha256=18d3ab110704ac99c56fbbc448e074797990629d4f0913c917be582916b02c87" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/5b/2928d845d5fa4a6df9699356eea172e08ce2953f9793e65248eaf7755389/ruff_lsp-0.0.19-py3-none-any.whl#sha256=d90a1842452c49e7a8eb0844c339029217db0960ab415f33ede1ab2592a08eed" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/1e/ea68edd6e7493c1170041d26dafa0034b1a9d868104dad09dcf10d49e2e3/ruff_lsp-0.0.19.tar.gz#sha256=4a45ccbb2a6d297137dc17f345e2aec76efd9a802a960903089797cdbe71f321" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/ea/86da161f0c00b6864f37ca39981ee24f6da993db944d132ca845b8251e50/ruff_lsp-0.0.20-py3-none-any.whl#sha256=4abcd778325a120c619eb4f2a91166a4fb8ad07588e40086a79079a0d08a9b7f" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/d1/9cc5e6904cdc8b7ba25425be08525866c9cc27769c404aa086cc8782d583/ruff_lsp-0.0.20.tar.gz#sha256=5fcaa94ea6597851a5c38bbd9e48deed6289bbb844fe8a326894ae7f2959e281" data-requires-python="&gt;=3.7" >ruff_lsp-0.0.20.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16364750-->
+<!--SERIAL 17148181-->

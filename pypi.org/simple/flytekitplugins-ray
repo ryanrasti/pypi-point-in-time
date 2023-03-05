@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flytekitplugins-ray</title>
   </head>
   <body>
@@ -34,6 +34,10 @@
     <a href="https://files.pythonhosted.org/packages/80/14/bc84daa2852f41a8f7ae6259381246e2ae2de76a44dcfd9d7318c6788b35/flytekitplugins_ray-1.2.6-py3-none-any.whl#sha256=48452cbef9605822a209cd050ceb9f217e612061a71134e7ed65ae4ac9d47a35" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/f5/a881bc1aa1db4a5914f580d9325ebdc8a62622489dfb7bd3596fe04690be/flytekitplugins-ray-1.2.7.tar.gz#sha256=f1eec53578bc31cbbe7ab8b6d5e8e582a3eae8e8b294c109eecbfcd4da4aced3" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bf/cf/a30db531049b0ae359742ca934c7cb56c9d94ebec6f9f760ea764febefc0/flytekitplugins_ray-1.2.7-py3-none-any.whl#sha256=47a21803a150b105420ea4a402bd9899bbdfe563942669c7db18777128d889a7" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/56/d834d8ca16c01d08e333563ce4ceff11690cc7918d2e3a32b155accb2217/flytekitplugins-ray-1.2.8.tar.gz#sha256=58ab985c7c517a7a9f0bb6b87ca21e59432b7902418e74259d1a40647922892a" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/59/0baf4fd009de8dfff1364f779b96ed7f2fb9c0e5692fe46bc6677e940bd0/flytekitplugins_ray-1.2.8-py3-none-any.whl#sha256=a21a7bcd3d6b946c4c1df82fe5aaa43836eca6f00e2474a842591143dc297983" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/01/d746db7ca6ba3d6dfa6dfaf24e235cddf8581c9cba590539b8e99ce2a635/flytekitplugins-ray-1.2.9.tar.gz#sha256=0e9af4c89d40ea77cbc162112d9b6da84834acd50b64c683af7afa755c299aba" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/1d/70a1f9fa34a366c4a4135da1778bad30f98aa2338272fd3fd73ef818bd5a/flytekitplugins_ray-1.2.9-py3-none-any.whl#sha256=6f4ee98ca2317702d307f9223937691b9ef5146b39c7e2d8433aa6e15b16275a" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.2.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/ba/c47d90975c500ea7a47cee214c20868608aaa71b3425e60ff968bc0d71c6/flytekitplugins-ray-1.3.0b0.tar.gz#sha256=a814b981194d631a1266903c170ebf6992b83cd801877108d2c1042be4a5fe6d" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.3.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/68/ea8b10e5f215ec516e54b2d35199c8e78696dfd47ad0f5a5ceba1df431a8/flytekitplugins_ray-1.3.0b0-py3-none-any.whl#sha256=3df4cd9ad26a75c895d07812f6f97b0ac8c0f1df70e22af8ffe4ab5a3cf07084" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.3.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/73/3e/d6735f45dba340222d3ad1b045fef2886dd42bc4e284fcd2ed59834da2a5/flytekitplugins-ray-1.3.0b1.tar.gz#sha256=32efa79908447f67565f8512315a52c9a772c1b1d612d09e8184ef3bea73e8e4" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.3.0b1.tar.gz</a><br />
@@ -50,6 +54,14 @@
     <a href="https://files.pythonhosted.org/packages/ab/c7/7b76f298dc3351fdaf432a4d51ff1182d74a155498302e00b1fa1509cc9a/flytekitplugins_ray-1.3.0b6-py3-none-any.whl#sha256=69e5cfa32acd02c6865b7aaf67326b5e9ce98d07857f3b8a6475ff6ee13b4998" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.3.0b6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/6e/e979ccac731d288fe7efc6cd779d4ac44206519e79e0d8f6398fdf4b9f37/flytekitplugins-ray-1.3.0.tar.gz#sha256=12337e51e2afaa10c098d44f7b703871dd846ce142d59c4fe22482f511866b6a" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/af/23cec30264c7f12d5da9c7803df1cc24c822af418ed8507554ef1336377b/flytekitplugins_ray-1.3.0-py3-none-any.whl#sha256=64fe3b531e281ebefc2a8e24f9dc6130619d10c1187a14734c8070cfcf3ab34f" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/b0/c551f77802555e1ca8857617e330a1f1a008569c6e8eb30a50247178aeea/flytekitplugins-ray-1.3.1.tar.gz#sha256=18c27b931181e401ff5da1ffa1f2fa92b5a479f37cd7e8ea6d4e4c01f57d76c8" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/79/277b327012b5460f8cf96c196597bf19e4955a80e4e9962889df3d612418/flytekitplugins_ray-1.3.1-py3-none-any.whl#sha256=2788a35d58bd7dc478bbad994afd6fa151e9c7925fce91ba8bd5474a52734b62" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/08/d44a8086bb31fdb817953346a90a25547bf0d1509246089502d837d71ed1/flytekitplugins-ray-1.3.2.tar.gz#sha256=43b827e8d41777f09faa05b62aa08410e1355d8635e3263849f17dbfc70a3f76" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/dc/46b625a53b9af0b40caa11469634991965d89054a8bb798850288a1e689d/flytekitplugins_ray-1.3.2-py3-none-any.whl#sha256=4528ffeef2ec5586f1a2571c52c0c45ac8b15b5941fc7c8b56d83bec047a46fc" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/de/9c5ade12c399a99867f9727503a3bc4baf3bd18b76a1a9212e9089ee747a/flytekitplugins-ray-1.4.0b0.tar.gz#sha256=77461179cd9a8f4b27daf1663046680251126f6d11dc4a49efca4dbcdf110d98" data-requires-python="&gt;=3.7" >flytekitplugins-ray-1.4.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/ca/932aec961fc05dd7e249311a0d306025353589ef1fb603efb9909c16f8cc/flytekitplugins_ray-1.4.0b0-py3-none-any.whl#sha256=0a8503418b886b5b69985d0ce71af3323aecac060fa7956b5afb3edae9331a25" data-requires-python="&gt;=3.7" >flytekitplugins_ray-1.4.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/ee/fcc9364d3f298ac6234f5a505f5755ade0fa555fb5c277daeff5c02ed913/flytekitplugins-ray-1.4.0b1.tar.gz#sha256=11b4fb05e76d958778e55061ffc2dd0dfedb115855289a3cc85f55f6cc5c5ddc" data-requires-python="&gt;=3.8" >flytekitplugins-ray-1.4.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/ef/23ec288a184ba57c64c371914c4464344929f628f5cda5c09cbdd1c1fa22/flytekitplugins_ray-1.4.0b1-py3-none-any.whl#sha256=11c783681a21e31979866a31d161876fea4120b58a37df4a2a24cb5c17bbade8" data-requires-python="&gt;=3.8" >flytekitplugins_ray-1.4.0b1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408028-->
+<!--SERIAL 17100695-->

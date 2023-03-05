@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyg4ometry</title>
   </head>
   <body>
     <h1>Links for pyg4ometry</h1>
+    <a href="https://files.pythonhosted.org/packages/0e/3c/819c3fe77bdc8cf21307bc4e5a5b93fa8be71e5b4ba34732ae8999e28b6c/pyg4ometry-0.0.0-cp310-cp310-macosx_12_0_arm64.whl#sha256=cadac4f04145bc64723ab70a6466e06eeec4b24ca5cc6310f25bfedba2d3edcd" data-requires-python="&gt;=3.6.8" data-yanked="scm didn&#39;t work " >pyg4ometry-0.0.0-cp310-cp310-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/33/e9a8b503e30d88092e9107d87efdbd24ec24e0412c8b4d31876b9e2e958f/pyg4ometry-0.0.0-cp310-cp310-macosx_13_0_x86_64.whl#sha256=1a811cf79c82194787a5e7fc673132939a1e39e19fc1704e324c32a827738d64" data-requires-python="&gt;=3.6.8" data-yanked="scm didn&#39;t work " >pyg4ometry-0.0.0-cp310-cp310-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/9b/9ef02c4b1e379ae6f023275a667e9d55600d49adf6dbc4d27a4f7651ac10/pyg4ometry-0.0.0-cp311-cp311-macosx_12_0_arm64.whl#sha256=1e3ba147ea41cce33fd6f0fa93b61bab3961e322d09d18057fe6b8b4cca7f52e" data-requires-python="&gt;=3.6.8" data-yanked="scm didn&#39;t work " >pyg4ometry-0.0.0-cp311-cp311-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/75/59c403ffb46503e841b55382f62bee622e36f04141cdb7f056ab621d40d0/pyg4ometry-0.0.0-cp39-cp39-macosx_12_0_arm64.whl#sha256=4a93bb71c95fdc7977e5e0c8e35edf8b3f88139a0a07de1560782cc430569580" data-requires-python="&gt;=3.6.8" data-yanked="scm didn&#39;t work " >pyg4ometry-0.0.0-cp39-cp39-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/e0/fcf0ffc41c22a9c77badd73efc86d12f04bf5a0fae2a81000a493ba5edb4/pyg4ometry-0.0.0-cp39-cp39-macosx_13_0_x86_64.whl#sha256=97e348c11454dffc43554fc3a300c43c9e9e25c2ed2c38da669a5c295f38e5ea" data-requires-python="&gt;=3.6.8" data-yanked="scm didn&#39;t work " >pyg4ometry-0.0.0-cp39-cp39-macosx_13_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/80/6486dac3532668a0b5f3da81222cd6d26ab26fac5675c1991f8db5bfef54/pyg4ometry-0.1.0-py2-none-any.whl#sha256=9de117f6e12d3fdaa125e4c88c1182fa9aa70b75c3364e77233caec5df96f18c" data-requires-python="==2.7.*" >pyg4ometry-0.1.0-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/f9/869b81b8ca4a4efea0d6fc583223f047bec7d57e12c008999e27fe7b6496/pyg4ometry-0.1.0.tar.gz#sha256=0f6cee59f65fa163e7c91253327dc2a969604022f1129b525f7e803dc270cb2f" data-requires-python="==2.7.*" >pyg4ometry-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/c2/7da76148d75da5d9bb760bf8118724a93acf9872d7bac9e670ed7467ab3b/pyg4ometry-0.1.1-py2-none-any.whl#sha256=df7c5055204c1fae3903493d394702007765d1841393c1a3ddd42061a750adcf" data-requires-python="==2.7.*" >pyg4ometry-0.1.1-py2-none-any.whl</a><br />
@@ -45,6 +50,13 @@
     <a href="https://files.pythonhosted.org/packages/73/76/9fb5e09982dd731e175e8042b6747a8f7a3b1f679519a0415b7e553c7c2d/pyg4ometry-1.0.4-cp39-cp39-macosx_11_0_x86_64.whl#sha256=e3083efe9e457590c1bcfe7fa59d1ad67295e57366f96a70301995899bd77b03" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.4-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/26/fc/fcace8feb9d35d9e9e64c8198a49cbe1af04434f50806d92b9d4becd3681/pyg4ometry-1.0.4-cp39-cp39-macosx_12_0_arm64.whl#sha256=252d0fc5875b45864d87f35983ca70dfa8d75daffc246b6a4f8a889f9b7170c4" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.4-cp39-cp39-macosx_12_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/10/47582a722c709e7f375ef7ba972678282847a287aef59411eeb146b7d07a/pyg4ometry-1.0.4-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=da2e52176336125edfab7506357e10211fd5d68db8bcf0cd61e574af3810fa7d" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.4-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/e7/d06c7ce90aa0c57cacbf35e72d1d7eeee8672c69b359bc38fed19132f1db/pyg4ometry-1.0.5-cp310-cp310-macosx_12_0_arm64.whl#sha256=8a9561cf7e730d1c7019f46796024d072b79fe44cfa9db9be74267e8abf6c680" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5-cp310-cp310-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/0d/48c925d2bf42f59f68394320cb842140421c93cbcb66196180ce89ac34e4/pyg4ometry-1.0.5-cp310-cp310-macosx_13_0_x86_64.whl#sha256=46be9ad5eab09821669c97e2f59a3a49598ec0cb28d3de58bdfbd47369e00ad7" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5-cp310-cp310-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/9e/4213f56ae1778e279a3f25c0fa2751b592fdbcf5ae08478e3deb77ea5a14/pyg4ometry-1.0.5-cp311-cp311-macosx_12_0_arm64.whl#sha256=c2b079adfdff797f33301375589899a948df45fe6a4c93d9214756e560488eb5" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5-cp311-cp311-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/d0/e72efa1919ffb633c9fa359e113004f95bec1210c9dcfe56254bd440ebcc/pyg4ometry-1.0.5-cp311-cp311-macosx_13_0_x86_64.whl#sha256=ea6a615d87bf34fb6e16f95e3c6f6dc7b2ed90828f48f8fccb75f057fa002a58" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5-cp311-cp311-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/99/cba6776e2053754ad3e5ae31eaa93a6e12ae7600dacba8474a9764643e60/pyg4ometry-1.0.5-cp39-cp39-macosx_12_0_arm64.whl#sha256=d390a8da080af18d1d455f60b4f4da6e885aa511d999b311a3480d17c636541c" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5-cp39-cp39-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/4c/b610bfda46cb5ef2e53d7d84c3dc9b705f1908332705f81e1f879f1b0139/pyg4ometry-1.0.5-cp39-cp39-macosx_13_0_x86_64.whl#sha256=44598f04c4cf615a7acc453cce6e24f7272c66c91190e7b23ed2295ab4fee305" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5-cp39-cp39-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/23/6b159a6251ffa78c81bd522230fc5029cbcf0225380229df049358384ca0/pyg4ometry-1.0.5.tar.gz#sha256=1aeffdc4b64e7d6f73484fdb9a7c5fc8dd3bc460491f36257ae3a8f2d6f7d209" data-requires-python="&gt;=3.6.8" >pyg4ometry-1.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15408053-->
+<!--SERIAL 17148868-->

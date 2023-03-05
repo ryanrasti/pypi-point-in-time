@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sluyspy</title>
   </head>
   <body>
@@ -24,6 +24,26 @@
     <a href="https://files.pythonhosted.org/packages/b1/f2/2ae9330841b2bfa709359c5cbc9bd52f43b5be1af088f0229eceeb21f516/sluyspy-0.0.7.tar.gz#sha256=e34924679ca7ea1523a9eff0f38ed7f22560322e809b31fca4c9e2df5e1d9224" >sluyspy-0.0.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/03/8c/ea44ee7b5ad2366f4cdc6c70f55aaa984a916578184857b4bb0d89f731fb/sluyspy-0.0.8-py3-none-any.whl#sha256=e2242f2b080ac621b3ac2fee33c3cead8091bcae49845fe252cbe35bc8101efe" >sluyspy-0.0.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/a4/4900e50b59fbb28d4aab27262e301da21d524f63b67822a6e0d4a96ffa07/sluyspy-0.0.8.tar.gz#sha256=5737ba1f6b768ed25ada8654f67f4a9e2249c6046cccca45a836a73fc50e40b5" >sluyspy-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/86/9c4e0c93b03d5604ea7b36d61608d87e1980009e66091c023512357d8067/sluyspy-0.0.9-py3-none-any.whl#sha256=bc4d7cb542d06be611bf61e98b88e270ff6fa1def582a0e3d365ae2955fb5d81" >sluyspy-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/63/315f0a2381b239ccca34d6bc6a450de14abd766af694e35bd2e06340f14d/sluyspy-0.0.9.tar.gz#sha256=6784ea2ca63f38d8802f2fa5c4bdef6fcc7396025eec70e7a98f687f1ae60ace" >sluyspy-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/a8/79b1781ea8a3d628a762b15bdfb8d7d03a1c657fb07082b457eb549adf39/sluyspy-0.0.10-py3-none-any.whl#sha256=4e042664ec8d43ec6ff60b5e849faca948ab8a5c12001f8f8bf0a1da8447a921" >sluyspy-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/49/1778e48b441efe3dbaafd78b3acc38c85eed25be062b7ede911d44434775/sluyspy-0.0.10.tar.gz#sha256=06b20a345eed34b7804c06bf138ccf10a43f4f34b1e2d30568abc9a1b1b44820" >sluyspy-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/45/6c83545d3ef4063367453e05617960eb4e2aadda749730469beb6864a96d/sluyspy-0.0.11-py3-none-any.whl#sha256=07bdb77e605551998d465b8aad92a2f9099f936160b324e9d18a90ee9258255d" >sluyspy-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/68/7877e9f6e60a89b2dd5742f03e947db0b171afdb891260a25f9002d19aa5/sluyspy-0.0.11.tar.gz#sha256=0e5426cb8220a3a70ef2c673993a1697abe7ab422ab1113825869573f1dab46c" >sluyspy-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/d1/704bcb500084d432955d6f56d682d063569afa99da425ea9993dfe861d87/sluyspy-0.0.12-py3-none-any.whl#sha256=19012ba52658b305ed8809f47c94558a16557d1bb00e9d8bb299a826ed843065" >sluyspy-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/0d/0bf5407ec0da9e001dd2929778d0cfb24a82f313bdac964b89e9c32dcada/sluyspy-0.0.12.tar.gz#sha256=e525d466bce1e087679e8a14e0ed22ecbc17ee914622e4394c8efc90a7920b74" >sluyspy-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/09/2a9352e2913d34380f0de08a95a8b8f11523cc02e717d7e68626c3c8b00b/sluyspy-0.0.13-py3-none-any.whl#sha256=5d4dcf658b2aa31b577a76474360e5a67515165d1d252b2a49c193abacdc7cbc" >sluyspy-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/37/12f267841f34bd2b03ce9725e12292b6428eaa2859a1256de182143293d5/sluyspy-0.0.13.tar.gz#sha256=dc7a634cb539dfd55a8f85a403970028ad95a5d8add0a6dc868b8324857061d9" >sluyspy-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/2e/ea23e59aae3415fd28241b2dc3b147b35d96683cfbb2187ea6cd2de72d94/sluyspy-0.0.14-py3-none-any.whl#sha256=df73a82fe5b806ecf7aa215a9df57f2a9a733fad90ec31dae4e3e163ae45e6aa" >sluyspy-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/1c/3b513374bcf749efd6af332c857886363c9c8f54a8e12e5def6a719a4d66/sluyspy-0.0.14.tar.gz#sha256=17b8bdcb33777d73eeacbd6e2c74f7a9dc017d9edda7a7c7ff0f92cf4d40ac57" >sluyspy-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/87/4a990eb263f1756e34bab989d31632c282846b9679550676ad1c0e38391a/sluyspy-0.0.15-py3-none-any.whl#sha256=212d5a11fc282b69f7d42b4e201571e814afe68af4f8c8c994d8b849a580b967" >sluyspy-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/8e/5181ec213587441520583e654a8b538cd787190b21cd9f9b410a44d6ded0/sluyspy-0.0.15.tar.gz#sha256=d1e26fd5538fccbe54c5f0659d834de800b7e481d1af5eaae7baa1628eaeb506" >sluyspy-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/7f/bd94ead8988092f9ddccb7881080b05ace3ca069ecf6e93102005a4dde8c/sluyspy-0.0.16-py3-none-any.whl#sha256=acdf8646bd1d5c833b7a6e3f3bdf1c3f98e672be798b40ca8fa71ca1d12377a2" >sluyspy-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/d3/bb36baa45549ffad96b109a5b1aee06a1196056cf6268724f65a3e319e10/sluyspy-0.0.16.tar.gz#sha256=40b70dc20be0493ff33eb33bb1cd85c2f25c298d9224675c4ab16b01e72640ea" >sluyspy-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/ae/21ef4e10647c3da69ad4fec6889d5b84bb0faf2625ed3b89d39a465b23c1/sluyspy-0.0.17-py3-none-any.whl#sha256=2230f432cc3e53bdf143c8fa36b0fd8d01fb9b41ab23dbbbada15cca3f08a927" >sluyspy-0.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/2f/92c9f591efbc9ca1c5e8586f26703c56a3151f17e3c972bf6370cd74c6b2/sluyspy-0.0.17.tar.gz#sha256=2c9792d8552c052ac12fee814273ecf8175d73db060cec10a7a6173926a4c056" >sluyspy-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/7a/acf01570e91a7ded2b4918395fd279a80dea1e9dadade59d04abedea4ebf/sluyspy-0.0.18-py3-none-any.whl#sha256=171da212b3593c49949f61c703cb8bbeadd09d4be0d152c3d81dac4cc5a65b0c" >sluyspy-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/45/6a279617c503c57b6f9505e307bbea3170b1202a51425d28f9a1ad155067/sluyspy-0.0.18.tar.gz#sha256=45bd6fa93796feec83057474ebf85673eca36a592dccb4423b7ba946c7201a74" >sluyspy-0.0.18.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16362573-->
+<!--SERIAL 17097527-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pkhelper</title>
   </head>
   <body>
@@ -44,6 +44,20 @@
     <a href="https://files.pythonhosted.org/packages/82/25/55166e4b4171b795c62c3d7116a10720b0aa26008545bd5ea6766f80bdb5/pkhelper-0.0.28.tar.gz#sha256=08ab69d07866b2f4a5052f0eb524653bca6acde016e05075626498c2a462931f" >pkhelper-0.0.28.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f0/1b/bd3460132f8b918172931531445c958b7852aacd26ed0f793cbf23b4d4a0/pkhelper-0.0.29-py3-none-any.whl#sha256=140fb765a12fdf4532607375462e3b68f273c86b00f134f84e066ee9f9bc5c23" >pkhelper-0.0.29-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/82/139b05af6520a6a1a33e52c931dd1b35336cd1a0ee8a3ae35efb44b0ffd3/pkhelper-0.0.29.tar.gz#sha256=9dd72e46c72e331263034b965b44e761e46d743bdd287e5b904e47418ac9c132" >pkhelper-0.0.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/d1/03496f6c8291bf8a513cc5baf9f271d9acb391fa2f4fc662a486daa398ef/pkhelper-0.0.30-py3-none-any.whl#sha256=702f20e631fd001a1b9727fe0ac9f86153a857d8e7810b976e47470bbd6429a9" >pkhelper-0.0.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/e0/26f1a808b5038ef2d5f921137bcba928f800bba9649ee4b2f3362e9302b1/pkhelper-0.0.30.tar.gz#sha256=37c7e2300d4d93daa5cf76103eab3e273060cd5381ab6bce6a5530d912988b90" >pkhelper-0.0.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/86/2c946e41b628154fa1c41adae243a638399d542481b7e3534a2e1fea59f7/pkhelper-0.0.31-py3-none-any.whl#sha256=0a68d7955dbe8494ada73f124c4d66624dd0c152ba9c3fe185874a79dac5205d" >pkhelper-0.0.31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/ff/b6ae04310c51de4f28aca140e45f6f7f555e4a0875965401d6fbed1f8d15/pkhelper-0.0.31.tar.gz#sha256=678cd667e34bef8be18d797d4cab8bb4d8f06b861c1b54aba301ba8a0069e8c8" >pkhelper-0.0.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/c5/801898261e32a1faffd2f20ab0050a1449e8f78dda6d48f377a0d504524d/pkhelper-0.0.32-py3-none-any.whl#sha256=a6dca7b07bc268543fa915698e7069affeef1b880bb1cbfc726df3c92f4bcae8" >pkhelper-0.0.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/6b/f51a11fb4b6ad3ab53becddc53ff24ee608a999eab70f3a8a6407f3aa53e/pkhelper-0.0.32.tar.gz#sha256=ad0b167e5a65526f296f937cdbc8855a470761fdfaeea57c7840b2764fc67a37" >pkhelper-0.0.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/a7/a9c73cc27b08f31ec1f47c11df2c89321ca4a6984b4ff28f490edc021441/pkhelper-0.0.33-py3-none-any.whl#sha256=fc0464799e38bb0224048568957690c0eaeec718d7a445225c63ea1863515c56" >pkhelper-0.0.33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/c4/26005d97ee346015383c304d3613941960d934384a5291432b7824236ab0/pkhelper-0.0.33.tar.gz#sha256=893e6a21ea0ee896f6c301fb4e81689855d80baad2c2210af9893fbccd33d7a6" >pkhelper-0.0.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/47/5df359bc8a959f7804a8702519c6169e60c04064bc8def6e4e9075b4446f/pkhelper-0.0.34-py3-none-any.whl#sha256=ff3e5cfb79c56f97dbb4c3ec22adfe94db02c9058af06b4b73f1cf3d2ed7c91b" >pkhelper-0.0.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/95/e8d235d03ddbf12fd170d6d82dd8aa0970ec6237810f691556e082aa089c/pkhelper-0.0.34.tar.gz#sha256=4f9e86e57dcd3ec501ce34b1e81e72b1799dbd69f70a6515d9aa62626d4df778" >pkhelper-0.0.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/8c/25b98dd9a1e8dbb3f3fb9fd3ccb39c0126d3078f634d44cb9f588af5246d/pkhelper-0.0.35-py3-none-any.whl#sha256=7f62e07fe9ae6269467c927d43ae12dfb725f7ab2f30bfd986ebfd329142087e" >pkhelper-0.0.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/22/68d61227379332bd5365c0b44cc94e1eca92b0bd515632c7d079e2d100f7/pkhelper-0.0.35.tar.gz#sha256=867a2cdf6dbe25006890a046a491a4db7902f46e08f1731169f971514b46d5b1" >pkhelper-0.0.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/76/e04690757bbafc38936226e3c0acc24dddb6703df674acdaa1dca6aa794f/pkhelper-0.0.36-py3-none-any.whl#sha256=98a68181104be909185f91abafe67ef9e896f36e40d72cb33f46718e1b4d6696" >pkhelper-0.0.36-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/32/1e26e7b75c4396890499f99c6a26d1e1f5cf3eac83d33c34b07ad4f9fb20/pkhelper-0.0.36.tar.gz#sha256=842385ca70de548d8833b7c700d95c892ae2eb99b78a7c37edbf2ded2dd6904e" >pkhelper-0.0.36.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16102740-->
+<!--SERIAL 17113795-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fdroidserver</title>
   </head>
   <body>
@@ -55,6 +55,7 @@
     <a href="https://files.pythonhosted.org/packages/4f/2d/7e81d5bfcc0ba8cc3da96a12e20ce02fca60cd43ee038880875dc8399540/fdroidserver-2.1.tar.gz#sha256=0a8e382d4824d1caef759b8118f540438de37799b3e3a7708bc84db9766e2ebe" data-requires-python="&gt;=3.5" >fdroidserver-2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/d1/e678a7abde4b93225d7496d1f511c923fa4631536f1ef559ed9383013032/fdroidserver-2.1.1.tar.gz#sha256=b5d5bc7db619a54472a2d854320de1aadfd0f50baf5ce5a2069d3f72e934d265" data-requires-python="&gt;=3.5" >fdroidserver-2.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/42/01/b7b234741516b5c1045614f65aaff3ae3907852c561b076d627814fee818/fdroidserver-2.1.2.tar.gz#sha256=40bd9cd0726548f69d20590359a2e406ccc80a84d6a5c6a4e3f1fad6b955f1ea" data-requires-python="&gt;=3.5" >fdroidserver-2.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/e0/8068b4def4b69bb5ab9e71374b97358ec23562a7f0c62d542858b0796068/fdroidserver-2.2.0.tar.gz#sha256=18af655cf4a8d7b9cf621968f02196dda8931ed776186b0797b137900b59bd18" data-requires-python="&gt;=3.9" >fdroidserver-2.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15799819-->
+<!--SERIAL 16950800-->

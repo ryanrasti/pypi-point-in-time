@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pddl-plus-parser</title>
   </head>
   <body>
@@ -64,6 +64,23 @@
     <a href="https://files.pythonhosted.org/packages/cd/97/accbd1fe7473c082a0b0719b1857ea19b38a3793aabc0df665730a4a5e75/pddl-plus-parser-3.1.5.tar.gz#sha256=9ab096bafab67a85a1fae6e40e2ece92ff7034da879ae736e41ad9d0092afc98" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/9d/95052f86bb530ed7db609813d678ad294395668c080a7770b024022f4c42/pddl-plus-parser-3.1.6.tar.gz#sha256=07da349011d59c2789f3667f2a3647ce38846c30afc9fb0dba1fd8372b815a8c" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/83/7d/56d1069d51ec4ff4a142d4c09effcc06e8307bd12105fd8d3388795262c2/pddl-plus-parser-3.1.7.tar.gz#sha256=4ab189ab07f0781fa8773a72a91503f028f495999585ca6fb6563cc9178056cb" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/c0/267ffda05981f8a205a6ea59b99d7f8de29afdfcd7863c62d24e9952bc76/pddl-plus-parser-3.1.8.tar.gz#sha256=293a1325696e387220ab234c30f57e7282515c554da37e2474c82d415de424c2" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/9b/5161ae52a38fb4b024cf614c2e3dd45e6d0995bd046095c13875a6576084/pddl-plus-parser-3.1.9.tar.gz#sha256=ea6bbe09d4cfaadf580c68222f482e57e41571569bb3e599844c999391de6630" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/1b/8e3a037164c81c4b941e35ad98c453c0aec9b98161cd1862767c8f76ccd2/pddl-plus-parser-3.1.10.tar.gz#sha256=b97ed2f6d4d56e807376c2af086b50281175c18ccc522e8f153a60d14dd937ff" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/aa/53999e80143af127dfd9281d7255624313bcb615d3cb7c92c5fd90c96e9a/pddl-plus-parser-3.1.11.tar.gz#sha256=5755c85b76bf261b6dad7e5ca6fa2f26a4967167b49abe746e8e33df467da9f8" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/12/c8d2f082f7fe75f2abc8145df121e1714377e346c3d9603b023338a004fe/pddl-plus-parser-3.1.12.tar.gz#sha256=dd7da947ccacfefae824f2bcf2da045154c021945199609c66fad5204757cfd4" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/94/80065729e5a6745e9d11d0601a74e0db9d5ac61364fb8e21a3d6d76e13b2/pddl-plus-parser-3.1.13.tar.gz#sha256=ccea17c1327949e625735b5a569a69d2f0137e7d3d7a886e219ed65732a2ff96" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/6e/4993911371e90c87f0742d847590c390327c762330145e74835a8d768922/pddl-plus-parser-3.1.14.tar.gz#sha256=655d56fc4d527f840df85500974e9e95801b4f9c5711d539132f352136028f89" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/28/9469469324460910f4e2443604dfe334ce4ed05380c6654d09f30a094b39/pddl-plus-parser-3.1.15.tar.gz#sha256=6194ef70f578a33123351ab66a7f63530716742b77af713283ac85deb6898a8d" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/c0/3f4ddffd8da5071428c664fe54fd4eaee163b46c03902bb307b3826f5121/pddl-plus-parser-3.1.16.tar.gz#sha256=b5f58de210d36bb5918a7904d2a9bb28c58bbea03af31e13cd1c19b147a82062" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/e4/df1175f4bd1cb248b728350105718247056122a1f84fdc67dd7ba5ac04cc/pddl-plus-parser-3.1.17.tar.gz#sha256=62f4b144dd8054f2dad8b83f4f8949952ee91a6377c75a6d318491f5f02668f7" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/49/90f0e1fd5c6cb2fbc652a4cc3666c6e434eb1c63b4888ec62bcd58e22710/pddl-plus-parser-3.1.18.tar.gz#sha256=26c095c694facd608f84b02eebb67c3c2ebb1ea9701ef9382f820d10f155272e" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/8a/4623e0467cc49c518daf803f8272da685a5bfc9893b2dec97eedf81729f1/pddl-plus-parser-3.1.19.tar.gz#sha256=9bc274484124438365359bdfd77ed2124a8406f9fc50d89c4728a92a382abfc1" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/4b/a8dee6fc0f4734dc6484cc45ceebfbbf8248c0f07c534800596e4e4634f0/pddl-plus-parser-3.1.20.tar.gz#sha256=fd1b62bb2f2accbb840c81d5d6a077ffe3094a6f926b3b03aec49ab387fe8d5b" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/87/94d47f048b6826eacbc9b0b687e584e5fbee3ee78a617f758c8b43032a0e/pddl-plus-parser-3.1.21.tar.gz#sha256=66a4405de9fef7f8b93678ec5adc87da917521c4fbf6698476caef1f31191a02" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/37/0e3cb6b587ac265690508dac4fdac5e36ee972e018675820cd464c4a3d96/pddl-plus-parser-3.1.22.tar.gz#sha256=676a8cd83b2b32cb960242fe46af5fd97de728bd3815691cc463986139d88369" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/a6/f3ecb5823a8c5e6dcbaf0ccdf35d1c575f7b7c073c5797c79b5546868927/pddl-plus-parser-3.1.23.tar.gz#sha256=fc7ea2e3456fdcee4ae5f4a7446e4c3e2b561b9956ecec55c60f184748accf22" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/ca/272bcd7cc4bf03cb552c355e12dffccce5a5fa9b711199f161954cbed49f/pddl-plus-parser-3.1.24.tar.gz#sha256=0d646c8ddd55abf09987969ca19000e6524823fdebf593f63da5cc667e05caaf" data-requires-python="&gt;=3.8" >pddl-plus-parser-3.1.24.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16228636-->
+<!--SERIAL 17112531-->

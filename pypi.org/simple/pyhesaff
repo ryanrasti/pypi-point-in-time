@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyhesaff</title>
   </head>
   <body>
@@ -40,6 +40,17 @@
     <a href="https://files.pythonhosted.org/packages/56/af/e8592ef7850d65494e4957f4ed3decea6ab57440b336ac66a31e5b62e54b/pyhesaff-2.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=71cdd76d2ba7489865813e54f7b4313ebb38f21a4de5d55ef8a47bc16d4fa4db" data-requires-python="&gt;=3.7" >pyhesaff-2.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/84/72/9aead1193bd717a0a504c506575bc6ed5ad8e96c8cb7cc66f857f4816178/pyhesaff-2.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0a39e82384a2c0aa3a2be88c191e99ecb676bbd2ce3afcc92fce96149da9159f" data-requires-python="&gt;=3.7" >pyhesaff-2.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/ef/e4cef2bd84bd5b22f1603a0722c2da5358d5580a3268a3f5ab7737fb14d0/pyhesaff-2.1.0.tar.gz#sha256=1efffc9f712959667bac417c43d2300eff4aa185c7c57486f9d3fa94e49289f0" data-requires-python="&gt;=3.7" >pyhesaff-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/31/eabd04bdc32ba46459d2c869f73fc37523ec6e59133300a78cee8a6e11bd/pyhesaff-2.1.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=8a34314e8d78f3395b6d6b6506ba960efc47ed0ec0cbc227bb5b46d5ddeb2fb4" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/30/ad07f6b3a5d544b36a4412835ddc380875a0f9c82a79423a990ca938604a/pyhesaff-2.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=46f1e5b34eb271456246e675b80e7cfb5be5fda1e275ad8fbf35429262e3cbe1" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/0e/fe8e23108e082e5372c371ad9d6780f512a456c6df6c154bf6aa636ad9c9/pyhesaff-2.1.1-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=1f7ff2f48bccae8394e2b1bd6a7d360315ed99dfcde4a658e35ab366feb659b5" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/61/4c2e897defd357cfcdcb3a16d2490ceaa20a6aeb6edba9e43c05243816e1/pyhesaff-2.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fd0ebb98de94ece860c04f6a746ab2bc5374b326b847caa953256bd9a1fc5c62" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/82/0badd5dbabc0cefe7928133ac55a9b61b321c2523d5015c9c6d385829641/pyhesaff-2.1.1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=4390f8e6708ba7b1eec3a9b837ed2799459945047a7aa09534407c12997f0ed3" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/62/0acbe9fab716ed94db0cdb5b2fe5476855891924de127669cb0ffd0153dd/pyhesaff-2.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2acff4cde7bffe966375c19cfb86534562bff27b8602d6a504cf06e0647c25de" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/d5/81021ff451fc0a2c580ffa9bc72b73cf25da2a7ba47c6ef949eac8f2caa7/pyhesaff-2.1.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=bbe579c42f51fd2628148eed3e2af883f9e7718d841bff3f74deeb6c8980a6d3" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/99/c7bd441fed67306b218c97db45bce5f97e2462c214704fd0cccac3e1333b/pyhesaff-2.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=92a3ff3d0500232ec863fa8ec3750ee21515afbfd8ad75b2343b51beeac78429" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/14/6d03f33f34095e426ce48ff4ae6232449fb8589061bf10f2c7d0efe4de86/pyhesaff-2.1.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=d59ac7fb54e1550cdb2abe1fabc7ad05885265eb8c31dd7ab6b53191607cdb2f" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/32/2f0152900866c197eb7e9cf862cb2a226056038365e4448c7051d7110743/pyhesaff-2.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4c16613140eb7c6a5371395b80546f5abaec704b86ed0ab5c8f33310da3fa939" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/2a/fb03a8272b7e673fd121dc00e65e932c372271c7219955221bbae2982c7e/pyhesaff-2.1.1.tar.gz#sha256=1d513ec66bd2a9799d7ea98c89f80618dddd52711f06c412d8defa22b650b428" data-requires-python="&gt;=3.7" >pyhesaff-2.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14166224-->
+<!--SERIAL 16606836-->

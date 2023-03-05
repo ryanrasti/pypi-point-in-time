@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for liblinear-official</title>
   </head>
   <body>
@@ -22,6 +22,19 @@
     <a href="https://files.pythonhosted.org/packages/12/c7/81cbf2f9e89068a24f649bb67aab14826c8eb4a0e34ed39287fb1254dfa2/liblinear_official-2.45.0-cp37-cp37m-win_amd64.whl#sha256=2354ee6d51d9a5e2ded121ed988565becfaa1d7cdd950e83a2aff5ca558c640b" >liblinear_official-2.45.0-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/ae/ba1d0221478f12259009bfe443ae4e797758d8b3657d5be59bf880692755/liblinear_official-2.45.0-cp38-cp38-win_amd64.whl#sha256=82a951a41ed0b06e7bf979f6d4e88e7aae162934ec90701c2772c0934548986a" >liblinear_official-2.45.0-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/97/da/b83f6eda3b71b57fccaaad5cbbb74c7327956ae4c9305a7ec3cd223d7e50/liblinear_official-2.45.0-cp39-cp39-win_amd64.whl#sha256=bdde7c55e51e971a81508a071288b2bf00629de11ae8a80c5e3814cbb3a71b5f" >liblinear_official-2.45.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/35/5bc429b4227d2399c88764a1fd0aea7b7446bf37e4b428667470dea6e138/liblinear-official-2.46.1.tar.gz#sha256=c87a70c7355e75727884b7003ccfedaf384af63fcb7406f9a6f3970d880dfe3d" >liblinear-official-2.46.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/38/394aee5940b0dda2bf8320f4a41794ac50dcea9aab46e198a011d86a298b/liblinear_official-2.46.1-cp310-cp310-macosx_10_9_x86_64.whl#sha256=02db2f636542e7e41c472dd8935e5fc634277266085f63c5123a2939163631c0" >liblinear_official-2.46.1-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/80/e0bd3aeb40a99d843567aca3f3aa4a54b5c2957dd70c36ff5282e994a740/liblinear_official-2.46.1-cp310-cp310-win_amd64.whl#sha256=52d08ea67a6e4c1230b7674282fbfa1b65169f6688fdd44ac2af496ca8a8ac48" >liblinear_official-2.46.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/c0/e326e2363242706b7d383ceb17d058bf2ff99db4760cd5d97983230e87d7/liblinear_official-2.46.1-cp311-cp311-macosx_10_9_x86_64.whl#sha256=dd6a9e053ede2b1eb47fc0e6e9b4282008a4947b1fce4289feff6e1fbc36c182" >liblinear_official-2.46.1-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/f4/bffa004f29793de17b702a5c97e7c8576937914abb1b07af8ae196cb6afc/liblinear_official-2.46.1-cp311-cp311-win_amd64.whl#sha256=5f269d07515c1d7cd15050accedba71ee926d56cdb822c8fa38694219ca995ff" >liblinear_official-2.46.1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/bf/c9e1a1c0225a179dfaf1caba62432fb5665cb97b88ccbbe1875af92940fb/liblinear_official-2.46.1-cp36-cp36m-macosx_10_9_x86_64.whl#sha256=8480d5bcb92c082b113680168dc13e0ca37c940a7a43d6bcb9220b7f7904e05f" >liblinear_official-2.46.1-cp36-cp36m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/db/a3c014e61a4f5dd377a382670d9dc58c2d747812ecb70921409facce5015/liblinear_official-2.46.1-cp36-cp36m-win_amd64.whl#sha256=b675f94ce39cd58de23142114c45ede7eec9c32788856c6d5d67c5392a5a30e5" >liblinear_official-2.46.1-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/2a/77ff6e2d28766c7874910d5662b46bf2964eb6554a6c3ffce7863f639c32/liblinear_official-2.46.1-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=a2c52b8962116338ba4f520cf99a74cb023a695ea172a292f6c40b7caeacb7fa" >liblinear_official-2.46.1-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/15/7f41375528b3cf9740b3c5174c57c998fcf10a454c903cf00c86e58d8ab2/liblinear_official-2.46.1-cp37-cp37m-win_amd64.whl#sha256=8e5d924103de1fd776487b9fea2b261ee1c859c1aa1219ff182170600695a40c" >liblinear_official-2.46.1-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/6f/82d53ee5dc40ac9e27ead879f4118fb18dba6536711141676e158312cffa/liblinear_official-2.46.1-cp38-cp38-macosx_10_9_x86_64.whl#sha256=267eb84fc68a094999a73b1ac076fe46184196299a678445aff794138061309b" >liblinear_official-2.46.1-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/7b/9b554d1e02757bd900327c231ec9eaddd423ac71af1a5341915289c41c46/liblinear_official-2.46.1-cp38-cp38-win_amd64.whl#sha256=8d9b90c2f78a6cf78bc64fa9b4712bb6e6178d0f27cfcaadbb844e06d346dc2c" >liblinear_official-2.46.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/80/ff3a60c42d0519ec054126bd40bc75e0d0a6498b4f4c8d0928bdc5bb7987/liblinear_official-2.46.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=12c7908ae1fed8aa9e5924f572ae4c066ee8cd6613da6f650fe82b15b9e61dac" >liblinear_official-2.46.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/ca/70f36840502e02ccf3cbb69244e8a49aa0a42a58939647e0cafc8a467564/liblinear_official-2.46.1-cp39-cp39-win_amd64.whl#sha256=ba945bd0e0e09026c6e639c335bad3d0b79a2b31a5b39ad221ca2f2eae47207a" >liblinear_official-2.46.1-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14735115-->
+<!--SERIAL 17154422-->

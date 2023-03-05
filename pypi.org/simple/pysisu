@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pysisu</title>
   </head>
   <body>
@@ -78,6 +78,20 @@
     <a href="https://files.pythonhosted.org/packages/5f/89/07edd551674744dfe32525444f71f2050b14e6aeea40da80b60bbe686a11/pysisu-0.2.6.tar.gz#sha256=e4d370415c8bb4ba613592508a8d8aaa015f14935b1088bd8a80816e1800beac" >pysisu-0.2.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/de/e7/597a7bc2ff83a3d630455548a9d2426a12ba27a858a16a69c70d8e447f55/pysisu-0.2.9-py3-none-any.whl#sha256=9f5b56e1cb936ce18e57e69986e3c0b4cd37dc71afcbc129a82e24cb8c1b03c9" >pysisu-0.2.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/02/96/090eb4c56fa090a406806f346a44e1b5d6bacdc8c56261675405665bb0a0/pysisu-0.2.9.tar.gz#sha256=3705ee98a9c0965aeed84b92143c7938a4f9e3ade15f4bd2a96b7a39348b2869" >pysisu-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/9b/e55794d97e52970fb1ff3e6d2f2f96aefae56dae04b0f07c201df792ad07/pysisu-0.3.0-py3-none-any.whl#sha256=d5088b1c1da2e34613870c1a8a9b4d8972d816f9ed62ae0b92b4675e7ce82746" >pysisu-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/86/1d68f9139d90fd9df02bf2beca7319817b4c5ba5329a4f4cb4aacfb18743/pysisu-0.3.0.tar.gz#sha256=d5b8f6fccab7c45d68b64b7f195330aad840e3ad1a5f68cd62b56414660980b1" >pysisu-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/20/cd8dd8fe0305608bbf09e7524bf0e39883b1966ee10c928be90ea9028194/pysisu-0.3.2-py3-none-any.whl#sha256=6cbf953436d630050b4de95f134956ac7d3d2a314570180356a7102aa8d4ee1e" >pysisu-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/37/299056366b7f803871ccbf241f6e0dd4610683481f62750bb720d8dff7a1/pysisu-0.3.2.tar.gz#sha256=349469f5ee740687d8dfbe7b0456ac0db2d49b61dd2085e053b65757f6299ef4" >pysisu-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/3e/57fdf68a51bbc4e776369b91cbca3fa295e22e6d34261eeff9f1718b1700/pysisu-0.3.6-py3-none-any.whl#sha256=32cff51e7d0a8697e3baf0936eaa7849e976aa75d75aabb5f6914ae263f4ba67" >pysisu-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/cc/e16f5631ecd062a5f15eda41ff315779e28d0eb026f02f7041361427d02e/pysisu-0.3.6.tar.gz#sha256=300f21d999d33b3e771a57662245448824c96b37aeb20e216d4bea8fec75d5d2" >pysisu-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/82/eab99c12a9b32b1dcc4ad37b7657146f7b261bf7763be5e9b35175958aa6/pysisu-0.3.7-py3-none-any.whl#sha256=0d3c681e21d28018f7e9bc2cb33d9df65f9322f940cad61031eebe710b5253bf" >pysisu-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/ad/dae8904130eab2f2da50f61d995fab4cf526fdc97939970669999aa8dc34/pysisu-0.3.7.tar.gz#sha256=6b1062dce9e3eb4071a7b87988ba0072c6b1fa626272fccca9f478ba0e5fa3ce" >pysisu-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/16/35ed37c64fa57cd3674692d30968077958686052d1bd2cda5bd7b44609a3/pysisu-0.3.8-py3-none-any.whl#sha256=55b0f75642d07453c924ea745afa3d0dd8875340e4c488578054c4675f3753e7" >pysisu-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/4c/4c36c7c3fbcd2096ad8b87572cff31c5217731e3fcd2f3e662c2ec4385fe/pysisu-0.3.8.tar.gz#sha256=b64887b3de36efbee473438cc32c54aec6d36199785f87a5d9c5778856a84493" >pysisu-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/f6/a554045768b1efd0cf792238c4c432b62797020b545b40d68176d8bd3c38/pysisu-0.3.9-py3-none-any.whl#sha256=36a1df71bc9bad9c7e88a81d790e4ea974d23cd8542e6aa74e7825ac8d5d3996" >pysisu-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/d3/85143889083a27d93f5a39b1b5da6002374071da6cbe4de688e380fe4759/pysisu-0.3.9.tar.gz#sha256=8e706a686133ebc99b054b5579aaed0b6671b9e9c945aed128e43edd1c557e1c" >pysisu-0.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/a4/d32ffcd00be69ed47a60d9cae768279fda7be841153d4ff2e2b319fdee78/pysisu-0.4.0-py3-none-any.whl#sha256=7aa3aaaf36044072ba84ed2e12152689f3e2d89d4aff7f8c2f212b1eb41a7f85" >pysisu-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/7f/a0969c22f91c30b5867ae1f98b8b4ce39b31cbbc12afca4eacff8f245833/pysisu-0.4.0.tar.gz#sha256=f5431b4aaab046e6af43c3f54940cd52b171933052cb21bd6aaad20284066765" >pysisu-0.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16416813-->
+<!--SERIAL 17132631-->

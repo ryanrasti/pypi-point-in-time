@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for redis</title>
   </head>
   <body>
@@ -162,6 +162,10 @@
     <a href="https://files.pythonhosted.org/packages/c7/f5/cc83da62faa294693a06a843c2cc1252e1a1c4852b84c02496cb27fc1d97/redis-4.4.1.tar.gz#sha256=f7a870c44868ab87bbecd6211c6d7c8720b1e9a796b743fbc4725d7ec75651c3" data-requires-python="&gt;=3.7" >redis-4.4.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/0f/cce821f7cd8463bf2f133029a13c0abb614cb6fe24188e2a5d1332758017/redis-4.4.2-py3-none-any.whl#sha256=e6206448e2f8a432871d07d432c13ed6c2abcf6b74edb436c99752b1371be387" data-requires-python="&gt;=3.7" >redis-4.4.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/4c/d13280a1e0dcfbf2cb3c443598abea70f651936ec8a39284160a9369d71c/redis-4.4.2.tar.gz#sha256=a010f6cb7378065040a02839c3f75c7e0fb37a87116fb4a95be82a95552776c7" data-requires-python="&gt;=3.7" >redis-4.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/f2/a2bac7e78fb85de14eff2f51037b174e33c11f658d30180c83c3c15ecb52/redis-4.5.0-py3-none-any.whl#sha256=98d265eea4d2255f4d0ea98c53326adf30c0a581b6cfba9d77eefb341ed8145c" data-requires-python="&gt;=3.7" >redis-4.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/71/903804cf670d8e7dcf322e06e10582bfe86171ab93c05f5c4b9dff47240e/redis-4.5.0.tar.gz#sha256=16135483fd35fb6c3927e4bb056780a0ad11234f61e0aa81f1db89292129c714" data-requires-python="&gt;=3.7" >redis-4.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/b5/328851ee54bbf00cc609671a658e0420d88aa2b4f5ace7aa669932d59a0e/redis-4.5.1-py3-none-any.whl#sha256=5deb072d26e67d2be1712603bfb7947ec3431fb0eec9c578994052e33035af6d" data-requires-python="&gt;=3.7" >redis-4.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/f4/6e22050869494f304c8f55341f45e68664c1da75d608a02832c70be96f6a/redis-4.5.1.tar.gz#sha256=1eec3741cda408d3a5f84b78d089c8b8d895f21b3b050988351e925faf202864" data-requires-python="&gt;=3.7" >redis-4.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16390074-->
+<!--SERIAL 16747214-->

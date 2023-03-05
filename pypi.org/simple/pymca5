@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pymca5</title>
   </head>
   <body>
@@ -305,6 +305,21 @@
     <a href="https://files.pythonhosted.org/packages/ad/73/5b3ff16de15237301ae1f5d690e163e4fd466d4484b7051a4bce28950e1a/PyMca5-5.8.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=b7971154380d1344e4637e644263b09f9333c008ab44617b35180a773a748c97" >PyMca5-5.8.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0e/80/1b3b0e63810fd1f9c19ec4b9f486c93df4530a649c8980281b61a4c22781/PyMca5-5.8.0-cp39-cp39-win_amd64.whl#sha256=b7e30b722e3b16bc134a270db32dea7521d36acea960794298a3645a564359f5" >PyMca5-5.8.0-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c2/0c/c2daa6f536118efceedd269d8cac07f95d0b9a404d0ba842c05927b42bb4/PyMca5-5.8.0.tar.gz#sha256=7c097e167039270f49f7390c58e67b9d3ffa6b31eb60731549220ddd3bf0044f" >PyMca5-5.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/d1/e7c9b52535cbf93720c1b40af710aa45de88fe3f3188d8260be3aa071db4/PyMca5-5.8.1-cp310-cp310-macosx_10_9_universal2.whl#sha256=f185c7a3490b3ddd811c61a01e2abb44a859c801f8d12c82f18b4537300c57dc" >PyMca5-5.8.1-cp310-cp310-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/79/a4584e20114a47e9c631449ee489533a9e9d1fd1f5afc402c3dff480b772/PyMca5-5.8.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=e810e85bbf6ca85c97fc8e413fe9675339134eb30bc3fb43405c265fdfcddaeb" >PyMca5-5.8.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/ed/361b5ab30e419a9bc5c5911331124cb851e8fc26aaef6ec718ad591a4709/PyMca5-5.8.1-cp310-cp310-win_amd64.whl#sha256=11709d65d1be0c18a3282b433aa57b21b8c0b17391654fe796b9f083fca93fa0" >PyMca5-5.8.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/18/3a5f9158f0383a08ce3a57221155ec9b101c15e30c52d7830d48445414cc/PyMca5-5.8.1-cp311-cp311-macosx_10_9_universal2.whl#sha256=fb04c8e7733dbec61af6d5f90e51f0ee0256e9567b96eebe13f684752fcaae25" >PyMca5-5.8.1-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/5d/03eeddf8ccbcb44f405cb85e3f89d642e2f5acdf5c51bc0909ba63a51dcf/PyMca5-5.8.1-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=36ee9869d15fb7fab59e0e04e25648695c8994e427ae4167b2777e2bcf303399" >PyMca5-5.8.1-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/06/ac3cf9237784b5fad56403f954bb45717d5784f306996365ba4866bdea25/PyMca5-5.8.1-cp311-cp311-win_amd64.whl#sha256=2d3a6b18f99edb9077003848d7ddf930b5993def4782bfedee72a1f567447874" >PyMca5-5.8.1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/ae/7d2612276d0b92917c11d72e8caf6c88da49dbe3dc7d144610fb480929ff/PyMca5-5.8.1-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=628e9efba2dc7963b35cf05e84b1e928b23985126c66d27da8c32c1011ab395a" >PyMca5-5.8.1-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/e6/25121814d1ae877ed4cfa3487052fd7b958aa308e5f22e1338b8a15ad942/PyMca5-5.8.1-cp37-cp37m-win_amd64.whl#sha256=5f9e5e6d9c73d6c5137b2b9afbab2ab457fff6b35babaac3085308fd66ad08de" >PyMca5-5.8.1-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/12/cbf4844b6ed878306f518115ad41029505c168b8ee9f39ceeafdbe283d7d/PyMca5-5.8.1-cp38-cp38-macosx_11_0_universal2.whl#sha256=477577e17b1495db7657d0d92930e4091426ada978d41feb534924f23a43040a" >PyMca5-5.8.1-cp38-cp38-macosx_11_0_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/4c/8f079d6cbbd033ea9465b70732ae2e88e98129638b4190458102d1c64d4f/PyMca5-5.8.1-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=bfec8e4715536ed23fd602fbe1a1b3ed18ae42932f4927d904e6e07f1edfe302" >PyMca5-5.8.1-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/cd/d03e32390ed59f28d04b2c0c4e8a25cb0810ed698e801d05d9bfa1427786/PyMca5-5.8.1-cp38-cp38-win_amd64.whl#sha256=4542628ab5deee58a9286fffe625826115f7fe7e184f6c10d995739ed13f25ac" >PyMca5-5.8.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/16/8da0ee9e20ef016f0dee7eb2a37c4ad1c0adb833c59c4a84ddf317508ebd/PyMca5-5.8.1-cp39-cp39-macosx_10_9_universal2.whl#sha256=79952f3c690366dbfd0d85025161473e742c32eeeac8802c1b28718c21301145" >PyMca5-5.8.1-cp39-cp39-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/8a/cab3ffd6914512d4fb469d0be9b990233d28bbfcdb8d44622b6ac509730c/PyMca5-5.8.1-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=b31a7741f5764f238ff6a14c763f1e565ac43fcc15acec05cc6e526f402712d1" >PyMca5-5.8.1-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/34/b6a04fa0590538577ba5ee79b41fb7bc6025169ac329693acaccd4e39e6e/PyMca5-5.8.1-cp39-cp39-win_amd64.whl#sha256=46a6b5df0f681aa1a99e2dff3f1b1861994193c98d4d012f80b833108aaf6a1f" >PyMca5-5.8.1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/11/260c635a275aee6dc4c67d847e797a5f10e0fbea557d0b93ea167c74ce2f/PyMca5-5.8.1.tar.gz#sha256=7867ce47b02c4429d6811d7204fde0c338a738fac77b1963fafc8d54a83ace66" >PyMca5-5.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15763971-->
+<!--SERIAL 16563824-->

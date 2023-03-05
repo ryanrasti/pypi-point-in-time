@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyflyt</title>
   </head>
   <body>
@@ -110,6 +110,16 @@
     <a href="https://files.pythonhosted.org/packages/aa/28/c8fa91009fe9488b40ff3344217ce7f1d91ff021f1192091a8558162a549/PyFlyt-0.2.53.tar.gz#sha256=5a7255cca9d91738a967036075348da9548afd2e666f10e157907ddc6902ffde" data-requires-python="&gt;=3.7" >PyFlyt-0.2.53.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/67/db/a13e0b2165dd529acb4953ec4bbffe45e92a5e6f8140e4c9f050e3ad4aa4/PyFlyt-0.2.54-py3-none-any.whl#sha256=4fe05990af38999f32cf2f1e40694f1fb067c43a5f25017c1932599a706f61b3" data-requires-python="&gt;=3.7" >PyFlyt-0.2.54-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/d9/38b003a1eab6a3d56b0a0e7d3e9d559df9d9fbae1c3e88a8e3843cbd73d8/PyFlyt-0.2.54.tar.gz#sha256=b168118e019e08f67a4e445fcae92a52848504bef72bdaf425c0e2d45c172851" data-requires-python="&gt;=3.7" >PyFlyt-0.2.54.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/50/2c6e73b846a204941475784c5685663a721bebfcad7c70405e9c60e89323/PyFlyt-0.3.0-py3-none-any.whl#sha256=df16c38bebf37eb72262264b5e40ade63c5a84c04edb8073582a4df3768b3d09" data-requires-python="&gt;=3.7" >PyFlyt-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/47/b24ee53b0ab49444a048e3a8d30c767ba0e76281d93d5cdabe6eee103b5f/PyFlyt-0.3.0.tar.gz#sha256=11e4c08c12fc43fb181db8471011963417b509326a285e062dbc1549d39c30e2" data-requires-python="&gt;=3.7" >PyFlyt-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/0a/0c1c415250c68c282237b11c2414c84614eb6e31e71dce55ff927db979a9/PyFlyt-0.3.1-py3-none-any.whl#sha256=3451f7aac57348d03adcefea61e3fa72b3a0bc496cb269cf65f7e80577186670" data-requires-python="&gt;=3.7" >PyFlyt-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/0a/b4932f0da76be88d399c7848d1c38a6ed649bdf7be5de3f761c283b3092f/PyFlyt-0.3.1.tar.gz#sha256=1e8b0211242d12406ff7a09bfddb386f800fb0522a310a3ca6a35cf54081c88a" data-requires-python="&gt;=3.7" >PyFlyt-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/b4/f88ebe45808c519c9f50f6af95b5f3fcacde55160d00f64fb1d92300e30f/PyFlyt-0.4.0-py3-none-any.whl#sha256=02617afc337457e4c8bf8ba934ea98f51132dea3ec3053423dd2f4cd1cc92ffe" data-requires-python="&gt;=3.7" >PyFlyt-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/b2/a53a1a981c6232a2905238573fd304424ac827533fe5c72aa0f7a621dfb6/PyFlyt-0.4.0.tar.gz#sha256=137ee3f941921473d34a25d00a6962a50b7ddbf83b8244b95e7f030377ce6f41" data-requires-python="&gt;=3.7" >PyFlyt-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/c1/fbb9e33b2e480427252474cc5bb1e174a23ef8387d453e092089c39cd064/PyFlyt-0.5.0-py3-none-any.whl#sha256=ad06d8bb90c997ea63b19aa50385cfe539b2761614097fd5a913e83229c87e2b" data-requires-python="&gt;=3.8" >PyFlyt-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/a9/c143d1bb4a0e3355d049fe651efd8bab8ea660a3d818d257a11dcd84458b/PyFlyt-0.5.0.tar.gz#sha256=776a77872acfb0c02cea111b97aa12d177501b1c23724b46fdce7be945dffbd3" data-requires-python="&gt;=3.8" >PyFlyt-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/bd/564f127fb961a181e83d463076b05f05fa41c2343a84ca7309af5e56c876/PyFlyt-0.5.1-py3-none-any.whl#sha256=7d4fdbcdd3f13cf5e2ba137effb6f5cb9f097ec10ba26db7d3c600c734d10931" data-requires-python="&gt;=3.8" >PyFlyt-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/11/3e84ea46de2e9538dd181040bf13c6c94366f78f375cac6e8e8cf28949e6/PyFlyt-0.5.1.tar.gz#sha256=a4f844bac398f30a920d1c216b18c26bdbbfa00ef2fe9b2416b44fae039446bb" data-requires-python="&gt;=3.8" >PyFlyt-0.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16021242-->
+<!--SERIAL 17117128-->

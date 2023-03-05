@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rucio-clients</title>
   </head>
   <body>
@@ -282,6 +282,7 @@
     <a href="https://files.pythonhosted.org/packages/ee/ec/c09dbc200932274bc25ddc9c74851b9237271cd977778021b9e235cb117f/rucio-clients-1.26.13.tar.gz#sha256=e618b5e2ba4483d6836b1ba5bb67b0b97d6004a0a98fa81b9ea7683e92996fc4" >rucio-clients-1.26.13.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/10/af65e3baf206fce9a3fa9096d5b52f1ca68de8f3c1e61923bbc0a73610de/rucio-clients-1.26.14.tar.gz#sha256=1453592ff733156df54f103c982b9b502909738c8244cf33133002d634a29e59" >rucio-clients-1.26.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/ff/7141ff0790c9feeb88ce8dfd1d2c78f4bd89ff26ef3eec5d890c340230e8/rucio-clients-1.26.15.tar.gz#sha256=79a1eca37002d4a25ad5b7e401ca40b7a9f199c2443f07763df22d838ba2ffe9" >rucio-clients-1.26.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/98/3a8e54c0207db2e6ee3d020c54128cc444661df9e9e2afd4497058ef1d99/rucio-clients-1.26.16.tar.gz#sha256=b5cb871bcee9ab195bbb6508398381b3a45c1193a3ad8be324bdfe96fb74b91d" >rucio-clients-1.26.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/60/0cc603c8659c9a1cbee59036de217d2f93631275efddabd004b86ce5a98e/rucio-clients-1.27.0rc1.tar.gz#sha256=caf731b7cc7ea1c91de8fd5d847016dc4f40bcbb423f7dadbb7b091cae4ddd23" >rucio-clients-1.27.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/27/72/1c046a8315d8e36f81029e0d834017127db64d9e62952258e6d70c0cee6d/rucio-clients-1.27.0rc2.tar.gz#sha256=f07ee7a2ea8c9f2a99b11e83946f94571dabc2dd7ef7ab3dadc983ddb213d358" >rucio-clients-1.27.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/01/8a/26117ab06839c664acb8878f776bd5f36f813dab7e56fec77227b2ad14f7/rucio-clients-1.27.0.tar.gz#sha256=02e0140b751371a25799f11d450b075319c1a9ebfcfd99d160dbf4216f70edbe" >rucio-clients-1.27.0.tar.gz</a><br />
@@ -326,12 +327,17 @@
     <a href="https://files.pythonhosted.org/packages/3b/24/c6f757ceabfd8e101d805a659b5e3b7e8d201ab2d0671dd00b64b72515af/rucio-clients-1.29.8.tar.gz#sha256=a4fe275ac3aec4711462694890b4712150cb8599d984895dbba713a233c88c7a" >rucio-clients-1.29.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/8c/333c80d52fbc3e2fe58d236a86d6483c1473b8d871f19c965021706a0736/rucio-clients-1.29.9.tar.gz#sha256=c898c266652954453e0bba297c53e1bb452c5fcba37b738164a3209d4cabc437" >rucio-clients-1.29.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/de/1b/3397fa881e85c5885efba073bb734d9736c185c939675b5418c3c30d8ca3/rucio-clients-1.29.10.tar.gz#sha256=33ccb611a66ad85610a762b470905d4cc748a3ab08c36135dfcd986adbd650f2" >rucio-clients-1.29.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/7d/ee2476aae006281849c958d3db278ced78bfb9de1d77335017d625e3546c/rucio-clients-1.29.11.tar.gz#sha256=4f158fcb8ae85d0e3a4fdde9c34e37dd3465db15e72a0f26d4b62a1b20f6a642" >rucio-clients-1.29.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/05/213df6de4c93edb8be8fcbd2d8574c7928ef387307fc84c90951728c6a5d/rucio-clients-1.30.0rc1.tar.gz#sha256=e2799c1ea113c5081391fa19b60a4794398e97a732032e2413fb7f7607ba7194" >rucio-clients-1.30.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/0c/3e17283f66bcd7f3221b43c2b5cd43e5b6fd22bd9ea5e507726c7bcca6b7/rucio-clients-1.30.0rc2.tar.gz#sha256=63e45eb855a9f1c5a50ec270b7cd911d684503cc6e5c02626346f6d44bc14a2a" >rucio-clients-1.30.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/38/1458b784c7e7e0ba0c920644d074d456f01a548152013831f41ac196c3d2/rucio-clients-1.30.0rc3.tar.gz#sha256=e4c2ac8836dfd0c9996455c1a462c4de77d32583cd97440a6cbbf445a6a49bc6" >rucio-clients-1.30.0rc3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/c7/34bac21f29966c83635b33ba2e4a3b5d9c314a8a2d35b5efce827bb93a50/rucio-clients-1.30.0.tar.gz#sha256=088c962dbd9e86546ea8889c88b3555d5c55ac57cca485fb5027806eb1732432" >rucio-clients-1.30.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/fe/5d3838ad8aa9ba26196d6f0db687c91845245327b00c8b5a5e8a4ac90c53/rucio-clients-1.30.1.tar.gz#sha256=c1bd04cc2be230bc34479df2042aaa784e798fcd9e36a58f181dc55b97c022d0" >rucio-clients-1.30.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/b1/15dd403ae69545b2507eb48e8a4ca248fcdceba273133c90501d45031c47/rucio-clients-1.30.2.tar.gz#sha256=f85694e0837c041d336299d56b2ff6060c4522b738514804f509930ab8071791" >rucio-clients-1.30.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/17/05e2fbce463fce9cced8d4c17cc60e54efba7295e1ca68619d92b534f6e5/rucio-clients-1.30.3.tar.gz#sha256=93924bdc6bfaef77b85d033676b9dcb08db7e2c0758c6a3b2d0b11f426524530" >rucio-clients-1.30.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/02/a6cb2c7e39964b31b43e26cdd6714b49cbb9342a9e8100e8f4caa39954c7/rucio-clients-1.30.4.tar.gz#sha256=bc48cd44568a86b7c8cbc2b6eac3932bc2982c3823075ead763b3ce69eecd213" >rucio-clients-1.30.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/bf/d84a57a85783f1b5d7ec048ac0fbef1a738653d1f894fb76e25919974b37/rucio-clients-1.30.5.tar.gz#sha256=ab31d025510d4ff6310b17212da742479540f0343e14e446dee1add3316f25f6" >rucio-clients-1.30.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/c0/b8f97caa491368c6f9a6f2f20d709322c98668664e7be84b690095c51259/rucio-clients-1.30.6.tar.gz#sha256=1c0d784d19786fe49b8f85b7519f4b966916ee3dea93d7371df7e8bb0852925f" >rucio-clients-1.30.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16403526-->
+<!--SERIAL 17068520-->

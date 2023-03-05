@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mipdb</title>
   </head>
   <body>
@@ -64,6 +64,16 @@
     <a href="https://files.pythonhosted.org/packages/e4/ae/8ca20ea01a7e46018547f7b8f6ff3a0c5c16513e8195c5d573863df8c484/mipdb-0.6.0.tar.gz#sha256=04472ccb24907d9e92cfe59e7cef01dcab247e0c2d4b53954392f8f9130dce39" data-requires-python="&gt;=3.8,&lt;4.0" >mipdb-0.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/ca/9a17283de2e1c6dd7f166684fd1281573e9bd07412caf26cd58a406d0ae5/mipdb-1.0.0-py3-none-any.whl#sha256=07860302150b3dcecfb6fbf56f10deae2446f7395aa850b5089c182f9ce9c9d1" data-requires-python="&gt;=3.8,&lt;4.0" >mipdb-1.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/07/98caad60edafc402648c07410940d0ff48596406e76634fa2908ce59b96d/mipdb-1.0.0.tar.gz#sha256=12e67af17e3038ecd19b20074df75d83c71850651d6e3aedb9c5a7055c811441" data-requires-python="&gt;=3.8,&lt;4.0" >mipdb-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/f3/6004272eadd0b117a4673d35a198397e384b4f334dc0ea102d3585840f7b/mipdb-1.0.1-py3-none-any.whl#sha256=0a3e5e1a7f396830f5b6789dce8561377a6a88b7140481bec0567af152f50096" data-requires-python="&gt;=3.8,&lt;4.0" >mipdb-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/fd/cec05d8c5b6438308d86fd9209fc54b6bbd7181c85696f6335684df70165/mipdb-1.0.1.tar.gz#sha256=c9ef6de5bea3198406f87bbad0e7b1c50fb705f7e3a43b7397f7aadf284fef5c" data-requires-python="&gt;=3.8,&lt;4.0" >mipdb-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/da/26f28099ccc04649dcdfdea6892e3a85cfebc7d97f2ac7bad255540a393a/mipdb-1.1.0-py3-none-any.whl#sha256=256a707b0b5ed51663d6b5a01049811885f345144622c2034627e9b94776322f" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/1e/b423c6315eb03d121deca127c399b12f3fa781394de36c5f902558aa3c10/mipdb-1.1.0.tar.gz#sha256=553cd58e74d67ed9c51c56cbed533f8e4b3ef3c8c2e7a2e9bf782275b876c072" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/2f/2081de4ebc12d2e7580b50b7e6060c2af266d75ef3dc48b6b9a2cf63b707/mipdb-2.0.0-1-py3-none-any.whl#sha256=68eb8be4b158707d574fb21f8607171c9f0828876e58fff1110a2e8ab4b9aaaa" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-2.0.0-1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/ed/7d49a62e4d6c2f81a457bd51cfda2e3c4b44da13d38c1c817763a8318088/mipdb-2.0.0-2-py3-none-any.whl#sha256=1ce6f854aaedf765f1dd531fcb46be8c88634efc72f4df4c2d73ee5de6d405e9" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-2.0.0-2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/57/e36ef2e71024b88ca4172d5c2f2c6b788f1b9819836c744ccef26c404b03/mipdb-2.0.0-py3-none-any.whl#sha256=6fd45005ac2562bbf4a49b2e506b893a1751670881e6c86124d91ea51691fffd" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/23/f4d7964ddb46bf4f2f0016eb44000750a7336fbfed9ecb2f39e536b4e6a0/mipdb-2.0.0.tar.gz#sha256=47a7bb4c3a2294236e35a908a5220cc01f0f88a688d78734d435b7e0bcbcb9d1" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/5a/9974c6f59de18ad77a23c1f5b8dc2d67a01c67ab5e261e09e195dc60c977/mipdb-2.0.1-py3-none-any.whl#sha256=093a4b263ff063c23f0b35fcd49408efa4106c91426a570f51854f4fa5e9ac79" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/be/365bbe2867d4c96f7748d00e7312186fea3d54a8e81060f138aad2ac1fc7/mipdb-2.0.1.tar.gz#sha256=c6fab4148b26c54a3c7ca685060196afed2956fd09dfd3c67ff40d0cbe4b2ad1" data-requires-python="&gt;=3.8,&lt;3.9" >mipdb-2.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16361735-->
+<!--SERIAL 17018367-->

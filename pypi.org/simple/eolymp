@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for eolymp</title>
   </head>
   <body>
@@ -180,6 +180,28 @@
     <a href="https://files.pythonhosted.org/packages/d4/bf/3830056248c79604cf51288ada033246cf7320c1ca0acc7c168524126226/eolymp-0.7.23.tar.gz#sha256=96537469c6bf3e993ab988954c8a14e6a95fa24aad1e2d80ddc1e9ce78e73ee2" data-requires-python="&gt;=3.0" >eolymp-0.7.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/12/87/753bad02fa17833295791d78dfb774853f1ce6557b035976af160599ea56/eolymp-0.7.24-py3-none-any.whl#sha256=ae423b328fa15728dd174ce26ea782bbce70c4d35ae920b67214095f218a0711" data-requires-python="&gt;=3.0" >eolymp-0.7.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/02/02debc7b249096777bb666a54cad040294600d019c0ce8d4f6acb975ee74/eolymp-0.7.24.tar.gz#sha256=a566170bf5b87e857120ea0b8136d3f046ea46fdff9b6b6b9961146589162923" data-requires-python="&gt;=3.0" >eolymp-0.7.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/fc/18a43bcf216f7ec2a82a891c890c9228944774c7a43cc56133d4122778ab/eolymp-0.7.25-py3-none-any.whl#sha256=ad7f219adf2e0a8315f9d59179aa15b76597dfd9093cb48f3cd07a89f92774e4" data-requires-python="&gt;=3.0" >eolymp-0.7.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/28/ea55a0f19a6ad50d3ed0f1eb67772cdec71e994c87bcced57be21b946f45/eolymp-0.7.25.tar.gz#sha256=1e42c577b14537c506f7a9b49e6ceebfd8caba793cedc6e63809409d1a948003" data-requires-python="&gt;=3.0" >eolymp-0.7.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/b4/87c9b9335b921b0b7502888696a645e43b75fbe0f025edd10c33da6615a3/eolymp-0.7.26-py3-none-any.whl#sha256=d6cd33af6ad1970269858db09db460e8c8ade3895fb899ca3373d7d15c31df69" data-requires-python="&gt;=3.0" >eolymp-0.7.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/88/84ba2b6aa62d04fa2488c2f87118d170351dd5094317ceac9709b6a5f294/eolymp-0.7.26.tar.gz#sha256=f8cc56926f4ec8c847ae46e725bfd4632c95907b564ec5f13856532fcadf12b3" data-requires-python="&gt;=3.0" >eolymp-0.7.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/0e/20ba1995dadcaaa45cc3d41ad50c0b8c359649ea11f171333080117788d7/eolymp-0.7.27-py3-none-any.whl#sha256=c516a88288723471fa274cc512fd19ca2d20eb24b87bef65447c7d893f8a13f1" data-requires-python="&gt;=3.0" >eolymp-0.7.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/71/f4bec24be0187b54a193a25fedb9dcb6a9eefc51ede375edb8abcac72ade/eolymp-0.7.27.tar.gz#sha256=15ac671a6743edf11fa371246cd0446e5304c846db42c8cb53c0735bd578d1f9" data-requires-python="&gt;=3.0" >eolymp-0.7.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/77/e0d1fae9936805b8e530bdcbe446f760e944cc8c997a8aef9fae3582cf5e/eolymp-0.7.28-py3-none-any.whl#sha256=b4572230d34b33461fc11224b7bb2effad90c82e47d0c197ec87f16f83c0e469" data-requires-python="&gt;=3.0" >eolymp-0.7.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/eb/89ed45bc88d455aee6ad6ba8de00c9f4c653cc007bcd48ddec2167aaba68/eolymp-0.7.28.tar.gz#sha256=f7c1d33719561766b96e2f10edf38fc08f757ba41fd4102071b212e614972fdf" data-requires-python="&gt;=3.0" >eolymp-0.7.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/35/a39fe8c8337e9158676a442cb71d8a6538fb2a6ec1cc0050051c19cd4bda/eolymp-0.7.29-py3-none-any.whl#sha256=da6b435dacf5f4f3ba3c9cfdda2c2a8c07a96978936750ca9306832e9a1fbdd8" data-requires-python="&gt;=3.0" >eolymp-0.7.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/cd/f9d319f18dd889c8f86feb15bee09ed34c63d9556db7991e7fdb4673cad6/eolymp-0.7.29.tar.gz#sha256=074f3b993b3d77143bab8cfa2ec758abc901f7f6d0300315a79813e9af80dfa0" data-requires-python="&gt;=3.0" >eolymp-0.7.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/17/4e2c0ddf30f00efb3935066106d7877f63e8238246fc4f050f32ca23d616/eolymp-0.7.30-py3-none-any.whl#sha256=1730618eb219590ae348f9876dab6772b7b9e801e667ac4ac96fd01d19ff0367" data-requires-python="&gt;=3.0" >eolymp-0.7.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/55/cf8d137a526ea9df811886fef79d6c8c1614b5bea99324dd40b45d0f4f8f/eolymp-0.7.30.tar.gz#sha256=8266c0b07d72851bf5fd152b27e9673f915aeb69ce2400e59c56d3e8365cb6e2" data-requires-python="&gt;=3.0" >eolymp-0.7.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/02/c14db043e271d4b1575a72677d62bc08910fd9f07b0019e9c3c775339ef5/eolymp-0.7.31-py3-none-any.whl#sha256=ee4d689f5bdfc0f41e080dff056c2b46cbc4f0aca71f582304786080721ca48b" data-requires-python="&gt;=3.0" >eolymp-0.7.31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/d3/6bfc11c1e4e5950e8c2fbfa4ec1c90e57a5616452de6d1dac5a651b03010/eolymp-0.7.31.tar.gz#sha256=82974881d00f9efd92308c3a98fa47b32497e720405a967c3a3d28fd1ff37429" data-requires-python="&gt;=3.0" >eolymp-0.7.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/6a/5b2a47cf235d282040a7a019d695a221de5e5a80f78eb105ca6dba1ef25f/eolymp-0.7.32-py3-none-any.whl#sha256=1d9fa1f335d741804e2b8f64ea08bdc69fdc87ed32eb8bc1a7d3e0efc98380ee" data-requires-python="&gt;=3.0" >eolymp-0.7.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/13/48142b5fa3cb13e672c2fdd18b8aa4adacaee11eddfe9471bf1283c6091b/eolymp-0.7.32.tar.gz#sha256=68db1972997d647a66ee7a0b2ddff2566cc58869dca88f4e74fc0ecf57c90e98" data-requires-python="&gt;=3.0" >eolymp-0.7.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/5f/1f48d259b828c34f17406f114cfd9de03bd41e9caa252fb8c5564f6b14d0/eolymp-0.7.33-py3-none-any.whl#sha256=677a22b6ae27ebdd5579fa529a63446f71d3756dcd0057d004c496c4b1845a37" data-requires-python="&gt;=3.0" >eolymp-0.7.33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/58/2161e64af6fc1f12bc864e610dfb0e2103380829fcc01f4f0ccfad790065/eolymp-0.7.33.tar.gz#sha256=d4c26e8f1e91ebd71cf50a0847516414451c23f2098b94150761f3009981a0c5" data-requires-python="&gt;=3.0" >eolymp-0.7.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/76/f65e601f1a50229a3d0cfcd015cd4f174a480a4587123f7420592f7548de/eolymp-0.7.34-py3-none-any.whl#sha256=15bdd9b226661cdf10c7e7dd907cc8a91cd353b543c850af9d47e0b7c65764db" data-requires-python="&gt;=3.0" >eolymp-0.7.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/87/aa1d7331dae6ed5efd290eaa4ecb20bbd0e0cb6ef712a3e00d0c95f212cf/eolymp-0.7.34.tar.gz#sha256=d30c0588e1946c535c62b941cf60632f17156a95130242c566f08e34f07b25b8" data-requires-python="&gt;=3.0" >eolymp-0.7.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/82/ce384d0830f9fe24d5e32eea81a75dc1578552d50802dc4f484200d241c2/eolymp-0.7.35-py3-none-any.whl#sha256=7d81e200e0af7288e1c077193e4f87ef08010f458606f8d9499c863a14ea4a26" data-requires-python="&gt;=3.0" >eolymp-0.7.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/e9/45c1ba3953ea2d4d7806480467e2da85dc13af224a27d4730be1f53d3d02/eolymp-0.7.35.tar.gz#sha256=8a8c781266f66b0fe0b5aa4a4946238ff227b35e63141b3b1d3ee61c26f38aa8" data-requires-python="&gt;=3.0" >eolymp-0.7.35.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16267157-->
+<!--SERIAL 17021166-->

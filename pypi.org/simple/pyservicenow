@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyservicenow</title>
   </head>
   <body>
@@ -15,6 +15,22 @@
     <a href="https://files.pythonhosted.org/packages/d3/29/b6bca1bd1cb6f6b506365804be5cd124989b4da92731be1df6efe6aac237/pyservicenow-0.1.12.tar.gz#sha256=e0610a629b0f1ebb01eebb98ea505d2723e3ba7bc3f5c6790e16ec99e026289e" data-yanked="missing dependancies" >pyservicenow-0.1.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/d2/ee14746a886aa844f174b5bbc00dea8a8a73e1c4c2027c033b8ca92b4e35/pyservicenow-0.1.13-py2.py3-none-any.whl#sha256=1c2a546bce9a949aa844f3aaabbf4ee9ffc65178d987b455fcae1e846e081577" >pyservicenow-0.1.13-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/51/97/d7f30ccda74c951cd58f43be6ea17c850d0b67768fd68a0a60e6a63b986f/pyservicenow-0.1.13.tar.gz#sha256=8a307cf180426e746b20a0c98160e99fc1fbede586cdbc250fedb2b3ee1adea0" >pyservicenow-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/04/2f9f5f972e09adb7bb70ef61166241712c7dd81256bdc1a2b18359a06d8e/pyservicenow-0.2.0-py3-none-any.whl#sha256=9e13df489d6e383001284bf62f857a3785e6f6430a706122e21445b2b4c95704" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/4d/5522bf8df26b00e1722bab169117b390d09f2a73478a97eaa0870825959a/pyservicenow-0.2.0.tar.gz#sha256=d42135e332c7b5add38518a37b0d34997780900850baa823258573e473853728" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/8a/5f3078fd08da9fd0a5a3ca7091c86950185046741cd06d7e0d1cef10ea76/pyservicenow-0.2.1-py3-none-any.whl#sha256=2df485be90e94269d4d28364c4a671a27c1d841dfdf486e02396f2009062eb56" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/a0/48059211b0d6f624cd559939eee72dbd6a8dd360eeda7f9848cb717043d4/pyservicenow-0.2.1.tar.gz#sha256=b1ac962cac03a9c23849def7ece4873710a565ba5cfa0e67db8d2309d5e17917" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/80/baa8e7c2bb1074d5065eabec454529aaee9aade20a8f7fbec080b7bf8808/pyservicenow-0.2.2-py3-none-any.whl#sha256=08c8d44e742284e2f45e6aaa9b42bdd43c5b5dd196e909fdb5d3f84c5b15b1d1" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/ff/19645df100f6b52ed1f4d967eef5ed7bf0f689293ea8aacf0cad54f88d06/pyservicenow-0.2.2.tar.gz#sha256=7f7fce96192c540608c169824acfb89524dfe0ccbff27de7854d35823c97b54f" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/51/e4f1be8823823630c228f55f7c19b1f49faaa8257683ccb67c75b27d56ed/pyservicenow-0.2.3-py3-none-any.whl#sha256=209cd0180e1795986e844d60ce9cd81b21a860aeae5214a643365fddd538c6c9" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/c6/8fa061e0f71857c20bc23efd95246a866f7d8a645af0e2b6f50a60ebf6f6/pyservicenow-0.2.3.tar.gz#sha256=7460857011e042cb31274955dd8761b908113714b2a051087108f79e4a2f575f" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/c2/4649a19cf3e63970b3d59bb7f2405ab97baeeee29110394178cbd05febf6/pyservicenow-0.2.4-py3-none-any.whl#sha256=b22887c08efafb83931915fbbca5ff7259228607b7cc21158be8a72058f1dbc7" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/db/b2c4d41d68bf905ee0703cce3895774a6e70594ae7238f55240adc9fed99/pyservicenow-0.2.4.tar.gz#sha256=81244187cf4d69415d4bc409ed903307c3174957347a6ccba4890ff0afd77007" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/13/0ccf9e26db09c55bc5103728db87870dbea231c39e43c8a2a5c0a63e31dc/pyservicenow-0.2.6-py3-none-any.whl#sha256=b5e42e7b005d7db2c00af670b627cddd16c8324c8dd11273a64ce45478b713c1" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/6c/3d3728723a1d7f58498822321e29a6e4c288d3bed79431ce016ab090820d/pyservicenow-0.2.6.tar.gz#sha256=59d4a2dbfca42c7864101161a35cdea434069d7d488f1f3a095d2a7d73660286" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/9a/de56fec83bdef8231c92459130b201b4c881f1c63a77d72463a5dd55e61e/pyservicenow-0.2.7-py3-none-any.whl#sha256=ac18e9e3fca24d266a274ff47fe31426f3aeeb0aa1f2c80922ef23a0def00815" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/c7/71b55792be0f6e1ace1644e054ca3f5551e37deff1be15b75d36f2f2694c/pyservicenow-0.2.7.tar.gz#sha256=2231cad2fb1c6d396008a51cb1ad498351c28a92b05a0c7e094f5a8cf09dd938" data-requires-python="&gt;3.8.0" >pyservicenow-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/fc/b3eabc9fd79e8e9c3ae9faa642b92df13bdb6013ad83bb20080c5695da2a/pyservicenow-0.3.0-py3-none-any.whl#sha256=25a8a4e014d94d60f847f83cae646e05f518efc88fe099826666f373d647fe18" data-requires-python="&gt;3.8.0" >pyservicenow-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/fe/c56ca1a0bac63e8b86616891c399361d75e2c4a20d4b8a5b527e29e02293/pyservicenow-0.3.0.tar.gz#sha256=df21aaed9572d16affbd699099a60ca7261643e537b08f0640abeb9d65d53309" data-requires-python="&gt;3.8.0" >pyservicenow-0.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16310178-->
+<!--SERIAL 17100878-->

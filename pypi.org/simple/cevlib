@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cevlib</title>
   </head>
   <body>
@@ -24,6 +24,16 @@
     <a href="https://files.pythonhosted.org/packages/91/d1/ccb0e49e15974f4cec557ac4a98ae9c1079cbec780129b401eda8592788e/cevlib-1.0.5.tar.gz#sha256=c6fac7161ef0208f29d7dba9e3e8d5fad62737f1328704f6b8ff84d3eace25a3" data-requires-python="&gt;=3.9" >cevlib-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/11/c7/80a7b0104e4b37d26b5c5edf73c8c612f3d45684f0707a56ba8f6171cb66/cevlib-1.0.6-py3-none-any.whl#sha256=babb9c3e8412c49dfbc3561ba7f4756ff38729fcc5029f15bd124771fce18d13" data-requires-python="&gt;=3.9" >cevlib-1.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/db/2c/ca6e65547a225dfa868956fd3558999d21d5615fa4e2fff89d2448ab1d31/cevlib-1.0.6.tar.gz#sha256=8077113d539483cc0cf8dd32cdbfffe716381e9e9774a360beb07e6e5d73cf7c" data-requires-python="&gt;=3.9" >cevlib-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/2a/6b04ce14ec9ab7173e09852c3aa6cfb1a6791d1c6aeeb5b9654463ba7e36/cevlib-2.0.0-py3-none-any.whl#sha256=c6ba2227e86533159b3ef01c32c67e6611adf3d1dad706387c2d1d3c20201170" data-requires-python="&gt;=3.9" >cevlib-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/71/335e292c1f2057b2895e906efc88066982c35035e26163c8ca6c57caeac0/cevlib-2.0.0.tar.gz#sha256=70e706cd29755f54072f7d58b82e721ca24bc90bd52e65aa74c3c80d54cbcdca" data-requires-python="&gt;=3.9" >cevlib-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/39/6532a507b50af701bc3d55fdf99e6652ca4890013bb0e1083d280c11822d/cevlib-2.0.1-py3-none-any.whl#sha256=8a4449884b8612d25455079f17ff005b17e08781c6f51c31c32ecfdf5f2772e1" data-requires-python="&gt;=3.9" >cevlib-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/7d/40c30a004ff78b9e8d1df364dc659eaf3209958a3f45e0ea1c08221e93d3/cevlib-2.0.1.tar.gz#sha256=4511b6a39b48cccc4bd7f8835d9aeb7d8b23722140ed895a2e021df8324f7461" data-requires-python="&gt;=3.9" >cevlib-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/1b/0dd809af6f61470f39b337a3ccfcab775eb24eac8f9be44283c9281b7a22/cevlib-2.0.2-py3-none-any.whl#sha256=87de8c07bc1a269d3161ea4597bee970f38b58fb101f6d04b5fddae70769ea94" data-requires-python="&gt;=3.9" >cevlib-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/46/c68d6b4e98db93d5ab518e40e5d6890b0a523a8fcb5913fa8b580a82a40a/cevlib-2.0.2.tar.gz#sha256=27ee8ff55b5bd39a0bf4496d03cc5ef80a90d58b24c74a99d8ac690770cfe9da" data-requires-python="&gt;=3.9" >cevlib-2.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/46/3f9db3a748208b64ebb1787606345fd045016a3feb4155c0233fcbdb60a5/cevlib-2.0.3-py3-none-any.whl#sha256=f1223e2682473da06a694fe8652ac4ddf54e0c15073f394d7f5a2decd650941d" data-requires-python="&gt;=3.9" >cevlib-2.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/61/7a8f8046e396d8cb730fe4d762a7e81c3cdaf49e65fc74ea402e8dab7df4/cevlib-2.0.3.tar.gz#sha256=1cdf1ceb1e6493ed9265bf731df82957203d0c2d327f91929471377072372107" data-requires-python="&gt;=3.9" >cevlib-2.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/af/c4e8ff33b7ec4c823247e8b57e551a480f2c5bb21047e1f52f3f480a9e77/cevlib-2.0.4-py3-none-any.whl#sha256=ddbb66d4cae17249077c2ef9dafa10298f86d3dff172829931e555da6c60ef3b" data-requires-python="&gt;=3.9" >cevlib-2.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/17/e783558c9d1e46bb5cf70d2e181b5ced0bc144f9230c039ed5e640eaba07/cevlib-2.0.4.tar.gz#sha256=02ff5cce81f313737626225f9ae1234e19308c28125c28e340e1cecaa1662a05" data-requires-python="&gt;=3.9" >cevlib-2.0.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15475509-->
+<!--SERIAL 16610647-->

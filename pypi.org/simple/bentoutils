@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bentoutils</title>
   </head>
   <body>
@@ -80,6 +80,10 @@
     <a href="https://files.pythonhosted.org/packages/fd/a3/80ca15d32ed3242f90277da1b2bc023464e805243ef4cd57dc8d1ab74b45/bentoutils-0.0.65.tar.gz#sha256=372102e52829aec23aef162e7a0b0d8a81f2e582f66542f5e2b076288f83bbb0" data-requires-python="&gt;=3.6" >bentoutils-0.0.65.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/20/25db09e3f2ab73c2240bcfe5c20550f907d0f26a09c4259b7b0c11ad9c91/bentoutils-0.0.66-py3-none-any.whl#sha256=cd6e6caa75578fce3365d770fbac374c09cfa234e2f68dfdcf78698d169c25df" data-requires-python="&gt;=3.6" >bentoutils-0.0.66-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/c1/7819caa4978cba6eda3855fa1fb4253e93404a49296ccaae25b090575794/bentoutils-0.0.66.tar.gz#sha256=08333f355ce1e2c9318f3471eebb5aa6c8ee7ad64fa7b5fa9bded6db2cd7d577" data-requires-python="&gt;=3.6" >bentoutils-0.0.66.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/b4/b036efbd8fb483e9b295a0fc0d34f8acb3b113692c432caf2c44b9c086ff/bentoutils-0.0.67-py3-none-any.whl#sha256=4fc563b5750687d945aa2948e8944a9685d6cee1c74204a020d7a861b78397f9" data-requires-python="&gt;=3.6" >bentoutils-0.0.67-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/f3/723ebf5c14f5b753cda8e27e00760e23f76037efd737f0de724ea4f926ea/bentoutils-0.0.67.tar.gz#sha256=cd387bcb14e375449082e8fe19fff4b2dbef79276bfdabe41d112b01be249bc9" data-requires-python="&gt;=3.6" >bentoutils-0.0.67.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/64/48bf3247bbbd382b8d3c7a7a444f73e2fed701a0087284286a6307db859b/bentoutils-0.0.68-py3-none-any.whl#sha256=1edf5128ffe06a0e37083a604e2ec342202724fd668633259b64da54daca8ddd" data-requires-python="&gt;=3.6" >bentoutils-0.0.68-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/d9/0463051ac000b8807455a7ebdbde4406acf17cf03d1042a8990bf5bb7fe5/bentoutils-0.0.68.tar.gz#sha256=13ac340a552dd8f999f8340c8abb78885c07feac1466b92f29589bf84c7e7c55" data-requires-python="&gt;=3.6" >bentoutils-0.0.68.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d4/a7/c1dd0c232e1feca9bcec5487332167e435550ec4210f975554cbfb332abc/bentoutils-0.1.1-py3-none-any.whl#sha256=7f44bd3705489a434b23b52d569fa4069c3a5982ff2c77d22db21ac21ca0e788" data-requires-python="&gt;=3.6" >bentoutils-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/64/7d86028ca219f54e05d47a8fdf642cc619b02113bc916d955d8cfef08cd4/bentoutils-0.1.1.tar.gz#sha256=4080337a69b5f9eec9e1b82fa8415766505a776f0a221e4642040c0d574a245a" data-requires-python="&gt;=3.6" >bentoutils-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/52/4840e1a18caf2b3a4ee2d31ae2483131f544b37894cd707635c753c9a841/bentoutils-1.0.1-py3-none-any.whl#sha256=8068ff3ce21cd3c06eebe238013522b70990a5b5bf7c73c2443b8616d6cff4f5" data-requires-python="&gt;=3.6" >bentoutils-1.0.1-py3-none-any.whl</a><br />
@@ -90,6 +94,18 @@
     <a href="https://files.pythonhosted.org/packages/f3/b4/81fd0d6b129a1ee8c98542c32be817df5f848c19aaf14b20bb88f02ec65b/bentoutils-1.0.3.tar.gz#sha256=08dc017100ff8ddede09502c47b48b0d9925b63f49899fe15765581e22459f41" data-requires-python="&gt;=3.6" >bentoutils-1.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/72/bba46d356faedf1b49eca8c1798d43800afc4eaddb1741e6382b5eb84be8/bentoutils-1.0.4-py3-none-any.whl#sha256=8b38f7c8642465a85e9347dd3d6ea6e228c100779559a48d3fd6e38bc355b535" data-requires-python="&gt;=3.6" >bentoutils-1.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/d3/4560f35721bfab8bb72f9a4a09a49547645f42c16a8ef4604ee935673773/bentoutils-1.0.4.tar.gz#sha256=871973d5f9406a6e44572bfece2058326a9117259534c04c826ef1495f1f21cd" data-requires-python="&gt;=3.6" >bentoutils-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/76/0aa9cf9a19bc3827151e0b1dbea45d8e53af97f4753553b94a357594d917/bentoutils-1.0.5-py3-none-any.whl#sha256=ceddcb5875b1beac567e719dbd698cae646e0e9440fc9e50a62e2424286cb7b9" data-requires-python="&gt;=3.6" >bentoutils-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/3d/d35598424132281b74c7c9320ffde60895d5d7a8ab32903e72cf92319b11/bentoutils-1.0.5.tar.gz#sha256=d35be4fae08d9104df072f590e0fa9f3c2fac140a2b846a39deb96c0df00eac8" data-requires-python="&gt;=3.6" >bentoutils-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/66/f32ae958a32fdb2a567322b3987cdf9377b97bcf9393c6c8cfb53bf021c9/bentoutils-1.0.6-py3-none-any.whl#sha256=59a23ce11c955a989df9518ebe41e5e982db35c428fca672686a049e208ffeb9" data-requires-python="&gt;=3.6" >bentoutils-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/19/7b401ef2acd8ec4c5e188842c96dabb3528dc06b4518c29a0fd80640b436/bentoutils-1.0.6.tar.gz#sha256=c6fef78ce31f335be2d322048f8daf71dcc77206c63092aac9a62f01fad16ede" data-requires-python="&gt;=3.6" >bentoutils-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/d6/0a46bde40e5bde40235247496be4c83ef5427519602c762d58478cf7df86/bentoutils-1.0.7-py3-none-any.whl#sha256=6928b037eaafd625f8cb0a8da2de3035396494f867c460620ef18cda877d15bc" data-requires-python="&gt;=3.6" >bentoutils-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/d0/08d02376878ff6605bd427d624574953c7e2bbdd1546305d037af1962612/bentoutils-1.0.7.tar.gz#sha256=92a5d32d997f83e33e289f66b38696547d595086b29605f58388f23a20c5c39f" data-requires-python="&gt;=3.6" >bentoutils-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/cb/9c99c113b5afe717b967ccda5a5b691c4d2d673ce50fdf9ffa3d680f4558/bentoutils-1.0.8-py3-none-any.whl#sha256=67b386cbda9f043c9accf067ebe7becb04309c424b06584e87c10fe1950152d1" data-requires-python="&gt;=3.6" >bentoutils-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/ca/6e27f472c8388db3369cfab7152eab0216d6e983602abefbe85d9a817723/bentoutils-1.0.8.tar.gz#sha256=8fb04b41d057ea7e1de81d5682c77764a792f60dac7b81cd204f0697a68dfe14" data-requires-python="&gt;=3.6" >bentoutils-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/0d/c55d70a41e16d680fe1160989ebd7b357b30208841acfcaf6e145323c117/bentoutils-1.0.9-py3-none-any.whl#sha256=ac3cc41ad058029130e8594bcf5137f3b734f810e36e6c3672c10f6836c88f2c" data-requires-python="&gt;=3.6" >bentoutils-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/6a/fca22b49163e41f204f3eea025841ead58a042bee25475f83af2c330246f/bentoutils-1.0.9.tar.gz#sha256=9a8ef32d77555041904f05ace507646de03bf3e7657862a3ee281bc4d25021b1" data-requires-python="&gt;=3.6" >bentoutils-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/7b/44932b4ffd3304c480b6afe9b0be69b8d1460cb7fa7eadd14da708b16d6f/bentoutils-1.1.0-py3-none-any.whl#sha256=c195fc31654e96a7d5e1121f1a05511b7369a2ce696244f9f95a1aaf83ccca94" data-requires-python="&gt;=3.6" >bentoutils-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/eb/667ba46b39ea28262648ae49e53760b9aacb9391ddfbbbe487237df7d00c/bentoutils-1.1.0.tar.gz#sha256=3a61ffa66f979132ad966a1e00102ea755400644624189c549d5f58230d0e38e" data-requires-python="&gt;=3.6" >bentoutils-1.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16080005-->
+<!--SERIAL 16924814-->

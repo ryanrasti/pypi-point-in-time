@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-k8s</title>
   </head>
   <body>
@@ -788,8 +788,32 @@
     <a href="https://files.pythonhosted.org/packages/ec/b8/26bcfff6aae2a02a987c9cb1fbf1c2982069fa43bb6e1afc57fe65ce6a2e/dagster_k8s-0.17.9-py3-none-any.whl#sha256=86b7dd9aea067e55eecfae8014d71fbf4db70b555fd2ba794373f4b5261b1359" >dagster_k8s-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/b1/a5403a67273af207cea57b105288184e46ceedd8e139f0417ad67a61cb01/dagster-k8s-0.17.10.tar.gz#sha256=b6c76d89f6774d68f10249f5ed3f76a21b4745420033b60c0d1d9ebfea84ce61" >dagster-k8s-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/63/19d06530edb469599c35e4707929854bd948de2c39f96121440e448d63d8/dagster_k8s-0.17.10-py3-none-any.whl#sha256=bfde4bf8b64e69a379f9c1c3146f2152c4fd631bb2bba39bcf5393f170e06b3b" >dagster_k8s-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/72/baa791461242858df2a04abe87f2188d4cc96bb85942ee5c521b6d53fad9/dagster-k8s-0.17.11.tar.gz#sha256=fcbfaa80a8e98c4965ed5d2cde6a54b3d890b8f83c33b8569bb859dee9236761" >dagster-k8s-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/84/7f8a3ab79dd6f27346baf57d861888f13fd1d0134116ebcb7a76792395e8/dagster_k8s-0.17.11-py3-none-any.whl#sha256=6961f4085e94d6d24cc87e65103731966430387c0ed3b2898c3d4e8a49186291" >dagster_k8s-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/fd/37fc33ee6092f3a40e67f4eb63282a7492d6897063e5e59b63158b1ae8f5/dagster-k8s-0.17.12.tar.gz#sha256=f534d416ddc9b84a60f2e03cdf845ebd1de43e47c65ad75317f00feacb8c40cf" >dagster-k8s-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/32/a31ac108d0711dfb302e2fc0f3c0333d86a51997f28a0d76106271b6ef6c/dagster_k8s-0.17.12-py3-none-any.whl#sha256=8c6fdefc18ece4d5d6e581c35ef3078211391d9c5d38aee11dfe15f7f415c5bd" >dagster_k8s-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/ad/37e870df37186647207c73d39b3e57285c915bd864664d794e0a68a07c91/dagster-k8s-0.17.13.tar.gz#sha256=1a9844df3b97f0071b219d524bdaa7a4947f776f7082c1fd508d31b54a856699" >dagster-k8s-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/07/2da36ec447110101ec83aef2a8e3713d2051cf974940a4868cd82a375d89/dagster_k8s-0.17.13-py3-none-any.whl#sha256=7b33bea04d2f66723c9795a165353de331e2b4240b7845edfdb8a3a305280783" >dagster_k8s-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/1e/f13d91cf5315404d43af477f8862dcad2cb7380d9da8c232deb6a0bb63ac/dagster-k8s-0.17.14.tar.gz#sha256=2fc3b4c7ac0bc8b425eaa5671e6c4669fbc25b9b1014aaa722942273c3c89512" >dagster-k8s-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/cc/60ebe328b9b5e2fb6a8b3d028b44a9c76fa4cba25f032635efc203fb1af3/dagster_k8s-0.17.14-py3-none-any.whl#sha256=c71eea0ce141a4b11db0cb367305d08bbdfb506d6d809e2c2b7b4638acf1727b" >dagster_k8s-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/02/3123d438515effb03347370d55e325d586730f4391e7fb2ad3467e35f050/dagster-k8s-0.17.15.tar.gz#sha256=ff1bd8929cc809f9cb47828fa9ce7196fd7f24d87ee4f3f486fd0f8a8be71c8f" >dagster-k8s-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/d8/cd1fec5f45c3969248ca7c5cf54e8a5c2c1017ab1faaa0d199c507863153/dagster_k8s-0.17.15-py3-none-any.whl#sha256=8ff617df0593a513d8d7e2ebd98685fc2503add7dfd0848fd75af6ca4fdf1c19" >dagster_k8s-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/03/f7553478adf4037d25ab930a24f4204b97e90c9b38085a35df5cfcfbd5a7/dagster-k8s-0.17.16.tar.gz#sha256=895372692d791761fef2cc9e5f86ef0a0bf45cda40fabc37914415d3966e9438" data-yanked="" >dagster-k8s-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/9c/f75197f5981cebd626a8fbc639bd334560a64c7d4224661c8cc308600f45/dagster_k8s-0.17.16-py3-none-any.whl#sha256=c01f17be854b26ad4f2af019ff0f06f6a26799e34578f3d2ae18af1de3b80080" data-yanked="" >dagster_k8s-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/40/9323b05985044e487593fb2eded273c72c6b50f023b0676a99bd696eeb40/dagster-k8s-0.17.17rc0.tar.gz#sha256=70f4d82f9fb4675894defb7d0058649b3f1c89883fd9308e7db8872be170111f" >dagster-k8s-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/1f/6137c9422ef56128b47c31dad3fdcf2c1ad17df03c33e828162644b3ac73/dagster_k8s-0.17.17rc0-py3-none-any.whl#sha256=d087743b6b82b2db0c7ba507d632c051917bd08d2da9a57273279d11b2868fc0" >dagster_k8s-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/66/d64efd720906a9a00e2998950b3f0b8fef94f66d816c5ff34ac92ef0e919/dagster-k8s-0.17.17.tar.gz#sha256=6257aab409999515274064b0c6f2447a1f61b34c0009f62d1960f20421c0e100" >dagster-k8s-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/92/6fad53fd7521ddb576ddd0cff5bac3c7a98b6cc7cd33f33f6b8a6850ec75/dagster_k8s-0.17.17-py3-none-any.whl#sha256=d3bc1389f64b669523d543f22b596fb8e0dbd9cfca30fbd260d3f9986ae9ea60" >dagster_k8s-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/b0/356480889f79cc1144258d812e2988a0cc3b7091eb676de8b01a8ac501f3/dagster-k8s-0.17.18.tar.gz#sha256=f2e1c156e25f1cf4d5bedd3c0547cea09acebbbc849364793cb840a82b0a35d8" >dagster-k8s-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/a5/cf29cd167ee4325307867ff9a619cf2f31c3ace48603197b2a360be98edd/dagster_k8s-0.17.18-py3-none-any.whl#sha256=76fd2d1c66916eaf5fa10fac5566e7a970985332b58d299d41c0a1536ba3d42a" >dagster_k8s-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/0c/0065f379b2eb14588515909e62dca65dd48c0bfd4f45bd08c141e31c0341/dagster-k8s-0.17.19.tar.gz#sha256=df5476432d26623b5fc97edaf52beb9fc1455f1fb9f5f6187079fe67e9d86002" >dagster-k8s-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/8c/e3eb3d2755b31dd8c2555e075d134c7d0d300dce677af7e68e53db5c11dd/dagster_k8s-0.17.19-py3-none-any.whl#sha256=bcc2f5096eb731d846ec8074092d087e42f60367e5504371158edc992a3dc726" >dagster_k8s-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/c2/6a77f975be6f1cac14eb546c4736bff3f66cfb2131fc5aad56851ca398d7/dagster-k8s-0.17.20.tar.gz#sha256=4f38be7364877b1906fbe20189e3af98b1a455832e620dc769a85bed1eee52cf" >dagster-k8s-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/02/6ff11cae47979838b5b7f7e8731c4bac4ad984be4b86fef99ddcfe257608/dagster_k8s-0.17.20-py3-none-any.whl#sha256=de7dfe30da2c7116efa72ef9c13bb8070eeeb1f0054bd575d198e55f6cc06838" >dagster_k8s-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/6e/90ced41662507a49320dbe58825c00eaaf28f40b002cde0e996ea1947b37/dagster-k8s-0.17.21.tar.gz#sha256=334361930a53af8c5fe95db7cbb033f55ef9acd8a9bf1f99ffba234259f8e4e7" >dagster-k8s-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/f0/bef1be8f0c9b3f3bfc061d0349554c6e2d49f4a25604b9fe0f4fb1c48540/dagster_k8s-0.17.21-py3-none-any.whl#sha256=6484ce143b4008a6f596f733dc3e38addbeb7afc00dbe046bfdc6ace71dc2f28" >dagster_k8s-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/26/367040ac1d8dbc63fe35d83a569d41b213a0d9f458c5fd72fe6aaba8b93a/dagster-k8s-1.0.5.tar.gz#sha256=3690a1c602f8fdf1c51e173b331f0788e4b345c08784a42a6b08126af5fbdf10" data-yanked="" >dagster-k8s-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3e/3a/e7483a0cdb30802372ff83c3e47cf5e92344e6462e52ab4efb713694399e/dagster_k8s-1.0.5-py3-none-any.whl#sha256=93e5c11a36d107b09d9101e863892b8a97799e9c07d6a6e75883a017b025b140" data-yanked="" >dagster_k8s-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408579-->
+<!--SERIAL 17135771-->

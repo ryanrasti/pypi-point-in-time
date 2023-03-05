@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for poetry-core</title>
   </head>
   <body>
@@ -90,6 +90,10 @@
     <a href="https://files.pythonhosted.org/packages/12/e4/5c91edb0bc975752c308e425a86b02b5b00cf990b362cfc482254d66cbbb/poetry_core-1.3.2-py3-none-any.whl#sha256=ea0f5a90b339cde132b4e43cff78a1b440cd928db864bb67cfc97fdfcefe7218" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/53/2e/8c9edbd32862b801e7e01ac5bb7a2fce827c5b535da9421003a857ac6204/poetry_core-1.4.0-py3-none-any.whl#sha256=5559ab80384ac021db329ef317086417e140ee1176bcfcb3a3838b544e213c8e" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/80/373557c83c79d0cc7add2c123be04c29d81b0ac3e631257d8d7dc0a3cf9c/poetry_core-1.4.0.tar.gz#sha256=514bd33c30e0bf56b0ed44ee15e120d7e47b61ad908b2b1011da68c48a84ada9" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/99/6b0c5fe90e247b2b7b96a27cdf39ee59a02aab3c01d7243fc0c63cd7fb73/poetry_core-1.5.0-py3-none-any.whl#sha256=e216b70f013c47b82a72540d34347632c5bfe59fd54f5fe5d51f6a68b19aaf84" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/bb/2435fef60bb01f6c0891d9482c7053b50e90639f0f74d7658e99bdd4da69/poetry_core-1.5.0.tar.gz#sha256=253521bb7104e1df81f64d7b49ea1825057c91fa156d7d0bd752fefdad6f8c7a" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/b2/f8bd0896518b8f48fd7c80ca1021efa76eb6e50f08556060fb84494de800/poetry_core-1.5.1-py3-none-any.whl#sha256=b1900dea81eb18feb7323d404e5f10430205541a4a683a912893f9d2b5807797" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/52/b73aade26e2487159ad2c1b5fd7cd2b76532e146dd36f99b4be4f741b13b/poetry_core-1.5.1.tar.gz#sha256=41887261358863f25831fa0ad1fe7e451fc32d1c81fcf7710ba5174cc0047c6d" data-requires-python="&gt;=3.7,&lt;4.0" >poetry_core-1.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15855896-->
+<!--SERIAL 16945875-->

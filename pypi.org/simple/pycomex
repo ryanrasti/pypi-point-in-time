@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pycomex</title>
   </head>
   <body>
@@ -34,6 +34,18 @@
     <a href="https://files.pythonhosted.org/packages/65/bb/f02c3a75214fc4a7f024e772652143ddf6b0be346f28b3db0234d4f25fe3/pycomex-0.6.1.tar.gz#sha256=bf01b4fee14af4f433b09a3363b084dbb4b7653958ad70647d593853792167dd" data-requires-python="&gt;=3.8" >pycomex-0.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/e1/6bdbb25cb29c7821529d8b7373bd1630e34a240097347d7fbc780be3aea9/pycomex-0.7.0-py3-none-any.whl#sha256=1e1513f4c86d79e14dbbcc8177625faac9b3c4cd2dc4cdb3817b8b3bcd5f64ff" data-requires-python="&gt;=3.8" >pycomex-0.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/d5/1a743a4a78acd2ca88a6b2b8ddf42b76160a3927d5d1c10b8327bcc48247/pycomex-0.7.0.tar.gz#sha256=9ab2b2213aa08f8d4166c30900958d518c2abf65cf180739eff242b980dbd7e4" data-requires-python="&gt;=3.8" >pycomex-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/72/9f1a0682f2dd025ea940791ff60e1307061f11f2493ee0d9af0493ef7110/pycomex-0.7.1-py3-none-any.whl#sha256=e271965f10132df9d830a068a029d69f477ddd9ec8992d70692a7740f0afa4b8" data-requires-python="&gt;=3.8" >pycomex-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/3c/ea9a9c3fe4bbeb366cfbd42461fd33789e2ced2e56590368f401d50b6caa/pycomex-0.7.1.tar.gz#sha256=6984fc3d9215f179aa394e60d3d9bfa7786498b5a9803e903d9ccf4a0d55aa54" data-requires-python="&gt;=3.8" >pycomex-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/7f/b7d09cc7c82cb361c305b72a1afc96373c686425c8bef77dea3edf5c53a1/pycomex-0.8.0-py3-none-any.whl#sha256=24caab42ed86dcd3ca9f147046524d239d1c1829889b9bdcc918fd73cad9c9f6" data-requires-python="&gt;=3.8" >pycomex-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/3b/a820ded4a0d8dfa16bade2606c8f12ec956dc748e795ebc6e0d7d190d248/pycomex-0.8.0.tar.gz#sha256=71def94f7acd6b88dedb9065789f164f67df6f89e12d6a262c42d74dbaa57d5a" data-requires-python="&gt;=3.8" >pycomex-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/0c/d987ad780c9c1b05ffacd1a04b2bd686b92f284cae87fc8775bfc355c83c/pycomex-0.8.1-py3-none-any.whl#sha256=9406df9bae341a9e212b50e4f123eab8cc6c65cc7e0b2d1cd91583be5e5d232a" data-requires-python="&gt;=3.8" >pycomex-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/f1/35aadf87b189d9fdaa83c21971dfe8ce031977c0498542cc57c6eab40b79/pycomex-0.8.1.tar.gz#sha256=47eb790096dc89de44474b5e8fd18de0d827274a27b40802c807a0fbdb4bd1b6" data-requires-python="&gt;=3.8" >pycomex-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/a8/7b6c28005c14e609c3382fce931b79d3410be59232e4b5da62355feb4d5f/pycomex-0.8.2-py3-none-any.whl#sha256=19214a9011777c613c0ce1812f83269b4421b8694354c0ecfb2987bfcd03ce8a" data-requires-python="&gt;=3.8" >pycomex-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/61/7ec66a60cff3cb5a0190d6c5c0f46c68123fcfd4d6d8a74f940ae7689e7f/pycomex-0.8.2.tar.gz#sha256=cb140fbbb0e58c1c71abc3afd7b4014857dfb6801aedd3b0dcd19f24c186a239" data-requires-python="&gt;=3.8" >pycomex-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/71/60faa351b24e553424e1907bb9b8e1b100baa62c87bb9a8a1b88bfb2537d/pycomex-0.8.3-py3-none-any.whl#sha256=4bcdbb2220189e4ea6cec1c50cb8ca01d8f30fc64786a6f8d68f28ab94bd306f" data-requires-python="&gt;=3.8" >pycomex-0.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/08/5241e77120dbf03fbbcac476b63f18594fff7b7e633f6650a25749b02cd4/pycomex-0.8.3.tar.gz#sha256=0ef6fe51db0375a93ecb8a86e51d4ac03ab504887113290c5c12c470ac6f11b8" data-requires-python="&gt;=3.8" >pycomex-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/bf/0043214910c7ce28f05ba87f74f9e0c3c6e413002bca8f6e0bff32a485fb/pycomex-0.8.4-py3-none-any.whl#sha256=a2780b1f42558c62c00f0550cb2e2a2fc65c7995bcd8cf6f8131c03a27376402" data-requires-python="&gt;=3.8" >pycomex-0.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/9a/3d98c11a5fb38e75dc47aef525805e6c56ba623857ae12eca9d67ac64e9b/pycomex-0.8.4.tar.gz#sha256=7afb7b3acb91638911f7cfd0718029ef90ad80aa77e99fcfc7bb7f29cd34484b" data-requires-python="&gt;=3.8" >pycomex-0.8.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16289506-->
+<!--SERIAL 16892227-->

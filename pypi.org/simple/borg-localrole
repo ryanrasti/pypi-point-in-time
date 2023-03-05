@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for borg-localrole</title>
   </head>
   <body>
@@ -45,6 +45,8 @@
     <a href="https://files.pythonhosted.org/packages/68/98/028fb4015ebc6bf829cc5202389f05f86921a846fdd66d1824716d8b00e8/borg.localrole-3.1.8.tar.gz#sha256=84da053e7e09106531586e322b0db2612ab6ab64a8bec18a737c49a9798c0611" >borg.localrole-3.1.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/5a/99a8f82e5d7135fd5d656edd26bf7df0c28a874fc022e7a7c4bbc5702f3c/borg.localrole-3.1.9-py2.py3-none-any.whl#sha256=094cf08ed20db6e0f395f4042182b3bce197ab07f13e83a4170cb6994beec98c" >borg.localrole-3.1.9-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/39/32955aaadcf1968ab9363c628adec9d784b7115b0425bd5d8858e353068b/borg.localrole-3.1.9.tar.gz#sha256=c5699e5066781d9862809e034b20cb1384766f2e423986d3f5966d25304042b3" >borg.localrole-3.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/2e/c309a1c436262faa8eb817b2c1812992a866591099041a75db841fd78f2a/borg.localrole-3.1.10-py3-none-any.whl#sha256=66dc303cfef66997bcade0769fadd641a69298a4c2eb5ff18c981ceb7e5ce40e" data-requires-python="&gt;=3.8" >borg.localrole-3.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/84/11e69571c27db484d4b95d7670ffad4b6d57ef026bffa4240370f887b6a7/borg.localrole-3.1.10.tar.gz#sha256=235c0bec500035178bce6778303fd0e1e4d7de173c080cf675ff62d6145faea5" data-requires-python="&gt;=3.8" >borg.localrole-3.1.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15768068-->
+<!--SERIAL 16979609-->

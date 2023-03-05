@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sabi</title>
   </head>
   <body>
@@ -68,6 +68,26 @@
     <a href="https://files.pythonhosted.org/packages/c5/87/863e96119cb4cad1f8289fed68151c68a7e4ed51580dfd6517deb0a669af/sabi-0.0.30.tar.gz#sha256=f29ddcc36823433d253fb90f18ef3126e013728f7be12ed75beff35dc1127dd8" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.30.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/11/63bac3dbdf3ef96619dbcaf3fd11f7e724acb965af0d8368a2e3c5d7dd6d/sabi-0.0.31-py3-none-any.whl#sha256=6794f35f9a69ad7a7ac2595bc12a6d7054a0c16dd488e232085241783b0ef14d" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.31-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/96/49/7b610de5123af41041a1b29463b59257bd33f38eff6d0dfb7872bf1e7e7a/sabi-0.0.31.tar.gz#sha256=da7009759d7c025efd62fc7bb30dd43d4aaba2f37b589c1afb56da4a1bd4de79" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/91/4db0010caf1dc95269c5bd445f8086f3b22e447feb3103bc7f0e25356bfd/sabi-0.0.32-py3-none-any.whl#sha256=7eff7b52e2952357ef46f8795b0377ac057a0d0b09afe5d98c9707cea0119c6b" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/01/463f46b63981976aeeebee3dc9c3bb7b1d006ff360a773de0d53dc706fd4/sabi-0.0.32.tar.gz#sha256=05f2802cde233c634ce91f42b32c20bdd42de2d0ed362e302dd2e3aab6a90963" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/4b/2c17a519cffaa2b91236c57dc8f96e37518ef53dee8ab0be532e083645ce/sabi-0.0.33-py3-none-any.whl#sha256=d93f0725371cbbe24adfa2e8542c020410ed5445a8b3498730c8ace0e16da9cc" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/3b/520f392bb70ac354301161ea2f364271fd399d32c223c3bf36aa83817ce3/sabi-0.0.33.tar.gz#sha256=7f6728573147640f19edf1c00f6a9be35b82ec0f4cdc34cf3e49ee7647297487" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/23/93b75a813459ed233da98c43389f631fd973aa2b5006f3d7218652caa12a/sabi-0.0.34-py3-none-any.whl#sha256=2a86bff1cbb2085bddd4295482f0c0660c2715682a6d335bbc1929c84702d894" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/cb/94f22bab9d0d0476fdd88aee6be2618ad656bfbabcde116feda90e8662ea/sabi-0.0.34.tar.gz#sha256=d2603fc6aec2482f66a4b9dd52f25a7508a65a62249e8306a06253fec8fba269" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/28/ebe0e70cbf55065311fc62486bb6f1d569c69ff64a088495180e86ebb984/sabi-0.0.35-py3-none-any.whl#sha256=897e4083ae789748c2d6c9cba4e056e5bbe23187f0bc806e54095bb1a1ae7e49" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/19/b6c4089e1e99e130b6221bb48f0435048d1e2e969fc5729b84399e83a6b9/sabi-0.0.35.tar.gz#sha256=aaea01241df005a8f21c25177f9564b7e2c3dd37974ddd3c7217bbb0576b53aa" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/45/e6ee1e9ca6134316acd6370351233ce9a9af94b05fecb0a713695bf2f411/sabi-0.0.36-py3-none-any.whl#sha256=8f1cec136b4a8a7d0321971c0d296b49b61ec5ccd99e64be9258d28a72b55a7c" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.36-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/26/551736273c6216213d628aef0420d4dc40f75889e42826972c80defb496f/sabi-0.0.36.tar.gz#sha256=7fbb65a468914af7e5fd8c10146f4bb06fcdc0366d69acb7ee51216166c16da4" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/e4/dd19c80569275548f1e2c5b886e92be108fdf267cf2619e7e80fc5ce4bdc/sabi-0.0.37-py3-none-any.whl#sha256=a7475aade9c5642b8cd04348cc23b4be071e3d0e70bb3aea2a9092a7fb6e7d52" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.37-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/41/2e4a7fa705abd6bb11dd01aed26be47b2cb17aa9b1a08097b6a6b7805f20/sabi-0.0.37.tar.gz#sha256=9c0ba3135489db8e3313a9832aef081b3e66577e71657bce3f2dbe8e7ec7f2cd" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/51/a846d2226e926a2492af250f5caa0f82f3ce307d35d52e84d473635a3017/sabi-0.0.38-py3-none-any.whl#sha256=d19bb769cca1bf0a405a61486681daf8c3e030455941dae528b82e7b06e7a560" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.38-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/9a/a190742d9eab81455db38c764f57cc7095f639adedc310293a9114f08fc3/sabi-0.0.38.tar.gz#sha256=3b3cba14d7edc1cdc6d5b81d9086250cea4aa591be7fd07e63efd1980f0158b3" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/86/64d749a938e2211bf95507c6623514cdab27400bc8618c6e55be1afa1184/sabi-0.0.39-py3-none-any.whl#sha256=537153ce2cf9a02a9bbb4900e76ebd068e783cf9d8f9296deff24f76ed342312" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.39-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/21/b7976fc692b33924035b0deaeb1d280da8f866fc206ee3e124d6a032e80f/sabi-0.0.39.tar.gz#sha256=934bd37c8a2b21681bcaa98433bef6b49cd85207bcdad60cfeff6924b8c18eb3" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.39.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/dd/d392302e3bece69b5685f1d419075a8fe4b9ad12a561a3b4592d10a5f928/sabi-0.0.40-py3-none-any.whl#sha256=1f0e8640784b84d7b7f8448d8ab9e93048176adb127db75acedd8633ac5ce76f" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/c8/51903e02a67c062ece73be7c218ce4fe52bc3713348ae24e778d6753e7e8/sabi-0.0.40.tar.gz#sha256=ff0037085d17f93118f0345485770fe9a39973c5fb14fc588073625704e6f15a" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/ed/9c501ce37da137aef7570f07874cb7b2420347697a401b188c8953157b0f/sabi-0.0.41-py3-none-any.whl#sha256=b4c7ac70a33dfdc23209c4ee811401437c3b5f589052d7312888f1e8b73017d7" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.41-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/b8/d786035750f1c59f21ce6ef6e7b9460e8c8f79f398a218a544c748905338/sabi-0.0.41.tar.gz#sha256=66936306b0505c260ecc3d15f4b6b1b3ea8a6491c13ddb64c3285067fa838df5" data-requires-python="&gt;=3.6, &lt;4" >sabi-0.0.41.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16408985-->
+<!--SERIAL 16955659-->

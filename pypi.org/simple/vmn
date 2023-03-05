@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vmn</title>
   </head>
   <body>
@@ -91,6 +91,19 @@
     <a href="https://files.pythonhosted.org/packages/55/f7/7131f94845c89d4b41ce7acf91012b0e23de82399aa290948e95f58e68c3/vmn-0.7.13-py3-none-any.whl#sha256=4b2814902a792cc2f4b37ef8039a8bbeac585ca4ed200bb6a96b8eda87caf854" data-requires-python="&gt;=3.6.0" >vmn-0.7.13-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/7b/5e86ce601bde9469f4246310d50717bbafb61e839e6bb86a9cfbd6e63bbd/vmn-0.7.15-py3-none-any.whl#sha256=7ea3470f4ad7853d3b6eaf4409b7748ce000868b8e8c1a768f0eaa51d846a674" data-requires-python="&gt;=3.6.0" >vmn-0.7.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/48/7ef55763f7a90d8c8afbc996879d364fba68de974cb4dd1b0bbffb6438e5/vmn-0.7.16rc1-py3-none-any.whl#sha256=238489c59b27c3792d70c92679ff2b65d85c33fcdf72499f432e864ac37f1054" data-requires-python="&gt;=3.6.0" >vmn-0.7.16rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/91/64982ecc03785a49411a2600b592255fa4eebf00fa9e8c9a73e909bf989c/vmn-0.7.16-py3-none-any.whl#sha256=b2c51d96afe7979f4549d313777fa8a92182ff0a96d8c5ac2da9f6ab7c533904" data-requires-python="&gt;=3.6.0" >vmn-0.7.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/58/4a50a9d6e523adb2b22a748c9c46830ddd19472fffda11c9fdaf38b5bea7/vmn-0.7.17-py3-none-any.whl#sha256=b6c641037ea932a942b42dedc38b2e792a3aac8074839aa2028553e736d2fd5d" data-requires-python="&gt;=3.6.0" >vmn-0.7.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/ba/3b17fcbe77d100b03be7c2f0e49be1ae22b861b81bc0636bed97de2f1b62/vmn-0.8.0rc1-py3-none-any.whl#sha256=3737222c1c3272bf416b2c977a2fadf8ec3fe3bca891611f070e8c773fdb6ac6" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/ff/9839eb1cae761e58c9f20cd8b2da19ef9e2cdcb050c9ae8e3006e07464b5/vmn-0.8.0rc2-py3-none-any.whl#sha256=253058bd508e88e4b6fb80dfa6b9913d6641d8f17b5ea9731e9e29caf5596219" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/32/9580ff9fcd2dc081dad10f0b637429224cd0eef7a93804ff4fa0c1c74440/vmn-0.8.0rc3-py3-none-any.whl#sha256=b2f0e8d484c9365e1309d4a83428f9aa687da12e3a72fe0d5b95d4df7904927d" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/42/cd38742d6e92263b35cd9e3ead4bce274afdeeba2ddbea2642926f3d121e/vmn-0.8.0rc4-py3-none-any.whl#sha256=f4eb25c76a36b542e9bad4d81da8789698753491b56e934f7478bcf9c75c9553" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/64/3b0b8701ed7f276c1f394a1d7cc674e8b62888ce8f72c9ed334c86ca74ca/vmn-0.8.0rc5-py3-none-any.whl#sha256=c947a41339cda7b78d287a727af39a6f75e47dfb0a56efd4d46568410664e274" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/8c/4c5ccb52f099f0bb6191826ebeb88b1bf6c22f3274f375ea287da0a6ff58/vmn-0.8.0rc6-py3-none-any.whl#sha256=3efb0399366d6e430692828eae774a4521dca04375916cf89431089a13ccc6f5" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/45/5b37c2edcfded31b40f00f7c7fb83150e08aca053018b1a26f25cfd524b1/vmn-0.8.0rc7-py3-none-any.whl#sha256=84a177c622bb6275e28389747ab9ebeaafef351ade317c38bc16756f931f09d9" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/4e/0b14262568a337d6ce200773ea842fb66d7ccced5b8c9d0d2b8f48722ab8/vmn-0.8.0rc8-py3-none-any.whl#sha256=44af940d87edcf2bb7ce1b73301f54564132e792845422fbedd544280ae06693" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/b2/4917e00f75fff3256452571c9d280527464ac9d5062a530545e48aaea8ba/vmn-0.8.0rc10-py3-none-any.whl#sha256=56436c043899f42fddcd27f12623fae60ffb06a9e76fe61b6a9105c6b5b17552" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/ce/f0fc39a2c1c7863b3659ac3636181eff6620cc835906c184189889201029/vmn-0.8.0rc11-py3-none-any.whl#sha256=2d3ae28bfafe60b8fcbd25c243f93a765846cc418aa4ffa788ec5cc21837a998" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/3a/fc5eea6220901dc520bdaf4ed0bbce6c5c933616881e5e504af719945785/vmn-0.8.0rc12-py3-none-any.whl#sha256=761909ad71191ab8785ce3eabf89b0922184607e2e4efc7e546c9cc25c6c5144" data-requires-python="&gt;=3.6.0" >vmn-0.8.0rc12-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16373247-->
+<!--SERIAL 17127199-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for torch-directml</title>
   </head>
   <body>
@@ -20,6 +20,18 @@
     <a href="https://files.pythonhosted.org/packages/a9/8b/228abb176bae64400adafa31dcfa58235ce5c67fa11c9b751b8de4406a96/torch_directml-0.1.13.dev221216-cp38-cp38-win_amd64.whl#sha256=bbc21ddc43182ce7839dd77eb15303b69e597656fcd6a5456542ad5751bf08e0" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.dev221216-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4a/ac/3eac4fd34953b97862a1c5216e74ffad0190ed6ee5c90730682609a7a5ef/torch_directml-0.1.13.dev221216-cp39-cp39-manylinux2014_x86_64.whl#sha256=ce6fa42ca1ee1e7124ca7d0bc08d3afbd20b91369734c7d38ba4fbe7a8edccf4" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.dev221216-cp39-cp39-manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/70/ee/71ccf4100e54d3fab8bb3b403608e0e0c4b69c9e30d6acd4dbb374217f95/torch_directml-0.1.13.dev221216-cp39-cp39-win_amd64.whl#sha256=c140f0170a864d53f6a7bbbc7ef6e831ba9c05bef42ec31e5f69f056e96ba0f1" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.dev221216-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/bf/fb8ca9a9b8911694351686da73ec6b179bbc18474ab676549bf50e4e41ff/torch_directml-0.1.13.1.dev230119-cp310-cp310-manylinux2010_x86_64.whl#sha256=21675c5e64094b2d805853a0733de5e73ccdae850179360693ba7993e8c9df48" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230119-cp310-cp310-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/d8/bf710054312398cd7dc2f7ea4941eedb4f38bc48725b47913d125969b5ac/torch_directml-0.1.13.1.dev230119-cp310-cp310-win_amd64.whl#sha256=03e5bbb6ed9c5e6684f9bc8e4d6d0df0a06d452f7a587646d1a427e58e301abc" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230119-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/ca/20696ce3baf695b697b3d17f304d35f2c3e9eeb0bc027851341bdc5c9199/torch_directml-0.1.13.1.dev230119-cp38-cp38-manylinux2010_x86_64.whl#sha256=c5b83a661fb7e6ed9cc8cd3afc33bf47dd7251027874dfa30813d6a420d4dbd4" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230119-cp38-cp38-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/8c/64b6669a64ce469cf86f619d4d402796bb13858d29fe035d140f3d7631da/torch_directml-0.1.13.1.dev230119-cp38-cp38-win_amd64.whl#sha256=6d0b8262c857bd3b01170f32e29c5c5bb55178e147a1a9c49b920e461b453376" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230119-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/5b/56f835791ef04b8bcb2256d5e14b297f80c76987fb5a8129eda734079270/torch_directml-0.1.13.1.dev230119-cp39-cp39-manylinux2010_x86_64.whl#sha256=e0bffa96725b23735fb9addcbe25fb1604ca6e6308412dbe6bd0727b64387e50" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230119-cp39-cp39-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/3a/df74cafcda716d27d7e5034df02d7f46580daa081aa3c057dabd3fe18d94/torch_directml-0.1.13.1.dev230119-cp39-cp39-win_amd64.whl#sha256=794cfc9de17c645a2d181d5c65026c750b02153d0bba861e7ee75dd24433077f" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230119-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/7c/38b0b4ced3983b6c0cec438c5848f736d3d17a711e7fa0ff914ed1e3a48a/torch_directml-0.1.13.1.dev230301-cp310-cp310-manylinux2010_x86_64.whl#sha256=6cd0d6f1f2a4d5f72a8834d76d40410a6bf40719ccdd61c65e98e43cc6d90a2f" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230301-cp310-cp310-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/83/48b83587533d76d766935046ecf440738d26ec3826b1a4ce1dcb33d144a0/torch_directml-0.1.13.1.dev230301-cp310-cp310-win_amd64.whl#sha256=e9dcbbd2e9461572eca6852d50683d20e21669d274f38d90da2213f0b0527049" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230301-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/87/c660e21db4022a2fd8eca855bbe5b30e6fee573b02974baa589f284449ad/torch_directml-0.1.13.1.dev230301-cp38-cp38-manylinux2010_x86_64.whl#sha256=f71301954ebe43ef347f536bfa9491184c0b69685ce7679357e340034eb20479" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230301-cp38-cp38-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/43/1a945962de003eab317f05fd31960dc640e6bb11fc6c3be61b08f25c8a83/torch_directml-0.1.13.1.dev230301-cp38-cp38-win_amd64.whl#sha256=9f67f01278b3784514291ffac6c8e02a53b8a2dc845a4f9d4ff8e4716a036ce2" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230301-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/4d/28a07aab50c34c341a00db9d860fb59afb83fc892c3f2fbbb8a45d08e824/torch_directml-0.1.13.1.dev230301-cp39-cp39-manylinux2010_x86_64.whl#sha256=8ba61e754a121b405fe6c1da0e42e3b6bc791e92869be9c09cda0e4128cb1085" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230301-cp39-cp39-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/a4/3f14c9f44843a8991b106989236570230682c78fd112614c1aa4b6ffd5fd/torch_directml-0.1.13.1.dev230301-cp39-cp39-win_amd64.whl#sha256=49ccdd7e2a10599b38cfd488a068d4d8023b25946742a23706800909f11a70c1" data-requires-python="&gt;=3.7" >torch_directml-0.1.13.1.dev230301-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16129721-->
+<!--SERIAL 17119088-->

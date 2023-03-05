@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for moped</title>
   </head>
   <body>
@@ -153,6 +153,16 @@
     <a href="https://files.pythonhosted.org/packages/81/5c/b5915416904c2164af9331f20ecccb2704712e32d18d896163d340496e72/moped-1.13.1.tar.gz#sha256=f4b669054ed1feb9d4a1beae45017471f535772ce81efd23a31bdde0dac42f59" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/16/1d/8f6df466ea83255431c683dd6cc3e9d0c5a101ef4a0bebdbec939030280d/moped-1.13.2-py3-none-any.whl#sha256=c81ea2043341c77d35a077a19cbce94017a2ff3f8d9bee97deb38909c0bb7006" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/96/d95ed2b405ecff308ef9a3be036e1850a722ce4ef3dc13bc5e55ebf9821b/moped-1.13.2.tar.gz#sha256=15b71ac03759209bafcb19ab6d0bcbbde311ad00a564664c35908e82967fdd26" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/70/502473a605593a056f38ceaf018889c37f1d4ccf8b608f7358fdc463a5e5/moped-1.13.3-py3-none-any.whl#sha256=f74101f6c29f24b317e3e336a5c0ce45bc97c1005324993b57baa417e1c5f47a" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/97/24d43e80e54b9a68661c2290407dd6124c44fb6e7c664f1e1bc5cedd6c02/moped-1.13.3.tar.gz#sha256=ca1320b7b78e618f15558b440d842d84898a3ca72232b61dae6820654d07b7d1" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/09/3636e31c2ef24e5023b12fb6a83ee3da32df247d597566e5d68d2aad8bab/moped-1.13.4-py3-none-any.whl#sha256=effc88f0d28beddbfa1237a35851c41e4812799854834f24b52cda974fe23e29" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/57/66f10dbd122c965aa2de4344c14999f8923e45c6376825cc95715dba109a/moped-1.13.4.tar.gz#sha256=083f9a01ac5391597c763664a6142e6eef5ec7de2d74e406e75cf7d0f8832291" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/c2/1ad44fb8c9b1357787836bd3249fe3da82bf8c385c1760ab9e82dfb44528/moped-1.13.5-py3-none-any.whl#sha256=01349b261b4905ea92a681a92b28afa6e2228b024b668f7b0d46135c52121f7c" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/b0/36378cef989b7892a0cd0cdc520825dcd7262c32d4969910e221c5c76ee4/moped-1.13.5.tar.gz#sha256=ff7c943b5e5ad73771567e19a104753134045a59deee2275902b1967460766e8" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/85/d3a7318409e78aed82141fb9103fe3e4807c5b0880cb461ee8f0b09b4cd2/moped-1.13.6-py3-none-any.whl#sha256=cb4bce173fad97b9e9f6e4d409bec694f3fc460d528e0dbe4de3b4ccf33adf98" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/dc/975e627c1c20ce5b3645946bcd669414b17af8f3cc00d47cb794583a84bd/moped-1.13.6.tar.gz#sha256=d1fa4d7aca4496981e9c5bae9226d96a084151051f132a72cbc88ef6b7b81a7d" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/54/5d0bb8c2083035d6c6aa30731c9b95e680517cbd96a2467f8601a2ec9879/moped-1.13.7-py3-none-any.whl#sha256=77efd0393b6a621a9eb1dd9e176c4ba02ec90ccc86d27d3f96ffca283728731c" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/68/b724ed7bce478ab96df7c2d36b86fa9c19a081c65f8603fd1ba0e5d988a8/moped-1.13.7.tar.gz#sha256=cec52d1dfe4f32a52cfd2d3f4485bcbab055b00432aa9aabe4373a9516e77aef" data-requires-python="&gt;=3.8,&lt;4.0" >moped-1.13.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16354156-->
+<!--SERIAL 16961320-->

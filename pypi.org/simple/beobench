@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for beobench</title>
   </head>
   <body>
@@ -32,6 +32,8 @@
     <a href="https://files.pythonhosted.org/packages/f2/ec/34d05145c94a970d83b46649c5bcb6aa30205ba6adba304413240418c1fb/beobench-0.5.2.tar.gz#sha256=63cda18bce981e93294980c02d48707cbe3d29149e54ca9d74e73d268240ee07" data-requires-python="&gt;=3.6" data-yanked="Issue with Docker prevents experiment container build on most machines. (https://github.com/rdnfn/beobench/issues/82)" >beobench-0.5.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/ea/8b54a2f8426ccf53de9c133580593475dbb5eb355dc332508f676bc6bf9f/beobench-0.5.3-py2.py3-none-any.whl#sha256=497bc2b68c3fab5fbb3284b0820de45e8bd4ef3d8e0d61be8aac46476b55bbc0" data-requires-python="&gt;=3.6" >beobench-0.5.3-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/74/dbb6aba52e485b617ed33c4edf9d9e5ac60431281cdb29ddb002e1fe5571/beobench-0.5.3.tar.gz#sha256=c2a7654ab2d94a141f19491afa654c31d54fb37229c146e17a4946063f10d9b9" data-requires-python="&gt;=3.6" >beobench-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/41/31bce72b3bf25d34dbf3ee27937c3961893348b5f5c892a450cd8c5d7e0a/beobench-0.5.4-py2.py3-none-any.whl#sha256=80c9b9b229eace3831289c5e373233a0535af09f6b9d5cca88a2a361c45169ec" data-requires-python="&gt;=3.6" >beobench-0.5.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/e8/4886c04e690e007d962841204820842a43cf7027d3f048516c9a653be6c2/beobench-0.5.4.tar.gz#sha256=0b901955bbb4f97ab39dfeed93e11e9520f09b5a96233ffbefe5d9f24b207241" data-requires-python="&gt;=3.6" >beobench-0.5.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15814637-->
+<!--SERIAL 16447445-->

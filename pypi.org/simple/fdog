@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fdog</title>
   </head>
   <body>
@@ -80,6 +80,26 @@
     <a href="https://files.pythonhosted.org/packages/46/fe/1608ec61a98fe8a55879af273c226672358807b7dc5a748044cb6122d1fb/fdog-0.0.52.tar.gz#sha256=7a93dfc8fbb191c8d78a257425722a9403d4835d81d8e679034a8467c223349a" data-requires-python="&gt;=3.7.0" >fdog-0.0.52.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/63/93/fb338ba4a2df2fd06f8cc4618fed18924e70f911151bc8198726401ad711/fdog-0.0.53-py3-none-any.whl#sha256=d2cc01374e48a5f1b9cdd4da4291727193aa323dcfc05d2d6ed7df37c7baa718" data-requires-python="&gt;=3.7.0" >fdog-0.0.53-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/9c/1df7ac4ebe8ff198d09a9da1a2c6976560bfdd809d68e99afc88b0063aeb/fdog-0.0.53.tar.gz#sha256=5d6ed4f1eb01f4c6e1ee23eaecf60e61e7e8fd7c5ef6af34f72469dee50822b7" data-requires-python="&gt;=3.7.0" >fdog-0.0.53.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/19/a4f4977681c7b9b2cc89b6add6ad7cd761e256fb2f66dcbf9551f5522b56/fdog-0.1.0-py3-none-any.whl#sha256=ce48b71458a49b85ed541ba1146ffd2104229b629e657d563b4bac57d42bede0" data-requires-python="&gt;=3.7.0" >fdog-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/ae/9b1eabe04c973f5293bdc32df816b30be2f9aa878407ade6d4ff412a8e9f/fdog-0.1.0.tar.gz#sha256=532aee4a5123a09f3e235087c5c64e3d1b48d90bbd392f4fcf7ac00b79f10e3d" data-requires-python="&gt;=3.7.0" >fdog-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/dd/602d7bd1103b92ff78cd0c14257272b2b71f41b1e96f6184aafdcdb5005f/fdog-0.1.1-py3-none-any.whl#sha256=bcea35d4778977c7dea392e83f132e39c1082a03edfdcd7b386c2215b6786b74" data-requires-python="&gt;=3.7.0" >fdog-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/8b/5d21e079e8c7af96033ce02fa89f207cfa9c8e64e9b0e0d9759878c04d23/fdog-0.1.1.tar.gz#sha256=9fe3dd59f5cf02fc4d815e7e3135c8eaa4f867aef6593bc5dbe5557c437d83bd" data-requires-python="&gt;=3.7.0" >fdog-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/0d/a9e23ecf77e776b40c159eefe7fcd048d798dd64c21029c2267bdd02085c/fdog-0.1.2-py3-none-any.whl#sha256=7c56e1578513465d0c56887f2de7ec904d894010c40be13075e6f71ebe269557" data-requires-python="&gt;=3.7.0" >fdog-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/c2/049cf4863dba36d80cb97038a302860139bc6bf26604962caad58142ef0b/fdog-0.1.2.tar.gz#sha256=691953cf7f2916d966847281c0b5496f0739eff5d6b228541859de4f20300bbb" data-requires-python="&gt;=3.7.0" >fdog-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/ef/d4adff2d9971916c00543249ffdf75a0f9cf06c22343982ed3adc219d32d/fdog-0.1.3-py3-none-any.whl#sha256=1069d53f448da53551043aa4450a46623cbfb9e390a2867628e24e5bf637ca46" data-requires-python="&gt;=3.7.0" >fdog-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/29/bb28a698101579e1faa6f53db467d60f2a2a77e1142a312a916c72e1c14e/fdog-0.1.3.tar.gz#sha256=930cc5a923a885861f570dd8cd684de1a4339fc1a96596b4583e9223334b2eb8" data-requires-python="&gt;=3.7.0" >fdog-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/62/98edba4dee02585aca2656f1d66711d19f685a4a3f22fde01cef2bef98c3/fdog-0.1.5-py3-none-any.whl#sha256=299dc704987e2f80da8dd7805d2f8e5b61e5cd0952475e3760a26a39ff20921a" data-requires-python="&gt;=3.7.0" >fdog-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/b7/d333397d452135a1ecd8c17481ef5136c9ef3d5b6d68b708df41f9afcda5/fdog-0.1.5.tar.gz#sha256=4f0a0fb84f4dd96d21bab9ec4115b24d17d871249a7ba3619dc69e58c01d7be9" data-requires-python="&gt;=3.7.0" >fdog-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/b4/a914e2ca22cd88f16558e9df79086fb1df318f042c91cbc2683dd55c8f3f/fdog-0.1.7-py3-none-any.whl#sha256=c9b4c3cab0f5467d1308fafb324a21b59647ad4c62e0b1ddc90444e06000de5f" data-requires-python="&gt;=3.7.0" >fdog-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/a1/1ec7caff7f6e176542b0a5a85eb3e8b9c54097ddad43940d77bfaa9b8211/fdog-0.1.7.tar.gz#sha256=3486ead254583c66b89d6839228fea3a2ca2682018f4e1ca3acecf714ef0a329" data-requires-python="&gt;=3.7.0" >fdog-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/74/c7687c67c61ef9897c201c9b8938c5168d6de8c471beb25d6f5893bd705c/fdog-0.1.8-py3-none-any.whl#sha256=adb03f156860eb991873f97379c8ce871628aa589860ac4d1091044acf2e4d26" data-requires-python="&gt;=3.7.0" >fdog-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/96/e80531f9b64a2bfdde4aafa10e4dae4c4b1288107b471338f546d298cca7/fdog-0.1.8.tar.gz#sha256=5bb7d1bbe0c9de91daceb1b06349736863e59553833accf74cb5c537f60f45f0" data-requires-python="&gt;=3.7.0" >fdog-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/d3/65d0360fa539e6087c24ea225baa5b9f637ecbbdd53c11373e4c1963a1a8/fdog-0.1.9-py3-none-any.whl#sha256=fbd7cd0dfb7fd33a9036f0f0df0eba7fbb99895fe9acfe5391e93e1972e1a501" data-requires-python="&gt;=3.7.0" >fdog-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/13/402b01e3227678921c619da9ab8eb4399d3a11dba161163518f064df54d3/fdog-0.1.9.tar.gz#sha256=491361d05a23ff00bd7ec23f931c1139dc21020d684cb3b5901f76ffffa97e00" data-requires-python="&gt;=3.7.0" >fdog-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/03/62cd0f32db47b085a607eb2dc6ed75d40ea79b16c02e660a5364248c286d/fdog-0.1.10-py3-none-any.whl#sha256=6df7c55ff86032259e701ef7c27f28c503e324dff32a0da755fa2c50b53c0f42" data-requires-python="&gt;=3.7.0" >fdog-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/85/1ddcc53cb648fe5c8f78ab2cb8f75b6097d13da5aee40dd37d7c6191fad6/fdog-0.1.10.tar.gz#sha256=307ab4d02460bef8453c1faa2d02dfca975d8f375fa6e4d7c6e851b07c048592" data-requires-python="&gt;=3.7.0" >fdog-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/96/7818e8665b25a995798059d1e877a8b7e3d89c53d4394b2966bb3e6ee0f0/fdog-0.1.11-py3-none-any.whl#sha256=e36e923b6c77d852f7a3b10504d7841e9d9e64daf4784e4c7c99986903afb26a" data-requires-python="&gt;=3.7.0" >fdog-0.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/0b/641e01f554694bcbd990d373403bdb13cd61f5e191a7b089447bcbbbeb18/fdog-0.1.11.tar.gz#sha256=29cf634944c6f7bf83f63b5346159f796a9ecfab8286c2ccdc03d83fc6d73eda" data-requires-python="&gt;=3.7.0" >fdog-0.1.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15383196-->
+<!--SERIAL 16973484-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hag</title>
   </head>
   <body>
@@ -10,6 +10,28 @@
     <a href="https://files.pythonhosted.org/packages/1d/e1/b2b4e7660fd14e1b7ce1e4a82249bc55b640fe8f771244295248a7a47e79/hag-0.1.0.tar.gz#sha256=d889e9bb1e9aa7925b7613ee2660e84a7915500dcfc5a197f8320a3cea3f2701" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/06/4ccf143dee526b59b40287f5f3eaa1d3353a3c519e0ff4d1546b6b422775/hag-0.1.1-py3-none-any.whl#sha256=0cfb6369fa7619e9250720836aa9258d0e37f56235e814d5259ab6a5b235ee83" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/6d/0713553db0482d37af71f611fd7d3a8b84d3f2bf55de9e011afd4b9bec52/hag-0.1.1.tar.gz#sha256=30a92afd964f7466f16181df00fe3fdbf1c304876acac0cc306d6cb4165e1949" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/81/b72173614c024c1a47c859f4cea1114f0ca8356a8b675a2675b166618d42/hag-0.2.0-py3-none-any.whl#sha256=ca17d008d57afa2afca5c898b731c77940bc6f3c8dc41577a351c840fb749499" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/a0/6186e551d4e5e20b9e44cf2fc8e1a3705c74911842b14f804b1ecc6a582a/hag-0.2.0.tar.gz#sha256=629615d6925770b9c953a4d6356d04ef4ec991b4e9d2fa78ec5bcb0579a70860" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/36/7d29e65eda530280bbccde6f78b2041544bd400e612966793c6cac0cd48a/hag-0.2.1-py3-none-any.whl#sha256=d013ad62c08dbffb8b39e03fda89c7d61f33e9c14c246c57ecca306c4f5c6621" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/9e/8a4f188cd29cc2b7577a4f41b5609b3eb2c76aa2b6dd641ef1f64b5598c0/hag-0.2.1.tar.gz#sha256=65a5c767ab00d43c6c200939b0fc04d12fa459ea57c19efa2dc07e46e82e87f4" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/5a/c690e1cfa653dc0ba103d469e5f860a561da71765178dd7694c773bd306b/hag-0.2.2-py3-none-any.whl#sha256=d196d6ab7251eba9ce0ee4a25f8b9e58adc147c9838e2f0fcfff45ed6af46ede" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/68/a881a21ffca23102535cb9e7ba52bdcd9d057e59e1c6433876a41840ad19/hag-0.2.2.tar.gz#sha256=b9d9b18c43df5002e7ab826632ef0ad98a394c7c5098817d5633d1a042e95f14" data-requires-python="&gt;=3.6.1,&lt;4.0.0" >hag-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/76/e5c6f02d19666d936aa4927c9d4cfc8c37623f759fbbd918d36637776dcc/hag-0.2.3-py3-none-any.whl#sha256=05d1b908debfa19990152da73a50a5805d02a2350a71f95af7d0ee3065cf0745" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/b1/3f0e5569519842562a80984a5f270e94fef4c76fd895093ae2e9f03cb814/hag-0.2.3.tar.gz#sha256=12f7351b17fd37bb57009cf17b227e0eb80ea6529621acf93347a4bd251e692b" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/bc/3cf880ef1a10b038afab78ec6d1273caaed42384b5dc0d62e1c8a3568228/hag-0.3.0-py3-none-any.whl#sha256=e73558aaeafd5b80a05a9b22f91438f4757699a2a04922e8c44d4e37e017a45e" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/ee/e04c29b9e7f897e4f4d8bbea9e970c0b9dc18abd9f84d8d1ac3e9f00d99d/hag-0.3.0.tar.gz#sha256=fe63e42c9f0eca9d053a053200e07e1340fe5b7b03f3dddf55435ee7997245bd" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/50/abdb0996e297601bbd0ebacf9b8444940e090e02a1808d03b6f4ee24936c/hag-0.3.1-py3-none-any.whl#sha256=2bacb94d7d0f5ccaa4fb2bfa68c15f92d16a15dc9cf8eb54c82c577b19c9a47e" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/bf/aa4f0896d5acd6fb9b94dd6eb8dd288c2c5536167e4ec5e0a3bcea298212/hag-0.3.1.tar.gz#sha256=bbbe6ab888aef19e261418e07a97b85bfeb38ddad8026a10ee1d8f4a9cd6af88" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/f8/e6ffb2b9fc0acc648ca66af1dcca14b4f92b901400f04d627e042b7f8266/hag-0.3.2-py3-none-any.whl#sha256=4403abf0e58a990e5e68b720e6d54351e8db14347a1cf31e9ed479a5cfff193d" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/af/724d98547e0e2da8db6dbb7f5cd78ad2b20c7c3d91821e615d07ff1df44e/hag-0.3.2.tar.gz#sha256=32eb021b347f2e9df471c245fe3b5be8c3f3bb208f5967447dec944aa2529197" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/af/66361ed802bf819de4b48b4f36e056e2c8cc7182267ff6fe612572786e82/hag-0.3.3-py3-none-any.whl#sha256=a5551e06c808e617706dbf9b128ac64b253ef7b015c66a27556a5d3ad7f31404" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/da/4023f98d2ca03c56008637d89d7381cd24253e3a6c08353c4514de0ba18f/hag-0.3.3.tar.gz#sha256=e0d683571e2ccda221b83cdef93e4cc8a1582f775b512c048f42bfc9ce8c3873" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/74/9e19dc89f946ca50cab4747ccf764f7f24dcbb8cfb4268b6824b009f149d/hag-0.3.4-py3-none-any.whl#sha256=35af2d653faee176caa25349bd393d988e4356d1c07c245a9dfdbbbfa5823f3f" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/c1/6c9fbefabd4e80ac8997c419f21d6dde12104dc220026926297d9f6bf830/hag-0.3.4.tar.gz#sha256=b800401e91355f4fdd3c199c6f3ac44f2c6a79a8be621fb10f9fbcde6c085ac1" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/44/03a25a53036313e6986975d645c554abd04de44b803742e3b0bb31657ada/hag-0.3.5-py3-none-any.whl#sha256=b2005c5be828f50d6a47feb4f025e1774e467fcf8cf2b261b5854d65dcf803c9" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/09/b06842986264089cd2c1e8b9b4c869d081031e59cb1ca7c5b58a6cb69fd8/hag-0.3.5.tar.gz#sha256=ca2fe846516c6d90fad8b77e0f292a7454803f12eeaee0ae0087c11ecf6d3be1" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/52/37ae658529b316f3bfb328d2b3fa78b79c37afb9e9b8546dcdc80640db0c/hag-0.4.0-py3-none-any.whl#sha256=9fe776d5fee64893ccfe1d715e15323e98f3ae5cf81c6b90231ff4672ef59665" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/d6/4170c8e0e8cc314c5ca4b14f007e24becec23d69628c42e1278af3ac513b/hag-0.4.0.tar.gz#sha256=d6c22ef9fe80d5b0263d4dd1722cfad85ee84b570420161de96fbf4eacad78ce" data-requires-python="&gt;=3.7,&lt;4.0" >hag-0.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12522698-->
+<!--SERIAL 16963978-->

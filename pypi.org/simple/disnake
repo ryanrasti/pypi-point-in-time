@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for disnake</title>
   </head>
   <body>
@@ -54,8 +54,18 @@
     <a href="https://files.pythonhosted.org/packages/b7/ff/727dce87e1a9c0015515097b8204ac06054c22da67f3fb08ea0fff7a5ab8/disnake-2.6.1.tar.gz#sha256=51a1e8c6441fe80c6d62c8880718b2d2ab6834ffc5a5a20bfb0e063a3b60c338" data-requires-python="&gt;=3.8.0" >disnake-2.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/dc/98ede14e5d56204dceddd97b4db53f89793d599b2aa793e1f069667ff48a/disnake-2.6.2-py3-none-any.whl#sha256=9ab754dce3aef40b2e0b9c2002d29aeabbbf4efe887d14628a1044ba874b06ef" data-requires-python="&gt;=3.8.0" >disnake-2.6.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/40/25/131ee13dd486d7f43ae711ebcee3739d669bb4f66ef893ed853d792445dd/disnake-2.6.2.tar.gz#sha256=7b4f064332caab64c3805742bf9052af0bea1d1483111cf5b7db19fc5343f997" data-requires-python="&gt;=3.8.0" >disnake-2.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/37/08932d278f847558bca20b1a2f7c8d5a5121c5e900adccb669af305d06c5/disnake-2.6.3-py3-none-any.whl#sha256=1481bafde264d32f086a64ce126950021368ead2349bfb11dac43f2e92f7e25f" data-requires-python="&gt;=3.8.0" >disnake-2.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/53/96aa3c025ab3d9869a172388924899f6894b7313ab5b1aec139409cc3ade/disnake-2.6.3.tar.gz#sha256=6398b6c745a8be34617d42a9439c337829106e87b8758fde794593cf145a147e" data-requires-python="&gt;=3.8.0" >disnake-2.6.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/35/5d/fc84bd2e28da9fdcd49c7e6af568d4c4c17f4eea8f9379cb9e057f68bb59/disnake-2.7.0-py3-none-any.whl#sha256=c13de5fcc6dc5442e6f1f5c62e7f24038ecbe7d629c0b3c5506bf1b3c706c26a" data-requires-python="&gt;=3.8.0" >disnake-2.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/05/35/f82ebb534b01e4d392922b7ca5666edfc70657f567282119bd63d4748c45/disnake-2.7.0.tar.gz#sha256=414a36c998826df2795aac946f867f3b13b6f15db456913425faa50b311f12d6" data-requires-python="&gt;=3.8.0" >disnake-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/a6/527728580716c61232d719a27e351a518e42316e4fa24b5888c0931532e0/disnake-2.7.1-py3-none-any.whl#sha256=0e3ad0fa799481d451e6b04e6402e2e659b5f6bc29f33320c342adcb7bb8b849" data-requires-python="&gt;=3.8.0" >disnake-2.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/47/72b235dc1a44ed4205d527b50d194687109f188fb4029fb1d22acde2f525/disnake-2.7.1.tar.gz#sha256=8b03563eae418621dcc4c70b4ec38d300786ea101041d59645599a432fe6438f" data-requires-python="&gt;=3.8.0" >disnake-2.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/b2/fa65576b239ba2319b3e5efc2ee7b721c41bdcbb9c08852b74a06698d7d2/disnake-2.7.2-py3-none-any.whl#sha256=bed89e2019d9dc3306be9b288c724474da52500bd299616ff55a16905271a74d" data-requires-python="&gt;=3.8.0" >disnake-2.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/c3/3884b5df865d536ac3c68fe2c1c9222490dc18e7bd0530d46db7bd42ccbe/disnake-2.7.2.tar.gz#sha256=a0788376f9b0b0d3b768f3b84e7a70b2d41cd8fc859977bc8c7db846dd45bdf3" data-requires-python="&gt;=3.8.0" >disnake-2.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/39/be82029e27ce9b7e7613e9d34b001638ff0991905b538d2695c0fc8d01b7/disnake-2.8.0-py3-none-any.whl#sha256=e49ea2ebc9f745ca60f8061e0c2adc32165e5edd869529994148b81ca8a0aa08" data-requires-python="&gt;=3.8" >disnake-2.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/f4/6995df29f360cce70a100663072ec365d60abcb254ae400f5fff6378cc04/disnake-2.8.0.tar.gz#sha256=08f832b48b9fb70bf3bf710f6b798ae3f12081763bcd4f6f6f991c958d201dc2" data-requires-python="&gt;=3.8" >disnake-2.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/1a/6516ed6062ba469dcc2b2fa46317301490bc803025b7d3ba015b0fbc3975/disnake-2.8.1-py3-none-any.whl#sha256=54864c115107157c6fadeb6b5811bc73fdcaab1e71c00a3ef757560df3d49128" data-requires-python="&gt;=3.8" >disnake-2.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/fc/3c081bab52da793864339eaf8d0961007cc1bcc6092f489d32331a15102a/disnake-2.8.1.tar.gz#sha256=b05cdd1d0adbb06bc0f97906e6b9f0de58d7772bfa675c3866cd965fa5b2767a" data-requires-python="&gt;=3.8" >disnake-2.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15615673-->
+<!--SERIAL 17133600-->

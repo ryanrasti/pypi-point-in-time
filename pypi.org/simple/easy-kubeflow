@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for easy-kubeflow</title>
   </head>
   <body>
@@ -35,6 +35,8 @@
     <a href="https://files.pythonhosted.org/packages/ea/5e/a5d9dec77267007624b4f9989c0ce11d2d468dd9b7ecaf59270a05cc100c/easy-kubeflow-0.0.6rc1.tar.gz#sha256=3c54a769af1f10265b08b3cc8efe0c6cfd3e0e8ee687d2e5d21dc542658dba60" >easy-kubeflow-0.0.6rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/e1/76df0b86fe12b05fdb164b30ec2a92fcd5c4eaf4004dfc7a54a037ff84ae/easy-kubeflow-0.0.6rc2.tar.gz#sha256=033f352749a6a788e8348d5fab8e3427bbe347167ea4e47e03b2bab878c1c315" >easy-kubeflow-0.0.6rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/86/89/d2cd7fbd150743517c0b2f5f7d02b740924cec1d90bd1186a4175120de4a/easy_kubeflow-0.0.6rc2-py3-none-any.whl#sha256=961c8550e1436c511f8835c474b50247331408a6b513eafa8809776ede9e8afc" >easy_kubeflow-0.0.6rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/dc/e31406a62812287eed04f4f787a1ef735e7f8a80f3d6e0e339056e416269/easy-kubeflow-0.0.6.tar.gz#sha256=e261a570acde341b31431bc4467180fc099f724ac20cda3d36a034c74dceed18" data-requires-python="&gt;=3.5" >easy-kubeflow-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/d1/3e475b390aa9697bcfdc853aa44ecdba68c0f485f9c2c2dea2f296b665dc/easy_kubeflow-0.0.6-py3-none-any.whl#sha256=2fe412a081c3d00309309876a7666093cd66b03d4b8dd69630b91b9df9df7911" data-requires-python="&gt;=3.5" >easy_kubeflow-0.0.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15991957-->
+<!--SERIAL 17062897-->

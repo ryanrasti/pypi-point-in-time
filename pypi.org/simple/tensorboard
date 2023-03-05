@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tensorboard</title>
   </head>
   <body>
@@ -114,6 +114,7 @@
     <a href="https://files.pythonhosted.org/packages/05/70/ee7968f4a92ff9f95354d0ccaa9c0ba17b2644a33472ea845d92dd4e4821/tensorboard-2.11.0-py3-none-any.whl#sha256=a0e592ee87962e17af3f0dce7faae3fbbd239030159e9e625cce810b7e35c53d" data-requires-python="&gt;=3.7" >tensorboard-2.11.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/70/6a/95cedf185fa0063d4a6d8251b5601071e58a4ef15202dbf93773f13c7383/tensorboard-2.11.1-py3-none-any.whl#sha256=0c7529f3f43691e8cc2ece8e564c2e103c51ade317c6af626d415239b5088018" data-requires-python="&gt;=3.7" data-yanked="This release includes a bug in which the TB Uploader authentication flow using the console is broken." >tensorboard-2.11.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/77/e624b4916531721e674aa105151ffa5223fb224d3ca4bd5c10574664f944/tensorboard-2.11.2-py3-none-any.whl#sha256=cbaa2210c375f3af1509f8571360a19ccc3ded1d9641533414874b5deca47e89" data-requires-python="&gt;=3.7" >tensorboard-2.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/71/75fcfab1ff98e3fad240f760d3a6b5ca6bdbcc5ed141fb7abd35cf63134c/tensorboard-2.12.0-py3-none-any.whl#sha256=3cbdc32448d7a28dc1bf0b1754760c08b8e0e2e37c451027ebd5ff4896613012" data-requires-python="&gt;=3.8" >tensorboard-2.12.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16422193-->
+<!--SERIAL 16778270-->

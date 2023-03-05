@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-slack</title>
   </head>
   <body>
@@ -838,8 +838,32 @@
     <a href="https://files.pythonhosted.org/packages/f4/9d/5e0eeb9c07e3bf38a89eb86b8452d35ed373235cd9509d6a40b2c4e5314b/dagster_slack-0.17.9-py3-none-any.whl#sha256=b8077bb7eb57d9a824331df553794fa9d339e51cd8dae0ef5e78d745f505ecf6" >dagster_slack-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/fc/2ed86bf4525eab19a200d3756a0e872374b8c1c886a21e649d789fde383b/dagster-slack-0.17.10.tar.gz#sha256=dcd510866570866b6827c0b8d6e28c9b06f9568b5d28aa2a604c7c42c2c3a7b2" >dagster-slack-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/42/3c67e624cde5c7c7142fa50749cece9e55ac1e992adc89310df2fcdfaae9/dagster_slack-0.17.10-py3-none-any.whl#sha256=399e2b8bfbe5b789a2b9f9096aaf914be4c61ccde2b60ddb6edd40991a477572" >dagster_slack-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/b6/bae305f545cbcd94fdde023a5a65e4458566e3b280d6f1269af8e600e2a8/dagster-slack-0.17.11.tar.gz#sha256=5da1b0be50aaf181903cd1751cdc908657bee711b8ace55b0729fea4d0481ff9" >dagster-slack-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/1c/e13c5dee5ca561677b6cb5a83f572b58b4c6523153f754d520fce9d3c72d/dagster_slack-0.17.11-py3-none-any.whl#sha256=083b38e935e12956c0d1c98c9c1ae22aacf2577ecc5b1649b804892a1374c426" >dagster_slack-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/50/b986134b1ca39972946dccca798fb8ced8292e5f08701295783c822c6cfb/dagster-slack-0.17.12.tar.gz#sha256=1ac27ef51a6b76e4c529dafd8ae64bc6478d134f2cf1391772e7d4dcaaa834d8" >dagster-slack-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/a6/c74ef53e8a41f5b6ff7858d220e0556759529da7cc318ccde0430ed6b645/dagster_slack-0.17.12-py3-none-any.whl#sha256=68640344bdf143697d6413b5341b91dc4e8ae713c65ee01310c347b09ed94a3f" >dagster_slack-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/e7/53ef87090dc2704e4a7dac2c3fb3614af59128f08535ace44c858fa0f195/dagster-slack-0.17.13.tar.gz#sha256=97bfe0b73404eb5150b18f08670d1280d815185ea7567690d89500d8455213cb" >dagster-slack-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/c2/6831962d7cc27c7f516642b1cfa1d3236f6ceac58e82020f2c5eb25dffd8/dagster_slack-0.17.13-py3-none-any.whl#sha256=74047410183d0dce4080170a2496cb799b1365b0e56afad0f1758979b7230c6d" >dagster_slack-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/b4/d1f2693d285810c3764ac74fc1a9202a77cbf0253af41d495805f2586ce1/dagster-slack-0.17.14.tar.gz#sha256=f1950a4edd06348af48ff85079e369e6200b11fdd633b3bfd6bc9bf5644004df" >dagster-slack-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/26/8d85fbaf0f0b4c19b49592c763b79e755c2a6d1718b3bd3ef43c828f9104/dagster_slack-0.17.14-py3-none-any.whl#sha256=f815f3c4ffa38139a73f3f101e83daad3948c1bec3bad82f7b7299362ef2a0bf" >dagster_slack-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/db/84093841b4e671c4d1be1348d8be3acd422fbb9372d1757ac3ae6b0c4be3/dagster-slack-0.17.15.tar.gz#sha256=0a55590e1905ab4954b0fce9d9723bab8a791053b2ca76fb11a2937f3d99ebd3" >dagster-slack-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/00/90c08969c87714e01694ab3519238e46febb05801c99d680c2a11e936efc/dagster_slack-0.17.15-py3-none-any.whl#sha256=6caff3f1eadf18de40899cd6bf5ad9173b44f4ad6b9f34bd04a4f894a4c407f5" >dagster_slack-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/70/e088b5d8448f95cfc98c3e482921e84b404944be5aa22a7bff636451a3bf/dagster-slack-0.17.16.tar.gz#sha256=25fda736f6ad2fe75b1a96ef0eba6c6cd933f7ef9fabca263c303cf6666e80ed" data-yanked="" >dagster-slack-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/c6/e427c36772eb8ef9556dcc82a0b53966fd719621987cffd89dc7f32c37b9/dagster_slack-0.17.16-py3-none-any.whl#sha256=3ebf18d5ba1b72d93fa237ddbd596019f7d5f1df085cfe79c9b34ba79bff4aa1" data-yanked="" >dagster_slack-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/c1/c3df7da94c998f8910ea40cb68b660991b612e89414923e283fd1f5cacb4/dagster-slack-0.17.17rc0.tar.gz#sha256=aa7fdc99f0a629a276894df3c8638af30fe2abe9d31eb0e337335b7cd4ff8a49" >dagster-slack-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/ea/70b6a0c0300a0e4cd8b557d9f4bf117834621a4a43b176018c60e638ee74/dagster_slack-0.17.17rc0-py3-none-any.whl#sha256=82f2a4f6846bcfbe9279c7428c5cf1072aa28669de130c24aaeba8de1021fd66" >dagster_slack-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/b0/9d9e0de8a44fd1dc1f7be7df027cbff4fee270e366374b204f6654993f5e/dagster-slack-0.17.17.tar.gz#sha256=7ea9c855edc6d1744e49ba3da8a9e0695a10e90c94ce4a09d25ea2aab973a35d" >dagster-slack-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/20/c63733363387f8c03df83d6521ef5c3ad139a3a0018d5500fbe1fb2ea2d2/dagster_slack-0.17.17-py3-none-any.whl#sha256=64733f02a75becde9d04f2e60456ccabc95044e338246e3a6d79553d33a81a96" >dagster_slack-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/25/6efe6e9e50b055b11b7ad973950cfadae61f0ba0097f7a1052621b6487e0/dagster-slack-0.17.18.tar.gz#sha256=5b43511138b5d56bfdfe348a8578a487d9633066dacbef6d97e53ad31764ee85" >dagster-slack-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/a1/cf8efc4b6f5f3fea388ed12e40c5832a35d34c3296dff307695361e2be96/dagster_slack-0.17.18-py3-none-any.whl#sha256=e3e61e27307120e804e8011c545bebab22423446b3d5d305dc42cd24a6a3d22a" >dagster_slack-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/b0/9436fc02d0c4a8a6810621fabfe1efe3b97d86048b32fa30d050edd182aa/dagster-slack-0.17.19.tar.gz#sha256=87d88dd67fdd84b4568d70f27f3df5246c894a7fe5b785377604a96b01ae38f0" >dagster-slack-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/3c/f0d5b170592ca8358c6b04d53b8aed6dcfc0f27d8e94947262642d680822/dagster_slack-0.17.19-py3-none-any.whl#sha256=2dcd573c450928c5d9c0582cb8bd3319df1fc0c8a86abef094ec06037fd721a4" >dagster_slack-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/be/7c62a294b085a2c59f76de8689243b29533588958a937ca2681732f11ff0/dagster-slack-0.17.20.tar.gz#sha256=5fd69dde53ffa51e4841a4327aeb8934b537ab28473aba8d34a2b975f8ade326" >dagster-slack-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/df/b5b72163af3eac96cf48b4d8045813013c2ea9e2a944273a652c25c21672/dagster_slack-0.17.20-py3-none-any.whl#sha256=c06bd1344106ca7f14063106f6939ca3a2d9d63af3984f99fe3be7ff1439bcf7" >dagster_slack-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/39/2a363a37ec39603520938f93b2a6ac5dafca7326e76633ee79bae7f7f132/dagster-slack-0.17.21.tar.gz#sha256=b8af945137fa3cf079b8421988f5091d577a49f45a08b36974e9e04bbdd562fd" >dagster-slack-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/3f/159054adda5aaa992818d1d35c4ff9d78f7a69a022bf79ebffcbfd07eb07/dagster_slack-0.17.21-py3-none-any.whl#sha256=ce9a1eb4044649f9b52513e14a7fa31a3405e6f32eb4c1b9a1b5376d2e59c644" >dagster_slack-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/28/2e73253f330cd5d95c99d4d5ff694d4167ab13a197786a2f423af3b9aafa/dagster-slack-1.0.5.tar.gz#sha256=8e6e92d869f38728436216e1b794ab5145c11f02c7dabf7320c537806781620a" data-yanked="" >dagster-slack-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/af/3d/74e37ea5f6291e7707f988a1d2cad2eefefd3ab50973cc253ef9b6d0372f/dagster_slack-1.0.5-py3-none-any.whl#sha256=5c420e341c73ab7dc8d14b79d85883c16cce5703158cebb5ad2c95083cc29509" data-yanked="" >dagster_slack-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408608-->
+<!--SERIAL 17135900-->

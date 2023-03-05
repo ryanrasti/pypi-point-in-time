@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for difpy</title>
   </head>
   <body>
@@ -17,6 +17,12 @@
     <a href="https://files.pythonhosted.org/packages/28/90/f7a45c8874d1d2cdf4ce95acbd09787cd6f90903f4ed563a41a030867f1f/difPy-2.4.3.tar.gz#sha256=747f00a27734ba2e2b7877784f4f6cd0053ea2730aca35e33455a001341ad9da" data-yanked="Major bug found in v2.4.3, please update to another release. " >difPy-2.4.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/2b/b33c48b4bc5a90fce4fd997c18707feb77d45307902e3fc0bc0e424ab587/difPy-2.4.4.tar.gz#sha256=5cac7b31a2b3e9e44b7c3460dac9f323724dc553c2282702c742e0cea84993f5" >difPy-2.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/35/8d/a38010f7628126da6f39a53907925ae54fd21e49517b9048dbff7682d082/difPy-2.4.5.tar.gz#sha256=0d7c5b0e1544df20da11e5a4b4ec46a6ec47f4d93bbc23251694fad604ce590b" >difPy-2.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/26/946ca1b2200ca6db18430243946b1e02f531ec1ee37582afbd78430ae6ef/difPy-3.0.0.tar.gz#sha256=adfdc8165f2ca342fdfb3afba425474e5c5aa168728763b7f5923d3f2adc6601" data-yanked="An issue was found in v3.0.0, please upgrade to v3.0.1 or higher." >difPy-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/03/f84bc687bca6f79024fb8ff61ad6143ef15060d1a7bc75d781aa5e5ffaa6/difPy-3.0.1.tar.gz#sha256=eee676f8d6559955c9318a6f7d021994d1c7989f4c84e41dfad6decb7cd8fb6e" >difPy-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/31/9100ede4efde89841fd3f344763917e96e22a43ad2236fdf561c744e17b0/difPy-3.0.2.tar.gz#sha256=acd9e084c1cacb2beaf450d0b1ac533fa9fee80d27b63a09678d4dc168430c35" >difPy-3.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/41/01e2d49e17098d6d9097eadd6cc0504140ffc38bfa281dd4af9a28c7d5dd/difPy-3.0.3.tar.gz#sha256=09ff43289b44f4784992f0a77f04f592be87c6dafbe7de4a16a77f6730db7af2" >difPy-3.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/5f/efceb5f789de92d0da5e8adb27f2464316c5c41f676dea4fda5179881b62/difPy-3.0.4.tar.gz#sha256=9b138ec0ced987f112913864971a05ef9f6d7b236a19d44a137be07fc22f4996" >difPy-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/3e/126c99700195d8fd57a00a9c7c2723a2ee2623c2c2276cf704556cfa9581/difPy-3.0.5.tar.gz#sha256=63dc53b19859de320097400373a9af14e41ab346396e4c7babb4937bf780ba38" >difPy-3.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16274683-->
+<!--SERIAL 17150743-->

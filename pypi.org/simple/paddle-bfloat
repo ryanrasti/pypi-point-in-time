@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for paddle-bfloat</title>
   </head>
   <body>
@@ -218,6 +218,15 @@
     <a href="https://files.pythonhosted.org/packages/1d/1e/307f52738d47b8a53883232fd858d4e9d96664ff8cc4e0274f2f514397bf/paddle_bfloat-0.1.7-cp310-cp310-musllinux_1_1_x86_64.whl#sha256=52a986fd84dd4bbcada5b48d950cad8873aa79a1b5d292c91e50a99329fc9c8c" >paddle_bfloat-0.1.7-cp310-cp310-musllinux_1_1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/5b/f0df47cb728bda4f2ba4e46bc9b909ef3113ebeb4f4be20cc5317fc4f609/paddle_bfloat-0.1.7-cp310-cp310-win32.whl#sha256=6ff2adc16451f82963eb28b5bf729a281014b7f22c374f446c8e00ccc8db8149" >paddle_bfloat-0.1.7-cp310-cp310-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/26/e7fabcc6e4892b2ef8830650f48f54c9a0aec1c1d6495c04f3a5ce86ac85/paddle_bfloat-0.1.7-cp310-cp310-win_amd64.whl#sha256=e16a12237976361ba889ea605067834f1d35bb322f104d440e6845a93246c8f7" >paddle_bfloat-0.1.7-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/94/3acd97cd37a36d5d1f261c983eae3c33db36816036dce6c2bf9a2122fc75/paddle_bfloat-0.1.7-cp311-cp311-macosx_10_9_universal2.whl#sha256=79710f5d6885e3aaf296b2d7625730d51334013daa746b72c01a54bbe8f9e276" >paddle_bfloat-0.1.7-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/03/93563b4f13b7b90abd6991333ff89fdd9a4548e046a6cb44a6a8f8164b93/paddle_bfloat-0.1.7-cp311-cp311-macosx_10_9_x86_64.whl#sha256=c1d1cdce5748dcaade170e5d0658d91818728bb3a394df0e406f542865c351b4" >paddle_bfloat-0.1.7-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/5a/ca835b35534e2253cbf656ff8db7b40dca3532194ba3c70ee40c74c148f2/paddle_bfloat-0.1.7-cp311-cp311-macosx_11_0_arm64.whl#sha256=17a2a518aad80cc14e771fb8c5bbf50772c2ce8fa70f19518aae82cc14525743" >paddle_bfloat-0.1.7-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/71/67af916cf726ed5d98bb534cf302004dbba70cbbe242169a1743bef7d8ef/paddle_bfloat-0.1.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e88543f038d3307a83fb264f5cfd7a0e8f5043325b38fc5211b1d754025b429f" >paddle_bfloat-0.1.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/47/27ddbc58c284c4b3ae9cab93eeb647ee65c8237ab05f691470b208b8dd22/paddle_bfloat-0.1.7-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl#sha256=8bd7b8c6bec141f56e9bcef3bfdd2d48ba9f40ef42e159ceb23d38318743a1b6" >paddle_bfloat-0.1.7-cp311-cp311-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/0a/b931ba30d16bf6ecd97b7fad769c1bc22dfbc88e4dbd755e2bbac672aaec/paddle_bfloat-0.1.7-cp311-cp311-musllinux_1_1_i686.whl#sha256=9ae4ac92a4a57a043618a50c85040b3a6a5740968f2c517a622eee21dc4492a0" >paddle_bfloat-0.1.7-cp311-cp311-musllinux_1_1_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/0a/38e25d663690dfc27d6c86949a95d90f2367fbb53f15fc7c7667c16f8035/paddle_bfloat-0.1.7-cp311-cp311-musllinux_1_1_x86_64.whl#sha256=07dd9e6bebe3eca7ec7f3efee71f8711afa68a7fe8447530662ce462499da6ce" >paddle_bfloat-0.1.7-cp311-cp311-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/5e/d9f1c8c6807c43c1f49889f297f9d98056328e6c4ab274fbd6e084ecedc5/paddle_bfloat-0.1.7-cp311-cp311-win32.whl#sha256=ca4bf30ae5a8d0c15180ee0026b931d07254655905151bcc7b484f91d858bb83" >paddle_bfloat-0.1.7-cp311-cp311-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/5e/7024de698a4a6b3604ae25466bffee5ce9fe3ff3a07102938ca6f2e86a42/paddle_bfloat-0.1.7-cp311-cp311-win_amd64.whl#sha256=336c81cbb409ba5149696f07a9a37a769a0a481a56764072f2c3b00a1ea1ea6f" >paddle_bfloat-0.1.7-cp311-cp311-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/70/7a9b76fb118151024baaecefe776e169b72d9ff21ed82bcc4d7d64c5ae7f/paddle_bfloat-0.1.7-cp36-cp36m-macosx_10_9_x86_64.whl#sha256=e73b52cf5bbaf75ce93715804c871fe889b3e3104ad853c4c9fe6cde604f9fb5" >paddle_bfloat-0.1.7-cp36-cp36m-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/df/9a284e9a82710e6cf1a6923762588f3d71e1184910be0ae6ec2d8bf745af/paddle_bfloat-0.1.7-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=e1fa8156dc7aa009769198d3d69f0dd5a52f62b5229803691c08e42fc281ae93" >paddle_bfloat-0.1.7-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/61/439a6c8a2b82d05dae87f13646e72425a64e1c0aac005e556035883009ac/paddle_bfloat-0.1.7-cp36-cp36m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=133a9a9616da72d5d8293d818a9a222c69498438cc9706f4fe29a6005a98e63e" >paddle_bfloat-0.1.7-cp36-cp36m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
@@ -285,4 +294,4 @@
     <a href="https://files.pythonhosted.org/packages/46/0a/6dc932c8471b86c8331bdaeaf1765be091e18974b359c9c358f0c021eeff/paddle_bfloat-0.1.7.tar.gz#sha256=9ab8d00ad2ec5cebea7871cc8ee331eb916f31f676fb04e1d5aa3d64913ef71c" >paddle_bfloat-0.1.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13858229-->
+<!--SERIAL 16882965-->

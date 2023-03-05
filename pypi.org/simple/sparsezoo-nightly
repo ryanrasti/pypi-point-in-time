@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sparsezoo-nightly</title>
   </head>
   <body>
@@ -42,6 +42,17 @@
     <a href="https://files.pythonhosted.org/packages/72/91/b46ee6bd89cd9bb34e7aec03992150e25f52b47898af829a28e9dcace7bd/sparsezoo_nightly-1.3.0.20221216-py3-none-any.whl#sha256=812d565dd5620208f13a64647eec16fced86675b93062868828d7cde95e23d47" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.3.0.20221216-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/ab/e6acf87727f02d39b43147270efc31006bcf5c5be749d5bc0166272d457b/sparsezoo_nightly-1.4.0.20221230-py3-none-any.whl#sha256=92b013486c83a9d7ba419e74df9ffbe60b7e78723839491158dcaa6ac3532d8c" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20221230-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/79/8d/1a47446bf47194c23a2692c635fb6b174f6179fd6a3b4b327c675dac24d1/sparsezoo_nightly-1.4.0.20230105-py3-none-any.whl#sha256=48ada8f191e9df120a1a9ebb71364885fd77dddb2e0ad88065040e67887ee602" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230105-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/91/9318c7b20661273e1fc13348152dd9a9d74e26b9aeb4dc4e5d76041ae74c/sparsezoo_nightly-1.4.0.20230114-py3-none-any.whl#sha256=ae4d7ea2f59fa638f305b67975e68d7ec801fbf25425792d3ae0456c3b5e008b" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230114-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/0c/199349d7690d1f43b9df24ade1aa5b823ff2a8f0d66e070dd51404c90425/sparsezoo_nightly-1.4.0.20230117-py3-none-any.whl#sha256=28d70df9a0adda2e8d222f25bd98d2bd1e62cf28d4584e91765d5f556f1a34a9" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230117-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/be/0ff289b608a974e8b07a5acc56cfc671983541577355c9146923ac3d3c58/sparsezoo_nightly-1.4.0.20230120-py3-none-any.whl#sha256=b71776100b78c9a76b3388ac6492de679b52339d5c5f311d92569ebab794a2c7" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230120-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/20/47757586a59b9e34703a020ac935e218e45ec94018c6dc078209b28a1cdb/sparsezoo_nightly-1.4.0.20230124-py3-none-any.whl#sha256=ca4f8b5e2c2877aec1d23fa7ed7990f8426a1c237a298fd7c071d77dc38996b3" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230124-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/90/b9c03988f3f8df711fa7a7fcbdc399b3a2014c66325b9a0262621d99ac93/sparsezoo_nightly-1.4.0.20230202-py3-none-any.whl#sha256=c4fe51043b53880ede0253be9d844606fa840aa23d1eab5be1bf1f674129f8d6" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230202-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/e0/1a72d2b62c2261717a55aba4ec4d911363949e0f93c9b6e70b95f1304e6a/sparsezoo_nightly-1.4.0.20230208-py3-none-any.whl#sha256=8494980b7aca4f358606a9d827f3a7c783de47c7e6893295bf2a070e27502dec" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230208-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/64/ccef0c8043879f9b56ab8fa19e060932e67be553f8b522d885983387313d/sparsezoo_nightly-1.4.0.20230210-py3-none-any.whl#sha256=e7c55e927905d9f2f6523eb0df6c8bbe1c70d415937c9601c89a56f56b94bd2d" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.4.0.20230210-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/17/9e0bb1eb3b8041e710611ad2907eee4a67cfa715101e1a6ef01ec8f92b79/sparsezoo_nightly-1.5.0.20230216-py3-none-any.whl#sha256=af7ebd7b5787a165bddcb4f2864e57bcdc4da6d475458ae009c7e379ba7b7de7" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.5.0.20230216-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/20/d822d8b0138bb425c2ec6f6f27c8ae90d50554dd73bf3fa905f19bac1bf2/sparsezoo_nightly-1.5.0.20230224-py3-none-any.whl#sha256=37ea34294577458cd121e9c0873b103fea7c4c14f472957bcbac81892570bf12" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.5.0.20230224-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/07/161bc5029684fc004f367f4708db5c6d83297b9cc363f414e2a885a67a2a/sparsezoo_nightly-1.5.0.20230228-py3-none-any.whl#sha256=96649eb5d368c415deda22190d7877aa44536e2c5dd69ce6bf5f3bc9e847a80a" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.5.0.20230228-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/f7/f6ed6a51070a9d2493b6095dc1993abaee17b8d3684650bf9450bab9f96e/sparsezoo_nightly-1.5.0.20230301-py3-none-any.whl#sha256=2e2d70f7417d199c4172f99e76ff4a38f34b6a1f43de78cc5befc222492d6aa4" data-requires-python="&gt;=3.7.0" >sparsezoo_nightly-1.5.0.20230301-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16321295-->
+<!--SERIAL 17122856-->

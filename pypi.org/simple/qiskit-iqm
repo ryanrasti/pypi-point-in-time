@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qiskit-iqm</title>
   </head>
   <body>
@@ -48,6 +48,18 @@
     <a href="https://files.pythonhosted.org/packages/d3/2b/d9684af2870f437612151a4075c984b83390f98b358227ebc509135be46b/qiskit_iqm-6.2-py3-none-any.whl#sha256=ff4d8a20d6ddb3f0b2f42d482ade45845e98a7926a5854991d425f1ffe407a78" data-requires-python="~=3.9" >qiskit_iqm-6.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/4b/8587dfcc769882aa01e4930de40e3181b193e17e078deff6bb6754d5a2a3/qiskit-iqm-6.3.tar.gz#sha256=e5771acbba316d4cab223f833597339d52d086cc9e2f34af8833cf7f41eec3a5" data-requires-python="~=3.9" >qiskit-iqm-6.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/5e/9853c4058a61954ac7f477941b1cb3d56cd09d2d376e916bc4b7f6d3da97/qiskit_iqm-6.3-py3-none-any.whl#sha256=31d5810245f476d0a53f1eb2f7f59231d4b3f1c3d40784f6c5833d33880a1426" data-requires-python="~=3.9" >qiskit_iqm-6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/77/b4e8eaf493ca13b365a0389d7d0afa66aa5d6ba3012721c5e0d3ffeb3c50/qiskit-iqm-7.0.tar.gz#sha256=84309f544a367b1ec22513e46e9cb9f09cd42875f70c1eea475b01f17d381bcc" data-requires-python="~=3.9" >qiskit-iqm-7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/c5/4b33f443d0fc3a6938a9891892adbeb123e7b16ca76200d717482d81afb3/qiskit_iqm-7.0-py3-none-any.whl#sha256=46e2c848286158ef4b7fa027009bc821ad8d81c0d571b6ec0f52b6e620a2d93f" data-requires-python="~=3.9" >qiskit_iqm-7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/19/91d825ecf3d0920d5108ba8b4b229e81fd115476896ed1e77402e3401d64/qiskit-iqm-7.1.tar.gz#sha256=6a0d72d2143c94798f725f3eff268e33fa1a0c278c315e1b8cffb4d5f66d2536" data-requires-python="~=3.9" >qiskit-iqm-7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/88/efdc297cf8a9f30f3ad6d833b356337401005daa0581b44eb6f4bc3bd423/qiskit_iqm-7.1-py3-none-any.whl#sha256=a9f8d051bcf5d751eaeeae28d7d87bd25c48f99cf1423fcee447bea06263e266" data-requires-python="~=3.9" >qiskit_iqm-7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/52/78a9de1934b54849553de0689aa4264d5cb9aa0bc88c65cf770a4c78d4c4/qiskit-iqm-7.2.tar.gz#sha256=0862f196307cf1cca187974f915ff8bf52b1d6b6e0eebff8c90ee56759965cde" data-requires-python="~=3.9" >qiskit-iqm-7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/ce/ed16b8eaf52570fed44775fba65cf32e990b4eebf4e8f23bfa374a11245c/qiskit_iqm-7.2-py3-none-any.whl#sha256=7fe2e0b585d4f3fb331c61cca327ed996e95e3510c5f1d6e8602ff7b0b165228" data-requires-python="~=3.9" >qiskit_iqm-7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/ae/13f0f213f59b748c85b9a19af69cd932b3d960c5b0f8d172fd07e0484f2b/qiskit-iqm-7.3.tar.gz#sha256=dfa87c044dab70e9e922b1d6557ba288b2df5123cb301b020fb39d812368c211" data-requires-python="~=3.9" >qiskit-iqm-7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/51/f4047ea2d8cd4ab99dcac9ccbb2f2c71016e3a993351e077e88b65a29a1e/qiskit_iqm-7.3-py3-none-any.whl#sha256=6f8601a593e0b0c4ebb287da2d26eefabc392a70f8efedaa8f677fb5654129c6" data-requires-python="~=3.9" >qiskit_iqm-7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/93/ebea133e0343c41e9bb34522b033d1778116bc5681fdeaf79c373c4f3fd6/qiskit-iqm-7.4.tar.gz#sha256=0ea24bc5679cd56802e58c642b53f5c65b8e5826c5d717b5d000453fe4dc1c9a" data-requires-python="~=3.9" >qiskit-iqm-7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/2f/1b90e92f18f222b7034ec1ba60ed70ead3f12051dd136f90aa9b02b4ed87/qiskit_iqm-7.4-py3-none-any.whl#sha256=24076de4a637b31a9df49e28af225961ae4073f695decd3207ade4fffa2b89d5" data-requires-python="~=3.9" >qiskit_iqm-7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/58/f1ad133dd00619d36d184562e2bab7b84fa851df83195dc944e7d4e98523/qiskit-iqm-7.5.tar.gz#sha256=6f58c18c5a6b6413ae2ca0d8f314f615dac39ea9cb170c4b4ae98297ae1445cf" data-requires-python="~=3.9" >qiskit-iqm-7.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/12/4b83e4057e9db973b9852f96508c99f1aa8dadb477ec7a93bd53648792b7/qiskit_iqm-7.5-py3-none-any.whl#sha256=fc9ca9084289751089f6bd49d458df7f0d8956b16fc1a3633f96d877eecc56a3" data-requires-python="~=3.9" >qiskit_iqm-7.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16246726-->
+<!--SERIAL 17145429-->

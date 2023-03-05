@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for wds-client</title>
   </head>
   <body>
@@ -68,6 +68,36 @@
     <a href="https://files.pythonhosted.org/packages/bc/55/9b73b9f51cac05bcb171f99f739deb254a875f9a621711011c1fcc87ffe4/wds_client-0.2.18-py3-none-any.whl#sha256=d47e6a7264cfa104f9e3b24c025761ad291bed206f5fc0b7d00c8e93e858b670" >wds_client-0.2.18-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/24/b7/60518e50c4bada92df6188cd692bce8d342376f8bd3061ef48ba0bb44179/wds-client-0.2.19.tar.gz#sha256=d8dffdaa1b058e12bb86e686079143102f34a7eba8b5bb19018ebdde575d2d58" >wds-client-0.2.19.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/d3/9987da469f1384ceb7bf51b08b4314fecb047ea83e603ec1edaf897292d8/wds_client-0.2.19-py3-none-any.whl#sha256=36ef8c8493b77675f972912851218fafd071de1479d98e75bbba861ff0b3c124" >wds_client-0.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/67/ece7f3b370485c117543bdd4cabe2bbdca98da9ee19ce908b107ca14d3df/wds-client-0.2.20.tar.gz#sha256=99c9cd30c46489c9725f0fb2a131c568800247c946c66595efd4ba748b57e7b6" >wds-client-0.2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/57/eb211e691dfe96a390dcbb6d07b5575c7bda464e9d1a329614fe0e8f368b/wds_client-0.2.20-py3-none-any.whl#sha256=e1b0354a603dcdf83e74eda0b530df8d56bbd6b316565f88e4b0cb63c6a556d4" >wds_client-0.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/af/63677893cc89ca92cfaeb51a379c8c9437e7623dd9e5bb01333c0173612b/wds-client-0.2.21.tar.gz#sha256=112c9db7647102a89348223f6ad76721f63a74eaaf09b947d82be3cab5378136" >wds-client-0.2.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/5b/e5cfd107aa6b47d4001b09508c544c99b901b2286e005f325d332ffb3317/wds_client-0.2.21-py3-none-any.whl#sha256=94f5e4f9633235d02a96d28b20c9d69b59e3989b921fe5f0d6d88e9533341b63" >wds_client-0.2.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/bb/c2402e69eef0f639df1ea3bb1a127d9df0093363cd8207e66b65fa817977/wds-client-0.2.22.tar.gz#sha256=946cacf433d213028338f68524694cb44a1f8b36b7c52303f441f5e7f5cc2d7e" >wds-client-0.2.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/d9/ead3c47d311e938f93ea0dd19c11c1fd770df5185bc9e9e4273175255831/wds_client-0.2.22-py3-none-any.whl#sha256=648625fe03e67f671578e1f85fa03cc811a0a08b7be1e365ade5cdfebff3d153" >wds_client-0.2.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/a3/482bc487915e1e08650c26e078c730b1964e8a271fa08df1beab036a6911/wds-client-0.2.25.tar.gz#sha256=708ce79ad83532c9a8cdc224931055baa85b080780c0e6cb7f399dbf60dc26c9" >wds-client-0.2.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/e1/d8abec9e7cef62410e9ac840dc1c828ab4f7f4120d254580f8e26e0412f8/wds_client-0.2.25-py3-none-any.whl#sha256=b74f4b4dedd5b145755e5541b4af17560957ccc97d3581f52de24eaf3b2137a8" >wds_client-0.2.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/65/264f1dbaad0d006c64bdc829f32779d178c71869294c5b3e52092f3d4c81/wds-client-0.2.26.tar.gz#sha256=86e76bc15285b40b6ea26edb29618c0d1317be2af14839f13162b00b8d815e6d" >wds-client-0.2.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/18/fda03e827ba65087ab10c4dbd1c0bf23db56c3457ec40e9bef4b47431307/wds_client-0.2.26-py3-none-any.whl#sha256=1e4fc662185509447e440fb10e93af60d1d19c1bf1c96d393caf9b49871cfdb1" >wds_client-0.2.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/29/ff644c49c2a21d5c1d716c6f140e107cd2f259b18dd2c0579088968b889f/wds-client-0.2.27.tar.gz#sha256=3d8624c0a4dec9fe64fabdae8e17c5b27ca7a542c22b97776ce4477d86d720dc" >wds-client-0.2.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/98/de95ac849caa067ee0b2b1a4e68d06b785ed7068bb983603bd310bf877ea/wds_client-0.2.27-py3-none-any.whl#sha256=44c2df26a444cff91430c69b88e60e38a3a19d255f3cdfce0cbeef3815813c01" >wds_client-0.2.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/1d/2a6a9454cc4555a34cad80819207835bcabbb83d2e17e4ab40668b4316c0/wds-client-0.2.28.tar.gz#sha256=0af208dc2279314992bf9d879e5f613fa6da5b1f277ad65f273f558df23bdc48" >wds-client-0.2.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/90/00c68f1a0e70df5b2c9f9dc84d1c2a331fdd4d5440186892c5e8ff21d1f6/wds_client-0.2.28-py3-none-any.whl#sha256=585503189df0eeeb8b094ef8d6544a311df9ec1656488a7fcb1cd533e95b61c8" >wds_client-0.2.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/10/4b2175f73c6a97d5d25e1821a7e30f6c4c437ac37ca3de88cb158a9bcd8f/wds-client-0.2.29.tar.gz#sha256=d9af49a8ee916fad2df4ddb311a688147eed72e10c673d7b04287779e8b29cc5" >wds-client-0.2.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/bd/963e23a9ac833d344da72f12bd9da966266249be17857c982586ea09ea95/wds_client-0.2.29-py3-none-any.whl#sha256=9109df9c5bae4c85a0bca1c771d65c198b47e05001f156b1e229a2f93cd796a1" >wds_client-0.2.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/92/dde211e3b535064819bdd81850c1e48764a030515ed6e877b8c6b5c2f5d0/wds-client-0.2.30.tar.gz#sha256=b6f9794ad53fc526f5f0c927f4d0a8a202fc79adf4b8f1b4ed5b71a1ad660bce" >wds-client-0.2.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/76/dedd4c6f0b71c5fabc0cc101dfe04b090848e77a0b35160441bbc44f8608/wds_client-0.2.30-py3-none-any.whl#sha256=958dbd96fb0cebe278863b422be9ab6d045c2a983e14c0db19aa6e4007dbb9b4" >wds_client-0.2.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/8f/95611d620037ec3a31d91c1f87fb940814c0aa06880be494b8a50571cc87/wds-client-0.2.32.tar.gz#sha256=10a81e3106346d379387e89c12b0e391f1e20ceb459735fae6644e82c4cf324a" >wds-client-0.2.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/74/d28a3df809dea8b7df97ff83abc22a81dc01f5a52febc0f212684186ebbd/wds_client-0.2.32-py3-none-any.whl#sha256=87735062cb985996751492025543e8f74f1c9cb123202cc7fbe4438ce7a4fe28" >wds_client-0.2.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/46/4a2bce77c862e4f2c829a204822c882cc420e2a6dac0a5c55ef8103434f0/wds-client-0.2.33.tar.gz#sha256=6e9a11f75a12cd75f59a11c4191feab7b72900384d076b639c04a88481295f59" >wds-client-0.2.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/22/ba411cfa48825b11e574116009d1e303dae42b0155643d1245329e6d3c62/wds_client-0.2.33-py3-none-any.whl#sha256=9db97e004fb90aea2bb009d4bd58a1c51ff081684857d6b624d8efe8e595afa9" >wds_client-0.2.33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/0d/c22ed3468056d1bd846cec454ad3296b0167012fc7c5eaa520ece057075a/wds-client-0.2.34.tar.gz#sha256=fb43aaf9b3d20e0cc39d90d9e624ef7c8cffd75a9f254944540d26dbb9441e54" >wds-client-0.2.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/ae/5bfd5993da251da3ddb25dfe787a62f9e7e79c8e1c5919dca3f52443dc6d/wds_client-0.2.34-py3-none-any.whl#sha256=dac5d864cb3f37c458e05877f6286c8b96770a8f0dda16af499b92914b74f915" >wds_client-0.2.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/10/080c1e1f55a2918e19e2e60da757cf79468345edb55431ed8814d0818516/wds-client-0.2.35.tar.gz#sha256=2a3913af8f5660c9e669f2fa7ffa9dfa5a4d3b9e6cc44760d71969be9bc8f041" >wds-client-0.2.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/71/5a86f94bcc6c15c09dc714e0a4e7c21c9ef3da6c4d957ba10af6a01fd458/wds_client-0.2.35-py3-none-any.whl#sha256=a4665df5a4563db9f93be5a942f3a6711f309e1435a78b27a11147ce68cc6d16" >wds_client-0.2.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/e1/d8d72749d2abd489e46cf5290b63f0b539dc53aedb505696f4924399a638/wds-client-0.2.36.tar.gz#sha256=adabd4ea8dacbafecac396cec05e502f0aa2a045adc0d9d1438c51939a7656aa" >wds-client-0.2.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/0b/94823e97d781519a192691dc6573a2a6a33014574f0b699795c84184dbce/wds_client-0.2.36-py3-none-any.whl#sha256=ea0c929d038fd42c5c7bf9100fc70b651e2fea13007b2a5284d71e6e467aac51" >wds_client-0.2.36-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/64/82ed13e36bef120aa4bd40fb915f89078d9553fb81b1b5402431f4f84454/wds-client-0.2.37.tar.gz#sha256=0a962a7fdb61746cf68b90deb02b2365e782bb82c274fd17512dde5cf106b89c" >wds-client-0.2.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/be/cd3e5f16fce1402fbf63db0717d00c030c0039a8979c157f32fc00947492/wds_client-0.2.37-py3-none-any.whl#sha256=943968ed2eee0d1f81aecf2dddd4aa2e4b89d4d48327fc02da40b4ddfb45b073" >wds_client-0.2.37-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408252-->
+<!--SERIAL 17132888-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sky130</title>
   </head>
   <body>
@@ -34,6 +34,16 @@
     <a href="https://files.pythonhosted.org/packages/e1/92/11d4a782855b4017068e8971c64fbcf5b17c1643f8d5442467d22810c585/sky130-0.2.2.tar.gz#sha256=ae84b367fc12f03ee4ae1f4837c914d0ab87b12e00aa6847e87d476b1fa9f000" data-requires-python="&gt;=3.7" >sky130-0.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/3e/3e0b91a9db7b6c83b6aea8414d14e3fddaccc348cfa8377839c5d532a179/sky130-0.3.0-py3-none-any.whl#sha256=18f699cb4a2fa0f8e483309a31569c8b4b9e4bd30cc2f675c6e4c0c5edfba34d" data-requires-python="&gt;=3.7" >sky130-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/82/a98bdbe013ef8dd67bef0e995d8688d22d27832f152789d6923be5a9504e/sky130-0.3.0.tar.gz#sha256=ef0db98272544005e225f4a2566fa1b8663a6388538fef9f03d7491ccc028ab7" data-requires-python="&gt;=3.7" >sky130-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/70/7142d38e489f30a4110537473e9e6c22a40d4614a9fd5d7c22aaf4d025ea/sky130-0.4.0-py3-none-any.whl#sha256=fd549905bcd60078efdec61cb71c76c94184f2e398d36a56d84fdb139d9fa503" data-requires-python="&gt;=3.7" >sky130-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/df/711deb9957c65c3846aa528fc56a0d193b61337c5b3f1fb3434dc6c21831/sky130-0.4.0.tar.gz#sha256=d325da486081c4e3fb27ce0bf61e918247d5d50c8d59b807ee4372d431e9560f" data-requires-python="&gt;=3.7" >sky130-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/1f/abb53791e4a9b8dcbd6fb6997acfb9c59a1d596d6ca350061bf16c388e3d/sky130-0.5.0-py3-none-any.whl#sha256=069e861ba1e6763e9553c1aa471c73f7b0a84719ddc6aaf2007dba881f36c780" data-requires-python="&gt;=3.7" >sky130-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/4b/2fd5a9e9e25b79ea973a43f8179d33ad831ee63c660abdf25f779d9d0a8f/sky130-0.5.0.tar.gz#sha256=8b1e14dd56bc578d0ecf716a4a391fa00b0cbcc4442817787d835d423bfcb874" data-requires-python="&gt;=3.7" >sky130-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/9f/d5b932e33f31b370161038614db426ad5013141d16e23259f14924fe3770/sky130-0.6.0-py3-none-any.whl#sha256=1de288d9e011a39a45391621ab42bb7fb73736a6b43f27d5cdabfbafeb641a60" data-requires-python="&gt;=3.7" >sky130-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/2d/59230b830f0dc88508970c00f32932f9af665a5534dba4ebe94b630edfc1/sky130-0.6.0.tar.gz#sha256=4aad36bed461beb7fb684621afa0a6c5252d0b008beb7b8879af533575563f36" data-requires-python="&gt;=3.7" >sky130-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/3c/76140f23fb8e9e00f529d5f4737f7f1c4f13dae4175673cf7eb09d4fa116/sky130-0.6.1-py3-none-any.whl#sha256=2b0c99a8ac4714ef8559f09142fbe74148f1eeaedc1ef9105b1d47f5b4a65325" data-requires-python="&gt;=3.7" >sky130-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/dd/318df3d79f4fc23ff0bd98a9ad7cb443339282409ae9fe6ba49fc7d7162b/sky130-0.6.1.tar.gz#sha256=6c9e25ae3f7d30b52d56d7cb6ea7e9e3a21c10f75e475e905c26ce6f35161b82" data-requires-python="&gt;=3.7" >sky130-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/64/a56fac949d86f05107dae6d7be55b1b8841f8445662fc2988d3d0065de17/sky130-0.7.0-py3-none-any.whl#sha256=13291df215a5b4cdc04c919c3d74054adcafa7c937c8637e0e37911c2a5e5e9e" data-requires-python="&gt;=3.7" >sky130-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/f3/deda9d2d36fcc1badda285b0c3077208a39ccbad5e779c0f9a80bc7d0326/sky130-0.7.0.tar.gz#sha256=64ebb343c50dc83b3fce19378a522c56ab0b8be5e4e513f5adb23ed836eae951" data-requires-python="&gt;=3.7" >sky130-0.7.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16281041-->
+<!--SERIAL 16924895-->

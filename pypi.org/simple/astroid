@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for astroid</title>
   </head>
   <body>
@@ -246,6 +246,18 @@
     <a href="https://files.pythonhosted.org/packages/64/2a/38172127b31bdf922e3fb3d53841ab4ce47efdf0c60b9744e77c7b66e2cd/astroid-2.13.1.tar.gz#sha256=d2f2775756807ab136867c9c500556c26eda487930281f61e30e40daecdb8d84" data-requires-python="&gt;=3.7.2" data-yanked="Wrong metadata under python 3.10 for typing-extensions" >astroid-2.13.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/1a/b39c78909f72793ae75fb2daaecfd0393f413448ce30381f5052c2a7ce31/astroid-2.13.2-py3-none-any.whl#sha256=8f6a8d40c4ad161d6fc419545ae4b2f275ed86d1c989c97825772120842ee0d2" data-requires-python="&gt;=3.7.2" >astroid-2.13.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c2/49/5dd5f36b2cd2b315d45023ed4e2d6f1ba57d054ea9a1378f91f093ec57bb/astroid-2.13.2.tar.gz#sha256=3bc7834720e1a24ca797fd785d77efb14f7a28ee8e635ef040b6e2d80ccb3303" data-requires-python="&gt;=3.7.2" >astroid-2.13.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/9d/153f58eb80395e0f2a84c3a5e5945889da902a8b3eba62d9e2ff2c5618f9/astroid-2.13.3-py3-none-any.whl#sha256=14c1603c41cc61aae731cad1884a073c4645e26f126d13ac8346113c95577f3b" data-requires-python="&gt;=3.7.2" >astroid-2.13.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/b2/413625f369b9861778b7872987ed76fe573c9558249a865344882c46d265/astroid-2.13.3.tar.gz#sha256=6afc22718a48a689ca24a97981ad377ba7fb78c133f40335dfd16772f29bcfb1" data-requires-python="&gt;=3.7.2" >astroid-2.13.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/10/14862536e5ce373eef81e1d1a53f7dd412b7ef5a75777cdaba0458d71b6e/astroid-2.13.4-py3-none-any.whl#sha256=fe430a1dcc6af3abbccd29ba9f2544dcafc0610d37018b5102c232ff917e4bbf" data-requires-python="&gt;=3.7.2" >astroid-2.13.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/9b/1a9c049165f4c8b405e8ee26bdf6576a072ae2e1f99f48f7c0f0d5701b43/astroid-2.13.4.tar.gz#sha256=805d47d685a490f4024e3744064e919998b0eef6619e6ea6d2052deec5333fd5" data-requires-python="&gt;=3.7.2" >astroid-2.13.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/45/5639d34304a830ecd8baff28a586b3b046160aeff43510264bbb4fd93287/astroid-2.13.5-py3-none-any.whl#sha256=6891f444625b6edb2ac798829b689e95297e100ddf89dbed5a8c610e34901501" data-requires-python="&gt;=3.7.2" >astroid-2.13.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/16/69bda7fee90014004cb914210a0a7c031d1d0569f135aefe839314dc0a8c/astroid-2.13.5.tar.gz#sha256=df164d5ac811b9f44105a72b8f9d5edfb7b5b2d7e979b04ea377a77b3229114a" data-requires-python="&gt;=3.7.2" >astroid-2.13.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/27/c27cd5524319400ef57e33ce74bd88b18d40c2559097c6685044c82ab5d1/astroid-2.14.0-py3-none-any.whl#sha256=a924de70331cba0dd34f41877c7c43af7da35f496e1926cf95320c5a2200f645" data-requires-python="&gt;=3.7.2" >astroid-2.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/1a/3f7c9444ea09736f892fa6e4f9e0892f0d772390986a9c59e9fbfbe436a8/astroid-2.14.0.tar.gz#sha256=708543bfd31c1b93f0db24624a3b19c73807294743cb5d0b02fe9341c1715075" data-requires-python="&gt;=3.7.2" >astroid-2.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/04/6d94e603fb7441ab4d09f5b60b88fca37c7364ae9639f2bbfab1b803e1eb/astroid-2.14.1-py3-none-any.whl#sha256=23c718921acab5f08cbbbe9293967f1f8fec40c336d19cd75dc12a9ea31d2eb2" data-requires-python="&gt;=3.7.2" >astroid-2.14.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/1e/b6f6065acb262dd1f7466d23626ea1c7bf033c0675294c41cf96deb86d3a/astroid-2.14.1.tar.gz#sha256=bd1aa4f9915c98e8aaebcd4e71930154d4e8c9aaf05d35ac0a63d1956091ae3f" data-requires-python="&gt;=3.7.2" >astroid-2.14.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/40/d6fbafb01a3da14289c7cc8ff82a0513ccd82a49219ffa84c67a46b1b712/astroid-2.14.2-py3-none-any.whl#sha256=0e0e3709d64fbffd3037e4ff403580550f14471fd3eaae9fa11cc9a5c7901153" data-requires-python="&gt;=3.7.2" >astroid-2.14.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/e5/7dea50225cd8b44f1488ae83a243467fe6d2a3c4f611d865085b4bba67e5/astroid-2.14.2.tar.gz#sha256=a3cf9f02c53dd259144a7e8f3ccd75d67c9a8c716ef183e0c1f291bc5d7bb3cf" data-requires-python="&gt;=3.7.2" >astroid-2.14.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16349128-->
+<!--SERIAL 16824807-->

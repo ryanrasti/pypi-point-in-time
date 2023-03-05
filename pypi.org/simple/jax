@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jax</title>
   </head>
   <body>
@@ -146,6 +146,10 @@
     <a href="https://files.pythonhosted.org/packages/4b/0e/c57d1b4c9ddc27e8498c9e2b0628666c11d9d6911f1d2f975a91e1215595/jax-0.3.25.tar.gz#sha256=18bea69321cb95ea5ea913adfe5e2c1d453cade9d4cfd0dc814ecba9fc0cb6e3" data-requires-python="&gt;=3.7" >jax-0.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/97/7b/1e931ba96f6882eaa87ac7a802796c3180be5b264f55273918b43ccc516d/jax-0.4.0.tar.gz#sha256=f98248199d730684aa74524cd7afe00f08e75434adcfeffbf3be0e6e15691b1a" data-requires-python="&gt;=3.8" data-yanked="Bad jaxlib GPU release" >jax-0.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/aa/3adbd63fe645ee4fbc0daeba9423b21970929145bc63cbf2d813b9d150f5/jax-0.4.1.tar.gz#sha256=b795a75ca2eabb5d20b83f1aa1e1038dafeca89ee74c9ac6e2b919215cadf427" data-requires-python="&gt;=3.8" >jax-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/cd/5d77845520ea6f3c96b6121ddba7068f9f1b789f4a534005a29cce829804/jax-0.4.2.tar.gz#sha256=d561d431f1662a3888eae73818a53c280fba405c13442a32ac8238dc7e5dcca4" data-requires-python="&gt;=3.8" >jax-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/f2/cfbefdd74bb04e02c8a0599332c22db9adbdf2b13775de3ce9b0445bdf18/jax-0.4.3.tar.gz#sha256=d43f08f940aa30eb339965cfb3d6bee2296537b0dc2f0c65ccae3009279529ae" data-requires-python="&gt;=3.8" >jax-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/8a/4b43070e1a5951e2c4bece5efb6046f3ef87c427764c6b7ae20159b44bba/jax-0.4.4.tar.gz#sha256=39b07e07343ed7c74492ee5e75db77456d3afdd038a322671f09fc748f6392cb" data-requires-python="&gt;=3.8" >jax-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/d8/0ff2f887837dff08c1fe8f2fdd2781a9982e9486e3ab48177c737725d1f9/jax-0.4.5.tar.gz#sha256=1633e56d34b18ddfa7d2a216ce214fa6fa712d36552532aaa71da416aede7268" data-requires-python="&gt;=3.8" >jax-0.4.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16089849-->
+<!--SERIAL 17136093-->

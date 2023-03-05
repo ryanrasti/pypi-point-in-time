@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for touch-sdk</title>
   </head>
   <body>
@@ -46,6 +46,18 @@
     <a href="https://files.pythonhosted.org/packages/8f/a1/61df239f566a1375a8b94d638c234e786025931d02b25d4be324b9e7f32b/touch_sdk-0.1.1.tar.gz#sha256=c13ec64a17f36685bb4efa2f1519ffa9e8bfcbbbc5fbb54cf823ce935e74cd74" data-requires-python="&gt;=3.7" >touch_sdk-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/24/ed862aa4b255e986621cc11f9dde28cc6284eecb2a0c50c7a9d12a6a8ba9/touch_sdk-0.1.2-py3-none-any.whl#sha256=1172bf9ef6f813c0fe3666e319f0dfd58410c5a4e07f7600182fdda1e2dc0acb" data-requires-python="&gt;=3.7" >touch_sdk-0.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/90/30b53478718f447ebe85770d2d13bb205b43fc5cc4bcff0c617ac6191cd1/touch_sdk-0.1.2.tar.gz#sha256=f7b2bf7a40c5d5b1599ca217ffd9a5077c7bd729f017517c2538253fc41b7457" data-requires-python="&gt;=3.7" >touch_sdk-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/ee/0e01cce5fb361b65a1f385918351d3d4c676a93f11d846fb18a0c4443a28/touch_sdk-0.2.0-py3-none-any.whl#sha256=73acb3e97105e97f769e2388653860c74d513f52ebc3e7fd7de629499dea4608" data-requires-python="&gt;=3.8" >touch_sdk-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/c9/782805c423095d3d43136a7196735861ccb73ce307d76d583bda0cbdcd47/touch_sdk-0.2.0.tar.gz#sha256=3834ebe424ab8cee05e9cb8761d9f6b7047b8a51ecf87d400e6c1481f100cc4c" data-requires-python="&gt;=3.8" >touch_sdk-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/3c/d9b18b47220ab9017da745c50e04bfb6f01eef6c74cafab0b2e86628133d/touch_sdk-0.3.1-py3-none-any.whl#sha256=93543e3d8286072f65533efbb2429e5d6c356bccbe10908b38441ce559c80e65" data-requires-python="&gt;=3.8" >touch_sdk-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/f4/fb9f726a68ac581224a6e130e35fec13fc3772d94d3165446ab49177f93a/touch_sdk-0.3.1.tar.gz#sha256=c4ce9d23f8744379d43408a535dad25f3cd96044cb5b50572d5ce6bed6cf19e7" data-requires-python="&gt;=3.8" >touch_sdk-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/e2/76e1929eeb36dbb47b471c8ab85dc100b1844dcb71ce6f34c2b3936e70ee/touch_sdk-0.4.0-py3-none-any.whl#sha256=468c095005fab85ba8a964de1b66d7b46679973cea3feead91cf7e2021647a92" data-requires-python="&gt;=3.8" >touch_sdk-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/1c/c0299fbfa5fb703e574cce51d89bc90380e0b972a8ccfb79e58bdff23253/touch_sdk-0.4.0.tar.gz#sha256=fd3fd6224cffc68d2a1c77126b7b37db9afe1486c18c2085c3bb96b377cf994f" data-requires-python="&gt;=3.8" >touch_sdk-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/ea/201de34c2e931fa1e258896b96521aeb8fc6ac52d87341564c004b7697dc/touch_sdk-0.5.0-py3-none-any.whl#sha256=773217313d805e74b42e3a0c645bfde05f910e6839c0d2ae2c6e2f48fc39662c" data-requires-python="&gt;=3.8" >touch_sdk-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/1a/326cbd8b2442b437b883aa7e620393c3fb409673c429f654dd174353164b/touch_sdk-0.5.0.tar.gz#sha256=a93056316a8ef874e29f0a6d0295d82bbfee801521e7e2965f81302e22a241f0" data-requires-python="&gt;=3.8" >touch_sdk-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/25/6f92d634c8c85f73fa5e33cd86459b5f090993b2c671a9fae389a9d754ed/touch_sdk-0.5.1-py3-none-any.whl#sha256=7da89380442a6ae98cdc7a76a94c686020d06e165f3454e477743e3163c5fef1" data-requires-python="&gt;=3.8" >touch_sdk-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/cb/5631bddcca589280748556f0e2c3138a5ed93d72f3ef532c888a75cd2d70/touch_sdk-0.5.1.tar.gz#sha256=bc3c91e2212ca59d85b1496e8cf50398598df170c9bfdc0a3b41773d2e12756c" data-requires-python="&gt;=3.8" >touch_sdk-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/99/50eba9670972eb244adb2e75cf797e560fb0e252f2ae6b895d1b30a3bd8c/touch_sdk-0.5.2-py3-none-any.whl#sha256=89627699beec2cad7be40202fbb3d8dd44d29122e47f0835f99df3cb69e9668c" data-requires-python="&gt;=3.8" >touch_sdk-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/cb/adc5fa170970e640268d4bff28ecf15817565169879f7cf5447f8f9d55e8/touch_sdk-0.5.2.tar.gz#sha256=30765d7bfce33271cb23a64df6c19605f9b5f027420c68ebd4df19d71b580430" data-requires-python="&gt;=3.8" >touch_sdk-0.5.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15972475-->
+<!--SERIAL 16995691-->

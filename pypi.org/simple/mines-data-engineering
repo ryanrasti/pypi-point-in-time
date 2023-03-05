@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mines-data-engineering</title>
   </head>
   <body>
@@ -86,6 +86,18 @@
     <a href="https://files.pythonhosted.org/packages/3a/97/aa63c76c765927a822dfa71a65ebc76cb810842b453e4eb68f9728b5733f/mines_data_engineering-0.1.5.tar.gz#sha256=10d1c9240ca3904889e62b97ae5c9d73cf7397fdb5a9a5d601534020f5ceae2e" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/af/00c8b259cc047394c2441d8219c610588a47b348d7e8723932c2183c48d2/mines_data_engineering-0.1.6-py3-none-any.whl#sha256=80815cd399a15e1dabdc74a451f4e9f9f569d99304834073c2476552d9ff6ab0" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/84/3977899eb29313ad8d5b62f0d257162d2af322adaa3b57d65dfcce3e85da/mines_data_engineering-0.1.6.tar.gz#sha256=633099b92d7aaa45c0e2f5f453b0fc1da6e96307369b2e92c94828dfc1fdd2ce" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/6d/34ace3ed18abadf99cfc5cee50c7b9865ee0b160a18b8de8a0e065d0ba72/mines_data_engineering-0.1.7a1-py3-none-any.whl#sha256=684074c874edc2e51fc709aa000fa37577a64f51268d4514254b797d60a0352c" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/23/de7ec397fca607782ab8ea11e32ff2814eb6d77e289c0b8da9b7de332446/mines_data_engineering-0.1.7a1.tar.gz#sha256=4b07d899d6755804eff6a182b7aa4758d49b3e23cd4e7be8b3d6cd3c3b3c82d0" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/78/fc88af5f791a31e5c353aa0f4f91ad420da4433a42b0925a820eda0e257c/mines_data_engineering-0.1.7a2-py3-none-any.whl#sha256=ace7100d528cc447f4ca4ba24eb208768d7c003caa8bd60effeaf3967a6960fc" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/12/d9f354e9fb283e6f6be7d23b15ae0ddad6f5869434a285a3f1d6536438f1/mines_data_engineering-0.1.7a2.tar.gz#sha256=7b281dca3f37f945a00f245829d44abcbd06a273a5a0d6a42d0f5eb22faf3539" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/06/66a5c88fb95ae7d34c3ef94e6386b19f618e942ef4503c830927a7ecc912/mines_data_engineering-0.1.7a11-py3-none-any.whl#sha256=719df533a96cf82033917ff470cc2dce19ecf27962576e230ba9268ce6e601f2" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/d6/6c543fc99ba08b307438124461e68503b670f2e6e9957f1c020fe2fc7776/mines_data_engineering-0.1.7a11.tar.gz#sha256=9216b781603cf3053b330b48e5f562c585a29deff4a55770c4ed9afb4dc4fc7f" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/71/8aae85d302c119229e47688ab16946b6599d38bae4ebb7178571511f7062/mines_data_engineering-0.1.7a12-py3-none-any.whl#sha256=14e160f8bd897180f632d9f2a5807a79c9aad06188018badcbad354072b95753" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/c9/7dca5877c633c776c84fc195de5780f579d27cee705214f44a8864663776/mines_data_engineering-0.1.7a12.tar.gz#sha256=a25ee3f92cb8cacffb1001fe4cd24f02362971c205e01222c43d26b2534a7789" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/0c/30901d35bbdd123caafc0bc6ed9804cb55a1f4e170e0a6303e8a34608d44/mines_data_engineering-0.1.7a19-py3-none-any.whl#sha256=037a8b56570752fcd64987f86fd64470da98cfe50c8c8456ef93376788b41734" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/97/857f4e672f7c4c5ba03a8da0da2215a6016ac68675fd553b4c97b9876da8/mines_data_engineering-0.1.7a19.tar.gz#sha256=43798f8dbfe7af08e353f32938e51c54eb8bcf4e2ec40253f915928c4c236b26" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/3d/514aeb8af788536c2f429f434cf035120026fdb6194aee0960b35a07578d/mines_data_engineering-0.1.7a33-py3-none-any.whl#sha256=8eb094278303ac6bd5584ec7c9356d5afb3a45f93706daa0ae49719f6993bc72" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/72/2441d5e8088f0753ac96cfa0467fa472f67b30ead085ffa54b9f5cf8fb04/mines_data_engineering-0.1.7a33.tar.gz#sha256=cf1ed1ff375ca894a5fec9fc3ee6314def58eedc52390571842aa48a974fac9b" data-requires-python="&gt;=3.7,&lt;4.0" >mines_data_engineering-0.1.7a33.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16395087-->
+<!--SERIAL 17148279-->

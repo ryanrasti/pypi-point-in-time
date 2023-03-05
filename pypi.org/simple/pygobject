@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pygobject</title>
   </head>
   <body>
@@ -45,6 +45,7 @@
     <a href="https://files.pythonhosted.org/packages/cc/72/48cfdd7a0caf3c27f392d2657731ac6f7c3c1c0a60bfeba3e1ba9ffa7ba9/PyGObject-3.42.0.tar.gz#sha256=b9803991ec0b0b4175e81fee0ad46090fa7af438fe169348a9b18ae53447afcd" data-requires-python="&gt;=3.6, &lt;4" >PyGObject-3.42.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/41/d0/7eaebdca0723b267b96a8b7de2743cc223fbb47f651346b3e9b768acf8dd/PyGObject-3.42.1.tar.gz#sha256=80d6a3ad1630e9d1edf31b9e9fad9a894c57e18545a3c95ef0044ac4042b8620" data-requires-python="&gt;=3.6, &lt;4" >PyGObject-3.42.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/40/9afaeb8d3b453fb8596fcb6c7bc2b64e434868c91eda19955742778eff74/PyGObject-3.42.2.tar.gz#sha256=21524cef33100c8fd59dc135948b703d79d303e368ce71fa60521cc971cd8aa7" data-requires-python="&gt;=3.6, &lt;4" >PyGObject-3.42.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/c7/dc269e917cf11669ce0c201ed5d3970e96231185e32923eacb24f0297183/PyGObject-3.43.1.dev0.tar.gz#sha256=dca57b4e0d43f679fe7076dea175573be66cb9fb0a017114493f28a319c0ba63" data-requires-python="&gt;=3.7, &lt;4" >PyGObject-3.43.1.dev0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14455461-->
+<!--SERIAL 16601024-->

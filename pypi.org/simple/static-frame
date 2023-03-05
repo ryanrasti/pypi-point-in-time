@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for static-frame</title>
   </head>
   <body>
@@ -332,6 +332,24 @@
     <a href="https://files.pythonhosted.org/packages/ea/b6/8d650f03cf7e90caf401510ac9f5e522b72141aa604ca8dfae8e610c6166/static_frame-1.0.0-py3-none-any.whl#sha256=3b3c05d819f76b784186bc302de86be24fa800e923b6340f06c9b09961b9f88b" data-requires-python="&gt;3.7.0" >static_frame-1.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/88/e386f53712ee7804ce918a0f7ee7a71af37b14624dbaa0c96993eb314d2b/static-frame-1.0.1.tar.gz#sha256=7f68e81dd0f64691ce93a4d0fe3876873e3b77f25b3e5b5628d307ed2a64db89" data-requires-python="&gt;3.7.0" >static-frame-1.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/f9/9889125c610ba1eeef33f682758b9ec6f7281eda24723fc33d27ea9fc1ff/static_frame-1.0.1-py3-none-any.whl#sha256=46576277f0c5f4c29da6117befa8bb24b82bd5ce068fa6b557be7d755a2ea1f0" data-requires-python="&gt;3.7.0" >static_frame-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/c5/127df8d86fdcc29ff6005e3c0a083b89a34c49e4620ea852851ba97bb449/static-frame-1.1.0.tar.gz#sha256=c28808406f4bcc5360584cdc2f8cce932d9e76bb09ed89a2ed73089a80bd2fa6" data-requires-python="&gt;3.7.0" >static-frame-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/6c/b4cadafdd16fb58c1d451696e0b0933b7c64aaf6191f39e80eb848574ff1/static_frame-1.1.0-py3-none-any.whl#sha256=aa59f101a4402bbea9e110384a703a76426d3092094949b20e4688017be99af3" data-requires-python="&gt;3.7.0" >static_frame-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/16/6b7a15b9b1d18152bad03631e864a6b524dbb0cdd08030dee53bbf72c134/static-frame-1.1.1.tar.gz#sha256=3c6b17b8abdc69fe762bbdf509f86253fbea71530f53f027b97a3e4a0bbd7123" data-requires-python="&gt;3.7.0" >static-frame-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/36/3ff4d157319514318a1cd4ffb822e40e2923c602128723138915155fa97b/static_frame-1.1.1-py3-none-any.whl#sha256=a15825ea9efcc59eb79ceb08daeee57fd6c8a535d4a59cd37f9d5caf66f3b2ec" data-requires-python="&gt;3.7.0" >static_frame-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/4a/0e3c214b55b2de5a3f10b8ff67bbd296c6382cdebdabefd86c37feb63d94/static-frame-1.2.0.tar.gz#sha256=d99f22351996c6297d09604c1a81a2f7f61aa9f992b821740c2b6c1c22004f8e" data-requires-python="&gt;3.7.0" >static-frame-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/fd/4187c56eb760d7df30b97f863d1ddca152a480fb4df74544059456f148bc/static_frame-1.2.0-py3-none-any.whl#sha256=3a4dcf0d4938440150c3ade6ac0d3580c7be57ed8778e0a522a5a286b3d6334b" data-requires-python="&gt;3.7.0" >static_frame-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/64/c4abf06d7464dd1962857b44153166df090f8413fd6e87eaa0d5aea55ed5/static-frame-1.2.1.tar.gz#sha256=b88350d1fe5a2dffaf793fe58bf0a57d8c6a29d85f666d3b14c5db768cb10bb6" data-requires-python="&gt;3.7.0" >static-frame-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/4d/1995ef8e7b2758aff884b47f704a364949f3137a05e8d27c6b7316f8a6d8/static_frame-1.2.1-py3-none-any.whl#sha256=19635d6a27b7bfb84a6bf8b6f768232525081a977a94f9e5856b234b86bbcf7e" data-requires-python="&gt;3.7.0" >static_frame-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/71/31af1aa484e7578cbb508fdd2f8bfd5d51d63244db8aaea024af48647270/static-frame-1.2.2.tar.gz#sha256=4ce7de1f4e0a51e387fba08162013beadf25cf1df2ed4838db2bbba3fecfff1a" data-requires-python="&gt;3.7.0" >static-frame-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/74/6e6c99f8f9161ee605cbde91ab94c303859e999c5c4f206a032869937440/static_frame-1.2.2-py3-none-any.whl#sha256=fbcab5223cf8934588db06e4f05e969cf5c9d6ae97d596457cd6e8533b534828" data-requires-python="&gt;3.7.0" >static_frame-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/23/a92a0ababe76922268ba3dada223b152a90a71266a5c01ed02a2f97b94c0/static-frame-1.2.3.tar.gz#sha256=b39c56936265d6c488233ef988e3717d32cd256aa7e26cfaf1b05f38d7c581cf" data-requires-python="&gt;3.7.0" >static-frame-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/14/360568c1243bd5d387189051bd58d6427d2a5fea18edb15b8019c35fba53/static_frame-1.2.3-py3-none-any.whl#sha256=d60ae9204ba7203eaaacc53d2b612616d94e80737104811d8707e4ca76c08b1a" data-requires-python="&gt;3.7.0" >static_frame-1.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/6f/e6180141c4ba0c17db8b6c7bddc6a3b7f7c26493d88eccd537fa0e4c3e53/static-frame-1.2.4.tar.gz#sha256=52867de27d2d7af1f67f20454c5ec4aeb723ed69ce112a011ff4955d1aeb6333" data-requires-python="&gt;3.7.0" >static-frame-1.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/27/9de8bb24902a7539a405cbfd2698ff62d1dad77dad0a552bc9da931d5eef/static_frame-1.2.4-py3-none-any.whl#sha256=dd7821554cd33ed5e1283d41a68f17a93fa9f3ae584eb3b03a7269bde83ad1bb" data-requires-python="&gt;3.7.0" >static_frame-1.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/06/66a2d5ad4931b291c145e3b86ba570ea85ca5898b76e8c9e06e64b5b1715/static-frame-1.2.5.tar.gz#sha256=56740ff04c06ede5eb486efc542e56d439c0a651e7ea388b8fa6356432de2a5d" data-requires-python="&gt;3.7.0" >static-frame-1.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/40/ec1fcae516bf147ec9b661d77d8b7ff3427d65a2b64cb8a8b139be9f43be/static_frame-1.2.5-py3-none-any.whl#sha256=e2d3704e6b3b73ad970cd326ba06550cf8bb2c4c03a98f16939c517e3222a98d" data-requires-python="&gt;3.7.0" >static_frame-1.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/4d/5fb2f69d23263c639eaf74719c2e00add1594daadf7b072037ec6e3e127c/static-frame-1.2.6.tar.gz#sha256=29a61defc761f5a95183c0bf1d6c758ffbcf5654752c4a76161c455d1920af04" data-requires-python="&gt;3.7.0" >static-frame-1.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/53/31127292b01f9994de59feddbc505cca5b24b14eecc074e07f581bc156eb/static_frame-1.2.6-py3-none-any.whl#sha256=c8acbf81aaa0fb0c29fc47d29d16d39c1a56d0f0bab0c1cb2a932e31c547b12a" data-requires-python="&gt;3.7.0" >static_frame-1.2.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16378128-->
+<!--SERIAL 17114503-->

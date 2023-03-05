@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ec2-manager</title>
   </head>
   <body>
@@ -102,6 +102,18 @@
     <a href="https://files.pythonhosted.org/packages/84/01/58f56542a018e47470cf1cfbceeb1cd847355746ad5145682f8e9b3e0d25/ec2_manager-0.0.47-py3-none-any.whl#sha256=b0ace49fb8b54b304e7bb072401304c06775e43343dcccb309bc0c90336c44d1" >ec2_manager-0.0.47-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/a3/97de56b9decc91d48e482c7cafc2a00f342c26b172a57cb87ecde53cee8d/ec2-manager-0.0.48.tar.gz#sha256=ad5a9a6bcb64f0ca6054d64cc9ea15e12f200f46f72997c608e8625a7c2e8d54" >ec2-manager-0.0.48.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0e/4e/f3525541c39ae317019d1f7183b328977dff3d75b61b4ed47668af3a2c17/ec2_manager-0.0.48-py3-none-any.whl#sha256=5622afaad96d2d876d58a3d75d83dc45bd72ce7518c809fb30cee75fa76f8dd4" >ec2_manager-0.0.48-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/76/99e5bf38c4ac5176c75bb9ff3d5760cc118b0936da48393bc9b177a27e88/ec2-manager-0.0.49.tar.gz#sha256=c56dab1d4668fe86141dcc399d3d5ad653d5c441092cfffd6850f8e66cb1b94f" >ec2-manager-0.0.49.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/3c/54b18efad7024c48f6d7ae16011dad703acceada5d6f8c70f7d188bdd846/ec2_manager-0.0.49-py3-none-any.whl#sha256=a3d941d13ab1599367458063c45c3ff0315d053f81c4da181f0788ca63454782" >ec2_manager-0.0.49-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/9a/5da8fc314a7e2fafd95a51c3495c12564fa82200b801196c65fdd3f01669/ec2-manager-0.0.50.tar.gz#sha256=0063543946bda03597ece679cad2b68aaa72a3f99e4073286d396f76a2d26e72" >ec2-manager-0.0.50.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/3f/773101c3d14a59c9b89cd13ee403fb3a27a567520e73af8d4142b51fb6fa/ec2_manager-0.0.50-py3-none-any.whl#sha256=c2194f7915042e1c6d6fc1fe4ebfb0d3c44512072dd3b707b0753f7a2315563e" >ec2_manager-0.0.50-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/c0/ce899216851acba7913d0655cd027b00b4660d48759a4391ee07d35415c4/ec2-manager-0.0.51.tar.gz#sha256=38720e56340e87edba762fcc6cea88222cd9f055e2679f1844af5d01fa67299d" >ec2-manager-0.0.51.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/14/7e46838c16cd911879e35f4c270964dec1708bcdfc7ff8682f1a1cdd4bff/ec2_manager-0.0.51-py3-none-any.whl#sha256=d2b8903634d396b8ff513b8ec072a45a32ddd49cd063e7227d894739f651ac1f" >ec2_manager-0.0.51-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/99/02e930f25e6395eff0574d41c2ed8d5ccae231d577366427a13c4aec8d62/ec2-manager-0.0.52.tar.gz#sha256=b2a842f1783e8c706b25e8fcc58f1ff7bfd125c00f8af5211e61b2c784205b33" >ec2-manager-0.0.52.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/f3/44e3be8245e210f3c4f6e592a8e79e9915534a947e7bfa43e379165049f5/ec2_manager-0.0.52-py3-none-any.whl#sha256=b3e52422f9de68ee6fe553c7cbc9454719d8221abe8d7d897ef05d75a8f7e65c" >ec2_manager-0.0.52-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/05/88b77c18d641fc95757ed9a8ee71df69bf410840a5c4582458a934be9886/ec2-manager-0.0.53.tar.gz#sha256=c27f97b75eb8e4a6d4398dad278332c9d83a9d479e2e52dcedb77cedbebd2834" >ec2-manager-0.0.53.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/de/acd117233b2cab6d8335ae4462a1e6a3897f1b9bd4ca9a94e175cdd4532b/ec2_manager-0.0.53-py3-none-any.whl#sha256=c6bddccad6d480100e8464270b25fb543a6f062ec22789be55e8a46f9d873876" >ec2_manager-0.0.53-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/96/6e937d6d37b3066569b66ae056caa3c259f3aa6bc2349ba609167438a2ed/ec2-manager-0.0.54.tar.gz#sha256=658cce9a9390cc11d51a226c3f24102d10e7565bd737bb3d0d16276800008640" >ec2-manager-0.0.54.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/b7/3a6da98577518bf13ca39045f6109853f79b34c4315d9b82f907f5cab428/ec2_manager-0.0.54-py3-none-any.whl#sha256=dc0e0860c97b8626f6489950d6053d5a5eddc36a2ddb09c3bdb36a5bd778ca01" >ec2_manager-0.0.54-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16094931-->
+<!--SERIAL 16721534-->

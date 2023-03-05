@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pymdown-extensions</title>
   </head>
   <body>
@@ -138,10 +138,24 @@
     <a href="https://files.pythonhosted.org/packages/39/1c/4b0210d6adfad6a0a7ad37a1c9505fc248464c00434a798e45efacfa99ba/pymdown_extensions-9.9.tar.gz#sha256=0f8fb7b74a37a61cc34e90b2c91865458b713ec774894ffad64353a5fce85cfc" data-requires-python="&gt;=3.7" >pymdown_extensions-9.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/c8/73124eb6c23da3de1f579530625e4a6bcc0c507031b6bcdf361581f96fdf/pymdown_extensions-9.9.1-py3-none-any.whl#sha256=8a8973933ab45b6fe8f5f8da1de25766356b1f91dee107bf4a34efd158dc340b" data-requires-python="&gt;=3.7" >pymdown_extensions-9.9.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/a9/fc26e9bacc2a2fbdabe2b2ff384fe605ad508ad23298596f5660ad878dde/pymdown_extensions-9.9.1.tar.gz#sha256=abed29926960bbb3b40f5ed5fa6375e29724d4e3cb86ced7c2bbd37ead1afeea" data-requires-python="&gt;=3.7" >pymdown_extensions-9.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/70/0926b40d01fd2d708798994135f50ce02459499c36a25423b55901f7a7c5/pymdown_extensions-9.9.2-py3-none-any.whl#sha256=c3d804eb4a42b85bafb5f36436342a5ad38df03878bb24db8855a4aa8b08b765" data-requires-python="&gt;=3.7" >pymdown_extensions-9.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/6c/acf082ba18d1c91f75d38ba8fbc2dc97d782ce119739467e4529647809ed/pymdown_extensions-9.9.2.tar.gz#sha256=ebb33069bafcb64d5f5988043331d4ea4929325dc678a6bcf247ddfcf96499f8" data-requires-python="&gt;=3.7" >pymdown_extensions-9.9.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/19/af/3d3c603c953192b47e54691668493a3a330d50de06c7cbe79e2d0e5b2474/pymdown_extensions-9.10a1-py3-none-any.whl#sha256=ff2a1abd0a4f13b21e58ffccdc3c1526477479b82419198ac4329123f7dff187" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/21/51/9db69ca8d479599f1cd8eeab2247791e4db50bfa4a676ebe9b1d4015e708/pymdown_extensions-9.10a1.tar.gz#sha256=aa765c2ca9dbb98276a82d30678a00ad2eb7969e1f20b954fbb48a759421c328" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/fa/f4b16c351f3480cf7a9ac1c44313fef766383e298ccb20771577a50b8f43/pymdown_extensions-9.10a2-py3-none-any.whl#sha256=260ec32e582e566ec0883dc6c6bfeba992508e33ed2c281700f9aa3debef3329" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10a2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/81/ac123157c79e09c2e6a562cda2fdf96c74442ed8cd825c373617cf294965/pymdown_extensions-9.10a2.tar.gz#sha256=68f95d4378a9c604294da4e8428d8e6a0e66b465d1e2ab3967af9dfcae8962d0" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/37/ad7e3067be1f7ad47c234ce6e7f5e10025351ac82a3f596f6cfab43d24a0/pymdown_extensions-9.10a3-py3-none-any.whl#sha256=9019c214f38e3fe46eb3d4f81b6c2575b284328e665632a23b7bce5fcdb27ec7" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/30/e0731322a97165b8d292b08e9fa7e1aaade92541762b6604ed0cc8e58cd0/pymdown_extensions-9.10a3.tar.gz#sha256=1710de1b8429bc6f10e12e699e3b5012c57e6d1b39e60c8c12a4a794b4cf2b29" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10a3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/84/79ddce1f44389b9c86413129a8971fe864bf90a46deba920c361a264ae89/pymdown_extensions-9.10b1-py3-none-any.whl#sha256=a3d7c2ac7e333d146933e678f02bf462cb7960a326e78331341361fecc976203" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/f5/8908507c7c25f2ebb5d8a3b17e608309de235a6784c9dcf54a7b49676a7e/pymdown_extensions-9.10b1.tar.gz#sha256=9184983d19404330842140a2ebfd32dc393ac37f62e300fe21c1b7fc91eff6c1" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/ea/27c44fc04acb848732c6190157a08aff98659b1b2defe78572b9414f5112/pymdown_extensions-9.10b2-py3-none-any.whl#sha256=f1cc602409809387784c1a319d60cf02ae9a331a9804cf797ab0b6d14dbc888d" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/6e/1c5f263e82c1094ab1ad58df92e0c4ee27f00a3e33fc7e8d5ffad4a886ba/pymdown_extensions-9.10b2.tar.gz#sha256=364ac46f0f89008a2ddd690e3cf94878b378dba27ca30fbd4e56218b5b4841ba" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/77/aa36d89b8df66245f537672ffdc666f9d2db5a823e5f78d01a4daa336afb/pymdown_extensions-9.10b3-py3-none-any.whl#sha256=6378a45ec672d2a4a74fbbe924fffe8ab847e3267b9aed4b20702d4ce40c0250" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/0b/dcba30d0a7cf389751548e122b342901a4bd637dc20d05d44a05b3373b34/pymdown_extensions-9.10b3.tar.gz#sha256=a56c82ab4a6076815d07d32c25dfac201ce8e9ac660c94019f52cfa5676650cb" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/ea/e37475947706432b58dbdfa6d7bdbdc9e7d4d507889584b3260b61d0ad97/pymdown_extensions-9.10b4-py3-none-any.whl#sha256=954e8b59c029e5305708b2d5462dd9a36366dad01dd1ea6493b06c2daae593fd" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/98/5a104f09b45ce471d0261bafe4492b43da16ef830243b75ba34d937c23b3/pymdown_extensions-9.10b4.tar.gz#sha256=d283cde1cd9c98c50b7ae62263bb2ac357f91147bd64eb7b886281cce960d05d" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/8f/28ceaed63cdc4a54311a5aa360b76c232a5def976fadae06901bd1c57493/pymdown_extensions-9.10b5-py3-none-any.whl#sha256=bae9203cb007023b6e4bd1000272f42a0ed6f36c013fad08830efa0f27e83433" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/c2/ffe29644b26740d2cbf0b9297bdf9f9e3efa3abce8f38815acfe7f910969/pymdown_extensions-9.10b5.tar.gz#sha256=3e28d675fbd3d87a331d5e100bab161deae98e2cafd0f1031853e42fbcac8468" data-requires-python="&gt;=3.7" >pymdown_extensions-9.10b5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16393590-->
+<!--SERIAL 17122851-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyobo</title>
   </head>
   <body>
@@ -96,6 +96,22 @@
     <a href="https://files.pythonhosted.org/packages/bd/84/c26410483ea2e2c334b8c2d5f886e73889a163e7e35b25abfebecfa99f91/pyobo-0.8.3.tar.gz#sha256=d5b41ccac22bcfd5e59c78739e415e908e3863554cca820c0f92b8ccb220b986" data-requires-python="&gt;=3.7" >pyobo-0.8.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/43/1e/63b278bc52eee72ad6ded77b655c8759df17e53ca480df1a553ec4882808/pyobo-0.8.4-py3-none-any.whl#sha256=c8b783e890e72c1c1823857ea2b5634d3cdfc22094c3f87fb7e0825465d3157d" data-requires-python="&gt;=3.7" >pyobo-0.8.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/68/206716890440a05c654a2ab2aede06d4dd08aa9d957ef900c0d559b74776/pyobo-0.8.4.tar.gz#sha256=21c4d1e186e920b2363a11b4738f5ff5975f14f9ea3071d7e881145614aee4e2" data-requires-python="&gt;=3.7" >pyobo-0.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/81/2b548d606628a9d00ea605d3ffb688c4e3471f0ab98af9d9fb21ad9bb9b9/pyobo-0.8.5-py3-none-any.whl#sha256=a75dc26589ab5d944dfe510b089ff055f7149715aca1db41e42ef59308f4965e" data-requires-python="&gt;=3.7" >pyobo-0.8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/45/e0ebb2f888594c8b411de76767d268a9fd7898ea507fc81e13ac76944457/pyobo-0.8.5.tar.gz#sha256=72548d0bd187de3bb81d880b920f472756f8554dff7c3196222af8e376e5b580" data-requires-python="&gt;=3.7" >pyobo-0.8.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/b7/4a7edeb3b31142f809da292da249cc3c48803646500943cfe6325f35d947/pyobo-0.8.6-py3-none-any.whl#sha256=e3e4bb08172d5d4a285ad78b3d6cc8303cb0285e4080c51d2fae01d0f4d2a8d5" data-requires-python="&gt;=3.7" >pyobo-0.8.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/a3/819014132d64e14b54e1dda2dd9938e3f0c9741c31198f797f01cf5ea576/pyobo-0.8.6.tar.gz#sha256=b5dcd91c9cd4c498d7d4317e2c2380f4fe52116b040ac7ac30c5efb997d241a1" data-requires-python="&gt;=3.7" >pyobo-0.8.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/9d/690a44e5208f14c17a67a1e7bb0e99221fba463d33ac29d70041b78c9dbf/pyobo-0.8.7-py3-none-any.whl#sha256=38f5d714d62051f09bb96ef4e62f67cb37a083f998767233e273474bf0845e19" data-requires-python="&gt;=3.8" >pyobo-0.8.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/19/2f4f63985d75674fbdba5712cc22675e0b52feca8bba8a2bcacb5534c3b5/pyobo-0.8.7.tar.gz#sha256=87459f192fc7e7f970c96adc1580ac8228f38ea70ebf243af98ef9e9eb689436" data-requires-python="&gt;=3.8" >pyobo-0.8.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/91/8ab6ad36c166cb0d2dfb171e5af025d070433133848f9063b4da9d8656a1/pyobo-0.8.8-py3-none-any.whl#sha256=3c13233d937243080578cb614dddfa005480c7c69f6158469cbe3526ff7aedf7" data-requires-python="&gt;=3.8" >pyobo-0.8.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/92/43f3ca6be78ea81d78b692732138705887ab947bd95dc9426581b2769202/pyobo-0.8.8.tar.gz#sha256=14cb5f290612353e49c7ba8a28e8101e99610e4259155a2b11afd94d6dcffa57" data-requires-python="&gt;=3.8" >pyobo-0.8.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/07/a7073842e805ffd6666c239ec94d15f4cbfb22bd7cdb48f0c02116c21b4f/pyobo-0.8.9-py3-none-any.whl#sha256=7a7d65ecb98914a12814d56d081357f10ffa71aba0dd3786a0944e3c5cee86fc" data-requires-python="&gt;=3.8" >pyobo-0.8.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/aa/838ae791473fbcf60516168f450d6968d8f93ab7840033ddc1943ff1ac80/pyobo-0.8.9.tar.gz#sha256=cf89133068a34fcaf3edf39cc22ddde90262ae45c658ba997b589ba10f42e4a3" data-requires-python="&gt;=3.8" >pyobo-0.8.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/85/08cac2e071468c3fc798a087f4d66ee22a0b2275287e2ae015b92add9081/pyobo-0.8.10-py3-none-any.whl#sha256=d164abe8e4304869d07321f797a697e5ced2f6499add58698c28926e92f1fb53" data-requires-python="&gt;=3.8" >pyobo-0.8.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/70/d63c9abf8b46a7f0cae8271b0f6fb9fef20f63ef05096dade42c6ca06fdd/pyobo-0.8.10.tar.gz#sha256=61f615983c42080a474434f9f12b0bab1ec2ebde45f8209589243eadf1a41b69" data-requires-python="&gt;=3.8" >pyobo-0.8.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/f9/251925d98b75f5999404b80aa9efa2e6a3ea30c15efe6a8d27cbd71961b7/pyobo-0.8.11-py3-none-any.whl#sha256=f3b7e665e35d9687205e4362c06ab956e34d8638da2d34fdba2f0ac94131b139" data-requires-python="&gt;=3.8" >pyobo-0.8.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/78/051d75855d052c71d01e9d7fdf1f9e86e2da254ffda9c399edc1d3540f9f/pyobo-0.8.11.tar.gz#sha256=9ce250006280011ee84d45090b241e7feaf954d8a867d45eb5f9b92bd91f4ee4" data-requires-python="&gt;=3.8" >pyobo-0.8.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/f4/193acc1a02d310173a6940ec93498e9475644b5519312af72c9534cb8ba7/pyobo-0.8.12-py3-none-any.whl#sha256=e410281d535c5a581f0c16a093188d6848ed5de62fc366f291506b5d56edea7d" data-requires-python="&gt;=3.8" >pyobo-0.8.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/3d/c3f1fc9b5ac38b6bc7b0b82d6a6b31110da0e4ccafbfe1b89e4703860a01/pyobo-0.8.12.tar.gz#sha256=43a7c7d5ecff20de68201643f5513a6900fb19ada0a0a039be821c137bd097fe" data-requires-python="&gt;=3.8" >pyobo-0.8.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15711438-->
+<!--SERIAL 17025102-->

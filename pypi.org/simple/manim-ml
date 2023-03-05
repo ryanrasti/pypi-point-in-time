@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for manim-ml</title>
   </head>
   <body>
@@ -28,6 +28,22 @@
     <a href="https://files.pythonhosted.org/packages/38/de/7df14c039a26b79855523a1968b583ddea4f078965ac5fba3a3d16926f34/manim_ml-0.0.11.tar.gz#sha256=b6e8f8566fe467cdffd678a0a2d77865597b57cd079148e30c2f9806bdabe72b" data-requires-python="&gt;=3.6" >manim_ml-0.0.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/37/7d/6e2ae0af27327feb3a9df21f024a39adb37c32dc47da2f89010a2abdbcaf/manim_ml-0.0.12-py3-none-any.whl#sha256=a002f27ff687ad0509c37ce589430daebbb51ecfb42de9a76f202595b7da3f99" data-requires-python="&gt;=3.6" >manim_ml-0.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/1a/d8c13eaa5f68776b18579702fe0a030811f3ee0caee90384556f2fee93e6/manim_ml-0.0.12.tar.gz#sha256=12a78e3922c5d09bcf1345e9679085bc679006fba8027dc5e5fa021c7055fae8" data-requires-python="&gt;=3.6" >manim_ml-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/ad/8ee2f32ef966ad18ba7646567d3f0843af622a4b4130416e4a4fd741f6bc/manim_ml-0.0.13-py3-none-any.whl#sha256=6aa340b7e3334cf90814c4e20106e78cc536f905f6d110d78e5a1057c2a72ce7" data-requires-python="&gt;=3.6" >manim_ml-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/f2/e78aa67614a015735dfb0b2dd2be7d803023fe52d5102dffcc95869567c8/manim_ml-0.0.13.tar.gz#sha256=8c5598ce1a7d059451ab124ca59df74c8ea99013f125db915ea0e6fc93540ae5" data-requires-python="&gt;=3.6" >manim_ml-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/9a/0b279f253a4aa35eeb7f6f70b019df3405b479b2f68585807305adf6b3e5/manim_ml-0.0.14-py3-none-any.whl#sha256=c5b4f120e3efb2d5a81ab114f021247fb5659cf1c464e0a46748aa11273c14ab" data-requires-python="&gt;=3.6" >manim_ml-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/c5/012a5a7de9932ba4a07aeb33cdbc8d35504803d36a21a2b904b6977035aa/manim_ml-0.0.14.tar.gz#sha256=8268674d0d375cf0acf71a6003ec8bb1145f9aeb9a266ccdf136d3c092ab97c6" data-requires-python="&gt;=3.6" >manim_ml-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/d0/9cc4005f2d63e2818487ee1054f8b2c0ca91d804b671bc0bc31e2342953c/manim_ml-0.0.15-py3-none-any.whl#sha256=49bf2ab03e4dc37699cd9650bf09d53519a6fb8ad1052d919ad8e409057c67c9" data-requires-python="&gt;=3.6" >manim_ml-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/cd/cb5b79cd86aa25c60eb19a49272e6b9032ed67729be7cebc8aec78d3d18b/manim_ml-0.0.15.tar.gz#sha256=059f603d86983ce1e85206522e4ea74021c9d2d68dccde936ede57596a666a95" data-requires-python="&gt;=3.6" >manim_ml-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/ac/883cff4c23567d0d0925da1ffbcb3414e062fce7c1c91c96ad86047cc255/manim_ml-0.0.16-py3-none-any.whl#sha256=16fab2ed4e5d7a2b1834f30b9bb0465a866fcbd37cbb481334e05d383b574857" data-requires-python="&gt;=3.6" >manim_ml-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/9f/0ffc1351d9a7648ad2fb0f0dfc83bb4a170f540da833fb03de773942f0d8/manim_ml-0.0.16.tar.gz#sha256=77313acad8731a8feed744015e9fa0a8b44ef42a8b23c35976381b6b0f53cb48" data-requires-python="&gt;=3.6" >manim_ml-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/b5/aeae76c03a2fa439cb22288b6f250fb874026788e45132e7b7b71bfc27df/manim_ml-0.0.17-py3-none-any.whl#sha256=7cd30f001d7e162fa914490689c0ddf03213cf4d03f29f264e1266c15497a93f" data-requires-python="&gt;=3.6" >manim_ml-0.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/c0/1636c84634f95a05a6493ee11d59411ef74a1b00dfbd159297c20538e9ee/manim_ml-0.0.17.tar.gz#sha256=97eb6c9a28c6b28c773f951501eaa3c571968a32ad52c1b194597652c569930f" data-requires-python="&gt;=3.6" >manim_ml-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/98/d26b81c77dcdebaf8f10b72ec49742703e69fa05299226e553d4990869fc/manim_ml-0.0.18-py3-none-any.whl#sha256=5fbdc32082e55aa170f92ad9fe198d02ece8fe01d629561747c627234beffe78" data-requires-python="&gt;=3.6" >manim_ml-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/79/f6611afe8bbc3988febdb5572f4f38ae599f5320cedfde5f7549716754df/manim_ml-0.0.18.tar.gz#sha256=066f260e0856f5a8e17be24ae26494302f0346b794d96d118b597bbaac6a77ee" data-requires-python="&gt;=3.6" >manim_ml-0.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/95/9a2e919123f4e28aba7859cc98e31cb2e7db9c7a2b1bed5ea621aa7913ad/manim_ml-0.0.19-py3-none-any.whl#sha256=c63f5fdaf633e6576b7b757f18d1630bef8816196f0c4301d649e59f1057d909" data-requires-python="&gt;=3.6" >manim_ml-0.0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/2b/e0cfe8d9b8fc34100c339c10fb9db3f781168fd8fc9006c76930d6b86cf4/manim_ml-0.0.19.tar.gz#sha256=38398a288e485f51d0b0ceb3b6eabb7abdfcc332f8b1ed781024c9bd82566ccd" data-requires-python="&gt;=3.6" >manim_ml-0.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/76/69ec53054a3b808bc1b7fb6afa6bd5e7e36ed18306efce0c7ce9f8fb247f/manim_ml-0.0.20-py3-none-any.whl#sha256=4a951f2cdf6b8d99e1194d566af047deed7a69c3ba7793e7014a31621f994de5" data-requires-python="&gt;=3.6" >manim_ml-0.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/83/1dddd50bd555dbb9df82c446f04aac69377287218b5c09624db7ab65a666/manim_ml-0.0.20.tar.gz#sha256=221f4de5500e0c9b0df70c346468ed765511bc4f67684c8e4a919da8de3ad6e1" data-requires-python="&gt;=3.6" >manim_ml-0.0.20.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16268158-->
+<!--SERIAL 16702313-->

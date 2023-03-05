@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for wtlike</title>
   </head>
   <body>
@@ -112,6 +112,20 @@
     <a href="https://files.pythonhosted.org/packages/2b/21/172146d2ed819a21078404c987050a0e82f085373e1be97a9cb487651558/wtlike-0.7.8.tar.gz#sha256=c6e841d66a4ec09d2ac8c94e37ff3689fc1ec0a7376cf96fc75820168de6c6a6" data-requires-python="&gt;=3.9" >wtlike-0.7.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/9c/4bca67e64ceca47c5c16aa4195f516e660100f58f0d45a853a97815f8df2/wtlike-0.7.9-py3-none-any.whl#sha256=f021776a762ff1d174906513de3d7cb3c2ecc14954ab11fd1cbb5e5af8e5b572" data-requires-python="&gt;=3.9" >wtlike-0.7.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/32/d6/b59c4faefc49b924df2d1bb05283e02c61a76f47f7564d624c926e7f57f6/wtlike-0.7.9.tar.gz#sha256=72f0344611869fe45144e4674b302959696a379ffe7ac5db9205538cc2f290de" data-requires-python="&gt;=3.9" >wtlike-0.7.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/1a/bd2f2873a8e258fec8378b71d508e3124a4ba0e85dbba93c785014c53d9d/wtlike-0.7.10-py3-none-any.whl#sha256=42007c9414c6e5b4a360e8c977078d7c398defea7a4db726b836da19482d1d71" data-requires-python="&gt;=3.9" >wtlike-0.7.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/2e/0d5f2fb9b6a57b2e68b8317edf051df684bb2fa0d60efc19b2a12644c8a2/wtlike-0.7.10.tar.gz#sha256=aba380e78cd007fea0f166616fb96db4bdcdf4b583a300b53cd0d3aa908627eb" data-requires-python="&gt;=3.9" >wtlike-0.7.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/a1/1dbe0122a3dda9ae8041281efb8d4fd0b3da3f6679e421af5241398405ac/wtlike-0.7.11-py3-none-any.whl#sha256=8d7484a7ae69d2fbeb2908dd728b138a81a9bb5ea11241677c4ed6842acc4eb5" data-requires-python="&gt;=3.9" >wtlike-0.7.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/bf/2d9182b95f0bde9735eddfba248edd15d5e0dbe92883a55ddfff1f852269/wtlike-0.7.11.tar.gz#sha256=3fef8b9b87463b976d1f3e313eb86e64fe3dcd6ce4adfae376bbd2e90eeb729d" data-requires-python="&gt;=3.9" >wtlike-0.7.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/5f/821b9d057341df29eb22b3ce4bac66c1c7f6973929b5a88a42eb0e64ec25/wtlike-0.7.12-py3-none-any.whl#sha256=6f16be3cbf6e9399138d6086c3b5ee17101dedf5cb6014999ef307486a9f86cb" data-requires-python="&gt;=3.9" >wtlike-0.7.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/8e/bdf63a375fe1650c7f6929a06fddb276a242deb403322ee5a74998914d5a/wtlike-0.7.12.tar.gz#sha256=dcdbd40dbb159a054e769d692dd44f6c78c1aab4b6a430ebb53933ce60f8c641" data-requires-python="&gt;=3.9" >wtlike-0.7.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/03/058f4c8e25282d491c63468f31c19d5f569ab1550c0bff36b1c7f62b8a1c/wtlike-0.7.13-py3-none-any.whl#sha256=56155d0498bf7d6622c320ac53822fc55f2f7b494ad76065f7e64db3102c4ab2" data-requires-python="&gt;=3.9" >wtlike-0.7.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/c7/23d7b702632908aac3168f1ca873dcf1b42c337ef8d15313a6a10da2f9c9/wtlike-0.7.13.tar.gz#sha256=af8e7a31bc85d8255be84608686125f74d0a3b0422f564d4332f3aaea9897226" data-requires-python="&gt;=3.9" >wtlike-0.7.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/46/62892953c78dae3f8bc5d23a41f6814cb55990591257f3040bd533e1edf0/wtlike-0.7.14-py3-none-any.whl#sha256=7bef2bfb3cf77bb8dbc84d5e61a71396783d8b4ef1953f6b5dc393b433880d67" data-requires-python="&gt;=3.9" >wtlike-0.7.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/73/f81df3287ac8cc37c95876f9cd7a4e1c3ab4534c878997ebb6d4b5157faf/wtlike-0.7.14.tar.gz#sha256=baa154c47eeea31aad4c12a7893e67045763d3c989d73a413fe79a0220d4fce9" data-requires-python="&gt;=3.9" >wtlike-0.7.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/08/0fbded4c6e5a6080ac42bb13329061e2652444e3d302f8a4c12994dba742/wtlike-0.8.0-py3-none-any.whl#sha256=8ad406bedfbda0b406c9748a628896c8ba7548ba266f69bda0a147ccd241a39c" data-requires-python="&gt;=3.9" >wtlike-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/85/6e730b2e2fc738f61d8f921a0e9a1124dd2fe5a25f0d50c63aa16acbec5f/wtlike-0.8.0.tar.gz#sha256=5160b9ab392ed8495f21692129c12b90f3dcee7b7597f39a1d4c353bea14a0de" data-requires-python="&gt;=3.9" >wtlike-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/97/2f9bac5babfe1948df85b30aaa746bb19ec6bfb88723812ab7b713d190d7/wtlike-0.8.1-py3-none-any.whl#sha256=9e532511ba4d7e2807d2a20d683d09788a698939d064e0b9af5a345cdfc40aaa" data-requires-python="&gt;=3.9" >wtlike-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/e3/59d1256d69f88a9d821d72f38556a21191329e405ce8b50a5184d7ee7244/wtlike-0.8.1.tar.gz#sha256=bc28f2f0d6ccb2a08e2178109830e8b9d390471f144c3d08971347a383ec66fa" data-requires-python="&gt;=3.9" >wtlike-0.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16430086-->
+<!--SERIAL 17159113-->

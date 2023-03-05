@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gpflow</title>
   </head>
   <body>
@@ -72,6 +72,8 @@
     <a href="https://files.pythonhosted.org/packages/64/71/0ea5b0c26e63e916f245c009de1335433ba720797530dc3ec108da0a0fda/gpflow-2.6.3.tar.gz#sha256=df574feeaea18c15b2aa7b5b87e926b6644945043a249fe671dec8bbba5884e4" data-requires-python="&gt;=3.7" >gpflow-2.6.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/84/38/477983abf1aee4bbbbec5b77cd1f664a6006078fc557e30bd8fe5640d15e/gpflow-2.6.4-py3-none-any.whl#sha256=827944c1b2db5de324888b1c3e07ef0c8b64aba05da7720f81a9740cb11d4159" data-requires-python="&gt;=3.7" >gpflow-2.6.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/8a/dc126ba713b2a21f98fa6fcba2fd13b1ed2961b1719a11d30c4e73eb528d/gpflow-2.6.4.tar.gz#sha256=7a66dec8e3c0a2f9ea3244be5263f7bc86d8dc8935a67b8ddcd0db96fdc152a7" data-requires-python="&gt;=3.7" >gpflow-2.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/fe/825a716e62966d21a20a2576da7c3069112125087b87f27586c4aa698d7f/gpflow-2.7.0-py3-none-any.whl#sha256=aa8bf7334757df23c01b3d81bc7a98f6a2f27ccba362f34fac25a179bfbce703" data-requires-python="&gt;=3.7" >gpflow-2.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/88/616d27e48ee8765455dfe7e069ddd27c336639a1fbd52ef43cf8841cd467/gpflow-2.7.0.tar.gz#sha256=e9d3377c5c1e88367f96e14f75c88734ad3e5652575193aef3969f56d7979053" data-requires-python="&gt;=3.7" >gpflow-2.7.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15971798-->
+<!--SERIAL 16589631-->

@@ -1,19 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for docassemble-webapp</title>
   </head>
   <body>
     <h1>Links for docassemble-webapp</h1>
-    <a href="https://files.pythonhosted.org/packages/29/de/c95f2ad1704c1d40fce764bc968caa1b637f18e4ee96f93d0a4bfb10dfb9/docassemble.webapp-0.2.69.tar.gz#sha256=5dfe3ca4d0db8ab7377ae803dba70bdf1efdbafd6ecb4f1377d758a5bb140c8a" >docassemble.webapp-0.2.69.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/49/fb/803c2e1d854cdb931f9900c28674ff9d9129d6a6f65a39d11834bdcd58c0/docassemble.webapp-0.2.70.tar.gz#sha256=c44c3d4f6a06e658f3e0ece365033a3094d74ea55e0bfe0da7e232db4248cdcd" >docassemble.webapp-0.2.70.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/44/f5/4b30e2a3e46e16c92f65096cea7dfb0cb2b1a378032a35c2287776aed1b2/docassemble.webapp-0.2.71.tar.gz#sha256=07d358635eef00050afa31b7b66dae92b27d917f7bd39b03e07bc915bd0035ac" >docassemble.webapp-0.2.71.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/d4/e9/85f4d442705cc156c70156b67514577c56bf02e3bee4bcd44bbcb6df49c2/docassemble.webapp-0.2.72.tar.gz#sha256=c73681936574bb9f68610e86ee9358f9ad7bb470fdce7b0af0f36993b1ba5ce9" >docassemble.webapp-0.2.72.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/b3/d8/60e90e038b48bee387d16ff74827771e8c2b34d43589abc6b302a6d95f76/docassemble.webapp-0.2.73.tar.gz#sha256=910d69e019ba8e801e19948e2e853cac5c6f185cae13530442d32d016775cb7f" >docassemble.webapp-0.2.73.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/5f/a3/818c8c9ffea2cc63f91dec9fa22bf93fa78717a25ec9a0a521cf6aba20d9/docassemble.webapp-0.2.74.tar.gz#sha256=f9aed8ba1865a7c06d21f6202745bb7a90561e689605a440c34928da9478adda" >docassemble.webapp-0.2.74.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a2/c3/a8be035ad4ee8e3a81006e6b6dfb209b285539b0f0414b976c1f0c0a1ca8/docassemble.webapp-0.2.75.tar.gz#sha256=69177430b191b635160209d151ff61a8769a69edfca78be418f08baa378b011e" >docassemble.webapp-0.2.75.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/64/8d/155582279c049bbeb7b5358d040d501b1e67ae08cf807762a24d39ddb789/docassemble.webapp-0.2.76.tar.gz#sha256=88403db09da5a9f58afcd65044f383724987066677dc7c44e5e83699f34e013a" >docassemble.webapp-0.2.76.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/6b/f3443ae2bf4e84ad4d47b0bc442eaf680c3e86b83010e85b0b9d38b1d5ca/docassemble.webapp-0.2.77.tar.gz#sha256=a5013ac8e8807449f613964120b5e2ed8b7cf1099d486c7f6094b1910321e4af" >docassemble.webapp-0.2.77.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/d6/4cb1c4920e35ef6d83aec9d4cfb87e816389b3aebb216307e0d5b0657f46/docassemble.webapp-0.2.78.tar.gz#sha256=cc455f0542f2e77093acf9046a8a11c8079a59a78d2ba4bc11b3ca8682154b29" >docassemble.webapp-0.2.78.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/01/bb41f0d9d578ffd18a0b5a8187c31204ba9dea8a8ace7e17a498c321054c/docassemble.webapp-0.2.79.tar.gz#sha256=4edcfe9077c345d7be4c9921900c7d92a5a03d4095eb1670b63759f82a892716" >docassemble.webapp-0.2.79.tar.gz</a><br />
@@ -587,6 +579,20 @@
     <a href="https://files.pythonhosted.org/packages/16/a9/c26b2ea249630083d7dd1443f41e3d09425826bd93b1753708f729f1d3be/docassemble.webapp-1.4.23.tar.gz#sha256=8a4be7d8579e707f5499ec31deafa85d64c946ebcf47600a4fc38957c148f20b" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/de/3d/7798d4728fa79e493ad1acb087c3ca3d4b2e6fbff44a2a2ee17b1ebe6585/docassemble.webapp-1.4.24.tar.gz#sha256=762764e16f7548fa4bf6159e91f627f6e7744883c5f2387268e942283c8bd003" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.24.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/13/75/d62c9abaec445b84cf252e83f9a8432be10b498ac0873dacf21c8e7ad43e/docassemble.webapp-1.4.25.tar.gz#sha256=95fd6f4091a95dc6efe862bdace59e7f61ed50f4db9e20fa39a01818ff2653df" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/de/e2c8c23f98cb8115fea66f18add8d05b68d5584335cedff77c61b89ecc96/docassemble.webapp-1.4.26.tar.gz#sha256=42abce29bc33b6b6f50a47ef5710646f77e7fd7c9fd332d3eebbd87c4c2dc5de" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/54/130d75cf10f04061d572343d6d5150265aff1c1d02e863be44ba18027932/docassemble.webapp-1.4.27.tar.gz#sha256=ba57668cc169f40591c0e51aaf866fed152d6d3ccae4fb111ad984b0f6d9c2be" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/19/62d6652068169f104aedb6ae4b3f2826cac0cf577c7bd94f37761d33e835/docassemble.webapp-1.4.28.tar.gz#sha256=b6a4cdd60d2a910412543d124ec967eb65fbba3c73b74c5f5fe21476ae8f2a79" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/e4/fc2514e062ec6765873bc762d2c2f9b1e3c50444496715b70fa8e57d8cd2/docassemble.webapp-1.4.29.tar.gz#sha256=a9b13c27407f53337c7d5d283f6f75cc5636601130f0a1f381450b6227249e18" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/b3/15dd697c8d412eb5a8e491fe595519bd8543a187b02969b0545bdfac7bd6/docassemble.webapp-1.4.30.tar.gz#sha256=78cc66521ee4bc2636f4424ff0fc3fc114230152527e6e93295ba3e012b7a9df" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/d2/fd3c41ad6b2dbce229e61d276d7b7d1e177c2722c7a22c8e63ef706f69cb/docassemble.webapp-1.4.31.tar.gz#sha256=828d81772486fd45c16041b17f43911ea189fc30789cd987d51947ddcbaaafcd" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/45/84ec6038d02189dfd2d79ed064ae78b29aafaa0c63c88a45c85166e4f633/docassemble.webapp-1.4.32.tar.gz#sha256=b94d63483dd8a291e07a96e96f46584e5b05ab1fce1f8d4d5022868a3105b67e" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/95/2e8a8578f8741054182863cb5fbed9adfec03afb798f7980cc198f2da0a4/docassemble.webapp-1.4.33.tar.gz#sha256=4aab025cb26731ebacfa74039e26fc1eca1cbf3d9b8edb3236a5d93114967c85" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/51/726b9ede09563d3584dd687b830be01a66afce1182c13615099b3e50ad55/docassemble.webapp-1.4.34.tar.gz#sha256=deff013471afb0a0376e0459d48907bbdeb7df8a82aff4819a9ba48079877080" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/ce/c686357f299f6df3e447c2b88044cd6954dbbd82b5f675e5a15168c26fe5/docassemble.webapp-1.4.35.tar.gz#sha256=ebc85e58f78baa67d5330e50b5138711a5c2224686a4205bee2c84816f0f0d67" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/73/a8502b0ee7ae82979d950bb38559d27b55f9824857f9fe3427eedaedde46/docassemble.webapp-1.4.36.tar.gz#sha256=c856d7d68004c1413935d45aefb329e650d6bac2a937537ba61f616dd6579b75" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/0d/95651a4742acd561e3937597cde97e39d7f881a172ba3c0746d85a5ef11e/docassemble.webapp-1.4.37.tar.gz#sha256=00527cb3db927d1a10c3ad36f2039d7a82f24a7055ea43a21ad20228cd98f060" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/e8/c9e62910d271f960752b0ac5ed94a85b8ec016fa4e6623859cd31357741f/docassemble.webapp-1.4.38.tar.gz#sha256=e2b33dbac437bedcde054cd07112a2aba7749f46900ddbcada9d26fc8316ec07" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/e6/2dd647724faa915e5f897f725b1f971da3d38831101ac5e26379f79300f9/docassemble.webapp-1.4.39.tar.gz#sha256=741258b43a1ac311f6168784820f18822aa5469afd644db0c6733a9813d7d614" data-requires-python="&gt;=3.8" >docassemble.webapp-1.4.39.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16326798-->
+<!--SERIAL 16978028-->

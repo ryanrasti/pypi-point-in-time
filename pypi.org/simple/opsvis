@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for opsvis</title>
   </head>
   <body>
@@ -92,6 +92,16 @@
     <a href="https://files.pythonhosted.org/packages/7f/a7/d6946572e0541608ce590e79430618fad2ccce0a24b3a9f37e992bc19b5e/opsvis-1.0.20.tar.gz#sha256=428c666e644115b2e1f3c0780a3018baa835fb876938bcae192b0b7165d7205a" data-requires-python="&gt;=3.6" >opsvis-1.0.20.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/bf/2ed3185472934aefd218c8674c7e765cf22457b522a367f14c9f3c657a78/opsvis-1.0.21-py3-none-any.whl#sha256=8d75f869d010c41e548fcf924df572893f9172ad26a5c8b19501e4de4628ca34" data-requires-python="&gt;=3.6" >opsvis-1.0.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/ca/b46bad54b9283559345963fa6630b9a70c6e26c7ee73fcd4cd75c430b57a/opsvis-1.0.21.tar.gz#sha256=9435e9ae0884f243bb603a6d02bad36e9bc97f9997f10e0ee1ff3f592ebd908a" data-requires-python="&gt;=3.6" >opsvis-1.0.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/2e/79820ac2fca94b342a9220264b9e83e394b4d1830bb380f877908cedbd60/opsvis-1.0.22-py3-none-any.whl#sha256=f1b4f6d4bde001caa0ccab68abeeee692b6d5c342fbbd9324c06f0743f389963" data-requires-python="&gt;=3.6" >opsvis-1.0.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/f6/eaa8cc6f90163896d1ad96502d341b7bcbb7b11fa6a9b5f5724b0fe421bb/opsvis-1.0.22.tar.gz#sha256=47d66cdcbf780c3ca5207f0a4a262fb094a3fdfaceb524b55cda65c9453364fb" data-requires-python="&gt;=3.6" >opsvis-1.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/ed/99fc764fe898ce45514d68fa14e21286fea340d72291018d034edbffbe68/opsvis-1.0.23-py3-none-any.whl#sha256=cd6694bc3ea7ce89be577e74add2657b811e19979b9d697ab20a2adeb855a65b" data-requires-python="&gt;=3.6" >opsvis-1.0.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/76/ba5d66548390e23bfc619e758b56466cc089c12692e1819b4fc504aa7b02/opsvis-1.0.23.tar.gz#sha256=08e59a91b7d221946654bb1b399aca56a79cdca4c485db48f3a458f5e120d5a7" data-requires-python="&gt;=3.6" >opsvis-1.0.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/45/09f8a362092402daf35a7c2421b92f3d2a558a447aecf53b44c9a84c8958/opsvis-1.0.24-py3-none-any.whl#sha256=c9eb11754e13428a564f7dede12e20b7b2087a421bd0f67665f4143cb1f9e8a6" data-requires-python="&gt;=3.6" >opsvis-1.0.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/dd/d3cef62f20d5adf8df9cc46776101f17353397e0c968ff9a772054ed02ea/opsvis-1.0.24.tar.gz#sha256=8e9e1d6708ad5ea198f0f9cce4c24d4201feab0271fcd2e494562bd2640b6e11" data-requires-python="&gt;=3.6" >opsvis-1.0.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/ad/069b9da6c7bfb93ed71350051d39f2beca43c8d369d59f5dbbd47c4a4cda/opsvis-1.0.25-py3-none-any.whl#sha256=071233b02beb83e071f8c344ccbf89e683d59f7e2dc157de12bab3b1465bbc26" data-requires-python="&gt;=3.6" >opsvis-1.0.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/f2/103cf89c6497b0acba5fa44a4d180e0344db33a85d360345d4c223b8982a/opsvis-1.0.25.tar.gz#sha256=fc4b842be3976e7ea2ecd0379d0f5c2029b4dea7b720140c493a0a816142770e" data-requires-python="&gt;=3.6" >opsvis-1.0.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/14/2d884fdbe1ce2e4ecbe50771f6e4e7f2ca64fa8b837b3d2846c992e5d050/opsvis-1.0.26-py3-none-any.whl#sha256=3c2ab976f9ae38cb72fed15e5c1bd2a003235d7d8eeb0995b5d56c83f4263af1" data-requires-python="&gt;=3.6" >opsvis-1.0.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/89/bbbb214fa59127e4628d556c1d25642186e8579a0ca7cadc7dfa7bf51e03/opsvis-1.0.26.tar.gz#sha256=d3d53177d80a318e7221290f5dafd85a148c2389aea836d029a998f404c35d27" data-requires-python="&gt;=3.6" >opsvis-1.0.26.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15668558-->
+<!--SERIAL 16939327-->

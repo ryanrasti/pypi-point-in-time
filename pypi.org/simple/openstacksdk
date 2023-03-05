@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for openstacksdk</title>
   </head>
   <body>
@@ -216,6 +216,8 @@
     <a href="https://files.pythonhosted.org/packages/be/7b/5d56990b7f746af2574b30cc6944c8bff1d20185cff2db8ad2bc083bbc5d/openstacksdk-0.60.0.tar.gz#sha256=aa6efead2ac116482f29aecc2c14ba3b4c76a6f8dede93bf296a2b65492ef420" data-requires-python="&gt;=3.6" >openstacksdk-0.60.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c2/31/a3501e87efc4ad83ab998502d681dde5fefbfe7d75225cabe268f815dad6/openstacksdk-0.61.0-py3-none-any.whl#sha256=9894d3d510563dcfc50c4755287dbfbf98def1f37caf2cfc15e9d0e1fd5d9a41" data-requires-python="&gt;=3.6" >openstacksdk-0.61.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/88/48/06ff537795ca78dd51c15d0dbfba6b2fd538f02b9b2715ba264e09d7d4e6/openstacksdk-0.61.0.tar.gz#sha256=3eed308871230f0c53a8f58b6c5a358b184080c6b2c6bc69ab088eea057aa127" data-requires-python="&gt;=3.6" >openstacksdk-0.61.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/ba/d1ff2f74ebdbfd45f24b1b443f919ae30451956405e031082c4599c98a78/openstacksdk-0.62.0-py3-none-any.whl#sha256=7394cc7caf5ee9f83d9fcd966e342daa98c2bbe71f97f01f2c9105c0af1807dd" data-requires-python="&gt;=3.6" >openstacksdk-0.62.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/56/24e81127c3ff6d6a8928da12be0ef563ecc91e8037de5955433f0a99324b/openstacksdk-0.62.0.tar.gz#sha256=4c9d5d74f93760d598cea738ae396843b083e92c6b2853378034792ceee306b4" data-requires-python="&gt;=3.6" >openstacksdk-0.62.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/27/feb1a0bcc632f82a7a21d7fcef0caad25a9ce2d9f93d2a552f25f8ee0449/openstacksdk-0.99.0-py3-none-any.whl#sha256=2c8af1ff416d33e5c3f184a42f2088808fb3bf4f9560b7682d31ec94110f6a16" data-requires-python="&gt;=3.6" >openstacksdk-0.99.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/4f/e6c6c8b755ba1cf3deec6d7f0d643fc7fd180c731e1a40b414a80aaaab59/openstacksdk-0.99.0.tar.gz#sha256=3f73c3cc28089e93b342eb7f348b285f5a65ffe505898be15db250c75bb855eb" data-requires-python="&gt;=3.6" >openstacksdk-0.99.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/35/a9/c82dce07b20cbf9c234e52a7c94bb2aa2fdac502bd3632f661f9b10107ef/openstacksdk-0.100.0-py3-none-any.whl#sha256=310f319a04ee1bd99684805ef2c9a8c01d75568c03085a97089035495e2bad7d" data-requires-python="&gt;=3.6" >openstacksdk-0.100.0-py3-none-any.whl</a><br />
@@ -226,6 +228,10 @@
     <a href="https://files.pythonhosted.org/packages/ab/bd/f784962a2fe463e036b9159b98c5df0731a03369c3f19543507bf3499871/openstacksdk-0.102.0.tar.gz#sha256=b2a18feba79eac2ac3469c8dafe01d4008c8ac30be3a4c6b53275b4f1c6ba2ad" data-requires-python="&gt;=3.6" >openstacksdk-0.102.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/15/cd/2b0d6abc31cab37e07dff0d2d28489412e2fc32867fa9f6fd5276eab2909/openstacksdk-0.103.0-py3-none-any.whl#sha256=838486f47cf5a2b52c8bdfdc0b42b7203319deb2420ae208b8add3c02f9d62f4" data-requires-python="&gt;=3.6" >openstacksdk-0.103.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/bb/91f8f5f8882a8909ffec033003a8f2bb08d7354c7d214929ed4c6e296e00/openstacksdk-0.103.0.tar.gz#sha256=4f9f118986603967435f3976b3e059950a71bd8e41a8316cc8afb2d9668a0741" data-requires-python="&gt;=3.6" >openstacksdk-0.103.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/58/8561591c6b57000e913025cc003754224645f9697180af5a9f8c8d9a5cd5/openstacksdk-1.0.0-py3-none-any.whl#sha256=bba32de357f4e9523a2e710678d28893d068b757d0bb0832016efe8a0c7fbfa8" data-requires-python="&gt;=3.6" >openstacksdk-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/34/83a6dd5c0b954719fcf68be612e64617a8e78a216930b56820fe45ffc36a/openstacksdk-1.0.0.tar.gz#sha256=cf6bd519e301f784bfe756c1f937f8ec1caf3fd0564354f3407a45192f0547cc" data-requires-python="&gt;=3.6" >openstacksdk-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/6a/4ccad9ec11d3c00ea900bf25a1d4d7b36138c7f75bc05e7f3fec9e1abe23/openstacksdk-1.0.1-py3-none-any.whl#sha256=b433bc3d22d6e645a653b0d48919b36bec033081d5d89daaa5d6800a0935e990" data-requires-python="&gt;=3.6" >openstacksdk-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/47/76d19285d0f4a631c1b01bec39f4cccb7fc613d23bcd5a2785012346a290/openstacksdk-1.0.1.tar.gz#sha256=365e5dcca64e16e74a4f9f9d2a1f2207970e946d9a5c482549cfa5ec02ca2c98" data-requires-python="&gt;=3.6" >openstacksdk-1.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15879270-->
+<!--SERIAL 16840536-->

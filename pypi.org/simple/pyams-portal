@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyams-portal</title>
   </head>
   <body>
@@ -108,6 +108,34 @@
     <a href="https://files.pythonhosted.org/packages/e3/df/3b86457f578fa27136142112796a1102b0794ac9332a426f9cebe3a26907/pyams_portal-1.5.2-py3.8.egg#sha256=ab5bbbb8167a23c53e7a4b765d189eceb41276548cfeb22613992bb6ec9d8ae8" >pyams_portal-1.5.2-py3.8.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/3d/6e06313b00c57c45c70eb05de981fb996f99b3fbbd74a8c437cf784d4714/pyams_portal-1.5.2-py3.9.egg#sha256=ced68b458122908617cbff5f0b8e5365f7ecfd182f862f49010ba6c8e2e1dff9" >pyams_portal-1.5.2-py3.9.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/7b/dc5c78573341a6647a569a8ab676f854e3c2c5de484326477812b5ea3baa/pyams_portal-1.5.2.tar.gz#sha256=df857c519868312661e340d2156877b784b19e41e90b9b2e196086a0e65ddc2c" >pyams_portal-1.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/3e/620bf3098f00b419fbdf00d8c500135d836861ff5cbd50f5925a1af77b10/pyams_portal-1.6.1-py3-none-any.whl#sha256=7e328f75049a0cbd06064b1297069b15bf71298d6c095b0d80100156554cd1e4" >pyams_portal-1.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/0b/d79d67d6dd0a9a679b9f16d5da20114c971be19e099ce5ab0dfb62aa096d/pyams_portal-1.6.1-py3.10.egg#sha256=8419b837ac93934fe04fb5572ca1abaf258ac6310c27b2b4fc27ff6278cda82f" >pyams_portal-1.6.1-py3.10.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/af/efd9bea2d6a68779e1e02d0a07f9c77da02bde8bb802f1acdad4b3adaad2/pyams_portal-1.6.1-py3.11.egg#sha256=f101d424fc1196efd23a5db6d2f679bc30e06f994797092a032d89b20c368231" >pyams_portal-1.6.1-py3.11.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/96/f4821efad434332141c1ca08a9cd4c31acb41a9b1dc9da8d78d0e84a364e/pyams_portal-1.6.1-py3.7.egg#sha256=f239a407fb1861566bdeffd10104906f1f0a6a99d9c57756030be769b237befd" >pyams_portal-1.6.1-py3.7.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/06/5f8280981f2d0e57e6391b205fe2f1bcae8d421a02b6fa1e618312094307/pyams_portal-1.6.1-py3.8.egg#sha256=8153f369c1218f29609e3b9203e468742e9c17db40b101fdae06c9ff512b598f" >pyams_portal-1.6.1-py3.8.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/5c/5b58bae00ae7c15931acf54c949fbb3db1d2c408aabd31c01e4ada17d526/pyams_portal-1.6.1-py3.9.egg#sha256=7921f0269a254e904dca868d7d7b4304232bfd64746c2f977714a252dc6d7979" >pyams_portal-1.6.1-py3.9.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/79/7a2c473fb4ef171987985b694fe2c424c70baa561df8a4896580de0d8169/pyams_portal-1.6.1.tar.gz#sha256=8e07a7c19f87cc9cd4a4f91ff7ea96bab81139559fc18bc287e48977812bc4a2" >pyams_portal-1.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/f4/d2afd4bf8a2b22bd47c9f6a0e50cf4575270bfa89b1fd1edf589b122b531/pyams_portal-1.6.2-py3-none-any.whl#sha256=b2339cc404640619754194696836a382c5553b47808d453e03938285cb9a48f2" >pyams_portal-1.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/32/bb51cd26c234f2aa02dc4259bbcdc16896117a850c26d58ea07de859a7f0/pyams_portal-1.6.2-py3.10.egg#sha256=b2c3ab67e064916d0c0647d075446d2e18273f80d19137a4493d8e52f32f4e2f" >pyams_portal-1.6.2-py3.10.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/d6/bc057bd8049e174a1069a1a82a0fb257fcbe284c7c0671f936d763b6e9db/pyams_portal-1.6.2-py3.11.egg#sha256=f23ad6205bfe371875fcb322ebde4cb7b039923a6a68aee2103cebc5f2048c4c" >pyams_portal-1.6.2-py3.11.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/11/c92ef300c7b7b3bd05e0f288864def38cd6a3479e7782825e6f330f6aba5/pyams_portal-1.6.2-py3.7.egg#sha256=9846c2e1838556ec6b1671ec77a95fa76256633426ccdc9176ae605547fb96e6" >pyams_portal-1.6.2-py3.7.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/70/d5d9f014bd45a23abb0f668599028bc7e5b405742ecef0f45ad0ba0d4677/pyams_portal-1.6.2-py3.8.egg#sha256=ca5f3f8882ce7cf5ad5113acfbfb18d1a3fb5d4893f238135c5ed90629f51392" >pyams_portal-1.6.2-py3.8.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/49/69e96a8883a0514d9a0e74972986f1ccf6c82fbfe1c1ee1a74e697e8480b/pyams_portal-1.6.2-py3.9.egg#sha256=d5f83d135cdac1c93e61a35d0fab45cb0992e2791349944a521d07f45b7a638c" >pyams_portal-1.6.2-py3.9.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/f2/ae31aa92a185f231f2d0c0cab2a0d19b99967789e2879c60a4f863f7917e/pyams_portal-1.6.2.tar.gz#sha256=d3aeed4b4532b86afe36983a8c35151910ec60e45844f478cb8636a91f067ec3" >pyams_portal-1.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/9c/d2c754b733fea013847125b7644544063d70e1ca726bd85d8123865c5796/pyams_portal-1.7.1-py3-none-any.whl#sha256=931b39577d5bc094017e480918d5dc719208311ca0f8afc9dfd0ac3c74469a73" >pyams_portal-1.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/cc/64a3457e334861421a220e401f2f73e9e103cbef06a16b3131afb3e64536/pyams_portal-1.7.1-py3.10.egg#sha256=1b6c18eb45ad4c7be1224bd7eaa46f9657490e3b900b4467d254b9d6641e224e" >pyams_portal-1.7.1-py3.10.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/28/002204dca5f3cd1763a4671235f738e1764b0ac1998a3934cab67ab12a34/pyams_portal-1.7.1-py3.11.egg#sha256=79356fd457b654077efba426d78ba8c662bcbbf2827796072a643c3731e37da4" >pyams_portal-1.7.1-py3.11.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/81/3b5a134126f75cc721f64ca19e2db1c683c8653eb7ef324115668f06ba22/pyams_portal-1.7.1-py3.7.egg#sha256=d6036c9a835b618ae0a88c80e6bd9b6880877d8d47badc3f525df156e3a247aa" >pyams_portal-1.7.1-py3.7.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/11/fe2aa1ee82a00c6bee17e536409179c93a074fa1189f1d222131faf0984e/pyams_portal-1.7.1-py3.8.egg#sha256=80091303394a194f683190d87d0bd139698cefab9eef7a591ba625428a56143d" >pyams_portal-1.7.1-py3.8.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/ba/f5c4370eb9f5416abb99aa9715f8becc128a724e7552bb36d894763d2282/pyams_portal-1.7.1-py3.9.egg#sha256=dc2d175c219b669ca6ed22e7aba72ca30c212309209a6e819bc7353d38cf1112" >pyams_portal-1.7.1-py3.9.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/87/aad6d1c8c3dbefa3c4d5e6695d6363dd3da00aa4471874f8d3a08ec5f8ec/pyams_portal-1.7.1.tar.gz#sha256=f869d536e11e243ad229e563c936a74ecfc384664fca51c8cdcec7ac0f93a2bc" >pyams_portal-1.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/dd/d3115377cf28bf146a96b80e146541d212169fe093f56e41a53ccf591167/pyams_portal-1.8.0-py3-none-any.whl#sha256=7cbb220a5684b5b136e8a8aaf1593989d1422e91488741b318cef6bcfdd521e9" >pyams_portal-1.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/82/1544e3d9bf6ae30828de991ff9d480ecb36e46c618046cc9e1ecf37119fc/pyams_portal-1.8.0-py3.10.egg#sha256=de301774bf28c0c25ff65da848cef75ce348fe1738fa4c352dc9f15c92d702ac" >pyams_portal-1.8.0-py3.10.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/3f/6419e35bbbdaa5e24f54b5d8d582ed4a765df082f3d0c46458ffe8080855/pyams_portal-1.8.0-py3.11.egg#sha256=2311b785cc9fe8bc4c1cea257dde8de09f484daefc88a63f6d896a26f448a200" >pyams_portal-1.8.0-py3.11.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/3c/7dca7a1e30fa73b590919a0c7d911917ab9d8b86f9e5b4dcdef31f20d525/pyams_portal-1.8.0-py3.7.egg#sha256=9517ce3cd145a5168ecad59b858d78c3da97705a8cbab44bcdbf6092b38b3bbb" >pyams_portal-1.8.0-py3.7.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/28/c573fdecc43e8b06030925c4651cae30b504fba28521dee674a9050db471/pyams_portal-1.8.0-py3.8.egg#sha256=e9257551e3080e520b22b1ada97aa5db79432bd3fd2ae20402847ba2aee8f4f8" >pyams_portal-1.8.0-py3.8.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/0f/15e6c5466e07b6cfcb823f4bf399419f698d7230719d10deb20b05d763dd/pyams_portal-1.8.0-py3.9.egg#sha256=a185567e9071ec30c6c038cebcc1567391425bf6bc675cdd6246e3f0a061e613" >pyams_portal-1.8.0-py3.9.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/f2/30d1314041957bd4f73c2c24c1bcead0679bcb436fc373e9314ebe3ddecd/pyams_portal-1.8.0.tar.gz#sha256=9235c89b595f3ca2ce2209bd1750010967f8cb98c25614672555da7bfb1d95d6" >pyams_portal-1.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14423465-->
+<!--SERIAL 16713216-->

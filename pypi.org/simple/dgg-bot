@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dgg-bot</title>
   </head>
   <body>
@@ -28,6 +28,18 @@
     <a href="https://files.pythonhosted.org/packages/89/0f/6c625c0ae232ff8f3b88ac55647cfaa98fe9326ae72012c3fd62024188a5/dgg_bot-0.3.1-py3-none-any.whl#sha256=9fb7447896760ae20b70d9d07113bbb37db50fe115af8e8d9db21866ac8a728b" data-requires-python="&gt;=3.8" >dgg_bot-0.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/74/32c3daae40a783a40efc0ac8464ed2139393ce063711337061ea0d65b259/dgg-bot-0.5.0.tar.gz#sha256=e8a29d2089584096cabe536611b6a4f7c3f02da7dead477674ca41bd93217827" data-requires-python="&gt;=3.9" >dgg-bot-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/af/66/2b50876002a46614d46e7e5a63bd347b90372cc4ac8d82bd5c06a1a7e9ac/dgg_bot-0.5.0-py3-none-any.whl#sha256=7970c57d20710b5c05a94ce70c91486571934ce65edd725206b408bc4660d910" data-requires-python="&gt;=3.9" >dgg_bot-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/8d/848f3197fd0ff54cdfb2a98f6e48f7029e0ac2da9708c99b660e72b8565e/dgg-bot-0.6.0.tar.gz#sha256=1281bdb4c4200b009cf2942938f7bfadd0edf9cd5adc48a7703e9037854b1269" data-requires-python="&gt;=3.9" >dgg-bot-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/50/099b2e36a3e5b8c59cb21b4a3067863167fbd2e8d2e0de14ca29fc08f380/dgg_bot-0.6.0-py3-none-any.whl#sha256=35b2f61ecf77d1ca6beda562cbca148456919b7a363ae48f2f795e2ea6ee31ba" data-requires-python="&gt;=3.9" >dgg_bot-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/73/04dcecf050837dc9d21198a0479a0ec9c2f1d827e270ebfe49a174055015/dgg-bot-0.6.1.tar.gz#sha256=6dc443d9b240f458576b86b2333d15109957ea32955cb69439687e91a8c5aea0" data-requires-python="&gt;=3.9" >dgg-bot-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/0e/696aec746d5f879c997c619d0bc0e6d9772891b21a63c33b4ce4be406394/dgg_bot-0.6.1-py3-none-any.whl#sha256=9f49cb0026f6bdd4c181c18759958f10adbc962025d8c741625874c35a392500" data-requires-python="&gt;=3.9" >dgg_bot-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/47/61069f4a07a86b51d33dec7a969de20f71a6b0f8212fcd9b5efb215b12b8/dgg-bot-0.7.0.tar.gz#sha256=bcc2668a0557448b5c23112b6bfc14b42a195c595f48b97a82868aefe98d4fbf" data-requires-python="&gt;=3.9" >dgg-bot-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/99/d88539a24806643f4987f00cc6a0a2dc0e9bdb3b1efa1c724993efb9c57d/dgg_bot-0.7.0-py3-none-any.whl#sha256=8ab916b69242f74b2767b37630be4d50152d65d99506ebf3ad9800a09e4dfcf7" data-requires-python="&gt;=3.9" >dgg_bot-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/f7/b35f8cbb15f91cb7baa1800d5bad5ee8fa4f64aabae36e9f2362e3bb3804/dgg-bot-0.8.0.tar.gz#sha256=9f19a93a1726302a74fbd7250e1756960c829794fdb17764989764398d57ba41" data-requires-python="&gt;=3.9" >dgg-bot-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/3d/1274f93390dc39eec6601d272a92308cf7be0be47370741eebc5e49aa088/dgg_bot-0.8.0-py3-none-any.whl#sha256=fcf1292f0659eb73edc209f8e32255ab47e0e4c1d828ca17deb805157e55c4f9" data-requires-python="&gt;=3.9" >dgg_bot-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/92/d6ff8b5921a8ba2d24c26824a056ae7fa10027663bd7d0170a8077bb5392/dgg-bot-0.9.0.tar.gz#sha256=6faa89cb813e9a1f2edefc0a38687111e9151d897b6316402f52afc0f10a51d6" data-requires-python="&gt;=3.9" >dgg-bot-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/30/c768760c969e8bf6e62311080df554a08c0e9ce2a655a082ab41ec243a41/dgg_bot-0.9.0-py3-none-any.whl#sha256=4f0387ba6d1577f9942fe5c4afcad4a4acf161f11f5e2d17c48be2184b8ce7ee" data-requires-python="&gt;=3.9" >dgg_bot-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/26/1dafd4ce0b15c936459c0858f49a697526c176443c2745a506edd0e343df/dgg-bot-0.9.1.tar.gz#sha256=6f4ed7498ad5254a59c208f91f1a0a4f20c9b5eeae57f1ab9e0dc9e27dc071de" data-requires-python="&gt;=3.9" >dgg-bot-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/6f/34e80523c5067c440b1cd5f5763b313dae3e426b1305b6d60bbf54d1ecad/dgg_bot-0.9.1-py3-none-any.whl#sha256=27b2b424dceef6cfdcd799f419afa0d9c15ef14ff95bdecb2637d34fc6ac8785" data-requires-python="&gt;=3.9" >dgg_bot-0.9.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16392008-->
+<!--SERIAL 16869723-->

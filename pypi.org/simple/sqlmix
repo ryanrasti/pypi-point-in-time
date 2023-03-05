@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sqlmix</title>
   </head>
   <body>
@@ -11,6 +11,18 @@
     <a href="https://files.pythonhosted.org/packages/a8/55/16f10a2d6a3055eb24572bf3550c7be553909f3c6f4d192bdab5917d201f/sqlmix-0.10.7.tar.gz#sha256=c56b202e451b621daf56c153aaf6833faa4f428f863fff383168bfa0078d5415" >sqlmix-0.10.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/0e/58200eb858db3d338b75f3e62d4eb758d43bb4410a74ded58413ff1950cc/sqlmix-0.12.3-py3-none-any.whl#sha256=3778e4eabba7e18a87b805b33b834e667dd6f49f78bff6686c56337c5f5c8a6b" >sqlmix-0.12.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/94/43/43f8d6064216685648eb99fc28b54a36d8595090e674d91946ffe56af38c/sqlmix-0.12.3.tar.gz#sha256=3170e8bbfcebb88909153f11ad98edd5e36154d813c56c2a28e9f12ca3e7dab0" >sqlmix-0.12.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/0d/6ffbafa1ae9b9d62b320cdf23d52393fe269a18d9f7f5e4c8510239a6602/sqlmix-0.12.4-py3-none-any.whl#sha256=181d5315178e535dd4372ad2d0385708380ad7e2eef852096d5d67849190f869" >sqlmix-0.12.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/e1/e2c68c2fb54c83c7f6816e38d746f41e97e67032fa503ce45dcf53c87c61/sqlmix-0.12.4.tar.gz#sha256=40b8c3519aec1fef051bc0d7e6428ea8bfc616f57818444723ea672d16bf25ef" >sqlmix-0.12.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/5d/b48564be3c013bf0ffbfe079705142e85be3041c18624d1c6d2f162f6000/sqlmix-0.12.5-py3-none-any.whl#sha256=cd5f08f981f43d10916885414a90c449ad2078a520cc14dda42acfa2d7480ac6" >sqlmix-0.12.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/8d/7bab2db46e301fbe542c1f8a9c573ed0b155bd494a33c64232e5b286e0bd/sqlmix-0.12.5.tar.gz#sha256=9a53113d7b6c87e7d1bdd4b9dec0b5250b5354ae5c071cbd87d3b52e0754380d" >sqlmix-0.12.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/02/6efa28b6547c53d37b86df0691b02d2514600e6ae2ca2a5041c72933e934/sqlmix-0.12.6-py3-none-any.whl#sha256=e210fe37e89d6bd2396a1d46ae5fcf42e60360184d9cc0c6b45aff27ebda5315" >sqlmix-0.12.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/87/b5ce904d3dfac8ffce8052f9ca3fe6eeb0e6c78f955f4d4cdc708d38fc97/sqlmix-0.12.6.tar.gz#sha256=be319cd24653e09bee16b98dcca38caf9ffe3243ffa8f1936252557a57e8e2f6" >sqlmix-0.12.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/b4/acabe490a64f28321fe2999f7a3b91725de5959bde2ca3b7c345329da054/sqlmix-0.12.7-py3-none-any.whl#sha256=2c4d1b1b5ff5cdb785e68aac1661f5830d5b56287ebd949a18a55e38f3548bec" >sqlmix-0.12.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/5b/bb92dfa36b82253069d712615a4a84b5cd134f870db797d97f796674bb7e/sqlmix-0.12.7.tar.gz#sha256=67bb369665bb2878ac51925e20642072acb43a3add58827f2f649f453b4cbb3a" >sqlmix-0.12.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/73/af3254a1ac7699f7691c76b2d95921ce9f8d2915d1efb42995854eda18e9/sqlmix-0.12.8-py3-none-any.whl#sha256=a4d5c39ebe3d3df25ee9b3ad8d496e40e4149add9695344db5bfe03addf0fa44" >sqlmix-0.12.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/03/30620f382c5288175448ec5ad3bac31a99ca344d5735d919f5c7234eae35/sqlmix-0.12.8.tar.gz#sha256=f5267ade3ae50d136b6205409fb0d633f5937d3838ee148a523d17e59f4a6f4c" >sqlmix-0.12.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/76/f9769118b3796bcb55911ef8f6ae75b238405e9dcb51c4374f893918dcf1/sqlmix-0.12.9-py3-none-any.whl#sha256=146c1d23ea6a1aecafee6fc69ea349c0a359d2be8b37d39e9e497189a57dd76e" >sqlmix-0.12.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/4c/170c14cc0cf2d9ef7188c303cd5a31d188eeb20ae27b27e4601b19839a57/sqlmix-0.12.9.tar.gz#sha256=1f5f4be9256d2a35fb20df833605b6925b1a15318fd215d88ca5ad0a2537c3fb" >sqlmix-0.12.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16348792-->
+<!--SERIAL 16680073-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for copasi-basico</title>
   </head>
   <body>
@@ -86,6 +86,20 @@
     <a href="https://files.pythonhosted.org/packages/f7/b8/d2ba1c516d5956106ed4581c9223564a406ffe3957aa7a641e1a957443f9/copasi_basico-0.39.tar.gz#sha256=b1548c19453b428043cec8b9817b8bb99ff26c7205b5d4ce5e712ff4794db1b7" >copasi_basico-0.39.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/b8/c6d2b31956a7187c8e59d2bbd42b283ff625b26afa9225492ff553bbdcd7/copasi_basico-0.40-py3-none-any.whl#sha256=1a67220a1bb898b8eee29ac30b1c2498145c01036174b5dbc9bfc11b186a5292" >copasi_basico-0.40-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/74/c0c0c0bcfb06a91a545842d9008ea167601faa4c64067c79895cbbebaaa1/copasi_basico-0.40.tar.gz#sha256=72d836a461875cd4a83c4b15146b24d0bf83f0530ea67d413b32cdae2f1bc09e" >copasi_basico-0.40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/dc/6aae5e8aa41d238650dab9687734c8c542d25d2c265a7377c88fa085309f/copasi_basico-0.41-py3-none-any.whl#sha256=1617dbf0bcb16b2e09bb84662745675981ad18cf55a587c3bbcf2826de2df246" >copasi_basico-0.41-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/86/dd44527e66de290bfcf33e8814ad42d2705c1d03668e0bbbede5ac2f98ee/copasi_basico-0.41.tar.gz#sha256=7899364085bf8c7263ab67521977f6f1d9811e224dea8a43882183a08847e097" >copasi_basico-0.41.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/96/462cae90b9d0c154b1aed5a720a5be378ff8732697c65f3308dae6652711/copasi_basico-0.42-py3-none-any.whl#sha256=bbd3e7500b6586440df0ad0a0fdbca0c3f58061389978e22498451c8bc0d0579" >copasi_basico-0.42-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/39/eee912c9e54ae5d8f4d5f79e32545c7a427adfcf0932a348285f07bbfde4/copasi_basico-0.42.tar.gz#sha256=e9bbfaf923598b2fc275c53b8eb209575acefd7d255876cca49513807b143d11" >copasi_basico-0.42.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/e5/78ffefc50e284cfd8dbafdef7f2bbc27f0e1c1b01cc0c9a3cb36099e60fd/copasi_basico-0.43-py3-none-any.whl#sha256=04d8423913d58784fec4a0f9604542f5440b9c472d2a93aefbc027ca91667ec9" >copasi_basico-0.43-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/3f/ad39181ccbde797c7f1cc96336beb1e1682f760999752de45914792d00a8/copasi_basico-0.43.tar.gz#sha256=29697a1efb9cc34eca7239af7301986616feee1b282b2fb7831b00fd8d32a048" >copasi_basico-0.43.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/68/ec5d1885fb49cba9f3101e1c0663ba827126a980823a2ad0f18aaa34755a/copasi_basico-0.44-py3-none-any.whl#sha256=01c94d869aadcb8fe6882333d97f53b9915eb6ea5d7383e21f315252b8d3cc2d" >copasi_basico-0.44-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/16/4f47b7d8f2649d01637c322da53ad07084901ae3894cb93f1eddb01169c1/copasi_basico-0.44.tar.gz#sha256=99a6adabd37bf6a7cdfd7d0837d64572a8da631a3d9b93e79af81ed8d5ff00d0" >copasi_basico-0.44.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/75/d6ac8abd5690fe008d332c7ffbcf35ede2e07f23294ec1a348470b0da824/copasi_basico-0.45-py3-none-any.whl#sha256=fab15fc98b4f697a1b92180e4595014658c1bb7bc034ca0234247475cfa3f96f" >copasi_basico-0.45-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/cd/bfcee1cf55b4bbb5895c5bbbb8b6744c37fb027ec4062b2e53f0e6db5dfb/copasi_basico-0.45.tar.gz#sha256=e1be82fecfbc52a7c2c5169463c63e7213d44b80b8fce388befc23ea429fcff9" >copasi_basico-0.45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/c7/753b28f5588e2b033605158575b3cd40e66a8ad2468bcd77413a892908c6/copasi_basico-0.46-py3-none-any.whl#sha256=edf893d4499d4c52d98a2d5501687bdf0522f280adbdc8654dd70ea014e80253" >copasi_basico-0.46-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/1a/ac3dced9d41864b9fb452902f83756e67eeb47d5901550b8543e8cffef43/copasi_basico-0.46.tar.gz#sha256=95a97d2bdef03618e7d85199b9f5f944f06c2b7a085ef5b6830cd64f9b1ef7ec" >copasi_basico-0.46.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/59/191df8af46771c4da8fb30d8f3dbf36895fe688ecab0a07319e6226c1cff/copasi_basico-0.47-py3-none-any.whl#sha256=fd8798de23663bf95785a7f96834bbeadf16a3ce1547a57df7fb1cd745cea3b4" >copasi_basico-0.47-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/5b/a13030c4f410bc735cfa3a0cc075cabea89035e9f83486a61c52974f9690/copasi_basico-0.47.tar.gz#sha256=546c08bde6a4d4fa9168bff09771821a534ebd3917d98a06b72382cae1d6dbdd" >copasi_basico-0.47.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16171482-->
+<!--SERIAL 16977081-->

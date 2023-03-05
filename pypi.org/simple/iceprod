@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for iceprod</title>
   </head>
   <body>
@@ -28,6 +28,26 @@
     <a href="https://files.pythonhosted.org/packages/4c/8e/68b6343f4048cdb5364280e21a06da773b1e3cc66d9e506ea0df0930e756/iceprod-2.5.21.tar.gz#sha256=4091bded934ce059c633804966f3c43efccb906316ca0c1f8950c47cd1b219c2" data-requires-python="&lt;3.12,&gt;=3.7" >iceprod-2.5.21.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/d0/b07b60556167a89a5c7e6206f98e6092ac0d9c2deddf4a28204c705e0623/iceprod-2.5.22-py3-none-any.whl#sha256=a8f8e1a4e96cb3199236271b41a5a0ff9f41c0888e02670e7e2215876daede61" data-requires-python="&lt;3.12,&gt;=3.7" >iceprod-2.5.22-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/1b/b8f3e8a66762ca9905a461bdff5fad9641b43282dcb99333702483930a4c/iceprod-2.5.22.tar.gz#sha256=26c8242f30397742dd86ba0543c00c95a7d0e4c6a2d05bffa53d79055c8eef76" data-requires-python="&lt;3.12,&gt;=3.7" >iceprod-2.5.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/13/ca389e09ebe1079007871afc8d25fe4dee3be623474daf1b264a30679caf/iceprod-2.5.23-py3-none-any.whl#sha256=199e0672109f7299ca13db5255d8531cff628e44cfebcf3a020df9ed8faf87ae" data-requires-python="&lt;3.12,&gt;=3.7" >iceprod-2.5.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/02/c0750d9d5a8e512a0d966fe97bbfb78a6b559df9e4b4b26fbf12c1d3a229/iceprod-2.5.23.tar.gz#sha256=0579b839d2fa866cf7a85b4d96c9129678d98141f883fd713c0bef7a51e5ecea" data-requires-python="&lt;3.12,&gt;=3.7" >iceprod-2.5.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/5a/afade306517fc3cae285fa6d93c5a8d60be62c51c6a34a51d9dac012fb75/iceprod-2.6.0-py3-none-any.whl#sha256=019081a09f3716dad264e38345cae782df92dc18b9ba04422c3d3beab8622145" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/dd/1180ca019b66bd7a24c7673b4975c2ffc7dcba70ed7d0afca4aa39cd3de6/iceprod-2.6.0.tar.gz#sha256=2faf79c779d8edcdf6ae5030afc4cd18acb56d83f1c58da09c6e355d9a80f950" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/2f/c277610884053ed40291a9a09657edac9a45a5f7aaa3a1d1bc08db96f036/iceprod-2.6.1-py3-none-any.whl#sha256=0a9a1403ac0bd7ab3ac51d8ef0d28f2d646f35e6c09c3615c4d81df039b02e2b" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/c0/265d16f3016b27a7fe20d9110c8984a1ad2883ab56b041bc97a043f964a5/iceprod-2.6.1.tar.gz#sha256=9cea749629bb9234e039b3ec02133529263adebdd675cb1910ace2e0811c901d" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/83/47aec90c32fb830b2b7a29807c05fa4fe28dc0641ec877c3fbae31eaecfa/iceprod-2.6.2-py3-none-any.whl#sha256=1b582ad605e370eb8fb1e0404acabeb95f3dcdd98072ea864dcc89ddeff5f77f" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/86/0f5a8db6cb2328d439a3d848473ba8abae5954319950928330e1ad8e5e5a/iceprod-2.6.2.tar.gz#sha256=b938edd34a02f306eae21b444b022952c2455b8b85d4bce3c1debb745a474b3e" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/f0/1103829fdafd2908ec71072c97dbacae2d77b44f8591441d48abbb5db64f/iceprod-2.6.3-py3-none-any.whl#sha256=598260b6b249eabd91b4a4e9dc592f85bcbc2f4640ff6cbf08be98a4a25bb435" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/79/ca9dba2aa7c36e886efcc9c05f8630c19c8226ff21f193afbc6429cf6762/iceprod-2.6.3.tar.gz#sha256=ac70dab371490cbce867196462fb96bde06c44405b60c0ddbf92ffa75d0aa572" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/cc/5ede74c1b4c536855150a6ec4348698b9adc5cc8fb907d6f69d085ba654c/iceprod-2.6.4-py3-none-any.whl#sha256=ac1063832a78480623c331491037bed9e5445b05b1db190088502f37eddd024a" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/b0/247bdef78770ad20d1a94e1605cef210c1c6ddb5987e738a600cba8c73a3/iceprod-2.6.4.tar.gz#sha256=f218112627a92ab73f84018ee199fb17197bd20ab100ccc3ede6624f2e3ec2ca" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/88/161eb482e02bcfa47d099aa433b99b0211cf9b941f79410f84c15249a0b8/iceprod-2.6.5-py3-none-any.whl#sha256=4a5c58db7f6f5570a6c1c20b9aeefc34771c0fd83e0dcf9d6a3a2d8f197cb272" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/1e/1e94fa32293128ec2ef83e76dcd838771d536e64db14a373179790602e9d/iceprod-2.6.5.tar.gz#sha256=47316f496dc03d4e9722e61910801f1d7800322390999e07def55d927577c353" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/bd/318181868403962be1c038a313e71d3c208c4c5710e5f53e61504e65e8fc/iceprod-2.6.6-py3-none-any.whl#sha256=a111c3d72e1a5c70b105fdb59fdc56c2e09c29c29292d5e3e46cda1ff082f8e0" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/cf/aa84c35431f65bc8c0f1f6f71a1cd52a350a825b53f0c8cae7fa2c512b52/iceprod-2.6.6.tar.gz#sha256=b24d37d99a9c997a5bc382ee5b9807e85368403cbbddd0e9aa958dee0123adc8" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/5f/9d5b86b4fa2be0a003e9c9d087ecdfee2153f33ae73e4e2612fbe4097a66/iceprod-2.6.7-py3-none-any.whl#sha256=24365fc99b9288eda6a7aa824479bd059e998dff6948a78022dda065213fd138" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/b8/88cb8a69d5149dcf41d2e6343d20d46233cf6168f8d7e5208583f1d98280/iceprod-2.6.7.tar.gz#sha256=6fe4ab626df9006b5a5b5dabfa1a10e6cc3b87040367b2a65c6eeace4cef6173" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/53/71533c29c3a242bf56cc71e45d9711fd34f6c911f891adad7ba90b9bd452/iceprod-2.6.8-py3-none-any.whl#sha256=9b2766ec010f96ee54f17d170b3fc3220f6c0d0644faddbdac8869d329436331" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/e0/935e928c33c84460e55858c3354be2c586e6d34b4430242f1b8d22ea6f48/iceprod-2.6.8.tar.gz#sha256=5273a5cfc4935afa4d0b94ae396b104dd2c91daa5599bf157842799bc189b08e" data-requires-python="&lt;3.12,&gt;=3.8" >iceprod-2.6.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16163859-->
+<!--SERIAL 17150356-->

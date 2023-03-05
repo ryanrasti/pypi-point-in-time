@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for truegrad</title>
   </head>
   <body>
@@ -46,6 +46,18 @@
     <a href="https://files.pythonhosted.org/packages/97/93/0d08cc1181f8654dc3daec90ee536b203a6ea6d8b40586a6c61c82f68843/truegrad-2.3.5.tar.gz#sha256=629bbc24369f5c8e74e4edec1dd58144fbb33f43dc6a581471d659883152a1a2" data-requires-python="&gt;=3.7" >truegrad-2.3.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/56/d4/4436144812c383d0b3aae1881b7059bd85f18b30d7b7e900193a8a8cbadf/truegrad-2.4.0-py3-none-any.whl#sha256=bd66ce6b0ea27c9012cceeaa563dd9fea9535e7517c5ad51beca6a9562b4bb47" data-requires-python="&gt;=3.7" >truegrad-2.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/79/1a/2ee797dcb7af2ce052a17cdb7ed436e55871a7c0f8a78dadc1708e7f0223/truegrad-2.4.0.tar.gz#sha256=25b76cd198b11dbafb54f5b03d6a6db2053d286ab74724b54df57b71838468b3" data-requires-python="&gt;=3.7" >truegrad-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/23/8b2be089dafa0f27c6e8dce3a50812b2259a120ca4736a955c8f9a65b553/truegrad-2.5.0-py3-none-any.whl#sha256=05520ce8ff4a5fb2c08fd9d559c32043a3fa123d5a194f2ef4d08d390ea25a81" data-requires-python="&gt;=3.7" >truegrad-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/5c/ca02151b9a2d84edf41dfd474964f2f4db3a32f0f276e2fbc9404c71c114/truegrad-2.5.0.tar.gz#sha256=8d29fa341637fe7f4542a30382082a40351654192d4e6567d0e6746c5c5076bc" data-requires-python="&gt;=3.7" >truegrad-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/05/d98661ce16c4349dfa3ee2e87e4fb8c7cfff99411f58a460113a3710f925/truegrad-2.5.1-py3-none-any.whl#sha256=f32b3aa5da13f3c3feabee5d1aadf97b5b1e63fe8efa5844004d732cbc7323c9" data-requires-python="&gt;=3.7" >truegrad-2.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/c1/0ddec65e8339b9c1e65326b22c5815a3b80c14315a885f9688e5e9a2890d/truegrad-2.5.1.tar.gz#sha256=0c30c53eb7e4caa76a9f5cc36ce95d960e9e93bd61aeeb319e3bc85b96c8600b" data-requires-python="&gt;=3.7" >truegrad-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/5b/f9a0025f727ae6bbabfaebf8882424a2f1d085a63432e641f8cfec837818/truegrad-2.5.2-py3-none-any.whl#sha256=ccc534b08187626dd57a2c7002ae6987fe29dc6d025662711c6afcfca4100795" data-requires-python="&gt;=3.7" >truegrad-2.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/1e/d90ba555ed09b3d18b7661a05150b3a7ead7f64c2323a9dccde634fc8a2a/truegrad-2.5.2.tar.gz#sha256=19e14e31ea99253d41bde09a54e8b5d11918a9503e822799065e46bbffc15f9c" data-requires-python="&gt;=3.7" >truegrad-2.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/d4/1fe098d6cd665567efec8f2dc693e6e8f568ad4da9cf7074a750ecbe5bda/truegrad-2.5.3-py3-none-any.whl#sha256=562a55f097928b9afa5c89c3ab63213b920edca54d28485b26a5acd02b071e62" data-requires-python="&gt;=3.7" >truegrad-2.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/7c/8bda4630c2abb92ba2e0436932b3656a239b2985f5686e22d16ebcb2ab78/truegrad-2.5.3.tar.gz#sha256=b4ad2e53c0447e315c53639a5b30e3fcb65748cef6f7744bdf8e7815fd005963" data-requires-python="&gt;=3.7" >truegrad-2.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/e7/fd6b40c0a852973414529561efd47acba97d85936bdad561339e0b1d8563/truegrad-2.5.4-py3-none-any.whl#sha256=15f485771c427eeabf88fadb97cbe0e61b37c9761188c2cb347c39e9dfd88384" data-requires-python="&gt;=3.7" >truegrad-2.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/2c/3c05c9dfcf097b2cb1e008bc6fd3388ffb591dd6d7dd1e93ae42aeb40eab/truegrad-2.5.4.tar.gz#sha256=255b3fda280a233d2fd66d578ff061790f779eb7bb491e6d13e87759bcb8fd81" data-requires-python="&gt;=3.7" >truegrad-2.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/56/3cca2bf6343d500f58f08d128fef45db37afbf86ffb47b319eb063d6f984/truegrad-2.6.0-py3-none-any.whl#sha256=bedd2f52debad2d60730297aaf7731580975b4854cc14b5836a6a22af49db6ab" data-requires-python="&gt;=3.7" >truegrad-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/ab/fc7a2289b4f9062f3a49b4378178c7d00624331f0324e9e674f158602c4a/truegrad-2.6.0.tar.gz#sha256=7d0507962511a0e18ccdfd33304b808014811fa5333c64c0a6b36fa16e487473" data-requires-python="&gt;=3.7" >truegrad-2.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16431028-->
+<!--SERIAL 17157648-->

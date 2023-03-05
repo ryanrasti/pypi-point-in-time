@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for octavia-dashboard</title>
   </head>
   <body>
@@ -86,6 +86,8 @@
     <a href="https://files.pythonhosted.org/packages/6c/6e/2becebc3a8c1c44a5889e0f5a167737530a3adeb25b38f13cffc0457acbe/octavia_dashboard-8.0.0.0rc1-py3-none-any.whl#sha256=a45ced7b57dbd69fc17b62036cfb9038c73c4b82c42a6168a1f364102302d1ec" data-requires-python="&gt;=3.6" >octavia_dashboard-8.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/9c/8fa6a577ed08d78776032b0aabbbb850a56043f55855c2652681af2aa98b/octavia-dashboard-8.0.0.tar.gz#sha256=cfc6f9ab77c0ccee5e19254c5919111b9931defbf4a8684e3f2139b278c5e048" data-requires-python="&gt;=3.6" >octavia-dashboard-8.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/66/b7/85360cc1cb066d02120ae4fee737e4c3771be68a084b35e42c217d2e7044/octavia_dashboard-8.0.0-py3-none-any.whl#sha256=5689dbcfc836ea57e4a1502c6ec39e118949c36ab70e70992370b073f9cf1cfe" data-requires-python="&gt;=3.6" >octavia_dashboard-8.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/4f/323b80c4f1f4ee90d1d158584c57ba6bfdaaf8d8eea42e42dd3c56c4acee/octavia-dashboard-8.0.1.tar.gz#sha256=50081cd0f5a6752fcd8d19cc0bcb3b9670a7470d82a5defceb635980dea29bd8" data-requires-python="&gt;=3.6" >octavia-dashboard-8.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/46/edc82e07e34eafb2c24250486ed05f5fe6968ea956ba7a9d8232a945ce12/octavia_dashboard-8.0.1-py3-none-any.whl#sha256=c47a8cacfdeda306058151ab7fd2d30ada8157570643204ade26a97b6d1f8883" data-requires-python="&gt;=3.6" >octavia_dashboard-8.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/30/594172cbec1ca82877beb6c05a92d3bfa67a6c1560cb4fcfbc7fba5bd5d1/octavia-dashboard-9.0.0.0rc1.tar.gz#sha256=cf68500068a82c1589f52349e9ea0839a24f8a3553c78595a9c8957faa23aac7" data-requires-python="&gt;=3.6" >octavia-dashboard-9.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/d2/21eac98d202ee60755fcc0b67ec3a92071b854e545e19cc6ef45a7de2642/octavia_dashboard-9.0.0.0rc1-py3-none-any.whl#sha256=5f27b4ce298b031cba621863784171ad1349911e57e5c5d8d3d3ed777faebacd" data-requires-python="&gt;=3.6" >octavia_dashboard-9.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/df/66690c42128351efc72fd746d1cdb5851251049e68a8fca8612da4d13fad/octavia-dashboard-9.0.0.tar.gz#sha256=783c44d41fa0c07f80bf383f22e27eabe56d6e6e0b4adb8414665743e715d9ca" data-requires-python="&gt;=3.6" >octavia-dashboard-9.0.0.tar.gz</a><br />
@@ -94,6 +96,8 @@
     <a href="https://files.pythonhosted.org/packages/22/d2/88a00a6c1aee6aa86f2bdb47c264467ede0e446db1433ad11b94f7dea53b/octavia_dashboard-10.0.0.0rc1-py3-none-any.whl#sha256=a0c69fd43c4dd56c012da8403f19f8ed6efb83913047e4e472d14c057bf5e6d9" data-requires-python="&gt;=3.8" >octavia_dashboard-10.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/90/5845747a60f84cda2c298b1fa118da0dadb8af56260301b408d4bc98711e/octavia-dashboard-10.0.0.tar.gz#sha256=7a1a722ec707d75478ae81b52e9ea94ec0597925d951359ef366c5f77d72bbdc" data-requires-python="&gt;=3.8" >octavia-dashboard-10.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/bd/c5a3b3a74b30cac02d5aaeb7589aae701f030273b1da180dede22f548bb8/octavia_dashboard-10.0.0-py3-none-any.whl#sha256=1680f55ac5e41d8ff5826570ae46810b782e9fc23731e364080efb2ed2a12315" data-requires-python="&gt;=3.8" >octavia_dashboard-10.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/0f/f77eede32be298b38f3444e8be8cb38bb6ced4c4b036c1be7c5b262a5fa4/octavia-dashboard-11.0.0.0rc1.tar.gz#sha256=7799596ab14f8bd64800bb5e3fe81baf2ed3e9f567df3e47e8c7e4a1107dcc83" data-requires-python="&gt;=3.8" >octavia-dashboard-11.0.0.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/bb/53cb62523e079986d0c85f9583c87d0f8077906e883e55b71b9655160ce2/octavia_dashboard-11.0.0.0rc1-py3-none-any.whl#sha256=dbcf0181cfcdb4ce904816b864b3b2890cdc8c81914ac2cc134f0182a8e55fa6" data-requires-python="&gt;=3.8" >octavia_dashboard-11.0.0.0rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15311885-->
+<!--SERIAL 17128813-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for async-pixiv</title>
   </head>
   <body>
@@ -46,6 +46,18 @@
     <a href="https://files.pythonhosted.org/packages/f6/fc/aba76a9d43264a4a06d6190dc8736612b267d1edb877ba3730e7b7588d2a/async_pixiv-0.1.9.tar.gz#sha256=b8edfc630b409ab4b5e9b7413511838047b336ea30adfebb03e73e1e6716b7d8" data-requires-python="&gt;=3.7,&lt;4.0" >async_pixiv-0.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/08/17/db109e173703b8650ee03ce0b8604acf82b03089b0c5595a344e378a477d/async_pixiv-0.1.10-py3-none-any.whl#sha256=7f84dc313ae96ca93923b27d3f27f95fa529ce5b4cdcd3b70bfe3a29578d5970" data-requires-python="&gt;=3.7,&lt;4.0" >async_pixiv-0.1.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/76/2e/ff09cb3d873015a9ed44f4d5c82824becccdec536bd04607677ad8310c51/async_pixiv-0.1.10.tar.gz#sha256=a205394e53898ed9b4a3b6ce6e7a63754ae8e2aec6160bf38425dd5ef5a060d6" data-requires-python="&gt;=3.7,&lt;4.0" >async_pixiv-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/38/080a0c8464c763f0080a1631c9f8422c360c4426744819adde4932517196/async_pixiv-0.2.0-py3-none-any.whl#sha256=490adb07691bf4bb096c5907584ca3f595c1b027cf494a902e3f06bfa026deee" data-requires-python="&gt;=3.7,&lt;4.0" >async_pixiv-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/ef/05b05001df41c3dbd5015057d9cac8cdb03e5761898b120e4eec0a2150e8/async_pixiv-0.2.0.tar.gz#sha256=dca4ec937f94288a2b3d76b2265f3a27d9e2a46c1b88cb1e76c3bde30a9b3d5c" data-requires-python="&gt;=3.7,&lt;4.0" >async_pixiv-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/68/e3c2fe39e22d5988ac3b623ecc9834b82c35a510496069d1d744e37541cf/async_pixiv-0.3.0-py3-none-any.whl#sha256=870388dc58b4383165923217b386e7170a7cfbbf6b079d834272905684137104" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/14/0a32e9ffc4dfbc2cfb9a9c26fec10bea96d492e7dac92d009c873b031846/async_pixiv-0.3.0.tar.gz#sha256=2b39f7431421829c38aa9778f9cd42312906500242b2504cf92d456c4c6455c6" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/4c/a93eb62bbdde26db78be49971c268caed4e8f3865ce676c2f63061d4082c/async_pixiv-0.3.1-py3-none-any.whl#sha256=374e7a5147bd7f8164550173277af700a2a8262d4f388ac987d11199f2cba559" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/d9/77ed099de47f5c1325adf157735710e646c66d2e57f16efca82a5ba9d4d5/async_pixiv-0.3.1.tar.gz#sha256=8150e908714cf26a7e1fd190f3909cbf37d79038de797f2049eea0c07286907b" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/55/4a9dcfe9aea3d18aa32963344bbe51670c2d48d5b483c92ec08ae50b179d/async_pixiv-0.3.2-py3-none-any.whl#sha256=4a0e1dcf336e540421e9548cba958602286adecb466078a297ac94c2fbac8104" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/19/0312093b29b62953652f3e8768826fc7705b9aff8bc32e31cb759aa39603/async_pixiv-0.3.2.tar.gz#sha256=787df935a34697e894232efec6e07c2a8a69654d0ef4a02f5971608e4242b6ef" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/83/152ee1dbc972bace491ce5b42f28dcf80e33173a5eee7d0b3cf3e83c000e/async_pixiv-0.3.3-py3-none-any.whl#sha256=a93fd0edce84f64cf39ce6537e8907b5129c75fb8fbf4346230e2ec249f05cab" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/76/023a89f3538ec5d3f836efc854c6cb362ac2d67da17be747231ccdc3c477/async_pixiv-0.3.3.tar.gz#sha256=fe8d8974bc453058452c9c63ff4ebef3ede3bacd23bef9c9299d467042034711" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/2c/fafe40773d8099f45ca85af9612acc64eeb0ae4eb4f42273d164aa58dcb6/async_pixiv-0.3.4-py3-none-any.whl#sha256=b925dc3e7259a57165eabcb573b2dca6bfc337e7ca72594c1a0aed4729ea64aa" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/fa/5c586a26aa879e5612465fda477c947b7519f45202a8a7e81689d6ce1a34/async_pixiv-0.3.4.tar.gz#sha256=02e33a801bfde3997222067fa397dff05ffbef995d4fae8c253efac06c2ce574" data-requires-python="&gt;=3.8,&lt;4.0" >async_pixiv-0.3.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16404690-->
+<!--SERIAL 17047327-->

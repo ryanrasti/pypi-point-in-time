@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dt4test</title>
   </head>
   <body>
@@ -30,6 +30,18 @@
     <a href="https://files.pythonhosted.org/packages/13/e8/21640a738e291a3b59835a8493ba5c1b800c233d8cc1a3827fc2097cf327/dt4test-0.2.7.tar.gz#sha256=62f140062079d966cfd07f1a2df6c0e5c8df9b63c15c91a8fa75f07878506b6a" data-requires-python="&gt;=3.6" >dt4test-0.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/16/9d/890df6ca14a6a59aae163177ff7e4428ccbf9732f9c94f80d6ee98c5ee7e/dt4test-0.2.8-py3-none-any.whl#sha256=38a6068ff548978c7055df7086e9b78e185500f9a62d71589207a7b17aeb79d8" data-requires-python="&gt;=3.6" >dt4test-0.2.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/43/516dafa7481944a2055c850187df9796ea0d63f2ce566190eca5cb5bc2cf/dt4test-0.2.8.tar.gz#sha256=20e0a938b271ecbf4851f1d11ee9ad440f6c2de4d72474116bff62655e61ed37" data-requires-python="&gt;=3.6" >dt4test-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/b6/be0177bcebae75dec325540714f5e43d8a015eaf8cdd996a48c048553fa4/dt4test-0.3.0-py3-none-any.whl#sha256=3e4e85708a2a04480ca6e988f8cf0c4d6aeac2c96d0c8e0a898911e51c250865" data-requires-python="&gt;=3.6" >dt4test-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/4a/813f3b9bca4f7f5735241122673a6cde6179d02b254bb90493cd0312e569/dt4test-0.3.0.tar.gz#sha256=621929554b1d9f30a5313988df6ef7e8e777e42117373da9b5374259f530d7fc" data-requires-python="&gt;=3.6" >dt4test-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/ba/b15163e43c0430ae1646175c71a231add5012702a34e0f3e8a1c02a06c65/dt4test-0.3.1-py3-none-any.whl#sha256=9aacfb4ecca816c7cdfa345fcd65cb6f9ee372918930a26304b228d43903091b" data-requires-python="&gt;=3.6" >dt4test-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/87/b85740a20adb67f6c8f04ea6e7183278d3545dacb57a66686e17e2183608/dt4test-0.3.1.tar.gz#sha256=e6e5260e90815ac38f62a525f77be4b7119f2609f02b7164902199841009bf00" data-requires-python="&gt;=3.6" >dt4test-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/5e/abff7f613a0cbcd7fff2ee414051fec392398ccc97016cc755ab1c9971cb/dt4test-0.3.2-py3-none-any.whl#sha256=4091f3131eda4ca9925d0693f43bc08052621f1bfd7c3a5ecb54ef943be862f8" data-requires-python="&gt;=3.6" >dt4test-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/57/a509b57bcb94ce75c28b8341d2c24ee713834d470fa33a87c1b2ca7e0fac/dt4test-0.3.2.tar.gz#sha256=998b48aaa4df9d49ed7d9e3fbf431c62e8f02705c00c789527f68663a4948938" data-requires-python="&gt;=3.6" >dt4test-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/06/a29a3aaed5034013e90a6c2984da20da36c09e870e5d3c8ba8307fd38bb1/dt4test-0.3.3-py3-none-any.whl#sha256=785c1cd51e3124ee1c5c1bd6b1a73af2d9e43e07b88526dd951c0419812ebdb8" data-requires-python="&gt;=3.6" >dt4test-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/69/25dea020886798c7b40e7bb19fb3c4069022221b327bb6115097f44a87e7/dt4test-0.3.3.tar.gz#sha256=06ffa7a4f5c50cc96d0a8517e93c7b3ce5610ba2809874b3e6347bcaa7ef09ba" data-requires-python="&gt;=3.6" >dt4test-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/58/1b069f93e050ef06ca7d287f7802574eccde1603e095f1cdd8e7f8a514ee/dt4test-0.3.4-py3-none-any.whl#sha256=e1ae58a15b68c0e2cc9dfd1381efbc7744300cc78fbc4f1211306803323a10b0" data-requires-python="&gt;=3.6" >dt4test-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/ec/ae35cc9023fa56eec6b778f358b862e8cbb3b478ef142fa4581ab9fa26a3/dt4test-0.3.4.tar.gz#sha256=0c75127b137471fe878bf05eabde57fb12e55900a3bb874581f4651dd65b6941" data-requires-python="&gt;=3.6" >dt4test-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/45/000567d0929d25a06e089d948b229a40e63e4c40559cc836a1d73c3ae438/dt4test-0.3.5-py3-none-any.whl#sha256=c44332124bf9deac57f13756f5d098a80c99d1eee092d5a7c9cb5bc0961ecde8" data-requires-python="&gt;=3.6" >dt4test-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/98/30667e71f13fc5a3052059a1df5f4db4af4e688009fc19f1bc721f49c85f/dt4test-0.3.5.tar.gz#sha256=020240fb91d4faa939453124bf60a90389da2d235704c4ed1c40ef60e5c2806c" data-requires-python="&gt;=3.6" >dt4test-0.3.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15864482-->
+<!--SERIAL 16971295-->

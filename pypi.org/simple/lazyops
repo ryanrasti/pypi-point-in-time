@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lazyops</title>
   </head>
   <body>
@@ -58,6 +58,40 @@
     <a href="https://files.pythonhosted.org/packages/1a/b1/35987d3944772fcfa6b5174357bb58a189f29ab48982e5f55206ab77031f/lazyops-0.2.10.tar.gz#sha256=199df326c5f28d1fe99ec3b9cbce118abf37dd668325cb91ba6c45f0c305939c" >lazyops-0.2.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/d6/21220c6790a49074ff9bc44c4dcfcc1f8e02e4d938b8859d9f53837717dc/lazyops-0.2.11-py3-none-any.whl#sha256=922909c5b1635cb282487dc8bd860ee6618e98d46f0d75d7b18a0551c91431ec" >lazyops-0.2.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/2d/0e540ca5c9a27bb92c643639f66b3a1f2afecac7cda0a76e97b16a0c5ab1/lazyops-0.2.11.tar.gz#sha256=ad600b651ef3a50e47262f60598974df57df4131fa9fb29c0f2b647728d0aa96" >lazyops-0.2.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/e5/bc18c8c7f4e3d40bdfc9b63650236499cfe8b427bb7c8904ef3da3ec2116/lazyops-0.2.12-py3-none-any.whl#sha256=7afe90994e12121ce638931af0177c61ae64419821f58a503096c2a47acbb3a9" >lazyops-0.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/b2/e365881e228396cde1ec456e8d68ec709e8fda5d7bb91561e56935c331e7/lazyops-0.2.12.tar.gz#sha256=8c3cad1db3030db8c569e8fa4b16007ca76bcc2f7ad2eaac03a8d2974f616d4a" >lazyops-0.2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/ca/d6c1fcc1e29589d1d7f7ad284be30ea59c739a19763bc796ceefc8a13dc1/lazyops-0.2.13-py3-none-any.whl#sha256=877dd14533ad44adab830ba2881f5949f02b2d2b16dbd8c5c328e33aaf9b5a30" >lazyops-0.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/a3/4d8d0d94263637f7ae90efa96aa25b4de2fde64bcf0fa74238c1851411c8/lazyops-0.2.13.tar.gz#sha256=a36f775169bb51cb2491c61062484906e816558296a6760f189db56c6856ed75" >lazyops-0.2.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/2c/98c5bfeb7fbeee675ef18652ceae06868d87d0f37574a30c2c31cf28e4d0/lazyops-0.2.14-py3-none-any.whl#sha256=95cdd94964174a88afb929e46bc0b366014a19bdb4f49592248c0b3117da6a10" >lazyops-0.2.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/8b/55bf16df9bd3e97f0988521b83376df3cd8dbef946ae18bdc6d9a35f60cb/lazyops-0.2.14.tar.gz#sha256=a34b8a95085dbcaf25a2c31f5bd2cf4799c75b830d94b85fd2fb015b7cdaf436" >lazyops-0.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/11/53d8995b4e5850bb81da72bdd62d116831aaaf74df4269a3a445500a065d/lazyops-0.2.15-py3-none-any.whl#sha256=2dbdcf9f986a828f1d700e6f953d55cef73c02bc13fc57b354abc00a9604da8f" >lazyops-0.2.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/3f/6307d5a296c705adf0763df0bf30e5c5b6a39afadf39c4f4f1f82afdc871/lazyops-0.2.15.tar.gz#sha256=fb889d131521a507cd053051c41419df6448f609e62446a91c214e7fc9776d3f" >lazyops-0.2.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/72/8e497620112345ccfe5a1ed8ffb1ac2193da2eb8254c376cc046bc34973e/lazyops-0.2.16-py3-none-any.whl#sha256=6a0245cc86a2957150e2d74ce48ac38ffabfe6337771b80d2465b55940bf8269" >lazyops-0.2.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/5d/6df91ed31c2915fcb1882fd2b20674b4eb093d563a39286b24cc6ed1fadd/lazyops-0.2.16.tar.gz#sha256=70dc70b9c3fe0bf25a019e6d3c043ee328f75f1367e7c69fc2e2d9607946a2a1" >lazyops-0.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/8c/77faaa25d6f04803e383876217831ac22d5d44e65aec25d407a245ec0902/lazyops-0.2.17-py3-none-any.whl#sha256=2b4f100e3a66d4a13fd942d3aebc608961a6a2ab97f53912a9334fefa6002641" >lazyops-0.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/3b/ba1eca0bdf6a681faab61bc4ff31ff1fc56370fa848a60b167d8dbbd2215/lazyops-0.2.17.tar.gz#sha256=f150331b97a90d0c2572a3d13119f7d6fd8cf414d5b3c4667164d5acf6ba88d5" >lazyops-0.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/4b/74a885bd4735abbf7c93bc27900cb847e2f0cc3bdfddd5765d27f8605518/lazyops-0.2.18-py3-none-any.whl#sha256=ce151d304b25491a97ef6e2817a9b2b2d19d60896cead42f398ccdd02d6ef63e" >lazyops-0.2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/51/c82cffaf6b21f6497a239df9228c7ff2a6c1943976a001152c0479ceab6e/lazyops-0.2.18.tar.gz#sha256=76d29a9c7854a685d44962b48fe09cc7615504d07f4c9606309735f00b3d1eb3" >lazyops-0.2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/27/f0d8c443d95e408b0f7afbb527f7170044aa2f17b4bbef567c780997c70b/lazyops-0.2.19-py3-none-any.whl#sha256=a97a9673d40af9fa87a52c1f3640ec6fbfe6ed7d676f5da89714bcccbe2992ce" >lazyops-0.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/ee/66bdb5ed427d833b78783ba81c997770d48051b7f801e1774461711b1a3d/lazyops-0.2.19.tar.gz#sha256=8ba51c5bb7a2c903664d20d7a4685261400469978d256e906d3a98cc7c769a31" >lazyops-0.2.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/72/e23ee6ebe5e70a64006887299529c91165a0e4492b8b6c19299089d06d6c/lazyops-0.2.20-py3-none-any.whl#sha256=7c125ffbc4d952ad0d4db3dd2ab4520a64635f99535562e1e9059a4228eac63e" >lazyops-0.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/50/6105d59474b77438335c7d0855352e6426c9f4cc6ddb40ce893ab76ca836/lazyops-0.2.20.tar.gz#sha256=d64c550abf8c1dd36e6cdd2f12cade255475319e787a1cc5a76fee50aba43738" >lazyops-0.2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/e3/a98df96138cd6cc04d7e0a551cd656080c5c5c1851f7e6066ed5e2c06f71/lazyops-0.2.21-py3-none-any.whl#sha256=3983453c3d1e0b71150ef9a9fef2e1457e7b77fc17d57b1afa3af089e60e7bbd" >lazyops-0.2.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/76/f0fa44035cd53f30fe7fdcd7bf39be152c153017279d2ebfdfbd6aa8bd46/lazyops-0.2.21.tar.gz#sha256=bc55e3377867958216e9eb08052e2db119ca07e82752ce8c991186eb2ba16e9b" >lazyops-0.2.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/65/be86b267924448595d2800e4681f7e079c3c048cf11de5b26b1db1eea1ca/lazyops-0.2.22-py3-none-any.whl#sha256=6e73f4942fc8bfdd1f8af32f303579c523ec51118555e29b09a3e2696bc42be5" >lazyops-0.2.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/13/c6947fda3a0aa48e833a0ebb38fffbefe81caead65d977fd7415d6f8255a/lazyops-0.2.22.tar.gz#sha256=8c30395303c1067b8442037164e2781543e2b03b3254a89b475fcafbb1a03c7b" >lazyops-0.2.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/f6/c27c385d89d60c3f08ca3ed01a731847e45e731da47ace5810b809ffdfa2/lazyops-0.2.23-py3-none-any.whl#sha256=bd3431799f90c7d3bd9342e3c441c4f023136a9a2290870e7686eaf7c6b78303" >lazyops-0.2.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/55/44a057b29a16f6aaf0b4c2994b26dc5b07522ad4c95df0ae7116a8719746/lazyops-0.2.23.tar.gz#sha256=adcb534a3b1087495b88605f19bba0fd2ce3d993a3bafc2c80ac31e04fd232de" >lazyops-0.2.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/7f/724752d63540d0742426716ed67b77010d28d43c3be05c65ab93f26ca3b8/lazyops-0.2.24-py3-none-any.whl#sha256=87a1e108e026ff60c9219dc10642e0e1a7f8a3525e233d1b828f2869d4c26720" >lazyops-0.2.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/e1/8be4335aff9983164d4587bb738f2ee5c8beaf12b0886a1432bde78daa31/lazyops-0.2.24.tar.gz#sha256=e1faec365ba273a6470f633661e8b3ad03f6934a94d74ec1c45b7f6081fac489" >lazyops-0.2.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/ce/628cd6940136f0eb33d5e93525213b8a7fafeced096585e1ef72e2d815e6/lazyops-0.2.25-py3-none-any.whl#sha256=bbb784f7900a2958d551d351f8806959b0288e7efff2f780b287c6b11e111360" >lazyops-0.2.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/aa/452a9cfb96c4bfef62ff53040100eccac328cf8b0cb17c9c8eedc1e6fd7f/lazyops-0.2.25.tar.gz#sha256=1c3451a931ffc991acda980a96455fd82453fd5a39129dcddb13813dfea26f80" >lazyops-0.2.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/ff/fbe774e1796d530b3476a3988bbefdbe954a60212a53b0693cc97e3997cf/lazyops-0.2.27-py3-none-any.whl#sha256=1aba9da4412740622e18a111aa1e176b4d4212e4c4c986b4c38e0e95f1c019e5" >lazyops-0.2.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/cd/e34d299251370385f0f9d11433d1ce32dabb1ccccda64338f5328ec5e16c/lazyops-0.2.27.tar.gz#sha256=672b6a444698c3025b763d178fbdc900e2cd3000d60367927c5e5e3b1ca37f17" >lazyops-0.2.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/d1/2a1e6fecd13b4d21d81e976b8db4df9e2f1060acfd32c24dc1b5ed5146a5/lazyops-0.2.28-py3-none-any.whl#sha256=e7e91d9cff145298e462b9342a8d897116e424443b8977d427d79288ba9192db" >lazyops-0.2.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/75/d7cfcc5f1ba3a83d82ee4065ef13940484ad6daea6473c9ce87f5cf47264/lazyops-0.2.28.tar.gz#sha256=514598a2549d96e92090576b70c6e438e45ed747cf05db01f5f9090617b4be53" >lazyops-0.2.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/3c/a2e5647e1525138de60f0dbd5c1ec92b22404ee535aca9bd52417744ca29/lazyops-0.2.29-py3-none-any.whl#sha256=53969b98aa4a3bc267a34959131db088afc1949f56e7526bba2e42c84554ed2e" >lazyops-0.2.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/a9/f26d98522270bb970f938aa34c4b26c3a09c8fe34827d2b69dbf10c6735e/lazyops-0.2.29.tar.gz#sha256=61fe8f20687374b15c367e864be3b35173ae96d6c662727fdc01066ff62212b9" >lazyops-0.2.29.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16385173-->
+<!--SERIAL 17150439-->

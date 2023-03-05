@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for webp</title>
   </head>
   <body>
@@ -39,6 +39,17 @@
     <a href="https://files.pythonhosted.org/packages/bc/20/53c15040efe4d4bdcc1b62a1e876fe85b2df02511b9c003a1aaaee30bd79/webp-0.1.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a9b745f4730103d4f08a02c2b0317a2276e511a4aefc616cda209321d4337d3f" data-requires-python="&gt;=3.6" >webp-0.1.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/31/1c94e7a214cdfedcbbc845c276a9daa122ec80d26110925fdae9c52de8df/webp-0.1.4-cp39-cp39-win_amd64.whl#sha256=fe9cbf52c1a80eefbdf5fab8ba5d442eaee409a06c2b32e2cfb0b08a792fe740" data-requires-python="&gt;=3.6" >webp-0.1.4-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/85/98/f4ae7dde658364d403d9352d852be7bc89e0a82356be48b523f1183431d5/webp-0.1.4.tar.gz#sha256=159a81fdd2c245beaeec2fe5969382e8b0a1535ad450f45762a1f3814f8df35c" data-requires-python="&gt;=3.6" >webp-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/17/836899ddf27492797a9d6dd36edf2c98540977ad387ecee7cc18a75d91b6/webp-0.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=25c78544a092a8fe74f9bb41d167d4338d2a9abf198e0f83752f847b76aa1b4c" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/31/3d32a2c51a60f1e9f32f1d365972bad4674aa886119dfd867c693bf2f561/webp-0.1.5-cp310-cp310-win_amd64.whl#sha256=043731e7c22718fe27fc5049bf54734b94f7828579df81c2bf7f83395fe88fe0" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/cc/f46e30e6696927fe6c88e7f1b985bb207c5958c625405de851cf4ad20d59/webp-0.1.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2d9a542ed895df52d7f084f6df2468ae1c04f49bab2d72d8282f5938008d87bf" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/65/0dffd3b4a25c12334217ece61899bcf1ad698239b125f2fbb7ead9cfdf5a/webp-0.1.5-cp311-cp311-win_amd64.whl#sha256=fd05b135de0cc66ae19b3a6ca2d5e5806a4981aba2a4b3527290e3992ef4d621" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/3a/7f6128915e05ec0677f8279f41dd27f4226752231e9805c332789077302d/webp-0.1.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=356cc43d32b24751c911c83f4f6070319c31773a26f1eea904916ad32659f148" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/54/6960b0edb8a51753b8d79c656ed30d985a7bfaf2d5ab7faae6ef7d0e9ab0/webp-0.1.5-cp37-cp37m-win_amd64.whl#sha256=26b1e595b3af6440192f0dc55ae518b5d95ed10062a757ca4f77a5b9a01008cb" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/d6/93e6f474ff4236e28233a208b5aa478436d27a73ffc02e547dfc81c25bd5/webp-0.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d428d45e4ebfc0aa675422fdd8d326808dfbc500228d8b55228f809575338514" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/75/ab68dc82a46a89f3b09c9f51360f25d942ed8862623c8b975b4bc4bd0206/webp-0.1.5-cp38-cp38-win_amd64.whl#sha256=b95e3b22acb6249bb715739464efda5f6bbdd4fcc7fc298c580b0c73853f6972" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/8c/ef92f7ef0ddb7ff3365aae175efd2df7224fe62d2ebe56a3dfdddfa14e50/webp-0.1.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1b9556a876cc63b8ac116c2c710354bb7a8b304a5275481201a0af54fa163cb0" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/6c/67d131d008c244059c91d1716ae96fd9a8a69bdd5163f8b2c5279a4f343a/webp-0.1.5-cp39-cp39-win_amd64.whl#sha256=cf1c9df4dbe81039e73b7f48ef3a9653c4928f8e58fe5ffef12d43299b5a63c8" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/64/3b632993e6181bbc0a82a0e0489264430de041afb205f6c89d152b470c07/webp-0.1.5.tar.gz#sha256=8c8b0cbaa807f8daa7ca43dfdf7ba298f4ba23278021c5272d4b9714fea3205a" data-requires-python="&gt;=3.7,&lt;4.0" >webp-0.1.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13256950-->
+<!--SERIAL 16497212-->

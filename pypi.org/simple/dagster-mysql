@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-mysql</title>
   </head>
   <body>
@@ -528,8 +528,32 @@
     <a href="https://files.pythonhosted.org/packages/92/61/5b5de6bdc88b047d1c2ab17d3e9ebfae55607cd64be8261568f8fa12d8ec/dagster_mysql-0.17.9-py3-none-any.whl#sha256=58915fe8733c5f6fb45b60b65445393a0e77e8cf71b245fcc8f0e5132f53d20a" >dagster_mysql-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/47/56/dcd7d2958df539a434366eaa61d6a1ec66288284d69a2a58b059c8aaaa01/dagster-mysql-0.17.10.tar.gz#sha256=2419c02e9be20835d0556b6172377c8259617c33193b70fc86a4c3550c0355b3" >dagster-mysql-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/9d/2c658dcb6cd37ab9ab41874fb0b9ac5f6da6b02a0a589216fa436d74452e/dagster_mysql-0.17.10-py3-none-any.whl#sha256=e3ec974a15890cb0c2395b0277a9ef8b3328771bfdfeff01d2ddaf2be67d613a" >dagster_mysql-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/88/23eb6b54c0eabba0744125d70b6164fbfa90a7451f233a6a20df90a806e3/dagster-mysql-0.17.11.tar.gz#sha256=4e608a0d0b495fc4bc7f20e5536f9f1cf8aa58fb95943f3acc15d892a990e724" >dagster-mysql-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/a7/598ce13ec7661c99320cf95e973ccf1d62b0f171c1d2b1c8e46af98ee678/dagster_mysql-0.17.11-py3-none-any.whl#sha256=52b28b15d8b2f3685c4f9ed86703205f3c1a4ab25cb4ffec67fd01d15e28bdde" >dagster_mysql-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/6c/e38f7f909a95da208368af1489278c64f4fcfc6bd7877e56fca7fa67675e/dagster-mysql-0.17.12.tar.gz#sha256=39793792af9faff1a6def9d20d8b14657d723285d9267aa72fed3d737b20d922" >dagster-mysql-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/cc/912ca9edd5418e38e96e2e77a835a3e2adfac5d473142a54f85d2cb20f45/dagster_mysql-0.17.12-py3-none-any.whl#sha256=1fb7d46e8ca4347c450396f778626fb36835bf2bbf77a1c152fd7dcb3ca64896" >dagster_mysql-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/6e/9a2364860013f50fd5163971103685d300da9b3cd22c39b9c60bdcb035f0/dagster-mysql-0.17.13.tar.gz#sha256=a806a9635d615ab21cb86bc0d2172d73bdfd6a78f549c04ee19b32345c1337bd" >dagster-mysql-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/2e/2aabe39881f9c0f86634f26d279ba75fa102017e085432a00ca00912a16f/dagster_mysql-0.17.13-py3-none-any.whl#sha256=476ec9b974d04152a3d516821b24752d9859de65ff86ffb3beddda16bc44bb7a" >dagster_mysql-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/83/ecb4b1b804a802911597fd9f7bfa157683776183f44374996bd06befe492/dagster-mysql-0.17.14.tar.gz#sha256=5e9766ec572bf6bb1c78ce67071a2d54de50315c7977835ed20e3343a226d970" >dagster-mysql-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/9d/5332f0479421810b96c6de803be30999e1657822f76823d1e35ce4c0b5b6/dagster_mysql-0.17.14-py3-none-any.whl#sha256=4e2fac41809a37d38ac20c361de6ca66eccdb2dc94953bd5be09e7a05d86b9b1" >dagster_mysql-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/88/e966733f6e306d3f2ecb125bd8e8ac02884a0223dbdba9eb885f6344618d/dagster-mysql-0.17.15.tar.gz#sha256=07f797f7814c4b63af240f3a0d23402cf0ba2f03448d4dd41da5de4e9463f121" >dagster-mysql-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/60/66b8da9dfbc920fb7cf00ea0a9540b5bdf0fbce23d270f52c366f31da039/dagster_mysql-0.17.15-py3-none-any.whl#sha256=33d9c7f1a9ee040895a1925f2a99b87bc852fc546ec2b2c902e5ac84538aa8f0" >dagster_mysql-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/83/4ea3389ef92d50b86d821d438323a2f130625bfc1220a3d3cb264d980129/dagster-mysql-0.17.16.tar.gz#sha256=dfb373b7778ff13af57a645269c53621f03bcdf9f1d40ada6d42ea31a0e30b6c" data-yanked="" >dagster-mysql-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/4c/d026728129e1e849de0acc479f2864b8d51709ec712b15a6a8f015e7a2bd/dagster_mysql-0.17.16-py3-none-any.whl#sha256=caf2ff031986d1b1ab0d4be63d70b38e91d3be0a98637936ea6b024d7e8a551c" data-yanked="" >dagster_mysql-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/f9/78d5f3291dacb3aa2bf4960499c2bbb8df9e52bee913d2892c115fe1ceab/dagster-mysql-0.17.17rc0.tar.gz#sha256=7b69c75980eaa991d1be718c707e93efe961cf78f38c190835194b954f348fd7" >dagster-mysql-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/90/a131c70924737a62a63dcb3c5060d1c282261d7d81888b00126c6b243ef7/dagster_mysql-0.17.17rc0-py3-none-any.whl#sha256=87d7a510044d0bfad4148725aeb7020ea077d5e79ffc326f847a110e271b625b" >dagster_mysql-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/09/ab0d9660d219f49f517de33ea4df7b776b319e48532ce94d2fb22bb0b96e/dagster-mysql-0.17.17.tar.gz#sha256=c432296a3b5b83e4fd19fc9100f92b7eb2aa1ac5b010cc69cff12e28085f28b5" >dagster-mysql-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/51/b52ec09b0866a1fb6c99f1407759fbc45feb6e57990eaa53c6101c30fcb8/dagster_mysql-0.17.17-py3-none-any.whl#sha256=f51b100342ee89d97c3b0a2304e61293c9bb537d587cdcbdc3d8cb85726cfc9f" >dagster_mysql-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/9b/0035a816d30d03ab5b59291101424767d96d6302c400fd01fcf1a4a84cfa/dagster-mysql-0.17.18.tar.gz#sha256=717fe8f620b5f9cae2f137f507ab8dc31cd79fc013be198438a554e92ef30916" >dagster-mysql-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/a0/c16bb9710b6ef19b546e331c4919ff53711c9fc56d3b0fce9691dccd3a91/dagster_mysql-0.17.18-py3-none-any.whl#sha256=9612303cad01dfdcae70ade2b6d0d331a4a9a6b97e901a5ece99112ecf4fda78" >dagster_mysql-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/88/13093ea6135c582acab8a5c18d8cbd3c613d6c9453c86bfb04367b61b076/dagster-mysql-0.17.19.tar.gz#sha256=9ae4251f2384b28915c8d24efe0638e0b0b6eec1ae445e8831f65d7d704ff2ca" >dagster-mysql-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/e7/6c74a3632c3d74d999800f28eeba042ab536f7af00cbb86339c13b385f3f/dagster_mysql-0.17.19-py3-none-any.whl#sha256=ec20536c74b471a4683ca41a40060b6aea71f2f079d0cb4d7f9e9f2c8bcfdced" >dagster_mysql-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/c6/8868acd4e1ff6bf99198fc6564e3d9b15d55bde0b4d0396b84741f70c969/dagster-mysql-0.17.20.tar.gz#sha256=0198be423009c0928569ac8f15c348e7abf55b487e36ff247360fe0059dd0d93" >dagster-mysql-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/b2/94063fe0f2ef6850ac8545f68701e2a76339455ae5813118bc0dccaef3f4/dagster_mysql-0.17.20-py3-none-any.whl#sha256=d38bf0dc6998f26d94917028694cb4d20c3da7b9382ca114558f9a664e2ded5e" >dagster_mysql-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/f7/3d6ec6916f8c32d6e272e00773c2b15aeb3f89867815414bd0f3cae506c1/dagster-mysql-0.17.21.tar.gz#sha256=d2e3aefacd7a9872ee6471118a7fce4d659a54529b677e408ebe1be9dc3d33ec" >dagster-mysql-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/4d/f12b9b14a444349408cb9cbc46e2384f8311627ce1ac2a8f8431e8a24c87/dagster_mysql-0.17.21-py3-none-any.whl#sha256=82e70b803a6b7bcc453597c5181001d4f409676f88ba5ef415c3d47043e6d29c" >dagster_mysql-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/00/771b9336b6e594134f29b84af29809e25f4cbb2131352ac6d1a75ebe2c73/dagster-mysql-1.0.5.tar.gz#sha256=f0b81f5e3ed64852ef6e7f85d229f36b63bb5e4c0dc59b66520d56b924ddf2c6" data-yanked="" >dagster-mysql-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/22/90/555a891560855014f09c5065508ffe7d5e48c9d33d081d5286c9124f5162/dagster_mysql-1.0.5-py3-none-any.whl#sha256=c1d822d9db50946fc5d6dd9a5b9a502cd217566c40c1733b786e0e2b150b1406" data-yanked="" >dagster_mysql-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408561-->
+<!--SERIAL 17135768-->

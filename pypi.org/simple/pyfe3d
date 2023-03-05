@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyfe3d</title>
   </head>
   <body>
@@ -14,6 +14,16 @@
     <a href="https://files.pythonhosted.org/packages/25/d7/a493eac7d4f7d3cab4501f51900cbff25bb3b9f433a7353429bc9b43aa9d/pyfe3d-0.3.9-cp38-cp38-win_amd64.whl#sha256=43193b0e9bf9c3f8d13af9da624fd6d4d778ca15c234765bd704bb7ec6eb320b" >pyfe3d-0.3.9-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/dc/2faf3a3cec403cd6d977ddd7e50503693faf64db8c73b2f93b628e53c4df/pyfe3d-0.3.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c31551d08398584f3263332dbca06c17b52a8c5865b0dea30cdb1a6d654e1e00" >pyfe3d-0.3.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/b9/731cf05576d6e55be4f6484ec1cce3373093a6dbfdc02240682cda3efcb3/pyfe3d-0.3.9-cp39-cp39-win_amd64.whl#sha256=e3ed5458d7591b7279250d9033f0313901172c84d9193755921894e2afe203b8" >pyfe3d-0.3.9-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/98/d07a26e341ee23d2bc5d82340eb838d6993c44d78e7e5e80e85bdbdb137e/pyfe3d-0.3.14-cp310-cp310-macosx_11_0_x86_64.whl#sha256=46246f0981d9bf5bd1b4803a76d6eb5dd890b5633fdc2da4a7206d5ac4efc763" >pyfe3d-0.3.14-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/fa/273df33f2e4d744d6318fd32eb6deadf63e12407b3d524fcd1e1dc0ed0df/pyfe3d-0.3.14-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=124bf377d8df4bb2f0cea490605e2c9e2fcf8e09c45c9b4ef31df51d400ed2e2" >pyfe3d-0.3.14-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/e7/cbad15b42e65743167696291376bd29373252e8481a3be753e887383f57f/pyfe3d-0.3.14-cp310-cp310-win_amd64.whl#sha256=9cc113e2c82ba8fa365dd15b611096c42f6374c614d44c8ca34d791eeef2225b" >pyfe3d-0.3.14-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/65/99914f55dbde6f92c1a9b4c53aae7c2d0e8e0df94cf64c39b20a2a6f4ba2/pyfe3d-0.3.14-cp311-cp311-macosx_10_9_universal2.whl#sha256=abfd174a4332f7938d444fe4098465762cfddb5f6ff6b2e45a660a047d10caf4" >pyfe3d-0.3.14-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/25/eba49c8f6c7f03bc71b92f79c1cd6e2c2132784a2eb6dfaab489715f714c/pyfe3d-0.3.14-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ad62868c48bc811f3fae8eca8947cdd047ff4ea5a8571a9225ac243f7bd98bec" >pyfe3d-0.3.14-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/36/8d545b3055198ba656f0fb0c8a7d3944df51b28faa8e5619f813392e07aa/pyfe3d-0.3.14-cp311-cp311-win_amd64.whl#sha256=8fee2927e883390e8225c61f8fd0826edd862b57a9e6fe5171009ac67b56aa55" >pyfe3d-0.3.14-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/01/4425509d9784295f5c2d9354b5652a0d9eac845828df3c9983518bb2d38e/pyfe3d-0.3.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8e7e999881acfd44f62ed972d0452e80763b7c4e158cd6834547123b841471bd" >pyfe3d-0.3.14-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/47/f6758aecbdbf507774d41c4d45366de0f05d64e8df220353692c9f90ee61/pyfe3d-0.3.14-cp38-cp38-win_amd64.whl#sha256=5e57c3fbb964643059dbac48030a86cb5c1fd7485322f07c76c82fa47b77f10a" >pyfe3d-0.3.14-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/85/cf16a7894b5250fe17beb346a8784f13c2478c7e79a562368f2aafa61559/pyfe3d-0.3.14-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=70b5c1372ec0fbe67a00a6662a3b3e8a926b7bc8bb3a1c141cb204b13a057ead" >pyfe3d-0.3.14-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/f0/3aefb6ce2f2e412eb1d68c3baaf3f0e6161195ee500ac247e7aa8fdb1776/pyfe3d-0.3.14-cp39-cp39-win_amd64.whl#sha256=699e950d64b199c0b4e4276e739d7e93022c8450bf90737689f5058a6bbc774d" >pyfe3d-0.3.14-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 13902063-->
+<!--SERIAL 17161005-->

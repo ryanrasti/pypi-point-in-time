@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rallytt</title>
   </head>
   <body>
@@ -34,14 +34,18 @@
     <a href="https://files.pythonhosted.org/packages/2f/e2/c5601ad64c6f5a81235a4e7bd3c1b01cc196cb38b16a10d012cb55a8a9be/rallytt-0.3.1.tar.gz#sha256=112c520f8955eb8fd51147de7543ef0006d5b13fb225bb790938df6fdb0a729b" data-yanked="" >rallytt-0.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/0c/8a4901ec777aed0bcbc01c7a1fa1391fb48fcd5f95b6f613b7f428771de8/rallytt-0.3.2-py3-none-any.whl#sha256=518bed412308290c70c5da02eb9bbafbc41f485816d0cd3cac5738b10e3e7771" data-yanked="" >rallytt-0.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/19/1e/fc5e73dd24b37a571e15437d9e1512fb4998946adff9844b4d34fbc43893/rallytt-0.3.2.tar.gz#sha256=4f86d6235565dd51102de6bc579767e6acb309658fbdfa8abd7717973f355eb1" data-yanked="" >rallytt-0.3.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/e5/0f/0519c032942d212c5026312651bab6a0b05d334f2264e5e60d14e55ab263/rallytt-0.3.3-py3-none-any.whl#sha256=4b8c8966612e58874010b4b00a835b54dc42442e6d25a4db3f34b777cc321cad" >rallytt-0.3.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/3d/08/dd3e2ec227f21786b3ad754027e9c167aa3922ed5d7ba7a7177f8307c923/rallytt-0.3.3.tar.gz#sha256=8475dcb93e839c95269ebf325114b5b7971616d8e277b5236333d28f23ab26b5" >rallytt-0.3.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/d7/7f/58fed6f55ab95f370e122286cb5af2a60d1ced8fa8270749cca6822a6169/rallytt-0.3.4-py3-none-any.whl#sha256=fae1172a4544f418b4e21a9564f1ec31335298548660a37e1bc757de4e7ec725" >rallytt-0.3.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/d4/eb/9edc6da80536cfbb45bacc89bbb850116b273b59fbc66e7fed8b63dea51d/rallytt-0.3.4.tar.gz#sha256=755566af4f013bc5bf4f90ab90fe39847ab86450cd492d932e5823141b14595a" >rallytt-0.3.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/f6/cc/60894cc4d4dbc4b3db174f6f0b0971d5429c16282a15308e201fcc33a049/rallytt-0.3.5-py3-none-any.whl#sha256=0743a0e7e455cb301cff0aa28e462a37ee567fb0f81ec5756fc0acd808d44b61" >rallytt-0.3.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/91/6e/2312545fd1d04f5d578c8ce68383d3b20bd70673f73bdd41b561db9b46ac/rallytt-0.3.5.tar.gz#sha256=d0c27d983b640c368f342032121420ecc4ba767418934f2237a641381366101d" >rallytt-0.3.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/0f/fe/f7354ad1a7e6c72936a898b7563a60ab59b47b4a1359228a054c967c32f3/rallytt-0.3.6-py3-none-any.whl#sha256=3d17c1286ad29a182783e9f6e934234144bf11f2443328d6bd9b8cd5d7516fd8" >rallytt-0.3.6-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/00/c6/e0dec2867d2d12c0e4bf16d5ff52964338659a3de0c61b1bbcf51ccce978/rallytt-0.3.6.tar.gz#sha256=5049243ae856b90315c2d504d19d3be68bab71d2395f570881423fa314f896ed" >rallytt-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/0f/0519c032942d212c5026312651bab6a0b05d334f2264e5e60d14e55ab263/rallytt-0.3.3-py3-none-any.whl#sha256=4b8c8966612e58874010b4b00a835b54dc42442e6d25a4db3f34b777cc321cad" data-yanked="" >rallytt-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/08/dd3e2ec227f21786b3ad754027e9c167aa3922ed5d7ba7a7177f8307c923/rallytt-0.3.3.tar.gz#sha256=8475dcb93e839c95269ebf325114b5b7971616d8e277b5236333d28f23ab26b5" data-yanked="" >rallytt-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/7f/58fed6f55ab95f370e122286cb5af2a60d1ced8fa8270749cca6822a6169/rallytt-0.3.4-py3-none-any.whl#sha256=fae1172a4544f418b4e21a9564f1ec31335298548660a37e1bc757de4e7ec725" data-yanked="" >rallytt-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/eb/9edc6da80536cfbb45bacc89bbb850116b273b59fbc66e7fed8b63dea51d/rallytt-0.3.4.tar.gz#sha256=755566af4f013bc5bf4f90ab90fe39847ab86450cd492d932e5823141b14595a" data-yanked="" >rallytt-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/cc/60894cc4d4dbc4b3db174f6f0b0971d5429c16282a15308e201fcc33a049/rallytt-0.3.5-py3-none-any.whl#sha256=0743a0e7e455cb301cff0aa28e462a37ee567fb0f81ec5756fc0acd808d44b61" data-yanked="" >rallytt-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/6e/2312545fd1d04f5d578c8ce68383d3b20bd70673f73bdd41b561db9b46ac/rallytt-0.3.5.tar.gz#sha256=d0c27d983b640c368f342032121420ecc4ba767418934f2237a641381366101d" data-yanked="" >rallytt-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/fe/f7354ad1a7e6c72936a898b7563a60ab59b47b4a1359228a054c967c32f3/rallytt-0.3.6-py3-none-any.whl#sha256=3d17c1286ad29a182783e9f6e934234144bf11f2443328d6bd9b8cd5d7516fd8" data-yanked="" >rallytt-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/c6/e0dec2867d2d12c0e4bf16d5ff52964338659a3de0c61b1bbcf51ccce978/rallytt-0.3.6.tar.gz#sha256=5049243ae856b90315c2d504d19d3be68bab71d2395f570881423fa314f896ed" data-yanked="" >rallytt-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/62/fd89aae3d97ebf4406e141be679ca86e6afc54d3a6f8eb2a3d96bbc74a6f/rallytt-0.3.7-py3-none-any.whl#sha256=5764c2bfdb12a073ab53b473bb883765e751bbb71992435651ed12d633c37b6b" >rallytt-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/19/7948325486975041c752309e37e836ba6368bc00326edeee5a1057cbb204/rallytt-0.3.7.tar.gz#sha256=38753f8432d80daeb049639371f01ad6e0ee84d34f85c8330ccb0a9058085ff1" >rallytt-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/a2/108f009ede168e2df01462d64b0d2e7920e1a2828b6fd67c9fb50f42af8a/rallytt-0.3.8-py3-none-any.whl#sha256=552e98e977be32c5a610712120e0b72fd446ac143f0c7b2b1d8fb3407e74e2be" >rallytt-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/83/165703f0d2035e9ddb0dbc72d5867658ccefb0166342e117527132923a67/rallytt-0.3.8.tar.gz#sha256=fec39987bbd07b27ad843ce2db3bda2dfd3a7ccced5ec9bb971ae8a480a726fc" >rallytt-0.3.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15614940-->
+<!--SERIAL 16838944-->

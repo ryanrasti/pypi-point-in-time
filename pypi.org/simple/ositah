@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ositah</title>
   </head>
   <body>
@@ -12,6 +12,18 @@
     <a href="https://files.pythonhosted.org/packages/f9/a7/5e2ebfa22d1af3fb4e91b73634bfc66d5575fb8ca5156e355937d0c64cfe/ositah-22.11rc1.tar.gz#sha256=5bd82d678d7fd2133454f929f215e1c43219b3a7e5e9bbe0da34322d69c3b36e" data-requires-python="&gt;=3.8" >ositah-22.11rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/5b/89645283f2a3e1554e22c75ea9779d15f72232a3fbeedbab4f2b800b1bf8/ositah-22.11-py3-none-any.whl#sha256=18fb37be68df6ada7bf60f5450d4b90037214b0c4f1db5797f47020058d0bd63" data-requires-python="&gt;=3.8" >ositah-22.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/f7/b520cdeee33e258781190c7bc14542497a7d8114370e8feeb54756f1583b/ositah-22.11.tar.gz#sha256=7abeba0f4ba9dcb1099fff1b861a56b82cb02647ee8befe2527fbf3e530262c7" data-requires-python="&gt;=3.8" >ositah-22.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/a5/e0c01f2d62e372c70b2231ba34f9412aa7e9096ce5bf1038645770e6e1d4/ositah-23.2rc1-py3-none-any.whl#sha256=b4ac89f1e562de49c28ac72bd9dccdfb1e9b3373675c2bd4b5a1cde1d899b121" data-requires-python="&gt;=3.8" >ositah-23.2rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/43/07344eda762a7dab15fe3f49f8b8c0f57e6f79bbbc88040b34bb23d574b8/ositah-23.2rc1.tar.gz#sha256=7fb4f4c804fcbd403d94e967f8913fb7025c9ecf029d7107ff7bc7f9febcbfb4" data-requires-python="&gt;=3.8" >ositah-23.2rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/97/7b471976c65832806e1d6a6c803483bd2d6ecf89a4028c65c06328862d43/ositah-23.2rc2-py3-none-any.whl#sha256=f065b52ccaa9011354267155151345b4ccfc77b62e18817d5a991d3a11b31637" data-requires-python="&gt;=3.8" >ositah-23.2rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/59/7f6ab2fca1f6d49929d0851af735ff21305613908c4d00e078a506aff17a/ositah-23.2rc2.tar.gz#sha256=9e117c805bb20d36732b2172df9784212ba0770eef6f04ad2918f7345a2cfd75" data-requires-python="&gt;=3.8" >ositah-23.2rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/0e/220d19d0efc15809b7e8968e741137c30ae7eb1840568f65cedef6b2213f/ositah-23.2rc3-py3-none-any.whl#sha256=f49f6293e2105e51b96bd5a701c0403a769317aee7ed74cf9998d18b3bf88955" data-requires-python="&gt;=3.8" >ositah-23.2rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/4c/0aa9ce32f31048724d6a333e20d0cfd958dea800300ba8e3fe6288d01996/ositah-23.2rc3.tar.gz#sha256=fa8998c0a22e4a65c6b613f0360a8bb91dfc8bde0980b008e26ec11c6600a568" data-requires-python="&gt;=3.8" >ositah-23.2rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/ac/fe335323623b7c37bf6976d142031c410964eb5b497237cffd39df20c334/ositah-23.2rc4-py3-none-any.whl#sha256=ced3ec28f9b0fca37af6205cd43fec8417a8a573a6f4652d426b9152f3a34c10" data-requires-python="&gt;=3.8" >ositah-23.2rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/31/0d6a1a58d3d4b8e1ea66df4f956fd77a08830fa86de96ff79e22fc5d5eea/ositah-23.2rc4.tar.gz#sha256=efcbc7aaac662729f398137394e46a73dacff505f6566dcd654f11f245ae8b0c" data-requires-python="&gt;=3.8" >ositah-23.2rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/6f/2f5651b3b79489b3aa4519fc4b186c55c79248815948b6924e8e866624da/ositah-23.2-py3-none-any.whl#sha256=85a6eb019339e439205623b43a01abcc63e46773fa249aef0974110866932724" data-requires-python="&gt;=3.8" >ositah-23.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/1d/940729f4cb967f452fa8f6a0bbe6b6e83000e093d1a3b1557395544f052e/ositah-23.2.tar.gz#sha256=08367630446cbfe23d8630583f3a6def2b1f131392b807b6c677dd0a4cc157ac" data-requires-python="&gt;=3.8" >ositah-23.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/50/c411a2ec2e0a730127bf37676bee5a00a350d7e2dbdecc6e5c2cac93eacf/ositah-23.3.dev1-py3-none-any.whl#sha256=c458a36eb34211409c4a092e2bdb46e96e5311e5a22f9f832b25d547997763f9" data-requires-python="&gt;=3.8" >ositah-23.3.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/c1/49e69b0a394d2b111c23d6a8b3d97eb6dbd1dbacc9c00971c0cd09faba4b/ositah-23.3.dev1.tar.gz#sha256=7276efc99a2134086d7a6f0df93da274c59030f0c1bdbe3e611eccd3c6cdc820" data-requires-python="&gt;=3.8" >ositah-23.3.dev1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15814956-->
+<!--SERIAL 17129619-->

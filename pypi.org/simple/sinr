@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sinr</title>
   </head>
   <body>
@@ -12,6 +12,23 @@
     <a href="https://files.pythonhosted.org/packages/9d/28/ed096703ff51105f63d48387a8a6ec6e391ab6148e0af7c8ec02652298bb/sinr-0.1.5.tar.gz#sha256=e425019d2159d420fe37ad02383417122e144b9d6bddaec91ab93276570f8089" data-requires-python="&gt;=3.6" >sinr-0.1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/56/f8/a57bf3594d6be54050cd5de3779e918104e4b8e49a344e30bd8a121549da/sinr-0.1.6.tar.gz#sha256=ac7bb8707cbd67a7b8d714e9085518468f347d1118e66e68895847f6178675d6" data-requires-python="&gt;=3.6" >sinr-0.1.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/b7/35e6eef5b238fb0e3f9aac1643da94ef2bce96343d943068f9ef05e55794/sinr-0.1.7.tar.gz#sha256=a00285c65a09a0ee95e47a7e6b417330c35929acc781fd4f4190cc41170cec77" data-requires-python="&gt;=3.6" >sinr-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/91/ffa96c370520601beb758376824960128cba08f0fc8cd6904931a1943e01/sinr-1.0.2-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=9ed4e0a76e5bcb80fcc1ad7043203b1e7876b473b1963ddba26c749bbe1d14e0" data-requires-python="&gt;=3.8" >sinr-1.0.2-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/01/5c348ffe7792a4ec673da55699207599241593b437d4fac58b31f78179da/sinr-1.0.2.tar.gz#sha256=73878968238b9018bc0c34d5726bdfb2cca1a27dcc4e96b2a0c90ca554f91f47" data-requires-python="&gt;=3.8" >sinr-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/1f/c345c1d22b7b51f29181563dca7884f5dc8c586c3d87c1290cffaafa9860/sinr-1.0.4-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=eb3c8f11f2e9b89be0fc478be306a90a20eacc6baa8e156e97f74e434adbec84" data-requires-python="&gt;=3.8" >sinr-1.0.4-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/47/f79f87a8f88c702c3c2508dcd4d4765ea595bcfb61877fb36375a59ce470/sinr-1.0.4.tar.gz#sha256=ad76d5d5fdf952e4da556994d7572ac6fdfd3b2685b0e256215ada5916b4d3b6" data-requires-python="&gt;=3.8" >sinr-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/ca/36a2e164e152c6adcfa42d3e6573faed524afe8e1b1800838093a5e29aa2/sinr-1.0.5-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=8a25d1e26c9a1e80ab29cc74cd00ea06f5fb8262337a031d4b4a1d25d8623717" data-requires-python="&gt;=3.8" >sinr-1.0.5-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/84/238cbde88090f0cdd411e87fa89849cfdf7d7ec8a986510faae398a097cb/sinr-1.0.6-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=abe5ace1f7cef22430da779167a108d31de1d3e3f30a0cc87192ee039c955de8" data-requires-python="&gt;=3.8" >sinr-1.0.6-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/4b/a78ad9d9e6982408852e062049b9d763d30b40e660ec4d7c879082b89534/sinr-1.0.6.tar.gz#sha256=459601e354c07bf7924328b75c514be2888aac8e6811f9c42bc67deca3487a90" data-requires-python="&gt;=3.8" >sinr-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/f4/9c7756e84059c38bc9e85825dae8b740305294aabfb4339d82cb44ba4cb4/sinr-1.0.7-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=c552df9a7ef047c835d917ec40c374bfc98be363c62dd3e8f61a421b1a737355" data-requires-python="&gt;=3.8" >sinr-1.0.7-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/7a/530fc352e55e4278100130244ce262a0f261650cbf2cf6f6c97512d419d5/sinr-1.0.7.tar.gz#sha256=0e2e15b4227c5d90efe5e5a67da2f24ae13f401685213a7aa3fb97659b0035e5" data-requires-python="&gt;=3.8" >sinr-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/93/83f5485efb205556e79e7007bef84de27afb734eaaf6c7d61346327617c8/sinr-1.0.8-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=94f83e2bc632eb0d4982a04d72cf322d5b82208ad50b67bb9c45bae249a87af5" data-requires-python="&gt;=3.8" >sinr-1.0.8-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/a9/22120362049e18ffbb57ce2a370ff6c95afc94d315c3d92a961a561abd7b/sinr-1.0.8.tar.gz#sha256=2213b5b9e24553ee6f76f5faaaf7b248da77fa89a1f1167e956a0b14fb3ed138" data-requires-python="&gt;=3.8" >sinr-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/9f/0c59e5de685fde7409fb42b8760d0c1b4c4105f947aa9114fb18d0dbbdf5/sinr-1.0.9-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=d6af8687a157d2984089b13939a52e0bdd90175a501420d3659caad0bc7c3b1a" data-requires-python="&gt;=3.8" >sinr-1.0.9-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/ac/de99e403aaeeb8f9717861240f6d6883b2e707d82baeb02c593d95cf22f6/sinr-1.0.9.tar.gz#sha256=bcfc97e15debf3cf0484e74986cb42d9d3d299618e19fcd4e4bc89bfe40611d6" data-requires-python="&gt;=3.8" >sinr-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/20/49012bee2322ca102727de71ffe3c8d20bb1c4af90da1993fd696307c848/sinr-1.1.0-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=3a0e442398170cf1701ed613978364a1603f99a18931a8c8b9611db27cfe7348" data-requires-python="&gt;=3.8,&lt;4.0" >sinr-1.1.0-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/2c/254baa1bb11999726d95d0b6a2cdf9e971cbbd0911eda229ab3485cdaec3/sinr-1.1.0.tar.gz#sha256=89074bea86654195e0a32e47bf0fb09248c98b0fd1ee8e498f244b6034c93de3" data-requires-python="&gt;=3.8,&lt;4.0" >sinr-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/32/0a2907391404e7a211815e3be669b7e1a7ee3a7d6c8f0cdef266d584c7d9/sinr-1.1.1-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=9d1dec021799913d6ffa74ecad56536ac23cb9f3fc5c9898766ad88d2b1af193" data-requires-python="&gt;=3.8,&lt;4.0" >sinr-1.1.1-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/28/9a86fd0fdfe8da44e6595885ec003bb418ccb37b78843a36c6a6685dda83/sinr-1.1.1.tar.gz#sha256=a3d01d45961b472d299cb193701dc7c9d70185059630b74e53a34c0235201a4b" data-requires-python="&gt;=3.8,&lt;4.0" >sinr-1.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13284027-->
+<!--SERIAL 16942477-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for v4l2py</title>
   </head>
   <body>
@@ -11,6 +11,16 @@
     <a href="https://files.pythonhosted.org/packages/e3/93/6959555e539e76bf1268d65b676a43277d243a62911b1a8b80e5519178d8/v4l2py-0.6.0.tar.gz#sha256=99838cbd36d882df95cd438490ac897793de71abac78a4732efb21f8e3426589" data-requires-python="&gt;=3.7" >v4l2py-0.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/fe/e0587b977a3d36a5c4856626722f3f5a072116dc2e33d3e10eef17b3388f/v4l2py-0.6.1.tar.gz#sha256=d5bcb0eb235be0817dc4398d78cb9ca5a9f375664e4cea519d5814bfcd221909" data-requires-python="&gt;=3.7" >v4l2py-0.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/59/c6/96ab381acdc62319d753bea523281c03b7daa46d1dffbe84739ddc512a24/v4l2py-0.6.2.tar.gz#sha256=f4926d73cd6495a7d044c74ed3c2ef2e4e73a5d3175a61750cb3c78b790fb91f" data-requires-python="&gt;=3.7" >v4l2py-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/62/29393d08b6ce40d9349da88431906d4469eeec6e041ad82007d697bbcd94/v4l2py-1.0.0.tar.gz#sha256=5df0de53fee312673ee77b329da4735c9d1e7505159565d88023b35d45f34a26" data-requires-python="&gt;=3.7" >v4l2py-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/7b/b3cef105fd5930b21a2e35a005ceff6f23d1a18c8b544ae34b104fa6597f/v4l2py-1.0.1.tar.gz#sha256=4aa7f2aefad4ae388d05d46c2619389bf4140b399831b2509d20a9025f6df11b" data-requires-python="&gt;=3.7" >v4l2py-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/d0/d585cea0735b631ac5404aba5c072a61353d3051b65c318284587ac42418/v4l2py-1.0.2.tar.gz#sha256=ca5eeb562a6efb57a6e53dc449b5760128bb357d0d1c99a23c78dab3e0f02f35" data-requires-python="&gt;=3.7" >v4l2py-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/72/911622852b33dd580012b58260169476fa5d86075c1d2333181f44cfd721/v4l2py-1.1.0.tar.gz#sha256=1059f29f379ec76114cbd15eaa5c478917876becaaac6e8871e26d1c6e519e91" data-requires-python="&gt;=3.7" >v4l2py-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/2b/80f3cf8421b841890213d660155107e2d87cb9058f7c2126effff312a81a/v4l2py-1.2.0.tar.gz#sha256=13ce018cfe31c9d3577ae8c7979e0e15ef9484f02188ae5d95da3338fb05f0dc" data-requires-python="&gt;=3.7" >v4l2py-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/61/12e90650fc7fd42e87bc47f1be5fe4268035d38193f8f66a5e7006d528e7/v4l2py-1.2.1.tar.gz#sha256=c21b2b8bc68c1059865f8d67945d7fd0b4cc662dfc9cc3527daf1809358e06de" data-requires-python="&gt;=3.7" >v4l2py-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/6e/a145378bcc19f3cb0fd6b15b19f6a44942289dbf4b2b3e496b8487e2b61d/v4l2py-1.3.0.tar.gz#sha256=d37486c1d18bc9819f8be6e44a75f2e7d2b6ffaa36f9223cb54f1fad4d1b8044" data-requires-python="&gt;=3.7" >v4l2py-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/74/27546f64b5f3c1c383d826aaf8fd98decc582b172d01ed80805da2bc6f3a/v4l2py-1.4.0.tar.gz#sha256=8539604bdeff465dc3088ba9fbf25725ebe9e54cc9aab30fdeab2b996b8f2dc4" data-requires-python="&gt;=3.7" >v4l2py-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/bb/209b48f5c3b820cf2a2a2d4206f52cd9207e842709487885e703d170eec2/v4l2py-2.0.0.tar.gz#sha256=e7cd2b045dbf61b93466b029703d98fb177dc5a257b7d4e394928d6bee4f0b42" data-requires-python="&gt;=3.7" >v4l2py-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/7e/df6b46c39f70760152fe8a1dd1dcb8f8874d07daac614cd682377efb08b7/v4l2py-2.0.1.tar.gz#sha256=8aab7a012855542a62a12e3985d388a873913ffd723fb190157ee18d72d6a5e1" data-requires-python="&gt;=3.7" >v4l2py-2.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15386102-->
+<!--SERIAL 17140437-->

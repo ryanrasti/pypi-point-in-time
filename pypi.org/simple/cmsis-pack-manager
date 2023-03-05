@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cmsis-pack-manager</title>
   </head>
   <body>
@@ -144,6 +144,16 @@
     <a href="https://files.pythonhosted.org/packages/26/65/243437f4e44962d0a176eaf793cce20f8b03e6ea493ccd457cd36289a0d1/cmsis_pack_manager-0.5.1-py3-none-win32.whl#sha256=e82e0c6de8ace2ed716f5f3dea776138447419776d1a302d4f90f1e39ce0227e" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.1-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/13/f4de1f2bf4ac429e5044d37ed496c270b626fabf244177cb1bf317cb80f0/cmsis_pack_manager-0.5.1-py3-none-win_amd64.whl#sha256=6680e3b5753fa8f0f3a4ea9c363869f069d41b62b10630d86071e46c68aac746" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.1-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/87/02/4ab8a118e416f60925168a2b3187ff90c4a9932c39fd48446ce1ebd05a32/cmsis_pack_manager-0.5.1.tar.gz#sha256=da92862653ee6d1f82e1485d0ae30347d186db040e68fe9890c5f178071a4649" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/11/1c163662fd22e747848b0e5784070ca3f177b1fd68b11a41b0b433d0ee3a/cmsis_pack_manager-0.5.2-py3-none-linux_armv6l.whl#sha256=f6e905e436f4b5138df58730c47ac4b31b8a80a156787932c0b2e658052019b0" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-linux_armv6l.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/e6/92e90c25d5263dea5c17bbfb8ed162c0263cf85d3bd30f2dd46a05b5f4e9/cmsis_pack_manager-0.5.2-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=6399dadbd563bdac88f7e72262dd4068053e7331b4e063333d787a8041d9da21" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/57/6de51e2f82a3d51394b2955c7a1573627bf971261ab201b76d5e0eb37030/cmsis_pack_manager-0.5.2-py3-none-macosx_10_9_x86_64.whl#sha256=029ddf0a7a48ddb14f41f3569e2a00110b197641319c86dbbaf2229568c972d2" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/5e/1c89facb0ff2db4faa62bdeb17c44eadb68d4aea988247dacebab42c5ae6/cmsis_pack_manager-0.5.2-py3-none-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl#sha256=bba42d33e7e633ebed59d3b4a713465fc76b19a39c46e4944a2373869bba159e" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/2c/5b3acef58d041f2bd2e6bbe124d5a598c188b94eb71a50d3f83565a3876b/cmsis_pack_manager-0.5.2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=9244c1351c587f833c546c35789c90771333b53cf07e68cb6b07ff27076d7cde" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/35/93e11bf4c25c945a937a8cbb452d32b94145d947676457fbc10314f0c8b5/cmsis_pack_manager-0.5.2-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl#sha256=8ef18ef22a304a49ec171113c10d79be81ea1dc4e9a6929b585230d984a7345f" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/16/f61d34d9a52575ed77563df93a3de10b4c3f92c02ba048395842db25f7f2/cmsis_pack_manager-0.5.2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=201459271d8af0ab28182a62338272c7f3563aa41ffbf77a146433d48618904d" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/c1/4ae02c953706df9de5bb1fb92ea30dcedc1706edb171a163fd6d280dd91a/cmsis_pack_manager-0.5.2-py3-none-win32.whl#sha256=c0223095512c95e775eedbd8664913cc0d3ad8170f88a7d311fc2365b7ade83c" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/92/1a3869e0a14d8ab651ab5bcc429186f7c5df6e6f13636c579d8d4a626bf7/cmsis_pack_manager-0.5.2-py3-none-win_amd64.whl#sha256=99d6e76809d994e2c47b19d4b2de5ec15703fb6c720030f2b2ad281607fb8f03" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/9f/dd005073d8d14cc1582115e477b0ecb6959b03cb2febc141f26a93d6a8e6/cmsis_pack_manager-0.5.2.tar.gz#sha256=b157f2cfd0fbff46a7229d1b10fa751099044436cd27774273274b6edcb52ac4" data-requires-python="&gt;=3.6" >cmsis_pack_manager-0.5.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16189960-->
+<!--SERIAL 16604176-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-instant-coverage</title>
   </head>
   <body>
@@ -24,6 +24,12 @@
     <a href="https://files.pythonhosted.org/packages/e6/32/a0662984741c92b574f92e8936724aaf95e32779871856d3c97156b81e96/django_instant_coverage-1.0.0-py2-none-any.whl#sha256=59f1a6245d7765c8246d37c8c3f8819ed8534c217fee47c79c80df64d2865a9b" >django_instant_coverage-1.0.0-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/49/57/2ac0201a75c6e86a670585f21996fa032a7fe33d4614179f95788305176d/django_instant_coverage-1.0.0-py3-none-any.whl#sha256=6457804f3fc9ad8daf647ca117357410ead93c3746a51774ba813a64d550599f" >django_instant_coverage-1.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/31/4b03c8e3b3299f8922d4c37b251f76a9a63184a5e1d366e2fe1e674b312a/django-instant-coverage-1.1.0.tar.gz#sha256=b26aa84c5b2e7a09e5620ccbb9b638ec42b4d79c184fb4887018ac30a828a163" >django-instant-coverage-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/2d/e85c81b98c59bb29e65e0b0715be38a2683a54b05a6b3b44ffddd8346160/django-instant-coverage-1.2.0.tar.gz#sha256=cdaa0f995101183a2a0a4f322add6d74300149fe05de9d3e4f22818d9499eede" data-yanked="In making type checking work, I also made the act of importing instant coverage cause tests to be run." >django-instant-coverage-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/df/3cd2160b34dfb280bde5f202c207d0feda9daae3cb1c9438707f82b0fab1/django_instant_coverage-1.2.0-py2-none-any.whl#sha256=3d4b68fd051a55562d9e5e143a181234aee42fdf9c53aa222f1e2998f7199db5" data-yanked="In making type checking work, I also made the act of importing instant coverage cause tests to be run." >django_instant_coverage-1.2.0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/2f/522453c420befa61b7b3281a3c8da79ac39538c2b87cecc3239e6643b5dc/django_instant_coverage-1.2.0-py3-none-any.whl#sha256=f9cd0149fa553724f05943ee414209e53e1a667cb90690423541bc4bf29abcda" data-yanked="In making type checking work, I also made the act of importing instant coverage cause tests to be run." >django_instant_coverage-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/99/f9451bc014a1961ede222af9a92f4133c1eb814c292c9921193d9f1b3fcd/django-instant-coverage-1.2.1.tar.gz#sha256=a8fbc778c429bed2884b7c15be16b4409e6fc2d5d64fee5f4e5060f4e14cd143" >django-instant-coverage-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/5a/7b0e74c3fb3c754e88a6a21e7e04918a46c8ae3f401a6dd83e99ea9a6abe/django_instant_coverage-1.2.1-py2-none-any.whl#sha256=908fa6aa3452bd28c3b0b242a2f2bb3e5f07bd478d2600aeb15c3b711b6321cb" >django_instant_coverage-1.2.1-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/32/b70b374cf6d7b7cc905fc11b0bfd6d68bc34bfd547c37186c5f6ef1b7c23/django_instant_coverage-1.2.1-py3-none-any.whl#sha256=bc4aba331e38da68d792215a031a3eb7d4d9c6e3bcb992edab7a536ee330f567" >django_instant_coverage-1.2.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 3648028-->
+<!--SERIAL 16485760-->

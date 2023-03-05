@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for morcilla</title>
   </head>
   <body>
@@ -44,6 +44,24 @@
     <a href="https://files.pythonhosted.org/packages/d6/81/6feee827736a9f6b176303e70ade7be1c49fb84cc53078183ff0decc6330/morcilla-0.5.23.tar.gz#sha256=5f2e52c7c091fa180e0c86cc86225afbd96ea2daaa52b4513efa9782d189ba63" data-requires-python="&gt;=3.8" >morcilla-0.5.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/7c/2334bf15e078ec57110ad0963ea6102c4efb1c19ff835c7f54ce62724d69/morcilla-0.5.26-py3-none-any.whl#sha256=14d30cca496fe5690ae1954c1f211019b64db1a28f16a9e3ff2d59fa465a77d7" data-requires-python="&gt;=3.8" >morcilla-0.5.26-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/28/4243226a648332d569c218753ffa245b8beb9723738eda902fa284694e7b/morcilla-0.5.26.tar.gz#sha256=8ac511029b906c899a86b8291f8470b624ac1d41700e7ff5fd31729d07c77e95" data-requires-python="&gt;=3.8" >morcilla-0.5.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/24/ebb9e4ff371aea38de92795905d3d22bd1d7edfa50b17d517d81b0138314/morcilla-0.5.27-py3-none-any.whl#sha256=9294f9a6d15e58fd9f4f095204b871daefb8510d76fecf6db452f69a1e329ae6" data-requires-python="&gt;=3.8" >morcilla-0.5.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/18/4fa11df20c077577e4b08455d1b2bf2b8900c2cc4d01bb2072b7ba79907b/morcilla-0.5.27.tar.gz#sha256=78a742a2ecef321f72b7d8eec29fe388c35c899f71a70c503306750d45bdf39f" data-requires-python="&gt;=3.8" >morcilla-0.5.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/d3/66e1aabad90e2a6b8e965c33ab014523165848c922e748781078f8ab508e/morcilla-0.5.28-py3-none-any.whl#sha256=47c2d654823bbc2bb4b2efa08e2cef086a828249f182a315a0f4210d6dd3e54c" data-requires-python="&gt;=3.8" >morcilla-0.5.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/7d/6d83a74078a98d577bc9b411a0483ffd96283a771adaba4a26e207e3870c/morcilla-0.5.28.tar.gz#sha256=d40a55e8d744477d7abc8f5be9c6afd2f7e0c0c45e05fcc405a1f44b661cfe77" data-requires-python="&gt;=3.8" >morcilla-0.5.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/5d/756ab30cd6e03a1c01581da94c480a962406cdb4b444714daf1bcdc83ad6/morcilla-0.5.29-py3-none-any.whl#sha256=be92ce3fa5a60b8e0ac62633b47ae966764ec34e83a323af59b9f03bc8257614" data-requires-python="&gt;=3.8" >morcilla-0.5.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/5a/77836e1cbc11a67193199d5d2347a8e1708508cdb4e144f56eec2b3ad9bd/morcilla-0.5.29.tar.gz#sha256=55d6497b95c376eb317ca3291b03ce47c8c642d49e016c9e4dcc294a568408e7" data-requires-python="&gt;=3.8" >morcilla-0.5.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/e4/3da380c5db02cde8eaabfce20f8c119abaeae8431b6a7981c5adabea59ee/morcilla-0.5.30-py3-none-any.whl#sha256=2fd0d91fd38e00289bbf8488db09d8b0c0da0d24016fc1d8ba8d77a698306604" data-requires-python="&gt;=3.8" >morcilla-0.5.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/73/69f8a532bf79ef839be9137d58d0a59528efe014100bab40b1369b14c57f/morcilla-0.5.30.tar.gz#sha256=0e28174dd8d7197b5b7d33ef9ec6eadd429e30cf7be37822f2aabc60bfdd67f1" data-requires-python="&gt;=3.8" >morcilla-0.5.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/24/b8a311ac8f5b9706e634b99b24822ac1c07eedd3c9dfa7fd927637b44120/morcilla-0.5.31-py3-none-any.whl#sha256=82dce1a735db8d1f975f4e137c23b9ca21462cd92f95abe13e624bb4eb227eb1" data-requires-python="&gt;=3.8" >morcilla-0.5.31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/6b/b3f838da2364f3049cfccf2884ebb85b268224bde371e3e10edeef94f178/morcilla-0.5.31.tar.gz#sha256=1d86ab1c6fbe50c484b1b85bfa1de9df651b45bf446a50f8500a7371ec1b3add" data-requires-python="&gt;=3.8" >morcilla-0.5.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/63/708e4bf3241d1acfc8a19b8adbef10fce508730a57f316443657e7573696/morcilla-0.5.32-py3-none-any.whl#sha256=741731df7434c5a5166dd10d42239748b72b0f25c35ba1ea73712c59e3385430" data-requires-python="&gt;=3.8" >morcilla-0.5.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/7a/78773e0c4aeab0581a45bd0e9a1f2d5323eacee0250c625cef25c6f9ca33/morcilla-0.5.32.tar.gz#sha256=1b131ddb06d693d2ad8a1cba27a578d2f7cd75490d6f31b30d328fb811d4fad3" data-requires-python="&gt;=3.8" >morcilla-0.5.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/59/3ce47b10e238491b0cc2eef8fa2d8aa0520a85222dc66ab279777ff92e2d/morcilla-0.5.33-py3-none-any.whl#sha256=be0eb421d24de12fe432439ab3479807f83d8a6201e94f09ed96df6b02d5c34c" data-requires-python="&gt;=3.8" >morcilla-0.5.33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/04/d65595ff73647a7d9b9cb46267a3203fd644c33d0538c87b4b5ac2a129af/morcilla-0.5.33.tar.gz#sha256=583c800036059f3f3b6f908b6a3111504bdeba002d668e45ed97f981035043f8" data-requires-python="&gt;=3.8" >morcilla-0.5.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/06/89e43a685e462f1e578656203a4b149e36774c4fdbbefd66fb4d63d808f0/morcilla-0.5.34-py3-none-any.whl#sha256=a759a5026fa73df6c0073911f80dcd6db3c73a7de3435870e2162f8cd9566ce0" data-requires-python="&gt;=3.8" >morcilla-0.5.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/e2/d882b3ba0f820cb4ddb9932c556377d879fd816263040b40e7504616fd30/morcilla-0.5.34.tar.gz#sha256=c949ea49f109e1c2af122a71b8d7334d36cc982054596959f0c49a8dab4cf1da" data-requires-python="&gt;=3.8" >morcilla-0.5.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/77/55cd765fa51595e43cede56d5e3550da3a6e5467be25bb8ffce15beef632/morcilla-0.5.35-py3-none-any.whl#sha256=fb769e925fceb3828d06818ed2e08037357ebd31f724fef54b7f2e56d38061bd" data-requires-python="&gt;=3.8" >morcilla-0.5.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/79/3adc17493fee84d1830472f87be1986511e8386ab4a6cfcae873a8b1ea63/morcilla-0.5.35.tar.gz#sha256=32da378e2935e06d1e102bc1d0d72c78efb2d899569bbb4056c868e435ae9d36" data-requires-python="&gt;=3.8" >morcilla-0.5.35.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15700996-->
+<!--SERIAL 17097158-->

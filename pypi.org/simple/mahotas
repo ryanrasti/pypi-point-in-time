@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mahotas</title>
   </head>
   <body>
@@ -107,8 +107,10 @@
     <a href="https://files.pythonhosted.org/packages/de/78/39f2cae7781d45903851baa593a622b07d62b4c0a36b7858a53e2f569ee2/mahotas-1.4.12-cp39-cp39-win_amd64.whl#sha256=d3d5b1bd84397129c71d902e034459624e27e9a01d1f77a588c1ba58c42bc2fe" >mahotas-1.4.12-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/27/d15761bf04a4efcfdb44503df63c5b057374d56d0876f5aa3ee7c6f2c149/mahotas-1.4.12.tar.gz#sha256=6c2981a59896433e11817ac18e790369cebaefefce832df4c9e171f7641c5da6" >mahotas-1.4.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/12/0a/58be7151ebc89df507c377cf4ee9f4001ca350a7ef1216345d06af49e171/mahotas-1.4.13-cp310-cp310-macosx_10_15_universal2.whl#sha256=0515d6366590aaa527ae3ffea37171bb46c5f66eb9274d05bbd89f01a7691d3c" >mahotas-1.4.13-cp310-cp310-macosx_10_15_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/d2/843c94e9bda782aea3be35f11b26b387bd0a488319aaecd6d202a818e886/mahotas-1.4.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b83756823807029e6e0ba43336430a7d14996ad3e90b941b97b0211a3c592852" >mahotas-1.4.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/21/99/04b74d55892aa7d45245ce07153ec407bf2d59da08f32340b259743f5ffa/mahotas-1.4.13-cp310-cp310-win32.whl#sha256=d382703e59f003d3424d409c315eeb4b1a625925d72994b0041ab391a6730d80" >mahotas-1.4.13-cp310-cp310-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/24/20/9ccfeeb6d8ee7d00642e23865e77e4e4aa9a76d979f2c95390969f62453a/mahotas-1.4.13-cp310-cp310-win_amd64.whl#sha256=82e600ab9b1ede88d73ce32e1d7e178361c016e896b7dd7e2a5cc4f46bcd2d21" >mahotas-1.4.13-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/a3/4703d98ac4b048546518aa002563cf762989153aa51381c2c040e7f83574/mahotas-1.4.13-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e3328c0ff1ae828c544ba0df0fcdb5d0759948f86884f8fb31494d0441f45574" >mahotas-1.4.13-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/08/bf/f41ccb09407e3d729a0d27ca6ce673536c506964e0dd12767f2345a0f594/mahotas-1.4.13-cp36-cp36m-macosx_10_14_x86_64.whl#sha256=59ab9baf1b89b5478208965b72c8687b27e40dabe33a040e3b9638dfc584a59d" >mahotas-1.4.13-cp36-cp36m-macosx_10_14_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/1c/7dd21c5bac5710ecbc29c32ea885df63b29b6a0dd841822ba7288326794c/mahotas-1.4.13-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=cbca872d4d1037c8d83587204d573c017166f16cddeeeb76d5ec6e7abcd8401e" >mahotas-1.4.13-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/71/0af0b2b65432c3fe8d6aad53d83b14ced0014fbb2ae9093bc829e7fa6304/mahotas-1.4.13-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=074d827cd0d47d419b60da869e043a80db78c21c15f38b2da4bfbe1d7114ec82" >mahotas-1.4.13-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
@@ -132,4 +134,4 @@
     <a href="https://files.pythonhosted.org/packages/ca/d7/072f0bba098df3acc8d2db25ae6dcb3d46882d241369038a0f8fe64b6702/mahotas-1.4.13.tar.gz#sha256=a78dfe15045a20a0d9e01538b80f874580cd3525ae3eaa2c83ced51eb455879c" >mahotas-1.4.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14270342-->
+<!--SERIAL 17077809-->

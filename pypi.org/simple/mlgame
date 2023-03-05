@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mlgame</title>
   </head>
   <body>
@@ -56,6 +56,16 @@
     <a href="https://files.pythonhosted.org/packages/5c/a6/0fce03f2fcea341ef59d3bfcb200c245e0649d14df6a91851fb24640f917/mlgame-10.0.3.2.tar.gz#sha256=80d0c0d881c3be4a2f57143fe1bba2db1da2b28ae4c31f295ccb33b82ae37aaf" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.0.3.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/57/d583249de9cf96623ebbea7d9e9aaecbf1b08cb1ff0122ee85c604f4b88b/mlgame-10.0.3.3-py3-none-any.whl#sha256=2f42375a7931cb370a44fffaf3eb3e6eb9d905a0f28d51feecff81ed762da857" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.0.3.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/2a/10fcf8813759327c022b9f9b922f09a9746d4ae409ad2c4fd8b1996c7258/mlgame-10.0.3.3.tar.gz#sha256=b4d6b92df0e1cf58e1b226192dd39181515f797f999ac2dfe4b92539a96543a1" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/88/9bd1abb2aab6d2dd9c77179d621bce98cbe057bcb1973e5d62718504a1bd/mlgame-10.0.3.4-py3-none-any.whl#sha256=42a76903573e8a743fe6e36c0c2952007167ad8786ebca20af2e9052788a606e" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/f6/50994449b7d81e4817c647b1dde6c966442ba8581ae16c6b583307498a33/mlgame-10.0.3.4.tar.gz#sha256=a0b214eadbe5be4d5416b566b41c8f14470e747126af128a1e79ca7aed6ab8a3" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/4c/79edeb5c78e7e61129db3f5bbba398a076f198c42b08871388cb5cfb74bd/mlgame-10.1.1-py3-none-any.whl#sha256=4828466836df7cac42d2f92f22afbea8c206af9c7dbbfd4a9965833e6979f387" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/bf/e2553f7f7525c9a1c9623e4e07c6566a19b5d5b294a7df7fa742d357d18e/mlgame-10.1.1.tar.gz#sha256=2aa20e1e5a1151f52b53fc835054f0b550c96fee4f163084a00b65ddad8e6972" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/da/03d1a11aa7657dd9e4c78872a2dd5703ccf5b85125e7e6e34a5a064ad1a5/mlgame-10.1.2-py3-none-any.whl#sha256=897a4851cab8ffabca7af36c059235798195e08b56088a2f3df37759fec72e49" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/d2/dc9c610305ccd957af3e509736c5fa75f5713f793e8fd259a6376ef50496/mlgame-10.1.2.tar.gz#sha256=dc9d2886cc45e30198fc13a05084a18868dc1d03fa5b7adf79ff2aa243d4d65c" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/83/cc047ef0b5549ff32d7f183f870b2b11fa767fd14597cebbac8c692a7410/mlgame-10.2.0a0-py3-none-any.whl#sha256=4190a9cc7aa6cb669c8ba8353e3f6953783931be8c5fbc065bda4e89d9bb8397" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.2.0a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/13/8939ea36e67f24b0e0cc8539cf7ea8c30726de8861b5142811926c9e7875/mlgame-10.2.0a0.tar.gz#sha256=dd03d3255fe95ab360be2b8e82734736db278666b8f934efa33b37f7f8b11de1" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.2.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/5d/36ff5fa5c0da3744b42eb1f089a9465a7b0507f377280e43c4f659fdddfe/mlgame-10.2.1a0-py3-none-any.whl#sha256=ff72cf67bd55322372e33c591224b3b777c4dc95de0c8bdd4a150e1f55982b70" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.2.1a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/ba/80f2d2348353b83af391dce2d8b622802f4b44e40add7b3fa693d8623ada/mlgame-10.2.1a0.tar.gz#sha256=117fdb7a81239ae96c4fb40d2789d8dc09ea889aa822592a8b199c35de776cb9" data-requires-python="&gt;=3.9,&lt; 3.10.0" >mlgame-10.2.1a0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16283995-->
+<!--SERIAL 17122256-->

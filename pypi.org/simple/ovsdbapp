@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ovsdbapp</title>
   </head>
   <body>
@@ -133,6 +133,8 @@
     <a href="https://files.pythonhosted.org/packages/bf/6f/b2cb2dca0f9e74ff75811b5f5b596220cf7122439d446411bb66107e4bd0/ovsdbapp-1.12.1.tar.gz#sha256=540ab7c08db3f3e3c52d0f8cdf87f3aeb5693fbe49ba544c1e78b1e127e5bf6d" data-requires-python="&gt;=3.6" >ovsdbapp-1.12.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/71/3145a95c5b17b71c05bda8ae88ba8d1d169e19d554ba415bff000268e3fe/ovsdbapp-1.12.2-py3-none-any.whl#sha256=bc601072fd2104a4fe301ec8afc0279a6f892c4ea34cce8d3d71ed5328e7afb2" data-requires-python="&gt;=3.6" >ovsdbapp-1.12.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/5d/f2e1b62c623a71c17657892b5d9ca68a737942efcf05b05bf62554634912/ovsdbapp-1.12.2.tar.gz#sha256=9c73bc55c3c79ea19e32f2ce28642c77bcdc86022a6cb7a221f9ea22ff9516d6" data-requires-python="&gt;=3.6" >ovsdbapp-1.12.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/ec/c386de494cab3f357bc9271892e9c906ff338e87dfe65ee398748ba00193/ovsdbapp-1.12.3-py3-none-any.whl#sha256=3638865db269e959f5237189b028ca96dc34a689bbd2a4b49cc4299920e8023f" data-requires-python="&gt;=3.6" >ovsdbapp-1.12.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/e9/60c7b8b38df405a6c885e702b0f54c33a925d1218fb0d92a9ac5aab5bae2/ovsdbapp-1.12.3.tar.gz#sha256=c125b1093dcf14db415d21a5d4d965ff1c6fe3f21b70810ea72884b8cd2b544f" data-requires-python="&gt;=3.6" >ovsdbapp-1.12.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/27/c5/9ca144cd0c802af680e070916ab8d03211eda949c4af27fa60474f9335e7/ovsdbapp-1.13.0-py3-none-any.whl#sha256=cf7c59cc75abb77fdc4820bec27cfe7b3d59a1f8910fa473d35d659854659437" data-requires-python="&gt;=3.6" >ovsdbapp-1.13.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/94/8c/8fcfa2bc33b671362f74344bd9536d9199fe2a284e19c7d5dfe805e5e323/ovsdbapp-1.13.0.tar.gz#sha256=f22b7e236166822adccf8c7e1c5a2046b8c7b4f93508db86b685a88c1b8a3c08" data-requires-python="&gt;=3.6" >ovsdbapp-1.13.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/0d/596829291316cc1e795f41b9cbf39a48d4399fd025a950d2ff48944e727d/ovsdbapp-1.14.0-py3-none-any.whl#sha256=f02e13402feb4accb83dce661e4ef853d2313c0b4edce64d14b89252a78957f1" data-requires-python="&gt;=3.6" >ovsdbapp-1.14.0-py3-none-any.whl</a><br />
@@ -153,6 +155,8 @@
     <a href="https://files.pythonhosted.org/packages/86/41/08158a6f83f6551399c3d4151a86ff13f22fd424098cb5ff4f5a821ed4ba/ovsdbapp-2.1.0.tar.gz#sha256=ee9b32ece5662b0ac2826dfb33a778d59687c574a6e2c097b613bb29a2cd1d34" data-requires-python="&gt;=3.8" >ovsdbapp-2.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/fb/d756445f88c33f92d37deb987d93401ef05ba29ba298a6b62cc38b23034e/ovsdbapp-2.2.0-py3-none-any.whl#sha256=acd3c5ece6942bb86a38c582afdb6c213c677c3a1df362b33247e7154e065bc0" data-requires-python="&gt;=3.8" >ovsdbapp-2.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/28/56c91a8ef7f07957998555a7a82ecb72bf29193cd3694388e561e9e48eba/ovsdbapp-2.2.0.tar.gz#sha256=956f3397e6c2d6290fecdf54a223a497da7c634874583058573550c27d4d50a0" data-requires-python="&gt;=3.8" >ovsdbapp-2.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/86/4d29dc884e4b1bcc1d25c7f07649273aef0e2a3077de89e8d3cf32581c17/ovsdbapp-2.2.1-py3-none-any.whl#sha256=2b8a1de5ff4f6d593310ccb4e09368e4599a958a58744d1b97709e0a2ebfcbad" data-requires-python="&gt;=3.8" >ovsdbapp-2.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/fc/b2c44830191fe5b39d700aeb8d3290f341c3067473e44cda6dc0df115719/ovsdbapp-2.2.1.tar.gz#sha256=38c1817be1f8b97a84569b9780caa52cc5475b5a9e57e283cf3380ed8ab7b0ad" data-requires-python="&gt;=3.8" >ovsdbapp-2.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15789308-->
+<!--SERIAL 16791661-->

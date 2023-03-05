@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for recipe-scrapers</title>
   </head>
   <body>
@@ -266,6 +266,20 @@
     <a href="https://files.pythonhosted.org/packages/e5/92/2279e672ffe3c5ad77961a83b742bfe55a8feedab1aca18927ef0ab80de3/recipe_scrapers-14.26.0.tar.gz#sha256=f5ffdba502e023ac06c8fad1346744a4a155e7851543c160a1e776ae82b4b1d5" data-requires-python="&gt;=3.6" >recipe_scrapers-14.26.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/31/a1/3e187991b69216115a67e61c587f9448f84c234bcee91532226c82166ac6/recipe_scrapers-14.27.0-py3-none-any.whl#sha256=31fc53d7e2a39ca36723b99ca21fd453a28a332e6a5eb97afecbabbdca162e7c" data-requires-python="&gt;=3.6" >recipe_scrapers-14.27.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/ae/35f36781670b9926c723ee5266b15d2d548b828b3419b34f74c3985afa72/recipe_scrapers-14.27.0.tar.gz#sha256=1eb5890d415e99112afefa0be40051da345f58fc274ed091845e89be7f5b46e9" data-requires-python="&gt;=3.6" >recipe_scrapers-14.27.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/80/e4a7b1ed877172e42eb173bd93efc4bef9ba7318e25175521dadacf7ea48/recipe_scrapers-14.28.0-py3-none-any.whl#sha256=7a4fe0e2453f315ae4831e2fba84f9f4c53868a7f3f9711d190bae9c9f25ab00" data-requires-python="&gt;=3.6" >recipe_scrapers-14.28.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/a1/59a7b208772f18ec53ba14d74e3a8ba1f4a0b381b9b97c16c5183eea7a3f/recipe_scrapers-14.28.0.tar.gz#sha256=b7bf8ccd159957f26fea22d5a3864a9d6d10438175b91e07d77077fab0f02222" data-requires-python="&gt;=3.6" >recipe_scrapers-14.28.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/22/8352bff9d0729a900d66bbe05fda4084818014be72a01247fbf1f3e62c3f/recipe_scrapers-14.29.0-py3-none-any.whl#sha256=9045bc85d2821484493efcf64cf5b98473538f9b6eac9e1045342f0227ac17b6" data-requires-python="&gt;=3.6" >recipe_scrapers-14.29.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/2f/d6d1db66ef9463d3652cd9ac7dc38bacccaf82442b8b1d2c04bfd341a641/recipe_scrapers-14.29.0.tar.gz#sha256=298cee37066103ad9bad2c1898f3b8219147ee0f87ca747364f22624d59c522d" data-requires-python="&gt;=3.6" >recipe_scrapers-14.29.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/2d/1d42e820996be36ebaf5b2f8bde06228e0ae57dfef8e8d813416e87232bc/recipe_scrapers-14.30.0-py3-none-any.whl#sha256=087b4065bc926485e7e3f485310371359fb02fae7cf96ac93dfca437e09c4db6" data-requires-python="&gt;=3.6" >recipe_scrapers-14.30.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/33/02f5edfa59a6f27a44abd6f5e24029cf1b854c9bf8685b45023eef73458f/recipe_scrapers-14.30.0.tar.gz#sha256=51f8d5d11fb05b0a314ac66e0d4c402666136ad8c3c81eac97c7364bc89e0893" data-requires-python="&gt;=3.6" >recipe_scrapers-14.30.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/2b/91b0a5d7e19c64f9f8969af193f83e05b36e3954fecd20cf384f78dca188/recipe_scrapers-14.31.0-py3-none-any.whl#sha256=0944a20fdd464f563329326fe940b12d36fa915a12b54e91c62c86f7ce3c61b8" data-requires-python="&gt;=3.6" >recipe_scrapers-14.31.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/52/87da7ba102c86ddbb3269534e7606788e8d280783e43688f3f35cc84b121/recipe_scrapers-14.31.0.tar.gz#sha256=d3b54247e47a7d2a528bb94616ad273d028c655208f01b31ccea7e5cb74104b3" data-requires-python="&gt;=3.6" >recipe_scrapers-14.31.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/a4/06c825642f671aec12d19afc35738d580e300e9ccf2e469e3333bb579fcd/recipe_scrapers-14.32.0-py3-none-any.whl#sha256=78a454f1bd6be6fb0fcfb552ab06fc68de13a245f6ac38a0dc4db5fca0197829" data-requires-python="&gt;=3.6" >recipe_scrapers-14.32.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/6c/77894d0fded8d40f6aba0b7b16cf5b34e333d61e74f4ca6a987721bb3314/recipe_scrapers-14.32.0.tar.gz#sha256=1bd28fbca029c904e8d5630ab30281aec6a0d6ef226e129fbca59ec4a4dec8ab" data-requires-python="&gt;=3.6" >recipe_scrapers-14.32.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/6f/eb9e18ea71799813671d121492ff73b1dad19309282b52cd5b0175b4ab92/recipe_scrapers-14.32.1-py3-none-any.whl#sha256=95bdae00741509bb5aa82a97fca26bbc937389afe063519f2d5eaad0fc760909" data-requires-python="&gt;=3.6" >recipe_scrapers-14.32.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/12/8bb80f43da507a73fab494032285ffef6d2cf5070e4529af02c5b92ce36d/recipe_scrapers-14.32.1.tar.gz#sha256=03d746fe9a687b53b0b0e7f706d7fcbb239946d246cc237cdb8489a341fa3eee" data-requires-python="&gt;=3.6" >recipe_scrapers-14.32.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/1c/f8f762a0c4e44caed98ff60cab8826f0da19aae2d5ce80d8cfea470f58f4/recipe_scrapers-14.33.0-py3-none-any.whl#sha256=ab2d39ce5a0fff2e284698c43e61f3fd773b836f54029aee5731a2e19325d301" data-requires-python="&gt;=3.6" >recipe_scrapers-14.33.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/3f/2fa2393299c7b0b3db67f472c3fc7eb58388a60c88ed06bbe3f847a9242f/recipe_scrapers-14.33.0.tar.gz#sha256=a5e3b8ee3718a04bd09dd4c9105285ec41a202904d029e56ce63980a65b4fed8" data-requires-python="&gt;=3.6" >recipe_scrapers-14.33.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16410456-->
+<!--SERIAL 17148193-->

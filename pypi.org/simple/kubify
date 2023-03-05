@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kubify</title>
   </head>
   <body>
@@ -86,6 +86,18 @@
     <a href="https://files.pythonhosted.org/packages/bd/91/4d31350b2f1210159c8c86fe790a1395920cab59c10cfe0f72d567ed68d7/kubify-9010.0.18.tar.gz#sha256=f77922c73d865d1833f3f4561643a049c1a5a678119c4134154e417743369cda" data-requires-python="&gt;=3.7" >kubify-9010.0.18.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/98/ac/5fbaa9326b13bc73ae0dbfc74affd03d1b4162a46992f785c5589ff0a2d7/kubify-9010.5.0-py2.py3-none-any.whl#sha256=4c02554f31628e63029d7a72426940d1fb01693c3a835b414aca10071bae2943" data-requires-python="&gt;=3.7" >kubify-9010.5.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/6d/9a8e1b405b8fe7334af25c6d38e39e9fbda4e38419d3a7d425128cb3e5ba/kubify-9010.5.0.tar.gz#sha256=ecb2cd91207ffcdf4cbce27ed159fb0e3105a7b5474f72af6d4d35616df3254f" data-requires-python="&gt;=3.7" >kubify-9010.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/8f/2f99dd5301580e9d0244fedc2a331b65a5917b3ee08bdb28e114f128e1fa/kubify-9013.0.1-py2.py3-none-any.whl#sha256=d6b1c91a5b4bb68ad08d554387087b75e1a2d511089d55f2c1104d145f779f01" data-requires-python="&gt;=3.7" >kubify-9013.0.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/22/b4807521e6425c9d630cbff9d2a867f81ab5e0b382b1d13d9f0242778f1f/kubify-9013.0.1.tar.gz#sha256=6cb6cf4970c219f4ce069c14c4d7ad0b35f937c136a1e1ee70fd664688503e20" data-requires-python="&gt;=3.7" >kubify-9013.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/d9/a1befb631df13f23e29a4dbd004c5619f6c54d8d43a4908054ef9833f170/kubify-9013.0.2-py2.py3-none-any.whl#sha256=6dce80ed0c49c5036a742400131a6a14ea9921b401eaa3486d19eb2e1d435dd1" data-requires-python="&gt;=3.7" >kubify-9013.0.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/5b/af9d8d4e414b01316d3b1ae50cab1979ae21d7d72481d6b857196b24cd54/kubify-9013.0.2.tar.gz#sha256=f52350385f5afc7df680c6a851d0d6bcc8c77bbbfb961accb200531569b8c3db" data-requires-python="&gt;=3.7" >kubify-9013.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/a1/378c2c1b00ef6cad7cad4475427efaec69881f652826c873e60aa3742e44/kubify-9015.0.0-py2.py3-none-any.whl#sha256=351386eff286c36a25782d7ef8e2a26b5f07455433e1aa5af1f819e9243b0e7e" data-requires-python="&gt;=3.7" >kubify-9015.0.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/94/896b406bbdb69bb88818461b8ba950c919653b645f86f67ad825068184de/kubify-9015.0.0.tar.gz#sha256=386965787930c031581b780a8f49f1cfc4ddb35bc26bd9ddf7340c25c98fff76" data-requires-python="&gt;=3.7" >kubify-9015.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/25/b4795daa29fe96683c8ea8d20dc6dbfa4903ff2863b45b5467d47fd75c85/kubify-9015.0.1-py2.py3-none-any.whl#sha256=76b17755a638e57e73ec579a210e96d5167417f7059c5f3a2618e0efd2dd81b0" data-requires-python="&gt;=3.7" >kubify-9015.0.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/81/754e13685209c719ac5b79ebd4ae37b5d03cf9091db4eddb561a7208108c/kubify-9015.0.1.tar.gz#sha256=7c9f3e86081c625999313c34bc0b7f1ebe43ab86eb90375e8cb6cd0389b47e6d" data-requires-python="&gt;=3.7" >kubify-9015.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/73/b0a494882ed288708cd0f5b63cee87be3e8639ed0666932016c4216b6567/kubify-9020.0.22-py2.py3-none-any.whl#sha256=c47879118025a7794d03e39dfabaec7b43332ead4de6547d9cc524b14ee0f08d" data-requires-python="&gt;=3.7" >kubify-9020.0.22-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/2f/5557ec4c7021cfac53f4759e59cd648ad089d454e215563ff55b73a8d5bb/kubify-9020.0.22.tar.gz#sha256=1d741fbed38bfe4b04606873c1fb3fd66b9fc27c2df8b45cce41f24f4176b5ec" data-requires-python="&gt;=3.7" >kubify-9020.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/e1/1b798f2e63e7cfc7e18e522b56975279f52f5a717643f8b389096c795715/kubify-9020.0.26-py2.py3-none-any.whl#sha256=35a487e1cff7555ab5650832ba452c8efc73f5f04b17c29a87d61d9315a7404e" data-requires-python="&gt;=3.7" >kubify-9020.0.26-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/6e/b8eb19911c4d5f03ccdf23d70a663c74fd0e162be2089458a4643bb18069/kubify-9020.0.26.tar.gz#sha256=f64064ed347b865f220d8d2a0de440f9f6bcf158043fcb8987e4418a93e0dd02" data-requires-python="&gt;=3.7" >kubify-9020.0.26.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15346606-->
+<!--SERIAL 16606561-->

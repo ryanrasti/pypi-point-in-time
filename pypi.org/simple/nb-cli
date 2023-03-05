@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nb-cli</title>
   </head>
   <body>
@@ -52,6 +52,16 @@
     <a href="https://files.pythonhosted.org/packages/32/35/cec282521dda1c208eec9cb2979e211d20302407d98f64084bbe2c59e522/nb_cli-0.6.9.tar.gz#sha256=873b657227b159255d8135dfe079bdfc5b05dbe70c9da98f9e85a28ae2239a30" data-requires-python="&gt;=3.8,&lt;4.0" >nb_cli-0.6.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/d7/9e0f570b3f3cbafe88b1eb35d58e2244b80cc4ea543492dcd225845a403b/nb-cli-1.0.0.tar.gz#sha256=3df09c636c768a2a0ee2da543ef279f28606a1a6bdc4a14a2905ee2f625a8b99" data-requires-python="&gt;=3.8, &lt;4.0" >nb-cli-1.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/0f/205adc6f744e94200d585071dd72f65e83541f6d0c981ce44c3c8255c4f8/nb_cli-1.0.0-py3-none-any.whl#sha256=5310be08f099631f914451f9e16ed93abc4111b491bd581319c20320815103b0" data-requires-python="&gt;=3.8, &lt;4.0" >nb_cli-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/98/261849e43d1dd848e2b008c1e4860a32246d19639825e1ade32280f7a5e6/nb-cli-1.0.1.tar.gz#sha256=b4fa8bb2f98c3b110b6625b44d53a8d9fb57cfd7fa1b2fd4c96aa2ddcdd4bca2" data-requires-python="&gt;=3.8, &lt;4.0" >nb-cli-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/05/da3e28ef02592ddeae72891bca2138b57ad31a57ac97fec452220e739523/nb_cli-1.0.1-py3-none-any.whl#sha256=3f2d8ebc145204bb855083d7f21d0c2599064d8b2d699013eaeddd2b1a91036e" data-requires-python="&gt;=3.8, &lt;4.0" >nb_cli-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/f3/c77f70285d82fe77e768dfa8c0603fa4df0e6e72583e4f7de5e211a469e8/nb-cli-1.0.2.tar.gz#sha256=f0abfcac8158e921a9eb5646cc388283696648bfee2aa989a010f67a82ff528b" data-requires-python="&gt;=3.8, &lt;4.0" >nb-cli-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/8a/52d6de1e117ff56804879012382dd0873599b4a3068d82dc5bf7930a58aa/nb_cli-1.0.2-py3-none-any.whl#sha256=3188d714cacd4dd9d86a78685f5447313281838cd0f6e7cf59298f743e96f0b1" data-requires-python="&gt;=3.8, &lt;4.0" >nb_cli-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/03/957d3faa44ca78efd2a0e988d97339a9b03cb8dfbaff2e2a70a171e63fed/nb-cli-1.0.3.tar.gz#sha256=9f33d2f9869dfb73b779c09a7d5feb5b2b5bdd1493aaabbba6842ce315b55a51" data-requires-python="&gt;=3.8, &lt;4.0" >nb-cli-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/3d/8621f1ee4a312d5aad0482e5012a1e8095f169db9c47b46a464c80a085a5/nb_cli-1.0.3-py3-none-any.whl#sha256=9390da443de5856b5eefc83e2a7a607c6e5b6a38129b9af6f3f75ed4cf571614" data-requires-python="&gt;=3.8, &lt;4.0" >nb_cli-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/1f/d60945a1deddcb347ea4c5a527010e421c1981290c2f5e47fb95c6c939b7/nb-cli-1.0.4.tar.gz#sha256=f196967be533a2e46fd0b4dca51a4df7dbf65018f63c66be706b9fdaf8b6b854" data-requires-python="&gt;=3.8, &lt;4.0" >nb-cli-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/b2/75c44e37ecc6d8d03bd3a0e5ed3965352242613df41dafac1854be49388d/nb_cli-1.0.4-py3-none-any.whl#sha256=44a0c289e2c77dd57d18731d083b739158f11ea3d2315bda9111d076185ca3b2" data-requires-python="&gt;=3.8, &lt;4.0" >nb_cli-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/ab/42d7f884bb8a4ba07f077fe46d5823cd2a001dc4604b2e3337bb410af536/nb-cli-1.0.5.tar.gz#sha256=9c52c5d091a4f11e139c30605a06674cc1dcbdc5e8f93bd0d32f85146184bd15" data-requires-python="&gt;=3.8, &lt;4.0" >nb-cli-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/13/4c96ca07d15e5aeea738b6e236f62a562b9af6b7f85f1a654e5e6f489003/nb_cli-1.0.5-py3-none-any.whl#sha256=95bdf66db70eff41e69d84f550cd9d0b9bab4f39cb4544eeb4d6f809d06d1515" data-requires-python="&gt;=3.8, &lt;4.0" >nb_cli-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16413904-->
+<!--SERIAL 16916907-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-cloudwatch-actions</title>
   </head>
   <body>
@@ -474,6 +474,20 @@
     <a href="https://files.pythonhosted.org/packages/67/c4/dcd40f3b7c46e8da4419b44542099d57c7f0dbf972480cd8c3f45816fd75/aws_cdk.aws_cloudwatch_actions-1.187.0-py3-none-any.whl#sha256=e397e5e53bb7c6bdadc3a04c8c93f8fb041026c6f84ee97d2c62e8af69b3d6c6" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/ca/45e396e31458fe7fa7d48f719058c534ae45ff9fbb197315c527044512e5/aws-cdk.aws-cloudwatch-actions-1.188.0.tar.gz#sha256=d34106ab224a2512e584169f4c05d4a8260b08381dbfa6ce8aee522918aa9586" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/ab/d4283fbccebe5994d590fa98458a4dab606d217807b3c2d9d344a1f65987/aws_cdk.aws_cloudwatch_actions-1.188.0-py3-none-any.whl#sha256=4f4947465c5742da68423520db1d4d62591ce5c67697f96a30dd41e06ed4d7f2" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/7c/58c1341a137b68c8ce7b1033b1b9bad2f0cbff15194f33051c504c81649d/aws-cdk.aws-cloudwatch-actions-1.189.0.tar.gz#sha256=10c779052b2ff484300b7f94efe76527e653b0b84f30311cdc560566fcb3efe5" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/56/c17796949c072d4899fe9c724470ec4e421ec5ca2bc4bbbe5bbdc96119cf/aws_cdk.aws_cloudwatch_actions-1.189.0-py3-none-any.whl#sha256=32061817844807dfe28d41a102f4ee8418ba59e7ed81bb18808eb9782ef6e9c3" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/7a/d9787530cf94a7359eaa03b494fd96469bd461e59f2a5d4842ae122b1084/aws-cdk.aws-cloudwatch-actions-1.190.0.tar.gz#sha256=8cef856ce49cc6433ee0b7385cf65e13776a56c2ce9675bd702a73468af1581e" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/bf/2135c78035f4c1055dc32f6ec4cb228b39c9be9fade89fd10915be0ad912/aws_cdk.aws_cloudwatch_actions-1.190.0-py3-none-any.whl#sha256=cdcfd50c8a2bf9e23eb0ab041ce6022dfd7df6369e14854a78adf7d6988193b1" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/41/8ad7f25a71fa540a9f98dbb8f5c891ae29c87761214243f83d6298083dcf/aws-cdk.aws-cloudwatch-actions-1.191.0.tar.gz#sha256=77a8fcd26ffe445d09db97e49e168bca557b05d482a8850264fa06d37d69e64b" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/f7/3da6dd50291600e45b2260af5f11fe8897f44016464f48a435ca8215bd19/aws_cdk.aws_cloudwatch_actions-1.191.0-py3-none-any.whl#sha256=6ed20937cfc472b51d200b68e7e00bfd38f11f0aed59daca36a353048c3ac1eb" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/4d/1b1f6b0d99cd74aaf0705bebeb509613977f6cce90fd15f4fde0c9bf1646/aws-cdk.aws-cloudwatch-actions-1.192.0.tar.gz#sha256=ad3c691a52e972cb74294e4f43a713a3117f0726c07f1cecdc122b23a8fc9563" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/46/07eb77a108dea91935bf8c6c784a2f492c29eb8a97fc89966cf8ee0c317d/aws_cdk.aws_cloudwatch_actions-1.192.0-py3-none-any.whl#sha256=f294978ed7c0516e37ab0f034c69e89bb48461aa3a09b7061cada14da3b9e940" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/be/3985544cefb5b99f7d9565d3bb62910c90b54a81c34b9349fef4a75e4f63/aws-cdk.aws-cloudwatch-actions-1.193.0.tar.gz#sha256=4b8454517e3d67fdcf652845da3ef8fe3a41bc017f69d331ea5c6bad4e784a3c" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/33/b96f87719e4835a99319b3b78b9c566361a46007de53ce219516f4229051/aws_cdk.aws_cloudwatch_actions-1.193.0-py3-none-any.whl#sha256=53072a009fd958c2265808342fdbdf71ea93c0cbf47e1dee0b720075d04f4765" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/6f/c451a5dcef0b6e11d065c62f53c15daa257a236622126cb59aadf94f1999/aws-cdk.aws-cloudwatch-actions-1.194.0.tar.gz#sha256=1e9dc9d062ada67e9e431e51398e655eee4c14296bf94962af9535f012581b15" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/7a/f8522dbd0213e1fa013730718c1a0d16b5e127fe699fc892c8cb6d869cb7/aws_cdk.aws_cloudwatch_actions-1.194.0-py3-none-any.whl#sha256=c2e9f95f565d028e445c59651da1383e67e7b21c2d8c61935b3b727244dcf3e6" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/8f/4b593e136ef4d4c4dea7c6d5c6de86ff2d71a790da46b201eada4ee77828/aws-cdk.aws-cloudwatch-actions-1.195.0.tar.gz#sha256=f3546294fdba8b3626c449ba9a8d0e2d3afd8b539fc6605cda728904c19736d8" data-requires-python="~=3.7" >aws-cdk.aws-cloudwatch-actions-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/52/f082e45ccaf9906dd26ef19774310acb548482837df5ff1d3b92b83f4367/aws_cdk.aws_cloudwatch_actions-1.195.0-py3-none-any.whl#sha256=93bdff5ae5a89a045d996a3c09a0feeda54605c0e8272957ade74d566db5f882" data-requires-python="~=3.7" >aws_cdk.aws_cloudwatch_actions-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393308-->
+<!--SERIAL 17131819-->

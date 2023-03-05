@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for speechmatics-python</title>
   </head>
   <body>
@@ -26,6 +26,16 @@
     <a href="https://files.pythonhosted.org/packages/00/81/b69b3972f260551ce348b953b162e62ac1cf6245ab2b7f94138d4e413843/speechmatics_python-1.4.5-py3-none-any.whl#sha256=72b1a6ca95881f6663c3c0dca646ef1429d4db675d3caf447b47229b3285c577" data-requires-python="&gt;=3.7" >speechmatics_python-1.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/1f/4df6e290b9caa09d2117b69103cd970c6d6755cc00a6cbf4a1545e6e46e8/speechmatics-python-1.5.0.tar.gz#sha256=39c0235be33c576b9068f5961e3acc24e786a2f3498dc05a4d6e8bacdfabb118" data-requires-python="&gt;=3.7" >speechmatics-python-1.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/47/6bad8cd15f198a2ed0f6de60d1a13d77b9731ec1f145c755a3778bd80ce3/speechmatics_python-1.5.0-py3-none-any.whl#sha256=d6a32b9e93810ac6a3ea65a667917780c048968d779a03deac56bb072fbcb47e" data-requires-python="&gt;=3.7" >speechmatics_python-1.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/0b/e6c9a503cdcfeec7c4f34811dcda8fb92ccafb16d9cefb45953e4348667a/speechmatics-python-1.5.1.tar.gz#sha256=719f2071fb620457e91ef1c36cedc3a969e07d7a2ad55d93ea71603deb8941ec" data-requires-python="&gt;=3.7" >speechmatics-python-1.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/44/c24632be819e2ccc0b774be1e9b924ea921e01a155d938147f4e08c50cc0/speechmatics_python-1.5.1-py3-none-any.whl#sha256=5b229ef42ff789e1c3fdc3ee67d85922d025ea34e6fcb72bfc740a008080570d" data-requires-python="&gt;=3.7" >speechmatics_python-1.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/b0/3622d5f527f3f15eea99ca6c977f55831efb7a234bae43eb7131ed8495db/speechmatics-python-1.6.0.tar.gz#sha256=fb8c881bf4b28917bfd0c81dbfaeb68011dcd984126246776f6f7adff1764bfd" data-requires-python="&gt;=3.7" >speechmatics-python-1.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/7f/3c2cb466c1498e920feb835040200102ec162f76c17c9b846607e861d275/speechmatics_python-1.6.0-py3-none-any.whl#sha256=709b9825fb330ec962f2c3b2206ba87700d802ba732a6cd963443f7e50a98802" data-requires-python="&gt;=3.7" >speechmatics_python-1.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/25/61e040e84892978d5a52cacca5007f6f0a3ad5dbca913d6826cb009057c4/speechmatics-python-1.6.2.tar.gz#sha256=045997e5d7f97527b1d3dfa9774b7f72d5f36c0d320412fa061b2d748d2bce0d" data-requires-python="&gt;=3.7" >speechmatics-python-1.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/f5/4347c4becb259657b197c89478dd486be778b6d8347cfaaccab07d3a8ca3/speechmatics_python-1.6.2-py3-none-any.whl#sha256=6613c16b3ef169e74ce10da33aeaf6cb1e262fb482d4618962b19aa7a8eaf695" data-requires-python="&gt;=3.7" >speechmatics_python-1.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/dc/ae83dbc04786bfae506629b540b1b4626fd48405534bf08ff4b094ccba3b/speechmatics-python-1.6.4.tar.gz#sha256=22d935a1f174ca3a0d53fb95e75759dc9c41d696479050c6f830cfb61c470b69" data-requires-python="&gt;=3.7" >speechmatics-python-1.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/81/830705fe3b77543706c7e9541c9e4c894f6c0021b95a31a52c348b65f01d/speechmatics_python-1.6.4-py3-none-any.whl#sha256=dc94c14476188592fefd9162ea9dd01bb3e6e0ad865202d45d32b533d615bcc8" data-requires-python="&gt;=3.7" >speechmatics_python-1.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/2f/1672c01c1c9e1f8bf0ca8becba08130c1d3a8b35c248aa32f50f19fbdf11/speechmatics-python-1.7.0.tar.gz#sha256=be378cd4a085bfd1ef88209c514f61c8bed20ffc001ea1457f0bdf5610503567" data-requires-python="&gt;=3.7" >speechmatics-python-1.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/be/8caec07320833c8e3ece256b40c9ec2df990b8c4c4551690598618cc1a88/speechmatics_python-1.7.0-py3-none-any.whl#sha256=18ca51a0ec64ac39fb3970cc9aa01252c3d216d7a5b615624073c90da1954596" data-requires-python="&gt;=3.7" >speechmatics_python-1.7.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16417117-->
+<!--SERIAL 17112827-->

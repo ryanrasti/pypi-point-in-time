@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for task-helpers</title>
   </head>
   <body>
@@ -28,6 +28,16 @@
     <a href="https://files.pythonhosted.org/packages/4a/65/7c3c89b431982d41f1a6c37a5d00273e1679a1e9483f711d0ce906d89492/task_helpers-1.0.0.tar.gz#sha256=f26927213df865ff9236e420c1ebeea6695c0ae9cae0e57bdbd1b86767b0637f" data-requires-python="&gt;=3.8" >task_helpers-1.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/11/8e00e74491e29060934bca350fa3d3467eefff024ad2eb6817547e9c716e/task_helpers-1.0.1-py3-none-any.whl#sha256=bd93255c62fa4db96189b847c2f49f7449d125e42cfef56c68e69f66a96fbf2b" data-requires-python="&gt;=3.8" >task_helpers-1.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/26/6a3c6d30c29c8a08f6fe58ae3a8049e69adece32e6edd1ea3c9c37baaa76/task_helpers-1.0.1.tar.gz#sha256=e01761ddff3ad1354b12b56ac0b67c9d791c97c47da63b47f0250cff1807a1fd" data-requires-python="&gt;=3.8" >task_helpers-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/2c/af09398d73362fd7d5bb992535dccbf910c22c359135c3bbd8886ebab0c0/task_helpers-1.1.0-py3-none-any.whl#sha256=c24d06ba6373384a1bafe90a0825cfe799e95d08c9b08e8f9712ce81853626de" data-requires-python="&gt;=3.8" data-yanked="bug" >task_helpers-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/7e/23be9b452ac1402ab5a9e1234b70d74ecc0d1dcb19ea3acd4bfb45e4eb5b/task_helpers-1.1.0.tar.gz#sha256=84dd106c7095b78decd0ee94c75619907d3dd003c55804182ad1352956c3d935" data-requires-python="&gt;=3.8" data-yanked="bug" >task_helpers-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/31/df042837a05db7320c3fc1d1ad071285e053e10e8410821d2e7efe9e6106/task_helpers-1.2.0-py3-none-any.whl#sha256=c0a32e771dbf9a19de7a5452dbd80cf73694f4dd022875ec406a336bb9b818c8" data-requires-python="&gt;=3.8" >task_helpers-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/9c/903ba61ab0d27e48fca6e6ce2dbf4735ec50264b93a8fafd4dc825d62b8f/task_helpers-1.2.0.tar.gz#sha256=502512cb95ea4dd880975340857b182f5b4f9baf0c9f18d0062a5fbfe51dd587" data-requires-python="&gt;=3.8" >task_helpers-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/37/62fc8ee10d8e87a1bd71fe664f0c9e18cbc4b83e13ed6c45ddd41c8b40eb/task_helpers-1.2.1-py3-none-any.whl#sha256=326b8a8fbaae1d913f22c20c7a2be7866144390f24a2564a33a389791e9113e1" data-requires-python="&gt;=3.8" >task_helpers-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/31/e86b0fd3cf7151b5f5bbf08e858bf0c5e2738e8a70dfcff60b0abc464824/task_helpers-1.2.1.tar.gz#sha256=66a25293b96f5dde3e77c5d7b072c03fed18c026e2c8301cbd4fa27784fe9468" data-requires-python="&gt;=3.8" >task_helpers-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/bb/6af1ef3d9b5b12f9ea3b48cd22ce5e06b05505aa518738afa5031a4a0ef6/task_helpers-1.3.1-py3-none-any.whl#sha256=934bdcb1ef4df59d96e0b7846e8ccbbd9a40b9049a5bb6ae2f372722cd4d6f88" data-requires-python="&gt;=3.8" >task_helpers-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/63/840f2ff4ef5fa26fd47e9508e7a6260b00dc1ed714c0c33d1d834e1446d8/task_helpers-1.3.1.tar.gz#sha256=f85c1e79d6e842879eb7bb5597b76eee545949b4729e54b702ee334cfa23a669" data-requires-python="&gt;=3.8" >task_helpers-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/ed/09de07fff478befc62a3acb363fa4d07b25c243c941faa5d19473f9fc8d2/task_helpers-1.3.2-py3-none-any.whl#sha256=f373370c9441218073e810c732f3f753e50d93abe4370964b6d2a30a22e23a70" data-requires-python="&gt;=3.8" >task_helpers-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/9c/1671e8dc5ed3700e145ebcc1791f7ccd2a462983e92e7c3ff02b6e968353/task_helpers-1.3.2.tar.gz#sha256=394841a818b271a30362eee3cce4530ee81833d21cc1382f51726f4c806e807e" data-requires-python="&gt;=3.8" >task_helpers-1.3.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16320623-->
+<!--SERIAL 16995207-->

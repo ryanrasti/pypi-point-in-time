@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for es-client</title>
   </head>
   <body>
@@ -21,6 +21,21 @@
     <a href="https://files.pythonhosted.org/packages/53/e2/0fe2a7436d974d8b42cc3a3f63a333bb797a0f5ae0c70d47658b2c3395fb/es_client-8.1.0.tar.gz#sha256=37f6d051461e762f0e1deceeee2f8df2e956cb9a4404ee924074c2faa5ec4e81" >es_client-8.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f0/54/3687391442b16f5c8a70313c5cdf42fd39eeb3e3449fe7c6f8a60ebdba99/es_client-8.5.0.tar.gz#sha256=e3e998056bf2a9473b1dfd8a2f0c71080993658312c6f6511a2d8430ce7f26ac" >es_client-8.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/99/77/967a0ede8d42a61e555b174ae1eae8ec74a1f5747236b22b447cf8b6b306/es_client-8.6.0.tar.gz#sha256=66281592c812b30af92298f952b4cc5e7e28ff09a559b49abb7f5624a995dc0b" >es_client-8.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/02/8800aaa329d506d6a01ef5589af2658291e6970c0648b74697aeee0bb11e/es_client-8.6.0.post1.tar.gz#sha256=4e7d6ce38e365f9564887835ceea9e54f7bb269250f14904f4d46b4ccbb4edae" >es_client-8.6.0.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/3d/42e7aebff6ac119a08138d80a50fbbeb24605d6134447e7756f99a66d7bf/es_client-8.6.0.post2.tar.gz#sha256=843a088670ca7418e45ce6674dbba1ab81a0f27db40b7de7b552af236361c5ef" >es_client-8.6.0.post2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/50/2141be4b726dbfb9a8b127b86c2a6e9bf4c918f8e2e145d77b74fc960396/es_client-8.6.0.post3.tar.gz#sha256=a8f91aba8955e80b4cc77e866f3ff31514e84261445e19925d26a9494740ffcc" >es_client-8.6.0.post3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/eb/04f8e7eddc6eeb9f30c73b5723012a47874ae756a4f480b5a9e290f86142/es_client-8.6.0.post4-py3-none-any.whl#sha256=e8310ffc9831d8ee9158bd4bf5a3164a12f34db728c71af7e8a947a9a1a675b4" data-requires-python="&gt;=3.8" >es_client-8.6.0.post4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/12/34cccd95754d585bb492d6c441e98d02a3544cc021057d941f367d7f91e7/es_client-8.6.0.post4.tar.gz#sha256=e2ca053688fc01601eaeb1a1f833b5ae87c2730180b5c7b07cec6e982f8d8e26" data-requires-python="&gt;=3.8" >es_client-8.6.0.post4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/3a/f5d3070595fa348e0f1170f153d31b4ea8a55b807303089048f9d464b4f6/es_client-8.6.0.post5-py3-none-any.whl#sha256=055084b7c2014f4f2f1d39f8a951038894cd40404cc08eae38bfe4802318aa51" data-requires-python="&gt;=3.8" >es_client-8.6.0.post5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/8e/b74b9b2a1e745b66fe895319345ac3d137c912fddc38bde51a62f03386d1/es_client-8.6.0.post5.tar.gz#sha256=21b723b219af824b6c7e2ca1bc432940476d6c4625fae811b494a7bf3f1005f5" data-requires-python="&gt;=3.8" >es_client-8.6.0.post5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/d7/43a821297123237b9efe9d876ee4b37e1ddbc16be2f168459ef4e816b814/es_client-8.6.0.post6-py3-none-any.whl#sha256=060ed899d5d062e8fdd83a92569def3d6b4e8595c72afb97f0e58ed23e9b2ec7" data-requires-python="&gt;=3.8" >es_client-8.6.0.post6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/33/49131984ee26cfb225d456db4c04a274a1e43b4a21d67285ae6fce497789/es_client-8.6.0.post6.tar.gz#sha256=9a22889ee0af6926609369fb49a5cfa6f70e1a077a6b099981f043a4174743c6" data-requires-python="&gt;=3.8" >es_client-8.6.0.post6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/93/e51917118a56acdce6095146b22f47762e507b8ead4463a95583d94cc7ec/es_client-8.6.1-py3-none-any.whl#sha256=f469059b7e8804a1d6ba38ac672e95b4c88a0a10350cd276139693fa48970b3c" data-requires-python="&gt;=3.8" >es_client-8.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/78/fcf73ea4d8fa2e841c29e462f9e55f046da6b7ee8d206b74b5f0bc4055eb/es_client-8.6.1.tar.gz#sha256=c8beaf4b5f93e2c329f64d6bcf138f87150cd9d82f9f2cbc9a7bb373740ed702" data-requires-python="&gt;=3.8" >es_client-8.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/27/5630b9a8b081f9f06afafeab3a9911d6f2879fff5405467fbaed41282f8a/es_client-8.6.1.post1-py3-none-any.whl#sha256=395d60764732ea0beec7064cdcd25ea1f4e0d893aaef480ecdfee130a6f3b4a5" data-requires-python="&gt;=3.8" >es_client-8.6.1.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/41/2ce378b9b8e2606ffa61c62b30d4e9799a6c4c3025a81350e883ab4822f8/es_client-8.6.1.post1.tar.gz#sha256=cf94e88b17951801818767f76f17fe3323f9b50910f6f292eacea3fa4f22aba0" data-requires-python="&gt;=3.8" >es_client-8.6.1.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/b6/03efaf943cee5b215ce319e665a8636f4eb8937535c55341b7114d4aaf5c/es_client-8.6.2-py3-none-any.whl#sha256=9efb3fe5d7eb513d4f964047767ec460656be1c5c050bc012ee1acc0ff761d12" data-requires-python="&gt;=3.8" >es_client-8.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/da/bf22ffa55d3d32321f3b78a77252bf6d24ae401da3c373163e0fd37df9dd/es_client-8.6.2.tar.gz#sha256=37882c6dd2c3cc77bcf42dd0e44305c534193005a7630e821f09eb97fa58485a" data-requires-python="&gt;=3.8" >es_client-8.6.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16393943-->
+<!--SERIAL 16934552-->

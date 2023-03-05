@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vallaris</title>
   </head>
   <body>
@@ -68,6 +68,18 @@
     <a href="https://files.pythonhosted.org/packages/91/be/434d430f40a8575f8807a9acf5b7a2208b795eff45a633897a03877866a6/vallaris-1.5.0.tar.gz#sha256=d296630d736c3325111a009ad11402f14b8e294c267d363e9a2c60aafec4cd66" data-requires-python="&gt;=3.6" >vallaris-1.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/d0/d9600804ae5041ede29ee7e7f8b84d37cbe1b030d69f2b223934b25ae494/vallaris-1.5.1-py3-none-any.whl#sha256=2998afdd9327cc0ad9bde1d59903d36244357f2360bbb4d41b17e0581eeb3bd8" data-requires-python="&gt;=3.6" >vallaris-1.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/cc/ba25dc8265821f6e2e91e34d8f17b9329bcc022558c05ad9bb3a63793fee/vallaris-1.5.1.tar.gz#sha256=8074e0c70d361571c26fcdf4be1eee7d62c6e36264e00673221681a84565adb4" data-requires-python="&gt;=3.6" >vallaris-1.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/12/19cd1d2b9469031c397096981860440b1339e6265860c5cfc1eacfeb2c6c/vallaris-1.5.2-py3-none-any.whl#sha256=f12e9575fab6393c8f0734083026aa7f78c1dcdfc9a93127ba8b4ee76eac7a10" data-requires-python="&gt;=3.6" >vallaris-1.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/54/bcaf09b93d8634de922f9dac302b851ad593fe7485ebd6f8efea67a2d6cf/vallaris-1.5.2.tar.gz#sha256=8388b96a5e9ce328d65a55554e9f9864d20fd956d95c3602db10600949020639" data-requires-python="&gt;=3.6" >vallaris-1.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/3a/a2d93c7fc6768b4d10376dd9204db83918dca7c227d0891c43a988ac4bd0/vallaris-1.5.3-py3-none-any.whl#sha256=297f51560b520caf996f0a8b4f6a253bbb60e90a09f4c7c86a5cae918d9d5630" data-requires-python="&gt;=3.6" >vallaris-1.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/5c/a1bc1293d8fe55e41073def60d4c738e673f57101f4b2d385f0d7d28161a/vallaris-1.5.3.tar.gz#sha256=50ea64f96a301e86f1f148c3f36fa983dceb2d3bdc7c56ed7c8cfd32568fc765" data-requires-python="&gt;=3.6" >vallaris-1.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/1b/5752a6ae14172d4d0e2632de6c1d7f421d767c43f50b5992aa10c02c4a44/vallaris-1.5.4-py3-none-any.whl#sha256=4195c56ff08be275d28f209184b43668b8a1d34ab2ab5ea5e99c04adcb57ded1" data-requires-python="&gt;=3.6" >vallaris-1.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/a0/ad0d335f8c47e390ebba1ed6c8d02ff6a1a589384138d5009234309a2c31/vallaris-1.5.4.tar.gz#sha256=cf01bae41bb175a449a2da26d2cf60280ba1b5986df4039d71c06bd0c85aea55" data-requires-python="&gt;=3.6" >vallaris-1.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/0b/1ecf5a23b5da7702dfcf3f89c55688e21a3743744af5aefc4d1a51040563/vallaris-1.5.5-py3-none-any.whl#sha256=863c0a4c7ac6b49c0aecd5fde21104e2aac99bcfdc39518a08a19e3398bdcb03" data-requires-python="&gt;=3.6" >vallaris-1.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/5d/8444b2d55ad643499a4b572ad2486b637e670b8a3cb5af557d5f37601986/vallaris-1.5.5.tar.gz#sha256=82596499dfe6225eb5531805895c68785f6317d038d0440320ab0746b34a2aed" data-requires-python="&gt;=3.6" >vallaris-1.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/01/c2e074d323335301ee9b0940626f16ecd8a401d8b66a2148a1b91dbee12e/vallaris-1.5.6-py3-none-any.whl#sha256=cc87b660873a069c31062f2098dd1bf309154f4738fa194479e3a8eacb6bc2ee" data-requires-python="&gt;=3.6" >vallaris-1.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/fc/6713ea00adee2ec32be99d524fdb3792838adba4680f53f87287cfaa58dc/vallaris-1.5.6.tar.gz#sha256=e84530ac3250b49c8322e7f41ab51a82ac38c591e090de2f65f782f6f9298e5b" data-requires-python="&gt;=3.6" >vallaris-1.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/af/79ac318dd280bed20e13fe99cc03912e584465b2bb0d34b49e87e23fe97a/vallaris-1.5.7-py3-none-any.whl#sha256=efe56c87dd69a47bdf1947104e0128f99b5711cdf274e0a21054e8034d6c379d" data-requires-python="&gt;=3.6" >vallaris-1.5.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/ff/bfb18b8d3bee3143044d06a02ffd5f4835291257f85720944c10f362ffa1/vallaris-1.5.7.tar.gz#sha256=2ad11e43225034a98d89003fe128d01a372afc1f435b256af5a19bcd50bd24c8" data-requires-python="&gt;=3.6" >vallaris-1.5.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16256941-->
+<!--SERIAL 16938345-->

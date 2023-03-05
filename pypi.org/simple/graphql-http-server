@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for graphql-http-server</title>
   </head>
   <body>
@@ -21,6 +21,28 @@
     <a href="https://files.pythonhosted.org/packages/df/80/d386c370e88a246d4d16f38d93e47dc8fef8c4dbd55e813bdbc71b9dcddc/graphql_http_server-1.3.11.tar.gz#sha256=cd39faa7b7210f28863b03333c44854381fe91062a14d864323fdc2cb7449fcc" >graphql_http_server-1.3.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0a/e0/bf6ae04c811ddaaaf9aefe3bbea16548b6741dcb4725dec4d52b0a003e82/graphql_http_server-1.3.12.tar.gz#sha256=4bf3dd717d333ff527df6f112e495de9d97901712ccc6897ee44516556a31861" >graphql_http_server-1.3.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/82/38948f200038a83c3d30fe2d29d3b76ebdb99b97d78e1bc5e921b475edff/graphql_http_server-1.3.13.tar.gz#sha256=ebec5346f2e4ea9e194842d1b262419414e8acb5869a9ae1077cd40f95e2fe72" >graphql_http_server-1.3.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/7f/3fffb1ee27a4f2dd423261df02b8502cd66b171daac76eff371b6dc222b0/graphql_http_server-1.3.14.tar.gz#sha256=f46abf1fef5a60b689682bd7a2405fcb4c1f45457933adacc7be8cfbf78a2245" >graphql_http_server-1.3.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/34/18b7d2f91753b4522788c6befc3e4b91e6b7218bd9594ad996dfc9dbca3a/graphql_http_server-1.3.15.tar.gz#sha256=a2a65467a916bca23ab36cf2d55f9dac6b74ecf1d0a6edfab06c714b82da6110" >graphql_http_server-1.3.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/e8/1cb1ad73db77572d22137cb2a81e830bd63f0e075c1b24baac3be7454026/graphql_http_server-1.3.16.tar.gz#sha256=ee2f70ab2367d32c92593a38e8deaa29fac76ead1db22a27720dfe5180988157" >graphql_http_server-1.3.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/3f/cc3b9fbf803d610777d3c47d5b4cc7379963a58cd205aceba0e7c0557a25/graphql_http_server-1.3.17.tar.gz#sha256=1576fc3d58e5bef05a01c4798f0a1a494628c26dd69d24eca0f44595a2d78689" >graphql_http_server-1.3.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/00/b59577fa3e88d563351f8caa988b5a349271b124485c3901fa7b1ba09f35/graphql_http_server-1.3.18.tar.gz#sha256=09135e4d8b919a55f068542859526967f4ec42f46c2053fef1ece2efe2d5d1b0" >graphql_http_server-1.3.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/6e/69ce90b2ed520357f9f143c381f48c6f6b3ab395b26e73ac89f692a01b44/graphql_http_server-1.3.19.tar.gz#sha256=d1a92b1ce553711b3aebc46c55f2682710de75dd4a7b8a4e3b52c04a64d1065b" >graphql_http_server-1.3.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/3e/a292d2c18d5c2b912e642876e683a6f06a3f9e7de942c879ece9a49e1fbf/graphql_http_server-1.3.20.tar.gz#sha256=0138fe445beb1b1ab9c59009df2be950d86fd46ecdd28b6e3f31c32a951fed9d" >graphql_http_server-1.3.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/cb/8b8e16e254dfbb470b8ea0df7892cb500d0c76194b807d9cdf393f088800/graphql_http_server-1.3.21.tar.gz#sha256=0e1ec0bb8fa8d7e514f98fd7391b0e03935b46e827dee359aff59af8269803cc" >graphql_http_server-1.3.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/32/4ee066337f830ade8dec4c0d4b52e869ff3230eab2853ef4cda8c65c0798/graphql_http_server-1.3.22.tar.gz#sha256=e9584ac3dafc0e2e38394ea4c46837c4137595a60a573bb1b0cda158957ee784" >graphql_http_server-1.3.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/d1/305f7cb2062ba66aa3884c55ce961ee23810d81a8f5136064d0f05df770e/graphql_http_server-1.3.23.tar.gz#sha256=9dfc1f6a02b05718012025af96f6518d6675e62985abe7a3c25a02990195aef3" >graphql_http_server-1.3.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/e7/d061332af726f130aab9da1bc9ef5c334bbd53f66500f0a0402eb6ca4420/graphql_http_server-1.3.24.tar.gz#sha256=dae091c89f7942d6ea5c470e4c79557145010a13d48ca983e57e0bc147e89d63" >graphql_http_server-1.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/8e/51434c09f6815290fe84bd276c3952ca54be9a99f8da5b40b8773828c661/graphql_http_server-1.3.25.tar.gz#sha256=8f241856197d139da653b09c48f216f823ba17aa73f5a227ad924675ef930263" >graphql_http_server-1.3.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/5c/e3b0b2126f6107b020d89a08206cf542941bece6e0f56ce4b5809b84dd07/graphql_http_server-1.3.26.tar.gz#sha256=e04b0488bb9b3ba4bbce43539ba720007a5a16b735a35f60ac6a48a3dc7c0f8e" >graphql_http_server-1.3.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/48/0a8a5f192638b3c536915226f8c7802b962335ae4d78240a42d772cc12fd/graphql_http_server-1.3.27.tar.gz#sha256=6cbff28c910762616fa010b17a4d56b795f416f4feff5867ce037edb7bcd75ab" >graphql_http_server-1.3.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/8c/7f459bc9ad42157ae6e4ee6737e680418eb0ebcb9d215f3dd08e0b27b358/graphql_http_server-1.3.28.tar.gz#sha256=f15ba0c7ed0531efff199f51013bff43d6b824cf1f91ad7ea61354838597df3e" >graphql_http_server-1.3.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/d8/b4e8c4dafe6f67ce908d195a6003ff5671500ebf708c37acf4505ca6cd63/graphql_http_server-1.3.29.tar.gz#sha256=8efc81697f7664f0ae94a666a675e5fcc7aca0132b42098364c205fc1b64c299" >graphql_http_server-1.3.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/ad/d4cd106e8c682d998185df5234e69a804d37276c8bf8952c54609dbfe452/graphql_http_server-1.3.30.tar.gz#sha256=6801dfcf56f9bdf43816ec9df46af8938e0f6a2ab01eea4e4f993607349a0aa3" >graphql_http_server-1.3.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/cd/2c51b2efa0e41285523b1966a4a4056f7edf6795485afd9f3ecb45d30aa8/graphql_http_server-1.3.31.tar.gz#sha256=a51859d5c529fb13d1f40843f566f2b8ee9b2d4b9d9c64b5702042f5104cb5f5" >graphql_http_server-1.3.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/a1/cabe33e5e579140a64080f6a621adcf3f9b4c9a974ebaec22856ffd73092/graphql_http_server-1.3.32.tar.gz#sha256=7d437e9bc98acb3b71f56eca5fe3e75a94d28e356d33ab76b814b1778e8e8621" >graphql_http_server-1.3.32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/46/23004d76532c760acde248af65205125f64d79dc7fd44296a7cf3d55feb6/graphql_http_server-1.3.33.tar.gz#sha256=46df71380d623bbaf157c5e7f9d0a913e878099fd7cba6785177cabd5f6ea586" >graphql_http_server-1.3.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/5f/135a5ec44edfe0fb32f8456cf7231d0d87cba1572645ab410f5ed1f616be/graphql_http_server-1.3.34.tar.gz#sha256=142618ce1be676473434bfc16c5d4167c8ffce091d5489be79057cef26ab7359" >graphql_http_server-1.3.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/9c/d44f7d790c6e271c7d7ce3ca63795c8d497d1a177b4dc9deb966a4ac4c98/graphql_http_server-1.3.35.tar.gz#sha256=7b91562001ac7b6415721ae87d6e2360ae9a236e44e4dbebe25522b2253fea0d" >graphql_http_server-1.3.35.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15535609-->
+<!--SERIAL 17136436-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tempren</title>
   </head>
   <body>
@@ -26,6 +26,16 @@
     <a href="https://files.pythonhosted.org/packages/a2/cf/608bc23afe9288ede9c3b042e7c271c2191228ec48dac49814eb9d92e131/tempren-0.6.0.tar.gz#sha256=32c68c30bd434f41cdc36b51eb3eeba3b30af10cf583382313931b8eae6deab8" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/3b/09d28ef21b550bc7ae61aabb60222d9a242c443b71fae55aac82714071ef/tempren-0.7.0-py3-none-any.whl#sha256=fdd186dc676bf2233cbba4ad911379c5f8a90c87b30723cbfd50395f5dbd859b" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2a/17/eaf1bf421288e1671625813c6c6cee200fa989c641c9e92b9f6d7a2188ff/tempren-0.7.0.tar.gz#sha256=74dacc3c5893a67936b22cbdb1c0172650244b5ad72e55fcce0ce2fcb067e82d" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/9d/4071adcf8c3f68ffeac7f24423fc3bf8ac017dfa0dbab9ec511c073f4e12/tempren-0.8.0-py3-none-any.whl#sha256=f98f8ca42898ee7eaac2fd1fd212d6af9960912846ac80f3d1185d611d606646" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/11/abd729ae9a4e5b523e23207b57a8fea5d3b5e5730ab14cd8738053ff63f4/tempren-0.8.0.tar.gz#sha256=fe3c332f56f80bd6ce81ae3fc6784d98c20f1569f9070a832bacf32d2fe4fa09" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/ca/8dbb1534b4863d5163cab2ed91c460170bd4fa35ba5c84424591b6c0e4e7/tempren-0.8.1-py3-none-any.whl#sha256=be047f04057771a86955ad035433f7ece45119976bf2391d4787d05e5ccaf6a3" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/f5/0ac3f033eab34a7ace9d135f2aacbb41f12523ebf95511501bebc58c81d0/tempren-0.8.1.tar.gz#sha256=09fcae3083110cbea05c2d63d5e47e8bb2616beb77bb026382e401af95f5fdcd" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/96/97772689f8d95e08664c25632e423710e93e3f207983949ae02b91deeeda/tempren-0.8.2-py3-none-any.whl#sha256=d6e6453d5bdad232f8de87dedf3065cbbca9d303f4a516707d630956e4e77c35" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/df/37eb31d77f1ab8035ea2420d33b69036037abdd2b06798634337c9d7a784/tempren-0.8.2.tar.gz#sha256=3bb3561e2c696005e819f8ee23599bd481bf0aa6278d831cfa14086a21be4bac" data-requires-python="&gt;=3.7,&lt;4.0" >tempren-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/0d/6dca03474753c23a1b601f9128867db42815b48fbd7d6bdb361f61c45b7f/tempren-0.8.3-py3-none-any.whl#sha256=ca8ee83239df8015c8fd50a5416ae9e8ef0c7e653c4ce8394c0893fddf390bb8" data-requires-python="&gt;=3.8,&lt;4.0" >tempren-0.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/36/e6d1fecd76cc435faa70b53dd1e869bd054d6423d61e1727780450efd558/tempren-0.8.3.tar.gz#sha256=3b60c89c5d789720fe8194fb7727abea861234179f665ef79f8fb37058709091" data-requires-python="&gt;=3.8,&lt;4.0" >tempren-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/06/be553a5315c08c808820a98c6d769d92a47cd9bc765a4e18208cfdce8b77/tempren-0.9.0-py3-none-any.whl#sha256=388042174bad8f0985acf1790c4f340eb30d0f551b234583c7ebad0449db8fc5" data-requires-python="&gt;=3.8,&lt;4.0" >tempren-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/58/73de35434e453892be482c9ddbe170f9c062f5301905fa63ece6e167d203/tempren-0.9.0.tar.gz#sha256=65fb0dde8a9eb8e0577144cc7bb962a24c100b5178574230c2bbafa9b8204773" data-requires-python="&gt;=3.8,&lt;4.0" >tempren-0.9.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15271298-->
+<!--SERIAL 17025467-->

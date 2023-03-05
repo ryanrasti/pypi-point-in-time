@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for compressai</title>
   </head>
   <body>
@@ -136,6 +136,15 @@
     <a href="https://files.pythonhosted.org/packages/bc/a4/56cfb6ed16611ed5d1ca3715c7f3fcc2d1cca0c7539612d6640d111fb29b/compressai-1.2.3-cp39-cp39-macosx_11_0_x86_64.whl#sha256=6176585eb890f4922e1d1ba56302d408a77bb5995ca73a03e3e575319c1e467f" data-requires-python="&gt;=3.6" >compressai-1.2.3-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b1/96/df9810f5e8cef9d4b28bf753410717820722230c0aa5bde23bebc8e86690/compressai-1.2.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=5317a9329e20ce37503516d9174e7154f6985b202a476aa1f53a251de803aff6" data-requires-python="&gt;=3.6" >compressai-1.2.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/97/b57aa097381f2db737ae8b2ac83757ecf9111130d31e86e6720ad38dd64b/compressai-1.2.3.tar.gz#sha256=64d60e30244adb70b3128ef108304bccfc9b36f785cc3c626a33059581c095c8" data-requires-python="&gt;=3.6" >compressai-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/f3/0b3d093909acf5abeac31ac59345ac832507ddd4886da3d4e9f84a404e2b/compressai-1.2.4-cp36-cp36m-macosx_10_14_x86_64.whl#sha256=c05b45887a33a2f53613d9d8bd3d0a77bece8c81e7fdf08094dac1314521968a" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp36-cp36m-macosx_10_14_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/a7/36c2517886d07baedad61b7e60f535cc16edc6e8808c3841db2376a703bd/compressai-1.2.4-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fcff01c6e0abfb3c1875977f9e7df6953c7e5681dc50873cabfabc2dffbd8bed" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/f0/f731756985aef7b09bac33c8387cdfe77f4c05579800abab04f507528dda/compressai-1.2.4-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=27ce39d470e266a7bc2f9c2e0f4ee79110e8054e002454843173323cc8dff925" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/44/72e04b1aa0e790a3b97e142a7ef20c367cf6232df77cbaf5eb823d3fe4b4/compressai-1.2.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b2c4c065eb5857fd0bef9f05a60459147e83b6d6790e37c0421eaa8c372fcf92" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/62/276f6f33d55f8c4048e24cb6a3455b1c306cf980d908f34e1b0f80e7fdf6/compressai-1.2.4-cp38-cp38-macosx_10_15_x86_64.whl#sha256=6b51f0e90031c3bab7f146e10179bf036d4eccd92770b9632e7a5095caa498b9" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/4b/8f1d95b4cb6c9d12d73dfb5b2fdcfed30dd34173bf35b6e8dac7fa134924/compressai-1.2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f96b107526708579551fab2e96557bfb6380b6974b8de7306bc2e7a638496dca" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/89/89221e0e9966818adefb41b7416500ad4e66b7de464ade6dfca5a38aaefa/compressai-1.2.4-cp39-cp39-macosx_11_0_x86_64.whl#sha256=9c149ff62e9966b1e9540e2d0fc19d090813190b2a242fb5982a5aaab891de31" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/e1/88b2d3aaf62f7fb9988f4e266e3e141f665487202ec6868a3d0d945a1e2a/compressai-1.2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7f129127d584b5bc68f526d63472e4618c9a81aff1e81d89c9c589a1f784fa82" data-requires-python="&gt;=3.6" >compressai-1.2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/1d/e7a9751761f2ab1303febd452e6f2f9988ab1f3e30f2ac829a6f2fe76741/compressai-1.2.4.tar.gz#sha256=7cbfbd11259ad52c3d8c77edad52778567e76a36b4c91e6d9c18f4fbe1d9cead" data-requires-python="&gt;=3.6" >compressai-1.2.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16194885-->
+<!--SERIAL 16572440-->

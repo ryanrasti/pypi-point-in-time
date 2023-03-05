@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for imagen-pytorch</title>
   </head>
   <body>
@@ -616,6 +616,36 @@
     <a href="https://files.pythonhosted.org/packages/dd/7e/fbf04093b0d79d9e730a4d5acc5f534b9578cb2bff2590ed395071eb5a3b/imagen_pytorch-1.18.10-py3-none-any.whl#sha256=f14fb9d4b19aa5fb6218a47c3213d1f4e6965f11ab09d07e3e5fd783374adcf2" >imagen_pytorch-1.18.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/6b/95b87035386a5d6dfd54c770c50d402a0b24450779b8beefb937c3b42f50/imagen-pytorch-1.18.11.tar.gz#sha256=4d249e863e0ec1e98901b454e6108c09f4fae1031e869b863a6b117b8c778949" >imagen-pytorch-1.18.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/03/11956ffa5a6b71f31e9ec60198ce1596f5dec395b50ae1fb9b4ee23503d0/imagen_pytorch-1.18.11-py3-none-any.whl#sha256=edfcda26ff179adebfe156f6b5e1ddbbb5a7f699e48d356714a1f42cc157e3b7" >imagen_pytorch-1.18.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/55/914d3823f5c2acd6f0af0e90aca25538bb4ba7b1bc81dd23f24868982a9d/imagen-pytorch-1.19.0.tar.gz#sha256=5b458df069082d0921db7b0c0e0a652d4ffee432804df39b228a134a06412dff" >imagen-pytorch-1.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/95/36dfe9da2b66547f8ec56602e703a22b03fd70261c80a74be0988a365528/imagen_pytorch-1.19.0-py3-none-any.whl#sha256=d9038aa09a2e91fed757d88afe32a8c9a79a1e9de3cd99ce3fb6e4c6df437b9d" >imagen_pytorch-1.19.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/54/b38d05fae35c21206220545be7c9996409a776348ca524343170a6bbf49f/imagen-pytorch-1.20.0.tar.gz#sha256=a1ec2f3aac51a83a67ab240f8bd856d1ca015ce3b36de0612c65d136fa2b4f1c" >imagen-pytorch-1.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/d1/406faa47e72c27d4337c26b8ed4ada7e61034b450b5e694e7cd15f9f3645/imagen_pytorch-1.20.0-py3-none-any.whl#sha256=8aad361eca53199e55b8348698371a97fdde53de4e9324d501ad6d7c54057da4" >imagen_pytorch-1.20.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/7b/b976672f70e5276cc76be2d5b31b96837f28f3a2348a40df15fc7070a96b/imagen-pytorch-1.20.1.tar.gz#sha256=99ebe4d80346f93676da6738a95ddd958bc3de329ee033e86f4ae587c96e375c" >imagen-pytorch-1.20.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/4f/3938537d09772bd48d98e2e816711d7f7623c3612cf4ab07ce5a1e506e6f/imagen_pytorch-1.20.1-py3-none-any.whl#sha256=c827116524418ef6207194755ef818dc30f40b82c7319a6bd5e26a1550cfc620" >imagen_pytorch-1.20.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/3f/4d37fc28709ffdfa2e1793a02b6fa12241a20059bda4d4968c82bd8163b5/imagen-pytorch-1.20.2.tar.gz#sha256=d95691059951a0f057a24394eea309e284c6ea024d4a495841265e7febffbc46" >imagen-pytorch-1.20.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/76/4840bc4224b9934cd03afdf85ebbac80660a91be5f617c91c1afbae90ba2/imagen_pytorch-1.20.2-py3-none-any.whl#sha256=9d7b981c80584ae0b61e4441340078fd4c74fa5f3fadff58b36b9b62e722e912" >imagen_pytorch-1.20.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/f8/a14efed7c139b4a5814dc0c1b955aef22fc2374b71df3c3bd8cf21f3842d/imagen-pytorch-1.20.3.tar.gz#sha256=fd4128936ad83adbdc2b8e67d5a4a7a341055975328e9cb8cb637ba75151d423" >imagen-pytorch-1.20.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/20/427d99639cc0d8b4164f8d504a82496f42686eaca780da95a760ed9f4645/imagen_pytorch-1.20.3-py3-none-any.whl#sha256=b9df0cdb76410962661f8ab01e0e9e4062f034cf9b6c4ba6bf905f061c861425" >imagen_pytorch-1.20.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/2d/56018bd24f32072899376ba464ca43793f35c61eb25382c53d2d024dca1d/imagen-pytorch-1.21.0.tar.gz#sha256=1730f811362abea3179280d06017b80e26c4ff664a74ee66df7c87e8b28720f0" >imagen-pytorch-1.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/15/bcb806c2341a0ab0934879ea4b4ef96b9eb08bf6346954fe86297567e315/imagen_pytorch-1.21.0-py3-none-any.whl#sha256=8e57c11082e6e5eea0c69d55278876e02b81a33621109886337874335ae7d8da" >imagen_pytorch-1.21.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/ef/a68c18483c9d35cd342fa90fd03be0dd6a4b1fd99206ce91241286872b0a/imagen-pytorch-1.21.1.tar.gz#sha256=1ea71cd8ac4ce63f9c6381c3c42639aab671536560f3e175863d932d36b566f3" >imagen-pytorch-1.21.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/be/bf28e1ef580a28066f7d0749cf0ed522459e49348a089f1f9081a4a59560/imagen_pytorch-1.21.1-py3-none-any.whl#sha256=6d3921d7d84eea55993d965d645038cc9c394c83fb294f81975caea834fb37e3" >imagen_pytorch-1.21.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/82/c885d842fae2507501019088fbceef2333466fec94d5180b0582d0bde094/imagen-pytorch-1.21.2.tar.gz#sha256=3ccdc2ed97d6f69ffe9c9b9b588dfd3affa8115cadcefdb3dee86c23f2c12888" >imagen-pytorch-1.21.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/f1/ade6aa71bd94983dac01aa38cf70777cc7dc36f0f20bd36e217072a0f3ee/imagen_pytorch-1.21.2-py3-none-any.whl#sha256=bd0703e8f217d7562a70b4534b5f5c6fcf71e9b58cee5dbb13a8c337449dee3b" >imagen_pytorch-1.21.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/45/02aac089b3de06499976a3682285ed5df28137f2a704a9b9306f683c2e25/imagen-pytorch-1.21.3.tar.gz#sha256=e0501f583a981f794586f77f1fa748df7f3a5dee9481860344f493f4dd9b4912" >imagen-pytorch-1.21.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/fb/c8e73c1ffa6697378b20ef180eae36220a360abe95664b06d2d4456e2930/imagen_pytorch-1.21.3-py3-none-any.whl#sha256=8a8f0a7c10eb75c5c7a8cfd0a473b0856398556abf61ccde9f5573a5d765045c" >imagen_pytorch-1.21.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/64/249e399256edc83278f362a0160fa7222e7165df3ced459ca57633c18e7f/imagen-pytorch-1.21.4.tar.gz#sha256=7af61f303b81bd8c0e009f5d3ae953f40cee3ff8cdd83d508af9d2e22eda7f9b" >imagen-pytorch-1.21.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/38/e5f9138f1c7ccfd26054087143720a5f8a3710df2ae55eb589ee792f1992/imagen_pytorch-1.21.4-py3-none-any.whl#sha256=b69e1e225497dfe5f4289f766fdf847e513c8a32261e582f9db329f3e49d31cb" >imagen_pytorch-1.21.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/fb/04c0def76e9d8a948d49f30ab0a87d0eeabe9f2d6b53741ec244afde9d44/imagen-pytorch-1.21.5.tar.gz#sha256=1eae49e2035c5cedf152fd21bfd2f1090781eb1d040dca295e87af960334c46b" >imagen-pytorch-1.21.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/96/9e3b448f5b45b3d96d1f8e2eedcb693a86c9da425db2a1cfe9d203a17e24/imagen_pytorch-1.21.5-py3-none-any.whl#sha256=01116eefca3695f4b5d2347e701dd87a7010c5eaae33f60d62a95f056a22cdea" >imagen_pytorch-1.21.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/9d/9962bcf9d41441488d1111bedd5598f6fed48f7a6fb2a827f31302e60eb5/imagen-pytorch-1.21.6.tar.gz#sha256=79ecc16fcaf971c0d3b8d0a40249e971f21c48a4080779cac010d859e6c0d95a" >imagen-pytorch-1.21.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/22/d544cc90d6d8142312358f4741ff76026d0b74f845e0f2abfc4398058093/imagen_pytorch-1.21.6-py3-none-any.whl#sha256=08e61c53039082161decdac73d3bfa1f972f788ffa9afb56eb5b4c6cf274eb57" >imagen_pytorch-1.21.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/7d/428f9704b00b1445b8810138cd77db7e3589996f7d1bc7497565d7a36481/imagen-pytorch-1.22.0.tar.gz#sha256=2d2026fc2275da67890cbe17ff5d4393e9d4f088450d6c37ea7091d4730dfbe7" >imagen-pytorch-1.22.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/ca/813fd113b242d71bd2cfca5ed1a2963a76ba62744a93ccd6ae0c811aa102/imagen_pytorch-1.22.0-py3-none-any.whl#sha256=3e224413d617cfaf03655dce6926d805bb7e4faa2a2a860468ff672dd9285549" >imagen_pytorch-1.22.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/f9/6d37f883ce3a5a0a6ad76087978df53d5815bf74dfd107bc09cdc34b5414/imagen-pytorch-1.22.1.tar.gz#sha256=9c215fb3b2051bfe2a38060f6ea92b288bbadbd6f7d100270689c9acb646235e" >imagen-pytorch-1.22.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/f8/0c754e13b132832f708060c62e02915a71ec343d4a8ba1984503c27aab24/imagen_pytorch-1.22.1-py3-none-any.whl#sha256=f4292c987716bd6f22931ebe22a6ad8f0cde54b163ae0e5bc8f863e79973db54" >imagen_pytorch-1.22.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/bd/4184536e623a8ff3ae18b17d4ae31ba291642f4b2f72a0bde909f909c29d/imagen-pytorch-1.22.2.tar.gz#sha256=67acf27c7a603356821af164c94894b671a47086a5aa72ee70eabdf93f82c762" >imagen-pytorch-1.22.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/01/3bf82bae3b8acddd180f0b68a59ed47bdf16233884be9f7348acbc91e3bb/imagen_pytorch-1.22.2-py3-none-any.whl#sha256=2c0ec714c4eea7b42fa80962e95668a8a62757902dfbcdec8b32aa370798bd68" >imagen_pytorch-1.22.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16425175-->
+<!--SERIAL 16909187-->

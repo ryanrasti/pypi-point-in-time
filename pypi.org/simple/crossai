@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for crossai</title>
   </head>
   <body>
@@ -10,6 +10,16 @@
     <a href="https://files.pythonhosted.org/packages/a9/1a/e6a4444109ad00a1726b1083b64007b0b7877a97d775c36482a3e34413e9/crossai-0.0.0.1.tar.gz#sha256=607130bf3e00a4b457608fff80ae01a0747ecb7591e23e13fdbdf6dc6de26205" >crossai-0.0.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/4a/30486eb75869dbb1f4b125c5260c8bb0362dcb815977d5f38afb68595492/crossai-0.0.0.2.tar.gz#sha256=ad452ac7b92c5b82ccd9c08589fa58ba5355b5a1fdff6cbc7be2669f70655fba" >crossai-0.0.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/ff/c3dd5ace8dcbeea1626663768136f6d7c2bd66be5c1c8d2873766e6103bf/crossai-0.0.0.3.tar.gz#sha256=c51235b34cedf4f9705149fc04435a3a838da9d3311eb401e53def5fe00285b8" >crossai-0.0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/a3/2d16a78d3ceefcf8883586ddd3cb0d78ac47cb1de5afc6d252c8e1be64bc/crossai-0.0.0.4-py2.py3-none-any.whl#sha256=29a746bef30890ccfc081ed4026179b03a8c90d2512f7b515f301bb39e39803f" data-requires-python="&gt;=3.8" >crossai-0.0.0.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/32/c6ba6d4dc3f4c00fd72147c0fedb9274f2dd48456edc0ba575b106476cda/crossai-0.0.0.4.tar.gz#sha256=3466b430e98fc84bcd29147ad00703f28df54b9b04aedb7a7b9809c4634aabd8" data-requires-python="&gt;=3.8" >crossai-0.0.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/bc/fd581269b5207a0b260b28a8b75c4ca5757766c594ef897e8c247d2848b7/crossai-0.0.0.5-py2.py3-none-any.whl#sha256=4504e058d3c962fb8fe64fb36617e001c04178e027dfb2cfe4b2612ab58bbf7e" data-requires-python="&gt;=3.8" >crossai-0.0.0.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/ec/298d8293ea7bf3ab04a13b1cc77aa253326e9bf8973f403dae170610e99a/crossai-0.0.0.5.tar.gz#sha256=36c964f6d85998b75bffaf67a7a92bf031331286638175a0ec0e5c92138ff75a" data-requires-python="&gt;=3.8" >crossai-0.0.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/ff/983529bc034a247bab56c3978393f87f795ccdc902963a89d0a6d4da57cb/crossai-0.0.0.6-py2.py3-none-any.whl#sha256=0148ef95b637b759cbe3b1910d94da9a06f64c4286f1bdcf737da30bbb5b9d2a" data-requires-python="&gt;=3.8" >crossai-0.0.0.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/0d/5569aa64867b1eed480dba39eaea8451500914c061cc20656acdebf39dd9/crossai-0.0.0.6.tar.gz#sha256=454e3f74df449b9332ded7b6f1fed8ac9240e2962d1a269607af83a59cca0e86" data-requires-python="&gt;=3.8" >crossai-0.0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/e0/5c52eccf2d4b6c94c3293623c127074a65f0056ebee661d63c4d666afd13/crossai-0.0.0.7-py2.py3-none-any.whl#sha256=94bc8d4dced78b79690635914e376a070277aca2950e8aad620c4c8256df6126" data-requires-python="&gt;=3.8" >crossai-0.0.0.7-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/2c/e073968372c1b7ef6714ff6de1221ff766f59f420395768e3dae357bac1f/crossai-0.0.0.7.tar.gz#sha256=44190c9e5cccecda5844266bcb4b71b0b61ba9a1a8ded807a3b5e4f1102b79e5" data-requires-python="&gt;=3.8" >crossai-0.0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/98/6844c43eb77f4aa3b7fabcb882cd375401f6efb46d749c75060a92eb7c50/crossai-0.0.0.8-py2.py3-none-any.whl#sha256=ca5d0c9d8535099b310f818445e597dbea0851f6580e27f80428fb40c976c75f" data-requires-python="&gt;=3.8" >crossai-0.0.0.8-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/53/dbbc18f4c6773641ef2baadc5498b49d6730f91c51c9ab6ec0088bf3d0a2/crossai-0.0.0.8.tar.gz#sha256=6611595b68d5512488cf8d8d4b55d3d5a355b8e84fb0cf44155af3578b0c7550" data-requires-python="&gt;=3.8" >crossai-0.0.0.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12864123-->
+<!--SERIAL 16992832-->

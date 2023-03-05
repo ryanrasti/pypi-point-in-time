@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-events</title>
   </head>
   <body>
@@ -488,6 +488,20 @@
     <a href="https://files.pythonhosted.org/packages/33/f8/7b507a2b7f655d83dd446f366dc5f609bd436411d40b42da76dd300148e6/aws_cdk.aws_events-1.187.0-py3-none-any.whl#sha256=e8d55e71caac92579d92351ff3b0dcfa7aed8aa3964663871117908c1f701ebd" data-requires-python="~=3.7" >aws_cdk.aws_events-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d5/7d/7602d4b0dc605a645fb36f0d137dfec9ca3908ba8e64533aa66145726aca/aws-cdk.aws-events-1.188.0.tar.gz#sha256=2c02b732bbc57a9dbd1aef272b446611812fb64347e517b560a2bb0e4851a8a8" data-requires-python="~=3.7" >aws-cdk.aws-events-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/40/14/936351854d51468013111b1e4993b8bc83e769df48a5569fd6aa848fb50b/aws_cdk.aws_events-1.188.0-py3-none-any.whl#sha256=85233bed4d24e4bd40940b178e77291ef820f3e0503ca7ebaccef489141636e6" data-requires-python="~=3.7" >aws_cdk.aws_events-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/46/ae72797e7c22ea78f4855858a3ab5b15f4ee335dab8ca25c2f4f0348b89c/aws-cdk.aws-events-1.189.0.tar.gz#sha256=7777c3d1dd73f8175d8da1fad082a65325c60cd87a2c4289e193cf1d8e1114af" data-requires-python="~=3.7" >aws-cdk.aws-events-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/7b/93bdc8e44e05408f1f32d50853400615417198ff313ac5c6dd947e5edd0b/aws_cdk.aws_events-1.189.0-py3-none-any.whl#sha256=d8c2af2c392805d8bc8e002b2a55a7bb4352f135bcaf157279a4b1e9f17fd761" data-requires-python="~=3.7" >aws_cdk.aws_events-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/59/36443cbfc441f11ee754c5ec34abb0ce1f81a5649d130485b8ba3c1c78fc/aws-cdk.aws-events-1.190.0.tar.gz#sha256=02ba37fc32f761466affbe787eca75b5153803a2b2fe3d2c4f3b34e24ea0abd6" data-requires-python="~=3.7" >aws-cdk.aws-events-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/bc/bcd0d2d06973cabecb6250fb3683e9769a0bfd9cf318df40401893d562fd/aws_cdk.aws_events-1.190.0-py3-none-any.whl#sha256=69715a56c93f2167afcf07c4aa1e2e94e6410efbe6d48cf4098091411ef456c8" data-requires-python="~=3.7" >aws_cdk.aws_events-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/6f/587b9faeb2f3293d9f7fe14f5f771cfc801e7ac515d3dfd99af500492cf1/aws-cdk.aws-events-1.191.0.tar.gz#sha256=7722210d068240c4a1283f5cb66c2d2a1a3386402bd638d2de7b1381130c084b" data-requires-python="~=3.7" >aws-cdk.aws-events-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/db/84a114295baf7fd26690d09382460aa210c2db1d130e313b46f69572e10a/aws_cdk.aws_events-1.191.0-py3-none-any.whl#sha256=a2719d553be9b4a8d86b2122d74dc2f488553dfb5d8002bcf53f2afbd18169d8" data-requires-python="~=3.7" >aws_cdk.aws_events-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/11/6f4b454ec5751d76c1124c9b11d1373c1a50d502fce82ba4875ed3388648/aws-cdk.aws-events-1.192.0.tar.gz#sha256=8fe18623872aebc2bf1134d604b55fa139a8c854a060de00edebf1612028485a" data-requires-python="~=3.7" >aws-cdk.aws-events-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/ff/7d30e1d7a25831964318934b0634822d7567791cc74bb94356059da95dfe/aws_cdk.aws_events-1.192.0-py3-none-any.whl#sha256=6d28229978a06fde7a972ec857410cab790df24155c9bc5ef0a260b7a882008a" data-requires-python="~=3.7" >aws_cdk.aws_events-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/29/d3f1105598fd6fb15f81ba457286ea884315530ed0423c2989267408a4d9/aws-cdk.aws-events-1.193.0.tar.gz#sha256=f59bcd85150043e86008ee91e49af9eef86c7c5df8bb3c683b09213bc2177a1c" data-requires-python="~=3.7" >aws-cdk.aws-events-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/a1/22864bedaabc534e70909189561ffde5f69d36c196aa7112ce4fb7a3ae6f/aws_cdk.aws_events-1.193.0-py3-none-any.whl#sha256=b70ae0fef597d99da4b850de178197dfdd466001528fc90447c670f116d8e1ed" data-requires-python="~=3.7" >aws_cdk.aws_events-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/29/ee5b99158c68d562cf7713d1c9e4b56f4175aca094c46db0aaed637660e2/aws-cdk.aws-events-1.194.0.tar.gz#sha256=9054c37ebfa10ceeacb2bdc28ed49399eb7044823dd26b4989270dd399d4bb09" data-requires-python="~=3.7" >aws-cdk.aws-events-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/18/723426931c12ade477a855c3794311f0f4a9bd68ef6255823b43b432105b/aws_cdk.aws_events-1.194.0-py3-none-any.whl#sha256=162f4d11cd9f338f80bbab4e6cb885947417df7875e362fbbadeadc49e431a2a" data-requires-python="~=3.7" >aws_cdk.aws_events-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/58/0ab4684573891355fa4f04629c4eac4fff0b384f9e775a724e82b0f2e7bb/aws-cdk.aws-events-1.195.0.tar.gz#sha256=999eaa7cec707e78166f2b975703eda59c1c941443490dc2f2c41532213fe707" data-requires-python="~=3.7" >aws-cdk.aws-events-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/43/4b35fb20f5fd088351046afe1df1def8f205f0a3054f9abf71576b820529/aws_cdk.aws_events-1.195.0-py3-none-any.whl#sha256=7cf61da6184ce9c14cd946a96feda7747dcedafcdc0b12de0171e09cd36d3a2d" data-requires-python="~=3.7" >aws_cdk.aws_events-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393360-->
+<!--SERIAL 17131890-->

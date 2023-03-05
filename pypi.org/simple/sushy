@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sushy</title>
   </head>
   <body>
@@ -132,6 +132,8 @@
     <a href="https://files.pythonhosted.org/packages/45/6a/4e050e8ed4e8cef51ba7625f9dcdf4dd2b7bae63779866681f4192a6e5ac/sushy-3.12.4.tar.gz#sha256=b469b326b333d57d4805cdd92570ee14a908af97ccb6508ddcb273090d13197d" data-requires-python="&gt;=3.6" >sushy-3.12.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/97/696367beb309284468002a838d9b3e420936a8e74d5a54ba4eca463322ca/sushy-3.12.5-py3-none-any.whl#sha256=f5b5af614a18c5ce526503a6face7d7c4eb59fa4523edf769df6f5b3f24e1f71" data-requires-python="&gt;=3.6" >sushy-3.12.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/0a/fad77249f6b6cbcec607796ade719e9cf02d34ddaf1f18a610635fa2bf3c/sushy-3.12.5.tar.gz#sha256=27f1358d8ce8c9afafe2f87e2de8186d9cb1b33fcfc97b1b4965473a6716fc89" data-requires-python="&gt;=3.6" >sushy-3.12.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/d7/edf608c0d6d34d1cc5ed2c1f114b4468b845fdbcb249472741d547db39fc/sushy-3.12.6-py3-none-any.whl#sha256=720fac81e310c6eebb59a03edc85aca6a7e3ffb722a2a3e24e7ba01db78c46d0" data-requires-python="&gt;=3.6" >sushy-3.12.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/12/6a0b902bed6d45e5fd360799fead0a6cf88d13a064f4b632f99ebb63d960/sushy-3.12.6.tar.gz#sha256=dc407bfc276d6d9feb3b194a485335d6253a36a32d5b703a65668c39695df213" data-requires-python="&gt;=3.6" >sushy-3.12.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4a/32/b8a24eb46b226a8d7108cca669b1e6d4608478660d8574d09b2058839855/sushy-4.0.0-py3-none-any.whl#sha256=5e38e3d7d6a67151da0700f206e0d6fe9cdfc887dcbd729d2cd7d8ad17b8e43a" data-requires-python="&gt;=3.6" >sushy-4.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/a1/5dbd1463e0fc4922400a36428c6c8494dc41e25c3b3f8dbbc1a27dcd0625/sushy-4.0.0.tar.gz#sha256=05a85548dd5dca2c610009f0fc2ed3cabba2af4e36ef0b9eeaea6c9517d64bb2" data-requires-python="&gt;=3.6" >sushy-4.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/01/0b/7b9b8ba82490a6906b229e0a981992971540d65be55a0637e58ef3e476ae/sushy-4.1.0-py3-none-any.whl#sha256=7c52b4846ee5b2d9c4808cc0b8e28a98c1c81184af507d30a0fcd09160b8c299" data-requires-python="&gt;=3.6" >sushy-4.1.0-py3-none-any.whl</a><br />
@@ -164,6 +166,8 @@
     <a href="https://files.pythonhosted.org/packages/48/ca/d2d9cde4f2e37a1febfc5344c477c9bc3d8ab1ccb7ed46e58794e63d74cb/sushy-4.4.0.tar.gz#sha256=a91ef177c29ac3722b7b0a813486388fb3779ea377ef7564b151db53d50a7da2" data-requires-python="&gt;=3.6" >sushy-4.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/08/62/27aae4eb00f5c4780f67fb6031fa7a5a6d8907541f6213419729a1785fd6/sushy-4.4.1-py3-none-any.whl#sha256=2d6432d257f9c6aac26266dedb321b0c5066b60d188df844041b12b6fcf7ef90" data-requires-python="&gt;=3.6" >sushy-4.4.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/12/4e97af096f8e686748a38dd4599d06a4053d3cecd41376d4a75f1356f053/sushy-4.4.1.tar.gz#sha256=3d00badd075ce378e4598c6588c327efaf102fb2e6d258ae8ecd70fc7068eab2" data-requires-python="&gt;=3.6" >sushy-4.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/bb/550ea593ac9af2b67cc6e7716df11fca578a7c729a408a0ec0619f6fc5d0/sushy-4.4.2-py3-none-any.whl#sha256=3c47f6ee5683606aa69c52c626fb0b5346bb77afe3d786f2e792f93be84b2521" data-requires-python="&gt;=3.6" >sushy-4.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/73/567800ce6f88443a7180e31ef9e5e67e795caf27b80c085f86b0c65e1884/sushy-4.4.2.tar.gz#sha256=4e60e5290bf4ecfb61a62cabdf044ef3c47d672be6e55d898a6d686a7dbb84b6" data-requires-python="&gt;=3.6" >sushy-4.4.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16074590-->
+<!--SERIAL 16791785-->

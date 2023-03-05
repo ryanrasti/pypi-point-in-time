@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rucio</title>
   </head>
   <body>
@@ -265,6 +265,7 @@
     <a href="https://files.pythonhosted.org/packages/62/6d/1ab3f6adb33a6ad6a287f60ee2a341f6fae18829e9b79624e9da491f3c11/rucio-1.26.13.tar.gz#sha256=517bbeaf4d79baf01229249a3bd58a82427657c22e4cceb4a5b0978cdf1986e8" >rucio-1.26.13.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/89/ce/ac8600b3e703985bebd363876e1c819d2283d3d133a51154d79f1c164fb6/rucio-1.26.14.tar.gz#sha256=5fab7521179f5ce1868e4b6b3da2e4786cece369265f263fb2e93d33fba1649f" >rucio-1.26.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/db/bb8d3e9f88e5d7f0f7abc1f7ebf2a42dad492ac13a8b97230d5625b5e23c/rucio-1.26.15.tar.gz#sha256=3281c2069cf46739b5eef8299c360017c824a6762cadfe64b1209ddd590f76b7" >rucio-1.26.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/1c/fefce7fa6a5153386be832aa25ce5ec5e73c4dc14ce2ebc47a42682c5642/rucio-1.26.16.tar.gz#sha256=cd55c84927128b250e0996949a77729fa740b222e4c89d18acf39f22b4b2a216" >rucio-1.26.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/f2/d47b7802704736dd111e0132ab5b6cd2be724a38a7903816e024630db296/rucio-1.27.0rc1.tar.gz#sha256=56c10f53506786e3e8a7a8dfc8509a7b8aa1c65e5ca31ab2dbde3266c3778d1b" >rucio-1.27.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/c9/944e60c524a00a517bfe7d0ebce715f4475659d4362b9bad00486c035687/rucio-1.27.0rc2.tar.gz#sha256=ceed38a32ef45963dc26393ed1c0146025d84495aa3e778fd9a0f2a88c69fc77" >rucio-1.27.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/4d/a6a4769ba534a4ddc729faf862c7ec821719c92aaa9263620f8875bcdec7/rucio-1.27.0.tar.gz#sha256=8415e3fb1288b6357800156e943460359eddce9876c450bcda51ae00ba209e36" >rucio-1.27.0.tar.gz</a><br />
@@ -307,12 +308,17 @@
     <a href="https://files.pythonhosted.org/packages/71/77/d383e06cfd11b566427cd6be179c1b03985f5811c47faf8ce43f016aec5c/rucio-1.29.8.tar.gz#sha256=086e826b9a220a3ea96a9726b7d8435d4894b63caeeeebb1e2bb5f48b9b3750d" >rucio-1.29.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/90/83905545a328724e212f55324f46229c78bad312c65b5fd2f0eee1295631/rucio-1.29.9.tar.gz#sha256=4ca91aebcae78f379247a7ec9eefdcbd7bc9e55dc5c724e508d603bbb31dda90" >rucio-1.29.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/ea/60887f44ac75f75ee39c1a4b77b076b7ce7ddcccd475c21b77e667d8a222/rucio-1.29.10.tar.gz#sha256=61c301b19c87097cda1b59768b2556726d41116d784ae12075f9bb8bb775352f" >rucio-1.29.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/35/190ca2e27efe1e8c7a86ee534e7c213cfad854b15faa13155db59b89c3f2/rucio-1.29.11.tar.gz#sha256=f21065149073d6a68008bbed689fee1896a33ffde9f5a5f0f98eedb98ba2533f" >rucio-1.29.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/4c/4124f6553b4af0bd5db29f3c7529fb4b017f79613a432ea971861ea517b7/rucio-1.30.0rc1.tar.gz#sha256=53b5a9237e8ff228d84020730f8abd2453d7b68c4a30aa85119638da2a44416d" >rucio-1.30.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6a/bd/dde7ecf4df82cf92003ae7996e0472c37101f51be4c18438f9fc087ee769/rucio-1.30.0rc2.tar.gz#sha256=3720271e08d4e7c0e3b0157d40d4203ccbbd5228bed852050acdf7d0e092eae1" >rucio-1.30.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/67/2a7dc15f2c6d62749df819a7c7e5cd42eb074b867eb647f587b95eb81cf6/rucio-1.30.0rc3.tar.gz#sha256=854be68e05f2f8b75a5a7c400137131a9e58ceb57f8049d9461ed603c8f56d45" >rucio-1.30.0rc3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/7f/95cdfac773d24e8d17f29efa64f9507cbc94434ed27535b2c5fb670a9a32/rucio-1.30.0.tar.gz#sha256=ea331c3dee4c59d5f79fa55e8a77013b489168a3c1ec64780e56b646a0c22574" >rucio-1.30.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/b2/77f0507c5198a4d7b038186d2e53de3eb6700f41624d299dee2d68e16da5/rucio-1.30.1.tar.gz#sha256=a50053ebd74e9447fe7ad670091ebe6fdfe7f6cb79fc6af733e8728e1c110a76" >rucio-1.30.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/0e/ac97981af1bf759258e4a689b506fc94ef14c8809399437dbc76c4b5d00c/rucio-1.30.2.tar.gz#sha256=19a8ff0ceaa1d602436b205c2cf2475f38e7121e721efe767ae3614823bf6e78" >rucio-1.30.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/ac/411f312439c7ba85012564bd2c24109d0f701ed9bf8fc8c89cd9bd529cf3/rucio-1.30.3.tar.gz#sha256=7c6b0f5cd18321247d975eb6a35b45ba6522ff63fbb2f2d6d9888c6774e84126" >rucio-1.30.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/a7/8da9d5245061c76ae7ae4f0fa3cd524540681cb5fc8d2f9669b0aa65e081/rucio-1.30.4.tar.gz#sha256=3eb376a30a6ff7a35f06242275061f64496b4b05c850dd9099cc98928a78d8c4" >rucio-1.30.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/46/db3e1d1884431a7a884d5bb3ad3178bd5c10610bedf93734b7a4b7e9439f/rucio-1.30.5.tar.gz#sha256=dd26da85f036428c7c6e31c33e6cdfc273622f695fb3748bf5ffd7bc0406ea54" >rucio-1.30.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/a1/7c38aaf4f866cc954800de758b9ca6086b27f78e87426d84720bcd43bcca/rucio-1.30.6.tar.gz#sha256=88258c1c93f30b4f3a9523df07312fb4d82cf5081ba4ced79d90eec27077c649" >rucio-1.30.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16403524-->
+<!--SERIAL 17068518-->

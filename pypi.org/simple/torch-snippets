@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for torch-snippets</title>
   </head>
   <body>
@@ -340,6 +340,20 @@
     <a href="https://files.pythonhosted.org/packages/72/b4/136ebd54872ec7a3b20306942ca36417c9373710b5f0241531478dfdf985/torch_snippets-0.499.15.tar.gz#sha256=a73e699379d11297d356af5b84fe4a2c37113d582d4ce73564c990441579cd3e" data-requires-python="&gt;=3.7" >torch_snippets-0.499.15.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/d4/c5398536d8c9594d030785a684112358bfb02f6698b0b16b44fe0f904231/torch_snippets-0.499.16-py3-none-any.whl#sha256=54193e1067da6e7f83bd7b75ac1c5cee24cec434fd6409914bc0a29c152a68cd" data-requires-python="&gt;=3.7" >torch_snippets-0.499.16-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/98/94/a926f29a977c1af5be2964ad4f161d1cd413ca7c86588867a4895298a585/torch_snippets-0.499.16.tar.gz#sha256=fcf5dd9d812789e6de84e7883d026713a23b820f9ab130a63d43eb872eb831b9" data-requires-python="&gt;=3.7" >torch_snippets-0.499.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/89/7842bd8ddad22166dc6ceaa31dad027aaae0ad2c1cc63eac16236ac0a1da/torch_snippets-0.499.17-py3-none-any.whl#sha256=ecde4c2c3505459bdedf1269945c97088800617d3fea449a7610b87fec85a2f2" data-requires-python="&gt;=3.7" >torch_snippets-0.499.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/40/c2588b4c6cb4d5491a805d98aa4682693cf4c64f260b722b56761a06955d/torch_snippets-0.499.17.tar.gz#sha256=fdc309f0ad80c234770fb9079966fea113801ee9944764689f40fd1ad8c6e102" data-requires-python="&gt;=3.7" >torch_snippets-0.499.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/8c/598e905c936b0ed0a6708428890821ded5f5ddb26b84e1ade3902017a19a/torch_snippets-0.499.18-py3-none-any.whl#sha256=3dfce9fd8da8f45ce9b6d6c48a2027bb64a8440046f15de2197079d4bfb570fc" data-requires-python="&gt;=3.7" >torch_snippets-0.499.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/9b/b5e7812bd7261775ea56a4a669fd49b9c677b01cd3966108f50c25da078b/torch_snippets-0.499.18.tar.gz#sha256=e298592713bb035ca85d02a9390c57e094028b90f18bacd70811c46616a8ee5e" data-requires-python="&gt;=3.7" >torch_snippets-0.499.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/4c/ba01584c8de5fcfd21e4813a863bde03dd33d2da25a3043de11b38530eeb/torch_snippets-0.499.19-py3-none-any.whl#sha256=2acdfe39c695b639f0d8a1616084663f38617bff9d39ee0df5850b945e2abae9" data-requires-python="&gt;=3.7" >torch_snippets-0.499.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/24/ecd1db8b355c361a8900a61a3009ccc9cf68c7fc324012dbe774911f209a/torch_snippets-0.499.19.tar.gz#sha256=30aeab6877ecd2d45fd28010fb1910c2f49c2dc8a1b7e4cfc921800595442d21" data-requires-python="&gt;=3.7" >torch_snippets-0.499.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/28/e3c5a80cdf9fcb959948afd2de6ca19e8d1ccc47d021e02b68f2eae9e3a3/torch_snippets-0.499.20-py3-none-any.whl#sha256=c01cc86bfd68b3ea81d4b5e7198612d8dfde92f034058ae5f0a21eea0769a924" data-requires-python="&gt;=3.7" >torch_snippets-0.499.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/73/6138ca2877d0fb1198cb49a1c34bab670676a68142f86e70a2d688853726/torch_snippets-0.499.20.tar.gz#sha256=8b5795f12728a4ad267d649eee751c2f3105e6a8da3fd3e0a664d62e104841a1" data-requires-python="&gt;=3.7" >torch_snippets-0.499.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/08/6f5dc454550ecc61ebae05e8c27f64acc8fa9d11730d79c6634388525195/torch_snippets-0.499.21-py3-none-any.whl#sha256=9155202ad8e73ad78a8d661c13bd37e795709437ac299eec541d0b82a59036a8" data-requires-python="&gt;=3.7" >torch_snippets-0.499.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/15/f29db629bacf5da5ab9f1f752051327e87f36115571fa248d9444111472d/torch_snippets-0.499.21.tar.gz#sha256=4e21d3afcd76e49080d674d68b1852fb708a6ddc1c6209f92029c203521c9170" data-requires-python="&gt;=3.7" >torch_snippets-0.499.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/68/842a76c1da39e346fd007243e6314382920e2ffed770e1a636f47c09edb6/torch_snippets-0.499.22-py3-none-any.whl#sha256=ce8601f37af58c6e6d12998cdb2bb33fa9eedc36f2b04d3f2e9f74d68ef75342" data-requires-python="&gt;=3.7" >torch_snippets-0.499.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/28/8f666c7c90639d37a0618c2c72ee2a478d4d186ffd808a3e762aca3fbf37/torch_snippets-0.499.22.tar.gz#sha256=f83de4ece0834621cb906b9ca13a0271a7f19d599fca68c2f90503dc1f782545" data-requires-python="&gt;=3.7" >torch_snippets-0.499.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/f8/5fd1515dbdbd82d9a2fc6149a212f21ae25bc315f79d08a5be08c43212c7/torch_snippets-0.499.23-py3-none-any.whl#sha256=ab72b881eafe74831e7714926ad85a6b2bda7b7454806878bf280a426d6a86a0" data-requires-python="&gt;=3.7" >torch_snippets-0.499.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/20/5a9595e193d1fc2c7c4a5ed9aaa6804af7c255f175eb320d31e280875253/torch_snippets-0.499.23.tar.gz#sha256=b4d3181c795a174a8828e46ea0e6acb379f195db1f065b321104d449ecc23152" data-requires-python="&gt;=3.7" >torch_snippets-0.499.23.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16406720-->
+<!--SERIAL 17158552-->

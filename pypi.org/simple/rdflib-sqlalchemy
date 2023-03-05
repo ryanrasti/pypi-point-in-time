@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rdflib-sqlalchemy</title>
   </head>
   <body>
@@ -57,6 +57,7 @@
     <a href="https://files.pythonhosted.org/packages/38/7a/23f78e6a9174efbf60d87cb759387fa243e3fa56d37289e0f957bf658fe2/rdflib_sqlalchemy-0.5.2-py3-none-any.whl#sha256=2d923ac223de71ab83c8dd03e9034703b7f46df3806966f430f0b126f837ef2b" data-yanked="Accidental upload - no change from 0.5.1" >rdflib_sqlalchemy-0.5.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/35/a0/88d919f1b90882aac62386ec2058c2f82227c28986d6936ac86a4b0a803d/rdflib-sqlalchemy-0.5.3.tar.gz#sha256=a7a2e83d113db8e879477074ffac10b589d96c84007ad6ed067d1b8762d61e74" >rdflib-sqlalchemy-0.5.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/86/0d38afd659faa47557c608caa352e06e829fba148f3a6ff9484e897c6971/rdflib_sqlalchemy-0.5.3-py3-none-any.whl#sha256=6f69419bc4b999a8e77d1839d7074d4af1342e16144b898b1589b6009d8c6e40" >rdflib_sqlalchemy-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/ef/dcfb5cfc6f44f3bc38ce907962126a201874a4404070058597e59f1b4e55/rdflib-sqlalchemy-0.5.4.dev0.zip#sha256=50fb114d5711550501b2a3b10de6be7b3ad790f4b3ac6e97fce0e8e00c4a7e03" data-yanked="" >rdflib-sqlalchemy-0.5.4.dev0.zip</a><br />
     <a href="https://files.pythonhosted.org/packages/c5/22/fdaa8500c59644767a1c25af638cba52984d4c3ebce3b761c923c63e59e3/rdflib-sqlalchemy-0.5.4.dev20220521150452.tar.gz#sha256=ffb36ccfc74387ca7557120b7e612167a5391ec09a079869672beba56ca1379b" >rdflib-sqlalchemy-0.5.4.dev20220521150452.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/34/055540dccf0d3a453275932d1ecd05e44a377614b03bff8a671597895cea/rdflib_sqlalchemy-0.5.4.dev20220521150452-py3-none-any.whl#sha256=bc9253fe0b24473cfa44e55b91de6332b2dbe69c7e8849157be4f5abf0231a6f" >rdflib_sqlalchemy-0.5.4.dev20220521150452-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/71/84e9c882d39f63fdbba4569d44037b32558a3fe388941cdb799645c7cfcf/rdflib-sqlalchemy-0.5.4.dev20220522132915.tar.gz#sha256=f97e6019f7b243c2de3525f89615ba613f6af1817ffc0d6b37162183d6bd5231" >rdflib-sqlalchemy-0.5.4.dev20220522132915.tar.gz</a><br />
@@ -67,6 +68,14 @@
     <a href="https://files.pythonhosted.org/packages/02/fe/7fe3817fa6de096d450c86563a27057a53a29d420048ba79b75b7bbe04dd/rdflib_sqlalchemy-0.5.4.dev20220806224239-py3-none-any.whl#sha256=42fb84c06cb59a94858e206c724fbcd7ccb657facc2a76473f51be37bf6076eb" >rdflib_sqlalchemy-0.5.4.dev20220806224239-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d0/e6/859381f357164cf51a044088f143e5e2600960cb52ba03019c454e5da54e/rdflib-sqlalchemy-0.5.4.dev20221226032413.tar.gz#sha256=1137d0522c8fa126d8e112d6e7debb25392f8fc7a8da1c353f20d6ccea6edf0b" >rdflib-sqlalchemy-0.5.4.dev20221226032413.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/00/37/c8fad0d310e06e10fed47b4160185f66a2b38367ff51cddab40409064c98/rdflib_sqlalchemy-0.5.4.dev20221226032413-py3-none-any.whl#sha256=4b9d01ed0ce2bd4233523a2062d9d2d173fc754c95358b1071c70f389ac88acc" >rdflib_sqlalchemy-0.5.4.dev20221226032413-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/97/fa419cc76e93a6ffd708257824a655fab8cb6e30a38f75c5d5f56cbc3881/rdflib-sqlalchemy-0.5.4.tar.gz#sha256=3ed94286a29535701d82c4376dd9e10fa429e8e102fa1f58ab1ea73463e419dc" >rdflib-sqlalchemy-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/9f/0ecfa285dc42a495e1175bd150be8b4b4d1945ecb749b0ea0e0ea57ce705/rdflib_sqlalchemy-0.5.4-py3-none-any.whl#sha256=d937e59d5654aa95406834a9485f1165ed7d00b64cbb158f3388cf5520e6a132" >rdflib_sqlalchemy-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/a7/65fa940a15362e4b7df748255e4bd7fe10c57d07835db6d629f550c2b1a9/rdflib-sqlalchemy-0.5.5.dev20230129030530.tar.gz#sha256=97c978a2adc6c3cb5a7a4493f49e2d31b1f9419ac818f1330cb6f30ae33bdc9d" >rdflib-sqlalchemy-0.5.5.dev20230129030530.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/b7/58d1808001c882aaf55abd19b0ad7ab0c6c91b26b644b4b6e908df929518/rdflib_sqlalchemy-0.5.5.dev20230129030530-py3-none-any.whl#sha256=eec5c2983ef2f9eb059a4b61bc28e1ffac18a1ecdf6aa01bc8492355a20fcacc" >rdflib_sqlalchemy-0.5.5.dev20230129030530-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/8d/ced3a7bf90cb668d9fdc3f029ec7659b8d1c3a69b899a751cbacaffb0918/rdflib-sqlalchemy-0.5.5.dev20230129174048.tar.gz#sha256=8fbb73ea0c3a63d31978deb8819d9f75ccc88ff74b7618daa627121998ec0da3" >rdflib-sqlalchemy-0.5.5.dev20230129174048.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/74/dbb0ebe6eee4b2a0eb544d7bb026c52d993eddaf1ea9b967ab6c036e2c54/rdflib_sqlalchemy-0.5.5.dev20230129174048-py3-none-any.whl#sha256=77edc8742d2bb476ba547fead0c80978b9a3792bb0884ce3aa15d6e6400a1537" >rdflib_sqlalchemy-0.5.5.dev20230129174048-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/85/eae5ffb3572c5ec011ac97a65bc050f54af5fbce66d2b1fff4d4232dd484/rdflib-sqlalchemy-0.5.5.dev20230129174154.tar.gz#sha256=79b78f153429ca784f523e18c8d1f14d9f0ae702a5d4347802792af1efcacaa7" >rdflib-sqlalchemy-0.5.5.dev20230129174154.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/e2/c7881d28faf3b3e8275977a7653124f4a05ea673028dd5355a92f00916c7/rdflib_sqlalchemy-0.5.5.dev20230129174154-py3-none-any.whl#sha256=6b46c970d4d669c02d802bf89530a8a548b3152718b5ded6f498081e4c8e0f00" >rdflib_sqlalchemy-0.5.5.dev20230129174154-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16212702-->
+<!--SERIAL 16610716-->

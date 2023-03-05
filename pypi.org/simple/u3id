@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for u3id</title>
   </head>
   <body>
@@ -64,6 +64,19 @@
     <a href="https://files.pythonhosted.org/packages/39/f1/45e7360d1408df5d20ea009c8f51ad3dff98edf5d283ad655f185fb9458f/u3id-0.0.6-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=89ea23b3641ba469e6268aa36607e6f3538ab29c4bbaacad0edcb9c68e968ac1" >u3id-0.0.6-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/bc/6e9dee4cd2cd87097bdb5bf7f8193fb54880e419847764009bc2bcb0160d/u3id-0.0.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9b7ee7d37ac5383c185e12b19ae4e177718a9d48e9b99dc9007b14fe8a6cfba2" >u3id-0.0.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/7f/9ac551de099098fdbb7ddd454852c06b0993e1cd1a19e2bf36d6544b65a4/u3id-0.0.6.tar.gz#sha256=0e8bc9b39e78e1531056a06b17ce0bae6a29b55f87e7d5fa3993c91ef016c7ed" >u3id-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/80/060ceac534a33c92271757bebd492e838e13345c22aadc06f7a689826256/u3id-0.0.7-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=ab43aa8414c6dc02ed94c94237be3e5ef6466e9ecc52294c50d24ed33ddfdb76" >u3id-0.0.7-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/f2/12c880fbcd9c362b09398ad2afd50bb10d91700608dc2e7d571db424be6e/u3id-0.0.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c5a07b60a08dcab86d3a5a85a06006ce96ea244c50242ae9c96a3b9fcbcb2aba" >u3id-0.0.7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/76/96bb9825a2e9cff93cfd97bbc0b76c1679ef1330330e526fb61d662ee187/u3id-0.0.7-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=7a085935965b38dee3e3ef17c963e965d276d42481b7e4f8dbda2b214e24f7f7" >u3id-0.0.7-cp311-cp311-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/86/1d19ae12a9de801ebc59f8a12c23c8f7149d0b69371b05388a756e345ca0/u3id-0.0.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a7d0309b21488f876276cc72f2a6834eb38ff6ddb7a7cadb617620e188329245" >u3id-0.0.7-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/08/e3498bfcf8cdfb74a74ca9b3478ded9fe2691fb2fa0abf75849a3e0abd94/u3id-0.0.7-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=da92e39ddbfba97c2468e1847b70c9ad6dd07b9b0873513cdaa060151147a47f" >u3id-0.0.7-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/17/242a504f06cfa9cfe69bcb3cfe630332f4aff653c7c3474e4af5d2261486/u3id-0.0.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9df04ce75165fc162dfdb0001d0396ec9ca45cbd77d102650ed0bd5c9781a4bc" >u3id-0.0.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/26/4156b426b64a654e51b9c12f8a607c576bbb5e0614275bd235775698410c/u3id-0.0.7-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=3edc29c95fb286ec02e6e5947c9cb931fd9709eb2ad03011ffa20c22ad35770e" >u3id-0.0.7-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/9b/030605f4bb0660452dfddbe3dc24734b9c5fa5f37821e6fab6cb66b416cb/u3id-0.0.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=05a4233d28d134618f1856f6337955eb88a3a87b99503c4c738921bfdafa91f2" >u3id-0.0.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/37/953c052a8de2f08c3bd6541290598b634f30447d4c23a206d9afade860d1/u3id-0.0.7-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=066296b3b43edcb1747d1895ae6124fa062d720b4b3621eb0493d739002419b3" >u3id-0.0.7-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/22/7de0f5267a937ef12c623abfef57cf08b28d04657b59a89a716881bc2509/u3id-0.0.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c0a70229e4f48c27095ca5b3bdcf254e19760b0bee19783d12e4338c2cc34471" >u3id-0.0.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/5e/9e31b2a2cd90f9006fc3b02467d765f0ef600cea5bb371eb74ecf6f4c1d2/u3id-0.0.7-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=63f792b0d252b29a3ea365ee1b90346f94b0495bf35c797533c07910ae9d0196" >u3id-0.0.7-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/50/92c74718306bbdd58e7e676c7b0f6563c527dfbc21d5d49467ef53e9cb1a/u3id-0.0.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4b8dba338148d763d2298e3692a11dddba183850bae5f63ed5cd0d23fd4f9ef8" >u3id-0.0.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/c0/58c5906c30f71999d4166129e783e8a4430f7a13df590347137d9837c9d8/u3id-0.0.7.tar.gz#sha256=0ec2f8bbbd0ec9290ee4c6fc8101278e45622de91d731de14e8de0e2b70b1f2b" >u3id-0.0.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16283801-->
+<!--SERIAL 16571374-->

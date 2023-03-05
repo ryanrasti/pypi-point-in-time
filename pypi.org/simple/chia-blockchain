@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for chia-blockchain</title>
   </head>
   <body>
@@ -91,9 +91,20 @@
     <a href="https://files.pythonhosted.org/packages/e2/bd/7a7b07f50a7435ba5903be8295cdff710963f58342e1e4fe6c9d91e3a8f3/chia-blockchain-1.7.0b3.tar.gz#sha256=3ba606a3b91dfc555c8793ce235b7dcd9d7e0d73014380896ba48fd662b59665" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0b3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/ac/c872e5eb62b55b0f7e3b25f07c6b3bdfc73495bfd6755675e2c6efa6c9c4/chia-blockchain-1.7.0b4.tar.gz#sha256=ca156c2fcaa4a3777dbac70bfcda3eaabc16cdd9f65d975aafb975f9fb95fd49" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0b4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/43/6a/f1ec1c672f984339c47afe4eccf0aaaca00bb8fc67e9a6b355e4d1d47703/chia-blockchain-1.7.0b5.tar.gz#sha256=713d9bcb85bdedaba25762f3d508d5e9471ea3f81e0350758ab1332b39dd2e91" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0b5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/18/d62c0a0fea9854dd41957dde6192598c9a8881c3c4d8a33ff0641b07ca9a/chia-blockchain-1.7.0b6.tar.gz#sha256=4944a6a87826a2065eaa107f791883d9eb7da6b5d25600a22dd3ffa2f3a33de8" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0b6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/70/c6c965c5147c551d54e023326352a9edf0305520c2ee0cb7d1774c0f9c00/chia-blockchain-1.7.0rc1.tar.gz#sha256=36a8d4e3e14c0d3b5f49c058d94943eef1d0a6f17f2fca18ae7d26be0ae76e08" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/58/41/f6551d8c503f411968d5ac34420bffe596cc8e18336fa36a1b3761e2453f/chia-blockchain-1.7.0rc2.tar.gz#sha256=c7152167923e77159787251ef04ab04a6bead620cd55013ba1ff6d61da9e9c2d" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/7d/94440c5843a20cd856c791a0a584c1f0f5f9baba98074d313b2431e8f358/chia-blockchain-1.7.0rc3.tar.gz#sha256=25be4abf012ccc1abf4d2152708e25898856c0dae287e1476d4dc49d018ab089" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/97/045f71868217d9985935a799c62fed7f318ff87c79a87cf7a44741fde547/chia-blockchain-1.7.0rc4.tar.gz#sha256=099d94df3bb669efb12a638b8c2c5215cc6b9604656fb9a8dece941679fec17a" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/89/94ae7522197945492f07ac0f29428642aa31aa52b269413d98d08261ae12/chia-blockchain-1.7.0rc5.tar.gz#sha256=919af0c4bdbdcb6ac9a51e3ec6625d4a85c4234bcd77cad8a731ecdd7eaff31b" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/6d/d1a246f59ca4a6f8ae8a6bdca6ecb740ae408be672eb8f53dc486c798477/chia-blockchain-1.7.0rc6.tar.gz#sha256=4bd515f4e5ddc18722729d2ea476bd04d342a2a0ebfa7a7b1f4e58c5d33718d2" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/99/f18eb42cbd1432a594d06dcd35ba0f7b468c1905acfd75173fca56449b01/chia-blockchain-1.7.0rc7.tar.gz#sha256=8f79a7fc950b670476458285f6184a75260dd89020237425915596976ba67feb" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/0e/92ffa996f981d5d8f18a719a223c832ad40343ad901e1de812dbac14fc03/chia-blockchain-1.7.0rc8.tar.gz#sha256=d618f069f6f121f99b69596176a5df7b2cfc40e1704190d20648c1404c169fe2" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/0c/d2ee2fee2dea0adcd72acc1c303d6ab03e54d9c6582239975e97e15094e3/chia-blockchain-1.7.0rc9.tar.gz#sha256=2af18c0c2bc99254ba9e98f704a4960451da49b76bb122e6ffa9c712efa700c1" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0rc9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/bb/59e00f6d9d835fdfda5f1079b4e468e21d528be1c7f1719662aa46adbdc0/chia-blockchain-1.7.0.tar.gz#sha256=ae64c61ea498ec928aa750d7c35007568d778d65edbc695056abc7543784bfc7" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/02/ec83e6a73c058e9f24d4814a83fee9dbd2c9d894fb2a529e8df206da87b1/chia-blockchain-1.8.0b1.tar.gz#sha256=da5b6864794216b76def37a989ae8660950bec10dacb25857574f142b9073aad" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.8.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/14/f6c4062d718eb291da3ffbc7a40285c08eafec3a37812875bb2cccfb9c87/chia-blockchain-1.8.0b2.tar.gz#sha256=aba4a6b96d5d2fa00216b8968f9095c1916a1ff6ca080d4dbbdeb16ee7291406" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.8.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/14/784b52e84197b72b5200a7dcde84732ac76f83f729da037886bbe45303d2/chia-blockchain-1.8.0b3.tar.gz#sha256=6f7b48c1a98559d7216c5bef8a9e3cb274ec383d3754adf0640baab63e9da728" data-requires-python="&gt;=3.7, &lt;4" >chia-blockchain-1.8.0b3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16366508-->
+<!--SERIAL 17152930-->

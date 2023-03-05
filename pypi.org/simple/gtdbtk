@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gtdbtk</title>
   </head>
   <body>
@@ -55,6 +55,16 @@
     <a href="https://files.pythonhosted.org/packages/5b/b7/6bc0bb66462d3b669ee1e5d39234efec662eed17ea2afa11df918dbe2552/gtdbtk-2.1.0.tar.gz#sha256=980885141f13502afdf05e720871427e3de4fe27f4f3f97e74af6fed87eb50a7" data-requires-python="&gt;=3.6" >gtdbtk-2.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b9/f4/afbebf8c28c3717584100d8d8d924259314c972abb581d2eb0424a021517/gtdbtk-2.1.1-py3-none-any.whl#sha256=ec75bdb47d7b52619972e9ef1bd773baefd8aa599567a21e5f575c8974aa02df" data-requires-python="&gt;=3.6" >gtdbtk-2.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/71/9a/ae98b3aca31a1106fbcf01b4567184e6a8fa5abbb74749e287c3f5238ad8/gtdbtk-2.1.1.tar.gz#sha256=2276723f627c5374b76b4c2cb8b07e8a218ef9f6e72091fcbc6a98ecf6c8796d" data-requires-python="&gt;=3.6" >gtdbtk-2.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/e5/e497c084510ce4c0898ddb2df2f7d938b5d63de0e26cb42f11600c0c9559/gtdbtk-2.2.0-py3-none-any.whl#sha256=2e9814025095008ab0522fd706623b807064f703a26b4d864e847db3692ce7b8" data-requires-python="&gt;=3.6" >gtdbtk-2.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/d7/60f98a610b01d35736088897697c538bbe2f83aa091e6d5cca1a84122ad0/gtdbtk-2.2.0.tar.gz#sha256=01a34ef3059a98d03782526be9070c4ea36cf55606d1e1a089099f8dcf99dc8b" data-requires-python="&gt;=3.6" >gtdbtk-2.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/ad/d6016544dd8d2dc164569b328307dc09e7029112016b87941180cd3fd3e3/gtdbtk-2.2.1-py3-none-any.whl#sha256=b1025b4dae7a8bd3edae67621f63b962151bd5d63344968d9e13ac0c40adef8a" data-requires-python="&gt;=3.6" >gtdbtk-2.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/ce/b46fe9815e149aa238471118f5ffb50d67eab2b4c8a94d1fe3a480052166/gtdbtk-2.2.1.tar.gz#sha256=b4519056fbd91bcaa7cf7e09c1f558df3609e8968d15e15dedd5d925449b0448" data-requires-python="&gt;=3.6" >gtdbtk-2.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/bc/6f4c477f7fe9d4d67abd5a2843c88533570cd482a63e35c1f2589393126f/gtdbtk-2.2.2-py3-none-any.whl#sha256=073bddf7d844340ee7401d096ed0af8fe0abd655a5cbd84967892c92c054014e" data-requires-python="&gt;=3.6" >gtdbtk-2.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/bb/539be0884928b9906f9a4ffb0118e4501f6f203afda9fe1a5c40b231d150/gtdbtk-2.2.2.tar.gz#sha256=f01d1defaa9e83d21859c780eaf3cc6b614508129434860a5271b1254f0fa7a0" data-requires-python="&gt;=3.6" >gtdbtk-2.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/43/0ba90c5591bea3ec5f2340724f0b5a12da4fe2cebe5a79022be66b406917/gtdbtk-2.2.3-py3-none-any.whl#sha256=48efdd687c3b4089bdac7b0c3b4b84cd9a5dfaed31107252678f7c4c2a27eab5" data-requires-python="&gt;=3.6" >gtdbtk-2.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/6d/8a161d447e0d3db86dffe2c684272be3969254b056ef819a270a10e5bdbd/gtdbtk-2.2.3.tar.gz#sha256=8247506e21c585d2415368df01ea01eaed6d57d5e0e2ccfd1895d2fc3313a3a2" data-requires-python="&gt;=3.6" >gtdbtk-2.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/32/24f75f992865e4e5c761bb04a48ebc510dd91b9f04d5f1424eb5e4161ac4/gtdbtk-2.2.4-py3-none-any.whl#sha256=1323b4b8d75901384ed234a9f63b5f8fc0e7f986365ecf08a2c02f94cc3bc6f3" data-requires-python="&gt;=3.6" >gtdbtk-2.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/ee/8ae2325f1f084a901575e9dffe8c8e7dae4bb89df809858983281177c0d1/gtdbtk-2.2.4.tar.gz#sha256=48c43c5804b41762674ad24b0f436f5292b9a97a1fe7ea30907b0b7ae193062f" data-requires-python="&gt;=3.6" >gtdbtk-2.2.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14395573-->
+<!--SERIAL 17074249-->

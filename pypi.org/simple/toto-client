@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for toto-client</title>
   </head>
   <body>
@@ -22,6 +22,16 @@
     <a href="https://files.pythonhosted.org/packages/6a/99/85cd74764eb8af3b5df937f94fbb264788d67cdb00192bb1478ff62ead48/toto_client-0.0.7.tar.gz#sha256=04efedb6004d753906626db31ccc0b38dd051d0d2aeddbe074db4269516a6364" data-requires-python="==3.8.13" >toto_client-0.0.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/b2/36df9070a5037bc01ba95b16a84658b1f036cb161510ec14e755d0865bff/toto_client-0.0.8-py3-none-any.whl#sha256=bf723a373ab057a99db57c35f7572ed0ae6d972fa4737c42bdf2927cc433ae6a" data-requires-python="==3.8.13" >toto_client-0.0.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/11/d5/bf2cb04351c06fd5636c478bbb1b8ee7ef65ebd2453012949f14ee7d6f69/toto_client-0.0.8.tar.gz#sha256=f3e8e0a44be56b987e98d40ff12dd8dcf583c3205758530183b757941b7e8dd4" data-requires-python="==3.8.13" >toto_client-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/d9/d17f3a87bf4978de762641e817485ea7d194d05af4ae8234fec517495a78/toto_client-0.0.9-py3-none-any.whl#sha256=cae9f3334d4d67110d22352d31e7959475cb96a6d0cb65cd01f9a3eb4d94b1d0" data-requires-python="==3.8.13" >toto_client-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/74/292f402c47dd0efcd00c396a83aa984b135e02ba095abbf1ebd8b114784c/toto_client-0.0.9.tar.gz#sha256=cc9cf01d377adb08b0305f979b87062da929a2aca488fea938df16e71ed9a910" data-requires-python="==3.8.13" >toto_client-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/ab/c5acd43a3cf161fb0df1d347bd34f9a4f949204263032e0886c174bcf471/toto_client-0.1.0-py3-none-any.whl#sha256=f16d2eadea9e3e3c2deff87c7540d7451c83c8ce63351f3ae5300b54f81c3e07" data-requires-python="==3.8.13" >toto_client-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/a1/4b9927f54814a619c4fc46d4dde8cfadd70309c43cf6b4c99c7fe499b55f/toto_client-0.1.0.tar.gz#sha256=ae7b890e3b5f499f9f12da828d9b4ef5f377891c81bfff0ff4d42fb6dda64257" data-requires-python="==3.8.13" >toto_client-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/7b/e74f413c14e116291cb9fa1fbeb8f5bd050aae1dc7f0173a597a506ec2c0/toto_client-0.1.1-py3-none-any.whl#sha256=b0c62c9f502bd7277c876fa862ea6c27277e41be17bcce510afa2991108e617a" data-requires-python="==3.8.13" >toto_client-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/5d/99d74d2c79213a92377689b6f8b9292d1f3898dcdc0df6995fd112f3a073/toto_client-0.1.1.tar.gz#sha256=89dcaed5e433b828e80f5d06f02607ecacd7c76782a02a520391948ac142cc9e" data-requires-python="==3.8.13" >toto_client-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/cc/3071a51ab8ac89901e59e617f281c70cd39635c8f44bd55ebac24fe9c0e9/toto_client-0.1.2-py3-none-any.whl#sha256=a95f7b05fdb14788e6cffeeec4955acf7b63f46aca9c0d2aee133fe0184e486f" data-requires-python="==3.8.13" >toto_client-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/e7/4f3e421a80b3988a872b536764ad468536a0294c299a53b5365725d07398/toto_client-0.1.2.tar.gz#sha256=1e1fd77e49b0c931a0c41d498ad50e1957255b73a09dccfcbf94218022d3ab37" data-requires-python="==3.8.13" >toto_client-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/0e/79ef3555a35037cde84d4a3fa78b83d6615b38652537a0465c88bc803aab/toto_client-0.1.3-py3-none-any.whl#sha256=f196db1bd78479fe08ef69c7c233ca6b1f4313c8da2e8749336cee7ae9672e33" data-requires-python="==3.8.13" >toto_client-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/2b/143d9078263701c07e1f64d412ff103b8af74d31f63ec84c5eb22e7cd62e/toto_client-0.1.3.tar.gz#sha256=7a442ba0471938a65321770610bc2a8ed2269b52f73696f0560f166091b2c5f4" data-requires-python="==3.8.13" >toto_client-0.1.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16405199-->
+<!--SERIAL 16590071-->

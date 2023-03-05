@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for inmanta-core</title>
   </head>
   <body>
@@ -22,6 +22,8 @@
     <a href="https://files.pythonhosted.org/packages/cd/0a/e00875c3b8f87073e577a0dbb9616abceec11c707abba2a2a3c960e718e8/inmanta_core-4.4.4-py3-none-any.whl#sha256=6d61547190c84d7b3a5e8625b43ad415c3ccb43bcefe0553468c4c035021feb1" data-requires-python="&gt;=3.6" >inmanta_core-4.4.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/49/9866fb6273e214722d4df90baacacf0a10ca9cd7c4ffd9299a4f4c327c61/inmanta-core-4.4.5.tar.gz#sha256=261cb18877864774f3ea700d4653cb990be36d98e53bbe9e02b8dbcfc424fa11" data-requires-python="&gt;=3.6" >inmanta-core-4.4.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/bc/c9ff053f0e0e27201a28603d76fd49bb1e88e56a55446453ef20ed6b5eed/inmanta_core-4.4.5-py3-none-any.whl#sha256=978b7ae91b857dd945d1b56639f797cbfbbd875ec4534de830e57d1bd0e9bfe2" data-requires-python="&gt;=3.6" >inmanta_core-4.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/15/00eecad5c08ff3d4fb5bd39cda322a0a53a1500f0b8e8121569bdd01c07b/inmanta-core-4.4.6.tar.gz#sha256=a6187dc46f6b4499bbd1dba0c6c3b9ab64ddd51b9653f8279d4043e1aefbc3a3" data-requires-python="&gt;=3.6" >inmanta-core-4.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/af/f3ce3576c9aa1da1ce5d2d37bd73da1b4f6f94777aa5f09aa27ce0b83df3/inmanta_core-4.4.6-py3-none-any.whl#sha256=eaaacf7d438aa912d473695e31a2b8acdfa087f2d2ba5385796c7a9ec6279dba" data-requires-python="&gt;=3.6" >inmanta_core-4.4.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fd/22/ab8f49479700966ff0efc78866b6b54ba757f503efe6e26a908058d18af0/inmanta-core-5.0.0.tar.gz#sha256=1da89a8f6c96e8516947c2700db3a31030f5d5e508f8a6c94d00b10b1937d9d7" data-requires-python="&gt;=3.6" >inmanta-core-5.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/eb/38de2105aceb1015b93e66cd38723ddbb720e2980ea542beb5c1311bb177/inmanta-core-5.1.0.tar.gz#sha256=edcd1a86265b18ad76488c60b4c6e085aeff9cd70d7abf9f124c133ec7b76ab7" data-requires-python="&gt;=3.6" >inmanta-core-5.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/92/57/29fb660b1601b2de01514d12e9e09662bdc9b6904b08ccb78b70ccdb9c54/inmanta-core-5.1.1.tar.gz#sha256=afa05fc6d3445081a7c9f85cc10af631bc574e40f64f8372a760e91128e88b89" data-requires-python="&gt;=3.6" >inmanta-core-5.1.1.tar.gz</a><br />
@@ -38,12 +40,18 @@
     <a href="https://files.pythonhosted.org/packages/01/21/f2dabf83b95a9b9f041ab1d952e409ea6909b5669059ec422b1503f4bfaa/inmanta_core-6.3.0-py3-none-any.whl#sha256=2563c78698b4de3abb571c8753a845a46cf71b1b4531d06fa0bc79d2aed8a8ed" data-requires-python="&gt;=3.9" >inmanta_core-6.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/e6/0af7e88e4c28505fde90da8a436b698a2092f038a56aa933a53b24affbaa/inmanta-core-6.4.0.tar.gz#sha256=93c420f9941e2825b2b580895bfde6d6b0aebc7daecd7ee4fc91d0cd1c6aac98" data-requires-python="&gt;=3.9" >inmanta-core-6.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/14/55/3b1054332da7515891c7b1c94e24e15765bef15068b9fc4d0cd715a76ce2/inmanta_core-6.4.0-py3-none-any.whl#sha256=7094de8a603c9d624c0a5ef97e066e41c3503d400c8e96038ad4da683392ce25" data-requires-python="&gt;=3.9" >inmanta_core-6.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/12/8fd713c118c4c9fea40c5a8f1af4d3e4dc4c6accc44801d0d088b1b61a60/inmanta-core-6.4.1.tar.gz#sha256=51288078cd72cbd999a92687b3ff12fa0c331eaab09fb5f44bf4bb187c0dc22a" data-requires-python="&gt;=3.9" >inmanta-core-6.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/48/f8fb3b720223f0ee91e7ca941cc3b7e6b7fd5086195347ac2a711e92d0aa/inmanta_core-6.4.1-py3-none-any.whl#sha256=301eccf8059905644e39532710c1f5740050eec58195d25dda38996d66b8f818" data-requires-python="&gt;=3.9" >inmanta_core-6.4.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/0f/9b42e6ef5eadc91d31f56f59194e4051dfb66dcf05826842738cc43764d2/inmanta-core-7.0.0.tar.gz#sha256=7f681201a058fe808235ebe878dcac3a0b2423c67e004dc82d8d29b649ed5baf" data-requires-python="&gt;=3.9" >inmanta-core-7.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/c5/b226b70b96a97d8f1f3c8f78da8824c284e23f76668c7d0a582ccc5c7bd4/inmanta_core-7.0.0-py3-none-any.whl#sha256=bd6ac4706bf7de8d69dd752a6bc3e06ac6382274849540e3b0a707799eb92128" data-requires-python="&gt;=3.9" >inmanta_core-7.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/72/03/01578570e9a2d4868b2ed9d12fac91e2025e90a7437e1f9dde21346bf8e7/inmanta-core-7.1.0.tar.gz#sha256=279333b0b015ba40691f3f4f5fe7673f9d45cb97a7eadaea408668ec0f60b509" data-requires-python="&gt;=3.9" >inmanta-core-7.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/44/60/dac918b5dc1dcdaee2f959627e84b130508f9599ec1c3269845eb659a969/inmanta_core-7.1.0-py3-none-any.whl#sha256=c7ef03485b7d6979445541771ae378c33edf6809faff1eb195ff773b2a996e44" data-requires-python="&gt;=3.9" >inmanta_core-7.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/f0/5cad865550fc63275333ccaf11785c2f8ac73cebfc8f8fc1c0b8aee74dff/inmanta-core-8.0.0.tar.gz#sha256=476d3f956fa0d0df4d3bcf986b9c340eab6624fe178fcba1c6bcc190739daded" data-requires-python="&gt;=3.9" >inmanta-core-8.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/34/b4/d2dab81085fc204ba8c9cb00337263417f258c73f5a8df9b23c9d3f92664/inmanta_core-8.0.0-py3-none-any.whl#sha256=f143c2e4c9429d7da4ec145418fdac144b8a552d2b3ca618fa220acde4b4466b" data-requires-python="&gt;=3.9" >inmanta_core-8.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/8f/08215e57f4cd09e7b0326f93ca8d53b175ab1a0a7299f0fa92b2e5847c49/inmanta-core-8.1.0.tar.gz#sha256=33696231cb25ff45dbfe92645ccf2f3661218ed20dfea934a347ad745719f85c" data-requires-python="&gt;=3.9" >inmanta-core-8.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/70/8f3e331b4df3d7bbd90b4237cb5c8d7b852b8a84bea737d6eb1efe29e5da/inmanta_core-8.1.0-py3-none-any.whl#sha256=916501e1075a04d91f13afb68acba21cf3e84adcdf7f35fa98ee2d48bcfe4919" data-requires-python="&gt;=3.9" >inmanta_core-8.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/21/8a6c4ebabbce741c5aa805591be11499989430c9dfac06f57c7afb33a027/inmanta-core-8.2.0.tar.gz#sha256=61866a7663d763a3c792df4479c9d4571fedd3a267860c4661396cee43966a89" data-requires-python="&gt;=3.9" >inmanta-core-8.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/f4/b986770f0fa84e8e79c24487a7c9513f6a33fef2d54094fa7b7112177439/inmanta_core-8.2.0-py3-none-any.whl#sha256=8c6e033717c1b8d9fad24547f5abe39947ec618b619759d82b7622623e53b434" data-requires-python="&gt;=3.9" >inmanta_core-8.2.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15957262-->
+<!--SERIAL 16769466-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lognflow</title>
   </head>
   <body>
@@ -28,6 +28,24 @@
     <a href="https://files.pythonhosted.org/packages/e7/be/730e9376f129297dcc899106da4d34e3d4a23ca0b615f3bf7a7611420d7e/lognflow-0.3.3.tar.gz#sha256=5a1ea5c3bdb2ec0e3b41b8e902b9e8778766a587614b85fbd551267d301a01cb" data-requires-python="&gt;=3.6" >lognflow-0.3.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/76/77080e4cf75aabad76fafe5f1a9679d3beb13ca9a9995f7bd0c81e7ada69/lognflow-0.3.4-py2.py3-none-any.whl#sha256=a50340c2a640ebe27ce70021d6672f5a9637ab4ed20fbb389a289ea27c053b29" data-requires-python="&gt;=3.6" >lognflow-0.3.4-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/78/0e/483c6804e28a55873132a2c9586b2fa4368c4b3c2291cfa6f284c37eb83e/lognflow-0.3.4.tar.gz#sha256=a5dd24040f3756308133b9207387f327f796c4a6081e4f98bba565899a761f2d" data-requires-python="&gt;=3.6" >lognflow-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/95/af0e4e40d11120880b6ea7f06d9424203bf7161786c6b8b578a63f8ebe3a/lognflow-0.3.5-py2.py3-none-any.whl#sha256=4bb9892c5499707433cf229373eb1e7aaacaf51caf033de5a4e8d0708015b592" data-requires-python="&gt;=3.6" >lognflow-0.3.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/54/fbac647502856fa5553ea89ab67e4b9998a46f04eb2b81875f8ce9798786/lognflow-0.3.5.tar.gz#sha256=6bbf990a78c7253cd82337f3ad1648996422486954dcfdb082c0d97f4352284e" data-requires-python="&gt;=3.6" >lognflow-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/44/18ee46de592d843029c82cd9e6e09d6683923e9c086b646f27f331f663e4/lognflow-0.3.6-py2.py3-none-any.whl#sha256=3a5ca989bc18386d00b3c1a2e1e58d393ff07db5b66ca96efaa0a403ff6601c9" data-requires-python="&gt;=3.6" >lognflow-0.3.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/7d/20f11f96c79fbec2e572473ca73117cd59f7552cd11bcb235af09f5bee92/lognflow-0.3.6.tar.gz#sha256=da3285644764d54c79e98288d82a989e4d87fce3a11a8a1dd128a3f510c79ba9" data-requires-python="&gt;=3.6" >lognflow-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/9d/d6ae55f14f0f748cbed0d57377ce14a45c00345a6f879d5429d5aefdd759/lognflow-0.4.0-py2.py3-none-any.whl#sha256=03d09a70bd7f2bbf944292ea9fe938ee69fbd19ee196d8661738f34c45aed549" data-requires-python="&gt;=3.6" >lognflow-0.4.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/60/db1d90d07d51a8a5fc5dd42e679d00daf0aa82eb2ce09112728ed2cf8871/lognflow-0.4.0.tar.gz#sha256=411f54ca59fe4208ec52cd2977f88cf0ac35489a04ae0dab94955f0388af2d39" data-requires-python="&gt;=3.6" >lognflow-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/f9/f9df937eb7f5bb9e234757c81caf355ed4807762ab927062ea9e7691005c/lognflow-0.4.1-py2.py3-none-any.whl#sha256=8e5faba346eefc18b60d19e4c5e3e79059c93113a3a7367846b15972ba4d4835" data-requires-python="&gt;=3.6" >lognflow-0.4.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/92/a6536bca2ae811674b3169de3329b57da99c9c591a25e1223c0b53b68a23/lognflow-0.4.1.tar.gz#sha256=9814e20b4ed6935fd5462b3e40bfaf800447922bc9ef96558cd0fcede744d778" data-requires-python="&gt;=3.6" >lognflow-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/00/fc7bb86c97f086c35ee5e663080edd7444b7cff190b859d37c7f94973ca5/lognflow-0.4.2-py2.py3-none-any.whl#sha256=f17930d4f497933dd17387c29416adcefcbcc572abc59fd8ea97da598dd0e390" data-requires-python="&gt;=3.6" >lognflow-0.4.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/74/c01fe39c6755760e1c2757d12db4e9a3ba34e3b1ebb13f9cef732d01e14b/lognflow-0.4.2.tar.gz#sha256=7b84743fe8a252bda079035c05bd909e06335597597820d25fb363f11ed751df" data-requires-python="&gt;=3.6" >lognflow-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/2d/70d62866e6259a6bcdce26e4d9b2f47a56419ba179add59bb546dbf4a728/lognflow-0.4.3-py2.py3-none-any.whl#sha256=df71b54cba64f13d55c3aa2e6d7ae048ee1b26defb838b9175d5c74241daadbb" data-requires-python="&gt;=3.6" >lognflow-0.4.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/88/f7e9f054d0e6b36dcfbe3b86e2c52c98bc3deca98bd15be4c54ca235035e/lognflow-0.4.3.tar.gz#sha256=83fb330d1b2a09007bab15525f77aa346a2544bf2e1b74a5d94fcee6c65fb668" data-requires-python="&gt;=3.6" >lognflow-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/e0/213697d184bcbc3336929273c5dec4eafef99b452a262a7ecb42bc802b63/lognflow-0.5.0-py2.py3-none-any.whl#sha256=150c60f0e535777bfd07b94bab7da9004719af7683c9f7f99d5c2354459729e1" data-requires-python="&gt;=3.6" >lognflow-0.5.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/51/6ae20270756ff7b8f2bbd9cd210e6c9e6e4ef5342bc7fa3a3f683abced80/lognflow-0.5.0.tar.gz#sha256=ac9375d5314a0b1e727fba516358a0d5937f34460ece25d8c9e4d3bdc347cc9c" data-requires-python="&gt;=3.6" >lognflow-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/ff/5130c08759872efd6d5cc0621bf14e70c4b0074e95067578ee6ce2f60392/lognflow-0.5.1-py2.py3-none-any.whl#sha256=76b17892496d8ca1fc8ad0bddefa3f6ffee101eb15d88578fbafe054389fd987" data-requires-python="&gt;=3.6" >lognflow-0.5.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/60/716f6c7d8ccee3a7357f926a14b6bd06a88093d87f7d6e8fd0fb92bef20d/lognflow-0.5.1.tar.gz#sha256=e49d116447ba01fed74b98a6f49088ce1424d50a89a66c094ca693088a2e611a" data-requires-python="&gt;=3.6" >lognflow-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/b4/59f7a11e717296febc3892b62e5aaeb4866e813c779d4835170a3d6424f0/lognflow-0.5.2-py2.py3-none-any.whl#sha256=be92928b71498dfa25e8645c56a993c3ecebd96f5938d862d19734ea5f0b83cd" data-requires-python="&gt;=3.6" >lognflow-0.5.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/0f/a73f7450e8b3f8e1e39495e01edd44bda17fbc7ecae3648ea7f28064e7ba/lognflow-0.5.2.tar.gz#sha256=46d0987d2430e4b4b5a5c51dd41a833b3266e057a4092b2d083ba49d5c5e61f5" data-requires-python="&gt;=3.6" >lognflow-0.5.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16313204-->
+<!--SERIAL 16987901-->

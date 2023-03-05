@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for razel</title>
   </head>
   <body>
@@ -10,6 +10,16 @@
     <a href="https://files.pythonhosted.org/packages/6e/fa/be37aef2ca55c28ddeb03e1553d2f1f2b013c897e3a6f52302f8d274a844/razel-0.1.1rc1.tar.gz#sha256=af750b829ccf105bd21f5907f354f836fc972a35d70bd6c15c40a1ae5477def5" data-requires-python="&gt;=3.8" >razel-0.1.1rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/d3/dbbd31ece7538de3705a873f1d98038fe4465d05736d970eb9e4a7f8c623/razel-0.1.1-py3-none-any.whl#sha256=9f9ae2c6e67ff7547a8c94464852f17153ee0e8b188848747ecf6f9e3aa19dc1" data-requires-python="&gt;=3.8" >razel-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/6d/7045e3b33a7f0bc1ff1addc541ce8975dfc6d2fd287996f91cc51694b74a/razel-0.1.1.tar.gz#sha256=f444d99ff3c629e938b98ef1551afa3294560b856fa9868885ca72f978ad6365" data-requires-python="&gt;=3.8" >razel-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/33/e1512c06d5574b8552efbf55a9091f76d34bc0e0ddd60e8845907b68f5bb/razel-0.1.2-py3-none-any.whl#sha256=087bb6be24ee7dcf1c8d0b77fccd8fd188f5a0a410c549264a2df2c7ced542ed" data-requires-python="&gt;=3.8" >razel-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/21/3b0d2753f1c227d2b75b74cf4de87ee02dd792bc34128586a49d73f8c464/razel-0.1.2.tar.gz#sha256=3ee947000c1a44c99dbb2d13273e665231e5490dbbf298f6fd980749a474d9f3" data-requires-python="&gt;=3.8" >razel-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/d9/68049ef537c1a5123da9e7f5211b5373f6def32a683bd8fd776880c3d53e/razel-0.1.3-py3-none-any.whl#sha256=869f4c47cf9dc0d75c0add5c2180b152ba72a355f88c2522612791a0be84f623" data-requires-python="&gt;=3.8" >razel-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/1e/16425edef8a820fe37d3651233a1c8c2fdef939184efc04018035dbb20ba/razel-0.1.3.tar.gz#sha256=78032e7f96f8d1762c1fff0ae1de5256d1bda233933f1cd745e32254f194f6a7" data-requires-python="&gt;=3.8" >razel-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/ea/7766a945f9b14c5d9902893fb98657573c7c5d4f68bfe531f1cf8ab395f4/razel-0.1.4-py3-none-any.whl#sha256=9992dcf0330669c6cb7a8ea90b656248784d48c089708e64ce2dd686f059d6c1" data-requires-python="&gt;=3.8" >razel-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/13/07a518426f6c63f7d9a8b460f67f75a704ef3a65ae480ae4333e732c8cb1/razel-0.1.4.tar.gz#sha256=ea539bb458e5a76848d06baa19615cea0de32c0422b9059ecc562f3f4d1e895f" data-requires-python="&gt;=3.8" >razel-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/3c/9b150516252b561060fd19be35e98e8ac33f098f5a7f7219172f340b3407/razel-0.1.5-py3-none-any.whl#sha256=1752d9bbf1d1cf005961077fb01f2bf99b74903f529b7023ffe669835f874ca3" data-requires-python="&gt;=3.8" >razel-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/82/b1107f939e4afd4de4f181d6d3be451795ce0619348bf44d32fe9fbead38/razel-0.1.5.tar.gz#sha256=2485d9d326ee51cfcffbd913fc04f3c8cc26b5b0c2b86495c4cf4a631c6220cc" data-requires-python="&gt;=3.8" >razel-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/c7/d3f51647f8f21f408222b4d630464e9571f042e837da93f7742d07faccb8/razel-0.1.6-py3-none-any.whl#sha256=3575c009fd1b2742d2373f62c5b38a9bd016a4dde819d748bc4a4c8b304e67db" data-requires-python="&gt;=3.8" >razel-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/57/f08ebe766decd0a7af682e0fa5912f4dbadafed10a87b3064c80fae3b458/razel-0.1.6.tar.gz#sha256=87d0c814839bb4a5549206de948f6adb0278bf2d7b5d88445e13ec60a56d2b3f" data-requires-python="&gt;=3.8" >razel-0.1.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16279463-->
+<!--SERIAL 16946670-->

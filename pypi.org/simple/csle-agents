@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for csle-agents</title>
   </head>
   <body>
@@ -48,6 +48,16 @@
     <a href="https://files.pythonhosted.org/packages/98/2e/018a759b1e9eab99585d3facda3b33d25a5fa0ea71a89482386004207b0f/csle_agents-0.0.21.tar.gz#sha256=b14f7e39eb6e04938062c88f46de89993e8cab12c9a181b911e314ecf1af2899" data-requires-python="&gt;=3.8" >csle_agents-0.0.21.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/a7/11038554f2e3f5848f457fd1a064daae17f144455318a39c35d89d30be42/csle_agents-0.1.0-py3-none-any.whl#sha256=27bac80324d8a01afe6e5954857fc2fee40e7c5a29c8a9815c0f2bc7409e37bc" data-requires-python="&gt;=3.8" >csle_agents-0.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/ff/a440a86a9bf173c2179cfa1830613303aa2c4104ea54377f4a820552617e/csle_agents-0.1.0.tar.gz#sha256=467235d42cb633064a4e1a220bec3d341e3479532b24c19acec2739e009418de" data-requires-python="&gt;=3.8" >csle_agents-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/98/067595b41515afe510c4a0a4feab86f053ef73fa924b3c556ff22149a875/csle_agents-0.1.1-py3-none-any.whl#sha256=abfa664f5fb520e5dcaffeca5d77effda78653a3a2694b6b3b197e6173bf60a8" data-requires-python="&gt;=3.8" >csle_agents-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/35/a9b8bc314e26f7ddafaba7f14429ee4cf3123e70004d866acea1b6251b4f/csle_agents-0.1.1.tar.gz#sha256=ecd1706884040f8370533613d2b17b13b1b4a7fba819b3da05c1c93f2f9264df" data-requires-python="&gt;=3.8" >csle_agents-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/ab/9b638ed0d5d1fdef2bd33225025a6e465050055aca04dc39851c27565707/csle_agents-0.1.2-py3-none-any.whl#sha256=0a2591a13ea6a096904e312237b76cdf007ccd820cf8307dd319c49ecc7afabf" data-requires-python="&gt;=3.8" >csle_agents-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/04/67d6337ebc0293feb408b908c036e9198531b48367e2864ec27a2c22cef5/csle_agents-0.1.2.tar.gz#sha256=c3bb509c6204a2bc6702717f179a8c706c5f87cd2ea20368f75ec4cd918766ad" data-requires-python="&gt;=3.8" >csle_agents-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/0b/f940751dc5691c74efcbc0a92440c91b661a57685e9251faeaa03776da26/csle_agents-0.1.3-py3-none-any.whl#sha256=0c1125ce61c54c49d83743f5b8f8d8c90ffb8f44f47dfde7db4b6d79c1985e8d" data-requires-python="&gt;=3.8" >csle_agents-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/ff/f509ddece038f2b37dc066bfc61ae290a696bc8a3dcb8df421d533a92910/csle_agents-0.1.3.tar.gz#sha256=43be062e739f2b830b7471c061af752a17f7165eb853d2941ce490197b105056" data-requires-python="&gt;=3.8" >csle_agents-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/1c/726bf6ed769f7bc2f1003915a34a483441778ef478853c26eb568140bc1b/csle_agents-0.1.4-py3-none-any.whl#sha256=89015dfc0e2b5c1a51b09b1ae17aaa4088fd16d7290bc9ef91e8971a4d080d12" data-requires-python="&gt;=3.8" >csle_agents-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/7e/5978d669eab43a603962655b73d29501b1c4a0c15097324795a62f7a57b8/csle_agents-0.1.4.tar.gz#sha256=3e28f2e6c6e5f71ac41f0c711602e95e3471a0cae440b3dee915a36bdb13332e" data-requires-python="&gt;=3.8" >csle_agents-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/d0/e39ebd30c5af84080d3a9ad6819df89ee24d3cb977c6f2bc743325ffbdf1/csle_agents-0.1.5-py3-none-any.whl#sha256=ee1374f66bec3c5c0d85eb13f7ff883bfbb89eaf285dec13a466104b6e861c70" data-requires-python="&gt;=3.8" >csle_agents-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/8a/1a1a2fb2fcfc44c7d3fcdb55efc57f726642ba43f0095b0d67f4da0eb12f/csle_agents-0.1.5.tar.gz#sha256=0528d4f22e94687610f8c0dd3661d0b4f0e432245641cf6cb4e92f53e78b7363" data-requires-python="&gt;=3.8" >csle_agents-0.1.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16303120-->
+<!--SERIAL 17158619-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ipykernel</title>
   </head>
   <body>
@@ -236,6 +236,14 @@
     <a href="https://files.pythonhosted.org/packages/bf/e6/d29f4b827cf98a28cffc4b44af784531450f67dc81962fb6c3d84b3d7848/ipykernel-6.20.0.tar.gz#sha256=7dfafaec645300710c41479c0b0bdc13a9ea6639bee6e3ad042757674e9a9a29" data-requires-python="&gt;=3.8" data-yanked="qt integration broken" >ipykernel-6.20.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/3d/eb5ea4b365b2d03e76da498e31660ef3e7465dce720783eabc5092cd0d57/ipykernel-6.20.1-py3-none-any.whl#sha256=a314e6782a4f9e277783382976b3a93608a3787cd70a235b558b47f875134be1" data-requires-python="&gt;=3.8" >ipykernel-6.20.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/a0/81fd87e47e9322b138e88913bc62e3b08c8ecb6df739a9c9e3d0f3a13862/ipykernel-6.20.1.tar.gz#sha256=f6016ecbf581d0ea6e29ba16cee6cc1a9bbde3835900c46c6571a791692f4139" data-requires-python="&gt;=3.8" >ipykernel-6.20.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/32/9594d9b081250cea091b687c7d8ecb2304a06293956f032d89336385c0d3/ipykernel-6.20.2-py3-none-any.whl#sha256=5d0675d5f48bf6a95fd517d7b70bcb3b2c5631b2069949b5c2d6e1d7477fb5a0" data-requires-python="&gt;=3.8" >ipykernel-6.20.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/c0/16e5656247203e7ae67e528f580561c9b54166145c10b46e3ad117984902/ipykernel-6.20.2.tar.gz#sha256=1893c5b847033cd7a58f6843b04a9349ffb1031bc6588401cadc9adb58da428e" data-requires-python="&gt;=3.8" >ipykernel-6.20.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/60/6a1ad6f31447936c70f641fe07e3e8cde9e3f74839419f32538277139082/ipykernel-6.21.0-py3-none-any.whl#sha256=a9aaefb0cd6f44e3dcaeaafb9222862ae73831f71afd77f465fc83d6199d1888" data-requires-python="&gt;=3.8" data-yanked="tk backend broke" >ipykernel-6.21.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/31/b4e4dc21655ad8728da5c2544c770b0e17dfbc4643d07dc1fcb566706692/ipykernel-6.21.0.tar.gz#sha256=719eac0f1d86706589ee0910d6f785fd4c1ef123ab8e3466b8961c37991d0ef2" data-requires-python="&gt;=3.8" data-yanked="tk backend broke" >ipykernel-6.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/07/9f97d8fbc3abcc5e495af92a83118786cb3f41d106752901db5ff1b73f83/ipykernel-6.21.1-py3-none-any.whl#sha256=1a04bb359212e23e46adc0116ec82ea128c1e5bd532fde4fbe679787ff36f0cf" data-requires-python="&gt;=3.8" >ipykernel-6.21.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/68/d18cf6d4130ed5719a478aa976ac4affcf8c7f687844b55b67b4be9ade76/ipykernel-6.21.1.tar.gz#sha256=a0f8eece39cab1ee352c9b59ec67bbe44d8299f8238e4c16ff7f4cf0052d3378" data-requires-python="&gt;=3.8" >ipykernel-6.21.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/4b/b0016fb5525b2833f95731ea742bc6700e9d9d3c4184f62e20f4e5a4d753/ipykernel-6.21.2-py3-none-any.whl#sha256=430d00549b6aaf49bd0f5393150691edb1815afa62d457ee6b1a66b25cb17874" data-requires-python="&gt;=3.8" >ipykernel-6.21.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/ff/69f7318c2ca48c7c47f45b854ef51128192d67761a8f72d4c04ed57e5047/ipykernel-6.21.2.tar.gz#sha256=6e9213484e4ce1fb14267ee435e18f23cc3a0634e635b9fb4ed4677b84e0fdf8" data-requires-python="&gt;=3.8" >ipykernel-6.21.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16359574-->
+<!--SERIAL 16840054-->

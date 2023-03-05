@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fink-client</title>
   </head>
   <body>
@@ -39,6 +39,22 @@
     <a href="https://files.pythonhosted.org/packages/29/cd/2fedd2c40da14afa4ac34a43863196540fa1c6f1acb00291c4654cc461ec/fink_client-2.10-py3-none-any.whl#sha256=36b8f3b57d7037d40ffc519ff4dafb578d1074707448680c2d62696572d5eb2a" >fink_client-2.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/76/95fb16fbbf491b3d3694c119cb63145765444b6ff052a7fa35aacfbb7d46/fink-client-2.11.tar.gz#sha256=8d2c665027ba912c492ff63d1eb08a589fd7b34f5098705c07dca24e66e0ca85" >fink-client-2.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/89/a7/ffc55e0167cf710cf05197e11920adbaa8c3ab1802a2ccdb2f5bb437021e/fink_client-2.11-py3-none-any.whl#sha256=a44e565f8d2dc73bd2bda659aac86659fe18e504f1ac7b0e545c5015beb70aca" >fink_client-2.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/0e/12299019663a0fa726b161537aa69fbb1c32c34ca7952943210a27cbc54e/fink-client-2.12.tar.gz#sha256=d7734169ed14c454d2e38d6e4a97f03c22b4570ebe99f0cc999344cb7a7c7a9a" >fink-client-2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/ff/a05bfaa1fa4d4c25ea4c0c0b280692bc6e2d468a5cee1e485fc943d07d6c/fink_client-2.12-py3-none-any.whl#sha256=d490022d8479a762000d807c3410bbed9fdc982c480f9d7ff50627a6559441ab" >fink_client-2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/a2/4d3f723dc9c3a422c6eaf7d1ee81e9239ba73620ffea50ae4a56a3381377/fink-client-3.0.tar.gz#sha256=fcdcc9cfec027cf9a68a78fd7fa7ce2202dd4406387f3b3c45d7b374cf259ef3" >fink-client-3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/59/395246df2456999a65409877a9b2e75aee79a35009d9e64caafd3e6fe9f2/fink_client-3.0-py3-none-any.whl#sha256=0c6967c64aaf3c568a944900c42a0c96e95f7a383a718c4555b232381ab005a6" >fink_client-3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/4b/1726879eff8b2a8ddfeed78d03ed338ed0b5b476b0324a65f6796dc88828/fink-client-3.1.tar.gz#sha256=75c349bce7cf5b46039962c7ea329ceef0fdd0a74b5da16a0b1f66e87bfbeaa7" >fink-client-3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/29/7377c1f0298ed479f251de4c96ddea36e779e786f1ab31db438c802f6a38/fink_client-3.1-py3-none-any.whl#sha256=75d6704b48767893fb61a00a274cf1650d1b9b0b08cad0db5d3fe830ce012e2f" >fink_client-3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/75/e6fe18b3528227a37cb83d58a7ba2283764cf75e0af19ce9fd8db257c9ae/fink-client-4.0.tar.gz#sha256=99f3da44d1d98897c3ba71d80d8c9cf2ff370aa1aea405b774602ef2a7eaece6" >fink-client-4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/5b/ca9849c77aa15abc0c53aa870433866a0e93c8cab6b32483764b58aae3f4/fink_client-4.0-py3-none-any.whl#sha256=657a2953c117e47a76291a63e7659b594d662f23e4cad04b9f6aab35ac543ab7" >fink_client-4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/b0/54d12b95547ab81f69960cf8f3ee570ab6347cbce36aa9b9c529f29ea893/fink-client-4.1.tar.gz#sha256=6862636dff9595ea31a64d0bb0373d1ec4e46ba2881029675fcb8d51e2628f37" >fink-client-4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/f9/27652b0f9b7028f6cad0e4d5263ccca20ed6c4215688a47daa9cc3e4082d/fink_client-4.1-py3-none-any.whl#sha256=0367c6c5e84f578d8e85162d5bac59300572e35e0557a7d8d7bf684409e3bb2a" >fink_client-4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/63/76205b44d0ec150c08db47f27e76f71e298156205ff4f569bd954860681f/fink-client-4.2.tar.gz#sha256=19393e1562cd161130ce0af2e76dbc294e411db4f8543ef39794ecaddb55decd" >fink-client-4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/11/5ef9686d3a9db1678e32b687ae3c3d0be5c70a99bada8b50e0254d848261/fink_client-4.2-py3-none-any.whl#sha256=243d9c804840a99ce4139f090a4efce2c6414c3957b7fef121095744b0d085e8" >fink_client-4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/7d/c265dacabcdd3037cfc2adf9589845ac7228c284ca0636012d8e261b70e8/fink-client-4.3.tar.gz#sha256=f4d83b5f5d296ea31afd468277ed2702a1979783d72fd2c7375f987b416bff97" >fink-client-4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/19/88c9caaa7d6c4f888e751d8c63def3c62be7403e34778bbe2fe55003e8f5/fink_client-4.3-py3-none-any.whl#sha256=e340ee69f2ba456fa005a3554e4b6edf333da940ab6f4f39143ec018464aa6db" >fink_client-4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/7a/2288f1ab9472339d4703cedaa4042b7b7b2bd5d480f4a533461c1c9a6645/fink-client-4.4.tar.gz#sha256=16ed323fe64f1bd0cc2b239243c7addbd9f216d1aa37396fdc0ceb8ab6610e5f" >fink-client-4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/86/ddc33b15a20498b14c12f2634317fd083d4b52918c1bd6105d93f81ed492/fink_client-4.4-py3-none-any.whl#sha256=8646aac0472b5cc2c05cfcb14db849b9feec710106f014cd35c161380740a443" >fink_client-4.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 12858737-->
+<!--SERIAL 16877214-->

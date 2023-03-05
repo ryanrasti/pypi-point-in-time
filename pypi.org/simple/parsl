@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for parsl</title>
   </head>
   <body>
@@ -114,6 +114,20 @@
     <a href="https://files.pythonhosted.org/packages/ef/94/cfafd684f308f6e2f755fdd5d5cd8cb70450280a950f201a73e4aa89990e/parsl-2023.1.2.tar.gz#sha256=1d68380e2d29c730092386a1abc4cca48575923ea8756ac3799a7f26e46a7c14" data-requires-python="&gt;=3.7.0" >parsl-2023.1.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a7/67/0bed94058b6d2d03de3a5bbf609766cd69dba288b3f1d92f2b67a6d9a0db/parsl-2023.1.9-py3-none-any.whl#sha256=a8e6d2974347f7c1da58a3ede38a2f8bc187589d03d6f3e04a982a6ecfff048c" data-requires-python="&gt;=3.7.0" >parsl-2023.1.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/95/ba/6881efe0c823db20d64b2cb692a04e0102496ef2d3e4e22bc9dc034b071e/parsl-2023.1.9.tar.gz#sha256=72ce0ead50a96b99e6dbec6c118194a8fd1105eb0e16b890a82b8b71ee04251c" data-requires-python="&gt;=3.7.0" >parsl-2023.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/34/7d2cae2d3be83a5db3afdb68e5059a1636dbc31b84e04807d94777ddd47d/parsl-2023.1.16-py3-none-any.whl#sha256=0f0bfb9f33b0afb802dd481fed9fd0b1d3bef03aa2f46c3c4cfce2ad796d9fb9" data-requires-python="&gt;=3.7.0" >parsl-2023.1.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/eb/2e8ef197461f8b1248932ddf5998cb30cacec375a67b59dbf839c309401b/parsl-2023.1.16.tar.gz#sha256=33465d86fb49fe0a380aef3c4996f6968004960f9c7797b795a0651f7b04dbd9" data-requires-python="&gt;=3.7.0" >parsl-2023.1.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/2f/2de1585d64a1cb659cd0c8947c944e95ed930d5afcae893b8d63dad962c7/parsl-2023.1.23-py3-none-any.whl#sha256=ed8282109811d582e35da7eb02de39b21061ecda36a107fe24d2334c02ceebe7" data-requires-python="&gt;=3.7.0" >parsl-2023.1.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/75/f609aac24c47a3fac45c4311c967f7df163174622bd54d786d0a022c60b8/parsl-2023.1.23.tar.gz#sha256=4352b575f6ef0a9dfbf42e51f7d232240d07502d34af01df3cf4f109cd38c574" data-requires-python="&gt;=3.7.0" >parsl-2023.1.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/d9/d822d2243e621130dae304d0a09a5018fb8bdaa1e68bb1182ecc0ac3ddea/parsl-2023.1.30-py3-none-any.whl#sha256=388dc2bc59094d6f06099bd0ba067eac890fa19ab063efd17c99b57c05dc1d9c" data-requires-python="&gt;=3.7.0" >parsl-2023.1.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/69/e2273ec9be28c06688efc190a9b727f4ec71cc1f165ce0d4b4ee3bc56aa3/parsl-2023.1.30.tar.gz#sha256=6c7de1d635cd448a946768f9a1639b21b8900a071c233dab003c4eded4ed665f" data-requires-python="&gt;=3.7.0" >parsl-2023.1.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/c9/21cb610c4115fd80c97e35247ce3ef61b67573ee608337f67850c45d55dc/parsl-2023.2.6-py3-none-any.whl#sha256=453cc2f96eeab8e1cbad682c73dab23fe50190ec1ea2a9c5ec85c78b570097a3" data-requires-python="&gt;=3.7.0" >parsl-2023.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/0f/4bb41eb52a693906c475b7249e095af7771cc7f1f400a15505bec7350705/parsl-2023.2.6.tar.gz#sha256=c5e510d5d25e59f3dbdcf30d7df8babeb49ac13a39d736cc46c868e8a5de2175" data-requires-python="&gt;=3.7.0" >parsl-2023.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/94/f94bab72c17333eff625e366940aafabf6f2bec62192ca7dfb2488ee0b95/parsl-2023.2.13-py3-none-any.whl#sha256=6e28c65f6cf3a27d662addcbd1d8e0f3691fb0c8bb5817e65917253a972f3863" data-requires-python="&gt;=3.7.0" >parsl-2023.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/ea/55a7818fe8a6715794a1826c2c42801ca0f2c6b8fd0b3e7fdd12ba629a3f/parsl-2023.2.13.tar.gz#sha256=9f6cdae4f9ccb319e95ed8c952bc62241cb7d15588e233ae6e3f99cfb687c617" data-requires-python="&gt;=3.7.0" >parsl-2023.2.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/ee/52d1815b3829d4bbfff8aca6533b3e0a611079ee57818c56bdfd07bd8a2d/parsl-2023.2.20-py3-none-any.whl#sha256=7eb81d733bcfd26632ed23c05c2faa1fb8714780fb8cc17c2db31df6a81c75f9" data-requires-python="&gt;=3.7.0" >parsl-2023.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/37/f6a2d4f2c7c527a740831616578a9a3465eab214b23f2fd13ba133331ca8/parsl-2023.2.20.tar.gz#sha256=cd9ef8aa4c157b388f1ad47a8b383c5d7b13fd648e6d21fc9c885c9acf99c049" data-requires-python="&gt;=3.7.0" >parsl-2023.2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/51/e43096de1929d13e5f9b9509b8dc6050d791ac3aaf649a3f1659ee2524bc/parsl-2023.2.27-py3-none-any.whl#sha256=dc2d3ada86a15e1dadc0e96a73ac4e52da6d968d6f9babf0b8df773a38e5ef96" data-requires-python="&gt;=3.7.0" >parsl-2023.2.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/41/cf45a2c8d0718597922f50fd445bad5c37d9ee75d26bee154fa1ab03dcff/parsl-2023.2.27.tar.gz#sha256=3cfd6b3dfc14f4d1e558fdf3bc339736536b65a2cc1bc10ddf819b970a065deb" data-requires-python="&gt;=3.7.0" >parsl-2023.2.27.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16366804-->
+<!--SERIAL 17073245-->

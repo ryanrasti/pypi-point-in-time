@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pdm-backend</title>
   </head>
   <body>
     <h1>Links for pdm-backend</h1>
+    <a href="https://files.pythonhosted.org/packages/83/d3/fed42deab22a5c86f9c715b8460708c954f4a1e5bb77859345c465b23af4/pdm_backend-0.0.0-py3-none-any.whl#sha256=dd30d757e62075a8c2d2b2b9aeda8ed0ca5014275ea9e437cc22ac6b23280606" data-requires-python="&gt;=3.7" >pdm_backend-0.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/43/c1/9d3b6edf0ea4e13bb186d950ff30bf83c345338e4241d8176448857daed8/pdm-backend-2.0.0a1.tar.gz#sha256=cb4fe54d88f82d36cc36622f3a17408637ea1d5a6a5f6f20e3560cf05d64e260" data-requires-python="&gt;=3.7" >pdm-backend-2.0.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/58/14cfc17ec096709d93c6625bac58b4612386225df944fee7459ef535da1a/pdm_backend-2.0.0a1-py3-none-any.whl#sha256=8606fd7a1d23da8196949b09111ea57d0da1b12b45318eb0177965be99252af0" data-requires-python="&gt;=3.7" >pdm_backend-2.0.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/01/f4/9f6c903301fd42936c30674c3516ce2cfdea52a06c76616ad040ed32d823/pdm-backend-2.0.0a2.tar.gz#sha256=858576b963c8dcb6a261b246041e970cbe1411f722b9ec057a82e350da09c277" data-requires-python="&gt;=3.7" >pdm-backend-2.0.0a2.tar.gz</a><br />
@@ -14,6 +15,17 @@
     <a href="https://files.pythonhosted.org/packages/62/3d/417c89fa36455133598b101a56254793efc11c9e244aefe0356575d7078a/pdm_backend-2.0.0a3-py3-none-any.whl#sha256=85208d8dae16c6b80add16b89ac8bf3b279f5c0f608d5dbad605ffc4db7276f1" data-requires-python="&gt;=3.7" >pdm_backend-2.0.0a3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/3c/3fa6d3c786bf5fd76df878c57247fecaf2c51c45b038c60a905e5c16ecbf/pdm-backend-2.0.0a4.tar.gz#sha256=61cdc5eebf2262959f16e72e6a0960328512656b541cb6ed219ff24fff807424" data-requires-python="&gt;=3.7" >pdm-backend-2.0.0a4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/2e/f934c2778a915261fd0f70f3bf22c0772c0c7e678c57b019d730962a6cca/pdm_backend-2.0.0a4-py3-none-any.whl#sha256=5762d207a1841db2867164981f36093d9dc63996b83851136c286703dc4e03f5" data-requires-python="&gt;=3.7" >pdm_backend-2.0.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/a5/b0181acb12657b19badb42c9541c7e56536f2d05719012ee7361373ba0af/pdm-backend-2.0.0.tar.gz#sha256=97b79b533b2145bd5d8e3f5e0e9a8e102f45ed7a978e7c30606e7f252a7f3bce" data-requires-python="&gt;=3.7" >pdm-backend-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/d2/0b7154be3daa40de358a85e14054fb61438b4064c19faec43973230912e1/pdm_backend-2.0.0-py3-none-any.whl#sha256=c3057675b203e4d959a5b12e308ded5cc9546e1039d3e86186727056e75016d5" data-requires-python="&gt;=3.7" >pdm_backend-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/73/3b599b2621381c745f66db6a1e8e1e622b518a4017074ce0c7d0576f9cb1/pdm-backend-2.0.1.tar.gz#sha256=52d22142dd1b869645fb90b1270b8228a55cde996e41a71df77c970511ae986a" data-requires-python="&gt;=3.7" >pdm-backend-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/f6/d298d33bc61a3ff69e14202eedd8a2280fbacbb7fcb3dd21b96d19e02350/pdm_backend-2.0.1-py3-none-any.whl#sha256=e25748d18704ffe6511920b66bf31c0d5d087bfd42c73187bc35eda66622c759" data-requires-python="&gt;=3.7" >pdm_backend-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/0c/7efc6ec90a4bfca92eabb15c9e407a88d13b777ca1b7ad56c62edec95cc3/pdm-backend-2.0.2.tar.gz#sha256=04aabc6fa3617e353724c8c29983154fc2dc1d2e210c6dbe67209dc7fd7c8caf" data-requires-python="&gt;=3.7" >pdm-backend-2.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/84/8d407b5fd7dde7d9cf1d44635b41c15c7be08ce22b46314f9ac71c7e6f8e/pdm_backend-2.0.2-py3-none-any.whl#sha256=fcb60a431d50f1f4b474150ca28e1002dbbf1c86bea4ab92345a30efb173350f" data-requires-python="&gt;=3.7" >pdm_backend-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/52/d4e58bdb2389bfd58c697131ebb5377bcbd29fc2378fc10c0a332d1328c6/pdm_backend-2.0.3.tar.gz#sha256=2675a2a0f33690f0039f6f27d7d79df860c0624f4de97359ce1c2add5c0ca42e" data-requires-python="&gt;=3.7" data-yanked="Incomplete release" >pdm_backend-2.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ac/010840317810594d636bc74ab3de8ae106d90661c179b8feef20216d3aa1/pdm_backend-2.0.4-py3-none-any.whl#sha256=6a9e4014e0fb6d403410f9f8848c4912750cf13f9267d0044fab8734fb284aed" data-requires-python="&gt;=3.7" >pdm_backend-2.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/f6/bfe70cacb70455b301b08a162e4b724edad3110d39331766526d556ee9a9/pdm_backend-2.0.4.tar.gz#sha256=dff6e5959de992f3f30f479f44a8fd4572efa47c0eca9cb651809717661df9bf" data-requires-python="&gt;=3.7" >pdm_backend-2.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/4c/5e7fd9003d6aabec96aae701a53858923842ce07b106a8cca990b1b290cc/pdm_backend-2.0.5-py3-none-any.whl#sha256=4ec6097fda74728767d1770c70764e3b0751c27ae22381d17303ca81bae3fd41" data-requires-python="&gt;=3.7" >pdm_backend-2.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/8e/47da696d34fceece5f46cac27f444e67740c69e42a031800e2585c4b974b/pdm_backend-2.0.5.tar.gz#sha256=7bb85061dc185ec0c8c72370475899fb91baea07fcc0311ce0b23d525e565ce5" data-requires-python="&gt;=3.7" >pdm_backend-2.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16098898-->
+<!--SERIAL 17076961-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scaleway</title>
   </head>
   <body>
@@ -12,6 +12,16 @@
     <a href="https://files.pythonhosted.org/packages/7d/2a/84a3d1a552a79166f2036f337736b5b6965e758840ddb972aeb9e9744760/scaleway-0.2.0.tar.gz#sha256=d1ecd20fc3218400e2ab24588db586821be7f7259fb1ac9fcd6de7b575ec6b79" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/05/59/651c6c30c9c7d73e60afbee676981c582913abd20d98062182980a31b4b1/scaleway-0.3.0-py3-none-any.whl#sha256=bdce447257e0de6fef69dfb501f78794045c9a3d60bd887e895d543d74a3e494" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/9b/b9ed345ce3ddaa071ba60798ade2900aa713583a3d6c81a073b155a00cb5/scaleway-0.3.0.tar.gz#sha256=9120423932dd5237183303bec8699c62eb7e5d52df03574fde96cad23cd473c8" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/3b/61340bc344ce7dacc13b1c3f00dfd558d2de455bda2c11789eff1b82ed79/scaleway-0.4.0-py3-none-any.whl#sha256=8d421da3cf8295945a64f55895d58736b4c49fd1fa2888fc4dc724f55c59f311" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/34/297ad830f068bbda512324f1115752a9d63268d5998f065f83ed8b0f5f49/scaleway-0.4.0.tar.gz#sha256=e7a6aaa97ddc8ebaa3b6bdae6bb280299f9e4dd9c02c9aaec9184675143847b7" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/05/fff8d4189d318a5cae646e7e82d66b7cf517d58f52a8ad1898fd1a94bb1e/scaleway-0.5.0-py3-none-any.whl#sha256=dbaf05a88ed8c4aaf5e50f2350b181bec2cbd19a66d30c97bf7ee6ea8a7586ac" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/aa/d5a23013d8966703ed9843da2f3eb1bb710b82c2115f5f13e92ad629c557/scaleway-0.5.0.tar.gz#sha256=ef6a3abb3454cbcfff0775819508cc3da73cd46e1c50df4ed4b6cc51760ecbca" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/17/7e263f5a13c9abef2d0759fcbff9a77cfbcee6a5ef692a66a4cb2d361798/scaleway-0.6.0-py3-none-any.whl#sha256=476411e9334ef184916795279e100f25b1a3b1171dc48764b20ef95f1a91acac" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/44/f7315fb9ab03ed0a8dce31b75467354b170e1c3e084a471fd9c496fd9580/scaleway-0.6.0.tar.gz#sha256=dbacdfd0a6986671f0552101bed8bee4b9695fc8cd25e83ebeb45bbe00e8da7b" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/cb/3feb3756db8356055c056881e14068a82367bb5d5a373f2b2556537e1357/scaleway-0.7.0-py3-none-any.whl#sha256=93b4b3d3a95ca56ebff3696e01f31c4895eaf0a59df062811c946d4da4a9b1de" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/46/f015a057e68fe6fb72666704eb4578a266a43210f827b4c18e06f7cdedc0/scaleway-0.7.0.tar.gz#sha256=dda952657ed203b64bef750f2e217179c6d159d366434db376b401d95e60ea13" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/d9/3dff85860993d94f04ffbc2d4f39f2901c08658d70396918eaf88d743547/scaleway-0.8.0-py3-none-any.whl#sha256=ffd5f3e0ee8e953052afcb10fbb1c8b29f84648bd2637734a94b2bc4b63dcc8f" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/21/46013cb213bcbce9880e47a1fd5eac7b117e02988532588010d357c0a9cc/scaleway-0.8.0.tar.gz#sha256=f3e4404b53dfdd2c5a5365617d3d148309331599237b1788dd8cc71767b143a4" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway-0.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16420181-->
+<!--SERIAL 16993970-->

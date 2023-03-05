@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for grai-source-postgres</title>
   </head>
   <body>
@@ -14,6 +14,22 @@
     <a href="https://files.pythonhosted.org/packages/c5/70/e55e501082a39b43cdd7fef3a3ace09b688e48dc9114459fa539ebad2ad2/grai_source_postgres-0.1.2.tar.gz#sha256=84c8bd2fabd011421195e475cbc08ec39ac5630b111f695bbf4c56e8accdb1cf" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/46/ff/d6b9d7e2986e64e624bf325a4854bf20db5709b015fa08ac09b32b9c8830/grai_source_postgres-0.1.3-py3-none-any.whl#sha256=f51b4d860b01c57a71f066a6b9351a8cad062f01d1ff2d1383fb5d9c533c9658" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/39/2a/f274915fdd2b4c634b082581569b41511522fdf8620ee088dc23f151572c/grai_source_postgres-0.1.3.tar.gz#sha256=c5184705f6e63e282b5cd223c79b4245721e698b479b7fe43281b37587693481" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/fb/4edfb42be35d5fce20108e8caa02b3a156609c5a93d9bdd3fb6b52362b39/grai_source_postgres-0.1.6-py3-none-any.whl#sha256=52caf7151c93cff0e6c8ebc6c453295213896e33521c84090cfc79e4f899e11e" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/50/79e0fbd144af6be754736ca994d5099fe62f0fdd5f09293be4a9941fbaa2/grai_source_postgres-0.1.6.tar.gz#sha256=6e5b02cbc8cd47315eecbf9a66140075c0df88b07bd1844ca760719ecd3abf65" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/a7/b49eec4b64193e4cb0e858fc7b349d496b5df071c09b99880cd60c222e64/grai_source_postgres-0.1.7-py3-none-any.whl#sha256=a21e2a1c942a42d7c41e8a44b54e99cc9bd91d7562bc41835e1f1608a7d92c50" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/ee/d917754a943c096cdbf8e1646f1086a71276aae1e180a96f723bc432eeb8/grai_source_postgres-0.1.7.tar.gz#sha256=93ffe52ce057b57c5192f6c869541f212c992217f3a3f8d271c78f82c60835f6" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/ee/b0e20b89ef8ae08acc6e2888b4b708ffaa665285aee3205188d6ace261d7/grai_source_postgres-0.1.8-py3-none-any.whl#sha256=27c1d76559f9857be8a05c5cd3c495d8e72adf5d0fdd2c50dbeafa0397c34042" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/62/64f924e01357e7f8e6897d660ec5a1bd7c6ac4638e560534fd8da7a42f04/grai_source_postgres-0.1.8.tar.gz#sha256=9e6933c88d2701d7e1bd0463bb09b367398bfc297aa3c5cac9277a61dd61d725" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/27/c644ecb57851e33a3909ef804b51db7c1e4ef54b86f910e32c6748e86516/grai_source_postgres-0.1.9-py3-none-any.whl#sha256=66ffddae5e71ceb6b7f63466c5df6c10038075e04b22d8268ac3f50f3b9257a0" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/c3/053ad6c134151ee11af50edd6bcdbab63797a2e653695a28458085741337/grai_source_postgres-0.1.9.tar.gz#sha256=8a6710fce609efbc48d7fb20957e201f5f269fe31ab88d849561085912457805" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/4a/6e2c66da0584a3b5416e32a3318dbfa9be43ced49f2ca7a5eebb8924ca08/grai_source_postgres-0.1.10-py3-none-any.whl#sha256=ede7ab3a6f595f6ecbd5c63ab821d194d72f051908e119032a29b1a5292d7322" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/8e/d63b519b63639b4843aef297dab5b5cae821c1a87c6171bef715c9a8d01a/grai_source_postgres-0.1.10.tar.gz#sha256=96b393666eebc0c4d1b2a174a08095a13c69f6370a9885a0031b7d2584d9418d" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/a4/ee31ca3d25b6298b149bb00b0f3c9d06954871a26f87bfe3581964a72576/grai_source_postgres-0.1.11-py3-none-any.whl#sha256=90770da6d5fa8ec7a36674ba3aa11851305fe3e46a6bddef95fd570326cec6ec" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/ef/f6ae725704634ef2f46d5f7c3caf6710f9237646cd20016bc715eee05deb/grai_source_postgres-0.1.11.tar.gz#sha256=622ce6803b4eb07e91e8684971a6c282fcf7098287160b5bd413c0c2710c8f99" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/29/0c5c3b8730e42006eb7ece5c8c9dcb268dc4273dcd71f8cb7088ee9ea41c/grai_source_postgres-0.1.12-py3-none-any.whl#sha256=043be967409d85744eddb391d908fae4a4810e6e6e73a389603e4d09bed706eb" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/11/8f3f77bd1b294329f938a6bbed26a92a237b27fde497eca75a3c823fba3e/grai_source_postgres-0.1.12.tar.gz#sha256=9c068a82a1e61789ec48ba0274ee472ee9f7154d283920f39220337805aa3856" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/3e/c5e8458fde45613ff34e7b35f315087a2148847d4643b6c2015f6c74eeb5/grai_source_postgres-0.1.13-py3-none-any.whl#sha256=fa194379aca2ab7e357a65941c74d10aea0dc32aed5510de305a5085d11d8ac4" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/ba/ac0269e96139682ec49fafe3b1f1b2b7721c3fae76984ef8bb50c976641d/grai_source_postgres-0.1.13.tar.gz#sha256=47d11c7a134dcc68fa7a8736a3cab5fda1f7b082f23f4ec0c5b97f17d1f11911" data-requires-python="&gt;=3.8,&lt;4.0" >grai_source_postgres-0.1.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16001317-->
+<!--SERIAL 16985419-->

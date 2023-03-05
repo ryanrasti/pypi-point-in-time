@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nubium-dude</title>
   </head>
   <body>
@@ -36,6 +36,8 @@
     <a href="https://files.pythonhosted.org/packages/9f/37/36fda1fc243a3c90b12cc52b7244d976436956484203a30566170b876633/nubium_dude-3.1.0-py3-none-any.whl#sha256=695bd3b02d49018e89a21129f6cebe5fab37ebcb63d7ba8c0b37272a992f3263" data-requires-python="&lt;3.10,&gt;=3.8" >nubium_dude-3.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/72/3213b5c81dc534db77429c5233562637ae65b13282d8073ce43d025f47dc/nubium-dude-4.0.0.tar.gz#sha256=0517bb8bd31a6709f4e9c75c2df39ddecf0e718ebf786d6d4428ac75ab190b1f" data-requires-python="&lt;3.10,&gt;=3.8" >nubium-dude-4.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c5/d0/6907cb5222226f4d5a8a7f024a0b873a3390b3ede615eff3543f17a1eeaa/nubium_dude-4.0.0-py3-none-any.whl#sha256=987fbf74fd5ccbc4253ab8372fabbab52d4ec87b4ae3b8a0b760756104226ef2" data-requires-python="&lt;3.10,&gt;=3.8" >nubium_dude-4.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/43/bc38f6eeb7a47bd3b128fa72cba60fa247a987202d16b9f5c219d462aea5/nubium-dude-5.0.0.tar.gz#sha256=09e59ebbca7ed9f108234deae0d2ad811395ac138c889e3eada6ad5a7fc46a60" data-requires-python="&lt;3.10,&gt;=3.8" data-yanked="Pytest requirement fails after pipx install" >nubium-dude-5.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/9b/ef2c94a1378151356b2a5e1a8b480066eb74a6d271bf38e2b82d6f915eb3/nubium_dude-5.0.0-py3-none-any.whl#sha256=207c2e55f6187d272f61653b985e3869513be65f24451ad11622317a382ee6c1" data-requires-python="&lt;3.10,&gt;=3.8" data-yanked="Pytest requirement fails after pipx install" >nubium_dude-5.0.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16091272-->
+<!--SERIAL 17149764-->

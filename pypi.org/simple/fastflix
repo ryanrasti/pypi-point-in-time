@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fastflix</title>
   </head>
   <body>
@@ -60,6 +60,20 @@
     <a href="https://files.pythonhosted.org/packages/d7/0a/fc91e4c35f74c8a79aabfe97fe57c31db031d1225acf0c7a2448100ba9a0/fastflix-3.4.2.tar.gz#sha256=4e37d63a73473068be2b405ea80dacfe0cb116442e3415e0314b491643036208" data-requires-python="&gt;=3.6,&lt;4.0" >fastflix-3.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/d4/b454259a7f7a7f0a3d7c5d153e51b68f3347da45ac43daba472b579f4e9b/fastflix-3.4.3-py3-none-any.whl#sha256=91cd69a9844f823a10c0679f68d501839ba1cd51dff1238c29f2b15cdcddc22f" data-requires-python="&gt;=3.6,&lt;4.0" >fastflix-3.4.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/a5/d77d9acddce971c1e2e538283ac67f3e9302a2b02f242110bb46660f1a82/fastflix-3.4.3.tar.gz#sha256=7e0fd8d80b98147797202ba3b78ec06ad07bca726fecca4e7a469f734f53ec10" data-requires-python="&gt;=3.6,&lt;4.0" >fastflix-3.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/70/eccd90cd8f1f1aa720f6fc400f78ee5ea6c65809a34d814f4244ca830ddb/fastflix-5.2.0a0-py3-none-any.whl#sha256=0759fe3932f696cb797b1c51943ce14aa9463c374bd7145aecda0fbd6def6075" data-requires-python="&gt;=3.10,&lt;3.11" >fastflix-5.2.0a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/3b/e5b965a336ce288086894399dc22d3a6a5a3f8d0a83311f2f30743cba89e/fastflix-5.2.0a0.tar.gz#sha256=be9aaf440ab35c8aa19aa58668263bce0c323a7be00f6d6120eb66ff8ec72a1e" data-requires-python="&gt;=3.10,&lt;3.11" >fastflix-5.2.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/67/d6d55ddeac07abadfe8ef4cacffe7940a2a720c635a98ffefe7c100064f2/fastflix-5.2.0a1-py3-none-any.whl#sha256=3f9d73200912ac185bf03b9c81f577b32f6351c2b94799f9599ec59424762947" data-requires-python="&gt;=3.10" >fastflix-5.2.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/63/bbcb25f73066d0c8f2d4108006d05dcad5a91eea2c1736571934ff9030c0/fastflix-5.2.0a1.tar.gz#sha256=8a55793cf717ce700d1affecf07a5c2509853b8b8719f71f072c34a7e64c581b" data-requires-python="&gt;=3.10" >fastflix-5.2.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/e0/3a27ccf3e249e7b12d39770fa4d2e344fdb46aeaaee22e6ea1b897705006/fastflix-5.2.0a2-py3-none-any.whl#sha256=383a2c9879a3ba54f7d95399d4aad486a3874e466daef8f90f52af0c12385fdb" data-requires-python="&gt;=3.10,&lt;4" >fastflix-5.2.0a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/54/dbe1d0a9825f62ce81b8e3201a2e256ddccc2984bc9c62f965566b982c85/fastflix-5.2.0a2.tar.gz#sha256=5df6798bf389c8b4776b43a3977d798cf0a0a3a89230a75e490ba35a5dd1558b" data-requires-python="&gt;=3.10,&lt;4" >fastflix-5.2.0a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/f2/737e98c06fa7b213e636ecd1f4d25623afb6202195fb0973ecba430445d2/fastflix-5.2.0a3-py3-none-any.whl#sha256=2458410fb98cf292471a1e79879f8f997f4db994d17e2f0b4d6d3332debbc47e" data-requires-python="&gt;=3.11,&lt;4" >fastflix-5.2.0a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/59/32d24a8a6fe334c046c05e82189acc7da7ad42901f114eea97f15da8a480/fastflix-5.2.0a3.tar.gz#sha256=24e1b61acb9544ef98ffb2c079dfcabafd9477026a50c7f7d94d3874290ff90f" data-requires-python="&gt;=3.11,&lt;4" >fastflix-5.2.0a3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/a7/f53778b7adc2d2464f9964438a4818ec6cd6d336c81b6eb7b02971d782f1/fastflix-5.2.0a4-py3-none-any.whl#sha256=c07483efeceb21064e4efabc31d095a8678eb068d81e7deec83931bcd867a261" data-requires-python="&gt;=3.11,&lt;3.12" >fastflix-5.2.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/b0/8d13389a89e614aa9de26cce9a51614390ff4852cb467ab4d731daadcfc6/fastflix-5.2.0a4.tar.gz#sha256=5be4f07f16b121c200f7f3257854daa1e39f52029500f86da25b50e391ef10b3" data-requires-python="&gt;=3.11,&lt;3.12" >fastflix-5.2.0a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/0c/ca4d8dcf5ae34601489017ba883644f3225a6de6c5425a9be1744b72707e/fastflix-5.2.0a5-cp311-cp311-win_amd64.whl#sha256=246dbd5a9cc68585407c9fe631d94a79c14a1c69eb88b236d3292cbaa0350cd2" data-requires-python="&gt;=3.11,&lt;3.12" >fastflix-5.2.0a5-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/11/924b30dca79486ed5abe8eee251e6dc36b3dc5cf43e03ee164b829c96a38/fastflix-5.2.0a5.tar.gz#sha256=ee2244e7a926b4e080f2f63646da92a78802ce275149ce1332974b43ccd3e5ef" data-requires-python="&gt;=3.11,&lt;3.12" >fastflix-5.2.0a5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/15/4e8682aadf2fbe7691ab033c4c0e0406365794ef4a00d10b47d1050b9b88/fastflix-5.2.0b1-cp311-cp311-win_amd64.whl#sha256=bde1a808aa05baee68d23f6ccf4022b3396ecaa9923b376a0f3ad4dd04d6c341" data-requires-python="&gt;=3.11,&lt;3.12" >fastflix-5.2.0b1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/c8/e2f42adbe64922618543e61479b6c731509de8eee2b64cf2f891c5df0be2/fastflix-5.2.0b1.tar.gz#sha256=e98a2398cf9fc8985c8d337128357f882540abaab9f046ff9cf5b138cb9cba33" data-requires-python="&gt;=3.11,&lt;3.12" >fastflix-5.2.0b1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 8529186-->
+<!--SERIAL 16693639-->

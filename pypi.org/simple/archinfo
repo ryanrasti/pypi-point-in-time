@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for archinfo</title>
   </head>
   <body>
@@ -240,6 +240,20 @@
     <a href="https://files.pythonhosted.org/packages/2c/09/43511bbdd668642e5f09df0b5016b7f81a1b948721ccb0502faddae6b2d9/archinfo-9.2.32.tar.gz#sha256=f1bc86cfee25cf96214153d670cbcb76706c608da0a595a903ccff503eb08a9a" data-requires-python="&gt;=3.8" >archinfo-9.2.32.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/71/a3/ac037f225af4c1bc8728fff04450a2c2ece0024e751db1eab36788d7240e/archinfo-9.2.33-py3-none-any.whl#sha256=63dc6ea6212011a6f8cacc9fabc44b641d3f67ef5111fd998a640f9de0cf65ac" data-requires-python="&gt;=3.8" >archinfo-9.2.33-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/dd/ccbbe2adb5ce32770ad0c1fa1bdeb98d5f8301858b0c7ae06cccf5583139/archinfo-9.2.33.tar.gz#sha256=d44cfb1739229d7ba56146fefd3a8fed89ea5173f9cd85d81bfd18522e9e3c9b" data-requires-python="&gt;=3.8" >archinfo-9.2.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/e3/74062cd120d14da831a5c0738a541a8bf035c3207ca2cd0b12dc5899da46/archinfo-9.2.34-py3-none-any.whl#sha256=3a9d914bf969e63a3c3e5f8df58c1f9da46ae3ea29fc1ed4c98fbf5d4eb45b8f" data-requires-python="&gt;=3.8" >archinfo-9.2.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/42/bc139cf80586c25c1b5205f0828d19e0f65c0afd924c7864bdb48dd73d02/archinfo-9.2.34.tar.gz#sha256=5dbf1e86d0b6849774762f78f2b84884a96d04477188376e0f7e23fc9218a45d" data-requires-python="&gt;=3.8" >archinfo-9.2.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/9f/c0bb26779e033866ca7523c6d6504b68b1523ffeec5b72c2ceadb1474894/archinfo-9.2.35-py3-none-any.whl#sha256=9d2f43bd5693d5112ade86c911105f8b62b9cf31a14e84bed5f49fc1e669cdc6" data-requires-python="&gt;=3.8" >archinfo-9.2.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/2c/c6db7895c297f8b9d3b055389eaa7b9eb69829edc2b446d9b61030ffa615/archinfo-9.2.35.tar.gz#sha256=2734e77264a4e28da77dbbae7d46e89aea251cdec2757b00eed9e6968d658611" data-requires-python="&gt;=3.8" >archinfo-9.2.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/a5/2f0299368ffbdcb1dcb3cb1dfe92f2d011e8e92d65d9dc131544bcea45af/archinfo-9.2.36-py3-none-any.whl#sha256=e7b0888d294bb45f6d6eee3e6b1b1150fabdcb00f20b06d48b6f2a7f03748c43" data-requires-python="&gt;=3.8" >archinfo-9.2.36-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/3f/66dc80e3acf068f5f58b8f3aa3afd02ef5c841695ed6fda6a0d9e122ac83/archinfo-9.2.36.tar.gz#sha256=e0b5ecbdc3fe5b6058ab00c0e4c9be98998154c47e6dca8fb92e368b8d9c988b" data-requires-python="&gt;=3.8" >archinfo-9.2.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/8e/37e5803d143adf2a52f9104a654841a3d3b0933f7192827c1f607d10f861/archinfo-9.2.37-py3-none-any.whl#sha256=2637e2e4aca56e58f9b7335294f7948621efa1f43374f650117e77ca814b5d80" data-requires-python="&gt;=3.8" >archinfo-9.2.37-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/79/d225e2286cdf417e32efc14ea5834e04a0040e02c1a7996c8c864f09e58a/archinfo-9.2.37.tar.gz#sha256=e8e6b767d2d31c2e7548fe611e78511a1fbf07665fc32adab0786c94417c7df2" data-requires-python="&gt;=3.8" >archinfo-9.2.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/18/e5d3e45856ab87994bcd23752aa32ea2c1688e16077c98be272c8be62db6/archinfo-9.2.38-py3-none-any.whl#sha256=bc6bc1560f3006fe8aebed7738b1c0eee7a8b7178c146e93ccdef442213b10f3" data-requires-python="&gt;=3.8" >archinfo-9.2.38-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/72/580ab286db9f8707fec576f13e80959bb547bfb1fc09c4f21992bbe4bae0/archinfo-9.2.38.tar.gz#sha256=6ed98d98215ca908d4676ffb30533ea1fecf9cf5428554098795eb2f59c85abb" data-requires-python="&gt;=3.8" >archinfo-9.2.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/8c/3c040907ebd433c3abde48a1997bcec9fc41fb620b24e246d788e779c8c6/archinfo-9.2.39-py3-none-any.whl#sha256=24f2758c19794d49a2c68be06a4b6f7be5387f182cea0c76ad0ebeff975e3cff" data-requires-python="&gt;=3.8" >archinfo-9.2.39-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/4a/a3c100cc3fa2078a2cfc5c51bfa5a0e83ad48ad25d84b98ad1073aa293aa/archinfo-9.2.39.tar.gz#sha256=ffb123684bfce9f64779bf8a170c63a608feef712f48140f33c82ef6c3e49301" data-requires-python="&gt;=3.8" >archinfo-9.2.39.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/e5/72045cd6f1b95cce017a508ea37270475acec5973457a8b8e0e5008a0272/archinfo-9.2.40-py3-none-any.whl#sha256=0375dd8b65859e7a44b67286897b4cf45b7c68c68ec4173f73c4f12b9aed05dd" data-requires-python="&gt;=3.8" >archinfo-9.2.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/0c/5c1424fe3a32fca679949f1401d615ee95684508160692b44fdf71f01e08/archinfo-9.2.40.tar.gz#sha256=d0fb592457467513ad7c78ab3ba1e8422af668c3dd6729c4ef7cfc5bd9c68e91" data-requires-python="&gt;=3.8" >archinfo-9.2.40.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16377645-->
+<!--SERIAL 17098482-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for d3blocks</title>
   </head>
   <body>
@@ -48,6 +48,22 @@
     <a href="https://files.pythonhosted.org/packages/60/6b/57bf61fb8af6648d52646e174bd60bb9c2f4a1cf2f1a7e7059e9bba7fc2c/d3blocks-1.1.9.tar.gz#sha256=c4beb8bc371442959c6842aa068c45caff926abf148349debafb52e985370ba8" data-requires-python="&gt;=3" >d3blocks-1.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/35/ac/457e7329bd2a75c5739f3aac16fccc88f6654c0975cc20dddd12156ee406/d3blocks-1.1.10-py3-none-any.whl#sha256=e92213694ef28eb2e7cd4f014f51631c56f5899eb61c21c90c506883c7b2b5ec" data-requires-python="&gt;=3" >d3blocks-1.1.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/88/4a46631814a9007e6cff73f44dde0907e5531a9fa634c990310c1ff412c1/d3blocks-1.1.10.tar.gz#sha256=4a2f55e5bd150788bf2dc511ce357edd5b69181106abb2e5d8ecfc7c12287e2c" data-requires-python="&gt;=3" >d3blocks-1.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/38/07083828c2e7d3a85791432567a4e59f6d3494277b1e35cda2ca4fb875e1/d3blocks-1.2.0-py3-none-any.whl#sha256=c5f86e513acab4626c21610f462cf2268b5bbd79a736313619cef05a4c78caf6" data-requires-python="&gt;=3" >d3blocks-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/aa/5120a19bd70376bd9303164d1a18b142a59f406f1a1d030f0145f616c001/d3blocks-1.2.0.tar.gz#sha256=5af1930555e6db78712d07dc2706749ac50b1ce4051a816f2c1d4129e0ac23f7" data-requires-python="&gt;=3" >d3blocks-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/39/17b7944f19556d477885bf1d37e0c329fbbfd7f1b2061da294231d2a168c/d3blocks-1.2.1-py3-none-any.whl#sha256=ab611b155e0674b7cb99b89e4d0fcb25b4128a20d2130f7cdd00084685de7471" data-requires-python="&gt;=3" >d3blocks-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/82/a583dab5604e0db10a08a6c566760ddbf46b555b05dc2f0846162a4a74ff/d3blocks-1.2.1.tar.gz#sha256=923f6604c7da5bdb6bb70c19259c36e1c5e8cd1df716955d31f28b3d8cae0be3" data-requires-python="&gt;=3" >d3blocks-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/d9/1f6f5e19763ade4a8cd2f320f79f3b78cc5b9d7890c32a2c6aaeca06c0c6/d3blocks-1.2.2-py3-none-any.whl#sha256=a2a18b8132688ca7e0a02a14a06ffe2593e4c4f37acba86df2620fa8ec096d94" data-requires-python="&gt;=3" >d3blocks-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/d0/d0108a263d869faa6125ddcd48f2eeb3e53b043f1777d0e533973102c125/d3blocks-1.2.2.tar.gz#sha256=cc0f8288d1915eccdf6e2278d01e0e36205f17425fbb18ca39dd6c099280f1b8" data-requires-python="&gt;=3" >d3blocks-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/f9/2ff09e2c80a85dabe6bde74cb14516340388d1c7920cc75f7dfb69b4badc/d3blocks-1.2.3-py3-none-any.whl#sha256=138c106ee1eb774999a4fd8283fcee9c8971b41f27a977c9da3c744fdf29f0dd" data-requires-python="&gt;=3" >d3blocks-1.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/a3/39623fdd7f0cd3f4bead0dc0c26f43bd03a57b038404a3d4c45d89b99634/d3blocks-1.2.3.tar.gz#sha256=cc2841d6ad869545a2ae5a1e8290c9ee1dc0d2f2cb8a44279c6501694a427ec2" data-requires-python="&gt;=3" >d3blocks-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/a4/e8f77a1f55bb0cc2f83ea8aca0b500519c33609b5f32b9a43694dafcc346/d3blocks-1.2.5-py3-none-any.whl#sha256=0c472bb59077fee2a1eed24f6b8f327057378b2fc57815a0526a62607be04bc0" data-requires-python="&gt;=3" >d3blocks-1.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/6a/20254412b896b36d0524f1a542f13984ea76c1974950ebe31a2c374071bd/d3blocks-1.2.5.tar.gz#sha256=d359927cf33b4083f4f62dde7bfb4d6ba59b1cab67953c403209397fbfcddd66" data-requires-python="&gt;=3" >d3blocks-1.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/c8/e14e214fbe38f8cef48ed72b416f075466af0923bbe658b584edc79005aa/d3blocks-1.2.6-py3-none-any.whl#sha256=35729b2ccdc42481a7860f07b1acefe2adaacfcb21d061686173b7af023a6f84" data-requires-python="&gt;=3" >d3blocks-1.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/71/942e4f959b3b4df88d50b5c869a864ad4b76a417123b8c5ef87470f00eda/d3blocks-1.2.6.tar.gz#sha256=062cf24d0ced9c868d69b49a2830c1dabb3b60e942bcadcad9787cb52fc6fe2e" data-requires-python="&gt;=3" >d3blocks-1.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/7e/de0e6663b4110bb32496606769fbcb9446c9b96d84a9d4e3e7f9a334df25/d3blocks-1.2.7-py3-none-any.whl#sha256=d7a8056e490615c7ea689fe9a59045df3d2384696fe635e3f860b826c0fea5a6" data-requires-python="&gt;=3" >d3blocks-1.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/a3/632590528a9bf59de6f7fe95ca61ee9d91f728a7ae335ac86acb42fce5de/d3blocks-1.2.7.tar.gz#sha256=fcee72fde12b0ff0eff983342de4de531f0b46e8c723d9fe0199db2dd185c441" data-requires-python="&gt;=3" >d3blocks-1.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/42/aa3879357b0ca221293a7c0399eb37cbaeb2092753235c5ae91e41af8eb6/d3blocks-1.2.8-py3-none-any.whl#sha256=904fe7f5cac5e190e0fe50e97901cd9e77f09cb8b841677ff08571820fbafc92" data-requires-python="&gt;=3" >d3blocks-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/42/b6f502470449f44959e2f7de98fefbb8ecd096d1e51180d08123c5787fb2/d3blocks-1.2.8.tar.gz#sha256=7c0b9af554f63bcc78cf0f348c7197ce2d329f447870cde2a2be8fc887080953" data-requires-python="&gt;=3" >d3blocks-1.2.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16360280-->
+<!--SERIAL 16503247-->

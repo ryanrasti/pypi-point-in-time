@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for starfyre</title>
   </head>
   <body>
     <h1>Links for starfyre</h1>
+    <a href="https://files.pythonhosted.org/packages/ed/00/291c84b4f282bfa035e73b47f62fa4d31983ce19994b8029d32e3ab79beb/starfyre-0.1.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=bc54b9c0e90f73785ca5b5690bbb1eef3ab26c8094c8a6ba992349587d2651da" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/16/44c4feee8551bc098401cb1e147c7470ff065d3d036e9d9c238cdc64fa83/starfyre-0.1.0-cp311-cp311-macosx_11_0_arm64.whl#sha256=db35e0ffaa1578dafaf71741ac9fe582100c3400caa632c7dd9ce6317ccc7d85" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/73/8b56dfcd1ad54b9b6ad536aa210dcdeff01e3020955435f14f28d08fde48/starfyre-0.1.0-py3-none-any.whl#sha256=0d3ad039d5401967f3464d7fcad74ac5327408e050f187bae5482c89ceb42fdd" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/48/63053e4061d91a25c632f9b881711bf9c2a3f48a3c49713df6c4356ec4bf/starfyre-0.1.0.tar.gz#sha256=809ef8582560bda1cd5d51b7525bbea386aaa57b8a415d58bc870a3a73e753ae" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/87/0d2525f4cfe2feb64f1c9825a03780e09056566648d04dcfa043b6073a78/starfyre-0.1.1-cp310-cp310-macosx_11_0_arm64.whl#sha256=780269045732e429e251d76b51315b18a38c5ceda215c5c396bc14230b063f8d" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.1-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/53/26a654dcc19ebf9489a9ae72a974f5a3668346f49ddb15d4658d0aacd741/starfyre-0.1.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=4764191bd5bdecc7730671b440be86e4db11edfdac4f1b3f56ca6a1efc7c8948" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.1-cp311-cp311-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/62/35dd048d19d7b2a9bb3df409f7e46cb46a1d4bc5909bed68cf056da2884b/starfyre-0.1.1-py3-none-any.whl#sha256=f0c77804acab6bcf8bc84828f744665046d8a6cb53ad03952eb7eae35f3bdba9" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/65/b8/f89f6c31ab50004b77d6eee49f934ace8da5493c74336097473a97649d05/starfyre-0.1.1.tar.gz#sha256=8bffe2a72708d03b59248ea9611df2a5ed7d95885cb4041575bff21cbb141b18" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/0f/4b48819c4165178be2ee185f287afbbe1782e4600401309e62d72167c974/starfyre-0.1.2-py3-none-any.whl#sha256=f1389178a178ed7fe23ad6bb52b62a6466f08fb19b0ce4b10673a9dc5cb21ea5" data-requires-python="&gt;=3.10,&lt;4.0" >starfyre-0.1.2-py3-none-any.whl</a><br />
@@ -24,6 +28,14 @@
     <a href="https://files.pythonhosted.org/packages/5f/9e/a6e997c37ea2cda9937bc81b391946ec63fc03bcd227d70ab7d26d332bae/starfyre-0.1.7.tar.gz#sha256=3656a4d8007d925bd242b30497ec2d797db5fc95708dd15ba5cf203c59e4a8b4" data-requires-python="&gt;=3.9,&lt;4.0" >starfyre-0.1.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/58/f3ebd64c7f69a781afbe94f4370fa2d0b78f0e6dc4dfd89f94276871d944/starfyre-0.1.8-py3-none-any.whl#sha256=9e02f62f26de1d0d5d12e2ec0572899212cd02dd2ebefbfba7c41dca6ea38285" data-requires-python="&gt;=3.9,&lt;4.0" >starfyre-0.1.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e2/9b/af1471d5f019a74683f030cd52b2b02722f7dbb679ac275070e11c6f60c9/starfyre-0.1.8.tar.gz#sha256=9f732a5ca016cdd5ac3e587ad5a88cb1ed0e8b3793d9c98f2f7cbca094f1d372" data-requires-python="&gt;=3.9,&lt;4.0" >starfyre-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/a2/876c49afb442b86dd8b40e1a33d2bf23ee71f27e114060ac23ed73ffb720/starfyre-0.2.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=2b84abdc457085ad63255a17fece0324ed11e51afc057eb6861b9802d2e24185" data-requires-python="&gt;=3.6" >starfyre-0.2.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/5f/fc63535edb9e557c22cfe717dff59608cac9f22b005f06f34bdf41e2d5a3/starfyre-0.2.0-cp311-cp311-macosx_11_0_arm64.whl#sha256=a5e777a801b96448ad7c8e43fbefe5cb94494daab0f6987346304745d7bb77e7" data-requires-python="&gt;=3.6" >starfyre-0.2.0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/97/f5b165aeb44fa15115f2337458c12b2499d05f0bd59e24313fba5b0c5f20/starfyre-0.2.0.tar.gz#sha256=bbb72617603ce4b109bf6528ceb70d9a2b7cc5d50ec2734d1780fbbf868f2cd6" data-requires-python="&gt;=3.6" >starfyre-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/59/b4a34e7b421ef9d9ec825c2f8ebdd725b9b1636547821fde16568c7039f2/starfyre-0.3.0.tar.gz#sha256=9c3adc687bf8d8299fd20ab39804dde0e5f275120026771dda189087427e11b1" data-requires-python="&gt;=3.6" >starfyre-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/3b/3260c97006f2512e363efe8f9bb7bc51c071f51119da6587a174a8a10ac4/starfyre-0.4.0.tar.gz#sha256=fe062c72d6762559dc3f0a55d017668ca9c9ea0040c3b2221215eb49c326f0ab" data-requires-python="&gt;=3.6" >starfyre-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/ec/6a3d427d5a0b56163a955a19aea9680d46a3fb979750c966ccfb6f40aafc/starfyre-0.4.2-cp310-cp310-macosx_11_0_arm64.whl#sha256=fcefeaf1f874df412f44022b9564c8d9ff011a95d642a92f23b14171ef5dedcc" data-requires-python="&gt;=3.6" >starfyre-0.4.2-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/34/e52e1b6a4330b3e630294584ebe173cce423e5b6099b5d8448f5ddd0ca97/starfyre-0.4.2.tar.gz#sha256=2af4dd6a77689697796eff53fb9c77ed32acec6ee483976ee2ea08a316db892c" data-requires-python="&gt;=3.6" >starfyre-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/3b/1593c5ad7c2b338a3375b3260e148491940336487e65ff26450b77a92e51/starfyre-0.5.0.tar.gz#sha256=cb0e143b09c40c4858d07181e70a6584345e885e9f158573d70ae2283c3b35ba" data-requires-python="&gt;=3.10" >starfyre-0.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16260708-->
+<!--SERIAL 17071185-->

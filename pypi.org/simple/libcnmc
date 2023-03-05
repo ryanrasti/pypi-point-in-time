@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for libcnmc</title>
   </head>
   <body>
@@ -168,6 +168,41 @@
     <a href="https://files.pythonhosted.org/packages/a5/3c/ec7a5d3f599bd2be6af08f68947d5af3e894b1a51377d8d853e31da11935/libcnmc-22.6.2.tar.gz#sha256=250d65dffa355171cc94b131c52a24b650ce52cfe9648adec805c14a840e3ca6" >libcnmc-22.6.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/97/ce/7546141fbbfcf72ffad1da39cad3cd2c0a3982d253b1c6c89bec9f518d5f/libcnmc-22.7.0.tar.gz#sha256=531b0c49f553208eaa3b48a5fb6f806ef6f0bd2c3ae24cc858da6a7cbf13283c" >libcnmc-22.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/44/49cd298a72f1f497c21e32e7805eaf21d2f5224e8c47eb0da3ffe5d779a9/libcnmc-22.7.1.tar.gz#sha256=a1a78e35cbea6e4aa51fb3750f9531e2d390665cda82cb87a17ee13add904bbf" >libcnmc-22.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/a5/7304dfdf255510787979ed914209898d700f34eaf0b0562185f02c3e3292/libcnmc-23.0.0.tar.gz#sha256=6a9014c24210c6c64e2767d5e28156fbaf6625f55aa78dfea404d44dfee42e66" >libcnmc-23.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/05/be04a2c7b79192e0af1f1326dce39137ccd63ae6b7dbdbaf9fa8a794b86a/libcnmc-23.1.0.tar.gz#sha256=4b5fcaa7df01baf277e1950e86f5ea2754f6f09f0f7a6df6dc6b8d63dde4334b" >libcnmc-23.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/28/61b84acc4ca0be128d80e891f1931d7eccfed81f9cb877f243532c8636b5/libcnmc-23.2.0.tar.gz#sha256=398f67b7af5eeff5a5e1cc8b0821cf511e4fa2d90d25ee37b9a0a00582440ead" >libcnmc-23.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/76/b416075e5034eddf0d23faea4e50c9fa3e8c241582b2052f156f252e0ddb/libcnmc-23.3.0.tar.gz#sha256=b031ad4ca011b798af375519f3c031bc01add5067bf59beb587bbf6860ca860e" >libcnmc-23.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/49/7a81dc87ad766e4c65155ae6596a7af6125053bd553d15a39d713d7e8aee/libcnmc-23.3.1.tar.gz#sha256=f769053d31fa16740ba668bd1e28bb850db4aeb91a47b09abc4d1c0f558da9c4" >libcnmc-23.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/25/54fb1dcfa01ff90fb5525f3da5da8f859e847ee1ed77518548032fffb0fd/libcnmc-23.3.2.tar.gz#sha256=4b11652179e1adf9b97aa52f5ba6fbb8a99ad370b58a755d11aa4456a2f057e2" >libcnmc-23.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/6b/6e052a5cae2582480ad9005be559d215b5f540a10719cf0e181bd419b75b/libcnmc-23.4.0.tar.gz#sha256=9bb86c803a0ab57761f09afb11ed8651ad79d8e3d401dad75fa66bd198bd690e" >libcnmc-23.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/79/d275c19584eddec9748eb16ce80071200afd9a9733da381a05baa5594112/libcnmc-23.5.0.tar.gz#sha256=bb8a96d6f7f0cb0629de52f36627d5ad410ff6cde290214fa281067bae045248" >libcnmc-23.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/65/23461fb794a78afc39254c595aefa788e9fc9d9585eddb2e03f469d5ed59/libcnmc-23.6.0.tar.gz#sha256=7fd1ba40bbfa7237fe970618a664658972e40585895464d4a75f72c25faac1cc" >libcnmc-23.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/82/4c75d9ac17b05750150b7b2ae4df4df581ed455b0209bdc00de5fde1f506/libcnmc-23.7.0.tar.gz#sha256=1a1d0264152177644d258db9bd44561e87cd96ef5eb3dfcd8afda2130e3118b1" >libcnmc-23.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/97/daae954c1cae3151bead4710cbee47afacf8dceedad41a9572148f76b380/libcnmc-23.8.0.tar.gz#sha256=44e15e97a6956424506b20124f9870f2946be9dc3c8e11774ccfc13a1bbcc3c9" >libcnmc-23.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/88/c28ff84568ef323398498b71d609a92ca287ddcdf8a851536ab656221bc4/libcnmc-23.9.0.tar.gz#sha256=5206a2eb5de75e3527b1557fdb3d71a958a94884221529caa06452e45bd3d3f2" >libcnmc-23.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/9f/639d42b63484a91cf9f1c60f9bb709f1ed853240f45c2e02047054beffa6/libcnmc-23.9.1.tar.gz#sha256=8cc453b3ec3d19287d014acd4641c49119dc1b61fd2d78368cb7d658f169667b" >libcnmc-23.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/fd/550944683ddab62d881a0efad44a72da501a899007a84d5a8c4bf2a8217a/libcnmc-23.10.0.tar.gz#sha256=37db804513d18cc2d7aec2d3af2fd7c483bd9976cff72d4f5a6c900fc24b4209" >libcnmc-23.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/61/8ee89a66e3269f4ac03e3e999ec9878137537979e9c4fbcad5767d880be9/libcnmc-23.10.1.tar.gz#sha256=18b5c9bc1ce61eeb7947c97220d7b19f2b43b7f355d66a36c958036ccdcc7512" >libcnmc-23.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/f8/f6b03e9d4697489e05533726ba32b1b19b1fb00d754ad4011638d771831e/libcnmc-23.11.0.tar.gz#sha256=02add7c5d8c3035c8abf90a59504889ece46f90b9b5477ebf8c05d73c7122189" >libcnmc-23.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/b1/b53860f724a6537df5069b9c48ae9a953b14af53d8a03af8a479949d9dad/libcnmc-23.11.1.tar.gz#sha256=bced4ade55b62a71a34da04abe5a118f90f5d12d6fcb2d45fdffc1e2471cd605" >libcnmc-23.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/c7/f6a976a285caf2917ca895217181994ceb3b28654aa429d01902988165b4/libcnmc-23.11.2.tar.gz#sha256=cb4b091416a64e4e8c515ddbaac3c10271a4988346527d937e7e4a8404b1f022" >libcnmc-23.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/9c/0e991524f00b09ecf33fa1aceefca3fcc46c914f29e99177dc6d23a3f8b6/libcnmc-23.12.0.tar.gz#sha256=7debec70b75f6999c25e80417e3b081152180e70076c666245e937a05b18f914" >libcnmc-23.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/ba/64cb35e852c2aa4a3cbdc429cba64ce26a8e4de2966050d40b4e3d31d4f7/libcnmc-23.12.1.tar.gz#sha256=558402b0d7b918958281d9ab7cbc07649106192c2dc040da082f7fd8a2ab088d" >libcnmc-23.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/13/8d3a0cba764f46eacbd6f827f4955fd13f636a59a07cb104f7d86a83a589/libcnmc-23.12.2.tar.gz#sha256=acc5d5999909f59ed9d58f314d2774ecb145176bcebba05205875fc59720b334" >libcnmc-23.12.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/78/daa0df2c2f71f607e05c5804316a735ff0326cc60d69dd4f3c0f66cadb46/libcnmc-23.12.3.tar.gz#sha256=4a8a43f542bc8666c8fac84eaef23b466ad35f0f4ce904c1bfb70c5ec40c1b3b" >libcnmc-23.12.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/e9/598ee9bd464129cfa4dbd9038bb6f07a3cecfa73d094004331ca24bb6d35/libcnmc-23.12.4.tar.gz#sha256=f81ad3a7b2fcd0114c7130bfc2a9df6bc3a98e0212363601c82592cfd01c3204" >libcnmc-23.12.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/98/d5c5ddae0a93c41dc6ff9a60114072b560076a65002d7add106bdbaa72cf/libcnmc-23.13.0.tar.gz#sha256=237d0f4d2541c40a042f71814d782c90db1eca4cef760a9150fd34f176fc387e" >libcnmc-23.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/47/f56573bc70a602aec17d1a39f01e259305655cd806d28c4a9f716667bbdc/libcnmc-23.13.1.tar.gz#sha256=b54c56facb123d0884db41a44df4e35d83058da976febefb13b876d9c2166ab0" >libcnmc-23.13.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/db/9ab6c5686eeb7486555b1c991be6efeab60a619e45747745bdf5f0f872b0/libcnmc-23.13.2.tar.gz#sha256=278517a0995a3816f0b116ddcd31a18f30a738b89972be09e6325888fd798506" >libcnmc-23.13.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/2f/3c0ce27ddc69d346ead0008cb842b173c3ef155a40fe297aeb6da9e5e9d3/libcnmc-23.13.3.tar.gz#sha256=3574aae039c257b6a7c021245ed8cbc6740b9d88fafd6c94050bb86989ab3d92" >libcnmc-23.13.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/e0/0fd671313e85e4da82d0a773ad6b2a3ffb4d6e0f7b11b361e7965d5cadd2/libcnmc-23.13.4.tar.gz#sha256=22eda5d0f5dd9b5c02da6ae5cf93968f8b7bd83ef4e93ae12e7b73103fadc629" >libcnmc-23.13.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/7a/1f437f8b01a633ee321281fb381bf5f7a2d8d0ac3c4b05630f2e3d535c33/libcnmc-23.14.0.tar.gz#sha256=4605bf03478e1dd571e60fd10033fc604fdffd486af04b7551e256a1bb75c267" >libcnmc-23.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/a4/403faf2f941a5771728519bd2bf3302cb5a2e83130702aa515bd1de90046/libcnmc-23.15.0.tar.gz#sha256=a56dfd3905f5a43e62aa85d56bc196c29aa5dc86e25eda8c0e2560262abbc6c3" >libcnmc-23.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/b4/9e69b6a82f579175cdbed7dcaf19285f05f451fd891f792cd5e49d97c5c7/libcnmc-23.15.1.tar.gz#sha256=43c2d667dd342219db8539daebc21a6a5b63902f67fdb313bb3c20e5148a9192" >libcnmc-23.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/7e/c9afea41db237a67cf077edbcfa7cb9cf6765a4704ad632b41b8129a1532/libcnmc-23.16.0.tar.gz#sha256=e90d76d13da8f9b6f75bb3ca5e301bfe3b787b839f97392b370c8ecbc767c011" >libcnmc-23.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/fe/4ff1e1caa87bdddf7f6b1e6d0ac0b30a7d05ca354eb0b55e081ecb328b36/libcnmc-23.16.1.tar.gz#sha256=02de76be7f7e0321044c01e3bd65524cd173a74a9bdbccaddb5c34188da00829" >libcnmc-23.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/93/2f129017fde3cf1f025572e2e33424b5070ab1873dd15798c76a0b9f9a4b/libcnmc-23.17.0.tar.gz#sha256=55a5339fea5c76c698ac067e52d186e5e2c18bb4de82cbc54333eda87c9272cf" >libcnmc-23.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/b0/60ba989be0e871df11cc8467eedbbfad8ea82ca388f2c8512f595c5b1d9d/libcnmc-23.17.1.tar.gz#sha256=777d137248f90c6daebca26e34fc151baef51d88ec2ec21707df0628abd7e51d" >libcnmc-23.17.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16240242-->
+<!--SERIAL 17141409-->

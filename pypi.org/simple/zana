@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zana</title>
   </head>
   <body>
@@ -24,6 +24,20 @@
     <a href="https://files.pythonhosted.org/packages/db/01/405fcad075c36bafdf0bbda47058e2fe9477045264a521d5787cac5a96bf/zana-0.1.2.tar.gz#sha256=cc5c254383d73bd4cca12edf086b58ca795ca9dfb523940f4256f83831ff588f" data-requires-python="&gt;=3.9,&lt;4.0" >zana-0.1.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/4e/f644595db08c4be7247a456fdd1ced3003b42f3d2c7513058ee444e3fb27/zana-0.1.3-py3-none-any.whl#sha256=572a8276f5415d7d419d6e65f36cac4a0d1ffa3a1f713cb2b057544f9e134802" data-requires-python="&gt;=3.9,&lt;4.0" >zana-0.1.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/50/02/283bcb9a85f0d71baa05018d0ac5a15761e4ef8d126dcbc36a3503aacc92/zana-0.1.3.tar.gz#sha256=ffb842294351d8aa7a7cbd95bd78efb1f5c704e36cca863a48631de4f966f461" data-requires-python="&gt;=3.9,&lt;4.0" >zana-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/70/7e2318f60c7b2d3ce622859d9ac4eddc1759feb47a59997760421d00a6a3/zana-0.1.4-py3-none-any.whl#sha256=cc07eb42c6f1f80138bda0c4bd5a4d0659e3acc240f670fb2a1726a7127595fa" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/6e/21bb5b6bf76c70dc903d9ac556f211374cf21603eac71edf94e9bedfd57c/zana-0.1.4.tar.gz#sha256=c2e830ff0d355b1fbaf1e28e895ff03b604665548c1ce171eab3263fe4b801d8" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/aa/de76df1147a695b50298ee14061b3cb81d79c49910aea22e8c6dc36ec6af/zana-0.1.5-py3-none-any.whl#sha256=30abfc83b203aed7e5c871cbe52c30993bdf54584b958338d637fe5a8857c6c9" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/01/4e01182f1f7a6577f8523aab919dd4b721edfedc2f932ed858df02bed614/zana-0.1.5.tar.gz#sha256=add8a8d7ac465856c93111cf4d66da80d8e476047dfa4f9b65df2aec5d98e716" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/18/28c8cbfb665525924476ba792991ac71cc70603705e0e2a55a3438fa9995/zana-0.1.6-py3-none-any.whl#sha256=8bb75e13bfdee3e3aa47a8e745a84ee6e200f910b23ca012ab169f946a72b834" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/b1/9e83a8d2fa66da8770e9e89424963e2a619d63bda4339e828891d37ebbf2/zana-0.1.6.tar.gz#sha256=84726413060233a8b84937fd4666ba9e9d4e77dbd7ea2657190c642eff4f0cf9" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/31/8ab6b4cd5009fadef2988a976d323a0fd886f482492e3a6399dca9928409/zana-0.1.7-py3-none-any.whl#sha256=498928aad266e62c72ea76e996f6ce8b23e50923369fa85454705cfd98c0eca1" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/d5/e623c6645833e078e82a9b7dab3bf5e97f9644c6f606ec04596721438688/zana-0.1.7.tar.gz#sha256=08aa489fc305bdf93cc6425bd78d5cc65886cefcf20d47b0cb1aeb88d164ce55" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/7d/e8c147f3d2a1011ae124f1b2007f1e46cdc9b7f18425ceb2b24ff74740cf/zana-0.1.8-py3-none-any.whl#sha256=4f3f684af5187a1a1112dfe93ec00bde2fa9faf3034f48d56031a9f8ff224cfe" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/0e/03eea4c35cde261e3e7c14e48e27f85018c4f9aa2b618f921169d3a57f22/zana-0.1.8.tar.gz#sha256=a62426096d3b4c9a8d74c17a5baad386f3b025c1f796f956df942c5772da5e7b" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/43/cf8328b2b29eb1253febe2265c762e3511ecd9eeddbe4358ae7bbc1989da/zana-0.1.9-py3-none-any.whl#sha256=a4cfe5211fd4dacb37906299deefb4685b094804e439d39173aed5f2510644e1" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/22/e0c9ab0636d455bcab1e1ae31f779fa2af206666a8884a4e986bf5a2b921/zana-0.1.9.tar.gz#sha256=725fae31566e0ef8e743c770e271cb73ff687cd1ec0dccd46f9aa214fc9d5344" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/24/099e7afa75f7ca5c6684fd225c94ac8426720f303a5e3f307e09ba60456d/zana-0.1.10-py3-none-any.whl#sha256=e221c8d33c6597a20f54594838887811b97db05d041f87a6a8fd0fcbb6c544e4" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/c2/fee16959a6ab42a06439125c01187ffd3f40b27b1277ddf01ed277109fe3/zana-0.1.10.tar.gz#sha256=ed2a0ba473bd782afc76cebea0a12f1fa528c244832feb5648a2bc62f1169f4a" data-requires-python="&gt;=3.10,&lt;4.0" >zana-0.1.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16262540-->
+<!--SERIAL 16880278-->

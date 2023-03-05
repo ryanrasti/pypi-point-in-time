@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for algodojo</title>
   </head>
   <body>
@@ -114,6 +114,16 @@
     <a href="https://files.pythonhosted.org/packages/58/2e/de2f52a7e5524a20a84001c1dccc662aa9b079f9744877bcd44b77cb9252/algodojo-0.0.91.tar.gz#sha256=b8f2c9bc0f88f59d95a24d31c48eb6a1cc83c0e3ff09a3b118f1ae0a18ba0b4b" data-requires-python="&gt;=3.6" >algodojo-0.0.91.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/40/4ab19dbf1e632ba0d1a98f398932786fd4806951d48ae6cc9e87c0427f93/algodojo-0.0.94-py3-none-any.whl#sha256=c72e97b14b7284f84bbeb911ae574bf6ce814882b4f29f5f9a7ef70b6ac0c589" data-requires-python="&gt;=3.6" >algodojo-0.0.94-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/f5/c61ba4bcba9fd13208b94e3719e13d322efdc8a08a858441aa13ba7fdc58/algodojo-0.0.94.tar.gz#sha256=285c104cd093e81b79994221e37b9e857719c2f131b121d0b2d051417b775200" data-requires-python="&gt;=3.6" >algodojo-0.0.94.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/9c/ec89b4132d88bd94bbfb4697d5c45d90ab19534dc0d1e90680d1027d790d/algodojo-0.0.95-py3-none-any.whl#sha256=c8ea67158e83c5c08e7a6779d0a9483da080ea5b56218719ec445360a0be3e8a" data-requires-python="&gt;=3.6" >algodojo-0.0.95-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/8e/63ff0269e62521ee9f67e2e519054ce4434f19d99e4a218e9032261d80bc/algodojo-0.0.95.tar.gz#sha256=0fb51aa22320ae63b88f077aa47f96e4645395703a947a14b5af6867cf99364a" data-requires-python="&gt;=3.6" >algodojo-0.0.95.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/8d/e2b674da482ce556dce8ef8290cc4338fc2cf7c243fb1db997a8c9d4a28e/algodojo-0.0.96-py3-none-any.whl#sha256=cbde069eff9a061069e49e958b4d2e34f39626638d2adc2c3b8ba006037adb68" data-requires-python="&gt;=3.6" >algodojo-0.0.96-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/2d/cc02ba30c04230653cd5e91cbd23603ee1711694790d4b7651d55b20b917/algodojo-0.0.96.tar.gz#sha256=01f38d2978858975a357e2861988426ab3811fa73538d7326d691ffebb2ff8dc" data-requires-python="&gt;=3.6" >algodojo-0.0.96.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/33/c6ddac14cdf4a0e01c3b2e1aa50384dd837b3652f8ceecf746f465d58075/algodojo-0.0.97-py3-none-any.whl#sha256=8bdb1e3fc966be07b353b31ee731725673fefc495555b6fbc0318a01db1573d6" data-requires-python="&gt;=3.6" >algodojo-0.0.97-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/86/f449768dde4b3bf04af98904bf3a2ed3a4dbebfc83f07c1a93f5242647f8/algodojo-0.0.97.tar.gz#sha256=16584e1654612df175b33e8823c176feb13f0cb920daf865de367d4b62bf369b" data-requires-python="&gt;=3.6" >algodojo-0.0.97.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/dc/d6bc937d8c99f083a50ff8af3452a2b879c3f2446221bbc5b8ac01d1fcb5/algodojo-0.0.98-py3-none-any.whl#sha256=385c006641a7a7bf91f3176b1668ea4d7d655b1972463024ca98787e85f7ebda" data-requires-python="&gt;=3.6" >algodojo-0.0.98-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/5c/dc1660d20b3cb6bb765ece0a7346bbaf717b977567d5ddfc9833bd235447/algodojo-0.0.98.tar.gz#sha256=93ea0a17c71f8879211e68212ccc48e70d21be40646442ba2b090dc01d2f8383" data-requires-python="&gt;=3.6" >algodojo-0.0.98.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/23/425b9ad3d75c516e96f5605a94caa1c39c45b8aa6af509866a0b545d031c/algodojo-0.0.99-py3-none-any.whl#sha256=51492d4d63bd0f90eb0609a5a02b0c857af598927a584325dce8c79f31656340" data-requires-python="&gt;=3.6" >algodojo-0.0.99-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/cd/3b1fd0f8bd6dfd4a7a00a7de984deb904297c45056e38d6badb7f427b96e/algodojo-0.0.99.tar.gz#sha256=37462b0efc8f7fd3a90842d46cfd73c0367fbb1c0567a9dd0f8c362425d0e492" data-requires-python="&gt;=3.6" >algodojo-0.0.99.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16338773-->
+<!--SERIAL 16891090-->

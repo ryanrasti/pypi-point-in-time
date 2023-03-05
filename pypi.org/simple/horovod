@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for horovod</title>
   </head>
   <body>
@@ -76,6 +76,7 @@
     <a href="https://files.pythonhosted.org/packages/a7/8b/fcf373aade011f88dafe48628f7d348471d2891974eb5762ceeff3f13920/horovod-0.25.0.tar.gz#sha256=bc9fed57b67c1b55259671d2439cdbc93aa897ea6e5da459e11e7556972b2355" data-requires-python="&gt;=3.6" >horovod-0.25.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/2c/04899b71809c2de804d7ac3aa9ea401a507a026e2bf15b58f47f04a8d03e/horovod-0.26.0.tar.gz#sha256=c89dab945e38fec482e0a52a0b560e192e7abd137a9a6323f104f15ac9423f64" data-requires-python="&gt;=3.6" >horovod-0.26.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/1b/fecb25c66a1956e5530a6561ebbf97a7cda71717443526cd71531d423fe5/horovod-0.26.1.tar.gz#sha256=0079e4efb4ffe3f042e9e00470fbb457973903e748f75909de71e492d2474e94" data-requires-python="&gt;=3.6" >horovod-0.26.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/40/4cdb91cb3e44990ca83ce80feb53e9b15519c174fdf545fd8b052abb5111/horovod-0.27.0.tar.gz#sha256=8a76a98266579de46a1b1cde53d5ec115fc163ffdaa65a8f771aee936e804b33" data-requires-python="&gt;=3.6" >horovod-0.27.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15408195-->
+<!--SERIAL 16653993-->

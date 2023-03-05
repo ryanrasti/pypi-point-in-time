@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for supy</title>
   </head>
   <body>
@@ -162,6 +162,18 @@
     <a href="https://files.pythonhosted.org/packages/d4/ce/f44a6a8962b02f1cea6d6b54a43d19e750cf685e6146062208e10b9992ff/supy-2022.9.19-py3-none-any.whl#sha256=4a5090c4476c544b2461c0504be7b504cfe2582a12a7856acc5f131499d67d96" data-requires-python="~=3.7" >supy-2022.9.19-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/26/9e/c7d2322828d6e2176ac84efe000473cac012e89f36a37302e14ab1226358/supy-2022.9.20-py3-none-any.whl#sha256=627c5499f9c403391524effdb551f08735ff4bd3e27f76f4fa4fc5c4a2d3d453" data-requires-python="~=3.7" >supy-2022.9.20-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/93/69/3b3307c7115d8daa848ad74146830d1e72019dca593b61174f2b0fbc7222/supy-2022.9.22-py3-none-any.whl#sha256=b2e446dd67a15f7fadb8bc731470aeda28b958b6b2622314dee718a9d0cdabc4" data-requires-python="~=3.7" >supy-2022.9.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/88/269b534c682bd61c97ef4ed9c67c5206c07d4b82493416ac9e987f57b467/supy-2023.2.23.dev0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=af44361adb3a61507c017be924b7db67d6db52949076f0c3be4a21f7aba88f1b" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/3d/915eb0cd7c543c608fb8cc457044f1c8fe580b0ecdc50940bacd3bcc6245/supy-2023.2.23.dev0-cp310-cp310-macosx_11_0_arm64.whl#sha256=b8085ad83edaac4ef4128cb79c3350974c38b6dc55ce2f56902193b138ea2a9f" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/8a/eae0b868a71771c1631179c1f4720c9534d3ccdd64d84fdb01991f20dfa4/supy-2023.2.23.dev0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0a26d85213509b2f1a9545235ab2ab11494181b8500d844f607cb132b8637614" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/32/cfbc121e766590483a635ac1b307bc58a0dfc8b8ddc3728e574e33bfee61/supy-2023.2.23.dev0-cp310-cp310-win_amd64.whl#sha256=0f8d0f421a3b9ab7805845ab87dfc46ecc50d6ddf124289be7f94c8c3c391e9f" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/0e/0f7618a7115a44f25d20fdb313d6e2563fbb8e6e8fc60db39801fa921a76/supy-2023.2.23.dev0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=35d174e559c0662541b083204354d71b2a401c23cb582452c1ef637442753ac5" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/f1/3ca1e6aef375ff0ce4ec6fe07649a0a99a22d583f3d1a61a15ce34c92dc5/supy-2023.2.23.dev0-cp311-cp311-macosx_11_0_arm64.whl#sha256=1626703d7ce17c814974e70865fb5dd0bcf92f8d0a710c48a0b422e4e79fe621" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/c6/158507382bc41295c56840c2b723dcfc94723d55700b4d22478c9a9e1b97/supy-2023.2.23.dev0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3495d1c345bfc75a8275b720224e05807208599b308385aebdebdb5aaa28bd58" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/3b/f3809d4e66884e46034f1cabf39aa25119134edc5a5fd95d7e354dd62c66/supy-2023.2.23.dev0-cp311-cp311-win_amd64.whl#sha256=3c05f6d1fe13fe2384ed603090d155df345349ccf2e3e4f11ad3716defbd736c" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/3a/887f6e5d65b971d719b2182e8b9aad9296b30fc4a425d5420a4f062a83b4/supy-2023.2.23.dev0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=0eb72f679379e848d11f575e702693e0c90a7292dff454d1397f95b9efbbabe1" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/9d/db477e3e3859fb151f2bf04bb24b83e234f445dbfe0fae0116f282532fc5/supy-2023.2.23.dev0-cp39-cp39-macosx_11_0_arm64.whl#sha256=aa4b5866562ce2bfa304fda40ce9210b6105c40930153581728afb9d5c7d874a" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/a5/6544baed7d0476d1a935415ba0e5e0ff2765277ba9aecad7e06dc85743d3/supy-2023.2.23.dev0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2e25be3bcadd4eb55ff93ce0fe102a5f907a55b8fbed4e48148ae186e8df7811" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/fe/d85f51b68bc434b9a8310c15c8d632011e00186fa3d84f521696c2803f10/supy-2023.2.23.dev0-cp39-cp39-win_amd64.whl#sha256=b38bd92cfa91b8f7a142daaa826925dcee19818529c7ece8727d3db43fd91682" data-requires-python="~=3.7" >supy-2023.2.23.dev0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15183697-->
+<!--SERIAL 16985363-->

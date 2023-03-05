@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apache-airflow-providers-apache-livy</title>
   </head>
   <body>
@@ -64,6 +64,8 @@
     <a href="https://files.pythonhosted.org/packages/e4/fe/339561aef7b0bb3c09479cf5a3d30ec9bd6c3d7ab6f9e1c7fd68f5ac402b/apache_airflow_providers_apache_livy-3.2.0rc1-py3-none-any.whl#sha256=09b3bdd63ffbff786d0a9e235d9317f7291fd0a27db3dfde6feb93352b181616" data-requires-python="~=3.7" >apache_airflow_providers_apache_livy-3.2.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/03/f51859e7e8cc205857c9ce53ff57bb95a308a4ef8ac89c9ca6b231d56e86/apache-airflow-providers-apache-livy-3.2.0.tar.gz#sha256=0255c6a13a842bb995f977d3a7b9985e6d1e70bedbd22d84f0ec8f10a5fdc5d0" data-requires-python="~=3.7" >apache-airflow-providers-apache-livy-3.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/39/b9/dc671810272046dc7497cb6b13bbc38e00f163febda429a4c5bf663fdbb0/apache_airflow_providers_apache_livy-3.2.0-py3-none-any.whl#sha256=bf49744399cf8e1fd06056207b04d2fa2d16f1f23a30e021ad1ae2a1c8bfee05" data-requires-python="~=3.7" >apache_airflow_providers_apache_livy-3.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/64/0f524369cd09fa7b137d1f4604f6d6ce8042636312b4f1019a9314b000bc/apache-airflow-providers-apache-livy-3.3.0rc1.tar.gz#sha256=a75b6a09e72f0e2fe44481aef7b5e9d9434a965d55c36ac123b287d895b6521f" data-requires-python="~=3.7" >apache-airflow-providers-apache-livy-3.3.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/a6/45340aef19ea3f7c727b63ab35c640df47b686124d935c2ac6c60de83b7a/apache_airflow_providers_apache_livy-3.3.0rc1-py3-none-any.whl#sha256=a61ff5ae848886dbae376e3276a1733249886aa0091f3fa9431be82e12ffaa24" data-requires-python="~=3.7" >apache_airflow_providers_apache_livy-3.3.0rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16093215-->
+<!--SERIAL 17144492-->

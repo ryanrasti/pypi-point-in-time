@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cubetools</title>
   </head>
   <body>
@@ -18,6 +18,16 @@
     <a href="https://files.pythonhosted.org/packages/24/ef/20064b8f79a9e32da42a0358079e3019e2647b08b63d944c0473163e7379/cubetools-0.0.5.tar.gz#sha256=b3e43c689da09b3cc95604cffb81c8d53657119a7f3225c732d6fb307ab66b49" data-requires-python="&gt;=3.5" >cubetools-0.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/37/61/b2785dcb56fa1c680f986f3f785fe54b729d92391db1d1dd1444e46c31ad/cubetools-0.0.8-py3-none-any.whl#sha256=e985ac56b9de6019e92c1085e77bb3a774d51e02628675ddd38bbffab3bfa18d" data-requires-python="&gt;=3.5" >cubetools-0.0.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/5f/103ca59a26550a8a69cfe1d10ef8aca596dda2d768442bee769dd5055518/cubetools-0.0.8.tar.gz#sha256=a51c13757f7c6ad15827acd052d10759499fa02c64fafb0f4a2d3b7489d48b56" data-requires-python="&gt;=3.5" >cubetools-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/6e/b43aaab307e4e6d1352c6ef245ef042e5afd9a7da0d674aee24ba3901c06/cubetools-0.0.9-py3-none-any.whl#sha256=3987226a69d25fa2c0e3fafe1c5aa67a5de45078f919213360dcffbfd16b627e" data-requires-python="&gt;=3.5" >cubetools-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/34/a0b3b22da2bf7c359258a4bb84876145eed8318a788e560c3a165c514db1/cubetools-0.0.9.tar.gz#sha256=37eceb6949be46b6c55b2db53a80e1c86b27612abd63c47743fc64a3cda50e66" data-requires-python="&gt;=3.5" >cubetools-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/20/6713c794be29a2a82229281f27f501e4489a2323a35b32e39940c4d0cc85/cubetools-0.1.0-py3-none-any.whl#sha256=88e86bc2841ae1f5a0081f0ac54bbabb4cff9955a21b612c7ad8dc54cdef0a38" data-requires-python="&gt;=3.5" >cubetools-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/72/f7b614c315a3e4d537563e4a22f7615c738f66d9a4c41b290bb839574613/cubetools-0.1.0.tar.gz#sha256=5e576140c5d1ba6512ded160c5e2ecaddaefb9b100382fde26d61c7ee452e99e" data-requires-python="&gt;=3.5" >cubetools-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/b9/ba6454e81963055c62e4ebb05e16fd610fc834ba47bdc205878303ab044e/cubetools-0.1.1-py3-none-any.whl#sha256=8a732f7847be0c3859b0ee9d8a74306a4cba2f4c86a68aaae91b4676e6e75adc" data-requires-python="&gt;=3.5" >cubetools-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/57/c5ee09eed19773e065395cef9748dbcf87e49c0bb1f76166e5124c7c55e3/cubetools-0.1.1.tar.gz#sha256=cc50946d5220a0d7eb1200c4eb0b5bf33ae073164cf47e7de37b91b93c9dca32" data-requires-python="&gt;=3.5" >cubetools-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/cf/68c120734122a0ddefe3f5b46153695e08caa56d2f4101d70042d722335a/cubetools-0.1.2-py3-none-any.whl#sha256=5ae4b299e88b8dea4b9dfe648811f3dc0cac6e21ede0db5e8589374151b2cd50" data-requires-python="&gt;=3.5" >cubetools-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/39/2ed07ee000d69d938b50664fd547c2e6df2b8cb8a8f5d8ced0868e4ae8ac/cubetools-0.1.2.tar.gz#sha256=06594f7fa891d7be7a7f54edec53ba6dc9304c15fd3879d57034f27db0b2d18f" data-requires-python="&gt;=3.5" >cubetools-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/7b/0bc2de59f0d0b6dd8cbaafce6a19f033dbd2fcdbbf628e3db74fa2641541/cubetools-0.1.3-py3-none-any.whl#sha256=60bf6c8d4f9ac15de0d5e0e00d410a4047dce19f907de226e5d9094ab6d43e34" data-requires-python="&gt;=3.5" >cubetools-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/22/394251738a6705314b70ff9912ca366bfb2ec0a7e7bf4269b886da44b9ad/cubetools-0.1.3.tar.gz#sha256=87ce31e281db49063cb004f5752e6d2dfd69c49f5cbb253df90604f2243e7913" data-requires-python="&gt;=3.5" >cubetools-0.1.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14876557-->
+<!--SERIAL 16898375-->

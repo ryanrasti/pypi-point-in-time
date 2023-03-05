@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kydavra</title>
   </head>
   <body>
@@ -14,6 +14,7 @@
     <a href="https://files.pythonhosted.org/packages/76/e6/68118bd5a1443b6910c0ebea744e52f306da28f37a740959a0cacc1e295b/kydavra-0.1.5.tar.gz#sha256=ad3a616321acb4e515af96a8d975359e7848e28e91f256a53073ae0b37999fab" >kydavra-0.1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/a3/abeb18b5236de9d0408397de8d30aa276a560d55e54206fac55798564c6d/kydavra-0.1.6.tar.gz#sha256=2c22e59f61d78af75a76356b10ab7b4ffb8fba7202aac535d7e80ca22f793426" >kydavra-0.1.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/dc/34f49888691e2a4e83fbff4a00c19967ff9202fc6576c5718848612a2695/kydavra-0.1.7.tar.gz#sha256=02e86d3daf2898247296a335aff77f30e27e5085fea38c4b85ad8bdd5316b089" >kydavra-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/22/4f271255ebeb12a988a479b9ea29a7b0b234e3b33787f633e3b7ed718189/kydavra-0.1.8-py3-none-any.whl#sha256=15ff2caa26de6f1cc47da4e7ac89eee9a6a36384e45abb4f853c4ee94af87460" >kydavra-0.1.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/02/2e575a8e7e4e7249e0788b69b1ecd588baf225d48a4826607d9a99c71a7e/kydavra-0.1.8.tar.gz#sha256=5d8a0acad4f30765118788528e344638db663c8902b432532dc7a7b8fc429377" >kydavra-0.1.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/3b/cf3e2207645f2c6d0eb6ffb1cea6bc0ffdcadc21d37e0c5804119291e7ef/kydavra-0.1.9.tar.gz#sha256=e1d833debd95cdbd7977ffc970c2a86903701a6ce3cf3889c2498993237a66c5" >kydavra-0.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/da/b35102e0a1eee0b84c6b44affb1c05ae85dc644f9ddb0e58b160e222041f/kydavra-0.1.9.1.tar.gz#sha256=e2679cfd850d6dc4fc045d190096250216e7e99e3ac1b298f0af9aa82bfa9e20" >kydavra-0.1.9.1.tar.gz</a><br />
@@ -42,6 +43,12 @@
     <a href="https://files.pythonhosted.org/packages/46/ff/e301d44997bbac9f2ec8bdd74d24213cffb261fa0d86e34f7eef600aedb9/kydavra-0.3.tar.gz#sha256=19070807608a7d3150e86d84203ec7e21ec0ac61db0e60233eb5738477814aed" >kydavra-0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/67/c3/e144c83ac50ca37c4ca2e5476838dda46ee49cf7470dcf5ce748a00919d5/kydavra-0.3.1-py3-none-any.whl#sha256=ed2ad5db29a35c7fde2553e0f054b6769e64ca265cd85df9b8987cc6220fa816" >kydavra-0.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/d1/e08f30b8e0336b99ef6624e0d1c87b143e91c2e2aad5bbbc973b43bd2187/kydavra-0.3.1.tar.gz#sha256=f06b5999f51f27909002990e6ff6a1c4e9131865083542cdf71479823c84e4e6" >kydavra-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/5d/3ed0aa67251025a10f3207a28b137336d38a33a618378055b8e894f6d06c/kydavra-0.3.2-py3-none-any.whl#sha256=dd5bfab93fd36608727dba771a53a39a3601ee811238390192870c2871aa4b00" >kydavra-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/99/cd36b99fc7edbb688f5d5f73ae7c5e31906f7f80e2afca17e346bb74111e/kydavra-0.3.2.tar.gz#sha256=2ad2d807bd404571eb71d91e3575a6b6dbd17f8e423456c1ee48c13371b9a86e" >kydavra-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/3c/57a7e021d6cb27f1779d0b2b558b0f0559e076566dc366665fdeb1e30922/kydavra-0.3.3-py3-none-any.whl#sha256=dd12ca3aadfb5d31708f9c255fefd91d76033323bce54119019e1dda37fc567a" >kydavra-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/e8/22799a3f95eca8e1f38bbc8df01d1d6d927bfeffe4d975aee26499da72b2/kydavra-0.3.3.tar.gz#sha256=8dd2ec8d79179762395ea298940c682341c8efb65a52aa720c145aca9abe221d" >kydavra-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/6e/00488814fd1a9637a1e95e5c6b2a2e06bf06de58cc472e8c8e3f9b845f2b/kydavra-0.3.4-py3-none-any.whl#sha256=9fdfc25b85a4b0a4de5b580fa1bcec71000ff4a366072f8ca2d2d424ce2c2b05" >kydavra-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/0a/d2e796ac41845872dcacfdecb1fe3de60eb4458af9512aa37b8ae384b6db/kydavra-0.3.4.tar.gz#sha256=cf45e1fe2492c54d0d38c3f5752c127e116e96c58f4142286d046d7aa5004c44" >kydavra-0.3.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 11885430-->
+<!--SERIAL 16716311-->

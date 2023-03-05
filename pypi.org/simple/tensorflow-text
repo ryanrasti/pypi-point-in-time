@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tensorflow-text</title>
   </head>
   <body>
@@ -392,6 +392,14 @@
     <a href="https://files.pythonhosted.org/packages/61/af/f09c5f1e387b33eafb3fdb0cf72bf3b92cdacab2c5e75a9fad6136b358e7/tensorflow_text-2.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=506fbea82a1ec566d7d0f771adad589c44727d904311103169466d88236ec2c8" >tensorflow_text-2.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/ee/203d288740d60b50dd64717174e65db4f64ce547d59946023c3725304546/tensorflow_text-2.11.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=cf0033bf47872b57d46f78d7058db5676f396a9327fa4d063a2c73cce43586ae" >tensorflow_text-2.11.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bf/89/6aa1b70c8444e1b84802f7258b4f0973c7e9c94c8f8ef7bf74fb275c3853/tensorflow_text-2.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=56693df33461ab0e7f32549010ca38a8d01291fd67142e0396d0aeb9fcad2e09" >tensorflow_text-2.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/c2/9f4edd66457dfdb9e22dcf4cbaeec780e4b12d5bdc7d1f873c782393dead/tensorflow_text-2.12.0rc0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=383ed15127fe5fb8fbf15534129e86e18ebea5f48617b1c8254aab14ba905ce5" >tensorflow_text-2.12.0rc0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/4d/df290463391ceba7074452e3a34416ce7f89b540185b1303d089e310a188/tensorflow_text-2.12.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3f5cb8d938d316b1b2f90562ffca174384a76fc65001220f8d69aa85439a291c" >tensorflow_text-2.12.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/fc/00fb87dc1c10e38fcd0c8c704dbb113a96af8d8bd1f8ea0d4dd5171c62b2/tensorflow_text-2.12.0rc0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=98f5a58306a26fd07476c0051066cde04026e4e41d474ba08655a4bf80005698" >tensorflow_text-2.12.0rc0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/50/b8816dfd5ddb83594399f29da10acfb19a4a33b52dc14f343bf8c59722d2/tensorflow_text-2.12.0rc0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4af86c0a4140cc9c706459dfb5ac4732bf0d93e3247c521bf4c3629e6a2448f2" >tensorflow_text-2.12.0rc0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/a1/a084b518c7dfc18f6c56c6606e2f1734ec9fb545d454e5c5cc612cef82d3/tensorflow_text-2.12.0rc0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=7d82d47de8bb1f3885b3595317a858ec7dc78e0399e4557c30996798cacf50f6" >tensorflow_text-2.12.0rc0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/1c/396b5e766625ab238712f20679ab1ede17a34b38dca173a2c23777bc51aa/tensorflow_text-2.12.0rc0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a8f888d8b6222533672e5f67acb48430deb25c6658a033399968ace25466e293" >tensorflow_text-2.12.0rc0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/23/9c519061ea6ebdd816fdf006617c41b89f94a6da1e32907c1bcc7b504944/tensorflow_text-2.12.0rc0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=744389425b67035bb254e12ffcc8931972ef63100fd51c859e28fdf9e3aed1d3" >tensorflow_text-2.12.0rc0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/c4/ddb72d4b6e0569aaf4f3feb57d586a38bd5c29c25bda6a92b2bc4151ad20/tensorflow_text-2.12.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9cbdcb290a7235adc4e32c285db2287eba282cd293b2e5beccee6ce575518f2e" >tensorflow_text-2.12.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15819764-->
+<!--SERIAL 16906939-->

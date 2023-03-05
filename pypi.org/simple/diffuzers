@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for diffuzers</title>
   </head>
   <body>
@@ -52,6 +52,22 @@
     <a href="https://files.pythonhosted.org/packages/25/2a/b88a45ab4583897e1ea542112ac8c48bb8b87ba8ba7675557de092fcdd8b/diffuzers-0.2.6.tar.gz#sha256=62ecaf7f78d1f210db474f088556d9d2f7cb2c6f70354b70fa944c8ec8317da5" data-requires-python="&gt;=3.7" >diffuzers-0.2.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/57/7f/861dc3372de494da02774cc5efe277d820843740684825965a4d1415e964/diffuzers-0.2.7-py3-none-any.whl#sha256=d8fad3cc4f660e8b69dee21612c67024f1dacbe8072624d74bd8338e693cdb0f" data-requires-python="&gt;=3.7" >diffuzers-0.2.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7c/66/bc1b2cf5f98650faadf5c48d138b79b0305b89e1de9891d644b11fda46c3/diffuzers-0.2.7.tar.gz#sha256=1a4e54123c82515896416ffad8e61b1287a3a65128abdbf4dffd4291b5d750d3" data-requires-python="&gt;=3.7" >diffuzers-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/fc/673186eae0f9833c5542fde3a227935b571dab9f4705ffa221d4c76d3df2/diffuzers-0.2.8-py3-none-any.whl#sha256=75b367b5351f9b3b45654f85ab807119612876e109c1d561c11da7d49dcd5762" data-requires-python="&gt;=3.7" >diffuzers-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/e9/f411cc7be952b5fd6b7680d980605734d7420ab541cbd70545e553a723f5/diffuzers-0.2.8.tar.gz#sha256=05e128b6b0c17ada26acdff6e2ad59dac323a75da93524f112633146a7a6d880" data-requires-python="&gt;=3.7" >diffuzers-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/b5/75e8f23b1a518e7a01f626b598e7fbec81d1fae0c5777b342e48734ddd0d/diffuzers-0.2.9-py3-none-any.whl#sha256=b1fbef8e80221bf8b32f40b42ca7e8c93eaecb01dbd064c9427f731684d882ac" data-requires-python="&gt;=3.7" >diffuzers-0.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/3e/da0aca4a9122bf4e071203dbb346a9575b24e9043048a93b4f614ce3d038/diffuzers-0.2.9.tar.gz#sha256=9ad8dbfc218ec4e8cc60ffec753ebc3cfb7c43e98c609dd80415ce6653f8091c" data-requires-python="&gt;=3.7" >diffuzers-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/27/f701fb57647f18b45ae5c492c9323b68c03ce773eb223925c0a90a750461/diffuzers-0.3.0-py3-none-any.whl#sha256=b43444afe588e5d44f1bb96d02405df2d861d8fc7ed11fd94acd43d81872696b" data-requires-python="&gt;=3.7" >diffuzers-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/d1/6e9e889a87b6d0fe8d0809748941ac88ad3f11579ec7a5436bd6af3cfcbf/diffuzers-0.3.0.tar.gz#sha256=e84ddd109057b6567e761b81288f3b01642498ed2474050bf5c36f70c833736d" data-requires-python="&gt;=3.7" >diffuzers-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/1f/f9cb9f28ee188348ccc18bc58f3bbddfc5ca1df08cbae1931cbfcb1020db/diffuzers-0.3.1-py3-none-any.whl#sha256=14ab2ac707ad2392414cde9327b669d3134d79400f08f97639bd2c5409fedeb6" data-requires-python="&gt;=3.7" >diffuzers-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/95/b292552fb971781c5e2c8657de0baa81262e8f902cbc4a1d930be28e8650/diffuzers-0.3.1.tar.gz#sha256=cc150a1430cf71d41052f90f594025b34d60d03bb3d787496f991999dd6e172f" data-requires-python="&gt;=3.7" >diffuzers-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ed/629fac984ad712d732c5c45460975232de1c9b8ff80505f54290823ea159/diffuzers-0.3.2-py3-none-any.whl#sha256=abfca27d08b611755263f7c2ddab8924cb486230ebbcb8b96d713cf0e3f43a2a" data-requires-python="&gt;=3.7" >diffuzers-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/45/cf09e42b81bb8969555bafd49e6e8cbe77989c5c677269f56f00738ac537/diffuzers-0.3.2.tar.gz#sha256=589446d1af7956de4901a683cfc1af1f4204017a42e4225395d54cc8dac7bbd6" data-requires-python="&gt;=3.7" >diffuzers-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/40/189e65c2acd00e03471a30ecd618d7e674b6174cc2fa04f8586a5bcf874c/diffuzers-0.3.3-py3-none-any.whl#sha256=ab8b8d826b9af27463369e8c0dadb2660666c3230cb08b7d6950cd0654d8cc67" data-requires-python="&gt;=3.7" >diffuzers-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/d4/db6478bf6f04b727dc387093afe33d286a7c443b747b63c85d100cb839be/diffuzers-0.3.3.tar.gz#sha256=51579fa66063d5abca394dfb521be7cb1d9c58aaa6d0ec0ad1c62e4ae274dae7" data-requires-python="&gt;=3.7" >diffuzers-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/45/7e6dd5acd598e54dd5f8069ac0f44d9ad299d67e7caeab59a3b3fd18ac1a/diffuzers-0.3.4-py3-none-any.whl#sha256=8b817e31971db91af6becc0caa7a35bdcdd92f5ad60bf020f68f26dad28f83a1" data-requires-python="&gt;=3.7" >diffuzers-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/a8/8a039b403816a793c4f683f02bfa038e73092cffa6ade4c30df884816787/diffuzers-0.3.4.tar.gz#sha256=7facf6c0fb824ba1185ba8eeadbce5cc66728860c00c193b4802ca7c237f9b31" data-requires-python="&gt;=3.7" >diffuzers-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/3c/92050803bbefbeddc09b0fd5ec5eb3ee591e8fe1e5be87d82483ac954a54/diffuzers-0.3.5-py3-none-any.whl#sha256=facfb1bc20ed5d66ee4303125f2937cc196139aeadc3435bd08e0c22e45b6b9d" data-requires-python="&gt;=3.7" >diffuzers-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/be/82e648e8d96a2a0f0485f8a16f8cff1e682af6ab0acf4dc3af4fc2d49b67/diffuzers-0.3.5.tar.gz#sha256=ebca88133383d70f08a499885bf8797157757cf04dca39aeb60af7f6b9d9da61" data-requires-python="&gt;=3.7" >diffuzers-0.3.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16404032-->
+<!--SERIAL 16788927-->

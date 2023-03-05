@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fds-sdk-symbology</title>
   </head>
   <body>
@@ -11,13 +11,18 @@
     <a href="https://files.pythonhosted.org/packages/89/33/2d719641b3927e35cf247b9dc17095b532ec448e10f23c2835b0a8361a25/fds.sdk.Symbology-0.8.2-py3-none-any.whl#sha256=768aad138dae01a76c20c8444475c9dd4a2a3d046db19b6a998e719f8a685b87" data-requires-python="&gt;=3.6" >fds.sdk.Symbology-0.8.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5e/f5/8acb18179ae482fd9c12dd5fe307dd7d4582b546b095342373c57415d715/fds.sdk.Symbology-0.8.3-py3-none-any.whl#sha256=da55601994c82b798c3a3db9ed5dae377b42e8213d22a03a237f3ea963ef4618" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-0.8.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/13/ad9e9eb64d3d40e419f44b54a67a31d4f0b4e525f677492d93049fea7477/fds.sdk.Symbology-0.8.4-py3-none-any.whl#sha256=a3e2e97ae1924d1b89658e127323a79f5e015b389f748280270144b00f278906" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-0.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/40/3ce6f2536372898ac5167c2a25ee8672af3555feed00cedd63c51110232e/fds.sdk.Symbology-0.8.5-py3-none-any.whl#sha256=33615064259f71a26ff4cdc72039d53507c2e9f4055fc495e6e421ae6c9ef15f" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-0.8.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/25/8f8ae606fcd0ec9cc4359db0b11f7be7af2d9158e943ce66da7edcae6b09/fds.sdk.Symbology-0.9.0-py3-none-any.whl#sha256=0fb2ec1b8787568704bfd83184e784ac80e1d72060ebbf2070ab09e784aaf19e" data-requires-python="&gt;=3.6" >fds.sdk.Symbology-0.9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/81/b0/0e60be7960ea223e8da6428f1a0b3446e3cb5e0473b52ffa994515833045/fds.sdk.Symbology-0.9.1-py3-none-any.whl#sha256=9054eddf28d92f361f89477f52e5af5a7dbee98e3108796bd49618e868264337" data-requires-python="&gt;=3.6" >fds.sdk.Symbology-0.9.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/ba/00bc23cbec2f9bcba418e40ca39b84799ce1b4f5e398b7d9ac95a428bfa3/fds.sdk.Symbology-0.20.0-py3-none-any.whl#sha256=abab4981e38ec71bdd7ff744d65f117c730c46577cf973b91570cd796c9f589f" data-requires-python="&gt;=3.6" >fds.sdk.Symbology-0.20.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/b5/e7bb4aeef0a962969d3963e94370aa3c504b225df8a48e8c29950866d000/fds.sdk.Symbology-0.21.0-py3-none-any.whl#sha256=ff88786ae28993d3bb273c06e9eecf1915575b2a9882e519eefb6155763a0626" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-0.21.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b7/39/a70d5964d21b90baaaa48b0e12544620fbecee222813df2e849a3d1be8e4/fds.sdk.Symbology-1.0.0-py3-none-any.whl#sha256=deea485ac19af479d836a3e7765d6bee8b9f7c1ed3f642d34e636c089704b06d" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/8e/7ba49943a3ae1b4c38539647039cecfdc77a490c4eaf87ab24bfc1e9f306/fds.sdk.Symbology-1.0.1-py3-none-any.whl#sha256=27c3c755429985f6447ee751466d99dbd240757fa667fca551406e04329e6cf8" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/7e/567834676b7a3389c1de69899a44ea66da41b4bc6ad63b027c6788f7db7b/fds.sdk.Symbology-1.0.2-py3-none-any.whl#sha256=cae03f4954641be062dfa5f06117efaccaeca69d319fa7d2820f67df92b283c4" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-1.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/b8/97de6aedfb85a3100658923545e29c4528007c22c54adfc6c9c6cce8b8ab/fds.sdk.Symbology-2.0.0-py3-none-any.whl#sha256=83a18bdb998b3fba6d9ec9e72cd3dea6684dbfc245a65ec89cef5613f7602b7c" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-2.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/8b/021af87ab313ffd4be2bce8b4478b096275c970b14a92620de55060d250d/fds.sdk.Symbology-2.1.0-py3-none-any.whl#sha256=81cfc24779c490fa08ed9326d2d26c943bc51f3d3651871d742cbd5a6e1c8e8f" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/a0/640bea562a384b1e2932e2f6d10b72c276efbaf9dd06375aac521fedee33/fds.sdk.Symbology-2.2.0-py3-none-any.whl#sha256=6b79d2dbb92704901e373118f63cd5179c3523ac9bb29cc7d96b6a10e1618011" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-2.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/f9/399459628efa2864ffe2d55e2a83a810b4709808291f93e964b807d40a4c/fds.sdk.Symbology-2.2.1-py3-none-any.whl#sha256=8289e9214fe5c22d8b3bad5b685570c1848d57994bce24c0af64b9c8d6ff932f" data-requires-python="&gt;=3.7" >fds.sdk.Symbology-2.2.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15646770-->
+<!--SERIAL 17016896-->

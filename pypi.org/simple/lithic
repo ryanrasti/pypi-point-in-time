@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lithic</title>
   </head>
   <body>
@@ -32,6 +32,18 @@
     <a href="https://files.pythonhosted.org/packages/de/7f/c7121e8fe6591ea25ff470e09dc29956cfd68394ced51da8b908d6c9d664/lithic-0.5.0.tar.gz#sha256=1088c70425c218106b6270f7819df8ba1ad4e26625417b64fa61a1086387d070" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/e8/c7eba10af5c3eafb8d2f4e612c9bdf6d9a92fe3404ffbb4aa7b38de5a666/lithic-0.6.0-py3-none-any.whl#sha256=b7cae8efbf349778f49cbe0235353acaf39aadd9d2f8d0c56d1b1d4e79baf342" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/59/dd8b9861c91b8dbff01e03e516bad4747fe83f76411d81c5cd67ff24860e/lithic-0.6.0.tar.gz#sha256=884149daa4e8bb3966fbae1d90980d7d569b91919a1bed86458648b7b49abcf3" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/2a/c9e7faf7021a44ebe407eeaf63d4c5a80d38e21a5fe88a1135d97de87035/lithic-0.7.0-py3-none-any.whl#sha256=a11245d5ef7841d0798c8d678ec4b02fa7c92cb042d337223a840687979ca5bd" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/a9/528f98ee2e620fec117a83328bfdba76de8a330681660da6105b43bf30cd/lithic-0.7.0.tar.gz#sha256=00647b3cba9b370dde5f83f13c322bef3c7713a658e64224a6bf089a66253490" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/6a/e06c39ee81004fb6c4b280eaf42a4cb38a6d13b8487a9bca3fa97b2dadff/lithic-0.8.0-py3-none-any.whl#sha256=b1d9dee22677867bf47c4cd64f0dab23411cd6c2470a3924fa5320f99c22908f" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/d1/4b77bd3d15afec27243035efe9cb7ec52264a7cdbb21b887c3336449dcc2/lithic-0.8.0.tar.gz#sha256=5a72b138410d49f577d911f0b4becc50227f9f2c7bc6a2792309dc04ad7d1c5f" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/d9/56eafac0c8b401a1ed73b08a3acb7f82f7aa534701f6aa91761c40f3ac59/lithic-0.9.0-py3-none-any.whl#sha256=07117bc3eb038aca2e350f7b5ddb7d8508cf8703312da649d1132b8a5f4e5f4d" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/8d/f3dce2caf53a5809b580f08cdad352d9a928b2cf614da9fac7cff2249f1c/lithic-0.9.0.tar.gz#sha256=a890a78358068140f472c75e467bddb32fc5e7c171c68b58c290b4f85e8dd7f2" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/b9/c8aab770b8287b879305a3909839ef84f70b61206548985e6a745c24a99b/lithic-0.10.0-py3-none-any.whl#sha256=4131e0bd946b910038ea01a0637ffa1fa281843545604cadf87eec2bbef9201d" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/7b/22e2e3f6b84a90b4d529f4b020c58063cb7b8b90505c1ab4ef5ef653d5df/lithic-0.10.0.tar.gz#sha256=6ed2d9222549046dc512e65710d7be20bbe0ceba2c3bb1da2027cfa56a281371" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/ba/4d864f4d32a7b943669a4cd9570348d89d1d05f5d3a3b655ec9d17366289/lithic-0.10.1-py3-none-any.whl#sha256=62c7ce68b5c3075956e031d585a1d3f3fa6ed5339adc4b283dc46e6fbbdc93f8" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/66/a165b0c20b2781ef7dc87fa2834742688e7f35308e4c1453da261b307e5a/lithic-0.10.1.tar.gz#sha256=c00febe50a90a945a0781aad03ee6df1acee29b907a54ddc3170e01688b917df" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/ee/2fdf25a1cb5c5da3f94a850078c33e3a56708bb438c97663700ea9b03b84/lithic-0.10.2-py3-none-any.whl#sha256=c30f31641e28e68c687d49cf8865c9033385888de80083014599d7138cd8f5fb" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/98/345f13e9030045cd3507bf27c579b960c371b8367c22c2ff58f50f641634/lithic-0.10.2.tar.gz#sha256=be89284f3d6360b1913bba0511fed4b370839d147abde23503272c2b17f7e02c" data-requires-python="&gt;=3.7,&lt;4.0" >lithic-0.10.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15658889-->
+<!--SERIAL 17145137-->

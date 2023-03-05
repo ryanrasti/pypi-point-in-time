@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-docker</title>
   </head>
   <body>
@@ -562,8 +562,32 @@
     <a href="https://files.pythonhosted.org/packages/e9/bf/bddef858ec40faca27b2eca875a03865b22210667fe27292d581682f44f0/dagster_docker-0.17.9-py3-none-any.whl#sha256=706ac858c4f9aced5828ca17c9fdae481942481569e8aa4c3454b8c3f09d4fab" >dagster_docker-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/5c/951d8b33e7e8e59d2bcad91ecc6b33c93e0cbeea1a390b7eb534320ac090/dagster-docker-0.17.10.tar.gz#sha256=32d4fb96e11b405c8ae791fba8c63fa44c73090d6ed5f18c377c400f98cc1865" >dagster-docker-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/c0/212fdb503418d831822ea3f32dbc869b816779c0ef6bcc133301c6d79fa6/dagster_docker-0.17.10-py3-none-any.whl#sha256=abd2aa03970b7a8b7eacc9390cd295ac3785b6933024bc1c6ca8b1be713e6886" >dagster_docker-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/8a/e81cca409b836f295b9326cf4a43a9222ab09b4962a9a307129eaced2939/dagster-docker-0.17.11.tar.gz#sha256=6915ad277b10816453cf2d3d1fa8252bdef5b0b243b4fa7b13cf49c0e455a428" >dagster-docker-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/8e/4b0d91138a478d878bd17e3f35694ebdb6c744bf200f1e3ea7a05ab17bd1/dagster_docker-0.17.11-py3-none-any.whl#sha256=f641eadee1ff898ecbfdd578ed949d940961c2f01356c76788192f5b5929772e" >dagster_docker-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/36/955e505acd6c9a84e85ffe8026e353da74286e0c03edb3c0640ca7df9a4e/dagster-docker-0.17.12.tar.gz#sha256=5b6218a3ef124216ddda04b5388df3bca20c7c017c3db0344261516dbb61fe2d" >dagster-docker-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/ba/78a57c45025aa1a4463be4cd1962c9b67c753feb4caee2cba61d2ff4e2d4/dagster_docker-0.17.12-py3-none-any.whl#sha256=292d094cedc19d9831ae9eb9b48d626303a28830d8e172e2848e471fa495d683" >dagster_docker-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/71/e51a6bf4036f5d856254ca3e34cbb139d4d41c918503aae41bcddbc8490e/dagster-docker-0.17.13.tar.gz#sha256=2555ae340e2e62ad49dded1d2b285a756640df5b86a172c1bd2e1fbaf4db6e5f" >dagster-docker-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/80/a33a860d6de24303b1d8d4ef267027dfc2947fa431a02a6ad9ec93039730/dagster_docker-0.17.13-py3-none-any.whl#sha256=54611d930701ae29cebe9516334fde27c4cd7c4e8357cd493ea0ff1380492931" >dagster_docker-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/04/4e1f0e42b0accd1e5541e065eb1ae27a3ec95f7ab8eb5bef0faa68c71cfd/dagster-docker-0.17.14.tar.gz#sha256=c9b44dc3ed966a27cff50139adb77791fc60a171530b8505a087dd3d9f3f1506" >dagster-docker-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/57/b2c01746fe7cc8b8fcc55e22fdb911ef9718505b57b689b77066b45df457/dagster_docker-0.17.14-py3-none-any.whl#sha256=b4329db279878bdd34ee9c3c4eed76d318e5508a08da98e501080453d1d2397d" >dagster_docker-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/00/9a9495adb1ee16128d7ac0bf762dfe7c0b32acc0721c4b7f71039b61d1e9/dagster-docker-0.17.15.tar.gz#sha256=d5f124152f63e30004e78ae138130699b22a99bc691111d370f134cac2834cb0" >dagster-docker-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/2f/5c8b13340a7d1783b68f558d563a389fce17bcfe03daf6cc1fbf398ffc11/dagster_docker-0.17.15-py3-none-any.whl#sha256=822207c6ad15c8732c5a29ba3b66846a5edde4f262a560a5e65925cd7331c1b5" >dagster_docker-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/38/1e61f10e00297f442872631663c814e24eb3da35a4b8a62cb3b66269e725/dagster-docker-0.17.16.tar.gz#sha256=99a02fcdbfd0a1e57cdfae1f091bc6b3a939608d5af0e158cd79da5773bfb178" data-yanked="" >dagster-docker-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/ea/108bfa617377bf6d3247e1139f97ae570f0d9f66bfc7e244b8475714d8cf/dagster_docker-0.17.16-py3-none-any.whl#sha256=ffc457ae4b548910498e34e73015e5a3006c44dd39b39ada4c971220cc5bb09d" data-yanked="" >dagster_docker-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/62/2224284c1fa4360739e748443abc2eacb4450c082f361a8774ab54a8e93e/dagster-docker-0.17.17rc0.tar.gz#sha256=ff4eca30e58f79992058d4b8c7dcf28b6bc5d005f8a05f697c62e0a1550ce9d1" >dagster-docker-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/bc/c5b54c8d9b4a1afb50b9acb6bde0144cce360d8da4376cf26df06c694b16/dagster_docker-0.17.17rc0-py3-none-any.whl#sha256=4939fa786868508c8dceccbb5021e436b1dcd6ef5df0739a930ca18f91e2d353" >dagster_docker-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/c7/9d3c8fbd76f36add9ac62fa7ef4df333e6667f7343a9a9a129042457e92d/dagster-docker-0.17.17.tar.gz#sha256=402e95cd8404e90fd397ec05cdcb7af642a49acb2b4d3e78b70e438122f17db5" >dagster-docker-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/c9/f4f16e99390d28397bf3e5531971d5993f5abf27fd0dc3e37914a6410667/dagster_docker-0.17.17-py3-none-any.whl#sha256=566cca731a57359aedc5e923d4a86973712fab5273c948e6ca25849765872f92" >dagster_docker-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/b4/663af3518b97e0a2944b92d8be5f5b6dbc34e12c45ea407670df33122f21/dagster-docker-0.17.18.tar.gz#sha256=d262587a871309609122346f7a99a1dc971f237e53fb2238265dceb16bde932c" >dagster-docker-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/d4/97a74c62a53125c774351c3e3f5b6b69d7c7455f69d64ce8c48cbd9c3536/dagster_docker-0.17.18-py3-none-any.whl#sha256=78efd35816f4d67099eefad6eeff37364da34cfbb269523aab97e2bd8507d0ba" >dagster_docker-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/3f/4e34e5b85af3c6d79121144ccd98de4965d70bc0ce20a97ad8f2c9610b74/dagster-docker-0.17.19.tar.gz#sha256=b2c1a581520429db6ac130a9b7aac4878505cd21eff96034889d14908c49aa46" >dagster-docker-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/c3/38b91468fc44088364a9e1670394311bbe7d865b431ca662f2c398ec6284/dagster_docker-0.17.19-py3-none-any.whl#sha256=f2816b8b0a5bfc49b1746edb7628a69273b62ede29a525e2aba7c988a7ca29cc" >dagster_docker-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/c5/7ae79181d4b47ed482d16ca4b203c763bd432ecf25b5224b69aadb46878b/dagster-docker-0.17.20.tar.gz#sha256=c1cc60640b5d2295e115eafa0c5d6532ba0af40e1f27e456463426859b8c903b" >dagster-docker-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/ea/ac07141e137d19c713dd4ade113ed2a1c1c4bf293e4236c7abd9b45d5571/dagster_docker-0.17.20-py3-none-any.whl#sha256=8445901715078be6eabf700d15bee9d7480ba1722013d2f1d6576da8c285291f" >dagster_docker-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/c9/c52cdf8b2c90e6987e11e3078f963ca9dfb1f83fb601dd098085f90a7e82/dagster-docker-0.17.21.tar.gz#sha256=a257727a1b2297b85c1cff038d02c525a2b335c0eb7016a95fd27722d81a5c66" >dagster-docker-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/3b/1be081d1bbde8768a68f5402a7a1a2dc5b7d53ca67dc9a3ff19de6f9b682/dagster_docker-0.17.21-py3-none-any.whl#sha256=ceb7d0807a23f932b5d729c24e92e13607cad28eb7e161047b8f28d3e2fbb170" >dagster_docker-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/5c/3ba99117a7fd3a82f90d3d927fe0049be29700a616f76eb01a28ae730f51/dagster-docker-1.0.5.tar.gz#sha256=8389382ab2cfdc511accad6a118a61967da31f44148574bd61951a32643c6d21" data-yanked="" >dagster-docker-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/95/57/8a93817c3459d61f707cc2a784e6a467b73d0c529025666efa4d4f5e67e7/dagster_docker-1.0.5-py3-none-any.whl#sha256=2a696fe1256a64afbcdaf54e3c8a22d26aabd5a568e33225c7105687d0b522bb" data-yanked="" >dagster_docker-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408576-->
+<!--SERIAL 17135762-->

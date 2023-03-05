@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for skl-graph</title>
   </head>
   <body>
@@ -12,6 +12,16 @@
     <a href="https://files.pythonhosted.org/packages/54/3b/7eb77d03e51d7f7ddc1adb0a326b24dfa24a06ce02b6c21c092f6bd5b49e/skl_graph-2022.2-py3-none-any.whl#sha256=4bb0de0358e90e19fd4d3759ab0043c2603f162a0e4fe72e1e0d82feb6817492" data-requires-python="&gt;=3.8" >skl_graph-2022.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/07/d18a6e3949d870841bc5b676a6d0408bceb7cae97076b751b51cf1136708/skl-graph-2023.1.tar.gz#sha256=4a119895069f9c7081a87a8a5e057e61435655b531fd151672a23bf6b97e3f92" data-requires-python="&gt;=3.8" >skl-graph-2023.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/a8/59f3c6ded9e63ff74c8371fa3c9991af6f0b02a3b6678231ea54ad119956/skl_graph-2023.1-py3-none-any.whl#sha256=4ed4ac97497fc84f345e5e7dd9e4b1a3b6349038d95408317f74d113b00971bd" data-requires-python="&gt;=3.8" >skl_graph-2023.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/f4/ddf296225370c0a55f24d81dec9bbc5d8356a382efc013602b4816971725/skl-graph-2023.2.tar.gz#sha256=933daf2d4393cfdfaf4ce4c4c2a55e93c8b9744f8b5372385f7832eb47e28e0c" data-requires-python="&gt;=3.8" >skl-graph-2023.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/69/1b7df03552a04d1051f7a7cfae04364f663e841b092a9d2340929258cdb6/skl_graph-2023.2-py3-none-any.whl#sha256=41269046074727f6628082cd125ca6e559794927801c4e6682cdc7a90580d2ec" data-requires-python="&gt;=3.8" >skl_graph-2023.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/12/502c356e40d44b78c4150651bd75530bf0670e6e705fc8e220408046ff3e/skl-graph-2023.3.tar.gz#sha256=7dbda1d3f13218a670b92946fe29d076dc6046920ec8a58e925dd1294a95c9b1" data-requires-python="&gt;=3.8" >skl-graph-2023.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/ac/2ffe9d364499449a968501578cc0730797ea6bcd6f29ed32eb192e64f1a9/skl_graph-2023.3-py3-none-any.whl#sha256=07e362b2267bf97d1f4acec4429aa3458be85a159b803e58249defe92094f25b" data-requires-python="&gt;=3.8" >skl_graph-2023.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/f3/21e834bb740328b940f168da51cfe08989945cf5288aee239023bc6251b2/skl-graph-2023.4.tar.gz#sha256=5042def9dd099026c7eb59162bbd79b2dc0e0272f8220dda08c5ecbd7fd61e01" data-requires-python="&gt;=3.8" >skl-graph-2023.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/c7/b83f3078cb8d21904b3c2b75ba723026b432e52419a5721e485871f2419b/skl_graph-2023.4-py3-none-any.whl#sha256=51574a554293ae8d263f072482da2dde829448e0c564b9899da508b096aecfbe" data-requires-python="&gt;=3.8" >skl_graph-2023.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/64/4712b81420dee37f37a9cfb323f88b803df133caac92916770d9a73a5139/skl-graph-2023.5.tar.gz#sha256=96db54cff6b5d7d920e6417e12dbe42828c55bb5d0dd576e7fdceb650128e951" data-requires-python="&gt;=3.8" >skl-graph-2023.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/70/ed5a4f8b4a7dc083e8a5ead4e4def2e38361e96d44e9898ac6bfa9a984e6/skl_graph-2023.5-py3-none-any.whl#sha256=c887c2dcb1b58b4ad87480cc6e09a39c62d05ac09d15588c6e274e3a19d7ca9e" data-requires-python="&gt;=3.8" >skl_graph-2023.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/18/87d92b507282bfa5e60d6865779df00ac19d6aac5a6f37a3acc0c62fcfb6/skl-graph-2023.6.tar.gz#sha256=4b39c413cc2ae6d3368063f94f721fcdf4a5fa7fbdf7a28e8649b5e08d1f144e" data-requires-python="&gt;=3.10" >skl-graph-2023.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/ef/bbe4d057b1d5a60eb2b305ab93b13c230b48623bd75bd6dc7c5ac76289c7/skl_graph-2023.6-py3-none-any.whl#sha256=5d84df013322e3d55adb934fbe49f6bacec8672721be8c0d169ff58e85537270" data-requires-python="&gt;=3.10" >skl_graph-2023.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16302411-->
+<!--SERIAL 17096322-->

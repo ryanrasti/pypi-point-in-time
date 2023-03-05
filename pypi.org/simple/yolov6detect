@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for yolov6detect</title>
   </head>
   <body>
@@ -27,6 +27,17 @@
     <a href="https://files.pythonhosted.org/packages/51/8e/aa1fabadafa4b3ac5ac488910749b0b445755d790256cc3d7f5807e39eb8/yolov6detect-0.2.1.tar.gz#sha256=1317ba46c09988b75f981b4b1a965555d9dc025f27a62a39068a011439133911" data-requires-python="&gt;=3.6" >yolov6detect-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/de/91/6e6bf4065d0109e5aef6dfc7076d6d0afc980d94a4ed1371ed3f55df99b2/yolov6detect-0.2.2.tar.gz#sha256=cd72f1cda57ac41b0f5392eed665a37d534d1e85ee50f2edf8f0e6f2e933806a" data-requires-python="&gt;=3.6" >yolov6detect-0.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/c5/8fd99977759b9d2947e5f10429b05c8b6e61f4a1f3d74ef17144e5a4b447/yolov6detect-0.2.3.tar.gz#sha256=b42ba2b592453bffb8a7f93967efa484074b3f0d3a6c6555a1bd6d54b9b978ea" data-requires-python="&gt;=3.6" >yolov6detect-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/e1/897fb2ec6ed7fd4461742bb7e9252a939b562c1db198c78726c42bd06d4b/yolov6detect-0.2.4.tar.gz#sha256=4cfd2224b744d6e0a7b0f71e30af30c9f1e099112077c0114515a73642a15707" data-requires-python="&gt;=3.6" >yolov6detect-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/4c/e8631cc2694d4a0dced1454c72cef66723a278b2be137769b4da87d8ebaa/yolov6detect-0.2.5.tar.gz#sha256=7ed3b41d011dbe772cad9328c2c91ab886996c37641b6e1af8bdcc12e8ac1215" data-requires-python="&gt;=3.6" >yolov6detect-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/8f/d7d3eb7f2eeac2fee3c7249263478c7db6fa175262ca143c28a8cbd37eb7/yolov6detect-0.2.6.tar.gz#sha256=ff1c1b15c592ebe88d18e124ff639bdf7744a8a82be7c42da4c934f6aab60641" data-requires-python="&gt;=3.6" >yolov6detect-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/54/00e73c3d877cacc4119ed794642d96d593dd30d95550b34fb9a4e40b2234/yolov6detect-0.2.7.tar.gz#sha256=205da068aa3e89d75a06b406f5d206f336d06d31064f2d70849ca9b643038d4e" data-requires-python="&gt;=3.6" >yolov6detect-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/5b/dfed887065a3db3b2af00ae3028b52386a8d90b2b5ea587a84103df76474/yolov6detect-0.2.9.tar.gz#sha256=46892683f39b6f374497c155049fbee29ebeadfa7b2e6bfc58eb0d7b94271af0" data-requires-python="&gt;=3.6" >yolov6detect-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/5c/73e6ddf1bc4dca57ccf842b95c8f7a3107785501bc74133b3dd1dd3d8f4a/yolov6detect-0.3.0.tar.gz#sha256=387934c12d6fdd056d32e433ca4eb641be3ede39ea1d366408aea3893103b320" data-requires-python="&gt;=3.6" >yolov6detect-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/ec/e3a7ebd54a1f7d522346e602f8f6eca9d134f3138d33bf32b90f6fa3f996/yolov6detect-0.3.1.tar.gz#sha256=9b543c0acc6338f3f3ccbf3b7465935e5f83b769da9f5d754d6e06a54514bee8" data-requires-python="&gt;=3.6" >yolov6detect-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/8d/8e67aaf96d62774100dfbeb0c56db342e023c3c054a0739ed3a958e56ba1/yolov6detect-0.3.2.tar.gz#sha256=784ff018072c3f583829836f03ab0c1e3394d57665e5091c6992471010af2569" data-requires-python="&gt;=3.6" >yolov6detect-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/8a/512990b6be154e2a813e865f52252cb9f0393f53ab7c300eab609a53207b/yolov6detect-0.3.3.tar.gz#sha256=25153795942b557ac983b853374175bbe2384f3a699cdb98f2149cc78941fe9a" data-requires-python="&gt;=3.6" >yolov6detect-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/80/84aba449c533c95ab3b9ae3a9ebe232fe4e1d9385646f9dea27d2d1e28d9/yolov6detect-0.4.0.tar.gz#sha256=898ffca48c101ac315a38c1ce047c5702cd8faac82f609387e5b1c4a55017b7f" data-requires-python="&gt;=3.6" >yolov6detect-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/1b/8c55baddf39812cae0a74671f788cbfc1db5600243b385f1709bd4aa2c4b/yolov6detect-0.4.1.tar.gz#sha256=1e967a539ae9f3c7148abd1913e12d727a7fc02123ff9e0787b1bd0f8e651feb" data-requires-python="&gt;=3.6" >yolov6detect-0.4.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16335655-->
+<!--SERIAL 16515063-->

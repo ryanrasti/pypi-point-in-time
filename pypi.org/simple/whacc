@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for whacc</title>
   </head>
   <body>
@@ -351,6 +351,18 @@
     <a href="https://files.pythonhosted.org/packages/34/95/404ce3edd82542795a13c51616139750fbc97e03d5ca9bbafb86a7ff449a/whacc-1.3.14.tar.gz#sha256=85f07db8ebc8b4423358366e10f3913f5e06f09414f47069a6e6533868181501" data-requires-python="&gt;=3.6" >whacc-1.3.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/14/49daf641c212c3c1cde13299e39de6736afb29831e854c7442ca507fa74b/whacc-1.3.15-py3-none-any.whl#sha256=73f6e8d034fee1cd7133455ee93fa03105cca67f151487a903bd840a141f22d6" data-requires-python="&gt;=3.6" >whacc-1.3.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/33/375a37997dc43ba2fcbcd846c5da79664609b087403c730ea98070c3107f/whacc-1.3.15.tar.gz#sha256=e02be57f1079e5ee8eb2748e1414ed027fe9c600201e0c53f963594f2981572b" data-requires-python="&gt;=3.6" >whacc-1.3.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/d6/a8e0cf8d5914faa0dc76a2ee49511f847f7692d0da6a7a0fb6d0c22dff0f/whacc-1.3.16-py3-none-any.whl#sha256=55da3d2e8e39e9707aff9f5b3cbd7e4694c67ce90c44332712d152c39f277c28" data-requires-python="&gt;=3.6" >whacc-1.3.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/ac/6fddbea0e353cbe5785ad8893a201bc3af523cb4201fee313217d323dc00/whacc-1.3.16.tar.gz#sha256=efad31bef8919a58865698ab99fb7d07a87621a0518f6d54757a203d8b32565c" data-requires-python="&gt;=3.6" >whacc-1.3.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/dc/1e1b980c2fe586cc36659abdf9925a0ef8a05ce493eb0cb63b0573674bb3/whacc-1.3.17-py3-none-any.whl#sha256=ee4e2b5bad9bfbc089baa3af0972a6ad052f2ff6468fef3919a39a42416bd915" data-requires-python="&gt;=3.6" >whacc-1.3.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/e8/3e7fb39504593ea2ef19cebda17f9d6441fae89b47365a17273c3fb5620e/whacc-1.3.17.tar.gz#sha256=ae596c35d5cf2a7a875afedb3fd731b0dee96d7dd00e9a8167fb134a576951fe" data-requires-python="&gt;=3.6" >whacc-1.3.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/17/f4d8c48e6ad673dbc5b41f17f96a193ec1e86efd2c1c122c3a5c8328c927/whacc-1.3.18-py3-none-any.whl#sha256=fb422523b3a17979d27a335b7ac1cc4e0d73ae16fcc585d4947a3aa9662918bd" data-requires-python="&gt;=3.6" >whacc-1.3.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/ce/8d028a55ee62dce14aa8ccd59e2b361ae43d14c272d47b14fd155414c783/whacc-1.3.18.tar.gz#sha256=54dd6ef1cd981de8b32b4f256e7b7e54d226a3cba8f14a0ba115dffc9e276d89" data-requires-python="&gt;=3.6" >whacc-1.3.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/44/0240368540045b45141ca8e843e5d603bc036b4c42032a1b8b34efcd6e45/whacc-1.3.19-py3-none-any.whl#sha256=ab1d03172aca138de33c5c355423a4a2c4e5ae2d088cd5fa2e8f9ffca8a98006" data-requires-python="&gt;=3.6" >whacc-1.3.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/a3/61c5aefda8481b9fbcc85e4c33b2701803be6e4162267c116cb53b2bd0f8/whacc-1.3.19.tar.gz#sha256=3a0ef9eaf5c53594cb3a6b5f65491e11ddf9551e6fbce3c716c40412a5df987b" data-requires-python="&gt;=3.6" >whacc-1.3.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/a0/17b787bad5557ef758b9a88f85268b243aa08ae30e5b92cf5a2c406c10e3/whacc-1.3.20-py3-none-any.whl#sha256=10372126f6c2764041da0c515e7073fa7931c7b0c58754770d68c64cfacea399" data-requires-python="&gt;=3.6" >whacc-1.3.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/8a/bd14c827b58216f212524a06337cf0dac90009c57d97bd055595b652d181/whacc-1.3.20.tar.gz#sha256=0c7178cb084d18171152ecc74c723e005fbb964c1b842f9dd00e859de4654a93" data-requires-python="&gt;=3.6" >whacc-1.3.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/38/fa03e63cb0dd26ca6dfff39ec28617d76cb0a432b1f4a8a3fe8fd0cf3491/whacc-1.3.21-py3-none-any.whl#sha256=cc77e83f885ac1af08019fd65a9ba760ccced479da3bd55b98461b7703ba4e10" data-requires-python="&gt;=3.6" >whacc-1.3.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/91/1d7d343af1d4648dcaddcefa6b0e08ee642a0a4342fa06af0385c87d3c2f/whacc-1.3.21.tar.gz#sha256=4e15622dfa91eeda86f8a49b353a875cc9a0c344216d39f44753e0fa5f6634a7" data-requires-python="&gt;=3.6" >whacc-1.3.21.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16425224-->
+<!--SERIAL 16639688-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for huddu</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/43/9c/43b77f9edffb0d228f11a37fdcc30e2e5d536361f3bc66fa85254be51afc/huddu-1.1.0.tar.gz#sha256=6278b1322ff08cd419451ab9742387b2c00b9e297616422bea6ad85baaa9699c" >huddu-1.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/6c/77414ac00b0ac0a9235d439bef0c8403a3b0567776c7bf5debb403b75305/huddu-1.1.1-py2.py3-none-any.whl#sha256=d7b44fc8a11dc0613a8694cdd85ecc0f62339a9232a1262ba80ab78e9ea3a29c" >huddu-1.1.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/24/7c93ccfaba67998bfeafaf907426168063f93cfcb16f819b43c8be3d38ea/huddu-1.1.1.tar.gz#sha256=b1e84e6e4f499b17a4b1f19c9dbbfd2f3daac015d5c654d1a2cffd171c23a22c" >huddu-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/72/940f7ec52872ae2b74e156c918b1edb4c7db18ae5c12fb9a6eb100e47e9a/huddu-1.1.2-py2.py3-none-any.whl#sha256=a94a48a68dbef477a847055a39ebc0c0f5055d3c7fa4d011e1524858664ec95b" >huddu-1.1.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/d3/1946d0288ea1908ddd3b51bfc433ffdb8d096b47610138e2f18da49358c3/huddu-1.1.2.tar.gz#sha256=5e1b18f13c7f022565333b12962fa01a005bf2dcb9c9124333452dbf41ea7ab1" >huddu-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/08/7b77bc752c001430e3f1b4c37122df480cf615885205d679ec0baa83e5ce/huddu-1.1.3-py2.py3-none-any.whl#sha256=becad5d1dc6fdc0c5d26ad6e3708e7a84bbedad36267a01c65d4618063b78ebb" >huddu-1.1.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/23/383b6e708bde0efd145d25527e4a5e201bf78be06b225f8ec2a881112ca2/huddu-1.1.3.tar.gz#sha256=b48a71dec41a4b2535f8e13d90f067422fe5589e51e3ecfc8ace83b0af10bdf2" >huddu-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/29/105e02e87517ee5ae1e7450fd303b2be6feaee3ce3d0da486e40cd91c3c2/huddu-1.1.4-py2.py3-none-any.whl#sha256=97968b562c56f4e3cdcf1c5e68e8f28e95b3187033c9f6e7edf361554cd26bd3" >huddu-1.1.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/6f/32ee0eab3a819fc5ef4129741bdd4da77abe7e2febe3b946aaf85bbd2bc0/huddu-1.1.4.tar.gz#sha256=37d1efedf23f481a20ee1f4f414e6cc9fbebd29c034e5e18e5e3fbbdca61daec" >huddu-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/57/823229f67355989ddb472916ad6ee0f95a75d1fbfe0d4e9853c7442a2baa/huddu-1.1.5-py2.py3-none-any.whl#sha256=1897c70c6ad13b7cd5f4fff55910664762dcfbac821dea8277cbb89cab39853e" >huddu-1.1.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/f1/b7dc314b584cf2a00890841594b5219493b1bab9fe58d964fae6a270966e/huddu-1.1.5.tar.gz#sha256=6f708dd4700e1399410bae339b1b6c3fedca84edf0b82d7fd914bdf92c70722a" >huddu-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/5b/27a03a0734b368105c2ea370add4dc6b84c69c786d2bb02d751e8ef7cd84/huddu-1.1.6-py2.py3-none-any.whl#sha256=3c3e6872955cdb4e4b51038d23fdde0a7512814a4b6cb3f3d3def205dbc04c14" >huddu-1.1.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/94/1a929d3c223ca5e1a1e558bbab66698f390138b1da2f1bab03d09da9879b/huddu-1.1.6.tar.gz#sha256=6bec1cf0285c293a73b0b4fe558a28708a0a084256ffa89791f5014a6b5d8552" >huddu-1.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/25/bd5178c91dfafb21b987ea82d46a564f9da1cc10a990a8ade3b619185036/huddu-1.1.7-py2.py3-none-any.whl#sha256=d82d24b1b081eba82b887ba3e9fe63601f51e32a924ac0eab8ff8d8de4bdccba" >huddu-1.1.7-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/a0/f678404444f0bc9850fe23515fb1318ab902f3d0484f6b3a878aad95dee0/huddu-1.1.7.tar.gz#sha256=90c0830fef6e0853195510591c53484aaba455d8c50f13a6465142c07eb35851" >huddu-1.1.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15905118-->
+<!--SERIAL 16859445-->

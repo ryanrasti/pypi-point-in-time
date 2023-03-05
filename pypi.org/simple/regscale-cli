@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for regscale-cli</title>
   </head>
   <body>
@@ -37,6 +37,20 @@
     <a href="https://files.pythonhosted.org/packages/55/65/b874d1803b4e33731b3b2cc2a9a25b7e9477e34d15ee0934cd8c8e8eaea2/RegScale_CLI-1.3.6-py3-none-any.whl#sha256=3231facdf4e7a078a0385ad2f33c2290e5c82e0bed4f57925247410e7905684f" data-requires-python="&gt;=3.7" >RegScale_CLI-1.3.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/55/e9/0696771e7c29c9beaa5943aee7790ab324ad87859a805ce8245d2d7e3476/RegScale_CLI-1.3.7-py3-none-any.whl#sha256=bb93bfb571d2fd5e61b020ddc8300463238f64d8ebebc23809df9ab7ca283d97" data-requires-python="&gt;=3.7" >RegScale_CLI-1.3.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/dc/c67b5b00e6da95df03ac2d5d2141a4603ce9ebae0c642cbcb8e96f2488ef/RegScale_CLI-1.3.8-py3-none-any.whl#sha256=8ea76c6726e41a74bb1e152b785f26a9ad0c3d79bdec4d1005dba69ce6c37f42" data-requires-python="&gt;=3.7" >RegScale_CLI-1.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/3d/add8f87799b8460c98a84422848e64317e2542d0656a320cc801c3a2be53/RegScale_CLI-4.13.0-py3-none-any.whl#sha256=a75e7182697df40a8c12492c140cad576a868bb31aad45c86cf6cfc32cbee60a" data-requires-python="&gt;=3.9" >RegScale_CLI-4.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/53/ca188a3fb1f293caa64f1e39ba6b558b16bc7c7293608920e1c48aa2b75a/RegScale_CLI-4.14.0-py3-none-any.whl#sha256=68f4b03db6acc1e655ac38e6660c4721f2a4b06316890aa224ff5d2439f5dd66" data-requires-python="&gt;=3.9" >RegScale_CLI-4.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/09/64762e385bbac66f803c8be4cc542996ce00e0711f6733a6f332ad545d15/RegScale_CLI-4.15.0-py3-none-any.whl#sha256=88327ec71285ddec02ac7c3fc476ea3512a8a919360021e0b565a5d51feb6f9b" data-requires-python="&gt;=3.9" >RegScale_CLI-4.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/7d/5a787ae957c9915ba23259f5a6f13e9dcc7b7b22778fa56c4beaf2eaecd6/RegScale_CLI-4.15.1-py3-none-any.whl#sha256=532b14e47fd0e8d6ee6c2242326eba8ef209d48f17a651e989b61e1a0f020f73" data-requires-python="&gt;=3.9" >RegScale_CLI-4.15.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/03/1d49b620caac7cd8fd28744fef1b05e7e82f0809cb6d4f1782b5e46e5698/RegScale_CLI-4.15.2-py3-none-any.whl#sha256=037f20554dd8cd09e3e06ba9e60211410ede12d70ac4d4d3ee57d5d4abde052c" data-requires-python="&gt;=3.9" >RegScale_CLI-4.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/7b/d7e82791aeeca2ddd8e37da381a10a5d0bab52fcc5a129a98d97645b5a6a/RegScale_CLI-4.16.0-py3-none-any.whl#sha256=2bc8e0f1b108d4042a792a737630b70aea17ea425c8751c89fbaa139617b8521" data-requires-python="&gt;=3.9" >RegScale_CLI-4.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/59/b006990296077b755c05909ddbd40a643c111205cca68bcc28c387372962/RegScale_CLI-4.16.1-py3-none-any.whl#sha256=9100d7e77ac6b5418a1d94cc14c23cd6db3694b18f1a010797720001cfc7b8fe" data-requires-python="&gt;=3.9" >RegScale_CLI-4.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/ce/6e82190ca3f38e064b8f89743fdf7309be9ec8b831c1b63da1972f392608/RegScale_CLI-4.16.2-py3-none-any.whl#sha256=ae47493af26d46fb0a3c3c9ef8de5f3f691506d6a8e7c5337b560ed5290a4d17" data-requires-python="&gt;=3.9" >RegScale_CLI-4.16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/05/7cd31271b1294c23cf14b42abcfeb981ebf8c42b571be405002270d57a81/RegScale_CLI-4.17.2-py3-none-any.whl#sha256=6b5ca88d3995f41337c0af3ca14bc7a871dafbb22ce68a0c5eb531f8e42677df" data-requires-python="&gt;=3.9" >RegScale_CLI-4.17.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/69/47690aa7ac413e8db291c7294c5431d254d54850072a2ba2cd3f194092b0/RegScale_CLI-4.18.0-py3-none-any.whl#sha256=a9570d794386604682295b59fa8716105bb101f0ab430c6cf3fe05c6676572f6" data-requires-python="&gt;=3.9" >RegScale_CLI-4.18.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/71/24275d178f26a9c3e4f6c0bf8442390748818a5b94fc4e33a61b7fc8177c/RegScale_CLI-4.18.1-py3-none-any.whl#sha256=5964465fffa77fc2bafe29fed268f5da1ee2955863e745c8ee75d1c3e48fde1c" data-requires-python="&gt;=3.9" >RegScale_CLI-4.18.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/c4/eacafe78516288bb3bbe8dd9564e67c057e525e5106c8527bc4a9d981c5c/RegScale_CLI-4.18.2-py3-none-any.whl#sha256=38c93064e65394e6761f858b4de5105977ec221544feda7cf79fc62b8527d6d2" data-requires-python="&gt;=3.9" >RegScale_CLI-4.18.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/30/215052af4fb2f28c217a350b104c012cac0bbe123f379caa7d945f053df3/RegScale_CLI-4.19.0-py3-none-any.whl#sha256=ef56c5bf89920629ffb9c4ad5eb6df054ef62c724b7497c64937e7ff0afcb861" data-requires-python="&gt;=3.9" >RegScale_CLI-4.19.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/ef/31a567a3337065679d8c3a3861a51eeba5c48c412b699d6789ba0e88f1bb/RegScale_CLI-4.19.2-py3-none-any.whl#sha256=872a982bbf0a3277ecc7ec354c7cec1ceeb53190fbf0bd0092c943a454e2f3bc" data-requires-python="&gt;=3.9" >RegScale_CLI-4.19.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16379539-->
+<!--SERIAL 17145145-->

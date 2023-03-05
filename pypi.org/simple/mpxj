@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mpxj</title>
   </head>
   <body>
@@ -98,6 +98,16 @@
     <a href="https://files.pythonhosted.org/packages/46/24/77c71232b8e323220e49c9144cd8bdca05b1d38174ba67df9e73fde2b8ec/mpxj-10.14.1.tar.gz#sha256=7b67c73a8dc4e174250f178c613783f68ef62e5e8bed9f663682c4032526f9a7" data-requires-python="&gt;=3.6" >mpxj-10.14.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/e8/e4ea9f180cb4415cbb6cf6db66351521a91ba88147f2ca004a25bcbba9d5/mpxj-10.15.0-py3-none-any.whl#sha256=fd2010fe72e4e5a3c46d9da9c16c7a9936c46ccf23b2ed92139d620a6cd1dda4" data-requires-python="&gt;=3.6" >mpxj-10.15.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/aa/cb67cf4d2a5a3027e9b3a948fa01650e1be16042d90e35b253eb123c40f3/mpxj-10.15.0.tar.gz#sha256=440dc736b5c311f0c3a23d49019d57df33c22e5702ee411b7da8680037ad2195" data-requires-python="&gt;=3.6" >mpxj-10.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/00/3824e50a260edf68fcac6d32f4bad1f7eec82b0bdcb7aec6faf2ff4965e2/mpxj-10.16.0-py3-none-any.whl#sha256=d65526dbf3883a354aa83d6dbb937428da0d151b926896ca4456fb368ac08785" data-requires-python="&gt;=3.6" >mpxj-10.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/80/0c8ae973ce7311dd5ca88e666ff23052d5c4bae43dab38aaf67a4687ec8a/mpxj-10.16.0.tar.gz#sha256=d41339057d525a5a24938038b54a70ccfe18f3528c559f8396d10261fbc3bbbb" data-requires-python="&gt;=3.6" >mpxj-10.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/8c/7e4edf5886267101449a1859fdeb071de7b3ba4d5414b5af401252e7fc33/mpxj-10.16.1-py3-none-any.whl#sha256=572df0f2b83a4d515dd2797cf66f8cf0c8968db352359ef71946de439e170510" data-requires-python="&gt;=3.6" >mpxj-10.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/bf/f63f059d91825f8d1ed5275dee372dd58a9090a3ba440354140e202f02b9/mpxj-10.16.1.tar.gz#sha256=629e89a31f6f354a2f6a0b0a4bf5e26852cf41fa9871d3b00f42def84cf1a118" data-requires-python="&gt;=3.6" >mpxj-10.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/1b/b6b997f1002229a33c9821846312211d810347a63be4f8fb4210d79bfb81/mpxj-10.16.2-py3-none-any.whl#sha256=7c9b0e65de4f794751e4e1b3f37cd73a86686bcda9054e4e850a89ddd8b77b2b" data-requires-python="&gt;=3.6" >mpxj-10.16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/47/1e9150d8466bb0d89683f3d29b2c48fdde7ca74721e66b80d56e28fac197/mpxj-10.16.2.tar.gz#sha256=05edc8f7f6cebab2a1a4be6d0374a98fedd943afe06ed079c11bd03cc1d9cbc5" data-requires-python="&gt;=3.6" >mpxj-10.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/84/783c9c2e780eb6a3dc397cd44fa502e3a7261ded253eed8a9d949ea3c344/mpxj-11.0.0-py3-none-any.whl#sha256=d6206d2a8bc50f5629d5846315325c70ed73b267a8c967cb22e483ca5b55cf1f" data-requires-python="&gt;=3.6" >mpxj-11.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/a6/76d5d908e5b139f10072c15c0fec8f969bf704899ccd23472f8e7f44cfbc/mpxj-11.0.0.tar.gz#sha256=b50e3f92a2f9772d63e6f65b03f7e1faacaa150dcc5839d4f0455f9790c771f8" data-requires-python="&gt;=3.6" >mpxj-11.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/47/6675d405895631a85be77bb6831abedecfdd12e5bd5e4e849eba7c7938f4/mpxj-11.1.0-py3-none-any.whl#sha256=41aad1f5e5bef2ce9c9141d833be63a8733c9b54d4039be3102e0c9dc6c7d571" data-requires-python="&gt;=3.6" >mpxj-11.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/6b/0b5a1b72f14744caed168e5041cc46d09f46249c0d58a1385dd046778ba0/mpxj-11.1.0.tar.gz#sha256=23a3655719f05cac996d68faf66975a58b8f2e4c3c4bc99558e3612786db4f82" data-requires-python="&gt;=3.6" >mpxj-11.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16390465-->
+<!--SERIAL 16876991-->

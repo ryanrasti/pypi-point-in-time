@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyphasesml</title>
   </head>
   <body>
@@ -15,6 +15,18 @@
     <a href="https://files.pythonhosted.org/packages/3a/ab/dc2822c0a7d218ed7b596d87bbf39ddea76e7f6082960f78f7eb1f49cdb6/pyPhasesML-0.0.10.tar.gz#sha256=5689f9abd5f1acc37c6c10ff7818cc3b2a33e8a82e513298166ccb5e05794613" data-requires-python="&gt;=3.5" >pyPhasesML-0.0.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/c0/a23c5f5f0e248682218bf66fef50ba1dd335900d80d0de4a90e763e92cad/pyPhasesML-0.0.11.tar.gz#sha256=9bf15ab74d08dedb96a112640b787983d812e46038efa41b1d01609c74e29b14" data-requires-python="&gt;=3.5" >pyPhasesML-0.0.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/7e/61de3237bfb532b0563f3583421ae413a5fac3c34fc8bc36f94c97ff5387/pyPhasesML-0.0.12.tar.gz#sha256=9433e50d9aa23d4069906671cf70c5a73e1c4cb92513707b3bd6ba21859469a4" data-requires-python="&gt;=3.5" >pyPhasesML-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/4d/69c3decc3c28fad6516c543eb3ed0ecfd0138eaac8ed78dbe135c399efd7/pyPhasesML-0.1.1.tar.gz#sha256=af4fcf9caa4c416f224316a9973b33e9ba3f3a8450034a2d1665b8fe89f594e7" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/81/4e4f9322aac7d6b24ff8093634a0c8660e872b09fcfe0a16c03bf8c49881/pyPhasesML-0.1.2.tar.gz#sha256=5e78b8d4f54da4b0ce13f239591d102ae0467be534eec770d65474e0fdaf1947" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/c5/7d9273b7215549b8ee08ed8701a2d7f88bf36320d9f65a098a0f8c07e770/pyPhasesML-0.1.3.tar.gz#sha256=89980e309c2a8a504db9561155ec14c3d753838d0260cad8510808d6a197e0b4" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/09/8dbfadddc77f73c6b61272852beb5f896dda70937f1e99ea67b183ff69d7/pyPhasesML-0.1.4.tar.gz#sha256=b7478734d1fce712bad99db9e5c5e53d8de2ffcb01f5459c365b4c8c9c0c8c4e" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/f7/f90722a76b8becad48563ef6c22ae90898370601a480ea27864cdbb01501/pyPhasesML-0.1.5.tar.gz#sha256=cd8078ca34fb7346462ea3a9745050cf261998edf5f1b0387eb406314967c776" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/f8/d236dc81871e7e3c96d7321a8b9b81ec864a55a81404f589cf32d344888d/pyPhasesML-0.1.6.tar.gz#sha256=1e44b58e4067787f99070809f5db19f35554f7dc4f45db754521c6d2eebf7e26" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/de/0816f9f17558a8f77acc9e1405c54e7642a7a4059c91c09d4bf6f7a2eb9e/pyPhasesML-0.1.7.tar.gz#sha256=b8d74ff8bc7f29c27e3b4d39d3d0d5144d8a52e0e582d3e5f911aca5a3089191" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/fd/880ec3f508097971d072429338c7a540906b6777648d60989cdb886bc37d/pyPhasesML-0.1.8.tar.gz#sha256=437c1aa4e251a1321a6af5959d7c5f9ae565ac7e97c25ddccac1a91d015c4a51" data-requires-python="&gt;=3.5" >pyPhasesML-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/83/6026b9ed26a2d5d23cb70e232cb1a2b19afc4b9a9bfd2b47fe32fe0688b1/pyPhasesML-0.2.0.tar.gz#sha256=da0eaee257ef71c016d2279a00a6957adfe325e6e8fd741bdec54c021f736d7e" data-requires-python="&gt;=3.5" >pyPhasesML-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/4f/8d43ff145e5654a1b716b7fc1a91f8000e41693b36d8fb0600e93de40423/pyPhasesML-0.2.1.tar.gz#sha256=24378bb2200b6b619679ea63a525ea56f022e7d013db5b5e5eb5949f7f7c85b9" data-requires-python="&gt;=3.5" >pyPhasesML-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/d7/ff655d18b9dd7c43fbdd434034aeda2595e10d0b2c7c271817fcccd5228b/pyPhasesML-0.2.2.tar.gz#sha256=37cb1f4a2d2e974de4d103fa2b051609cfa1b9a0c2220c66b6cc296bbf5115f2" data-requires-python="&gt;=3.5" >pyPhasesML-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/87/ac75c0173c4a3380cadce4d15783d7510d77d0c155a91c38bc5571d1eefb/pyPhasesML-0.2.5.tar.gz#sha256=f96d2b4acec76a3bb2311df1d85bd5be5d8bf567770dd2c081c57b7a99321aba" data-requires-python="&gt;=3.5" >pyPhasesML-0.2.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15942776-->
+<!--SERIAL 17130215-->

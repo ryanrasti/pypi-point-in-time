@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sigstore</title>
   </head>
   <body>
@@ -60,6 +60,8 @@
     <a href="https://files.pythonhosted.org/packages/32/85/7f5594ac1726fd3689b06ece1247f004e6d1a0b8b714ef59e5e6c7f10a6b/sigstore-1.0.0rc1.tar.gz#sha256=739b9244df3fa4ca16425e7fdab99d0f685ba7f2e738dc8c844429744e95b366" data-requires-python="&gt;=3.7" >sigstore-1.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/87/2c/629925f43ef5f531b309ac6456fdb0fa62cec6593d432fd95cb501eb4a28/sigstore-1.0.0-py3-none-any.whl#sha256=19e96ca2049fd25233f289d3651bc2be41bb8b0a61bb053fc486be6b851875a7" data-requires-python="&gt;=3.7" >sigstore-1.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/cb/581f9dda4635fce04cd7db9e3ca20c08c6bff83f58e1a901460b1f710233/sigstore-1.0.0.tar.gz#sha256=0803f44914d6d12dcd53a112ae7f63714c61f31fd91b07197b3703c28366eea8" data-requires-python="&gt;=3.7" >sigstore-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/fc/a788fb19680470a94fa2cc39f8a17f339019193013595757b0e50a035f2a/sigstore-1.1.0-py3-none-any.whl#sha256=890d6898788649209daf182661d59512f33f2947a580fc70f73122c1f361f1a0" data-requires-python="&gt;=3.7" >sigstore-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/4d/c830848fc6c448f7488652000bb2a6eeb4007aeeb3cd3533a5af034deb7f/sigstore-1.1.0.tar.gz#sha256=201d9d70f72c98f5e9ae46b7254371c0c25b7ca30df8a5cc60ccf13ed0eadb0b" data-requires-python="&gt;=3.7" >sigstore-1.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16418533-->
+<!--SERIAL 16638051-->

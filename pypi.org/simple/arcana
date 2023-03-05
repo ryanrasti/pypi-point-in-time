@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for arcana</title>
   </head>
   <body>
@@ -69,14 +69,22 @@
     <a href="https://files.pythonhosted.org/packages/0a/de/100678e2e2ab5cd60f5db7d3538406e52c05b8e15d3d622daf19bb37e9ae/arcana-0.6.1.tar.gz#sha256=04c15591f24841c733a24e5441821e484f02a232f9f698bf904ec2fcbb13fe5b" >arcana-0.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/76/cc/5bb551d7845de0784bb2b3b2dce8851b7ed03aff2dc84431fd6e272a9313/arcana-0.8-py3-none-any.whl#sha256=6ffbb6ce1f6f89b7094140c56b3fa7583a5b31b8e98665e6256b31ffa0fd1d7e" data-requires-python="&gt;=3.8" >arcana-0.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/78/13/a2d58ac003a75ae3e69caef0bfd0c41043c477af51b68f24b66722b8eff9/arcana-0.8.tar.gz#sha256=34000e03948e270d66f166d40335fa944f08cf71063c86b4eac309033a50f592" data-requires-python="&gt;=3.8" >arcana-0.8.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/e6/a6/33841dbf799446661f0f9306edcd03e079afc61fdacc87406d62af10a189/arcana-2.0b.dev6.tar.gz#sha256=0fba2791fce8e1f6d6a7dca26249dbbfa7e07dd379dfe760769b69d56cca553c" >arcana-2.0b.dev6.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ee/d8/34e3a790cfb925e45b6152c010148eafe66d79696116b97d18aca0b8fbc9/arcana-2.0b0.dev6-py3-none-any.whl#sha256=defb2d8096beab9b424c5183a305d08a3556e8c069497e55461cd213091361f5" >arcana-2.0b0.dev6-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/52/41/ffd0cd657b42928ce07fe0222e19b44c844d1bf899545f397c4c86bf8fcd/arcana-2.0b0.dev7-py3-none-any.whl#sha256=13d57714177ac30cec2312efdd988bac436016f22df4a9e1e1e55ce8cc44b42a" >arcana-2.0b0.dev7-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/10/9e/3c3b2f727aaf50d3a2b3f389c49e797ace1c93bdb291d5708ae371b555ec/arcana-2.0b0.dev7.tar.gz#sha256=41a74b975a9a7d84ce4794a00f11915f7c0d446bfd654081ab1f4484c862d63c" >arcana-2.0b0.dev7.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/89/d0/221922c4dc54ff0bc4f8c159ed911e22093c5165a20b7607e0c13b339255/arcana-2.0b2-py3-none-any.whl#sha256=5544bf93afc549e70a584e31b90463e5c780cc66e4c2d3471f09c6a465497b4f" data-requires-python="&gt;=3.8" >arcana-2.0b2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/d8/43/71640e43b1ab616df14e02e9190e20fb105df8f3bdaf155e8f34de1414ca/arcana-2.0b2.tar.gz#sha256=6023cce997f39ebabb50c7199338ab1cb92e1be44ee417b2d756b4b5368fe028" data-requires-python="&gt;=3.8" >arcana-2.0b2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/c7/ed/5da57cd9b35693858131f4d7c0e457eb73c96f842d2f0ae8155b9556353e/arcana-2-py3-none-any.whl#sha256=de97de5d9a842ff74c8b45eb249ac7a839f87b0ff61a9d8c105ae429b90f1204" >arcana-2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/c8/04/3b0b7919448346c2240010649b41ef4f3782ccb2a42119591f5b151141f7/arcana-2.tar.gz#sha256=a9e3357f51e91d97e498e93706d750d5c76d449b6ea9bf0e7faa93ef45c62055" >arcana-2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/7b/e2b0b5c5cc28a7f78d4233a395a5bbf61884a749cd015d64c5bafc8dd4dd/arcana-0.9.0-py3-none-any.whl#sha256=859e37e11e8ed16af73054e049caefc252413caeb832a643cb9884b178658e90" data-requires-python="&gt;=3.8" >arcana-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/2b/7f9df4c0a14006f7c7b660cbb2e9e685effe6d59f84212862bbbf6fce968/arcana-0.9.0.tar.gz#sha256=edcc72c06316334355db571b9db3f4b652249ac2a27c837dfdc081c656450656" data-requires-python="&gt;=3.8" >arcana-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/a3/ce64c3314a947c90d797588b7657d2615ff9df24d51785b51adf8ac8791d/arcana-0.9.1-py3-none-any.whl#sha256=1ec6bc24ab159f3237dd6a6a687284285c8e6115fdd5babb913f5b644e9f2ac5" data-requires-python="&gt;=3.8" >arcana-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/ac/7bb9e84853f97633ea644b92e971d692912a464942f3553d102f048e5470/arcana-0.9.1.tar.gz#sha256=896d0eb92e04916b1f9df1fd501e7114592f4d182776aaafa47035ddec8304d2" data-requires-python="&gt;=3.8" >arcana-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/07/c5dd84ad9a20f34019b0697fc851ea7653f96e3407c83bbefb8b83e16ca5/arcana-0.9.2-py3-none-any.whl#sha256=d39ab6d2e3fd3f19210fcad813240c23ad84da3f5d2eb3176e2291401e4f5c7b" data-requires-python="&gt;=3.8" >arcana-0.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/88/e3bf1a86a1ca65639c8299bdc183abf1a7175b395890c5decb2daa6ae551/arcana-0.9.2.tar.gz#sha256=d087ddbac947aaec4157f728b3f739d83ccc2edb51e72f028bb64a3148d9559e" data-requires-python="&gt;=3.8" >arcana-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/f4/e244218588c48b553f99b15aa941e4682f26e3ab2cf415adf05d2167b80c/arcana-0.9.3-py3-none-any.whl#sha256=d86347c2df5a7771a508a17a7cd79a84ae1e74b9fb0f9b9474ccadb4df5f496e" data-requires-python="&gt;=3.8" >arcana-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/cb/e76515d708d5d658b4584c5f93ae3d9672098288526896326a5ba5dce3ec/arcana-0.9.3.tar.gz#sha256=f6f75488c897e48a0c949d5489276199799cc63d957ca2f3a4c9e3be6d590ffd" data-requires-python="&gt;=3.8" >arcana-0.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/a6/33841dbf799446661f0f9306edcd03e079afc61fdacc87406d62af10a189/arcana-2.0b.dev6.tar.gz#sha256=0fba2791fce8e1f6d6a7dca26249dbbfa7e07dd379dfe760769b69d56cca553c" data-yanked="" >arcana-2.0b.dev6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/d8/34e3a790cfb925e45b6152c010148eafe66d79696116b97d18aca0b8fbc9/arcana-2.0b0.dev6-py3-none-any.whl#sha256=defb2d8096beab9b424c5183a305d08a3556e8c069497e55461cd213091361f5" data-yanked="" >arcana-2.0b0.dev6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/41/ffd0cd657b42928ce07fe0222e19b44c844d1bf899545f397c4c86bf8fcd/arcana-2.0b0.dev7-py3-none-any.whl#sha256=13d57714177ac30cec2312efdd988bac436016f22df4a9e1e1e55ce8cc44b42a" data-yanked="" >arcana-2.0b0.dev7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/9e/3c3b2f727aaf50d3a2b3f389c49e797ace1c93bdb291d5708ae371b555ec/arcana-2.0b0.dev7.tar.gz#sha256=41a74b975a9a7d84ce4794a00f11915f7c0d446bfd654081ab1f4484c862d63c" data-yanked="" >arcana-2.0b0.dev7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/d0/221922c4dc54ff0bc4f8c159ed911e22093c5165a20b7607e0c13b339255/arcana-2.0b2-py3-none-any.whl#sha256=5544bf93afc549e70a584e31b90463e5c780cc66e4c2d3471f09c6a465497b4f" data-requires-python="&gt;=3.8" data-yanked="" >arcana-2.0b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/43/71640e43b1ab616df14e02e9190e20fb105df8f3bdaf155e8f34de1414ca/arcana-2.0b2.tar.gz#sha256=6023cce997f39ebabb50c7199338ab1cb92e1be44ee417b2d756b4b5368fe028" data-requires-python="&gt;=3.8" data-yanked="" >arcana-2.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/ed/5da57cd9b35693858131f4d7c0e457eb73c96f842d2f0ae8155b9556353e/arcana-2-py3-none-any.whl#sha256=de97de5d9a842ff74c8b45eb249ac7a839f87b0ff61a9d8c105ae429b90f1204" data-yanked="" >arcana-2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/04/3b0b7919448346c2240010649b41ef4f3782ccb2a42119591f5b151141f7/arcana-2.tar.gz#sha256=a9e3357f51e91d97e498e93706d750d5c76d449b6ea9bf0e7faa93ef45c62055" data-yanked="" >arcana-2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16220444-->
+<!--SERIAL 17054381-->

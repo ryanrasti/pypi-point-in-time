@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jinjafx</title>
   </head>
   <body>
@@ -101,6 +101,18 @@
     <a href="https://files.pythonhosted.org/packages/dc/84/038804a5c783f38ddf4f8157c5d1c11936173ed9b71ee1d0c622ff3cabc5/jinjafx-1.15.0.tar.gz#sha256=ba44cd7d1ab4fdfe06fdf05c66b54ba1b9edbe3dbd77f190150ffb039af8b46b" data-requires-python="&gt;=3.6" >jinjafx-1.15.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/c3/09699f80ebadd80f56f78f8a741298e34da2942f63b8c23c7aedcb2a5228/jinjafx-1.15.1-py3-none-any.whl#sha256=7ab87b0c9ee14a3088d88c5f60c0c2e9a714ecebd75ead89d9bf9422cfb832d9" data-requires-python="&gt;=3.7" >jinjafx-1.15.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/fc/da18082cfdbab3d9a32d27dec46db9efc680aa900b78cff2a0b2cde7e7cb/jinjafx-1.15.1.tar.gz#sha256=a6d92f8524571f064d56cd6fe7b83fcdf7f48b316b9885a5081684a106f92e22" data-requires-python="&gt;=3.7" >jinjafx-1.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/03/052a273e8abb972b0a3a1fc77481f59260f2d491fcd0f49b8fcbafabe12c/jinjafx-1.15.2-py3-none-any.whl#sha256=eb1a755da3776448a73411213239b111dcd781e3563b4ccc1b0aa052af284c73" data-requires-python="&gt;=3.7" >jinjafx-1.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/27/9dae2441ca005dba36efed06e2723ef24f18281adf16c3399d38ce35b9d6/jinjafx-1.15.2.tar.gz#sha256=6c53cd9bcdd0e697d66f9b1533d7fe32b8e05325b4800f412bd9531df332c7bd" data-requires-python="&gt;=3.7" >jinjafx-1.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/10/a155203a5c8b4df32ead2e4cebb15782140dae5a94ce2b79b5c065d034d4/jinjafx-1.15.3-py3-none-any.whl#sha256=37b906b432041fd6818ea836ad3f3da53bd2deaa1e20c236176342b6c8de2d37" data-requires-python="&gt;=3.7" >jinjafx-1.15.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/99/9623c65c7bea4ff26209ee67a221f8e1d94abe6cc518e9390baffa4538ff/jinjafx-1.15.3.tar.gz#sha256=666e4012d3ff225df864efd937c75700c2f72d9825c1c09a2fc5778711eb1c7a" data-requires-python="&gt;=3.7" >jinjafx-1.15.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/3c/dc85f9ae7ffa81035d0d5928041899ffdae5b50c3d6aef3a58c4b3d58e96/jinjafx-1.15.4-py3-none-any.whl#sha256=767d5c3b0dab523c0ab92da2b1b72c7f5f310d90fcaab84e8e599211bcf0b7bb" data-requires-python="&gt;=3.7" >jinjafx-1.15.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/d5/ea6c5bafff18628ed55857955cc6327aaa6207584e364ca27ead566aba8b/jinjafx-1.15.4.tar.gz#sha256=d831024fa822a39df710b61acc3824d54cbcd131a222c0e4c81b4a7551c6d617" data-requires-python="&gt;=3.7" >jinjafx-1.15.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/ac/834249496707cca4bf72eae284d2466ea2c0c029aec57e4552a1215dfe04/jinjafx-1.16.0-py3-none-any.whl#sha256=d6254bcb88a8ec2fb6edf9894cb808994b4c9731e827a3f8db19e733c43b6276" data-requires-python="&gt;=3.7" >jinjafx-1.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/f9/edf71e467b13546790be4660cd5d614d295a48800869c38a8bfde5d71354/jinjafx-1.16.0.tar.gz#sha256=95db8f6ea1e9678ef5c963cfcdd4397b850fa1684f8cbe2dbea92df9a15b827a" data-requires-python="&gt;=3.7" >jinjafx-1.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/73/b60e884e8acf59785c0a93bfb27d4f1fbcd9dc7da793973af6ccf63eb6e2/jinjafx-1.16.1-py3-none-any.whl#sha256=09a28d2803e01b990393a9f7a36fa9971cdc2f1e6bfc8a804507a319859e8ebe" data-requires-python="&gt;=3.7" >jinjafx-1.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/65/33043f90a0006f27e2e9795c4b4e9631c83cf5dfd014e421e4cb70f02fd5/jinjafx-1.16.1.tar.gz#sha256=39f1a57ebe0bfdc6133550dacd391dcd9103e6e815b4c2c9b77bca3ba3b9553b" data-requires-python="&gt;=3.7" >jinjafx-1.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/16/6c9c0382088762d9c6092429916903a10615ca424dbf106cbf9b4bfe09f4/jinjafx-1.16.2-py3-none-any.whl#sha256=d7f24f6669c5d357bbcc542e3e6ce27b473d78397eaf6b6111011eee57a52369" data-requires-python="&gt;=3.7" >jinjafx-1.16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/ae/4b03e67491f2723d02b73d2d72e23e1ba27c6242b9e6a5b0d4ecf7284027/jinjafx-1.16.2.tar.gz#sha256=adbfa377c1b9a4a5e6778151fee063ba2cb668812a51e46aea3e78f275efb43a" data-requires-python="&gt;=3.7" >jinjafx-1.16.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16260145-->
+<!--SERIAL 16959829-->

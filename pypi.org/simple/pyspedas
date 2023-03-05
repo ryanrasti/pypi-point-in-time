@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyspedas</title>
   </head>
   <body>
@@ -400,6 +400,16 @@
     <a href="https://files.pythonhosted.org/packages/48/f6/14e535b7f5d11f6d357f7e49b563334c59955cdcf4c56bd6a43ba86e1ca8/pyspedas-1.4.17.tar.gz#sha256=13da254625569da608ebab1c2d1adfc5fc8b37a51f0716597da20e1d40d1ea22" data-requires-python="&gt;=3.7" >pyspedas-1.4.17.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/d7/eb12c803a1380d499423880fdeea4f53dcd74634fe014c0c62389de9272c/pyspedas-1.4.18-py3-none-any.whl#sha256=32a68639c450787b85d869e23c2fc994b938645b47afa37c473e412d8508e982" data-requires-python="&gt;=3.7" >pyspedas-1.4.18-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/9e/3edf9966714a143db59f3bfbaf83574f97062c60c9e0b8be0d9391cd0e0c/pyspedas-1.4.18.tar.gz#sha256=7fb99de0f99678e5fe5cf3a535bc3bc062ea8261f9534839c5b56a138bd1381a" data-requires-python="&gt;=3.7" >pyspedas-1.4.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/36/b34c0e4b5371d90f4889af089ed40bcc347305299870c68c209222e40048/pyspedas-1.4.19-py3-none-any.whl#sha256=bd8e028cc6dab89e548a1ffc6c4b1b02451ae442d174aa409183633377d97e2a" data-requires-python="&gt;=3.7" >pyspedas-1.4.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/bc/62e86841c66e462aa580f97d29873bbdc2fc25a43b98dfc79a6fed2ee600/pyspedas-1.4.19.tar.gz#sha256=8d2b9b08170a021477568a0fc5ed881381653a2165ca652aea122f30c1ddff46" data-requires-python="&gt;=3.7" >pyspedas-1.4.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/bf/2bd3001a9ec6b818d383e98680d57a18e5c6ee64d05c7be390814921302c/pyspedas-1.4.20-py3-none-any.whl#sha256=c51bb0436f74719feb3acda2553e87401f696950f72990a4ff0f9bf6b0c64c62" data-requires-python="&gt;=3.7" >pyspedas-1.4.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/25/0472a86d78c6039db9b9f2b620e68ee78199b819d6087bf76b204dba8cfa/pyspedas-1.4.20.tar.gz#sha256=b7a787bf79f8f5223248a8ca893fc3e982d34dc6a3576316823fbc7434845cf3" data-requires-python="&gt;=3.7" >pyspedas-1.4.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/c0/f067635f84b0c8fe0dc67940ea13235641dfd2d28c32ca977a2db321af1e/pyspedas-1.4.21-py3-none-any.whl#sha256=70ea4042ce5114833ae5fd85b4fef1d4b984e635b29f1b84dc6e6aadca3eab56" data-requires-python="&gt;=3.7" >pyspedas-1.4.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/a9/5582c224d7883e0702fb41c2bffbc9253f1d58613ed60f1b34704e89648d/pyspedas-1.4.21.tar.gz#sha256=2aff9672acb7dbf776f0a24cfc00f6985764f3c58e20413b1bfeb248d6f85c20" data-requires-python="&gt;=3.7" >pyspedas-1.4.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/e0/24bded215c349439c143fe2af2725c97a593687625bdfc861d1557b7f666/pyspedas-1.4.22-py3-none-any.whl#sha256=07ec727dbda8f5927b7e0584f57c3bd9ee4aacbd572e14676032d4ea28e9530f" data-requires-python="&gt;=3.7" >pyspedas-1.4.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/27/784689a14b9d8e5272812942b11e533931e974b52578b60496b835a5ebf5/pyspedas-1.4.22.tar.gz#sha256=b18a2c7d79e26a9b6496f7ba81449faf5ed62cb2caa1ddb6ff20d7ee88791f8e" data-requires-python="&gt;=3.7" >pyspedas-1.4.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/52/81f58b01b05bdfd242d98d0591d06299422e793587283d22b6f46ce7ad7e/pyspedas-1.4.23-py3-none-any.whl#sha256=a140ceaf1305a839810b10915d5855f48582c8ee8f4ba4513cf98e1aae3af54a" data-requires-python="&gt;=3.7" >pyspedas-1.4.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/e6/9f9f8b83a6a368ba4e89662b3ec39f7b92bc8e849f15fe51c45dd9750862/pyspedas-1.4.23.tar.gz#sha256=c0b232308252f82587132dd41b58315903a7443c5b7211ffdbc969a0aceabbba" data-requires-python="&gt;=3.7" >pyspedas-1.4.23.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16422048-->
+<!--SERIAL 16687772-->

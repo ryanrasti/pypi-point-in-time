@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sk-transformers</title>
   </head>
   <body>
@@ -40,6 +40,16 @@
     <a href="https://files.pythonhosted.org/packages/70/d4/f8041b6dc28fcbab90ea394425ac83b141239dee746f10366bf1e8e7740f/sk_transformers-0.7.2.tar.gz#sha256=e49b1bfcde1f632bb97aa264784c910fc39eb4c5c2bf14d46e254e21670fed08" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.7.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e4/9a/a2f8474f7013364c1cd6f6629fe0d75a070083e27ba3d8e4ab54428f6414/sk_transformers-0.7.3-py3-none-any.whl#sha256=41c794dd3bf5ad10172b57e8fefcf167a1e4a6044d4ff2d7264436648c1e0a66" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.7.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/16/73b59ceaedbf31bac71a5aa281a7abdcf07458e3e097591d44309826aaba/sk_transformers-0.7.3.tar.gz#sha256=76083e3144c6a323b895fa19da5b9e69c859548ab591728518d539f4442c0755" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/c2/cef5aa2b37c7d02279aa4d7b2d0c47b900d252c6e4e9731615ce594fb39a/sk_transformers-0.7.4-py3-none-any.whl#sha256=695b399250c625cbe09c97abb2981d268c00b742ddfbbbb31342b513137c105f" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/69/24080eaf75d7204d6fa44893910b1de33649fe86f4335e3612bdc7de1642/sk_transformers-0.7.4.tar.gz#sha256=01930f5de3ce52c798d3a0d5d118a8c8a29ec165c391ba0c29d633def07367c4" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/76/13767474d358e4a2cbd4252e927aa0713ef177e32b0333d6cb4c31f15702/sk_transformers-0.8.0-py3-none-any.whl#sha256=67114600cbf05cbccf80d3d37a023c1d48e5337a97c4d5365cb7192c7713c236" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/61/319592d798542d41bb0a7afcad46dfbf5696b2568d9f46043ed3d3c90b9a/sk_transformers-0.8.0.tar.gz#sha256=dd6d156862016e79002a008b3567d6ccacf812fab14d62d6c5c617d9d4597553" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/d2/2b019667b5e64be162c668c6d0c0ed513af54bb02f1eb87ae235225780b9/sk_transformers-0.9.0-py3-none-any.whl#sha256=18b79fe6df28fc65ca5d5b338e45604278eb0fcb41bd96877353795131bdb68d" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/2b/411fc57454bd19db5aa1281490b9dcb0f213c4831a87dcfe0f5c4714b4aa/sk_transformers-0.9.0.tar.gz#sha256=16a48ac769e212ebff6fd0e5af6a4d2f1ef2c5ab9cf5992b9ae17f1dafcd4b78" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/06/fefbb04008bc930bce49363e4fd00bddb61cc5631b6c151220a260e65e15/sk_transformers-0.9.1-py3-none-any.whl#sha256=95ed77889a490d8b8cb8a928b6ecf340038b56fca2d0f16dcdd5225dd0e5c8cd" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/a4/ce45c10ca9075c08e23570453e2d0833ea58cd9c0b2a55e273d57a9393e8/sk_transformers-0.9.1.tar.gz#sha256=241e5228695ef923a364e8bb70a1e5f5fb1fe72e008261de2fd633c1b4d1496a" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/8b/686509a7ef84e16830e8a26fa1692dd2ee4a062047b952b9fc220eda7c0a/sk_transformers-0.10.0-py3-none-any.whl#sha256=5de1484a1df71995cfaa97d3467d8ee4adba08df874bdb43018a38aa43f7b917" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/86/c5edd348dc8b8d46ef4370feaa9d05f5f80d6061a45feeeeb4ab557085af/sk_transformers-0.10.0.tar.gz#sha256=7050fd276199af982a473ee8f96e5912926d1a4c80ec06ffbf858a5f7fcba564" data-requires-python="&gt;=3.8,&lt;3.11" >sk_transformers-0.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16400395-->
+<!--SERIAL 16575245-->

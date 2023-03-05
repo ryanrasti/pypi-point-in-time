@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pulumi-github</title>
   </head>
   <body>
@@ -161,6 +161,17 @@
     <a href="https://files.pythonhosted.org/packages/a9/19/3470e63e0e6899aadf121a917cf4c64c3dea4c5b4322733d13a1a4382987/pulumi_github-5.2.0a1673638210.tar.gz#sha256=28b4b351c885e99f29ff3a96e41cc7776bed5e6035185c0d3d268ce3eb7a9dbc" >pulumi_github-5.2.0a1673638210.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/8c/2767f3677f8f4ea20d44b518dbd1abe7aa386cd2af1869c358f1dcf9582f/pulumi_github-5.2.0a1673641552.tar.gz#sha256=c433fff26f0ca45ff1cc83dbcc6530d35e70c819bb77af97906e4cc095023ef1" >pulumi_github-5.2.0a1673641552.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/65/d4107365898d05e2fc684cf3abbd37599354c61ab6fb5a171dba698d4303/pulumi_github-5.2.0.tar.gz#sha256=c31f0aa952b170acb85e93747a40d21d94ae9d55ac49a489d0c09c57d535470d" >pulumi_github-5.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/bf/a1587e6bb6bf9b3e4adb9bbc22db2059950e8657023111d7400b5109807a/pulumi_github-5.2.1.tar.gz#sha256=7942d029490361b8cc4656288d869deed158f9d5ff8447fdc90cea7044e28923" >pulumi_github-5.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/46/1efee8fdc02e10a3f800327331082c9944e14a53c5cb1b6fd9c6c8894b2d/pulumi_github-5.3.0a1674068358.tar.gz#sha256=fa64a687a86447bf78d7d46814e7329d2f552b2dedd6e7d2f62b66a066d1cb32" >pulumi_github-5.3.0a1674068358.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/33/02137a10f98b2a012f670d8672367c995b6c2b9c3e737f856493ebc270f5/pulumi_github-5.3.0a1674582786.tar.gz#sha256=262874b73f9efa334a06b403425ac1ce92fc1360f024fc7221437edf0ec1375c" >pulumi_github-5.3.0a1674582786.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/cd/a3324e81a8dbb15b1f988fa288b37c4d78027d0825d20641e06a49b799cc/pulumi_github-5.3.0.tar.gz#sha256=4514b8cc9945f8f33cf1aa0c834ae2d12af9041427e98386c71df8999a43c32a" >pulumi_github-5.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/44/b66c41975c66a4b769e43df1c90c4e603acce478b77429fca4d8c1b25b65/pulumi_github-5.4.0a1676333155.tar.gz#sha256=31a1914650d14852c036d03a024acae843774851b06a300fe83979a331145e3f" >pulumi_github-5.4.0a1676333155.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/8b/54ca11d6ea5517ebc61345b8679aa4f575cb5f60cb7d0811dfb575f7b145/pulumi_github-5.4.0a1676395162.tar.gz#sha256=7b1a4a077e43900f83bfe5fc08a38d58fed3134be3b65491ab1f4aeea87a8bed" >pulumi_github-5.4.0a1676395162.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/a1/438f70b72f9a1730447f2d5c0ea394ca1910fec65b27bdb1139c899cb681/pulumi_github-5.4.0.tar.gz#sha256=fbe638c7f618fd941b17a38e2ecf6fd4ecfc6efe45a6273834f3c81ddc7671c0" >pulumi_github-5.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/23/e110a4f742a1514f5d75e5381ec3b1dc37da8d3d3a96bd09768f61b4c053/pulumi_github-5.5.0a1677491223.tar.gz#sha256=b340653693d3be5790169ec05b587ef0711950adfcdf4bfc4e58c0f270659d0d" >pulumi_github-5.5.0a1677491223.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/33/33d0a072dd920ea28bc37b52420ab451d1fc639101b999e459e37e964fd6/pulumi_github-5.5.0a1677508679.tar.gz#sha256=29959655f75dd0697f81c37a963929d53f75d6bfb9d591c64c732592f52343cb" >pulumi_github-5.5.0a1677508679.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/03/c735e1db76a0faf007f32aa0f1d53f71ed3bacb26185a68749688ae3580d/pulumi_github-5.5.0.tar.gz#sha256=59fa9680e8c0d649f9e30b46570ae59989d145a2fc7640bc17c953d22d48b2fd" >pulumi_github-5.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/bf/8590ff9315c49c7178856862699b969d1b377131ec9577eb47c0b0c45c40/pulumi_github-5.6.0a1677783070.tar.gz#sha256=02ed1b7bcf1a5c2d19f7d80ec19f61a8f5dcf63f92673c825c3b2677f9cd5c6c" >pulumi_github-5.6.0a1677783070.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16421712-->
+<!--SERIAL 17133804-->

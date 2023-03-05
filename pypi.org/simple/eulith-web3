@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for eulith-web3</title>
   </head>
   <body>
@@ -26,6 +26,18 @@
     <a href="https://files.pythonhosted.org/packages/24/02/ad429d8f99dc7f6df926ec79b149f27656690e1b651331465eab6ca851ed/eulith_web3-0.0.9.tar.gz#sha256=6bf65f05e9617faaf6c3439981afbac7447eddd6f93c77a4c42602148252762a" data-requires-python="&gt;=3.8" >eulith_web3-0.0.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/bb/e7dfd24ef95457d077241cf1496bbc1b7a418a1531e862983ac186e0c1c9/eulith_web3-0.0.10-py3-none-any.whl#sha256=578e7c818e3b2a746cdec3fa12de108f4afb45d622331daa8bb165beadfabe30" data-requires-python="&gt;=3.8" >eulith_web3-0.0.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/74/3c/e073d236f5d725289d5f9ed2ea5db749fb050d6cd3063ed763822b08e8e9/eulith_web3-0.0.10.tar.gz#sha256=77a8aeaf5b71f3cb7d588fe4d0166134374d5908c80fcaa4f0a71a5835a97688" data-requires-python="&gt;=3.8" >eulith_web3-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/f2/9da2e5497b865bd1086cfd22d6fef6079bc52e13d0d265bd000d5f323781/eulith_web3-0.0.11-py3-none-any.whl#sha256=9aef5028e37488d95fcdeab9c67929338f729d1d9fb9812028315414e73f5742" data-requires-python="&gt;=3.8" data-yanked="patching new feature release" >eulith_web3-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/32/63cfa62c560f1e52bb3ccc6be3e5a3d9d4e2c29b854a2ccbb23c8ee912e5/eulith_web3-0.0.11.tar.gz#sha256=00feeb5d33261454a91c0b7d43cc74413fd92f211d88741e10dcb9c020607529" data-requires-python="&gt;=3.8" data-yanked="patching new feature release" >eulith_web3-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/39/0e7803b72f1137fda8ae0337d88d3ae373ebaeb66673d4bb15654ee7fbe1/eulith_web3-0.0.12-py3-none-any.whl#sha256=0b7c0928568b731cc887824fe0f703dbd0e245d63021c5c939d3aaeecec09f9a" data-requires-python="&gt;=3.8" >eulith_web3-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/07/2f163d6480ac5bafff6568e92c05921106b0cf04beca3b8ecbc8d01e093c/eulith_web3-0.0.12.tar.gz#sha256=c517c08a82b6b7f2ae4354b81542d341d550788a244cce2ff90891c087ffa15a" data-requires-python="&gt;=3.8" >eulith_web3-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/ff/43eca2a9f4da08168385b21e4645dc86c10286ab81cf2ae25c75a1412b0a/eulith_web3-0.0.13-py3-none-any.whl#sha256=87db7bcdaa2494b17d8d0412053ed047f437a841f6a47fdd282adea12cb558a2" data-requires-python="&gt;=3.8" >eulith_web3-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/f2/4430bfdc9bef1301817a4f4fa4a8ba57144bacefb4835d33116efe8e7215/eulith_web3-0.0.13.tar.gz#sha256=2a11bcd47219eee481740fcab5aa679d6d0c9a1ec1e0de60c25cfd1b0dc7e218" data-requires-python="&gt;=3.8" >eulith_web3-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/15/3ed615fba95d21648e19ed4c537c120f6a7a02369b927adbb788322cdb3c/eulith_web3-0.0.14-py3-none-any.whl#sha256=4bfcc86f8c38c1047384a1e530704460ab8ebdeb0240ed415a8b9c408205c3e2" data-requires-python="&gt;=3.8" data-yanked="wrong example code" >eulith_web3-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/5d/d4ca0f21fdb67d49f6fa063e54fd312bb187f311023d59506269bfcbce1d/eulith_web3-0.0.14.tar.gz#sha256=d5472377fb12830c9c512b014f956a10b047f1849525b81b1e354447d43b8833" data-requires-python="&gt;=3.8" data-yanked="wrong example code" >eulith_web3-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/86/22bea642b6e21dfeae7050c7aacceaf4e957089fc55e2d22062ef8326fce/eulith_web3-0.0.15-py3-none-any.whl#sha256=f493c80ebdc452971a339c05f70a1e96acdee5b7a0c298831b6c78c022d89d9a" data-requires-python="&gt;=3.8" >eulith_web3-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/a0/1d6b7b05181e1097b70040d6b1cb45ea710eabc9c0a2aef41f052205847a/eulith_web3-0.0.15.tar.gz#sha256=227b3ec67fe7ac2596b42fd3865376dff783b8377d3f28196a66be35b132886b" data-requires-python="&gt;=3.8" >eulith_web3-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/47/6aae8609f3ae3183bab6d6e856e7e1d79a87857d91460905d7905c559a3c/eulith_web3-0.0.16-py3-none-any.whl#sha256=b30d701e1654cb9f1e4619afd33f003764c96a0cc6e42b5ab43ee1b9621d401f" data-requires-python="&gt;=3.8" >eulith_web3-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/4f/10dc4bbacd13e4b6d4cd137c500422b9f34b43b5d307a58d900689b11989/eulith_web3-0.0.16.tar.gz#sha256=91190ea78cb71aee0105ebf53e568a7c17dc8153b62a38fcb396c5138e6cdaea" data-requires-python="&gt;=3.8" >eulith_web3-0.0.16.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16355263-->
+<!--SERIAL 16951058-->

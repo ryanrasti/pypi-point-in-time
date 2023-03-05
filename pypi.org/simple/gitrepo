@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gitrepo</title>
   </head>
   <body>
@@ -44,6 +44,20 @@
     <a href="https://files.pythonhosted.org/packages/60/0b/468aacc8d13b12d88eca74a77fd3908a658b68fcad957f2f066eed11e688/gitrepo-2.16.7.tar.gz#sha256=f87cf1e738ed3ca17dfdf43f5be544b7f5eaf1f7f4ebac36891721d971ef72bd" data-requires-python="&gt;=3.6" >gitrepo-2.16.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/a6/c962b64be1f40905101aa1f4af67ed07ca7ea35715d97640ea5df5a0a7bd/gitrepo-2.16.8-py2.py3-none-any.whl#sha256=af4195214642ef10c270a7d608afc9ef79084f1be18965f11ac0b19e158e87df" data-requires-python="&gt;=3.6" >gitrepo-2.16.8-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/bf/4e8c4b096b5a8f5f08e14e5465634a6e347855c9592180aa95c4d48a5c17/gitrepo-2.16.8.tar.gz#sha256=77a87bb2e127ce0dd5fefb000689e5505da373793b82a25b168423e977a1b8e9" data-requires-python="&gt;=3.6" >gitrepo-2.16.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/44/0e168f8501e63062b3c1ef61f7de584138c3b264223f7e96b80b85a0da5f/gitrepo-2.17-py2.py3-none-any.whl#sha256=fc7d227ed68736e72c6971af7b3276657c19596600296e4447a103955889f059" data-requires-python="&gt;=3.6" >gitrepo-2.17-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/1c/7ed85620bbd093ecf522700bc8b835029bea008b86bd99ff246f417739e8/gitrepo-2.17.tar.gz#sha256=c05b928a6da76f74e9fe55178f5beb33093be9bb2e7c206aef8bdc0bd46c79b8" data-requires-python="&gt;=3.6" >gitrepo-2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/6d/2e839a347a19fbc2e533c681691fbc6a09b414376c66651e1ea71cd3679c/gitrepo-2.17.3-py2.py3-none-any.whl#sha256=14921dc407815bbdc1c30279e828a6dfe49480dcb56fdd366df83d5c97e1c8bb" data-requires-python="&gt;=3.6" >gitrepo-2.17.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/fc/3137e3347379bc8fc6bd6475e385d2d12268dadde327873cc1ef564c9e16/gitrepo-2.17.3.tar.gz#sha256=ea49c147e2e786fbd426dd79dfe86ff55c584f3e21b544bbd6b7f7cd2de59eab" data-requires-python="&gt;=3.6" >gitrepo-2.17.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/d7/817d8b68e73613c2da63b370f4cb7755cc193cbfdadfe6c6acb78d5db2df/gitrepo-2.18-py2.py3-none-any.whl#sha256=7c04227dd477835107ae24cbe5f767fa6b7b49a31377d3804530f4168ae51150" data-requires-python="&gt;=3.6" >gitrepo-2.18-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/61/c723f8d4195d656feee1873249d36f2a1c35c5298875fbce7190fdf443f4/gitrepo-2.18.tar.gz#sha256=f69e2a909a90bae29c767991746ab7d2e08206299d34ec60c249699e1cb16092" data-requires-python="&gt;=3.6" >gitrepo-2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/e9/f43504c9f105b9b3c7b3b8e00d3645c12918f72dc771b8ad3ca7ab9a0231/gitrepo-2.20-py2.py3-none-any.whl#sha256=dcb2ac12dfbb212688dd6a61d604038943aa85bde665030c049db68122a119d8" data-requires-python="&gt;=3.6" >gitrepo-2.20-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/ee/96628226f92f871505546aecf19542b7af5c661ffd40947b75ef1138796e/gitrepo-2.20.tar.gz#sha256=356435ae8786c9f33bc4bac4e279e2c62c75df6108cf2527a3c4371f7880761a" data-requires-python="&gt;=3.6" >gitrepo-2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/d8/b2546ea32bc5aae6bdfa4f10bcab0945bb4450f73b5679bdc5fe8bbd6419/gitrepo-2.22-py2.py3-none-any.whl#sha256=10bf8626ece2a3125b9aa6c2d250bd3f931df87578f5dfacaf3486be07a3e262" data-requires-python="&gt;=3.6" >gitrepo-2.22-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/4d/ef6572f134453a70cbccbc02790ef36058d1509af28ee21e9fcf0824a47f/gitrepo-2.22.tar.gz#sha256=5c70d6b8537456d980b0d718edd857733fc816d2e412ccc9200d6f86d07b8b21" data-requires-python="&gt;=3.6" >gitrepo-2.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/21/54da73f8c02b7d73b8d6b24b3cf5b1abc7213143bb955b3bc5352c6fe638/gitrepo-2.31-py2.py3-none-any.whl#sha256=5e9c200bce504916429c310a5000579bc7c543a0da1b3d42bcbb9c4da697ff91" data-requires-python="&gt;=3.6" >gitrepo-2.31-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/2b/30deb88498b3324cd0e6157f14921ec8b7bd9159c454b59744b2abed1dae/gitrepo-2.31.tar.gz#sha256=d7051750d2b9ebe1758d561ec54c7836fd5ecf974bcc041d5a6eee72aa047a0e" data-requires-python="&gt;=3.6" >gitrepo-2.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/db/35f0e4121442aa12128410c93949e7867d75e827dcb00cde1ce97292b1d3/gitrepo-2.31.1-py2.py3-none-any.whl#sha256=94e97057bb1f416dd0e40e4e05109789a35928ba9c0419c926a4a51e70c8b835" data-requires-python="&gt;=3.6" >gitrepo-2.31.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/41/0e46f64884e86e62d6ed8420a20dc4500e9fc5d4d3262da81f229dd00d88/gitrepo-2.31.1.tar.gz#sha256=31f6745e048e4f2ffefdf82211c89427df8957d05310d69e25c8845f27d63e2a" data-requires-python="&gt;=3.6" >gitrepo-2.31.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15374641-->
+<!--SERIAL 16868748-->

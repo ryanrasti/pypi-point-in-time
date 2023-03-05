@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ipfabric</title>
   </head>
   <body>
@@ -236,6 +236,16 @@
     <a href="https://files.pythonhosted.org/packages/16/69/6b57b6a32a413ae2536c604c042419cf20ee7752b863eadf3ee4e5915166/ipfabric-6.0.8.tar.gz#sha256=fd48c5e952ea56c9c67b24dc88416d463bc5ccf151cbca81e2ab78d899129216" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.0.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/88/2b/d96e1bac5ab8bc020c235a1fbf740c932c962d6f30e4a1d566dcd014227d/ipfabric-6.0.9-py3-none-any.whl#sha256=a65f8df32c826efa93370fba2c55233e17e852d12cf8abde6afadeaaf1b6c722" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.0.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/86/8051a659bfd268473e365132f3ce1f6743dc3bde76b1f09ebd3c3b4e84b2/ipfabric-6.0.9.tar.gz#sha256=f56b71b8895c87bef806c6883d629737527278100aa4d91be283d5db86537330" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/32/27a04ea582f426e9572dd224f10397a60b0c0debc8f0e8fc694764351e49/ipfabric-6.0.10-py3-none-any.whl#sha256=22a45ac36199eb69226dc9213d0d3f4df8d0e156ff7982c9a7dd6ff80409b598" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/d1/1fa5f1cc4bf585539be42b778acac85e57abac28e926abec4fbead560b49/ipfabric-6.0.10.tar.gz#sha256=7dca65f77b14b5bda04ba76abbed0685b81d934e6b1f53a67c54bc8509ba9807" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/01/2baabc2bc9e7fdf092f2c290805f1ff8880f360dacbf1ab2ec798178d01b/ipfabric-6.1.0b0-py3-none-any.whl#sha256=b8a2746e5a01ceb2b30f47e0c437f34b51717a46893e87d09f0d3b8e96d10bf2" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/a0/5fac5a3a5f34888b73a6af38ae410aa97fe794065f07537389458de624aa/ipfabric-6.1.0b0.tar.gz#sha256=d3301356cbc05506f73f3eab9340586924fb59b29a1aa32b78f706320285a846" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/5b/474d33ce70b411dd392249e3b207e52667f268c057f03cceeb4af59746fb/ipfabric-6.1.0b1-py3-none-any.whl#sha256=9429868318d14dd2bc9c7267f03ac4d13a0efce3cca2e9ab99f6f890e56e2ff4" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/a4/566643a4729505ec7de3e5b143fbb86200f750d90a6f72fa2a247d3a5702/ipfabric-6.1.0b1.tar.gz#sha256=f5daab6a24dcd6b53950084669711e7a5b64ecab2f92d72b527d21819d7c4442" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/bd/30941c92c700fdcd6bfa85f2a8a6e38c94b8f31fd754326a40396b2ba9f8/ipfabric-6.1.0b2-py3-none-any.whl#sha256=3a6ad0008a5a52b7171e4cd751d723067a57cd93686b7b6607d12d6b394c2665" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/fc/8790075873921d6996c9ea0369f20a3ee73454141b8cb998256911d87ff8/ipfabric-6.1.0b2.tar.gz#sha256=38d5758e6b690e8f5021a7b86676a180649906f5b681e3469182e4103cbfd86e" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/09/2c63fc14e48d2549aa163e49069b69e2b816e262d761b2914f05bd8682dc/ipfabric-6.1.0-py3-none-any.whl#sha256=3fc5cdc580bd55d42b075dcf3c2a347a79fbca79515f92887acde3f68f97780f" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/41/25978bdbbade87f243b1001a9a9e80c20210d7787f5b4bbdc5ffca5c03f4/ipfabric-6.1.0.tar.gz#sha256=7627d8e392c6190124716b1b0e3419fb5c57cddc9a66bee1a2e5fc9d87dda81a" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >ipfabric-6.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16361287-->
+<!--SERIAL 17029008-->

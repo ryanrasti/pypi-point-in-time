@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django</title>
   </head>
   <body>
@@ -511,6 +511,10 @@
     <a href="https://files.pythonhosted.org/packages/02/45/371717cbed904aa95864cf2b28beece8e73f6314f1d2b26cba4c2890dbeb/Django-3.2.15.tar.gz#sha256=f71934b1a822f14a86c9ac9634053689279cd04ae69cb6ade4a59471b886582b" data-requires-python="&gt;=3.6" >Django-3.2.15.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/c4/f946a6b02fcbba84e56074f2fc36866433b009bea2528b09fe0bac4fe1aa/Django-3.2.16-py3-none-any.whl#sha256=18ba8efa36b69cfcd4b670d0fa187c6fe7506596f0ababe580e16909bcdec121" data-requires-python="&gt;=3.6" >Django-3.2.16-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/d7/8ddb9d8fbbffd33329cf6dfc33e8367a8969c05cf91bc63138ca116301ba/Django-3.2.16.tar.gz#sha256=3adc285124244724a394fa9b9839cc8cd116faf7d159554c43ecdaa8cdf0b94d" data-requires-python="&gt;=3.6" >Django-3.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/2e/efaa4b1c7db4292715ecedd95b2221438d7a897132f652708d84e4587d59/Django-3.2.17-py3-none-any.whl#sha256=59c39fc342b242fb42b6b040ad8b1b4c15df438706c1d970d416d63cdd73e7fd" data-requires-python="&gt;=3.6" >Django-3.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/76/5ae8a875cdb1d132408c5e7c0c6c2832e1d795837c2355abb2b0de9990ec/Django-3.2.17.tar.gz#sha256=644288341f06ebe4938eec6801b6bd59a6534a78e4aedde2a153075d11143894" data-requires-python="&gt;=3.6" >Django-3.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/12/da22535f809b8c06c8d58eaf236ec8683ffd4e1dc4eced175b174e6446fa/Django-3.2.18-py3-none-any.whl#sha256=4d492d9024c7b3dfababf49f94511ab6a58e2c9c3c7207786f1ba4eb77750706" data-requires-python="&gt;=3.6" >Django-3.2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/e6/e06dd4fceb09cbb50598cbaecca0dc1a2ac3bc4b8cf3e073e394603c3d85/Django-3.2.18.tar.gz#sha256=08208dfe892eb64fff073ca743b3b952311104f939e7f6dae954fe72dcc533ba" data-requires-python="&gt;=3.6" >Django-3.2.18.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/0d/c346909f167ef9eb245ec189f37a993d7aeabf184d6e07920ca99ea74f1d/Django-4.0a1-py3-none-any.whl#sha256=86b1cdeec72768defb39e27ca8c998e9e465888fd7663269a82cfe182b680c94" data-requires-python="&gt;=3.8" >Django-4.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/62/1e6030f9ff01b7f2d36e11f1181beb51f4e181ce38eb8cd240e8bcb8201c/Django-4.0a1.tar.gz#sha256=010388b20c94e2ab421c6c4660ab835611be40e758679b93eb1f703a00cefaf3" data-requires-python="&gt;=3.8" >Django-4.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/93/a5e3bbd3a6311b4d224da3ab9c7ee08f888a2a977d63aed0c13403610f20/Django-4.0b1-py3-none-any.whl#sha256=12220029292e1c7dce4ea0ad9189942d3204f98f07b6fcbfd0a64c3cc49c0f01" data-requires-python="&gt;=3.8" >Django-4.0b1-py3-none-any.whl</a><br />
@@ -535,6 +539,10 @@
     <a href="https://files.pythonhosted.org/packages/5c/12/a368d0caf91f1dab8154f1c579c5025c6645def5f3eee0d297347c7a1def/Django-4.0.7.tar.gz#sha256=9c6d5ad36be798e562ddcaa6b17b1c3ff2d3c4f529a47432b69fb9a30f847461" data-requires-python="&gt;=3.8" >Django-4.0.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/d0/d90528978da16288d470bb423abad307ed7ae724090132ff6bf67d6a5579/Django-4.0.8-py3-none-any.whl#sha256=27cb08fa6458c1eff8b97c4c2d03774646fb26feeaa4587dca10c49e6d4fc6a3" data-requires-python="&gt;=3.8" >Django-4.0.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/de/08d8a349ed0e3e1999eb86ae0347cc9eaf634cd65f1eb80b9387ac1dbe3c/Django-4.0.8.tar.gz#sha256=07e6433f263c3839939cfabeb6d7557841e0419e47759a7b7d37f6d44d40adcb" data-requires-python="&gt;=3.8" >Django-4.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/8a/65b639fcf107cb77ef759ae540a53dc5c38496673c0b2884635c726ad23f/Django-4.0.9-py3-none-any.whl#sha256=6ddab9f9ac9211e2dc544819b87343b49c53f99d882e68727b38fd44204f752e" data-requires-python="&gt;=3.8" >Django-4.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/f0/bf6010636003ac2bd1d222f1c5a29c4975318fc1931b132abd000993f4d6/Django-4.0.9.tar.gz#sha256=7cc034a72f99536c5feb39d1575f2952b86ffa409f109efeb2c8b398985f78a7" data-requires-python="&gt;=3.8" >Django-4.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/f0/b7322879f851bcf939c97310e4e42f223105a7cb0f123c62553a05f132c4/Django-4.0.10-py3-none-any.whl#sha256=4496eb4f65071578b703fdc6e6f29302553c7440e3f77baf4cefa4a4e091fc3d" data-requires-python="&gt;=3.8" >Django-4.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/92/b0ceee230f9252460abf8c0a3bcc003a914af85ad63006596c3fb3669fbf/Django-4.0.10.tar.gz#sha256=2c2f73c16b11cb272c6d5e3b063f0d1be06f378d8dc6005fbe8542565db659cc" data-requires-python="&gt;=3.8" >Django-4.0.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/9f/7cd1364cddd43621e5bb95bc7926e036d567a8a6aec507e9fda175702499/Django-4.1a1-py3-none-any.whl#sha256=815b1c3e1c1379cca1c54cc7202ee86df006f52b94560b46ea0b19f162c9474a" data-requires-python="&gt;=3.8" >Django-4.1a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/12/ef/6c7373ba910e09de8a28a124c772314e49dd2faf76be51eba36e5878f636/Django-4.1a1.tar.gz#sha256=91980d3b327e38e44c2bef0af86d624a57adbd5f1c96f43acf150396770caf01" data-requires-python="&gt;=3.8" >Django-4.1a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/a5/e78d8b9d3dda424cc793fe3e265f2f0411bdd59ede7eaf3f2aa732db265c/Django-4.1b1-py3-none-any.whl#sha256=55ea3e07df2eb3994b7261d743c111e4c27a56ca1285eb762dba07432ebe4039" data-requires-python="&gt;=3.8" >Django-4.1b1-py3-none-any.whl</a><br />
@@ -553,6 +561,14 @@
     <a href="https://files.pythonhosted.org/packages/de/7d/ca5d224f7d345b0defd0a57c6deb0c6115fbe5304e4d9571f728b617f1a3/Django-4.1.4.tar.gz#sha256=d38a4e108d2386cb9637da66a82dc8d0733caede4c83c4afdbda78af4214211b" data-requires-python="&gt;=3.8" >Django-4.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/ac/9f013a51e6008ba94a282c15778a3ea51a0953f6711a77f9baa471fd1b1d/Django-4.1.5-py3-none-any.whl#sha256=4b214a05fe4c99476e99e2445c8b978c8369c18d4dea8e22ec412862715ad763" data-requires-python="&gt;=3.8" >Django-4.1.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/41/c8/b3c469353f9d1b7f0e99b45520582b891da02cd87408bc867affa6e039a3/Django-4.1.5.tar.gz#sha256=ff56ebd7ead0fd5dbe06fe157b0024a7aaea2e0593bb3785fb594cf94dad58ef" data-requires-python="&gt;=3.8" >Django-4.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/be/8800ef92dbe66017e78fb9589e16333e0a87f67068485dbfb8114a883b67/Django-4.1.6-py3-none-any.whl#sha256=c6fe7ebe7c017fe59f1029821dae0acb5a2ddcd6c9a0138fd20a8bfefac914bc" data-requires-python="&gt;=3.8" >Django-4.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/b0/1378fefb4b0da51e27120e0069e51fa7b3df2078f1250393eccefc274376/Django-4.1.6.tar.gz#sha256=bceb0fe1a386781af0788cae4108622756cd05e7775448deec04a71ddf87685d" data-requires-python="&gt;=3.8" >Django-4.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/86/59e237f7176cfc1544446914fa329fd560bb8fce46be52dd7af5dc7c54f9/Django-4.1.7-py3-none-any.whl#sha256=f2f431e75adc40039ace496ad3b9f17227022e8b11566f4b363da44c7e44761e" data-requires-python="&gt;=3.8" >Django-4.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/a7/07939866241b7e8f8d3bf164b7d6ad428163723e29dd472700f8ab0e5fd5/Django-4.1.7.tar.gz#sha256=44f714b81c5f190d9d2ddad01a532fe502fa01c4cb8faf1d081f4264ed15dcd8" data-requires-python="&gt;=3.8" >Django-4.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/1a/f3b9a43f9f9118f248e9346f6eeff2bf24902f98f0030ea328941e9286c8/Django-4.2a1-py3-none-any.whl#sha256=e913e60991a0c2a5f099a80ea1e2ec90b1636e6deb60bad16b89086819b48d4b" data-requires-python="&gt;=3.8" >Django-4.2a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/af/cef5e406baaccb37f346662cddf58e9693a6b96f14e36341ef3817810fc5/Django-4.2a1.tar.gz#sha256=3a29fc014f46fd6a552296fd1cfc77f616c4120b68cc117eee4a8237aa163f7a" data-requires-python="&gt;=3.8" >Django-4.2a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/5b/c3cca0daea9f3fa5946d14c98bc1cd3c42c026ec6c41d57100e1d646e23a/Django-4.2b1-py3-none-any.whl#sha256=9bf13063a882a9b0f7028c4cdc32ea36fe104491cd7720859117990933f9c589" data-requires-python="&gt;=3.8" >Django-4.2b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/12/b69773f84da1d0d5ab6f61c91a7257afa37f69413a5d019f7d2759eda28d/Django-4.2b1.tar.gz#sha256=33e3b3b80924dae3e6d4b5e697eaee724d5a35c1a430df44b1d72c802657992f" data-requires-python="&gt;=3.8" >Django-4.2b1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16426186-->
+<!--SERIAL 16940182-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for docx2python</title>
   </head>
   <body>
@@ -62,6 +62,16 @@
     <a href="https://files.pythonhosted.org/packages/f9/04/8b7ee750fdcbb571cf5475881210897b19078b12e6dba6bc614b33651e97/docx2python-2.0.4.tar.gz#sha256=57b94bcf27870aa760397cf2cf1c52871fe5c62f5e72c30691af907c7909f895" >docx2python-2.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/49/b2c84b7d888f6035f279b365402c3856528da53f68eda88f50e14c9f3d4e/docx2python-2.0.5-py3-none-any.whl#sha256=221415def21c33fdd90f0cb989fc6ffe558f7df0df6567c9681e25ac431c0e24" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/3f/b469722a9dde8f4d63b5813c4e68cfd631bd3f3dd85b9421f089f3ad97a6/docx2python-2.0.5.tar.gz#sha256=b7ecb18c9a716c32947246efdfd89e3a0ee3785e12a2e8a5dbecc328f1f24996" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/29/008a6980fce6124ceeec76d15ea0b242aeea8588c7191684d4f2185fc09f/docx2python-2.3.0-py3-none-any.whl#sha256=86d86baf5279b4fd03fc9797bd6e5f3770c4592611c561fa47203712367ae265" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/f9/eda0de2eadb1ea12abc071d09c776c47b4427adbb54dfd94e94dc7453997/docx2python-2.3.0.tar.gz#sha256=faa5b61f488a273f0426bbb72bc6f1d4a9aaa099877af456b62828f339b65a94" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/4b/d9861e8dbc89888aad2a32ac799f003c2dd6566aaf9fa238949bf8150787/docx2python-2.4.0-py3-none-any.whl#sha256=07c23fdd15afcd62ab44cffbaba10e796d3dc33666a25bbcfb5cca58881cc6b0" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/20/74276b4d2e31ca59ca26b694114ed5ed1cc97e1e60f888fb756afb9a3121/docx2python-2.4.0.tar.gz#sha256=8af12c5672be5d8fc4ec13e8564bdc3cb2c5380e9947180eb4ecae73649cb63b" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/12/370c571460f2fb6ee70ac177fc090a8f73c0d5dfe2a665dbe08eda138ff0/docx2python-2.5.0-py3-none-any.whl#sha256=389798e1c056516910ca1754de1ecf225c2e873b4655b5e7f5568f200ec79780" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/bd/91cb44d1d5c6f3d58e200b93fa1d5d4d16a5db09b710113e02dbe43a5da9/docx2python-2.5.0.tar.gz#sha256=7ebc1680f5639035bf12a08d4d88c16d38a55d60e776b43e025ee935881d8f7d" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/f9/e983aca31dd36d2d7ffddea9770fe286cf552018a5e099f5cfac7ab8439d/docx2python-2.5.1-py3-none-any.whl#sha256=708e8b6776a97d90162c09c429bf88a7c9a1089c5152a35e429a461a669166e9" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/df/90e3c1a4ab5c1afc1de3bd36e5a54e5f743f180a886ee8d41ece425aa33b/docx2python-2.5.1.tar.gz#sha256=71eab5177cc8c4bfcee79a0bb009fd409ccf7238d04836268fc61de692d4eb52" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/5d/2a67beab771eccc6937c399479fca9c1643556c6e71bfca52230b049834f/docx2python-2.6.0-py3-none-any.whl#sha256=e7c6c5b2132fb5e525dfaea18bcd9d30a7519cd756cb4c55374b2db3283db20a" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/89/3d243d43de20657290e00cc206abe8537560b58b886799db66930889afe2/docx2python-2.6.0.tar.gz#sha256=46ab6d3378f60fe58f13585b801c8f5d4daeb8177c291769f7bdfe904b3cba1e" data-requires-python="&gt;=3.8,&lt;4.0" >docx2python-2.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16168511-->
+<!--SERIAL 16687874-->

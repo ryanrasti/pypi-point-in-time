@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for paramiko</title>
   </head>
   <body>
@@ -230,6 +230,8 @@
     <a href="https://files.pythonhosted.org/packages/24/19/8d65f0a5e7d3f75bcb3d608f53be98f2ef0e8e9a9640d2110bc982eaccfa/paramiko-2.11.1.tar.gz#sha256=0e49669f8f831c9bdea7a539babeb80b86e626c83cce113fc812dc3ac68cb8c6" >paramiko-2.11.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/71/6d/95777fd66507106d2f8f81d005255c237187951644f85a5bd0baeec8a88f/paramiko-2.12.0-py2.py3-none-any.whl#sha256=b2df1a6325f6996ef55a8789d0462f5b502ea83b3c990cbb5bbe57345c6812c4" >paramiko-2.12.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/98/75/e78ddbe671a4a59514b59bc6a321263118e4ac3fe88175dd784d1a47a00f/paramiko-2.12.0.tar.gz#sha256=376885c05c5d6aa6e1f4608aac2a6b5b0548b1add40274477324605903d9cd49" >paramiko-2.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/fe/3ab1540ee3f956fed7c738ac60b17586b3e57629a6b8f8dcbb790fca00c2/paramiko-3.0.0-py3-none-any.whl#sha256=6bef55b882c9d130f8015b9a26f4bd93f710e90fe7478b9dcc810304e79b3cd8" data-requires-python="&gt;=3.6" >paramiko-3.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/6b/554c00e5e68cd573bda345322a4e895e22686e94c7fa51848cd0e0442a71/paramiko-3.0.0.tar.gz#sha256=fedc9b1dd43bc1d45f67f1ceca10bc336605427a46dcdf8dec6bfea3edf57965" data-requires-python="&gt;=3.6" >paramiko-3.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15660611-->
+<!--SERIAL 16506843-->

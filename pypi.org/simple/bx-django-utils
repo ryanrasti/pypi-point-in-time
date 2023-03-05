@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bx-django-utils</title>
   </head>
   <body>
@@ -86,6 +86,22 @@
     <a href="https://files.pythonhosted.org/packages/c4/c9/60acaa8ae52c2e91ff29117700576d650bdd3d73ec40df30281cd54a24d0/bx_django_utils-38rc0.tar.gz#sha256=54e95271706821e8eaa3da1f4163eeb84b63cc4792cfce6b3d18503d1343fa82" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-38rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/30/5e/a7d5706fb019710dbe58b9368af5a0f8c244f03bfd172876df68b9dc9175/bx_django_utils-38-py3-none-any.whl#sha256=488dec3af1ba96cffa5cc94cd71d100daa88df0d7c6dcb4487f454bd760c01cd" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-38-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0e/91/fdac5f86d9c61d844d8192646aa5fece815b2480f9ce8d6be97bd8c3249f/bx_django_utils-38.tar.gz#sha256=0bb192a183c935c5040e15af10ae7699be29ff8795f94fc450500540ebfd43fd" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/fd/cb5d69476a331b2615514aa4a0eca69bf2f5342e3628c65b2da969c52e29/bx_django_utils-39-py3-none-any.whl#sha256=abd3f4f0853d6a28bf057f944d1ccab9cb449816689470bd83983cabc467a62e" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-39-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/c0/6798886395a53a18b2d1aec526c251528e608c38c0859b5d05c516ebfa21/bx_django_utils-39.tar.gz#sha256=862acbc85311492a3e1a1b8b4e36023af3dc1ec548f510953e04b941615f40ce" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-39.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/1a/13f16e65551df244fd04ad8f19da64d4f426b58d90fb246d89e5729880c7/bx_django_utils-40-py3-none-any.whl#sha256=40ab3fc353b4f71fd86c60dd52075b006685440ea0ad583130e37d519c60e91f" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/ff/9b5c8f38037f1ef139b05ebcf755ec8cc37a1775e2139b5be8afd8b33682/bx_django_utils-40.tar.gz#sha256=1704fbedf271dfd1c6f6d0b474e1cca364fdcf7bde2beee69244a4067437e5aa" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/a8/66135f6489f842fda36594a26fb46065007b9a8469a53ce44a3794dc8d2e/bx_django_utils-41-py3-none-any.whl#sha256=cc43c18ec49ee7486c25e74fb2d395b580e5119aba8cc3b812b60e07c2946882" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-41-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/27/2a983a734febe90f14b824ec6dddd9fa51576a0c32086a79f0af0d1726d9/bx_django_utils-41.tar.gz#sha256=445fde559085c681e7ce7bdfa85091e9f28560e3fa1663a9d6a503f410b21e77" data-requires-python="&gt;=3.8,&lt;4.0.0" >bx_django_utils-41.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/ed/96c7fad859e406f36a6b9266e9f5efd1e9cdfff9b06e123b79165a304118/bx_django_utils-42-py3-none-any.whl#sha256=991c67c6e9a458fbb1f0e570fd9c6368c97251de139893e12dd3fa39486b4904" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-42-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/f4/5ec39c1e7849e97f11e8a6f0167c88b6f86c27ad179e58753a98d6878050/bx_django_utils-42.tar.gz#sha256=414f9c20f8290ee8e4e98c8da6ad42914833ad1b2b2638141547babeddae870b" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-42.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/fb/16b96ba3d84a30fff0fbd2e76ddfdd6ff181d2f50035191fe891008f99cb/bx_django_utils-43-py3-none-any.whl#sha256=7ff19babf6fd803530467ed9878c3dcdda22c32d0016138ed6d9f555ae6d805f" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-43-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/61/b4a37ee4e04511dd1bb49bb622742470678ab4e6e7dc93b96ef632a5aebe/bx_django_utils-43.tar.gz#sha256=4cfa78fa3815eddec9b2503b1ec90785df418b5aefbf4a12905c0a0db03b3d10" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-43.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/1c/7d58fbc0c3afa84473a975d143406a592c2beff98e605b30b86927a1d7ee/bx_django_utils-44-py3-none-any.whl#sha256=50875ecb23640ad542489021d0c85f40e3b2181e7054ac01a186bd23b0053384" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-44-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/dc/fb98402d206759cffec30b51a0fbd2675ec9dae1504a521ca0327e6b22d3/bx_django_utils-44.tar.gz#sha256=0e878c87783e472626c2c47ef0f5e05aff1be57293a21e2a49f128709165fb71" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-44.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/de/9faf6f42201b2be8c51dd6dfa685ef2ebb883dfa14851aa7d125099d2cee/bx_django_utils-45-py3-none-any.whl#sha256=c99ece4618a65629428bb6d3f46d76c082e86ffe494e63bb6a8600fe76145c58" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-45-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/dc/49a470f8460bc9c3a1d6f7871239829f7ff5fdb672d69c732ea1e513dfbb/bx_django_utils-45.tar.gz#sha256=6d8b030c5f2f15b1b93b9ba8065e9f2092ba51337cbe35bde9a4338b174e7038" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/e8/a834da07a18fa5a75c48d45d8c553a84c3a9efe07b1b8f17d4ce5a7c165f/bx_django_utils-46-py3-none-any.whl#sha256=0671556d57144e26f6366565546919f63aacd33b9068cdfaff974f21a72d7dfc" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-46-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/aa/0bf2222de6356b2951740e7e5b4359d632b30ed6f3f8138848a9f422355a/bx_django_utils-46.tar.gz#sha256=7d446c8e0cb99cd0f58a4c080a2a3a15e7735271ea9e0295fb773c422dda68a8" data-requires-python="&gt;=3.9,&lt;4.0.0" >bx_django_utils-46.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16372879-->
+<!--SERIAL 17143450-->

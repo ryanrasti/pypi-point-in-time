@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pytimbre</title>
   </head>
   <body>
@@ -18,6 +18,42 @@
     <a href="https://files.pythonhosted.org/packages/57/24/1dbcaeffe0171e42c99b11ce8092764cb3144e32b72915965f3432442dcc/PyTimbre-0.5.4.tar.gz#sha256=d52c02cbd63de8e7ec63ee04cdd20d7eda129bc89c9583a339cc463ed3c03a4f" >PyTimbre-0.5.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/73/2281b52e8b70d8e6876be6793d8b571280c4e11c1ca332188644aa3b510a/PyTimbre-0.5.6-py3-none-any.whl#sha256=7ae40d209a5ad5bf3212d60003d624397192bd5cbaec3f2cc7e62bda5405aaf9" >PyTimbre-0.5.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/93/63/dd05f48fe14bdc89e40c45defdebf8778772c8f2ae9798b8ea7e47909ed6/PyTimbre-0.5.6.tar.gz#sha256=8a17ae8eecebc2f6574cefa6a77f6be579eaf477064d61aa0e65d433457c49e9" >PyTimbre-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/d3/545edbe219a6e357eb754a4c159f0d84a5b43212ea7a50c9714028a1aae5/PyTimbre-0.5.7-py3-none-any.whl#sha256=ba87085c9bed594a78236b00a37aa6bedf760e6733db76fac45f55f0b5717b79" >PyTimbre-0.5.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/31/c87fb3aeec01b7a2f6ea1ec90be6c190cb3bcfdd50f2447ee6a9a3a94cfd/PyTimbre-0.5.7.tar.gz#sha256=231be9352acb074ae490013b17d82705b2d94b7c87a4aad7faab507d89080d36" >PyTimbre-0.5.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/d6/4875d270e93c25c795dbda8d5b5744681e38401a64749546344d5607ae64/PyTimbre-0.5.8-py3-none-any.whl#sha256=cae352efbf2bff5fdc33aecc686d86214f24733a6e2f241f1729733ae7eb4d27" >PyTimbre-0.5.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/7b/057abb6727ea895c501709fa9494335b40be886da70d6c97a2e08b8eee9d/PyTimbre-0.5.8.tar.gz#sha256=75aa923583996dd1874f26c28ca3d7078a287f24c37705d60fd6f69e912fc00f" >PyTimbre-0.5.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/56/ebe9aa483fa6c5dcd0525ca981c252dd34daabe1dcd1d6f9a7258881cdf2/PyTimbre-0.5.9-py3-none-any.whl#sha256=d612ad83a86758f8d5652c807c2cbed5067f07ae94f3572da9d0d61194f5bc2d" >PyTimbre-0.5.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/78/f047e043c2de53bb605245db03ae1a5795010cb2065fb37a0b1bb8b4210a/PyTimbre-0.5.9.tar.gz#sha256=8266c65a1d57538535cedaec8963f252b88d85bc20a73566961fc3e513279dae" >PyTimbre-0.5.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/ec/8ae886e2b81a72b2f7280dfaea24a1f319983c5a2479879b2660ef45aa56/PyTimbre-0.5.10-py3-none-any.whl#sha256=1730a2f4007be8515c693c84bf136c63c479bf9b03edf0ad18f379d61e0284c2" >PyTimbre-0.5.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/0c/23087f209d1d0f7b8ee1b1f6c74e09fc7b887c81061c36f55054565a5390/PyTimbre-0.5.10.tar.gz#sha256=0fe06da071ed024e01baa944c58a842a19ae47b651b5f8c08617e3e682a78040" >PyTimbre-0.5.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/ab/6ad9668a35fc624bd92a01e3f00071612d49403cd97d3b1f5b55729ff766/PyTimbre-0.5.11-py3-none-any.whl#sha256=3168fb0c57ee893418688b63eced1aeb8a359e43466a0087e56c8e34ee6dce81" >PyTimbre-0.5.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/c3/38d7c56c3c869f2f308f746c22dee35042459a81cea89865ac3e3dbbcc03/PyTimbre-0.5.11.tar.gz#sha256=535555cc09d2fc0c4856a0dbc2325013ae5e8c929f7faa0868322fb3ff0689fc" >PyTimbre-0.5.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/7f/de55d92f65774eb545b0bd4aed988cc8c369f5708adb0f5580589176133d/PyTimbre-0.5.12-py3-none-any.whl#sha256=78fda8e17c85b9a9e6ec55ffa143ef81199616704919a05fd2e6e1abcc7ddf05" >PyTimbre-0.5.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/f8/f2ad17432766289655dee96b81b95187306e21d5ff96e87c9d55b7e59ed0/PyTimbre-0.5.12.tar.gz#sha256=2f2e05614706510f9e82b8e4aa054553f8abdd96a9cecfb7f545103af2ae8ad8" >PyTimbre-0.5.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/67/e8c2d80224f7c1c02ea6611518b0373647e3c43a37f05de85a629d917325/PyTimbre-0.5.13-py3-none-any.whl#sha256=865f9549d9aca6268cdd1fa8c000d3f489c194a7742a2be29c923d695c79bb36" >PyTimbre-0.5.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/af/6de09a3347b244e155b74df79f4639b26165baad889d931c122439debc58/PyTimbre-0.5.13.tar.gz#sha256=cfa8ca896bc2926e9c0f59158aafcc0f806d4faba98d2bb003f78e84be3db51e" >PyTimbre-0.5.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/d5/06aa2e7c306b6b4ebf23488de2b2ed1fc16b9b7a106fbe75fa28b99f7d31/PyTimbre-0.5.14-py3-none-any.whl#sha256=0e7ce44f0ba42d8a5f4285d6c62bb66c096e1607ae599e8c638c83d8fd47a778" >PyTimbre-0.5.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/5a/6e4799bd99576cc8c57a9763f652e3bd78900975446ec74ae57071eacba7/PyTimbre-0.5.14.tar.gz#sha256=35e781f46e82092cb5b203d22829605d36087ba83689866a4431848ce744ff6a" >PyTimbre-0.5.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/af/b37b831050202938bd419778e605881e7145caf6fc1f7c961dd3369562c4/PyTimbre-0.5.15-py3-none-any.whl#sha256=7c84b4af53360fcbd2ba89fcda57a7aab0aa12be99b220a9a018aa9049b678eb" >PyTimbre-0.5.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/96/43f0b97c313e872436281d54a54369cd0300ccd7704188d43e4eedafb954/PyTimbre-0.5.15.tar.gz#sha256=1b480cb1867ae87ac1657b59177aba07b7bc3617618d1eea3cbbb2cd67ab2f53" >PyTimbre-0.5.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/88/9775e153f8fa982a48cad089a4b05877d5c0c4bc0780c19114bd1719a29e/PyTimbre-0.5.16-py3-none-any.whl#sha256=032833d90907130ea518272f90d18c5ca2264d7094bc8efefafb84c8d4a41fb3" >PyTimbre-0.5.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/26/ccd5e3ac9bc54b5448334b5512b79cbc049e6b3f270176e1ec448f7b089f/PyTimbre-0.5.16.tar.gz#sha256=e625e114f44ab6ad693671d9b5bf28fb30c21ebe3597a6d88be352ebbc17933d" >PyTimbre-0.5.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/6c/3d65ca3cba7235e75cd08237bb9da3bdc5e3abf09d92cad3cfa8cef22b99/PyTimbre-0.5.17-py3-none-any.whl#sha256=7b380f790002f2d4b1906d77660f82417ebbffd96da46675769a0a702154bc3a" >PyTimbre-0.5.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/b6/798c6c112ac7532fb5eefec6b38fbc8ee756b5ee75c1c353c10970df9844/PyTimbre-0.5.17.tar.gz#sha256=4ba96d20a370b7d335d016897830c73ac60d745d26aa586c7ca359e9192a0823" >PyTimbre-0.5.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/6e/23e4f7e57702d77f5ad8dc62167fd1d41d855f3bf45fac383844af747a3f/PyTimbre-0.5.18-py3-none-any.whl#sha256=0636dc75c95110609f08988387d3fd7cd988cbb033514a297aa6aaec8c447485" >PyTimbre-0.5.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/0b/225f799a4098e239f5203d32bb0bd7f29a54d4d8eeb2f47000883b2785a9/PyTimbre-0.5.18.tar.gz#sha256=f3b3298ebeb0eb35471b59d1dfd256377705bc850587ba2d2a7370d90047bdc2" >PyTimbre-0.5.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/f5/6e6bc40bf6144b4779f67add8948d0d9807aa56ed5b0c4976bb70c62830b/PyTimbre-0.5.20-py3-none-any.whl#sha256=60d2699b287b4bd86cd60faffbcd7dd9c3e9ae47f7bab3a7062e5af6ea82a290" >PyTimbre-0.5.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/d3/cf79b4017d0c7151014becd3cf09ad10527f53ff06de6293cb830b62198a/PyTimbre-0.5.20.tar.gz#sha256=2177103e87eb2ed9b9d1b745f0756bbf1e9d5cba0ad51a28cc503b07176f0f0c" >PyTimbre-0.5.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/8e/5ebbd39f74b1708b46b5ed6ff7030103aa5e5b9d7b68bd4e4c8214330676/PyTimbre-0.5.21-py3-none-any.whl#sha256=c9aeacda0d446a3c43ae409c11e1e88b9c9fb732ec4b10f47507d7db33a8fc4a" >PyTimbre-0.5.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/a3/343bfbec9395b3b54d000b17b9c6f3e1022a0db20e887a1252296871d8a2/PyTimbre-0.5.21.tar.gz#sha256=c60bf3b716544c1243ad695da381704a01f8f1f90ddb792794dfdf5ad0237330" >PyTimbre-0.5.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/ba/f7ced434e55584bf9e702e75b75c29f2875f21cd576e850730836ff5f548/PyTimbre-0.5.22-py3-none-any.whl#sha256=dfdd538e3f5ffafb049fd0e3daa9aa540c016455b1469d5d8dad1b229e238843" >PyTimbre-0.5.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/7b/f70cfcbb3100716a4d594ba9b694fc089b374573d92689465d16bbf2d70f/PyTimbre-0.5.22.tar.gz#sha256=93af9b0a1986c877cf0793837d9a1aa8230a379248df78e960d7dce9410b2e08" >PyTimbre-0.5.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/a1/67d6e8263d7d4d6e1d104af23afb44d0e88843000254022bb93f403922c4/PyTimbre-0.5.23-py3-none-any.whl#sha256=105dce0760eea3c06cc5fa0d2281f1703fdc007d54a45a2f03320d48289cc7ac" >PyTimbre-0.5.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/85/f32f2b5d9211642caaae19095e75a62737afaa822f19c493e65d2582c5ff/PyTimbre-0.5.23.tar.gz#sha256=a59027f22e57d75e954287705c837ed8e1854033536231e3f7ba223ec4b7f2ef" >PyTimbre-0.5.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/61/c296051eecc30cc2967785c4b539b62e56e60860c78a3505f83db1ab2c16/PyTimbre-0.5.24-py3-none-any.whl#sha256=37589114c5dc49048ea2f22bdd6daae23e0ffe8ab371e4f47f559d50a19ff21c" >PyTimbre-0.5.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/a5/6d2d6906899b1a8345e7b259dfa0f28dd73fd141bedc9b4d104b4e2e32f1/PyTimbre-0.5.24.tar.gz#sha256=ef3eda9b2d7c9aa71db5ac8643a0f1222069bf440d85cb973e4cb90845e65ebf" >PyTimbre-0.5.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/49/80bedcb954c8c1411c5dc53c3304da47e4b00213604d0eb0331dda7bfc7c/PyTimbre-0.5.25-py3-none-any.whl#sha256=bebf0f6c252bb6ad1a6d6bbfb2fe13d607ba9b4b3f12c9f66b4c21736b873716" >PyTimbre-0.5.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/e7/e1e74bcc63b2b2ddbfde2c17b4aadcb7fc0cd4a570239ad3a2d9eda4860f/PyTimbre-0.5.25.tar.gz#sha256=ea2c1c0f5d1c667ddd0f2df331db3b71adb469b8aa50e537f083ba8fd3beb002" >PyTimbre-0.5.25.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14752052-->
+<!--SERIAL 17152499-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for patchman</title>
   </head>
   <body>
@@ -69,6 +69,24 @@
     <a href="https://files.pythonhosted.org/packages/47/ea/74da982d26d073cfe93182b31d2eea6ed797ac1561b63456ee618f1a86b2/patchman-2.0.2.tar.gz#sha256=9c765b7f19274ab706ef5a1acd0f063ba0a7b1e96e2f6bacca5c4d4f2503bb67" >patchman-2.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/a7/ae0e15aeaf7f53d6a5c0986fb9e7f21504964ff49ec0ff3e63fe9563f762/patchman-2.0.3-py3-none-any.whl#sha256=69b50b27e783e5cc7150a97e652ce2f3497a3c8fac5f11b05a834ddd55a1d23f" >patchman-2.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/70/d0/6a0abdc0854c22af9ed21d972e5e01c87490ddca52d4532d9138615db1fa/patchman-2.0.3.tar.gz#sha256=60347e4d04b913babd0e8527d1f9d2b549193214a4ccbb73378df3f6911741f3" >patchman-2.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/65/962322ce27108ca286d68202b08f4c03d2c2dc27e9fdb6f9ea9f49ea1683/patchman-2.0.5-py3-none-any.whl#sha256=f54f46f1c6c3de3b247049d7104326398934b997cd03e7125ba3c5ac181c69a7" >patchman-2.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/e6/cf1a6074f567dfd4fe4b80f76d8848a2e7294feaf773275834078d530b97/patchman-2.0.5.tar.gz#sha256=19246a85ba4f85601670c00e1aaee56b4dc5e1010e5c7828fe2b4a64d01056d6" >patchman-2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/52/be2f443a9074890218ac7846f47bc6aa4b692ca1a17b87c7ac8d4d59d0fa/patchman-2.0.6-py3-none-any.whl#sha256=93bfef2c632c93afc9df3294d46f0eabca3c3349380ebe34eb75aaf9bdc89f75" >patchman-2.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/92/66d56351753d8a79312e5015a2d6a519ad79ca37c7e1d5d5d3cae25d8653/patchman-2.0.6.tar.gz#sha256=49b07fbf23a3d9fc82a2e1d62ababeeacc35105b5802287780b20d6fcd94e189" >patchman-2.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/e5/8f87f7144966b477bf4a9d2949c8d57f8cbfe5d4c404f543238395454f5d/patchman-2.0.7-py3-none-any.whl#sha256=08c07be754bbaf610fba7838e6b092caa83dfe797d5eb8b3c785ea6c392fd742" >patchman-2.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/67/ce8ba025f40efe9f5f060d89e323c8c75d166006974f8039186bbdf7f3f3/patchman-2.0.7.tar.gz#sha256=c4756a2c8dd8415009e1d8dbfdcd4f857236a2022c04e55394e199f1bee56f8c" >patchman-2.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/a5/14d07a5e5098e29bf43c3fdfaec8c9944218b187e44ac55e15f86f5fc92b/patchman-2.0.8-py3-none-any.whl#sha256=6160b9bf1a4a46d8f3ee3c8934e927cb1e52d180593779d794bb5678d6f15c0b" >patchman-2.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/ce/bf76018e63281a25b637e4a01ae1baef2102e1aa634cf50eb127e5683734/patchman-2.0.8.tar.gz#sha256=d7959428d02c2b28788ad74cd9e90e5d2031d7bb6e76e8c9e11b8c332e68df2c" >patchman-2.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/1e/b74cfb7e72e416b987f6639e3ad005e8a410ee3e16483e059273325243c1/patchman-2.0.9-py3-none-any.whl#sha256=72b7ce8657d8609ebe853b72997c0e366a1d462680c03f047704e987de401686" >patchman-2.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/92/b11ea747df842dc938893e10de34532e7a67b692b4b406f6ef1201adeeee/patchman-2.0.9.tar.gz#sha256=a8118cee20ba21dfe3cd54071f94f63793a4f3c4908b3e1eac04fa32d14b62e0" >patchman-2.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/24/a146ce56abadd77bfa6e39bf878bd8ab1ad2b59466452574800277ad2400/patchman-2.0.10-py3-none-any.whl#sha256=c46fec20f0ce42242207143d6b21342ceca3cbb5a4ae2c11719ed9b622f7f689" >patchman-2.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/a2/e764e6510fbd9a2e251cd240ae4d8483c4ca4e4eac7a0a6dee7ca0c179db/patchman-2.0.10.tar.gz#sha256=a181a6e5d1a7637d3bb26542d0476572619d16a84a596e4fd13788e6c624d77f" >patchman-2.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/27/4a5509491fd840075a1a053f5344522387d3f5e8d40b9ceb7154c06ea661/patchman-2.0.11-py3-none-any.whl#sha256=56b50696d3a5950df27365b158bac229406116b20885fb3e28e03e9632af946e" >patchman-2.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/52/bf380098f9152556b9da1376c11a18257f96fb86a750a1810afedec23fc0/patchman-2.0.11.tar.gz#sha256=714e75a1240de12d60e7bddd563dc9d7f8989870292c696d32f353132199464b" >patchman-2.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/e3/38cf0e6fb2708cd2fe95ed1560474c6ecee2bfb6c9fafcc20538d5fc21e5/patchman-2.0.12-py3-none-any.whl#sha256=cf8a5f221e99e6a84c2e01b2d066ab40fa2bdf00c6799aac93a6bba884ef291e" >patchman-2.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/e3/eb35e7f92448ffffbe220531b3f706a7d18a291a79daf5585a7cd6e11ec4/patchman-2.0.12.tar.gz#sha256=9657b34845165d56f166535e9df708c32dec0ad46a9a04b3fbca64c551f0f157" >patchman-2.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/d4/12e03d6ababc41565308da1f9e955a11bb361879db308d73fafc80594fd1/patchman-2.0.13-py3-none-any.whl#sha256=203881d18299b0281d74e86a1394ba809a4a2b005aaee1aa5d4afa23e6343009" >patchman-2.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/6a/856a43dd25a289f2786822be840e8d1fe9bf14677310c419383610a00d8c/patchman-2.0.13.tar.gz#sha256=2af143ee8abb7e50b10bb59b4c9901f406a808ec8fe43cc9b2215f64ade8919e" >patchman-2.0.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12905072-->
+<!--SERIAL 17100480-->

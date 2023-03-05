@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for clusterfuzz</title>
   </head>
   <body>
@@ -39,6 +39,8 @@
     <a href="https://files.pythonhosted.org/packages/2d/58/0fc34a4aa0aff07d4cb721dd020feff2d444d2c03db4565d5948601492fa/clusterfuzz-2.5.8.tar.gz#sha256=8248582cb17f2e651d942712f89ec6efdeda08be433ce0e347f9cc39167fb0b9" data-requires-python="&gt;=3.7" >clusterfuzz-2.5.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/a7/1a70aae5223199c6fbc0124d731578f3b28f8f035491ded65620562e6576/clusterfuzz-2.5.9-py3-none-any.whl#sha256=87487b6581f3fe69d73f12b184bf8e2c2f881d975a1f9570148256fd89ff74f5" data-requires-python="&gt;=3.7" >clusterfuzz-2.5.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/74/3f/47f886e0979eb2355822beecfdde7fb9143c3788c6b4bbc13a2a4d46a6e2/clusterfuzz-2.5.9.tar.gz#sha256=3a3f2b40f47610b2fba074e9db04f1ff6d08b64103366bf225748607af94c888" data-requires-python="&gt;=3.7" >clusterfuzz-2.5.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/8b/71cf4f85ef7f3f613aeee91e1050aa2cffbf9c0d717bd4ef5661ace41b2e/clusterfuzz-2.6.0-py3-none-any.whl#sha256=e3cacc00af7853ff04baa8f79fb72037bcd7786579461decc4a33372e5effddb" data-requires-python="&gt;=3.7" >clusterfuzz-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/c0/a81a0d56da7331a15b9cc5a91e42ebe5aca9af1545f3830f7639b699a282/clusterfuzz-2.6.0.tar.gz#sha256=5ecb5375b8606153cb4b703d653201db88837ec7245860d142764abd1eedf3e5" data-requires-python="&gt;=3.7" >clusterfuzz-2.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16378029-->
+<!--SERIAL 16741770-->

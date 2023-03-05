@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dbt-databricks</title>
   </head>
   <body>
@@ -110,10 +110,20 @@
     <a href="https://files.pythonhosted.org/packages/0d/7f/8fd2d1e0fc626383efa4f4baf04e1cad7c84b6eb5f5167414294bc012ae9/dbt_databricks-1.3.2-py3-none-any.whl#sha256=9debf9280e3a791bc104bd089aa82ff1adfb7f2cddfe1ccd41b99bdf12619258" data-requires-python="&gt;=3.7" >dbt_databricks-1.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/1f/6ef4e9c294c78a2fe0aa6e5c9a7cfdb6ca8de35751bf9d77485b0757d452/dbt-databricks-1.3.3rc1.tar.gz#sha256=11856c6953599c9a0e414c1708e7a3f7b36bc0562adde0e9e79f9f51c75b2522" data-requires-python="&gt;=3.7" >dbt-databricks-1.3.3rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/87/2c/c3e71d41f973dc6138a9d66b712b69a4799ccc36f8e7d349e4dfc67a075b/dbt_databricks-1.3.3rc1-py3-none-any.whl#sha256=6ab64ece47cc40886034bfae28b296db9f59e7f5fea309f3cb61b6d2c65e8482" data-requires-python="&gt;=3.7" >dbt_databricks-1.3.3rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/e2/38ee5e09cc8be39542cdf22a89c88eb1b3d4c30b11032738e7d23b7b86c5/dbt-databricks-1.3.3rc2.tar.gz#sha256=e66c21ffd563641dd4f9a1ded5c9cbc3e5b6ffdf723d609efbe971f5cbef8360" data-requires-python="&gt;=3.7" >dbt-databricks-1.3.3rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/91/1ba662bfac9c269d35fe798df92f161a9d04753eb5df8797b909e5e419a1/dbt_databricks-1.3.3rc2-py3-none-any.whl#sha256=91093b292793d2fa764d44c4826d72728312682dfe3fffa524c2e763f1f5dd5d" data-requires-python="&gt;=3.7" >dbt_databricks-1.3.3rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/28/e6/42d9457792995490a18b58b43b1d47489827bdc2b9acb5ea4eea5a0d5073/dbt-databricks-1.4.0b1.tar.gz#sha256=9c7457fdc200561daf6669aaeb57806000127e2259d6ee8383a6340939e5a42d" data-requires-python="&gt;=3.7" >dbt-databricks-1.4.0b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/21/7bf4beeb5782cf4128d31b43e000f354c14d3a191f2f316cc02f6b91bad3/dbt_databricks-1.4.0b1-py3-none-any.whl#sha256=576d98bf9ec6f942256213f9ee49003ec4a643d85be4a0961e95f6db9b53d34a" data-requires-python="&gt;=3.7" >dbt_databricks-1.4.0b1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/6f/b85ff61a0aeec46c87c06cc2127bb246a406b18f142aa14f14e7fe2dfe3f/dbt-databricks-1.4.0rc1.tar.gz#sha256=d18e0cc25074613f43a896c109250de1a0c013d28301de8fe56204f7fe1ec736" data-requires-python="&gt;=3.7" >dbt-databricks-1.4.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/77/e696217cd29407d1b12481d9e82f95b78586222d625cf3c56ad65a59affd/dbt_databricks-1.4.0rc1-py3-none-any.whl#sha256=05a120f9520e352c1a33473f61b93c0d59a5a98eed3bc29bd46ee9b10d40397e" data-requires-python="&gt;=3.7" >dbt_databricks-1.4.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/37/b7e04b43cfa985a87d67a1aea6a5484ce31a3bd6291e2a1c16db5deba9e3/dbt-databricks-1.4.0rc2.tar.gz#sha256=3f4fc701ffaf3e9020883596bae6afdc0aeb04cc47997ec1f47becbdcca83857" data-requires-python="&gt;=3.7" >dbt-databricks-1.4.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/21/8a5f7d70a35c8cc512edf9d9b2002114a8a468af2c41959b4028ada6f536/dbt_databricks-1.4.0rc2-py3-none-any.whl#sha256=361fc3d8518176da3d64cb43e47a7979378265e1a49c752415a00a1d6b75fa3d" data-requires-python="&gt;=3.7" >dbt_databricks-1.4.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/f2/9c9b7361f4de4b1a78317cbd59a86c6126aff43862dad2b42bc045324281/dbt-databricks-1.4.0.tar.gz#sha256=eb2e07ac690c7071f50f233d6b641e60245099d505de2f7dbd7689a49a71ee31" data-requires-python="&gt;=3.7" >dbt-databricks-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/4c/83b3ac4a69e52b878446dfbc212ad6a424cae01325e05b4ec88887b30afd/dbt_databricks-1.4.0-py3-none-any.whl#sha256=d336bb49e53f285e246582d0667cf1ce33b7217b658c8868ed0803eb77b0b655" data-requires-python="&gt;=3.7" >dbt_databricks-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/0c/a842b4c7744d5fd14b448f6a6d366103402dd9610b3089589eb06ba051f6/dbt-databricks-1.4.1.tar.gz#sha256=d367cc5ab8d32c7352b6acc1092bcc2c6f793bbfa3a0d271d77239cf4973cc3f" data-requires-python="&gt;=3.7" >dbt-databricks-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/11/bc57d9373e305cd57bc6565e25e0cc9da8113916aeced1dba57283e035a1/dbt_databricks-1.4.1-py3-none-any.whl#sha256=cf087b5b66302984b2dba99a980dd8bd5b684478d99628cd0bb676f9735d4330" data-requires-python="&gt;=3.7" >dbt_databricks-1.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/1b/5da31beec343f69114857b356ab78da2f3611e2ed4f1584fa57a04f2ca23/dbt-databricks-1.4.2.tar.gz#sha256=0ac519dcca145a946f00651bc68ff83b3405386b4a0925b6bb13af10bcfa11b5" data-requires-python="&gt;=3.7" >dbt-databricks-1.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/3d/3d7cf40fc16fa050a30cd255b845f39fa00a76861a3d9e0894b535d81223/dbt_databricks-1.4.2-py3-none-any.whl#sha256=eb8dff003ff440420d48b40870c7ae515154e21c77fa0186fb3afbfc65398c2e" data-requires-python="&gt;=3.7" >dbt_databricks-1.4.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16423221-->
+<!--SERIAL 16907172-->

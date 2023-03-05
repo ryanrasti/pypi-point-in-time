@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for schemathesis</title>
   </head>
   <body>
@@ -413,6 +413,18 @@
     <a href="https://files.pythonhosted.org/packages/de/2a/5e3684d43880dab238a08d41f10909b47d77df658d87fc06432c9cd6c33d/schemathesis-3.17.4.tar.gz#sha256=d0895c281a7d2947c7fe79c99fa5196e1e72c3aa28aa8df614b199f198c8bc7e" data-requires-python="&gt;=3.7,&lt;4.0" >schemathesis-3.17.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/78/28/206f2eb420992c0a1b885a037ece053900dd19093ece0b0ff4eec02d7a78/schemathesis-3.17.5-py3-none-any.whl#sha256=14d5b7b1aae2c0b8f64e72db2e0420ff4e359702a921d010cb7c347266024b85" data-requires-python="&gt;=3.7,&lt;4.0" >schemathesis-3.17.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/09/79dadf5e1c183fa566659e0b3299b3a50d59bfc2cd3c203d40da5ca81b0d/schemathesis-3.17.5.tar.gz#sha256=e7b645a88d890dc39ced65b6166338152b276f2bf8d442ca0432f777fcd2d0e6" data-requires-python="&gt;=3.7,&lt;4.0" >schemathesis-3.17.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/02/9aefc92af489d1c753929c070c5b539682b5f13978b58f7d047690148012/schemathesis-3.18.0-py3-none-any.whl#sha256=bcc33a8fb8ebea9980fa54c3b9f4acb6bddc5656968a3e428dccaee84f097fa4" data-requires-python="&gt;=3.7" >schemathesis-3.18.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/68/472bb935450a1996dd7ae244380bd8e296b495e4a5c646f2261aa329006d/schemathesis-3.18.0.tar.gz#sha256=2d59f5fd72dd0bc8f14009428c56b5421c6e66906c42970d87f863f4a337d7a6" data-requires-python="&gt;=3.7" >schemathesis-3.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/f4/4885e7ef5930df1d306c3e4ea53e7a3b0dfe8a23b2333df3fd21c99124ed/schemathesis-3.18.1-py3-none-any.whl#sha256=c87f37db7e0f024b8c4f509f51b5cdc5c0a44f05b6be8946629c3ee98273bcb1" data-requires-python="&gt;=3.7" >schemathesis-3.18.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/06/52c287f8948198d94bf89e8ef2ff9eec522aed8f84979eec11f296b20dcf/schemathesis-3.18.1.tar.gz#sha256=b936e504722d6fd4dfb8b32bb275f25b7a0eff2589b674b6a789d332b215790a" data-requires-python="&gt;=3.7" >schemathesis-3.18.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/c2/d537d409e9d735ecdf3ae56c19c87773a4bf22760d088ae7d4da6f061877/schemathesis-3.18.2-py3-none-any.whl#sha256=6d70d5afcecd94210241528d6f4d7c2e066984f1326436bdcffc4bcd3c885270" data-requires-python="&gt;=3.7" >schemathesis-3.18.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/55/ca9020b43016aefd0c961583e930699152110d03e1ec6bf33d8ab072db77/schemathesis-3.18.2.tar.gz#sha256=11c59cb3c2cdf705e4b3fd2aecb70ed7be9248d7aa8c7ee66c04a02785d108b2" data-requires-python="&gt;=3.7" >schemathesis-3.18.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/9a/b6fa824dd9aae763ebca0a98708008322c6709fe8ce20f7fbceb29068bf8/schemathesis-3.18.3-py3-none-any.whl#sha256=fd17adaceb7d4bae7c797826f94aa2a71f843acbd95aa8f1855d92adda3fba39" data-requires-python="&gt;=3.7" >schemathesis-3.18.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/f7/5ce89c0ad87a8366904bb29b518dfab2bcabc84552cd226410be43a1fcef/schemathesis-3.18.3.tar.gz#sha256=cda025cb0a60a284ba13476dc5d07786e8369a8ec6b076fc50fe7904be0a8eb9" data-requires-python="&gt;=3.7" >schemathesis-3.18.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/84/b673e1b4505abac03fcd4d596c050bd3d26faf8b554957dc76bfcf69fa60/schemathesis-3.18.4-py3-none-any.whl#sha256=777e92555bd440df13593402e4969221a1f9d00ce78164171f4942bfd32a62fd" data-requires-python="&gt;=3.7" >schemathesis-3.18.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/be/bb6b663cd555afee396341c4f38f194b384aaa7b807bc6a643ff943054fc/schemathesis-3.18.4.tar.gz#sha256=f0baad8399aa20d4b8e9a3d461d7aacb90677920f3aa646591a834d4f351cba0" data-requires-python="&gt;=3.7" >schemathesis-3.18.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/89/0cb6cd22aff728ec5c5f4c55c128278eb34226a947a89a768adc6a985520/schemathesis-3.18.5-py3-none-any.whl#sha256=e221a080c22b3f988c880e395db75d48cb1420465240c44e032c38e89f59f512" data-requires-python="&gt;=3.7" >schemathesis-3.18.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/c5/3aef5397457f49cd04935b056171185a394565d6edaf20c232484095be17/schemathesis-3.18.5.tar.gz#sha256=56d0d292b0a36c781154c5f9eb3c8bd64d5396f76be9f3f9f3b3121952ffc901" data-requires-python="&gt;=3.7" >schemathesis-3.18.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15698702-->
+<!--SERIAL 16913796-->

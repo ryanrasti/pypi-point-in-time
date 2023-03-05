@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-lambda-layer-kubectl</title>
   </head>
   <body>
@@ -258,6 +258,20 @@
     <a href="https://files.pythonhosted.org/packages/67/8c/ae94fd2c18b3a48f90f1ea215c892a3b1d9c5ae7c7f283379641aad81617/aws_cdk.lambda_layer_kubectl-1.187.0-py3-none-any.whl#sha256=bcea8391b4083cb028bed560c10dea407a9b42129388963711e066cb17e47279" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/95/7278a15140ea1b2351049c9846f312f6692060cc09f89de1e2d8449d32d4/aws-cdk.lambda-layer-kubectl-1.188.0.tar.gz#sha256=aec41ff5434fa5ef3909d2c270443e51e165d9fd2e4fda4f6dd6e0cb658bbe47" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b9/d6/d4185d02abfc06936a301b4ba83de8f3c388ba1a307dfb0f446391218f0a/aws_cdk.lambda_layer_kubectl-1.188.0-py3-none-any.whl#sha256=d3d070ede4cfdb25d0e143c3ccbdf7a4543deaf572a134fd960a2c299a55b903" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/a3/4f20444eafdbec11a52fb8f9a980c6a57bb83cceed329986fda4a7a4e4f6/aws-cdk.lambda-layer-kubectl-1.189.0.tar.gz#sha256=a2fce3093a890fe876d712a8d46c371819deb49ab1e7c2501f6f6d7f2fcd4b89" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/58/8441b9b91519b0e2f42a4de32707f7a171e3ea7f0c4d0b37f3fd10137e7a/aws_cdk.lambda_layer_kubectl-1.189.0-py3-none-any.whl#sha256=4409fc8c803a6c5bb2edfb502c087833dadfa6a34b9f1e9af6290309558b243a" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/55/b5190da1c8f4d8691fb06dd7e8f780e9fac9b17eedd61d1c161f320fe50f/aws-cdk.lambda-layer-kubectl-1.190.0.tar.gz#sha256=b3cb46daad8f18a88a06793a99defae855ab3006741b98eefc11a5d355813e85" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/96/f0170dd87c65c1088591874197b80524a2e718c68de3b9af38898f4165a7/aws_cdk.lambda_layer_kubectl-1.190.0-py3-none-any.whl#sha256=ba16b8b173a20fd0ca5a17b537b84d0a0de532e8f96a45ec6edd5c5958fb4b8e" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/45/3249aa3d9845cb6866f234225655dc4ba6f412bdf6e2a88fb86011c2fffb/aws-cdk.lambda-layer-kubectl-1.191.0.tar.gz#sha256=29a6dc7fc69f77bc1c1519593602f6d85203f1cbe6031f9abd26d9c02e25562f" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/8d/c5283ff751b937ba1fb2cad11acb3115aa511eb150ceba279db4714f5f29/aws_cdk.lambda_layer_kubectl-1.191.0-py3-none-any.whl#sha256=14ca813570bc3774619b497edd2402b37b8dec77add0008eb2c5a7499d2d2d3d" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/b5/6db513cd5c0712020de6abd7896dd8e08c8560183b4f1cef3920a98554e2/aws-cdk.lambda-layer-kubectl-1.192.0.tar.gz#sha256=c62c9d0e7eb8985383210178c543ecfda18d9e38cf05510aa6d99ee0fc497d2e" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/03/0949ba1eceb695c98f0fa12fee1b3c1f73095e9573b8ff92898168abbe66/aws_cdk.lambda_layer_kubectl-1.192.0-py3-none-any.whl#sha256=fba7eaa99f9b9f82b5058715bbbd8e80b14ef9fa8c9948df6c30d2b4d8e2643b" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/4a/a9c2fe88be27cf42dd8372e863e6130bd760a7836b2784c12a7693c32161/aws-cdk.lambda-layer-kubectl-1.193.0.tar.gz#sha256=0d936e4c77d732c95a02861265058694cccc6b8fa3873692d1113050f02ff4bf" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/fb/656aef9de5afbc99d2c39e059846fff09bcbd2bc8f912ed8bfc641e6c4b0/aws_cdk.lambda_layer_kubectl-1.193.0-py3-none-any.whl#sha256=adb682d255bda6f79497967d4c6f74354f32aca61d935ddfc49b80189b7a6bcf" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/bb/81095220954918e4889573bc87b1e13c2dfdc701f2fefdaa38b8d1bd89dd/aws-cdk.lambda-layer-kubectl-1.194.0.tar.gz#sha256=91cec7c6b954073f93e6e15b8db3ad0ef4e42ee0f0bf8cd81903d7a76ac69c8a" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/55/ca6a2b04d93e79d7d5b6f38e035cd742c7ae5098ca3f7a9764c1659d9973/aws_cdk.lambda_layer_kubectl-1.194.0-py3-none-any.whl#sha256=eeb1adb5ff968ad7c304817019f53b9ede677a81347f901b062ef9cec0570cd2" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/8b/9c0e0984c6dd78754d153c1581767c6922d6f1cb79ffa87a62c615e74fc3/aws-cdk.lambda-layer-kubectl-1.195.0.tar.gz#sha256=66486c5deac0d5e4e1892ebfaedf7c46dc44c38e412c2f7f6e343b37539507b9" data-requires-python="~=3.7" >aws-cdk.lambda-layer-kubectl-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/2b/b755e2bc1033dbdd5eea4511e3e6e07d44b4201c0545b2ad6983e78b4d09/aws_cdk.lambda_layer_kubectl-1.195.0-py3-none-any.whl#sha256=626b2dc6c83838723fdd5bf2c2ef1a940781487e2b4fb62baf7886354893f39c" data-requires-python="~=3.7" >aws_cdk.lambda_layer_kubectl-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393527-->
+<!--SERIAL 17132068-->

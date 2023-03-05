@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scyan</title>
   </head>
   <body>
@@ -24,6 +24,22 @@
     <a href="https://files.pythonhosted.org/packages/b6/c8/310274c713cd0c63ec4341bc69a897993f591ec334ba9d6f184664a77873/scyan-1.2.2.tar.gz#sha256=e08fd3e89ebbba4f6cec9e8eefe0974e16c6e5b7faa0abb3822491153eec761e" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/99/20/864830c03f2b440cb1d6273a4382db6861be478ee101a354a6d7b256a0e7/scyan-1.3.0-py3-none-any.whl#sha256=7824f37502b9b777cdc37a88ac706814bedb5fb3c7b2074f745db537cb6b5919" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/17/99/c79f0b63933e1d30e8d8ffd4616fe53f2571a74c0fdc1967fd35335bedc7/scyan-1.3.0.tar.gz#sha256=e4ea6a1e599792846e6ec383810096d1e2505c1cda44dd2f6170ea90983fef66" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/c2/b116d091f8a08e52457e94ce70601ece7301d83c2c00eaa82576f3d77076/scyan-1.3.1-py3-none-any.whl#sha256=924e8c80a9f971fbbfb598b57107c8669e0168b4a457601f494550dbb29285f4" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/b7/2e27073e128cf556a5059a5c236c89b6d4d4e7da11671acc413decef3c62/scyan-1.3.1.tar.gz#sha256=33e425fdb363349f4f229eec899c87850df7d855de0b661755b62f05ced16b62" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/90/e0d1e2e0055b68192699966e58931ce393fdbc98f0f9c7e34c18be0438a2/scyan-1.3.2-py3-none-any.whl#sha256=c58e5382a3bfe46ad0681821e1061c36c3929660b23f474d6973a3aa44bbd9a6" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/73/09d3a19089918678cd0dd894c03b4919d7fecf009b26b9d90d1fbe0a5633/scyan-1.3.2.tar.gz#sha256=beac7a467ea0f9acbdfde99ed701bebd87da18dabcd2ddafa9bc9f6552cb040a" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/33/cdbb30069bf1c9cbe340360f9a515a04f5517a05225bd1a91fe003d61ccf/scyan-1.3.3-py3-none-any.whl#sha256=8be8c21a612561811ce322fa7ee51e107294381332d0fcf0305c71f6f2986e6e" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/ab/58e3a6289d4c00dca839333a6496a1b9d26926f56b18cd27ae3147ea2f50/scyan-1.3.3.tar.gz#sha256=fc8a46ff05602f7c0f1b28ad2efe2f3dec2a87dbf116d9ab0fb4eeb955031f61" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/f0/63a0f315bd465fcffc15e5080357afba1aa42355d6ca4acb88478ddfd452/scyan-1.3.4-py3-none-any.whl#sha256=d4cd487d4253876b1e7069510f352c5061183f560c6299a0a8d35394015751bd" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/ce/602c2359e17d9ea034d0ccb3f53bdc55d471bdadf448bf23d6cc4529106e/scyan-1.3.4.tar.gz#sha256=9f8d8dbe2c243ba2d28722e9b02f38d57868eed88d1f4bb93fc3c00ffeb1199e" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/5d/df5281f00971bed4f6386fd4fe266cdd846df4ba6886cc0d3e730956ff48/scyan-1.3.5-py3-none-any.whl#sha256=b38963244b4638dbb1e196c25e8d5f03f86dfd9b4c67a68239aea8d0a0112a68" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/f8/73b4bb8de3f699a19367f0249d004652a1029b1f28e98345cb1a1148deb9/scyan-1.3.5.tar.gz#sha256=5aac3b8e6204e259abfddda452ccf45b376dc0635c89a37c602874f472d21b8e" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/b3/4fe5b7220ff2f8e31f82acfd8fb6bd549b86154d2258c7895f8af334f622/scyan-1.3.6-py3-none-any.whl#sha256=c9c85a5acda6900865329479874bacc1ede2edc6b65695b3e60e5228036a4a99" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/fc/bdf1bd01a48537aa0087779f62696b6d6deed568a0bcc6a5e925d807da7f/scyan-1.3.6.tar.gz#sha256=1bfd8bb247708227e6a87656cbaf1a7cb6e5c5d7f248333b77caefc1e7d6ad55" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/c0/09ee5f84ee231b6a12afb70f796952fe9e4123dc04afef4c0d5e4790d3f5/scyan-1.3.7-py3-none-any.whl#sha256=e40fb9273c91baa431c06f342b4855d0ade09f612213c245966b9b429b1f53aa" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/64/95dd823c692c4df38717caf6ace2bea9d5bd5df0a14f57d1c96ef12e6dfe/scyan-1.3.7.tar.gz#sha256=6521b9a333250f82f45cfde3b4b47c6ccfec084d3e90fe55e3c79976a19c5715" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/c2/ee2669d20788dbd3bf2628cf385f0a3f30e6786ba4fb6e5832cc3d2e6f4e/scyan-1.3.8-py3-none-any.whl#sha256=cb630abc93af984f9f39987310a54bd79ec37e369b45b6b4e99d026317779b36" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/a2/974c292fa2048dfee662b46e0677aa0036b62c752c0eefdc8f63ad38ddc9/scyan-1.3.8.tar.gz#sha256=877a561c3b9bf2e459bc064d4f52e8b2174a863c296a0d0ad95cac366e75878f" data-requires-python="&gt;=3.8,&lt;3.11" >scyan-1.3.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16391465-->
+<!--SERIAL 17108368-->

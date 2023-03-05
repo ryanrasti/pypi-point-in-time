@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for autocarver</title>
   </head>
   <body>
@@ -15,7 +15,26 @@
     <a href="https://files.pythonhosted.org/packages/44/9d/4e5ef4ddd5aecf2e90e76699b4d597ed544742baa4f011bbd7ab0d06eb65/AutoCarver-2.0.1.tar.gz#sha256=cabddb491c51fbd0e05b24a37abdc26600e3779537aa5e6fa1f0b5a937570124" data-yanked="corrected __init__ file" >AutoCarver-2.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/72/aa846c3e44cb178c4f61ddc7b8dec4ce1dbacf719ae2621538ec7336537f/AutoCarver-2.0.2.tar.gz#sha256=25e9eeb657923e2a4fc5a83f2b249436d4d5975f52e5c6417823a4791a263bff" data-yanked="corrected import " >AutoCarver-2.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/18/b6/14bb3f6d5014dff89ab56c9db77a64b622ecf73d3970e602b0327f5458a7/AutoCarver-2.0.3.tar.gz#sha256=b400a7d132c0069a8ef489051c9485286849d5df6e6ff2d3e0b413722b319b85" data-yanked="corrected verbosity" >AutoCarver-2.0.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/6e/db/892dc75b9d3de9e446734308a93dc4200423e9e41441d526895886b9bde8/AutoCarver-2.0.4.tar.gz#sha256=a508cdd8d501bf2bf8d5cf235ee173b1453ed6026aac552aadadb741429bbce5" >AutoCarver-2.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/db/892dc75b9d3de9e446734308a93dc4200423e9e41441d526895886b9bde8/AutoCarver-2.0.4.tar.gz#sha256=a508cdd8d501bf2bf8d5cf235ee173b1453ed6026aac552aadadb741429bbce5" data-yanked="corrected string formatting in discretizers" >AutoCarver-2.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/4a/b596f5a17514cbc0490f2b7dc677685981e55742c2b7ed2f8fe00b737603/AutoCarver-2.0.5.tar.gz#sha256=910ef3c7169ee48a960197b32ce89eb6f39cd75d3aeb9a648b189e77f58c5ce6" data-yanked="not stable pandas apply" >AutoCarver-2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/e7/e953ef185ed84d059616f3ae1a5bce819dfb826c1c5947206016a828591a/AutoCarver-2.0.6.tar.gz#sha256=decf395314d7c1dbc9858d90fe2a4c4c19fef9d69442bc9bf946d3ab6adf1301" data-yanked="removing prints" >AutoCarver-2.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/6c/44fe453ec8ead5e8991ed2ade60739fce2e9a69093a4eda10c88086216ad/AutoCarver-2.0.7.tar.gz#sha256=b736c960abdc4ed79dd808b17349c662ae3f28f09f8120f2da1053565033c1d7" data-yanked="SettingWithCopyWarning" >AutoCarver-2.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/46/f96df7d595621ba7a7579506c246f6f8aace0c08e42e50db199c160cea76/AutoCarver-2.0.8.tar.gz#sha256=d1bab3d599d6a742e3b5696b053a3d8f0d19658473baba5769e055a7bc076f94" data-yanked="wrong denominator for target rates" >AutoCarver-2.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/61/433a475925b911cb910a59045769fed97d14fb0b2c6a1859352f82d1ac91/AutoCarver-2.1.0.tar.gz#sha256=eb50d9d3d4911f792193f80db971bf4ddc15d38bc68bf3ed5cfb690150f406fb" data-yanked="added FeatureSelector" >AutoCarver-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/ce/c7db6a1b974b12dcd011fd1f5dc94626a2c822b9e705f8b44cf2129f88a3/AutoCarver-3.0.0.tar.gz#sha256=0e6a50bd4dafe8af55fc36d9be490c36372c24d6d62ee3ed3f348a8a6fcde9e4" data-yanked="missing VIF" >AutoCarver-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/6d/b7e90f8a5efb09401fcf6328eec6481c9df2d8317c321b306f1f22ce3aee/AutoCarver-3.0.1.tar.gz#sha256=07050f15e7bae928df58b42ad732c2e1744e082b694593d6079269a414b96551" data-yanked="nans in regression" >AutoCarver-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/87/8bb8de7dec45ce02568a05cedc3c29f11922d5811d82a0962deeb5855382/AutoCarver-3.0.2.tar.gz#sha256=cbae9105c1482236d641d049aa2cb142c3733eb286b0babb05dcab1c4b9c9ccd" data-yanked="Github" >AutoCarver-3.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/a7/2d5e95069f8620cab0d2377ae33c02b0966dded6d38826c009ad20859ae0/AutoCarver-3.0.3.tar.gz#sha256=5761adcadbb7c4785be5c45b4257971bd4b7669e16ed3a786da174b64554db5d" data-yanked="Github" >AutoCarver-3.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/ab/3393479d770f2b74425fbec94afe659e1e34bc2e8f40da9b3ac4f7e8a48f/AutoCarver-3.0.4.tar.gz#sha256=9a4062c2d5cc79f88028ab6495336390a9b47e1a5e273e413f7abe9c4434db7e" data-yanked="Github" >AutoCarver-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/55/6ee59a70a673b55426308d4d58da1b751f5bd1979fcc0ceb0e59a93333b9/AutoCarver-3.0.5.tar.gz#sha256=0e18ceeb64df88cea365b5ececcdd7e40897a3a0fe347345abd17cee5e6b79a8" data-yanked="Github" >AutoCarver-3.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/c8/c0e9610f75a7482588a79df4b2ba1954ccf8a0820109bc7250d4f28b830e/AutoCarver-3.0.6.tar.gz#sha256=c376ca24ac31aa61b60e4e820670df4e96644bc483c92d92e96854fd258b4697" >AutoCarver-3.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/1a/93435716ba58393a20c8b5b10ed936fde8efee7719629ff4f45211f5a0c2/AutoCarver-3.0.7.tar.gz#sha256=cd768be73a9a0d7174394b35d442f25db6d1225e68338fe06b4259227f052afa" >AutoCarver-3.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/d6/0de518d56e1683e75922c4395823078ed2ac0b09b4d3d7966a81146064fc/AutoCarver-3.0.8.tar.gz#sha256=952ba87187e32f1b7a68dc3edd19915838ad449d5df59aba61993c4494ef6c1d" >AutoCarver-3.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/38/ffd741e38c76afe093f42ff2d3950a680a4a1533e457b2e609e454ef31bc/AutoCarver-3.0.9.tar.gz#sha256=e106a48bb8b75916e86ce243c51c801202fabced370f9913e7b9baa8a66c862f" >AutoCarver-3.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/42/38f66a6bc04b24e59c19417ddc90088548ea52f328a0c2e77badda004692/AutoCarver-3.0.10.tar.gz#sha256=4f65bc77d01bc1fc5b6ff93ff4b1bf82d447792eaf73c065eaf4e7361f23332a" >AutoCarver-3.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/6e/6a74f2d06105986304384077b5ebe2b03cefce6d3d2342eb8f850256a16b/AutoCarver-3.0.11.tar.gz#sha256=1092e9eab1177dd3afe852304711eb1af41f93dcbba76697bcab471d12202e46" >AutoCarver-3.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/af/9cd4bd6a216884a5f5d6af9b69cf29bf429a8c41d0983ade27ccdd911e04/AutoCarver-3.0.12.tar.gz#sha256=0ae39bb73e3c93402db2eb1806d91e8dd6c75c8fd318de2648fc4eff0e51908c" >AutoCarver-3.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/a4/a525180c4c12080e27dfc02d3eda659fe92f99355eb87663390b0204ad5f/AutoCarver-3.1.0.tar.gz#sha256=59feabe4443a5dd012078d5604561c191285c10e4d04e369c30f59132aca56fb" >AutoCarver-3.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16364688-->
+<!--SERIAL 16744239-->

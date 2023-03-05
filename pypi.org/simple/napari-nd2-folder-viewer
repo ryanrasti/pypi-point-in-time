@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for napari-nd2-folder-viewer</title>
   </head>
   <body>
@@ -20,6 +20,16 @@
     <a href="https://files.pythonhosted.org/packages/5b/bf/e71f4186e205a2532810c050aefdf84a8e94f5c74744ad2435468e9038e8/napari_nd2_folder_viewer-0.0.7-py3-none-any.whl#sha256=4e7a318c3cfd5f813ea1841b356140250b63083eee5927d34068cfa99c068966" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/45/15/98de62bd624537b5bfeeb502d45ccc4fc6bd8a2fd9ea3ca0cb006b4c23cf/napari-nd2-folder-viewer-0.0.8.tar.gz#sha256=f3fca21739a90470f62ed6c0acc09d3e06ca697945646bdd9ce313ef837f1c28" data-requires-python="&gt;=3.8" >napari-nd2-folder-viewer-0.0.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/78/0ec876af6eefc1ce3903056ef1d1f07730c5076a7e7d9bc71e19e8b9f1a6/napari_nd2_folder_viewer-0.0.8-py3-none-any.whl#sha256=c6763b72aea4c3b3d087bb654f0423f4d790d13775160ca7d9f65b76143a3945" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/9a/92db6a9cb8e59077c03c7f62ccf78eb82b708d55c2ad653c9bcdbfcb3c07/napari-nd2-folder-viewer-0.0.9.tar.gz#sha256=d5534ed0d98467b7690922901ffb87ee9d099ade9b3a383a4597ff1da4f1fdfa" data-requires-python="&gt;=3.8" >napari-nd2-folder-viewer-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/0b/f9fb28c1a8a324b10d29fb8099132d24353c17573427f2fd412443d85e7e/napari_nd2_folder_viewer-0.0.9-py3-none-any.whl#sha256=44e761eb8eb2264fc5a06efaad4688b38aa3fde59c6a1b487a5145ed33461265" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/98/8aad2306d92338a4757efc0371a0950ae5849fc26ba2cdf765be2af2c3a3/napari-nd2-folder-viewer-0.0.10.tar.gz#sha256=e53777d004f8ad19cf73e02463445ebfe7349bd5a26f1531fa777c7054107e68" data-requires-python="&gt;=3.8" >napari-nd2-folder-viewer-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/c8/e0f8a847a065c67c9e57ff1d3a74b194a658401eed4a724246e12b093871/napari_nd2_folder_viewer-0.0.10-py3-none-any.whl#sha256=217851efaa25d6d46af9abd1f8e82502460cc3a94162f3e3ff94ad01df7a2545" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/3f/e0c2e6e303c42bedb99ab326c16845499165ea51ee69a2c5a01a0c913fdc/napari-nd2-folder-viewer-0.0.11.tar.gz#sha256=0af50f030b2c9f0315d246f5711f4b2466401fa3003b85f4d2e1d086ef65e66c" data-requires-python="&gt;=3.8" >napari-nd2-folder-viewer-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/61/5998737447c3eb3c048aa35a6ad3a8f063873965e0fc8f9fc77e9e9383cb/napari_nd2_folder_viewer-0.0.11-py3-none-any.whl#sha256=2799c8fe7d9094c291797c152ab45883db29b6c68b8f42c14c8caedc6a1d2dcd" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/82/29ac8b6234c14ace843a53493b45ec01d7c6ea8df06970b6ce0aa20a3302/napari-nd2-folder-viewer-0.0.12.tar.gz#sha256=af4f35d045840a6959fc170d47a034ee74cd0561552634544cb34ab0dd2e672b" data-requires-python="&gt;=3.8" >napari-nd2-folder-viewer-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/b3/9830b25513be199366dab2b57a38254b0a9886414c8e6a5d9ea31a3f6b2c/napari_nd2_folder_viewer-0.0.12-py3-none-any.whl#sha256=df13433a8176bf9f6a39212a24b05406ed4a064de770a6e30c919007fe4d3cb1" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/71/0b282bdea7ae7fc16424a08141eecde5e043dcb5168401849e3d97058bb6/napari-nd2-folder-viewer-0.0.13.tar.gz#sha256=c43de65a1981ab1382366aeb5bb1415d1c735e40bf235ab5a681303b5dddcc7b" data-requires-python="&gt;=3.8" >napari-nd2-folder-viewer-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/e4/aa4e246cadb793b72e6f6915dce7e7d4c5f661d508e3f402ee5494e9810c/napari_nd2_folder_viewer-0.0.13-py3-none-any.whl#sha256=850f366f75232051beafafeb1e76560af4f0ff6a0eca7c2860c1b0e3bf517d1f" data-requires-python="&gt;=3.8" >napari_nd2_folder_viewer-0.0.13-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16088122-->
+<!--SERIAL 16654586-->

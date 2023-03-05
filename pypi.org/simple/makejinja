@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for makejinja</title>
   </head>
   <body>
@@ -52,6 +52,24 @@
     <a href="https://files.pythonhosted.org/packages/cc/5e/41fe8c8e1e5596be88a504191182009fe1cc6e99595d280cd97c928c42f6/makejinja-1.0.0b7.tar.gz#sha256=5b9bf6ca28b9d9a3d61c4dc8bbd7e57474aee8973e06652ccf76b7f0384d53eb" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/2e/c46377ea12c3f307196a69a106c73271f20ace4fc3279218f1b9cb7d6610/makejinja-1.0.0b8-py3-none-any.whl#sha256=e44f41f50a4fb440beb6dcc9729a14ef0d3aeea748375a441a1dcb4ed1b4f2dc" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/46/b2/a1a281d1dae5a8c97bb0209d19e315c4521c99e3482afb273cafb3e81029/makejinja-1.0.0b8.tar.gz#sha256=5602ae4185926ab6c2faf997c9c471432279eabe78f9be27fe3f9b19e6d1149c" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/58/24a33ce4dc9ff1dfd6edec42ae7607af0c5fc0ac0c96501b9274adb7267b/makejinja-1.0.0b9-py3-none-any.whl#sha256=fe3fc8a389c4d13b317fafbc003f05d027cd69c73a18efcaae5519600a15ee03" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/6d/d45d378f39dc05493375d470a0ceb514d0f59e4493fa88cd4d053d5d1f75/makejinja-1.0.0b9.tar.gz#sha256=d78f51b67c41d02618b20643c38c27261633b19102ddbbe20af37165f71c4497" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/df/b7627ef5d2a2471a7907c3820f1e6f0333646e6f28dfcfe87c599a87af22/makejinja-1.0.0b10-py3-none-any.whl#sha256=2d3dcc43001c949df70bbf2ec32632491430b9fa8c9622edf0bcd9b9e935a8cd" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/44/ed922b53ed7cfbfbfac5936e82ba47758cf00b69b920172b8378ab173a9b/makejinja-1.0.0b10.tar.gz#sha256=02962bdc2d67cb8679debe03e69b1be903fc5f20c5c82a244ebdde3282c45633" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/1e/59743750aefcf3102ff5f60f6ff0ef13d8414e3e7f1139d9ad3fb9fc3d56/makejinja-1.0.0b11-py3-none-any.whl#sha256=8f702156f84bf7246c3ad014ef6ffec0cbebff6219ce1c990633614567a70be6" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/7b/d74049d7abd0e83a6ddda0142d2c8b85641d38b6c8fea1ac1bcd3dda68a0/makejinja-1.0.0b11.tar.gz#sha256=4b7f9b34e845d68003b4d84f272545327f323d21c05db9969c2924bbb3f75530" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/89/26ee9e2a4592daac3cca2c741ac9bd510f70bf27dacc95d3ba72edd26598/makejinja-1.0.0b12-py3-none-any.whl#sha256=4c6a2b97c49e2060557c01aff6c350126e6e58e65e4d8f3c8dd0e62dc1caa2b2" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/38/cc33e7cc16f0b7099c75c372519a9aaa9603169275d7dd73d905982092d3/makejinja-1.0.0b12.tar.gz#sha256=bbfe5485b4216d96e1062ceed548fc4685ab60792d30f2d76f8c89ddf645fa1b" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0b12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/7d/cb9fc5968b053aecae9c404048a06e82f64015b8545a846ac90e7fe8187e/makejinja-1.0.0-py3-none-any.whl#sha256=c1593d28ccac2a7d4a94df77138775cf338f8715522653ef9f52034d418730ce" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/7f/5f1b52244e67f379b4b6525c5b74fc67d0fb7f8aeb26f1085c31b2f69135/makejinja-1.0.0.tar.gz#sha256=d7504a8b17f6e5a39cc4084d434b99daedbf715bf7e2db466971811b25498cd0" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/84/03c7ec85b43860976ef29994d6e2455bdb63a097be58229611077f2c658b/makejinja-1.0.1-py3-none-any.whl#sha256=3b1d3d01ba7479438b10ed6185ee6edb3653d189fab8a9d2a566ac92e21a4598" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/d7/37a72eaac21b02604f56c24f4be372735ff720dfd4927990108f7aa0a083/makejinja-1.0.1.tar.gz#sha256=c02bbad5ef223e7e143cdac72c75009efde28d777f612fc01499feab82a9eccd" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/35/1fef5fe57d180ae77bd8b39b8192f94a912757f1b54e1b5e12b13d24ec14/makejinja-1.1.0-py3-none-any.whl#sha256=9d26f69be10b557b1bc3cc6796b9ba4eb3fcb9a408655f9c431e3a3c1ec8066f" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/e4/1c34ba2884113435236ee67dfab3aefb44cfd36d9f42930f3ac31428db26/makejinja-1.1.0.tar.gz#sha256=154911eae8745ff5d36b5e8ded0e73acef9a860c9d705ece49c0df4a4de4cc70" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/58/af61f27bb4b20e44c28786272846668f2f57197edc76ea2fa40c2c97ee3b/makejinja-1.1.1-py3-none-any.whl#sha256=0e61337a838e56093352715eb817828bf5a7495ae446ecc6b232deba18a4ad91" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/a3/bb5baa22bb1ab27f91b6fa8836ecd6c2a892c5e2238c052993e96c3fd067/makejinja-1.1.1.tar.gz#sha256=2da2b4a379e66d18d3974a5de55e88723b0b48969f03f9b47dc9e7d823c770c0" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/80/f9e4f909f69619092b9d9be6838b973274030faafbc4ca9524255cd498f9/makejinja-1.1.2-py3-none-any.whl#sha256=2c367a42623ea22fa5f566a0268214593f875c25eea266163abeff1343ea248b" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/58/5bd542a84ae5c1b96cbf7f3008f8e7053de249f37160de4b04e799319fc6/makejinja-1.1.2.tar.gz#sha256=0f1e37242e95990d40104a61c79337e01972e252aa1eaaaabf35b93048d2b41a" data-requires-python="&gt;=3.9,&lt;4.0" >makejinja-1.1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16432226-->
+<!--SERIAL 16855318-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for python-ironicclient</title>
   </head>
   <body>
@@ -170,6 +170,8 @@
     <a href="https://files.pythonhosted.org/packages/27/7a/6460943874f205fafbd3f5c4434cd3f1db375d5a2c63cf6e973a6f27ca03/python_ironicclient-4.8.0-py3-none-any.whl#sha256=7a4f4e743b44e3862585c830e3832ed93bb29f3fb5b367e61500e5d1f0d25f89" data-requires-python="&gt;=3.6" >python_ironicclient-4.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/38/c59f76e715b43fc053124e5606f60cdfc059d24e1f3e4b58f4ae90fe7977/python-ironicclient-4.8.1.tar.gz#sha256=82d918f4c97d4279bf150cd32250f1a6af1f5d554083efa40d7616a10fd091a5" data-requires-python="&gt;=3.6" >python-ironicclient-4.8.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/76/e4/7d81ee5e7697ceb0995e86952b80d78749ddebfcddd63d6c9be7edec4a3b/python_ironicclient-4.8.1-py3-none-any.whl#sha256=696d1f716c7351fe9da0e4c192d79c5f1d137db5c5d6c0f00a57626090e60d39" data-requires-python="&gt;=3.6" >python_ironicclient-4.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/ff/d1d8b6d55b00737af97d9c012d452a5e3b0b4c417ab2de13b0c24166a600/python-ironicclient-4.8.2.tar.gz#sha256=bce2161a6cca149efd6534ab89c99c806861f50e816306dfb77c0c822f5243ff" data-requires-python="&gt;=3.6" >python-ironicclient-4.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/fa/ff2ddb752e7b4845474a8c5c26163caf536c9289bbe2fc8aa5d6c846db17/python_ironicclient-4.8.2-py3-none-any.whl#sha256=25a98eeb46339f539d46903aed6142531e10205fbd7998ef587311cac3b559bc" data-requires-python="&gt;=3.6" >python_ironicclient-4.8.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/e1/b367f7f40e6c69ae3c785783fca9732ba2737b991a9b3ab324ddc118eec3/python-ironicclient-4.9.0.tar.gz#sha256=99d45e914b2845731ac44fbfc63ae3e1bd52211396748797b588f2adc4b3f341" data-requires-python="&gt;=3.6" >python-ironicclient-4.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/83/95/279df758d7885340f40ae968e74f752f7b97e9d95b0158011a74b09a9483/python_ironicclient-4.9.0-py3-none-any.whl#sha256=68101a4b555fda0f38f2bf5f0cc2c061a2b2a057cdd96e8acf40442adc89cf12" data-requires-python="&gt;=3.6" >python_ironicclient-4.9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/70/6f46657104596abaee2a06b8cd0f2943f94d7d8ee2c87414395ef10db3b5/python-ironicclient-4.10.0.tar.gz#sha256=8f3ad8ae1fc4df524ea05a458ad2567b58144e881807dbbb985e282902d732fd" data-requires-python="&gt;=3.6" >python-ironicclient-4.10.0.tar.gz</a><br />
@@ -180,6 +182,8 @@
     <a href="https://files.pythonhosted.org/packages/df/d4/8a3dd64a27a260d631f37e08165fd3a8c0c8082180795b58b8655b6291da/python_ironicclient-5.0.0-py3-none-any.whl#sha256=036ae79f053c75ced0a0319b06a7f4944b69da4247ab1f45ce9161af0880567f" data-requires-python="&gt;=3.8" >python_ironicclient-5.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/9b/1dd9c2ecdfd42b53038497e0ea2b33bab415e9ec3eb1acde88db6a694782/python-ironicclient-5.0.1.tar.gz#sha256=ed16b06c9e4ee4a0abb83e3df5f3a4b85728b81ce9ddfeda1149c4dfbc09aa63" data-requires-python="&gt;=3.8" >python-ironicclient-5.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/6e/8dd26b3b7b1f19cca306956a0c3d4066f487003ef94a2a5d3534573ad008/python_ironicclient-5.0.1-py3-none-any.whl#sha256=a696346feb608364fe069f2424a948005ddaa20431cb6dccd1c5c6b2de0b2cbf" data-requires-python="&gt;=3.8" >python_ironicclient-5.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/7b/5b16dc27d0225a890b5cb8afc68dc8d238ddd4c0aa49599a921122e2090e/python-ironicclient-5.1.0.tar.gz#sha256=c989b366ec1949ab0dea0e81a2c8af7b17b9a0ecb774ffa5fdc0f94e45c2f3b8" data-requires-python="&gt;=3.8" >python-ironicclient-5.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/da/faa407e780572f2083965e25daf0b8c79f5bfe419c1534835e6b6a3bc887/python_ironicclient-5.1.0-py3-none-any.whl#sha256=25b75424501d09e5fb89fb014a04aae21717c0215762f587f5abab688a22b5fe" data-requires-python="&gt;=3.8" >python_ironicclient-5.1.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15521274-->
+<!--SERIAL 16901292-->

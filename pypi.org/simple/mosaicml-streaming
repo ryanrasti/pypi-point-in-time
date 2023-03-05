@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mosaicml-streaming</title>
   </head>
   <body>
@@ -22,6 +22,14 @@
     <a href="https://files.pythonhosted.org/packages/56/3e/cdbb6cdf75f6929fa280afa31b4952dadec2970e3bf37ebfb4ce0b232080/mosaicml_streaming-0.2.1-py3-none-any.whl#sha256=b29408450d72094fa5bb659f3ffddc2dd6daa080b3f1e39691b1e96dda5f9b6b" data-requires-python="&gt;=3.7" >mosaicml_streaming-0.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/c0/17c3c295fdb2d43d14efe763ef0ce85d1b7782146043a7823c07dcad4c62/mosaicml-streaming-0.2.2.tar.gz#sha256=a11357945624ebbc3c4c84d3b8fc13f6521c4d4170f97872a687b1ae381e9dfa" data-requires-python="&gt;=3.7" >mosaicml-streaming-0.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/11/4b41c13d9d492c6105ed153662c4c18598e341cac5ad08f7fd2b7264ea3c/mosaicml_streaming-0.2.2-py3-none-any.whl#sha256=be183f40d5353a6cfc4c716a920243cea6696a896d0874c864de39040105ba80" data-requires-python="&gt;=3.7" >mosaicml_streaming-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/cd/b40c6b2b06d2ee43ab4bfd10e5b29939bd35182a4bcd9bbd2bfd2d22e829/mosaicml-streaming-0.2.3.tar.gz#sha256=cd04a2e455357ad3dd77b910b26064805e7319c0bb0d9fd42b59fafb51809354" data-requires-python="&gt;=3.7" >mosaicml-streaming-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/ae/bd2f2373101d1649f461211f38ceeeb86fa9fa38d7e33bb42ce74192239b/mosaicml_streaming-0.2.3-py3-none-any.whl#sha256=794aeaa52b2bc0602d6a35f7c72eb8eb15dfe05e7b1770a563bd7d33aa4464ba" data-requires-python="&gt;=3.7" >mosaicml_streaming-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/61/c47190fd5dd3837829b7b29cba9b6ebad5655ebf22fb0cd5fc26f8d817bc/mosaicml-streaming-0.2.4.tar.gz#sha256=0e856e4e1fbb82875e5237e370e4ffd4f471eb71310c6cf8d5ebade4ab690d7d" data-requires-python="&gt;=3.7" data-yanked="Hang bug when torch.distributed isn&#39;t initialized" >mosaicml-streaming-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/3f/550dde84c83969be795065eefc6c345fb337392eec54875400be0fa965e6/mosaicml_streaming-0.2.4-py3-none-any.whl#sha256=99e4617b6d37bcebc73b7c2889ead18cd55d5721d0c2d7c97ae73168ed769971" data-requires-python="&gt;=3.7" data-yanked="Hang bug when torch.distributed isn&#39;t initialized" >mosaicml_streaming-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/98/a772550eecc8b31d8728168fefe3f22e698bc3889c05793f3d2085a566f3/mosaicml-streaming-0.2.5.tar.gz#sha256=6e03103b34036f797ff79857c36c83b5b2c992ec4994463ebefc91b82dd607ab" data-requires-python="&gt;=3.7" >mosaicml-streaming-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/9f/7ef2bedd617ccd264a43084dfd5f6521e7709f7ac3a82d97e57f5684f5c3/mosaicml_streaming-0.2.5-py3-none-any.whl#sha256=20e6c60ae97b987a9b232b0880d859c5b1f9de39c5ce72c8e7b2255228442b1f" data-requires-python="&gt;=3.7" >mosaicml_streaming-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/16/2270cf0d9dffb537a4ceff248f4f51645511d5062a009885df0fa03ed5be/mosaicml-streaming-0.3.0.tar.gz#sha256=65cebc1785f10b529f1d191f7e11bbe91ad03b3b43ec10cfdd41a5757e79fd70" data-requires-python="&gt;=3.7" >mosaicml-streaming-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/90/128f39db84498bb89ad81f1c2ff7fa1d4c3d611ae9cfb10dad61508a9ddf/mosaicml_streaming-0.3.0-py3-none-any.whl#sha256=0523c3f78680a97460e8f4212ee30a53cc0e7ba7d7ea18a22291a018d4d402d7" data-requires-python="&gt;=3.7" >mosaicml_streaming-0.3.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16366519-->
+<!--SERIAL 17108409-->

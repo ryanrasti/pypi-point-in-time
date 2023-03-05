@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sigma-cli</title>
   </head>
   <body>
@@ -52,6 +52,16 @@
     <a href="https://files.pythonhosted.org/packages/cf/a1/7c71ee10c0df9bab7f7252307379ac2ccae9fd6ba73e15f07d708aa92fd1/sigma_cli-0.5.2-py3-none-any.whl#sha256=02efc3e6bab331266d6c71b089f6b3cd2356bd1281e311b2f4da9b4a7ffeaee7" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.5.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/5e/f8f708ee74e8552c6dca1eadbbfb799890b8802955e0ee58a3d2e7b410a6/sigma-cli-0.5.3.tar.gz#sha256=b707c0b33c9a73b8c8258ed21c0cc5788a82be8f14067f0b570a047f3c728f90" data-requires-python="&gt;=3.8,&lt;4.0" >sigma-cli-0.5.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/e3/53e72c234581d89c1845afc4ac98e119ebc0ba196bdf54dd98d3e1dc81fa/sigma_cli-0.5.3-py3-none-any.whl#sha256=d8c51ae93b5f6f96a29a16129c6245b9e2078e42f71eb06a4bf7f35f9da49b47" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/08/553c57dd1bf6f80f3fb0e50636b7e9fe7cf4b95af42ce3f01efb7a75be90/sigma_cli-0.6.0-py3-none-any.whl#sha256=222c2be355b3776e5f64cfeb2ae7f4a89f032adeb6331c2f54f0ef811943c032" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/07/19c2b3bbc21bdaa12621a348fb885d3079d1713e55f193c6ab2ab412cacc/sigma_cli-0.6.0.tar.gz#sha256=c5a696e1cfbd544ab9ebcb019f51e2faf68927940c5db3eadf03b1b28ae0cf3c" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/17/ff36fdf2973dd0d04848b2b45ee47d27bdfec0526763dc2aa938c6bf87b3/sigma_cli-0.6.1-py3-none-any.whl#sha256=9dc25a75ace6063994d317b468384c26434ebf4b471b0238ac66dc57f3524b0f" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/50/7514b580eef044957067f07800028f9c74992ad65071fde5c1d62fb951a9/sigma_cli-0.6.1.tar.gz#sha256=bc89393393628183815474d61ba1dff48e8db821ce91db77b258334438ea3bfd" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/db/330b242bc519bd942bf9d2f337e5f36c253e716fdc291cf9a7e63b707d3e/sigma_cli-0.7.0-py3-none-any.whl#sha256=0824591ac395fce0ae9c1c8775de6eaca54a08dc9aab998a2041730c35a0f8d1" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/bb/57d7ebc700123005b9519d1dde01e397b5f25f58b3c12eb978d2e0379ec0/sigma_cli-0.7.0.tar.gz#sha256=09d7557e504b5fa6a94f8bb7119973ea41beebfed1be3fb9d819ee708ccddb2a" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/5a/2b5cdeb23d8e8d0da79f67b72f914eb339dc7d773fa903d3fc495cb79884/sigma_cli-0.7.1-py3-none-any.whl#sha256=4521123a393e5c5753f32493fafe1ea2f0336828f0493078791b72ddac84934b" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/ec/013e3764d59cc7aa4297357401d5861a1bd905dca44f1a1bf3b8a2bba462/sigma_cli-0.7.1.tar.gz#sha256=18bb1e161e8a972e389b8c01b944084b5b3976450bc3b8958be2d6089b3fef6d" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/93/1bcd8446126ea5fb714882597fe2d9301f56242783122bb0d6c12461db0d/sigma_cli-0.7.2-py3-none-any.whl#sha256=b35686a59b8b0bf6a492687e4df41d960ad0e98a122924a53c2273a1b4c2f5d7" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/9c/bc79c9b1ea18842d2d9ff77fd03a5e897ae3fb4be9dcc4af34e6e9b84a47/sigma_cli-0.7.2.tar.gz#sha256=d9e5c6e39f7805291009f256d7e0f949de8056e7415ae63ee170a27bbadcc548" data-requires-python="&gt;=3.8,&lt;4.0" >sigma_cli-0.7.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15329266-->
+<!--SERIAL 17150077-->

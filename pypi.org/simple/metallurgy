@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for metallurgy</title>
   </head>
   <body>
@@ -38,6 +38,18 @@
     <a href="https://files.pythonhosted.org/packages/f2/66/22e5c5023cfde5836ea3e4d707e71520b0e185e4e8e0a5179f34ee49054f/metallurgy-0.0.16.tar.gz#sha256=12724d4258f6504190e0eae5e0df65918d268f46e457f0d8a8fc99441dd10e42" data-requires-python="&gt;=3.7" >metallurgy-0.0.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/99/ff/8f9582f98c7682db570a5a239ef5584de0bc58543bb2a44fa20ca8aa4aea/metallurgy-0.0.18-py3-none-any.whl#sha256=7bd1de773a6d42173b4afbfdddcddeee6d14c814b37b71ed6cec317d0a8f19d5" data-requires-python="&gt;=3.7" >metallurgy-0.0.18-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/7d/b55d818368e361f9b95288a0e68dbd83322609eb521704a00538462e82e7/metallurgy-0.0.18.tar.gz#sha256=d6e9089b20879dca58b068c1b2bbbb9ba5bd900d23c85a455f760b455b2fe81d" data-requires-python="&gt;=3.7" >metallurgy-0.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/c9/1dfce2188f7faece50dfc20f267684f5c0a42537ed65dc779ff583816b1b/metallurgy-0.0.19-py3-none-any.whl#sha256=beb6ffa21269f460a97f0279008d91230fad23b0b41fd10ccea0d04d633d72d8" data-requires-python="&gt;=3.7" >metallurgy-0.0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/74/5f7b8e04d39dc7f71e8864e486b00b602845f3b9c7a4bc4a8ead4c76d4c3/metallurgy-0.0.19.tar.gz#sha256=88716e978535965540a3509787e821383449a3bf2655d1b34d1173af57077c94" data-requires-python="&gt;=3.7" >metallurgy-0.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/91/953d93a57299af8e5855cb761bb06bc2e9f93abb29044e48a9802b193ecd/metallurgy-0.0.20-py3-none-any.whl#sha256=74b1507accc92be2b157bd9f5a2f7bbe2e5e42007bc0435c745b3e28fa780fc8" data-requires-python="&gt;=3.7" >metallurgy-0.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/97/e9cdc42043e50884e788ba5522723ca7b2aa60234353da104b8dee9a53d1/metallurgy-0.0.20.tar.gz#sha256=9aa6b38f3f07214a1019ecd02933fb15c30bf5cd941b4f2159614b87dbdde064" data-requires-python="&gt;=3.7" >metallurgy-0.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/91/eb3ac17b5e4a452329027531c065f2ac9f12ae27dd43f3138c9d68953381/metallurgy-0.0.21-py3-none-any.whl#sha256=d00b7ff19a18860ae11ba92639b1212969a30d1440a567c10280d113511fd14e" data-requires-python="&gt;=3.7" >metallurgy-0.0.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/a2/b1963085628169e90c6a7184bc2fb4cbefe3cb7825b7b1af9b1e25c933b8/metallurgy-0.0.21.tar.gz#sha256=c2048a25c029c1127163b296459902c7af49e1c2b2175b8e9ccdc399cbe5d098" data-requires-python="&gt;=3.7" >metallurgy-0.0.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/06/62ca3bc9f2064366268262ede5e8357416c10c9e9732adfb4aafe9876328/metallurgy-0.0.22-py3-none-any.whl#sha256=ab9161450ba294c0b24e6aef98734ca5028095cd1f400954feac98abd3031752" data-requires-python="&gt;=3.7" >metallurgy-0.0.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/d9/7f33209e7deb866dcc18d4897393bd1b5b254b97b1922ba98444ec807846/metallurgy-0.0.22.tar.gz#sha256=0d470e944b90f304aa7e479e841e4b1180b0c0f0b5cbeb28c36a93d929a0a449" data-requires-python="&gt;=3.7" >metallurgy-0.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/ea/b0b1ce4630dafa5b7042b40e8f6b9e32d5c765466334cee47b42df3c5026/metallurgy-0.0.23-py3-none-any.whl#sha256=cd4c94c28ed43802eb84bc8cfd6d0b916658115d11f814e290cdf73ff49b8657" data-requires-python="&gt;=3.7" >metallurgy-0.0.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/89/4da5196facb8a85cc7783e26d8f03ed1818eb08153cb896fb8dbd3b0477e/metallurgy-0.0.23.tar.gz#sha256=78d6718c92198f15c0878d56bbb23e821811c734be51ebd1640bce6f2fc1e75d" data-requires-python="&gt;=3.7" >metallurgy-0.0.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/c3/af3e4683f2f0369bd3ad4d8aad42151a69d7020d59db2a2fef06da1f6563/metallurgy-0.0.24-py3-none-any.whl#sha256=f973b4d50c64fc4583b63a7ff453898d06e6034bcfcbec02782c332baceb4028" data-requires-python="&gt;=3.7" >metallurgy-0.0.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/ab/4adc8254bcea9fac0be0c37b4a098a335ad25930b96adb4cbc897506decf/metallurgy-0.0.24.tar.gz#sha256=ec30bf88dd38876492aab38dc934d0757feecf530aad0997fe724a6c095aa657" data-requires-python="&gt;=3.7" >metallurgy-0.0.24.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16015953-->
+<!--SERIAL 17068952-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lug</title>
   </head>
   <body>
@@ -31,6 +31,22 @@
     <a href="https://files.pythonhosted.org/packages/c6/d1/abc45c5084aa81fe85833a79987db0fce1911f2430439c5850fafd5b532c/lug-0.2.5.tar.gz#sha256=55bd02d495f293db8e37ae977f27bdfbb27de6f8e1241fe634c39f78f6f0de00" data-requires-python="&gt;=3.7,&lt;4.0" >lug-0.2.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/6a/2fc0c39d2685651235b3f8e32795b5c5fba373722489118b1fd0df09d2c1/lug-0.2.6-py3-none-any.whl#sha256=71ee0b15f08af4ab3e4dbdccd35fa387cd6ad740e8519b4ba3c3f014aa6cda89" data-requires-python="&gt;=3.7,&lt;4.0" >lug-0.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/28/90a52b662898b76196c538f98f1b2228c70dd970e9f997dff8e42551fe1a/lug-0.2.6.tar.gz#sha256=73af3a9bad6d012360eb9b7abe8ae90a266fe1fa0b2dd59f0898616a1de55345" data-requires-python="&gt;=3.7,&lt;4.0" >lug-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/47/f22677c9247462c05c83e3ffafe610ac613b4b8f4c90b9ee448015c25734/lug-0.2.7-py3-none-any.whl#sha256=9c97280f73e32016efac693fb321328db10652598da709959e48731f392a8474" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/ed/4b44e2ed69b9d8d383161cdb76639bf3191695189e85002de9528ad040aa/lug-0.2.7.tar.gz#sha256=768e10400ac20ea7f08b9463b534642e7def918a261a8841488260e5305eb8b1" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/98/d343ee9b6a6ed397e02bf6aac26596e3d57449579a2334b2e836a15b4ab7/lug-0.2.8-py3-none-any.whl#sha256=da67a57a042c9aabbcf483437cb545c7358c949489c25ff079dbf4bd2b354faa" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/4f/f8e4ddd04ec7fb425763888c8cc1f735c325d1c4967b9c50e22d41a7da23/lug-0.2.8.tar.gz#sha256=9e3890678ad014fa3c1afb0e27fa958ba5c5ad56b717df3c965e21fd6a036ced" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/15/296443b37403edb60e64a9febe338032eed93fd2f5fe89f0f694d05ebff9/lug-0.3.0-py3-none-any.whl#sha256=e3adebef5d4821ce8e473ef71aeb0a160851d492ceba7a10a2e3fa1c1bb735f9" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/7e/d06c3bc4358acb1e7754fe2f34aad6907a13968cb35f1a2b9f1159a92e26/lug-0.3.0.tar.gz#sha256=1039bb1f9a8b3c206a4757bff9116c2b14dfb711a8d12fbc82f9969942e11346" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/71/f53f82e6488bd77d8d0d63f318f2bca289be357039523fbb94f3dfe26114/lug-0.3.1-py3-none-any.whl#sha256=db40b2c6b1d31969c3cdff508d581b8dc7bd4dafc12d71d3839cf846ac557af0" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/c5/bcc81922e510dbbf2f43fb39ddba9c2947d3d30f878cbd02d4eef17f053d/lug-0.3.1.tar.gz#sha256=d55b1e6dc277bf436e446ae7d52932838c460f227d249eabd9e9c2cf0dcfa23b" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/b5/32db50d4fac599afabbbf04fdecfcbc8e876eef9b3ab3256c9e5f33fdb33/lug-0.3.2-py3-none-any.whl#sha256=899b51f263fbabb7da2ec0aa5545198d9014ca1f30dd371a22a95f825013f27b" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/b6/f96b1684a73f51c5a5721a59fe9955a730ac91c5687457cb79ca0a4ad8e3/lug-0.3.2.tar.gz#sha256=8de6d535c44262512a766088e1d6b205cca73edff6801c1a011e696767358801" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/c4/107bcce8f7c24bbbf4d5317cfced10439df07a24bfb678b91e33123c7769/lug-0.3.4-py3-none-any.whl#sha256=b1317da39741e6494cfda3047c1234107a7a6057204d6352090714723b6f120f" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/2e/0d1d9ed37b7ce95075396cfe3ff05903622fde9870d22b8faee262e40cdb/lug-0.3.4.tar.gz#sha256=97f437acce5db4370977c01f3ab99b4f7bf72da12334278c7867de6f2c2f66b4" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/37/c503993dd2530420636fe26308ba2fe8b34ff7aa27f86f34c5f58fd7199c/lug-0.3.5-py3-none-any.whl#sha256=bbe6cd8778041f80c37bf593e68dfc3993230ba20effa6a2151014680726723e" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/a4/4f9d573f12a46d99bd19d475fcda83dce4d0d90f907992bea51ba1a8b043/lug-0.3.5.tar.gz#sha256=124dd5bde5ab80959d58a9f879dc62dae6cb1484682e7b1d5b647eb657b5a581" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/b7/3f1cbdd3faf6a4db054ff3f392c01e7a3c5b4477987ecc66024108ef6ea3/lug-0.3.6-py3-none-any.whl#sha256=4d99562c447af2ac5ad5f89bd1ac82d67a93f894c169168ed688fba1afe623bf" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/1f/7fe1865492fae58b117815a8cd22a92a71bbb75befe5771b3d3a0d16ac96/lug-0.3.6.tar.gz#sha256=a0da2a26b24582c52d5f3e6acf446b55090652e82a486a8a37c4b353db22c6bc" data-requires-python="&gt;=3.8,&lt;3.12" >lug-0.3.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15971496-->
+<!--SERIAL 16909054-->

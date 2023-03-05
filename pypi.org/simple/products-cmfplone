@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for products-cmfplone</title>
   </head>
   <body>
@@ -214,6 +214,10 @@
     <a href="https://files.pythonhosted.org/packages/d2/15/b5548c9f5f8ef40a7e3ec7901b4fa5826e11272e8c4208a5009b87f4a89c/Products.CMFPlone-5.2.9.tar.gz#sha256=33994df022c1dd30389dfe445c12c290d502a763a8f1f63feecda908e5cfded3" >Products.CMFPlone-5.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/e8/ceec9b707490b3782599a91319593f3aba000f4a8ce518378499379ae873/Products.CMFPlone-5.2.10-py2.py3-none-any.whl#sha256=6e6cdbb318b381312d6d8ed0e46cd49c07277b5466a75dbc91539d05d4436804" >Products.CMFPlone-5.2.10-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/96/4448f43c483044f829c3a1ab81f514c5588daffb34ef1bc913a4bc8c6b70/Products.CMFPlone-5.2.10.tar.gz#sha256=fe9610aeefeab6b0c03124f550ba104769afa29f1c16415a3c775afab3906a4c" >Products.CMFPlone-5.2.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/0a/95939db4832a04e8f44d705d4edf8869948d035e4b467a8fd6b18efedbd3/Products.CMFPlone-5.2.11rc1-py2.py3-none-any.whl#sha256=ae80844be064bdae475a1678ff683cf46446456f8f8cbd8fc50e0bd42ebea1ac" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >Products.CMFPlone-5.2.11rc1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/c0/be6483a78839a2c0251a893237b21c18fa1326c31ba8a4db397ec913efea/Products.CMFPlone-5.2.11rc1.tar.gz#sha256=e6ab2ae21ad9ee70cb5004965f635155529ae0176d943d9ebe822646af39c96c" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >Products.CMFPlone-5.2.11rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/6c/4d5a39a9ed670016f100650f211ec9a8d4808872643b0882302dfc6b02a2/Products.CMFPlone-5.2.11-py2.py3-none-any.whl#sha256=44ec1a4e6382b15f04b86305244f5d69dc5dde13c78677564dc2c087d45abe5e" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >Products.CMFPlone-5.2.11-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/ca/9b2c981d0a508357f6996ce287d16506b2525843758cfc1030431d286fba/Products.CMFPlone-5.2.11.tar.gz#sha256=f2f16e720371c1e7ba416164ff8547a7e20390eeb5b310a6d15571170acfa122" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >Products.CMFPlone-5.2.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/85/d0/7e351650c9f257450bd3917b2aa343138adabc2840ae711928775fcead51/Products.CMFPlone-6.0.0a1-py3-none-any.whl#sha256=6bbf70ae59f6f02b6073311cd4c725ec81c20e256cd695f5d3bfc8287f0fdc2b" >Products.CMFPlone-6.0.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/78/25/d59092fc3f6eb5e6ac87d788f38a4c0f802b638d8a48d0171a261cd10466/Products.CMFPlone-6.0.0a1.tar.gz#sha256=b9852fda80bc80876955784f80a3941b8ae96f8c55106bf51dc3dbaa9162ae19" >Products.CMFPlone-6.0.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/2f/8743ca5e9476fb6e8294c02893195e5c45e3da80578c64dd5af80e768cd8/Products.CMFPlone-6.0.0a2-py3-none-any.whl#sha256=1cf728f51c3495f5faf92f027205c915eef55a5d02bf9134c425ff6c0dfde6e7" >Products.CMFPlone-6.0.0a2-py3-none-any.whl</a><br />
@@ -239,6 +243,14 @@
     <a href="https://files.pythonhosted.org/packages/ff/38/6866840dd334e39e667fdcccdbf7ac5b4e4694a4d0869bbc46ecce6a133f/Products.CMFPlone-6.0.0rc2.tar.gz#sha256=28c000187e883b2537e1b59fe5894646a4b931e901c719cf13bd1c1171c3e767" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b1/a2/b01c9487156dba1f21765718a2e395c1ecdf24eedb89b978c3f13640a94e/Products.CMFPlone-6.0.0-py3-none-any.whl#sha256=db6c9c22a60c018554cd7c5b8de8dcf42512eb69b54be0d7df671fa7e281a257" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/54/a9ba6d07300e6ee5683dc2f29e9f5ec363693d375b1d47f9f4401d47937d/Products.CMFPlone-6.0.0.tar.gz#sha256=cfbb29f4b1cc880393cd4b6334984b4faf77633779b3ccc465908a99fb91e459" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/ae/ba86976015cfbaa5df22f79857ee16e8d1c91afb9be808e3f66ff463fec0/Products.CMFPlone-6.0.1rc1-py3-none-any.whl#sha256=5893695d7d4b9fd27a093bb663a67dc3882451f8b0561b3d11372fa71f5b653c" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/d5/9d85a5b3344d0725e56ebb0dd195c668d654fc29ba4755f811d43cc0111c/Products.CMFPlone-6.0.1rc1.tar.gz#sha256=86315dd4d7feca6edc4e513e8408821a4fd53c8213608e9f9e39723f17ca8c57" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.1rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/43/0553eb9ca06703fd0c63138ea9155e6ce549326ea1918ae9f75ed64f6f32/Products.CMFPlone-6.0.1-py3-none-any.whl#sha256=510bce678d85aed28570ce455603f1d7e2d683e43d20493b13f1de9a762664e0" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/27/75b498c5370f3970f602a397c9a347e5b8aae68418228930042a15a495c9/Products.CMFPlone-6.0.1.tar.gz#sha256=57254dd817a6194184a43c1c59e1f0ea92a48575278e6cfcc514b0fb3655f1a2" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/05/1d31ed3f8fbfb7d8804c2ff5da87d002c4aa444e57cdddb635a6bf1e67e9/Products.CMFPlone-6.0.2rc1-py3-none-any.whl#sha256=2f47e41e5a2233208972ee072b40d1b0c3c3ac7f09fe340c1b31a1519c1731a1" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.2rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/c0/d3f61d40887bdb0cbebdb993062e9d55bd668577c35b68be01d24b5c410d/Products.CMFPlone-6.0.2rc1.tar.gz#sha256=a96db3053cbb4028f6adfe1febc70c4cb431f3365e4e3286a88aa22df6dc566b" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.2rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/5a/080d9a8e6d2197e195b9002819159cef8e0e554cb98bb92c1b57d63d8815/Products.CMFPlone-6.0.2-py3-none-any.whl#sha256=721c9202f433b61025dc71d92338afbca0e93ada3af344a7b61d976272054898" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/15/e156bcd5fef71b1401e89598fb860e184538813d017d289c1101a7624589/Products.CMFPlone-6.0.2.tar.gz#sha256=73d4e4fc7833f3f1516a46388dcf7bd84ae75a9b35b879e55072b17cd83649d2" data-requires-python="&gt;=3.8" >Products.CMFPlone-6.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16076118-->
+<!--SERIAL 17067628-->

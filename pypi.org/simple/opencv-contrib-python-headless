@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for opencv-contrib-python-headless</title>
   </head>
   <body>
@@ -1067,6 +1067,13 @@
     <a href="https://files.pythonhosted.org/packages/a9/00/7abb373203b1079cb0a9e6f29362584c22e9bd739533f00256fbe7197bfe/opencv_contrib_python_headless-4.7.0.68-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7ab852d777c55df6651688cf15cd9f8fc8274449b57383b63c30e0f8d6b88359" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.68-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/67/b98a5b74227a27558f042929487a75183343e260569f1c591e5b8ed5b746/opencv_contrib_python_headless-4.7.0.68-cp37-abi3-win32.whl#sha256=a57ef362f4506c835dffca69c921521ae4d0b495986b5cd59fe36e5629703062" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.68-cp37-abi3-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/2a/9406cfebec1e394165597dba5c46c198d066d8f654985add88d848ff16aa/opencv_contrib_python_headless-4.7.0.68-cp37-abi3-win_amd64.whl#sha256=106d1f71e9867be2520e455ce99dc9fad864d90cbb442e685b69e03176cce1ed" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.68-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/23/4886ea0b02c0243769bda21a851d957cb2e0d5b431810c95f3adbfd52b10/opencv-contrib-python-headless-4.7.0.72.tar.gz#sha256=f6bbe6b311fca3fe1b76ee68b93389aa390a91e4b9ebd5ad287af82cc3887a7e" data-requires-python="&gt;=3.6" >opencv-contrib-python-headless-4.7.0.72.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/31/7b6ff31289fc517c1de64c192479baa8441602b35c65a766a8c7a024a7ac/opencv_contrib_python_headless-4.7.0.72-cp37-abi3-macosx_10_16_x86_64.whl#sha256=d65df7f4e418af2eb3d3e0cf3321a93d62f89c622bdfb1e60201ececbc2a1bc3" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.72-cp37-abi3-macosx_10_16_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/7d/9d27647b75f5462cbccdc5114404d751b143a551d210302dddea3ac6264f/opencv_contrib_python_headless-4.7.0.72-cp37-abi3-macosx_11_0_arm64.whl#sha256=9997d1e36ef01de7799b5407fb264a247ca927ad3426fb6416ad4889fadf0d3b" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.72-cp37-abi3-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/0c/1d6e8334b1588d725cc336f9db0542e0701a183efa0087e30cece2b0fe6c/opencv_contrib_python_headless-4.7.0.72-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=701df81913e2c667a5101795ac7983a43744656d0b72fcd361c97ba8e75b84f9" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.72-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/e0/fc2eb565c664f3315037e681ec38d5033832fed7386e10211370cd2cc550/opencv_contrib_python_headless-4.7.0.72-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c71254cee6283b485aaa0ec41995a2ead0b3ffaf4146509cf7fb6e8c603b8f26" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.72-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/1a/16a9bb6cfebe2a42a1ba03612577ab94c544e5694691c9e5f7d95dd44f13/opencv_contrib_python_headless-4.7.0.72-cp37-abi3-win32.whl#sha256=4299c61851b8b2eb87b29a0879523d393b635a8732e80b3e54f0796d3e6399e0" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.72-cp37-abi3-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/e5/b3104598f71d4323b470d1a32d5f6262ac4287230453972a26ad38e9d94d/opencv_contrib_python_headless-4.7.0.72-cp37-abi3-win_amd64.whl#sha256=4bc662c8b772e77de2f341f132996e05de0c4948316d51cf5d8787224ad2c210" data-requires-python="&gt;=3.6" >opencv_contrib_python_headless-4.7.0.72-cp37-abi3-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16255232-->
+<!--SERIAL 16981791-->

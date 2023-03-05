@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for adaux</title>
   </head>
   <body>
@@ -10,6 +10,18 @@
     <a href="https://files.pythonhosted.org/packages/52/38/efd664349fc2b4e78d5a7ba47f78e184e797f521977621849e5b944f2787/adaux-1.1.0.tar.gz#sha256=0163c8b0a3a59444515211c1f6d22287e65413dd7f18bc445ea8852147614d70" data-requires-python="&gt;=3.8" >adaux-1.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/e0/a81cc87f17712328e347c507d0ed46901309f2ff944fa4e25db6a33977a3/adaux-1.2.0.tar.gz#sha256=673dc26771dd3291bf92f9db822f02a665970fe594ea306c91f4c5abc778eb9d" data-requires-python="&gt;=3.8" >adaux-1.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/84/f9/5f42aa676ea364a5f3138b31d395846edecdf99330b54cf7d9dbc3cf1210/adaux-1.3.0.tar.gz#sha256=6d73dda812addd2a797c8c059ab0949ecc06769fb2b76e1c5aeec7c0784ff942" data-requires-python="&gt;=3.8" >adaux-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/92/584c5773239f485d4a957030428de12d0cf9681f127cd241fa5bb7e3fb60/adaux-1.4.0.tar.gz#sha256=c5a8c9660493c5722acb85fd4538d47fe6e7014333847baffa56102a5c104965" data-requires-python="&gt;=3.8" >adaux-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/73/6d338a06b45b6c3d3dfbc23cb2d7a897ba32125f37f30abf666025d7e318/adaux-1.4.1.tar.gz#sha256=9ae24a70699bfdbccc737e236b00e65256c0552cf93f0827c0fa4eea745b10c1" data-requires-python="&gt;=3.8" >adaux-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/35/8885236eeb767ee1585af32b90c78ce15be6788e040ec7f1b3660587d9b2/adaux-1.5.0.tar.gz#sha256=f5485704ff1dde9f75a593e22c8be118f5eb628a07665a116557d04c15a17bee" data-requires-python="&gt;=3.8" >adaux-1.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/2a/3e6b22bd19e8c4520eb0ea35fcf57acc4fb4a0ff55bcc890355d0cc5c320/adaux-1.5.1.tar.gz#sha256=c577e7a39bbdff8ab7126000f23e0fbeaf356afff93ae7881ad9efab1afa3705" data-requires-python="&gt;=3.8" >adaux-1.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/76/8f0a26d59f42f09ff079105205cc40396c6f088b2cf519786ef4d596308a/adaux-1.6.0.tar.gz#sha256=3ad1d908d271c7daf2a375adbd6dab0d92f2c0aca5672e7ce0dc64d1b98709e3" data-requires-python="&gt;=3.8" >adaux-1.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/4b/5eef9d1e99c490cfe14603df683adf763cbdba4a7a3487cca2d32aed0ded/adaux-1.6.1.tar.gz#sha256=ffb1f3a2ce1a88d884de1dcfc537222a8176d9e10696110de07dbdb33ce37cfe" data-requires-python="&gt;=3.8" >adaux-1.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/37/f9b6f80ceb6bf5b3d24f0301b32d4eea38c1d85062705626c0e9a9fefd83/adaux-1.7.0.tar.gz#sha256=4a24fb5b1f365fdd4bda2a6676d12ae7ca184deb5ee2ff1a63b81359ef1f6ee0" data-requires-python="&gt;=3.8" >adaux-1.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/f7/3e497af70c5392a56b56ba18c93e2b8ad70a1c0f5a3511d10ef055b06d3e/adaux-1.7.1.tar.gz#sha256=f1184fc46c70e837b624d6f85cb42abee7f2a885c6406c0ce52c18d6b575561f" data-requires-python="&gt;=3.8" >adaux-1.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/7f/4a075b65eaefc851e05afc6c9d017b246f940fdc94eec5a2bd4ad1458a62/adaux-1.8.0.tar.gz#sha256=d63da6c791c93c37269159ce5b438f84b7fd8fb0a7439ca01acf474e5973bbe0" data-requires-python="&gt;=3.8" >adaux-1.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/dd/2b5fdf1ca4d8f3f0d2c11b132101ce6b382e26200e44a08df000af5716d8/adaux-1.9.0.tar.gz#sha256=c6c463eb9f076f48c4718c93af7ee5e6f85a61f5858a87d9c6b3fc428f683f19" data-requires-python="&gt;=3.8" >adaux-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/5b/f72b78f2ed7294160ccf02682242980b5447460747401f7a538135c61197/adaux-1.9.1.tar.gz#sha256=5944b51b9de289d069366fe04209d2b2a48624bd4ead0107bee52e8d9dadfac2" data-requires-python="&gt;=3.8" >adaux-1.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/45/2809f876aed09ac3634bd22cf7af59715664928519c51dfa390ad22ee742/adaux-1.9.2.tar.gz#sha256=67afb777023ba6ee56a5de56f6e6272546f66b6627c689b3c374cc53bd53fdca" data-requires-python="&gt;=3.8" >adaux-1.9.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16093149-->
+<!--SERIAL 16905759-->

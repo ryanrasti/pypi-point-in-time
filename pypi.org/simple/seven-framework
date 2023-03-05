@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for seven-framework</title>
   </head>
   <body>
@@ -362,6 +362,16 @@
     <a href="https://files.pythonhosted.org/packages/72/56/28481b48a866d31521d5beca5baafc3d8fb3270edc5c45c249d752fbf765/seven_framework-1.1.16.tar.gz#sha256=92819ea416ca78a7f6f614cec8dbf5815119d9ba7e92ff57abb2d01a8eacb0f0" data-requires-python="~=3.4" >seven_framework-1.1.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/f0/8754a3c128ba5ca9be3a587dd40d2e2053d618438b93b67567ef58aa5789/seven_framework-1.1.17-py3-none-any.whl#sha256=41fc980786ec64a73f3ec18e6b3f8bacab96aa451b1a0d6ada2bf6893ac2ce99" data-requires-python="~=3.4" >seven_framework-1.1.17-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/fc/2d3f646890320aceb420a9678395f80374b6450359c3b60a0fbf3a9e3445/seven_framework-1.1.17.tar.gz#sha256=e735fb3c747133a25be3c4c204c37ba42f770aafcc2809615d7d320dd6e16eb9" data-requires-python="~=3.4" >seven_framework-1.1.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/a0/2765f1c3f8fb6868e648d5d44bb851d2bcad23143d37f50c3842f304a2bd/seven_framework-1.1.18-py3-none-any.whl#sha256=c570880d87ffab873f2d853aa33837987fed72afe3aedb9053bc7d6de89db879" data-requires-python="~=3.4" >seven_framework-1.1.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/9f/1d0f2be5ef4b94d850783ad7a6a40a9fce5b23342c52a3133b8368d0c3e8/seven_framework-1.1.18.tar.gz#sha256=1536f2726bcf6a9399b6c43aca7764aba9e48a13159426b3e0657f2319dd0175" data-requires-python="~=3.4" >seven_framework-1.1.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/74/50b375b7a23e9765030e38ff0ec9dc747420cc4c3736f05f30c07d612006/seven_framework-1.1.19-py3-none-any.whl#sha256=e468c097802eb71bd536ee83ea8992fb0edc9a80a9b6bad581144f82cc08e3cf" data-requires-python="~=3.4" >seven_framework-1.1.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/75/e07abc0c5ccba77b39288c22583378c562626839b802d70e978e0518f990/seven_framework-1.1.19.tar.gz#sha256=56fccca72b8ab9efcce8d96987576f6211a839f9fe60a6fc8ba54dfeed3d5f99" data-requires-python="~=3.4" >seven_framework-1.1.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/a9/e7e3db5cf2a4f259f72d573016373b1d3fa2c8a4d299ce8fbeda6d581b10/seven_framework-1.1.20-py3-none-any.whl#sha256=5be99aee1ac572c0307651c44be3ffde99b10730b886449c11b425bc78802b37" data-requires-python="~=3.4" >seven_framework-1.1.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/d7/2bc4fff35a5bd45975a3c73953b984aa3f9af95df7abb103d98f2de63e75/seven_framework-1.1.20.tar.gz#sha256=00279e62e23a89a15bdda4cbbc0386c0685abcb3f3ffe2c38b1173032d248fbb" data-requires-python="~=3.4" >seven_framework-1.1.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/ab/f96b946da1f303b0e0a7123074f11dc1caa9b4861297e7ff641aea43bea9/seven_framework-1.1.21-py3-none-any.whl#sha256=60b3002529fbeaab951564e7636082a8bd165615d4f8c33a598c826c0508519b" data-requires-python="~=3.4" >seven_framework-1.1.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/44/c4696be429a69c70bcf2707d8dd6e4eb47c2e76fd9ca14c8b7110f3f976e/seven_framework-1.1.21.tar.gz#sha256=0dc39a1c8fe2635906e2e8a5478ea801f5d1095e7c36684749e5cf7ff9c5a0a5" data-requires-python="~=3.4" >seven_framework-1.1.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/f5/1123835c573cb831eb46499eff1e61be7026f01470878f93e7c01a9044e6/seven_framework-1.1.22-py3-none-any.whl#sha256=77881ffae8bc7c46a3a958397386b6012aac4e6e5cfef1b9bff4fa344ba939d3" data-requires-python="~=3.4" >seven_framework-1.1.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/89/d4f95a0a43dbb0a0b247a0fae8ab90cddd3688ee5b8962e6e5ed7ae16ed3/seven_framework-1.1.22.tar.gz#sha256=8ce4c37ddd28a62a0aca65456cc36acef901f356d31e490bbbd3c41fff9e2f96" data-requires-python="~=3.4" >seven_framework-1.1.22.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16357801-->
+<!--SERIAL 16900273-->

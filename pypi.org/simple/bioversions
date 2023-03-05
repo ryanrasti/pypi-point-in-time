@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bioversions</title>
   </head>
   <body>
@@ -368,6 +368,16 @@
     <a href="https://files.pythonhosted.org/packages/87/d7/870054f18dd67edf53d26e792522bd6ee5a39fe8553be445c11b90865a32/bioversions-0.5.78.tar.gz#sha256=c94da651d9602a399c7a6dcf65ece9ddbaa1c018fdddb70d7a573af6f6634071" data-requires-python="&gt;=3.7" >bioversions-0.5.78.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/24/e5/1170698b4294969700ad309b2889c0d884c1053251639438e3b3b8b557ff/bioversions-0.5.79-py3-none-any.whl#sha256=a06659270e8e37c2aea6f2227d073184f26f325a21258b4ed395db6551482364" data-requires-python="&gt;=3.7" >bioversions-0.5.79-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/31/c730eddf14e14dfa9be6bd0623fdd9e4df2c4986f5e57b5caf22d316d295/bioversions-0.5.79.tar.gz#sha256=05e4b7389b96df317eb0bf9fc3bd400556daa1bc6c64ceb9f8a888b85a4d9df3" data-requires-python="&gt;=3.7" >bioversions-0.5.79.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/e2/a34f9781be1a154e354b24ca3e6e2c2068559fafe508bcc7dcb688acdf07/bioversions-0.5.80-py3-none-any.whl#sha256=e94812d2de58c7a557463ad3893e86a0c56a519dde523f6844f29b2f641a068e" data-requires-python="&gt;=3.7" >bioversions-0.5.80-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/4d/2e4481e8d5c4ef8e479f71313f3d2bd420d527aa454f78ec6f0a5fc0f538/bioversions-0.5.80.tar.gz#sha256=6a764a3b6d8ae998bd10d9a3c08e15bf07fcc350ae60579254ceeca352799dd1" data-requires-python="&gt;=3.7" >bioversions-0.5.80.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/4f/ff13136be34c8d53d7b8f0b9f1b0ed656ae353f7a656071a27c94a7eedfa/bioversions-0.5.81-py3-none-any.whl#sha256=e59536e2893fbcc2e7821de09070f098f243589871d08eaeb4a110173a0272f1" data-requires-python="&gt;=3.7" >bioversions-0.5.81-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/11/3ad5f7df147b02ee1b8e956edef8ef2effe5cf740c1e22d08ae83f24e1f3/bioversions-0.5.81.tar.gz#sha256=9ff7b49734a7325dfa56fd8baee655c8cb502237c9bf1820483dbb5aaba796b8" data-requires-python="&gt;=3.7" >bioversions-0.5.81.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/e8/9116f696cce53dd7a6e7b47a686877839711d628736402898933c9278ed9/bioversions-0.5.82-py3-none-any.whl#sha256=c48a25c1df68b757b8e2f62d60f7def9c438a6d0bf32539a9cc5857849f73f5e" data-requires-python="&gt;=3.7" >bioversions-0.5.82-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/83/683aff3d2be675edd9dd4d3a6faf08bafa83abd54e1762cac317dfb5f34a/bioversions-0.5.82.tar.gz#sha256=68346505a97dfa876be5507cf4b9458d61b3ab3966e089f09f445eaf21fe8dee" data-requires-python="&gt;=3.7" >bioversions-0.5.82.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/98/3568e2079a1d6508d48f29c3e3e20acbf82bd5d0b7ef32a56411fb88fb41/bioversions-0.5.83-py3-none-any.whl#sha256=553a8c5a2d2e9e3b3d0ea8a060e18ced1727f092146c646c99cc0476df75023c" data-requires-python="&gt;=3.7" >bioversions-0.5.83-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/5e/de14093f87def7caac32265c8c47154be15bd1059aa13fff6623ce0109ef/bioversions-0.5.83.tar.gz#sha256=0484bd6f635036e3515d69be9ee3764dd0f1579c67c0044eb6e0abe5884fe78f" data-requires-python="&gt;=3.7" >bioversions-0.5.83.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/ba/aae2c073d63177da9b3684c16c05c8b082aabcd989e270986494c6135745/bioversions-0.5.84-py3-none-any.whl#sha256=73be0953407d47255b69f1055283cafa8c1bb5c74e637783a3f489790fca4794" data-requires-python="&gt;=3.7" >bioversions-0.5.84-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/3b/9191a2e7aa3388168cb20b51208cb28c65d76526c2d3de1ed7b6bee8e990/bioversions-0.5.84.tar.gz#sha256=77392dc464a62c2efb5b20dd621079d4cd49d57d73b805b539babee0a6cd86ef" data-requires-python="&gt;=3.7" >bioversions-0.5.84.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14770612-->
+<!--SERIAL 17044991-->

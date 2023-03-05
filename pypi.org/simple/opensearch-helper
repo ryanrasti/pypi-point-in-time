@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for opensearch-helper</title>
   </head>
   <body>
@@ -42,6 +42,18 @@
     <a href="https://files.pythonhosted.org/packages/2d/bc/20316c0bcc9ddaedcb1f2438b14bb546f9b3363db5de7d781a5b1a08897a/opensearch_helper-0.1.16-py3-none-any.whl#sha256=618872bac2cee8d81cff627204c8579cbd5987b7b1a09981ced2cb750e22d769" data-requires-python="==3.8.5" >opensearch_helper-0.1.16-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/84/9f341faf276dcf6f7148f87d5fc3d1c44422bf0f4c002b2db3e833209289/opensearch-helper-0.1.17.tar.gz#sha256=42daae0efd3d20c098dd7a167c568ba8035660d5dceea61757dc45c2a7637dc7" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.17.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6e/f3/85f1b5b1ca16b1c7b951ff2b429b40d4a3186fade98235ed7e0d5ca124df/opensearch_helper-0.1.17-py3-none-any.whl#sha256=3eaa17d29c9dfc769054dfd44260af2b0434c860a480df9a25079508095746e1" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/8d/3ce700b1fdeeafa12d9bb1a1eaf69c4a8f774eaa252dd8782093efa9b51c/opensearch-helper-0.1.20.tar.gz#sha256=857d7a243ae325d86bb8fa13053ed30d2001d881b58f4dd5eef65db20b73485c" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/e6/5b0ee36350e1e57fedb3cd1d2377747c8aa71e08ce27b81d7553f5001dd9/opensearch_helper-0.1.20-py3-none-any.whl#sha256=1a6077048ce53e687f5cfadc3175684756aa6ab451f319aadccf0100d8b3753a" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/5c/73d9f29f3decf2743f5c1945eec1b02e1db856fa5d4ee6f5167f0c531fd0/opensearch-helper-0.1.21.tar.gz#sha256=7cf0c13c6fcc7ae55e3cc974b1674d6c379526ff9c1f53d80149622a02c9400c" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/6d/527a940d7467b7a7f0b8afd3e84d3375a966e9594916e579f619ebcbf455/opensearch_helper-0.1.21-py3-none-any.whl#sha256=ac22ace32b6df8f9b1ec3a68e41ee5c4818b19fb06204e9711ef7b1517756829" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/b8/33552f3e52cce4d85dacb9bc3fa50f331fa800f22ade61854f2a73e72b20/opensearch-helper-0.1.22.tar.gz#sha256=a3800cc919316260c1771e060e594eafeec014ffeac4e436ec54040830688749" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/dd/f03a84a4b3f1c4a694174df65c0752b79735e12b0f95eb0b5ec9e2e77f4a/opensearch_helper-0.1.22-py3-none-any.whl#sha256=dd86c9e04ba8508add5200ddbbbeb641bb8b17526a6d7b458ace89d310bff902" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/75/5c4774c5b79d5ba4a718d9de0769098a8bec2876dd2ebf0a6ada75e24ef4/opensearch-helper-0.1.23.tar.gz#sha256=11b1a41731f507d5e521aaa814ffbea4c3061ccad752cc519e24b82623a8c05f" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/7e/25f5d44b5e3c1042feda3854b89fb5e2e3f05787b657d3aa2262d582d650/opensearch_helper-0.1.23-py3-none-any.whl#sha256=159d4f8debf3742cc0abf8f4d923ac0deadbac88e098f90ac3abb9de56f48941" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/92/9aac8e22577905b733a5c9ca9da85e5c0b52c678a96a75699fbb0a3fb017/opensearch-helper-0.1.24.tar.gz#sha256=699d347ebe009d703990fa753a2e0559476c341b7efc51d2a6e61c9d6b59e38c" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/d2/358528e36641da3e6747a6674d9af9d1816dd21804ffce2c0d37552e748d/opensearch_helper-0.1.24-py3-none-any.whl#sha256=3fee194609fb5416289c2b9e85b37ad5f911a8545a53256cebd0c2302bca8b94" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/88/e820ef13be78ae8ab1e09c63a95bdc9553217b3d8967874c8d5e49ecc787/opensearch-helper-0.1.25.tar.gz#sha256=0cddfb28f8e9000ca5127c9beefff42111d7e16810ae13990abe477aa9048d97" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch-helper-0.1.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/7c/d66dd959018c85e1baa34c768a9835ccf33e2bafcff62efc58d69adc7e4b/opensearch_helper-0.1.25-py3-none-any.whl#sha256=24e320864deff195b140cb39b1b92305dbb8ff3df5b089f2b26c482f44bfb01a" data-requires-python="&gt;=3.8.5,&lt;4.0.0" >opensearch_helper-0.1.25-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15823364-->
+<!--SERIAL 17137052-->

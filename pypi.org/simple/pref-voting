@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pref-voting</title>
   </head>
   <body>
@@ -40,6 +40,16 @@
     <a href="https://files.pythonhosted.org/packages/4a/bc/4bb70097076a3d99e95fdacfa9e34f0d48179e845f055206b95b0bbb8063/pref_voting-0.1.24.tar.gz#sha256=07d5b4b97f696d02cafd5937a43c383a1039af3b889539b0ce0c32e3af40a325" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.24.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/21/cf/3276789d70917521b7aaecfdfcbea9447f1b9428b75c39246b856f092e25/pref_voting-0.1.25-py3-none-any.whl#sha256=b6a96533e306106bdc0860b5fc1585a1718ae61c2a32f51ec4df53dbc3c2126b" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.25-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/07/c2/a78449695b1632189d9542bee75a6208a9ed09e058d92481011647384ecf/pref_voting-0.1.25.tar.gz#sha256=dc6bc07cf61956292be374d51069af612bad4598be06a84473b4ff211e05fc83" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/3e/db16457329024a85691da491d2a3afd12bf3cd570f968e73d0afb26f9f2c/pref_voting-0.1.26-py3-none-any.whl#sha256=5ca395153c6e6e6b6f2796ff93d5a7da88cecaaf973276e7c0e910b45ecbda13" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/79/e8ba96d8c3a04325788eeb4a75c6f6d0f5cd8eb5ffd5b3468652bd06c917/pref_voting-0.1.26.tar.gz#sha256=d82f2f13a2cdef91c3ae7293dc2bf1a8123de630ace3fd2fd5957b06a4356492" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/22/4019bb81bc16de21c16ff3b592cd5933344ace8eabc6a6ff18e44a8ee300/pref_voting-0.1.27-py3-none-any.whl#sha256=29a2a08ba40ea7c2fdf817a69b3db45a668118b8faa5ec4e4b72fc6ded6e1e2a" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/6a/5164c6e2646d92f0dc8225fa7cf84fb40f13229b3e4d3c04055024ac23dc/pref_voting-0.1.27.tar.gz#sha256=2a8ce4e6f569d528dfdac05356620ec899b8d34d2281dc6735e167a11a078640" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/a6/95e7a3f632e80011581c60836c7c30c1cc923965c8329d118f0c8728d968/pref_voting-0.1.28-py3-none-any.whl#sha256=a333d92c1926868c52d91ec4a2ece3fffd4b02f8fe5f850dbe029988399b6f5b" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/53/1bc1e23e10a0435278039c9d688a3a2cb7985f13e0302a723d93ce6002a7/pref_voting-0.1.28.tar.gz#sha256=f0c062daf27f9794344d40973e82abf518a1b3e9ad41f996487ef34f7bd73416" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.1.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/58/c3a2d793ad5400b6816a14ed5851793064cb492435333acd7d891a840154/pref_voting-0.2-py3-none-any.whl#sha256=187db52fc21926f0426140970b48868c5a848d2710d5f84dd437abc36e1f976c" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/7e/2252579563ec9a18c5dcc487f0a939086359c0f36cca305bd6d1b4f771d7/pref_voting-0.2.tar.gz#sha256=a03d2cb8a78d4451c4e43cc43d9cb79b10ef5b5e884e59c1b6c4638eeec37d6d" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/f5/be83f5c014777c1f73f196555c02b6f544e229686f835fd26eb7e5b6a4a6/pref_voting-0.2.1-py3-none-any.whl#sha256=e349c3920f70ca30e2c70d366bf3e7ba2dd599005306dd81847dbe2387837d5d" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/e2/d5f6290dde7df363f7ac3f6102cd2c3563c7aed9e63d3bc2c3e7e7ffa8e3/pref_voting-0.2.1.tar.gz#sha256=c08792476d9ff6b950fbf311d534a316b6f873df04459c8f16d479540e2177cc" data-requires-python="&gt;=3.6,&lt;4.0" >pref_voting-0.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16388567-->
+<!--SERIAL 16875311-->

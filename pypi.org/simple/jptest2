@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jptest2</title>
   </head>
   <body>
@@ -42,6 +42,22 @@
     <a href="https://files.pythonhosted.org/packages/7e/19/eae7f836aa197338e95de2c3f4c403e6f594b48ab891323addc95d0c1d3e/jptest2-2.0.19rc5.tar.gz#sha256=9f89f3d2a16c77808e1bf845293cd7cfb1db5409584cf6fdfae6de3c4543189e" data-requires-python="&gt;=3.6" >jptest2-2.0.19rc5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/66/5ce373d4b41560c1e00e3a86b9ead08785c7383725995852f95a1ec3c695/jptest2-2.0.19-py3-none-any.whl#sha256=49dd6a4a507160cdca897d7d9201da82ae7c5fcd7c64d7858711bd4e55f0c806" data-requires-python="&gt;=3.6" >jptest2-2.0.19-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/6d/e5d42d999d08e17c4b5d27d6be637de4589a523fbc2a5ead954b0d7ed97f/jptest2-2.0.19.tar.gz#sha256=09587ae9298abaaf221ee60d970cb22b2841044297ddb3ca9fbc9591c371f411" data-requires-python="&gt;=3.6" >jptest2-2.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/9f/6f450f60056c84468ad7f2043e573a1a198d8109c4e2a88550f9504fec9c/jptest2-2.0.20-py3-none-any.whl#sha256=503c82b0ba009698f4f6ff56066cac0061c7738fecd6f287c68415826cd260ee" data-requires-python="&gt;=3.6" >jptest2-2.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/8f/962bfc81a33447690b96612a1fb71eebbdad422a21447d6d51215cf12c18/jptest2-2.0.20.tar.gz#sha256=c04d843a195dff6aec80ee8ec6ff56adbcd4d43e9cb3d69a3c92de8f1ae41b7a" data-requires-python="&gt;=3.6" >jptest2-2.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/ea/10c214d30c810affd5c74a7f49ba487ee65d13dc2e07ff6ac18e36f8d857/jptest2-2.1.0-py3-none-any.whl#sha256=398eb121fc5613e8bb90bd68793b8e2c74ab7c72d88f343fc98ac027a843da97" data-requires-python="&gt;=3.6" >jptest2-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/63/0325ba140c09b7ffc72c584621298c190e26df0fdd3997296f69e0c06256/jptest2-2.1.0.tar.gz#sha256=b8494ee897ef9209fcc89934ef7951cc405e3b43510bff1bf6e1c9a735fe2502" data-requires-python="&gt;=3.6" >jptest2-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/4d/b250129e0dd901d60029da9a50e439ea7a9455c8fb5abc5a9db371efe4a1/jptest2-2.1.1-py3-none-any.whl#sha256=a84c170624c90db991ef31903f4b1309e5bc4c8b761cd4bf942c8c3d6925bf7f" data-requires-python="&gt;=3.6" >jptest2-2.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/6d/1cd551453e1fa13618bd4898f7e761bb79765bbb1f63831b3307cb8181c0/jptest2-2.1.1.tar.gz#sha256=eacf792470ccc600aefadb2bb442faa16798bd2351e85a133e26aa8050607f9d" data-requires-python="&gt;=3.6" >jptest2-2.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/86/28a4b43b9c19d5e870651c1ecf2f4d1986db2423563b36e105ffb3fa8671/jptest2-2.1.2-py3-none-any.whl#sha256=aff29f8db2c76f2aef167631feb9afc736b261bf6959f67d5cf2211eccedf08f" data-requires-python="&gt;=3.6" >jptest2-2.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/20/2db200ace0102e0bf18698ec02c88c46d89b758462d3c193334cbabfef1c/jptest2-2.1.2.tar.gz#sha256=ab60c8509e288487acd0ae98cdbcfa9a9dcdf5dd9934cdc7fb841aa51e9a9491" data-requires-python="&gt;=3.6" >jptest2-2.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/d7/e1a7c4541bcf94c27d071cd467836a94dc61d370074a26747af569613122/jptest2-2.1.3-py3-none-any.whl#sha256=5a34817688d2d7875bc289b66867b71e9956ea9ea311b3ad23271dd5ef387564" data-requires-python="&gt;=3.6" >jptest2-2.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/4a/00d6cd4fbd21a63c0c9af7fe01471af0a3badb79cf3adc7be58625cfa608/jptest2-2.1.3.tar.gz#sha256=e9ad93c32678f8ccd41e0a5766b4b4f5816108837b87f51829fa901bd893dfb6" data-requires-python="&gt;=3.6" >jptest2-2.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/a8/497ed95aa744c281a5bcde87158e10963dd1ffefaae642cf311e678ff33b/jptest2-2.1.4-py3-none-any.whl#sha256=75a6a2ec38eb9984d5fe0d38b7c276c514340cad5ecc00ca81384c2687fa1358" data-requires-python="&gt;=3.6" >jptest2-2.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/f2/ef8f2814dc53ff254e3fd2866f776914f7242fd7e84a9d9384dcb9dc0113/jptest2-2.1.4.tar.gz#sha256=2940a8fd1efa52d4be2873322b19fbb2b22272093f4bdb5e76e9b8c240bfe770" data-requires-python="&gt;=3.6" >jptest2-2.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/58/bee11c554ca5b8e081c51df15f4db0be51854f4c2987ec900af4b00f6f40/jptest2-2.1.5-py3-none-any.whl#sha256=de2432e1fee8d1e583efd12ef81f180741b244126ad85467eaa04b6d74958e55" data-requires-python="&gt;=3.6" >jptest2-2.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/07/e7fdb04ddff49cd6684f594ed1c0bc58d4fab9ba9ae4128d34053bb89dc1/jptest2-2.1.5.tar.gz#sha256=3997dbe4cb7627d98418d188b70e6280c797734d33d17a4afb09c8b22decf919" data-requires-python="&gt;=3.6" >jptest2-2.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/67/4ed6fd830dfb538dfb7b7aa7c3973e193cc39d0265b95a90470a796e1f2b/jptest2-2.1.7-py3-none-any.whl#sha256=6bfbf1a8d34de6d5534fa9c429b161bdb9a811526338c4e81b36649cff1b9980" data-requires-python="&gt;=3.6" >jptest2-2.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/4a/670b63dcbf8f6a28e21c22bf7c0e8d3d7b974c63aff3b529b7e285ccab0f/jptest2-2.1.7.tar.gz#sha256=d001199974507f3e56e1b9d2faee149a297ebe2cc955a0e13aae90e9efe5d165" data-requires-python="&gt;=3.6" >jptest2-2.1.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16290132-->
+<!--SERIAL 17010841-->

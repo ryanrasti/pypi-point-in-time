@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-sqlalchemy</title>
   </head>
   <body>
@@ -36,6 +36,8 @@
     <a href="https://files.pythonhosted.org/packages/af/e6/74d2e9d8ecf2fe690f927c2e33c7c9a60049c3f8a8f39cecd6a853afc46f/zope.sqlalchemy-1.5.tar.gz#sha256=f92254197aabde794509796223d393a0149bfa827357b7d4ae75581586286ca1" >zope.sqlalchemy-1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/1a/f30ebd5d3f040e1408ad085cfe46ad0207b553a99cb0d6c7ff492ae38709/zope.sqlalchemy-1.6-py2.py3-none-any.whl#sha256=63c4560fdd2d55c6e5658a22f6835a3c12eac1a3af8140a01400f7367aac91ed" >zope.sqlalchemy-1.6-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/9a/680535ff3dfd9e555688e9d8ce80f5c670441c41d5dc292321f5e24a2f5f/zope.sqlalchemy-1.6.tar.gz#sha256=9c53be9a57275566595ada79bdffcd624a12fcf6435f6e6807416541b912f5ab" >zope.sqlalchemy-1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/80/a6f9a52b9eef0fbeb981455ea429a23035adf93f6e4fdc5755c43ff4ba97/zope.sqlalchemy-2.0-py3-none-any.whl#sha256=39e13e982faeb9494d4e89f301a765bb1ea91093244de821b192ddcab70ca15b" data-requires-python="&gt;=3.7" >zope.sqlalchemy-2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/1b/631ac5bed31190bbfb7646ca38985b3c90d98929c0cc5b363aea46138e97/zope.sqlalchemy-2.0.tar.gz#sha256=cdf70cd57b8beb0ca9a81754abbf5c80ef0b53e8d8b2d894ac20bfc73870df12" data-requires-python="&gt;=3.7" >zope.sqlalchemy-2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 11374071-->
+<!--SERIAL 16710649-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gs-quant</title>
   </head>
   <body>
@@ -425,6 +425,30 @@
     <a href="https://files.pythonhosted.org/packages/e1/7b/6fd9d6e427e8662dbc60bf10587d2581f7f49713da2081c7d91f27c9a8ba/gs_quant-0.9.82.tar.gz#sha256=c187a51c78931823b746518df1b12e939ea302c41a7769506c215cec5f879791" >gs_quant-0.9.82.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/de/a9282f595c52a8022a6153429e304043886b206b498c1eeb0f523b34f028/gs_quant-0.9.84-py3-none-any.whl#sha256=3ecb09da895cb286cc5e777254eb976b54f78e69e5a4234b2958b81a701c2217" >gs_quant-0.9.84-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/02/efe58ea34b58ead9a1fbccda025fe01d2a6734c6c704ecd9e84fbd9edc22/gs_quant-0.9.84.tar.gz#sha256=f425b4fd45ad23fc432f3a6699b2bca1fc2bb4527ffebea0c35da650cce85141" >gs_quant-0.9.84.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/67/ab25068aad72804815aa758a1d4512c9c897619304040f0e92d08aa53773/gs_quant-0.9.85-py3-none-any.whl#sha256=d28b9341e0988360cd232292811bce0999fcacf7f4bd34eca10e8f9c17df43cc" >gs_quant-0.9.85-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/9d/23b33c2931843d6b8d46e902bab2cd69b041c8611fabb56089de2a10357c/gs_quant-0.9.85.tar.gz#sha256=d4dcc829bd6dee504824f5211d9dac7fcf0c63e37b0c14fddc0c4066fd9bc256" >gs_quant-0.9.85.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/a5/20f2817a0f6aa4f753bfb1830ccae93e3375ea9037f00f0d3b39d6c8ec6f/gs_quant-0.9.86-py3-none-any.whl#sha256=6c753bade27ad001ab056136c1d97e9ebf662ca54582a78861b4ceaf8479acb0" >gs_quant-0.9.86-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/f3/437e53bebf0caeae1a170152af1eaa9493447b524ad1694f93e52883d9cc/gs_quant-0.9.86.tar.gz#sha256=26d1a58136f882b4e1eb494c6a6b093d9a12705ebbc57753c316b379f7363fad" >gs_quant-0.9.86.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/c8/150a9e42d5c5f5034dc72308bb7a57ffed4aee70fac29a037376d2ce97d5/gs_quant-0.9.87-py3-none-any.whl#sha256=eb593c7a7876b824305459921667b17513db5d667f607a8b6cffc5ea3c175d5a" >gs_quant-0.9.87-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/72/491abd05177cf59cf3f9dfa94190525b50c4e7ef45f1455620a81e133d44/gs_quant-0.9.87.tar.gz#sha256=94d77354ec1f6c63fcdadc2eed16b3bf81a59b50e0ca26e2e3896dfe4f63c4e3" >gs_quant-0.9.87.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/26/6259676119c0b0b55ce47bbc98fa94d27d830f34369cc0a8a17298d44a4a/gs_quant-0.9.88-py3-none-any.whl#sha256=35f0f025aac5f558c23c992a64c52ce748fa4ca4137fce9072ccc9b917593c0a" >gs_quant-0.9.88-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/ca/3d7e65871bcf98ed7ef9c377e5b5750d70108dac07462128c4caacf8b523/gs_quant-0.9.88.tar.gz#sha256=98ed13a2bf8226831f1570cdc27476caadfe4728f2911784eabb1060ec12ba00" >gs_quant-0.9.88.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/55/49e67c1a42ab9d5106c28fc140fd9a5ddb5ef46c9c962b040c75787f9ade/gs_quant-0.9.89-py3-none-any.whl#sha256=331d6f41d5712697eca58adc7a0c84c161d37ceed486567420df0b0ae71ce431" >gs_quant-0.9.89-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/b6/33d7dbe5d08af0a6752fc27785679c04015c7bb15c7e573872d251636272/gs_quant-0.9.89.tar.gz#sha256=d6e35e61bd31bb53a476b2416d5f2c568c5cadb0a9184ef444df7057cf6c0908" >gs_quant-0.9.89.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/a2/09af672862183397c2cadf3359c3310a167f9409eeb7e34f530036a1a16c/gs_quant-0.9.90-py3-none-any.whl#sha256=6a366c485d537407806958774cfd49516a9884f1182375fe777589e5e8222d7a" >gs_quant-0.9.90-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/58/419fa1945f05c08235224c2ec1806b0c7ab6c4d78d5c43c28749da583ba8/gs_quant-0.9.90.tar.gz#sha256=c70e645b679f428b69df39df92f13e7dedf6dde4df96dbfe3ec63e5e3e1c8ada" >gs_quant-0.9.90.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/71/e358be641e924af6e2659e701bdf0559075c28c7afe579a1a7290def6ac6/gs_quant-0.9.91-py3-none-any.whl#sha256=838198a199194102ed934e0dd41a9e36db5d588cdac832325944dc377ebcc547" >gs_quant-0.9.91-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/c4/e46b9719e643e70fc67ed25a5ab7dadc73bd9d70f466b9143906b50bfc32/gs_quant-0.9.91.tar.gz#sha256=9333709886dc8d26f8cd30e0fe3ea404dcecb2339c5837bda2b51d7ae96e65aa" >gs_quant-0.9.91.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/80/e69d56cb3a9daedc313329b66178aff2db10a9d82ac2fe36d723b3bca88d/gs_quant-0.9.92-py3-none-any.whl#sha256=ed324737aeee62d5ca57d874974974caaa20c155eb0da0f7d65b791b4498eac0" >gs_quant-0.9.92-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/df/8e0388c16973b5cf77ea928216c9961735b57a5eb748a994783f6438854a/gs_quant-0.9.92.tar.gz#sha256=2285f8dbab43c01022f11a306f2fa5bf21ab914563e0e3e14262020dd3549c33" >gs_quant-0.9.92.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/b9/913e3f2e908250aef60d7215818886a288b5b5853e3fe7cca8566f6a9d54/gs_quant-0.9.93-py3-none-any.whl#sha256=e305133ab06aae6c01a509e574d22ba24e03f8d05ba5372348ac40cd88607eaf" >gs_quant-0.9.93-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/aa/9c853f64b6bd56477a7ccc16dde469690aeefe6c848bce02480ef751e360/gs_quant-0.9.93.tar.gz#sha256=cedcd7ec6dbe2b07fe50074a2757295f8b116a7bc8595d3ded6f04a4d7f1548d" >gs_quant-0.9.93.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/b3/84ff5e2e338ea8875cc7659a8411781bcd8d23c990b8de2fa8a5b8ec8b98/gs_quant-0.9.94-py3-none-any.whl#sha256=36c84e3ab5b3f779faa8bbcdc73ed2b4e751b04cb568b9e52d9f53aa604065c8" >gs_quant-0.9.94-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/2e/7664c4f0922a79b26235db06350e70a0a8054c0d6b573520aa97176a1963/gs_quant-0.9.94.tar.gz#sha256=f1c42869ab74cd6f237432e0fbe6d40b864b5f418744e462a72ec312f1243bbf" >gs_quant-0.9.94.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/b6/683eb28a6884097efba806f77d786611407791eea9842ec847f66d29ba71/gs_quant-0.9.95-py3-none-any.whl#sha256=0c50ca9eff84f23feb83676a8845166744fbafa4cd871c7d9ab9db40232d4363" >gs_quant-0.9.95-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/57/8eea8d813296e69d108d064970b6c080bc320ac1875c65318b9c00829272/gs_quant-0.9.95.tar.gz#sha256=52d6409c89c6f696793dc6c822adcd9ed0653a73b8ad151fd99945748d4725db" >gs_quant-0.9.95.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/10/af44c1790af739672bdb5a432e91615107261ce1d93180dcea94d3d98881/gs_quant-0.9.96-py3-none-any.whl#sha256=c24790cbddcc47ef8d624e3db553a81e56733c01b0766dc446b670efc8fafbb0" >gs_quant-0.9.96-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/cb/c72364c541e6220144b42a42d1bca518609814f2bd0728258582f46e013b/gs_quant-0.9.96.tar.gz#sha256=fff7db50865ea1110541f4b78eaf6b41315c51f9b09e7e68c00ab505eddf01f3" >gs_quant-0.9.96.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16362588-->
+<!--SERIAL 17112975-->

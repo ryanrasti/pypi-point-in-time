@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for glfw</title>
   </head>
   <body>
@@ -211,6 +211,15 @@
     <a href="https://files.pythonhosted.org/packages/5c/84/393d16a5650e652fe9188c7740b5f36b175d6bc40c0f53792c48aba10bc4/glfw-2.5.5-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win32.whl#sha256=09ef5c8ab888d58db9e607af5525088db24fe43a39649f24a3447dad0f7a174d" >glfw-2.5.5-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/91/c3/214dd00a083eea66a2eeaef0f62eac417fefdf7758702fa9420995c9b0bf/glfw-2.5.5-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win_amd64.whl#sha256=1e9fb75db4acbfc25ae3e7ab5b3cb1b760e927a2be49200cfe8ab7162db33df2" >glfw-2.5.5-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/43/fbb2450c6ea64f9b7a7204d6fc6fff8930bb9f7bbfc94cd02b6e9a74a575/glfw-2.5.5.tar.gz#sha256=a282a2a742a0d01734dbde746dfc8f696f76373520494e40f39f60615408426d" >glfw-2.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/29/25964d5f855053f033235a069eff111bdd1bc3f27aab32fb0d47b577b7f1/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-macosx_10_6_intel.whl#sha256=159c31d075afd36aa202da7ae26909081c2ee59599ea784aafa3d3b33a13ac9a" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-macosx_10_6_intel.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/6e/c9035072dd83696fd45a9d1682d0bb8d55c8376f2723bbec9e93a2f0b575/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-macosx_11_0_arm64.whl#sha256=6dc055bd2ba625b56352369ad7a8d9b8f2c22756c5cb62518096de7c473da27a" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/db/0b4be2ab54fe665951b8be4c7dd7751fa266172988262af634508990ef9f/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_i686.whl#sha256=8f2ac88f0401b4260b676ce63c23a61b01da193a4e6b8af3bea4fb1e3783b724" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/2b/50c56a1423e8f75a4c8077db8bf4d858007859c084d4556df3b3ed4245ad/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_x86_64.whl#sha256=ff78a1ce81406a0bd90f9632d2e77ca0b3a09b652714458a0c1d468aef515adf" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/44/6c4235c8f1771c74f2044c5d9b517ba2d6697dc0a1198031684f2983eae2/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_aarch64.whl#sha256=da5dec5876e13c35ab620e2e639dca60ced97d4c9851d8c8c4a64bf34abc8e62" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/2f/d34658e1a68bff34c8f84a2799fa29974243cb53979ce37ad30008550730/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_x86_64.whl#sha256=e6ead6557e054965c847995297c30d188a99e7d59fe4f44de0bc6a6e6092bd2b" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/73/e82b268514bf2b71fc5fc1f490d758f9c324ac1458db5926cea5ec70c128/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win32.whl#sha256=0a167f3fd996da34fcf45d917ba090d4b1ddb748467e3cc4a48f8d87af2ed336" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/54/e6c52dac976520744a3500a90ea323a70e8400e6f9ebb7f1b721b15baba6/glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win_amd64.whl#sha256=c7af65d4e29b1491023b10009a8659a060b0a60db9b604fa10bd441318dd908e" >glfw-2.5.6-py2.py27.py3.py30.py31.py32.py33.py34.py35.py36.py37.py38-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/ed/814be1927191ce943cd27c00c66066605fb8af2e535c5f19a66628f68842/glfw-2.5.6.tar.gz#sha256=9d1cd36ec2d5dc91f32358c8664e8d6b51f548314bc5d4782992cbd7a547c0c8" >glfw-2.5.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15021385-->
+<!--SERIAL 16653564-->

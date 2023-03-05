@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tasktools</title>
   </head>
   <body>
@@ -26,6 +26,7 @@
     <a href="https://files.pythonhosted.org/packages/43/43/e90ad122fcb5cbc1f5adc09f867d98608b9a490b810e678f94decbaa5451/tasktools-1.1.6.tar.gz#sha256=892e430cd3a5e5b6db23499f3a373905eb3241cef3f12e8d8de9968cab53c17e" >tasktools-1.1.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/49/79699ac064014735b9af735aa22169920d17b9f5699c070065734364c68d/tasktools-1.1.7.tar.gz#sha256=bc769493a3c4af8685b1f443b32fc0b723e1ce1871c4998a0ad9eab0068343da" >tasktools-1.1.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/61/8f4b87ec0803d74171c6579a7106a1d923d9708eec1a6db6fd075f68ffe0/tasktools-1.1.8.tar.gz#sha256=95edc410666df8304f8253bd7bc3a5f6f71dd33d0c318d0298e241c5447d78ae" >tasktools-1.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/44/d9f65f37bc42583a1a41ffbdd30bf824d9708337e3f1e19098d3ff1f1024/tasktools-1.1.9-py3-none-any.whl#sha256=dfda3e650dd6ee193814c6651e205800dbd6d52bdb23d0ff733e2b7b6c0a641f" >tasktools-1.1.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/53/08/3528a96189d771de5c9fbdd0d251b8f55cffffc9c0db90fa06fa02116c73/tasktools-1.1.9.tar.gz#sha256=83c7ff4f25576554e05432664e2aae5641f1e35f1147a8b2e593d70625c2c127" >tasktools-1.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/88/6f028d8c29391414c6d2fc7d6122e8f14e9e16950dc2e6d7c3e1a1664e7d/tasktools-1.1.11.tar.gz#sha256=84d64e0d3966313057d8d4d626396458063540a271fcea8fd9a37234b6efecaa" >tasktools-1.1.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/a8/eb89921847841a14eb0ae8a6f1ff0774f395dd569a1a2a21e94e9673ba46/tasktools-1.1.12.tar.gz#sha256=6853da0561109241578c777a3d1fae63a8544174a1b0db701eb1a680778c1b4b" >tasktools-1.1.12.tar.gz</a><br />
@@ -68,7 +69,10 @@
     <a href="https://files.pythonhosted.org/packages/5a/c9/317e3f1c77553b9460584c05dfd814acbe7e91e649067f140addf5a74bf4/tasktools-1.1.65.tar.gz#sha256=fcac09e66d68d450cf3cad54b1a62a3db0349a3ab7748426d530f25b268bb96a" >tasktools-1.1.65.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/3f/bf90d981e0b7ff754c5daec25de54f893ef1aabb287e51f441d81f831ecb/tasktools-1.1.66.tar.gz#sha256=091cd8e2ea23347a56124d4ed3d7a845be98f4a661d8b414ccda01f21798b5f1" >tasktools-1.1.66.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4a/f6/f9949b54d2a45e4ecdedd16e2360d7a29e9263b0982370fc533138519def/tasktools-1.1.67.tar.gz#sha256=634f22ec9b867355c5d8dc2b7d3bb2c56ca864a2c785578d4d5c57f12cf955a4" >tasktools-1.1.67.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/56/c00b7f9ad761ab1a0037737f64dc18de28e64b910ecf80698f687927da13/tasktools-1.1.68.tar.gz#sha256=31a337a13716b0407c173c5a651690a5645f395238b3c7dbd973ccdd98f989a1" >tasktools-1.1.68.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/f1/89b052ed5a331496efdc78f9d537bd653d42265da898a48eb4b9fe1a23b3/tasktools-1.1.69.tar.gz#sha256=a2046ef8a998bca13bbf3c076438a98d73769959374857454419e32fac2a0b56" >tasktools-1.1.69.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/39/5d2ff07e1c51e2bc3181e6e3f55516d78f0f293726c03d2ec969bcc2ddc7/tasktools-1.2.0-py3-none-any.whl#sha256=2fbc29d31ab4e4618114c08690c502ccbc2f120a3ee88798fd3f368f52d43c57" data-requires-python="&gt;=3.11,&lt;4.0" >tasktools-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/7b/5a0ba1de386656da02685bc05c1450a85802f04a089713337bacb141e264/tasktools-1.2.0.tar.gz#sha256=03357758b329293158282cdfe93087f316a82c8a4a258f90ff6a16087349cb1d" data-requires-python="&gt;=3.11,&lt;4.0" >tasktools-1.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13518388-->
+<!--SERIAL 17012147-->

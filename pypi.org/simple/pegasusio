@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pegasusio</title>
   </head>
   <body>
@@ -270,6 +270,15 @@
     <a href="https://files.pythonhosted.org/packages/06/8b/6ba241dfed9b82cadb1024fb9a4ffdb7de5c00151b6dd1f26feb75d66bb0/pegasusio-0.7.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=75730d79c9ec5f054ecca9779e0d6d61d9b293c3ec282fef30ff9bf8a8b2d860" data-requires-python="~=3.7" >pegasusio-0.7.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/43/1b/532be7a0930fb555fce12878bf3f172efed322b2bda2fc74d23a09b9302e/pegasusio-0.7.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2cd196691a54b78b17fa69da9d53f97eb7ab94440f430cd52bed0f7bfa182f4e" data-requires-python="~=3.7" >pegasusio-0.7.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fd/8e/9eee6c627cd5e36cc60617e10daba71df42bc16f2f00856a5f5ce3bab46b/pegasusio-0.7.1.tar.gz#sha256=e9abde98c477a6d2db8e396dc5a13b3aa559a529c7f856bddc280ddfae7e1e3f" data-requires-python="~=3.7" >pegasusio-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/a3/5877e70118a0db05220d307aef79ed24489752d5490bffe90b2652d2e78f/pegasusio-0.8.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=dc5f9f82ccca2b951d63b50c4023c8e5fdad61e8b5150c25cad845ebdf35493a" data-requires-python="~=3.7" >pegasusio-0.8.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/ae/1d77efb93ef38f667adbd5d0f5d45fb64109e40bc4efc10282d92c69cbe1/pegasusio-0.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b60323925d4631d3069c2f826038b9360d2a0d151735d4fbae47c4c0d35f8f14" data-requires-python="~=3.7" >pegasusio-0.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/11/18f03dafb38ad2c7f0b2a28ae26e7ad0b415cea5f09106e481dab3ce03c0/pegasusio-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=c7f5b8cba5e67421c7bec0af61589d7ec1e1a3daf5be46781a1a5165c188e5d9" data-requires-python="~=3.7" >pegasusio-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/86/20b8e0cd5ec24ac4913140d812ec27bf52a2402f7bc17a4d142c43230a5e/pegasusio-0.8.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=371e6d962aa94e7090a1bdd16e47756a1fd6bd65c10a00f2c0080d8d8a89a7c7" data-requires-python="~=3.7" >pegasusio-0.8.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/c9/1ac417a1689e049e77cf571a5268a4a3bd9e9b34ca26966419a5e122a208/pegasusio-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=8426237120a2c08e88ca19907c15d669bb48516f1d79527d2e46a51ee0d1d7b9" data-requires-python="~=3.7" >pegasusio-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/2f/80cd988a1bebbcdaaca9045ba4ae9ff01c1be90c5df1c51133c59f6dfde6/pegasusio-0.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e5cf1ff112852765a26be7f6fc9ba094d4f128567db7a1a4aa6e8edc9666e946" data-requires-python="~=3.7" >pegasusio-0.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/cb/ee93a5ff2ba551efaec94e2c32553670e272b9a18d97c6e06f0147da603c/pegasusio-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=807333def4df4acfca5fff20f43160b323e2ac29d4b3533eed95756473bcf00e" data-requires-python="~=3.7" >pegasusio-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/83/6e890bf4ba74f0d1369d501abcf2af5d8ad3ca7e10fd44ab81d35c9ad4f6/pegasusio-0.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=65212eac864cf6cb3e6a17ed460a707579cdf80da69dc973fe268dd05c737acd" data-requires-python="~=3.7" >pegasusio-0.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/6c/85ec8ab8e46cd288d1962da7edb3f4f243d616409bcae26155f78bee3fcd/pegasusio-0.8.0.tar.gz#sha256=3b9dea24a5b90632ac1fc0c117c89d36d6033e46920e91a841a5c2ac95afcea1" data-requires-python="~=3.7" >pegasusio-0.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14684522-->
+<!--SERIAL 16743131-->

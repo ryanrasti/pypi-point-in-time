@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flax</title>
   </head>
   <body>
@@ -54,6 +54,12 @@
     <a href="https://files.pythonhosted.org/packages/97/28/815d6ea58029c0116d44dd3a728f7529543f331f5941bd2e8f011c09a029/flax-0.6.2.tar.gz#sha256=a6247b412f14466fefcc70d043bd0facf72552d322acdda8a8700285308d390f" >flax-0.6.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/9f/9e6d60664f349d7c3c24c45e6e3c32cd050311e745acde534df992a1eed7/flax-0.6.3-py3-none-any.whl#sha256=0cc0830f76a45c54ebe993aaa751319ea609ca1fb036d418d22259a0074a8759" >flax-0.6.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/01/94d845477e73d511e37dd1c8aaaa44f6bb8a29dd8a18ee96fc3afd5ace35/flax-0.6.3.tar.gz#sha256=064f33f24f49ecef01c171cc770d22493fb8f9a36ed29db5e75f82d2052682a9" >flax-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/c8/fae1760e36c5796618df8128a294c838e49b645d2db7e85b4107089e7109/flax-0.6.4-py3-none-any.whl#sha256=fe5010525202241fdc960920033d2e4c0b35f06090c1ad9e280b1f4415ae308f" >flax-0.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/c7/aff68fdbc9e26f8737c8972ae665d7a214b98809953e782d10406e392819/flax-0.6.4.tar.gz#sha256=d06465a3e6636c3c23c29f651a13f5367d06c41373b441dc8ec1bfaa4db06a48" >flax-0.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/88/e7de959b3f39e5d4c8dcba7398acc88479c1fcfbb1c086c48e77ecba9a6a/flax-0.6.5-py3-none-any.whl#sha256=878072d8d1cc329b4d2c64a9ea3a17178b97219152e1b170953e361d44a8a184" data-yanked="breaking colab due to jax pinning" >flax-0.6.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/8b/87f4ae299b0f534690fa571f3fc68cc3b64b882e39ab32a1c5c8c8224c74/flax-0.6.5.tar.gz#sha256=12b921fe16198767d0b662a55024b698f6670b311463fa09d39194661fed1b24" data-yanked="breaking colab due to jax pinning" >flax-0.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/2b/45bbec832edb5596b75794546e8f52b22793d86253887e26e81f530edd61/flax-0.6.6-py3-none-any.whl#sha256=bad91854c6e2f975e29ddae838f48e9d685d119c7ce9f464d45e54a8f2945426" >flax-0.6.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/dc/18d07067ecbb0da0cf5cd01f436db79ddbfcbc097bac45fc2fb2af90f26f/flax-0.6.6.tar.gz#sha256=dd76fe88eeaaac47aea4bd650bb419fc5412f1d561b6321ca0136723b4b51c78" >flax-0.6.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16052774-->
+<!--SERIAL 17073991-->

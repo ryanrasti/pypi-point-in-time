@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pydna</title>
   </head>
   <body>
@@ -201,6 +201,23 @@
     <a href="https://files.pythonhosted.org/packages/50/8f/5b54b7de342db5771a3870ac23375fb6869cbc5ec1e6cd4a77ffc416403a/pydna-5.1a2-py3-none-any.whl#sha256=5d51281df3adc052859bfdd1ac8ea31928b69e05b9e48ad3c5f3954932071074" >pydna-5.1a2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/00/4c7656f9e73b0f937888e2fb119a07ad5a9bee72c361c8c1ebb9ea6a7658/pydna-5.1a2.tar.gz#sha256=873a44ee961a67c938fd907b6e3e92f5eb0ca3d614b7c22be9f75182c7f59060" >pydna-5.1a2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f0/bc/e2b5a8937f20f9e8492ca386952667bedc526ad6e6e26f7f22b5dd8f7c4d/pydna-5.1a6-py3-none-any.whl#sha256=4694133870dd6fa320b32282372b4232d88cc212fa1eab57f16679b481c0880a" >pydna-5.1a6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/9c/93b652ca30d0b9354eaa4d726d442b4d87de3277416d6e7888ae94a944f8/pydna-5.2.0a1-py3-none-any.whl#sha256=95dde83c23988911fc731e2efd09c7a38c27f5a2b5621f43baea644b1d0b06af" data-requires-python="&gt;=3.7,&lt;4.0" >pydna-5.2.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/93/9da5d03f9750e1e7484f9fc6d18865cf7768af85b48f0a8669ed054d0912/pydna-5.2.0a4-py3-none-any.whl#sha256=c1d9fa235c3f80223624c8edef35bf3e20f248c152ef6939ee438aaeabe8560e" data-requires-python="&gt;=3.7,&lt;4.0" >pydna-5.2.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/57/557df9f5c704be8a57db8eaa445fdec0d483da8e1dc7f042c902e753a172/pydna-5.2.0a4.tar.gz#sha256=309bc940882cb201b2f811b50217e8da2c93ba8407887e778f8f048107b1acbd" data-requires-python="&gt;=3.7,&lt;4.0" >pydna-5.2.0a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/03/c8722f762aa88b17ca1a860173309df07659565aa8fbb6b3d1ff84f3f1b8/pydna-5.2.0a8-py3-none-any.whl#sha256=36ece345eca9f9852d6d404e9f6da03954ecaf1a7f8c515c17a0e378f3e85064" data-requires-python="&gt;=3.8,&lt;4.0" >pydna-5.2.0a8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/d2/5874881dc1cc92a0f097a4ac55d8667514618b045c6f4c59c86651ee674d/pydna-5.2.0a8.tar.gz#sha256=202e4c7f0e09cd90416b9600bf3a2fe89e778fad6f3b7e34da2d80f343205925" data-requires-python="&gt;=3.8,&lt;4.0" >pydna-5.2.0a8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/bd/8aef35c1d6bddf0ccb73cf8f326710abdc8381bcae608e3e7bd8a2696d7a/pydna-5.2.0a9-py3-none-any.whl#sha256=b41bf74742eddb6b901527800b08e76a8218cce35deecd453223c610d19cb09d" data-requires-python="&gt;=3.8,&lt;4.0" >pydna-5.2.0a9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/6d/6205a15abadaeb8470176bef109863bf7a6898bb40c2bb3261eb7ccd3f1c/pydna-5.2.0a9.tar.gz#sha256=bdcfb2e1638f6b3d6e91322a3cbf324be6d3a014af36a99336a34dc28b3f02f2" data-requires-python="&gt;=3.8,&lt;4.0" >pydna-5.2.0a9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/c5/0e7ca1d36a25546a6e2cf8ed4353a3251c55378c517975c7873fbc25ddd5/pydna-5.2.0a10-py3-none-any.whl#sha256=c4d26e70fd5c3d6c6c669e8c4efe1d7116c13d5a9cea22a3a23425e7251a6e93" data-requires-python="&gt;=3.8" >pydna-5.2.0a10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/b8/5107b4e1522044e29e25f4a5e949cca24273678e81c6df6714bf321d85df/pydna-5.2.0a10.tar.gz#sha256=618f679da9ba892c994ecc5245d754698d5a4db745ed819d374ff2d03b2b9e1e" data-requires-python="&gt;=3.8" >pydna-5.2.0a10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/da/ea19300dfd8d46cb4c575b151ea6d76cdac41981ced46d448c3cc77ee65f/pydna-5.2.0a11-py3-none-any.whl#sha256=b6f9994e8d3508716cd6639a4e940d9872b31a37507aa319b8ba67fc1495acfa" data-requires-python="&gt;=3.8" >pydna-5.2.0a11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/88/8ba3748d4e0fe29b1fd4c0dd57f64c264094eb47db16319659f992e108c9/pydna-5.2.0a11.tar.gz#sha256=adca0ed0b3d0daf655c07a0742d9f34c564192814a6d25eaaf54208bf94ae8c1" data-requires-python="&gt;=3.8" >pydna-5.2.0a11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/66/a6136a1fc2401bcf20c82c32fb609dc417232749bcb0ee7d58b75d668b19/pydna-5.2.0a14-py3-none-any.whl#sha256=d936b4b523e89264f9742fe5d99c3de7bcc386b415028e52e10b04457a23bf78" data-requires-python="&gt;=3.8" >pydna-5.2.0a14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/b9/c3e2a097fa1860e512d964451eed370c14ad5fcbf749a50eb18e5824ca5b/pydna-5.2.0a14.tar.gz#sha256=46bfb45db75bf243756cec426262608553c16e1dee9aa0a775156c69caca4a15" data-requires-python="&gt;=3.8" >pydna-5.2.0a14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/03/806e374d0481f9eda34daf58dc77653479a9c44eb2f707066a12cf51d140/pydna-5.2.0a15-py3-none-any.whl#sha256=3a064898bb05992e3af94420b3568a606cac2e0a841e5f8320767354986add36" data-requires-python="&gt;=3.8" >pydna-5.2.0a15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/5b/49dc335f68a188b800c699bd10b8b31b0d3178306a1f8db72bfa1cacce51/pydna-5.2.0a15.tar.gz#sha256=deaffb8ef3ef48dcd0f8446c2377fcd7637973f722f2dc91b22a2f3d59e9cab0" data-requires-python="&gt;=3.8" >pydna-5.2.0a15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/63/373dc5bc5d970701abf7e6ab6f2b97aa07a64f649b3eca429b133233bf6f/pydna-5.2.0-py3-none-any.whl#sha256=b715c8753065f16339dc105781c0836233b8f8789ba3ea983db252aab70857ee" data-requires-python="&gt;=3.8" >pydna-5.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/da/0c926cecd9ea436f54b9ec2e3aa8ab6f71936ce5eb8be312db68ec0ce5a0/pydna-5.2.0.tar.gz#sha256=211ccc1329758657b925ab806931060a96c6eca711e278ae2f19fd0e186971bd" data-requires-python="&gt;=3.8" >pydna-5.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16301004-->
+<!--SERIAL 16666840-->

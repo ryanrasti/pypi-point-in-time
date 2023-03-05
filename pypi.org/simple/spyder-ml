@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for spyder-ml</title>
   </head>
   <body>
@@ -36,6 +36,26 @@
     <a href="https://files.pythonhosted.org/packages/b0/3f/2f4bdb2aa2ffacb8d363598b50be7f37ca2fcddca84802ea324b96901ed3/spyder_ml-1.0.2-py3-none-any.whl#sha256=d761d2f8225c613fd14f9c1b76adc82e9c0c60d8b88a21a1ef71f93f36b28187" >spyder_ml-1.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/df/2f571c4abaa41bc8e0e6aa7de05153ff798c06cfae15e9cec906e28df270/spyder-ml-1.1.0.tar.gz#sha256=cc588785f0f4d5b1ddfedd66d25069e895968d30e19f95c8f4d1e973ab8163e2" >spyder-ml-1.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/37/c8500d5c9c45b20a2c35ae146fbc47e14464ba091aac00ac6b226c30d31c/spyder_ml-1.1.0-py3-none-any.whl#sha256=0a882a25ea046c3425a0e498f206c4214fa367bdef674f9613c79546b22f6924" >spyder_ml-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/f1/7cfe30f599da459a47fe50c123d7c22d639a6bccbb6d6548a9a7fd1e986d/spyder_ml-1.1.1-py3-none-any.whl#sha256=844daa8d8f2925b0cc809c5060ea2f6e0c9f2104be26a17bd355aa5711a554fb" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/0f/36331ae3ac7b7748e9a8ee37d4a17466070e14222beaf19cfff2c2bbae3a/spyder_ml-1.1.1.tar.gz#sha256=64ea86c9ae5b0480137322a98a3b39ec0221a704514fc4efedde8a8e2a3bf818" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/9d/29c3953a7f7f581dcf0ec3de1b0c9b371ed8adddcd1931bb39481a21b820/spyder_ml-1.2.0-py3-none-any.whl#sha256=ca1d62cf9dab179ff7bcfb18921017672ea9238b75e041cd9013a9a14bab6c27" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/b7/09a7e93f49121b2106e3ae5c5e5b0fbbb935dfb123941bd373e23b3a6122/spyder_ml-1.2.0.tar.gz#sha256=f035410becce61a818b6ae6d590eb8738554cf5356c48d776fd9eb4fb37a0b83" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/75/3d208e433fe230a5d605e884dee8bee17b86c64a9886ea2f30a3cffb9e72/spyder_ml-1.2.1-py3-none-any.whl#sha256=997d73b2deeb8b233db7eb173c7ba7bda22c8e5dc0e39833a5899047c890422a" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/bc/23fd851f62071df41c25c3eec4047b97ef38c02e04dbde6e37c62853c605/spyder_ml-1.2.1.tar.gz#sha256=7d73e58264bc9055c87a715eedae035a23b9c48e1d273662973e2ec75fcf617b" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/36/8a8697a141a6693ecd940d0e9fa3228c45dd8f3586a7f9eac16ba5262c51/spyder_ml-1.2.2-py3-none-any.whl#sha256=5989fafc186c7990d49b3676826286853cff9863e4f35911ff5850933940191b" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/3a/c8190cee43c48c6900b93aa19ee82d7b065f3e105385192cc3b310af07f9/spyder_ml-1.2.2.tar.gz#sha256=8b948a43e238017a010a3d63ea052f9f538fca328f7b3ecc24994760309cda0b" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/30/3dfb9f9ebf40bbc9a80bc8819ae072e4e5c210c611055cbcddaebefeb99c/spyder_ml-1.2.3-py3-none-any.whl#sha256=77a5194b8f7ede0499dc4a84780cedf0ba9455bb577ef476d79c16f700eccd61" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/a8/9c4eb56891a53dac233ecf3323a7fd92b99c61c5bd6cac843716e574e9dc/spyder_ml-1.2.3.tar.gz#sha256=eb5c6c78e2acfde27644dd5b59cd3c5783727e616ab4ab77acd1b15575497b89" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/28/06c0d91920cc784678556eeffec9d94c7841cdd5feaf72c29b2ab9447851/spyder_ml-1.2.5-py3-none-any.whl#sha256=2c01689c3cf7a279c47c377dafbcb89756fc68a7f329a363117d9b91d88dcaf4" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/0e/662f69ab174936a8522019968bff5d0c635d9fc2db26ca1fe5751447ac89/spyder_ml-1.2.5.tar.gz#sha256=4458b345e975d2bf2fc0bde82e3f847d086d683b4d617832b40f70ec81cb4fb9" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-1.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/49/e9a8a992345b0ae71b4af5e2e123f7c41f50f436ca41c6428575b878973b/spyder_ml-2.0.0-py3-none-any.whl#sha256=6e05b8b139ad1f80e6c2b000a27b68d305d2290fd48542477f6d330ad8aa3e92" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/53/9ee9b62e3bc1c61281575b5f4a9b106f60ad1af3d8e088c31335b843def0/spyder_ml-2.0.0.tar.gz#sha256=77c54f9c1bb7eb930441cc75ae5eb1426e82027b1146a03a4510541f5b6a45ef" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/90/d8b8f25ca8cd416587d12ab490db561a1df647422d9551df9f39ca537c4c/spyder_ml-2.1.0-py3-none-any.whl#sha256=735ff7f4aaba44dea213f6932ef5d46004eec691956ef12ab320ea3b5d99b7e8" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/3e/e001786fc1c702fd4afeb25a1781e1b62e4b01757c0f525fcd44611a3202/spyder_ml-2.1.0.tar.gz#sha256=071a62586eb267e621f5a719e5c43c656cf2d947de776b82a71769f6325d2190" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/93/cf227e0c21de0bbda045acf2d891f000b8c82410cbbf62176a26a42a591c/spyder_ml-2.1.1-py3-none-any.whl#sha256=bc5aae445596675e8354fe0d4cf042b20d0078785293ad5a9b2e9b1adcaba7f8" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/1d/115a4d17640e411a30fd0d5c55105f2a25c7a161a04de8678b799d99dcf6/spyder_ml-2.1.1.tar.gz#sha256=8db3bd4315d1502108990aaaad8ffb627f8d602f442d0bfac791300a706d7148" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/32/cebe7c73f70923bf6caac39096d329f2f789cdd8bdffb751b5328439d969/spyder_ml-2.1.2-py3-none-any.whl#sha256=04790ff6a2ff4ed72125d1e47eae589736afaf41003060eb42437dac024aecb3" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/98/8719c90c5e16313dcee49c5a2cdea137648fad948914c39776193aa4b0a1/spyder_ml-2.1.2.tar.gz#sha256=0b81bec09fda6b88aa0811803a965a55c0f33c421fc957eb54c35bbe1719f895" data-requires-python="&gt;=3.8,&lt;4.0" >spyder_ml-2.1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16267452-->
+<!--SERIAL 17109902-->

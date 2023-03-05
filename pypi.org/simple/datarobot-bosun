@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for datarobot-bosun</title>
   </head>
   <body>
@@ -9,6 +9,8 @@
     <a href="https://files.pythonhosted.org/packages/fc/25/ff7f95a6621f6d8d4aceb103d0e1dafbd9e7cd483c6df319c91dffeb831f/datarobot_bosun-8.0.7-py2.py3-none-any.whl#sha256=92db91ee0bd1cc3f7d7a776c08d41813b7bd7a289a990c5b9dad40f250f44e65" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >datarobot_bosun-8.0.7-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/65/fc/405efe8a730ae485fdebba98d6b0c1a82ea2c76b23f59307bce274bfd47e/datarobot_bosun-8.0.10-py2.py3-none-any.whl#sha256=eec365f3a8cac043bcc6e63e1ac8c411612614d953b50f96a333369752277688" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >datarobot_bosun-8.0.10-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/b9/9d3a0a3e130877670c28fea774dabe8335ed1824d8908328875b4d27fec2/datarobot_bosun-8.0.11-py2.py3-none-any.whl#sha256=0a367dd0f9975a89a34da5f339444b694fb75b2656bbbce07a937a232f289f00" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >datarobot_bosun-8.0.11-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/b1/6623ba8e46881e120df6dbacc83b13b9f6367ec527fc8e95d491d687c3c5/datarobot_bosun-8.0.12-py2.py3-none-any.whl#sha256=a8e6317c22dc7fdc69a16dadb039776410c360e1341a0f8bd2a6e0a85a0a5fc1" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >datarobot_bosun-8.0.12-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/ee/9ea620cd978385600082cd7fba66636a0b664955a80ee7d76a30d49ed2f9/datarobot_bosun-8.0.13-py2.py3-none-any.whl#sha256=e191c40a997bafc6af27d66b0339ccbd7db7da001eb0130fd00c0eedcd268930" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >datarobot_bosun-8.0.13-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/32/5f4fadc9e7e7c55e854cbef57672681234a55d538eafdbc18146fdfd1014/datarobot_bosun-8.1.2-py3-none-any.whl#sha256=9d641bb1319f1ed5b7dee0472ec87a31d477760dbc353bc0d34947b05a07c45b" data-requires-python="&gt;=3.7" >datarobot_bosun-8.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/e2/e2c96038a58fee6557af49a0cd317fdb42e8d17de4a4b32236408d8bd44c/datarobot_bosun-8.1.3-py3-none-any.whl#sha256=1e8c3c8a9906756189454b8b721d6acf3fc4804e83aea6643bbf31e0a28db6c9" data-requires-python="&gt;=3.7" >datarobot_bosun-8.1.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/00/2e/1eb04c823439442a1e23b66e53ed3c79f84385a69c7f46e9da0556eea8bd/datarobot_bosun-8.1.4-py3-none-any.whl#sha256=29b6f046a0f5a7c6aeb4a8ac006afda3b5acbbf92a9007e2e289bd650ae21e03" data-requires-python="&gt;=3.7" >datarobot_bosun-8.1.4-py3-none-any.whl</a><br />
@@ -16,6 +18,10 @@
     <a href="https://files.pythonhosted.org/packages/99/3f/845ac1105699186d4e0e92b761989b6216abb54614d38195905828be2fb2/datarobot_bosun-8.2.5-py3-none-any.whl#sha256=c80049f0b083c9ff934d87bfaf32d7abd959b597fadc445ebc4421d60b7bd689" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/f7/e440c5d3d1631b95322333aff22d6329b551080603cf139859399a50c778/datarobot_bosun-8.2.7-py3-none-any.whl#sha256=a122de7bce2ae1aae960a4aa81e96d26e87b8370ef508d6a15a75e1db3fd1f05" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/de/6d/147fa5ed895a4778b37ae2c66865b4b5c5654219b33a3f0c837e75450e24/datarobot_bosun-8.2.10-py3-none-any.whl#sha256=4fa5ad54b7472cd568035bc6637b7e2cc29ae7fc3500e380fc139a31ec977856" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/df/889607ad4bf8375200e209f2c897817b7ee6bbf90c0cc06947ffdd3ff6ff/datarobot_bosun-8.2.11-py3-none-any.whl#sha256=c2f66f72d4f46289de7783d13ff664636469186d1aa2c0d01919f641a6b44c7f" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/a7/62d813cb038ab3c4482ce02ff4fc282af42ed4a5d622df29ac28a305b1ab/datarobot_bosun-8.2.12-py3-none-any.whl#sha256=7e0c75388ed599a9d4114d46a0f5101f918fe4442b9ff6faa6181f03e7cf29c7" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/bd/4dd9d50bae11f47585cf5e32ee676df2bfe9a52e8d63e3c6f82890f12724/datarobot_bosun-8.2.13-py3-none-any.whl#sha256=0ab83b50dbba9308e1dd65acd3d0c374d3ffbc5a937ad7cffc7c62560d1ca5ef" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/e3/2a6530910c1b2a4954a196eaf23591b3420de092d600d5c4b37199fa19a5/datarobot_bosun-8.2.14-py3-none-any.whl#sha256=64c80782d3694bdd08748a7ab714f5509a02762f9d71230d40de1dbba38061e9" data-requires-python="&gt;=3.7" >datarobot_bosun-8.2.14-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15572595-->
+<!--SERIAL 17017829-->

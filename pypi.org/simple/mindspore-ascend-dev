@@ -1,18 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mindspore-ascend-dev</title>
   </head>
   <body>
     <h1>Links for mindspore-ascend-dev</h1>
     <a href="https://files.pythonhosted.org/packages/b0/1e/119afd91081f63bf7fa6790dbb0d3159c6653a9e431bb285434cdda38cee/mindspore_ascend_dev-0.0.1.dev20211115-cp37-cp37m-manylinux1_x86_64.whl#sha256=a14f76a0d334a666d7ae3f4ecfd8abbb6d198f7ad00fbd9c39c4a00396f98e12" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-0.0.1.dev20211115-cp37-cp37m-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/69/be/339ea86b0b339f8ff33ff2d33aa1cdb4be7e3b99ee8e86dad92981e5d737/mindspore_ascend_dev-2.0.0.dev20221107-cp37-cp37m-manylinux1_x86_64.whl#sha256=e7413a256cf4ca640aa89a30e4cfce14329f2fe0038507b3467e6ca267a98148" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221107-cp37-cp37m-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/04/90/aade5c09fde3c4d29db5ce346133ddfa62312633db659cf151bda868c508/mindspore_ascend_dev-2.0.0.dev20221107-cp37-none-any.whl#sha256=a78f9e9978694cfe624aa784dac9824efeb5743d3504b7cf3b5f6c37977a678c" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221107-cp37-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/63/5c/1d6ebe79e6fed9847bef79caadb962616552ad72fa87da34b9668f3f96aa/mindspore_ascend_dev-2.0.0.dev20221107-cp38-cp38-manylinux1_x86_64.whl#sha256=2112b785f33c446afb20ca9ad9aa87429a1222d5dbf115839454b5d1627a658a" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221107-cp38-cp38-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/0b/dd/cf7f9c9a0d02934417e3db9603a9430731030ae258b574e55de67b45d429/mindspore_ascend_dev-2.0.0.dev20221107-cp38-none-any.whl#sha256=4d0ae6cc3fa92b2644c7177c3ef85dc75521a20c272ef5dd77a175e728075b11" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221107-cp38-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/0d/86/32e51148b61984e9fe2e67fd794024917f60a36070e11495705edbb3208f/mindspore_ascend_dev-2.0.0.dev20221107-cp39-cp39-manylinux1_x86_64.whl#sha256=7e0c34add3323ce9a18f36a426dce91c09893cb90a45c325f684ee26afcf1f13" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221107-cp39-cp39-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/2f/97/907eaa83600eb04caaa0fe945c3ccdca4dbb3aaf29795c46dd6ae59fbf9d/mindspore_ascend_dev-2.0.0.dev20221107-cp39-none-any.whl#sha256=dc3d7199015f8c6d078a2e85858bcb87ac11bcb43f4961270fefdf12e57948dc" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221107-cp39-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/41/eef58b0f6effcc3652af7d2d2314becf7e1c9eaecb5e10027442559c256a/mindspore_ascend_dev-2.0.0.dev20221108-cp37-cp37m-manylinux1_x86_64.whl#sha256=e50f3ec5d4729b66d021210a946f3b2fcae1d7a9bd50834252303b4da6aa5d7a" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221108-cp37-cp37m-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/24/29/fbb5c41d7dcacdac455f368cbc2c5b520a4e6d1f5404d57d9345ea864231/mindspore_ascend_dev-2.0.0.dev20221108-cp37-none-any.whl#sha256=fdee7ab25d20a26d2f70b90cf8fe6de0422d5e2c2ac1b75c5956e5de9d17a858" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221108-cp37-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/eb/80ee2c2b7798ae87de901d11e552ae6eea963fe5c22768ec36930c4e4f55/mindspore_ascend_dev-2.0.0.dev20221108-cp38-cp38-manylinux1_x86_64.whl#sha256=a0d52aace87decf393d6f446ccc25d3da644cf0b5ff27b138e19106bf996835b" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221108-cp38-cp38-manylinux1_x86_64.whl</a><br />
@@ -27,4 +21,4 @@
     <a href="https://files.pythonhosted.org/packages/ec/de/6498f781abc0ddb83877efb916bb9929ce41daaeb36f2b035bb2f08cac58/mindspore_ascend_dev-2.0.0.dev20221113-cp39-none-any.whl#sha256=a3a8ac31c55f53961e681dd742945ca15e3dadb335c2c93cabde27b4e95e0d3a" data-requires-python="&gt;=3.7" >mindspore_ascend_dev-2.0.0.dev20221113-cp39-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15747838-->
+<!--SERIAL 16445269-->

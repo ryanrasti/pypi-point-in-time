@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dask-kubernetes</title>
   </head>
   <body>
@@ -70,6 +70,10 @@
     <a href="https://files.pythonhosted.org/packages/e4/b9/bcef9a20954d360f65873090f20d26032df6a7e6ab2f371a5a21ed95000f/dask_kubernetes-2022.11.4-py3-none-any.whl#sha256=de753d41da404d01658aeb517ab50890e1671940609b1670bda1ff1668a0bac5" data-requires-python="&gt;=3.8" >dask_kubernetes-2022.11.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/1a/38827ca280c48aace282750d1415874f48a272b8a96d3cb09f035de6399e/dask-kubernetes-2022.12.0.tar.gz#sha256=d0908e37f8d68450876fb713ae5a2529a6e116029cffb12195db57b8f3809caa" data-requires-python="&gt;=3.8" >dask-kubernetes-2022.12.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/25/e1/d57ad8857a8c710e47585f6e15dc142196f8500be0a26f6e1b998f969f67/dask_kubernetes-2022.12.0-py3-none-any.whl#sha256=99a261abe1e0b7b40de7551ba6dea6b5e2ab889dfb2a2852d305773236f45c5f" data-requires-python="&gt;=3.8" >dask_kubernetes-2022.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/9c/34f0f4682b13765b40d841abce4657de0c749f56d9ab8ae4b57e2683967b/dask-kubernetes-2023.1.0.tar.gz#sha256=128cec7f0203017a8def29595cc3bc048c8e7d688f80cf83b204ac89046072d2" data-requires-python="&gt;=3.8" >dask-kubernetes-2023.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/a0/fa4588a09eee32e048955253637d2d593e0e602715545f9c8dfb15a20c96/dask_kubernetes-2023.1.0-py3-none-any.whl#sha256=d850808119071e78b993e290879a8de2dc47c2bc76949d4feaf9f88a22929187" data-requires-python="&gt;=3.8" >dask_kubernetes-2023.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/1d/68ff1f023d841de7046a225b1c3c25b8576b4ff212fc828629ab3bf701f7/dask-kubernetes-2023.1.1.tar.gz#sha256=53ca306afaf40d43a922127a83c09307230d043df170873dafaf28e24b939ea9" data-requires-python="&gt;=3.8" >dask-kubernetes-2023.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/b1/da25a4d70c10af3a2424fd30cccb2f7a02a860bd7600f04ce85a43b429cc/dask_kubernetes-2023.1.1-py3-none-any.whl#sha256=e7d019d9d5ff65a756d3b48aa7802563444ef81bd1fa66dae7b41a478a51b182" data-requires-python="&gt;=3.8" >dask_kubernetes-2023.1.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15954813-->
+<!--SERIAL 16536452-->

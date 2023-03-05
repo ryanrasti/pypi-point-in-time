@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for favapy</title>
   </head>
   <body>
@@ -30,6 +30,18 @@
     <a href="https://files.pythonhosted.org/packages/11/3c/3d9da854d285e0acefcfc7b56a19fe1b84014209ed3dbcb9490e782c9674/favapy-0.3.6.tar.gz#sha256=581109d0d312a09037d9f5df79ff4dda4b663a16e598e1443d92203af918f925" data-requires-python="&gt;=3.7" >favapy-0.3.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/d7/26f1f441626cfd3544579448c6b8e1d98a9835ba8671d2f90964d0dc191f/favapy-0.3.7-py3-none-any.whl#sha256=ccaf234591af6ce533be4c2133bb80a2850cf07a67bc0a3fce77e73a4302f247" data-requires-python="&gt;=3.7" >favapy-0.3.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/c3/dce1f10007229af651ecd6e6c0d1d7071b3eac83274c25fd06d2a39ecc46/favapy-0.3.7.tar.gz#sha256=f13786ca7ab3bb0ee016cdfd38f79893c6395bde76e37e0b41928b1accf9e305" data-requires-python="&gt;=3.7" >favapy-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/d2/aeeb9bfe671dc33f1ff1dcec7843fde81f774fdf068cbb7ade117585ef56/favapy-0.3.8-py3-none-any.whl#sha256=a019e133d0adaa9e61d319b381decb4fdd52cd8781d86ad55a9809a5865adca6" data-requires-python="&gt;=3.7" >favapy-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/62/70f4a758b58b7d6067aba797ec65c6c65c40ee0bea0482952bc98a81f056/favapy-0.3.8.tar.gz#sha256=9201b4246c7a3876af881727e7d4c04bc3ba7f23ca487ecc68f9716715f7afcd" data-requires-python="&gt;=3.7" >favapy-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/4e/1661cc79058e5b322a4b5dc8da48cba01400e87621044e31d0cac41e3806/favapy-0.3.8.1-py3-none-any.whl#sha256=962a2740a001c93d57f000ae6e2e8c0d2fe85c7e2bc4b25d77be719e7adfd458" data-requires-python="&gt;=3.7" >favapy-0.3.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/78/f1594610c2d45ae25e62f197fb781a55dc2b4f3b4f52a608970ee38304a3/favapy-0.3.8.1.tar.gz#sha256=d6a43e83feaf55feade8c08ef386ffb58f64d093bb44599d8887a1a52a7065d1" data-requires-python="&gt;=3.7" >favapy-0.3.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/4d/22909f693c2de407d4bb8e22477a0f579ccbbd7c9aef2fd612fa58d35a01/favapy-0.3.8.2-py3-none-any.whl#sha256=69a881cb112bebd47bab1f893ea83bf47a2ca2f29d9a98feef6b7c8b107649b8" data-requires-python="&gt;=3.7" >favapy-0.3.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/19/5c77cb953ed5b5b70b542e2e271f11b77457e5e45e35a579ba8af85e3497/favapy-0.3.8.2.tar.gz#sha256=36af52fa0248f0ed3cac65d981bc2918a5c12fe5cc6c2aca89b171bcde34bc0d" data-requires-python="&gt;=3.7" >favapy-0.3.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/5d/137302516228daafdaa1a224f424c389388576453383f00e6c041eeac64a/favapy-0.3.9-py3-none-any.whl#sha256=b74225d82e6431e4771044cfefb57a32ccdd72ebae40259da60a92dde44c27a5" data-requires-python="&gt;=3.7" >favapy-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/b4/8fb749f8fcfc50a676613b65a38a91c817f8493d8731abb3ea1b0e8703ec/favapy-0.3.9.tar.gz#sha256=4e80359abc389e75bf4a1b493c1a0aab70702ca47133dd7b3455670a192ccd6a" data-requires-python="&gt;=3.7" >favapy-0.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/d3/48e724fd7b33b28a1124181d17209435117b56498d74715c003c0c4db1c2/favapy-0.3.9.1-py3-none-any.whl#sha256=d1793d3bca4725bc3c46d1abf018b5dbd8073cf0f32236121f219d2e8e8b3168" data-requires-python="&gt;=3.7" >favapy-0.3.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/e9/6ed47356f777c3c543efe13be919aeea7ff3de2e4a3aa8d2f2189e667d6c/favapy-0.3.9.1.tar.gz#sha256=08113680e487fce2c28cd69d2cd631241e81a99cfa1f797888d35308a3697030" data-requires-python="&gt;=3.7" >favapy-0.3.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/22/539fa4ef256047cb4edbb8d5d8f1c0db6cc3ffdaa95b5d43a30cd910bd51/favapy-0.3.9.2-py3-none-any.whl#sha256=ead827ef399fce755c6a97fee283f3f8c49db10f043eb0cbb287ad4da747081c" data-requires-python="&gt;=3.7" >favapy-0.3.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/ec/deb38202629e5f9b28dbc931ecaa8543db2015be97a4a9ce74ad0e08797e/favapy-0.3.9.2.tar.gz#sha256=0f509b87913e3e14bdd5d3a8cfafb8aa73d6dcb5e96118f8546526e45f2efb46" data-requires-python="&gt;=3.7" >favapy-0.3.9.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16366720-->
+<!--SERIAL 16476854-->

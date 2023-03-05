@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for neclib</title>
   </head>
   <body>
@@ -162,6 +162,18 @@
     <a href="https://files.pythonhosted.org/packages/b7/b0/f9e483c47c9d7daaf3e8415e17c3e6431073c0eb6241a1080d1e93d2359b/neclib-0.21.0.tar.gz#sha256=1c3dea9b086e366fb3f747bf3231064afb3b55e0f218227b9729be55e15327d7" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/60/c0/39ff8745ae77f58bc0ae4ee5c3c0e275c738970ff5fb78b6c0a8609f765e/neclib-0.21.1-py3-none-any.whl#sha256=bb7a34c6953aeafa33dd9318582b59e29132962405a37eafe74487a05ccb6ce1" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7e/01/3913adf698a73e2397d837ecd2f4b58226c4358b0ab2f3439344142e1863/neclib-0.21.1.tar.gz#sha256=a1f268bcb6d6481cce15b8bb22d3f9ee2c16dd3b7ff9a5f59dc83505daa763c8" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/f7/daa5ae02fb9ec86dd344d4006e4635c5cf898fcd2f8a02584a83e2fec115/neclib-0.21.2-py3-none-any.whl#sha256=e4b583db41d17fca7f6d21fd1681bbf4ec0c4b90ac175f7bd40a9d6f79998b9e" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/bc/6b82bb873c14e5b0aa2539af0d2b5dcbdac711b75da9b41f5e6f02da1908/neclib-0.21.2.tar.gz#sha256=9b52ddc3f43a1a11dadc369717ddd0835a6091c692dfd6613b7c2ab63385f4aa" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/08/9e6c1ffa6a6a167f95ed860e004fb5a4018e9afac91bd6fb87f3914333b5/neclib-0.21.3-py3-none-any.whl#sha256=4fe53a7c973dbb43b0fe6fa67e069a0acd08e3da52c498160eb7adefbd141707" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/08/8e2f49d7daba8363c469c8d9ac0828b3d884cc12c64808de399e94d7c065/neclib-0.21.3.tar.gz#sha256=9a975a1dace29392023324f90ea043766de4fa6e763423ecd103676cf00597cb" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.21.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/e5/a2fbea88ebf602f76514f7dfb8464705c669063e821b8c7a92e012e89c5f/neclib-0.22.0-py3-none-any.whl#sha256=fdd30dac6dadd01f3c0f8c88500a297c669f7582de8977bdd1f7c0e98d3c461e" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/01/26ef96fc1bb253115ec398b1b2f227fe5e6911efe58629d46ce88f4544a4/neclib-0.22.0.tar.gz#sha256=bba223bf2a59d8a4be2736982bd261b3265e8022142f1dc3e1d85682eb4fb3e3" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/a7/e285dfdcf029b0d8296a458c8edab8ea62e0be7f9ceee089c6f82235bd2c/neclib-0.22.1-py3-none-any.whl#sha256=1bb61b50619a80f99f0a4ac0ac932eecd4b56e31c114cd375a58187a77382a63" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/dc/e025217a20e53cd1572a583e0de05a87c0f3938a36e2619f55ed5948f66c/neclib-0.22.1.tar.gz#sha256=1055f00c7998402aed33c61ab88f8d07c8139614f1e8cd75a3c2d0308f37d59b" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/7f/42854dc491431c2a68eaeb84f770d4521361c80a19047421aa0670fb2238/neclib-0.22.2-py3-none-any.whl#sha256=be2c71243c9c30ad849f87420eef960c81a632a65659f3a6d881a889623c9684" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/cc/9c4e0a7ae37a7a4a17a57eb4eb2cb312994802c014f18d9a31126f37856a/neclib-0.22.2.tar.gz#sha256=6209bca32d7066b6055fa344a1c39b35ff3b355bb8f536b2d0063a9491f6dfb2" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/76/dd7268c84b7d97f5681788a870e0213c4c867e99ebed569bf2a240c4b277/neclib-0.22.3-py3-none-any.whl#sha256=41bdec27a9282fd191c432a9a1c9addbc20b798af07a39508b92c8998fd02547" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/b5/96cd0fdb95ebc250fcfaac467fc4a8417958e449730f33783d51af5e2257/neclib-0.22.3.tar.gz#sha256=54150dccbaad29dde67f7abe0a6a6de1e2c311ba13f981a263f481953571e9f2" data-requires-python="&gt;=3.8,&lt;4.0" >neclib-0.22.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16414707-->
+<!--SERIAL 16956216-->

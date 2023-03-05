@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kratosmultiphysics</title>
   </head>
   <body>
@@ -118,6 +118,14 @@
     <a href="https://files.pythonhosted.org/packages/80/7c/181ab2ca3c2193f5f631b4c4ee942870477884c19f9693e35ba299d5d2c7/KratosMultiphysics-9.2.2-cp37-cp37m-win_amd64.whl#sha256=5bf946f8cdc2fe334009ea62b50a6330ebb307f7bef5952d1b27d2ddfea3353f" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.2.2-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/4c/18fd100411ed675d215c50f8e1e4bb1fab33ef8c849c9cce786ec947b2a9/KratosMultiphysics-9.2.2-cp38-cp38-win_amd64.whl#sha256=2e66b4c9c3f8a3ad0485fc966fecb2b4349f3034cc733ed8b5d64af8351514eb" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.2.2-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/93/dc/316a39859af4e74a080381ebea23571d74019500ce3d70f9f1ba51214653/KratosMultiphysics-9.2.2-cp39-cp39-win_amd64.whl#sha256=570b6fb30715a48b4958c8fdfa459b7fd92d46cf9f7062cd169342dafcae3205" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/0e/2247ed80312ef2a512a7c47be05fbcb63217b497b17cfd34cbef023ca790/KratosMultiphysics-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=988dd23f4320a23181be2b627acb9631934292792cf31e095030ecfa360c7558" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/80/a9784c880e5f86e90901a830bf23bf95c977dddead727b6207998d36bbd3/KratosMultiphysics-9.3-cp310-cp310-win_amd64.whl#sha256=76024b009ae031ac042cb36b0d75ab986ab2b09b1bc6e69fb69f90e2aa8acbf3" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/20/206daf4eb8d7989b74a1b391819202798f8b51514924f59ae9ae3e4c26cd/KratosMultiphysics-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=28fcd8216d2b60b3f4cef6e085d3ad03f7bac73a73b89d874f717c91912ad2ca" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/9a/6f86335c2cf89ef807f55b94c0742bb7e31d350086cf2f7172a1a050a79c/KratosMultiphysics-9.3-cp311-cp311-win_amd64.whl#sha256=1655f8b932fbf2ee9afd944a6ea9b289f244737c71e1f4cc9081fa41243288ac" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/83/e1434505c5e9fea54a7e38d9030318fcd8a87eb296f57e5ad03d1d69e3cf/KratosMultiphysics-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=87c5d391b67b61c34bc2b308b3c0bc3dae19e306428c0611813c0e1586ddaec2" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/45/739106a67af6b28a17741fef51b140aa03b291c1ced0abd8f317df2da58a/KratosMultiphysics-9.3-cp38-cp38-win_amd64.whl#sha256=5b43e219682ff626f3bdf569860f961bae2e771187790e4cb8d26eb43c97aa29" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/08/4a3b3c274757a75f2303e0f8ea12fe8a2e50cb96c52e177e01315d93a100/KratosMultiphysics-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=347cdd569dba93f3018569c5314ee5d970119bed57cf93bcd341999c0660577b" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/b4/217da807ba79462d561c34b289caf9b7afbc995c8186cb9a1d6cf31060d5/KratosMultiphysics-9.3-cp39-cp39-win_amd64.whl#sha256=d8d804389c2835f164dfd56d6581f34102fe88a9917d12cf829573b0c8446e11" data-requires-python="&gt;=3.6" >KratosMultiphysics-9.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15413913-->
+<!--SERIAL 17063925-->

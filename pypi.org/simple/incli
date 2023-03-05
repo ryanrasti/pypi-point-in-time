@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for incli</title>
   </head>
   <body>
@@ -96,6 +96,44 @@
     <a href="https://files.pythonhosted.org/packages/5a/6c/2619aff8953be71a2dd006cbab9e23edc2cb7b5a08b89d45dfa3c6b150aa/InCli-0.0.44.tar.gz#sha256=693fd85fabcb1b658f1d2da771a4af34cc975c8db87fa65a2e9f844ce1cab83a" >InCli-0.0.44.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/40/c9793cce285f43af2ece944edd36775b0a7782a1c8655cf8eadb81822649/InCli-0.0.45-py3-none-any.whl#sha256=5285c5a877a096b989a1dbda3b139f62143d6034bd8b1d4a5ff24d3d1f348ecc" >InCli-0.0.45-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/12/bb/0b72e0dc3c0521dae9ae993fa4d9914aee8265d3c214bf12326e50e1d14d/InCli-0.0.45.tar.gz#sha256=1ebe4144922ea8c4feba6669270aeda2c570c041ac796b4790fce928684a3e87" >InCli-0.0.45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/24/513fa4557319b70542398d2477ad42e572335aa991d2c3fbb143e863e647/InCli-0.0.46-py3-none-any.whl#sha256=1635f04b03e23ec4e3933051df7c470599cb63b01433a16acf30769e14b5adfd" >InCli-0.0.46-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/7e/0615da96b3f883a0961e4a3b273ca33b4ea1b3e8b0ed0791056b33291fba/InCli-0.0.46.tar.gz#sha256=f3b3a9e2b8eb2c24761611b80482efcb575155ae7ad85b59981902974a7b2743" >InCli-0.0.46.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/59/4b7dfeb3a8a6620244993230147f1e9ad445d0fe6509e9604d1a3ebe7e40/InCli-0.0.47-py3-none-any.whl#sha256=4afc2ea01ea089844bead647e2ad01576b01b6c090f8e77378267bc1de174857" >InCli-0.0.47-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/66/e88a4bb57a667e6893071cda5c7b837d443169d2c10efa87d5025411073a/InCli-0.0.47.tar.gz#sha256=1ec7b2b906a8b8e048216a5acc50401613e56efdec8d67d6c99ee57566b699bc" >InCli-0.0.47.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/f2/fedd2a4927eb1e76371d1c22a60e509932f832d6c1afce9d2c9f2d0a1b7e/InCli-0.0.49-py3-none-any.whl#sha256=1a2f2ab89045220206051bce94fcf622493ab9253c691f3b2c07fd9b2619d9d6" >InCli-0.0.49-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/01/f11183ee005af8f59fda4d20ac474569d237d70c7c0d8da36c153f219e71/InCli-0.0.49.tar.gz#sha256=d3cd16ef662c194e4d12419549087bf1d606667a27fb9f0f4ece82101a21b5f2" >InCli-0.0.49.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/f5/ae8f8292187c73432fa0fff49121c98b5f7a0dd47fa7e70fdbb19110a36c/InCli-0.0.50-py3-none-any.whl#sha256=cff700b71336b61a32c54b0e29ee052beaea02f367816c32841081bbc6e7c9cb" >InCli-0.0.50-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/02/1a5ac5c1ab47d20795ed82e21a9b226dda03754f6e38f0799668f30c4d76/InCli-0.0.50.tar.gz#sha256=db651e47171b30ee14a56c5999a16e89aa3dccc0e9707780919097cc8de10855" >InCli-0.0.50.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/d5/01d587a93c4bf9438583ac0e54e8fd64b923280b74c56a930c118650bf98/InCli-0.0.51-py3-none-any.whl#sha256=a2f97b84f688dcc9fcbd99f1bd04bbd84a68511cf46a0da95837550e5613eafc" >InCli-0.0.51-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/a7/e78ffac1e4baaa1d886a73531ba03e8d1e8a0e771eb4126ae1e1b237236d/InCli-0.0.51.tar.gz#sha256=9e3a328f551e3fd8f9e0cdfe456184069a85c00b4ffa68f435587a08c205419d" >InCli-0.0.51.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/b7/93695b9fe9cec22651d2b3ac8907ec2e33968bcc37969b67f8e704cb175a/InCli-0.0.52-py3-none-any.whl#sha256=fb56def0e111e0e99745290e77a45aa25a3d68b5474a28cad86490ec55c659cf" >InCli-0.0.52-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/24/029b348934838ca6239f6baa5866e4ad30d01542ad8967a375eaf2762639/InCli-0.0.52.tar.gz#sha256=a89c3f6b6826b98840db90f2ac079b991547a22e445097145bcd9e934adcc392" >InCli-0.0.52.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/c0/4857f5c04fe8f0eec5787345aeed70ccbb50a6e77066d541c0efdf00c48d/InCli-0.0.53-py3-none-any.whl#sha256=4b847ccba8433df5d94dd3071127b7440f4ec21905c6c7cde3c5a2649909e7ec" >InCli-0.0.53-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/9c/615aa2b65b2d2a94f73be1a71920f15dca14fc5561732f5d4673a8872300/InCli-0.0.53.tar.gz#sha256=b31f7bc71ed1be0207ae9ae55123da2976cce1201fedb328000b4a1bc4ed0714" >InCli-0.0.53.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/f7/a4c2955682267e18270be2fb6842bd77ad71ed2d341b9fcb57940b3b94fa/InCli-0.0.54-py3-none-any.whl#sha256=abc2821a2786bbd815285436258cabe266e320ae13d6e662cd96ff5a8fa7b428" >InCli-0.0.54-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/6e/4d8250e78bdd0372f59b499eccfed4fade63bf403468ece208219f8681a4/InCli-0.0.54.tar.gz#sha256=3b5d45cb3677ba25bcf4ff365e2c4462d26e78dab74d89509945f0c2e573b70d" >InCli-0.0.54.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/4f/a5db8d39853410c9ff5780e0599dad1eaebf0834934d3c0faf73d045fae2/InCli-0.0.55-py3-none-any.whl#sha256=b31ac845fcbe09a63f7fdbfc0e5339c1ef9a3ae190deda985f60705bae28529b" >InCli-0.0.55-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/91/f4944993b5eddee104b4408be23796f05c9588333620e71a11d3ffb60c87/InCli-0.0.55.tar.gz#sha256=5037d7977b93efe55a527e076e25539741e1d026691e7d4bb5ec7aadb6a15c67" >InCli-0.0.55.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/13/81d1eb91234a53f022ab8e996003d006b6e525c5eb9d60219249c84202cc/InCli-0.0.56-py3-none-any.whl#sha256=a231e9c3092fb8654c91b329e7680b9886aadc4e0e05117165802217cfffdc51" >InCli-0.0.56-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/1b/9b3c55a3aa3f81fb9a899843d9856257c56f61d967a812913d772b1ebc52/InCli-0.0.56.tar.gz#sha256=28fc67064540f2f0653ad62cbb8ed3d17989239e55ddc01cd0cadc0e7c76b2c1" >InCli-0.0.56.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/4e/a05f1ad8885b2e31797f12872c9a33f1ae29e405d77435c1378feb0a0035/InCli-0.0.57-py3-none-any.whl#sha256=3d4d32b8d3c0dfed108a065d755468533b74060da9ad3bf4987b74a781af537d" >InCli-0.0.57-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/e9/ce8189974e001ff89aedc64c9a8a10600b4f1d2c6c4844d5a6c0fc07da7b/InCli-0.0.57.tar.gz#sha256=7ad7d6805e382759de8e6c86192fa7ff0e699731e4eff6f2caf1808f9806dc2a" >InCli-0.0.57.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/89/ccf3446e0dfc5632b71506b92449a69f55a3674d00a71a1c93c78ff8aaf6/InCli-0.0.58-py3-none-any.whl#sha256=23c30dc453da14cc05c1f57e227a9e9edaceb6f6192f307ac5dfe7df84f0fa8d" >InCli-0.0.58-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/bc/4764ef70c9fe28cb8222ed808d94b506e9c546ad2537960c95ab3a0bb6cf/InCli-0.0.58.tar.gz#sha256=2bdd4878fe4c1fd8b83c06716921f5a3483e76d358a8e4da85304576e59bdfec" >InCli-0.0.58.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/13/00713325505689cadbfa660cbd51937050cb465d6b6143c407286aeb785e/InCli-0.0.59-py3-none-any.whl#sha256=aa961a97d2fa2fff8ef9736222a010d2bba0ff1cb6e33b9aa9b424168a53e173" >InCli-0.0.59-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/a5/b4459a9274bbf19a0cc8c999aa7d6fc653b976e10354b16fb336e5b862ed/InCli-0.0.59.tar.gz#sha256=4a400071efffed42e63dcdaca5ade8df86f5393303d7cca46fc0892653dfeeaf" >InCli-0.0.59.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/a8/97162d60f1b4d8e2c63c295a999a948e7fc9ce46c6a117ff34d2ae832fe4/InCli-0.0.60-py3-none-any.whl#sha256=d8c4e308d0cd4639a7f7b9276a3e2d75ce1164e162fe5e786670a22a29f3f6ce" >InCli-0.0.60-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/b5/02d8e58fd65050794d1338e24bde436677799c803f51a624e9397419a96f/InCli-0.0.60.tar.gz#sha256=4aa3c93f99dcc37700cb6b56027e95e3dd8c06992e37638b3615f3ce55fe6603" >InCli-0.0.60.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/6f/c54c29eea75ef5f361cf256cebf5fe103b4423e8fe56d10f86d607466313/InCli-0.0.61-py3-none-any.whl#sha256=e9291866a7069d411b70503a7fc440eb58372876f78893c354dff1f4999bbb31" >InCli-0.0.61-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/6c/b4e41b6c4aa371e3ab65d92c11dd033f2e9174589c0802aab5367a1d374b/InCli-0.0.61.tar.gz#sha256=3e6adfc6c7287752b83ff7570d7d00cd0733d570b3b2677f5b4857397e2d8514" >InCli-0.0.61.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/b3/6cabb6958f987a396fc48c4a9e86db7a80e7e248844654f25585822c0275/InCli-0.0.62-py3-none-any.whl#sha256=8093e316d92b6baad909c54a5e43ab030fc1ccb8f0f13c53b23ad72750d2fd65" >InCli-0.0.62-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/77/e9df3ea313a8f8699c9af59b34d9ec52a637477d5c0172f24b11e0323daa/InCli-0.0.62.tar.gz#sha256=f17dfd3050f19cb23e3d53857273bf02ebd46ec73abfb84595902598a124a88f" >InCli-0.0.62.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/de/eace2b0cadea2231bd5a40c7951dc6b81b3a00d0c71fd36187d563637757/InCli-0.0.63-py3-none-any.whl#sha256=a38f07b329f5f1d6ac87ef732bae8d412e7b9b0e95291db5d86c03c5dd276cf4" >InCli-0.0.63-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/48/2f37f26131c3eb3809e0496d7c75a5f192eaeaca72567b263ac602a87c59/InCli-0.0.63.tar.gz#sha256=303aa1f6c6c35e7c7633bf87b944508ef863e9a6612f9c48cf1edc5c2a955404" >InCli-0.0.63.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/75/6bc3b6ac79b6bba66cba05ec2d1f2ac463906904538e9cce554172a87623/InCli-0.0.64-py3-none-any.whl#sha256=1804da1800ac7c3ff328337d852230ec3b1f5ff174ebe6b69cb71ddd20a13e5b" >InCli-0.0.64-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/72/c7ad6c230ce7fc70112a6d53f25866d7a93f357e0066db58881c2756dcaa/InCli-0.0.64.tar.gz#sha256=f590df8c70c1ae67a802f72d57936615514dd93695c6e0838e9a585a28a1d3c9" >InCli-0.0.64.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/3a/af26e5cd6b98f019df775f066dc9266c7afebe8f69f681cc93f9653d2c47/InCli-0.0.65-py3-none-any.whl#sha256=f1bfe26e5d0b03c57452535d1b988971c78bd03394cc587f677f41b4edec33e7" >InCli-0.0.65-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/d3/c3ef295b359bb87063b526399197f171722d1188835332686922f4827a1c/InCli-0.0.65.tar.gz#sha256=8bce8dc5e8e39d4e822a923ba8fcc727e9c4bed1e19d13b4b169d2622d4dc5b8" >InCli-0.0.65.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16358054-->
+<!--SERIAL 17145215-->

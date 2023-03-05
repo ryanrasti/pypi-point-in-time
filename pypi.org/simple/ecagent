@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ecagent</title>
   </head>
   <body>
@@ -30,6 +30,18 @@
     <a href="https://files.pythonhosted.org/packages/08/f8/996ffc982a8540a8ac686b0a6d7ccd3ee0de12f6ad3321fc868a3f3bff1a/ECAgent-0.2.0.tar.gz#sha256=a257a48bfae55bdc6462c263f5e9aee3723451111a88b651a40b2810ac2ffbf4" data-requires-python="&gt;=3.6" >ECAgent-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/ee/07c76d39fa520365012ea4a546a80f2fc215ead6a08d2616e6e4dbcc4054/ECAgent-0.2.2-py3-none-any.whl#sha256=2e2d14014f6fa3ecaba425f2f33e4ca625e08cb601dbf98c16fd05d80964c052" data-requires-python="&gt;=3.6" >ECAgent-0.2.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/bf/0ed1154f925921137c443a3df9c7d934db4eb00ce4804bb7b2550c1b72eb/ECAgent-0.2.2.tar.gz#sha256=02ac48dbe38ec0f93bd7b1af07535c9a9345b805d641b2ab389c4071d46a30c4" data-requires-python="&gt;=3.6" >ECAgent-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/80/a1db3b7fc725254045de8d1885bced15dea5c7d99fa57341c2da1714fb0e/ECAgent-0.4.0-py3-none-any.whl#sha256=4eda6ea72701c915d296fdc569ccaeb69087b462855027e47700f0c9786d1551" data-requires-python="&gt;=3.7" >ECAgent-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/77/86cfd12c363e2f57a32ccbedc8353625a6ee55ec405b73021025c3d7498e/ECAgent-0.4.0.tar.gz#sha256=b1cbc9a33ad59034f49798864cb7f5a2b1b9ee770e245140ac4ebce26bb45629" data-requires-python="&gt;=3.7" >ECAgent-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/e2/722b6046816980b4ae177c9043d08222bb1784958fc6ff263bbf1b14daca/ECAgent-0.5.0-py3-none-any.whl#sha256=0e08b9b16846994a3390c69c988e9185bf0949b431cde1d248a757d7ce7e40d7" data-requires-python="&gt;=3.7" >ECAgent-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/07/3c35d016956e25b2064b5a6c72f22b92acc61286a48792e319b3f0075067/ECAgent-0.5.0.tar.gz#sha256=1558d542be922d275716614be034af5552df9f61429171187d64da33f78fe6fa" data-requires-python="&gt;=3.7" >ECAgent-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/48/41d909f68f1a03a18774e4deb964331433a3cb475416035bda9259da260c/ECAgent-0.5.1-py3-none-any.whl#sha256=3ef5452169e6ef7d363a42f396a9b4a19261af55178bfe462e0d032f3977bcab" data-requires-python="&gt;=3.7" >ECAgent-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/81/9ba50701c61b4125e45d96f219a08dc276a46056a0ebb4e29c8c3638db60/ECAgent-0.5.1.tar.gz#sha256=779f4bf8a11456e0fabf96c3611b5222f4f3c8795bffc4b14d794df9a6549080" data-requires-python="&gt;=3.7" >ECAgent-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/5d/9dd9ce55dd1df7d0b682e867b77db2ed899b6f9dc2711cdf3e5917bea55d/ECAgent-0.5.2-py3-none-any.whl#sha256=7f3d0d1842c9b45ea65a4673e9584ad0af23585a177c51ac2d44047f95ffc3f1" data-requires-python="&gt;=3.7" >ECAgent-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/9e/c1255f9b74428642b51cce69eada3c83d1efe747bfa54f34ee8f0a07b5fa/ECAgent-0.5.2.tar.gz#sha256=50e27357d34333fbd9e1dc2410fff61b9fa8bc900309de1dfa30a6ff3fffdc85" data-requires-python="&gt;=3.7" >ECAgent-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/37/8515ca2a8c7e8126e596639a904aa2a66bddba62e99925d8757065066552/ECAgent-0.5.3-py3-none-any.whl#sha256=095b80e921f3feda42cb594dd3b3ac1a798176646de8b479d3861e98d8f4f0f1" data-requires-python="&gt;=3.7" >ECAgent-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/db/0c2e4c8ff7ecca388764c4fcd262b5b04e63e013d7984d716242be883c53/ECAgent-0.5.3.tar.gz#sha256=e121ac34fae4c646dcae44886409c4dd82d9159dc14e1918bea3932f9e229c6f" data-requires-python="&gt;=3.7" >ECAgent-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/b1/583862fcc157aaef4b403133859c9bc253b8ae74b49887fa61b68c031c5a/ECAgent-0.5.4-py3-none-any.whl#sha256=f75384b37677cab107c52c220eccce8c81b0555535a1fdfacc48eb79bc3420b0" data-requires-python="&gt;=3.7" >ECAgent-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/33/1fefcdfec5f760f6d09d9de900825f40a21073f61ce1193c40a2621b5fc4/ECAgent-0.5.4.tar.gz#sha256=92704e8adc35f99e7755e9aab98ad4238b47b410aeabbc324a8b0c304c561b3b" data-requires-python="&gt;=3.7" >ECAgent-0.5.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 10884192-->
+<!--SERIAL 17108539-->

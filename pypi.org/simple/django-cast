@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-cast</title>
   </head>
   <body>
@@ -72,6 +72,16 @@
     <a href="https://files.pythonhosted.org/packages/52/2b/384ec29d80ea35d4e2f7e01d174d3db05abf04ee91587fbb19d1b07c1044/django_cast-0.2.0-py3-none-any.whl#sha256=57d9e40cd247eb56014ed74fe078f4e3a9811d73994294e97c1ab76153c31fe8" data-requires-python="&gt;=3.7" >django_cast-0.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/67/21/37dbc762a2351b1b7c3a88472e6e540f992a6d67035921f80fdc3bdda061/django-cast-0.2.1.tar.gz#sha256=5c40a7a91386dd6cfa7ca155d67fdebbfea3161a8bbec45c9b0c25e3c0b7a18a" data-requires-python="&gt;=3.9" >django-cast-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/60/9ca6e155977eee4c8f9cd73a05f352e2cc481df1f80b7ea034fff8157fd8/django_cast-0.2.1-py3-none-any.whl#sha256=824cdfa78b15587975e354153eefc5c7c93ba9509df5d445c9437aa2086c71b0" data-requires-python="&gt;=3.9" >django_cast-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/c1/573f6210f2375da728d585ab4995ebb9402f12737d57aa4aa7490b2d4418/django-cast-0.2.2.tar.gz#sha256=aa90d540689b66454357a5b3898658f8da30c00e5dc9d352517ac906c046afe7" data-requires-python="&gt;=3.9" >django-cast-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/78/a0dad07319d9bb657cc874720848cbd22621a8794ea3afb6822d9e694236/django_cast-0.2.2-py3-none-any.whl#sha256=eee2fe5de1b240dce899e7cc351ba9118e8a40a8e2f0ebe492af4d8de0bc697f" data-requires-python="&gt;=3.9" >django_cast-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/3b/468c36ef7a8fec9fd5a85dade50b12bf01c8d66ff18bac874fa9ec1a1b21/django-cast-0.2.3.tar.gz#sha256=f0138bfe4d415b2a8aa005bd370c2d6d2b3d048610d01e0519a9be1790c32923" data-requires-python="&gt;=3.9" >django-cast-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/e4/aaf10791db6e025c94135e34858fe6ab6bb12a1f26491859011eb986561b/django_cast-0.2.3-py3-none-any.whl#sha256=d7a2e57d43c2a263ad3db94ae51c1bd85487c95b75edd2d72a77dd66407b7119" data-requires-python="&gt;=3.9" >django_cast-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/ec/15fb85843a629eed8aa551a0e6e74891eb70d44854c1107b2cae7416e621/django-cast-0.2.4.tar.gz#sha256=b38177299572216348ccbe1e497e06ef75014668688da532a495eb5eaa484e16" data-requires-python="&gt;=3.9" >django-cast-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/62/5666c62b92f59875f6cc8979b0500827f06ac44deda4ccf0e78200268cd9/django_cast-0.2.4-py3-none-any.whl#sha256=7f1e73f1339027c2c12c3b169b4591ceb925d3df78f83c333a2790313a6b82fd" data-requires-python="&gt;=3.9" >django_cast-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/ba/f4b49b29fd1af7fb5261bbec5961a7168eac4b11086d8a7ed78083330012/django-cast-0.2.5.tar.gz#sha256=4bff6dbbbdd3a16ca2ac532484177601fe71e03c7ccf2130e244cedca55f9e91" data-requires-python="&gt;=3.9" >django-cast-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/48/c7669d5764144056267393bc3bc2bae706d6605d8a88d670287a698bd6db/django_cast-0.2.5-py3-none-any.whl#sha256=43b5b0281b6db3b2face8338497c49755ea761d9769873dc2a4fab4a79393116" data-requires-python="&gt;=3.9" >django_cast-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/4f/92ac5870d806276d8bfd5cbf7bf57e9f575c903e66fbdd2dc1a50929173f/django-cast-0.2.6.tar.gz#sha256=dda99e0d0e5ec1c3bb2470b8d4226c776e23d85df4e777299bd6f8a1b0d3344f" data-requires-python="&gt;=3.9" >django-cast-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/6a/cc0a9b2f55e4fe290dd6fc5d6036ef68cd423e373ab2aedab39453ada9a4/django_cast-0.2.6-py3-none-any.whl#sha256=d929b2efdb1f1f8569e11f8681314cc1f22d80f7208ccfc4b7fd54f42ae24482" data-requires-python="&gt;=3.9" >django_cast-0.2.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16330762-->
+<!--SERIAL 16938650-->

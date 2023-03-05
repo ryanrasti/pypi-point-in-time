@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for amulet-nbt</title>
   </head>
   <body>
@@ -271,6 +271,15 @@
     <a href="https://files.pythonhosted.org/packages/6d/e5/2a12b94999ad3a02abc7bcb0a042491be18c3549003d7b62125c86fca8b9/amulet_nbt-2.0.3-cp38-cp38-win_amd64.whl#sha256=97cd9da4b4b24956eeaad1b1b7d9e0b24119a1e0eda755c4dd0487f23cdd39bd" data-requires-python="~=3.6" >amulet_nbt-2.0.3-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/89/c73d5d3b3cdb2cc8ab9eeda1ca84df5624043d152324c005a2bb2f526b21/amulet_nbt-2.0.3-cp39-cp39-macosx_10_15_x86_64.whl#sha256=16c4fd2091e656d22de1f633446a7b372a445d32b92b6a0367293a05673c78b1" data-requires-python="~=3.6" >amulet_nbt-2.0.3-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/61/cc575a7292e9820a741e1a7301dfffa07a2dcdfa6e8af5eec7587edbc583/amulet_nbt-2.0.3-cp39-cp39-win_amd64.whl#sha256=069e339954289ce8878b8536b851ba9998dac7fbf33f06634fd258060f37193b" data-requires-python="~=3.6" >amulet_nbt-2.0.3-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/a4/6d45666f67c0d75f127d076d7994b8ced3a70e036fd2eb95bed729bc346f/amulet-nbt-2.0.4.tar.gz#sha256=c4e8e7639c56588193a86a7ab9f9e519d23f76a04ebac174edf62df0d6a860d0" data-requires-python="~=3.6" >amulet-nbt-2.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/12/2c77cf9044270b03939a28ab35c0405e4809bd33d67838aaf417af6d4fc2/amulet_nbt-2.0.4-cp310-cp310-macosx_11_0_x86_64.whl#sha256=f12ddcf5ea2d08fa850b96b1db0f248fe92673d066b754e3afd3186308ecde77" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/78/0f13026840394125e698aaf7ed73646ddb98cd25a23aba779e0f3a1eaf09/amulet_nbt-2.0.4-cp310-cp310-win_amd64.whl#sha256=04a0297a152d6d40bd60b6c1ad256c5633f843002d1c5ecb4feb1dea3737ddc5" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/aa/8b69f1f6d0a856259089257e746901958d0617e41f35a9c339eac5fe027b/amulet_nbt-2.0.4-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=b617661af65f83a265a8494eafb9982e155f54815346878b0949f6850b0e6df2" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/c4/d759963f7c0fc4cd72d23f01e20ded8d50087fd7a780af182ae51d2d8bf9/amulet_nbt-2.0.4-cp37-cp37m-win_amd64.whl#sha256=606a3f6835872b6ef8944f5f4757eaa9df55fe95db5b493fb4cf7eeb63d9a827" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/7f/7e9f6f3a3d8a74c0e98d44551a60a25a20b0739d4afc2847e4fa38750a69/amulet_nbt-2.0.4-cp38-cp38-macosx_10_15_x86_64.whl#sha256=ef2c81077a3270978305e9f0cbbf6910dcebb5662d3b60f6562c6a12079881fc" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/a3/fa370eee8517812b50fd02397020fdb21dddad433d5bd22e8fa846dd436b/amulet_nbt-2.0.4-cp38-cp38-win_amd64.whl#sha256=992b7068e3b9e8453e3cf6277f0a341e56e1cb4e79cd7a06aec11c0cd9141636" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/13/06c6f5e5107538d2f0b019a0bb35b98ebc0364bb2b4db76d95a2c75bfebe/amulet_nbt-2.0.4-cp39-cp39-macosx_11_0_x86_64.whl#sha256=5553e4f96c4e653e74719b2751019e65614847c8b716287e47d1e344d39518c6" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/7d/8ecc314b28ce027d0ed607a7eeaf5d192c397388554ffbd2f21a90544075/amulet_nbt-2.0.4-cp39-cp39-win_amd64.whl#sha256=1e72dff471678309644ca9affa0a447c414694df9696cf0373ddc28009680e31" data-requires-python="~=3.6" >amulet_nbt-2.0.4-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16047407-->
+<!--SERIAL 16668476-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fink-science</title>
   </head>
   <body>
@@ -110,6 +110,24 @@
     <a href="https://files.pythonhosted.org/packages/ea/af/5971db937466f1e745753e7d7b4a5504f4a63a50a610063870fde8eaffcd/fink_science-3.10.0-py3-none-any.whl#sha256=f22b943009787e9154c38d4a9879133b0f450683dbf81ae0ed48691bc41a5e96" >fink_science-3.10.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/d5/77cdcf6594e874f9d9a41f90cf01d30afe585a799ca15178deee01fdde14/fink-science-3.10.1.tar.gz#sha256=c3dba930ef361ecddc530597557a33d5923f6356d24e1bb3a652ca9aba0a8b3c" >fink-science-3.10.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/3e/82c56f0755f5d908a56592a12ce63e52a26c7980a91fcfa7b42acfa72e09/fink_science-3.10.1-py3-none-any.whl#sha256=0d507560fea84f79c04c3c99bee86398e070d6c085dedbe4600e4ad31a8987db" >fink_science-3.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/52/1c0f7fc61677340a4ceed41b8602a48791865402523de8861fb2b706277d/fink-science-3.11.0.tar.gz#sha256=fe8afcb036478248734c4cfcbe1074d6a6ca8ba432785c2a8c3344bb1339c5f8" >fink-science-3.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/c2/1484aa68cb1887a45a8cd0879d7fd154e3f7c397a16582604a5e9e38e926/fink_science-3.11.0-py3-none-any.whl#sha256=ec660344400efee53c34887ee2e8e3061c36ec2e4c7989899d33d18b74250151" >fink_science-3.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/6b/da275ae4315afb01e09dc615cae6ffec199da53534afd2035c5094297147/fink-science-3.11.1.tar.gz#sha256=c5fe79731a31c7c0f3f27cffb5ad3dc3ff1019d655abaa255d59055700c5f6d5" >fink-science-3.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/98/c2cacf617a0a88fb60327f56b3861538163f8fb164a1649051df894551fd/fink_science-3.11.1-py3-none-any.whl#sha256=45a3afb16574a288b668ffee2959f558b08fbb6460eef1fa422b0bf5a67ed3df" >fink_science-3.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/ed/fc5fad32b4a611a8e88d76681f64d4c61d7c22de6b7cebf16ca55411a969/fink-science-3.11.2.tar.gz#sha256=96f1df943fd32549afe408c6f09f8e6357dd46b1f448a7e3477301e521dc6b43" >fink-science-3.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/9e/8c8a59a01171f79c02ae033c3051c5f360296cba1310312d21622db75559/fink_science-3.11.2-py3-none-any.whl#sha256=e4a03b5c587e25691d5fc572f69f6cd8bcc1045e021d527e9d6c0132b26febc0" >fink_science-3.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/a1/7cf605c6f10ed875f2f75a0542aa6a57ef99be13045a005fbea208f6bfdf/fink-science-3.11.3.tar.gz#sha256=7bb10975f638744076ff2d306298f81958dc6484e8091726daa6999c55b2f6cc" >fink-science-3.11.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/f2/39e3fed4546f54a47b742555d033bf063a8d1f6d61ebb10e6f5d2847eae0/fink_science-3.11.3-py3-none-any.whl#sha256=6476e88609b791d5c6e7ce4a51c21927ca68b88bdddd40859815ff59f23fd543" >fink_science-3.11.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/d1/98963d1f63ec22f951356b9230249ce77014a02db9aec234753f442fb172/fink-science-3.12.0.tar.gz#sha256=3627eed79346ee70259409ef4571d8f273b89dcbb6ff24a6e2e6d2c6f3d8da97" >fink-science-3.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/cb/2b0d1860ef9e986d5bb242202e6140ae801e698109547e9dd041b9391f7f/fink_science-3.12.0-py3-none-any.whl#sha256=ced4f42281bd6f5a3fe75dfc04ed2d94c479315e2beeb3b75dade29f953aacdc" >fink_science-3.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/8a/2e83e657704d114b4e70a86b81c54d6f1891427a924360874abf0f30f3af/fink-science-3.13.0.tar.gz#sha256=71d057eccb6a073d7d8adf74f8011c9d47d434fdcc754baf475df255d0671183" >fink-science-3.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/a0/563f22f6beb1537a794565fe7d421206f4ebabca52ed599757b38e954603/fink_science-3.13.0-py3-none-any.whl#sha256=c1a1dfff6df0f1f381c221a8de360b04957989667b54cdab82800b318890e4e5" >fink_science-3.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/29/6d2cc7e12d4b182a4f28d958ea1606b2ceb451a0e8a5ae152104a7bc9e01/fink-science-3.13.1.tar.gz#sha256=5b46967b9b4c775df0709af1af20723d53750d2778a4f7e1b68f72a3f0606aad" >fink-science-3.13.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/e8/ad54d0958113bbe0f9c561671c7ceb09aa9ac0d5141957fc1e3066f505ec/fink_science-3.13.1-py3-none-any.whl#sha256=cac2c1d13cb928c944aa058b46a1dbec82a98c53a420ed8b602cd0b6a064ec1f" >fink_science-3.13.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/18/9850eee889a726e52911e9654a5695fd1fcee748baf39913ba63039f46ce/fink-science-3.13.2.tar.gz#sha256=9d3060dec5d97a52fb70efeacaaa4a8da62cdd06370ea656902435ccaee92b8d" >fink-science-3.13.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/c0/37992a80e3b33494e81bc1fdf2184385fc67bbc74d38bb3ee35e7812d0d5/fink_science-3.13.2-py3-none-any.whl#sha256=613a597f2c43d54a3ce2a4612e64701d53ff7971f5f72df7784f28604e964e5f" >fink_science-3.13.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/d3/2e26fc101bdd6a00d71b000651f3ff8e6063c35106c39c21e52566cb9f7e/fink-science-3.13.3.tar.gz#sha256=08458087c81c4f4e1c3680161422c2de6605dc9bbd8c5a319ca87dbe36d00f18" >fink-science-3.13.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/02/efa93503fa94db6a488559691dabeb46fa4785a4ef1902b406c56f7fea13/fink_science-3.13.3-py3-none-any.whl#sha256=721422bd5dce6f7e746b559b2437c321e5cb9f2c60f33c1cc8323cc42f40b37b" >fink_science-3.13.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15910595-->
+<!--SERIAL 16559178-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pycassodicom</title>
   </head>
   <body>
@@ -48,6 +48,18 @@
     <a href="https://files.pythonhosted.org/packages/2e/82/c204db352ea2141f3bd76ff59fb87caca2abdf4e1f4738b35351aa243485/pycassodicom-0.4.2.tar.gz#sha256=f3ff9cc6caad2f205a26f26c664b0a5d2bdbbc5c7a16e3197cb23efe517e4699" data-requires-python="&gt;=3.8,&lt;4.0" >pycassodicom-0.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/f1/12dbd8fca15e16e080624127852caa6d9407c1a565db95903b6c1c0eba3e/pycassodicom-0.4.3-py3-none-any.whl#sha256=66076cb21fdfec63eee31e3a1e5a4f7b8cf54efe109264410768f06e3de26bea" data-requires-python="&gt;=3.8,&lt;4.0" >pycassodicom-0.4.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/29/4ead6468f66cc4abfa98f6ee5acc1ac0739be90cd4deb8548f533a845951/pycassodicom-0.4.3.tar.gz#sha256=cc13093e7d71b46d587f793f810c34198a1f9650da8399bcb35cf9392d8f5cff" data-requires-python="&gt;=3.8,&lt;4.0" >pycassodicom-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/79/0ab2ec599a6df941d592f8a6616b635e54987be98372811ebb9120911404/pycassodicom-0.4.4-py3-none-any.whl#sha256=95dab715a42a058c3ce4395a8b2b60c36dc6de54e36d11ddfe737f4f1ac18a0f" data-requires-python="&gt;=3.8,&lt;4.0" >pycassodicom-0.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/ea/f29cdf3f95556fb2c60733d83a631cbd67de556d4edb9d4b641634e84da7/pycassodicom-0.4.4.tar.gz#sha256=a7d6053ab7e3675f8391e5f4fbbc15b7329cb0824eff852edc27a62d3af32f1e" data-requires-python="&gt;=3.8,&lt;4.0" >pycassodicom-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/fd/b8d3fd4d4640258eec31e3c5450404940b358df0d341cdf52552fee9f552/pycassodicom-0.4.5-py3-none-any.whl#sha256=17a7ccdee11dbb81cc8adef304255297e25c7b0034de8e87e7060691aaf74e28" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/7a/da0ad3190a88f3dc8f47ab5ec90f70d0d3e33b0a9ee9bd17a764a8948aa2/pycassodicom-0.4.5.tar.gz#sha256=5bb7ba9e7afeb2117aa3c2a72e716fdca8fbf967b618d52f5c3d9d30ccbabd60" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/7e/e741b4aca0b521f1a91ef31fe114a96a5d776b63c90960d8d8e9ec5deb0d/pycassodicom-0.4.6-py3-none-any.whl#sha256=d1bf36360b6dcfc447ff1e8d4d2d16bea7ba281515f0c67293ce476193781a5c" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/0e/55a988e467c228cb0f467a053c4e2ec02bf8100bd695a0ea397aacd364af/pycassodicom-0.4.6.tar.gz#sha256=8c893ec500bf7e6b22673787f5ade904c99f78d09373fb76f5c2516a3da4c109" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/85/c19de4149f2afecfe8dbab8ca3d33e7492e13dccf71d3aab174ce5c8ae46/pycassodicom-0.4.7-py3-none-any.whl#sha256=32bebd921700df76170e51004048d7beb6ef7349da6a8c8063b7b025f71015ba" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/67/4f2c8af1eb2e34094680a5f2c26f910f0f8a49691ee17019a745431e4700/pycassodicom-0.4.7.tar.gz#sha256=db5859239513775ee7101fe266c7ee5cdd37d5a1dd20cb03b2e5ec58613408fb" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/46/3510c4fdc3dbd2e579d2ab90577eb86cae6f49079c2bb37039ce497f7e3e/pycassodicom-0.4.8-py3-none-any.whl#sha256=203528b48e55b1f76a7f72b6255a8408ddf005a647d6dbf2f6d338041a05ea2b" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/b0/436bb11bfba39d9ec57d743150c69b94c976204b93713473eeeffb0c3184/pycassodicom-0.4.8.tar.gz#sha256=30f5ae783a29f227dad08dac054f59eb75a18bc98e635fad9a20ffa953660645" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/c2/1d5c7dbe2e9830bfbfe4e2874966076c33b664e70040dfe072da7571f890/pycassodicom-0.4.9-py3-none-any.whl#sha256=2684a24223e5ab27f76dcaeb1713b3c79d79bf4f851f02dc6fade6755651312c" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/e8/65716bee58c3ab20825135dc070e07e879c227a893288cfc63e8c84c0aaf/pycassodicom-0.4.9.tar.gz#sha256=c7e58e3bbd2b543bd8bc215c387920564f860de2e662edfd1e4bd89d8b6852dd" data-requires-python="&gt;=3.9,&lt;4.0" >pycassodicom-0.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15733079-->
+<!--SERIAL 16500722-->

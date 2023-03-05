@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for xrpl-py</title>
   </head>
   <body>
@@ -32,10 +32,14 @@
     <a href="https://files.pythonhosted.org/packages/73/ef/2505a4549492448a479505a98ba967b710c406c83234c518796c533caa50/xrpl_py-1.7.0-py3-none-any.whl#sha256=fa71dbf280fa65294ef68b3b8ad92843d3e4d6a5954adaf47d972e8a58de3595" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-1.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/86/aef128e7cac9a067c8fad16d0c8fa8dec656d585bba9c4efa91a9bf69305/xrpl-py-1.8.0b0.tar.gz#sha256=a813f8865f4dbc493223badbfb4e69767abb8391be798cc128f01a40efd1b174" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl-py-1.8.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/78/83/9a441f544ff0d83e33923c8540b79995429cff0bf42fc5a30c6434d5bed2/xrpl_py-1.8.0b0-py3-none-any.whl#sha256=8ca3bc4631f2aca092d8253ec446ca620c267f88dd4f70ec08f3867924b09b96" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-1.8.0b0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/15/4c/ec0a208d055735f9a6455b60de6f5fa27b47a09ca947a544bd3c70fa02ce/xrpl-py-1.9.0b0.tar.gz#sha256=ef0adc50397be9114d7a2d22f986a86afa5e8c84850c16f72bc3281262e37409" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl-py-1.9.0b0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/06/26/aa5a8d59c24908b8807a22e0f6fa9dbfc0e9eb4c377dbd1ce0a4057d6b77/xrpl_py-1.9.0b0-py3-none-any.whl#sha256=61aa7124bef9f9085b3e0b2aad6fc907098b57ceed65d9ed339799887e9dab4a" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-1.9.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/6d/399831d710bb7606264ae888a3ef3d75ae620f79a8449c0ec224639efe01/xrpl_py-1.8.0b1-py3-none-any.whl#sha256=e6613fc7e163ecf8a1204e441ddcf088865c2f85b04ec8fb52cb7deb328d85f5" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-1.8.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/1d/ee53930e5affb464ea1396c21af353d8fc0200d9a76c1cba78728283ef0f/xrpl_py-1.8.0b1.tar.gz#sha256=bfa029cc2b5c756f3eafcd0035df2969cebef99e941f19a23b4aed52e4c07c14" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-1.8.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/9b/c6bafa4b0cf8f55b5edc9c8de7797789ea24cad27c7e2c02ddc7398255a9/xrpl-py-1.8.0b2.tar.gz#sha256=1a5a71ae3dc59317bc47707a1581fd9ad6477572537f5623299f474618e06d30" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl-py-1.8.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/45/1ed76e563b4a2f38d81f6e28e7ef1a2b73509be5fc6a235d1a1887c00ea8/xrpl_py-1.8.0b2-py3-none-any.whl#sha256=c64df663e302c02c706e984607c38c877c6e789130d091f786f9a5371e66060e" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-1.8.0b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/4c/ec0a208d055735f9a6455b60de6f5fa27b47a09ca947a544bd3c70fa02ce/xrpl-py-1.9.0b0.tar.gz#sha256=ef0adc50397be9114d7a2d22f986a86afa5e8c84850c16f72bc3281262e37409" data-requires-python="&gt;=3.7,&lt;4.0" data-yanked="The version was incorrectly bumped - this should have been 1.8.0b1." >xrpl-py-1.9.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/26/aa5a8d59c24908b8807a22e0f6fa9dbfc0e9eb4c377dbd1ce0a4057d6b77/xrpl_py-1.9.0b0-py3-none-any.whl#sha256=61aa7124bef9f9085b3e0b2aad6fc907098b57ceed65d9ed339799887e9dab4a" data-requires-python="&gt;=3.7,&lt;4.0" data-yanked="The version was incorrectly bumped - this should have been 1.8.0b1." >xrpl_py-1.9.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/b4/e70725dceae11603256068fcac7cad7dbaef6c39d6104a145d68bb00f0df/xrpl-py-2.0.0b0.tar.gz#sha256=54c960cf9c806e17d440c03f78160c3aff4cbaacba50b6a2f1929273e08404ff" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl-py-2.0.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/64/2b7720600e566ffc2b44195b9817141dec0c7772fc63eba64a8aaeb62ed4/xrpl_py-2.0.0b0-py3-none-any.whl#sha256=b02c7130b08bd82eb6ab5bcf9f128ef858057789b33d3e2350d310eda6611573" data-requires-python="&gt;=3.7,&lt;4.0" >xrpl_py-2.0.0b0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16380535-->
+<!--SERIAL 16998991-->

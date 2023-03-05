@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for corpus-pax</title>
   </head>
   <body>
@@ -18,6 +18,24 @@
     <a href="https://files.pythonhosted.org/packages/9c/c8/c87c1811bd2f4a437a1da1e9230370cb3209213d5379ef6c62ed559f0a14/corpus_pax-0.1.9.tar.gz#sha256=eadc07200317b68e9513e434366916ff95dc6beb5c57e5e805fcc36e9c536258" data-requires-python="==3.11.0" >corpus_pax-0.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/9f/95f4ecfd53a0c9237bfbf3f365896b1bd8b413df4d137975ddbf7fe899ee/corpus_pax-0.1.10-py3-none-any.whl#sha256=86858d0f8e5a7e97eed0f2c4ea4f1cb65c7fbde2b8edd07095e65fb164f9d80e" data-requires-python="==3.11.0" >corpus_pax-0.1.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/0a/407ac0a65024a10de990912fbbf492d228ac2c7c11b1cde27a977376fe70/corpus_pax-0.1.10.tar.gz#sha256=0b9d2f85bec964d85549c28f3a8361f03601ccb458117c6e85b08d048312e5bc" data-requires-python="==3.11.0" >corpus_pax-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/1a/1e201d5819857c8e84d4eff5c10b2a01e22701d18b87f4a874822d5d569b/corpus_pax-0.1.11-py3-none-any.whl#sha256=a0bf0f406a93942377141cc238c99301abe8fc5ecfda8994af102c99a6f86543" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/b2/8473caa5522b04ba2760c5f8e9c8171b4f98043f75c7ea9214729bdf6201/corpus_pax-0.1.11.tar.gz#sha256=54307351000ce2925a3681ad44c56f1c1b62e1b104dbac9ac4f203a20fa4881e" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/8a/f80c31455dc7d1977759f9d50f1394d1083dc16967486000210f3231b4db/corpus_pax-0.1.12-py3-none-any.whl#sha256=ceb3bd9e5dc12ee2f3acfa25cabfc54fa8367fbc7eedd341fc54859e8a078cad" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/e1/4082508149c69026ac1dc62b8b3f477c6723781519915293d1097c0a04f3/corpus_pax-0.1.12.tar.gz#sha256=204e5098b96b54fd98410d8fa8fd6214acb4bee5d20851f8a39818837f46c2bb" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/da/54ec50590423badc9cce408672d1c0d8d8d4aa9c35bf0ed53265c397eddc/corpus_pax-0.1.13-py3-none-any.whl#sha256=16b124c0b02feda1f08d528bdec8ee8e63ddadc7b290cc62b2a6aed84b7d9518" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/8c/c261801d8cf0a3eb85c9cacbff50a4bf2a2c5c2cfac3b9a1a5eee3489bfe/corpus_pax-0.1.13.tar.gz#sha256=4155c61b2c11d57c1354ff52a5c3e86bdf38b8685c3aa7333a91422088771b94" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/01/1203b7174b9fc1785f4d8ccb0ef4312ed0e8bcf1ff055d52c70ff4aca545/corpus_pax-0.1.14-py3-none-any.whl#sha256=9ef78293ce9ce2e7ae05802deb948b0306dbbf7c4e6530ba12ed10b18a7db292" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/6b/e03c7cf437647cf4f3f95414199df77387c4c2e48a8c0402b7291283b1c6/corpus_pax-0.1.14.tar.gz#sha256=ac8d8179461af1bbbfddefd4822ed2d611bbfaf67e6e33c5aecaf32770ce6492" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/f3/aeb34aa85e32dd527fde9c9f6ae7dec38f800f512ae9d6463eb8e1b6851d/corpus_pax-0.1.15-py3-none-any.whl#sha256=57613070d63158bcf4949cfff800ec02d78c156b15ff002e6ddf5be7cdbf9f59" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/8c/13989d983a95adb889bb04b8d667de3c986e8a8a45671c97b85a3bddb5f5/corpus_pax-0.1.15.tar.gz#sha256=027395d8a4471e75346c748f318b1bac17ac44814fdb0eaf978a626b90338522" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/28/0c33244bfdd4abff1e3bb40f48144b9657d984bd9727a68f4d1fc8b8b20b/corpus_pax-0.1.17-py3-none-any.whl#sha256=ac3c0384fb35315450c9f101f61960608c45031c2398cceeefd9162251c09aaa" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/ce/e88dbf35012b912ef0a58b89a7f1ebcbc4d8c5309ad77c9eb7d8254e007a/corpus_pax-0.1.17.tar.gz#sha256=b0ab47de9ac6421367910390f2201a42d0a591337a2d9a9fe00543ab14e5c110" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/c0/65088845fa886092b473a37bad952b850b5dfa6532a59aafbbc4b60db13f/corpus_pax-0.1.18-py3-none-any.whl#sha256=e4dd48eeee05df4ce5c45700772714103854701b18be1cfc770a81939b66d83d" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/7e/aff81a72b7c8202e1923bf7092b8ee302999986886c00b34d7aab31bfd79/corpus_pax-0.1.18.tar.gz#sha256=830e3b476e9dfae5d56907501a141520d314d49edfafa7b61a92e17d6d4e7284" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/21/ce2358e62fe8a6f370d917b28f1a98c3349fa882777ac00fa195ac68a9f5/corpus_pax-0.1.19-py3-none-any.whl#sha256=7c30abbc5d932acf912ae754fb974af61f225020fd72a3fb21159a206fa19a35" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/3c/772cc438ddc04715fb7de2d729a875837dc890fba1442aaec8621559f71c/corpus_pax-0.1.19.tar.gz#sha256=deaf611a38ae33fde4623cb69fd8f043082ecc996f8cddff37ccf839aeec3fcd" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/a4/395442d1f9743f5bf21f360ecc61763f3db89dde2e7ab5c51f923b38ed9f/corpus_pax-0.1.20-py3-none-any.whl#sha256=3e84f224464bbdc3055ab78af5e332a2030f77fcc0c9b5ac13aaef491ee8706e" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/ba/7503dee7358283bcba2952e97c5b6c8c3a678d18569128172f6a5b0e7746/corpus_pax-0.1.20.tar.gz#sha256=c7c26cbdc79c902bf58b3568e601bada2eb58726c69fa5ac128bf757fff76391" data-requires-python="&gt;=3.11,&lt;4.0" >corpus_pax-0.1.20.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16405031-->
+<!--SERIAL 17110131-->

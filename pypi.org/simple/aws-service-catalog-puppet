@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-service-catalog-puppet</title>
   </head>
   <body>
@@ -513,6 +513,20 @@
     <a href="https://files.pythonhosted.org/packages/aa/5d/272e38ee30bc22cfc3369033854188f3597acc47ba5db54854b95e481680/aws_service_catalog_puppet-0.212.0.tar.gz#sha256=b3307f748efe6c08dae02d151163295004c0a0029e788bc26196b1cc647cdd9d" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.212.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/e9/4567f119eb798d2b1fa410ce2c734e7e04d00830bf4a9bf65c70e480c5b8/aws_service_catalog_puppet-0.213.0.tar.gz#sha256=21ca48c509267563eac21f1dffe2154abd528d4fe6f162f3320e1245ebd5bda5" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.213.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/d2/281036c41f3e3df311d8d88246b67cfd892ca7781e42dac7ba275b8f23ec/aws_service_catalog_puppet-0.213.1.tar.gz#sha256=63fc963e70a233ca1e5ae586e3c17b31d04bda1e550d1eea5388be3f2f831f2d" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.213.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/6d/821e9d2c16b7fb7e628895d1a4825e34a55ed8b52b402289f04c809dcab3/aws_service_catalog_puppet-0.214.0.tar.gz#sha256=e2f9604c653ff559144572e1b7fa63c10d9ca9d348aa7d082f7f0dc677069ba1" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.214.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/d4/eca11133cd1998799ce0faf8001d4587d5cdf4a00745f32e31db7f210045/aws_service_catalog_puppet-0.215.0.tar.gz#sha256=1d6debb9fcac1b444c6833e44439ef28dbc4c57c22dd2cd0ec93d11a5843a8e7" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.215.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/bc/9d69f628f5b909f6eaca75b8266cc486edbcfb00b58defdfe91e0abc7f24/aws_service_catalog_puppet-0.216.0.tar.gz#sha256=26ca4316ca46d17e713127d184bcaf8d7732457593db92b73e9ca79d3ee38f91" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.216.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/42/6e82d4171fed8d051beda15a3bc8b481f5c7550cb55c8335fd3a61801f3c/aws_service_catalog_puppet-0.217.0.tar.gz#sha256=054f87839a97fea7929209571826362dbac7f4f34f72eb90545e0ba2d58ab908" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.217.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/ed/d4407dd0293f9793ac495213ee633aab1faf0b61bb151d808521db408828/aws_service_catalog_puppet-0.218.0.tar.gz#sha256=ddb5902e62a6713bc4396771ea0517176bd51cc5a28f703fe6d66c1fdf65f0a0" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.218.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/ec/5aaacfb9418abb84f6e41452c8ff71aabdb239bf34f7204be58cb1a5ae5e/aws_service_catalog_puppet-0.219.0.tar.gz#sha256=339ba44c876773f555893cff2f4466a569ccfb3038ec11dabb499544fc1b0629" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.219.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/d0/5a8b53f0cd61493377eea3701230e6a3c81205d17f60e2a5a4a0e81d03e0/aws_service_catalog_puppet-0.220.0.tar.gz#sha256=6e867080026ab120bff46f9f20c5ccf5f811792be92d05577d34ff9eb7ee8f37" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.220.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/e3/e23118ef18181da54844b96c73b046afa40785fa30d0df0ae82f1025d736/aws_service_catalog_puppet-0.221.0.tar.gz#sha256=df1ac2b378dd0c3f0c2a09431b412a13f9d87bacb6ba6255187c9f91edfa1322" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.221.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/e7/bf6d36d1b5d2c667dddba8a1b1c251d1b3867bf669164ed8885beb53d3f9/aws_service_catalog_puppet-0.222.0.tar.gz#sha256=2b65c6e0db879ea7ef498cd13978e76fcf2d165c1bcf52caacca017a69e55b4b" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.222.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/8f/b8c5674b16cc440560199f851851ec6a102acb6be6ffb37ec9bfb4291fe6/aws_service_catalog_puppet-0.223.0.tar.gz#sha256=13e07fefe7ac64217b5101d9b51ea4469672d6a622671e36a10de78b08b15a94" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.223.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/e6/cdeda899c89154fecb36fb22cce7a06283366654969beea9779c57955432/aws_service_catalog_puppet-0.224.0.tar.gz#sha256=541bd697084d0daa42f6eb66195f17e66bf6613e52ad88d0b1517a13de919338" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.224.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/49/a4853c127c67326fe7a21f7a6cd2f942dffd9d620fbde02c4785100c6b54/aws_service_catalog_puppet-0.225.0.tar.gz#sha256=b96c6cf8fec3f4374141ce2021bee9565f05adaf490566edc64b85b96ec48f98" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.225.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/5e/6b6fcba5a15b1a88b6bf03606f415c02c4e308677ca00e029f3511dea0e9/aws_service_catalog_puppet-0.226.0.tar.gz#sha256=a956383627f31637e4ef03451971b1738f8840d3e9f8c13bd870ff8ff15b5974" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.226.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/e2/3fc96705ffa978bd1a1d86b9ea599d13bfd96429ef08ed8e60397e634e80/aws_service_catalog_puppet-0.226.1.tar.gz#sha256=888061cad9c4d6ee17b2ad9c09def2476280158620ab44f1ac644fef15c0ff7e" data-requires-python="&gt;=3.9,&lt;4.0" >aws_service_catalog_puppet-0.226.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16183278-->
+<!--SERIAL 17145562-->

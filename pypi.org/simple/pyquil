@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyquil</title>
   </head>
   <body>
@@ -177,6 +177,8 @@
     <a href="https://files.pythonhosted.org/packages/f6/52/f39065e92dabdcb43f4dce29bda751d151120d6ecd4dc8d98f8fb4571465/pyquil-3.3.1.tar.gz#sha256=9559274664ea505533b4971d59a0933d12fc320228f73b0d40f57676f9b476b5" data-requires-python="&gt;=3.7,&lt;4.0" >pyquil-3.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/fd/247446325758d9c2f9c6dbba6f229223341d79746b81434a685c7ff2c320/pyquil-3.3.2-py3-none-any.whl#sha256=75c10fb94619190b94bf9456704f3809272a25c74de2372544ddc91a0b7b428f" data-requires-python="&gt;=3.7,&lt;4.0" >pyquil-3.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/9e/71f0f7da4dc5a3444346944acf5a9e3f3bafc944d7123a8fea06c443f59e/pyquil-3.3.2.tar.gz#sha256=bda66f2609b41f54bd9a6c3a5f6e007662e07320f1869c9f4568a3b2eac051f0" data-requires-python="&gt;=3.7,&lt;4.0" >pyquil-3.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/1e/722986e6e8218b11ad79365e7b069c8678aa2272f3ece66eab230d6a60f3/pyquil-3.3.3-py3-none-any.whl#sha256=4441b5ca0d6217684d341b5dfa147d1655939bfa396a90d0526c793621619560" data-requires-python="&gt;=3.7,&lt;4.0" >pyquil-3.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/9a/84c69b8df82f40df87aa980ec22225adcaebc74bc726ce21620a98df03a3/pyquil-3.3.3.tar.gz#sha256=fc78cc0a099ee115f9b9a52e3d56a6a956328aed407030f19636bbae2fae981a" data-requires-python="&gt;=3.7,&lt;4.0" >pyquil-3.3.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/99/3c/98b076daf928f97096bd1b685de1d7b252993e17cf4afff8d3a3fffa78cd/pyquil-4.0.0rc0-py3-none-any.whl#sha256=05d6719821128a2dc655f2dbd2cb6905f205c64fc4a929fade32d7b4663598ba" data-requires-python="&gt;=3.7,&lt;3.11" >pyquil-4.0.0rc0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/73/2a/1c79ee361b999a272c34a4b211860539da313ae789143e4b1218f8109bb5/pyquil-4.0.0rc0.tar.gz#sha256=492aa5dcc765313ec2a16d6dede5eca394be3222c34545c2476c2c739577f1c0" data-requires-python="&gt;=3.7,&lt;3.11" >pyquil-4.0.0rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/13/53/b25f78711be1be72bd0af376667db8016ab6b620f54c5f1f037d5e02d7fe/pyquil-4.0.0rc1-py3-none-any.whl#sha256=e216a5ff0be77cae7906030ef2621c51f18ddc428942b55aa97eb0cd2fac09e9" data-requires-python="&gt;=3.7,&lt;3.11" >pyquil-4.0.0rc1-py3-none-any.whl</a><br />
@@ -187,4 +189,4 @@
     <a href="https://files.pythonhosted.org/packages/47/34/4ffabf86bc91c372a8bae66667895ce22fd85bc604a6e9ca1947878cc488/pyquil-4.0.0rc4.tar.gz#sha256=09ec4fc0d3d6f93c498ea7ef48e959359042ed707893cd47bd1c3d7fb86d3f77" data-requires-python="&gt;=3.7,&lt;3.11" >pyquil-4.0.0rc4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15959703-->
+<!--SERIAL 16582190-->

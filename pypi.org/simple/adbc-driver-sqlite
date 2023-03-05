@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for adbc-driver-sqlite</title>
   </head>
   <body>
@@ -10,6 +10,10 @@
     <a href="https://files.pythonhosted.org/packages/44/7b/b027f03b5f82c52a9c8b7b555fb96c926499cb6b71e7dcb243c2a40aca69/adbc_driver_sqlite-0.1.0-py3-none-macosx_11_0_arm64.whl#sha256=769de0d67159ad554412e4728e165f6162749dbf005e204714066c528bfe4364" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.1.0-py3-none-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/05/36/8e3dee377a89206df8f2bf45a02a4ade1e6b80da97056ebd5700982a9a03/adbc_driver_sqlite-0.1.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=d9745a7446b8cf3910a92859cb5183c31005a07ee919f257cae2c3d5b7f47fc5" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.1.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/49/9c/d5826f7b96de8a73890f950cb14dd6075d72cf49ae6d395c3bf3e629cfed/adbc_driver_sqlite-0.1.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d039fa3dd938ee35888fc8f81543ebf98108f4dd300a69680141d2586176d6ab" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.1.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/11/8ad6db6bb19f627542a730a53d66f35f4296aa6908c706ff74938ae2a959/adbc_driver_sqlite-0.2.0-py3-none-macosx_10_9_x86_64.whl#sha256=d573a9447708d53b4e8801d984759230719e5397015104b297417d4c197da4b3" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.2.0-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/c4/7535d61d90a7784cbdc718a47763f08dc8635a6d0b79255a5ac6f5dbef9f/adbc_driver_sqlite-0.2.0-py3-none-macosx_11_0_arm64.whl#sha256=34b7cc62340cb9b652362d5c3457cbe84801258475136c9872003bc81df174aa" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.2.0-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/eb/d816705a1a158a94c56425c4783a6ffea075b4189455aa6d5702d302a255/adbc_driver_sqlite-0.2.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=80ae59328038fd20c2a8bbb785a2a1770c768eef3f8c88597349e57e06b46f90" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.2.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/d8/51c5d427195eccd5df4e484ca80a9ff48a51df14430bffe33a1431ad0506/adbc_driver_sqlite-0.2.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=999d76ef2f30c56ec1403cf834eca1a5e72ebdefc737a7c6d778270055601d04" data-requires-python="&gt;=3.9" >adbc_driver_sqlite-0.2.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16377823-->
+<!--SERIAL 16875684-->

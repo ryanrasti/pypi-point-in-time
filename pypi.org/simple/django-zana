@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-zana</title>
   </head>
   <body>
@@ -24,6 +24,26 @@
     <a href="https://files.pythonhosted.org/packages/aa/20/3e20922b50b9ed22aa260448f63989269ba0aaa2fedbbaf42a43a3431caf/django_zana-0.1.3.tar.gz#sha256=a04e48626cb227abb3f1bd7fc866c984a404a7bfef0038763bebefa84bb0132a" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.1.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/92/f5/bd2e3f856b71c422d344693894d29322bc493495447d31599fbeacd76b24/django_zana-0.1.4-py3-none-any.whl#sha256=8cd20f924af61350cb83784dbc6f6015cea0233ef16f45eb3bd44ba992303248" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.1.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/4a/d9368ef84f440499884eb67b886bbd30f16890a4ed2888756a765c7f26ff/django_zana-0.1.4.tar.gz#sha256=7abd72082665f508a94abfffedaf126902c8a3ca22ff9e17f1e4d7bfb5fe48cb" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/28/1eb55d9f43cad76353fdb74c3217f8bc58b677a70b406d83034540d2a4b6/django_zana-0.1.5-py3-none-any.whl#sha256=be1807a510577339105908f68ef3d280b18a63ce806d2667a1fee998f2bb2aac" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/02/79b2cb40eba3a79df3459ed8cb621018cbdf3aea2434a9b0a1e21532d84d/django_zana-0.1.5.tar.gz#sha256=6c1a5f950855c2ad04ed454a455108d699da0e5facb12eda423963f7e80a8784" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/1a/d8d970bf23b2ee1ead9e478d113165d92eaaef35d2f2789ec578c76302bb/django_zana-0.2.0-py3-none-any.whl#sha256=e25d4749872ce7b2277e4b11f1fa3e4e26eb41266692d2d2ea8ed938502590d6" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/8b/8acbaee022c66a73ad6fe73b2989ae329027c665d3bcf87660ac667d71c5/django_zana-0.2.0.tar.gz#sha256=2c16df5fe04871940f8e7d00e07dc0ad6b93efce167093e25b10ce3fe966f5a1" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/89/cb708f9e8119700b75892cd6b0920c2898e17ebb7c725cb25a397dfa7b9b/django_zana-0.2.1-py3-none-any.whl#sha256=08e5e65d0b4d10e381c4ca5520c6b3ee44bec1967054dc1a11883d240fcef1ad" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/ff/7ec4ed6c9264bdc54b6509aa40e46e847d88380a60d2d9b8cc6d13eb4776/django_zana-0.2.1.tar.gz#sha256=d84537e87de0648e886fabca7ae756efd6a67019896a9db1e43efe4cdc468c34" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/8a/663827252ddcd4c0a08942dcb9d78e5bbbf53ac60078c3f43c56c7364c1e/django_zana-0.2.2-py3-none-any.whl#sha256=70cefe627495df11fe688372772bfe9ba22dcbb62d5133717fb25a2441339643" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/fb/bba9797d68534fc29f601914119635fde33e69779bf74ec2f92363c7c2eb/django_zana-0.2.2.tar.gz#sha256=c13af47f6bc2547cd52e6e1cd3694435c48204c9d5184de2cecd078506aab846" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/34/05b6bf56a193576dbf973e3ba708d5df876cd0e16e6b82ddd615238b0d1d/django_zana-0.2.3-py3-none-any.whl#sha256=a85e3de3afb9d8d12f55b5d8b98823560f49f139d71821ad725b046c83c2580d" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/22/53f9311b817de1f008eabc78e5dea22ed187e293553a935644b93be480a9/django_zana-0.2.3.tar.gz#sha256=a3dcd0f9588a3f02c5cce43fcbd20d7c96e5d0427e0e22b5f4e25c4c892a139b" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/2b/6e877b262400ad3489d92cc25c30f1f07b148c2cbe46bc830f4982ca6bd3/django_zana-0.2.4-py3-none-any.whl#sha256=e4b38f483d29847b49e7edbc8fb23a242ebefef1337c548041d40c8f87c5e247" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/13/6fcbaf4fb30547c96eeb0f7e347fbfbcc211ba7c64f234869d1773a5f5db/django_zana-0.2.4.tar.gz#sha256=8e482e1fb209502982cfc1e9fd8621659a4baa67f6ff6dba9c8711d2badb8d8e" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/72/50d2d8ab86c3c69a33753cc10eb114475f66914fb18097f76d6a5446ae75/django_zana-0.2.5-py3-none-any.whl#sha256=6827b820b235ab78017f2002ca215f51df7b75e0a421b3fcc306d77e4a699d03" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/3e/74c7d18ca223a3ab335f2433d65f7148ffd72d12e70a1b36badd8e9efd63/django_zana-0.2.5.tar.gz#sha256=da1d74460648b3264d9779959ab0eef82728cc8febcd45887841bceefa18b2b5" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/fe/fd1ac5739b87ddb029e15d7e61c78cda78550d67b96c8f31ec7141030507/django_zana-0.2.6-py3-none-any.whl#sha256=6ad03b6c1a5ff6537aa5d3b7bb0f05838eb8f79f5e9a143446d113ab979839e0" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/10/8471b60f228630ef0152f6d37d4f1ef67fd356fea8d51f5a4d0d50ec2d46/django_zana-0.2.6.tar.gz#sha256=098e7a895081e10698758ba7825706973c83a2f49dab3f88bfff39d39c0d36b5" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/54/b449cf136bbaf70c11f2f87a80f67f7387c1208303c2aa2a12f681cad7c1/django_zana-0.2.7-py3-none-any.whl#sha256=2b6fb6da21d95ae0b4a01dbf21ca7fa226c505d308485252dc477c2f90d135e5" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/4d/566320bee9e818a46060190571602170d8cc2c0ea59c36f291defa5b212c/django_zana-0.2.7.tar.gz#sha256=550f9a92eb31486063e31ac3b116517ff499f96380d4b219763a090e88792510" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/2d/5f78361685db7504f7e9b9ffdce06868ad1fcda322c3ccf87180757c0efc/django_zana-0.2.8-py3-none-any.whl#sha256=470846034c368059216ca9183a6e9457e5db9774bce8fd41a60e31c3f5726ee3" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/46/ba60d86935c93c3bd87a30b4f90b65376e90587fa3b1829d83d284f4e4a5/django_zana-0.2.8.tar.gz#sha256=6264c874a0c6e069ad65d1c244d6283c5768d3bf904c6b8cdb968ec8c1118546" data-requires-python="&gt;=3.10,&lt;4.0" >django_zana-0.2.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16264803-->
+<!--SERIAL 16935924-->

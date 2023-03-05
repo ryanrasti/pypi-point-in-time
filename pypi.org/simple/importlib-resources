@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for importlib-resources</title>
   </head>
   <body>
@@ -113,6 +113,16 @@
     <a href="https://files.pythonhosted.org/packages/1c/c8/cfc6ae38e378be60925f121cce01e7f4996dc3aca424799a693e48c9ce4d/importlib_resources-5.10.1.tar.gz#sha256=32bb095bda29741f6ef0e5278c42df98d135391bee5f932841efc0041f748dc3" data-requires-python="&gt;=3.7" >importlib_resources-5.10.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/be/0f/bd3e7fa47cc43276051c557d3b2fe946664781d2ecf08b05d074e1a3ee59/importlib_resources-5.10.2-py3-none-any.whl#sha256=7d543798b0beca10b6a01ac7cafda9f822c54db9e8376a6bf57e0cbd74d486b6" data-requires-python="&gt;=3.7" >importlib_resources-5.10.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/f8/be5c59ff2545362397cbc989f5cd3835326fc4092433d50dfaf21616bc71/importlib_resources-5.10.2.tar.gz#sha256=e4a96c8cc0339647ff9a5e0550d9f276fc5a01ffa276012b58ec108cfd7b8484" data-requires-python="&gt;=3.7" >importlib_resources-5.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/cd/6f2aeeb3bb6ca2df941c62b67802b53aadf091ba32a37074ee274c86b61e/importlib_resources-5.10.3-py3-none-any.whl#sha256=6b033bf14e8105581b4e05380b33d652be643fae8b47063f2fcdcaca91a8a7a7" data-requires-python="&gt;=3.7" >importlib_resources-5.10.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/a4/735edd4f55d17cbbf257d72ef2d22184da97b8d51a201acb6c55e55d909d/importlib_resources-5.10.3.tar.gz#sha256=b61dfc33a21f55ed2c58209f46eac2272e5a8069a58e18664a8a0e22991f4d46" data-requires-python="&gt;=3.7" >importlib_resources-5.10.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/13/a43c01908bd502c62e069de26d85dc4c9d23c98e0f6d5d0364556734404f/importlib_resources-5.10.4-py3-none-any.whl#sha256=3a583a424e2850fdc1f6ef46cb365ed31e5db6c98effe2ad355895940a5e6d82" data-requires-python="&gt;=3.7" >importlib_resources-5.10.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/39/7425960f82188364f820551631ed0a5c0ef04bae95d8d48978a662b33e15/importlib_resources-5.10.4.tar.gz#sha256=1ad02d09c5a5433969811966e647672c52a3d9fb89ba088c2fe253cf52167abc" data-requires-python="&gt;=3.7" >importlib_resources-5.10.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/04/a5fd609def5e7d623211cbcc68d54ab422635bcb4a8bed3bb46f45335666/importlib_resources-5.11.0-py3-none-any.whl#sha256=c0a55f37559b5e9ca1d3fce02d60243846245ad8f8d806a4484093806d4d0ae5" data-requires-python="&gt;=3.7" >importlib_resources-5.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/04/fd767a2b42b8444176f5daaa1037048a8e3318ba9f29a68746e6d9bf0b8a/importlib_resources-5.11.0.tar.gz#sha256=1e534a02295f3eeee0785e21b26c726557909cbaf1b871cf9adcbc0df44c1308" data-requires-python="&gt;=3.7" >importlib_resources-5.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/8b/dbb7f9d6b08e4c90e312fbb3a1f3c40fc1036d4b21c363448d0dc75d4ae7/importlib_resources-5.11.1-py3-none-any.whl#sha256=04358673182e6b483bc9bab4c6d0b8a7e75a8f33bbe8a9009a90a23a34920146" data-requires-python="&gt;=3.7" >importlib_resources-5.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/93/cdde2242712d0c0fc9af6f601039bcbc541d71c607099eb00afda8984dc4/importlib_resources-5.11.1.tar.gz#sha256=390bfc5c00efd1ef7f7973828604def6d60a9c226c1638fe501faf1e7a3a7582" data-requires-python="&gt;=3.7" >importlib_resources-5.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/71/c13ea695a4393639830bf96baea956538ba7a9d06fcce7cef10bfff20f72/importlib_resources-5.12.0-py3-none-any.whl#sha256=7b1deeebbf351c7578e09bf2f63fa2ce8b5ffec296e0d349139d43cca061a81a" data-requires-python="&gt;=3.7" >importlib_resources-5.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/a2/3cab1de83f95dd15297c15bdc04d50902391d707247cada1f021bbfe2149/importlib_resources-5.12.0.tar.gz#sha256=4be82589bf5c1d7999aedf2a45159d10cb3ca4f19b2271f8792bc8e6da7b22f6" data-requires-python="&gt;=3.7" >importlib_resources-5.12.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16241655-->
+<!--SERIAL 16908760-->

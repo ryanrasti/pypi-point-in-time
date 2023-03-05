@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-dask</title>
   </head>
   <body>
@@ -836,8 +836,32 @@
     <a href="https://files.pythonhosted.org/packages/2e/22/a9575d6b93b3463cd4eff08fa8df78c5c0a261a03651bd7bc3723dd1d050/dagster_dask-0.17.9-py3-none-any.whl#sha256=3aac34e2024ecaf20d9007c8a7fe96bc766136de85003ec9dca59dfeae21f0bd" >dagster_dask-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/38/27/618ec9eb711c61a6e34c41ad122a46de45fcb43e7ea6fedc42c3118af1d4/dagster-dask-0.17.10.tar.gz#sha256=0a48f3d843572cf7286c931c4f15d12eae2fc70784de003966bfd4062696a7bb" >dagster-dask-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/56/32dcf76a74a597c802677480e5f799dbd416448bf66126b0f15bf034a813/dagster_dask-0.17.10-py3-none-any.whl#sha256=6ad8fbb5c60c797aca3d2a0f224097c447f8e197c847820524b5efbc3cde3035" >dagster_dask-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/4d/a32c23c5bebd1cabaf836355b4431ef55dcfe098852665410034a2402e65/dagster-dask-0.17.11.tar.gz#sha256=7fdb30b7c8dcf648ea06d32f3b6616b44ad649ff90da2ddc92cdcb6a3ed70853" >dagster-dask-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/85/18e5002872eb73b951cdccfb868f5c832f9e23115f8f4aebe17662ac8f96/dagster_dask-0.17.11-py3-none-any.whl#sha256=7e2ba66d5bada859bfa114d4f7a1c8dbd19cd3c848cf99fae4ee593f924ab0ea" >dagster_dask-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/f0/8725ee69277706b928459c39991a155b223907aa96f6da358e2d98338803/dagster-dask-0.17.12.tar.gz#sha256=3d46db9cfa53154dca98f41f79cf4f9e091ce1f8a9471d13c3dcc7faf7e995b9" >dagster-dask-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/6a/ce5b050e7586935ae7d3bb5c7e3c5cee189fa85efd228e0e84cb39c5babf/dagster_dask-0.17.12-py3-none-any.whl#sha256=7f44fdaeed04f620d2b07a2fc990c04e42b70de8031841a0202e9ac583d8d768" >dagster_dask-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/1a/492e7c0dd220b6b0733912fd4b3c870b48bbc601ec6b06487234ff31c119/dagster-dask-0.17.13.tar.gz#sha256=bbb0ca2bedf6b233a6b187a868701e3dbe62ef32d7e494d4ed6a2b32055cf4b3" >dagster-dask-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/5e/479e98ab52b6ff4ea55c41ae22569e92045dcc45f9204d013480d0cef3c2/dagster_dask-0.17.13-py3-none-any.whl#sha256=6f12dad85e0066368d930c71505e085f50f851174b47dd1c61bfec34ffcfac5f" >dagster_dask-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/92/ff16bf6aaa5ee0318e41fabcf660b1257ba85ab13f2c604884acdad95f90/dagster-dask-0.17.14.tar.gz#sha256=c50731bd628f0e3b15e1d23b81044beaa03c2d2a11f1d25aa58f16e43d8f78c6" >dagster-dask-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/3a/4ba90175de4bcfea1b2b680422d61799973ea34fcac85e254db6f21ac775/dagster_dask-0.17.14-py3-none-any.whl#sha256=117523f2ced128244c84cdc5f2a1b1423b9b513b1e87ab8b338dcf40c71c6cfb" >dagster_dask-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/27/cd762bd17063454c45e19a823216ac6d22531b2053d5c2d6565e6b63b763/dagster-dask-0.17.15.tar.gz#sha256=efb1b95057a1d0f38b94f006ab2130c3745f7f7210f723d956f60f4970d1b1bd" >dagster-dask-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/ae/2c39d917474725cba43d05269f7fdfaa1702775be0a435972b5c2f97a7bf/dagster_dask-0.17.15-py3-none-any.whl#sha256=ee9d798eb1e9a6db953e203fce8322ae09e8759cba458fea7cfbbf95c94108f8" >dagster_dask-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/bf/938f374a05aa9c52e231e5e8425155d1c5d5a3045d63bde3b7cf7b70467b/dagster-dask-0.17.16.tar.gz#sha256=855e74f2d5aee562e84e6714fa7779857d6f1ed7421fbd00459360f9c92e7820" data-yanked="" >dagster-dask-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/fe/34886686165738cf00a4d5b01774048e363f923ce3206ad5504221e36d85/dagster_dask-0.17.16-py3-none-any.whl#sha256=84417d94a08f16eac37520ea26a954ee918eb4e85d25574896da8bca60bce4e1" data-yanked="" >dagster_dask-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/c0/4f83e673c16cdf6d8710b189225c3a0105cccdd42b154d4a1681b260f364/dagster-dask-0.17.17rc0.tar.gz#sha256=2b1430cdb68aee1de9326ebf51c4c1ea3d667f92adcd510d7ca6c616355073f1" >dagster-dask-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/0d/7ab431a222fcdc2ec3cde97e3cf5b49d633e2867839dd0e988cf7aae9445/dagster_dask-0.17.17rc0-py3-none-any.whl#sha256=349e0aacd7b4d39b2a2ee9103bc1ee6c77074166186bedc5bc60f0be27f6b68e" >dagster_dask-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/8c/4836da9275ccd565bf19898d19763b56e22c33265c48e217743a8b9d1e3c/dagster-dask-0.17.17.tar.gz#sha256=e9ad4d002912b676c83ef7b2e9d8548331c8f9615a3252b2faed3900e2c09456" >dagster-dask-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/94/bfa7d2f8dbe3066395f72838c41e7120b0a3d23bfe04ed7cf7b66a59072d/dagster_dask-0.17.17-py3-none-any.whl#sha256=5719a0120323724d1812fcdb8c090a4cc9a3501e01922bca253f09e7d92622b7" >dagster_dask-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/bf/06cd6e0ad1f7f8945ba856c3e4602107a876c000a2555107fef8accefd5c/dagster-dask-0.17.18.tar.gz#sha256=9f32b117fdacf7b6eff1a4337e0fdbf61149a02d4d16905a4cfdbd10d0f3c40d" >dagster-dask-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/5a/bf45cc73988de4fdbab3992b8ac5967d80a1b05d3f854f76e36658e4141d/dagster_dask-0.17.18-py3-none-any.whl#sha256=4eea9c3ac992d726b5b864ce7d2c51320150c8c808b67d049968ebfed0940576" >dagster_dask-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/c0/2c088b10ec2fad54ed52006e8279b76b2990b74528b6155e48060eb00a5c/dagster-dask-0.17.19.tar.gz#sha256=73a1e7d4300cc4a81cbe127b70921840eec64999caa5445457e8927020811d88" >dagster-dask-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/6a/0efe288795561559a57dfe4c18f4b93bae83b654cce46e04d960f683a343/dagster_dask-0.17.19-py3-none-any.whl#sha256=fd1ad6c18fd817bf8d8862c6c17a4764e701211e30c24baddc8704d0c9747d9f" >dagster_dask-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/98/9d315acad41eedffa84be2e1375e100768abdf889abfd3f5acf427a9a7c3/dagster-dask-0.17.20.tar.gz#sha256=28c56d402105da93fdf95b53eb91298e76f324d2cf2d3c987c17cbd4a0ddb840" >dagster-dask-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/d1/b1eb3dcfb038bc8570ce2922868d2e2baea99deb92275b030b61087584d4/dagster_dask-0.17.20-py3-none-any.whl#sha256=1450d5ae1bde506126073ac281adac8b23a1b4d2920482bb8acbda4c63d24ced" >dagster_dask-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/83/b9b3866eb58b3a68d6336492f173e4a051ab96cb4d08e1fb76ea63836be8/dagster-dask-0.17.21.tar.gz#sha256=0c05219b298e6a58861de4d057b69b6387001925a9f86302f4b112487fd2d883" >dagster-dask-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/54/63dbdfb1601e1165b013a8585234c1a68d30f61283e6bbd5cba1ab86f961/dagster_dask-0.17.21-py3-none-any.whl#sha256=0f852625417b92e22c8092b10b2614c5ef3cc5a3e6f4f781332861858f4d1039" >dagster_dask-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/82/a104618b2a96ef426203781d99ad136aba4f8b6cc3ab4e895fd88b404155/dagster-dask-1.0.5.tar.gz#sha256=4fbb5c11d80d87106c3a4e11b83e168d65e17cdf7f8d61447d0deab08a003061" data-yanked="" >dagster-dask-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/10/7a3932d79a7b6aa0b4e89893598be7b0a837f01ac216eb50811981378e8c/dagster_dask-1.0.5-py3-none-any.whl#sha256=e778de1c74cd1839b48df6fdb53000d4ac6b34d8fdb9944a2b8ea3284a895cc1" data-yanked="" >dagster_dask-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408564-->
+<!--SERIAL 17135804-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fisx</title>
   </head>
   <body>
@@ -129,6 +129,25 @@
     <a href="https://files.pythonhosted.org/packages/bf/3b/38e11e00c427ae07cbb75c03fb742cf2fdde35c9d27e3366b2cd6a9df357/fisx-1.2.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=9c8170eaed0968b330b6b722c4745e1abfc7891155ce6d77589f1064eb8527f3" >fisx-1.2.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/ae/3f27cb2e50efe9e94661a5652367c2e6d982ae1265ec027600c41a7ff93b/fisx-1.2.0-cp39-cp39-win_amd64.whl#sha256=f2eb20480a2152caa17f3e1a0edb873907a21044eebe6ffcf3767ac8673d676d" >fisx-1.2.0-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/91/3a/a1d9eb0a80cc81bf985e518087ee3ce486521ee43f94ab681e996c425fee/fisx-1.2.0.tar.gz#sha256=8b4f6ab5fa6cd2515fc1f22ad581471fce26bc779ef4e19410312e5a59378af9" >fisx-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/36/81261c9f13f3478b38bc7c310a44619f34bf1f8412e904d8d9b18828f292/fisx-1.2.1-cp310-cp310-macosx_10_9_universal2.whl#sha256=b7bd79c1dcb12864ca9bbf16dad473929650092eee75ea06d389463b05d3f194" >fisx-1.2.1-cp310-cp310-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/f6/2f39a5d02a8142ab0de9cef5a676e35e1d45ed78f899178a3e5a01846988/fisx-1.2.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=9025f8704092451584d33e898fe2fce576842ca98c74c379a258a4c6142308a0" >fisx-1.2.1-cp310-cp310-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/be/17ad6533bbb9ac08836fea6f4df72e0f93c18719badd596c826f4bf909b2/fisx-1.2.1-cp310-cp310-win_amd64.whl#sha256=bc37943b692388b71cffd5c1f9ab134be50ed29d4702a04d50e5e7ea6df500c5" >fisx-1.2.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/75/c4154d96384a0beea77a52b84266907925372a806f13b11c50510583cc62/fisx-1.2.1-cp311-cp311-macosx_10_9_universal2.whl#sha256=6f869e0321c2802ab7bb6100212ae7d65e5692a054b448d82db147a00b3a548c" >fisx-1.2.1-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/78/9e1a8bbd7f6ecd087e5f596ac0766cf623c862eeb42354803544939078c8/fisx-1.2.1-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=39d182e1dca311472e10700415bdb02acd84c738bf7258cdd05dc4aa1b3a3f08" >fisx-1.2.1-cp311-cp311-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/c7/2bbdc4b78d22757ec79b113b323349bfcf9e5bcc901a5b058fd447bc1a80/fisx-1.2.1-cp311-cp311-win_amd64.whl#sha256=a7527e91655d9ea02f7cec4c17d0ef3cc266bccdbdc7a51be0ac6a6872d03fd4" >fisx-1.2.1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/53/fe8fca0fb4ba4acfef0033f427a387e6d05471e7b0985235bdd2c53664f5/fisx-1.2.1-cp36-cp36m-macosx_10_9_x86_64.whl#sha256=98276007047a729ea7978f943e7f9b4e80c41b16100e805e7912f95d6c8cef70" >fisx-1.2.1-cp36-cp36m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/1c/59a67e2309b18a0170ffe4c5aa61ca061a5d465db140dbba690b0f6dd86c/fisx-1.2.1-cp36-cp36m-win_amd64.whl#sha256=ca1eea5baa64c697ab097f31cc24bae829d1dd1b3fc190c1ba5c3f774086e958" >fisx-1.2.1-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/ce/4bd125e0a8ee2de73e025c07902775489de8fe3afcad500f0005301e0e46/fisx-1.2.1-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=b9e7d83a89c29b104a11984b0072069152eb5d190eca89f24a5275205d05a0d3" >fisx-1.2.1-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/2e/9f3e8d9cf894866536777bb76ed85f2cc5bd819cf47a3806ec7d8efab6c4/fisx-1.2.1-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=f6c2aff367fc29e9b507ac3263f340340c3f0d6ce1a970f51f1faec911fb3761" >fisx-1.2.1-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/9a/024899840e647e727caf344f3197cd514be8d3e9478cc17c735810a2894d/fisx-1.2.1-cp37-cp37m-win_amd64.whl#sha256=16c638640d029d2f0da644815ac8f74bc9192d64b8babfe0c599bbb5e5e334ae" >fisx-1.2.1-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/46/8a1ca91882f64c767710c1e263f34133344a0abd0f1c9873cc3d3d4043cd/fisx-1.2.1-cp38-cp38-macosx_10_9_x86_64.whl#sha256=c5c85b8fd400ffdb8331f1ebc150ed79bcdc35ab82cbafa34b7c544d4b2d48a8" >fisx-1.2.1-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/be/67cecdd9be17ac3ef39fd4136df115e1c28f80e81bf038edbff368a9be99/fisx-1.2.1-cp38-cp38-macosx_11_0_universal2.whl#sha256=e79b2fe286d58ff37800621e6f20e9f21b7bf57e6a7130b146bc2ce4c947781a" >fisx-1.2.1-cp38-cp38-macosx_11_0_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/cb/c53903db37042f46bcf785d1b9f411efcc8cbc62927ad664baeec33a69cf/fisx-1.2.1-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=9d5b4b9985061c22a52ef880a38eeb12795e19417c4ffbdabc3a2dfa7ab645b8" >fisx-1.2.1-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/81/883bbfedc226f9f0289126d9019c05f49bd0c9f062614efcf4dbedf69643/fisx-1.2.1-cp38-cp38-win_amd64.whl#sha256=226e935b609bf9036e94d852e39f5612d09031e6e86d52858366f50966243962" >fisx-1.2.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/55/b745ba929acaff64d2479394ccaca33af703b363493490a3fa60f4495871/fisx-1.2.1-cp39-cp39-macosx_10_9_universal2.whl#sha256=b6ddaef5faff90601cbf5fb781534ac4bbbb71c13a8e8a4dd78439ddd1bc0ebe" >fisx-1.2.1-cp39-cp39-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/78/a576f475cacae3639388de310965a1c1865ac98eac58efe9691827c77ad4/fisx-1.2.1-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=8722086ce2d8c39424fa804d00fefd22606550633d9b7d59bed7c840cf02c64a" >fisx-1.2.1-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/42/7c9872fcd49455014361e8a89337d640069e4f6ed861b879b00677a57a87/fisx-1.2.1-cp39-cp39-win_amd64.whl#sha256=93f23feb4880a6439f3ae326d12351fc1f43767e2f7ba911a8465356388b1c97" >fisx-1.2.1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/db/164fc6fad0bad203e9dffb16b2922ca93379b4cbc424f5b5c00b3a70e901/fisx-1.2.1.tar.gz#sha256=384a9abaf883a15273cebd8ba9195543a06e3ad60c4d02cd7dd84da2e9822ba9" >fisx-1.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14517610-->
+<!--SERIAL 16668607-->

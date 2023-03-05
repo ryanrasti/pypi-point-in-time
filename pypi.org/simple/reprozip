@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for reprozip</title>
   </head>
   <body>
@@ -87,6 +87,21 @@
     <a href="https://files.pythonhosted.org/packages/99/cf/e04316dd04644bc17d9009c4e1a441775c0bbec399db82704ea07a27453e/reprozip-1.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl#sha256=3557a223ffdbde66193e1e333712265efd52e03122dd8dc192ab156814b2eff3" >reprozip-1.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/60/6cec17101f4d42df8deeebebb3b9aeea37b5f981426d31777bdb2f39a8f2/reprozip-1.1-pp37-pypy37_pp73-manylinux2010_x86_64.whl#sha256=7dc1412301606d15e364639526e6ea2db97be154e58fa6d3c1e24dda96dbce13" >reprozip-1.1-pp37-pypy37_pp73-manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/87/6b/dd9116f99c32e8a2d845d945c826163acc70052f6e9a0a0734e4401b971a/reprozip-1.1.tar.gz#sha256=876801836ad8beb09aaf707cbb2a74d6b3eef72077a27c0cb04ba1f20a3fb26a" >reprozip-1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/04/e30f589792bd9723e0526b975d5bf5372ec35d2e772ca5d3da0e980d9f86/reprozip-1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0f0008f1ce0501f0a663b4481a7c174630986b5f47a9d8cc126d5f5b5340b7c0" >reprozip-1.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/a1/83ee1b56dd9b4c71407730ba2cceb7d4271b95272b92ceaa9b120191a2d5/reprozip-1.2-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=b65318d090ef7cd581abda97f2d4d7b18ff5dfd812b72dddc12b218fc9e447e5" >reprozip-1.2-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/31/a0c9031e70a5f02f035cc931330a0bca1b84bd6dfc94a91199bf38dc0a73/reprozip-1.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c90355902a30610376724eef21c0432e075221ee098c2190845f8f7b64c81b81" >reprozip-1.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/b5/b9f16c4fc988d16ac95e785cf56688d492e0f4a5bed3982108c65eb5156d/reprozip-1.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=e6eb118d8054d892479ade67d0972692efc72218a81454b0b0bf83058b512458" >reprozip-1.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/da/b405dbd4d3e5321649fdc56ca5eb01ade0232ec96ba4dafba146047d41a4/reprozip-1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=717e3cf9c556ad931aa73530bf70b56f630be6e9c9d0bffcc8b6297e88852ab1" >reprozip-1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/21/852b6640385f86a8c87def554b3d135063281d8b638962f2de84ac0a3604/reprozip-1.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=1685746b94fdd72078dffdc4e5203995f5a52ba3673cbeb27bdbd6e09f45b268" >reprozip-1.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/10/26e5690f2595f38cf6e50863d9b95e012b1e83012babb52b731ff87686bf/reprozip-1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=41941e20e21a49ff6026db27af1f754210cb2e4716eb0ba01653fb48018e4a65" >reprozip-1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/61/fcc2614cae579606c4020742ae80adf2a0db2c11c115fbce4a2a93a7f681/reprozip-1.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=378fa269971a2e04f9833ec5d4b1794e62ad6cb5e85dc46651728168bdc197e1" >reprozip-1.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/50/387c50dfbb7ad6af53ea1d3f54637181fb8c02ea10151c443b90d732ba5f/reprozip-1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3876c13f861417484ba2c034016775f1f7c476a57d99517701fcc4025c3cb0c3" >reprozip-1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/ee/d2b59996ac27c4bd092517f112d66bd00642efe045963bc9ee460f4a43e8/reprozip-1.2-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=e8ac75a18459061aaea82ca177b054613e0d7c4b065f057aa7d436557a320620" >reprozip-1.2-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/1c/44381908de7229d15315713dffb14b179e6bc363dad3b99ceaddb3ff88ea/reprozip-1.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=54d88def7afdf439e0904102c9dade5c56fef0a1c1fe6e3d232387633a883233" >reprozip-1.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/42/9bc2fca3977d1f45c50f870cbd35698d1540cc2df8e4e9389ec32fbd5a2c/reprozip-1.2-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=e83bea61e6032260f32295b9423f758daa31e9b721789c94f52efd8ae440bf55" >reprozip-1.2-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/a6/75674a142c26868483a96658035daaa50c3714ac772fd0e9b809f8d79d12/reprozip-1.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9bf9114471c4ed1f9346c435425aeeca8261740423a9ca5f63d09746d6d011ef" >reprozip-1.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/5c/ae145731a048c28eec1ff5a4f2223a2414cf49ed0610d13a0098b2f1efed/reprozip-1.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ed178705cbe871b13454fa849e6c69ba81c90813f355abd53ba668eefebf7ffb" >reprozip-1.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/55/9e40fc191e75d849a340f4aec40db3fa4ad8fae042c5c6ea21f91863c02b/reprozip-1.2.tar.gz#sha256=a98b7f04c52c60072e3c42da21997d3ad41161ff6cb1139e18cda8d3012120f9" >reprozip-1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 10850065-->
+<!--SERIAL 16717854-->

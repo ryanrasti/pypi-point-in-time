@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-dbt</title>
   </head>
   <body>
@@ -752,8 +752,32 @@
     <a href="https://files.pythonhosted.org/packages/d5/5d/ce8c5c2256903e8e4f0eae5f855e6001f25be5eb9f6ac3653be255950425/dagster_dbt-0.17.9-py3-none-any.whl#sha256=bba3bb04622c54436491eaa02ef54dbe580129ed43610e8364c68d921fbd6dc6" >dagster_dbt-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/af/c34b78deaf6beac7ba303ae8441545433f1384afbd88c7ce44ac32e86070/dagster-dbt-0.17.10.tar.gz#sha256=25337cbc3f1a4982441ba5e1b2f939fc6162005195d2ebba7386da586b98b0e6" >dagster-dbt-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/1f/361c200c980b1ac651750ec50febf9e148abdd82b7732d2bbb3c50c52017/dagster_dbt-0.17.10-py3-none-any.whl#sha256=91405b6bf4424b0489bb61289f247889c4155534403ad3e41d58555749574969" >dagster_dbt-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/9a/479593ea801695a34ae5002d128296d4c2ac3aa818f7554cca1e266c913f/dagster-dbt-0.17.11.tar.gz#sha256=e6fbaa4affe177a8fda6bc8d01781e68207ccb6f9d7b30e15b58ea7c12cc82af" >dagster-dbt-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/ef/ec94c0158f32056f8253913c053bcb686bdae1caaf575b3c23fa42206815/dagster_dbt-0.17.11-py3-none-any.whl#sha256=2ba5792d201a06c78a52a56f49d3b44ac2ffe5b00acdadeb8c261dede0e2a18b" >dagster_dbt-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/92/4626278e8f81e58d18ac83a6421d113a58fd9ccad5e79be3802f324e61a4/dagster-dbt-0.17.12.tar.gz#sha256=a64a4694c6379944d7046f7e7b4775143c842eac3c930b76d8c9bece0a6f031d" >dagster-dbt-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/57/d8898e2b7365d3da8a7c126f6e18628ca3883bc2662f0f491c3fc70b8e98/dagster_dbt-0.17.12-py3-none-any.whl#sha256=d152e72e2215e05386e0e657abcb65add60d0976fef459178560d8465313c689" >dagster_dbt-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/84/4207a41de36c03828b89f3274bbbe83f5a4e606ee21cd98f084ca9d543fe/dagster-dbt-0.17.13.tar.gz#sha256=3157fd74d307bc4f394018b99b8d1ea70061c02fd5fbea5f25976e0660c3d537" >dagster-dbt-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/d8/32158ea79ae85a5ba147b32434de74ab7c4b8047e81d727343d22a2269e8/dagster_dbt-0.17.13-py3-none-any.whl#sha256=70908dbb34125435ff0adbd4a6b25083d3a0f89fc08ea775506c3761cf635e53" >dagster_dbt-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/1e/52f556cf7008fe6f19e3b5722040f2dfc7aa0bc15007e5f83c5e8ef4cc90/dagster-dbt-0.17.14.tar.gz#sha256=e5aa48807a921064f8d0fda4d09ff7430fc676a12b4918a846e2b3c116a9c996" >dagster-dbt-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/05/79765d899266d3f03a22f25becdde17fc82f3ece9d236f3ed6451da53eb8/dagster_dbt-0.17.14-py3-none-any.whl#sha256=295ea78ba123f50e159d3b5ec6a8be1a0c26f12a92c29ffe4718637e8ac32f5c" >dagster_dbt-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/ec/08debc45e32a93e4e3a749b81b14cb05eebb0159f4ff6b6fb34de0c4b3f7/dagster-dbt-0.17.15.tar.gz#sha256=9a6a933ce60af42ccff868beac9cd5bbc69373fa457f9afc229d74557a355c82" >dagster-dbt-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/30/1ae1052c4874f154d40d2952b08f1ae4d4aa3a9d5df2274a25f5e8b971ca/dagster_dbt-0.17.15-py3-none-any.whl#sha256=c90e15cf531bdadc7b58452dd8edaa5a3c70e7f6ec4bf925d868be88b78b1c05" >dagster_dbt-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/42/c441a18581b4aa53d2449c902d439efde569675f91f7643f8af905e871f7/dagster-dbt-0.17.16.tar.gz#sha256=add67dd840e10bb59bc69b6e92eacbda5aa1b68df797d6b0705b1e2eb0818934" data-yanked="" >dagster-dbt-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/04/a71e40d60351b5bf5e4ea052f9377cb22d9eea1927a60d6fb4231ae50460/dagster_dbt-0.17.16-py3-none-any.whl#sha256=b8446f872f5f2ec35c4a3aaee21348d4b706cf38eb486bc1fd56a6b8cce7a7fa" data-yanked="" >dagster_dbt-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/a7/0a847a2c62933850f239cd958c035a4ea625cbafabf7baa217b753c1100a/dagster-dbt-0.17.17rc0.tar.gz#sha256=c8715097cf684cc66bddb9cd1fe489471c5d5b30950c5068643b2ce00b448bc9" >dagster-dbt-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/af/8638bb21dae18d1b03b9f70ac097f6c3d8c363ec2666b526f8ed188e8624/dagster_dbt-0.17.17rc0-py3-none-any.whl#sha256=6e84cba36f23fe0b1c7939019770b426322ea2e838727c33d252f839f7c45666" >dagster_dbt-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/e6/0bd850ab236c6a5a747b23ff761c3a94b674ea8d28e1a7ca52c54579e0a3/dagster-dbt-0.17.17.tar.gz#sha256=afcead07e2e39a34dab481b680f30d18bbbcb321b053f2b30bf5212ecc3947e9" >dagster-dbt-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/59/361ca1d308dca732fcf194a21d64f7c6c2dcd9af4a0b2d9a0af571948117/dagster_dbt-0.17.17-py3-none-any.whl#sha256=ef212acceb54e8f697497e0453b200760c7862d6c82d4c0192e2061d439629a4" >dagster_dbt-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/06/c9eb3190b2e4e0e584024ce90c2a833826bd88790fd751d7985ffcab238b/dagster-dbt-0.17.18.tar.gz#sha256=9c82b3b04ebff90e4e2173594011ed86bba1fef97723f1f6dfb811f4c0b35c0d" >dagster-dbt-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/4f/59fc1493060ade3a6d28f141295c76b3ab824df18cfd0c5264ee7401b4bb/dagster_dbt-0.17.18-py3-none-any.whl#sha256=19885d61e0b42cf59c50f8d33467796fabb3c0b39419dbedcd007285366fddbd" >dagster_dbt-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/57/167e5e0b8db08d357f5962fb8ef623fedecbb9bb4051c3c4d0ebc3ae4435/dagster-dbt-0.17.19.tar.gz#sha256=5ea62276d778e6c2fc3fdcb95eb96e780ed2121ec8f678a17b8753c816439715" >dagster-dbt-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/69/61be68423cb9a23064860701aad538e760ef2a2252995de22b3c81e43d40/dagster_dbt-0.17.19-py3-none-any.whl#sha256=1ef62848f2318f1f65ffc33878c502a3e02bf8a5d555b0fe739243553ad47368" >dagster_dbt-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/dd/823bec69c1b99583e62949342a77dd6a8be1aacad934acd5416843f80529/dagster-dbt-0.17.20.tar.gz#sha256=7733d10017b39d930bcee1362c103c369d83318c8558d6668373d7754b270633" >dagster-dbt-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/cf/94ae8317ec448d55125dbefa072f49389d2cde228c12051e8088cf550a22/dagster_dbt-0.17.20-py3-none-any.whl#sha256=70078fbc855f8ba18f744f2ce89bbf9f20a0c6fcd604db00dcaf409db96fdac5" >dagster_dbt-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/e4/58c8769fd86ccdba7920ff676312337cd56c6916eb6d29ae2c200a8664a0/dagster-dbt-0.17.21.tar.gz#sha256=ff6b25a9cc7b087ff6102b445302f127d8572b0c6f54c697fbb75e19d7e55485" >dagster-dbt-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/99/8e57065ca95c51a7d567225ebe9ac370f94bf3e569c89f5e499d12f6d424/dagster_dbt-0.17.21-py3-none-any.whl#sha256=8a44cb9f9ce4554cd893f1b9415da0f5b7163c43020f425a054f0c2f82977ef9" >dagster_dbt-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/87/a7e49b19c648d3a8a97547a5cf44915cac98ea9e721fc709d52ab726e7c6/dagster-dbt-1.0.5.tar.gz#sha256=660735bc45741e50f394c58941351447eee2c06bdc16ee22402141db4f2d448f" data-yanked="" >dagster-dbt-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/24/43/de4065ed0e593c69a8f2b76eabec5eb24d73708532a678e61dbebe3dda43/dagster_dbt-1.0.5-py3-none-any.whl#sha256=1172d2c138b3f5c8e06b380763ac1e85d9c2b48dd2c681281eff34218c68ba19" data-yanked="" >dagster_dbt-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408624-->
+<!--SERIAL 17135801-->

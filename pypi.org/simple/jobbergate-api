@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jobbergate-api</title>
   </head>
   <body>
@@ -54,6 +54,16 @@
     <a href="https://files.pythonhosted.org/packages/69/14/e672c0942241a73709b57099eabc23a76a1f71971985f7931573f5e5ce02/jobbergate_api-3.4.0-py3-none-any.whl#sha256=0b390597f12cf50feee0689dcf379502d7b7d6f5c7025a0629c58c045d549465" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/cf/c25af84d624dcb4d1c9dee6767f1da3f63ba203eea78b7a71336d88a5fa8/jobbergate-api-3.4.1a0.tar.gz#sha256=b31e600be5d561531b1ec18f2caa8cead7165470c94927e502511a24c2edf272" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate-api-3.4.1a0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/e0/e3a33bfc292f41471ac72e97320cd2eacc61efec0c4c0edffc9faa32f0c1/jobbergate_api-3.4.1a0-py3-none-any.whl#sha256=010ee6f6a6e4e5280f5eecd73ed6f989a201261d077ba7c60ab99cfb957ae0f0" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.1a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/bb/fb8eaa57837aa91345c3affffe7de6788835ae026ac0f80869ea747a01d2/jobbergate-api-3.4.1.tar.gz#sha256=9c7822fae6dd4a7824c74054ad732329e44d2ce99e2147a133b733de21ad9627" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate-api-3.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/2e/64be04c0edda6b19757719f258772bfb59eb2818ec411d84733dbd4bd8ce/jobbergate_api-3.4.1-py3-none-any.whl#sha256=687f1884b41251ca3d743a7082d6ab5cab268b0ae972d8a9e26c975dadd1a674" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/e4/01c8c2eab39c5a355f00aa0c1d16f90d32bceece2cefcad36e280258b634/jobbergate-api-3.4.2a0.tar.gz#sha256=5902543f43ecaf5772dc7ee58f48cb8f44e30c3cf2e25601c12310db136fff75" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate-api-3.4.2a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/f9/98633dc4408323f6a6ed3ce8ebd3a3d03c5f1eb92ab10c1d4746f87ee234/jobbergate_api-3.4.2a0-py3-none-any.whl#sha256=a802c325d88ee26775972e2e31fcb345431741d180470ec274ad59f6797c7a1c" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.2a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/61/25eece066d0957b84c20d2295c5eacf15a14d1a7459d9ba9fe948b2defd5/jobbergate-api-3.4.2.tar.gz#sha256=b7a37d5a262efc38f77fec8d561bf3a90f33feaf2edb6a9289a20eb58efd212d" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate-api-3.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/ed/ffb6fbef17aaf8bd4e86a54d88cb543a03824514d03d30f3ce1c6a5c3eb0/jobbergate_api-3.4.2-py3-none-any.whl#sha256=8eb513c8dd5acc78c42b4d0c2f12d25554e7fe3040a478b3e9287e70de69665e" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/91/194490f4fac565e41cba14df2f2783a325d52ea18ba5a23cce57e339dc33/jobbergate-api-3.4.3a0.tar.gz#sha256=6abc8e7011706f3aa18029135c9de677cf60f74e9b37dacabaf22b26acc65e7a" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate-api-3.4.3a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/47/57c9670825666b35db108b0c6d8182f72917ca772578101dc256ea480f16/jobbergate_api-3.4.3a0-py3-none-any.whl#sha256=9db6dc25443b55c1bcef75977bc0438230b392bb47f7e7888c14806e90c2e97f" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.3a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/fc/f30bfaa9a0fb91f43bec18bf8bc62b52694341efa1e67beba23186a7e60b/jobbergate-api-3.4.3.tar.gz#sha256=9caacb035ef886de36ab494a9a138b178ea80e3e23edc39cdbbb44db6e5e67cb" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate-api-3.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/97/0941e11bb54bc554403114e3e1658b94cedde96df8cfd9ec08ae976c7842/jobbergate_api-3.4.3-py3-none-any.whl#sha256=b70e1818c00b650d2caa50307b64e8db1b849e71ad356f5ec0afa1960d68f3ed" data-requires-python="&gt;=3.8,&lt;4.0" >jobbergate_api-3.4.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16419544-->
+<!--SERIAL 16624869-->

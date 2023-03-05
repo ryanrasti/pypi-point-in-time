@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for divik</title>
   </head>
   <body>
@@ -785,6 +785,19 @@
     <a href="https://files.pythonhosted.org/packages/20/0b/d139750f84780cb4077b18a6795dd6726f3ab07f5cc0cfc278c423cb6db1/divik-3.2.1-cp39-cp39-manylinux2014_x86_64.whl#sha256=3d32e4dcc81e49fcc0acdd3f9f567b2077a5d4b8843bb53a7b5c4f103fd15adc" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.1-cp39-cp39-manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/1f/25d478ececef3d079f3f538292ec669f01c3509fbd9cbef5c2a54fd5fee9/divik-3.2.1-cp39-cp39-win_amd64.whl#sha256=80ee2ead880bd98ff4aa1869b40db0e734cd1450f524ceb8a27fa4bf02df6ed9" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/87/8f/a6f80a3d2bd2104412d551704ff33c51a395d12060a93bbeea7c8ad23f12/divik-3.2.1.tar.gz#sha256=300fdddf79bcc99bc45f5a7ff930a166cc264b56189fecc584802549cf8076c0" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/8d/9e279145bc8e56d9f8290c13da15f81ef4b1f5e4e7623cdd1f5d0a9cf120/divik-3.2.2-cp37-cp37m-macosx_12_0_x86_64.whl#sha256=3e7f825c16ef062b249ef77d8cff66223c82644191cd00c8608f1334cecaeb29" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp37-cp37m-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/33/5f0a65b6c9d38746d6acccc89b2f835e2f47939f15b31c81a81a8e1294b7/divik-3.2.2-cp37-cp37m-manylinux_2_17_aarch64.whl#sha256=543699060f24158be040a4cea0bada408320008b5a2fa8f7e812a1c0e442844d" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp37-cp37m-manylinux_2_17_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/06/5112e6a740d1a82a57b53baa367f219dc5a43f3504553d63bbf5e9a9a250/divik-3.2.2-cp37-cp37m-manylinux_2_35_x86_64.whl#sha256=f178a4a5fbdb52d0d99fd4b10048e24c7ab819319cf038d3acb55d7a02b32b9d" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp37-cp37m-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/59/cd8f97b3c7573d955f0c4240820993017c000563ec79e52e9359f7c815bb/divik-3.2.2-cp37-cp37m-win_amd64.whl#sha256=6f99c4ee99781d769856bcde87d892ec6ad3324ef87a16aef3a47a5cc1fbb657" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/1f/389813db7b9aa083120f2d99d75a7af4e7c141c35a4b6aac833a2d5b8c22/divik-3.2.2-cp38-cp38-macosx_12_0_x86_64.whl#sha256=c30c435ba16abe4fed608b2565362f52cdf675e579d33a64ef51fc49372c125f" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp38-cp38-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/6b/fca8c09ca9d49aacf2507cd5367d61a6312fa8a71a86e6d04dab75e579bd/divik-3.2.2-cp38-cp38-manylinux_2_17_aarch64.whl#sha256=ab06844d5d73c0bdde7e6ad9010c71c3f7969fe81b7de07f29f15d7693c7667c" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp38-cp38-manylinux_2_17_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/1c/8a6f09fb254a55295f2b7de6d23e186ba447d873fa7eec6ab8ffba51ceec/divik-3.2.2-cp38-cp38-manylinux_2_35_x86_64.whl#sha256=b8ca89e38a099a1e85ac14f4743d7b70066b549cd40b4f6a2229454f3e599eae" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp38-cp38-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/4a/7033b8b71cf347df5f06f41af94f28e88650926cc65ed4b33f49fbfaea34/divik-3.2.2-cp38-cp38-win_amd64.whl#sha256=6a7171b36c5a84e4d1e18448268bcd212577436896ad1b84a18d16eeedb93a03" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/38/d6db8ef56a0ff18e666e3328419230573fbf21c256c60fb32d5dca5e508a/divik-3.2.2-cp39-cp39-macosx_12_0_x86_64.whl#sha256=6734fb1d799492aa0674c0b99c82db59666bad7af10994d86630def7b94deb00" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp39-cp39-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/ea/78a78749e97fd4270e5e205db513ab23f2c4be53f129efa6d12667e49746/divik-3.2.2-cp39-cp39-manylinux_2_17_aarch64.whl#sha256=3ccfffff5bdb153207cf764b901def0574038af5b2b3be097968798adeaa14f3" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp39-cp39-manylinux_2_17_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/0e/3fa9119a49b36cf4994afe0af8075247b0915ceaea0c772e0dabe316eb83/divik-3.2.2-cp39-cp39-manylinux_2_35_x86_64.whl#sha256=71f9e96cf5d212c9bc769e1ec90969729a950afc2129fdc95e44a1fea4b96504" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp39-cp39-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/5c/34037a6398b93c8165dbf5dc397e875359447424039be622dc3724005d26/divik-3.2.2-cp39-cp39-win_amd64.whl#sha256=502d057f97d1e49a7d9986e2cbd218f629c19f67fdcb8849c9c80354966fb07c" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/5f/5955b3a724fa5d93a532c8d1af8535dd6377a4897c3e5f7fb1f352d8e3ba/divik-3.2.2.tar.gz#sha256=f0f9e0ae06786127b51afc7361e5c24f5091927bf8fb6f162639bfc80d8eaf1d" data-requires-python="&gt;=3.7.1,&lt;4.0" >divik-3.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12457922-->
+<!--SERIAL 16612734-->

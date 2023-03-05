@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for odoo-addon-fieldservice</title>
   </head>
   <body>
@@ -30,6 +30,9 @@
     <a href="https://files.pythonhosted.org/packages/3d/17/8d708a663a7501d079cfad590310b0fc81219d458b901995d80c425478b1/odoo_addon_fieldservice-15.0.1.1.0.11-py3-none-any.whl#sha256=c52ac7fcbd0889fc23c88f32b61978cbb678004a038d18a269787fc0477a417b" data-requires-python="&gt;=3.8" >odoo_addon_fieldservice-15.0.1.1.0.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/a6/13d3c32af61f74cffa330607cf52fe185034fce645f9cd56800683739d18/odoo_addon_fieldservice-15.0.1.1.0.12-py3-none-any.whl#sha256=330648f9273180b9ff82a3a058786406f46778a0afdb395964d94790fdb6e529" data-requires-python="&gt;=3.8" >odoo_addon_fieldservice-15.0.1.1.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/ce/4b75c49781dd2db430359ecff03d3f3d2778df9558a54f9052bfa33fd692/odoo_addon_fieldservice-15.0.1.1.0.13-py3-none-any.whl#sha256=c6c82499e9ef6782fda3682ba0a35f1edaf4fe34cd816f7b82da4cd3f4217dda" data-requires-python="&gt;=3.8" >odoo_addon_fieldservice-15.0.1.1.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/d2/2f161ebe7dbd901ceed0bce0218fdda53306459ce8026891fe855683c330/odoo_addon_fieldservice-15.0.1.1.1-py3-none-any.whl#sha256=5c306bbcb0fc6dd23937951f85f1535cb7b11bd727a404f41e1883c2211da4bd" data-requires-python="&gt;=3.8" >odoo_addon_fieldservice-15.0.1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/b0/3989abebe9595ac3854209b33a4358907dc55836af9275a23981173760a8/odoo_addon_fieldservice-15.0.1.1.1.1-py3-none-any.whl#sha256=5f26b90c7378b5373172ad58df7c0f4236b11fdf47b9db00d5969b78cbba7593" data-requires-python="&gt;=3.8" >odoo_addon_fieldservice-15.0.1.1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/d7/9195d67f8b0ef9d858124e3fdc9b6adf9d714656e8a379746d238c582b9e/odoo_addon_fieldservice-15.0.1.1.1.4-py3-none-any.whl#sha256=43f85938ba031f366fbe133fc4d1444541f8bea7dc2b976d16780f4ee690d938" data-requires-python="&gt;=3.8" >odoo_addon_fieldservice-15.0.1.1.1.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d4/6f/19ad4330dccec9041719ca8e198463ac9e175345878bfea94015ddd66b21/odoo_addon_fieldservice-16.0.1.0.0.3-py3-none-any.whl#sha256=c5ada9092f4a638f051296df3cb7db47e149b7705f8219490f045420a84e12d7" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/99/3d/16e928f4869f5c0c57fb21c70d2e57ac7f24acdb7e1e4a4a0dbdcbafaa47/odoo_addon_fieldservice-16.0.1.0.0.6-py3-none-any.whl#sha256=3eb15268767657bfeaa7c599516cab821706da3f2e17b039a14ff1202dd01cd3" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/65/d5/3357821826da27c03b73d3bb8fb10dbbbffd18d0c0ae869ecb1bcb4d7be0/odoo_addon_fieldservice-16.0.1.0.0.7-py3-none-any.whl#sha256=3f7d1fc09140732aefc30dcb5791f4d835d8b3f7d23b374953217bf931955f32" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.7-py3-none-any.whl</a><br />
@@ -45,6 +48,10 @@
     <a href="https://files.pythonhosted.org/packages/93/0e/f9fbc2edd591cc9474e5a9f77b44eccadb0d4368b430b30d89c84673c714/odoo_addon_fieldservice-16.0.1.0.0.22-py3-none-any.whl#sha256=226fdcccfd5004c0215c99e41f5124b0aeeddbaa9f0952dafced75833dd6f1ab" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.22-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/4b/7ecd7f7c7413c40e80b1c7e550961a3a6d4d060216a15a687f045418e7a3/odoo_addon_fieldservice-16.0.1.0.0.23-py3-none-any.whl#sha256=ab27ba69a953ac824248aef61171fe5dbeb45405c401aed700ff58cf09a44451" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.23-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e2/4c/675b84aaa2c89e5ef6ca15d11497dbe86a7adb43616da8d82e88febf80c9/odoo_addon_fieldservice-16.0.1.0.0.24-py3-none-any.whl#sha256=36667bdf6af108353cdc426e4fc73c56c468804a2ecac5a6b9e03986b5b29df6" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/1d/8fe7952d3eea459f28f59f403374bba6d5d9228e31f8c5a5558c75199bf7/odoo_addon_fieldservice-16.0.1.0.0.26-py3-none-any.whl#sha256=75a42305db7d51ab96c065d9aff3387b9a60982bbcb0a2f644191a801fde4a32" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/a4/c5a5c67fed423a2381c6e4e90e02e4f662219b4f0bb7e4879c2efb4cbfea/odoo_addon_fieldservice-16.0.1.0.0.30-py3-none-any.whl#sha256=b1d26d9d33f77ea335b6e874db8812497e6e746c1281c844b331bc446eba3c7f" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/ef/00820b9d2d9cd9116c89c3bea2b277cfc2d3a6a31ec850d83043e276ba21/odoo_addon_fieldservice-16.0.1.0.0.31-py3-none-any.whl#sha256=b0130fb4f79c6d88b00f40ed2f1d954ee955340710796e2a3d9e76c134835a4c" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/ca/299be5508e7ab56caa534558cde10b4e760775268cd26dc30e7e71682b32/odoo_addon_fieldservice-16.0.1.0.0.32-py3-none-any.whl#sha256=c254b84f0c5d6c146e9dd7189074b98023aae9f767751b6cf6307ffd72f10393" data-requires-python="&gt;=3.10" >odoo_addon_fieldservice-16.0.1.0.0.32-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16399355-->
+<!--SERIAL 17139831-->

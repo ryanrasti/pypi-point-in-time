@@ -1,37 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dicom-cnn</title>
   </head>
   <body>
     <h1>Links for dicom-cnn</h1>
-    <a href="https://files.pythonhosted.org/packages/55/50/5043e2e57436935d7a38b03785afc15accf3b6ddd09f6b9015275e3d3ab5/dicom_cnn-0.0.1-py3-none-any.whl#sha256=e5805a8ab42a3963ca08dc2480eb96d36d61efc2df8e0fc5a8824d839ae96009" data-requires-python="~=3.9" >dicom_cnn-0.0.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/0a/7d/8abd56f736879d7c59104574b122c3cba3644d7b64b168643ced0a1e3f9f/dicom_cnn-0.0.1.tar.gz#sha256=bae8cac2f22bf3455db58929994121f335ed4792325da952aabe71ff725e0bb1" data-requires-python="~=3.9" >dicom_cnn-0.0.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a9/90/c2d85dca7d51e75e72fab24697f6a4926d8c92555c1484361f852aaf01e3/dicom_cnn-0.0.2-py3-none-any.whl#sha256=42503e41dcd997501c2546848c488fdbc773964f3548b69fadd3280933532624" data-requires-python="~=3.9" >dicom_cnn-0.0.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/51/e2/7e0ccffdab62966dbcd156100485516b1d56614a3046ce6f8a7d131cc2f7/dicom_cnn-0.0.2.tar.gz#sha256=c4b4fe33712f85dcf9cd3518c9c00439f2ceb4470348eef39c49db4ea43aa92d" data-requires-python="~=3.9" >dicom_cnn-0.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/5c/33/27bff1494b7e80414b5328ec4a21e5e81010c4d5d857cdb0fedf9dbe13fa/dicom_cnn-0.0.3-py3-none-any.whl#sha256=09ee015a162a400c4b3ec9a28591394369455c771d4df1b6a1187cd005ac5758" data-requires-python="~=3.9" >dicom_cnn-0.0.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/3a/20/fda602d3f36ec1cccbb2bc9763572789467cc173dca6fc73a708defa5d19/dicom_cnn-0.0.3.tar.gz#sha256=ee47e9a8179493b2c5d1728943b4f4697e38282057f92f9868494ae2fa3e53bf" data-requires-python="~=3.9" >dicom_cnn-0.0.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/b1/66/03f0b6a36ccf52dec8627ac1fe7d9a29bed0812a3d392a3ce9e64b74567e/dicom_cnn-0.0.4-py3-none-any.whl#sha256=01eacaaecaf8213eb3546f34ff995673e703dd73753816e23b0caef6c248a799" data-requires-python="~=3.9" >dicom_cnn-0.0.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a0/d3/c9af2e1055a835f27d93754d991bf0266721d35379ec2179b54c6fc0a797/dicom_cnn-0.0.4.tar.gz#sha256=52648c2bc674d7da637785518bc349e62aedd8c50c287c0efe993fbee54f5047" data-requires-python="~=3.9" >dicom_cnn-0.0.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/9b/58/e2320817be8cee7414652f9a706a6127722587934fe06ddde5fd1906f173/dicom_cnn-0.0.5-py3-none-any.whl#sha256=c2c5fb4f380dfeee42fea34691873a6026a2d35d094049fa9da8b79ffdef9aaf" data-requires-python="~=3.9" >dicom_cnn-0.0.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/38/5b/1ff0d8ea520d2c2067cbf713dcf43c183580e3a5fd0baf6041bce47d48b2/dicom_cnn-0.0.5.tar.gz#sha256=403415e6d81b81bd4ac8a82fa0508a1a29979d90d15eaa2feb7d5e5b24748a8b" data-requires-python="~=3.9" >dicom_cnn-0.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ea/20/5eb6f4d4038dd366fa09c1517c902b241cdec94badc6ab8af71ff500dde0/dicom_cnn-0.0.6-py3-none-any.whl#sha256=070816202e460170e4dc7d436c5d9272fd6e18e05fcaf72d81c6544270310543" data-requires-python="~=3.9" >dicom_cnn-0.0.6-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a6/6a/fac66d896fecee9e1ef8fc98665e63f028987351b41e459cf7a3e49e2141/dicom_cnn-0.0.6.tar.gz#sha256=06c073eea10a4132fd34f34f9cf66d686474692d943a71f06a90f6b3335352b5" data-requires-python="~=3.9" >dicom_cnn-0.0.6.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/1b/4e/a6d85c15bddd0a794c802dc9ccd69820cae28c19ef4058eb58410006a7dc/dicom_cnn-0.0.7-py3-none-any.whl#sha256=afa660800cc9021ed2fef373725f50e7a199ba8c39b0d34c9d28df5bb77a30d6" data-requires-python="~=3.9" >dicom_cnn-0.0.7-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/31/37/e3899d6a85ce8de882040b5a115b6ed79242a01deedc7eddb195c5c86e06/dicom_cnn-0.0.7.tar.gz#sha256=fea6ca164b435aa59274430976028acc21577b9f97cb7e837e3bc637845c2cf5" data-requires-python="~=3.9" >dicom_cnn-0.0.7.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/1d/b6/a402ad83554e7e0d5f7cad89a2791441aa634562810422892bbf255a934f/dicom_cnn-0.0.8-py3-none-any.whl#sha256=f76263960088bf3ff9b120f734cc161da9fe32a9f03910b3f91430f07671b009" data-requires-python="~=3.9" >dicom_cnn-0.0.8-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/68/77/c5b0a5a92d3c67b132d81b73028c7322bf8d35a37294e3f4f070f9cbad20/dicom_cnn-0.0.8.tar.gz#sha256=5cab1a09dc5acf88c0b438d0c69bc727e661589dd2a6a76393a8b021f0e1d70e" data-requires-python="~=3.9" >dicom_cnn-0.0.8.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a7/36/1bb7cc696551a82bbdfb04e96e91839408d3729022725586ee2905b1b3e3/dicom_cnn-0.0.9-py3-none-any.whl#sha256=185d6ad0a0d94a5426506743b4a4a784d738fcd4b164fa70c616ef12c2955fcd" data-requires-python="~=3.9" >dicom_cnn-0.0.9-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/7f/f2/b7d5e83a8bc1157829bdce180b1f753ca998544c234b2da7590799b1591c/dicom_cnn-0.0.9.tar.gz#sha256=3b3d8a978189a3ca2bc7124134d2124d335924ef7647cd3d8825f0f9bb06b10d" data-requires-python="~=3.9" >dicom_cnn-0.0.9.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/15/2c/54334e69ba9dad6fb2a59aa7861b4f5cf25e2f2898d620b211d8615870ba/dicom_cnn-0.1.0-py3-none-any.whl#sha256=d32383ce8287847d297f6bbbe9ecec4df4c13c28266470dffe68e14c8d782bbc" data-requires-python="~=3.9" >dicom_cnn-0.1.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/dd/c7/a001e9371a2d3293869c6a85c335f9cbcc4e2fd92ba5733032bc121b939f/dicom_cnn-0.1.0.tar.gz#sha256=51d1ea044b6764f6283e6683fa79ea06d795ab5613d2f319d77bc8fa21bf40a2" data-requires-python="~=3.9" >dicom_cnn-0.1.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/97/6d/e7edf3542f6406a8ab79a8d3ed2790b0966d2fe132b4037e3cf65c226d59/dicom_cnn-0.1.1-py3-none-any.whl#sha256=9ffd48723bec7c26b3802b831c7165120d7788e2f7ea2447510803aa3b28847c" data-requires-python="~=3.9" >dicom_cnn-0.1.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/71/92/b325122f0434dc1ffa1c36ab9202b5cac903f70f99774983eade7d58cd92/dicom_cnn-0.1.1.tar.gz#sha256=d874ac07da05b663d5990b34f9b323293a4fee89f6e1d1e29970e1bf7eed0b78" data-requires-python="~=3.9" >dicom_cnn-0.1.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ef/8e/5fa0e8e38be443bd4984f351c3fe96dd32fdd8bc8308986e3206bf182f63/dicom_cnn-0.1.2-py3-none-any.whl#sha256=caee5dd664aca73a67b7768128905b859210d0fcb9110faf921bc3524b111a62" data-requires-python="~=3.9" >dicom_cnn-0.1.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/56/89/733557a01e3035be328bf268f40019f2cff8d292db20cc5123f079f0d31f/dicom_cnn-0.1.2.tar.gz#sha256=54c1996a5196ceeff77e6fee896fceaf1e006639052528055b32cc1c979eb611" data-requires-python="~=3.9" >dicom_cnn-0.1.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/57/1e/f2efdcd960af8447601631657ccc99c800797994238fc0c5809d489aafdf/dicom_cnn-0.1.4-py3-none-any.whl#sha256=27b573a3130fb7eacfdad2363f5731dba5a37629e5ac06f19e3b163cdf37dff3" data-requires-python="~=3.9" >dicom_cnn-0.1.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/af/fc/74bb8a380a19cc8aeef1962735d411f902f8ef16f5f81a8d5e90b0740b8a/dicom_cnn-0.1.4.tar.gz#sha256=2a5c2ba1e6fcae06973c33e57f5dca4ddcdbde4c0ec1a1c3441e7e1cc5e1fe16" data-requires-python="~=3.9" >dicom_cnn-0.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16174963-->
+<!--SERIAL 16532824-->

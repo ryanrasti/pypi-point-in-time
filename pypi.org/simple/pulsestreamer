@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pulsestreamer</title>
   </head>
   <body>
@@ -22,6 +22,8 @@
     <a href="https://files.pythonhosted.org/packages/d7/1f/3d78fa504e6ffb66f75cb3272695ef4f4e307ae7a08d2433fb92171fbb8c/pulsestreamer-1.5.0-py2.py3-none-any.whl#sha256=c8540264466c990c94442f11dfe22500ce2ee4fb0f28b135ea2c0d987f6d9c5d" >pulsestreamer-1.5.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/63/2b1a2b99c940f8ef4dcacca65458c3d3392df1f43cbc78f9467a1473087f/pulsestreamer-1.5.2-py2.py3-none-any.whl#sha256=b65a258783efac8a5525d2e22f35d2adaf80ffac1170702e797788f7f5e3c838" data-requires-python="&gt;=2.7" >pulsestreamer-1.5.2-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c5/6b/d6b1125c5b2d9080db155d748ab20a4f8be4c0b8bfd015ce5ee24fc52268/pulsestreamer-1.6.0-py2.py3-none-any.whl#sha256=ff32e5b851c2cd7e7228c9d27a94ac1a3bfa6f7224d829d7d191212c2d0890bb" data-requires-python="&gt;=2.7" >pulsestreamer-1.6.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/16/a6b41e969d49a5f159ed9d8d8d0692a451ce7ad0c60e6fbeb7ed828f1d05/pulsestreamer-1.6.1-py2.py3-none-any.whl#sha256=55633207eac7ef36dc9c3ed7ce75c8055a95bc9c917268a32a2abe175f426338" data-requires-python="&gt;=2.7" data-yanked="Missing optional gRPC support. " >pulsestreamer-1.6.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/93/93eccff1cc2709dbfb4d9540a7e98b1275d412965d1507ced2d965aac3d8/pulsestreamer-1.6.1.post1-py2.py3-none-any.whl#sha256=ba472c0f14ba342f7886ea9a6ed218543f2ef76a60d43ea64082e53bc25ebd50" data-requires-python="&gt;=2.7" >pulsestreamer-1.6.1.post1-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 12373320-->
+<!--SERIAL 16936671-->

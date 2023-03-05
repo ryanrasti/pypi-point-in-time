@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for swcc</title>
   </head>
   <body>
@@ -61,6 +61,16 @@
     <a href="https://files.pythonhosted.org/packages/af/11/a73cf202e7a43b9702e60c80950650cce3f848b03d261d2562a3aaf0f359/swcc-0.6.14.tar.gz#sha256=f0e3abb9775c4c80fed7406e40a14578d25a0358f98dfa15e49fa8a8631ec041" data-requires-python="&gt;=3.8" >swcc-0.6.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ae/53/207b5e4d4abd8ee34811743364ba2b1a181e6da306cab29cf8e57a16d59d/swcc-0.6.15-py3-none-any.whl#sha256=6e0f45a86cffa65ce5410d6717e885c682027a0e1c52fedc51e0de4c0e7cd52e" data-requires-python="&gt;=3.8" >swcc-0.6.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/ac/87110d236a60fbab44cc763e0742ac47bf57acbdc49b8f07e9b75b72cb4e/swcc-0.6.15.tar.gz#sha256=9a3066843dac462fe706bb5024a92714a11454d727a398d51ab01e49d3ecfd7a" data-requires-python="&gt;=3.8" >swcc-0.6.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/e6/efee5b8aa25919e87604b414b8f922a7d86e01e510a5001b33bca521624c/swcc-0.7.0-py3-none-any.whl#sha256=da48796b63c4341b996f1a2d4236b82f6e3bc4c3038460d92d454d0262e89ffc" data-requires-python="&gt;=3.8" >swcc-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/82/07798c02326de9718d7617f4e5fc959158aab7fdf32410451d0ad18a447f/swcc-0.7.0.tar.gz#sha256=705a0e0ffd96e2904320e10fce3677ceb96c2e2e0736cd6a40fab71abb5225b5" data-requires-python="&gt;=3.8" >swcc-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/5c/4e37c7f219721c33ae5c649e40f36d8be89aac3e6ce48eecc037924af9fa/swcc-1.0.0-py3-none-any.whl#sha256=0d0bc8381d7f2c44e40647f6befcdb17d8266f6a277f6657994501c193d0fd5e" data-requires-python="&gt;=3.8" >swcc-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/06/2638c26a46320d2f053383977b9d2a7528656178f010199d455ffa49c7e4/swcc-1.0.0.tar.gz#sha256=f41a602c59731224fd3642a7029c28236af958fa6d9e3ee2ad729eea9834db53" data-requires-python="&gt;=3.8" >swcc-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/55/3eb8e5550c5dbb26e1dd9d9476bd5fb1c12c35153fcd8c98a04970d3f73a/swcc-1.0.1-py3-none-any.whl#sha256=500262e23f44095ccae846a766c3f45471b488571e269b11adf2a85efd68afe1" data-requires-python="&gt;=3.8" >swcc-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/a1/654f936d7097533689cedc425f82d86e994efd1a3398d4660c49cdc34659/swcc-1.0.1.tar.gz#sha256=2127142a0618152464d812e844ba41f75b8702401a00bc9badabd5d8e10904a7" data-requires-python="&gt;=3.8" >swcc-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/97/61650e5ff0f6ff0104aae590cef37e2f1e556f7d12663ba4d02404af086d/swcc-1.0.2-py3-none-any.whl#sha256=8a4e5e830d185477013c3c3bf0fda2524fde293dab05f83807643bd8cc964639" data-requires-python="&gt;=3.8" >swcc-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/75/35c19fbe82a54e6f58d23b1e0bff45a92e179f9e21f38ec6246d6e5b07ba/swcc-1.0.2.tar.gz#sha256=36f4139784854778b27f36a3316270313df24163964761c6c42fc544eb8013e4" data-requires-python="&gt;=3.8" >swcc-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/c0/6b3aa2a041336e659e4d1018ca405adc18190fb61a39bc25ae242ba3c09f/swcc-1.0.3-py3-none-any.whl#sha256=984c0a2a229abad09c2f2a963357f43d950daae00e1f02be15de63e7f1f2faa5" data-requires-python="&gt;=3.8" >swcc-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/1b/5918f68970eee4aa1909ddb7c024adc4c96cf6eec366e47fd7fe537ee99f/swcc-1.0.3.tar.gz#sha256=491a874188bc6e35d0786c1f42e05d2199c7f3bde7b4cb9ee797f60af4f82c24" data-requires-python="&gt;=3.8" >swcc-1.0.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16074871-->
+<!--SERIAL 17146263-->

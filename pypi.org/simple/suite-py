@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for suite-py</title>
   </head>
   <body>
@@ -432,6 +432,16 @@
     <a href="https://files.pythonhosted.org/packages/ec/e6/8c874db7ab6d81373be8177a92ceeba2c4ae99ba1c967e5cd750bc4e869e/suite_py-1.36.4.tar.gz#sha256=8e6cbee6f5d6097e1c2e115e834e9c139b383a87994912a0785ad0ba9901cfb7" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.36.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/a3/ecf1cc06c1d7c89433006fe33e347cd3b34642f5377955985f16e038905b/suite_py-1.36.5-py3-none-any.whl#sha256=59dadb55df0a95bcb12c435fa7b07e605c152fe1586344d0b44a4a4c46c71911" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.36.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/ca/76296f928ca26b685712ddfe9a922cd4906c9c123ff6b8e5001f78fff8e0/suite_py-1.36.5.tar.gz#sha256=f19a492fe223f4306674fa4d78898c86a2d0abbdcffd1568e407518c02f83939" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.36.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/ba/193a7db1d4d1b800f145116d624810c7e8eec8a6fde28b369e2a689d921d/suite_py-1.37.0-py3-none-any.whl#sha256=b1dcaf44d5f7753d29f570cf8a41fd29b0b3d1c6a76d6daf8de519aec7aacc69" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/1b/0745dec4316569b4e58fc480ca6f06120c45f182fac6dc8b8a25e29ea277/suite_py-1.37.0.tar.gz#sha256=abca653dcccec21140f0c26a8ab84a17d5315dca566e10c4d9148529f505fee7" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/ab/d48ff34164c942f161813d57b4f976731f474c3c17359ac9eb9cf86e5166/suite_py-1.37.1-py3-none-any.whl#sha256=48a62f461f175a692f997c1c22ade15bf397165e1ad05296be5ce0c9610ec20f" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/99/e58a6ce2e78ed2025d5605f993b7ca8ee6a3b843ca5d5777a2c749bef02b/suite_py-1.37.1.tar.gz#sha256=dd84878baec2c7baa75ec82ef9db9546d828433f474392525843e6028a407904" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/bb/98390bc8cada25df2c9f0a065069a8ec7fda167e7a7734c796661e3dc4b7/suite_py-1.37.2-py3-none-any.whl#sha256=1543b57cf6427b9855852b3a4dfd7212627586ec433edd7c511e67cc02faacec" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/50/dccdc1e1ca808708e5de0f9729869c6b16b9ac1a7f3ac06f4a443323b9d6/suite_py-1.37.2.tar.gz#sha256=dc2efc0c04010b68fd86bb98b7da424ef0150d2d6d2facab29ee877219ea0b40" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/88/40440594403a19028eb6e7ac1e8f91fc1a578c70721815ead93544e98c12/suite_py-1.37.3-py3-none-any.whl#sha256=634d8e1fac617d1021be71bf22f3b429ee17704eb5b19b7cd63bc4c4df32edad" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/a4/4cf50dd7482991e32d487601b3d8c0a088bcf9a6453786ef548dee42c3fd/suite_py-1.37.3.tar.gz#sha256=76f3b265bb14dab65a1b05e9e9df45199759ea283a1049cdefe69e8d2330715b" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/4e/df7f7a486c4e42991820f71daea040caa5029ab3d27bf45729cc13da0c9c/suite_py-1.37.4-py3-none-any.whl#sha256=04e45754f9e99ca923458100239abaacfc7654ce9501fcffab27c0d3118a576f" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/82/108f45312828ebbacade2dc9ff3609b89c282a1c9d3bf54e11a47b7b7afe/suite_py-1.37.4.tar.gz#sha256=7f33f9af4987373c6a2218a19ad80271727d9817bf81370a115834e98c94b290" data-requires-python="&gt;=3.8,&lt;4.0" >suite_py-1.37.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16377180-->
+<!--SERIAL 16765307-->

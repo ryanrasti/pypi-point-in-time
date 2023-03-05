@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for johnsnowlabs-for-databricks</title>
   </head>
   <body>
@@ -22,6 +22,16 @@
     <a href="https://files.pythonhosted.org/packages/4d/ee/ed7d075ab996d79a5a79fea25def2056a6aac6eb73f9da9caa3d0f43f563/johnsnowlabs_for_databricks-4.2.4.tar.gz#sha256=268e5595dea439cfddc91666a7209e13d1829e84b804ac059d4e4bfd9dad5f8e" >johnsnowlabs_for_databricks-4.2.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/50/31a68270ca8d1424dc8d3be2964dd0c400736d38a3cd28198d70ce9a1f35/johnsnowlabs_for_databricks-4.2.5-py3-none-any.whl#sha256=adecf15a522dfcbab9eeeee9ca3c331a7d258e1ead1884152503ebb93b55979c" >johnsnowlabs_for_databricks-4.2.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/3e/c47bd1c9c155c0374c3542062a84478fdece79f5118c4279a1a6ed4c9507/johnsnowlabs_for_databricks-4.2.5.tar.gz#sha256=6ed07de318d4c88ce238ceee14eae7645fefbce040e7925ba3499bdd1dc7febe" >johnsnowlabs_for_databricks-4.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/df/598224c3db58013920435d6d20bd7a0ba7900047c37b371147c3dda41b7e/johnsnowlabs_for_databricks-4.2.8-py3-none-any.whl#sha256=b32b7224d9faa28615d3b927d664e247a61a1ddf7d9ca3604503b2a694582c19" >johnsnowlabs_for_databricks-4.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/97/57229420638a52a0f539641cc75fa15e52be5eae043e583afcd793e93461/johnsnowlabs_for_databricks-4.2.8.tar.gz#sha256=198239241e63f9b459d0dd56746d1709ee3ef2721948dc05ec86513800c2dcdb" >johnsnowlabs_for_databricks-4.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/53/05cc0ba5dea1ed917f645c177af71c38cd5bef4992cc13902e9f9dda1b40/johnsnowlabs_for_databricks-4.3.0-py3-none-any.whl#sha256=983a109d4134ca68e07ce5ec8f6cff98619f973db3df1df89499d7f42401058f" >johnsnowlabs_for_databricks-4.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/5a/14355ee3c8df978d701a67daa623caf9e79e5ec6bcf3501124a08664a0f7/johnsnowlabs_for_databricks-4.3.0.tar.gz#sha256=244824a1d3e1a22538c930dc14bfd0c0b2fd12b3884863dd956321836d16fda0" >johnsnowlabs_for_databricks-4.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/d5/f62a7284ceaaf1d6e11543120bf0c32727811c5cdc9e91f2fe8c62e5844f/johnsnowlabs_for_databricks-4.3.1-py3-none-any.whl#sha256=80d1af06fc7a8ba85efb4c62c937118ba3168d1bdf3f2efb3a95bf8c5f00cd40" >johnsnowlabs_for_databricks-4.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/67/7224f15a3f243ab0b2238f5d941781e3825a89356bbcddca9925ecb30d3f/johnsnowlabs_for_databricks-4.3.1.tar.gz#sha256=f0218f9b2ecdc8340d220e3fd4fe3b5eda28fb98ed3e8304f726e5540525c416" >johnsnowlabs_for_databricks-4.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/9a/9dcb1ad87c49bc1a9df6024cf737d24a1010679b47cc5b65ed1daf811893/johnsnowlabs_for_databricks-4.3.2-py3-none-any.whl#sha256=f5163e171020a4475f9d3ddc57d375c40eb3060f838be65976bafede39c3d969" >johnsnowlabs_for_databricks-4.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/d4/340acc4544573ecb6c1a284fc03c307f0950df7b7fb0b5c73e3575536875/johnsnowlabs_for_databricks-4.3.2.tar.gz#sha256=5aab1250f307d6906d07f8a8769c5f3fe802fd14170a225d2f937f560f801a2c" >johnsnowlabs_for_databricks-4.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/62/b379afa51e66cbc3501dd90c9582bf57a26657007b44d9b9eed9f32d886f/johnsnowlabs_for_databricks-4.3.3-py3-none-any.whl#sha256=e13315b82a3eaaa9a7c425722bc535793e009a1a12ebb0574a5710285015fefd" >johnsnowlabs_for_databricks-4.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/4e/fad4e4aa9639909976cbe9d97a57e257d7076f8bf8f413c928c1b8ff460a/johnsnowlabs_for_databricks-4.3.3.tar.gz#sha256=5acba9dea5026959434ceedbc0f72b347bcfdd9e9b7f27bd07c8417f0f2435e2" >johnsnowlabs_for_databricks-4.3.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16230267-->
+<!--SERIAL 16990708-->

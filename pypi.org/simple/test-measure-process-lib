@@ -1,19 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for test-measure-process-lib</title>
   </head>
   <body>
     <h1>Links for test-measure-process-lib</h1>
-    <a href="https://files.pythonhosted.org/packages/bc/f7/4e7e088e29177e67d74db9907046bd37558228304fc340ebe5b636fdfe4f/test_measure_process_lib-1.0.0-py3-none-any.whl#sha256=273a78acedc50fa62f2e7b870dbaba2d6c60cc6286ed29ca29dcca62318fe89b" data-requires-python="&gt;=3.7" data-yanked="outdated" >test_measure_process_lib-1.0.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/9e/6e/c5aec09fc894104fe7c9e0edd67bca77f5394638607e35558ba84be58bec/test_measure_process_lib-1.0.0.tar.gz#sha256=bc110e909fd96d4ea0218b23094b64dc96355f7ad65aaee679eb1afd5a1df095" data-requires-python="&gt;=3.7" data-yanked="outdated" >test_measure_process_lib-1.0.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/41/01/acc999a16442135310911560f94b02f8a63187023361474deecc65e97a08/test_measure_process_lib-1.0.1-py3-none-any.whl#sha256=d9c3b75854b30653332be32e87df475ccab2b5ad4a73e4e25fa5d47b9aede1f3" data-requires-python="&gt;=3.7" data-yanked="outdated" >test_measure_process_lib-1.0.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/9f/8e/75ba6b62513f4d1088820acb832bd42467d96c718b3d27f49708dc54935f/test_measure_process_lib-1.0.1.tar.gz#sha256=7657e9cf624cff8bcb90dd873004bfa9c621f6565912931516caf13f3a71c035" data-requires-python="&gt;=3.7" data-yanked="outdated" >test_measure_process_lib-1.0.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/2f/b4/34608bcf472482e6a8efa630028ccfd4da347e913769fa2a0c1bafa6e4af/test_measure_process_lib-1.0.2-py3-none-any.whl#sha256=f36436f28b1abb7b82d70c19ddc095cfd0c303846cb901253295d8d77c35361e" data-requires-python="&gt;=3.7" data-yanked="outdated" >test_measure_process_lib-1.0.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/70/de/2d71def0f2425173b69b9e22354bab76b828f2aba5a24309693d638ab4bb/test_measure_process_lib-1.0.2.tar.gz#sha256=ba233f12345d930db33476bc9289ab658dcc9d56fa11a502573eb894a9c36f30" data-requires-python="&gt;=3.7" data-yanked="outdated" >test_measure_process_lib-1.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/bb/bb/751d0446b17dc2d6301a112317cbe0fb3836c5be0d689bcf02141eaefaec/test_measure_process_lib-1.0.3-py3-none-any.whl#sha256=5e48e3705a2f26a0212e05d9e805ec8969294206e53e7ad94710c6ff7f0cb265" data-requires-python="&gt;=3.7" >test_measure_process_lib-1.0.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/9b/6e/0221915556c1765001562c1de01c62caa3fc053cd34362a52fd6a1a2e4b0/test_measure_process_lib-1.0.3.tar.gz#sha256=b7eafd36286327653ce9fc41810f6d74a7107621da9ab0586cd958e69eeca08e" data-requires-python="&gt;=3.7" >test_measure_process_lib-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/5f/819cf6d6d4957d15885e44248fa20dc0a7e76ca7d17f260c2ef0cfdc6216/test_measure_process_lib-1.0.5-py3-none-any.whl#sha256=76e00cd29929fab15e4d6737bcd80a31f4a178f2ea37d7dab144ea35570fd63a" data-requires-python="&gt;=3.7" data-yanked="out of date" >test_measure_process_lib-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/6d/34870b2a73885672004fc0f9efba3338eca8495863b82d79bb0a9950da66/test_measure_process_lib-1.0.5.tar.gz#sha256=fdef210e48f5b3aaee3de80db7031b791304bd0a1b39bd1a1e04808bec9df324" data-requires-python="&gt;=3.7" data-yanked="out of date" >test_measure_process_lib-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/93/4b4041ccbb9a51d971ea551364b4fe9a49cc5e49fc292fbf11e648b22651/test_measure_process_lib-1.0.6-py3-none-any.whl#sha256=7029e8d274fa0e93bf41c6e9929648eaa45a5b03bf841abde4ae6fb4e74ed351" data-requires-python="&gt;=3.7" >test_measure_process_lib-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/fe/ec0157fbe798aa3bc9270cdfb24415489e63850f05a8358b9d932fa1eb13/test_measure_process_lib-1.0.6.tar.gz#sha256=65b6b906854808e3138554c20bd6491efc016be43f6c0d4dbe27b75430a6ffe3" data-requires-python="&gt;=3.7" >test_measure_process_lib-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/7e/28ac44fbeb592646a6109bf52e6f2acbf065fe49d42a2a00b503dc15d528/test_measure_process_lib-1.0.7-py3-none-any.whl#sha256=9826bb3dcfa70233cb35056c558b4fae0e2946a20ae19cc3338ebb04a6dc4b58" data-requires-python="&gt;=3.7" >test_measure_process_lib-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/a6/bb9b9dbbcc0f5ac3e4be89b774c2245184b31c470924d0eabbd0f220591e/test_measure_process_lib-1.0.7.tar.gz#sha256=7a7fb1a0be123f60c3b2780750505fc5dab0e98f3dbeb1a0c136dbc34ef74424" data-requires-python="&gt;=3.7" >test_measure_process_lib-1.0.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16353044-->
+<!--SERIAL 17054139-->

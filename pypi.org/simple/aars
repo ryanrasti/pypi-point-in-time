@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aars</title>
   </head>
   <body>
     <h1>Links for aars</h1>
+    <a href="https://files.pythonhosted.org/packages/76/89/e8ae4be3c4e2c5354deab2f76aa6e62c5b5197087d2d979f8411aae8a15d/aars-0.1.1-py3-none-any.whl#sha256=7bc14ccd36e302de212008b1cfaff73508c72e63ce7531dc100863e5586536c0" data-requires-python="&gt;=3.7" >aars-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/94/0fa352a5ca1bc8248ef0085f459cddc8efe4668fab479afc30650d6d9abe/aars-0.1.1.tar.gz#sha256=663226691417fd9920f5f281974c9bc893aa4c6136dc266b0eee4725c2af8184" data-requires-python="&gt;=3.7" >aars-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/bc/fc3fe62a48ab12c83e3b4179612325ef4c61091209595df2a187d58ef19d/aars-0.2.0-py3-none-any.whl#sha256=5b808f99454650e9f35d181d15b3ff8f43fec405e10302337308a54490639a81" data-requires-python="&gt;=3.7" >aars-0.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/a6/978bc5c646037a2772f4da276ed69eeb6aa6a89015803995e1aeb6e412f2/aars-0.2.0.tar.gz#sha256=78a506e5115da23a4cb2d396e7d94ea28d5c64fd0d384325916c4057d425eed2" data-requires-python="&gt;=3.7" >aars-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/95/d6/aa381799b9cb4803124e1a3adc6a15998072a3b0456ac17fb6d49e784e7c/aars-0.2.1-py3-none-any.whl#sha256=301c78edb6dd21b198c2dbf5923fd11dc4495558ae0823b15ef2a11ee3eaa59d" data-requires-python="&gt;=3.7" >aars-0.2.1-py3-none-any.whl</a><br />
@@ -16,6 +18,14 @@
     <a href="https://files.pythonhosted.org/packages/d7/eb/2ad5324ee3688b81a0ec5d222ea74394bf564d3d29dd9cce8a02979cb3ea/aars-0.2.3.tar.gz#sha256=20b707cc92e6434ce36e4b221cc14d59e92b2c93e8b48ec1fbe041408ca35808" data-requires-python="&gt;=3.7" >aars-0.2.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/b0/669013a88db1c94b070f1fe874de407b7b569a190ff985cd1876b6575ff9/aars-0.2.4-py3-none-any.whl#sha256=bbf9d17565a863a2f753aec03692babe86d1cdf5ea2217677e9a1b4cb4927599" data-requires-python="&gt;=3.7" >aars-0.2.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/71/1b0fb06bc39c40765238312ca685d0c233a24b8673b7c08107ad69f3f926/aars-0.2.4.tar.gz#sha256=67b394067a6d5e373422f9c76dafdeb8ff298be84fac0494a9d79d86b8e326d9" data-requires-python="&gt;=3.7" >aars-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/e8/6a13fe86912f51f05b90c5e913410251da8c950fddc15bd431b7e038281c/aars-0.2.5-py3-none-any.whl#sha256=4e7f23291dd2b617ca35e625a9c551a6f608a3adf8da26eb75bdc2b0b5f36610" data-requires-python="&gt;=3.7" >aars-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/b4/ca179a632e8492b4a90ce8174864256fdef07748143c3d00b1eb9dbb5a1c/aars-0.2.5.tar.gz#sha256=36b5c7a0bc15bfd122beee078b30e368a96dccc113e167d582b9238a6a741370" data-requires-python="&gt;=3.7" >aars-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/31/eb3c993a5cbd536cec7119ed3a3222a8a9b51b47f54a75b4e518d3469669/aars-0.3.2-py3-none-any.whl#sha256=6d0d17d671820b9fa9be41ebc1870ce0e305e3bb03c6745405db9ee25769fe03" data-requires-python="&gt;=3.7" >aars-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/fe/3ff30dac6f405f5d6160098a6008c69816daf7223bdeac86144d522e111e/aars-0.3.2.tar.gz#sha256=5e1b1b75dc65918f8ea0a147e9134fa64b22b9f55a5076a298912e20b14c3ae6" data-requires-python="&gt;=3.7" >aars-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/c0/43f4e18ddec1a13e43995ad6fd47c19d3668801ceabc85c8f76c3371e9d5/aars-0.3.3-py3-none-any.whl#sha256=213e9b7563951295202126b40cd85623a3eb3bba03394b8c29413ae32f5e2a33" data-requires-python="&gt;=3.7" >aars-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/c2/a3d4c04688c7c2d896a207256c6c4598bfe505612c61ac416148cf2de4fb/aars-0.3.3.tar.gz#sha256=4c41654233aaba28859a63560a31b008ce245c56b8d27ed88f849e7c09b99402" data-requires-python="&gt;=3.7" >aars-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/5d/552da1c44930cde687c7af9ffb9b4d3aaaecffdda80aa10ea918201a9b18/aars-0.3.4-py3-none-any.whl#sha256=1cb54623802de2b15110dad580984b979f982d396902a94c213d53bae092b074" data-requires-python="&gt;=3.7" >aars-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/61/409692e5ce0b9e1ff1a0fc390bcc68ca73551ac3200de6cf801942e8e927/aars-0.3.4.tar.gz#sha256=d4123cab69591a557a8d318d04c8bc241430ca2f5568c4a4c65a8add215826b3" data-requires-python="&gt;=3.7" >aars-0.3.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16317879-->
+<!--SERIAL 17070303-->

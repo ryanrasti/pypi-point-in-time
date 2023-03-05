@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for leafmap</title>
   </head>
   <body>
@@ -137,6 +137,18 @@
     <a href="https://files.pythonhosted.org/packages/7e/ea/5a3592aab3f50d5e19b2b329e7d24f7584bf858fb7ca318408231e2ac404/leafmap-0.14.2.tar.gz#sha256=7bca68b10c8c5cfc91592e8c6516b6854384c52caa8f16d1dc1b4ca88ae98339" data-requires-python="&gt;=3.7" >leafmap-0.14.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/f4/16bba28c999ab5ae22846a9fdd67ec4b51ad7f091491923032ef85e0bd6e/leafmap-0.15.0-py2.py3-none-any.whl#sha256=9603926dff9f1e63ccb759cdf0b1fd789cd16ad0ed584f666e660d19253e62b5" data-requires-python="&gt;=3.7" >leafmap-0.15.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/15/25/db786dfcb5a66a857501b2a4bbf7cc523e12846e5b71662075eaddb051f5/leafmap-0.15.0.tar.gz#sha256=1585565b8bec45c4f5452da48aa84c5964d37368b4979e8fd9b420e71b224422" data-requires-python="&gt;=3.7" >leafmap-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/67/7791e19227b098bebfda52b6c818968200f4370252fce3c70fe55ff2e487/leafmap-0.16.0-py2.py3-none-any.whl#sha256=735f79135c79a033601aa220c59d29137b6498d0586ec2d65e1f0db6dcf73fae" data-requires-python="&gt;=3.7" >leafmap-0.16.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/e3/0093b71e7364b1a55b689f3179a49d59cc475ed145ca6c9a52d6631dcfdf/leafmap-0.16.0.tar.gz#sha256=dd1200913efd6729a13f5d125942ab0d48ce78a89c18e07c3182514ed9d3a7f2" data-requires-python="&gt;=3.7" >leafmap-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/2c/6a5cfffaf620869812f14884f58c4a148eabd3ed72e75df7439582de83f3/leafmap-0.16.1-py2.py3-none-any.whl#sha256=0221da3b7be5bf7811c3a4f099fd1a9fcfc0a0a8b74c05e89b556323751052fd" data-requires-python="&gt;=3.7" >leafmap-0.16.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/c2/2dee37e3aed78b787101744e5ec4531250a98ac6da2a43bfb4d755c038ba/leafmap-0.16.1.tar.gz#sha256=300979883ded8fb6ce5900f56f7d1ddedd42fa3c558debff840883c9b23423e6" data-requires-python="&gt;=3.7" >leafmap-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/86/9f99212f50b0ec0f2769a577b35a4d243b7ac44704c490c379c34b29c221/leafmap-0.17.0-py2.py3-none-any.whl#sha256=518aedf044be20534379ef43bb171f75504ac7baeb33849fb33dadb0dfd927d5" data-requires-python="&gt;=3.7" >leafmap-0.17.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/df/524169c6e6f915557c679fadf08dc862ddf3e3e2ec4a620a51cbc96bc24c/leafmap-0.17.0.tar.gz#sha256=19a61c00ccf6600f9ec57ef76334738ca53895b29ff4659e9eb1b6dcb1fc110f" data-requires-python="&gt;=3.7" >leafmap-0.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/95/c9b59a1e2ca4bb8a40ceb1cd8286422696c7f0248a92107edb24e4cf0e84/leafmap-0.17.1-py2.py3-none-any.whl#sha256=20082dd845340b75c8eea8527e81f2c9bbc12d0bf20a429e1b8b3e528221bea8" data-requires-python="&gt;=3.7" >leafmap-0.17.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/f4/5efe327f49c84414e29261f9c5e5f7ed5fe68ed902ca2413354f1dd4dc2b/leafmap-0.17.1.tar.gz#sha256=4e967cf45c8a1545d52e7c3369c6c2ba831321d8181ecc7d12800013b19eb680" data-requires-python="&gt;=3.7" >leafmap-0.17.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/4b/6c90f7e1f5a4967f7317ee2a81c531d84e73436ff38d7b58e62210c8a885/leafmap-0.18.0-py2.py3-none-any.whl#sha256=0ba42b4e1072d8b8ace00c19ddc53eb938a2f96f74af843c156203ae1b2ef94f" data-requires-python="&gt;=3.7" >leafmap-0.18.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/37/79bee236edd5695072c805d679661c8e58e6bb6fa60d57545f04b68cb818/leafmap-0.18.0.tar.gz#sha256=b42336997d65e6f305d2bb5b7ff42e86806a46bb4529f8481c6ba9bfa15f7a21" data-requires-python="&gt;=3.7" >leafmap-0.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/14/eb2ebfaefce5eae7821a4de1b37050ddac6771789d1bc965b751b33456d4/leafmap-0.18.1-py2.py3-none-any.whl#sha256=37759789bb89cea2b8aaa9985ff022f4657acb833912963f9c5e047697a37879" data-requires-python="&gt;=3.7" >leafmap-0.18.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/f0/31c1c28d11dc030c06ee8a772789ce2a6c39aeb6faf4f65348c91bf3fe80/leafmap-0.18.1.tar.gz#sha256=ae20741c6416a6e6f3b3679d21bd71b14317565f9ae2f988ee9be44b44a23136" data-requires-python="&gt;=3.7" >leafmap-0.18.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16200560-->
+<!--SERIAL 17113124-->

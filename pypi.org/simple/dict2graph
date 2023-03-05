@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dict2graph</title>
   </head>
   <body>
     <h1>Links for dict2graph</h1>
     <a href="https://files.pythonhosted.org/packages/2b/c5/5f5638045f1bd5ee4b093f8c18f486c57debcda6ad0cd9237839261788ae/dict2graph-2.0.0-py3-none-any.whl#sha256=c54399bed14729c013813848745734db1df0a994cbe2f98353afb6c1a4489e9b" data-requires-python="&gt;=3.9" >dict2graph-2.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/66/bfd6dffd7ee7040698ed85561aa20e99af6e48351bfa146d38e5d57889a2/dict2graph-2.0.0.tar.gz#sha256=6f7dba77586af947094f0f725ebfde497e4e7911c9138642554acdd65cffbcca" data-requires-python="&gt;=3.9" >dict2graph-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/3c/533a62297ffccae927d3f433e45bedfab217cf594964036cf426d264fe43/dict2graph-3.0.0-py3-none-any.whl#sha256=ad4190f09f5ac535ebee03afe8894f7ee5dba3afe581085a8b9c9dac23253b3c" data-requires-python="&gt;=3.9" >dict2graph-3.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/35/40d009638537d2d8408aec810073c963d4bf06eb92cb32570689a1eb06fc/dict2graph-3.0.0.tar.gz#sha256=2f3b12238806e9cc78c26c680c5e965369ac5fa805be16baa4478f71e37440ad" data-requires-python="&gt;=3.9" >dict2graph-3.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/11/0f9016a8f4d060a1ccbdd125065a512cb9f6c493317058a91f20c10df7bb/dict2graph-3.0.1-py3-none-any.whl#sha256=ccb8c644e4ea46856b6bbdd0d9289d46f4441a15625da647d9017222b5484fb2" data-requires-python="&gt;=3.9" >dict2graph-3.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/09/8c259345a053523bd0e782e1745f6eb36ebec5ed9c2e2e552407494955e9/dict2graph-3.0.1.tar.gz#sha256=e9515d5db9bdcc7ac833240c19fb04f85dd7201cf9d40d0d8ded4a7b22beeeb9" data-requires-python="&gt;=3.9" >dict2graph-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/fb/c42cab360d83cfcec4c21d4ce863ddc8cdecbfa1e80e278eae75a2faf741/dict2graph-3.0.2-py3-none-any.whl#sha256=f559ba9073e9d55332f2f65e0865bf4009bf9e588ddf60ea7eace7657c58117c" data-requires-python="&gt;=3.9" >dict2graph-3.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/73/98d5a5f01f768ba8b7b3c66907d42764ed760ea3981e50a9ad5aaed5ae78/dict2graph-3.0.2.tar.gz#sha256=f7fbbcfd7a47ed3b19b941cf2cf52cfafc580a6a0ee6e96294148ec559e43e19" data-requires-python="&gt;=3.9" >dict2graph-3.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/ff/0e5beb83ad79b77339b4c3302efbc93416c2508fa2254c6210131649545a/dict2graph-3.0.3-py3-none-any.whl#sha256=930b4976a2c00054c32cb0fd7e8b34fc0b2497d2c124cc1f517a04f3d5d38421" data-requires-python="&gt;=3.9" >dict2graph-3.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/ec/630437bfb0327e01259eab4108268099efe6be5fb837d658335310215110/dict2graph-3.0.3.tar.gz#sha256=99628de93770a890f2ce61963a49ff8ef4931643e339fdfbcf74555650766c1b" data-requires-python="&gt;=3.9" >dict2graph-3.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/8f/2d05639b1d9a316008836c88072a5b9d3c0a5a9b0786538225b3248a32c8/dict2graph-3.0.5-py3-none-any.whl#sha256=8fac14571db8ad5090fd37d2e5cd7675a3a897dcb1045de2ef7f9de62cd9540e" data-requires-python="&gt;=3.9" >dict2graph-3.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/91/0346064ad82ac5766a0f05866e66e148549acb973f4730b4bb25a5cc8665/dict2graph-3.0.5.tar.gz#sha256=28ac69b49d348ba26c8c48513a6c61132266b3ff7f38c9f251f4ff214084c5a0" data-requires-python="&gt;=3.9" >dict2graph-3.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/20/f884c71015f2acda54e0d980e10806e51c0318c2d6501b704c7145ece660/dict2graph-3.0.6-py3-none-any.whl#sha256=4d2b3c556ba57ec9edffbda2df81f1a7f0ebb68a20c7e1f0e9d52f3ed528fdbe" data-requires-python="&gt;=3.9" >dict2graph-3.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/61/778ca91b1efddb79692305f4b7624512fe344297e0ab76c5fc8b127ffa9a/dict2graph-3.0.6.tar.gz#sha256=f462aa2f259da777a1367a6583184d1cdafd25480765172b954f1e8522084f7c" data-requires-python="&gt;=3.9" >dict2graph-3.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/13/7371e844933190e875d8b954df4fe5d3c6bf6f2713fdd3a36d0f2662387e/dict2graph-3.0.7-py3-none-any.whl#sha256=035d32cc799cf1f67e7015ca81988dceef6eb4be9735195624ef119922bf2d22" data-requires-python="&gt;=3.9" >dict2graph-3.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/d9/7c98b05344dea538d6ee87c6d7af3a13ce342421c1ffbe605fbd88abd427/dict2graph-3.0.7.tar.gz#sha256=5bdd6bf5bf39726084c10b3c2ffa49fbbddc02f7a65df86af9b3b690ee356a40" data-requires-python="&gt;=3.9" >dict2graph-3.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/c7/40ca564db173f867eaa26c1d5598f65672b5c03494f042d4be32c6b0b475/dict2graph-3.0.8-py3-none-any.whl#sha256=a23d31713768d82f18143a79e1d6041161eae9e503c390d48e126299da6af12b" data-requires-python="&gt;=3.9" >dict2graph-3.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/4f/ad7283d5aaaa83958d9b4c461620c35eeb7960ebe4811c333850680fde4c/dict2graph-3.0.8.tar.gz#sha256=26163011af6aed06785c2ad46779aca7ec96864fece34e01aceb3c5af7b13472" data-requires-python="&gt;=3.9" >dict2graph-3.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/f5/9c401663259e6a93c8c708bab9ca801b39dc619c7286d1f73780dad8d08f/dict2graph-3.1.0-py3-none-any.whl#sha256=cb358669bb2b1aa328de69b3e65de4a1d67de081c70b5b1afec3b1b2a418d456" data-requires-python="&gt;=3.9" >dict2graph-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/8c/410e4d8e878459286f05d46d2edcfb627688303f70d1e4b7a543f4acefc9/dict2graph-3.1.0.tar.gz#sha256=6f7698205f87d1cf0355842582f3c8a8b8b102d2cf0be60f3a9ed1499988676c" data-requires-python="&gt;=3.9" >dict2graph-3.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12235488-->
+<!--SERIAL 17143808-->

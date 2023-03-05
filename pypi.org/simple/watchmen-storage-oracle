@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-storage-oracle</title>
   </head>
   <body>
@@ -134,6 +134,8 @@
     <a href="https://files.pythonhosted.org/packages/fc/59/19ac83b6fa4712ab4adf9a61e06c85c90060d42853e81c6dd5fbd30ae7bb/watchmen_storage_oracle-16.3.23.tar.gz#sha256=aa26fa8810f5d3c2217f4f1deb9026414f5699b7aba8828ea4680ff87602f010" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/68/5f/c13cb859dae0d411776bc979c7fa115da41cdc85e7231e3bb27ab0172f66/watchmen_storage_oracle-16.3.24-py3-none-any.whl#sha256=d2bb0ee8b54aee76d66c5c8fbc13b315086cff4781dbae32f867a221de29420f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/14/115a85c2cbb5240420ac33c6ea21e72d1caab49e1f2baaea64d9cbc98a0c/watchmen_storage_oracle-16.3.24.tar.gz#sha256=70d7a13dbd6dffeb15d849110c9fff9bdca34944d6d80ecf8bdf234054354c23" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/83/3eed59074d9d154c72cf66437b617f6c54a49a3bf1ea168b93c2abf7e694/watchmen_storage_oracle-16.3.25-py3-none-any.whl#sha256=018fd2b837dce877e5a1d72bcf1cd1f6a29ed52c474b01298ea019c147438310" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/7e/56bf877efd94f5119d4ab962d7d27ec60843545d67d377d5aae4b5c31ba9/watchmen_storage_oracle-16.3.25.tar.gz#sha256=a157cf2aff1627f6c0003eb46102ccd0fc3d0c0e341fe70be7bef22388cca461" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/2f/98b67e5fc24be7c4926d10276dcebad9e11b4dd70ba7cde8fbecfed91668/watchmen_storage_oracle-16.4.0-py3-none-any.whl#sha256=45c8f6981b1caaa5a4d0a47935c4b4ecf5279420e9200b9128891a97b8b5297e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/80/18e49523814118c0eb37b1ea0616e482981de5e525558ef9649060afc690/watchmen_storage_oracle-16.4.0.tar.gz#sha256=1402dc5e94ecabf4c826b4ed392eb996769ecfa81173e4bb3c9b21dc6f640b53" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/73/877b6efbbe630358ed1bef0cfd109e72c1531ef833a8c6e2471dbf3d71c9/watchmen_storage_oracle-16.4.1-py3-none-any.whl#sha256=656474ee00d65841d73fb87b78d5705dbc319277d76ee267834c5160dfdd8800" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.1-py3-none-any.whl</a><br />
@@ -146,6 +148,12 @@
     <a href="https://files.pythonhosted.org/packages/4b/0c/d99b077e3adae3e441e9ed19334ae1e6111c4b9d070c1867af75ba73c728/watchmen_storage_oracle-16.4.4.tar.gz#sha256=cf7181f084d09cf04b4f9cfac70b76ced9fbcbff0cd813240100cf23db9913e2" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/78/40/91afcb2ff906e20434f2c0f15f5c83fc3ccd5539e2e988e763eab0c0cbdf/watchmen_storage_oracle-16.4.5-py3-none-any.whl#sha256=d8c569b83e4e47849ab9383c504b4d81855639e811b131b0654c89679d9dc93c" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/68/df/864c7f903cc6736a3310830f0f3cc484359d3c45723a690e063e739fdc48/watchmen_storage_oracle-16.4.5.tar.gz#sha256=6c08f43ddf1855ef25987cec33d4cce17a2dcd3b1a278629162e8f551174918a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/38/02f405b8e960f5987e58f973dd77861123456b8e3b256d55970ab97e9830/watchmen_storage_oracle-16.4.6-py3-none-any.whl#sha256=4b670524aba516435cf68a8febe6e9292218d8db0d59b6268f19896973cd2190" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/42/07f671c5303456fee10fb2c61778f57ed9f3ac3adf16f29663e96bf3069f/watchmen_storage_oracle-16.4.6.tar.gz#sha256=3ee67e821483537045ae933e14303f71a4ffeeb8e583043a043eab8e7d56deaa" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/7d/d7bb7e61d4dd639c201c6783f26b82632bd5bd2d2efb92448bcb622c17be/watchmen_storage_oracle-16.4.7-py3-none-any.whl#sha256=21519a770657632e778eaa5eb5d323984bbdbb1f966c15935ac9e5787cceb8f1" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/33/6417e09c2896eefc091d50148d598684207c3bbae4bb65a529a439725599/watchmen_storage_oracle-16.4.7.tar.gz#sha256=1f62af209200e4b0b8b5fb5938ce493199688eef9461661dd1f4283d116e367f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/60/97c4b94d9a303685bb91951c794b9812f1e3a86ebec82a1cad153a2fd000/watchmen_storage_oracle-16.4.9-py3-none-any.whl#sha256=249483a32494c7ff42536b23f2538186a5fa2cf893828bb95cd97a65645412fd" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/79/b1eb8d846ad31469d589d96fb955f8c65f976b01a38cba56f552a8f462e1/watchmen_storage_oracle-16.4.9.tar.gz#sha256=e9e3f28597b83c5f03a010069abb200c87f34bbc8e89b2cf6d104ad3d871607c" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_oracle-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398844-->
+<!--SERIAL 16991522-->

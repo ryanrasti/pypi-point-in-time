@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-assertions</title>
   </head>
   <body>
@@ -186,6 +186,20 @@
     <a href="https://files.pythonhosted.org/packages/30/70/1693cefb951522b26b11a3c50ba938f9ee85598d917721303ffcbbf7262d/aws_cdk.assertions-1.187.0-py3-none-any.whl#sha256=9691808a10265cdd0d50657fa3f78d4dee61a232b842f8ee121e767b678fe901" data-requires-python="~=3.7" >aws_cdk.assertions-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/6d/b539d97e4d652a335e6dee9ad12d6677d44997f0afcf8f492cc49cf486a4/aws-cdk.assertions-1.188.0.tar.gz#sha256=d5cbb14314695405cb3746623085735eb7aaf831bee015a49e72cb965fa235ae" data-requires-python="~=3.7" >aws-cdk.assertions-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/c3/e8aaa565a67f376a84bdd4bd820fc3021b12f0341a7ab6ef0fda843620d3/aws_cdk.assertions-1.188.0-py3-none-any.whl#sha256=44180a371ad99382bd3934670b773ef4ad801db9f334e9004a589952e8b08d66" data-requires-python="~=3.7" >aws_cdk.assertions-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/d6/686accdec267e26743f6d3be21e5bb67af72ea49f72fa5310b157620498e/aws-cdk.assertions-1.189.0.tar.gz#sha256=1c17fa949e29850551df3762161a553d15320d3dc4a0395f7a395b64b6a08ef8" data-requires-python="~=3.7" >aws-cdk.assertions-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/0c/a78758e7c5e3c691c3f550ed6b142d96ab08dd80e3a211afafc35b03f214/aws_cdk.assertions-1.189.0-py3-none-any.whl#sha256=ee11b2b6ce458baa074fcba808cc7796fac0a84f374326e02aaaed1ddb8d9984" data-requires-python="~=3.7" >aws_cdk.assertions-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/ff/8402c529621b0d7ba5ee3a8ab49d480f8bc8cc25a3b1433fda6291dc52f7/aws-cdk.assertions-1.190.0.tar.gz#sha256=f24947b755c699ae030c718ac327e455a606009e0d53804dac4c4f240c2cb171" data-requires-python="~=3.7" >aws-cdk.assertions-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/45/0aa3a9ff5159976bd2844986549ef9114e00acdd087dc2fa8e29a2165aad/aws_cdk.assertions-1.190.0-py3-none-any.whl#sha256=8681bc9db7578f81a5793247c07cbdf269ca924a3d649d475dfbec4a87d918d7" data-requires-python="~=3.7" >aws_cdk.assertions-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/00/1fe54747e058ddd58bbaf95fc8e64bf21a409d1251688f27d57da5748282/aws-cdk.assertions-1.191.0.tar.gz#sha256=53b84f8a51c8f6cc17953674d24eabe78801e0a73dfcb1fbee2e046ec6ac52f9" data-requires-python="~=3.7" >aws-cdk.assertions-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/46/cbbabc282f7a561fdd8e025c7beabd3d2f8e7f3f67d56c795a847e89f6bb/aws_cdk.assertions-1.191.0-py3-none-any.whl#sha256=b421ddcdd2214b9aa54178017ae1b0116bb629076457d7f4873186ef7c6833fe" data-requires-python="~=3.7" >aws_cdk.assertions-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/39/a7a7ad4ffbe72c8837e80b1f597c0e05af899070b4656d44c0f1ebe85e87/aws-cdk.assertions-1.192.0.tar.gz#sha256=d944eef2249b38281029081ef6087bdcf0467296527a755a835099c09a6b7a6b" data-requires-python="~=3.7" >aws-cdk.assertions-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/cb/8232211cdc20d35b065b3b3e1b4b1c4bb948d4dc2e8f795c8a7112ebce81/aws_cdk.assertions-1.192.0-py3-none-any.whl#sha256=9d8b28e8146ddd54b5317123831d46a972dc11dddedd7770abd95a069803a8f1" data-requires-python="~=3.7" >aws_cdk.assertions-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/1b/87d9953921ab94d5c8d6421ef957a2fa5e1f75c3282a458e73826dbcf668/aws-cdk.assertions-1.193.0.tar.gz#sha256=65eca56d13179a63546039dd187b4fac55e8caf8ea5e604dc8ca4e876809b2c3" data-requires-python="~=3.7" >aws-cdk.assertions-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/f1/62ab8009a41156ef0252fc22db029223924fda4e687a7dbb12da0e672572/aws_cdk.assertions-1.193.0-py3-none-any.whl#sha256=d79b20aa67a0268c2b090bf7cec20e960d9ec548bcc67d7b98d4c83285007bbd" data-requires-python="~=3.7" >aws_cdk.assertions-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/30/2d5f9f79fdcc5c917f09ce04602e55b67306a0440fe73341a369c235bfcb/aws-cdk.assertions-1.194.0.tar.gz#sha256=d9da3425d76e4903533dbc0a62ed3650e51f41a38d59c6809db5cb3025111dc3" data-requires-python="~=3.7" >aws-cdk.assertions-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/b3/62b590e6fa408c2ea3dd7b5fafc2c37424c734dd5a79f060d4f7fc2a834f/aws_cdk.assertions-1.194.0-py3-none-any.whl#sha256=59bec035be25887de0b6985ae0a3aeb9906e74149e0cd76f5f4102e019963012" data-requires-python="~=3.7" >aws_cdk.assertions-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/ce/118191d6bd9e4e156262c9b12f60ecf9909e58c189654c47a499867bf92a/aws-cdk.assertions-1.195.0.tar.gz#sha256=9b452433a31f2a8d2d3515d3f78c83f58eb696cba8cb1c3dfbea976c1ca804b7" data-requires-python="~=3.7" >aws-cdk.assertions-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/a0/f27bd290085d3f205976032528a5a6d48c73b094d28fc9411400a101c4c6/aws_cdk.assertions-1.195.0-py3-none-any.whl#sha256=1c1eba335084601f4e204aac53444dd6e4a230bf94faf3cfafd5fc7f6193a4f4" data-requires-python="~=3.7" >aws_cdk.assertions-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393264-->
+<!--SERIAL 17131770-->

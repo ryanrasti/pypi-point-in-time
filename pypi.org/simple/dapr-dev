@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dapr-dev</title>
   </head>
   <body>
@@ -448,6 +448,18 @@
     <a href="https://files.pythonhosted.org/packages/9d/7d/f41cc9bd9ae0a9e71f5ed3a1f5edabe40c6db751782401429a101afe4351/dapr_dev-1.9.0rc1.dev1402-py3-none-any.whl#sha256=59455955152811a1410e02ef8632be70e52d6f8679aad3a7ef230e3fd3f3af64" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1402-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/54/08/b7da828b409a7834f6bf7adbbf59906484b820e93921d6eb6d791f8e38be/dapr-dev-1.9.0rc1.dev1404.tar.gz#sha256=d4fb891b6ed57a159b82ce794db20db46be7f4680567dbde2eedc00e8cc5d89c" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1404.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/60/c9/9d718bb54ffd7adf9bbb31c8b69f6f3cb8b21611d73cce18e57c6c9ee20a/dapr_dev-1.9.0rc1.dev1404-py3-none-any.whl#sha256=e33ea0ff089bcd5a04951b8863db6fc8aa412dd3212f0c883372820410ad696d" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1404-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/dd/17f06980028a5c61d247476fe5fea198616915ce3f605cf1708aa664bb88/dapr-dev-1.9.0rc1.dev1408.tar.gz#sha256=a93f288af63a8d3ca38c4259cea34569fa8351cad3d8bd3c11f54d525a5e6be1" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1408.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/8e/b049488b1cc7a176cf39fbb5326ec02289376119eeb1d02f0ad6189202c1/dapr_dev-1.9.0rc1.dev1408-py3-none-any.whl#sha256=b0db8090c9597f4c6a59e6fa3a11743d97c099ae7fd985e9fff26a7d5645d66d" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1408-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/49/e7cbea74a8dbc33a713f876ac3e88baea834ee36b336083faa7b8b88dc11/dapr-dev-1.9.0rc1.dev1415.tar.gz#sha256=385b7998690883ba6ec119e17df47b6a1d86181d4f13cc9597aaaa06257852dd" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1415.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/87/69b50c8c404a9356c1a58326ca264492889a2a9f48c881cf5051713ef8f1/dapr_dev-1.9.0rc1.dev1415-py3-none-any.whl#sha256=0f3153c1b851160634222848ca36bdd529239b709567075852930e4eae91f362" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1415-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/92/30c52fdbce42f0e7ff23f236e843d2f239da4aa63fc5c7118bd5a3bfec1f/dapr-dev-1.9.0rc1.dev1417.tar.gz#sha256=c8d4fc632516070568d658ce20fc931784278a8af1f3e62efeb22367282b3633" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1417.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/48/80937e32578bc1be8b034baaeef84e16f464c30513e5ac388508b00df222/dapr_dev-1.9.0rc1.dev1417-py3-none-any.whl#sha256=5ec7f365db6d141148b91be1f233a59c8d21c81e2a190401e07ef5fc76ce8c7a" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1417-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/3d/9d377bfb50505e2f457ed1e77545de6e6eb05e453a59c68b67866b5fcef7/dapr-dev-1.9.0rc1.dev1428.tar.gz#sha256=0d5979baa2c859c695e779b80f91fbb3e6e0f66fe27a10f90060bfe0ffd060f0" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1428.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/9b/4ddeb46c67a1c7da0a9a9761f046d9600c8b8ab2466497e71a02a48040e0/dapr_dev-1.9.0rc1.dev1428-py3-none-any.whl#sha256=100a84b72c553f8603a6ac0e50774fcb5589bf51a8bb936bf7de63730bb8b0ef" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1428-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/9b/4be5b494ac09bb3b47cfaa216fcb463e7daae1e2c3f1f0f0436878ac2c0a/dapr-dev-1.9.0rc1.dev1430.tar.gz#sha256=c7667d5c7eada8065c3d1048f10cf2788801a74c9493c5da05b1503fcd354460" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1430.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/86/1b40e2b2b1e325a427980854d301418c8e8018e7779289fef0680c81d16e/dapr_dev-1.9.0rc1.dev1430-py3-none-any.whl#sha256=4fd6d3dfe83492befa9cc1ae99f5671ec1b9b00db166516f29f924db039a63a7" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1430-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/13/7ea126ac8af986f73bdac3a26ce001dcac189d71c9515c9cbfbd1e8c278f/dapr-dev-1.9.0rc1.dev1432.tar.gz#sha256=f3b149d58714a6c0949ac9b17ffe54032abfb38cf7d2beae53c19878ff4483fe" data-requires-python="&gt;=3.7" >dapr-dev-1.9.0rc1.dev1432.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/96/042922d78776c3fbaba837004cf58e923fbb1b7b91a474dbaeafe05b8f30/dapr_dev-1.9.0rc1.dev1432-py3-none-any.whl#sha256=78b4b30ce632f42c116199e7b242579b6aaaab457e37530bd1f4daba8405d5a0" data-requires-python="&gt;=3.7" >dapr_dev-1.9.0rc1.dev1432-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16409125-->
+<!--SERIAL 17151238-->

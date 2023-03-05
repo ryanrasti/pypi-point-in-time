@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ethoscopy</title>
   </head>
   <body>
@@ -66,6 +66,16 @@
     <a href="https://files.pythonhosted.org/packages/ee/85/0f93ac4fd8cb6f13a392c848249afc84bf55833698fc4f609ac45645c783/ethoscopy-1.2.0.tar.gz#sha256=3e3e10e5b9ea4024c0b3fc181204296be8b46eb65127af1a57ed276f338e6c96" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/2b/fef01f42659a85f41520884d9266a3f6a6a96b087bbcec44bf45c2b99cbc/ethoscopy-1.2.1-py3-none-any.whl#sha256=9702f5dd0a16c34712538368c1ad1d68866e0eb58ae41ff81b6f9c4f1fb3343e" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/2c/a0d6a3806b9ea42522b8103746093855fb21a949d7defffe04900300f527/ethoscopy-1.2.1.tar.gz#sha256=39a626ab0e25627a0938c551794f8a9c335c574f0b9cb026065869508ae44201" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/62/8b899cb5e6b817ddea0bc12e6b0918bb32c8243ec7e93d2d11ddc4f1a5b8/ethoscopy-1.2.2-py3-none-any.whl#sha256=3cd08b5d6ce0c1b2a7f470b9c54f912e66ec08aabac67cd088ed320f19f0fa13" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/6b/5dd820468f494bd8c3916e567179c95d8b44ecdf7c9cfa7f54613a6d18c2/ethoscopy-1.2.2.tar.gz#sha256=ddce00d650a4a650e5fe8e01f40ed12c0d5f503db3145fe59027e2a9eac684e5" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/07/c4c415f0bd56d0bf724db397f341925a2a24c53565258c529a1342d6bd52/ethoscopy-1.2.3-py3-none-any.whl#sha256=9ed0d601713f6ebe3fb3908b826836c02b2c24e79e6516c0c7421451d36b11d1" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/65/057e8ea361ccba2c8f92ec1c6bf4cfc6fc35eb67f1177023c3a2d248645f/ethoscopy-1.2.3.tar.gz#sha256=8fc6850069a6c32754e523ae0f75af3938644bb1282df574744c00c7cff5cddb" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/0e/83f2b04dac72677d0fcc44fc70475d18f17a99551959f067d61eebe6fd50/ethoscopy-1.2.4-py3-none-any.whl#sha256=e3a145fab486e40865add2233cba269867aba40a51efa450818a1ee7b119efa6" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/f9/53f5cfdf5b8de689a075c009faabef04373d0ea16847f5f6bcbbe8f97698/ethoscopy-1.2.4.tar.gz#sha256=411fcec4e69b8fbe0fcebf3ba50f7900cde78235152172721be36e265e74d1c0" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/34/2b8f2eb27ffe3ac7c86f39de46777351d8b6233efd42e6156de6231b00fc/ethoscopy-1.2.5-py3-none-any.whl#sha256=afc62ecf1a89094cee35530cf583ffab686771ed17d2d5b65b200795e4f96c49" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/56/3bd281f45c5764ab6a6f9f382b14c135eae581db463b58decd6b8ec344d9/ethoscopy-1.2.5.tar.gz#sha256=e530824987d5314a637fb87b32b97d928fd28561a5fd31efb3f45c12ef975599" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/26/9abc165444f5718f005d1808bddd3f2bb8a8db484b1ec39e638431b8999e/ethoscopy-1.2.6-py3-none-any.whl#sha256=41fa696895a629f8ddda802997da27103667077fcb4199680c8e10e7d1e7e5df" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/8b/8495aafcde6e03e8d4110f17c54249c6b5e78da0947c3df02e7a43ae8fa3/ethoscopy-1.2.6.tar.gz#sha256=02e2a94bb79afab1c71981922a993dafa562b373366c2423c06e36ef3bdbfd57" data-requires-python="&gt;=3.8,&lt;3.11" >ethoscopy-1.2.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16151822-->
+<!--SERIAL 17099518-->

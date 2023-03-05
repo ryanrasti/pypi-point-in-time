@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for odoo-addon-queue-job</title>
   </head>
   <body>
@@ -20,6 +20,7 @@
     <a href="https://files.pythonhosted.org/packages/eb/d1/d37fc0334883339603dd2b2b8a594065e1bd29c6accc50021c31ba96f843/odoo_addon_queue_job-15.0.2.0.1-py3-none-any.whl#sha256=65245d0a3d669f5b9e8ff8eb755e70ea21ac4066f1462b60eebda58abea4a226" data-requires-python="&gt;=3.8" >odoo_addon_queue_job-15.0.2.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/01/3f/4c556997a5e8a7ca5aebfd5d40a89072e97a959429193db7d577dec93107/odoo_addon_queue_job-15.0.2.0.1.2-py3-none-any.whl#sha256=aa5f21c035220f956e987c51b51feaebceb3467da8356c6db573b0e98a235c07" data-requires-python="&gt;=3.8" >odoo_addon_queue_job-15.0.2.0.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0a/80/23a2e23eb7a5151841532d28a671bc8ab11c4be3bce7640b8fc5b7c574e5/odoo_addon_queue_job-15.0.2.0.2-py3-none-any.whl#sha256=2c810f7c95e03c7e7671f9899511b1197407e77e2bf486806ca5bddd06d10d07" data-requires-python="&gt;=3.8" >odoo_addon_queue_job-15.0.2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/94/6f9fe4f0c18db087d96143412dcae039a83a40fb47262769fffd216721c3/odoo_addon_queue_job-15.0.2.1.0-py3-none-any.whl#sha256=08d2a471592378da14bbff18536d482b9d0ba206aac52542188195befa00b2e0" data-requires-python="&gt;=3.8" >odoo_addon_queue_job-15.0.2.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/a8/71de7282242c705c483a675f74c4026af531d8385f4826f5af6e9c499be2/odoo_addon_queue_job-16.0.1.0.0.3-py3-none-any.whl#sha256=aeac42b9c1ba9bdac37297df86e683182bda6ad603ca3ed2d103a9b335437848" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.1.0.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/22/63c4d0142f4276dd03fe9d5568e8c404de60b865ec85e37faa3186795498/odoo_addon_queue_job-16.0.1.0.0.6-py3-none-any.whl#sha256=b25470082b87c64f8d92bfa7b2e1abf0732dbeeea001deec1a346679ef1faf6e" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.1.0.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/6c/c182a9ebad2fe5656e975cba1c21196d20160a7eb3d20cb2addc7bb2a271/odoo_addon_queue_job-16.0.1.0.0.7-py3-none-any.whl#sha256=6bd0d1c487b5cfe6dd6f0c524847a5a90bdc1f57c614b5339bef745421793258" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.1.0.0.7-py3-none-any.whl</a><br />
@@ -31,6 +32,8 @@
     <a href="https://files.pythonhosted.org/packages/14/93/f474862a9b7ac7333ad2c7d932d1483577700c2f20dac99f7ff4e4c8affc/odoo_addon_queue_job-16.0.2.0.0.1-py3-none-any.whl#sha256=bbca1df93f7ff05b9e2dfd188f8cb45f1439b41ecc0ef2d4482bb9953f0890c2" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.2.0.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/98/b3/1ebd715605706490bce969482547d248a8527f7dc996075033a0fb542be6/odoo_addon_queue_job-16.0.2.1.0-py3-none-any.whl#sha256=1fa30da01c319c4fc90abeeca367979ea9988c7fa9b4400ee5ffc11c3b55bd65" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.2.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/8a/b6ed7106231d25da3755d77216f8b81f833827c10a6d0b2d1ad4e9ebc3de/odoo_addon_queue_job-16.0.2.1.0.1-py3-none-any.whl#sha256=68585c749a0285823e2a192f99c5b293fdbfddf798e41deb70c64b3620ae7ba3" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.2.1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/99/01a42f50740b3c9acedfb599b951cba3e2d2b06830e75801de026c6fcb1d/odoo_addon_queue_job-16.0.2.1.0.2-py3-none-any.whl#sha256=adc692d4a6f0bcd674793ae81c43b1f24a49f915a1c7a9f9558e41094a507b50" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.2.1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/cf/0f2ed359a1a0b69d49c1c9e9b4354887d2f63ad9e0893e39177860cc761a/odoo_addon_queue_job-16.0.2.2.0-py3-none-any.whl#sha256=c8790a3114cf55723de69c48419b1e8f87255f5f2b842e309db0efb836288774" data-requires-python="&gt;=3.10" >odoo_addon_queue_job-16.0.2.2.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16109532-->
+<!--SERIAL 17096354-->

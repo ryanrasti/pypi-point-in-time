@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-vendor</title>
   </head>
   <body>
@@ -225,6 +225,20 @@
     <a href="https://files.pythonhosted.org/packages/a5/5b/a32e20f7cad3adc88dee3f8e3c9877d1864f249eb6b4e6507adb2992dc52/django_vendor-0.3.10-py3-none-any.whl#sha256=0bd659cb95da6543144ffd6d0e9f2dfde3eb74d8c8fd5f7f57d4103fe8a330d7" data-requires-python="&gt;=3.6" >django_vendor-0.3.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/16/1c4357f6d793e54e03ed53c92fe0574890357e30e9d97612408435b2faf3/django-vendor-0.3.11.tar.gz#sha256=9693521ffac448cfd97f85bbe949144586349a8dad1cb76a079041fa2a832d66" data-requires-python="&gt;=3.6" >django-vendor-0.3.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/d3/bdad33480235fd674deca2b6137ee9662fa63b12473604137fb29401c1ee/django_vendor-0.3.11-py3-none-any.whl#sha256=5750b1561bd37693417597bc568016e8f692760d1cecc199d767ec5d27485974" data-requires-python="&gt;=3.6" >django_vendor-0.3.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/fe/026b7fc87396a05a0b3c08815782e59140a67280294001a462d1c553c951/django-vendor-0.3.12.tar.gz#sha256=149e5ddf3bb6d42012e7161e8f8151131dac14be5b63d202c81c2d6ded86974c" data-requires-python="&gt;=3.6" >django-vendor-0.3.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/2c/8daeaccca437e2e1ae49b1aebae18448698a57baede29dfc148c4943024c/django_vendor-0.3.12-py3-none-any.whl#sha256=0b05066415eed58d66007a29366c99135803f878ffcc2c9b100f67e71813d5fd" data-requires-python="&gt;=3.6" >django_vendor-0.3.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/10/25a9726157ce8b70ab6a85ef8e762f11ca446e354988b1ca14990154a881/django-vendor-0.3.13.tar.gz#sha256=a95e87130791034d92d8eaac56806b8b68b36b6379e3343f5cb8ac5f389e7df7" data-requires-python="&gt;=3.6" >django-vendor-0.3.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/e7/c79ac549987e19362a3873ebb5f135c480fb419b7cd6bc087499cb15e27c/django_vendor-0.3.13-py3-none-any.whl#sha256=08881efa48c70ecbd366012ba838840f941a3d5900b25ed33a997d0809ba3dda" data-requires-python="&gt;=3.6" >django_vendor-0.3.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/b1/6fa2427cc3ef8533ce2f8282a219dadbd6cf3ee9b53788e8a20711177341/django-vendor-0.3.14.tar.gz#sha256=7c7c5a1ffd3a35522b1198b586a8748b7e195df6ccb7e32376875507e1ff9287" data-requires-python="&gt;=3.7" >django-vendor-0.3.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/c9/0e32e5c84ca54b455f7f5a2459f84104c4f82fbf5f9b2e02fcc0d3f274ea/django_vendor-0.3.14-py2.py3-none-any.whl#sha256=3e48b1b2e6fd7d4df40f76d73b331ecde5b3294006669ae5b5b443138fbace3d" data-requires-python="&gt;=3.7" >django_vendor-0.3.14-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/4b/094155ade74faa17c9cb028d8924dcacb5c0c369e1f4a4a62c20dfa9f93c/django-vendor-0.3.15.tar.gz#sha256=847b05a689d4e777fdf690f14de32b1b18a19eed6210b6b6b6311ba4be0f2359" data-requires-python="&gt;=3.7" >django-vendor-0.3.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/25/fec19d345f3bb6b76eeaff46bcef78b42911e7aa6b2649e360e8ea0255a6/django_vendor-0.3.15-py2.py3-none-any.whl#sha256=005cad8eb87c40b7808756a60cb976720aeb3bd956696dc874265ff5fefbcaaf" data-requires-python="&gt;=3.7" >django_vendor-0.3.15-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/4b/193d50c7141b627ec95f953894fe22374e2e929ae057411b099d8dfd838c/django-vendor-0.3.16.tar.gz#sha256=bcff47062dcecea44c140029d39947a958cea147e7e08c469339f4fb1e99cd10" data-requires-python="&gt;=3.7" >django-vendor-0.3.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/41/3035a1f2e3dbd073715cfa294487659115389148726369aed082d394e413/django_vendor-0.3.16-py2.py3-none-any.whl#sha256=907721deae32d3a8c6f0c5e93761ee36ece27785c8161e921dfaba81b0ab9e03" data-requires-python="&gt;=3.7" >django_vendor-0.3.16-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/0c/e34d4084ba909127d6f59915ddc199fea8fe5099ed5d7be2d85eb8952bac/django-vendor-0.3.17.tar.gz#sha256=590cb17af8da9197f238ae7741cfacd2f19ec346d8ae526f452432728d0890a7" data-requires-python="&gt;=3.7" >django-vendor-0.3.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/5f/f3b1d68759b5724011131cb828c262cd94481264d8bf37a8a9d030b19fff/django_vendor-0.3.17-py2.py3-none-any.whl#sha256=3917af801ae05c54c06caf3e27f7a6d1d4b00e9dea08dd664fb11daccce4b4c9" data-requires-python="&gt;=3.7" >django_vendor-0.3.17-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/47/8126e9bd86961cd54bd1827f58cec8ec0bd2a9eda491ee29e6fb42f5b986/django-vendor-0.3.18.tar.gz#sha256=cb27779fd175fa9dfe8bf1ea04340b9b9a0deb8af2fb07ed379c4815562332b6" data-requires-python="&gt;=3.7" >django-vendor-0.3.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/c3/5c070b568f2f5d2be5c0684ef7bc35b3926746508f271d4f7e6ab8b5c7f3/django_vendor-0.3.18-py2.py3-none-any.whl#sha256=83aa987adc7a8bc2990c3d25e38645f3552c9d7a7a31acaa7c3987d1aca88215" data-requires-python="&gt;=3.7" >django_vendor-0.3.18-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16419877-->
+<!--SERIAL 17017424-->

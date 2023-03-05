@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rcd-dev-kit</title>
   </head>
   <body>
@@ -79,6 +79,22 @@
     <a href="https://files.pythonhosted.org/packages/8d/15/de6fe9ac2765ac6d2041e0bd87f37ecedca7c6b3b536545692bb9e4ccdbf/rcd_dev_kit-1.6.4rc1.tar.gz#sha256=09704cad6490317b5b3e163ec5caaaeaf33dd46552583155964a5383bc830f3e" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.6.4rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/23/29/304815225650b5f8653152fb7172306c445d3e86d61f1395115e07f1f809/rcd_dev_kit-1.6.4rc2-py3-none-any.whl#sha256=91b1be090c0d5ac812497038a4881be54f6c224c87a2539a371fc38efed84f18" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.6.4rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/d2/d0b3966d8490db1a24383d4fd7d6298d95d56e89936baffed9e38d96d071/rcd_dev_kit-1.6.4rc2.tar.gz#sha256=7ee011f7af69e9d12953233fcda6a875c82b1bd04f477120f9d271e0162eee91" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.6.4rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/bd/012f49930121315458fe8ebcf21d2abb25fa96c1fcf2b149003040c4ea7d/rcd_dev_kit-1.6.4-py3-none-any.whl#sha256=5adeb4a1f58d4460a12e2a05501f2891a6da0a8e03c90d04611262540a9f10f4" data-requires-python="&gt;=3.8,&lt;4.0" data-yanked="" >rcd_dev_kit-1.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/2c/d37eab2d5d3aa6afaa91496b74d4fe8e2076f7e87901fb066ed1e4e974f5/rcd_dev_kit-1.6.4.tar.gz#sha256=6eab7d8018391e699f793213a408cd3c0ce63bfc743c6fdab512a9585f93de18" data-requires-python="&gt;=3.8,&lt;4.0" data-yanked="" >rcd_dev_kit-1.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/c1/50f69873b294b23bad8871aa5e5a77997589bb9d443768aab85c76f22ebd/rcd_dev_kit-1.6.5-py3-none-any.whl#sha256=1600939c849504ace0ce10f75a30d9ada748079d5073910e6b6bb66c51f8cf16" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.6.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/4b/f9a817c71be7a02314704695bd7b3caec41999947beed3265f26481eb9c3/rcd_dev_kit-1.6.5.tar.gz#sha256=edc5293f7fe41ea1d8c89e00aedd0ab1c5ca40c51619534e4d9a482d2d6a2d98" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/27/3a5428ebc0c01624241dab9fe05b9ff66ce769dbfc4496f9dec4fe09e335/rcd_dev_kit-1.7.0-py3-none-any.whl#sha256=f03c565618363a19b2d5f21f6f254f3add855635b3ab8bd408ef00a01b76462f" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/db/eca73c30f8c1dbd1f9628d0fb0051c770379d25c16f41366487c3c007c91/rcd_dev_kit-1.7.0.tar.gz#sha256=294b1a45265be33e487dfe3a3418209ea6e7c909970169a9b74a6caaffd1ecc4" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-1.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/7e/9a6ca0b6663aa9241297c5b615da0b6a82afc496df81fd73c407b892a157/rcd_dev_kit-2.0.0-py3-none-any.whl#sha256=c044c08d23e501f4cf33151428a32f49377b068fbb7faccc9fbcab006486dcfc" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/56/a847be51c963a7cdd2139e0ee48a417a1949d492eb4ece738eba09f345d2/rcd_dev_kit-2.0.0.tar.gz#sha256=ecde6b1869b91b24f886f857be0275d54c1ab0f9f4b3decca0f5763b4d8f3d22" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/b2/36618f05708d6ceb147dfdcf38a41fe0ff74c5b1273c16d14840f216cce7/rcd_dev_kit-2.0.1rc0-py3-none-any.whl#sha256=caeb8a7abf2cfaf8dda2b936404f6975f7b2905056755adc7c4e0b7aa96ca8a9" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.1rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/c1/1af564d60a9ff66ce833b211d4cea76fdcfc75d29a9c04193a64e6f865be/rcd_dev_kit-2.0.1rc0.tar.gz#sha256=119270d452423f025e672c94abd380ead910a67bef4ae95c8b6b0036fa208fd6" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.1rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/e7/c624739d4f10e93340b3caee908fa8be34c7b6222f47358a48fa95ba2095/rcd_dev_kit-2.0.2rc0-py3-none-any.whl#sha256=53bfe77ce8163c798be8cc02d3fe56299b1e3571d577fbb39db6bb299e35bfbb" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.2rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/a1/bbbd32cb10071b7d13efc59b48dfdeab117426221562f99a1f36179ac732/rcd_dev_kit-2.0.2rc0.tar.gz#sha256=a9a1246258e396c5bd5f85584bd819b3cd1bf8544bd0ba52626c8c39bf39c523" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.2rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/c9/20c61630e2a6f1e0916ab5a8d99971abe27b0ebc4e6f4dd5d1ef0808cf8e/rcd_dev_kit-2.0.2-py3-none-any.whl#sha256=ebd7caf99ae1b66e8e0ffb91b4b73acf9d600741f40177b0c178b2ee47eaefc0" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/03/579e26e9a5928e18d998b64cbef0b3fc9c784407dd940b681dadbe56c0e9/rcd_dev_kit-2.0.2.tar.gz#sha256=83e166f0284edf4f53ea38653cf1909ff42b3b2bb7da7d0dcfba1aa321d7b377" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/0c/ac030ddec8c64780b8d92008b0c016288dd77dddbc51e480918c211bc300/rcd_dev_kit-2.0.3-py3-none-any.whl#sha256=87ea259ce0eee86a61be4751b3f4f28c0e9ac57b05b4687e75c1da96aa7f17ae" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/8a/f13006536c5b3f6bf9897c18797f84e86ee9a7a8ec78a223d6c4a7fa4568/rcd_dev_kit-2.0.3.tar.gz#sha256=02825605ea21cdb46b99dcab49237cca1ed97de97186ac7138ed86136e3749ef" data-requires-python="&gt;=3.8,&lt;4.0" >rcd_dev_kit-2.0.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16303757-->
+<!--SERIAL 17128243-->

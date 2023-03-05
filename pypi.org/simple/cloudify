@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cloudify</title>
   </head>
   <body>
@@ -49,6 +49,7 @@
     <a href="https://files.pythonhosted.org/packages/32/02/cb4d7dbcf49226e330a881ded9dac25a9597a51acd12d6b1588f5dc5a958/cloudify-6.3.2.tar.gz#sha256=44de89fb23c7c62a2b83f4cc131130a9d6ab46bd9761f56e690a50d7f91f51d2" >cloudify-6.3.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/a0/548bbfc1e2de55dc21c38eaa7fe1b180ee2155040e8f85d04932e0c0c110/cloudify-6.4.0.tar.gz#sha256=56c63dee261c192e5a39b8ab7dfd038578b4a015ffc890e126016715bbd3196b" >cloudify-6.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/26/da/bcdc8e157689f6ffc7400ab1d0cf6817f4d9287f423a279e53704835c3b7/cloudify-6.4.1.tar.gz#sha256=23ed363672b0e3af0aa03c3547d2b9a08d2e12879d6f5b8c0409ec6608e6e8f2" >cloudify-6.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/df/008583e134cdc95faad4d5ab4c583499498138a1a65c1467f2f1da29c299/cloudify-6.4.2.tar.gz#sha256=8bd9a865c9c167490d06c6e93b60d988a292cf47bb105554987115a92e0cbfcc" >cloudify-6.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/9a/2b6c2655a632e47fb56e14bfe87c088cf077601f2d55268b247460db6e2b/cloudify-18.2.28.tar.gz#sha256=cfe52d73b3cfd088dd81bb0beb3e715d62a151820f6888e11dccca4529523ee9" data-yanked="" >cloudify-18.2.28.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/31/76/c2c789e696a1d005b5be42e9bdfa8b6dd544a691b7b440f88e9096b46385/cloudify-18.7.23.tar.gz#sha256=03342b37da5078a174c8cac0990c114e033d687510e80c94ba6cefd2732b5da4" data-yanked="" >cloudify-18.7.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/d6/2949d947afd5cfdbc6b07eab45fd4f6813e6f782125cb5176fbb4a4cd4bd/cloudify-18.10.4.tar.gz#sha256=8813ed118e021fccbc743154ba622d490184986761002dbb76c3ba296e410515" data-yanked="" >cloudify-18.10.4.tar.gz</a><br />
@@ -58,4 +59,4 @@
     <a href="https://files.pythonhosted.org/packages/af/ee/db5dd045ed166ea6d76ebc148c2fe46622ca235c06fe4d22425b864876a7/cloudify-20.03.03.tar.gz#sha256=eecb8a0e50eb5affd4a9542d6f438bf485d7d22d11fe2594dee27d29141e60df" data-yanked="" >cloudify-20.03.03.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15628312-->
+<!--SERIAL 16664233-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for designate</title>
   </head>
   <body>
@@ -56,6 +56,8 @@
     <a href="https://files.pythonhosted.org/packages/7e/9a/b6f639616388c790b360f25889e130362ee90f7863b677e4f83aa4a2bac3/designate-13.0.0.tar.gz#sha256=5e42f69f62e9ceb682f97ff72912ec10ae466150c5ce90cf1de0630d85f7a124" data-requires-python="&gt;=3.6" >designate-13.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/40/94/5f7103c5488aca7caa35d16a404935b97911df48d76199e76054d9388670/designate-13.0.1-py3-none-any.whl#sha256=64626f4e17e9f010a59e9c920cf36542d35b3fc947ad1b10400fa8e5507e0357" data-requires-python="&gt;=3.6" >designate-13.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/78/b00ac2b27eaf17ef840b70d1feac5b77a3156a0a5a1be9796050d7712e72/designate-13.0.1.tar.gz#sha256=f671834aa103e5f067f65e2163fc730d83fafb02ee3ccdf27f85ada935c97fba" data-requires-python="&gt;=3.6" >designate-13.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/ee/be3cc5603ad47b9077f8cef77d03f2abcfd17f67fb40085df1a94f6e1a05/designate-13.0.2-py3-none-any.whl#sha256=96fdf122bb93d93321ceee14d7ac177dd2fc9b0801a5a5f3d99519c79b8be42a" data-requires-python="&gt;=3.6" >designate-13.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/62/d10364aacc1bade1804fd33dba92d51acc071d21449ce7d29c9ddb39bd39/designate-13.0.2.tar.gz#sha256=7bc29357b9576054e2757ca0e3025c923207df43fb3f0d80ab1028fb7c7f51e7" data-requires-python="&gt;=3.6" >designate-13.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/95/e2/ed76a2bdfa4e6e685d852fa884f66e0160f1ab9f10768a01e86e0fe2d815/designate-14.0.0.0rc1-py3-none-any.whl#sha256=cb7f66838abcdf7d77b7ba4ebdac26277519c5c5de7a3a0df938f5377d3ed683" data-requires-python="&gt;=3.6" >designate-14.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/71/3b/d657d4742dd46fce258a556a4f39a5659316d65a06c12c57651dcba3341a/designate-14.0.0.0rc1.tar.gz#sha256=444903c8419958cb50c63277a8f909604511710a3c8da6f695bf6d29fa215fcb" data-requires-python="&gt;=3.6" >designate-14.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/19/ef9ff0d09bb11d74865132269642d703002904cc7e76f6f40103ccd7bddd/designate-14.0.0-py3-none-any.whl#sha256=2fc86af1f907ac5a17069835b7ce2ae8e40e1f78f07eb37787707fa80ecad44d" data-requires-python="&gt;=3.6" >designate-14.0.0-py3-none-any.whl</a><br />
@@ -70,4 +72,4 @@
     <a href="https://files.pythonhosted.org/packages/c9/76/669eb751cc852cd1d95a6ef331a4091eef8c0571a75cfad52e4317a13baa/designate-15.0.0.tar.gz#sha256=e086baa6ddf8b9ea01b52ae99ecb9bf1916d38f6f4159870667e985740698a57" data-requires-python="&gt;=3.8" >designate-15.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15311622-->
+<!--SERIAL 16472048-->

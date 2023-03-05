@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for blazectl</title>
   </head>
   <body>
@@ -16,6 +16,18 @@
     <a href="https://files.pythonhosted.org/packages/7f/40/9842327a19b2b8caf80a3b9f8a1324780a92245c2b627cc47a53dc7124ec/blazectl-0.2.0.tar.gz#sha256=f1a49033ae130762f7b18928f5f6d49185c6413e0f075a2341b6f7f4a4c8c818" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/85/e6/6d27cae15c7f3a05124401fae119903ecded94c55e74697993286511fd81/blazectl-0.3.0-py3-none-any.whl#sha256=df22f11fc5568892881d263760635710a04767c19c8b376df3d02c00ed6d1332" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/96/b4476602d844080ea513c3dddc7c3a7e3658ebaa77c50564799a91571a5b/blazectl-0.3.0.tar.gz#sha256=8cc6fdfaad39be5742b86095a8516c5f75987c4d7c326a0cf4acf7cb8152a002" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/0e/62c68a0c390ea084b2dfdbbab4f6c55954f94b9b36ae505c2f0347908fbf/blazectl-0.4.0-py3-none-any.whl#sha256=4b0c51dce6c2ae567d1e03f9b968cd7faf7b43c17d1e169f47bf99bb0ead5b65" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/92/660edd6f0c0b004971f4686eb401f173163bae3274deff5994fb148e624b/blazectl-0.4.0.tar.gz#sha256=26e49e3eb4018f6c390eebd69b5e00a94b534646b1756366cc5edcd53848c62f" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/4e/483ec35aad036ba6407ec15e4a52abfb947f31f6d9764a229afa56c44172/blazectl-0.4.1-py3-none-any.whl#sha256=c709560229245d6145cfdfcecb2db1bc1063d3a57d79f04bc224d039084d85a2" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/41/f888191a6e437982f2dd22e74f985b30383ce3eeafec2f30049acabaea02/blazectl-0.4.1.tar.gz#sha256=aac3600b4edafb8049094f6d485d23897a2e2f634e81a819f528659e568031aa" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/4b/e71bcca4234464a47397656bbe3c77973548c0c57d9d27ba9b8eeb151d49/blazectl-0.4.2-py3-none-any.whl#sha256=5e4b81f50647a1f76e112bd790c4d2c23a679460820c92c6212385eb472b800b" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/38/98aadfb64a53bb08b2d717e2064dca872d8698245b8adbf9260ed95d6da1/blazectl-0.4.2.tar.gz#sha256=c8b6b1ad8155bc60da0e6ffec3b512dcdf8ba9e1edce646661aebb753836a3c4" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/77/51b397a69fb0bbc1d3363be69a8d244d58d76ee8a6699f0904ddfca45b82/blazectl-0.4.3-py3-none-any.whl#sha256=c4890f733ae13e426889f00ccbd877787443f4ee6a7c69f6b0d9deaeadcc2e78" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/93/f1c93e3426ef353762edc5d9975b260e1c5c11e5b11f06e7b9d7f71eb382/blazectl-0.4.3.tar.gz#sha256=72f1a1215783324dfa8f604657e4592038c10c4389479e1add2cf95f4988301c" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/82/004e6a290b64be8f6f4e9fe6ff6fad8c77b4dda18fa207f31b21a22ca55e/blazectl-0.5.0-py3-none-any.whl#sha256=c3e83c859cad65d262a61430623c218c029e0139d2d1a334695d8e2630a4d198" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/f9/85e9b63db4709bed5c85eb691decd48872e0f1bb8b73ed63224708aad335/blazectl-0.5.0.tar.gz#sha256=a7dd8eff82840e0fe3cb25ba0825bd5dbef94db0ac321bd41da1dcc456d48f27" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/04/b3d7159c1051b3e2f4c0193cb32b7ab19d4b945f750397199266a67c7544/blazectl-0.5.1-py3-none-any.whl#sha256=eb6ce769a040f2a05da82d6fe3fd551712098166b243335a0dba47791400ae78" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/08/d6d49e9f4af211920bd424db0258b13b5cddadf4e00f25667c81a76426ae/blazectl-0.5.1.tar.gz#sha256=72460d37beab268ddf19e171913f9815a1b0b8846f6b5f109df5cbe254ce7edd" data-requires-python="&gt;=3.9,&lt;4.0" >blazectl-0.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15817500-->
+<!--SERIAL 16882720-->

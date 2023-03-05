@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fastapi-stack-utils</title>
   </head>
   <body>
@@ -52,6 +52,18 @@
     <a href="https://files.pythonhosted.org/packages/b3/c7/a42c224d746ab1c21066eeebfd6068dc02fbae4ec1245f233261ff88065d/fastapi_stack_utils-0.8.0.tar.gz#sha256=08ee0683e73e3c4a3068abc79a5fdf9f715eaa435217a4e433cfc2bcf7ab2e75" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/7b/1e63cc8e56f22e34b1a698280a727d45364c5ebcb707a59f438b14662e9f/fastapi_stack_utils-0.8.1-py3-none-any.whl#sha256=00507180512c1502d270c07780f62688189a79fbf5c7886b97159f28b90bc9fa" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/27/15/ebb1adc1f788eceee0cba793ae829ef690686355c209338b6f6eeff7a4a2/fastapi_stack_utils-0.8.1.tar.gz#sha256=7d1c9958e284731a4eb4d19219da80fab9bf017d4ec87852d7c286cc87fe0562" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/e1/97d5b315256e19805e3c3b2909b18530924605e61fed6b08d29d75e0e264/fastapi_stack_utils-0.8.2-py3-none-any.whl#sha256=3c3e30e8e9a7399f63df6cb3957f97ec4b848d51efbd120083a82c4d8c4b038d" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/31/4232b13b3b3e59263d1f77cf8a038d33daa4d8fea87bae75605d0784110e/fastapi_stack_utils-0.8.2.tar.gz#sha256=ecebced886e52e1afa220711bcb9cdf03c528494d30db2ccb6111269707b8391" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/05/179d8f1bd0541c1c894453bf2da7c082e6305768a2f3485e3b0ec9dd9e99/fastapi_stack_utils-0.8.3-py3-none-any.whl#sha256=7f822bfcab357769c991fa70bea49f9876fd77fedccd810becbb7201d0fab4fb" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/50/eddb72becc9b70220dd4f4ad8bed4402d95cf0c45d080048c3c3d8605b51/fastapi_stack_utils-0.8.3.tar.gz#sha256=e3d802dcb56955fa4f92b944b20b46555a79d081d434d4478ac8b7c99b4ed935" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/4a/4e51b15e9e3b884c24e05bea828e3ef3817e1545cfb4a424ecc4d7379bf3/fastapi_stack_utils-0.8.4-py3-none-any.whl#sha256=e06081f1a99f59ae4396e3605200f3426fe1beb044cdd161611bc42d315fe875" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/71/6410a934c1fcf8458c5a3af11bc6fe8b657de3cc329d19843c1ff826e074/fastapi_stack_utils-0.8.4.tar.gz#sha256=a66543716559a8df347169dfdb2dc6eea8ded67564775c56d701586fd1b369b2" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/79/18a39bf1c81aae7c209aba4777722c68175fba239a8ca9cc1f6369e958ad/fastapi_stack_utils-0.8.5-py3-none-any.whl#sha256=a292c2fc7e47b962ee5fc86d072e0f2c180255354c0e25e639ef825cf4e747ed" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/37/864c033f2a12fe4b7f741b513eb35f188afdcc953a9668504d04462a5d30/fastapi_stack_utils-0.8.5.tar.gz#sha256=45f6cd5fb860c29f3da6f31c1754f04526575efc253b78019e1c69807a3c3009" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/16/5cfbb3a5ee9ee300395d71e242550d5d78b5d1910a78d91e2f6d0dfa043c/fastapi_stack_utils-0.8.6-py3-none-any.whl#sha256=2e91856ad5e36438be27dcc9dbd52155445ed863acf088019b80632d75ae945b" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/59/8a42111100f727e97af69bc77dbfce4073a674c9acf814984eaf000d7a88/fastapi_stack_utils-0.8.6.tar.gz#sha256=f3ac3044afdf5ab694b8547a28502ef16f09e9a6fab713960cd005dbedba95bb" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/cb/9743a8401b32c70ab0f68276508758b5c188fccb6e1d4953e8b320189d99/fastapi_stack_utils-0.8.7-py3-none-any.whl#sha256=bdaabedd55214a4a284e9c045550faab66dfc728c1e512343e9c62c47ae3220f" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/ac/cc9cc1cab18eb9c5bf979a71f3ff18a2ca252d8dfb088acc69cb73c26164/fastapi_stack_utils-0.8.7.tar.gz#sha256=f92a126cbb7c304ab023945aa769bd49c6b9fb87db7c44e9cfe96975124ea62e" data-requires-python="&gt;=3.10,&lt;3.12" >fastapi_stack_utils-0.8.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16356903-->
+<!--SERIAL 16994987-->

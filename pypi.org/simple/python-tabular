@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for python-tabular</title>
   </head>
   <body>
@@ -90,6 +90,24 @@
     <a href="https://files.pythonhosted.org/packages/08/6f/e9e43c25bbc6618f1fc15a89d21bedc60f05281c74ff99327e0da9f1260b/python_tabular-0.2.9.tar.gz#sha256=18857d684a4532f5e9de40003ccca5c33966184f325413ef15cee10949a97f60" data-requires-python="&gt;=3.6" >python_tabular-0.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/2f/31dd6fb10ee4de79da32626c4bbf167c11c252412cfdc20f5433e15a50ff/python_tabular-0.3.0-py3-none-any.whl#sha256=372caa8348633683fa7e516e2ecc80f29200ed5ffee4bf2c961a65d2cac7e82d" data-requires-python="&gt;=3.6" >python_tabular-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/d7/e1ab4b26d0aa26e6a2225e682d2573d7b9b18e776b553b9ae37e923201b2/python_tabular-0.3.0.tar.gz#sha256=6538c9d99afec08a78737a614621dc1e60df7dc0abe930e22640b0cbcae7c314" data-requires-python="&gt;=3.6" >python_tabular-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/2d/41de4f48a517eeae670ad97cef80a6a27ada980e0a712de8149e6366d6d8/python_tabular-0.3.1-py3-none-any.whl#sha256=ba50cdba328b57d12fd1d9ded6e86e515446c829d336ca0822f4cf3ec095c829" data-requires-python="&gt;=3.6" >python_tabular-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/55/6304e77659d0074a339142551f52053a1590af28354c4ab2bacd14ba3a05/python_tabular-0.3.1.tar.gz#sha256=fae3b6bb82d9aa90a6713a82190e64e05161313d628e8a806c1948bbf5126567" data-requires-python="&gt;=3.6" >python_tabular-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/77/7f34929a59c88276a7a7f47a766cf78e4e12a508427c4203f63dacf910db/python_tabular-0.3.2-py3-none-any.whl#sha256=881e3e2f8826ef96cb0f92beff910491f6ad05e521cbed1772b4154e7b0edb83" data-requires-python="&gt;=3.6" >python_tabular-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/3b/0308603f6e0d9b5495f578dd6969364dfd3db53baed76f81bbcdd6a8e2fa/python_tabular-0.3.2.tar.gz#sha256=22b3d56f779dbc97753f97c9c77810fb2cd82d062c81b1d679985fafc8664efe" data-requires-python="&gt;=3.6" >python_tabular-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/b2/ae081c486e7c5066ffb188b36a18dbf656ef6042900750f95f037fa78cd4/python_tabular-0.3.3-py3-none-any.whl#sha256=f01943b686299692b4df71d553c8db1785b58b02fe184b90b3206d3d8ee0ff66" data-requires-python="&gt;=3.6" >python_tabular-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/37/a72f57ea96e24002dac0bb76a0271d8af72c4a784cbcb8c0885982495daf/python_tabular-0.3.3.tar.gz#sha256=a51617f66cb5cd6a9562bbadfe3b382bdb8309847cba9718ea4360d842c3d9ae" data-requires-python="&gt;=3.6" >python_tabular-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/b4/f9842a1c6e6b9096e7569545bcc423f817c207c714e8a62b627ebc695d5f/python_tabular-0.3.4-py3-none-any.whl#sha256=35291ab979b693819b5d82aea06b119fd987db6c8f5d11b51e4a57b96e481521" data-requires-python="&gt;=3.6" >python_tabular-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/82/8bf8f89465790114968365e6a5e0fcb5fb9e1388adaeb02af63dde862afd/python_tabular-0.3.4.tar.gz#sha256=c5024049df4f41dcaaf309a2e10629f13c4b155b6e70f07e12eca090097161cb" data-requires-python="&gt;=3.6" >python_tabular-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/d6/cc5127f7fb2ec46fbe63e9566a29a1849dc9d43e9155c1508b75fee0f9f3/python_tabular-0.3.5-py3-none-any.whl#sha256=feb821eb2c159892669d329a641f327402d6c3a078f97b8dcfeadae0914a8c32" data-requires-python="&gt;=3.6" >python_tabular-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/4e/542f6bfed277afd6ac3873db00a0418065678ca3e066e3b3d92c6d02147e/python_tabular-0.3.5.tar.gz#sha256=2dab09c741bb7c8aff520791559402128ddda4593d07e6a9257e214f08111396" data-requires-python="&gt;=3.6" >python_tabular-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/fc/33d7a4fdd1f05412bace6fe1518b43391e40500ae570e4e4cf4e6bdd71af/python_tabular-0.3.6-py3-none-any.whl#sha256=fcc12ab3e8ae33ddb8e50979c181a1af031e4ddc2fb05a11cef0bebbe673743a" data-requires-python="&gt;=3.6" >python_tabular-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/cf/805acb14253962e1c010cde1966e6e4a0c056594908d6c0763238435f639/python_tabular-0.3.6.tar.gz#sha256=f8963b41fedef45aacbeca2545dea6dcac1ac3491b72d11c835ca345124ca9ac" data-requires-python="&gt;=3.6" >python_tabular-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/44/4f2d1e524c0c329ca48f1cb8e7e0289198ff25b305e373e207d30c2faa5a/python_tabular-0.3.7-py3-none-any.whl#sha256=5e8f646013f119930224194848f940992149a3aa8505222b1f873b563626a247" data-requires-python="&gt;=3.6" >python_tabular-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/4b/db00183e9b41ecfee7b7ec84aeb0157a0fe258d03b5ae36cccedee05d42b/python_tabular-0.3.7.tar.gz#sha256=66102b693b192b0938286be9c67c36982226f06ace67536b12f8564804ccb20b" data-requires-python="&gt;=3.6" >python_tabular-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/b1/1f29903a7b939b4b570ebe88f8e5298c1691ce4f527f38dfe774bf4a75a3/python_tabular-0.3.8-py3-none-any.whl#sha256=e3db47badc32d16388c6d8ddfc0aac5bb42ceda518214704dc2ae0125d6de8e1" data-requires-python="&gt;=3.6" >python_tabular-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/d3/d6b048334edb8ff01f06198e9f63e2f3340b1fec4641e1bec03c72d44c0e/python_tabular-0.3.8.tar.gz#sha256=388b01eeaa0f990e21f7e34f45a8b10092e7f8249328e67dc51934c6e2b38a39" data-requires-python="&gt;=3.6" >python_tabular-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/76/d9eabde3bb83178b8aa2fd837b39131b1c6c377af2935fb38441e54d34c4/python_tabular-0.3.9-py3-none-any.whl#sha256=4dd057360869ebca766c86e147e0d878ce94111dba8aaf311571c1299be6a821" data-requires-python="&gt;=3.6" >python_tabular-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/c6/35346ed7e90fa5b0c8351f880622d59fc0b3b0e49b7a875c79d2aea8b2ed/python_tabular-0.3.9.tar.gz#sha256=9d3184f33648dcb46a768cd294843de227af1e7aa76fb8e0cc3ef1a57c73d121" data-requires-python="&gt;=3.6" >python_tabular-0.3.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16430219-->
+<!--SERIAL 16907238-->

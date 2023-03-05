@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apply-pr</title>
   </head>
   <body>
@@ -74,6 +74,18 @@
     <a href="https://files.pythonhosted.org/packages/c3/62/e72a6b53e3c3216c703d2c3e5c155651e9f0979d95629f078d3d195956bb/apply_pr-2.14.3.tar.gz#sha256=fcfea88836bfa7e36cc9ddc9655ba6b79f706ba69e01eda4e4bcc7e2192a6528" >apply_pr-2.14.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/d6/aeb27984dc62e9bdaa023c07d69a3d1839daf254d400ab18536e45771d17/apply_pr-2.14.4-py2-none-any.whl#sha256=ae84cc9e18004455db3ef34903889695ffc966bf423570582aacd5dc6978f383" >apply_pr-2.14.4-py2-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/4a/d8b60f79f270258b8ae91debbc3f9412929a9d5cc3998af2c37049775f5a/apply_pr-2.14.4.tar.gz#sha256=b528e739b6d55ca728f6480804e7f22bf6af5a7d5b76e4e45b7f1c06eaf40467" >apply_pr-2.14.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/d4/9c524c13df24d6e1cec3f802573c5a28cb23e743d6d48f37fb7b193d156a/apply_pr-2.15.0-py2-none-any.whl#sha256=eb1ecb9b83cf972888d0f5b550bc6a4e799043d6947d08dead08eb15cb0509b2" >apply_pr-2.15.0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/a5/37c9510d171bc8af83694566d5234305aa8dbf417cde36406643e0a4fa69/apply_pr-2.15.0.tar.gz#sha256=fbdd967761f0399b011d907f7a28e6a627e62611f509a5bfcca380ecc85ce855" >apply_pr-2.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/2e/c809aba09a30cded0bd0cae78807e59d12c1ce9c016df271d098225d4563/apply_pr-2.15.1-py2-none-any.whl#sha256=cdced86fdcb5bb53e168be6d90a576aff3029f3e9bc9c93c6f9f69a1182dafc4" >apply_pr-2.15.1-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/ba/4bdf300be47f2fe6f1839865d2025c0538f1bf760b07814550d3ab95e387/apply_pr-2.15.1.tar.gz#sha256=2e35d0b36b0198480b6477c46c096ea6da3362e2b6efbd7586d1a38fe90df488" >apply_pr-2.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/df/9fe04ec316f4e9104048a587dc6997ce5361ae1dfbdc1ade05a33d05412a/apply_pr-2.15.2-py2-none-any.whl#sha256=dc2b723bc90019dddcbef77daa07d5814990d70aea25c3c66746f49187e1a247" >apply_pr-2.15.2-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/c4/fd603917406f7afc5448b9683a47b83b1bbb5c160c45d0ae49c8a26dc663/apply_pr-2.15.2.tar.gz#sha256=49001929c9d36c19c9462bde95e41dfa4ab7a0926ec8bf33ffeac5b1383f4ad7" >apply_pr-2.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/69/f8003d2e80e5335c58522d62b3caa4a02aec26e9e45472addc06034c1e29/apply_pr-2.16.0-py2-none-any.whl#sha256=7dce568ce5a9b7adeb46d23615f8393f04f8ee634d148e8739dfe73b472ddbc9" >apply_pr-2.16.0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/6d/9c087651ecde9f7a44d34cbc17dd99599adfaa3a71dfbf854d5a30243049/apply_pr-2.16.0.tar.gz#sha256=9c5b7a8bb643c372ce406d5fdeaa1c35c224a1573512e59e00b08b155934db18" >apply_pr-2.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/b2/9f9c99f3efc62030bbf996f5487aa61d3c8ac0fa0bb39dc3c0583310b35d/apply_pr-2.17.0-py2-none-any.whl#sha256=95e95382d73ad5dc6c05e6a937d9ab74f74a5f48f4db9bda7d91003f69af7584" >apply_pr-2.17.0-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/61/e580f80adbe2ee199fc28d60c64babb91356acb9bb338f92c9d7fe7c4d4b/apply_pr-2.17.0.tar.gz#sha256=48809370de374f02a58e76df512a80f0d2c9f398b89e125c174cfe9559616027" >apply_pr-2.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/ca/4a5c0b2db8a8c2d4403fe79610274efdce1020c4e0f58d1dbbdff9374f7e/apply_pr-2.17.1-py2-none-any.whl#sha256=7fd3473bee05f4b140a82923aa8d7104aeb81bb9df09c405b9cee81648899792" >apply_pr-2.17.1-py2-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/82/beede708b65fa5e6c01197013f666f0e6dae5c3a46c9b013c66e1c07068a/apply_pr-2.17.1.tar.gz#sha256=fbfb009037caf49452264f0d96af9c5c13ae17bdb3eb35f36615594a093be139" >apply_pr-2.17.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16187431-->
+<!--SERIAL 16787080-->

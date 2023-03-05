@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for darwin-py</title>
   </head>
   <body>
@@ -89,6 +89,21 @@
     <a href="https://files.pythonhosted.org/packages/c7/70/9fbc63648404a2cc01a2124ee64fc00e0153a6c73d048ec1ec89d599378c/darwin-py-0.8.5.tar.gz#sha256=ee996a4a4f0daf26a7d410b74d44cfff17935ebad294ffe32b2266ac0ac564e5" data-requires-python="&gt;=3.6" >darwin-py-0.8.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/31/d2/36ca7dc05ea08d3f7ee3c50e48a9eada6a48906df70818c6178c26d28118/darwin-py-0.8.6.tar.gz#sha256=7860819e182be5732d62e21b4761039ce58442a8415a04c30a6315d8eded33a1" data-requires-python="&gt;=3.6" >darwin-py-0.8.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/89/7e/300f1b46dd2c044778befcfe50f77caed358e7edb097c271b1a1ceab1ad9/darwin-py-0.8.7.tar.gz#sha256=1cbcd526b994f7587f608d2da9baffef0e72dbaa1da8dcd4e2b8ce4d7f37c5c5" data-requires-python="&gt;=3.6" >darwin-py-0.8.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/0c/cb78ae27673af1ad73b2b220f0e4d600c361b3761db431316ff8d6ddb155/darwin-py-0.8.8.tar.gz#sha256=29aeb2a855c3c4a7582ebe25618023d40cbf55d2dac467bbed119e9dd4dbaa05" data-requires-python="&gt;=3.6" >darwin-py-0.8.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/a2/cb715588d6b2055c70f742c18d5a1e5fee798e5de14c479e5519f1265c48/darwin_py-0.8.9-py3-none-any.whl#sha256=443ff29ac8ee1b8b951cdedc819c24c78d3740e50926c0eae701acd80bfdde8c" data-requires-python="&gt;=3.8.0,&lt;3.11" >darwin_py-0.8.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/f6/a0986edeb7fdef1e834f8d1de3051e64d7a11b558e66dd6f541d41841c09/darwin_py-0.8.9.tar.gz#sha256=cf967a8f683e7e4419a2e0a4f4b6a5f21a619b4e52d1889d8f58384893410a70" data-requires-python="&gt;=3.8.0,&lt;3.11" >darwin_py-0.8.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/34/bf64beb4c2539749d8bd88ea12a1771e5276a04d12e2487b19c808394460/darwin_py-0.8.11-py3-none-any.whl#sha256=d57df7cdef60952cf44b696c77f83d8cbdb870477138ba4f3af9153c64e0f96b" data-requires-python="&gt;=3.8.0,&lt;3.11" >darwin_py-0.8.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/3b/1da2e83fd1ea071f4e70b3571f5729087fcbbf0c6809db439132e65ad89c/darwin_py-0.8.11.tar.gz#sha256=405e7f97821d236aa9a910305b127110d9567149b9c13b0d71955e2fca7e3b3c" data-requires-python="&gt;=3.8.0,&lt;3.11" >darwin_py-0.8.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/d0/d0ad003924d7c6287a50af7b39cc4d91d2d4ad6aa7b42ed76cd360f9261a/darwin_py-0.8.12-py3-none-any.whl#sha256=b568d0afb7d753716acc2afa67d764da8bf195e5ccfb1fdd03c0eb0b78301ccf" data-requires-python="&gt;=3.8.0,&lt;3.11" >darwin_py-0.8.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/6d/f63bddd0cfab1fc706f3052ade3236d41057f442548287ed500bf7fb7da1/darwin_py-0.8.12.tar.gz#sha256=f9228469ded5e96915a76f04fe1978e99cdb05f15096030a38e0035bdf3b689f" data-requires-python="&gt;=3.8.0,&lt;3.11" >darwin_py-0.8.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/28/40bbdf922340831e8f81ebda4a70bfd0fbb7bb654778816b93638c11f628/darwin_py-0.8.14-py3-none-any.whl#sha256=89b14ab19f4fd2101d52cb13700d28dc465f1f1bbfd1f7526de06958729c0f8f" data-requires-python="&gt;=3.7.0,&lt;3.12" >darwin_py-0.8.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/ba/aaf27d9b4f7857bfe54bb2dfd5e893e50cce1d2ea9b5b6c4c127d8ec0bb1/darwin_py-0.8.14.tar.gz#sha256=d86016ff9211da8255bf67955c8e35ab216fdb13b389a5820db6c70021899eb2" data-requires-python="&gt;=3.7.0,&lt;3.12" >darwin_py-0.8.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/8a/8f2b52b5b3eb6623e16eb6b7ab641c70637e991a8b441192d4b89fc2a3fc/darwin_py-0.8.15-py3-none-any.whl#sha256=7044d8385f53640a756cdfe8c29a952e9162be9e89b1d13182584a076233eb58" data-requires-python="&gt;=3.7.0,&lt;3.12" >darwin_py-0.8.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/fe/df1bc177bab9aa69f450f59160aedbed9eac580ceb6794b6daabd2e02c0f/darwin_py-0.8.15.tar.gz#sha256=3e56c320eae9482b42c256aa805a79aed72378e335a102addc91425252bbc3b1" data-requires-python="&gt;=3.7.0,&lt;3.12" >darwin_py-0.8.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/bf/a6f51ff1d7736157e0e8a80e2e303fb67a567d3e75c59780a7b4b1a2bcc2/darwin_py-0.8.16-py3-none-any.whl#sha256=caf91e87e1af3a51407cf3fd7b422d750c04ea37ccbd4c75ab78d52b8e318178" data-requires-python="&gt;=3.7.0,&lt;3.12" >darwin_py-0.8.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/d0/24153febd62dcac12b558b8d5973c26d475f32b2513831f17fdaf08830d1/darwin_py-0.8.16.tar.gz#sha256=f87aa513c20da6c20fa0814d38526ffc29e7c6787c2297bb70236e2cc2356189" data-requires-python="&gt;=3.7.0,&lt;3.12" >darwin_py-0.8.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/6b/d3827ffe95915a201658a0389d9f1284638928f01e31d5798392777e1719/darwin_py-0.9.0-py3-none-any.whl#sha256=92d51e29bcd61ebb119d68aa12294e915688ec9b24a4fa872e5ee11286bbcc8b" data-requires-python="&gt;=3.8.0,&lt;3.11" data-yanked="broken toml" >darwin_py-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/56/e34f4f67858e6b507fb799ab789e82144a84a51233dfaaea764b8c51ad5d/darwin_py-0.9.0.tar.gz#sha256=d3ed61e6a57c8ac03bd0e09a03bef43d8fd9e9484ec50fbba1109c20e6f7a43a" data-requires-python="&gt;=3.8.0,&lt;3.11" data-yanked="broken toml" >darwin_py-0.9.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16419796-->
+<!--SERIAL 17116397-->

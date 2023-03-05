@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sagemaker</title>
   </head>
   <body>
@@ -477,6 +477,17 @@
     <a href="https://files.pythonhosted.org/packages/64/ed/c0122ed40b5be05eaa435c8d54f3e5e6f62666c8ca5c9827172767555452/sagemaker-2.126.0.tar.gz#sha256=c2e539dc59abb4063c134f10f96e0e841a0143c924b372e326247b93195b7c08" data-requires-python="&gt;= 3.6" >sagemaker-2.126.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f0/11/70a857b3a9ba6855423cf8003604a9d59ad3557be2341bab7988dc4dabef/sagemaker-2.127.0.tar.gz#sha256=417d229513be4dafc5dc3375f94c9bf0fa4e28f03c84780ea4afcb8861b5c08d" data-requires-python="&gt;= 3.6" >sagemaker-2.127.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/82/a3/cdb1c8eecc1f837b3bcb955a0b58daaee8251af4f6859c105c3df4986c47/sagemaker-2.128.0.tar.gz#sha256=679373eee8b7c38b6902a76366e8b0b2657912ff0317500863e4bca1e3ead0ba" data-requires-python="&gt;= 3.6" >sagemaker-2.128.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/d7/3d6aa5f476ee96eb05c4ced835418332bfa13ac86a68dfc6c3d1968f995b/sagemaker-2.129.0.tar.gz#sha256=ede424a2091c96211f3186c66f5679ba66f0da8a4692a0095e34ad4d2f0f3ae4" data-requires-python="&gt;= 3.6" >sagemaker-2.129.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/11/2e0f8a60971725543015183fa8b2d99566849605f65469ddc07b51f23769/sagemaker-2.130.0.tar.gz#sha256=ac6f80a413bd2621a5ec8ba8146cdc3b279dc1fbc513d5300caccaf177b28700" data-requires-python="&gt;= 3.6" >sagemaker-2.130.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/d1/ba3701eea5175e598ff9cba5f13b5dc51d6292f59d9688fabfc6b686388c/sagemaker-2.131.0.tar.gz#sha256=b03d71adacba3371f7bbe4e813e6ccfe9dfa35f714cbc453cc2b0c9e0856ab3f" data-requires-python="&gt;= 3.6" >sagemaker-2.131.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/22/99be94c3ef1860243166eff970b9fc463e67690ee4b494d0b694a5402aaa/sagemaker-2.131.1.tar.gz#sha256=5b0e707e3dfc2649d9a443f1b7953a93c6f4f7b272161e90f87fab1c86f8ae72" data-requires-python="&gt;= 3.6" >sagemaker-2.131.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/ed/ff5e3870e52c1e5ec0c9c310fa8c10675f2d13ab5c44fb58f9efaa1140de/sagemaker-2.132.0.tar.gz#sha256=2453ee5ae156f3fc852a81752ca548fcc3549a28028dff0e14aec6142c63274c" data-requires-python="&gt;= 3.6" >sagemaker-2.132.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/b9/9af980a62c229db57bc9b926de7a4e1c80e98b2962423568bbf46c33ffa8/sagemaker-2.133.0.tar.gz#sha256=5997e556af7339e8c177cc3cc554cf7f0dacc7f3d135f916cc5a9724104bd2e0" data-requires-python="&gt;= 3.6" >sagemaker-2.133.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/93/992c249250c65357fa4b4a7f6e6679e5388932c525f8a826727a3b82a58f/sagemaker-2.134.0.tar.gz#sha256=c8c8add2019750af681db87d73486cedee46a3e0b9fe7d4ecc81595b56257556" data-requires-python="&gt;= 3.6" >sagemaker-2.134.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/99/35e5d463f8c3a16f9714c852d3f79c7f19a4e6f2f64d9313cb6ceed7df10/sagemaker-2.134.1.tar.gz#sha256=30e0c7ecf89806c0e102dc9e85e6a448ad3cd4dc582982ebfd355000056ed1c5" data-requires-python="&gt;= 3.6" >sagemaker-2.134.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/d6/5fcf65308660807b3459f7a13a86d0957c2df16f7118633a9328f543fa2b/sagemaker-2.135.0.tar.gz#sha256=ca975ca8460bc476df9ead7272ade154b4e184822cde9ab6f45bf7dcbcb685b1" data-requires-python="&gt;= 3.6" >sagemaker-2.135.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/46/dfa0e2dbb7ded33d954d2beb43773274fca59e8291aeb606f7e8d0b75b26/sagemaker-2.135.1.tar.gz#sha256=6688eef08ca8be1cc5f944d21ba81cd06dc78fbcfebbbb4ea780050e2644e02b" data-requires-python="&gt;= 3.6" >sagemaker-2.135.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/3b/33ba851fe45d9c531004fb5d7462a852b00380204904e4877950079a8ada/sagemaker-2.135.1.post0.tar.gz#sha256=097a9d6d7f2f1a08ba8a6894b2c1b0601ad44da05188904ff3ccef05f9c9c381" data-requires-python="&gt;= 3.6" >sagemaker-2.135.1.post0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16370082-->
+<!--SERIAL 17122631-->

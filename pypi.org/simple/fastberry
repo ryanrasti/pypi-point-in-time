@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fastberry</title>
   </head>
   <body>
@@ -154,6 +154,16 @@
     <a href="https://files.pythonhosted.org/packages/40/cc/29f30b67acac463f4dcf618b54f243d5b269ebe690bd922d5ad410355cda/fastberry-0.0.73.tar.gz#sha256=4f49a7ac81515eeabe2ef29b8ef5d16eb66b075628c6bce6bfc79164ad823ace" data-requires-python="&gt;=3.10" >fastberry-0.0.73.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/6c/604566b5aec84e49bccfc95c6e7486726227114aeed62ba9e903255a91f0/fastberry-0.0.74-py3-none-any.whl#sha256=f11d8a61076f61f5077d96162a3251f4e7a7f6b4aadb5486a33339523937b543" data-requires-python="&gt;=3.10" >fastberry-0.0.74-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/60/de/a230af61071d093d0d89d7d5870a99a917f2cef9c42d4b4e46dc28d60358/fastberry-0.0.74.tar.gz#sha256=f5bda0d91714f518c3f43dbffc5c53c1f426f37e2205d2f311b761ec320d4e60" data-requires-python="&gt;=3.10" >fastberry-0.0.74.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/70/a4c85f6c46cf37dcd9ba93f6cd89b7b0e69eecf2207ab4ba09808b02ab79/fastberry-0.0.75-py3-none-any.whl#sha256=11ddbb15448a768336ad99a510011e4f80336365da000d42f6cbc9ad0e3e9a15" data-requires-python="&gt;=3.10" >fastberry-0.0.75-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/df/8c305ead7c26c1a936609bacc8b1dc50da6224d7d57bf9de9fb1edd44f41/fastberry-0.0.75.tar.gz#sha256=eec3f4485a9eb21fd3f74b2c4c09551d111059ff72c19e3aac9a0dcdc42243a3" data-requires-python="&gt;=3.10" >fastberry-0.0.75.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/b1/038182683386e1af94875c7c1246cc27632f1a2046d46253536cd525b54e/fastberry-0.0.76-py3-none-any.whl#sha256=140600eed491c59d7a0ff7b9bf6387f108435832f7a2683887d9244c0ca761b0" data-requires-python="&gt;=3.10" >fastberry-0.0.76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/94/fa9c07b7023e33d4ae05c912bc767be3e846a456d31ac1fd8432a14a6610/fastberry-0.0.76.tar.gz#sha256=7192dacd85a44ec90303b79cd5b2dd91dd56c1b54a5eb7c2f8fbf4e79d1bfc0e" data-requires-python="&gt;=3.10" >fastberry-0.0.76.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/aa/48280910a385e5bde0d59ac5a1f93f837ed273f02673e3d78e7179a459d0/fastberry-0.0.77-py3-none-any.whl#sha256=20053234f393111253c449f24141b5eb8869b228c6927e056128ecad18eeabfb" data-requires-python="&gt;=3.10" >fastberry-0.0.77-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/42/5362fd66fd00dc59355b9cb616142cb4f7a32112183a6c1d59c752b977b5/fastberry-0.0.77.tar.gz#sha256=425715c2c68c4ca9c26f4e919c1a4a2d150ecc4e08a759df2df5b1b84b6d9ee9" data-requires-python="&gt;=3.10" >fastberry-0.0.77.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/b4/d189172c04356e3e21b737cbe9d76792bed18318c856268cee81cce606ab/fastberry-0.0.78-py3-none-any.whl#sha256=fe5d60221bd88c02aae916bae9d4c1dca4898c3bc9b5c3d3ce939be04c044351" data-requires-python="&gt;=3.10" >fastberry-0.0.78-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/70/2c4a6ec092724c6019e8eaadf8a384f7a23b2303ce1dacc5a536955e3d70/fastberry-0.0.78.tar.gz#sha256=d2bd936590257f7d1420fa7f816fb4061c7f47b94fe2f4ee9cbc8d13d42373ab" data-requires-python="&gt;=3.10" >fastberry-0.0.78.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/9f/a70b061affaca8116ec0cbb18e9dcee80529df246b3302349f9975863033/fastberry-0.0.79-py3-none-any.whl#sha256=d6c82672aaecc28b01ff8fcdf8b384778ae8a7505ae59f9cf1a6122c3e4590b5" data-requires-python="&gt;=3.10" >fastberry-0.0.79-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/46/7617a21b300a529bd5cf0758e124ea4c79b5d1817ac804b02ac308211755/fastberry-0.0.79.tar.gz#sha256=856c27e5b25a1bf8fd9346817fd54de7e8027e74025bd43be8c57a8a557a9099" data-requires-python="&gt;=3.10" >fastberry-0.0.79.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16395978-->
+<!--SERIAL 17149760-->

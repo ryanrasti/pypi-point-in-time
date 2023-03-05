@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tiledb</title>
   </head>
   <body>
@@ -1393,6 +1393,24 @@
     <a href="https://files.pythonhosted.org/packages/73/35/de55dfde9e70040fb41c36b48548d59d4bf37ba8c8193d42c80a598ff62b/tiledb-0.19.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=425d2fa91eb0c9dc33398bac7c25087e3875fdb6d1154625efcfe28dbfe1befe" >tiledb-0.19.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/cb/d33fa00118e754f931a4c0668e68f77f95e7cc4f24b9c550ad04f0b0fac6/tiledb-0.19.1-cp39-cp39-win_amd64.whl#sha256=61cc45e8b0749b8a9c0db2d70a09bb7ee7d0eb6a55a4b0ef063c6ffff0b50793" >tiledb-0.19.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/38/df/b2b5ed587a25c70687790a023376e7c167e64986bb4fc2e49fee26785382/tiledb-0.19.1.tar.gz#sha256=e37a27495f64f5d2b3a6b96d39df3aec8d16931002ef5f7381e96ac99464fab2" >tiledb-0.19.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/23/775efd663adeac0ca25827a87af4cb499454aec87664b143efd0133ed864/tiledb-0.20.0-cp310-cp310-macosx_10_15_x86_64.whl#sha256=14dd2c49a44900c22dacc06123a5a127296bee5b143171de2d761aba2153fe17" >tiledb-0.20.0-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/c1/78622e3992e5ef7f1fec101192375195a7020277455dcdaaf7172d9b117a/tiledb-0.20.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=6c57507c4a631bde7904315ddfbe46e75404d2dc7142ef96469b7e1a801016e8" >tiledb-0.20.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/44/11ed6b3a066eb015450584a3e22dddce834688bb58b65b0d765a7e20d77e/tiledb-0.20.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=690f3f40f1d7bc1e7730137a758e7abe2d9c8b04b2628b126937d216aa9a7924" >tiledb-0.20.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/5a/c7f374d684e0f910acd11e73db0f7fcad8aea5542a3933e528256da49cdd/tiledb-0.20.0-cp310-cp310-win_amd64.whl#sha256=51807b53d4d69c2b9cb5840cd57906679585d0ae811f508dfa613fc287f01068" >tiledb-0.20.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/8a/e4a329be9d65a2f33049b4d2b432c6aa974c0116cc8ed11d6615925bc564/tiledb-0.20.0-cp311-cp311-macosx_10_15_x86_64.whl#sha256=3d76d34bdfa73316c2309c1c455ec0717c0d8a19668e119f86ca5b342d0af31e" >tiledb-0.20.0-cp311-cp311-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/09/8304be632d45787bbb8a862974cfc28114cadaaff1b669b3ce31d74147bd/tiledb-0.20.0-cp311-cp311-macosx_11_0_arm64.whl#sha256=ca766eb16cef991bd82e8c965ae14d1704af25972f0b192c545f53f1dba0e713" >tiledb-0.20.0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/c7/08333724ba5587e91a4212f96166c1e0bc2f792c67215344245b2476bb30/tiledb-0.20.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=61be632da242691072a161fd320006ead200cd705d3f7631790b327f3a8fb932" >tiledb-0.20.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/87/c666ef38dc25a3fac072a87a4e6474016c8fc01840954d3f23fef8791f8b/tiledb-0.20.0-cp311-cp311-win_amd64.whl#sha256=d1eee3ebc8719486435c6bb39d0a47256ce27553233ad468c89999d315db24a7" >tiledb-0.20.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/b4/6a911e09fd37377fb09033e2e0883d97cd5d331432d9dfa0d7f1141babf1/tiledb-0.20.0-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=a54fd4b7871abc9fec4a4e3d588b4409d348e187de615c88dabcc0bcfeace6d5" >tiledb-0.20.0-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/fe/adcb075db14aeac109a7ec17c33693fa9a4f9c001f38f7269e86362b54bd/tiledb-0.20.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6ff81cfdcc8a5d15147f17ca156d09978cd034e4c2a9e34f04e919483d5ddc56" >tiledb-0.20.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/a8/422159f8e961ffbd76df81ebf5df6c507914098cce68df9bc86dfbd4e62d/tiledb-0.20.0-cp37-cp37m-win_amd64.whl#sha256=5d81be3a105dbc845441c7385966ff6e0828ba30321cea5b0453cb4c10e2a8a1" >tiledb-0.20.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/fd/7350207f10b2b398b737a18ccc363a76084f0398a3d5c0d84e7e3f33cd20/tiledb-0.20.0-cp38-cp38-macosx_10_15_x86_64.whl#sha256=8989e8e24bb54b377236d0ffe08804d143b0198daf18c6d12e4dcc70c647fb53" >tiledb-0.20.0-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/43/0c0c187bbee7732614996c285b44000b09d3912157de8e991cd0d0beee24/tiledb-0.20.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=30d9b362e62074bf11f8f4633947b7f85419dfba90b9fabbd8d5379d8e14fcd0" >tiledb-0.20.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/de/7a74d3a9603a429db79243f8da41cb8879eb545bade9e6f065f5d67dcc72/tiledb-0.20.0-cp38-cp38-win_amd64.whl#sha256=14f0820ac4aa2fe3aee4ef5636379219a2d313c5cabeb78abd2d57e10bcb7e85" >tiledb-0.20.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/fd/93feaf1dc06e2f0e9ef74fa08d0402bdfb66699e8ff9faa09d6a4b4ea3f2/tiledb-0.20.0-cp39-cp39-macosx_10_15_x86_64.whl#sha256=5d5648e71fd0ab1549de4c6dc1685073a57c224c563079aad0aa9da1581de6c0" >tiledb-0.20.0-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/1e/af1e5d67eeccf02f0b62767e219038f5b7574a2d293b811100d87fc7c86c/tiledb-0.20.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=88a99ee360de2294107af82e99f430aea79968fd2fbd5dcd61fcd85736643e23" >tiledb-0.20.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/36/fe99e13c68c24a44232c0dec0922736c182e23b2f7652a2b2c29555c99fc/tiledb-0.20.0-cp39-cp39-win_amd64.whl#sha256=57cf99d2ac64ae17bf06d7593fef6ffdc58a46bd664d3df9833997d226ba7882" >tiledb-0.20.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/5f/d153231c23a6cd94439133d79eaec3cce544c952a428904722ac6591f76a/tiledb-0.20.0.tar.gz#sha256=71741b3d19835834c9c5e64863533fb6e80e3a61e79957d998faa66d675f8a11" >tiledb-0.20.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16306227-->
+<!--SERIAL 16637531-->

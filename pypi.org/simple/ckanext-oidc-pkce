@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ckanext-oidc-pkce</title>
   </head>
   <body>
@@ -14,6 +14,16 @@
     <a href="https://files.pythonhosted.org/packages/37/bc/7cdd663e7bc2d2546f87169d1bcc91826164670e512c2160b6f0a5037fad/ckanext_oidc_pkce-0.0.3-py3-none-any.whl#sha256=0e63e3405b544bc2a3d65283dd5170fdba931a429540a4edeaa5b1126d064d66" >ckanext_oidc_pkce-0.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2a/59/8636293e1dc6b247d8c98104e2d2df97946d175beb6554c0253e914dcc05/ckanext-oidc-pkce-0.1.0.tar.gz#sha256=fd77bca888284562dd5e4b2ed3a4fb133abce715ba8b4ddf2743707e1f312f9c" >ckanext-oidc-pkce-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/80/0e/0df9239fb7b8dbe3473c395ae64f2021de9f8163f48754c82549cb2d50b9/ckanext_oidc_pkce-0.1.0-py3-none-any.whl#sha256=c45c8a526052ca2de93971ed69375c76a7caf8cf41b6831a4b23aed648a9e22a" >ckanext_oidc_pkce-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/4a/6c2970ab9a58698f5cd2ada93cacfbb4ed8f66605e1ca9b5c199429de98c/ckanext-oidc-pkce-0.1.1.tar.gz#sha256=ff2ebb46d4c54361a76454a4955cab49b5a62c358c72e07ddf1a6a836dcdfc79" >ckanext-oidc-pkce-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/88/8af6c38fc0c7d04e3578d6ede8595ba8bd71cec5caabf97d991509c602e8/ckanext_oidc_pkce-0.1.1-py3-none-any.whl#sha256=9da99816ef40b078956c4ab13b662463bff81a9d0c43ee2dcdd0530cfc9c6715" >ckanext_oidc_pkce-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/1b/8eb6eeefa8e1b091f31a072e78b2424b6f16a5e8b78af1858c59047bf75a/ckanext-oidc-pkce-0.1.2.tar.gz#sha256=52d71016368ca288ae6b911d7ba70fcb0627308213f12e89242da8ba22a26d7d" >ckanext-oidc-pkce-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/e2/eea522467ed8b53ce3968fca18173a9424e68158601b1bd66ee49935807c/ckanext_oidc_pkce-0.1.2-py3-none-any.whl#sha256=4ec0b8d29026795715bf26e47ee3b2b7b3352877f88f7a557c3975414da143ff" >ckanext_oidc_pkce-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/93/4596c27bed7a0309f12be049f4587bb2b9941478d483dc3d4724fe148c59/ckanext-oidc-pkce-0.2.0.tar.gz#sha256=8594965647e496e1e4d54a0dd17d7ddffca29230ac6d67a491abcb738b0fa847" >ckanext-oidc-pkce-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/b8/20638dcc5efaad4ad3ca6d26dbe46a712550668e92c02b180da66f76393f/ckanext_oidc_pkce-0.2.0-py3-none-any.whl#sha256=6af37dd1ec7bb1b0308fc04cecd0f962ca97eec69153f604cacd7df17a170dfa" >ckanext_oidc_pkce-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/40/d84fe955ca5e629b53feb4cf10434161baeb9978cdd72cf4eb52ee7c16b4/ckanext-oidc-pkce-0.2.1.tar.gz#sha256=fc819977110d88f116dc04026a07519b1eb12e8d152fef3437d25e56fb801e25" >ckanext-oidc-pkce-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/d4/4413ec17fa429e38acc27d0594eea41d373b36d9389c424b27e98667d4a3/ckanext_oidc_pkce-0.2.1-py3-none-any.whl#sha256=1d892ccfa122118c9514d775df1d81c2b29f082d95ffec4910472345c5456850" >ckanext_oidc_pkce-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/88/ea4d1350df48b56421d07f75290d2a1fce751b5e0e881d430470e8586783/ckanext-oidc-pkce-0.2.2.tar.gz#sha256=7720588ea11d31c3c7006d654b1a57ec512eeb299a6c2037d83565d98fae06e1" >ckanext-oidc-pkce-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/a9/66815f9f6ebfa882841125af2d98a7f0693ea57731b88c1e7cfb820f6571/ckanext_oidc_pkce-0.2.2-py3-none-any.whl#sha256=48af172c2f55e3cba6f4ba8bf0cc853019b65234d660a0ca0eb3d132af8d449b" >ckanext_oidc_pkce-0.2.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15734973-->
+<!--SERIAL 17136127-->

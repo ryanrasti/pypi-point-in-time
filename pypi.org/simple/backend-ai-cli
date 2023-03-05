@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for backend-ai-cli</title>
   </head>
   <body>
@@ -89,6 +89,23 @@
     <a href="https://files.pythonhosted.org/packages/01/22/01ef105e402bd8781450839fed72af2c1145ec512f64f7ad5aca390e6fa8/backend.ai_cli-22.9.7-py3-none-any.whl#sha256=c51cc2d2f6aeef9bc5bd44f195dff1b5e42d498601aec4da9bc758c014e414f7" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d5/0e/ab3c8aaf13eaacbf51d767b71cf662e940ea3c5a17ec2496a86d46e1423e/backend.ai-cli-22.9.8.tar.gz#sha256=d14bbacc08482adaeb9504c3497826d5c8d407f7c2d87439503161d366ed6a02" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/44/08e4fd3e382ec75f7b431371b5f4bec147961ec51dea004330c5f75bf6ab/backend.ai_cli-22.9.8-py3-none-any.whl#sha256=853d2197046707f06f0826df6dbbfe0f8583373108d2ed2fb551901f704d91fa" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/bd/c3352970e8d60cc706971da4434d1c3b9a3ac68bf85db9c8a2bef8855072/backend.ai-cli-22.9.9.tar.gz#sha256=0b8dd700fffa741881d05cb44ba8ce7271903c0c7a4cd5501231ce4b8a688abc" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/a8/76c0cff744d71e59386577f6533bbd0778f15c2c3ab2385d6052ed07e899/backend.ai_cli-22.9.9-py3-none-any.whl#sha256=9a027dd5f349cb5ea4612c5364ec46f5bbeb03a4f75e3ee5085d53eca0555487" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/f0/fd775aec06f6e0df324f86a2a745be929a618c7041a39e0eb38c566d89bc/backend.ai-cli-22.9.10.tar.gz#sha256=8edf81be58c2a1d1e1f8ca4ad1505e1ad21a8109e40aca4bbc64764ff3c63db9" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/66/bc509e2f73d566767be30f6b36dde740e3fdceebf8219e2533b2a3423a57/backend.ai_cli-22.9.10-py3-none-any.whl#sha256=015eb3396989b6101f25c4e7db68ad273fb9e101d5aac05cd526c8ecdc9c63dd" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/2a/2b8f4ea1dd5a4a146e91ea7efe52d1f38dcd89e205af3d4d3bab2b37518a/backend.ai-cli-22.9.11.tar.gz#sha256=8f57612f199ff657ed84d0f28f747cd15071fee41588da65bf8265132fd76578" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/87/d51420deb14e89d4413fe6a6c26bf70287fa1b8e104623cd39c2a981e18e/backend.ai_cli-22.9.11-py3-none-any.whl#sha256=8d8a82b4a4497b89f121172792e73e7995722187f5a49a7c1f5a8c1d8d975b00" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/ea/1b2ad0961583b83b3ebf2511fab8b202f4b24e5c94ce35518848c1e8c21f/backend.ai-cli-22.9.12.tar.gz#sha256=ca2bdd5e1b92cd8c9759e06b615a454a1090e8bfb5296e5d8b4c6a3f60fb5cf4" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/37/0a974ac43f3f43b327e86481408be50fd7569cc3e1eeb6e83b89d6f0f768/backend.ai_cli-22.9.12-py3-none-any.whl#sha256=881f6e01fb6c648e5b06f746743719ab827469b440e5dedd8c6bf22668eb156d" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/00/48db92e266582db09ea8d618ede705becaf526357bf0041fff50625de41c/backend.ai-cli-22.9.13.tar.gz#sha256=cc87f5037012a816d9bfd2f7a66a3e313316a21fcfefb12d500fe8a6e90c789c" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/71/83235204c1b938ebdb76a1be10ef703e1aa45698b5f84d2fc15bc76d1ff5/backend.ai_cli-22.9.13-py3-none-any.whl#sha256=a80aedf379f86827b10c7330e8da5a968aa3503c4d8c7e8858009e8a60c2f845" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/6a/d05d2dbac2b8bfb279756fcc7c26e5b64103ec779cbb5133b293cb369320/backend.ai-cli-22.9.14.tar.gz#sha256=e27c33ad8c0423f999b99cca3b239b2dc93408ba1392dd6f75f7f86e17501d13" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/ba/96b737ae801f7b520a963a424597d00bfd328dc926a14c0006e4b2b9bc8e/backend.ai_cli-22.9.14-py3-none-any.whl#sha256=5e6f47e586392af28fe153ba0f5196f182e8a73c74789ff718b1ba1228ce0988" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/c0/0c45075786fdd84f56eb2a67877844b286fb298b2a6ae86881bbd48afc8a/backend.ai-cli-22.9.15.tar.gz#sha256=2fcb6c2a119cb15243144823c3a664f99bc79ff5f11f87ab770dbc13ae594d9b" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai-cli-22.9.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/c6/cbb3e3d31f52c369f8279e2092f9df5f2d60318c868c3bd1f2064595a38e/backend.ai_cli-22.9.15-py3-none-any.whl#sha256=dd95d89c1ece28177bd8c88f8f8b93647f9f91f0202d08acc044a8a690a9ef09" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-22.9.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/20/5d0299b28f438a7f7f245f6b181902dfd515edd2f9116a3b8e9f9730edb4/backend.ai_cli-23.3.0.dev0-py3-none-any.whl#sha256=217022a0065ff45475825aebe4aa28eeac059e5585405076e26a418e0b9e414d" data-requires-python="&gt;=3.10,&lt;3.11" >backend.ai_cli-23.3.0.dev0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/00/f89c988ab0d61a5fba2a5015a6c5ba32018c7f9a410acab44bf03918cfd7/backend.ai-cli-23.3.0a1.tar.gz#sha256=414adba0df44df8a217341c933a619f598a90e21bf78f99ec12197233bf92ad5" data-requires-python="&gt;=3.11,&lt;3.12" >backend.ai-cli-23.3.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/03/5a1ead1ff0115307b7d22ec00a9a1f8919bc32ebe934cb1ef272e59e26dc/backend.ai_cli-23.3.0a1-py3-none-any.whl#sha256=6cc29d136bcd30e84735b0b6538885928c396620749bb201734f0c70d2341969" data-requires-python="&gt;=3.11,&lt;3.12" >backend.ai_cli-23.3.0a1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16370716-->
+<!--SERIAL 17138085-->

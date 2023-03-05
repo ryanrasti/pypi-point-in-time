@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-postgres</title>
   </head>
   <body>
@@ -810,8 +810,32 @@
     <a href="https://files.pythonhosted.org/packages/98/26/d8e869f51826d4f3a0063535cbf9ab1dcac76ef200e61ac1ea4bd4274b04/dagster_postgres-0.17.9-py3-none-any.whl#sha256=b4abf757a7dd7c9d8caebd02fa2c37d8be66bed03ef7f034178b4de7f489d911" >dagster_postgres-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/21/7ad38dcbb85a8aa72b9b1daf8c4fe15a1bb994bdd8eb2e891ec787287b94/dagster-postgres-0.17.10.tar.gz#sha256=4565baadc43c23a2de956a27b119f56b994884fbc2c9e27c856e873b0485c197" >dagster-postgres-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/95/11/29cdf95d7ee0807f659b28cb75e2780dba44be598440640714e5aac9d267/dagster_postgres-0.17.10-py3-none-any.whl#sha256=c1f1221dc42feadfb7f41b36e1770b0ae35f88eb0eaba8737dd8bde927a74f9c" >dagster_postgres-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/2d/a564c6eacf2b90211295d73c032e96ade1a127b915d8ea73fac9a8792a4f/dagster-postgres-0.17.11.tar.gz#sha256=bc94f30dc5a17e70e51bcc62abbac3abc60962ce771c5edd6133cd56f955f7b5" >dagster-postgres-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/f6/e08781b9108892e428f1ecce7ddf310e07256da21e8ba476c81f1f61cfaa/dagster_postgres-0.17.11-py3-none-any.whl#sha256=269e3e9aec3a79f65b0b43f4f4f3851d819ccfbcae85b9b593053a35847c0889" >dagster_postgres-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/af/24ee0abcb31f0330d0af976a5495fc0f257e01b562533bcebf512f624db5/dagster-postgres-0.17.12.tar.gz#sha256=60aaf0f3be16ced2d55dd6f9b91c4aa6db422ea9e0d44aa6a6b17a0be928e291" >dagster-postgres-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/87/78e2b91fe9806221d42eb2b300c0bf4d66d4ef206c7edc7a74271bf44dea/dagster_postgres-0.17.12-py3-none-any.whl#sha256=7b4f3e1982667ed982454a2418c8ad765897e1fa03a5abd7d38bce642a469623" >dagster_postgres-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/43/eeda68edb2a5b6abdd06c6b8ef5c72551b10b6b9494536ec31e9d2b8a40b/dagster-postgres-0.17.13.tar.gz#sha256=0509e56fa35d4d652e9bc4efc4f7fa762a4ab2d720fec7490069f413dbbf1b91" >dagster-postgres-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/29/84db63a1aaec594e523ad55d54223648f2a81efcd004adb048cdd0c6d490/dagster_postgres-0.17.13-py3-none-any.whl#sha256=f6db35e53391a2909eb96d3452b7cf5bf9c1c765642f82d780195bd50c217846" >dagster_postgres-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/d0/0feed13ef8301178bf72b7f002f06be9dd7cb6ed853ffa88c9be06d6e186/dagster-postgres-0.17.14.tar.gz#sha256=9624a3cbbccf3afa0db55e2b4ed240da7d831b828a464bf138dea1de66c1d1ed" >dagster-postgres-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/aa/5bae653d1b3c5858f39907903d7286001cbf8e275eda840ec0a16e809981/dagster_postgres-0.17.14-py3-none-any.whl#sha256=bef009dc269d14b3860e674556fc1e25e8c33190a435c233878891ef298bccea" >dagster_postgres-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/aa/750cce42f7d8132fc7428b6acbb217dbc0dd858040c7e9cfd8298fb7fcde/dagster-postgres-0.17.15.tar.gz#sha256=67aaca22d17bf5e6a6bcd7994fdcd9369c91fffa3eaf64d454fc1fa62b88fa06" >dagster-postgres-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/30/16fea953af8bc421695d4155c5e872f9a78c8213c2ff3e652d9f2ab6cd62/dagster_postgres-0.17.15-py3-none-any.whl#sha256=fbe3b0f970557b114ff5f78a2dc65b87ff0b22b85bed7d1b191cad1b6d6b6107" >dagster_postgres-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/ef/36fc33297fffcc76507c57044d9bbaa81b58bce60ecac0d71df87ada1c07/dagster-postgres-0.17.16.tar.gz#sha256=a193d4ae749d9bd968bcad65d56e7c0ee1d46ca69897aa588d95f231b2454bcb" data-yanked="" >dagster-postgres-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/ad/9f0cd1608c137c1e14766b27175f84417471881be8cebdc7a7cfbedb0c96/dagster_postgres-0.17.16-py3-none-any.whl#sha256=ad385fd742985b403f54bd999c7e41ecda192f762f7894710529d01d56441e74" data-yanked="" >dagster_postgres-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/e6/d4e94c73e817a1668be4b0cb4ee89b6c52d2382bd5f1211ae10d40bc023a/dagster-postgres-0.17.17rc0.tar.gz#sha256=efd3e408e912c5f77d56ace60ad46ae2eff18fca630f4acc5a2439f1cc4c1a91" >dagster-postgres-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/b0/75cabc54549adca10d318b7ba7c54ffc347867871bf45b13263a7a2ace45/dagster_postgres-0.17.17rc0-py3-none-any.whl#sha256=0e4f2f611b5178cc112a1c52f902dc96ed4884c84b69ecbaa566c18c66c18c9a" >dagster_postgres-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/22/199ec39fa9dcb42ab570e4306b59a928c973be325b8d8fae8b0e77965b27/dagster-postgres-0.17.17.tar.gz#sha256=f852115933740dbeb40728a1b027614380468a97b0aba18455b2778eb61acfa4" >dagster-postgres-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/95/de20cfb0c51caf5e236ec9b64ab97db54dd4193cd40bb5a0b074a5654dd3/dagster_postgres-0.17.17-py3-none-any.whl#sha256=874cf79a250ac3ca70c062d2c4537d01859fd175dc4f50966b14909a04bf755c" >dagster_postgres-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/ec/18ec65a822a4355921e1d5c0880e7ceae7cb6caa078f777aee80203a75ac/dagster-postgres-0.17.18.tar.gz#sha256=75235b0a5aa4ccf214345aacb9fa6ee02b898e98e97b416f7326ffbdf4917750" >dagster-postgres-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/82/5b36d35bf390a70c43fccc9a69ca8995c03220453a86361bf88267c40698/dagster_postgres-0.17.18-py3-none-any.whl#sha256=39da9483adfa9f9861dd168603cec27c0ba7e4c1ce70add22b5c6537012085e4" >dagster_postgres-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/b6/601b6e9afca7e69819f03c657ffc9ba3c36c08f59af2eb1c371c498efc87/dagster-postgres-0.17.19.tar.gz#sha256=e239f1339c399ac5795e586ba718bd6be064f30470494e556d7b586a568bacce" >dagster-postgres-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/ec/6b9677c8f423ffe904b5241b445c81bf6c8351b8bf864df049b393b1c0d6/dagster_postgres-0.17.19-py3-none-any.whl#sha256=25742002922dd5830ffca743950fedebdb09596e41af63f275b6bfcdd892b6c9" >dagster_postgres-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/c4/eacb4feaca1af25aad193c29d2b7705152b692e6eb303abda2e27dc62d15/dagster-postgres-0.17.20.tar.gz#sha256=9e43dca3fe739568a98bfde498e5d5feec849d3ae6c29cd2474fb2c0f6e2bb3e" >dagster-postgres-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/c8/459fd401865b9e1b057248c8b77d7a852628c8bc6e01c4ddfc87130fa5f4/dagster_postgres-0.17.20-py3-none-any.whl#sha256=187eaa5d2a0b4cf0423ca767515bbbe75ca4f867ba06b27ce2a708c5e74a6bf5" >dagster_postgres-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/af/35b13be956afad370a8d14de886809aad2c86efa103ab9647ea3481deee0/dagster-postgres-0.17.21.tar.gz#sha256=95e152a05faf684d2bf3438f802a5da451d88c0f178309275b31a2385bb5d721" >dagster-postgres-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/9f/be6782b39e18697c8a53f23e5dc276809f7856e93bd23784c42de89311c4/dagster_postgres-0.17.21-py3-none-any.whl#sha256=d95af322daa14860e31e59424aa25b9a42d599498b32274592210173fd2e400d" >dagster_postgres-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/01/a3/911f3e27a8a96145c7f8ebd9200075b21e1dc505fda3f15d4bd9568e8fd1/dagster-postgres-1.0.5.tar.gz#sha256=578b636b17a75287dd925e5c4438f11eb22fabe1ba9bc730fab307ce43872744" data-yanked="" >dagster-postgres-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/85/d5/dbed233984933295896ec2d1a48ae4713a2708125922e6eca74999a5bf62/dagster_postgres-1.0.5-py3-none-any.whl#sha256=9a21de079960577f03ad51ecdf6b75fe5a922abefbab02efd1b1a9949adae0b6" data-yanked="" >dagster_postgres-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408526-->
+<!--SERIAL 17135881-->

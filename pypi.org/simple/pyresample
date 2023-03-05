@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyresample</title>
   </head>
   <body>
@@ -425,6 +425,19 @@
     <a href="https://files.pythonhosted.org/packages/2a/c0/359cccbf0871fc084c7a9cad4fe3770d017d0a79db7b047ba3ac1d1e8d7b/pyresample-1.26.0.post0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl#sha256=25c3220f35dd5a689f63284dfdda04cce7d99c71a8721d50ea2dcc23c666992f" data-requires-python="&gt;=3.8" >pyresample-1.26.0.post0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/16/c7/e51d28600bf7ebadbb87b17d013ed66c53576d295ca388105ae5dfa43716/pyresample-1.26.0.post0-cp39-cp39-win_amd64.whl#sha256=69f8bb33853fecc99e5a4de3c59ffb7eea27ec339d7e4fc5d9ffad6de19a0340" data-requires-python="&gt;=3.8" >pyresample-1.26.0.post0-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/24/9f9f3d32cc13e6fac4420e14805c77547ed36a000c5b1c2fd1b1312e1d6f/pyresample-1.26.0.post0.tar.gz#sha256=5b03bc74d213ac4fed93871ae5a4d2a336cd0452b9770d77336adbea41b68142" data-requires-python="&gt;=3.8" >pyresample-1.26.0.post0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/84/599452c5dbcb9a2560628817927ac1738ae493d62d58ca61180ceafdbe8f/pyresample-1.26.1-cp310-cp310-macosx_11_0_x86_64.whl#sha256=9cdd199ba8712831fd947306142b4585bd2c2655b460e29d8df38e800a49dc57" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/53/1f4f8b1dfae59a7ef3218cbb48f2878550f9900d91a00501e5c9c67326fd/pyresample-1.26.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1466dffbbc38346c8dc9f5dc821921e903b7c2f2f05f44fca7e1c79526d5180a" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/f4/8c38f55cd10fc1ea2b30e21746e2b2a55d0ef974bbee6d4e25180e73dbbc/pyresample-1.26.1-cp310-cp310-win_amd64.whl#sha256=dc3de925d095e398e3d9d575d3a223541e7ba84fb59b3e1509a787ba40a89c39" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/75/f266753583aa083d6d35055e490ca66db345b195a4e9b411edbf7e672444/pyresample-1.26.1-cp311-cp311-macosx_10_9_universal2.whl#sha256=b69698c91550f8f9201481b0be2439a7ec835b76ddbd43899f1871b1c0339fb5" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/84/75158a51fb4e2199e379ec2792cd1344795eaef6748224c3c68572ee4501/pyresample-1.26.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1f2e20cd2fae9a5ef9d67fc8fd7f13fa250bdaa0dba3360657444aef934bd71a" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/54/6369d6bdd7026f89ef993d5eca4c1a0f4eff72472b46bacdaef8886d8551/pyresample-1.26.1-cp311-cp311-win_amd64.whl#sha256=ba7d4688334382f5aaaef09ea172e94d6c346b153fad686ca2df9f8815466f38" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/55/b023a6b0c437aa199983d3f6704eac4873526272a85f98aff51158005388/pyresample-1.26.1-cp38-cp38-macosx_10_15_x86_64.whl#sha256=960dc68a51420adade506b7ea555b8cc79318d79e38cbe18a80578331b0e1507" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/67/1428a898a181f639165c2d833e877183e02786972aa79846c8059c29dab2/pyresample-1.26.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=45ffc2558cd4fa7bf101d996e915073456095ea4d31367ddbc7e1621231e61c4" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/34/588dfd5ea457d91b9bcac195fe7fa87119003e6301e863f46090183a4969/pyresample-1.26.1-cp38-cp38-win_amd64.whl#sha256=4a3e032566e8ba11fc54aa3a756a810b3825fc2544cb46fe5ea8d334440ca6f8" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/09/0c04dbdab1a32bb5775b2f179f08f349820685615241ffe376b1ccff7822/pyresample-1.26.1-cp39-cp39-macosx_11_0_x86_64.whl#sha256=dd87b4fd1b8f141e7ac0bf605a3f7248444fbbb964a00966e4b7cecb3ffb43eb" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/8c/1a679e267c3a8962eb95547be0d73b24f5429c88f5c1c91723c97f4f3f58/pyresample-1.26.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=91f1239aa008c353029798c5527af720c72b6c82e8c8cff909b3700966a55ec9" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/a7/acd867cc1d62c88088d7c772f5a95187937e28e0af9043dcf00ffac976fe/pyresample-1.26.1-cp39-cp39-win_amd64.whl#sha256=c8172093a28bc6c2065c7cbcefc37943dbc7137b671d807eb19da20c068d6238" data-requires-python="&gt;=3.8" >pyresample-1.26.1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/2b/f070dbd2f00404de80e5e085a5c8eb6d441db0cf7a54d8b34b621dd70294/pyresample-1.26.1.tar.gz#sha256=aa079f2e15b968685f365400e76b2dfe0f3e3b085f40090658497642b13fadbf" data-requires-python="&gt;=3.8" >pyresample-1.26.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15883450-->
+<!--SERIAL 16724511-->

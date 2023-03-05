@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pypykatz</title>
   </head>
   <body>
@@ -102,6 +102,10 @@
     <a href="https://files.pythonhosted.org/packages/07/6d/13d32f2409210f5c02b5d9a103a3d1d993620443251ab397fe80d03f1d66/pypykatz-0.6.2.tar.gz#sha256=76393c6fbfc7db76839b219a33ad20a007297d942ba5fb4e20844a9c98c5cf9d" data-requires-python="&gt;=3.6" >pypykatz-0.6.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/3f/ed50a0f26f1f80bd36ba270ba1b9d514a6cb342657544739340b9c6b68ef/pypykatz-0.6.3-py3-none-any.whl#sha256=35f9551069b55af97ab027c16058f0061197c23442f49592a7e9d11593f588ba" data-requires-python="&gt;=3.6" >pypykatz-0.6.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/a2/347b66340dfe0749d081d624da48c03fff23fc4b71d4df51fcee1a96c257/pypykatz-0.6.3.tar.gz#sha256=45be100b19ed5c9600f2caa48008d2e9ef1624af658e120a80cddd7e999b1d27" data-requires-python="&gt;=3.6" >pypykatz-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/3a/14072c366122cb639034bb6aed6285273819e08675fee25b828033e26650/pypykatz-0.6.5-py3-none-any.whl#sha256=635e9d572421a33db22625b8a0973f4ccf8964592d9da73a71099ae05f64c597" data-requires-python="&gt;=3.6" data-yanked="accidentally published the dev version with errors" >pypykatz-0.6.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/1c/3e00e4bf1434dfe59d1880f1276bb0cc75e535da268be626bd61835e13aa/pypykatz-0.6.5.tar.gz#sha256=d5c1d0d39c8aa1f642de9cfc2486428d99996aca926ff492c09960f138489f59" data-requires-python="&gt;=3.6" data-yanked="accidentally published the dev version with errors" >pypykatz-0.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/8c/f509c7a8f2c8388866c51ad51a7d8991ae6e345e1321b8e4d4d8f9bda903/pypykatz-0.6.6-py3-none-any.whl#sha256=c2167c06c6e0992b721e5c9e572fc4a847099bca2b179c65d820280cb0d344f9" data-requires-python="&gt;=3.6" >pypykatz-0.6.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/ce/6ec72f8e61ae0940b5529320301012e5de58a2389010bd6f4097e451b86d/pypykatz-0.6.6.tar.gz#sha256=7cf7842937d12f5e36448312431a41c88032d3db179660e32004e291cf3622ec" data-requires-python="&gt;=3.6" >pypykatz-0.6.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15899866-->
+<!--SERIAL 17159328-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flytekitplugins-polars</title>
   </head>
   <body>
@@ -50,6 +50,10 @@
     <a href="https://files.pythonhosted.org/packages/5c/c4/77d79896b4accc7bfa05da68bd626ca42323bd4fd034ed6b9766fb0adf2c/flytekitplugins_polars-1.2.6-py3-none-any.whl#sha256=8201331f44d67b398deec058940d011eaa8643ce0944835df81c544af25c84eb" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/79/3c/4588d76a60796c9eb6a4317504e5900ef375f7bbc118a532659a8c53c6aa/flytekitplugins-polars-1.2.7.tar.gz#sha256=533f5e88404041c2858c4b5bd6ca7bbe3c072fd64147f74477d56fc67560f91d" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/fb/83d0d76f11110ad44536b4959fc7a476f1edbd124b7636512571c04b3b84/flytekitplugins_polars-1.2.7-py3-none-any.whl#sha256=a67d8c46bdc4bb4d65c9a78df4b48057a60317549a4cdca1672523b94aa04126" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/3f/099ddf6569ac6167066e35f22fed1e13154ee37205129fed2e13dbe7f088/flytekitplugins-polars-1.2.8.tar.gz#sha256=8f76904ab20dfb480d55e9e3578e9d1ce93b58b0c19c184ff1213d318729c62e" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/da/e9690715e56c4a1d9e2e68eeca947c38f2796d37a60b42bb09f1f9310d4c/flytekitplugins_polars-1.2.8-py3-none-any.whl#sha256=8c61f026c26810a1163c8f814f300886c5a5b5167eadcea0b25f9385fba9af9a" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/50/8d282fa79d39313c8e9932a0601348ecc5854489934fb1cdc2b9dd27cf22/flytekitplugins-polars-1.2.9.tar.gz#sha256=467ae1a0e26af8a43182e5e9b62f93bcd6c1eb32be99b6ee9cbf01df7ff6f89f" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/ff/4e0af42d9d58ed55fb28a889548e77214ec53d4caf46840aca78db354368/flytekitplugins_polars-1.2.9-py3-none-any.whl#sha256=885e38a0e608251290e2536a2169bcbcde6697e2d52e5e96d6014bcfb7ecfebf" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.2.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/7c/f966c98e921e8b8d001573d97293e3055643ce5be34a59bd97a9af1f630e/flytekitplugins-polars-1.3.0b0.tar.gz#sha256=f512559409477faa7cb0ce94d9a80c80584a58343bcf10f6db2632d5143d8822" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.3.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/f2/24866ce57fbc609dca9c093314f450b1bf5662ae366a7a9a68fa5dfd632f/flytekitplugins_polars-1.3.0b0-py3-none-any.whl#sha256=d950efa9cc72229ddcad68a08e5722503bd59b5a376dbd862861b5301d55ca71" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.3.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/dc/1d452452719c834ccc30a4a453901ff6bc9431de496805c0258dfda4f0ec/flytekitplugins-polars-1.3.0b1.tar.gz#sha256=77bc28d9112678a688d46a5fa9ff396c5ed2a7afbde8bdea4096fc95c22ff93b" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.3.0b1.tar.gz</a><br />
@@ -66,6 +70,14 @@
     <a href="https://files.pythonhosted.org/packages/8c/41/b486b4634d26a1b4c728cf86d0ed291ed971168cb99f8b5d96ee3fc9424e/flytekitplugins_polars-1.3.0b6-py3-none-any.whl#sha256=8527e684940e635b38cb9359b60b0b1a1df635f4c814d1d4e2bafb78fd0e9e2a" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.3.0b6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/be/01e0c9856a9c571a6ec8740e2c23f6ef95aed16b5bb30656d10326e2379a/flytekitplugins-polars-1.3.0.tar.gz#sha256=deb045462f6dce3d9d07c60b7b229ade4c3a030746590270e5278e088a2e1d0b" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/34/74/b0440aa142ee673fa2ecb6238c35f5d5dfb83821d636d0392878b827bdc2/flytekitplugins_polars-1.3.0-py3-none-any.whl#sha256=7bf1fe19efe34f23a06693132d28461c49f048e8526d0ec1cccb4b908973f87f" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/8f/bcbb957dbdd6aa2c3b4c9e0e580b7f5ecc18973cff3f3a249388665c2c69/flytekitplugins-polars-1.3.1.tar.gz#sha256=11f484d519c6c4d722025ec3ba893957eaae8552f93a12a6e04a8e2e5b340e50" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/61/09f50e7480479f346b1e910b922618dafae03f60153acad1ba8d02e18ec0/flytekitplugins_polars-1.3.1-py3-none-any.whl#sha256=c0c1d67d2bc4da5034178385b3a22c462e5fe81ba51463943cbaa021ac1e42ed" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/e9/dc847fdc83ce39438acbd6930228b0463cad4422f378d32a58ee49986361/flytekitplugins-polars-1.3.2.tar.gz#sha256=aed0624fd4319d9979bc9de04b1158f2ee07c815600bd0a22f34dd31ac9a8448" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/89/71f1af2edb578378584fc13d25c26f470b44078174b9dd89646e65f68d79/flytekitplugins_polars-1.3.2-py3-none-any.whl#sha256=1eb996af8bacfd3459a6c88afaed50ad5e20c7059eb8a95fed32ecd5171fbf40" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/8d/3d6d3428956f0b51c4574a3b1f8f6ec14092d83a71ed1a190103f2486525/flytekitplugins-polars-1.4.0b0.tar.gz#sha256=881cc68d4eb338950f17ec6e44ee1585d318cb9b9e0a4c2edf8e9f73c8a8fc64" data-requires-python="&gt;=3.7" >flytekitplugins-polars-1.4.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/87/23387d3f6d57209595cc016bb634bca55afc3250505a0bcf8474e1bcb856/flytekitplugins_polars-1.4.0b0-py3-none-any.whl#sha256=dcd43125dae5c602a8630e21e0667022167779fff1f44627bb637ca104530abc" data-requires-python="&gt;=3.7" >flytekitplugins_polars-1.4.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/39/a726006011d2c9ff6d905439d4d5d6324bf82bfd5b49550f7494f67cc3cc/flytekitplugins-polars-1.4.0b1.tar.gz#sha256=d9b66421eaeb605e2fd861b061735d113267daf1a4e506f50fac55bd4ddff465" data-requires-python="&gt;=3.8" >flytekitplugins-polars-1.4.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/6e/214e13c30c38539986d5d6930df997743b01f5d8ca00bd239e9193f68551/flytekitplugins_polars-1.4.0b1-py3-none-any.whl#sha256=a84e5ea2c6b9b8bcd4545318ddaa6084e3f63d193c9b3ead4fab3aadd394ca70" data-requires-python="&gt;=3.8" >flytekitplugins_polars-1.4.0b1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408027-->
+<!--SERIAL 17100694-->

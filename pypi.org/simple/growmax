@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for growmax</title>
   </head>
   <body>
@@ -18,6 +18,26 @@
     <a href="https://files.pythonhosted.org/packages/58/30/65e553edee7e7931d32ee2f8f5eef978e04b03b8e4dfa0a27105aefe564e/growmax-1.0.4.tar.gz#sha256=000d1ae91fd1428af47ab1eb4e5f645919817b64d27c37d3f31fcdcdb40c764b" data-requires-python="&gt;=3.8" >growmax-1.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/b6/dadbe31c254239a0f08a996e9274bf9b5aee01c4b3db649695a228b14648/growmax-1.0.5-py3-none-any.whl#sha256=95f59216c67747f5f3b4457e9082117d37177a7e6381d841c8f4f2cbd1b8a442" data-requires-python="&gt;=3.8" >growmax-1.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/32/78/b778154e2bb4fe7971c2cf00403e6a107cb4a58bdafb5141524d92c07818/growmax-1.0.5.tar.gz#sha256=b7f722de9444ebd2e84bac48f0ddb73dd03d81952cae9371dd43874ad2a6cba9" data-requires-python="&gt;=3.8" >growmax-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/bb/1790ed6b5322191382d4620a5f09f4f0d99befe99e00208a27d8d1975b30/growmax-1.0.6-py3-none-any.whl#sha256=f55956f785581ef482748bde60a268b4d5d4e08ce89a9ff6ecd8ca4e002cbbca" data-requires-python="&gt;=3.8" >growmax-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/d6/4a46fba9ffb0077ca1ee178ceb607815602d26152613e9ffbc3fc3c1ea65/growmax-1.0.6.tar.gz#sha256=100541a3250ab7b94fb21f1ad72ebd4a504fb97fa1f7c0c8269503c63509e3b6" data-requires-python="&gt;=3.8" >growmax-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/4f/9fe144dee9af1f019878d74feeb283a792a455182e6e3e8c532ba6b3ae44/growmax-1.0.7-py3-none-any.whl#sha256=82b1cfd585d7b6e71e50f8e7440c30144cc88ee4def9ff5cee9d2fbe56afac2e" data-requires-python="&gt;=3.8" >growmax-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/52/835975b0f26311c4619bbfb2ca3dbcae86ae660591ad8f0f490137f54d62/growmax-1.0.7.tar.gz#sha256=168db85c06d9f962818b7c6fbd876beec89de05cc05b85fa6ecf42890cd12f74" data-requires-python="&gt;=3.8" >growmax-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/fe/85108e713f46b179f0b052af94665e0e2ef3159b9846a7de65dde79348f7/growmax-1.0.8-py3-none-any.whl#sha256=f75c79a30dc7457f3ba6e1049d756b5daff12b944d3c8bdd69a7ad5f7e667698" data-requires-python="&gt;=3.8" >growmax-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/0a/fae7fac92517e9211f7dcc03c2fc078b25c124d586db9db06fa37b299215/growmax-1.0.8.tar.gz#sha256=d9a3c200962b61b379cc718b7218d0bab1f95a31a18fbbe297315ac631393b29" data-requires-python="&gt;=3.8" >growmax-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/1b/93972e1f031cc75555e6be45afde1a15ecf9e2d6f0c51fd038fca2f36855/growmax-1.0.9-py3-none-any.whl#sha256=acb198e746c158837b8f9aacb66277c9180e730a4fa8a85deb9793aa568f14c0" data-requires-python="&gt;=3.8" >growmax-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/a2/3fe5e25125b88767aedc00227e77efe558b3e29d6840da285b5e8ba162a5/growmax-1.0.9.tar.gz#sha256=56e1d0d80cfe40a5f371635fab154ae01e5e257bdfef8e72ba7cdcd3496c8eb7" data-requires-python="&gt;=3.8" >growmax-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/d0/824b625c5cf87cee6fae0b6264ee33acf7a220f8d598d647a85d947e0525/growmax-1.1.0-py3-none-any.whl#sha256=a6a2a6cfb18d88a7cf124fcf2ad5371e32aa9a480822d46dca358d3cc58ee14d" data-requires-python="&gt;=3.8" >growmax-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/12/1c7362514db935506777ed0271893e910cd74ae7084503862e7294462260/growmax-1.1.0.tar.gz#sha256=6fb3a28000882dbb72b22b584f45379c908689c1f334cc33004518886cfb8392" data-requires-python="&gt;=3.8" >growmax-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/95/2c9e197071ceb6375004970dc9734a07303ddc2732b4fbe5fbf0a0a3db32/growmax-1.1.1-py3-none-any.whl#sha256=97e3259810866f627ed553050b28cb006ab2104e51027e80396600ccfa2eea10" data-requires-python="&gt;=3.8" >growmax-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/38/e5fc159923b966d611a5515f05e8e34a14b3349206e0b5241058acd9c43e/growmax-1.1.1.tar.gz#sha256=59d6ae062224ae3d1af0acd75546dab882475194b22e3bdc8833273bc87f7271" data-requires-python="&gt;=3.8" >growmax-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/6a/8d724094b7756cfa55f99dbee53fb0a25408f424cf6f20ed8e3a74214fea/growmax-1.1.2-py3-none-any.whl#sha256=05653242988d8755d45c775b426ef6f4b4b5fccf82c73bb66e5dbd488891e1a8" data-requires-python="&gt;=3.8" >growmax-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/44/5c4313fb18b1826edff5c482228ce133ba1e0c106b491cc2db6b0ff1495e/growmax-1.1.2.tar.gz#sha256=6ba8fa9dd01ba3462e9402472f41fd7df8cf10755b310e419cd1d8edf31fd569" data-requires-python="&gt;=3.8" >growmax-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/77/77275094cc8eb6189e3f1def1dbf7618506f7de3ddde7f9201b0a3530e2d/growmax-1.1.3-py3-none-any.whl#sha256=0bf3ba027452081a4214765fb93c9b7add458e663902a3aa6575aafc7b2d6312" data-requires-python="&gt;=3.8" >growmax-1.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/bc/2b41d96799f45c3055f9ab3f22bc067f704a8c3cd41ef86a8a798a10d556/growmax-1.1.3.tar.gz#sha256=2a642fa6aa604bdb02988b581f21a207336f6e4b3b4a2a6e6a881107a1fb0544" data-requires-python="&gt;=3.8" >growmax-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/31/dc5e220ad1ca98893bb1940a1476d056e675d510774682ebd25237e21b4e/growmax-1.1.4-py3-none-any.whl#sha256=cbe42d3193e041de58123f57244b8fb1732319cda397a22df42a990cbfe67e61" data-requires-python="&gt;=3.8" >growmax-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/e6/b315d4d6e5fba1c9f4e941f8983a888d9d1a7ebe65923789626ed346ba27/growmax-1.1.4.tar.gz#sha256=03d5f49b6cea798dd14e899718300540701ca1c26514c02912df4adcab6be8ad" data-requires-python="&gt;=3.8" >growmax-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/c0/b342d45c6000a113a821b1d633654cbe6c4d211e6eaf134219c357bcbb46/growmax-1.1.5-py3-none-any.whl#sha256=f05f81da18543b1cb6a08c443bb02603b354e957cd6762723253e961e8d9cb20" data-requires-python="&gt;=3.8" >growmax-1.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/e1/edc59b463e8cf810639f5a5f86bd9d7f7df3d918c1e623cc99f8afe14162/growmax-1.1.5.tar.gz#sha256=b6139814f64d272b305b46aa4e98fddaf61a73153d805e860cc3da4fb1254efa" data-requires-python="&gt;=3.8" >growmax-1.1.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16432246-->
+<!--SERIAL 16830986-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for citation-utils</title>
   </head>
   <body>
@@ -34,6 +34,16 @@
     <a href="https://files.pythonhosted.org/packages/f9/d2/1f96091cc2de438bec1b8738ef1e344f35c55bd9f2a851ad943039ffadc5/citation_utils-0.0.15.tar.gz#sha256=2a8355886aa31959f965e402b7c5b6bfa01b31e33f3d56368533248edc5689f1" data-requires-python="&gt;=3.10,&lt;4.0" >citation_utils-0.0.15.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/81/6be07c52eaed9bb812a69da40a26e1ab54f09f245efb7394f36d3c10422d/citation_utils-0.0.17-py3-none-any.whl#sha256=80b7a63cda2b787b9f26659dcd6f0edd22ab6f82800ce7d0e769161975b17934" data-requires-python="==3.11.0" >citation_utils-0.0.17-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/4c/95544a8737c17b553c85f4f28da777a0cc7537ed9d6c531dc338d8c7581e/citation_utils-0.0.17.tar.gz#sha256=d04fbdb9248efe87731d60ecfcb8f6108b21510e8e9e0efbe364ba308bbce3e9" data-requires-python="==3.11.0" >citation_utils-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/0e/665b978b8e1d5c63a11250268c4354d1e36667c949cee1b70500411fdfe3/citation_utils-0.2.0-py3-none-any.whl#sha256=1fcf884b55eb7cc386102f2749c32c0ff050e9420ade67a8a5866e9e8fa95cbb" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/ac/7e5da8a0e19cef82f0b89f78fde6a846ce13742ce0ae77738b2ed0e919d8/citation_utils-0.2.0.tar.gz#sha256=87ed77523a5ee99c0f22f2fca4fe7784a6b81156749dc4c1f694fe7ded0694f7" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/c0/3a4a2a9316b11cb3b9a11c77299364c179d5135eb9e4dc43356845afbde9/citation_utils-0.2.1-py3-none-any.whl#sha256=5416494844022b600114b4212c7348f0d8f14ee561d1fcd2b0882404416f1248" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/64/84f6033ae6150f1afaa4b64a2fd498d5971ef09aecdfe8dc816548589ac7/citation_utils-0.2.1.tar.gz#sha256=e6f748f3db26b35dc30992213471260a639b7fb5c875c67da9bacee06fbb9009" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/02/4e73ed05984717323cbcf53d4d0d47d07edceebb67d80afc7580409c1efe/citation_utils-0.2.2-py3-none-any.whl#sha256=1c5ccf6a68a7270d9a80c8feb715fae58f7875b4f548ab8b5b2571660e222d47" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/3e/3f0182e64717618e8f7cfb5fdd00c175ae3a62992380d871ed7af6e7d89a/citation_utils-0.2.2.tar.gz#sha256=c6862d8b342bfa2f5275f1c923d918490022327e03472d1bc5e03d5b04775270" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/79/1d99e6d21622ca01886e583f6ad1527dfb0fd56a80428287a0fd6f5eac8f/citation_utils-0.2.3-py3-none-any.whl#sha256=2d91325fc912fa9099d4c5986c1839113c1feb43580ea6c302dc504697aa4ebb" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/e4/52e4079e78a27b36f721a6c722a847229cba4b19f740f92085f6c8467232/citation_utils-0.2.3.tar.gz#sha256=eb325ca29c90f1883f3a0e3e6a8f2d0be522b424d75e26c59f3b8add98ef972b" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/b8/f4163ed1cbe289a6e9048b6ef3531420e3379064504caf4eba96196023ac/citation_utils-0.2.4-py3-none-any.whl#sha256=b7873b5c22b54df0ccb0709b6974a58eea7267047f2a183cf6ce950e66d22c6a" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/dc/7905f014a450c13900e1b7f357989a588b79f835f17ba013da0cf9f2e66e/citation_utils-0.2.4.tar.gz#sha256=f6b87c4909e1774fbc5f3c3cd002abae51c4bfc9e0d5b2a489bd23ca7bf13f0e" data-requires-python="&gt;=3.11,&lt;4.0" >citation_utils-0.2.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16255278-->
+<!--SERIAL 17024981-->

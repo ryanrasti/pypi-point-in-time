@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hesperos</title>
   </head>
   <body>
@@ -78,6 +78,16 @@
     <a href="https://files.pythonhosted.org/packages/73/8d/45d04e30e02d1c0ee9144493447456726d7af27b745567d5bd9ee5d3bce0/hesperos-0.1.35.tar.gz#sha256=6f982c98aa2a1f1de8a08b46b90d7963ff6dc79c22a77fe04635ec09565d0dc6" data-requires-python="&gt;=3.8" >hesperos-0.1.35.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/dc/c283dc8636d6bf32245e20b0484ad02e147d11dbe371b662c4a628f093f2/hesperos-0.1.36-py3-none-any.whl#sha256=dbcfd97a62688b5e5955b1ee4d3ba76ec6a983f047f0a9caf26aac057103ab94" data-requires-python="&gt;=3.8" >hesperos-0.1.36-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/08/3792af0e6164881d6bd5d28af2ac21c6995edce174aae37a96db25d36bb2/hesperos-0.1.36.tar.gz#sha256=079abac5d06d862e0a21488803bc2f8755b6de056e285f3139b87e84b22b039d" data-requires-python="&gt;=3.8" >hesperos-0.1.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/32/0645b112d9c4bf5fc5b043c2b250635ff85ac2b9fc7f1eb7d434639338be/hesperos-0.1.37-py3-none-any.whl#sha256=eee1bc8572ff48201b3712b55bf710dcd0d83b2297a996abfaabd58d19577bea" data-requires-python="&gt;=3.8" >hesperos-0.1.37-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/15/807fe268166d3b764fef14f094a00cb96bad51f3b00282dc33602227ec28/hesperos-0.1.37.tar.gz#sha256=39959645f302f6b3484eadbb7f1cac9eafcb40f813df6b0bd68be8281e8f51b1" data-requires-python="&gt;=3.8" >hesperos-0.1.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/d8/7956bb41e9cbd92a68ac1b6b983d7f1c587c30ae52b110f570a3a98cef85/hesperos-0.1.38-py3-none-any.whl#sha256=07d081d910d14e9f98642d9aa8ebb74696eef24683eb1daa787957568a0ab59e" data-requires-python="&gt;=3.8" >hesperos-0.1.38-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/0e/2ae0a4761f8c0964bf7d8bd29fc4ff009354aa3cee29c29e11742694e610/hesperos-0.1.38.tar.gz#sha256=95cd1189b09e7a2ad6a3d9104c9dbf9edbf86a638ca5d0ef614810f9ab2d8b0f" data-requires-python="&gt;=3.8" >hesperos-0.1.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/d0/492091951f0a0b4c6eebe30831bda7fb5267d7226cebb4b23b9c9509a6ca/hesperos-0.1.39-py3-none-any.whl#sha256=f0c6c3989b7ca2fdd710c84e0294b33f0946b96b3b6a2274933ba06f1ca5592f" data-requires-python="&gt;=3.8" >hesperos-0.1.39-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/28/2410bd346d04eb9fd9a605508231988e07bf333406847cefdc6a3a00a5d3/hesperos-0.1.39.tar.gz#sha256=363bf27e0067cfb1ba472a5f693b4067ca87018d5c6d77eb98988622b7ba68ee" data-requires-python="&gt;=3.8" >hesperos-0.1.39.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/b5/9daf258bb846ab129754c06dce87b221e6443b866a1a655a1fc922851e44/hesperos-0.1.40-py3-none-any.whl#sha256=9e3667bc2d2b84f42f3094bd788fb7aa222d8fa2bc367626b9efa4c71ac355ec" data-requires-python="&gt;=3.8" >hesperos-0.1.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/fc/ac92f579c0debd13e7b18c5da13fe8431faaafd709f55e721e398e7a87d4/hesperos-0.1.40.tar.gz#sha256=5a30a0098182308839ff721ca72516b0d362359c5446f8584f76a4569808c054" data-requires-python="&gt;=3.8" >hesperos-0.1.40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/a5/604cd3b73dadc227f9fefcd1340571f95088332d66586bc5275fc67d5a21/hesperos-0.1.41-py3-none-any.whl#sha256=bc4148290fbd0dfee67091ba5c58be681cae74ba17f097fd107cfbe3b7b964a6" data-requires-python="&gt;=3.8" >hesperos-0.1.41-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/71/eb1678113fe8009db091c86a00816774300680461a1cb2dd13d04ffbc4bc/hesperos-0.1.41.tar.gz#sha256=c53801685aec75548e771c38697262cd15d4b4dd967eaad79778d79158d155a0" data-requires-python="&gt;=3.8" >hesperos-0.1.41.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15943283-->
+<!--SERIAL 16769609-->

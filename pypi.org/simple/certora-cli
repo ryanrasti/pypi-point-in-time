@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for certora-cli</title>
   </head>
   <body>
@@ -113,6 +113,16 @@
     <a href="https://files.pythonhosted.org/packages/05/a4/7147ff9e6f892a0bf8d80c7e9f0b4a44edaaf4d38c4cc6a748595e2f4207/certora_cli-3.4.2-py3-none-any.whl#sha256=cb17be8e087721974d7c21f020ffce913f523522b32e3f30d4bba28c84e8db06" data-requires-python="&gt;=3.7" >certora_cli-3.4.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/9b/828d971d50e7b3f98c15d137b1e6a860a4366a8e0e21171747da4cbbb636/certora-cli-3.4.3.tar.gz#sha256=f68e6fa8fd33926640446fd33c477f5c686166b84166a28e1c781e78c07b25a6" data-requires-python="&gt;=3.5" >certora-cli-3.4.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/64/71636b7305c866fcb1c8dca2ba34b7c09a554d8564c292678ca9b204b17f/certora_cli-3.4.3-py3-none-any.whl#sha256=318ca8e31b71d32bedb3f262fe8eebd3855d801f71cfcc9129214fde8feed7b8" data-requires-python="&gt;=3.5" >certora_cli-3.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/42/0ed4cb64fa3327eb0c55fffcefa9208eb2fd82dfb7a7a26f736e6fe51d34/certora-cli-3.5.0.tar.gz#sha256=668d83ac8d31c90b3c744e1b85e6beb9617a4d827f9cfedba669ea212e41ded8" data-requires-python="&gt;=3.5" >certora-cli-3.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/be/52de81297cbc15de8394b1c2c88e4718fb91a3789f7671e42176ed08dd0a/certora_cli-3.5.0-py3-none-any.whl#sha256=7e602dc760b6c143eafd09eb15ccda9cfa4ff8225faf817b352532108f583351" data-requires-python="&gt;=3.5" >certora_cli-3.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/0d/3dbdebd2e27f1247637984ad194df9355c110c696f81e6115cf356994dfe/certora-cli-3.6.0.tar.gz#sha256=b9a9068cbcea128d1d971943dc6ebdd7b316a175458dc69a3a9a828327e37163" data-requires-python="&gt;=3.5" data-yanked="" >certora-cli-3.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/e1/749d868c41375cba4820f4d9131de788a0f826df175db6f43c185f3a8ac9/certora_cli-3.6.0-py3-none-any.whl#sha256=94dd1b8bd2bedfdee08e689b25ae308a217f2cf9a78a97f7169b7881f2c6111a" data-requires-python="&gt;=3.5" data-yanked="" >certora_cli-3.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/b3/e5ead1d5abb4cfaca0460f5651640c7cacd23db0fd3340dae5cb76aaa1bf/certora-cli-3.6.1.tar.gz#sha256=6b2e675c52ec862d157cd4a6de79d9026e3d8f46cc393661bccfb174b0276c91" data-requires-python="&gt;=3.8" >certora-cli-3.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/09/76f7109494d9e89483c9715c3459b2f185b4f0953e67e8eba5b9132938f8/certora_cli-3.6.1-py3-none-any.whl#sha256=98c50abbabfe9e302c379d58fc92dcdef360c687b885c3046c9e1e74725d92a1" data-requires-python="&gt;=3.8" >certora_cli-3.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/67/9d8cde4508e7167e35aea9986030ddf93619aec64a5ffc5f4a0893f36125/certora-cli-3.6.2.tar.gz#sha256=b646a158d8dba52f57ee678ef31c6098c61a964ecd2f71d7a0bc6dc6095e384a" data-requires-python="&gt;=3.8" >certora-cli-3.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/6f/db600421a85426f259dbf82b070d9e044ae79f395d8263f5197c3d5b30ee/certora_cli-3.6.2-py3-none-any.whl#sha256=6e7f7e1198b64b48c0d056023eb40a3b57cc0845c371dcb95994eb02648af2b6" data-requires-python="&gt;=3.8" >certora_cli-3.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/a8/f8c7974261dac50c12d669b7dd2af280103f72ad28370b7ed8063d2f9396/certora-cli-3.6.3.tar.gz#sha256=14773dd5375a32a7edc9c0afb54b6cccfd13725d0bc28155791bf9c44725c48a" data-requires-python="&gt;=3.8" >certora-cli-3.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/98/df0ad610631669a224b8726fa03b4e31998ff0da12c730f53ebc0ae03812/certora_cli-3.6.3-py3-none-any.whl#sha256=fe415e8826e31b31bf874a0a5152c442c5a738d8aa7b20d98b8f1adf721c53ea" data-requires-python="&gt;=3.8" >certora_cli-3.6.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16217467-->
+<!--SERIAL 17052499-->

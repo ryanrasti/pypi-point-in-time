@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aioesphomeapi</title>
   </head>
   <body>
@@ -180,6 +180,18 @@
     <a href="https://files.pythonhosted.org/packages/44/a6/06f4850140f0a7768eee596a21ec7eb14405b9a3c5225eeb8d5ba1c13d95/aioesphomeapi-13.0.3.tar.gz#sha256=c234759305584d084733d20de2e38a0d174b69084459c75ad0e0040112fea06e" data-requires-python="&gt;=3.9" >aioesphomeapi-13.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/59/d1/4896ed2be858f51621e22f8334238b2cc84eea8503574f3adcf94138c369/aioesphomeapi-13.0.4-py2.py3-none-any.whl#sha256=52e4bf66bf5287717cebb46ff18f5599d0496e4fe7e68808d37399ef4e4a2ce7" data-requires-python="&gt;=3.9" >aioesphomeapi-13.0.4-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/d1/77d95869515e9cd8a6b87a2bd3e589e98c6a13dff7659536da1d18dc8f87/aioesphomeapi-13.0.4.tar.gz#sha256=877cdc925ee5f29cfd9f79f52dd9dba8d458c5ed2864e54151c2a4d7b654ffc5" data-requires-python="&gt;=3.9" >aioesphomeapi-13.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/e7/b096055e3266cdcfbf16f693f79b5151160dd3e5b31a33773550d4de76e4/aioesphomeapi-13.1.0-py2.py3-none-any.whl#sha256=ea5f07cc548d1349d8114a07ed820f57d3c74df7a5d6a0e66bfe186535f26d8b" data-requires-python="&gt;=3.9" >aioesphomeapi-13.1.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/85/d48e293c82e806d527ca431823351f22dbb5116621545e0d32d4075f99bf/aioesphomeapi-13.1.0.tar.gz#sha256=9cd4da47b8b019cf0a173badf2bad80ba1d79f1edee8ffd0ab3cf83ec3329cb5" data-requires-python="&gt;=3.9" >aioesphomeapi-13.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/26/74822595e9126153ae0fd3949fe0b52baec9c7ff455fe5a8dfcf1a2964fe/aioesphomeapi-13.2.0-py2.py3-none-any.whl#sha256=ab442157dc1cbbd0f2c86fd0f2c4f993820b947d119f60de6cd630576f29d6b9" data-requires-python="&gt;=3.9" >aioesphomeapi-13.2.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/cd/057c405b84b2c366e24e5519ee1ac115e4fc90f2eac5b177a0d05943a948/aioesphomeapi-13.2.0.tar.gz#sha256=6f5cd1a65eb4b793c693dac57b6dc6cb15244010270afa247fba168e46ed80a6" data-requires-python="&gt;=3.9" >aioesphomeapi-13.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/ac/aac680ca6006940e46d1348de1093ec96f4b3ff56ca316bfcb709a5505a0/aioesphomeapi-13.3.0-py2.py3-none-any.whl#sha256=a5a2b1857c3e983a77f2177f8606269b2ef7c8e49314c06b21f87b0402036930" data-requires-python="&gt;=3.9" >aioesphomeapi-13.3.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/63/0ef53009f821d2cf4a631c77e4ac50e816a1cc68a49846995db10cefc5fe/aioesphomeapi-13.3.0.tar.gz#sha256=472515303ccb97c4370daee6c37ac1cf3d3edd1719519938ee2706e5f6b852e6" data-requires-python="&gt;=3.9" >aioesphomeapi-13.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/b8/ab7e768914c9e5b95b70d5bb7f0e1d9391ec8972f157c6e12bd6e0b32a53/aioesphomeapi-13.3.1-py2.py3-none-any.whl#sha256=fd8e3626aa26e47cdb58d893aa9fb275451aa1f636c55dacb82d04cf4542c29b" data-requires-python="&gt;=3.9" >aioesphomeapi-13.3.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/c3/79e7704a4134d41c30c73a5dd40ec55a2a4eb5541175c2429b149f9f2726/aioesphomeapi-13.3.1.tar.gz#sha256=b33877c43ce01a721ce35a41c5aae73496fb53d9d88e0ea5610479c6d64d8c60" data-requires-python="&gt;=3.9" >aioesphomeapi-13.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/98/51902e8616877913237d1762a90360b9a6b100c942fb97d09ec1a8c5b00a/aioesphomeapi-13.4.0-py2.py3-none-any.whl#sha256=1ef682467ea7c6804e19a9550750d18fe944e10808bcfc8be892ff3855bc1799" data-requires-python="&gt;=3.9" >aioesphomeapi-13.4.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/f7/d7382d3cb7808e0fcc3b0b60ae434bfe39c065c9cd886aefe860d91f698e/aioesphomeapi-13.4.0.tar.gz#sha256=7ac21660e3ba343ec5fe3338a60448e87e41a94de1991a3e50a3501f4f9712d4" data-requires-python="&gt;=3.9" >aioesphomeapi-13.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/26/22da2e83f904c09c35b2adee7ccf1af54b25bdcf27bcba071f7aede4329c/aioesphomeapi-13.4.1-py2.py3-none-any.whl#sha256=fd4dea50b467358ed9b2390286c9a6cce89b944467e534467a814bbeebb2a9fa" data-requires-python="&gt;=3.9" >aioesphomeapi-13.4.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/15/bb78e95ef13a28bba166119b2039bb3e382d454f88ce587a12d1e8aabbdb/aioesphomeapi-13.4.1.tar.gz#sha256=c55ab3f6d197f090991c51c33cfc20c4e070d2c668ca7509ed738b884ecc3a56" data-requires-python="&gt;=3.9" >aioesphomeapi-13.4.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16345564-->
+<!--SERIAL 17012176-->

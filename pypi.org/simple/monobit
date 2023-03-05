@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for monobit</title>
   </head>
   <body>
@@ -18,6 +18,28 @@
     <a href="https://files.pythonhosted.org/packages/09/0f/5fc06c204b9bc7a38cb43862fc45489baf9997dbeb59dc554d4de3a0cc0b/monobit-0.31.0.tar.gz#sha256=f083633353f8db3d2957496d20aae57ec2dc27a32a8effc0b16b9e0512ecb9c9" data-requires-python="&gt;=3.7" >monobit-0.31.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/cc/eef72b6751eb134dfa189e0c9110c2b15812ac6fd73450e915f011a860bc/monobit-0.32.0-py3-none-any.whl#sha256=08f7a6e9632b9d78f23b31fc9f4cb417d0a3512f9484ed7f5b3cc5c42eacff01" data-requires-python="&gt;=3.7" >monobit-0.32.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/bc/2459e065d867cd01304d2fa3435b423bcdf5bc8f32e927668d0a24656689/monobit-0.32.0.tar.gz#sha256=54fb3fb5bcea498eb418d12072659fb4ef0f1124cfdedcd8d75b8bb7af602199" data-requires-python="&gt;=3.7" >monobit-0.32.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/65/68ebbe5426ef3f7711d540010c257445fc4b1f93c02c9973119665fc25d2/monobit-0.33.0-py3-none-any.whl#sha256=8ebc6b042c6d4adffb40dca7febe53ae5593b62f4c0c16e264ef4b6ba769973f" data-requires-python="&gt;=3.8" >monobit-0.33.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/78/344bc2d69adc070a768c4465a4e97ae82bdde6fbecabf463000a00380688/monobit-0.33.0.tar.gz#sha256=f1fb6379edbbaaab3ddebff187de3717832126583c631d5c7ae0fb724f717745" data-requires-python="&gt;=3.8" >monobit-0.33.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/28/2c6f8ea81cb61ead46efc3b63cd4a2fd818bd1a5ec6af86aaa1fd41fa452/monobit-0.34.0-py3-none-any.whl#sha256=9f7a85804de5fe3e24b303ea42838cdf260f1998f37ffdaa3377acba03a5aa5f" data-requires-python="&gt;=3.8" >monobit-0.34.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/60/278ab45f8feab4a0e63b84fd86ffa9d7b1630cca598bcd03f7d59082508d/monobit-0.34.0.tar.gz#sha256=b98446dd03dc0380e3cd780da3a7e8131b09f6ee849aed7d1eb5315b13f5dbb9" data-requires-python="&gt;=3.8" >monobit-0.34.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/21/36e3cad46163ec9b778f96e8b33aa47e760a0509f86cce6161d5f52a445b/monobit-0.34.1-py3-none-any.whl#sha256=fa96d6df7ff30e4ddb6c49bd3abc5b49c1790732d340acd6f2d86ba79018eb7d" data-requires-python="&gt;=3.8" >monobit-0.34.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/35/fde5a38b76b8b21da7dc1a8af31071194810a71f95dcdcd4b5aa58582a9b/monobit-0.34.1.tar.gz#sha256=863fc1f63bc40ad615e26a1ebc63203c41ba6d1388f96315bf39ee2458abe719" data-requires-python="&gt;=3.8" >monobit-0.34.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/94/f57f70367db74e52342b87ec6b27f3ba2a20a131a01e331534192dfc7bc2/monobit-0.34.2-py3-none-any.whl#sha256=94412a40d37ecdcc54a102ec5e0cadf840e034ac133409d93ec2f5fa98ccd209" data-requires-python="&gt;=3.8" >monobit-0.34.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/a9/349551bcf614b4f60edc0786d0ed88d93ddd1548a4a4cab4ee8cc8c6436d/monobit-0.34.2.tar.gz#sha256=d3433f1b3bccaf21cf159145b37b6ee295053aa839065e502e86cc05f939e076" data-requires-python="&gt;=3.8" >monobit-0.34.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/4c/f4eb978727e91ef8e40072038bfb357efcbcbd64ce7df3d2e882d0acc9da/monobit-0.34.3-py3-none-any.whl#sha256=44e602fff58b1cbdcfd534d3dd9c250386a2e1979c34edfd0faa1fcfd62c51d4" data-requires-python="&gt;=3.8" >monobit-0.34.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/63/806e182590bebc0473adf532df119c1499a0cca1503d8995bb505b216815/monobit-0.34.3.tar.gz#sha256=983708451688c957cc6d47c9afa9d938bace0d844f01ea7cddd97aedcf505e93" data-requires-python="&gt;=3.8" >monobit-0.34.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/8d/d52225e5c859ca2619c8c50eab2ed6630b09cbea9ecbf4e8488eea8f0b66/monobit-0.34.4-py3-none-any.whl#sha256=ab3bcb29aab299290a626f1b94c8d925ceb69a1c73dbaeb99dffcf65b7a74b1d" data-requires-python="&gt;=3.8" >monobit-0.34.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/4a/88fd57e02f99dd80dcdb0b037e5d848ffea34181ef1092e8cb40cec415ef/monobit-0.34.4.tar.gz#sha256=40922d60212017ed4326fe2d9239cc563667c3e7019e02ed34e51038b13764ad" data-requires-python="&gt;=3.8" >monobit-0.34.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/4a/0742d819f2e3f16dd436b13e580bb3da86e6d4ce641d63f7a1d82dea8ed2/monobit-0.35.0-py3-none-any.whl#sha256=352aa93b72a92fd5a4073954aba341af9181dcf78c604f52e794751ef89ed66f" data-requires-python="&gt;=3.8" >monobit-0.35.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/0c/8bae00ab4d66b60dabefae52aba56fa2243b477473d2256543f2fcdccba0/monobit-0.35.0.tar.gz#sha256=4607149587376de55e57f4ac24fdfd2bd3024c306d20859ab1ab2abd2daf4db6" data-requires-python="&gt;=3.8" >monobit-0.35.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/c4/35d06ea069b0206cd6e6c6d77153f45f92eb6406b7ed714055c528d4f0e0/monobit-0.36.0-py3-none-any.whl#sha256=294e28799d7b247b6851cd73bde37387fa0a8d05a3e01dc6319dc9d5dcafa3ad" data-requires-python="&gt;=3.8" >monobit-0.36.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/13/06a848f5bf2e5b7009b3830ada0781ea2b31dcc2cc5f04a42b697a1201e6/monobit-0.36.0.tar.gz#sha256=a8df4b1287fc78dd2053c28b4d07d0d1bd4d3ede2e38f251e313853395562396" data-requires-python="&gt;=3.8" >monobit-0.36.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/dd/740695f8b767b13e71f7e60a6c19b118d6ad52e06cdb8a29a64fb0cb6b29/monobit-0.36.1-py3-none-any.whl#sha256=901bae9ef3d44ddc4934a62c9ae8c1435fa1a8ccffa10459e959753e0716e875" data-requires-python="&gt;=3.8" >monobit-0.36.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/2f/428460ea253515c0f04f771a8c280699bfd3aaed651b06790c2e2a4c867c/monobit-0.36.1.tar.gz#sha256=e929bf5147600d5b1b2e1047604a02b2edc199dba6ce5f477ef08b87436e195b" data-requires-python="&gt;=3.8" >monobit-0.36.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/2f/61dcfcbbb09b4e51579728d3f34add454dee53b08415d8aee9525765cbfe/monobit-0.37.0-py3-none-any.whl#sha256=c507feca025d14a7644b749cc827cd25953b04e5f86acfa46438b03a5c47b019" data-requires-python="&gt;=3.8" >monobit-0.37.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/0f/f0f4dad2929f0caf80012546e67d6654436bdb9f01f7b74169a63faf4f12/monobit-0.37.0.tar.gz#sha256=448e5939ab3f8f425df36d14fcade8e9b75295d4fcb9178e76352cb2a9c51b13" data-requires-python="&gt;=3.8" >monobit-0.37.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/7a/87ba26a967f06b9ca4546bd23d8d53b14e1933fe7202e9be6e75eb8b11e6/monobit-0.37.1-py3-none-any.whl#sha256=9036dcd1410a2fc0827a371b95741a6e8aa062c960ca55fa9499c244053346c1" data-requires-python="&gt;=3.9" >monobit-0.37.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/eb/c96b0fe0c0d7ba1c6521a8df9d3703a5674818c992600ef0af251b184964/monobit-0.37.1.tar.gz#sha256=af58fdfcc222fad77ec2001aef180f0cbb8dbe255f7f7316b6ac48b68ec8e015" data-requires-python="&gt;=3.9" >monobit-0.37.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15945728-->
+<!--SERIAL 17159421-->

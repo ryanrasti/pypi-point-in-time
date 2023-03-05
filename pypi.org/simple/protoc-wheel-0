@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for protoc-wheel-0</title>
   </head>
   <body>
@@ -206,6 +206,18 @@
     <a href="https://files.pythonhosted.org/packages/35/e4/cf671f52e3135d14726e7d44fe0d465d44028a66b9d6204c951c920a714e/protoc_wheel_0-21.10-py2.py3-none-manylinux2014_aarch64.whl#sha256=8773e051db3bef50221ec126bbe45940fd2c328a4a4f9e85955a1cb80f2b5623" >protoc_wheel_0-21.10-py2.py3-none-manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/70/d4dde7ffb4985177dd41a080154c04d4ffee303d9662eac9ea9a1a277cc2/protoc_wheel_0-21.10-py2.py3-none-win32.whl#sha256=1f15933997646870fae48c60d79070a5af9d32b65c7b393b92e68806613f5131" >protoc_wheel_0-21.10-py2.py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/15/fc/2393961bfe670366b5e49954ec3e4f270191304a9daa6dbf080ede80baa8/protoc_wheel_0-21.10-py2.py3-none-win_amd64.whl#sha256=30ee8b4c6ac5a42d7f5ad5d9a907aac34e03d3c65c71713a991f64e533970b66" >protoc_wheel_0-21.10-py2.py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/21/deffa70c9c6558757f0c42ea997d57d8c43688446bb86ab153a8f557205a/protoc_wheel_0-21.11-py2.py3-none-macosx_10_6_x86_64.whl#sha256=59baad329d54ff02acf40829f61c28cc8cc44e76b53cdbfedf629aa4255c2ef3" >protoc_wheel_0-21.11-py2.py3-none-macosx_10_6_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/02/8c10711abcc71d3399b044bd0e753e6837cd9f4927ea015248f10de39a60/protoc_wheel_0-21.11-py2.py3-none-macosx_11_0_arm64.whl#sha256=8ceded07918edf8f64f5c11b25edf80acd957131101bfca4cfe18c29ac9e06dd" >protoc_wheel_0-21.11-py2.py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/33/c5b5574093650b52ced0a191361e3aa23bc5e0bb2556f6a0c0641a99de4a/protoc_wheel_0-21.11-py2.py3-none-manylinux1_x86_64.whl#sha256=6fa339adb6b4a49e0843b40dc95ee06ac7a7d5499c2e5c43b67a794af7709b1e" >protoc_wheel_0-21.11-py2.py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/d1/9b7fb11244400eb582e6b35acefec0553ca9eaa167a5b6f47723d3bed909/protoc_wheel_0-21.11-py2.py3-none-manylinux2014_aarch64.whl#sha256=a42b7aa09b53f5f5a7628ba7f869134f09ecf315da895bcf561cd4cc83b7b58a" >protoc_wheel_0-21.11-py2.py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/0e/1ae0023918d11de6372715c557df12aa155858ba794596c4a12300d2aee0/protoc_wheel_0-21.11-py2.py3-none-win32.whl#sha256=1ecc67b25c77e0505b25df3fa8bccf628d136f940f4f09e18cf398df66237950" >protoc_wheel_0-21.11-py2.py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/53/e0db2f58952ebec19c86028d4783c16b9590a57041f1bd28a63c5984342b/protoc_wheel_0-21.11-py2.py3-none-win_amd64.whl#sha256=bc746bc450f85e811cdd1dc19e012224db11b1eaa36742bb4143e34fac2b6657" >protoc_wheel_0-21.11-py2.py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/be/66c70ac8d08833b950032238a0a63e3ed5a71ce5650ec0aa10cb970f76da/protoc_wheel_0-22.0-py2.py3-none-macosx_10_6_x86_64.whl#sha256=586d434e14aae12d5ade2f1137f6eb708e29898912e466845212ca59d9de8ef5" >protoc_wheel_0-22.0-py2.py3-none-macosx_10_6_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/0b/17e21ab58c3361196937eb206e61e2b26d7f216a75024d8b7416f1993db5/protoc_wheel_0-22.0-py2.py3-none-macosx_11_0_arm64.whl#sha256=21fa774d671f95fec5616f6cf58706a3bd60cb71ad75697594e852444c0aa3e7" >protoc_wheel_0-22.0-py2.py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/f3/89fbedff25f21d1c029b861c921c74850acc7339db0a7ef40bd87ca02954/protoc_wheel_0-22.0-py2.py3-none-manylinux1_x86_64.whl#sha256=e4cb2250d12903586297f1d90fda379e65c6723e974fb2a72386015db2f2abe4" >protoc_wheel_0-22.0-py2.py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/f8/138d9f325e0cc63e7c4e91def6aecb558bfccc947d322b361b1c989eab24/protoc_wheel_0-22.0-py2.py3-none-manylinux2014_aarch64.whl#sha256=369942fa2be119fbfa97fce5a6f4bcd268704d18c7617d318978743b114c960e" >protoc_wheel_0-22.0-py2.py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/aa/716de3a254dd94bde4cc893b403b1273247e323cd1a0c9cede81fa325855/protoc_wheel_0-22.0-py2.py3-none-win32.whl#sha256=4b32e40cc989db2fa962faa5dfc361a9d36f320797c8fed0143bdab21c6ed1c2" >protoc_wheel_0-22.0-py2.py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/82/c17b7efe1e4ccdb21928aa63fe7b81bab618099c385800fb24d8cd54adbd/protoc_wheel_0-22.0-py2.py3-none-win_amd64.whl#sha256=acc4329122622b279dceb7cb18ea677706ec7baad70bd7b21f349fb5f5ea8fb5" >protoc_wheel_0-22.0-py2.py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15977287-->
+<!--SERIAL 16909216-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for async-firebase</title>
   </head>
   <body>
@@ -60,6 +60,16 @@
     <a href="https://files.pythonhosted.org/packages/b8/fd/f216d15a4706da6ecb90d0fd67920d443290790e40e9256d1872356f578e/async_firebase-2.2.0-py3-none-any.whl#sha256=63cf62d2012decb03c8bffef06e441a42618010eab0055bfea316ad13d823139" data-requires-python="&gt;=3.6.1,&lt;3.12" >async_firebase-2.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/33/6a57e6c2080d2f7d8ee6eba2d826cdb8557ca271d399ff7f787432c67faf/async_firebase-2.3.0-py3-none-any.whl#sha256=b8bb120f474a943f144e5f5924a6398a0e505f23596540517cafd5c265f22f15" data-requires-python="&gt;=3.6.1,&lt;3.12" >async_firebase-2.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/94/d7aea3044ee60fde0a2605f625ba4cd65a86c446ec61f1a95139b3b0c28b/async_firebase-2.3.0.tar.gz#sha256=ba94b03d3842d05a91f353b3860cef2955215393374eca29fe27877ffc8ce1c6" data-requires-python="&gt;=3.6.1,&lt;3.12" >async_firebase-2.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/d4/410e7727f037eec8558a860c685ea44eedb5a29a630690039425879f9781/async_firebase-2.4.0-py3-none-any.whl#sha256=e741657716fe2270108b3468a86a6f7aa8aa467081ed21ee03549f2e602fef7c" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/a8/95e74099370b959ce3588ad8d3cd73619aaebdae6e825ed281d25301bc9e/async_firebase-2.4.0.tar.gz#sha256=de15dd73a8dd36b18955ba549f592fb714cb0ea89496e50a9a583f1fe15f00e1" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/7d/07c145ad019ec2ce5af3dc14d7f7ce19c0cb96958bb82e76c58ebdba5ca7/async_firebase-2.5.0-py3-none-any.whl#sha256=357608b5cbe4aabd579a3119ab137db5503ab37b9560c1264ac2f7cf7e0f8a50" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/96/94cb8e4575663592d3350a073da6fad5b670fc604adaa18a326859329161/async_firebase-2.5.0.tar.gz#sha256=55263716691f9b5dc6b33c7f67f057e83f1c1738c32342bb1427091d24f95e2e" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/0a/73994da6f6cec8e4683ee08745748fd78fc9a906de504113b6085278b108/async_firebase-2.5.1-py3-none-any.whl#sha256=95dcbcce118444d1a1e9ba20e37ab65cfe79073c455a492f251f2ea9685d6120" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/87/aed9202c06b3e21eae683e39412e770d0e2f11e4a0a6492ecee825a77d2b/async_firebase-2.5.1.tar.gz#sha256=9f5363701b1bf83f1537cd23190d9bd096bddf5f945b5caac31053429f4b4c68" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/6d/333c2902a9992db6541a5b48547119cb7376e92d82990e8167a749606d86/async_firebase-2.6.0-py3-none-any.whl#sha256=b8902fecae335d25d809d87fe332fd4ba5457c9eee734b07be417a7dbda3c332" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/89/279fc8226c1b241ba30d5121ba66103839d2dd32a4f4e929bfaaf9cbf899/async_firebase-2.6.0.tar.gz#sha256=28ea2c4d5a0351c299705b5b4a17ed370080ee197d53e1135fc96e5a042704f6" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/6d/e2cd6656a66a51aa37f98f4b667c32fbf20e9d4c8bae0756d41d5c1a3e01/async_firebase-2.6.1-py3-none-any.whl#sha256=7ad052e6732ff997d6ac7c83c66be5ff1f6d642cdd9d71866099bcab687b05bd" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/29/145092fe044466e29daf4bc16bb5d19c7bd015ac86ca71110db9bb021dc8/async_firebase-2.6.1.tar.gz#sha256=5fc7d90380284dd10d1aa74b6ccf616696292024de11e850189bd1cfd9f8fd49" data-requires-python="&gt;=3.7,&lt;3.12" >async_firebase-2.6.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15643302-->
+<!--SERIAL 16903195-->

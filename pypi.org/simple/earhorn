@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for earhorn</title>
   </head>
   <body>
@@ -76,6 +76,24 @@
     <a href="https://files.pythonhosted.org/packages/c7/f0/6e0d13ed31a488f3c9cfce7200f4399951f70c152a8f814fbf4cde6566d0/earhorn-0.13.1.tar.gz#sha256=282440c7bff8711162cb7ca5de39451c836c93883a20d44bd130a3d0fb1e337d" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.13.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0a/06/92f79953e167e8176802a3d0b752d99581ec468ad8a6e583710ff36ff11a/earhorn-0.14.0a0-py3-none-any.whl#sha256=27e27e482abc1161ae7552a64f447a71d9c96022e8218323f3d9302b9c1cd6ba" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.14.0a0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/6d/ebf43590db48caaca79de2d7be1ffa99ec55acbf39f11139f3acc63f8bef/earhorn-0.14.0a0.tar.gz#sha256=4ecc52abb0cf84b478ee238dd136c0173686f691db89778d37c50191c99ac3a0" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.14.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/44/5cc89a3be03ad460964fcd44ccd6cf845e3a939a99421e3d71aeefdc6616/earhorn-0.14.0-py3-none-any.whl#sha256=7e59416724b8c5907a5a2c6d3a272ad898bce1bb3d04186a0e56b59a52c5694e" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/cb/01d47e69df91d92259b502f022c67a12786054f42ce0387e5508758f85b0/earhorn-0.14.0.tar.gz#sha256=54f4f1f71993ef01d701703c2af5b751a5af73b138efda442231a6cb21dbb07e" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/33/5edbfe44e5af6b685859cc05f78f032aea0bfccc1a847b6d9a10a691c6aa/earhorn-0.15.0a0-py3-none-any.whl#sha256=dfc3961d45ade4c93ecf25ee2487ad3c1b0dc332e4eb591acc3576e58cbc4bdd" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.0a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/1c/6dcfdc8ff620c7a3ee752f9d6d2fc3e6756f2628369a7ec6d481de379bbd/earhorn-0.15.0a0.tar.gz#sha256=1ebe8f924ec434e42d27a9d6eaf152ed310126741e7f3436633ab7cc71671e41" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.0a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/2d/0d7bda14bc69688492396f6efccf715fec853de4b977db0c46f4b3ec3aaf/earhorn-0.15.0a1-py3-none-any.whl#sha256=d83eab33464bf61d0e0391458e6e3d18ae9a85604021d73f1b6e2ee60422deb3" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/76/abd0da171e1b0837ff5f65ff94c6ae2b828dd9dbf309d375db65123ee4a6/earhorn-0.15.0a1.tar.gz#sha256=19e7d872282939d8b334931f265789540172aeb17b7a54e4c329e66631a7d4b0" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/9d/c99db858c50352191326371875c91e55756daf5851fc1ba774b89b1b807e/earhorn-0.15.0-py3-none-any.whl#sha256=a3035e74b4e64d0c95d4f0ef20aee265f79dbd15084faa4372e06b9c43f2f2ab" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/64/9659220d9c536976b9d7cd861a761327556c7cc8fd05c8770cfc936fca08/earhorn-0.15.0.tar.gz#sha256=a863923c047e719327d7151884978f387f8e29b4cfb7a0e585e713397522cb3c" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/43/cdc07df071b0eaba6d77043bea066c024a99460c713d2ecd473a60a036c1/earhorn-0.15.1-py3-none-any.whl#sha256=33b27769fc66ca69d740e492c8917360147a71b89e5f1c7fb74a6cb36144a759" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/c1/39786782f9a08a76adc2c6b3ab2f8bd21ed66fdb246539cac57ab94ba323/earhorn-0.15.1.tar.gz#sha256=668bd45e55d2f660980476e79b2c59657407731732fae4e1a1ca17a8fdd9071d" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/08/cf1133cf04fb314229be5c769c48c61197ad6b4e0473c4e7b941a4357ee7/earhorn-0.15.2-py3-none-any.whl#sha256=c81af2a6d329eaf7ff5c09a12b541b088c2ecf29a41ff05dcf894cfea4196809" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/55/6ccedb56cf64916ac5570c911d236be70f14e4a2209342031b8aecaa1ba0/earhorn-0.15.2.tar.gz#sha256=41c14aebe56b28752e606611abe651225ec2142572e57173f93d3b2e1c762be0" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/99/5b41a1ebb28896cd55970dd9f92c00bc6e0f352656934d45849de15bd9a2/earhorn-0.16.0-py3-none-any.whl#sha256=aa4dcc7f99fbb09c65e9b760d8fa0c81ea1ee4f27895ffed2574cb2a7662308a" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/45/6acceff7fedd13eec0358bc181b2794dcf3e9d29ba8cf5ba586ed1d4a917/earhorn-0.16.0.tar.gz#sha256=ef64d22c406017bb5e346870c3f2ad645058ab73c2c1f63c116e032de480c1fe" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/e8/71a80ff29292cce1fc2b91ae41c5f4c8c2e2c68d062b0cf8bc3f84cea12c/earhorn-0.16.1-py3-none-any.whl#sha256=deadd24247212511133950288610ce196013e3853895d0f50a93c802c88d7c74" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/d8/784691a074bf93566015e5ab03dafe587effecdc207d8ce6adb15c376399/earhorn-0.16.1.tar.gz#sha256=9d89fb00637679caafbc159150d3c47aa3b295674e31d4f64894855110b89f05" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/de/b96235b08e97eaf3cac3db739c05aef2fb82d4d5481408b02493a19b7302/earhorn-0.17.0-py3-none-any.whl#sha256=1643b7c95fda156c4eba92b7f6c200e90284ee59fa496dec68bbb9e2de86760d" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.17.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/f2/e1410d532de66b5a250f6aa8b9a0a87095b59bbf0b55ee94e46804e5ba08/earhorn-0.17.0.tar.gz#sha256=6a1c9f0d752f0904639e36260d1ca9856fb2362dc120a7df8f7712e9e2bbee2e" data-requires-python="&gt;=3.7,&lt;4.0" >earhorn-0.17.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16378133-->
+<!--SERIAL 16774482-->

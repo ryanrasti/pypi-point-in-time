@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bodyguard</title>
   </head>
   <body>
@@ -148,6 +148,16 @@
     <a href="https://files.pythonhosted.org/packages/bb/58/0764f11703d9f6b036908900df0697357822feb3fb894ef71f46502b6307/bodyguard-0.0.71.tar.gz#sha256=34464b2986f019b90218ef786312ab08ee5e50015cae4b95e4a3daeedcd5887d" data-requires-python="&gt;=3.6" >bodyguard-0.0.71.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/91/ac/98483bc348c743a984f64721b7d0c16576893c1ece63a129aff3ea3a9bed/bodyguard-0.0.72-py3-none-any.whl#sha256=26a972824f0a84a75d762be00901ae9fc472532b66b54b6f7e71bc7d510f8f08" data-requires-python="&gt;=3.6" >bodyguard-0.0.72-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/27/1da8719690b57b5662ef73673c1e9bc90ba3e57b14de15cd19e4537d64da/bodyguard-0.0.72.tar.gz#sha256=dca9e1df19cfc0ff0fe36d65c24a4600631db0347a72ef5f52c368560b801df6" data-requires-python="&gt;=3.6" >bodyguard-0.0.72.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/87/f7c1462e5e25ad1c1dcd8d3d965848dcc874e353f4a7d4d852573746b6e7/bodyguard-0.0.73-py3-none-any.whl#sha256=ba26a68af225c232fdf56ad00eccff76d9ecec3b2d9b1828301aaef43e5b786c" data-requires-python="&gt;=3.6" >bodyguard-0.0.73-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/42/36eaea6451c3e28ecc30150a3b7dbb79390a0a4d18e51aaaa02d0c2d4714/bodyguard-0.0.73.tar.gz#sha256=2bf4aacf163624dc43df8a889e5fbe32af7ed949ec96fe459da28955809dbf3c" data-requires-python="&gt;=3.6" >bodyguard-0.0.73.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/4e/e7c6ba68e40298d0d7bda68455dc295e12212ff9ca34c840ce7bb66cefa2/bodyguard-0.0.74-py3-none-any.whl#sha256=dc69ac8e4aea382e541237c740aa908b1a4ecedb8726b61b029fbb27d941a7a5" data-requires-python="&gt;=3.6" >bodyguard-0.0.74-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/bb/b301f89f64d323c6f150f1f5a57981a1c4dea4c4fd1f3a0c6c6fdbd0954f/bodyguard-0.0.74.tar.gz#sha256=86b74819d4b885583268f5d2930f9f0f9424e8941cef6baf2c999626a7c9cdc7" data-requires-python="&gt;=3.6" >bodyguard-0.0.74.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/69/9afcf0b0f92938ffa30e28f896545559d9a197892016a2d5211ee36f2a33/bodyguard-0.0.75-py3-none-any.whl#sha256=d857f385c701191e68ad772bdd5f7c624b295e6f55f9309eeaeb379cddd92c20" data-requires-python="&gt;=3.6" >bodyguard-0.0.75-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/3a/4e49d06b1f2a4315424967fe9343c383654a12ac3a364fac7bb0b69c483e/bodyguard-0.0.75.tar.gz#sha256=9bf638153e7f136c944187c9de0db63779d3379d31dd346486319855d36b5310" data-requires-python="&gt;=3.6" >bodyguard-0.0.75.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/43/90d6b3425d9ae8e93901c13c9b9965d700339e57ecd6af2c0b7e951014f4/bodyguard-0.0.76-py3-none-any.whl#sha256=3246cf1b116920b1ed00f6e7965b6207df47e2258e69d9d50006b83ada3ed821" data-requires-python="&gt;=3.6" >bodyguard-0.0.76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/5a/39158278a134901020b10c4bb333693463565942ef0d8084b4a4b3e32885/bodyguard-0.0.76.tar.gz#sha256=37a8c04587edce1b7949add8574916d36d983114ac3232e23be800dcb7d9d726" data-requires-python="&gt;=3.6" >bodyguard-0.0.76.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/7f/7117eec916f3465af95d7e47475ffba292226d513017cc0ad5cbf5dcf36a/bodyguard-0.0.77-py3-none-any.whl#sha256=ad1dfadbf711828a2938e6e499ef3d5148953ed47da92195028f40b99145b908" data-requires-python="&gt;=3.6" >bodyguard-0.0.77-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/63/7a52a4f35c926aa33bfe38ee8dbee579594c5b52c68c8bea18dd6017772c/bodyguard-0.0.77.tar.gz#sha256=500c3aae18c14c1d4b97fbd0f2eb7578a864d0ec7ed45de1b49404374e443ed5" data-requires-python="&gt;=3.6" >bodyguard-0.0.77.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13337508-->
+<!--SERIAL 16978940-->

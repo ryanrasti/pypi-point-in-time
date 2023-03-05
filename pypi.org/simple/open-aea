@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for open-aea</title>
   </head>
   <body>
@@ -240,6 +240,18 @@
     <a href="https://files.pythonhosted.org/packages/0a/af/9535a17739e91a36766c01f3964ffb118ed95fcafabe984585c3c1d92ce5/open_aea-1.28.0-py3-none-manylinux2014_aarch64.whl#sha256=513cabfa04b40748b543278b1fafe306d5bd31f93c0d14422026f05bb8bda052" data-requires-python="&gt;=3.7" >open_aea-1.28.0-py3-none-manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/c7/15c4ba664d94d402ae8b7eac47a1c83afe4d3cb2ac7e41df198814cf0954/open_aea-1.28.0-py3-none-win32.whl#sha256=d81faf0d4a70170fe84649bc18263e4b625446a9732ae25fdb5e0c496d769cd7" data-requires-python="&gt;=3.7" >open_aea-1.28.0-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d4/29/69c9eb1d86d41eee0c56fac745f88599a100039166102c9cb8013338cf00/open_aea-1.28.0-py3-none-win_amd64.whl#sha256=43f4ff1ff8865d641a3bb553986fb639f6e9a3c98de5487d5d72835265156e46" data-requires-python="&gt;=3.7" >open_aea-1.28.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/fa/d58c973759e12e57751845754f56cf906317fa296980a11cacf817c8daff/open-aea-1.28.0.post1.tar.gz#sha256=91eba4b5fc46a85cd77f3d4f517243042fe179e1638ad19e0b411667fbcf83de" data-requires-python="&gt;=3.7" >open-aea-1.28.0.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/f0/db0b313beafe0525b6e4a5db0d5450d494f2ae1acd0e7e8c96830b1051ef/open_aea-1.28.0.post1-py3-none-macosx_10_9_x86_64.whl#sha256=0970c385a653c2f9cb2f47ce36935599bd53fe4388fef68a9dca549b871d2cab" data-requires-python="&gt;=3.7" >open_aea-1.28.0.post1-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/90/a580e6666a941dc2e3dfe0166be74be440063db30edd242cf66df147fb6f/open_aea-1.28.0.post1-py3-none-manylinux1_x86_64.whl#sha256=596e5d7f3769725fdcba86e89cccb1a630a68c4e07049ff792e1c1513766fe01" data-requires-python="&gt;=3.7" >open_aea-1.28.0.post1-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/71/a9cc56dc7233bf65cc15c723c4feb5794994360d45031da1cb6564bf8f30/open_aea-1.28.0.post1-py3-none-manylinux2014_aarch64.whl#sha256=42f26ef3fb1198fb05fa88f978146fcf6f018a532828fe942495403b25645e31" data-requires-python="&gt;=3.7" >open_aea-1.28.0.post1-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/1d/e86ed12004437f2a2387e0f83f0e2a4fcac667053184e1c3b127c21daf3d/open_aea-1.28.0.post1-py3-none-win32.whl#sha256=128ae1d78106a8d47a0ef68a9a7ceb8859fa60b5ae99a04d93e18a9130dc3250" data-requires-python="&gt;=3.7" >open_aea-1.28.0.post1-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/80/ab91f27261bf22c50019b6c591b3bd872a0c56876aa0e201df90af3e3298/open_aea-1.28.0.post1-py3-none-win_amd64.whl#sha256=a2892c6907f2973edc3ce71b31a640e004597545be8d30f725171c1bce8c5b1c" data-requires-python="&gt;=3.7" >open_aea-1.28.0.post1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/f1/488d8296cdf318e9bcbcf6051f155a194901b3259a4f38e66fd6d89be0c3/open-aea-1.29.0.tar.gz#sha256=1ab9e07d71980d8b1549735ef8cb116db22d85648442c97075e3912cd782fd47" data-requires-python="&gt;=3.7" >open-aea-1.29.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/b2/ac93fe52824168314f5efcab3a04452607689e9edd055b70b58922ee095b/open_aea-1.29.0-py3-none-macosx_10_9_x86_64.whl#sha256=7ac0bca26c9cca5965d881745bae4715f24f63f51f2b3b8439bb9e08115892df" data-requires-python="&gt;=3.7" >open_aea-1.29.0-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/fc/252ac3d301bfe031c7e17dce2ee737ee6647e836f30676cf86276eb06f9a/open_aea-1.29.0-py3-none-manylinux1_x86_64.whl#sha256=2fd86a9fe015e380f32bc40734dd309111b657e2718e1660752dae24d7348def" data-requires-python="&gt;=3.7" >open_aea-1.29.0-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/21/b0b4d9dbb49c54bc68c579eec55155eaed0b378e55154e114025ec1f4bb8/open_aea-1.29.0-py3-none-manylinux2014_aarch64.whl#sha256=6b8c61706cd8d042a46296d6ea38effe0fe46aa00a93fd168b3f635570b864db" data-requires-python="&gt;=3.7" >open_aea-1.29.0-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/2f/1e5175287616b9e0543cbd985dce0fd1cd0a214a171d2387e73bd9c40bcc/open_aea-1.29.0-py3-none-win32.whl#sha256=cec207abce5383aa59fb0b5e4b014194f7a009e437d5e532ab679374ebaeb915" data-requires-python="&gt;=3.7" >open_aea-1.29.0-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/08/d3994bb7f79531f550804d263363cda51847d7aa57065885960557e71b72/open_aea-1.29.0-py3-none-win_amd64.whl#sha256=fefbae488f37f94160b0e95685ff7bdf7b31497f23ad7ffcfb0f1acb2232b6e1" data-requires-python="&gt;=3.7" >open_aea-1.29.0-py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16406232-->
+<!--SERIAL 16680143-->

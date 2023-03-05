@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for textrl</title>
   </head>
   <body>
@@ -53,6 +53,20 @@
     <a href="https://files.pythonhosted.org/packages/f5/fd/56eb22cb44cae68885f642f20f0e60bfa8d39df88b9f04131c764888c798/textrl-0.1.8.tar.gz#sha256=d1be477b3e4f63a9d1d7fc4576fbb48216de9ec2fc0f0ebee1fa5fb42c9c0f37" data-requires-python="&gt;=3.5.0" >textrl-0.1.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/cf/0c49fd1e8578aeed085360ec325d4140be6d5e1502c91e68b97bc99cd915/textrl-0.1.9-py3-none-any.whl#sha256=7b2a9d0e889867b5966eda2472dc16b4ff915df97f5c01323ae36d7f90218d25" data-requires-python="&gt;=3.5.0" >textrl-0.1.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/eb/46/98d3668a0314f0fd9a1a653dece237cff6e694e830a41a42873600d7074e/textrl-0.1.9.tar.gz#sha256=2e71c2ff4fe13aff0281c10a4f637b112ca3165e0c661823ca488ac149766c62" data-requires-python="&gt;=3.5.0" >textrl-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/f4/90ae097f51ebfd189975626252943bdbe803d7109798e59f5c6eea9af537/textrl-0.1.10-py3-none-any.whl#sha256=3decd928611080e836ac3620c92177937370abb745ce1c25220a7c1295d05c67" data-requires-python="&gt;=3.5.0" >textrl-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/65/29760ed61a328a25e70c1f4e3357d529c1c4c4240aa3b86b0285820e3c75/textrl-0.1.10.tar.gz#sha256=a69d5b63491969f4d7b98dce3be1299e1d77ecf3eda897ac675195e34afd7f7d" data-requires-python="&gt;=3.5.0" >textrl-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/66/33bcc9cc10ce7ee7aca0a823ad34f28f28b3c376d35a6ee563b6d2ad90fa/textrl-0.2.0-py3-none-any.whl#sha256=1473abe6ab0ede63ec07e097c49b469086c8003fa2c330a91df7c73123bc0afa" data-requires-python="&gt;=3.5.0" >textrl-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/2f/5a1e29d75abf6fff1417dac0ae4d4f2ded17e292801d2ee52708f74a2d48/textrl-0.2.0.tar.gz#sha256=65c15d7da9e7227769e9c18c3f237cad015f6f6f3e775b7abc97e985bbd351e3" data-requires-python="&gt;=3.5.0" >textrl-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/36/abdcdbd23369ada1a7de5c1c8eedf28431f71ddfe6529f86b757a84047f7/textrl-0.2.1-py3-none-any.whl#sha256=4129bd7b0091f3db7384f07a72559e0a468ee82e75af81f8d58695db3f3b16c5" data-requires-python="&gt;=3.5.0" >textrl-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/10/72472d13e010a4a3f2727fca1c8a60c9325e2ba303a545f118df3e27ab9e/textrl-0.2.1.tar.gz#sha256=02793fcb8df6aecf6b9c3188c5828acb05af9bca19b02ee9fa3f4fa10a7f5f76" data-requires-python="&gt;=3.5.0" >textrl-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/6a/6a277ebb5e26c536b79bdb674b67f3966e7aafd1f45c8e1fdf36d01b0d9e/textrl-0.2.10-py3-none-any.whl#sha256=2f146ccb471000d868e48c48c5bc47928f05c1a0ee1ccc33eff3f0e47d1de7b9" data-requires-python="&gt;=3.5.0" >textrl-0.2.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/be/20d35bebc1baca70f3cc1543dff69c04bdd9475615535540034c282c445a/textrl-0.2.10.tar.gz#sha256=b354556b2a289a37d0301e41204d82cc908374d50ceab81896f3c92821414abc" data-requires-python="&gt;=3.5.0" >textrl-0.2.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/f1/6352727409b42630c47d2ef9deb394f1df1c9d9b09aaf69fc1327c20ce38/textrl-0.2.11-py3-none-any.whl#sha256=085c8d9bc31593b0a55852f0e6acc700d18fcf18074c54e317046efa9831e96c" data-requires-python="&gt;=3.5.0" >textrl-0.2.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/25/827115c31dae9c5b62800b718d71d8d9fb05b985b7b37f40e02485f2178e/textrl-0.2.11.tar.gz#sha256=c5f4b241416c28c5c11022c789630ba552b8ea078245d2bed4d0700c99cbbcb9" data-requires-python="&gt;=3.5.0" >textrl-0.2.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/4f/06840fee28ccf3d17dfb5e8ccec228237e3391899dd7eff6fec7ec48b323/textrl-0.2.12-py3-none-any.whl#sha256=f864ed99ebd9e9c8eb3b2dc38b2dd7595ed9a44c1c5110d24f42ecc5ec83e7c3" data-requires-python="&gt;=3.5.0" >textrl-0.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/a8/79f753f16d9e01f6e30c5c8fb379ac2440c09a2cf2e46e397c562c1eecbb/textrl-0.2.12.tar.gz#sha256=6dbf7722ad02ac3d4e49ee8091e4b6f80c75780ce4ce57564a705c4e462c0199" data-requires-python="&gt;=3.5.0" >textrl-0.2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/fa/5e9d61632b443f76e319587c0c003330d436cda24535089c6795b75b5661/textrl-0.2.13-py3-none-any.whl#sha256=64fc7e020a67cb3390b84e39628d786a30dbec5a2daeade3f97e703c4c7fe35a" data-requires-python="&gt;=3.5.0" >textrl-0.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/68/e05d5a475b5495b26b1d94e8038d0d95e89578123a3a6f336678453adf69/textrl-0.2.13.tar.gz#sha256=4eb9b7abf58d0a368e02f013ae5d656e5f82e4565bdce91eabf19b95614fc1d4" data-requires-python="&gt;=3.5.0" >textrl-0.2.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16393923-->
+<!--SERIAL 17114003-->

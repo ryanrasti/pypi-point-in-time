@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-snowflake</title>
   </head>
   <body>
@@ -882,8 +882,32 @@
     <a href="https://files.pythonhosted.org/packages/66/ee/e82230b1b582dc5a9f0543fcecb63eeb26d562cf2de96e9abeecf3707f8c/dagster_snowflake-0.17.9-py3-none-any.whl#sha256=5d1fa5a6529b1b19c5d1c5a77f9beba34df66e3c1ae7fdb25e49454f41730b5c" >dagster_snowflake-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/05/271199bd1a9bc8e7870fea1144af7aab18127b3ed5eb436cd47ef8be94b3/dagster-snowflake-0.17.10.tar.gz#sha256=157c14111beb694bc9201535d1dd7eb897c98b4b3a919bbc0b5f04e2cd0fdc45" >dagster-snowflake-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/19/34/53a7d0e7628584ce8e457426c285316da44789b897578ff57d802382c0f7/dagster_snowflake-0.17.10-py3-none-any.whl#sha256=1b45feac11a74c373682b15d60c2fba026d1fef7513e71639e872867cf59d693" >dagster_snowflake-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/19/107c61085ab6cab1144f49c3c7642463e0d1953b5247fb0b8011562ce7f5/dagster-snowflake-0.17.11.tar.gz#sha256=41310fe1b13668b00e146409b075b05725d84e58845f8696ba6131b4193b618c" >dagster-snowflake-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/97/4bee96823182d7b5a511eab64423aa4f024a9df8db7c87ca3a8033e7eb7d/dagster_snowflake-0.17.11-py3-none-any.whl#sha256=3d135480f27d195faa84ade6ecb39169ba914fc539856a7a88ba74d564322aaa" >dagster_snowflake-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/ee/2742326f7313a62bf73e4a214fb8ec620f61c124edba17d7cc5e141089ac/dagster-snowflake-0.17.12.tar.gz#sha256=ccaa573878efd7fa4afc959dcdf932ac6f76431590ff77e85430d269353b214c" >dagster-snowflake-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/0a/c3867221132a63c7595c39c25f3710a5a9e2abe58364eced45e49087d99f/dagster_snowflake-0.17.12-py3-none-any.whl#sha256=f1b51d2cb8ed3d077cc07d00ed8826745bb22e9b99b634e8172a8bdee67dbc97" >dagster_snowflake-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/b6/d548338562441e7d3beefce28be4019efe902b007939a3f60efa621534cc/dagster-snowflake-0.17.13.tar.gz#sha256=542a6fb56778c3dafe5cc4e01d1db3aadd9514db8ab722dc9c01340d79b0aa2d" >dagster-snowflake-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/00/8cc99c347c48b81c220315f4ce9ad9d38cd20fbdcbeb34bce62370699a54/dagster_snowflake-0.17.13-py3-none-any.whl#sha256=8ac8975cdc5f6a957de6ba2e1e2c92cdb72e521815508039bb23d06dacbfbc94" >dagster_snowflake-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/66/e6a65de6d73581212fe5b16742422c485d9a1afdd985f4a7948237afa67d/dagster-snowflake-0.17.14.tar.gz#sha256=05ed837598eeecbf8871ae7ff043bfafe81f86052eef72e8abd002a724f7d96a" >dagster-snowflake-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/7c/a780d1f829e9819df5a00117c4bc2721286977af178853f5239de4254eaa/dagster_snowflake-0.17.14-py3-none-any.whl#sha256=060862246f4f44fd227680cca3f57b3b76ed6db82d72155c951f1202f3a01f3b" >dagster_snowflake-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/cd/86607335bc9bd868f431d2b8aede8f33da7d79cc19e7a5a5c159875f39b4/dagster-snowflake-0.17.15.tar.gz#sha256=7cba00ee1695b8b8000614209b93e6973df2cc21c85bb7d7c0d9a21b41afece4" >dagster-snowflake-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/fa/cd359b0232fdc8415a7a6b05fab5962df889370fe470e776469443d240d9/dagster_snowflake-0.17.15-py3-none-any.whl#sha256=dd8eb9b50d13446fa06740db78daf62048b151c9016b03457290a1a1ad834a1c" >dagster_snowflake-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/16/be4ed62342425cd8996d7dafc97fecad7e60137f48fbdbfc7663616e1751/dagster-snowflake-0.17.16.tar.gz#sha256=f75a2da71d4316f753fb561c158369fc3b7b8f4757fde657185fd45069df5079" data-yanked="" >dagster-snowflake-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/a3/955cbe797ece3a14f9bf63e5afbc95ac48485c76388381cdf84b17b71ee2/dagster_snowflake-0.17.16-py3-none-any.whl#sha256=4ed3c065884cca53aa970c606fa6923e20f54e86182bf610fdf66fdeaf01a760" data-yanked="" >dagster_snowflake-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/c6/e22c6155ed960c3a1092ce71eb5413d7247e027a855b6bc31e9b07a68ed6/dagster-snowflake-0.17.17rc0.tar.gz#sha256=5d91af640b4353feb80016c787b521ea926733f07a11e897c013684b1f2e21bd" >dagster-snowflake-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/a5/42d8d62586478b2104c2cf156d11491de8d7d223cae16ad6e8221b652e31/dagster_snowflake-0.17.17rc0-py3-none-any.whl#sha256=cb8827d490b018c50c794f39f69c370d318966a2d280a419e5076c9d65c4e74a" >dagster_snowflake-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/b5/5d5397a39960e8749735491e864c38a4b9cc33c91223015f586d71621076/dagster-snowflake-0.17.17.tar.gz#sha256=0024554a988e7edbcb471633f76f3a43c25f2d06c8b2d6dfa563d7a8b41b94a1" >dagster-snowflake-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/57/49371cccd39c1b51a301750d134c8611d0bf443986a9afb3d5ff4441e45a/dagster_snowflake-0.17.17-py3-none-any.whl#sha256=e508b038f9287c86805e3ea9d47c84a0b0eca0455149e268d4d03ea8b932627b" >dagster_snowflake-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/9e/167bc3f2cdcdeadfa0f8514e013cdeaf77c2a18b9d1efe7f28a5ac48d219/dagster-snowflake-0.17.18.tar.gz#sha256=89c57e79fc9d9518b6579306ff57d8015ff111c4d51377dcc9d96a5773620692" >dagster-snowflake-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/38/e98214e54dcca0d1956af45d890bdaa390acf64e78aa52688633215f4ab2/dagster_snowflake-0.17.18-py3-none-any.whl#sha256=a45001fe9954fba8649490dc6dfddf8e9d04b28c0fe58a62055a68ddc4d6d1ea" >dagster_snowflake-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/4d/6125b57b589a9177dbf75db96705fe74d728d231db7fac3b55096e7549c7/dagster-snowflake-0.17.19.tar.gz#sha256=1ad2b40d190dfe7224bee85d7e7f518f6399945c33919ee82ceefa69ac505b06" >dagster-snowflake-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/5e/7f7f5f52d9a8335e7b6846b819754766382bbdf27b5406152f3dd86e087f/dagster_snowflake-0.17.19-py3-none-any.whl#sha256=6d898d69a4f3745b8fd7a66bfe673da5acf21fb0221b67270698711395818319" >dagster_snowflake-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/bd/9e180f2a6ca93605f1faf2ead24707350507d366baa85fae7fdc46a38742/dagster-snowflake-0.17.20.tar.gz#sha256=7a6e6502a325a252d74ac5a777e10fd183c386990f9f76e7a4675754dd3fb34c" >dagster-snowflake-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/36/ad1360d602c7a8f5d42c2f00178505b7ef7f3db2bcf74123cf74f05d6364/dagster_snowflake-0.17.20-py3-none-any.whl#sha256=f36dc4a6cb827682e792d6ecb530908f2a14adbe7380a704e6790fa4817027b9" >dagster_snowflake-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/50/15e8ef22a059d928fb18f2cbed67fef61864d06dcdaa40455bc154182c71/dagster-snowflake-0.17.21.tar.gz#sha256=384b5caf686a461af50b63f3bdd32d0caaabe29637c9e107cc40f1afff2f7669" >dagster-snowflake-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/89/34fb904928a542e4227f9b4dc547aaabe1b80674b185214f34c04170f05c/dagster_snowflake-0.17.21-py3-none-any.whl#sha256=e4c9b76eebfbe98940961edef5436c3931ecbd5d7bbd10bedeaff8600223b469" >dagster_snowflake-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/8d/33e72a97a091c64e8726210b76a85d9f1a5fa0225cc20bdc7f1fdfeb2104/dagster-snowflake-1.0.5.tar.gz#sha256=8d7edeb2ceb2130681538f4e71bf9c27d9896761a8b3b569f247ad2afc4bbb06" data-yanked="" >dagster-snowflake-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/cd/47570791fdc461e1f34c301f6224b7eedca991a76ae7534a22c99af2b153/dagster_snowflake-1.0.5-py3-none-any.whl#sha256=f3b704d05deaa2964239c6721a3dd7c85d2c414d184ad1f657c80d31b8bd1c54" data-yanked="" >dagster_snowflake-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408573-->
+<!--SERIAL 17135756-->

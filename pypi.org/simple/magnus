@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for magnus</title>
   </head>
   <body>
@@ -48,6 +48,24 @@
     <a href="https://files.pythonhosted.org/packages/02/19/a48cf75090c6047ed9f26e6c61fda80a72bce0919e5259b3ee98b7e750d1/magnus-0.3.11.tar.gz#sha256=012faf927da81176b1fee6e43ae2c78942b29fa1cb03eedb796be80b07a8be6a" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >magnus-0.3.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/47/d5/5a0682e059ec76662a9550f103f2003a518f364218213861a896963b75db/magnus-0.3.12-py3-none-any.whl#sha256=e3ea930833ea0192bca9600a8b924cc8126a2d5fcd7e8dcf854980cb59572250" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >magnus-0.3.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/f0/1c933dd13d38edd470e0228044a22f37b3a0573caa8928cf647b137e2708/magnus-0.3.12.tar.gz#sha256=b1d3cb428f95aa95294a733376ad4aa77f96d328a05ac1ac7cd0eedf884659a9" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >magnus-0.3.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/6a/dba182cf4c9d2f836e70aac548f87b5a5cbb037e3a4ff67ea34201542437/magnus-0.4.0-py3-none-any.whl#sha256=bcfb9f81a8f8322a6342a445b062ed677502b16c738bc198b94e6ee5071d3859" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/ac/8545c318245b62d83e13a6842dd9cfb0fcfc1c789cc806733e71c31cb3ae/magnus-0.4.0.tar.gz#sha256=43c08287b1ab4b021fb548aa44124970644e34c5f662af63b2b2db904f31bac8" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/82/0094f9aea3bc3e0ecfff1aacb7abd5365d4aa4cb1a9931743a69ce3193be/magnus-0.4.1-py3-none-any.whl#sha256=268f0622b206de6dcc038a79dd90f4160bca0edba279644c33fcd57bae2fb560" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/22/0f33e40398c17e43a8fcbd26f4e4d6129c1d7f1a4dfe49d0b7c9533b09cb/magnus-0.4.1.tar.gz#sha256=874060dd142c96f9b94c11526bdb0ead85470cbcf5932b5090dbb1abddc6fc9a" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/b6/ac95baaf2037b05fd7398cb3a6b598a9832c1643aafb023e5effb211d711/magnus-0.4.2-py3-none-any.whl#sha256=3f25ea3e352a01a1e359bc5409392ceb71d2b24f0027358153c13698f00a7df8" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/a0/3574990ceccaecec60358b3ffa7c581eec86cca0c0f494405f31594210a4/magnus-0.4.2.tar.gz#sha256=4304f73ca6dcb7e962d47260edbede57a4f4000471d84fee14f979ba143b1ddc" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/27/f4f729f40a06f2279a21d8d5398ca30c77dff799872e43dcfc56798618d0/magnus-0.4.3-py3-none-any.whl#sha256=003220c4d7b725d0104344905e2584b41110c5c8a9b794a0053a30f8cf3af76c" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/2d/3e43b7a98b9fb0505d4962a8c916462c192492ea2983ad41912854e05c20/magnus-0.4.3.tar.gz#sha256=caec2bccdc1f9e468bfdedade4451dc70aceb518b251ed3bef270108d688f4ff" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/c2/cd56dbe81410a6e1451b5ea8a1e932b94487307c8a6b151c07d150a712a6/magnus-0.4.4-py3-none-any.whl#sha256=40eb14414f36226d26ea750d9c3514373898d2379a49238b52450cbce271412d" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/1f/f39f115262d0f656448b41e13879b7df7e3da8ca1a445885e1e377c80e1e/magnus-0.4.4.tar.gz#sha256=fe0b13b32bf83d94e16e8ded122a3e298004d25c4045bd58cd96ebe8a32b7995" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/b9/a25945407c2aed59759574990c63d21509ac7348cf5d1388d20bc268bb0c/magnus-0.4.5-py3-none-any.whl#sha256=29e5b69609fbdf3d40b0ed0530bc183658540702f03b1c61ab809dc342c8fc64" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/87/39270cad6649804a698423858b37bbbb9d38db71e43b5cadfeac1e50f220/magnus-0.4.5.tar.gz#sha256=46b9b61eeff0bd39a578885611e50544845a297dbf539ef1e761ba97a58c7eb0" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/de/25a14be77cb137ad4181906f3e8b69f63b997b78b6db049096f708afda0a/magnus-0.4.6-py3-none-any.whl#sha256=637b97ee5eaf98ac86a7a15d1130918627640c95d1a0ec77965dfeb9aed0fc4e" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/0b/ea7aa23be952fb183e79386c648b5d21a0431305e95d7f3893a075ab643e/magnus-0.4.6.tar.gz#sha256=67d99588e5ccc2d28254ab211a0824c07a17a256cc2cef1da206fc97e8c18ac8" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/12/927ae7b209e31dbe2463d84bb076d9124f653ae814cc7ef725278fcbd900/magnus-0.4.7-py3-none-any.whl#sha256=8317ecb5202eb12af0c31ff1071bfbf8b74573059a8f3cee2b8909138113374c" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/63/145759dcb880b17b8690a1654bf78631ee6e6e29d65824cc694656325127/magnus-0.4.7.tar.gz#sha256=89731ab5a88c20e8adfe5aab2567776c9c4b3a36e69bfd9e8ccaa053ac857676" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/65/18572d68d43277419d733f91ca7c5f46e1c884b3ecaf067b3317494f3eff/magnus-0.4.8-py3-none-any.whl#sha256=bad157b041e254313f3215a785b17b49b8391b838c09b714b9650367c08c409a" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/39/6e79fcb32eeb63890ea90c481570e93e3cc96f5428dd4de86e0421b4a87d/magnus-0.4.8.tar.gz#sha256=d3d97afa7d462b37be8b3c87b0cf1462ea188936532b8caf24f42b25ed6b3510" data-requires-python="&gt;=3.8,&lt;4.0" >magnus-0.4.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14520272-->
+<!--SERIAL 17118559-->

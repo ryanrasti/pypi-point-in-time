@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for paux</title>
   </head>
   <body>
@@ -26,6 +26,22 @@
     <a href="https://files.pythonhosted.org/packages/2d/58/c8f257f88d9c103ab6da607030bc9500f37281b42cc8d2e63b57f66b4cb0/paux-1.0.0.dev8.tar.gz#sha256=e72429164c3da6a77f610096da49fc6b1440b40bffdbf85c2445a5c602956887" data-requires-python="&gt;=3.6.0" >paux-1.0.0.dev8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/11/d04f1e526fd52952f4ef58089df1e667e280132b07a31b7d0d8495d5829a/paux-1.0.0.dev9-py3-none-any.whl#sha256=10e6af7c9e7d6a13716b16157e80b163551d05f8c85154119bcbd68bbaab83f0" data-requires-python="&gt;=3.6.0" >paux-1.0.0.dev9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/75/7ba1abacbe8edb15bb4453308a909aeea927a22a315675f97a120dd0c23a/paux-1.0.0.dev9.tar.gz#sha256=90793383660113dd2b550af3774581e60af8c56a0e6165056fb160f77b2e7666" data-requires-python="&gt;=3.6.0" >paux-1.0.0.dev9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/6e/e0b3ea7b5472ca4303842ad8c0ee1a341ae6cbe61bdfc45a5ac3e25ccb27/paux-1.0.1-py3-none-any.whl#sha256=93ab0545ba7885502348595f363345fbf9a32ebffe614ac9df8a70b862c1bd8f" data-requires-python="&gt;=3.6.0" >paux-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/31/14d90ae27dc6534940bc604812683307e96112b70c50231b3f8b3fdc48a3/paux-1.0.1.tar.gz#sha256=dcd89488ae5473d7357ece22363e66825d35a415cb8887bc40448fac47092f12" data-requires-python="&gt;=3.6.0" >paux-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/38/46bf6046161c85f49f44efa3f14380df6eb31135adced865d61e1b60a951/paux-1.0.4-py3-none-any.whl#sha256=2a3a2e65eb633be775deb8ece8a8497e37b2890a823eeac6176b6c44a7bbdc00" data-requires-python="&gt;=3.6.0" >paux-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/cc/155a9f32747277c2a1b049115d2a5fad6aa3c4d7a1ae1bb3ef4b8d73a3fa/paux-1.0.4.tar.gz#sha256=c26ca5e64d4f8fed01b34b021fa55f74b3c3674468cff8f5c6c56e9688d4a419" data-requires-python="&gt;=3.6.0" >paux-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/49/3a074ea73e85dee602a9f68cb94e9e082361d4c03bfd4a7c6d0e6605449c/paux-1.0.5-py3-none-any.whl#sha256=235a5542901e6b120b53b664784991f79936e244b777756554cf547a6b6ac1a0" data-requires-python="&gt;=3.6.0" >paux-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/53/d4250dfe0a12aaacd0f354db5d083cdc63ea2e92613e4fbd74dcee1498f6/paux-1.0.5.tar.gz#sha256=658965a974c4b09aca9a73bd1f42a820be6cf6886248dcc127b46c435a1984cb" data-requires-python="&gt;=3.6.0" >paux-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/05/408a64ea407defe6f2bd9264f772d1da1ad765ce9f02b2f8fb3df3ed4ed0/paux-1.0.6-py3-none-any.whl#sha256=085b01a796628c91acb1bcbc1564576cf31d0764421ae8e7cf5824d35950b9b0" data-requires-python="&gt;=3.6.0" >paux-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/73/dca636215fd1ebf3d923d67cccf1955f9d4e24ca30478fa4592ce20788dc/paux-1.0.6.tar.gz#sha256=c87610af8fffae32c021f6671796a82d2d77db46dab4eda9fa7b5fa6d81f1fce" data-requires-python="&gt;=3.6.0" >paux-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/eb/a8a94fc2eff27e5b4b1b229dd3fe2d14bd675ee8d714bb994bd080594864/paux-1.0.7-py3-none-any.whl#sha256=cb779eebdd765a6d3178d19ddbbe2b6e4ffe1c1c91124b09476c14676b3bdd42" data-requires-python="&gt;=3.6.0" >paux-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/f4/98d3243e8a029779c3ed9e570d932d2616edbc9855671c47906e32b132c6/paux-1.0.7.tar.gz#sha256=5957a6140d252b3a018a96bfc1453685ad45502a1d2445d81f546e6be51bea44" data-requires-python="&gt;=3.6.0" >paux-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/1a/dafd4b48bf6637c542c4627ba9f34247b0976eb0a043ed527f04b15cd097/paux-1.0.8-py3-none-any.whl#sha256=5feb05eff9b05c49df0a4d31a4f0810f9d07a9b682a83cf6d030228a8e754bb8" data-requires-python="&gt;=3.6.0" >paux-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/5a/0a7278949d935c4b2aa6a9a8dd76644d2fd34f508914864825306237283e/paux-1.0.8.tar.gz#sha256=7b6c24f0af86ccb4e09e89cdc952e14ff07e9ddc5b45eebad0b8fcf6ddb5d4e3" data-requires-python="&gt;=3.6.0" >paux-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/73/6451cd5ae9b69d9829e0db301df46a2aa9971ebdfd17ea3c8858716191a7/paux-1.0.9-py3-none-any.whl#sha256=af00206bf5350bfc67a85bcf66de14a36451401adbe26b57d9575a91b75f2940" data-requires-python="&gt;=3.6.0" >paux-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/de/3f48581ee8ebd48919d024a6c2c5737a88cec7170ef7de5acab24a467587/paux-1.0.9.tar.gz#sha256=e103e40eea5e434cc1d1eca7690dcd8f1ba3bdf60aa65af63e16c9469d945c7c" data-requires-python="&gt;=3.6.0" >paux-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/9b/3b22cc911d53cc62d84037b99846dafa70fa13a1e87d2f64f00344ef28d6/paux-1.0.10-py3-none-any.whl#sha256=bbeabc703811b421af34483a6cb657447abdbd8f2921a77f9c595dd7738ea1b1" data-requires-python="&gt;=3.6.0" >paux-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/fd/10473c4da38f55cfa63ed07fe6716adf8d5c8419619853e0e2ed7472918e/paux-1.0.10.tar.gz#sha256=c2a851817fd6896d3553d2e30d31d7e86492b503c114b7b934b70a8104ab9911" data-requires-python="&gt;=3.6.0" >paux-1.0.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16240117-->
+<!--SERIAL 17128584-->

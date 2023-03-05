@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rsmarkov</title>
   </head>
   <body>
@@ -24,6 +24,14 @@
     <a href="https://files.pythonhosted.org/packages/f8/2e/4f13f25ce1996bb8f2f0e1c8ee7d25047767ad9b8384f4b74883c81f3ed2/rsmarkov-0.1.2-cp39-cp39-macosx_10_7_x86_64.whl#sha256=b67defa8bb379c94002a3f7bfa0ba335e1c79dd65df158418f79e68b59dfaad7" >rsmarkov-0.1.2-cp39-cp39-macosx_10_7_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/90/60/0126e023a3b243d4b92669f260a8b85ba7e4b8dd19f04c7ea11a595f24dc/rsmarkov-0.1.2-cp39-cp39-manylinux1_x86_64.whl#sha256=f68b5cfba11292a86fe087957cbc2af0fafa9e7cd2ee978b720943a55bfcd968" >rsmarkov-0.1.2-cp39-cp39-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/35/60/683e4c63e16b1f57daef8908cfd0c4fb1af12d6408863a4440d079246159/rsmarkov-0.1.2-cp39-none-win_amd64.whl#sha256=4f46d1cc4c790b5e2826c668b436f07091a645da064276895ec2b4e92d2166a3" >rsmarkov-0.1.2-cp39-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/e4/c61b8124cc8f880b443dbeb58f865e3a151fe25b35757b925dacec040ebd/rsmarkov-0.1.3-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=86c219e4f1cfe5af0621a22970a0bca89cac01ca3fcd3f7983f1e7fe347e8da8" >rsmarkov-0.1.3-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/90/27ddad4d86c4ebc674ee0f2dc0ff51be438f73e6502ca9ecec37138ea43c/rsmarkov-0.1.3-cp311-cp311-macosx_10_7_x86_64.whl#sha256=b6711b0019fb4f59251cf0c6c1e17ec3d61fd354fc1d91dffdc82a011992dd99" >rsmarkov-0.1.3-cp311-cp311-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/b7/3e8e73c6edda2cfe9e1056d6707ca1a501fc891ebd4b3ad308a69358cf94/rsmarkov-0.1.3-cp311-none-win_amd64.whl#sha256=9e847e225496642e943491d9d83df8f8a2e38aa89b138741ad9d672094096b15" >rsmarkov-0.1.3-cp311-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/dc/196c5d8b84c94fca35d2df1d1c35407918f788d1dd027cb7b4b14021a019/rsmarkov-0.1.3-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=09f3c277af2c8d06c87a0115e694d7c3c5a68242c93a8ecce340002f3a80759a" >rsmarkov-0.1.3-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/a2/7d2601ae1bdf47f9dc740ba426eb8f23b8afd06bc08ec0f5aaeb6e0be5e7/rsmarkov-0.1.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=61831958f90a4d8035ed16be6dbc2faa516ebf938ddce1198e37f6c81c5a8cac" >rsmarkov-0.1.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/e0/fb01c8a25f54a0f5d4789669e3579577582924c1fe1da20e8139c69d308e/rsmarkov-0.1.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=a49fd1d548ad8fa144a1c680577582514c64f03602b662622810baf6fce829aa" >rsmarkov-0.1.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/f8/e5447456d8a00de1df215cd7e90dcb63be632305a906027f0ce649df7175/rsmarkov-0.1.3-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=0c2e06b55f5b5e31faae840398be0f2ffba5fdf48ccff22591ac2553b7c4243a" >rsmarkov-0.1.3-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/1e/92f6ad1beb949bf8516ffcae20c74c1cfbadbafb26fa770555127af02547/rsmarkov-0.1.3-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=270e11c12769c64bf50818096bb653e015bf7b693c4b4f6de20a62b2e2b22ba7" >rsmarkov-0.1.3-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 10149276-->
+<!--SERIAL 16887871-->

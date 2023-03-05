@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for arcaflow</title>
   </head>
   <body>
     <h1>Links for arcaflow</h1>
     <a href="https://files.pythonhosted.org/packages/78/4e/19db328454e6b9b9ec2e681331915cd44ffd25ac2115b46032b2e591d460/arcaflow-0.0.1-py3-none-any.whl#sha256=b04534efc98806e24fc30bf2b9692fc67361b85a1568c8a97f32c95fcd3ee8c7" data-requires-python="&gt;=3.9" >arcaflow-0.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/74/ef0493159b85d9e46f0a1ecd6f89c0470da87a55394b816d29c51f70a03e/arcaflow-0.0.1.tar.gz#sha256=7a431807f41b62e4d0566478e4405c2c571987241506f21994dd74fa8ab8d6a3" data-requires-python="&gt;=3.9" >arcaflow-0.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/75/e0efdf3e3dea50da74c9d4743afe4f5cdb1d04091fc86ab73d55d9dabf10/arcaflow-0.1.2-py3-none-macosx_10_9_x86_64.whl#sha256=08289221643c779ff10b6f520fef4cb2ad643128e67e297b80ea709ebf1c02cd" >arcaflow-0.1.2-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/2e/30e616730242a8cb61807502415a4f9f87bfe6ad019f280167fd1ec8e4ba/arcaflow-0.1.2-py3-none-macosx_11_0_arm64.whl#sha256=159d53f827cacf0a7e0bf4ff896a280b8b6544f9b27dc6fb9e13b7f6981d7959" >arcaflow-0.1.2-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/be/ed42ca58efe6f49ba61fb75a90730a02248a514ea4ad3ddbbdc19f74ba06/arcaflow-0.1.2-py3-none-manylinux2014_aarch64.whl#sha256=3c1f1cbf123263cf51496243b9dd15af65b7b669ce9396d6611a16b73362ff2b" >arcaflow-0.1.2-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/cf/0566fcbe7885d5980c91fa46263547c0c96e62debf13cc4fe82a8c2def74/arcaflow-0.1.2-py3-none-manylinux2014_x86_64.whl#sha256=9b534bc3a226a87f4a8f7c519a183c1160ef5dc896c94a718361babeea4d6234" >arcaflow-0.1.2-py3-none-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/5a/0cd1f4fe2daf825081259edbea283e2fb6514d237bf1b4242d14882e9104/arcaflow-0.1.2-py3-none-win_amd64.whl#sha256=6bc0c0cb15d09d58216351113c18a310e1d9419a7156dc604ce57a2902e6773c" >arcaflow-0.1.2-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/a5/96acbd7efadd928965e5170ba481c53b2a1ee2f4fc848f97a2be8dc5f92f/arcaflow-0.1.3-py3-none-macosx_10_9_x86_64.whl#sha256=252471bc2aa5868555a3cfdbced8236aecfdc6cda8e708c82bbaeb292ee43da4" >arcaflow-0.1.3-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/3d/7e5ef54696d2cfcdda5e33ee06dd1ac62d46f422890882db01e72ba7303f/arcaflow-0.1.3-py3-none-macosx_11_0_arm64.whl#sha256=b55dd4d1459b56c24fbd1bdfd6500ca9514b3e4d485603d439df8bed913b3fc1" >arcaflow-0.1.3-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/b2/9f8ed5272bf223ad2ee935a2e2ee92acf2cc9eb90aa862c79d426d87f3d4/arcaflow-0.1.3-py3-none-manylinux2014_aarch64.whl#sha256=ff8c960012ad69aa2ab7be6cc197c9257c1384d77235539a2ab0d17c7c8a04ee" >arcaflow-0.1.3-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/d6/91c71dceabb05d877770341dd8176abd015cbdfa485a9e350f1b52791563/arcaflow-0.1.3-py3-none-manylinux2014_x86_64.whl#sha256=00d9298361b379055b78b82ff0bbc48f090d8433b1f0d709625b3597d7f3816f" >arcaflow-0.1.3-py3-none-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/c6/7f83be3e9c81d66b7bd43b9eefc26df6f95b69844ce2b63db15c9b5851de/arcaflow-0.1.3-py3-none-win_amd64.whl#sha256=d7d6e797d64694216193a8ca337f786ae9314845f9a3aea3e5b01671c36e38c9" >arcaflow-0.1.3-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/f1/c7a49121918b8307939abc1d886f892717baa31eb5e8bd8316067378039a/arcaflow-0.2.0-py3-none-macosx_10_9_x86_64.whl#sha256=e762c6b0c8b4f89da2ac00050bb0b0cc8c97b25d8d35bad64d7fffd05f61c8f3" >arcaflow-0.2.0-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/37/e1f4716ac6a580a18c521b7090dbff06b1bbd5346e782683194e7e948835/arcaflow-0.2.0-py3-none-macosx_11_0_arm64.whl#sha256=3db0218ddacfefc819a31f44c6ecca3d1f3011dc41775eadc5390d0f0f599396" >arcaflow-0.2.0-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/6b/ca8a8eab38d6dd2a4079862c52ebfd991cbdefa56075e4f3d44fef9d0ae0/arcaflow-0.2.0-py3-none-manylinux2014_aarch64.whl#sha256=59b176b69610dcb0f8d30f819be3be51a2e812171a738f0591b1ec92eb8d9709" >arcaflow-0.2.0-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/d7/1316c2407d881388fc0c85716afcda3ba589bdb301132c0b343df1500eb7/arcaflow-0.2.0-py3-none-manylinux2014_x86_64.whl#sha256=6596226cbfdd4359862442670afe7ff716e610d6f5eebff0126879457871f137" >arcaflow-0.2.0-py3-none-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/4f/6412c8a206d98624902e5dd3d97934046cc261bbaa5f829d850bcfa07a04/arcaflow-0.2.0-py3-none-win_amd64.whl#sha256=c7315c0b4e4844656517088497e43475531d4c7d7714a0ea75460002efa564d5" >arcaflow-0.2.0-py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14699065-->
+<!--SERIAL 16977143-->

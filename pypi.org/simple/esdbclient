@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for esdbclient</title>
   </head>
   <body>
@@ -52,6 +52,16 @@
     <a href="https://files.pythonhosted.org/packages/dc/58/e135c769b738c9cc41504818a68a23441e205d75eec204b5d9674a83023e/esdbclient-0.4.17.tar.gz#sha256=9bf24dd6988af6ecb3a68edd12fb048dc67a4f50d0f5462f2a2fa9583069333c" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.4.17.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/7e/e94d88e7a0e5451341cbc7547847482f9015d66b202794c48ba5651d55ba/esdbclient-0.5-py3-none-any.whl#sha256=be81e9d84e11c05d5e68273469835e5b811e49c3e5805f7f685e17ac8be5354c" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/47/ad/847a3ec397f2d4403d4f41010932a88b389d2b8656169ffda366df324417/esdbclient-0.5.tar.gz#sha256=d21732e55f9d23bfe0bb1abb3e2c5ac5c653d86b7fac370d90b1a776a8f72aa6" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/1d/c7c20e05e106c2cbfefc6800ed7af4fbe6b8f2717b523ee0232108a90e9a/esdbclient-0.6-py3-none-any.whl#sha256=ede5fada20cb878592df8ab3a3051d416c668abca810521782c2169fd5c23b87" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/d5/6a011a016a7c68573f9f33d84730fc0086d2c11ff9b8670e741ff94bc0dc/esdbclient-0.6.tar.gz#sha256=628b62aed76545f5c841255422ff5b2868e1f32884b7c4dae01f6c0142138904" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/21/3ba20c751bd4beb16ba95d183c312ed570e55c636e7148716c126b21df8b/esdbclient-0.7-py3-none-any.whl#sha256=abe9621b1b3c664f7976f43717791f369293c50154a06e96f32d1099d81e8757" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/a5/497474a01af6be059d8bfe5569535d3b74457583fdb550c8b4a426453d8b/esdbclient-0.7.tar.gz#sha256=123d4dd6e231b89c2b49de3ec8023a9f8eb481bb934bce787cfc64319da9bfb1" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/77/ca2630e406126b4357ffffe3f6c2bda6fcc82ea3ad91e17de5e3de5cd0fd/esdbclient-0.8-py3-none-any.whl#sha256=d1ab6b9c65ac9f77cff2d52e2189fbaf86f32d151855a89c810c1aba2a7f0dae" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/56/a19381759e8e118e2185f1e6f35daee96f86c447c28297d97d31b45514c6/esdbclient-0.8.tar.gz#sha256=4fb5a87ffba8bacade4726fba1c1f29cd4cd105a0dd75bea47214208731ec617" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/8f/9b8942adf027e90e0fda8d1c9358cc0fac90af25282480d3b427ed79862e/esdbclient-0.9-py3-none-any.whl#sha256=1304faba5090e885dccc5d93567e9fc950c4fdbe684dd63f1edd87c42f963147" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/34/77debc175463d5f3c711f74a336ed6ff2540f96caf99f248b20e06eea78b/esdbclient-0.9.tar.gz#sha256=46cf713a02b3b627e74f26382e8c6aa6ee8953c4e2fa86b90bf5d2472a588915" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/df/046ce79df8c5658c577c8d3fd5ae8c68e3ed4b214c406be02e82883e87fd/esdbclient-0.10-py3-none-any.whl#sha256=52b5857db8686730d6bee9635fd501ece7a72e135639a65592b2b505f1d29ea6" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/f9/6276ff57697ce1029089ce2cf0ecb9db00226b87ae6481da1547b2b8b4be/esdbclient-0.10.tar.gz#sha256=0294a9832a1cccc2cfef7a17f11a8917e89fdae6ab1dafe4c2903feaf34af37b" data-requires-python="&gt;=3.7,&lt;4.0" >esdbclient-0.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15677193-->
+<!--SERIAL 16856035-->

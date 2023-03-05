@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pdbr</title>
   </head>
   <body>
@@ -96,6 +96,18 @@
     <a href="https://files.pythonhosted.org/packages/47/5b/1ed16f2659b044878d2d7b2a77ec2af788fc5be3d750e5cfa7b80eef6ec9/pdbr-0.7.5.tar.gz#sha256=196ae7ffd526cafe1bba8b5e32089e1b6fa58b191c42adbbb73aaaaaeea3862d" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/77/106b9360b9ca8a15366ec8a074d98ffd34353594e2484ef07ace430c1111/pdbr-0.7.6-py3-none-any.whl#sha256=3e54d035405f0178bdbda01e1c4aef8b3bd6781808299551d2a9c7bc114dfc64" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/88/37/8cf8c9180c0165703e1fd57f8fe431629e493f92cab0233479a5bf8b078d/pdbr-0.7.6.tar.gz#sha256=9fa21fa7a2fb936af60994fecea7cb76cf9ac8139dedf7ad1fd3e20c4ea78f18" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/21/ae4bd3db0fb1d748145b5502c3bc981bd2e9df7d00b63c219d62e0d9fc7d/pdbr-0.7.7-py3-none-any.whl#sha256=8909f38de20066010c4cdfb4fe6ee8919acc7e0775d61a9fff87d00ec8c0f16d" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/97/8a2da632397c105ac6423acdd7c499b528ddd17e6aabf9c830767e3d279f/pdbr-0.7.7.tar.gz#sha256=aeab4ae0a80e555d841205e6eb39739b9fc215743215d0fc0c110749036691bc" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/80/a99c64cde883bd3edcd45a95aadda3e8b30427e35a4f1c7e811cc8c5f875/pdbr-0.7.8-py3-none-any.whl#sha256=8e32f6ebff6400f0d0c88897f6ddc79c5443dedda39770195577510281fd7132" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/25/b1d2b4a472d66195265d4051c8743526ea4e76bbdf557ffa88e7a97d942d/pdbr-0.7.8.tar.gz#sha256=a29d46122aa2ab2a740b9010abc6644cef486f63b62ecf2727b5565311971427" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/83/f28e258ea587fe4c5d9254c96e1f4d6ec07a4f66950ee45fd34ed7384976/pdbr-0.7.9-py3-none-any.whl#sha256=ff95aee8aac963b16c18408563939a8138c1303b5215d5e61055f57387be62e5" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/8d/17cf789ef584eb908c817440ea11962b9684dfd991914533a4b1e8cb82bc/pdbr-0.7.9.tar.gz#sha256=24c9d37bc44ddaff402b3686af5dce0db3466233892882fb7a719463c6caab84" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.7.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/a0/af56694aeb0b318f6f1310bf8d0eabaf244067ab7b2ab07ca407515894eb/pdbr-0.8.0-py3-none-any.whl#sha256=f933695aedd16bd353d4fa1c7311529757556788ed639b59e380a3601daff5f2" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/4a/a3c826b793fa834de5e4ca597f686086f56fa6a3bd50924df9b7aae88c18/pdbr-0.8.0.tar.gz#sha256=4ffc9bf10c75c1e5e25127d0882dbc449e201dfa55d62a0b1126060508c6e8c9" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/3c/161003bc0196b14defa9bee6cd5092ff00c7fadc9e11f3f5cbfd9fd122f8/pdbr-0.8.1-py3-none-any.whl#sha256=a2b1ba4f5857f6125e25d87b2bd3c45fe1262097da58a6220288ed28d29896fe" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/6a/e76c425f4d1ba3b783c1ef24cbd2697a1685d42bf3b08c57ab1f2cb05086/pdbr-0.8.1.tar.gz#sha256=4f8e6c02761a972efe9bd82ef66a4de90906b9a93f424a23fb59bbd3553912c1" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/1a/4763ae399b799ee1b7760e4afea82f1005418532c1ad4e31c5af8807a80e/pdbr-0.8.2-py3-none-any.whl#sha256=0667c3c852e0c5a952bbef63d8ad37e950914105b215b55f3d9bcbc87b67d9c3" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/e5/ee48df69e0f4e6b5008f644904a9d7a6fbeb85f50f45df325f2b6b661925/pdbr-0.8.2.tar.gz#sha256=1c427a6175f1603394a0fc896a5887aa57b871a0ac06b47df6f585f542dc9e12" data-requires-python="&gt;=3.7.9,&lt;4.0.0" >pdbr-0.8.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16287377-->
+<!--SERIAL 16631682-->

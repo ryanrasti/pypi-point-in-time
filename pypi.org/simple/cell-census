@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cell-census</title>
   </head>
   <body>
@@ -12,6 +12,20 @@
     <a href="https://files.pythonhosted.org/packages/66/4f/ca05be214d2005700bb3bf67869f283b3503c5105995bac3709d1b776062/cell_census-0.1.0.tar.gz#sha256=3f83d0063c8576c150fafdba7c99331f1576655a8ca4a7d96a2307b38d5fd171" data-requires-python="&lt;3.11,&gt;=3.8" >cell_census-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/23/3b3f23768bd283d9b67950e9509311e79abffe9057878c2b331394234244/cell_census-0.2.0-py3-none-any.whl#sha256=2c4eb121e408c3a5ee70ef69b3bf329037eba5edf312106c7d65c25941f90a8a" data-requires-python="&lt;3.11,&gt;=3.8" >cell_census-0.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/5f/923410e4e542aa6fae888d359b11a59d56bd7d44f2437227f1507a419181/cell_census-0.2.0.tar.gz#sha256=b3b2a32eb158112d01db8a63de789b255f283117842c5c3aedb4b4b96f8db3de" data-requires-python="&lt;3.11,&gt;=3.8" >cell_census-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/1b/8f09f8f14ae692915a753935e10ab90b0358dfa91c657e4604636eb25f55/cell_census-0.3.0-py3-none-any.whl#sha256=fea1c542639504f508b69711df17bf92686e6c9559019e7b71c1f0b7588f0b3c" data-requires-python="&lt;3.11,&gt;=3.8" >cell_census-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/59/12d2667dc0cf0e5dc6fcf5b3428c83d11236d198f678e9ef391fa7bb887b/cell_census-0.3.0.tar.gz#sha256=206cacb54d8e5cb7d47efdee94291a76897f42774bb860cee4f0132d96d8a3f9" data-requires-python="&lt;3.11,&gt;=3.8" >cell_census-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/3a/f6e418cc7e7a1a0849ea011253fec1940d5a5c04d870e93131f18399e564/cell_census-0.4.0-py3-none-any.whl#sha256=18f27bcf83b1f82da4cad97d769e09b5843757fdaf3c6bd483db208757ced40d" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/b7/dbe7535cd5ce82310a00cbc976f262e41d77ba051cbc4849004fab2f2a63/cell_census-0.4.0.tar.gz#sha256=a7ef25d989a1fe703a1c750c50094ff4307844d1e87a818863af30f6c830b48c" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/ed/0713fce5ca7d4490b6caab07620a25989c5b9d7d5a1b20138d071cd932b4/cell_census-0.5.0-py3-none-any.whl#sha256=7cc3c10f11e1d3468ba637c6ec78b7369088724f7e257e16e2240563cb1b9359" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/a9/6a26c393431a83dfb029c213f97a913b17c846562efda35b2f5ff49b1087/cell_census-0.5.0.tar.gz#sha256=69776f97a622da8105208b287bae2994afd0a1aa52153c680df5c8fd811f59b2" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/0a/2c6ea5f20bbc414ad229184be3f9e97b8b5e6b7a1aec61e5aeee706987b7/cell_census-0.6.0-py3-none-any.whl#sha256=2882676e18025355cee5946a9b2bb8f3214be021b0289c30cce63c2aa40b6054" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/bf/7cbaecb20a42120567255791bd211fff88247e60a8b05130d5908289a8ba/cell_census-0.6.0.tar.gz#sha256=1d72de63e48c85d48ee6e794f3c7eee66740e987a2ee24fc293e1ac41d0312e8" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/27/8c064f8d913277c955bc14e49c145e9e8ec6201e924d728204d2d674b072/cell_census-0.7.0-py3-none-any.whl#sha256=ef23ac7b575d98ec6aa1acbb34bbd9ac32ffdebdf268ead800e2b7d0387abe9b" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/02/d2fa4590e8503e112c237af6df78a066a4e3fad26196586e4841008add9e/cell_census-0.7.0.tar.gz#sha256=8d39309068ad8b48739511385f971930f4da1415b7a4bd28a2f8206be5129c26" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/ff/3f532eea11f1816dad4ff9e3e5d0d57b4eb7b6085ca1fd6507b67003472c/cell_census-0.8.0-py3-none-any.whl#sha256=5d2f2da7fa6b9ad3e60907ef720503a7bd1da707f2fd9804fc5c8a3d2eb3b333" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/2d/27719003be2d8042bd4b76d4782f2d79dce18a13a19102e2503d747c4052/cell_census-0.8.0.tar.gz#sha256=709b1d1bbc2feae553e3d2945186a30160c65f686a06eadb37ee02aecd8eb52a" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/31/96b551ce268fc6d2d8dd1671f0664dcd58c56fee6119b9bc176bdd0ce065/cell_census-0.9.0-py3-none-any.whl#sha256=9961ab4ba693addd23fb267f9ade185d68a9c8c6afa83181d9de4a5cb0db6ffc" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/82/5ff360fe84452fedaeaa9098a5ad633c9f7900e4f6b74d780cce4edc4dc0/cell_census-0.9.0.tar.gz#sha256=e26e7490431e404687c92d349e0f11b9446b1429373d302ed1bfc9daf07f2c0c" data-requires-python="&lt;3.11,&gt;=3.7" >cell_census-0.9.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16424777-->
+<!--SERIAL 17157924-->

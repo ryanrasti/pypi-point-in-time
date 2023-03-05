@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for olympipe</title>
   </head>
   <body>
@@ -20,6 +20,14 @@
     <a href="https://files.pythonhosted.org/packages/fb/95/3ff66e2bcdae8c012924134a351bfd7223c0cd78faa7387f0c8c8e647329/olympipe-1.0.0.tar.gz#sha256=28daea0b3fb7e3a43ca990a55f71fb6f49e5977a543bc3b3fa24885dc9daeb1f" data-requires-python="&gt;=3.7,&lt;4.0" >olympipe-1.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/32/df/dd3a4f11182abcf17181391a5b197964f45d2bab896d55a67f80d9e2a253/olympipe-1.0.1-py3-none-any.whl#sha256=691b3e3b75ae2819a73d57be145f84c853688438d7b4d2c5164c5ab39e0a022f" data-requires-python="&gt;=3.7,&lt;4.0" >olympipe-1.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/d0/ae83543e2c1e63f3c43017c18e03592a23c2c07b240706e7f9b9055063ca/olympipe-1.0.1.tar.gz#sha256=22f4b847ae6bd200dc2c7694af75a177650a4256fc40a44bf6a657f59f849ad2" data-requires-python="&gt;=3.7,&lt;4.0" >olympipe-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/dc/61ffd290ef787597e3d940f9c92c2a10c431d4fc6af4e8adc85fff3c15ba/olympipe-1.0.2-py3-none-any.whl#sha256=82ef050cc6e30eb624fd567f5acfe8c468c98c899c73b21b2ce5ff8ee0e4eeb2" data-requires-python="&gt;=3.7.2,&lt;4.0" >olympipe-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/1e/fd2bdb521beb64f4ee6f16f9e26340ce49366352d04c775e9b0243563410/olympipe-1.0.2.tar.gz#sha256=596dffd00760da8057e4e42d5a1302f2ee84283e101f0b8004028be38d049f07" data-requires-python="&gt;=3.7.2,&lt;4.0" >olympipe-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/e5/eff05445ebbb6f413eab5bc5e1186f790560e9f4cf3ca1e24278bd89fd4b/olympipe-1.0.3-py3-none-any.whl#sha256=c37d06c857189a62038a2baa82408b17dd2a76b03aa8ed7a66723a67dcaa9fc5" data-requires-python="&gt;=3.7.2,&lt;4.0" >olympipe-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/eb/7c26e823e7607fafb84241cfeefa8e446ad0ca5afc5cd81b861d1cd49fe0/olympipe-1.0.3.tar.gz#sha256=402f64ca8d31f389d253a08d908ffaac02a7b211cf4051ba2eb20b80c60d5a11" data-requires-python="&gt;=3.7.2,&lt;4.0" >olympipe-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/14/4a9b385c402678a05f74adefc44bfe402caf9376108655e8909627d4f31f/olympipe-1.0.4-py3-none-any.whl#sha256=de64810966230b4eba93df0cb48f8d11de6a5302753a35c40bb3b17a76d06b82" data-requires-python="&gt;=3.7, !=2.7.*, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*, !=3.6.*" >olympipe-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/ea/09e4eb6babae9d7630e99c81de8544ef81cedd18f611e58124dc040c1711/olympipe-1.0.4.tar.gz#sha256=40f78d1778c6c6fe413625eb1a4bd623ea7cd27d8fb5f8e0357e6f3d907a6603" data-requires-python="&gt;=3.7, !=2.7.*, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*, !=3.6.*" >olympipe-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/ab/fa09870e27a60dcda4d8ef2b78285892ea919d79867c2c4e0b60663c6568/olympipe-1.0.5-py3-none-any.whl#sha256=4f2f1c5e03974fe09c7430d1dad3bc4e9f4faedb5215a58018f59c531f5be939" data-requires-python="&gt;=3.7, !=2.7.*, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*, !=3.6.*" >olympipe-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/7d/0781493d2719c339d1f6df06cff79a65acbcd7a38042fed90f0c017df659/olympipe-1.0.5.tar.gz#sha256=e86fd70ac1e4a713e7e807fc113c23a9c1d3aeb0773a732f54cfb0ec45bb5a74" data-requires-python="&gt;=3.7, !=2.7.*, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*, !=3.6.*" >olympipe-1.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15984498-->
+<!--SERIAL 17157800-->

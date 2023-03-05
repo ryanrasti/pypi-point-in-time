@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pylinac</title>
   </head>
   <body>
@@ -146,6 +146,16 @@
     <a href="https://files.pythonhosted.org/packages/97/96/b427822be80ab071153ab11f0811e9c1b008362e2475eb9c159a38f81141/pylinac-3.6.2.tar.gz#sha256=d677427203b0db0ac221bb605cae16f0d5627ef03d69f996beb2c6787a507ef5" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.6.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/f1/1fd6616a2f374b2c1efc88c76cc195b2df39a81e9cbea62e3cc14ea758f5/pylinac-3.6.3-py3-none-any.whl#sha256=d2dce70d35a04e1fe4481e8645e342336ee9c0a30cbbb7448e83ca9f95b9d391" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.6.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/66/fe0794a2b279f176ffdd27b1dccca80b6078d7f1fae087c4766eaf1eb969/pylinac-3.6.3.tar.gz#sha256=c3680441b6ce76d3375e8d69c405d387a2efea8bc2015e9044648e1c013af89b" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/11/1899d714ed35cc0c1cc8b6df2316e3c6b3cc29bfd7baa1213a2e1f43ca32/pylinac-3.7.0-py3-none-any.whl#sha256=5a8c3c070ac371d441c5c1614826702b563728a11ddc65e0829819d66449c485" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/49/e92cab5ae7b1af99e70fc600dbf4bfc433a65755171e67971d506c6e92d4/pylinac-3.7.0.tar.gz#sha256=d651f3902154824649c1db9e488f04dd6f720128ce1047d00ade1cc68a54792d" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/49/a7571d60fed5f4e4ccaea57b954fad4177a5fc72e5047dc9bf1116022785/pylinac-3.7.1-py3-none-any.whl#sha256=438fa8441e26817120062ba6143c01614e4e8945283db1a9fea53e0ffa89b412" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/cc/a571ab8bcc332abbbcab4241c189300e7c5852ff462fd7e79c8a327c1f16/pylinac-3.7.1.tar.gz#sha256=c22b203fc3c172050d42431a837182b3bb723ebbe0ec05affb9be3341f564b0c" data-requires-python="&gt;=3.7.10,&lt;4.0.0" >pylinac-3.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/d4/4dba51bd193a181d3fdccdb62771ddbe874b5ab7fcf21fb0df330bdfac9c/pylinac-3.7.2-py3-none-any.whl#sha256=3b37d2de94d3077be241256faf922af6f8d853654e29c9a754c5302bf8a4d8ec" data-requires-python="&gt;=3.7.20,&lt;4.0.0" >pylinac-3.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/6d/ee10325f59ebc3116721adf02ad6afe067e0abd1ee3eabded964d601720a/pylinac-3.7.2.tar.gz#sha256=4dad0660d0c682f14c4b097a5a1da40d1fd2802fdb2e4c6e898ca1296e66e34b" data-requires-python="&gt;=3.7.20,&lt;4.0.0" >pylinac-3.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/da/84e62b6e772ac50211acc0482b5f7d3cdae006621cf349f7e2ad37b65a95/pylinac-3.8.0-py3-none-any.whl#sha256=28b6d2a4cc7b5a082455fa79664ebdf51c2a052bb76780256b1ac8abee0aa51d" data-requires-python="&gt;=3.7.20,&lt;4.0.0" >pylinac-3.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/e8/de72750cef6f4385a5b9ce6839105e936d95005871ea1aa60cec46b4d20f/pylinac-3.8.0.tar.gz#sha256=be12923ddb15c8d305a062986f3acbe742435e4949e88d811088bfc3571acb0b" data-requires-python="&gt;=3.7.20,&lt;4.0.0" >pylinac-3.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/f6/d36bb67dbc37c8382e6ea5ddd37eadd43004a3f9f49070d7d7acdaa35a3f/pylinac-3.8.1-py3-none-any.whl#sha256=746d89edc0c39632d10b8ccbdd6cf0dcc1d298f272747ce5393f614d54556cab" data-requires-python="&gt;=3.7.20,&lt;4.0.0" >pylinac-3.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/93/e2a4e9142c3be4f2d87d904a3ffae14e734fb97cf3ad2aa7357dc93e9fbc/pylinac-3.8.1.tar.gz#sha256=903ed0ca188126dd806bc88df8cb86cfbabb465c260be7236d437afe263b6075" data-requires-python="&gt;=3.7.20,&lt;4.0.0" >pylinac-3.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16333662-->
+<!--SERIAL 17116794-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pdm-conda</title>
   </head>
   <body>
@@ -12,6 +12,16 @@
     <a href="https://files.pythonhosted.org/packages/fc/dd/cd582fe97abd30038d4cd689f82630ee601e79de8d2656589a0977c789ff/pdm_conda-0.3.0-py3-none-any.whl#sha256=46290bb06eccf250cce155eeb22f42b834b847f8b4fdd51f8813a89b04c86662" data-requires-python="&gt;=3.10" >pdm_conda-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/07/c124b8391e580f0430508a9a4f2869b665d03168800b7e368fb0ecbef41c/pdm-conda-0.3.1.tar.gz#sha256=46f4010858de45a540d2d48806679baf6d80063a136b6b00e6e25a9c851f473e" data-requires-python="&gt;=3.10" >pdm-conda-0.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/c0/e433ae431827e3ac4fde0fabd331f801c549f928aec2724c814ca295018f/pdm_conda-0.3.1-py3-none-any.whl#sha256=0414ce0bbac5a397a06322f7a5cc433bb487f2080cb49177a956d202fa181cde" data-requires-python="&gt;=3.10" >pdm_conda-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/20/8c5c3415b502055278cc35514ac2f98bb2b2c14977194c45774fdd1f22fc/pdm-conda-0.4.0.tar.gz#sha256=78a2f449445b53f73674668590bb4c38afdce08a5fc8b58469595c3905c3c3db" data-requires-python="&gt;=3.10" >pdm-conda-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/9d/4d46125032fb1bcda2c94517e2a710b14cd5bc81d04f745a27cf540024f6/pdm_conda-0.4.0-py3-none-any.whl#sha256=7c9bd186fbc14e011ed53857785413d697185ca6ea0760c72fbb318e0af8bb40" data-requires-python="&gt;=3.10" >pdm_conda-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/3c/eebb6bab9eab65e639bac13c5d13ef1c7f8f310f29c6d30dc07b65d9e031/pdm-conda-0.5.0.tar.gz#sha256=ee909f9c204835db6eec8224245f4bec683caeb967bd08f120bd98823b02d5ae" data-requires-python="&gt;=3.10" data-yanked="" >pdm-conda-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/7f/d5726e9066aa0e94a7a4ed43db51ed3c2fab39a6a38bcd27acab5c186445/pdm_conda-0.5.0-py3-none-any.whl#sha256=295aca957fd621990cf699c6ba1ba95c0860f9d8c8cba58d74ed19ffb9008d07" data-requires-python="&gt;=3.10" data-yanked="" >pdm_conda-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/bb/76ff3a8ac21a89c6c1a1dcdd7557a2948a22a9b408d5d304f6106295a701/pdm-conda-0.5.1.tar.gz#sha256=a4a5c69324c7451264df4c9a8d92917abde2e31b6d8c38267eacedb301ff836a" data-requires-python="&gt;=3.10" >pdm-conda-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/2b/a1e1491f4f867c9df8ace7747395c8415b4de88ea3916c7d71c9e58b2677/pdm_conda-0.5.1-py3-none-any.whl#sha256=c0ef6dd6c02d9f26a6d3298a2054b8cebfbc79e6ec213fef3565f10a52abc3ad" data-requires-python="&gt;=3.10" >pdm_conda-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/7e/7f06bc09bc49e0ffec2ac743bb727fe5314f201e9852c2a09254331919b9/pdm-conda-0.5.2.tar.gz#sha256=e606befed8d27dc04dc26d6ca371d62ba82883abb20215818959436a4d18bcb5" data-requires-python="&gt;=3.10" >pdm-conda-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/1d/d5c7ce00c9300cfb511d2d306e379d16788d912d7ad6e6a56d719cdcbb55/pdm_conda-0.5.2-py3-none-any.whl#sha256=9745952397030e1b5ce26fde94d5016e92c1cd16600ddcaeb9c6650f211903b5" data-requires-python="&gt;=3.10" >pdm_conda-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/cc/70bf07cdc7a5186c7889f02c4ac64ac1ac7b3cff089d7cf1b1d23350942a/pdm-conda-0.5.3.tar.gz#sha256=be14b93e589a1813e3ca3e284515df9eba8bdc415029b7f74a0695027756c3bf" data-requires-python="&gt;=3.10" >pdm-conda-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/85/8df7d3349fcc7c5a5891c60e90aec1910e5a9839cd09765330e0f4a7d74a/pdm_conda-0.5.3-py3-none-any.whl#sha256=b52fcc68cc7fc9656be916aa28ab72763e1ebc196b1a19088919090b474310ae" data-requires-python="&gt;=3.10" >pdm_conda-0.5.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16398652-->
+<!--SERIAL 16566515-->

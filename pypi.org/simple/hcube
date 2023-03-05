@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hcube</title>
   </head>
   <body>
@@ -42,6 +42,20 @@
     <a href="https://files.pythonhosted.org/packages/d4/32/dab2d0a8836b704fb9df494509f11d63afdbd7c12b7bed6360e875974902/hcube-0.9.0.tar.gz#sha256=ccdd43b24b93fe02aceddc958b2685d0201d1131f2a57de40eff95e87fc70af6" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/da/7c/305f351dab8638c1b072452d82bf62080c9b6a3cccf6f29b3083119161b2/hcube-0.9.1-py3-none-any.whl#sha256=6e9f1dcb102fb37915e38dbf48afcfb1df6ce3ecd53bf20bda8a700c06190034" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.9.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/e7/fc9c125b16a046449ffe988acfb8c3006fb90d98239cf77603c795723620/hcube-0.9.1.tar.gz#sha256=fe11da13b5cb05726c8eaa30ad106042033c31aa15de606e16500c19fc5d14c8" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/90/b8b47fb91c26186269054b1cdfb66877f9d4ea4c32b6facb4fdaa2c53936/hcube-0.10.0-py3-none-any.whl#sha256=4edb58fdf543426f45d57f31060084fd8b48d491c606207667cc99b638051c12" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/4f/64e5477580d8379d10f368685aaec7c05899ca797e27ff61900b5355b2cb/hcube-0.10.0.tar.gz#sha256=cad3e04c4444f6a9f874de3d68afedd8729ac8afb6fc60be8519ec61ea270dcc" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/84/72ea5c752483bd789c284f32392033c23a260f59ef4eea13edd5ed485fa6/hcube-0.10.1-py3-none-any.whl#sha256=24790770caa00a52459dcfe01079ddd8ec6e356ea54bd1d983668c18a60e5b41" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/e5/bef8ab80d0d7553edbf867814e59d2abe6ce8e6fd1240b6e92f747a80f68/hcube-0.10.1.tar.gz#sha256=e23bf32073db868b9e66dc91fc9e8d7e55f27a0f617c39d29dd483db9e66422c" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/e9/db8cc8d7de25556a17519babada473042d4ed91ca4e41cc2d42ad7bd25f9/hcube-0.10.2-py3-none-any.whl#sha256=afb960496eea9e90c36b2279800eec8f2a67b65e9c896baa3bbf8c05aba85f11" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/a6/d4fdf293c6f0de1f112778f5ba414e94aea0994d9e04f0652d9b0eba1074/hcube-0.10.2.tar.gz#sha256=1fbd67be4778ee5d8724b8687670d048508b85c284ebad87f49496e7b0083d48" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/d0/9dfb28962caefe96d92bf228cb1eab1e19253ea002a96e20b40f4ca521ba/hcube-0.11.0-py3-none-any.whl#sha256=8a4f570cdf6535b28e050542aaeca156e8ff901bc9e4e566772ec54d9a7366f6" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/a5/29bae5c6114435dc5425747b5b0d812b9bbb0d0fb02eba8bf192cfa90de2/hcube-0.11.0.tar.gz#sha256=c14f49a72a53833952efd2605c8b216f9ff32ee893ff51134f51c57b77f84e07" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/eb/2c75c33319a956c2fa5c169f3e756a98258f2bc2819604ff45e42e383986/hcube-0.11.1-py3-none-any.whl#sha256=4f476ce9434a9bcf694f8d5a95e29e7405a7d8db09ef7be8c738bc04ab6603e4" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/bf/499aa4c02a118c98d039afd2fa7fe9c393e3a706ce91b5d4a18c2dae2f52/hcube-0.11.1.tar.gz#sha256=0d392e2c5e582efe303235d915af3257e49353c105311155861334f6b5162355" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/e5/f217ed3017c5350c093d886141abf9238c7de58b491f6ab7cac87171197d/hcube-0.11.2-py3-none-any.whl#sha256=44ee833aeacdd98b959ac259ca0e4f5d7e0106480cdf0b0a2bd430bfad267c06" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/c5/d0abde4dc0673540e9e58e589623801b7c5e2e553d03b857e474f5c0e86b/hcube-0.11.2.tar.gz#sha256=239d84404666acb9a37ad2cd24d1a08dfdfe56cd8af294ee7ade9e939f894c2f" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/38/a67077f69a254e1b6bd9530422046ffaa9736cd667c0d163c23b0d5409a3/hcube-0.11.3-py3-none-any.whl#sha256=34394970338a69879c3fbad9889848dc5915c0297935c4669491a402abd0a7a6" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/f4/69c20e07da6d5c29c8f142e44e63a423c799ae4606e74bfd4019f929d99c/hcube-0.11.3.tar.gz#sha256=3f1ef935d4b75e55f23fb760ac7042dcdf25f08ce6d278ace978547cbd5b11e1" data-requires-python="&gt;=3.8.8,&lt;4.0.0" >hcube-0.11.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16391097-->
+<!--SERIAL 16637622-->

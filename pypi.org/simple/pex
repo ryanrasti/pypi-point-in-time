@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pex</title>
   </head>
   <body>
@@ -423,6 +423,18 @@
     <a href="https://files.pythonhosted.org/packages/57/56/7db5a203aa34f8e970a24ab5451ade28deb45f3bc711386227e9ac8692a0/pex-2.1.119.tar.gz#sha256=42e82163c1b467dff7ef5b651b454c52a78a5bf36776ff6631b4750080659930" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.119.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/be/85/6ab1207d4fff220e23769e2399640a83261ef89afb55c5e01466fd41422b/pex-2.1.120-py2.py3-none-any.whl#sha256=99d072cbda287a55e0458c381c5591e49ff96d6ab5678e035f939f876fc45e0d" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.120-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/e5/a59cc4b7caa193955c93a7d087728000edc5d749714dba8bf91a13f1eca2/pex-2.1.120.tar.gz#sha256=d5832fb8166a898f5d34d08ccbb875bd3377fb3b3288425ff6a2f473b817434b" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.120.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/8f/8e194be4ef8d3f9a3be6c8cf3599fac8e5dd01b24c5200275d9f2b47e467/pex-2.1.121-py2.py3-none-any.whl#sha256=7e0fe00af54e112d60f0a4274bd7e965043c59d5d931dd4535d5b2cf7ada602e" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.121-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/66/6c81402c74a9f6c701643e4bd1a83211812441fdd3fe2f6053eff40b6727/pex-2.1.121.tar.gz#sha256=d66c099d48bf2b00d06be01518c834df888c195c3e17a524cf12f83226fa2489" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.121.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/4e/55b0dd1a1307e94f78dafaaca1613430bd9fca0528f344910d21e65c2d16/pex-2.1.122-py2.py3-none-any.whl#sha256=fc84a9b1e987fad73c34815efac41dd0103994e1538719118817b7e2d40d1d5e" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.122-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/21/c16cbf08900f1d6836dd6e8aaa11e5fee27868e623991ff5ff13b1545139/pex-2.1.122.tar.gz#sha256=5211e368d85a514d3c84d581322afeb5daa53e5fc778be96bb2ff9d7cb621385" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.122.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/5d/8ab564f1d70552678a5af52f49d19906f0e15744aa16a1b2f58331718882/pex-2.1.123-py2.py3-none-any.whl#sha256=e53b385a2606c6ec7a95af27c84740553541f75c16d8fa8a91dfe379ab503858" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.123-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/2f/794f1fcc40b597514f1d4f92f1f409fd219e7cfaf45667f37910b9579866/pex-2.1.123.tar.gz#sha256=5cf8c7aa5f21ae0c6626e0ffc217bffb052e01def38ff75bf739095fd784288a" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.123.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/19/1cdfd6027e1634069b0a82c1862817e817e1f73b3e87a21ee7c78fccc289/pex-2.1.124-py2.py3-none-any.whl#sha256=8a25311c5b64d6fdd245392929713b1b75f1415ecbd0fc3cb8f07a48e4f1aae7" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.124-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/29/ce322937886352a5617d13465acedb5712bcd08886a79c68c52caa201188/pex-2.1.124.tar.gz#sha256=73f465a29dfbfb1c705421c612a17230f424bb4c583afc460e4968cd1e37f9ac" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.124.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/08/1495e676efd182de386c9bb59e7d5c63c17c601fac10d9548185609a0695/pex-2.1.125-py2.py3-none-any.whl#sha256=9b56d1c4399aa25b53fe15682a6544d103a77a15cf9cc0db7019c71940ffbaf3" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.125-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/cb/073ae88de4b14b916c12c0786edbe53941db7fea1a6270e3fdb8c2a49544/pex-2.1.125.tar.gz#sha256=87ad0cf4d55b870051cb3e705deda479e944cf1627e8fd8ecc243a4c8559587d" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.125.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/43/8c5d97f4acbfb38fd3a0e46f235e6e9d9d20f224dffacecd2bb76093e3fd/pex-2.1.126-py2.py3-none-any.whl#sha256=fef7b5536bc07a69388b64a419164b573e25d4aeae503091d832cb5603438e99" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.126-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/b5/f12684a46ede450a44fa985ece3a310478208a7ff866c24b8b0b6e1ea089/pex-2.1.126.tar.gz#sha256=3fcd6cf993815f2a2ad1d826ea194e35bca3c82f485f9886e9e681e400566b15" data-requires-python="&gt;=2.7,&lt;3.12,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >pex-2.1.126.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16367373-->
+<!--SERIAL 17156927-->

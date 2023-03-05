@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for labelatorio</title>
   </head>
   <body>
@@ -38,6 +38,18 @@
     <a href="https://files.pythonhosted.org/packages/04/b2/876ad34e65a86b8402cf3af75607ec0b0a10b15b1c62194bf2c876fc12af/labelatorio-0.3.4.tar.gz#sha256=5959aedc6cbf9ba27f679e1c4eba76947823bf7290a22d1934adcf42e3bd4406" data-requires-python="&gt;=3.8" >labelatorio-0.3.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/b7/0350226b8f1e53208c4a188c89e8a63503d49704234eb89cb3bad1e12f56/labelatorio-0.3.5-py3-none-any.whl#sha256=f5c939d0c5ca4a9125c9980244f5afcf73006f6fa3e61ce52dbf95942cd3324c" data-requires-python="&gt;=3.8" >labelatorio-0.3.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/47/1523bf236aa1c5a1f74d6372eb84c29713617c275ad413a8be25bcc98f7d/labelatorio-0.3.5.tar.gz#sha256=2ddcac03f77c454c854adc5f4e2c2a721b1aebdb49814291702f3ca10555dd6b" data-requires-python="&gt;=3.8" >labelatorio-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/fc/8891da7cba26eef71a073c05f50b5b5b4f5769263f6534b9799da31d3bbe/labelatorio-0.3.6-py3-none-any.whl#sha256=fbe700e27620381de951c733aa120cc5300a7086ada90a4b7e19f058cc6e6771" data-requires-python="&gt;=3.8" >labelatorio-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/8f/511ec55e4aeef9dea37c01154d0c9c54c8ac26ce83bfe95d56317203568c/labelatorio-0.3.6.tar.gz#sha256=b3e56e377f2b453896d338d722a8175c7d3f289c3f42e2ef16e11fb262103ed3" data-requires-python="&gt;=3.8" >labelatorio-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/02/c23b515f08c2e617cdeb9842b7f457dc3bc3a06749edff71ca78469832d4/labelatorio-0.3.7-py3-none-any.whl#sha256=f3024570536c02f38551d2a4322e1f17607910618b0011adabbc0c53d92f5f92" data-requires-python="&gt;=3.8" >labelatorio-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/8e/0498db111cefa0b371ecf69bc575bcf849548bdd49cbbcb477625bf75801/labelatorio-0.3.7.tar.gz#sha256=fb8eefd81f58b0b46b5d20fb054cc1333d2484261a4855e4bea14e6d287c9971" data-requires-python="&gt;=3.8" >labelatorio-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/02/cf8eaa9ce696db707f9315a90b29a395033ff8531e6df72215fc087a3dfc/labelatorio-0.3.8rc1-py3-none-any.whl#sha256=02321f0a0a7fe2673e945b664d958402acaba53ae8898372215a10389c640dee" data-requires-python="&gt;=3.8" >labelatorio-0.3.8rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/01/56abed9bde60b698fae6cb37e68cb3b6534e7c260819283e84d65cce4a55/labelatorio-0.3.8rc1.tar.gz#sha256=1cafddec6558f85892763a37fa83b5b5047d9d7477a7735616b6d369499845e5" data-requires-python="&gt;=3.8" >labelatorio-0.3.8rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/87/37ff091fdc813d6c06cf80b75a01b76009429d7e469778d5b171cb6c016d/labelatorio-0.3.8rc2-py3-none-any.whl#sha256=0075426b25c07a32b8d1af547414671dec104fa5aefb2d0e41bf3454738e83c3" data-requires-python="&gt;=3.8" >labelatorio-0.3.8rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/d6/677925a1a9af1a88f3849c1542a5b7751b02d028029f1bd39c9f371f0e79/labelatorio-0.3.8rc2.tar.gz#sha256=65c577c1d3b7c11b2f7c6ad5af23097b61d1094bef9d745616ce8d07e5eb6d75" data-requires-python="&gt;=3.8" >labelatorio-0.3.8rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/39/819523c98ae31844b92519d0d46f99414ae2a4e7ed184d5d1ac930c000a7/labelatorio-0.3.8rc3-py3-none-any.whl#sha256=03ce0fc4a2ce5c9a18eb9de77fbd73fffb6ac961521919525566d64d96d970de" data-requires-python="&gt;=3.8" >labelatorio-0.3.8rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/54/6f21a510a01221b556b3317c79be8b5f28edac4c51154c6c31fa53b9c4c2/labelatorio-0.3.8rc3.tar.gz#sha256=4d6eda4eedb6b2306c3abdc47ca5ff767241ae1fb615e1139d94033d8353cec5" data-requires-python="&gt;=3.8" >labelatorio-0.3.8rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/d4/4cc3f0bbf7c620ad92af9bb20b198d3e830387d92bafd7ddedd49d0d9435/labelatorio-0.4.0rc1-py3-none-any.whl#sha256=868858a268b53393760e3f5cbf862bd67e79537163c93cc7ad2556969a04e2e2" data-requires-python="&gt;=3.8" >labelatorio-0.4.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/da/d0a8ed3f7b99bcc55de3613a1621ac18f50c2450a177576a8f1f177538eb/labelatorio-0.4.0rc1.tar.gz#sha256=ea19b3f8eea84ca00474f0a4462bd26eddf4d5d7d0216ae904e87f8214d725a0" data-requires-python="&gt;=3.8" >labelatorio-0.4.0rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16339782-->
+<!--SERIAL 17150273-->

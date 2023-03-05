@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for os-vif</title>
   </head>
   <body>
@@ -84,6 +84,8 @@
     <a href="https://files.pythonhosted.org/packages/8a/53/e5d64bda8aaafbad18a71198fa7b4950610231e6f0be8c692bcab6ae7a86/os_vif-2.5.0.tar.gz#sha256=1ac90c9f497950a88a4c1139b1f3512666b7ded7b2375b813b94ad1ff77c6776" data-requires-python="&gt;=3.6" >os_vif-2.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/54/85/1e83c3c50f7becf276eda3642ff970d95840c789620d77bf67ddb581ea70/os_vif-2.6.0-py3-none-any.whl#sha256=e1dbe4d48ffc229892fa95d041ee4f228a7e155df098164e95bf7153a7aafb01" data-requires-python="&gt;=3.6" >os_vif-2.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/f4/daac3a912a394450d626f3c511235cec07765b01efa21acb8eeb84b5abf7/os_vif-2.6.0.tar.gz#sha256=285a7447b3e40db371438176be85d3c42710279ae4ca5da59809718aff5e4c88" data-requires-python="&gt;=3.6" >os_vif-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/77/452a707dd54070acfc360968e767fb0838f176d239c0aaee4749d4568964/os_vif-2.6.1-py3-none-any.whl#sha256=7e4bdffbff57247254a3d3329066cdccd9e6b39efe2d45d161f7b352294e954e" data-requires-python="&gt;=3.6" >os_vif-2.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/01/cd679de344e6497de86e1b9c691910b25ee99a7dbc1adfd835ad356038a9/os_vif-2.6.1.tar.gz#sha256=1ae38346a8000e225f6a95fb2d4bfc43378ec984179e1f5fab55ed0a3a4c878f" data-requires-python="&gt;=3.6" >os_vif-2.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/11/07/f75665f53443b282639610756796902dcb1f589996622e4d63ca8dd8aa67/os_vif-2.7.0-py3-none-any.whl#sha256=d32e5e9f065404d966198610fac8b1cc1462c9bbf3716284e0b0e2380896e10f" data-requires-python="&gt;=3.6" >os_vif-2.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/0c/c7a5224f607f058731635fa69c2bbdb74a765fc0eb32e2d4fe06e64f2574/os_vif-2.7.0.tar.gz#sha256=59fb9516eaf85089a5759ac53524fe41300040f0a0ff60e57e776494dcde6db1" data-requires-python="&gt;=3.6" >os_vif-2.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/64/acd45837f7cdd160c184f7cba4f900635a0a319bdf292cb4671a5bc0a02a/os_vif-2.7.1-py3-none-any.whl#sha256=203798c5ff5d51ef25c009e2122178336da96b161bc2a1450cab7ad50a64eba1" data-requires-python="&gt;=3.6" >os_vif-2.7.1-py3-none-any.whl</a><br />
@@ -94,6 +96,8 @@
     <a href="https://files.pythonhosted.org/packages/e0/d0/75f1dec71cf6b328ad798af7698baffd80b93368452361cc18d80c70e63c/os_vif-3.0.0.tar.gz#sha256=dc345bfc24ba76042bba939f27931c8b55b7c7dd76b4528505da75fdd594b919" data-requires-python="&gt;=3.8" >os_vif-3.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/2a/9f5145d2adcc65895fb73435113904f3a1c0de0e249cd497c55915d2d30a/os_vif-3.1.0-py3-none-any.whl#sha256=412e06770d98abc6077ceb1a6164d4d90f3c0a99dfe45bdcb32ce5ea4b97643f" data-requires-python="&gt;=3.8" >os_vif-3.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d5/b8/a2f4186d716314857f9f799d254fba1137bf824046408e3479ec7a4fc0b9/os_vif-3.1.0.tar.gz#sha256=5ae3b1339afa52777c28303e8120c47316476780e4bec8ec12d83f7377ffca90" data-requires-python="&gt;=3.8" >os_vif-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/91/ec132f4560cd382b0d4c4dd8a998e597637d8faa731a46a24037498125bf/os_vif-3.1.1-py3-none-any.whl#sha256=6c7ff124d01a082d275ec914e1772e47458aa8ebfaa4251cedb5619cef6d84bb" data-requires-python="&gt;=3.8" >os_vif-3.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/b7/2c67a47324025eafb49bde193841e81a3a787e479c3e1478ee64a426a6f0/os_vif-3.1.1.tar.gz#sha256=b801163f2905588db77fe010d61845e906400d4bc311457e1556aaf7f84a74f5" data-requires-python="&gt;=3.8" >os_vif-3.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15786092-->
+<!--SERIAL 16792071-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dsw-config</title>
   </head>
   <body>
@@ -28,6 +28,16 @@
     <a href="https://files.pythonhosted.org/packages/ad/b8/9e3a4974e9850d45f43a47d90af58c02bfc663209676ee4685b9e6393568/dsw_config-3.18.0-py2.py3-none-any.whl#sha256=98d97dddc17a3c7848dba9e4d6fe303c93bba8578a35e191a0f792b860de3fd9" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.18.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/64/4d35ed7c8f19d8562ab5fe11565232d300cfb926c756843d2f932cb42ec1/dsw-config-3.19.0.tar.gz#sha256=fb2629ac732ec984575333f7c7e68ffcf01c52cad091365a6ab8f2c2e94588fd" data-requires-python="&lt;4,&gt;=3.7" >dsw-config-3.19.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/5f/41fb4786c6231fedd89ca284e6282356cf8e1574127ae83b395f19a797ee/dsw_config-3.19.0-py2.py3-none-any.whl#sha256=774f4deb90872e2a2ff65e72f888d5a5e0043cb6f54fe16e6172b04452f0ddea" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.19.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/cb/e81df93cec19c04838455fb9e312e1923ffea8272b4abfc5dd2a668e809e/dsw-config-3.19.1.tar.gz#sha256=50874074495d68f39775acfb490ad6cde19d27a19fdabab77f7d851ba09d8fcf" data-requires-python="&lt;4,&gt;=3.7" >dsw-config-3.19.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/3d/b848c1fd4a3c65947432da44250067dc5169961ac32afb1ce6b0520731b6/dsw_config-3.19.1-py2.py3-none-any.whl#sha256=f4bc3acc54fa3dc6314730af3fe80097252d6434faa697401d07bf1c04247b8a" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.19.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/a7/117fac4769f5bd0c8c423f256750dbd70e40a74d4e1d573589990318c0de/dsw-config-3.19.2.tar.gz#sha256=f3a4304c0aa62684c3e1ed820cdb0d925279a99f9c30c064eb1fbe9242652796" data-requires-python="&lt;4,&gt;=3.7" >dsw-config-3.19.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/07/dc83336e17fa285bcf27623fd5e939d0376f36b4cf9068814ec90910ddc9/dsw_config-3.19.2-py2.py3-none-any.whl#sha256=d427be662cd469e37ca08e0fd811d7e5c2d202a076edc60a8d740d06e9d2107d" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.19.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/79/f0af8530a52311dca507e763a6905e3c7d25759aba79711ca75253551f6a/dsw-config-3.20.0.tar.gz#sha256=9acd90bdfc611c65f2dc89f1c5d832c2692a738c56feffc7fbe8fe974cab5cf7" data-requires-python="&lt;4,&gt;=3.7" >dsw-config-3.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/4c/5e7513e5552d46c93901825177085c87874224c12a40033ceca21dc3d95f/dsw_config-3.20.0-py2.py3-none-any.whl#sha256=e8ba9f83e4983b51174e2b1d0680774b0c530ac4243b7f2a9d6ca93207b806d9" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.20.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/be/9538df24bd91d88010c17728c605fa2c414c9366963c0a41ee5cebf2aae2/dsw-config-3.20.1.tar.gz#sha256=596dc1cbf5227c52d0095d183fd07f2a064bb3e1a4dfc56e173988e036e9c9c5" data-requires-python="&lt;4,&gt;=3.7" >dsw-config-3.20.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/30/ce4ed76ec76f5a88258bff9673ea21b9cc3f513e4b9e616b0f1905c202d4/dsw_config-3.20.1-py2.py3-none-any.whl#sha256=e759684037a0df2cd3439a84c212f8d5083908cd6beaba08c35fcdd27fdf490f" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.20.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/8b/ba717300041b23d4abc4ecca4aee27f06c3748ac11b03b603e741639112e/dsw-config-3.20.2.tar.gz#sha256=0845fbc6bdef02416c781268f5b299f994b433c83b61f136c2f48b2f5704c6bb" data-requires-python="&lt;4,&gt;=3.7" >dsw-config-3.20.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/d5/4686bd4a8f3b54835dcaa0fef7924651ba5a8ad8ade329652e846239c75d/dsw_config-3.20.2-py2.py3-none-any.whl#sha256=e9c6cab9966b2e999214d980912e754c27e2340d4a55338a7f156cfed5346d83" data-requires-python="&lt;4,&gt;=3.7" >dsw_config-3.20.2-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16287259-->
+<!--SERIAL 16788275-->

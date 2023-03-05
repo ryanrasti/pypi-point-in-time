@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mxpi</title>
   </head>
   <body>
     <h1>Links for mxpi</h1>
-    <a href="https://files.pythonhosted.org/packages/02/90/e3204565cffdb4d28d02f8da82d7389c16078e7ac043821f12078d5ff5cd/mxpi-0.0.52.tar.gz#sha256=780e468ce78583ec4e2cddf471cd2cf149e41316e77ee131b631be71ee4e78e9" >mxpi-0.0.52.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a8/a1/16b7bcf0db45b17e9eae2bde0bc4c03cf5cd8558625a74b65f91eac53b12/mxpi-0.0.53.tar.gz#sha256=c597895f8daea0362cf9a6263d10598c449a983389b0eb2d263528a9b50acd41" >mxpi-0.0.53.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/c6/26/0c8c7554adc5aca4d9bff26d571f0b2ee8b2b032e31d33a14da1ca264ca3/mxpi-0.0.54.tar.gz#sha256=1c676cd285d1bc14b71b612c947579bd193ce9d2a2685dc08e400cd2cad1c787" >mxpi-0.0.54.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/22/8a/d16183edecd0343423a92e029a66619e204a471a82f0abe4fc2cc857a980/mxpi-0.0.55.tar.gz#sha256=1588f564682597a2f69ea8ed8cebef013cd56c268d44b99bd506d639d0f86cd3" >mxpi-0.0.55.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/f8/03dbba33261049084a89bdb4557064128e154c9ac1cb00d7f4c70ee9ee40/mxpi-0.0.56.tar.gz#sha256=50f529b19177e8869fa7aca69b28833893898fef2c1bd594108c8a3d286575d3" >mxpi-0.0.56.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/06/e3/eaf32c77f770b62aba83e153dd5e086510d4bab58ad3e0c10590d198b117/mxpi-0.0.57.tar.gz#sha256=6c4a3b754e2e69583da2dfd9949d054c22b93d6d1504daee49dc7253c4f2d40c" data-requires-python="&gt;=3.8" >mxpi-0.0.57.tar.gz</a><br />
@@ -59,6 +56,30 @@
     <a href="https://files.pythonhosted.org/packages/35/f8/be1cc5c4a8bfd872adc5519000d9659b620f0276b8b1e5a890db09b21a17/mxpi-1.3.0.tar.gz#sha256=4431b5248f7fda83c60426b84c7b5a229694e5556dd954ebcfaf10568d6146c1" >mxpi-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c5/dd/26b7dc43f1038d6da5a91d4bb2b8f758e51a10d9762293cc932af96c8719/mxpi-1.3.1-py3-none-any.whl#sha256=6eeeed18ef8e92d2c74adec5740c338d43ec60213bdbbd902db32150e33d6aa9" >mxpi-1.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/52/c8/f704d426089b67589e611e87d1e5d78c87cbd5e5cbcf5eaf8c965f0efe56/mxpi-1.3.1.tar.gz#sha256=3b821a9a0e8ca5fce261f1590dd5b586180e9ed54b9125f917f3043f0e53a474" >mxpi-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/db/b5b63ee252da1be47366aabdacfbd92549c68f42be74ebb6178a26a4f9e0/mxpi-1.3.2-py3-none-any.whl#sha256=efef0a3276c962159db9b1ce7799e768d8996d42008b99bd109be935971339af" >mxpi-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/55/026cf9150f05d297fc775f93f94deeac5e34b6512ee9770f487ee29db693/mxpi-1.3.2.tar.gz#sha256=5682b8ef0f356f9d59cac76520a7ac9718af28420b6ffb870b05a711718955fd" >mxpi-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/7e/dd22834c2598ad1b3f33c6fec8354732be7bed68e8dec608ed2fd2fcd8f7/mxpi-1.4.0-py3-none-any.whl#sha256=dc52c28d578ba9da775591b163bcb1bf61e046e83edf97ae5c453fd8c3f717bd" >mxpi-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/a7/5b02c60ba8238a3bb69b19c547608799810fa4e0e476fc38eef9ef91ac52/mxpi-1.4.0.tar.gz#sha256=51aeec19b27f0d3a71e9b468f51dbfa7f3ff16df2afef3ad7f3ae0a092ca3d91" >mxpi-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/d5/c9951c27eef006e5cc2c4df72d40a2f693e1237c51a36d753d885baa6305/mxpi-1.4.1-py3-none-any.whl#sha256=46cdbf2468132666a773ec652b4f7a2168415baeb15d1facf8d7b4b9c77fd1a8" >mxpi-1.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/1d/9bdc5d7f3b9f85561e4e36734142c5fd284fcbe193b15d78c8fb93196ede/mxpi-1.4.1.tar.gz#sha256=ef350ee94b696e3268f5e65a40a731540c0fc390b851278b944d4cfdf81a7fa7" >mxpi-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/d6/2a246cb6e167557550e4b7175d2732a9b2863890a127be334fc8ce438193/mxpi-1.4.3-py3-none-any.whl#sha256=9f88fd102e711147185efb3a9c2ba376e589a3d36c6a74b52c8e72fd9cf52c5f" >mxpi-1.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/48/3150c709303ab2d1c012f033e6b2f72573b06dc510150860953b2913e00b/mxpi-1.4.3.tar.gz#sha256=b080f0133572e849488d7906614d74e623e7608d861335242304dc86aa7f5d50" >mxpi-1.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/04/35ad3cf3b571d83ae8c09ac25188cf045db3790e004aa3b7a85c856f6b77/mxpi-1.4.4-py3-none-any.whl#sha256=c6c649cb6163304924deb938494ad1e7e1385798ab0b3d9a417eb21a4541c0bd" >mxpi-1.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/9c/f92a9dcd211408e9c37a779855e805e208ebce64a04e444f5d64162b8708/mxpi-1.4.4.tar.gz#sha256=c58fa9747948fd252adcc5a2e89ddb93561c9fb05fdd180b06d53762eaabd055" >mxpi-1.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/f9/9fb82b6957933d6a681a957e113cb503c15d39fcc05d8beea26b0a54db74/mxpi-1.4.5-py3-none-any.whl#sha256=b1dcf29b2033bb5c8d417d678a53dd01b1288148c8a8388b4b0e19919bf21aed" >mxpi-1.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/ef/40be780c242e24dbb6cf355e3bade1457e669e57ae6a1224c199d65797f0/mxpi-1.4.5.tar.gz#sha256=3bdb198acc5bdd89ff6a500ae95584f0361a619f5441ac3c8f856b215b7bb8b9" >mxpi-1.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/e3/f42bf3ba23a5406514e06ef0525126fc708cc631f1a8f6bae66964edbdb6/mxpi-1.4.6-py3-none-any.whl#sha256=415a9fd13efab573975d07a45fbf99a25980cd8fde1b9f1b4445cb7071e66b42" >mxpi-1.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/b1/55312e52fc5aa677aa559e35210eda360dedc4ae8b16458ceeec85b6e244/mxpi-1.4.6.tar.gz#sha256=15951933ac5816f5b6609a08bd5a11dc1fe87d98f2db49675fe2f4bc3ebdf466" >mxpi-1.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/67/48f1f126001cc9d2ee0ab1e30393c6df300fb65b27bc316343e5daf54f0e/mxpi-1.4.7-py3-none-any.whl#sha256=73e3a414c6065b582120e04a033703f4722f0078283caae080b4fc22a94cbf90" >mxpi-1.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/02/29ee82b0dca034f6951ccc7929c39830c9d66750115efe30170c554af0c1/mxpi-1.4.7.tar.gz#sha256=e7af331fe606b2463a56269d6dc182f6f3b8c96fe8903a6b3fff81d191d9ee86" >mxpi-1.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/90/9295a9b44866b634c6ef03d30e29504819d4a29e79b063cabb421357b26f/mxpi-1.4.8-py3-none-any.whl#sha256=e0c8f34b7d87ed59c0c423454fa50755056bc777f6b8684488a86d6ba9a2a2f1" >mxpi-1.4.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/65/2b75b4c8b2110596760c8f429bf0855b42084bf0cc79cd878204b0a4bbc9/mxpi-1.4.8.tar.gz#sha256=f7ad177da37e30133bba8fc6ee14f48e7ebbba3d7d82678737a16ced69cab7b2" >mxpi-1.4.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/8b/071bfc282c4fed369330c4a5d0bc9c708b148cbbfba9699f455af6e494af/mxpi-1.4.9-py3-none-any.whl#sha256=e13a640aabf9146d7c6935e221d32a26c2606b4955cf17af2de584d65d8c5ac2" >mxpi-1.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/de/ffb0fdfded45382831a795ab18d5376297607fe43fb668bb1f8306f7d083/mxpi-1.4.9.tar.gz#sha256=257e35ece6e6e47925221cc9ee33727457b7288115a4917fa9e0a7545104aeaf" >mxpi-1.4.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/86/1760ea03a1c0cd675768e1ce37fc16e7d95047c8c4d6e83239e497083fc4/mxpi-1.5.0-py3-none-any.whl#sha256=be607618329cdf488a2fc746f7e49614acde5a810bed364003a151564eaf9efa" >mxpi-1.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/9d/f1d5345fdad6bf288803c3e37a8449b0c0d7ffc8c5e4b898b655052ea826/mxpi-1.5.0.tar.gz#sha256=04e6c5303e2c78781d65becc4271d86804f596edfc75292c7dd0a49c46c43bcb" >mxpi-1.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/c7/38753962e017798cf5cebcee5c52f8e8bd5ba1d1b4a30c568628505ed5a0/mxpi-1.5.1-py3-none-any.whl#sha256=c25db469461598524d379d97e3d575c74fd1d1eeae41894751c78d00bd1469d1" >mxpi-1.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/77/c94c19688136c303fd3750b19fd34014f3589062517f35154c2546a6a73e/mxpi-1.5.1.tar.gz#sha256=3c2c93f4a3413908d3e735dc05c8536ba070fb7d303a10ec5c96e91be12f0775" >mxpi-1.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16196279-->
+<!--SERIAL 16958470-->

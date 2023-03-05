@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ansible</title>
   </head>
   <body>
@@ -345,6 +345,10 @@
     <a href="https://files.pythonhosted.org/packages/18/fd/963a3328d6f72e54d17dfbb40af6e9d6827333a5f1745c79c6d81b30dc85/ansible-7.0.0.tar.gz#sha256=73144e7e602715fab623005d2e71e503dddae86185e061fed861b2449c5618ea" data-requires-python="&gt;=3.9" >ansible-7.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/57/33/0c6024d1114e267a362f1c5a0593c2c1a41f5b556da59b48ae47b35acc56/ansible-7.1.0-py3-none-any.whl#sha256=dd6d24dab08793e416eb1564ea716c586caeb104d4abbcada05bed94f9cd01cc" data-requires-python="&gt;=3.9" >ansible-7.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/05/cd/d5c46caa5d8c6c11ebad76accd2cec355a10ba80c71780ecdf0bc6748a62/ansible-7.1.0.tar.gz#sha256=1e47238c4aa9e68c0c5367a3fd707ba6c3949b4aaf912b06440ad78dd2bf018d" data-requires-python="&gt;=3.9" >ansible-7.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/27/3cb0c589345f29aa26ab0c12006dbd16365bb8b137e854736243b3e1a61a/ansible-7.2.0-py3-none-any.whl#sha256=756a6d8fec6c19ccd7a00ad0f0cb18859f4ab77e0c5063f73a115f3fb75284aa" data-requires-python="&gt;=3.9" >ansible-7.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/02/7304f54ac4cba5d4d32551bce7b0743d9b045298790048e07544424c9abc/ansible-7.2.0.tar.gz#sha256=60e2c1a58f1ceb34a190b7c380f7b3386d1e7369061954b1f8b8ca3df76063cc" data-requires-python="&gt;=3.9" >ansible-7.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/47/46e0517e62e17fde4f29fac3f29876df914eba3012c7cd260748a740d7a1/ansible-7.3.0-py3-none-any.whl#sha256=5039bf0fe4cbb9dcc3dbefe464fe2fa7fe75d8548814f00c478d5fe90c3e3979" data-requires-python="&gt;=3.9" >ansible-7.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/56/e05719098bee5586302d88b52522588060ae8e421b0d054d87581edcd652/ansible-7.3.0.tar.gz#sha256=56c2fd97487b2cc83e39e895d8dfad8b2a5df34d490394a15735ebcfdc45f5be" data-requires-python="&gt;=3.9" >ansible-7.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16022228-->
+<!--SERIAL 17080511-->

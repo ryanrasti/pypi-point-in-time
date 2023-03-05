@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for alexandria3k</title>
   </head>
   <body>
@@ -28,6 +28,16 @@
     <a href="https://files.pythonhosted.org/packages/6a/50/ac3ebb340317fe3aaddb8dacc673764c1af73c5e5ac6d82ab8526190ca92/alexandria3k-2.3.0.tar.gz#sha256=fb58b4d33378dbb12ad1e21c5f76fc92cbfb0846b51221fd4cf0f68bcecd373d" data-requires-python="&gt;=3.7" >alexandria3k-2.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/84/ce7b2120d302abd38cca2e1a5c65436d19851975e6e4de562d1c8b6ab625/alexandria3k-2.3.1-py3-none-any.whl#sha256=999a7588b076c11ef87b6a44a50cfc122b1375d7df1dc462df8a198d4e935767" data-requires-python="&gt;=3.7" >alexandria3k-2.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/b3/97faf9825028095aa3380a1f831a5c09c841f900ccbd489342a66777af70/alexandria3k-2.3.1.tar.gz#sha256=3a173f95c1650b9f58a7b6505ab3f6340275a5ff3956545563cbb5f64e327c13" data-requires-python="&gt;=3.7" >alexandria3k-2.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/94/eabf271a582cd5a8fcce5e435f97b48c4622ad38577e12139ce31fe2621f/alexandria3k-2.4.0-py3-none-any.whl#sha256=5de9984fab304b8c421bddb231163be8631ac3849ec18f317d9da7e69170db20" data-requires-python="&gt;=3.7" >alexandria3k-2.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/b2/97cd483384d8087e88f3606d0f2a6bf26b98ae02552c14d610d9a1991706/alexandria3k-2.4.0.tar.gz#sha256=05e351d8a9f1a41e5dd76e464848a8e0e707380b7940d9a1999e9e46d7c4c549" data-requires-python="&gt;=3.7" >alexandria3k-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/de/b27a3f978ee16689192530d953e06d4d4257caf244caff524badbac176e4/alexandria3k-2.5.0-py3-none-any.whl#sha256=77ee5619bc4a0f007f18c601f38c91895632302a5a076391cefe28d81f7a6ff3" data-requires-python="&gt;=3.7" >alexandria3k-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/56/dfce3ea6129094a66e042e522574a4cd2ec376feabe396c6c78eeef55f83/alexandria3k-2.5.0.tar.gz#sha256=a4db2764d29d0e1290e87a390e4453e50c8b58306281e9ef37db3db5dfeb9a73" data-requires-python="&gt;=3.7" >alexandria3k-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/2e/fc54af53b91695f2f7e8e30b606c3a1d440b314292c2181c1a1241ddfc81/alexandria3k-2.5.1-py3-none-any.whl#sha256=04e6df6fc4026889d3b7f8c2fdab780ed0b5edb829e5c77b5a34f9c5ecb9d71a" data-requires-python="&gt;=3.7" >alexandria3k-2.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/b5/2bd3c49d9995e8c67497f28c225d30e0d4b69daafe81ff26d69b30295749/alexandria3k-2.5.1.tar.gz#sha256=457ace0cf4eace4e0aec26e16fd6efbb8d15547a3d6cc5ccc87f18e2aff7bbe8" data-requires-python="&gt;=3.7" >alexandria3k-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/3e/43b6c9e88b67ed336dc05a1ca5232ea31e417dbf83bd89c68ae77a5fe7d3/alexandria3k-2.5.2-py3-none-any.whl#sha256=9098662dd35d40af95563cdd719ffc502c603915d35ec02aea7a33b5808080ca" data-requires-python="&gt;=3.7" >alexandria3k-2.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/c8/a4d785795668e8964f3fc037b8cb9af33bb0ddc2ad5b77c2204be7894686/alexandria3k-2.5.2.tar.gz#sha256=28ab481fd188e75ca07b980c02764a9f23fb16dcebe0aabe73a6c19155897125" data-requires-python="&gt;=3.7" >alexandria3k-2.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/82/a1c279a15fc977730c473067f9320574292d90f8d08896223d6daf1f318b/alexandria3k-2.6.0-py3-none-any.whl#sha256=1e93f6f33cc79bc3cf80a8b4b708e21f7c9967d5aebb5489781e1e8f03001daf" data-requires-python="&gt;=3.7" >alexandria3k-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/36/095308c61606566046a4734719649274a4c95aebce4870cf6b581f7cffa0/alexandria3k-2.6.0.tar.gz#sha256=740dec5befaf22729e885db1b5ddcb67cd84922eb790186ee9bd91b27b0147bd" data-requires-python="&gt;=3.7" >alexandria3k-2.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16247435-->
+<!--SERIAL 17052630-->

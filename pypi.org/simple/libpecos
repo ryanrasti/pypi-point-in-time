@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for libpecos</title>
   </head>
   <body>
@@ -38,6 +38,14 @@
     <a href="https://files.pythonhosted.org/packages/48/1d/52575bcb10478f9a84012aec83610de0b0a692417f7a1536ff66b4365dc9/libpecos-0.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=cd978825138af1d309ea51a06c986e9715e28ab49356e92182753b6757b9acd7" >libpecos-0.4.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/39/fa87ffc9c093950b176b68db6ba2371a1ff0f6395526100a394a277d7bee/libpecos-0.4.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=68557306b8ab760de3ab164619f157b7b22e58589df6856a9f5591ef0e47e434" >libpecos-0.4.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/dc/d6a1984eaecc4ec548d579d59e315cd294f3f69a9c7dd9718686fb2d292a/libpecos-0.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9810af10d17da6dec37396681a562455bdad7eefe0d3aace40e468f90a10b0ec" >libpecos-0.4.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/b1/c012a5a375178fb2c88dc2e3411d5a88674b4f1053dc1d8fbe669ffda63c/libpecos-1.0.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=b0e9f603568aa97be025deb393353e87b4585a7fcf6970fe0e825741a9156078" >libpecos-1.0.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/60/9d324852f4b2144bb3382bc6ee7292eeb6546eefbb79f08e22d6e1c06f00/libpecos-1.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4ca1c888e7b650a8da838c94de07eeca6e2896c1b5b8ac21c470f0e14be11d3a" >libpecos-1.0.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/26/319a9fa704ece5ab8ec4abb31dc566d6c494622c23e1b5d8c2d9f5414811/libpecos-1.0.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=bd9554efacbf1686d5d078993179e1da314a753baf4600ad69840c21d02e8e00" >libpecos-1.0.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/90/5ed8c077c4c9e0a8cad9f1bf875b8dc18aa31b5ecabb361b21e8fc468049/libpecos-1.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c25e2d77c7ebe715937f64e5f4de36b8001048ab243df087feccf7de8f0da96d" >libpecos-1.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/89/574468defce88949dd7bd181b61b29213081238a5caee94f99fbe12a2ff6/libpecos-1.0.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=b584738c433f2e8247212cfe27b93b95c77d6931593208a49bdece1253edc57f" >libpecos-1.0.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/a0/65040af28e574a6fad7f1dd91c57ca705f25fbcd5bc869daae4c33196b9f/libpecos-1.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=87d419134e25d38836ac465278234fd113eaeabb32e26b8902ed47c1c634db20" >libpecos-1.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/6e/2aeaadaf340e5f974e224c7f3e7db61dbcd5c1f90a23a0a7f28319491f78/libpecos-1.0.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=861a21185a08962a90dcd855b6839e796774310ea1dd1e42e5afbf42d8cdf0df" >libpecos-1.0.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/a3/d17af11b1a3325ff8194430f5fa3f466fb727605c84aadbcc2df1ea44f68/libpecos-1.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4964113edba0a4ea064a9dd62a7e92fc5c590f49ac74b29fd74be9778af4c3c0" >libpecos-1.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14696852-->
+<!--SERIAL 17102971-->

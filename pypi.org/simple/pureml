@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pureml</title>
   </head>
   <body>
@@ -20,6 +20,16 @@
     <a href="https://files.pythonhosted.org/packages/c7/29/ed11aa49a9f14b4533091bc481b9663ac5edd6511e0296f3cf88d38c5015/pureml-0.1.3.0.tar.gz#sha256=03a0c712004bae376f5800df254502e69290ea5988f2cce96057212cbd7f4249" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/58/2c48f3cd44d3581c9ba9123af82e13131ed99c9ad3e3d5b30bdca28eccaf/pureml-0.1.4-py3-none-any.whl#sha256=84d265f109371c81b8ea579b21ae6b5b766a9ddd116fdd89622af1ef2e909799" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.1.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/64/ccf0995e0303809ea38f5a201a33461523487ec216293f242a357ac1aac8/pureml-0.1.4.tar.gz#sha256=e3f0da5617706193583eda66a941337f46f56c328367d0d633fe98b7998c78f8" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/6b/d2c42aa92729659a8957ae4b4377d03f74db05e94091346db39b39552725/pureml-0.1.6-py3-none-any.whl#sha256=9353d58008d36c1f9425fdb262846c200ee550af9ca53e7fdb6cbef71d01f5bb" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/01/4f1f4f5bcbc0f2a1326a3a58c46bc5269e5ee20505ec2828f9654b99a1ec/pureml-0.1.6.tar.gz#sha256=033a1c2d7a672b8c912a2b1fa473b74b8553fc7ea95d79d1ed64f26508c5ef1b" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/c6/4e7362258ed2a42dd4141e9f12daca465046bcd40db009e07cc7d9ceabe3/pureml-0.2.0-py3-none-any.whl#sha256=05be3b331c3cb1894b69a62e3ca22c8755285bf50c489c26e7ee4795184c4829" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/0f/9933c5a36663d45b8ead355d9ca358e365929bd24bfa9cff0cb7fd97aaee/pureml-0.2.0.tar.gz#sha256=a42dd9e5c9496f75dfaf9dbed4b7f2f04e722807d917335d4010ca4eb59db507" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/ba/576e71cac26d9772a35c2018b11c0968bc944d839536f9b78d4c69bff5ef/pureml-0.2.1-py3-none-any.whl#sha256=1d1af316438ddfb104517bc0f6ca408f75c2938515c42a0f7ed01cecec7f17ac" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/dc/ffc6b5dbac33f6c04d85281c3d1599a95910d62087fa40dfbf2c8719b433/pureml-0.2.1.tar.gz#sha256=c4e7bc3fd9798748795c2d1278e94e1466c02a391ef3e007acbf1f4e57145ef9" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/c5/32083d55d2bbdec914596128b843079b11e9cb03df631189da7a8ff5c6bf/pureml-0.2.2-py3-none-any.whl#sha256=c1b67c91d2ceb27cdc1c9015cf1cfc1058d4f2bf50dfe6868e00ee5f022df856" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/b0/630187237ad4d10ca1f123d06257eab03a5e14293eb1be1a8bd75e9d1ca8/pureml-0.2.2.tar.gz#sha256=95603f48be081a783802eaa5f0c4d912381755c5aca23039488912fb85783ca3" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/a0/0db54da30e15f8e1845ed82fb12c2a379a967d7a555631379b229b086956/pureml-0.2.3-py3-none-any.whl#sha256=b08603423dfff52b1853b16ae61733cc2e9c411f2331c5eb70d173ba48a8f404" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/c9/38bd946065aa1dc6906c3b7169462cae708f433448df768eae326c71d38c/pureml-0.2.3.tar.gz#sha256=50a62dfbfb1a231ca61f1f735a1644a4db8ef36a6d591cd183985e7b29d5891c" data-requires-python="&gt;=3.8,&lt;4.0" >pureml-0.2.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16365423-->
+<!--SERIAL 17099736-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for blockapi</title>
   </head>
   <body>
@@ -270,6 +270,28 @@
     <a href="https://files.pythonhosted.org/packages/f4/e3/9dae4cd4991b543dff6d7395eed00c8f2cf9156801c1735c3a4d83fc027d/blockapi-0.14.4.tar.gz#sha256=1a8baf5f69c7a070c922686a5866dbd7f0f36fa0c1780a65fc8a45009a8e355d" >blockapi-0.14.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/5c/821cd5a68f271456fda7187a52a520902f4c1619c5fa1ce32cb1daa07203/blockapi-0.14.5-py3-none-any.whl#sha256=2559dce364d69c84905ff441c04a65ceb15057b24c1c5c35e94c61845c8c6d3c" >blockapi-0.14.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/6c/d94bf5940409e4d252e505ebbbbde06775d629e3733c3762504a01c952f3/blockapi-0.14.5.tar.gz#sha256=eb142b79b9f56459c8e532d97ff3188cb66471fd72082f45509ca4ad3c73215f" >blockapi-0.14.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/9b/a7e2af36165059dd162eabca549f9fd0bcb8c3c6a61878b8f0365c0925ae/blockapi-0.14.6-py3-none-any.whl#sha256=40ce0fb0685e0a3873579e68d006e91e0a0e2ca7aaf0453ac43dc40fb2a41a42" >blockapi-0.14.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/a5/0dce4967213a2f4b98742e8e9f36e25c69de04a8b51cbab4bb042a0be0d0/blockapi-0.14.6.tar.gz#sha256=9cfc6939e9882f3565b9aee3413c2542beab25994920309f1b6bdcc38d617a39" >blockapi-0.14.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/ab/0c547253f461b5dc27536f30ad10012e01df77d2d5396914a3a6f2adbbc6/blockapi-0.14.7-py3-none-any.whl#sha256=90fe554ee4674fcbd05b5ccb8f91ddfe9a48281648a4fe328a23931debcf3c4a" >blockapi-0.14.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/35/a334d50df037f2fde3626c0b72a936bf60f583cc053e0d0187f228cf0299/blockapi-0.14.7.tar.gz#sha256=b97c3e59e620fb0d2b7369095eaa6bf00edbd7f2aae60a85f8684a480ed4ff25" >blockapi-0.14.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/d2/72d953c3edcdfc878aad715e96664b521491d6fb173659c712b7af31410f/blockapi-0.14.8-py3-none-any.whl#sha256=9d6cbf007ed8146cf2999f228dfb9b4649fed891be2d1dcbc06dfc3c572e63e1" >blockapi-0.14.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/bb/6c646b23ef47855acb784e96346b8f7c8e0d3d5e98128f5339339534c2ce/blockapi-0.14.8.tar.gz#sha256=fbde2d5aee97ec4220163634ee6f7a8e81ced62e1884b173e1f872a64330c845" >blockapi-0.14.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/e6/1d8c2d741185e3b7f46943021567bdb65eb9ccb085456006f08da56692e3/blockapi-0.14.9-py3-none-any.whl#sha256=62f81fc732aa3bfb1e4c2dcfd169c302a4f88cf4afc66727141dcfc700c74b91" >blockapi-0.14.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/e3/cc288187c73e13ab5bebd5a6594537f65650bc4e86fc72074ac9093a6962/blockapi-0.14.9.tar.gz#sha256=7f8e0eec992725178916b7814375292a333ba93c7a2711efa8f5911126ad7d88" >blockapi-0.14.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/13/8f75078a2e651700c619699d6e308f114a9b31324daa455f47ecbe11b764/blockapi-0.14.10-py3-none-any.whl#sha256=10e44cf5c03e59c50d78039384de39cd2c2a4da38193420ddc02d9f45356782c" >blockapi-0.14.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/72/e653f5910af4b3815b13af9cd36456b0b284a4fad708f4854fd896044fda/blockapi-0.14.10.tar.gz#sha256=a948aed989a79ebf386df8dd217b46046b0041a3f71085e50fd59be9d7b1150e" >blockapi-0.14.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/85/6224d8c1ec738777e980a6738f4bf596a0f4bdd72b37e77f8b200e244538/blockapi-0.15.0-py3-none-any.whl#sha256=955721397f791b6e4daf26711b7d8a1a7427ef27229360744e59dd928bbb6d4c" >blockapi-0.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/cf/d4c5334eb3145cec3f76432096a3fa31ba326572169dbaffcd6f6a39f91d/blockapi-0.15.0.tar.gz#sha256=d335c99786c7cc563db46ab03c67ca196d77282adf0d0ff76390b3bc3c3cdf40" >blockapi-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/23/5366758c6b750d69638b9a80de3f67c5925816c26813ee87536b7dcdd0cf/blockapi-0.15.1-py3-none-any.whl#sha256=9425c8e209d3c69bf0c4c95d1343236db53046e9a7dae5e9b3d7c2b221a37ed8" >blockapi-0.15.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/1b/cfe27591fcffdecd138f90d49841ccb8b525f51c91c4a93a97a0cb1942bd/blockapi-0.15.1.tar.gz#sha256=3e175dd6692de018474bb7de53ad8e54b4bf862a9aba01fbfcd718530090298c" >blockapi-0.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/6e/023ba87ac138b07598aa6c9d3b155cb4c6bf18ad5cebda63ebf13bd3f768/blockapi-0.15.2-py3-none-any.whl#sha256=7bbd16697ba7a6af38b4071196c13e007daf7a7754f5627ab106d9aca681b66f" >blockapi-0.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/10/5c82b8015fef039879ca2d0bf340fb8f117faa2863a045a3f8921e77fd37/blockapi-0.15.2.tar.gz#sha256=ac5880e25285190e2d2f93fb30af7db7f57b0863acd0a4956c5820e46b935fed" >blockapi-0.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/e5/3f1e31c8253245ce6f1d513e9668d3de7e5e5166b897a1bde69fcf240761/blockapi-0.15.3-py3-none-any.whl#sha256=f66605f41236635766678ada75bb9ef4eb5069a95bf9505b0c2036fd2d628a30" >blockapi-0.15.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/6b/14ec6957cca79e60121baa5a77fa55310eb4b5dcf6cdc54c6c1b37854240/blockapi-0.15.3.tar.gz#sha256=f50afcf53fc1e9ab35d6d299655286a9ce31ec7361519e58f037c7ad5fdf7a9c" >blockapi-0.15.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/12/62130c4cf7aaed0c91f5f8cbf6c3f617e2e5970370337b8f0e66b2ccdfe9/blockapi-0.15.4-py3-none-any.whl#sha256=e8ff9d1ffefe875c95ce0fae61fd8551e8a4efbdd2fc5259969ae9f5c8a6f9f6" >blockapi-0.15.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/97/fdc99f141508aa751e83ca293ad4bf1e5ccb48e10c5e0b3dfbf7f32f52cb/blockapi-0.15.4.tar.gz#sha256=d6ac0e20c16d59ce1f9e6b738e863992ecb3c2ab09179c68e74c0e44c6a539e4" >blockapi-0.15.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/af/630793a0adc72a44cdb7ae5d6d39651451008f651deb32caf73c73ba72bc/blockapi-0.15.5-py3-none-any.whl#sha256=b4d59d4fd294a99bfed1ddf14fe8125f7c443213b54857accce550068b09c875" >blockapi-0.15.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/05/9eb33de44a4bad8859e356590f4e45e9dca64dcefab439b086dc38c77328/blockapi-0.15.5.tar.gz#sha256=cf3fd09092f9203d8c02875ecde1cc3b963d7cc7433b21477a732cbd92e3482d" >blockapi-0.15.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16386832-->
+<!--SERIAL 17146128-->

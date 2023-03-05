@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for paddlespeech-ctcdecoders</title>
   </head>
   <body>
@@ -29,6 +29,9 @@
     <a href="https://files.pythonhosted.org/packages/3c/4d/422aa2301c08c47fca4c10bdb14bd599d2c6b7671fec68db58625dcf3c41/paddlespeech_ctcdecoders-0.1.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=b6ba70276f815a974718bd95964c7da08365c628b354cc03daafe6a2ff054651" >paddlespeech_ctcdecoders-0.1.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/08/17/343111f42d74a9557d6169540b459704a1f57302e8730a41cb485e144d1d/paddlespeech_ctcdecoders-0.1.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=470729692de155afd1619b612878b55fc95f96465b098a1a3a2390ed5e3e1eb6" >paddlespeech_ctcdecoders-0.1.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/49/65/690f3480cad47fb7096f35184aab777343e9ee631e9103e3fb808d75d675/paddlespeech_ctcdecoders-0.1.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=e415809835466d1e964b35fb2a5c9b88349378ad780d9096ca5a19ba36d27d03" >paddlespeech_ctcdecoders-0.1.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/29/ce39344880eb95215228fcbac2958b6b56598e8f747d0323e10dfcfc3cec/paddlespeech_ctcdecoders-0.2.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=b53a53adae1e1957d1f95479336438a0df323a66734c660e733ffe2351857d30" >paddlespeech_ctcdecoders-0.2.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/76/e1a164073183dfffb4a9520898e05babfb2838db0f0b20735038bfb2a1ce/paddlespeech_ctcdecoders-0.2.0-cp310-cp310-macosx_12_0_x86_64.whl#sha256=4dafc13b03080b5a34933f655eaf5d7857244eeccf283ea2b7a8c11d365026e6" >paddlespeech_ctcdecoders-0.2.0-cp310-cp310-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/d1/575a4438eafaf7d9280d9c52c0e32589872564af1573420a94e40b906dba/paddlespeech_ctcdecoders-0.2.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=fdaca87439ea83d289a7d5798f52e116175bf66500cf4ddb6ccc3161aa7ed9e5" >paddlespeech_ctcdecoders-0.2.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/44/e073fbb2fc184574896b282e2e63127f65d2ecb5bf4af6d3186736c994c5/paddlespeech_ctcdecoders-0.2.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=9cb0fc8257803fa3ca61a62b003144e7731b09fe069e373cfa898484845e56ea" >paddlespeech_ctcdecoders-0.2.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/72/00/4bac225311b3f957e633214637220d0d1ddf69a0b11a7cd57bd4e8a0994b/paddlespeech_ctcdecoders-0.2.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=161f477c7707d035ab8921804d80aa6255359f2ef363f97680c60e543b615365" >paddlespeech_ctcdecoders-0.2.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/9d/9c6581364f09baf899b67c7185460d1b8313989b3db7010b79ce7ccae0ec/paddlespeech_ctcdecoders-0.2.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=223221abb8e20b9847d658fdd4ae2d1494d81ff92deb1f70b4b1a646f9b6f9c8" >paddlespeech_ctcdecoders-0.2.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
@@ -43,4 +46,4 @@
     <a href="https://files.pythonhosted.org/packages/cd/9e/2f5b85abd6183fed879ab8bcc65870da17bcda565bef4db877d35b6ba875/paddlespeech_ctcdecoders-0.2.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=cb788de6321f99d9f323ef653d831ea3148bb12193e99d5171818df0d80215f2" >paddlespeech_ctcdecoders-0.2.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 13742760-->
+<!--SERIAL 16647878-->

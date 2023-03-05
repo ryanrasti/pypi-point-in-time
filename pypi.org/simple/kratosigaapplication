@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kratosigaapplication</title>
   </head>
   <body>
@@ -67,6 +67,14 @@
     <a href="https://files.pythonhosted.org/packages/2c/64/6b9b6a146617f5bc80de04e11a511487fdfafe5a9d81edb97938e22d4712/KratosIgaApplication-9.2.2-cp37-cp37m-win_amd64.whl#sha256=7cdb1c6d642708e9db1404dcf4f5dcb471dca49302ce1a7b9ccd1b25822ee7c9" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.2.2-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/3e/eb0b5dfff6fd4eb555e316196ea91a0ce785caaa2e732321fa92ee6adf4b/KratosIgaApplication-9.2.2-cp38-cp38-win_amd64.whl#sha256=8d8081f49af90695aa055c32a0119f775c93ba5dcd40781ad0c9f0870a0d218d" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.2.2-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/c5/ef78bdfa8896976daa8ef9fdfef15dc88cd7c2cc0b4e46dc4f05170649b7/KratosIgaApplication-9.2.2-cp39-cp39-win_amd64.whl#sha256=b235c6e048bec7440e4e175fc391432e60a5063b674876813dd9dd07f9f3ec31" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/b9/219bd0a35e7f0f1ca734f8c4ae9580c6c3fcd89ba0ca3dfd29709c511ec6/KratosIgaApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ca9994915ebf30fb09b4c778408d2dc36aa944df673c087c00f29704c7759b50" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/b0/d74754261787d1a3c078fc0d0358d25342a550e9bbc14ddf26d46ee28c93/KratosIgaApplication-9.3-cp310-cp310-win_amd64.whl#sha256=363ebc92ff03c6cc41bf93e7c1325779155a3b570f9f5f461755af2bbc5f7107" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/ea/cd38ce6e62b8b818e117d16fc2e61387368095572f3090fdd6521f40e060/KratosIgaApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0ebf1dca5b2921291e514b4e775c2113a5d6f56e369ac1a014d1a5516abdcc00" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/09/88b37cb86e4101060a49fba6ea507e1d51e4d50749a7f9b231e0773c1c61/KratosIgaApplication-9.3-cp311-cp311-win_amd64.whl#sha256=594edef3f9315177c3d42b9993c07c157b7ef73e2b39a04626f8dd59dc5d9062" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/33/3b5b8bfbc0b14c0a45645be8292c80131dfb1237f5c03e24837834f9f02c/KratosIgaApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=5d28dcd1085310b078a043484a22e7c6f1dc262705cdde379a87d20ff0e25c22" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/e4/ab4c5ac8084615b8c0453505da5d63506e85649b366d0824734b1f98ae4b/KratosIgaApplication-9.3-cp38-cp38-win_amd64.whl#sha256=cd7be3de4e11bada5b59d7d01d4e2d47cd580cda9f0a33fc34ce2409e90ee83d" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/f3/0233f844d9033f8d801c2c026d8eec4c3d628e7f1a971916d6c6f9a5cee6/KratosIgaApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6eafb2bd38f3edfd7b063169e06a66d5f45a83bed67bfe1f06c0544c3c64fc7d" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/fa/a51c1f03d97ad2cf26aec5f625af14c88cfe61d393c66c8b2175fd677a97/KratosIgaApplication-9.3-cp39-cp39-win_amd64.whl#sha256=b46e19f05d5de22954db59613aabfb2d10127b09b4f4d74805612451e3d8dfe1" data-requires-python="&gt;=3.6" >KratosIgaApplication-9.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15413852-->
+<!--SERIAL 17063853-->

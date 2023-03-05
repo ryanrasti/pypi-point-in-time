@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jupyter-console</title>
   </head>
   <body>
@@ -52,6 +52,16 @@
     <a href="https://files.pythonhosted.org/packages/62/4d/9d7e0906d5fff000258a41fd418f72a1972c0c6b58a6cb71d8ae1afcaf1b/jupyter_console-6.4.3.tar.gz#sha256=55f32626b0be647a85e3217ddcdb22db69efc79e8b403b9771eb9ecc696019b5" data-requires-python="&gt;=3.6" >jupyter_console-6.4.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/0c/f9382ca7b7499c8594a5158817a72c95b4c09a6c6f2de10553bfe8905924/jupyter_console-6.4.4-py3-none-any.whl#sha256=756df7f4f60c986e7bc0172e4493d3830a7e6e75c08750bbe59c0a5403ad6dee" data-requires-python="&gt;=3.7" >jupyter_console-6.4.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/2f/acb5851aa3ed730f8cde5ec9eb0c0d9681681123f32c3b82d1536df1e937/jupyter_console-6.4.4.tar.gz#sha256=172f5335e31d600df61613a97b7f0352f2c8250bbd1092ef2d658f77249f89fb" data-requires-python="&gt;=3.7" >jupyter_console-6.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/82/9dd69e46aa15d40349f492228c5cb4135b4ac82dce1eeba0afd8697cedcd/jupyter_console-6.5.0-py3-none-any.whl#sha256=87826ab6c8c418731fd78f14ec504df735e79554e35784d0a6379018bb3ef9d7" data-requires-python="&gt;=3.7" >jupyter_console-6.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/5f/3746b1995e95afff0e3b135d53b9dc38486ee05ebfe3bf61bcb23ba64cfa/jupyter_console-6.5.0.tar.gz#sha256=67e68f1da16bc3f6f78ed846dd5543ec0679369f8504734f10bfd206faae39ea" data-requires-python="&gt;=3.7" >jupyter_console-6.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/87/836a2f5299fd38b3394da41050d4ced5a452b00850fc975d67b2162646bf/jupyter_console-6.5.1-py3-none-any.whl#sha256=c575bb6ed56ca78189594176341e7b31426ff30fafcd22bf3dad7be309595b5e" data-requires-python="&gt;=3.7" >jupyter_console-6.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/f3/e04425653295782b0031922186d4e5bd325624c94a4d6287d095457ef1ac/jupyter_console-6.5.1.tar.gz#sha256=6b91b7b6e8a715053b536db209a2f4b02429d7b28db27373a56a26b0bebd620b" data-requires-python="&gt;=3.7" >jupyter_console-6.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/e1/293674f8498fe604bd770b2913d535faadf3dec5b0e8043f6133557e19b0/jupyter_console-6.6.0-py3-none-any.whl#sha256=545ba4f0b3c8aa64108cb9d35532253b814c7d4f25e2bffb3f0aec56b183a371" data-requires-python="&gt;=3.7" >jupyter_console-6.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/ca/a189db996581f7245ff120ceb4b8b86adcb5c1ed72076cf53bf12dbcb6d5/jupyter_console-6.6.0.tar.gz#sha256=0ce8b5596df6b2453d56d1127aaa3e7b0e3c8fb73d48dcc77162753019b78215" data-requires-python="&gt;=3.7" >jupyter_console-6.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/7c/ce8e4a52de3de00c91b32d395285aad01cb8d6d9d6fbb176cedd292a8c95/jupyter_console-6.6.1-py3-none-any.whl#sha256=b32b5cb673a90909911988a2f1906ced005b07e8dadab6c8664d3f5de44a8191" data-requires-python="&gt;=3.7" >jupyter_console-6.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/cc/a58d86b4a10f4c329a9903b0764987c3bb5cde611a515c451c15b6ec19f5/jupyter_console-6.6.1.tar.gz#sha256=5931212d5cbc1f956f6fd615755b5e15f389a8eaa697288dbbe4377017615ecc" data-requires-python="&gt;=3.7" >jupyter_console-6.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/c9/83cde1cf3120087adc4fc2ec9def7957dded990cc4adfffceeec461ff550/jupyter_console-6.6.2-py3-none-any.whl#sha256=0ba2da017be36bfae489f233f031f251da5b88b0ceafabea240b465ee474944a" data-requires-python="&gt;=3.7" >jupyter_console-6.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/d5/f2259e61e6aff88a1a1489938aa2d89452701c9bf4763f22106658da8d36/jupyter_console-6.6.2.tar.gz#sha256=7385dfed8a01fd51e3c98449dae24f38c1ba015d2073835e785671653a0967fc" data-requires-python="&gt;=3.7" >jupyter_console-6.6.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14213548-->
+<!--SERIAL 17070478-->

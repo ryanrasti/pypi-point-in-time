@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apscheduler</title>
   </head>
   <body>
@@ -82,10 +82,14 @@
     <a href="https://files.pythonhosted.org/packages/3a/7c/f21a6fb73810191d16162f3fce325ff2a62673f63223c390bea48741ea00/APScheduler-3.9.1.tar.gz#sha256=65e6574b6395498d371d045f2a8a7e4f7d50c6ad21ef7313d15b1c7cf20df1e3" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, &lt;4" data-yanked="Not compatible with Python 2.7" >APScheduler-3.9.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/23/4d/e32c8cd0738942234d7a328ef9272a59c69f3c5db01d46e35003ffef20e4/APScheduler-3.9.1.post1-py2.py3-none-any.whl#sha256=c8c618241dbb2785ed5a687504b14cb1851d6f7b5a4edf3a51e39cc6a069967a" data-requires-python="!=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, &lt;4" >APScheduler-3.9.1.post1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/40/38699ecfd1c90f2bc26a781131aef85e3e55241812a69dda89d827e1d833/APScheduler-3.9.1.post1.tar.gz#sha256=b2bea0309569da53a7261bfa0ce19c67ddbfe151bda776a6a907579fdbd3eb2a" data-requires-python="!=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, &lt;4" >APScheduler-3.9.1.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/82/e8b6e7e2dfea46bd649ecaf8771fb6552232394fc9adf5c7f10655a87b95/APScheduler-3.10.0-py3-none-any.whl#sha256=575299f20073c60a2cc9d4fa5906024cdde33c5c0ce6087c4e3c14be3b50fdd4" data-requires-python="&gt;=3.6" >APScheduler-3.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/17/dcdd450038f9b3888acf462ce778532c26c683fa2d6343ba1c7b2a383ae2/APScheduler-3.10.0.tar.gz#sha256=a49fc23269218416f0e41890eea7a75ed6b284f10630dcfe866ab659621a3696" data-requires-python="&gt;=3.6" >APScheduler-3.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/08/952d9570f4897dc2b30166fca5afd3a2cd19b3d408abdb470978484e8a09/APScheduler-3.10.1-py3-none-any.whl#sha256=e813ad5ada7aff36fb08cdda746b520531eaac7757832abc204868ba78e0c8f6" data-requires-python="&gt;=3.6" >APScheduler-3.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/ed/f1ad88e88208c24db80dcaae7a5a339bb283956984f8fa59933d2806413a/APScheduler-3.10.1.tar.gz#sha256=0293937d8f6051a0f493359440c1a1b93e882c57daf0197afeff0e727777b96e" data-requires-python="&gt;=3.6" >APScheduler-3.10.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/a2/d05402b50f2e89774238db0193f6ce14897e5140ec3721d9847e25f2f800/APScheduler-4.0.0a1-py3-none-any.whl#sha256=065e21f4441cd948304c67d558ba55057dabc00381527cf0926fdba0a7b14ecb" data-requires-python="&gt;=3.7" >APScheduler-4.0.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/f6/0b028bf5f18ded9e091a743ce020bc7f1eea3fc6ce824cbd3bd0a2a40c16/APScheduler-4.0.0a1.tar.gz#sha256=e0f3626dd92f8850e0ea1a14f5789bc95b1add8a469d92ba40a6f5c4921a1daf" data-requires-python="&gt;=3.7" >APScheduler-4.0.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/5a/f127722ea0baf1c42bf2cbd9cd05b73df0eea3e416d70a378a8fa353198b/APScheduler-4.0.0a2-py3-none-any.whl#sha256=884b05dfd9482c573ec7c47605876d4f725d62d6b3f25fdb4c11ce61be7347a1" data-requires-python="&gt;=3.7" >APScheduler-4.0.0a2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0a/a5/939e8fbd3c89c6a2ddc67b58623656155aa05e39e57b41877de5a742b6c4/APScheduler-4.0.0a2.tar.gz#sha256=4e502ad00e675765d39e811467d3f16b70aac9490cd88db21aa71f0a853f463f" data-requires-python="&gt;=3.7" >APScheduler-4.0.0a2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15739656-->
+<!--SERIAL 17141647-->

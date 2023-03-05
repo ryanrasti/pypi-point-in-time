@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dag-cbor</title>
   </head>
   <body>
@@ -36,6 +36,18 @@
     <a href="https://files.pythonhosted.org/packages/e4/cd/7b4cf2ea93a2c37c72262b65225bead90f65c888958541f8dc05e2a5e24c/dag_cbor-0.2.1-py3-none-any.whl#sha256=f6d2f5828cc3a7f7fe528fce720c075f3ae42e750f75ace25b190146ac3dc91f" data-requires-python="&gt;=3.7" >dag_cbor-0.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/4c/5a0fad3f379938ac8191e3c5c83acdeb6dd8f68c4150ad9ff362585dd225/dag-cbor-0.2.2.tar.gz#sha256=ace420ad0ec0ffaf621ddee545392b63ee53ab23a808a87cbaed1e1b098dccd1" data-requires-python="&gt;=3.7" >dag-cbor-0.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/a6/e52ee8ced77ebbe071be13581dbfbd68e094800f811f30fb2aec9a655d07/dag_cbor-0.2.2-py3-none-any.whl#sha256=a501782cc46e88d5a272d2bb4718e75fec3678aa167bd4648370ff525c3021fd" data-requires-python="&gt;=3.7" >dag_cbor-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/58/2f73f10b6debe2e33981a4fc30aaaa84ec326b68c72467364d51f73aa62e/dag-cbor-0.2.3.tar.gz#sha256=3b4ddb706b2075c6214c8f6e66f6dbcb5eaa0b3bd9dfe9b71622a9d9098ea83b" data-requires-python="&gt;=3.7" >dag-cbor-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/58/e8aa28afa8091f4ad246677964f5d2444c262f057cf4145e7c9726c3b691/dag_cbor-0.2.3-py3-none-any.whl#sha256=90e8770a2075c4ea9ccfafeb253a288f87936d04a1bc1b1dc7803bf6db33e6b4" data-requires-python="&gt;=3.7" >dag_cbor-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/75/1d5df7e14a331765219ed26febdaa4ddb813bfed214b43875c759272ed2e/dag-cbor-0.2.3.post2.tar.gz#sha256=7e6d42dc454fdbff055f6322395980953dd66452cb495fe6a73006784c0ea7ad" data-requires-python="&gt;=3.7" >dag-cbor-0.2.3.post2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/54/1dbbc13aebce221569a2cfd74d093cb8e10afb4260f6ae1add7843b0f9d8/dag_cbor-0.2.3.post2-py3-none-any.whl#sha256=e02619d2d872488f3261afe4bcf7e65e20ce849d71932442a413347dd3ea03ad" data-requires-python="&gt;=3.7" >dag_cbor-0.2.3.post2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/c1/004893db539d1bd1091787e5406394a89a36af55df5f0e201841d78bc3f5/dag-cbor-0.2.4.tar.gz#sha256=e6467ecf081c0f44d821358504d4c332d12e951a85c11431a58a00183d301b9c" data-requires-python="&gt;=3.7" >dag-cbor-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/c5/522e606681bc55e91a22e9b6382df964f63c6c13a6d0f1fcafd65b2d47e7/dag_cbor-0.2.4-py3-none-any.whl#sha256=e1deb9277ab981e6b67ded18164d130a9a2e49ad1e6d0f09fb74f05d8acddd0f" data-requires-python="&gt;=3.7" >dag_cbor-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/91/8ab5530ada28b9333987c1c1f776ab0c74adcba30da81ffb1d035c06d872/dag-cbor-0.3.0.tar.gz#sha256=29820ead306dbcc4bb945e85d0bfa2496a440adcc20fa5cd41ddaeb20d28f69f" data-requires-python="&gt;=3.7" >dag-cbor-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/03/083548fb903a191ac491af2f357d194e2c5908e5460e8a2cb2ac2f847367/dag_cbor-0.3.0-py3-none-any.whl#sha256=38297450cbeebd1a078273b322cd11c585030fdf4fcd88319cdb96cb4cd465a7" data-requires-python="&gt;=3.7" >dag_cbor-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/9b/f748713e51b925120d7883ec474ffd5d8c14de67f0cf0587baca91695b21/dag-cbor-0.3.1.tar.gz#sha256=f0a752c58e948f718e8fa1bfcd9730336c2867ee82633d22bcaa54ae290fea75" data-requires-python="&gt;=3.7" >dag-cbor-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/0c/472daff485ce06f3e97a0702acb42d157d4dc2b0c4bfd02da5efe4c7312c/dag_cbor-0.3.1-py3-none-any.whl#sha256=5bf27f8fab2ae7a095b0008155c5b9c2ea49a8c9f3e38ed4af4478ad9e22674f" data-requires-python="&gt;=3.7" >dag_cbor-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/06/e51f0a12a1a31fb19ac3158d6811ef5fa02744f2314b46cfb582b23b74d6/dag-cbor-0.3.2.tar.gz#sha256=d113050d6f5cb6c1a324c911684c5daa305425702585573269bef3000aa9f106" data-requires-python="&gt;=3.7" >dag-cbor-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/a6/bdfc9f1a8132c2439e849eee630657b6c15634b284fa553daf9f3d0b6413/dag_cbor-0.3.2-py3-none-any.whl#sha256=c78030379f385b90498711d7613af5bdb4155d5a7623211cea2b20441d5794b4" data-requires-python="&gt;=3.7" >dag_cbor-0.3.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 12589732-->
+<!--SERIAL 17053464-->

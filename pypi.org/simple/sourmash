@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sourmash</title>
   </head>
   <body>
@@ -368,6 +368,15 @@
     <a href="https://files.pythonhosted.org/packages/a0/1d/04a4d1f235afa3a0d34781f49d537683966d0f0d0a3c5c28a5b2b5b9dcc9/sourmash-4.6.1-py2.py3-none-musllinux_1_1_aarch64.whl#sha256=7f3d859eea0d03a26a2ed1cfaf2f3003004f0df78feaa50be2b899c1ea7f9ca7" data-requires-python="&gt;=3.8" >sourmash-4.6.1-py2.py3-none-musllinux_1_1_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/fa/3e9a5fcf8683d0b58f8903e729f4e7f65d5aafee0f50db77169e886f123f/sourmash-4.6.1-py2.py3-none-musllinux_1_1_x86_64.whl#sha256=47f7abbbdc0180ac0aa8a5dee670a7ef365c7fc9a034f2d3bd19deccded77a1d" data-requires-python="&gt;=3.8" >sourmash-4.6.1-py2.py3-none-musllinux_1_1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/c7/7a422cbd99f64bb7f9819e08c1852db14aa0ad0206554c089633950fb2e5/sourmash-4.6.1.tar.gz#sha256=c8e6712632a4ff4322946a89c4b81e50f7ac06f878e043aba8fd9e1fa013819c" data-requires-python="&gt;=3.8" >sourmash-4.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/3a/30194c3afdd940a31228ed27524b8a874e4a9bba91f69022a832f461f97a/sourmash-4.7.0-py3-none-macosx_10_11_x86_64.whl#sha256=dc5b264b091bb383c8c2537617e8c12c194377e770e0b769dcbbcce75ea849d6" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-macosx_10_11_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/b0/1bcb9b1cd61f2bec0001c4a656f66a79ecda752fca3ecf4ba80aa2ee114c/sourmash-4.7.0-py3-none-macosx_11_0_arm64.whl#sha256=a07a6cde0374131340d4c039543992d3f4f2acf84e5b84af1056881e3b1c0306" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/7a/fb1b7c772ac7a868c6c06429ed5e4c80d1826798fcf919b59e4ce1c146a5/sourmash-4.7.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=59487fd6f7a273db2b836c226fcbf114c5d303fe7e9eabbe7b8a474f28cd2692" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/11/abeef9387389f86b593636f577f9ea31737bccbf1acae619164feb3e2b96/sourmash-4.7.0-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl#sha256=13d272daa89ad7a86d4871ed3175fcfbdd816a68689f87359616d6f20c70e59a" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/29/edd539a6859b3b86930db2672e18a69df54e1100a5aad21b62e3e2a0ff42/sourmash-4.7.0-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl#sha256=b34f06c9c82a6000fbdde9d5b572f703cdc3c29accdf7da7bff5e55f8a7581fe" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/93/2e9589a07b6adfbe0978522a6d919e139199c493df2b6f87c044eafd924b/sourmash-4.7.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0ce9117aafa96c0bf414760510e5cc2b86844ae6f2afd68f032709cd5d9d2e7f" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/38/5ec98fa40c4bd4af70e4eee2e1c348c61ffc4af4d7816810c56225db67d4/sourmash-4.7.0-py3-none-musllinux_1_1_aarch64.whl#sha256=b3fc6d6317abbd63d9b6510eec97adf9c28bcd90a90898e455feca006228eec4" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-musllinux_1_1_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/09/78fc8ffa0356f41ab154b945824720a287c773b6d4e4f5796864408645e2/sourmash-4.7.0-py3-none-musllinux_1_1_x86_64.whl#sha256=051922c238162a52489d740555afea24463cd65e954d78465b3f85fc7c03198e" data-requires-python="&gt;=3.8" >sourmash-4.7.0-py3-none-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/8a/30642e5d5d1c7e6bfed28372d0f932ba470653fd7b40102463ebaca47410/sourmash-4.7.0.tar.gz#sha256=4135ac82059da24a30f3b9554ecd0107dbf68eac2828f39fa275038554b76311" data-requires-python="&gt;=3.8" >sourmash-4.7.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15981352-->
+<!--SERIAL 17145044-->

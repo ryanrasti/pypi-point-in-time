@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ingescape</title>
   </head>
   <body>
@@ -47,6 +47,20 @@
     <a href="https://files.pythonhosted.org/packages/ca/81/37eee4c94b0834bd218e5e8668a8e28fb074336d28566e56ea85a215b34b/ingescape-3.0.4-cp39-cp39-win_amd64.whl#sha256=5836d7b0c8f6b895beb59e7b2b9c34ea07695b8088423e0231868cff6021c015" >ingescape-3.0.4-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/87/b7b7c0db350d6f508d16624bed23b00633b7312a2025b44c6a90de4d13d9/ingescape-3.0.4-py3.10-win-amd64.egg#sha256=72b2f9c16cc5739b6db504642d4e8cd531139caaa4eb4273c08ac7b536013f2f" >ingescape-3.0.4-py3.10-win-amd64.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/8a/25fa878a8b47016b854a8bc7856731288963cad57cebca86d1933d542f45/ingescape-3.0.4.tar.gz#sha256=da0e3fec9ff16ff54868d81fb00b42a844d43ccbf3b79b20eda17767cd419a64" >ingescape-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/b5/7ba9fee74e6fd135ea52941a9767b0a8c9d4b16bd2f9bc522bd5c22d1dcc/ingescape-3.2.0-cp310-cp310-manylinux_2_24_x86_64.whl#sha256=cb3451c0c6d26c209dddf1de3bd0251f975550782a2c395aeda976f7be9dac5b" >ingescape-3.2.0-cp310-cp310-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/ce/b47ac8b49112e01b231e1b1265b33739d16da94cac905c39179eb3779979/ingescape-3.2.0-cp36-cp36m-win_amd64.whl#sha256=423af1075cffffbae97f2a7162f4aef914f7e69a78f7f5a8aeae809a72032ed6" >ingescape-3.2.0-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/fa/64f8dc4b5ef4b048924d3a9fd0738b173926ba9b1e416d59a42e3e051556/ingescape-3.2.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=212fe64e31d0b70b27baa23ee983407f8ee399ccbff350c4b23390376d6fc0b3" >ingescape-3.2.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/c9/470090802d5c863e3724c312994ac4044204089e5bcfa58153fad15d1907/ingescape-3.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8b5a5d4b89c8a95e8d69bad5cc8a6535d3246f27110708f35ea597a2a488d603" >ingescape-3.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/74/3f2b95b097d53da136c6f28921cfdf1c6082825ca7a13813a860c976f839/ingescape-3.2.0-cp37-cp37m-win_amd64.whl#sha256=74de16f865a8dce3cb5fe7b94f5cd8b38b6b6b009f8cac2487e1132dbc8bdd1b" >ingescape-3.2.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/a9/7b0ea310b15f68be4dbc280e18e68574924da7ed68d43ebf0a0ebf2343f0/ingescape-3.2.0-cp38-cp38-macosx_10_14_x86_64.whl#sha256=494adac2501b4af654d517e298bf78cc41983ef0e20548321c9d9e2fb1c7b64a" >ingescape-3.2.0-cp38-cp38-macosx_10_14_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/d3/66c5455d871df6477fca594ead2d383e327c719cbd9a544b362c41cc1fd5/ingescape-3.2.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=ab839cafd0efccb680ded530b236a8b7206c3051b5427595345dde0f94a44f75" >ingescape-3.2.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/c4/c1e5bb042cb8e9ca0e0dc4a060576ecd0377e9b8171b81703fb9e03a543a/ingescape-3.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bad121f43fad8b35ff779d72b6dd2dabed2c8dec0276b05ffa1248b2212cddbe" >ingescape-3.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/76/58c96c58aa32fcfb4ec2088f9041142423e6af7f0f5087c6af2a58dceebf/ingescape-3.2.0-cp38-cp38-manylinux_2_24_x86_64.whl#sha256=8c32473efa5ec66e2f082d5d29ac26dadff4290f0b4dafb991a8178d7248c7a2" >ingescape-3.2.0-cp38-cp38-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/5b/d3a2ef7e3690f1f29ff1f95f1c429da1d4e0355341898c332e7e67a84976/ingescape-3.2.0-cp38-cp38-win_amd64.whl#sha256=d3cbf470dc98693c206553d03eeb45237baa8e3010992f17e8f0a0abbd9b8961" >ingescape-3.2.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/5c/d1c5aaaa39bb3bafeb31df1b56adfb93840784268bf453503dd4914cd791/ingescape-3.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=861d730cf91f134b0039565a58b6a8251ea1a05e2b26f7281230f57cab9f518b" >ingescape-3.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/63/c078eb601f6418fe8823b4dfdcca560e583231b1553fe8e8be8830a79d3a/ingescape-3.2.0-cp39-cp39-manylinux_2_24_x86_64.whl#sha256=9e595bee9aed181f9c4b9e9141a323e4be16d3de4f96e5af29be0aab08a5404c" >ingescape-3.2.0-cp39-cp39-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/1c/0d7c671551a865d62c07b0a50064718ba715a772b86894f832d0e62cdf66/ingescape-3.2.0-cp39-cp39-win_amd64.whl#sha256=fc8ca74ba98ec02ce07d68d30cf736f468ff1bb7997535d9f33ccbb71fe3dced" >ingescape-3.2.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/7d/190229e543006129a8577145f0cff1aff784d242fe6fcc2b25f3b87babed/ingescape-3.2.0.tar.gz#sha256=8345c8fa8069a4dd3c056571ce068b7245db724e06c6a524e18fb1ff21510538" >ingescape-3.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15104107-->
+<!--SERIAL 16960967-->

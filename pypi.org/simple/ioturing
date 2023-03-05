@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ioturing</title>
   </head>
   <body>
@@ -12,6 +12,18 @@
     <a href="https://files.pythonhosted.org/packages/1b/fb/e61d6dd75f78c91f53bfa6937c98072ae4b08789676185a324cc60061084/IoTuring-2022.12.1.tar.gz#sha256=f33a9297e21d605fdb2bb6a2c33e8c4a70c725477508fdce574f6f411015f4a0" data-requires-python="&gt;=3.7" >IoTuring-2022.12.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/b4/67fb7ec452de4880f43fb587b17262453e9209e23c2b806ecd17a5443974/IoTuring-2022.12.2-py3-none-any.whl#sha256=58573ed3470c4328a9db7637fe7ff1b67a6394b35ff22b1e2cca051d04e99d48" data-requires-python="&gt;=3.7" >IoTuring-2022.12.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/9b/b32b1c20723d2396975410ce341b5ffebbbef54086e88a2f7ebf7a0a07ad/IoTuring-2022.12.2.tar.gz#sha256=dd671f2ae714ecddcef45b1b200dda6abbc556625c104dafd474577eabe4db72" data-requires-python="&gt;=3.7" >IoTuring-2022.12.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/aa/d9e2c6d08474a3826fff8a083095b39d498e35491d366f4d5cf76d781ef5/IoTuring-2023.1.1-py3-none-any.whl#sha256=292dfd10df5cad28a2606bce5af808292c0d5e27849a3913585b889511cb2b7e" data-requires-python="&gt;=3.7" >IoTuring-2023.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/17/a88056b5977cb1ee9e90340159ebf89aa6f2b0c97bced42a515dfee244f7/IoTuring-2023.1.1.tar.gz#sha256=952eed6cf053a5914eb793cd1be8eaf0a3580403735500508231414497d672c8" data-requires-python="&gt;=3.7" >IoTuring-2023.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/33/32bc85b896cb739838d0abf7c7ba902cf106e0811846b8fc00b55c2d43e7/IoTuring-2023.2.1-py3-none-any.whl#sha256=d7a4a89789242fd2f3054b5273e6a7a91f7ddf5c3b8d36c13047a2f8243cee04" data-requires-python="&gt;=3.7" >IoTuring-2023.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/02/5551a01c5edbc1420a9f191940a4749b4a95a058066a8592f2e17b45f56b/IoTuring-2023.2.1.tar.gz#sha256=857e4418880668ef0dece932c36c28dc320cab3cc46666ea68df2733608a30c0" data-requires-python="&gt;=3.7" >IoTuring-2023.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/1f/7c9bb545ee4b7a5b7315f3c233bc4b6d75cb0d6dc99afc30fd1d938021c5/IoTuring-2023.2.2-py3-none-any.whl#sha256=6cde8207de250a481d54cb860ec17331eab9a01f9580b1215546e38c06cf5c07" data-requires-python="&gt;=3.7" >IoTuring-2023.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/d1/9439ccf5c1066dfbedb32dec880885640d1ddd93b4a45286b2c7ab480371/IoTuring-2023.2.2.tar.gz#sha256=0b4a1fa64b87d4473ea905d976e6ae5b98afcfb152626e9bcf869b6c7ad39769" data-requires-python="&gt;=3.7" >IoTuring-2023.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/38/e8bb53bc3c65f5f2a4c8f32bc70dd7134209417f7cc25f5265429173fc92/IoTuring-2023.2.3-py3-none-any.whl#sha256=d94909c73e25e77e5274a2f5b41ff82f21b8908ee8b5fdf8fad9937d2a7849d0" data-requires-python="&gt;=3.7" >IoTuring-2023.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/2d/e8392aa93f1e6d5d11bfb8fe4cf193ee586dad33f791e1dad614a8df42d3/IoTuring-2023.2.3.tar.gz#sha256=ed88d50400e488461a3840d967af4e68eb4a9f90551ea09ebf4acef79f666506" data-requires-python="&gt;=3.7" >IoTuring-2023.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/d4/d3367613cfc0c7874ac432cf629b11345c3ee151c891bdfc6540e6155bb8/IoTuring-2023.2.4-py3-none-any.whl#sha256=f3b1700768f54d9aeabb9f91dc2adafc8176169f97bc5d3661d01a0ac272d14e" data-requires-python="&gt;=3.7" >IoTuring-2023.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/da/8f48d51e5dae12b154a68b5131da112b67b4e63847ade1180c35b162d076/IoTuring-2023.2.4.tar.gz#sha256=423a283a38351657ad99c5b4e76282b40ea683fe439554fa6144ddc567174107" data-requires-python="&gt;=3.7" >IoTuring-2023.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/3d/6fe10f3cb72ff84193acace10bf0e1ee593b8626beedcdff1627e36518ef/IoTuring-2023.2.5-py3-none-any.whl#sha256=2dfefd9f9b9a8f22eeb0027c721b5937e3b49d90d703ae0152de5dfb6da7313e" data-requires-python="&gt;=3.7" >IoTuring-2023.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/5a/ac460aae868acbfc1a28c3d0fc79ff1969a8c098fc84238c28a936c21c4a/IoTuring-2023.2.5.tar.gz#sha256=2ef95bc15c5aece1cdb38784c2cac0c1008ce7e7b605f22bf768f3c97e7bd8eb" data-requires-python="&gt;=3.7" >IoTuring-2023.2.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16020596-->
+<!--SERIAL 16889225-->

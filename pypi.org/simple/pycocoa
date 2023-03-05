@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pycocoa</title>
   </head>
   <body>
@@ -84,6 +84,18 @@
     <a href="https://files.pythonhosted.org/packages/0f/b9/2b527a043c32cf31ad95dc0030fbd0afffcc495a2c017514cdd8b1657e70/PyCocoa-21.11.4.zip#sha256=88a52284ea78c29fd766eb7e84f3a3fd0c31ba1c4b584101d42d4e765c81883a" >PyCocoa-21.11.4.zip</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/cb/28e536ff87eb21272283fd09f80d171bccda3ea1ab24ad0a0c6900836879/PyCocoa-23.1.6-py2.py3-none-any.whl#sha256=cd913bd76ba4266bc7d7c60c4240bb24599120b3c52e490bd9c2923b5721e670" >PyCocoa-23.1.6-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/1e/4eb325be698829b6b5fb491d93363b58183b6eadadb1c9689f2933b96cc7/PyCocoa-23.1.6.zip#sha256=f5a318ca74713755b704a495bdfc442660ac62646051a61dba8c1ecca7bae0aa" >PyCocoa-23.1.6.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/4f/1c4069745653fbe0250dfb9512f0eb9c52892d05c1fcdc000c360ac60178/PyCocoa-23.1.18-py2.py3-none-any.whl#sha256=55b2ec2c75829a52cc8ee6865485847983792886f9fde1f5ca2686e0055dfcaa" >PyCocoa-23.1.18-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/84/1d4e4e6706fd676f2685f4d70828f419028e8b5da13a49a8a9a26db190d9/PyCocoa-23.1.18.zip#sha256=25fae0ecc5d36b234e922e18a0eadef380875d9aa3ba9792017251827c0e59f9" >PyCocoa-23.1.18.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/95/3f241fef2794610a1a2ca7fc0265e2128a4a2b2d7fde68db288c1e8cb6cb/PyCocoa-23.1.20-py2.py3-none-any.whl#sha256=a65edf35d49934450839cbd29e4fd703fb6e791591fde167e4d5633fd86e2c03" data-yanked="Issue #6 unresolved.   See release 23.2.3." >PyCocoa-23.1.20-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/28/cfeacd55830270f3873193ed37e6a84b70fdc33e9a55033ac3cdc9091128/PyCocoa-23.1.20.zip#sha256=2ef1ee6e007b19f8116c7253c2dde27085b14c61c690a0a958ae46c01ab431ac" data-yanked="Issue #6 unresolved.   See release 23.2.3." >PyCocoa-23.1.20.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/0b/627ed10178b30dfdec5a770acc75d05ef7f3f14ac870510893f22214a557/PyCocoa-23.2.3-py2.py3-none-any.whl#sha256=d51efe21ff975423609a4fb663ad4771c56e8b24d5c21a7098a33d19ce629383" data-yanked="Leaking _NSDeallocObserver instances." >PyCocoa-23.2.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/1a/0e5169225f176faf534cef0665fcd8e07caea38a8f741c191d76ef87100a/PyCocoa-23.2.3.zip#sha256=1f8f451c055db49d96913c68391b3390585d900c5fa65bbf6216ba7ecee2e480" data-yanked="Leaking _NSDeallocObserver instances." >PyCocoa-23.2.3.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/3d/b5e34940daca9cfc9239e49d5f7c994c9c71c85a5a1e72d36ccd327af37f/PyCocoa-23.2.4-py2.py3-none-any.whl#sha256=022da8eb13d18681c6bc60b4616dd3f220648625363f1771382c7a76425728a7" data-yanked="Wrong RunLoopMode type." >PyCocoa-23.2.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/3f/25018e4f86f42f3aa04ce8cd0071ceb976ca28ee6c1b79275daaadde98fe/PyCocoa-23.2.4.zip#sha256=1406f4ed72398960a4203430c1abc3a6b12c3c96e47513486e400cb9d6ac7ad6" data-yanked="Wrong RunLoopMode type." >PyCocoa-23.2.4.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/33/ced8bd3cae3aeabd9e36b34c9dcf58fb3bfb139acc57f87a896db959fcdf/PyCocoa-23.2.5-py2.py3-none-any.whl#sha256=75cb5d0955a003f976675c3bfc73b8009e4e0f2267cb65d88040321f8b39e0f0" data-yanked="Wrong RunLoopMode type." >PyCocoa-23.2.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/10/6e78a0cbfbf7867757dd42d991773a7f52789ebcdbe1022f9e63ce49074a/PyCocoa-23.2.5.zip#sha256=252d5bced123522a730fcd979e16dacaac6133ab21160b12953f2368ea8369f2" data-yanked="Wrong RunLoopMode type." >PyCocoa-23.2.5.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/02/8e75d60da3430934a22ba015943f21f66046b6bc9f273520a00635d19cd1/PyCocoa-23.2.6-py2.py3-none-any.whl#sha256=60a3ef1cc05a14515eb442cf1d0f9e3dbf31296dc37058990a04f697fce7b710" >PyCocoa-23.2.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/40/ee1a351d5293d5347a94b77731ae067e4ee6f308e173a79bba7854814e8a/PyCocoa-23.2.6.zip#sha256=a973b7109175cc10d65bf8270c0349ed2d7cd280f4afb5782ce72cf9d5e146f1" >PyCocoa-23.2.6.zip</a><br />
     </body>
 </html>
-<!--SERIAL 16332527-->
+<!--SERIAL 16713473-->

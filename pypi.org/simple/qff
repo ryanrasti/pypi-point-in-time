@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qff</title>
   </head>
   <body>
@@ -30,6 +30,20 @@
     <a href="https://files.pythonhosted.org/packages/72/8a/62da847259ac84c95487930ade23303f20026f653c885cdff6a6ad9db3ab/qff-0.4.11.tar.gz#sha256=a533a4281f72fd2d7a9eb03738977e0a33e657436067ffdfd619a29e77ab2014" data-requires-python="&gt;=3.7, &lt;4" >qff-0.4.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/4b/3cac8a5ae5ab6bc5d109244f4c45a70337d91c391eaf1f115770c6cc3113/qff-0.4.12-py3-none-any.whl#sha256=3435837854b14f678a965ead66ddcc10647a2b418b5ae735128ea7639bece519" data-requires-python="&gt;=3.7, &lt;4" >qff-0.4.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/16/1567dd7bb6a74688810de83e5ca336d27c1a6e9d5f124080bd2a53ff7ad6/qff-0.4.12.tar.gz#sha256=0ed856f9838e9858500f8e2a63507770ecc44527209b3d909ab3ea9628197b74" data-requires-python="&gt;=3.7, &lt;4" >qff-0.4.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/ba/796a37114b39cc262dd5a4ddcc2db902ac6713f726beb5c9057a8cd3dc5a/qff-0.4.13-py3-none-any.whl#sha256=4d8bb45c70f7d1a5a1236750e88586d708844fd14436fd481ba78a8068228152" data-requires-python="&gt;=3.7" >qff-0.4.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/1b/08c9cf70d90441c9413586a6820456d159e880d1dc25cd8a72f17f7856a6/qff-0.4.13.tar.gz#sha256=977b3bc3ad727bb42409073f3a6adaafc83b74e7cdef8f5bbf44ff771f13b352" data-requires-python="&gt;=3.7" >qff-0.4.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/20/adb395216d0c0f523513e0dac5a804801ede06729a96a048eaa5618a194b/qff-0.4.14-py3-none-any.whl#sha256=caf7bf4997c6ec9e62d2bcd029609c313379f37bd6c58764ce2e02195a01cba2" data-requires-python="&gt;=3.7" >qff-0.4.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/ee/9bf0517765d135bddd4f2bf079fd96652d61929c7d5edfa63f3e740cfb39/qff-0.4.14.tar.gz#sha256=2efd9454d291cda9d7cd674588aa013862ab8cf1ddab4f9f4b7a0c5e1f22ae43" data-requires-python="&gt;=3.7" >qff-0.4.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/cf/c4b8cae8ba8b4fa2ce228504243f95777dffa2a030663e2c26c014a1db9d/qff-0.4.15-py3-none-any.whl#sha256=5e1998762beb64fa7a9d336e73d7e453b29afc198cbe74493fb0ca59dd955b25" data-requires-python="&gt;=3.7" >qff-0.4.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/53/72c4394140e5e71b383b370577ca2d0f377ab840f1d2f62e4b9de1977a05/qff-0.4.15.tar.gz#sha256=313cdb08fd3fad31eeabb384668236895f7fbeb4071458c8528d53e70fde92d1" data-requires-python="&gt;=3.7" >qff-0.4.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/9d/0dea341582f7c2de9fa72d0e09a61b34bdc392baaa38764a11a26cd3a82d/qff-0.4.16-py3-none-any.whl#sha256=4b564d5ec3361a2bc51d86d6cf41c0842606ee431e5ad0cbb3d57480e96487bf" data-requires-python="&gt;=3.7" >qff-0.4.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/85/d2d609736751d1941f8ef92b39da9c91f796d2abaac71b1528f80fda10dd/qff-0.4.16.tar.gz#sha256=5abab87e1bcfe4b6f29977ae9e9e93e8e485029e46771aa771a7a215ea18b170" data-requires-python="&gt;=3.7" >qff-0.4.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/54/945e80597a01715ec4315e149aebb4bbe7784de34e82c3d6b4ee8e57f49c/qff-0.4.17-py3-none-any.whl#sha256=ed8b15f36c336322e9480060fde19e912ccaed8df2a5857b1dcb621f925b6bad" data-requires-python="&gt;=3.7" >qff-0.4.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/2a/0ecb960e4dfe1f08a28705ea1cc46ae9aecc160e04d3185867ddc9434447/qff-0.4.17.tar.gz#sha256=ba95f61a45256b20490ad4f5d78c58af9238d0d2844fd1bf4cd741122489d418" data-requires-python="&gt;=3.7" >qff-0.4.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/54/f423c995a0f81319b795796cb8afb09c4d1f65f9683bfbfcf0c70a731eaf/qff-0.5.1-py3-none-any.whl#sha256=a2ba439cf0cd28c779c615dc715b941232438a2233edbd43dcfbf380c0d3c34b" data-requires-python="&gt;=3.7" >qff-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/eb/5bdd7de2c361eb96eac710d7b1a6f14c3b74ce06fc12a45b3082d0b0b96d/qff-0.5.1.tar.gz#sha256=407f1d05fae5e9cd9f232a1d04df367fe2db769f5edc3e4ceb7bff329d0f915e" data-requires-python="&gt;=3.7" >qff-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/cb/ee89d3a7e2873340dae6a2563832086c581c3158fe509444a5f01b5df7b1/qff-0.5.2-py3-none-any.whl#sha256=aaa964aa43f93b2f0c97c01808a28efd7c76d2b737d0874de5ed3d403b868721" data-requires-python="&gt;=3.7" >qff-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/15/5881a6e712dad89eae7575091c12ecdf674db987a12351295e5cdde99232/qff-0.5.2.tar.gz#sha256=f99d32048c646c3c7b3533a4200b742b63ed8d5b06e4d7f85293855f6bac5d6d" data-requires-python="&gt;=3.7" >qff-0.5.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16277095-->
+<!--SERIAL 17154317-->

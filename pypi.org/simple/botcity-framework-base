@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for botcity-framework-base</title>
   </head>
   <body>
@@ -12,6 +12,9 @@
     <a href="https://files.pythonhosted.org/packages/88/56/033d87afa2a06855dc8d5e33d5c0869a92e742e18bf6341a36a5162ffdd8/botcity-framework-base-0.2.2.tar.gz#sha256=91e890c848635cfecd26c691bb04cf388b91a9b5e9fabcddc70ee894ac550871" data-requires-python="&gt;=3.7" >botcity-framework-base-0.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/5b/a33a2b5eb293254920bdefdc28a6400c859c1755798ca1eed2e4764cba31/botcity-framework-base-0.3.0.tar.gz#sha256=a8bc334a4f5077e390cb69de19fdffd145774c65e60a2a3c4121f503fb1b25f2" data-requires-python="&gt;=3.7" data-yanked="Bug found that makes it impossible for usage outside of a MacOS machine." >botcity-framework-base-0.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/0b/39eaf467f96add685eccbfe9bde77ea3307143ebb90d1ad97eebf9ad1b65/botcity-framework-base-0.3.1.tar.gz#sha256=19b52c01994af6f31d2f65cc0fc7c58d10617c5d2dc22ac80a1d4b2a98dfcbeb" data-requires-python="&gt;=3.7" >botcity-framework-base-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/b6/1142ef9c3390f9673d8161a6c6e06a9a93575f2c7e60cf6472138afe44de/botcity-framework-base-0.4.0.tar.gz#sha256=6d29f8c1c38948a39fc54ed9eded603f1d502e94553f1ff016d3a106169b22dd" data-requires-python="&gt;=3.7" data-yanked="Problem with relying on constructor call." >botcity-framework-base-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/99/3402723c7b51883fec04ca936399bf8613e0babf67472d9b35556e9a7fd1/botcity-framework-base-0.4.1.tar.gz#sha256=41f282d3d417c94dbb80e8bbbbb5af1c3ba00ef30ad65f355f69e5e7321ea8d3" data-requires-python="&gt;=3.7" data-yanked="Bug found with get_resource_abspath" >botcity-framework-base-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/ea/5629cab8cd38a3d45eb9c2316762f2535d3bee42cafd5f462ccfd6253fec/botcity-framework-base-0.4.2.tar.gz#sha256=92c79ccc55ea5d839f114167dd5f4208219359f5b3c110737c84e369ac66f3cb" data-requires-python="&gt;=3.7" >botcity-framework-base-0.4.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14413262-->
+<!--SERIAL 17151235-->

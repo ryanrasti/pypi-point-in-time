@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lakefs-client</title>
   </head>
   <body>
@@ -153,6 +153,22 @@
     <a href="https://files.pythonhosted.org/packages/4c/be/2d51fe231e88b0e097c535d192f365f8cb8a6d62a6b4c7f244ae2d99325f/lakefs_client-0.88.0-py3-none-any.whl#sha256=9c7e63a3df6c1cb7a56f3c215db11891eda9572c4a3e9ef0bfc6f6992c49ff0d" data-requires-python="&gt;=3.6" >lakefs_client-0.88.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/b1/f1470a95703d72139f8296b33e2b1d1fb494b56ec01a97e6ff4ca0b26a79/lakefs-client-0.89.0.tar.gz#sha256=e2a25a68f9a22adbac0d0c25e79a54c8a97699ceb2164e794394c6e37c53dd8e" data-requires-python="&gt;=3.6" >lakefs-client-0.89.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/18/e808995b18f0d3bc334678b61d532556d3de48f1e37831f051c9ac78560d/lakefs_client-0.89.0-py3-none-any.whl#sha256=9cdf0b15c0b0f48c02cabacd12cf6f20f0c218ad11b0f23628c3716bda638e68" data-requires-python="&gt;=3.6" >lakefs_client-0.89.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/05/6a5282acf5a50d04c79e7a0ee8c7089661efb17d91a7072e206585d7e797/lakefs-client-0.89.1.tar.gz#sha256=ac663caafe5b92d74f5f5e65e05a7a717414dd7d6a933a5f767dcc226c599803" data-requires-python="&gt;=3.6" >lakefs-client-0.89.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/7e/2441fa59ba5b059fd193344c9c9a2472ebfcdd5f281b9dbef214d9785740/lakefs_client-0.89.1-py3-none-any.whl#sha256=0ab01b75825702541e3115ca5ac63ed7f90f1dcc759179d19f5b87fa5dfe7a4a" data-requires-python="&gt;=3.6" >lakefs_client-0.89.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/5c/09a7161d68b448fbc5894177cdf3e1272183751f0fd106df46c9d2675f94/lakefs-client-0.90.0.tar.gz#sha256=c5862c68038454de0528d4bff514a2c9781145129612abd0c6d77295a6d3a592" data-requires-python="&gt;=3.6" >lakefs-client-0.90.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/28/46539f02b4e5952bc6cd0a70b5b1ce3dd8c9b87fd2a6ae3b9a341f962c92/lakefs_client-0.90.0-py3-none-any.whl#sha256=f9eeaaed4b5affbb1c3881f1983581f169c63f38509be0f8764e3f51d1ebf7e4" data-requires-python="&gt;=3.6" >lakefs_client-0.90.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/0f/1487052196e2f36164bfa772a1d9d3c41a2833e700776a9f0f6fda0d42e5/lakefs-client-0.90.1.tar.gz#sha256=21c2c8bd6b1a5c87a8311c34290c0e55c91d9bffd291ce1d2e9f8163c337c657" data-requires-python="&gt;=3.6" >lakefs-client-0.90.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/55/0c8966a0792653d25be483321eb3d74f09263000432a888cc2a310bb02c5/lakefs_client-0.90.1-py3-none-any.whl#sha256=c5e816112649978499a2f2e646521276273e3af002356799ee2d8a70f6947c0a" data-requires-python="&gt;=3.6" >lakefs_client-0.90.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/4a/610fe5255abf38c6769253c9867b477c13ed61f9ebc33d72da86adc5175c/lakefs-client-0.91.0.tar.gz#sha256=42790eeb3a4772380d69d7561045745c541503aa4b72aa2cbef1382d5bc3fb75" data-requires-python="&gt;=3.6" >lakefs-client-0.91.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/4b/66fa21a667ebc3583f0540f0cad0ad6f819b10332b86680b1e8e9611690b/lakefs_client-0.91.0-py3-none-any.whl#sha256=ca3ea9e5ffc1dd5c2c8d8c96c04449f16df8cab10d2915287fd73e84210aa7ff" data-requires-python="&gt;=3.6" >lakefs_client-0.91.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/2b/8ab12b8ddbc0121d3de6dd39f06f37d5e2da00c6ae16d1c5a5bfd63795f2/lakefs-client-0.92.0.tar.gz#sha256=6bdfae93fd8d0e583b9311fce4ec776f6b5828b39f89fd5cf838ee48ab9782e7" data-requires-python="&gt;=3.6" >lakefs-client-0.92.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/50/065d6fd44896237a08bb8f455e28a0f79ccd54566e98b3dc1fecce094175/lakefs_client-0.92.0-py3-none-any.whl#sha256=50eccd322f06afe3babdd86e3bc4e65679ff4252e3cd943e597d1bab9a280ba6" data-requires-python="&gt;=3.6" >lakefs_client-0.92.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/db/3d751211dd391579e96eefb3730ccc98110e13c8a327656217c7904d5ce1/lakefs-client-0.93.0.tar.gz#sha256=d76746953bc409dc8e15898e79e42cee16a78d4730edcde3f9ce9eb029e9dea4" data-requires-python="&gt;=3.6" >lakefs-client-0.93.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/b0/738fef999f1516569b3ed89ea3d11e4dc8daf5fb4161f9f6ecb65708b033/lakefs_client-0.93.0-py3-none-any.whl#sha256=548d9d32385801a9f45d2c25d9a5d4c9bd7363bf6100baacbfc5819ead32bed7" data-requires-python="&gt;=3.6" >lakefs_client-0.93.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/6d/4eb9daf9e96ed916d4f5416342544e1b821003222fb565bed7e00c5d2c29/lakefs-client-0.94.0.tar.gz#sha256=f0386c68238f28183a757911b2557546a7c0563e29ef5c8aed03ef00d37dc3f1" data-requires-python="&gt;=3.6" >lakefs-client-0.94.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/5e/aea61fca00743a5965ae8e1a16e4227d98525fb8fbf580c337638b54b969/lakefs_client-0.94.0-py3-none-any.whl#sha256=0f0f108213b36f100e6791560bc864440821bf886b5df221757d3f2d8ba49933" data-requires-python="&gt;=3.6" >lakefs_client-0.94.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/af/c8f5753d2dac591d42846b0de76936059b6aa4fcd1b02f3792b0062e67da/lakefs-client-0.94.1.tar.gz#sha256=bb412094e2b88be29a63e92aa316e387d8319fbffb6e42438d83108f50149fee" data-requires-python="&gt;=3.6" >lakefs-client-0.94.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/86/966c4a12b40c0fb8e07f48a796c0cb23294372e77364d0dba051b2affe71/lakefs_client-0.94.1-py3-none-any.whl#sha256=6d25468db74d7a8d0acfccaca82a3662e60c49420f8ee8582c54c6a15aafa524" data-requires-python="&gt;=3.6" >lakefs_client-0.94.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16349424-->
+<!--SERIAL 17047116-->

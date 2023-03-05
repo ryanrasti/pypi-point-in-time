@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for momento</title>
   </head>
   <body>
@@ -34,6 +34,22 @@
     <a href="https://files.pythonhosted.org/packages/76/a2/40fb2a71468e1cfdb6ca848d86ddab0b00be0ebcf5aec373001d228464ac/momento-0.18.0.tar.gz#sha256=3ee45e9b588a2b0a5df17580fb53bd423d3bc55d86d26f49bdbdca5e34c001df" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.18.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/d4/4d38dc06a5204fafa8ab53903e2684e685e2b96568070a125dd06af96c3c/momento-0.18.1-py3-none-any.whl#sha256=c7c7715c075b4a264f664b4719585ff27e2a9a4fafe5ab62d0e2eb5ec5d132ed" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.18.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/ca/8f50d896bc7bdc62318caf4e5701e6bc72b4b8d05efdbd5edb1724effdd7/momento-0.18.1.tar.gz#sha256=0c362f029ee2cb019f6a9d9c5a29b7cc62dd372a7df97d4c2f0d5c5721a252e5" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.18.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/c6/9af2bfd1844e2f6d341c2a0f743039f1cef61c249c11c49f2a08105251ad/momento-0.19.0-py3-none-any.whl#sha256=50e5fdaaba18ec1333d623219349aca4519791400fd69d5bd2d0b9af3f154240" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.19.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/2d/eaceb92950e586e9496a597d4dba324e9cd44f3e0c7166c492200a7a268d/momento-0.19.0.tar.gz#sha256=3d7023fc2c33ab83b3aa758909eaae75b08343b5f4b8fd2a6df4374c4ce5adf4" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/fa/e9b997b44087c1691be9fd94559ae0d1b653ef13e939f00b711522dca499/momento-0.20.0-py3-none-any.whl#sha256=90c7e7121afa685c4e3657e78d63032bca13466f998e81be9e506e93d71951e3" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.20.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/a8/badecf768e0142fd394d01212337180b58b8f2584919a876f08be55f6a9e/momento-0.20.0.tar.gz#sha256=f394463a4ec6511ec03f5b66598d726e0449de75549528688ce96555895c5648" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/17/daacafb5b5a9736b398350526ea0224ba93279ae747e74531c1967d70a95/momento-0.21.0-py3-none-any.whl#sha256=c5cb17636a430c24d5d0564e878410a109f34076f85740c67eb46094cce0b03f" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.21.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/f4/b48287b8f813efc09dbd0b5117f8f3a8be0cbf88c046a9d7c42e4c9ff077/momento-0.21.0.tar.gz#sha256=04aa295dcd19bbe767abe83d7fbab792501d1915f05f45ef6d8c751a7c185269" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/27/cbbbdc7af2ceb4deab632c81bb008abc37eaf4c2d67d91cfe560b2043ad7/momento-0.22.0-py3-none-any.whl#sha256=f35e1a40761180b80484d829f0c7ca30002c6221f31e39f32ead3e1f9658a330" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.22.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/f6/7552751fca3c03188bab01adae401fda17c1c029ce041af0349bc2c8c56b/momento-0.22.0.tar.gz#sha256=be082a1200cb1d5577ee9e593f27cb6ccf4c5683355e7e03bd8aec7aa528f521" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.22.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/7c/e235ded2e399736241b097293b0885711b6c86c9de06ff02fd5cc28e3b5d/momento-0.23.0-py3-none-any.whl#sha256=dfcf36a1c7bb0106f7b6d14b2b78a48fd22d4006047d1da4597631faac5c880b" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.23.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/68/4cd92f250b3e62557500345558536f367500c6abab6cf354b5ac46e002f3/momento-0.23.0.tar.gz#sha256=edcdacf6b2eaa33e81b3fa2c7e7b32b4b3ba20c1ccbe38e1834b4178fc8015cf" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.23.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/a7/e0b3a3c591b6650c6681124b65418d7d40bd502035cf67666e97fd4c2860/momento-0.24.0-py3-none-any.whl#sha256=5848f67433513995c869c537351ffe13e135e471a1d6f9651f55b5d65a9b2a7c" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.24.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/07/a68b29471fff0c932e4efa9642823b518480b7dab9c62d528534e7a141ab/momento-0.24.0.tar.gz#sha256=ea0ba8812b2569967a3f0346bcf6861474d3e7eb19bbc8cdf0f48ffeb757608d" data-requires-python="&gt;=3.7,&lt;3.12" >momento-0.24.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/3b/af18ef77ed361ac96a167e203f4e3f7299e70b7a7830694d0665eceab43f/momento-1.0.0-py3-none-any.whl#sha256=46561ee81d6d151fc8576fda8c9b7555cc1d6645e555aa6c5a16f4f770d4bcb4" data-requires-python="&gt;=3.7,&lt;3.12" >momento-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/93/e093bf0cf2f64255680b6a7382a9579b0f0dcc57f61dbe68c540a3d31a37/momento-1.0.0.tar.gz#sha256=1233ba0785549c313d4ce8c268403c41163d515f13e8f7311da244b2e36a3e8e" data-requires-python="&gt;=3.7,&lt;3.12" >momento-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/0f/563b6e08d236abae213f956db642ce0840c249c01611cffe051701d197c7/momento-1.0.1-py3-none-any.whl#sha256=ba66873da246a42b2567638502aff5446f1eb974b240f83a912646905d595365" data-requires-python="&gt;=3.7,&lt;3.12" >momento-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/3d/e6c614320103525c28bc957059b7c4f309bae8e798f6fc5cca668b60a2fe/momento-1.0.1.tar.gz#sha256=1874ca34f6d05d1e34c34bf3a47a88ec5eb85b29b7b04eecf68a988310fe8116" data-requires-python="&gt;=3.7,&lt;3.12" >momento-1.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16334892-->
+<!--SERIAL 17105481-->

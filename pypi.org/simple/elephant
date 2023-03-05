@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for elephant</title>
   </head>
   <body>
@@ -62,6 +62,16 @@
     <a href="https://files.pythonhosted.org/packages/b8/88/d1d4290dcb32501f7211b366e6b8eff36d55f408bffe91601c4d817c3af2/elephant-0.11.2-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=912d1ebb29ea211d84211948ff7fb111604028043e7d894f7f70a14d0e52dafa" data-requires-python="&gt;=3.7" >elephant-0.11.2-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/ea/5a462b0a8d34a8cd3191cb4a8eaac0d80edc9930e91f1786a79a29e16f65/elephant-0.11.2-cp39-cp39-win_amd64.whl#sha256=a27ef5312d47bbe86b619aaa9ea7b4dc90a4c26607865ba1c03b98920c9890fc" data-requires-python="&gt;=3.7" >elephant-0.11.2-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/54/c3303b8af84ea5ee3c7b720620797d988553d8a5703e264c1c2549841380/elephant-0.11.2.tar.gz#sha256=f8759fff0bbb136ae4ffc8d1eacadeea8ba56610d705c3bf207de87ada3ba240" data-requires-python="&gt;=3.7" >elephant-0.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/0f/06b853b8c0dd1701f74cbe0c64df7d23b8087e29614af9d2baca12bd5b11/elephant-0.12.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6e557b9e59563e3fe921f82ce9f7efabfaea7b758a09d8ba0389f8303f78a242" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/3e/b4331b46de3dcb0298830e306a237dbb20c6188913d84e33347b116db149/elephant-0.12.0-cp310-cp310-musllinux_1_1_x86_64.whl#sha256=c52116eca78a4378900d613267c78d551e3c478dc64733794e95fdd282c175ce" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp310-cp310-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/ff/744909d18312b2d70dde96da171ff352822739d052393ae71e14c8da0452/elephant-0.12.0-cp310-cp310-win_amd64.whl#sha256=76f650869242e2f21fffbf0f010567269e548e240dc5c74829ea5636ee66389b" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/00/6a53c5dfeddd3cdd6c95db2007bca63f702f1b9e773803a5f58bc279b37f/elephant-0.12.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=871a45e218f95b4dce000d26fd6eb3b83b36f3b7cfe9b84ca78e83e3cee21d04" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/67/9ce3e5f1ebba3fe1c47ea1573d489277478ea8f2aa0d3bb9dc2af91dd4e4/elephant-0.12.0-cp38-cp38-musllinux_1_1_x86_64.whl#sha256=f6d4ce3b10197469ae2295047489901b8c9021e887b7bb23a1724034709dd13a" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp38-cp38-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/54/289d892de5e3e89353e25a15ab705e39c91750ca2fde1699a762561d0e3c/elephant-0.12.0-cp38-cp38-win_amd64.whl#sha256=c0a5c5f216bcd414de3ba316065f992d7c34916398ea7c4d04ddef0c3a9b7a72" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/21/f934ecd155f1b3fbc894ee4647885d1903c27c44b7f9af6fe1901aaa8cb5/elephant-0.12.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=65919188c6c320dff6dab3b89eef9a66c0a44ec49101107c5382a30f94eb7948" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/13/2da43898ccbccccf443e4f2a76dd75af3dd5b2151d0fd46d470b71aa7a3c/elephant-0.12.0-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=ca6018d83498892f3b8daa52b0be252e84e876588aead526ce34411eaae4e20c" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/c9/b47edc1c48101ce1b3a4e935f38019c3ff68bf103f67110dc8b311c680d4/elephant-0.12.0-cp39-cp39-win_amd64.whl#sha256=a9bd0ab60aecabb96de9931d4908a0bf3bf395c1c356599820d9f7c5dab18d3d" data-requires-python="&gt;=3.8" >elephant-0.12.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/ef/e5308696a3e7fda842f58363a9db6690d42f30a7ebf818e15cc28014bf87/elephant-0.12.0.tar.gz#sha256=81f8d668f92d8688344bb7a9c5abaa8438d824560c935a411e6e36ddf7dc7c72" data-requires-python="&gt;=3.8" >elephant-0.12.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15539043-->
+<!--SERIAL 17009602-->

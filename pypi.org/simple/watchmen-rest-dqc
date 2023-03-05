@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-rest-dqc</title>
   </head>
   <body>
@@ -132,6 +132,8 @@
     <a href="https://files.pythonhosted.org/packages/d4/60/140c34773c3176fffa722fb7dd74ce5f2959c2172e8e8646fae26f00ddba/watchmen_rest_dqc-16.3.23.tar.gz#sha256=7714d37e6eeb8c3de4fb795858b320fbf2e9553762e6412cf227e807c4815f2e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/33/e574841539d574f4046d6fb16f90e75f7ae9be90252860b6ae688d54d98c/watchmen_rest_dqc-16.3.24-py3-none-any.whl#sha256=9ce4f0aca8165b590603fd50e57cafba5a7bdc07f7f2cb85e3a6ebddf7cddd88" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/85/af/837406fceb149b5e6cbc97710772d45a2cfd7faf47a5d7b0eabf82a124f3/watchmen_rest_dqc-16.3.24.tar.gz#sha256=0982d47a5addfee9ac85aa1e69336b093184eb6a8807e93c3a0cb4477a7e310b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/26/7ae73310aa0cf4c31960f025603da609ce30a6f824f09d5cea8760cd6ff5/watchmen_rest_dqc-16.3.25-py3-none-any.whl#sha256=5aec7bb6460a6406cb39c5d298058d17b615b3d3c63d8264465ae30db6a9462d" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/6d/15c721802ccca408a6a5e7eabb5e09f1545b152550e74ccb3fc1e9bbbc14/watchmen_rest_dqc-16.3.25.tar.gz#sha256=dfbf3b04c3e719ba91403fac2fac2c201b5544577b9831436406e56b83cd6557" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/2b/0725a02033d3b4f04b945e5377ea5e8e40c4bd9d4eee02963f0eb3d8a7c8/watchmen_rest_dqc-16.4.0-py3-none-any.whl#sha256=ff12a3ff5bd8d1e5e4776f4719f1056aa6436557d98774afc81db29c009491c4" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/19/51/81ce2306dda4d0aa1476dabfd74674b219d167942a92dcfaeeaf37dac28d/watchmen_rest_dqc-16.4.0.tar.gz#sha256=514a179c52205b731ea80bd355a9b79515eef2af60646e8424e1a74e66b52f23" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/cb/54a633f8ed01f4037687209780dfcac8ede7023e90ba8647a810ce19e290/watchmen_rest_dqc-16.4.1-py3-none-any.whl#sha256=26587c3c747d02930079f61fbf173a11b21ad4de54cb91683e67b2c4d55d3ea7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.1-py3-none-any.whl</a><br />
@@ -144,6 +146,12 @@
     <a href="https://files.pythonhosted.org/packages/0a/5d/639058c0a04d07b1783fea0ad905cd2aba5c258f2284368a2a880661a93b/watchmen_rest_dqc-16.4.4.tar.gz#sha256=81a87d12a279dd624cae915ae7905f51a3e48abf0d999ca00d92f19084b9e1d5" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/67/12ad638b5edf84d34b43ebc4338e6a18d71d09af3446248995502861173e/watchmen_rest_dqc-16.4.5-py3-none-any.whl#sha256=a9ddf6bfe9bc54238533e0bdf00cf84685bf1c4745f83a9afca330b6ab7e2e2c" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/dd/0a76f19490a92541c07632a20bf34e54ca66636fb82d3c609fdda14a2dc4/watchmen_rest_dqc-16.4.5.tar.gz#sha256=6f551516b6ac845c2f67a8d254215788d9b491713bb8dee134e0917dff9fcc13" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/64/4f898709b916704ad7ece84dcdab23c07714973f605afbf424da330d04e0/watchmen_rest_dqc-16.4.6-py3-none-any.whl#sha256=d1469bc09daaa3953ba2a2b2111d53e3b9658a62c0c82fb083928ba025d7be05" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/e6/72d6df9bb5a0a07689b7e247a8c9c92f980198c71d52dde525a2c28e14bb/watchmen_rest_dqc-16.4.6.tar.gz#sha256=77c97ae5cabb2fb81b97b3ba6be64bd4b3f9c7adc58a24c9a5597b34dd813edd" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/50/afe26fda15f898ea37f8f096922b8e91a4c5273b9c17a51cedb6d95c2c2a/watchmen_rest_dqc-16.4.7-py3-none-any.whl#sha256=b4d1c0ae37ab390a6738b7a20ea70656db02064e2810a131226292eea6c3d981" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/2e/8e9db87313fe40d0ddd2bab1abbdfc6feb5fe5d14e3173795e417e9dffc4/watchmen_rest_dqc-16.4.7.tar.gz#sha256=eda41b575e3749447f11253e8f20310d030f1fabfda329b38ff06e02d3c83920" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/1d/10df50f13d279126f1a0c510b00029bd4aae5ef5e113f165cca8cd118ccc/watchmen_rest_dqc-16.4.9-py3-none-any.whl#sha256=df904c6f828ed6f50fdc4d2ba27fa6c09f06568f457d7021c9f233b6f32b3516" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/bb/7f75fc67660504121346c073cf4c386ec9459be694a9dcdfd9c1ba32cec0/watchmen_rest_dqc-16.4.9.tar.gz#sha256=8d740b7df945c47bf1904bb07927f909c44ff63bd1edef2c14531020cf0852f9" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_rest_dqc-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398895-->
+<!--SERIAL 16991587-->

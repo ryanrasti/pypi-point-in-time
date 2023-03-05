@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mindspore-cuda11-dev</title>
   </head>
   <body>
     <h1>Links for mindspore-cuda11-dev</h1>
-    <a href="https://files.pythonhosted.org/packages/23/7c/3aec4e6d26635cd33c488a8568aa6bc628cf0780d9b32b2b0fa5417ddd50/mindspore_cuda11_dev-2.0.0.dev20221016-cp37-cp37m-manylinux1_x86_64.whl#sha256=9d28fdba24fe96fa9d96c6ffbcc5916f983622acb0c35d818c6cf3aaaaf10278" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221016-cp37-cp37m-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ba/75/61063608376067b200bd525406ffd1c52b4455b424048948e6a49e6d346d/mindspore_cuda11_dev-2.0.0.dev20221016-cp38-cp38-manylinux1_x86_64.whl#sha256=856ee32233a154b5c617a1f7e6bf9defa8d8169733e89c13ce524a5fab7beb37" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221016-cp38-cp38-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/2c/c2/d5ce8ca3de309fb00a0cdfdc26e32963bfdeec362af211903b0d2bff1983/mindspore_cuda11_dev-2.0.0.dev20221016-cp39-cp39-manylinux1_x86_64.whl#sha256=06525c591c21dfa864c40525e22101f94ccb3392f8ec9a8ef2629c95623442e4" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221016-cp39-cp39-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a8/83/a9400ca9e171fc3620c89879b341140acf3dfe6d965e7cb72dbcbce9f2cb/mindspore_cuda11_dev-2.0.0.dev20221030-cp37-cp37m-manylinux1_x86_64.whl#sha256=604b2ccf74e91cd8f3baef53a5c8f4b894a6ef1f0ce2ff7f33f6e8c892386541" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221030-cp37-cp37m-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/79/45/5edd5e199324bd5cc4b078de859dfebe325ef5e907bee9a8ccdbddca464d/mindspore_cuda11_dev-2.0.0.dev20221030-cp38-cp38-manylinux1_x86_64.whl#sha256=f2ebd5e653adca9b662a86cf464faa1e848857e32eeb893028d31d78153f55e9" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221030-cp38-cp38-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/12/96/b9bb4bb429c3b9b28263366e23b7d872ccf3dcbaef8176454686bc13fb22/mindspore_cuda11_dev-2.0.0.dev20221030-cp39-cp39-manylinux1_x86_64.whl#sha256=cecfd26eadf6883a43e8e85835f2dd0e707177032886588fd36169918c55b812" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221030-cp39-cp39-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/1d/88b289c88a2be0a8c45fbf7fff3fdcf910f234dec838375ff72259c9eb85/mindspore_cuda11_dev-2.0.0.dev20221106-cp37-cp37m-manylinux1_x86_64.whl#sha256=f93e0f2cd1141b27b7016ae0302077620779f517e50ff7a4577d0941211c5da0" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221106-cp37-cp37m-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/06/357f317acc155af8397a79518cc07ff09c31205d5bd9314109883c756f5b/mindspore_cuda11_dev-2.0.0.dev20221106-cp38-cp38-manylinux1_x86_64.whl#sha256=d3379200d1f6658253202f3cf85b92bcc9ac7fc4c015da9e787e3105801a1e35" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221106-cp38-cp38-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/8a/23886959bd5e8ff39df7a3d0f971c13a4cbef61f48f8e4b454253f887082/mindspore_cuda11_dev-2.0.0.dev20221106-cp39-cp39-manylinux1_x86_64.whl#sha256=6becb9fcd0f6a6f2037d5380fce70c5a4ff8ec273547df3d49e0d8f4ca1ba727" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221106-cp39-cp39-manylinux1_x86_64.whl</a><br />
@@ -23,4 +17,4 @@
     <a href="https://files.pythonhosted.org/packages/42/ba/3f84ce2059d44eda374161edf48b1c018b7aa551ea290f7fc439336adee6/mindspore_cuda11_dev-2.0.0.dev20221108-cp39-cp39-manylinux1_x86_64.whl#sha256=423ef29cbf2f55f5626511d34cbdca85d4c0ce25d6784a4a855efc5ca1178642" data-requires-python="&gt;=3.7" >mindspore_cuda11_dev-2.0.0.dev20221108-cp39-cp39-manylinux1_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15852679-->
+<!--SERIAL 16445274-->

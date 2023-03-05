@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pulumi-awsx</title>
   </head>
   <body>
@@ -81,6 +81,10 @@
     <a href="https://files.pythonhosted.org/packages/3e/62/fc5a1f478824ffa273b0dbb682e3a54c4275e60276c19b5393f992dd8ff5/pulumi_awsx-1.0.0a1671031711.tar.gz#sha256=2ea895570f223296c9d51c4a5273bcb8a646965f368fbc44592d527ba2203144" >pulumi_awsx-1.0.0a1671031711.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/8f/4695cc985257f29c6094d442197122edeff034e23ab54ae3bfc44936f02b/pulumi_awsx-1.0.0a1671481007.tar.gz#sha256=7aad4734eb760e6b8e3ad46c711dcb5a43e0cea4c374f1b369d3d129d1d131d9" >pulumi_awsx-1.0.0a1671481007.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/03/cc/84166ad67a7b9937d8ac05ee705a51f41ab445196abdca64ee0aa6403310/pulumi_awsx-1.0.0a1671631566.tar.gz#sha256=7852dd38f190eeeaf1281d1332e61304872fae6f8963a50cc183a3e7acc24ba1" >pulumi_awsx-1.0.0a1671631566.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/d7/12a3ce139b4c6fa833a7a3014e12a1f98e3e2eea857865639cafd1a4c084/pulumi_awsx-1.0.0a1674144362.tar.gz#sha256=20277f7c830d89aff9d883a98d178035cf6de411fcb28f8323d50d3f378da7fb" >pulumi_awsx-1.0.0a1674144362.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/1c/fadac5fff4f7b5489aa49ee1e884cbad4cf938407502e6434dfac174d583/pulumi_awsx-1.0.0a1675763949.tar.gz#sha256=2fb162927b015d488198b4005bd1333705814c09ab8f8db58fc1e61412d7e5d3" >pulumi_awsx-1.0.0a1675763949.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/80/ccb4b53d92985c8893c51dcb24e109ac5fad41a20619da46a1652576fb57/pulumi_awsx-1.0.0a1675765582.tar.gz#sha256=788d51dba3fd1cbb13b1aa11df758aabf61df5b1a171af157dd5fddb55c3933d" >pulumi_awsx-1.0.0a1675765582.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/7b/d02380b1a75dc48673e81702489b907671f5ec2624638086f6d082fa256d/pulumi_awsx-1.0.0a1677589070.tar.gz#sha256=8801d282bfc73e13a9629810d56ebed38c605a5ca9576765c45a8dc12c76bd95" >pulumi_awsx-1.0.0a1677589070.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/ee/f869597b0e4b9b215f9f7db5480a772d70d1557da485e9ce9ee12eeb9a5e/pulumi_awsx-1.0.0b1.tar.gz#sha256=5b0078a6557e0d57bf81c23a4c20e80d87465e4f99f941b9cc27b2b956457088" >pulumi_awsx-1.0.0b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5d/f3/ae3bb2f2697c62a60fe9f7839025d8751138d69f740921946203fb5814f1/pulumi_awsx-1.0.0b2.tar.gz#sha256=1dbea8f0e2275723732d41258ae57339b805b195209408334d9a34ecd763a2e0" >pulumi_awsx-1.0.0b2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/46/fa/a85d0bf5dd3c6a1ebc570b6334eabeab8d099bc42bb718aa7818bd0b038e/pulumi_awsx-1.0.0b3.tar.gz#sha256=8f9889a311029667902acca1a6a84878a7d575246fa662f62d8d064aecfe6310" >pulumi_awsx-1.0.0b3.tar.gz</a><br />
@@ -94,6 +98,7 @@
     <a href="https://files.pythonhosted.org/packages/9b/5f/88a57f80bf5800cae48d0c98adb2cc73289ab5ff3d6f04a68428be57e204/pulumi_awsx-1.0.0b11.tar.gz#sha256=edc382d520d4556938d73fe518b5dbf32f9a5f7d557cba1ac285a8dc21ab8078" >pulumi_awsx-1.0.0b11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/55/17/52a2e1431159b39676f11e933a376d557178fcd8de94517e9b54e569e4b5/pulumi_awsx-1.0.0.tar.gz#sha256=86cb181c88dc04f76d4fb6994babc37e5f9117f821b137acc059427f1d16e437" >pulumi_awsx-1.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/e8/5491d5cfef95e88245d7b464299ca8b4a0005d2a2d6fdcc6f685d350fc01/pulumi_awsx-1.0.1.tar.gz#sha256=9a9955b0d9e65025f5a6ab09a2852dbaa97cf99bb2537edc76328a5311f849d5" >pulumi_awsx-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/54/076af0e5d0b6ffde29af3abe2bab657b240779ce0cb71b26ebb5c1b7a31d/pulumi_awsx-1.0.2.tar.gz#sha256=db51932226b987440e82a5135f2afecb7201534efdea29701f65709e5f81904d" >pulumi_awsx-1.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16174360-->
+<!--SERIAL 17095748-->

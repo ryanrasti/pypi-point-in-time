@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scalib</title>
   </head>
   <body>
@@ -45,6 +45,18 @@
     <a href="https://files.pythonhosted.org/packages/88/77/31b96b6f687761f009356ab5f7a9c2b048755f83b783c12b16b10e074f14/scalib-0.4.3-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=311ec45e26906f01d6b98c71e3fd58e432453381e8b30f80bede205cf6bc3437" data-requires-python="&gt;=3.7" >scalib-0.4.3-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/77/61b9679d147dec5892b5d73b29ce47df679c26c0ea0bd24d20a51af4c89e/scalib-0.4.3-cp36-abi3-win_amd64.whl#sha256=0fbd60c5456bcc0000a7b020218d43164bd0d2951c9d6c1b29582816b181ce23" data-requires-python="&gt;=3.7" >scalib-0.4.3-cp36-abi3-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/c0/c332814f44c950355942ad7b6275ab47cd0d173416bee302ba9283e96fd9/scalib-0.4.3.tar.gz#sha256=639a5d009e9ccdabfef27f6465f862d48ab1babe173a251a0f7a65cf09a3ebe6" data-requires-python="&gt;=3.7" >scalib-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/a4/16441171cd2e4f3ca5d2380062f9763b951af45e93cec054a144f8c4fb6d/scalib-0.5.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f9bb32e3082d550e73c784391d7e73f65b828023ea68d0bfac6b67f4234a5e34" data-requires-python="&gt;=3.8" >scalib-0.5.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/7d/ee370ece13c12b3c61907ef3c6f10a19ec77d226aa0936b824197b5ceea4/scalib-0.5.0-cp38-abi3-win_amd64.whl#sha256=4459496097e20cf3452c48a32dc2863c5bf26aa1f1db5eea4c1692853e78c5b3" data-requires-python="&gt;=3.8" >scalib-0.5.0-cp38-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/cf/09dafaf73050016e34b1ab525e3c75d8e31bca7be54bd9106cb10997e926/scalib-0.5.0.tar.gz#sha256=54378ece827b2b564be2cfb3ec466b8ac79660fc5040483fe49a53a188fd41d5" data-requires-python="&gt;=3.8" >scalib-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/25/9f23947bc9ddf4acb59922c8cc44658bb8793d660e2f8af495ca93d5ad34/scalib-0.5.1-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f2ffbc1c6da8144ebb16452b6973aded33438af71b52b1289327638b3c6b8910" data-requires-python="&gt;=3.8" >scalib-0.5.1-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/0a/e3fba31aaa6167290076fbc4ac39ff7e9feca5b793604644abc0bb6f141a/scalib-0.5.1-cp38-abi3-win_amd64.whl#sha256=d7c5594f5b234fcc01370f867563b99b91adc77fe338ad38b0a71c57c338e907" data-requires-python="&gt;=3.8" >scalib-0.5.1-cp38-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/0d/429e6f1cd91650b6adb00762e690f718b9321b84ec8988d95104ba80e672/scalib-0.5.1.tar.gz#sha256=1b256ee701778b6ced5b1bed8329aa5d3490042f414f50f013f31ac60b5079a4" data-requires-python="&gt;=3.8" >scalib-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/3d/1b19d10257a6f7c18953e1b5015c90b2ed11814e6b463f3fbcf7b378695b/scalib-0.5.2-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=43ed8f4326f2f7b9dce65143f82497b08851661546daeb41125ed7c174452d9c" data-requires-python="&gt;=3.8" >scalib-0.5.2-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/23/28b79c38c74d8f4cdeb1ac2004dfafb9b4f807a1050f4dd09dc16de18d99/scalib-0.5.2-cp38-abi3-win_amd64.whl#sha256=a8c5153a87820362cb9dc93fa3e5d8ec7d9b60d1063535039fa2544ec9520fb1" data-requires-python="&gt;=3.8" >scalib-0.5.2-cp38-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/d8/3d41c56f31db58838721b609d1b59abe53c7dec68b2356e43f5a3d314e79/scalib-0.5.2.tar.gz#sha256=7bce216aad58f37bfd25cbff03eaa1d28879943a11c10352ada7dd72831ef96a" data-requires-python="&gt;=3.8" >scalib-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/ab/5fe1292618c30c28ee7e73da7996c3aa1bba9bb06b9951183172dc76e19d/scalib-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bf9d6cc59ad1f6591225d71735b7570bd940056fe9b9d90ea732b17a627f3047" data-requires-python="&gt;=3.8" >scalib-0.5.3-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/79/284292550f04bf0a6ffbd7b8b2a313dfb34af66e8eaf66cc82cf0840d079/scalib-0.5.3-cp38-abi3-win_amd64.whl#sha256=e83078d00ecc27842597bb047f0e2392bb717ab3d8f3c9542ff7db22fa6c3d45" data-requires-python="&gt;=3.8" >scalib-0.5.3-cp38-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/80/38b55ea80826d3ac48dbdea217cd15ee14f676db56ba1cc17e807be124ea/scalib-0.5.3.tar.gz#sha256=cc3cbd13ec37b936fd02599b9669b11e57d5e8acca179153465b318e4448aee4" data-requires-python="&gt;=3.8" >scalib-0.5.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15553778-->
+<!--SERIAL 16958795-->

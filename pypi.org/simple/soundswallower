@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for soundswallower</title>
   </head>
   <body>
@@ -113,6 +113,17 @@
     <a href="https://files.pythonhosted.org/packages/88/5c/8b261ba56d68abcde964913ad1e2b5c1a7fa803978f977a34144228170c7/soundswallower-0.5.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl#sha256=d4edf2d2c22b54468ce7deb31e327993a15dbd2b140d0f5a22ce2b897c8da93c" >soundswallower-0.5.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/34/ea/ab436039d6bef9707272f9f87996df14941bd121e9651a95859d7ef281dd/soundswallower-0.5.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fa26285ecd510de9eb02cfd48fef6c2b75c3a66d8b75f3f9f9c076f7230757e9" >soundswallower-0.5.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/94/ff592856fe76a9c168ae443896cc1ac899b4988215ecbe048ca8b33f0f0b/soundswallower-0.5.0.tar.gz#sha256=cbd1d80ce456ce810b3ae79d195059741a4f11c073d7d30e23325a4b373e440e" >soundswallower-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/50/a162c1af6f7e619a61c0895709f71123d2201877cf020ff8e792cd7c85a2/soundswallower-0.6.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=152118631fee281dca60eb59c74c380c114c7eb4e4039e931a183b5cceb3e97a" >soundswallower-0.6.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/a2/4236e66534eed8259c8203b411dbbefe6f6c1c4ace906de1d4baecca1185/soundswallower-0.6.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f5f69bf56e50fd9cf1cc06ebaa1facbcca3a3f8256315e522dfba566d5f0caae" >soundswallower-0.6.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/d3/f1847ad831c0f9946322cdb359c04ea96a682badd9182a1d74d835ec6cf6/soundswallower-0.6.0-cp310-cp310-win_amd64.whl#sha256=055cc689f1d753fd3aad544b6abdc2ec6a021bcf8fc1a6b00597cc5ea469299f" >soundswallower-0.6.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/80/bb38610378b6455e522fe16328eb8da3ca39849f11179ba1d583212e308b/soundswallower-0.6.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=832d7acb582a6bc08cca05bc19f1bc988cf83a9637efdb71ed16f0ac01466c2e" >soundswallower-0.6.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/d7/bdacd65ca7bc5b3d62cc7b59efbf2a4d43a5446314a8967ff89255173e33/soundswallower-0.6.0-cp37-cp37m-win_amd64.whl#sha256=a207e598bba134cfbcd1948b967d5b98bfd22ff90ba891506c7e031f355badba" >soundswallower-0.6.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/a5/5bad6b1fc3ee7098d3df8e7fb8b10fd8686b9fcd2b053f2795fc17da4661/soundswallower-0.6.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b23f758ca1631cc88b6fe4dd2057fb4d86f67e3ea76f483d9964aac78e3ff119" >soundswallower-0.6.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/b1/76863f3b6d7467f360a3581d8034385eb0b38be6b3b1cd2443f1b06389b8/soundswallower-0.6.0-cp38-cp38-win_amd64.whl#sha256=7befb83d2dbf157ebd115f7ab4f24cba5ece539e6984342b1b437f70c0d761c7" >soundswallower-0.6.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/50/8fcda7eff75831d2c95e6ff8a991068202b9327a68ad54a3565d6d9ad64a/soundswallower-0.6.0-cp39-cp39-win_amd64.whl#sha256=ff223510c2e14dcddc47c79f10a13494f41f7b45b55a99c375cc3432e08606b5" >soundswallower-0.6.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/8e/317127f15a695f19463c77efa841426326b416ac60f47077a48e0603d8b9/soundswallower-0.6.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl#sha256=707372902ecdd85b814caa23ec58fe045805d85b53f33376d6c82cf9ac83e4df" >soundswallower-0.6.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/a0/9df70cfd620eeeae27530053f0071ba3673363fd954ad028ed878fe00f83/soundswallower-0.6.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1e3d2afd5de1d0686da91b4c82aea4b3d89dd4f83bcdde41241550f263ebc87e" >soundswallower-0.6.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/b5/c3521da8036f12d8ab236c2b95c8cd21e8e9cbb9153706c7aaf4f4c966d1/soundswallower-0.6.0.tar.gz#sha256=2d176bd4a8e0201bb2f7df38b51e28480833bd6c97b562c0e0fa5c56cb2568a1" >soundswallower-0.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16160851-->
+<!--SERIAL 16579739-->

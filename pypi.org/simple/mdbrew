@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mdbrew</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/58/bc/93f6598ad0a5282ec2297495a1731ff43319225a8ea75b246b9265e8b562/MDbrew-2.0.11.tar.gz#sha256=5854aeec50b2837353256f8a583ff4351865d60289ddb855c9b802185a69fcef" data-requires-python="&gt;=3" >MDbrew-2.0.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/ee/c1a26859f45127ba608d2c34d7da5f8ff417bf04334aca8d3d6e7c1a9480/MDbrew-2.0.12-py3-none-any.whl#sha256=41b2e9aab1213c4137864b4be052886ad2bfded21bd04312802ffdc2d04fe7e2" data-requires-python="&gt;=3" >MDbrew-2.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/18/f9e001dee7036625067a4dcab844a843c4244d825616ae12af1d849e591c/MDbrew-2.0.12.tar.gz#sha256=d77d9c2f7c1c3e362e9baf4ae342c01e3d1f1781e3a5f642e8879aca2cc208d7" data-requires-python="&gt;=3" >MDbrew-2.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/18/0cd58e62a762969adf9ab575238346ec4deaa41269cf2d1f3250680155de/MDbrew-2.0.13-py3-none-any.whl#sha256=97862d4409e78411eaf250aacffad6ddb51fe8122f83b8efde9875039df399bc" data-requires-python="&gt;=3" >MDbrew-2.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/5e/afe194e395904da6fc14a13a6d662c8b18e5f2d17505f2ae3e42250f0891/MDbrew-2.0.13.tar.gz#sha256=d86d1d86e01df1759832c259324cfebacfddc75b52ca077e6fc6e5eea7ebe7fc" data-requires-python="&gt;=3" >MDbrew-2.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/8b/a9596e753df52619b761f3a972b7e8897562f632a921501aba0080f77605/MDbrew-2.1.0-py3-none-any.whl#sha256=b31ead699337450fdf3110b0ea5c1d4882e285b1551fe18faef4940b6f096205" data-requires-python="&gt;=3.6" >MDbrew-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/ff/ef7ba07f9a8bd74f54dc92d1a72ed52f31bea54b713d528b7cf9938ff9a8/MDbrew-2.1.0.tar.gz#sha256=1a33f5a1c5dc76ffb2c74d27a1c5b88430be9469fde2b46ec548adc22b71b964" data-requires-python="&gt;=3.6" >MDbrew-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/a8/99ef1a5ab0bcd31b5e62bfe8275bccd25b6e60bf6762d623ff0a7f4d34d3/MDbrew-2.1.1-py3-none-any.whl#sha256=c1f459c3f436291012715ac9a8475f1ffda1b74e0b67e725c664cb9805123ea7" data-requires-python="&gt;=3.6" >MDbrew-2.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/0d/f7beb54e019ef63c3090db11c490d522ae4e9f3a2439760c2aa48d668b4a/MDbrew-2.1.1.tar.gz#sha256=88ecd700941b6659294c5d778df1aa6851b4adb5b5660ecab53aa02e8902b587" data-requires-python="&gt;=3.6" >MDbrew-2.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/91/99b660520f880570b99d2cca395384e8c37891beaf2cfa6436e7df6826d2/MDbrew-2.1.2-py3-none-any.whl#sha256=aa91809e05849941357a8a8768c68133aa6b901b4c60e8d247f44c66ff14f7e6" data-requires-python="&gt;=3.6" >MDbrew-2.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/22/dca7edec1946c7ee6943a3c321c921c8c99a44cdb00ec526518b679b3ace/MDbrew-2.1.2.tar.gz#sha256=9250d3cc56722c5c7eb72648f50603d3f5e1fd0fa0354e67ed2602ffa3eb7d54" data-requires-python="&gt;=3.6" >MDbrew-2.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/cb/ea7e72faa761cb109c07c32978880c4217d5b0ae1d9fa83fa38d96b1cf17/MDbrew-2.1.3-py3-none-any.whl#sha256=4dbee71d1cdc4ad050e2a216de6f6d1c34a91dcadd47c052bffa502d59c3e46b" data-requires-python="&gt;=3.6" >MDbrew-2.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/70/c353bc97e3def849fcc1f07370e20aad0848066d8e1207dfae47dbf2fbd8/MDbrew-2.1.3.tar.gz#sha256=ce3c2aacecd128fb7af9ce5556f36bb08086afadd6800e540dfd8fdb508e8337" data-requires-python="&gt;=3.6" >MDbrew-2.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/c0/400f8d2473f6c3998eb64490a7eb4a41b8165ca2a55e569433debfb6bf66/MDbrew-2.1.4-py3-none-any.whl#sha256=e4d14c55e47dcd5c5786e57d4365352407ff2b4a4678cdbd1f44731745c54b4a" data-requires-python="&gt;=3.6" >MDbrew-2.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/6c/3b440bc20cb2206574fa40fdeb185d22a49162a9827a47430f8ca83e3af0/MDbrew-2.1.4.tar.gz#sha256=52305bd8928b4cdc8338c8d96b9b80aad8efdafb220cb34bfa9237835c2bc356" data-requires-python="&gt;=3.6" >MDbrew-2.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16374706-->
+<!--SERIAL 17154213-->

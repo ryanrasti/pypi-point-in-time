@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kratosfsiapplication</title>
   </head>
   <body>
@@ -112,6 +112,14 @@
     <a href="https://files.pythonhosted.org/packages/5d/46/e9880e062a8dc4fadcd50fe242bff4ab87247af5afe04f341278c93c27f6/KratosFSIApplication-9.2.2-cp37-cp37m-win_amd64.whl#sha256=b66fed37c6e95d3ac6f217dbaa75d6b5f12b0ff40830c66be6586acf3dd788f1" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.2.2-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/8a/2e6e2f74681197bebf1ec8cbfd0208169d02da9ecf213bd2a53655712fa1/KratosFSIApplication-9.2.2-cp38-cp38-win_amd64.whl#sha256=2acef5aa6f17113036d8c15c135d0ee43ba408b59b817ee0d027b92608288542" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.2.2-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/a2/55d67c93c361096ad510bb2a823f8947127464e041aa1f628396383d07ee/KratosFSIApplication-9.2.2-cp39-cp39-win_amd64.whl#sha256=0cd0de34bd9c9cb663c31a33278fa4461870a15a4bc4366a9506a285544ef5bb" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/cd/5f8e6837b0891a655a55ca144c0ef4293650e2f1980c67151bf4f5d2afa9/KratosFSIApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=80a04df23a660e15bf0a605d036b288f902f45d86df8310179edae555c1a2da9" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/de/2f2a21d47f6eb47b71fe8aa3b3c7068c64296c84f64d49ec4a613ddc2382/KratosFSIApplication-9.3-cp310-cp310-win_amd64.whl#sha256=ea1d63f2d68a96e6eb471a11e689ebca80c1636dfceba70611389f4117ab0141" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/32/b90192e5876ccc3a3379194990fbeb8fe4d97ac7bb3d79531945f147ca4b/KratosFSIApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3350b07474f075c7ddd21f661f7de6dedbeb83a9ac301267f9bc0766dc7554d0" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/a5/94caafa02485b233a8fcf77f953025fc6c02aad3f4438186055b070f1382/KratosFSIApplication-9.3-cp311-cp311-win_amd64.whl#sha256=bb7e7b46fc238b3c02972519bf39567f202f53eddf34cc4345913aea1b98bdce" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/fd/69999c67d8327c636899929241cbfa3a251791376627c4deb3ac04c88875/KratosFSIApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1f9e15e40703818c480eba4d80b806ca3095fd40cd11af34a105e8caa993e84b" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/af/6e1f9cd86be9ec5123c84b365998e2407ff5a7a7db7797b320cfad7982f2/KratosFSIApplication-9.3-cp38-cp38-win_amd64.whl#sha256=78928dea865c65d23300ad5e057391a17a1233b16174003cae3ab76216807149" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/7c/61b06818012467be1d8e79151871653a25c765fbe10f2194fbd3af393536/KratosFSIApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f8531af08b6b19d7deb391c49ca9c1d189a0768d42b1958c910fdc1753590dd3" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/d9/d8c64158dc661d63105e3d9d86c8849e1dadc092c447f85f05e21913cdd0/KratosFSIApplication-9.3-cp39-cp39-win_amd64.whl#sha256=da037fea66dbded574ed1a8bd1b00a6328303bb8f755813365453124b3b71389" data-requires-python="&gt;=3.6" >KratosFSIApplication-9.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15413836-->
+<!--SERIAL 17063835-->

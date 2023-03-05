@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sisl</title>
   </head>
   <body>
@@ -82,6 +82,16 @@
     <a href="https://files.pythonhosted.org/packages/1a/32/6f41119bc693d51beb4636a9709254cff92277f67dc286ee38a05dd56caf/sisl-0.13.0rc2-cp39-cp39-macosx_10_9_x86_64.whl#sha256=5474ce3293919642db79bc0243831664dd9ed576d57681987d91900f85b00981" data-requires-python="&gt;=3.7" >sisl-0.13.0rc2-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/c4/11fcdab20b2edb0a400af261ab50625d82bbf274240488f8a7717e7ba406/sisl-0.13.0rc2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2db90080e8b0bd0d3d54f28a8bbaa4f64fbeced3853d37506578c0a7c8d949e3" data-requires-python="&gt;=3.7" >sisl-0.13.0rc2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/04/3f/7a795d5a617cfd3a2f6b4879bd4ea413a91942415bac9d78b460dba52b06/sisl-0.13.0rc2.tar.gz#sha256=0af9b90a4ba6ef213dac9dcad70844a0be62f7e63db60d79d2aee730b1441694" data-requires-python="&gt;=3.7" >sisl-0.13.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/61/f5e2fd2ec0eb6eea2df5ca7482f5c75498e6f3778f92638732d40804a705/sisl-0.13.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=b56189286444d8fffc154e93a87141a28ba6a701cb12fcafa956ac58b36a417f" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/01/6dbe817c4568088e4004c923a210ac661ec7431eb259488e8f3707fae4c6/sisl-0.13.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7bf8d42ddbbb186334c9bd01229e70f5fed26035f27283a19d1c3e85b3cd508c" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/97/b0310257ff01a28a043cd69e44598ad942bd53e5cb11e2719008de90a571/sisl-0.13.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8310d68d0ba8281a6e6e04fe10ed95c4ab333dc521b627ec00c48773ac6f3a09" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/75/1926bc42a84c328a64fef1956dd3123bf608ef57cb61e911e1248414daa3/sisl-0.13.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=d8334ec07ff08e9b3c7affab6d5194ad5c044f22d2a5882bfe2dffeb7a6f75bf" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/d7/d697b884e63917a354093e5799f60f3f6db9109d924b0445923ebaef467d/sisl-0.13.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=57ff9bf16b414d5e0d1af3c2f440ce7c8725c4ff68917026fc8989e79ad00a47" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/32/119c213b06f46262cfb4e5d842db529bf09bea0d5ff4a7787cae8b8b8113/sisl-0.13.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=8c5c52671ec01eabde804752909c299730a7a89ddb132a7c8fc0d586894a37cf" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/df/62aa2f2a4f1ed6a08d9d04dbf1a0b5aa82949968b5830dfa2afd36dab77e/sisl-0.13.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=faacb027cfc35ffea3de723389e4f92f3292422f7584958eefe341007c4fba64" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/02/a94c7b04697178a60c199bcf85003840dab1a68b21fc3ab9eaf2d5377fe7/sisl-0.13.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=d4b1b341bd1284b420dc7bc728fc361b73fe4c6fb8020f946ccfa949a04f4ef5" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/cb/4ebb77ee843590a8faaee45ec376d76be923b1e05eb85a91c48ae8ec9339/sisl-0.13.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=72976dccfb9640af9abfcbdaf5ca30fbe37d711aad9e0cc9969f3a9ba8e8edc1" data-requires-python="&gt;=3.7" >sisl-0.13.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/0b/4035eadee6d060ddefdbd888e0dcffa8f37d952573e34e59572608a9949b/sisl-0.13.0.tar.gz#sha256=6a0657fb1c43f9465fe3c5bb65befed0252c5e55fc7b491a34816640248d808e" data-requires-python="&gt;=3.7" >sisl-0.13.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15733428-->
+<!--SERIAL 16470877-->

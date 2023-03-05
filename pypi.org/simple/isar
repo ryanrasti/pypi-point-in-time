@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for isar</title>
   </head>
   <body>
@@ -76,6 +76,16 @@
     <a href="https://files.pythonhosted.org/packages/fb/dd/9e5eeff5ae3fb3d47430b4138370459db37e089ea2b16af86d8b5ca46da2/isar-1.10.12.tar.gz#sha256=dc084b2957614009e89b6881e13b87c174bb99a26ffdbf14b2368abb922f9b72" data-requires-python="&gt;=3.9" >isar-1.10.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/6a/954276cb3faa4fafe6308d674b929efed46d1f114da28e362fd18f4a6c9f/isar-1.10.13-py3-none-any.whl#sha256=e0be964eeac877a6f6bb95e7de19f5f9b47982a0f508f735ad47e4d7c1718bd1" data-requires-python="&gt;=3.8" >isar-1.10.13-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/65/9f842e331b48d0009e8c4410878502637118ea4c6fb189db052fa7cec225/isar-1.10.13.tar.gz#sha256=cefafa369e7664a67b6867bc4422fac3d3c0bda69e6a404747bca300f793750f" data-requires-python="&gt;=3.8" >isar-1.10.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/67/f7b1c5491978778275c9c2d0889f575358968b1c9e7c0dab40580e269a06/isar-1.10.14-py3-none-any.whl#sha256=9fa01d6e33d593c55c2f5d025ae9f1d0a6ceaf5f73779a3c39e30723c2bcf6b9" data-requires-python="&gt;=3.8" >isar-1.10.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/ad/c82f51395573398b1f99ca9a85a0c92c5f968b74230619e3dbfb2df0d778/isar-1.10.14.tar.gz#sha256=4ece61ac9deaa59b59ff491ab3d56c644083b499cb9b45af6dd69c11580057e2" data-requires-python="&gt;=3.8" >isar-1.10.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/0d/68151cde45d89cd09d373b726aa28bcff1881b76ee25ca895ae68fc825c8/isar-1.11.0-py3-none-any.whl#sha256=272c4a2a932c1e9efc785d1f21e741a509702e09590bb46fc7156af7220ae70d" data-requires-python="&gt;=3.8" >isar-1.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/e7/0ff0a08a68cf2859b4025c1a747e649fc7d5cda06d054f2ddacb3f7f8846/isar-1.11.0.tar.gz#sha256=84c1ad539a45646700a95473a6a57c62f03b9b59b366349b4d3630dc0eae4b52" data-requires-python="&gt;=3.8" >isar-1.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/2d/231ffb17a7269816b9854f00cd2ce5f15760db8ac1a2090f27f9c56cd319/isar-1.12.0-py3-none-any.whl#sha256=01a3fd69343ac411ec4aadc8fcbaf9315cc1f04a13515e20b78a09598fe40512" data-requires-python="&gt;=3.8" >isar-1.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/ab/e2fa0195c65ab5cdf59d6f97f728554d07b72a50e0561e2aaf64bc187e89/isar-1.12.0.tar.gz#sha256=d1ebbc12a4741ec69d050527975155f0bcdc8366eb424327cb23f86bb48f8983" data-requires-python="&gt;=3.8" >isar-1.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/c2/707dc5147e12c267109997d26f763c97d51706d15a5686d96febaf27baeb/isar-1.12.1-py3-none-any.whl#sha256=ad6c969e2c59c8d904253d87244657c9de383ddabc45a7fa1949715901acfc2e" data-requires-python="&gt;=3.8" >isar-1.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/7d/7f682bae66ffb8e96c8de9d749b8f72de902fdd87114404f9f5791bceadd/isar-1.12.1.tar.gz#sha256=1b0a4e0d92dfbdf38323f56ac45de4c2bad0290076d05366be3ae15b95ab260c" data-requires-python="&gt;=3.8" >isar-1.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/97/585827631765c910057b69091e38ada037e93046f4a094bcc3ebb7c36b92/isar-1.12.2-py3-none-any.whl#sha256=3cad2b082cd953a791849102a8e5b1e4697127df937ec7dfa32be3caa1fdc7fc" data-requires-python="&gt;=3.8" >isar-1.12.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/1d/e66793a9ba7ef590dfec8af2861013e7865042c593044fcbdecd0b6e3928/isar-1.12.2.tar.gz#sha256=23f74996e09feff003fd86f570b115d086564f34f11c8d095b9cce1ffcc85e44" data-requires-python="&gt;=3.8" >isar-1.12.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15888972-->
+<!--SERIAL 17154977-->

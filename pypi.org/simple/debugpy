@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for debugpy</title>
   </head>
   <body>
@@ -1057,6 +1057,23 @@
     <a href="https://files.pythonhosted.org/packages/31/12/3304fea2f4b3a241fe60ee6459cc16f2e7b7ef1a197669106dc416053bc9/debugpy-1.6.5-cp39-cp39-win_amd64.whl#sha256=7e84d9e4420122384cb2cc762a00b4e17cbf998022890f89b195ce178f78ff47" data-requires-python="&gt;=3.7" >debugpy-1.6.5-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/75/67d59b76830c44527167008dde863b51c4c671d8ec23b6b61205bf383b28/debugpy-1.6.5-py2.py3-none-any.whl#sha256=8116e40a1cd0593bd2aba01d4d560ee08f018da8e8fbd4cbd24ff09b5f0e41ef" data-requires-python="&gt;=3.7" >debugpy-1.6.5-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/27/bf/5fb58a315f33860448ebe6481ec6bf15d67fe783e1f80f6c0868fa284f4d/debugpy-1.6.5.zip#sha256=5e55e6c79e215239dd0794ee0bf655412b934735a58e9d705e5c544f596f1603" data-requires-python="&gt;=3.7" >debugpy-1.6.5.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/fe/1b1bb61a51c2dd83660c4f3ac685534a65197354be9abe6862c21f38d846/debugpy-1.6.6-cp310-cp310-macosx_11_0_x86_64.whl#sha256=0ea1011e94416e90fb3598cc3ef5e08b0a4dd6ce6b9b33ccd436c1dffc8cd664" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/19/345c21f6b62acf556c39e4358a22b0ad868fecb462c1041c13513d229b33/debugpy-1.6.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=dff595686178b0e75580c24d316aa45a8f4d56e2418063865c114eef651a982e" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/dd/969b0a865c1b28de92cc30ba00aabdf1a2d76ab437b3d91674d504da83c2/debugpy-1.6.6-cp310-cp310-win32.whl#sha256=87755e173fcf2ec45f584bb9d61aa7686bb665d861b81faa366d59808bbd3494" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/8c/8421813ae3e7354bb811a27537e446f4f178e234de446da26ae317c7d580/debugpy-1.6.6-cp310-cp310-win_amd64.whl#sha256=72687b62a54d9d9e3fb85e7a37ea67f0e803aaa31be700e61d2f3742a5683917" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/99/b65528ecd9507241c0f49dad313e711d03277ce923aa2de13a93d106cc29/debugpy-1.6.6-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=78739f77c58048ec006e2b3eb2e0cd5a06d5f48c915e2fc7911a337354508110" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/93/e2d0ca3e60ad679d5f258d972cce1403cd0bbbd8be6fa5292ef0d229eb3d/debugpy-1.6.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=23c29e40e39ad7d869d408ded414f6d46d82f8a93b5857ac3ac1e915893139ca" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/c6/0a5f5d5e2ee6912fc0fe6b189a244b0ae811448abfa60a64462fe068c8db/debugpy-1.6.6-cp37-cp37m-win32.whl#sha256=7aa7e103610e5867d19a7d069e02e72eb2b3045b124d051cfd1538f1d8832d1b" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp37-cp37m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/fa/9b081cb05a7e7081eb06f192f69c747c2ff37ab06e03f0a4005528a59e9d/debugpy-1.6.6-cp37-cp37m-win_amd64.whl#sha256=f6383c29e796203a0bba74a250615ad262c4279d398e89d895a69d3069498305" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/79/6995198851451c0b6be67244d51e33f032d3c2be0e9d941334d3551e3785/debugpy-1.6.6-cp38-cp38-macosx_10_15_x86_64.whl#sha256=23363e6d2a04d726bbc1400bd4e9898d54419b36b2cdf7020e3e215e1dcd0f8e" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/2a/ce810a4aa646a1815da8df938d9a3476b5920059c5b6076c598dce255147/debugpy-1.6.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9b5d1b13d7c7bf5d7cf700e33c0b8ddb7baf030fcf502f76fc061ddd9405d16c" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/41/2db2dc852c508ae588490e0e9cd16e82bca1be24a99afc0e9794bcf53c95/debugpy-1.6.6-cp38-cp38-win32.whl#sha256=70ab53918fd907a3ade01909b3ed783287ede362c80c75f41e79596d5ccacd32" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/d9/3fe6737f760673f63bfaee35d6134cbfefc45b6fc672758b319eaaf7cb64/debugpy-1.6.6-cp38-cp38-win_amd64.whl#sha256=c05349890804d846eca32ce0623ab66c06f8800db881af7a876dc073ac1c2225" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/6c/5e761f39e804afbe608c4cb62e1cddbfb2496ebca55a5cc916d8abc8bd60/debugpy-1.6.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a771739902b1ae22a120dbbb6bd91b2cae6696c0e318b5007c5348519a4211c6" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/a4/c2f6072cc889823daf4feb245cc06222fce138f30a50622ca61eaabc9913/debugpy-1.6.6-cp39-cp39-win32.whl#sha256=549ae0cb2d34fc09d1675f9b01942499751d174381b6082279cf19cdb3c47cbe" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/21/ea9d3b2928b86fdc822a920d427412a0240c537fde0346865342de24a7ef/debugpy-1.6.6-cp39-cp39-win_amd64.whl#sha256=de4a045fbf388e120bb6ec66501458d3134f4729faed26ff95de52a754abddb1" data-requires-python="&gt;=3.7" >debugpy-1.6.6-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/35/325e53d2a75b28777c28e790f84ea1ee45e1ecc00ae76550a53872a541f9/debugpy-1.6.6-py2.py3-none-any.whl#sha256=be596b44448aac14eb3614248c91586e2bc1728e020e82ef3197189aae556115" data-requires-python="&gt;=3.7" >debugpy-1.6.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/b4/dee6aae40c3ff7a4c3b27f1611f64ab8570a07add5f82321414d9ced4fec/debugpy-1.6.6.zip#sha256=b9c2130e1c632540fbf9c2c88341493797ddf58016e7cba02e311de9b0a96b67" data-requires-python="&gt;=3.7" >debugpy-1.6.6.zip</a><br />
     </body>
 </html>
-<!--SERIAL 16323079-->
+<!--SERIAL 16652700-->

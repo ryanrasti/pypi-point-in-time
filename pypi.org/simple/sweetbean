@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sweetbean</title>
   </head>
   <body>
@@ -24,6 +24,24 @@
     <a href="https://files.pythonhosted.org/packages/07/2c/437a85be2499ee3184c5e324b6c7edbcc86b5540bd19db4e52533a1b945f/sweetbean-0.0.8.tar.gz#sha256=88d1fd2fbb12735d37d154042ceceec126c2d5c07293700f706eb1b68b19ebea" data-requires-python="&gt;=3.7" >sweetbean-0.0.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/28/01/9a1dd52e1d7ccf000f41682129ea898a5560636c245fa5de255987a56eae/sweetbean-0.0.9-py3-none-any.whl#sha256=c74a5239b283258db1b7f16ef9d4e9d9d00d75b1b469a647e1212839a6425288" data-requires-python="&gt;=3.7" >sweetbean-0.0.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/15/2e023185a4cf4af2c832a71a21f1ae443fe022ca970b6baa16f18524fd58/sweetbean-0.0.9.tar.gz#sha256=66f9604b43b740acc043389d6f6a7aad802c034cfac70170b259f73d3d267469" data-requires-python="&gt;=3.7" >sweetbean-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/f4/6b2d60ef8fdf9b20f4ca81e1e3a76060285f4258e2c38f10dbd5a487e8fb/sweetbean-0.0.10-py3-none-any.whl#sha256=ebcac2990e3231bd2baf7a28d902923b23c400aa07782ff9a3c856667f3f83fd" data-requires-python="&gt;=3.7" >sweetbean-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/f7/3e2e9ac4c57765b2b5fa1f534bc712ed57ede2d30e78facccdd557e5f21d/sweetbean-0.0.10.tar.gz#sha256=a8741fd9ec4676229cc72c6892165739cd9f3b7548cdc737e94b89e22a3e1129" data-requires-python="&gt;=3.7" >sweetbean-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/80/e949b325a141a089a77470abf7a844b6ab716f8a18da605db5448284f7c1/sweetbean-0.0.11-py3-none-any.whl#sha256=835754ba355458688f2a407e00ba4a156078a2c80356a8c627e6acd8bb5c2ad6" data-requires-python="&gt;=3.7" >sweetbean-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/05/88977e24918b7db505e18a691b84d8bd062658cadf88fad6e6cb825fa310/sweetbean-0.0.11.tar.gz#sha256=d977a237a8572063e7787126a5e2d8aac706b548625c0e3bc9e97c7e014c5484" data-requires-python="&gt;=3.7" >sweetbean-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/03/4cea6a4618ca68b671b7efaa80dc6fa0da297cff65e24ec6d75d9e12e902/sweetbean-0.0.12-py3-none-any.whl#sha256=bd506dd8c5d7709faaed197be3840cb971d3260d1cdcfec441c6a6bb9cfc1738" data-requires-python="&gt;=3.7" >sweetbean-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/b8/d2e6de6d65ce0e0b1c1031ab72148347ef95a7c2e24298eb5a97f553eea7/sweetbean-0.0.12.tar.gz#sha256=bc02d9be69e10aa85c0a02db1ef13d26389d769915ea885551ba4674d4591909" data-requires-python="&gt;=3.7" >sweetbean-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/bf/bba0b02e0f6937ce9ea465a2d0a4ce8ab9af9356614f67b97f58ec298b19/sweetbean-0.0.13-py3-none-any.whl#sha256=785458c72af6dfebe0aa5d89c3e9fe5e03b96d62310e12aa6ceacf3795ed8a91" data-requires-python="&gt;=3.7" >sweetbean-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/b1/7ebccc450fd46893fe43fae1b0f794a9354301cffaa7713f5221dd055a83/sweetbean-0.0.13.tar.gz#sha256=5122ba7dbb664a8408200dc5315d6b57be7c579f7e2ee79aa9f1e1e4326446e5" data-requires-python="&gt;=3.7" >sweetbean-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/b1/c3a8509cbaf4f59812ecfd7885ab2027e36e7bc8b189d7f0bceec78a7d40/sweetbean-0.0.14-py3-none-any.whl#sha256=34a6fd2c49dc69dacee9c2d8702450d50625065d87cee9c72864535235244039" data-requires-python="&gt;=3.7" >sweetbean-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/c7/d624ae25378965146d422336491921a9644f1c34de1d4e18ca89d0b81312/sweetbean-0.0.14.tar.gz#sha256=c4d2389744aa8dbd65ca7a2b9af6663c8b6a4088d5870b84dc04fd3de841851e" data-requires-python="&gt;=3.7" >sweetbean-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/6f/586519dd0953d47ba0c89e6965f2329a454cef228245237145d27b46d25d/sweetbean-0.0.15-py3-none-any.whl#sha256=89292623f5b2c84ef383704cf3e7c8a7b4d9cc2cf83be4f530f0740dfb569404" data-requires-python="&gt;=3.7" >sweetbean-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/37/ae5849af4ade7116df4a3ec21b74790c10f81085823ad7436da1e1c86145/sweetbean-0.0.15.tar.gz#sha256=b3b4571270da83a2c3c8b2f8497ef405af3e7cc5c3db1a40ed4890f31740eb2b" data-requires-python="&gt;=3.7" >sweetbean-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/4d/c48970aef26efb0979a75ce32ed320f204babb1c46e463d9bab6f56c69b4/sweetbean-0.0.16-py3-none-any.whl#sha256=fee6d70b123b518c648cceb61509b4954411d9128ee6650607da3227de42c32e" data-requires-python="&gt;=3.7" >sweetbean-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/cc/1cf8c5a8dd888bfcc2c47b413437a9ca756f69c9b8b398953efa151b09fe/sweetbean-0.0.16.tar.gz#sha256=273a7690f3d71a6878500de43012b21f1daa4a76d519aca0d07f5bb03cfaae0a" data-requires-python="&gt;=3.7" >sweetbean-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/0f/7538ff7ba55d6b966fca1e7da79bdd511b952ab5472f31883e0e47270a91/sweetbean-0.0.17-py3-none-any.whl#sha256=8af012cce54d757e79ad45d8af41f62291bbdaf8bb35160d5b14d26bb624e65d" data-requires-python="&gt;=3.7" >sweetbean-0.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/7e/02a449c10ef55b6e028a322fd96b4739b34a6069bfcc3dcd88026026be84/sweetbean-0.0.17.tar.gz#sha256=2abe6930d206a1537171f67870fed0bf71b59434561c79fb07528e4c885376f6" data-requires-python="&gt;=3.7" >sweetbean-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/1f/56a2cfa8e877f6a3af809e8dbd7875b776c2788be508616f47d88991eecf/sweetbean-0.0.18-py3-none-any.whl#sha256=15e8f91ad7afb426bbc09b4c8cdc44b87bb86c398cff7c5900fe5ecced7b00c0" data-requires-python="&gt;=3.7" >sweetbean-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/4f/b44aa71b3c8b04f7cf74d722c7f4408cfa88a77508db83c3ab521dda05b1/sweetbean-0.0.18.tar.gz#sha256=a7dcfcc6b253b6c128c37d61a73301adfe486dbafa1f5f654e4ad281500db76e" data-requires-python="&gt;=3.7" >sweetbean-0.0.18.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16050428-->
+<!--SERIAL 17157257-->

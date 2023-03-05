@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for libsvm-official</title>
   </head>
   <body>
@@ -16,6 +16,19 @@
     <a href="https://files.pythonhosted.org/packages/ea/e0/bd7edfb9c26137ca61ae8b69ed80e565cdfd087b323d2982a6c278a6fd75/libsvm_official-3.30.0-cp37-cp37m-win_amd64.whl#sha256=a1922d2d8697d5865baced2702107f6c1acabc24f366463ad2b1ba5ac77337bb" >libsvm_official-3.30.0-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/c2/b1476e5c010626c5475a503e9cd79e2743346a37e1b0a34876fee132891d/libsvm_official-3.30.0-cp38-cp38-win_amd64.whl#sha256=f9c038cd14a81baadeb58143f9ac40a7226d016a13b50acd6fcd5e4a8d14f3b5" >libsvm_official-3.30.0-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/01/78/d0fc821c6871478e279ec0894f6b56ec573e367ad6d4ad0a44b922719fd2/libsvm_official-3.30.0-cp39-cp39-win_amd64.whl#sha256=959fbcfffa918f37dcaf518cece4902dad630d2ecace96cbc055e68d36a7ff02" >libsvm_official-3.30.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/31/d8a988cf070ad5d31988e0139ac34348c9de2989f43fab72397aed2ad2ad/libsvm-official-3.31.0.tar.gz#sha256=0277e6cd51af36256dfee14ca297d56a414e123117562253387a5117aa667a56" >libsvm-official-3.31.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/d6/1914ebf6e5497e4512fca89dc32e0c142b17a08f24b3bb37e9766af43acf/libsvm_official-3.31.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=ab6c7793ee577ae2bf248de2e267ea40d1a58f40a91d882203605355b53e49a9" >libsvm_official-3.31.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/52/a8c6f3ccf02609f054796d9dcdcfc299c33aff8ece7e2c22e8110a1cd743/libsvm_official-3.31.0-cp310-cp310-win_amd64.whl#sha256=61cbd2a905c0fb4145baf854230664cf46e9fd335620d1dab60cff87b4937725" >libsvm_official-3.31.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/d7/7374101fcb5533783324a80a341f579be4e57b7692094918e97c7c0c8f9e/libsvm_official-3.31.0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=49c058e5ebc0a06f71b8703e49d06a591aae414dc394b70531b722e5a0047e64" >libsvm_official-3.31.0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/5c/ce80955ce92de8f77cef1464cfdc0238fa3cef5f21af9187bc6a0b56a715/libsvm_official-3.31.0-cp311-cp311-win_amd64.whl#sha256=fd1607de7485d642e2d116afdf353e8af82c66100d549988e77d1c83d5c4e14b" >libsvm_official-3.31.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/ad/4b6b453afa8eeffe0574e3b499078c08da90beeb55bf15bbde51140dcee8/libsvm_official-3.31.0-cp36-cp36m-macosx_10_9_x86_64.whl#sha256=2741fde4f05e9702565dc23720be787eb5652b27be9dcac797f98ad2d9bdb1ea" >libsvm_official-3.31.0-cp36-cp36m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/f1/ac9cd95a372d7cc61f3a6abb8e0bf4a09e63ca66a5484997c758bf51c3ff/libsvm_official-3.31.0-cp36-cp36m-win_amd64.whl#sha256=3ebaf39d2e4f42b939ce9bacfa61fa79b8020db661ac0b8a25f9c8d2ea8d569d" >libsvm_official-3.31.0-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/cf/b8d56f07448eb17e76501b8be933a4537736c77d86f85a0b9cc2334f6cde/libsvm_official-3.31.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=efcfe8490f0b8fa73cf928268a98bd6e26b45363e85bb55fabeb4bb621b601f2" >libsvm_official-3.31.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/bd/f415b03f58af6f1b2f61ebf81ed671cb8ad9ab62a6885ffc74f62584ab27/libsvm_official-3.31.0-cp37-cp37m-win_amd64.whl#sha256=63c942ba57db51a733ca204a1d73075b98c351bddefd08e2e5151aba8e408372" >libsvm_official-3.31.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/a1/aaa1163d9609b9b1f86f956fbd409cefafbb54540256cdd2db538747ce0b/libsvm_official-3.31.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=e832b1ba99db23c53c2bdd8a71d89e31ae047f742be3c5ced9c82da03a65a596" >libsvm_official-3.31.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/3a/b3f8843c8a54190501c220598a86f4d04d6082f0949a0005de81f7c5ef9e/libsvm_official-3.31.0-cp38-cp38-win_amd64.whl#sha256=41ef1fc7e3091e7eeaa017f4b2ea098e433dd38b80d48b9e2fc1d2ec9166d9b5" >libsvm_official-3.31.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/23/f4af422bb466ca2023550663672ab2b3180dce865293fd7a7bd346e66720/libsvm_official-3.31.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=b05e02ad113eb2cdf0e62ea5faa5e140b63cbe04e6c07863eb1d0df56b96ed6f" >libsvm_official-3.31.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/1d/65a9b0a4d40dca2e7be67187b519863cfd210893eea191148ee7a08e815d/libsvm_official-3.31.0-cp39-cp39-win_amd64.whl#sha256=32d4fccfcea144081da43393a5ce3b5bb14a66b3c889f1d0736c7ce45dfdf55a" >libsvm_official-3.31.0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14735183-->
+<!--SERIAL 17154001-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for maggma</title>
   </head>
   <body>
@@ -219,6 +219,24 @@
     <a href="https://files.pythonhosted.org/packages/27/8c/ebe9f8a5be8acde4d9eab6a597a416d8dfebbd562af5a2402c8f1c7ad5d5/maggma-0.49.12.tar.gz#sha256=6d85f8b250a23c6d5f7e966c421efa01cf61c88a57ecd1e4588362efc4893844" data-requires-python="&gt;=3.7" >maggma-0.49.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/0b/7cbf0768d169c6bb4949b3ba727ed16f13a20cadb4aee8ab83e92c8e4f61/maggma-0.49.13-py3-none-any.whl#sha256=9bc9246ba4e20051a4dba6f81144d5341c815aa84a44b1959c45a0074fed6897" data-requires-python="&gt;=3.7" >maggma-0.49.13-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/58/840df944b1db07f35a59f22a5070b2974c21afaa3a0fca7f68b4383adfc6/maggma-0.49.13.tar.gz#sha256=0c0f9ad09e14cfcb0d1dcc5b01dda202b4bf00af722cf424877c5a6ba85bfd8a" data-requires-python="&gt;=3.7" >maggma-0.49.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/d6/d108e1a2baf249a414bf0df9296a5604203a7be8bf7847b94df0ebfa5a03/maggma-0.49.14-py3-none-any.whl#sha256=e1709d2142bcc0471e5c12771203512dcc4447fc27a11118f7b456d129642a1c" data-requires-python="&gt;=3.7" >maggma-0.49.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/5c/bc2ac6ffda74d3a1ec3e55587274f8274a041852cd7edb94996636a8d62c/maggma-0.49.14.tar.gz#sha256=7dbc275dbaa431cd88bb2972bf71a416eb0e76fb6711f1c175d5be582575c72d" data-requires-python="&gt;=3.7" >maggma-0.49.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/d7/83f7429f51f8751ee961517855c3d83c0fd81463a848c10245c91eadbba2/maggma-0.49.15-py3-none-any.whl#sha256=4209460078dbd4b01fc73b9eec9278c1582e681d7e69ab2e52b3f7c9e71d3c28" data-requires-python="&gt;=3.7" >maggma-0.49.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/08/f445b9c92491f35c2403e4fce9d791d4d6e3e9583ed454d2b09f4247d88a/maggma-0.49.15.tar.gz#sha256=ed61f7dc0cd967a381dff65ba237250c6922a9428ce278852ee5b8ae68533419" data-requires-python="&gt;=3.7" >maggma-0.49.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/d0/f9573f3663fa358a1f7306c4672b22a41e7f4766913be2a7302b6f210a1c/maggma-0.49.16-py3-none-any.whl#sha256=be3fe4d37b72f313e2aa68d48a7b31a21b3a7c565e926a56c9f3d34658557e20" data-requires-python="&gt;=3.7" >maggma-0.49.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/81/c7ab1356bcb39f687bd522a4db3ac98af484cf992cb7dc8508a2fce1291a/maggma-0.49.16.tar.gz#sha256=c4551380914d69d327e42a05f2a784fbf3a9293d0d82d9f2db87b058d4ec9e5a" data-requires-python="&gt;=3.7" >maggma-0.49.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/14/5f12cb657b5c219c462023ac2af7743852e491f0fbc5d008431f6e20d961/maggma-0.49.17-py3-none-any.whl#sha256=d3b273c98b9aa1ec13a028d12486d77f36cb01cf9f9ddc7a49acebfb626112b8" data-requires-python="&gt;=3.7" >maggma-0.49.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/87/3a520d5deef17044b08aaa0d47d3f7193a77c8ab097127adfab311ac1e3f/maggma-0.49.17.tar.gz#sha256=cfb6a72024e901825aec17a999ec6bd110ce6f137904384046377405dc51c513" data-requires-python="&gt;=3.7" >maggma-0.49.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/9b/d5a1e685fbd24980234ce096aafb928620122242d1156108393d435e360a/maggma-0.49.18-py3-none-any.whl#sha256=f91f37c4fb805fef82a776042849d68915d22af050665cd8c71b37c2f2155bf7" data-requires-python="&gt;=3.7" >maggma-0.49.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/a8/9aab967a9896ede22a7010b897ac51d65a865dc7b4536c6814cef3517441/maggma-0.49.18.tar.gz#sha256=69cb8f39f572c9fbf57ae0d295c0b20ef49c11458c3ed89ea01c4148c9c42dca" data-requires-python="&gt;=3.7" >maggma-0.49.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/9f/9296ffebaa02de3ed0a574c0a6553a7835ada01ab510c466a577adf97397/maggma-0.50.0-py3-none-any.whl#sha256=14563c38cf88253bca8c430e2f06192c81bb8f8f32097ad91dc743b39fc2676b" data-requires-python="&gt;=3.7" >maggma-0.50.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/63/6551902374493ba788c21be7acd3435014fe92e2f6f0074ac71ae256fd92/maggma-0.50.0.tar.gz#sha256=5b52b2f27bc5dcfce3cb00b46214d0d58e3818a03bba22477437b9768240ba54" data-requires-python="&gt;=3.7" >maggma-0.50.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/82/f4449351798fdd4a58da51c37bb23efca17b604075576994e221e9662c90/maggma-0.50.1-py3-none-any.whl#sha256=c7a8dd464148eb81a6f9770eefbb2551f775baee564f2b28a56768c63dda5366" data-requires-python="&gt;=3.7" >maggma-0.50.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/df/fc03976d22965ea07f7010b0540bd143add2103894bc3cbf4020d086e0d3/maggma-0.50.1.tar.gz#sha256=81200a22bfbee7d8fb63bbf65d6ef185db2557ca3aca76282dfc671c18c90b7f" data-requires-python="&gt;=3.7" >maggma-0.50.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/48/5982b259c817442c4a5e670f619aae1aa2666ae7fc99022e55e93665230c/maggma-0.50.2-py3-none-any.whl#sha256=566d5d081a916c26c8049e4b5daa9cf273b78866b5c2b772828b02ee1e9b623c" data-requires-python="&gt;=3.7" >maggma-0.50.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/93/e62abeb17f53c463a9da0d660ed439caeb8508c245ed183f61421eb2d165/maggma-0.50.2.tar.gz#sha256=9b84f256b77ea0783d58c25d4810ba90c3555673e152c31f498c270f3bcbf29e" data-requires-python="&gt;=3.7" >maggma-0.50.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/11/09aec2ed777c09b7e4fec5b294a05fa42ca4c18df92865b6ae209adca2f3/maggma-0.50.3-py3-none-any.whl#sha256=ba22f7bda4bb339944576aaebe4d5336cc5f2385c00df9c20cbda79a2b7c10a1" data-requires-python="&gt;=3.7" >maggma-0.50.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/5a/1fe0bcdae4d31a793ca87440a91c1ad992360134aefd9129cd838e74b447/maggma-0.50.3.tar.gz#sha256=c1ab6a80fde818cb6705c9255c51bd718720e101a1fc071d52aa0204e45f9ac5" data-requires-python="&gt;=3.7" >maggma-0.50.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16380767-->
+<!--SERIAL 16899097-->

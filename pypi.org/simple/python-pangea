@@ -1,25 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for python-pangea</title>
   </head>
   <body>
     <h1>Links for python-pangea</h1>
-    <a href="https://files.pythonhosted.org/packages/48/52/18ba571950a34fc8ac91452c2b3ec8e216796069d2678436e71a04eea2b9/python-pangea-0.2.10.tar.gz#sha256=edf4eaade7cb7502847e6df5316d7596e64037edaf09bc43757972d3429706d2" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python-pangea-0.2.10.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/21/a9/192331c63bd3e41ed6fe337dfda84f0672db72756146d2d9bc8f5a313da5/python_pangea-0.2.10-py3-none-any.whl#sha256=1abb930e7f6db811a8a5257b32add32e539b7f82dc61056f8df87b1606ed509c" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.2.10-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/90/eb/8032eb5868f79ee449438d9e6f44e466d05a07e0c2ede1265598b9767063/python-pangea-0.2.11.tar.gz#sha256=3cf098e564673f74be78dac50738695c22a4cf3ccd84cc3de9fb91c1ac792ac6" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python-pangea-0.2.11.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/cf/40/53cd32505c003a12589da22d6390253adcff9daafa9c0ca35f6aef41917c/python_pangea-0.2.11-py3-none-any.whl#sha256=391bdabfb3e093e8049f636cecdb77d3637476ea885e63a3257d8f1d405680af" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.2.11-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ea/c6/7e76ea1bdb947a514f3c43074fdd7f5ef91381b969a241c094bacfbc2ab1/python-pangea-0.2.12.tar.gz#sha256=891c424181bb753ffcae3908e941c3ed161cdc832807fc80495139f6f75c1bd0" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python-pangea-0.2.12.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/af/c0/0d6869e4475ee90bdfa595091527089489c6bf716d983ae68907e3fac90c/python_pangea-0.2.12-py3-none-any.whl#sha256=c9e3f92372263d36b408db2a76f9c3fcd615b4b7059f6e44c182155051e5d73a" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.2.12-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/53/b7/49bfcbb657a0b1f80ef5292720a59c48ed4a95d0f7a6fb375b0c15966a41/python-pangea-0.2.13.tar.gz#sha256=5bc5e6c13c2ea700a36a2a94e5203fa67934530270dee7808bd75eccb2e23b67" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python-pangea-0.2.13.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/17/5c/b33919cd26931c6397751a1244eab96ad0a97e04202eeca4b6f7e52ce0d0/python_pangea-0.2.13-py3-none-any.whl#sha256=4d254fe28a590a96f9fe8e904a519bcd0e3a16462e59c2fb06b67b547859eaac" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.2.13-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a0/25/8942debc685ee8fa8e9af4cd9e142ffd2246d7e408d825774d0d4f377495/python-pangea-0.2.15.tar.gz#sha256=de7e5b4ac6b861c7687b06c75974ebf202035b752e5715cfac5911fb2e6893c6" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python-pangea-0.2.15.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/e4/83/3b9bb16d5704fc1ce21a7cf777d3d01e522b87627185eca0f405bf5c7da8/python_pangea-0.2.15-py3-none-any.whl#sha256=e8594809d469d35efab3c7b3f8877f2e3851972830bf255c03bdb43c28ea179c" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.2.15-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/8c/b2/0ab539a65a099701e5ea44591fdcd5179f3732b46642c5a4635f1a6d5d08/python-pangea-0.3.0.tar.gz#sha256=a9c40e9e3631efb4c424a698cdb2d8199cb3e1bc4b30ff8494bfc64db281e656" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python-pangea-0.3.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/b4/c0/fa87a748ca8e7616c82d5fd6fc155fa179fb3c4258e615e53238c50bd31a/python_pangea-0.3.0-py3-none-any.whl#sha256=2c296d831663c483192a7e3c4886a5004609232fcfdccdb778662095362b65ed" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.3.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/52/36/8f52bc8add38ff35436d5162d14c9de7e4a68db83d03b9be6d6b636dc014/python_pangea-0.3.2-py3-none-any.whl#sha256=ee126f807b698dcdb51b46a75455ae7f9cfcfd721f1e7d6e0d491932cc1f966d" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.3.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/b4/bf/ca62e88285928e97ad55bddafbd8f65e10589bd8dd636db75c9bca165c58/python_pangea-0.3.2.tar.gz#sha256=28308e05b04c4a27bc6c55c9ef77d1a0cc45cec9e4a53bc145aaaed7e56b1bdb" data-requires-python="&gt;=3.7.2,&lt;4.0.0" >python_pangea-0.3.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15379988-->
+<!--SERIAL 16996616-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for u-trainer</title>
   </head>
   <body>
@@ -13,6 +13,18 @@
     <a href="https://files.pythonhosted.org/packages/19/a3/983fc5d5d02b5d43f87e043615aea24b48febd86abb7e039e59506a08fda/u_trainer-1.0.4-py3-none-any.whl#sha256=64a3fd836f9eae562cd8ab0a53849f688b50a81417596d6ae6f8ef4cc3bb4146" >u_trainer-1.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ac/d1/c1563417f2ac4d86128d664c8e1dc92470e4dea7d6d2613e3b887a99c06e/u-trainer-1.0.5.tar.gz#sha256=97cd53dd1bd407e60b73e0752eaf7e35412d3b64e6ba47325b7ffdc55f72b343" >u-trainer-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/01/9f2b3b56dc40f6cca5a70b7d30c7ecbb90829837b69e49845281f431004a/u_trainer-1.0.5-py3-none-any.whl#sha256=8e35c17dab834517123671c278cc1837845e5911941299f02335ca5a7fbd2351" >u_trainer-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/58/a94652e0a8efbb6d92bcae12e18ab67c57d14df7ebcac8d641a53c9b0dba/u-trainer-1.0.6.tar.gz#sha256=2e95a3f93efe51c7b042a14d3edc3db89d2fe3d2fe8a676ed1ec8b43f8a43742" >u-trainer-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/ab/8f9913a5ea8a234a75419770dc29159070acae53699c37fa638968e7ba62/u_trainer-1.0.6-py3-none-any.whl#sha256=d12b1b0fa01469efe1ce0b9f958fefaf622b9ee5cc7a2631bd63f0b4cde61642" >u_trainer-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/00/1bc62458b37b52ce8c196acf5bb07b8f857237ac64c475f540d64f3030b9/u-trainer-1.0.7.tar.gz#sha256=969dc33e967c0a1b4713033066abc364f38bb98e92616e8e95dc858ccb0da4f6" >u-trainer-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/f7/d4479d22745358cc45eac3812fd61716a7f965d40818847055d9639ae3b2/u_trainer-1.0.7-py3-none-any.whl#sha256=bd6661c1694aac5a1070035de6c0dded2d213d99c45476b4ab4a3c85ac834bad" >u_trainer-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/5d/ee05aa387083d9aeba12de59316a01019e53ab1e89c2ca4cb140770f93d5/u-trainer-1.0.8.tar.gz#sha256=4890012ace0ac809c618ab2e576ba3bf27c7a12c66dcf27ba47064c9dc1f7267" >u-trainer-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/4e/3b5de78c9341ffe20507fcc71458cd879c1ef6c8b06263a6838f61a23eef/u_trainer-1.0.8-py3-none-any.whl#sha256=41746e9e9d851e4464f1cda646fde28ef4a4912f93f8259d0345cf735673dbc5" >u_trainer-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/72/b94ecc13331d9cd14de199f3dfbb14ece72020f5b5f0c52451ec79459041/u-trainer-1.0.9.tar.gz#sha256=06b539e6cb2686900db02322962ff5e59329361498aef548405bd7bf6e3a59e1" >u-trainer-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/17/567025db256e9b5e4ee1816069b36a1fc8f270a02dd354bd4dd15c80a501/u_trainer-1.0.9-py3-none-any.whl#sha256=74e6a83606e8164171231aba33d352881606eac4ec861270064bdedd96c75338" >u_trainer-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/5c/a041279ea12597c1945dd5d26c83f82d20e1372d8298c244a0745214df96/u-trainer-1.0.10.tar.gz#sha256=cbf12ca4cb1804651cba636b309c581cfc6587ad9ce87e969fb13c3db304806c" >u-trainer-1.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/21/bd729317649d40b7c2ccdbb2316a3655b0ce005c7ff685808d66dd1e7de4/u_trainer-1.0.10-py3-none-any.whl#sha256=aab4a6c5edcf488eed5b41f991d7cd55f698656de4d08b1b56ca85f8df61271d" >u_trainer-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/8e/6a312c213b57dbbae83af6587d387aecbb0755a087055c885101ab7ffc4c/u-trainer-1.0.11.tar.gz#sha256=e5e214049fd600f54b3d48f4e391d92a16d64ee1bc33a47c16a6f0d1cab8318b" >u-trainer-1.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/6e/bfbcce26a889805bd5ef6e6d9079c0a62dcf53f8c86122314d3151d43b83/u_trainer-1.0.11-py3-none-any.whl#sha256=8a6e29130e3c98336b691dc01043d176640888662ee10ca5182de56d5f0a2372" >u_trainer-1.0.11-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14896440-->
+<!--SERIAL 16940072-->

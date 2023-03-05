@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for clouddrift</title>
   </head>
   <body>
@@ -18,6 +18,16 @@
     <a href="https://files.pythonhosted.org/packages/9d/ee/4e9fbeaebe0688c58ef3d28a41bf54a1783a8b81b1f7359782aceb7dfd57/clouddrift-0.3.0.tar.gz#sha256=db68f77c3cd046ef64b8e22bc69b2a2aef64c4df79cdb31c1c9a71e2b6bbb145" data-requires-python="&gt;=3.9" >clouddrift-0.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/54/e8/153bb3254ba7f0c1618eaebc774021c9222187f43f7c6707e3eb6a8540f2/clouddrift-0.3.1-py3-none-any.whl#sha256=f483183815597e33bbdecd3ae335543ea0df6274fcdb0d5ec224ea608f3207b3" data-requires-python="&gt;=3.9" >clouddrift-0.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/b1/518bf3d58cd26fd39a64215e1d05738cdbaf6bf7c4dba629fc5f31b1c323/clouddrift-0.3.1.tar.gz#sha256=f49211ba0b86936b1d0cdaba0adf91b96d5737b437b623ba1c69c7237b4bb1df" data-requires-python="&gt;=3.9" >clouddrift-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/74/6b940dcf1df05edebbe6cebb20051c3f0fa86dd37173d21b166fdbe6c93e/clouddrift-0.4.0-py3-none-any.whl#sha256=7c1046b8f8c5b925e13cff8c8380717adbdd1b1f3faa85603c3b88aa7b6879c7" data-requires-python="&gt;=3.9" >clouddrift-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/70/c9e490ee3e3dcb3706087a49dd47fb42d83883caa519cd71f4918874ace4/clouddrift-0.4.0.tar.gz#sha256=f2eee332f860bb2816053adcf5428a4d4b91a1e1b35bff1e038bde7fb10f3e60" data-requires-python="&gt;=3.9" >clouddrift-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/68/efac20d6e50e97af4111649d28702a7866c8d566418a66a5c36b99b7ab44/clouddrift-0.5.0-py3-none-any.whl#sha256=c29df8bcda140b46f6286caaab2031b0c274b89508fcef0071915e4bf2a2e723" data-requires-python="&gt;=3.9" >clouddrift-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/99/a451dec2691933ec66243c2458dda587ddc5444eb2c218c38ef9332a45b8/clouddrift-0.5.0.tar.gz#sha256=ea33998c5b91d8d95e574de8b424a860fc959a664f1c50c4d961e07617e2a3b4" data-requires-python="&gt;=3.9" >clouddrift-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/03/eab87fd2623c48d7f450c2714d7f06bf436b60e48e88703cab1248972ec8/clouddrift-0.6.0-py3-none-any.whl#sha256=33e5cff0b91399bb82e3b68520479d0319f34a822cfddf63495cb5ca11cc9d9e" data-requires-python="&gt;=3.9" >clouddrift-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/a1/be6355c3a344260aa432f5d42953daf9996c809d242397aa6828906106f2/clouddrift-0.6.0.tar.gz#sha256=9ef9769c60269ddd2db97b884448ae61937f20650a2e42851264485633aab011" data-requires-python="&gt;=3.9" >clouddrift-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/4d/4358298252a23f4ab6062fd117f41ebda952ef853a8ea1b4a65382bc0277/clouddrift-0.7.0-py3-none-any.whl#sha256=9807e0af524dc6f352d1059bb74f8444102b6b6f85f2ea8eee6f4f1e8c6fcebe" data-requires-python="&gt;=3.9" >clouddrift-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/5f/0baaed1ecc4bb84f133ac77ce5304af7330138d064c69fed978d50e1e04b/clouddrift-0.7.0.tar.gz#sha256=1c26bb00e22563f1260b5cba490ea2dae58c405006ee38333de87f3b82b7570f" data-requires-python="&gt;=3.9" >clouddrift-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/3c/434006beeacac7e44f7055f1d46933e4f781f35c749578a5e558975f05f5/clouddrift-0.8.0-py3-none-any.whl#sha256=197ac42ce901fe04ccd171ec63c6d9850919154d40f3087240e6e6e2680557ff" data-requires-python="&gt;=3.9" >clouddrift-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/a9/16e0aeafcb93211e4a2712d92d3acae9bd421980399cb1f070a0a3a9304f/clouddrift-0.8.0.tar.gz#sha256=4da8e6e180c37a901070b4e190b84010b677618594d73cce06910bf7c1610bc3" data-requires-python="&gt;=3.9" >clouddrift-0.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16105616-->
+<!--SERIAL 17130962-->

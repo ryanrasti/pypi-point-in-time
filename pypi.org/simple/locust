@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for locust</title>
   </head>
   <body>
@@ -458,6 +458,20 @@
     <a href="https://files.pythonhosted.org/packages/f1/70/e1dc28bf1ff61d45c01c5e7e710abe8ecd550f81cbee9357ee0c9bd12369/locust-2.14.3.dev7.tar.gz#sha256=4e6d84337cfa773369e1c2b0fad43234224eae3068e996f4a52942c3ba19b769" data-requires-python="&gt;=3.7" >locust-2.14.3.dev7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/a8/7ad3afb1a3aaccb90937aef7d8692c6ddf9ee1f253e4fda2d029713c57e8/locust-2.14.3.dev9-py3-none-any.whl#sha256=c65b40a909ce15c315cedc05bd02d93aac57f6f4f4cf2ee63043d45fd91bcd10" data-requires-python="&gt;=3.7" >locust-2.14.3.dev9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/d3/581ae26e0eff00f8d7d7b729acb3dab7cc61d0885187a10b43941d797ae0/locust-2.14.3.dev9.tar.gz#sha256=d0649be8631fe5468954a9f0e49a7270dd67dde555c4aac00fc780387b584f45" data-requires-python="&gt;=3.7" >locust-2.14.3.dev9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/48/34d0dbc484165ab09bb6112773947a79e8b264c051b9964cd14b360577cb/locust-2.14.3.dev11-py3-none-any.whl#sha256=bf2a1234f450d99ee17d7aad9e994c397e5bd3be4d425ddd67d6d14bfd173b2e" data-requires-python="&gt;=3.7" >locust-2.14.3.dev11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/8b/df65ea17a1761ed341ae2464e51fc908c67dd042a7e668f4c2e77773ae11/locust-2.14.3.dev11.tar.gz#sha256=2a47373f54072391995c3f8aae5af63982d8ec66a0d71e76f1b5ffeccfaec394" data-requires-python="&gt;=3.7" >locust-2.14.3.dev11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/76/5b7f58f32fc0de0a7b5c5822478649128d23cb77ecd616f592eeb0afc031/locust-2.14.3.dev13-py3-none-any.whl#sha256=ac928ab9df42970edb1b9a95d0baa2b813085c1e80bff0968e7214f3828a888e" data-requires-python="&gt;=3.7" >locust-2.14.3.dev13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/9a/048d460fe1751cdf1eb2123f24a470245bb94aa620f235d28c36f1c1c206/locust-2.14.3.dev13.tar.gz#sha256=fac96792079dad7dc7dcda612eb72d12ba8478ec8edcdc2a870c67011fff32aa" data-requires-python="&gt;=3.7" >locust-2.14.3.dev13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/72/f8a4ec7015ce366d512a4cbf0400ea5286050f8f370a34987fce5bc3d76e/locust-2.14.3.dev23-py3-none-any.whl#sha256=d70ca72297d5e59aafe05339ce4a7b0030380e8691466df908f4761a657ee8da" data-requires-python="&gt;=3.7" >locust-2.14.3.dev23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/69/4253d549697c74d1eb2aa49881f37f75f356e18fad7785e40b1a8831ccef/locust-2.14.3.dev23.tar.gz#sha256=cbd7a64d05e195a3c6db64a10d1ced73dd0dd091a7170ff476bc54942971692b" data-requires-python="&gt;=3.7" >locust-2.14.3.dev23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/06/1e134aa3983d630fbad3b074fdcebad4fd63a465baf43a7d16aef8560f8b/locust-2.14.3.dev25-py3-none-any.whl#sha256=10a5f8150d7bbfd958956e7e5e01cd1b80836fdfd604ec6cd3942f78fad71f2d" data-requires-python="&gt;=3.7" >locust-2.14.3.dev25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/8b/5c5e104675f585e52be15c5019496a073a110a0e1453204d581578e0d815/locust-2.14.3.dev25.tar.gz#sha256=ff473fe177ca9880dd81384bd353bd8c13f37f14a5f3c3f686dd3b1f00b0256d" data-requires-python="&gt;=3.7" >locust-2.14.3.dev25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/cf/b9a0e394331f0343f5faa84fc3f5e0ddf9b572f97ca3c430a2dd35a4afc1/locust-2.14.3.dev27-py3-none-any.whl#sha256=04bc33d257dfe3f3c23e734fd50ea9c48eaa2c7602260e377b464df9062bd1bd" data-requires-python="&gt;=3.7" >locust-2.14.3.dev27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/e9/c444f2a897ab9e95b43ace29f58b5018b99c39c03fc36c01bf38a2f47786/locust-2.14.3.dev27.tar.gz#sha256=387393aa2f3fb24da10fc71b946a556c219cde3bb9f00e8401773914cdf4bdc8" data-requires-python="&gt;=3.7" >locust-2.14.3.dev27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/c9/9a886341f2dbac0d2e0dbb036f5494740391898c8f229c53904e0e0182f4/locust-2.14.3.dev29-py3-none-any.whl#sha256=6f015bbb731604b51c4eff12479a508ad615cfdf37fb1cf75ff1309398f74ff2" data-requires-python="&gt;=3.7" >locust-2.14.3.dev29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/3e/a8187f3b7acb3383b18d4ab87f709141b53bbe2a0240a9cf432f77c5c969/locust-2.14.3.dev29.tar.gz#sha256=a94342de6e4e44a6bc376eb98bfe608dc6b158607309ff73900dc1d0602f5490" data-requires-python="&gt;=3.7" >locust-2.14.3.dev29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/1f/d6ad81824652c9af82d511f6d112089f87179f477aab9e0e4c8925892a6c/locust-2.15.0-py3-none-any.whl#sha256=52b6c6c95d691225275f819a723f36ff2617c6ea0a8e3e1c83cc762367e3d103" data-requires-python="&gt;=3.7" >locust-2.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/aa/9f3a1629469f019fd5224b5f8ea2f15ce1d5f2ffac79fdeab07b748a7a8b/locust-2.15.0.tar.gz#sha256=11deb7973cfe30a2703f7a93eda21eacafb4b1b4159924a0b5c1d0399d9ff21d" data-requires-python="&gt;=3.7" >locust-2.15.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16391490-->
+<!--SERIAL 17096939-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-lambda-powertools</title>
   </head>
   <body>
@@ -222,6 +222,16 @@
     <a href="https://files.pythonhosted.org/packages/44/41/f553eb571f7c0a2dd9397f2c6109016c263f448c69d1b90af75fa57cb664/aws_lambda_powertools-2.5.0.tar.gz#sha256=c80c44ccc8d5c8b61e424ebb86854a37a569155ce4196e1e9313d970d9f79e57" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/12/effe781b490bc80d0364a2b80b6133a983c679eb7d1dc588e46df438c124/aws_lambda_powertools-2.6.0-py3-none-any.whl#sha256=3aee26df7f368f0af0bd61c59b41164d5669a4abb89449b8cceea24d50c54fda" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/84/84/cf366ddc3526b9d40f75c2e461834d6135e4c721d40c07ab8d16a6594634/aws_lambda_powertools-2.6.0.tar.gz#sha256=84259854c6565ca777567ef5d83bec07b8127d66f13a82aeea401ddec21442f8" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/9b/253f5ac9bba14c25e65527baae8d12b6b2d8da477c50adfb9e1f963ae210/aws_lambda_powertools-2.7.0-py3-none-any.whl#sha256=bcdea36775351d7fed22596c855ef7d875c7c99c9b607c0922af208cf137665e" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/a0/e31457a2b66aa09fce91353141fcbde53cf1084328ec1c088aab215e76bd/aws_lambda_powertools-2.7.0.tar.gz#sha256=6d5073835fa569c0cb50c792bc4501cf802badf13f08f394703c707cd4c937a5" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/a9/ef0329d14543dced07d7f9f7745cb7e31c5f690c2eda957c446f770d81ff/aws_lambda_powertools-2.7.1-py3-none-any.whl#sha256=7d725bb9e35a08b6c419b3df46776f8944e19e1e17f8313c93110a4804f81fbf" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/8d/06dffb0cc8bdb5bb283dfd72f8530716223391be23372f8b662e1e9cd64d/aws_lambda_powertools-2.7.1.tar.gz#sha256=e4f4eb92ae1298ad34ae8b9738be4d089ca8413ae16189022aa8a4c8b36ea4c3" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/d9/7106b177eb498f1220f6f4afcef2d9aa02de5d0b10e9bdd98b5bb78cab37/aws_lambda_powertools-2.8.0-py3-none-any.whl#sha256=3afeede00370869b1dadf231c4c533a879a3b3372585c75762b3960eab815954" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/fc/0d8f92e4c0c0568bf397191d3e6436af423a0841a5a38f7962b5ea4be328/aws_lambda_powertools-2.8.0.tar.gz#sha256=fc2dae0f4c552b7b3a80e76ea52b92dfc35c0fc8b862a6643e06028cbc0062e9" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/4a/f7dddab55204b3e60fb3187e97b5e9346238c695567b9f84d07769179d47/aws_lambda_powertools-2.9.0-py3-none-any.whl#sha256=43c4e7d077eea51b9ef49ec33b2ca01fc454436738d3e1167e214b1835debe5a" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/49/8be7a6c4973e4fb63e8009f75db67a06c1ea25a36e8e03e7562d90b909fd/aws_lambda_powertools-2.9.0.tar.gz#sha256=e351972b50fb2d2447b7a545afb9738cebc3e9a5a75d6a1e0bb461a843ebaf6b" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/2e/6966d80af1f30d073611688ff470e805c2348146679464b3dce7a694e307/aws_lambda_powertools-2.9.1-py3-none-any.whl#sha256=4d3c810898919ffb195d7f3b159d04838b8b0bb2fc66a12d88698f9f2c0325ac" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/e3/ff85c035be26d266a4c353fb3f7d653f04b94e5cf23913e93f530125c7d6/aws_lambda_powertools-2.9.1.tar.gz#sha256=1140245e86d9afcaf50e7332aec43302b0685b64461dbd190da3560e9181dfb3" data-requires-python="&gt;=3.7.4,&lt;4.0.0" >aws_lambda_powertools-2.9.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16401585-->
+<!--SERIAL 17118057-->

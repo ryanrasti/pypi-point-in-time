@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for srpc</title>
   </head>
   <body>
@@ -12,12 +12,15 @@
     <a href="https://files.pythonhosted.org/packages/e9/e4/aac497a2b5ec9d2709858eee63193d402e3ae62c6ecbc523aa66dadfd171/srpc-3.7.9-cp39-cp39-macosx_10_9_universal2.whl#sha256=a0971de69d29ca6d83c422a2f7448facd4fec983adebb014c2b0f0954bb97676" data-requires-python="&gt;=3.9.0" data-yanked="old protocol" >srpc-3.7.9-cp39-cp39-macosx_10_9_universal2.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b7/a6/a14875b32cd79d5b11e8f8c11a5e50a4e687f16ac5e5cbcd343b2fbec34f/srpc-3.7.9-cp39-cp39-manylinux1_x86_64.whl#sha256=69b304e9acde9cfe7188163b7080bff5d232c950a6f485959008660d1bd94a65" data-requires-python="&gt;=3.9.0" data-yanked="old protocol" >srpc-3.7.9-cp39-cp39-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/af/8372fe8a263622fdd23d167c17784c50c216c5292213c0fa3037bd7c2f99/srpc-3.7.9-cp39-cp39-win_amd64.whl#sha256=d29e42cd4a629fde13c807609b1760575a77ff24e343d740a3661f96c222c24c" data-requires-python="&gt;=3.9.0" data-yanked="old protocol" >srpc-3.7.9-cp39-cp39-win_amd64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/32/d8/f0d5405a22b7e57f9906b3541f64877759a8bb0637c963e23cbdc7869add/srpc-4.1.6-cp310-cp310-macosx_10_9_universal2.whl#sha256=56ed6d8f1cefa7313c096ef6dfe3d506ce76d3f2679d12655a3777170aef73c2" data-requires-python="&gt;=3.9.0" >srpc-4.1.6-cp310-cp310-macosx_10_9_universal2.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/91/09/c54b4ea8e6c9228393aa512078b851cd135b1bb71744ab346edfa83f39d2/srpc-4.1.6-cp310-cp310-manylinux1_x86_64.whl#sha256=807bcbba06d2686c695e49ddadda066ca85ca268818709f32e464fb8908e0a1b" data-requires-python="&gt;=3.9.0" >srpc-4.1.6-cp310-cp310-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/bf/7b/c2ac52f4ef6e16742414618d2c1afa9c19843c3ef2522e24c4cd285b9ecd/srpc-4.1.6-cp310-cp310-win_amd64.whl#sha256=73f91837747347f78535e959ae5c2b73aa00a3eb664fc316e1c58ffee3fe9c9f" data-requires-python="&gt;=3.9.0" >srpc-4.1.6-cp310-cp310-win_amd64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/b8/37/2e1a568ac22c942968f1e8bc709bb6cad91d7117a06a0aa6ca5aa8357ff8/srpc-4.1.6-cp39-cp39-macosx_10_9_universal2.whl#sha256=d4d89159a4eff329e8be8dcf071f1f2a0953dd140d056aad15dfd9b7bc9c76f6" data-requires-python="&gt;=3.9.0" >srpc-4.1.6-cp39-cp39-macosx_10_9_universal2.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/3b/d7/9f7dc3fad0b84889fc63e107581e864709743c240426eaf46127960f2893/srpc-4.1.6-cp39-cp39-manylinux1_x86_64.whl#sha256=16faed2afb47dc12d86207ab22e15b78d3538d7f4f30e4bee7d61c79fd1cf85e" data-requires-python="&gt;=3.9.0" >srpc-4.1.6-cp39-cp39-manylinux1_x86_64.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/58/e0/b270cd36370f8764da5ab61c996229ce9dddc3095ed0b8ae6103738779db/srpc-4.1.6-cp39-cp39-win_amd64.whl#sha256=726edcb23ebaa169ef63d4cd0256da07be64eb9daaaf13b9fefdeb1b19b68cb9" data-requires-python="&gt;=3.9.0" >srpc-4.1.6-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/56/255f7fa9fb650f0473670b7af4b94cef251028618a932048bc3644e1fbbb/srpc-4.2.0-cp310-cp310-macosx_10_9_universal2.whl#sha256=ba09bc28f6dceab9f2c885aa014751a188748646b002f49062a351d8c788e16e" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp310-cp310-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/5e/566c9f675580b81bf4f4767629dae7b797d5b45f9ccd886d15b569884015/srpc-4.2.0-cp310-cp310-manylinux1_x86_64.whl#sha256=940b33dea39f01a605b33b30f8dcad434bfad145e241359f718b924b392557e4" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/e7/90d982812029d4f16384404b8b3e320556269186103d17eb7a7c68dc5791/srpc-4.2.0-cp310-cp310-win_amd64.whl#sha256=1ffecc2bce2105b034b8ab907330009ce7f6f08ef4197838bc4d9fccc5453846" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/5a/16fe79ffcf1e20082250d55817b3e8c5bf5e1b80f7d0c648e431e1655f12/srpc-4.2.0-cp311-cp311-macosx_10_9_universal2.whl#sha256=db856dc7e3ca61d07ad3476fe6800d75eb72c7ed432c49da5c3031f2131d75d9" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/5f/d50632ce8263653cfa98889e67f2c3c8c812c3ce82a8211826b590708da4/srpc-4.2.0-cp311-cp311-manylinux1_x86_64.whl#sha256=9431a4f28d9929e70c36173da8a79f32a03999ddcf4500d3309cd43061ce8d2e" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp311-cp311-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/d6/d0d01159284f7bbfc2bce405876f863911a41bba58f403b8bb3dddfba4d4/srpc-4.2.0-cp311-cp311-win_amd64.whl#sha256=6fc2de9909cf3b8e01bcc7991977eaab24ca9113ad24006f25c678b57b5e16c0" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/07/789fcd63c9d970f8824986c4fc8a29e0b20830738d89bfa3f57428e84592/srpc-4.2.0-cp39-cp39-macosx_10_9_universal2.whl#sha256=2dae7a8d7d55bd48e885747decf58c9314cc17227bf40c5337def47e8102249b" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp39-cp39-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/e8/d780bdde26e7ad825ae80c4fc3b22f944b36d5e3091c963dabda79a24a91/srpc-4.2.0-cp39-cp39-manylinux1_x86_64.whl#sha256=310776930a50af508c866dbb4201dbbca3987a0047ceb9e6aaf51463685994b6" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp39-cp39-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/87/b7bcf9bd2d171574a09f53d3d3fb7b8c07f4e307c203382740d7195da784/srpc-4.2.0-cp39-cp39-win_amd64.whl#sha256=6dfeb3607a0647c466fa94246f530a6aa174fc3c3b600359671d94d53b587bdb" data-requires-python="&gt;=3.9.0" >srpc-4.2.0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15944626-->
+<!--SERIAL 17010402-->

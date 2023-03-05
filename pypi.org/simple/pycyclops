@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pycyclops</title>
   </head>
   <body>
@@ -30,6 +30,16 @@
     <a href="https://files.pythonhosted.org/packages/9f/0f/120d80665dbeccf7ae46497ecac28606f68a30ee7f9f22f3cb186e3d0bc0/pycyclops-0.1.11.tar.gz#sha256=478a7ed74236c85426c6a3efcedd18c8dce20b5d81ac51a4be121dc6e8748f01" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f6/94/090c3158d91761fb7053997082a6ae7b4d7bbd936e0255a246c71f3f5c88/pycyclops-0.1.12-py3-none-any.whl#sha256=e02b5bcfa1fca7c68ecf140814389684818c02e216c41e64b13d13821d9204de" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/07/90ad593925ac0dbeca87d953a69c85ce61b6e5957530f349e465af3fdb81/pycyclops-0.1.12.tar.gz#sha256=c62f998746fd941481ae25bdfe552926f8cb8a5b10f1896cb1217d4c7ca5588e" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/b0/d0979a4a00dc01d7db5343f9aea2e65f4ae96677415a3c373dbdd8922ec0/pycyclops-0.1.13-py3-none-any.whl#sha256=b79525c06d88bf6702ac767d1426142980bcb75c9336987cef0bf19309f9a5c2" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/01/a37f00664f4d67685a52f11616cda19a124e20acef94f8d44ccff59d4d4a/pycyclops-0.1.13.tar.gz#sha256=81eed018f1e354bbe44b052eeba067028fe5b66e71e9dd4326b00e43c92f7bcd" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/56/05b4d0d6b37ac3180937339556eea0f150d52d9191beaeab6fccd44f76e6/pycyclops-0.1.14-py3-none-any.whl#sha256=17da789af52f4f421f01de65b15dbc76b3053df036b763595e462d7998febc91" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/13/bc1af9a78932a30abf7dacf73796bfe6745afebeed71bd15454e84f89908/pycyclops-0.1.14.tar.gz#sha256=ef4fd3f4caae708b94920ac56c5785c5dd88f642b2e0f88e23356cb7dbe92f0f" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/b4/bb4f2f6ad33f79ebf9b06d3d7e7129fef3b52c530d62c5f02c1dac52a727/pycyclops-0.1.15-py3-none-any.whl#sha256=24af20f1a077a418f21e50b5c50857f01bcc4eafee17babf0ead989ad666089e" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/00/c164530cd7b789029206b2ca6acc0a7f3c5df1cf905211265657ae7cb704/pycyclops-0.1.15.tar.gz#sha256=8807360cdc8337d0949645031ddd64f9cfa0ca36c010e831c3ee238cc03a0f58" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/6c/5a83625da71acd654d153206154a7a9e686027412f39775b8c4ff90c3b24/pycyclops-0.1.16-py3-none-any.whl#sha256=9d441d1e690b1413819c01dbfd7bb96173ff2dbc670f5660a5abe357c0e04f3f" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/89/efdbdf71d2ed337c15ae5ad8f47272442bbd4bf041134de91a4385382479/pycyclops-0.1.16.tar.gz#sha256=851c9ddca917f6adc2415a66a635836766cc92fbdd3ab6c9f342a35006a87203" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/5b/08a86e4df0bf3abd9a3d48e850162473aa425131a0ed5c67921650efe73a/pycyclops-0.1.17-py3-none-any.whl#sha256=1f8a6b49f20f54f9504f84ddbd231a0c0d01af02be6a978aedf0780b71646478" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/14/6f211f25d4cbd245b664938b3bd768c8f1fb65cc175749d67d01341e7458/pycyclops-0.1.17.tar.gz#sha256=eb3bc7183354b40fd0f7816ce1762923d98ff8fd09bf7ca6657ef88f00c96bb0" data-requires-python="&gt;=3.8,&lt;3.11" >pycyclops-0.1.17.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16391314-->
+<!--SERIAL 17119170-->

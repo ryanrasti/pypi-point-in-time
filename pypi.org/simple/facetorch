@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for facetorch</title>
   </head>
   <body>
@@ -33,6 +33,20 @@
     <a href="https://files.pythonhosted.org/packages/94/96/7776a41341db5268ced6b3ec9f9d3329953b79b02efefed5252e391235fb/facetorch-0.1.3.tar.gz#sha256=69dc562f7f05cb5911ab987371f68ece2762b058ca39b1b176bf6b97e8ae7f69" data-requires-python="&gt;=3.9" >facetorch-0.1.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/f2/7f47eae76ae6231568f6e25953df049169e27e7d4056271538cb70f70e0f/facetorch-0.1.4-py3-none-any.whl#sha256=cd3a16558ed60a9ce577d64b13d2cb5470f07337a85bd577f5cb40eb2a929f27" data-requires-python="&gt;=3.9" >facetorch-0.1.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/57/1d/541fe6f065e2daf74fd1a5d5835ab0d9df16e9973c9175655b741dbfc55f/facetorch-0.1.4.tar.gz#sha256=96346f4a0a450353294b2885b28bdc6b2f91565eb8c668d903c02065bdf805aa" data-requires-python="&gt;=3.9" >facetorch-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/e3/bfdad4714fafddf4bcb9b231e4fc3093eb353c0f902ad5e7e4953577d26b/facetorch-0.1.5-py3-none-any.whl#sha256=384a4ee35b1a1e6d2548b037bea1298f50d519146ce007b1fe75cc34034ec014" data-requires-python="&gt;=3.9" >facetorch-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/aa/1caecc5e0be56d361faef480036d755ee84c2398f0f22a497e51d24e8881/facetorch-0.1.5.tar.gz#sha256=dd6d1e67036793570c984c390e9623eaae45789ae3eb128c72dc91848d604f08" data-requires-python="&gt;=3.9" >facetorch-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/79/ec6baf04e5255bc26cb579a8081fdedfb12da746c71b67e93f7140328003/facetorch-0.2.0-py3-none-any.whl#sha256=b66f3ccb31160d27288878ec61c32369dd88ab2da74148b4b61418b3a9a336ac" data-requires-python="&gt;=3.8" >facetorch-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/11/592a83381d2d68af2f9754cf12d7e5f752df389411594a5ab3ce8ce60a0a/facetorch-0.2.0.tar.gz#sha256=2db323d90eb1a67985d2642205107327a0040d13e7c4b56774e1f4fce03f30d7" data-requires-python="&gt;=3.8" >facetorch-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/c1/ebe09c1c08603f89ecf989bde622d8e69da1a66ff7be4cef80ae0ca0bc9d/facetorch-0.2.1-py3-none-any.whl#sha256=e438e9b03c5c2186a85e45d3de3a0faf56a502e3d1b300c1b43632b18d2bdf00" data-requires-python="&gt;=3.8" >facetorch-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/26/a7fc690b6d0d52dba16e87a25bb52767d116405c26b5da2ccadd94c625af/facetorch-0.2.1.tar.gz#sha256=a465ae05e37bebb186c9ca5d13aee5644272a3712a080fd0ac8bc1cfd0a01572" data-requires-python="&gt;=3.8" >facetorch-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/1d/edb8f286ab4eed5fab0ecc412d8fed299a0eaf79ea728b86ab1af4302bad/facetorch-0.2.2-py3-none-any.whl#sha256=da38ea922e17ea000add92a9ddeac59d5f64954ed4db9282ebea37a080a16810" data-requires-python="&gt;=3.8" >facetorch-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/5c/bd2188c759154a34075d35b53d9141146614947033024f2d96d6319fa2d9/facetorch-0.2.2.tar.gz#sha256=c9e024c38741e66888a7b74120d45183895a005c2f583e56f16b295e4f16677e" data-requires-python="&gt;=3.8" >facetorch-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/9b/9d6e8a401b4d438b4ffe86b8ce03fc754915b00ee7fc04ebd9dd40f123c9/facetorch-0.2.3-py3-none-any.whl#sha256=12fc206cfc1c44a07c75a00e311341ca582454831ad82550649f7b9bb0477a1c" data-requires-python="&gt;=3.8" >facetorch-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/c3/2cf0d7b842cf68e34b2c4ec56f24a61a93b1858b5c64f5db8cb6a71eb21a/facetorch-0.2.3.tar.gz#sha256=ea20b7e2446a682470f3bc1f758f5a67e2f04d3999e898db7c2cdf1f2ca79d96" data-requires-python="&gt;=3.8" >facetorch-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/90/1748d9a04c2805e5e179f804da74a7f1fdb58a75ae159433ba1420efb8dc/facetorch-0.2.4-py3-none-any.whl#sha256=4801536f39acd23a49f2810d04343366565ab49eb1ab9a538dba489ddbfce383" data-requires-python="&gt;=3.8" >facetorch-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/ed/ec94d2e88677e9f9941d8c53af0f02193715661e39ed056000bf0f514c82/facetorch-0.2.4.tar.gz#sha256=3237771fa552f7c7e279edb1dc2c7d0ed510418e146f20b446aaa438b1b48f42" data-requires-python="&gt;=3.8" >facetorch-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/9c/6d9fee933891fa88ddd5f60c2aff47af77eb7a39c5ba31d1e1d33b493a4c/facetorch-0.3.0-py3-none-any.whl#sha256=63864e39ff0d8c0cbaaaf5174623e078a54dc8cef4a7d51ad8c53cb52879a18e" data-requires-python="&gt;=3.8" >facetorch-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/49/5c310525b7878a3576a1572936ae870a302880d37dd7e995f3df0208799b/facetorch-0.3.0.tar.gz#sha256=d7e6db66021ea4de019ddb2bd0125db010d8148fe376a08dcae1f43a110b31f1" data-requires-python="&gt;=3.8" >facetorch-0.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15816473-->
+<!--SERIAL 17156910-->

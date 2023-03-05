@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for funcx</title>
   </head>
   <body>
@@ -97,6 +97,20 @@
     <a href="https://files.pythonhosted.org/packages/ac/fd/abef1b302eb169d48eb02fac65fbde18635fc724af6ddfb0e3191d05270f/funcx-1.0.6a0.tar.gz#sha256=0e30cc956b19f7c2e9af3ac019da2d63187fbf2e64c27859e66d1e463e73b595" data-requires-python="&gt;=3.7" >funcx-1.0.6a0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f6/7b/f230720cae974441d499380c5091a7a65e10e769fb7885fd18e3603cf136/funcx-1.0.6-py3-none-any.whl#sha256=6a0bfa4b057cca6283a8ff3a3c4ebedcb1507d50934a30cd81b2e0c26730e7cf" data-requires-python="&gt;=3.7" >funcx-1.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/ed/c22613ad745ef411472fd058aac1589436da35568a296a6d0bddcc407099/funcx-1.0.6.tar.gz#sha256=fc35bda8686cfeb697a4c2977af28437c616476d40cbb3dcf607585ccafac016" data-requires-python="&gt;=3.7" >funcx-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/9a/6d8e9d1c17ae14acf73b515f536975e6c54e327ec9e6a6bdfd7a11b15032/funcx-1.0.7a0-py3-none-any.whl#sha256=e5340cef0fee4780478e8ec566906ea3a63393e2b049032e66efd25663e75b96" data-requires-python="&gt;=3.7" >funcx-1.0.7a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/23/dff050206d2ce3fee2a18e439775c07b785e72291425eb1a76a3d8cc63ec/funcx-1.0.7a0.tar.gz#sha256=c97a2f1ebb38aa9381f65b838e52a24b193e19676dca44aec30654d1efa1b2c6" data-requires-python="&gt;=3.7" >funcx-1.0.7a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/9b/ba4fb5df2937d751933b5cf598a34e72ecd892cf45f21512d973f9e8cec9/funcx-1.0.7-py3-none-any.whl#sha256=22496d871ff78c42371800e3aa48bb2c9cf80b828e75471d32c0d5f0efa258d0" data-requires-python="&gt;=3.7" >funcx-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/f2/1dc8038ec6660eb9601e35b9a3db13fcb9c2c269cae10543c5d63c3ff215/funcx-1.0.7.tar.gz#sha256=fe9eb1647aba5e78616df53b4599ef09d49ad9bd026101aeb14f42f3abbb799f" data-requires-python="&gt;=3.7" >funcx-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/2b/3a3b041ddaf48767bca43c8f71213f37d4baefc3aab45ba7da0de8e7418f/funcx-1.0.8a0-py3-none-any.whl#sha256=851d759f4dcd6c7040dc169e1aa10a7847abab352c020a28f109bee8b16010e7" data-requires-python="&gt;=3.7" >funcx-1.0.8a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/43/805b6e876be60604d52eab64c04f1c503ffcc98cdcf17e3a9614b5d002d9/funcx-1.0.8a0.tar.gz#sha256=7eb5af0ba1a9919de0e45fd2afa5176035ffd0194fd66abde36d1d6e74127925" data-requires-python="&gt;=3.7" >funcx-1.0.8a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/71/f7882eb76322316af2bc780c12adcb5bae5954b0280e6c94040c66f9917f/funcx-1.0.8-py3-none-any.whl#sha256=9eba05660af031c62e57be329487e434268f63c8702ed62cde1689201e57ab9b" data-requires-python="&gt;=3.7" >funcx-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/ea/a81df933c72132999c96725181b39220ed29aa5348cbdb65ce9a5de53669/funcx-1.0.8.tar.gz#sha256=54dbf8a9a71260d6ce63f6a760620578fcc89709401adf91756e5d87e1f8cbff" data-requires-python="&gt;=3.7" >funcx-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/30/57c963062ae0ad6e35d4f0face5f70adf4e48bce37ccb32d41346a229af1/funcx-1.0.9-py3-none-any.whl#sha256=0ac8a34e97effc6b5dd50d7c8b1c275e450dd169f6b5b0b175faa5594133e937" data-requires-python="&gt;=3.7" >funcx-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/36/aabc61cf06d2753e619179712c692e08e6e673bfb71a361c39b6558593b4/funcx-1.0.9.tar.gz#sha256=13244527c49af6e2b1d73a5bdf9ead4b0b89cb8bfc30bdcc49e52537f76c2d88" data-requires-python="&gt;=3.7" >funcx-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/6d/2b36ccdd1ba9c03c14b0bcc54a8e068c0f0ed320d0729fe3b087d565d0cc/funcx-1.0.10-py3-none-any.whl#sha256=17418bda96e252b52ffd280bdf441426b2140a141a9c6aeee3462eadd06570af" data-requires-python="&gt;=3.7" >funcx-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/78/bafa59279d12fa2956a779577f6c7dcfe0d8ddbaf47c0ca04539ee0fb451/funcx-1.0.10.tar.gz#sha256=01f134558f96af26d155abaae0920c70bec4a98b8e96f5961bd31b23cbb0526e" data-requires-python="&gt;=3.7" >funcx-1.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/df/66294c15ef4bb6d51144468ca027aefff3956f3619ff832f4abd56cc5d1c/funcx-1.0.11-py3-none-any.whl#sha256=6164158c5f988ec5af2195f4afa50ef388bbb11ddde83eed48a4abb55afa93c8" data-requires-python="&gt;=3.7" >funcx-1.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/46/5a930021a1ceb329612c2490caf40d27de8f30c40fba11bd0653d4ce981e/funcx-1.0.11.tar.gz#sha256=419bf1cf1256bce36aa202a80271d72ac9b74856a88d6f777ff922202fd02d2f" data-requires-python="&gt;=3.7" >funcx-1.0.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16012902-->
+<!--SERIAL 17101252-->

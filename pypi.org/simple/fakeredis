@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fakeredis</title>
   </head>
   <body>
@@ -144,6 +144,26 @@
     <a href="https://files.pythonhosted.org/packages/e8/e6/643bce68dd5235b6a1a66c56e8b1ddaddcc374c3d644054ee9a68c39d7b4/fakeredis-2.3.0.tar.gz#sha256=e101c2da0e95688a3db6a5874a70cd065fce3b46e8cec7122d19bb1d0fdd1bfd" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/7d/80d6561ee5534637240a98f3b9accf1784beb8973667bb7ca3f299ca135b/fakeredis-2.4.0-py3-none-any.whl#sha256=628d333a85fb184204ba234278970d8621fbd6bf90c81b2439a95b89e12f58d3" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/6a/69ebf25f3ea7e77a87ab150bc52244704617287fc51cf11d5aa86a65748a/fakeredis-2.4.0.tar.gz#sha256=8fe73cde197c79591cf22dfefac74056fd1841934ad32cfdb98c7eb569c39da3" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/f5/72b09f890de063276fb17993bcb7618960e09d9066d82f2735415355a0a7/fakeredis-2.5.0-py3-none-any.whl#sha256=c718b2373123a849b17ebbc30a7256f691e41b178834cceb9d863d41207e54cf" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/67/871cadcd3bd671c311804b005f54bd5f633f5fcaffad52910e2df191fc88/fakeredis-2.5.0.tar.gz#sha256=b0bf820179f4adc76ec60cefefa13d5d9fe92266f67242bcb0c14bea25f9b635" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/27/f6e49dcd726add20b0503b0d361dcec22e9aa22b150eac93fef1606ab5d1/fakeredis-2.5.1-py3-none-any.whl#sha256=488a498f893c8607e6bc0214ea319a1c27149ffa871c492ae3ab9894621a062d" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/7e/1f31333805d6fb05ab9982bca0262b5e726d0d9ede7276519f977a65cb93/fakeredis-2.5.1.tar.gz#sha256=a4596b7a97d109d322cd203b7be9c24e6c7a1eb90a95810c41d0a9c3cc7430fe" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/25/8bbf2820a3f73dd188b03ea6aef5ad986374bb7dc2421cc529260b163981/fakeredis-2.6.0-py3-none-any.whl#sha256=94c7867edc259b81c55b93902e81a727cc1986ba09de3fcf9df51a3ad8e29b03" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/66/ed718cf4d227ef03c8209a7f80e3f75f50ec5bb6799265bf2f642af9f464/fakeredis-2.6.0.tar.gz#sha256=3f8f72c5b990a70ae69444dd1cfe0c9805811a53752d3d21fdcda29255b00e51" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/51/35386ac765e906ebc35681589ef2c14b34969672299ba26301e1a9061493/fakeredis-2.7.0-py3-none-any.whl#sha256=67850c489861d85721edd6433af8d04a050fac377e9092b49d5439b94a83cb3a" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/75/5955dbe84518b4e42c5226e1739f1fa8bb952e361a48c5a46bfba8ec9db9/fakeredis-2.7.0.tar.gz#sha256=20264fb69e584b8582ac1842b904324cda7c82b69224c62b07690073795b834f" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/5d/db8b7c995fc76b1bc00261d7e73782d727aa0b3b716465bc78c80eb22b30/fakeredis-2.7.1-py3-none-any.whl#sha256=e2f7a88dad23be1191ad6212008e170d75c2d63dde979c2694be8cbfd917428e" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/75/40cb3b32d409adcf4034ba3c75c84be8f381910ff0fdbab5c80f4531de2a/fakeredis-2.7.1.tar.gz#sha256=854d758794dab9953be16b9a0f7fbd4bbd6b6964db7a9684e163291c1342ece6" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/95/1e1c5681503360e10c51d9e9e7a75215ed3ed0d7b749177e9d435be4d649/fakeredis-2.8.0-py3-none-any.whl#sha256=f1130bc2da77d5063c7aeee643b456d2bd486f3bd0236976646af1fb6b7e08fb" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/0f/2a715673ec64d9d4ebc1cdcdc3ed24c206fa84352cdac3c5d43de983ef84/fakeredis-2.8.0.tar.gz#sha256=2d5487e765894714d08fca50351c3a224e705eb02c02b2d012c00ed98b979616" data-requires-python="&gt;=3.8.1,&lt;4.0" >fakeredis-2.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/30/ac12cac00d474c201e026b84727d2c47037eed5f68648b0f25806bcb5152/fakeredis-2.9.0-py3-none-any.whl#sha256=fc0c48216bb40a01e51b002c70966cd17242cf7406e7ced4ff85235f4971d096" data-requires-python="&gt;=3.8,&lt;4.0" >fakeredis-2.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/2b/27b4b1c42395833c75e67d3095b9f79294f2f85a8610781b92dd8cdde5d5/fakeredis-2.9.0.tar.gz#sha256=ea29b10277efce23ade22ef33ccd273e365db658313ceace299e4027b066bbd6" data-requires-python="&gt;=3.8,&lt;4.0" >fakeredis-2.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/e0/8c6c39b84f6860c4283ac2b5b671d0c445776982442bb4224dcec0fc47a5/fakeredis-2.9.1-py3-none-any.whl#sha256=0355c05ffc5e56e4f37183083910ced36efe31624166e46c879b4f8c80a21144" data-requires-python="&gt;=3.8,&lt;4.0" data-yanked="Fix not applied properly" >fakeredis-2.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/c5/a8bb6a94bad96b40a7e760bbbac99c73a6868017ab58c54a66bf62d6041d/fakeredis-2.9.1.tar.gz#sha256=09e71c47906c762e2a3c96923d54190d44de1d4e76adb0009df32c6790f72b51" data-requires-python="&gt;=3.8,&lt;4.0" data-yanked="Fix not applied properly" >fakeredis-2.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/2e/a68c29db486214b8f96c9254143de09d261cd0d70a2170822b106ba5a9f3/fakeredis-2.9.2-py3-none-any.whl#sha256=35962e0ded572302c4461ad1a40308259cc10b7c546b13228e6d7880bf7b74bb" data-requires-python="&gt;=3.8,&lt;4.0" >fakeredis-2.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/d0/063259876691b0c48dfa578a01777c92875d9f234e1ac49900f305c4a9aa/fakeredis-2.9.2.tar.gz#sha256=3bcc2b5c10d5e03cc5b46697d77c651f48391b506ff931576d2869c7549e2e25" data-requires-python="&gt;=3.8,&lt;4.0" >fakeredis-2.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/70/dd29eeca3d3cc6dd21f384c1e9d659c13c10bb749f3356121f64978dfcf4/fakeredis-2.10.0-py3-none-any.whl#sha256=7e66c96793688703a1da41256323ddaa1b3a2cab4ef793866839a937bb273915" data-requires-python="&gt;=3.8,&lt;4.0" >fakeredis-2.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/3c/1b654f943caac121ad7927493376bc1bd534384419396dda41caed7ac623/fakeredis-2.10.0.tar.gz#sha256=722644759bba4ad61fa38f0bb34939b7657f166ba35892f747e282407a196845" data-requires-python="&gt;=3.8,&lt;4.0" >fakeredis-2.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16206111-->
+<!--SERIAL 17157099-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bigtree</title>
   </head>
   <body>
@@ -62,6 +62,20 @@
     <a href="https://files.pythonhosted.org/packages/11/52/3d1f640e944338411904b5f3562df8e454d22cb9e3b7b9e36b2af696e1f3/bigtree-0.6.7.tar.gz#sha256=1f52c6cb5d52f3a7785484b3ef053718669d371d1a8304aa553b46c485ccc551" data-requires-python="&gt;=3.7" >bigtree-0.6.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/42/293699884285f46b428e1254b8e1e8e29fbbd7d6929dc1c93f8f83bcac16/bigtree-0.6.8-py3-none-any.whl#sha256=cc87e9da12a1437951292598ea1e373223af9a7dd430956ee8a9e3d9b0769bb3" data-requires-python="&gt;=3.7" >bigtree-0.6.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/69/4028942b68e069fc7e3f786d1d3e3708216e921385295c49043bd74ad765/bigtree-0.6.8.tar.gz#sha256=1befc696159212ecdfbc3d6a7153f5dda99554e996ca95d941f848615b233560" data-requires-python="&gt;=3.7" >bigtree-0.6.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/41/deecac7b457dc382cad034c38cd3f4f7069ca9c90cbd52bce082a89a6242/bigtree-0.6.9-py3-none-any.whl#sha256=3ab9739321f190b175d74e2cc898c0b5d1ca753982565423f65dac0802f646d9" data-requires-python="&gt;=3.7" >bigtree-0.6.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/c2/3c728573f7771d9a1db9ca502126826f6b7d728868d3584279a08cebbf29/bigtree-0.6.9.tar.gz#sha256=5bb6d6c9aabd5a6ffc21217009713c873fedf060fd7d34e07b6ecef254cc9cf5" data-requires-python="&gt;=3.7" >bigtree-0.6.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/66/1e5ce24c342f95e0fbce117839a873edac81b7efc32fb81b03630cde988f/bigtree-0.6.10-py3-none-any.whl#sha256=1d19f72657491ea2824a22574603c4ca1eee8a32550014f2672c7f7b5b9d5f80" data-requires-python="&gt;=3.7" >bigtree-0.6.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/dc/7d3a412e6d948061d9d2b38fa560b00ffbdb555d8bc47bd896c6497f8085/bigtree-0.6.10.tar.gz#sha256=6a3145e55da372082e541b3f6f65f43635b947502b6e076f587146ece3c58cff" data-requires-python="&gt;=3.7" >bigtree-0.6.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/ec/3dbdeaebdad69af7ea1f97e608cbb00358f4cd82565389334879b450cbe0/bigtree-0.7.0-py3-none-any.whl#sha256=cfadd259bcb237568a126066a588073ee967beb0900cdf9d7dda868f868d61ec" data-requires-python="&gt;=3.7" >bigtree-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/e6/eba0542b75c499f1555df53207d2e1cce859dfea1d79b87d9bc6b7c6213d/bigtree-0.7.0.tar.gz#sha256=ba16c0aebe59c55e8bcc394993c2d14904c8312b4d4015f319f34689617c6e38" data-requires-python="&gt;=3.7" >bigtree-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/00/fc5206e347579ee6ad54ba6d35458a450b0be0a1a94afdda9c01cbdeff91/bigtree-0.7.1-py3-none-any.whl#sha256=51d875db2db1d9ce4084f5e330355f712574ef5c892a466f7264dc15b2150238" data-requires-python="&gt;=3.7" >bigtree-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/39/0003da8296c9c3d4dd3781d38d522ee62120cd13f6f21e88f3da5b7873aa/bigtree-0.7.1.tar.gz#sha256=822f14e65ca030505c127acb9d97012ded28c2a6148e0cbad691777bbde4a3f8" data-requires-python="&gt;=3.7" >bigtree-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/f7/619fea71354e0814c0b08e8a7c8c4d9a049ef9c200ad6e22405899de58c8/bigtree-0.7.2-py3-none-any.whl#sha256=49a2c08986f15fc7d6bde5f0f610cee96b7aad85fb3bb329b6cf55228a2b5632" data-requires-python="&gt;=3.7" >bigtree-0.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/6d/0ee3e1582c2a9c6dc8d9c13fe93b18aa6acb64b7f95848d5ec68f0daaf7a/bigtree-0.7.2.tar.gz#sha256=c7cca95b614f31403925c800b5398c89bf878533f8f30ad27593062bfb8cb486" data-requires-python="&gt;=3.7" >bigtree-0.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/aa/cf612c5c213556d4b623c92287ed9cedd484ddb664495884fb0b980586b7/bigtree-0.7.3-py3-none-any.whl#sha256=c7a2619d96963b7df077a28e09fa51351a7ab030efe0ab6cac5e3c75dc348345" data-requires-python="&gt;=3.7" >bigtree-0.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/4e/e18abb73e32f8f7b8e8477ee0ca5ba599a9302bd83f4323060e63340ce11/bigtree-0.7.3.tar.gz#sha256=1f759606be588a82c2eaf525baac038dabbd9616259af4216bc826e08a91bf6c" data-requires-python="&gt;=3.7" >bigtree-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/f0/5d5c1b4d2ac9a7e6618a9e69072f7b9e681332bea0e3070fa13b11e5ec24/bigtree-0.7.4-py3-none-any.whl#sha256=37b8893c4ff4652f262087dafb6021bda317d925245c4628d8df41c0c41292f8" data-requires-python="&gt;=3.7" >bigtree-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/a6/e0afb28c603cc78ff19c7dd4be940f34b65bd7373122bf2f71d501e04df4/bigtree-0.7.4.tar.gz#sha256=7140f361312db1a2dfe829f353871c1be85fb2bcb6dd5528f7b6ee2f1394a124" data-requires-python="&gt;=3.7" >bigtree-0.7.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16428040-->
+<!--SERIAL 17065585-->

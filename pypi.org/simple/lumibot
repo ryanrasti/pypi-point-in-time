@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lumibot</title>
   </head>
   <body>
@@ -231,6 +231,24 @@
     <a href="https://files.pythonhosted.org/packages/a4/8b/608049e0b3ee1c704bfd481f7639897c1e758aeecbbc62ac1f4ce16cd862/lumibot-2.4.9.tar.gz#sha256=b7a4bbe4e7d9cb67f6674938a083bb886e06d996a259fa494f6e51927f1fde5e" data-requires-python="&gt;=3.7" >lumibot-2.4.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/a9/2b8289409a78a5a4f5317913b7ab90145b93171645ec3597d0fc9ff8ee4f/lumibot-2.4.10-py3-none-any.whl#sha256=8e90866e575898458edc67be4faeeb53f083a27b8bd75c00b7b5926ecb7359f4" data-requires-python="&gt;=3.7" >lumibot-2.4.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/86/8e/8b8aee13fcbd5e1a29cc2dbf1610fae5ed5b82caa727cf215938ca532d35/lumibot-2.4.10.tar.gz#sha256=7135aeb4089e1790a8fc5bf06022e9d2da6596349f3beadb21c324374442e784" data-requires-python="&gt;=3.7" >lumibot-2.4.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/3a/98a6df4dc7260751916cdc782d7bc1e8cb8a1f8de36b2c7b7cb58b8c4ccc/lumibot-2.4.11-py3-none-any.whl#sha256=e038476b61301b2b88ca17ca4165781aeff0454ee8ca91658b98e679e5f078a9" data-requires-python="&gt;=3.7" >lumibot-2.4.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/e1/c3db6cabcd79f5de6264494910594278cbbb159464b3d81dd62bbe8264cd/lumibot-2.4.11.tar.gz#sha256=03b7f19a51c57c4d7282f9ccdaae93bc46e78b44b9f0d644fe982815851c9dfe" data-requires-python="&gt;=3.7" >lumibot-2.4.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/3a/a593d4a80beee4c8348ae034fc37daf54f3fc1ae2a4f08cb8b29f1671a8e/lumibot-2.4.12-py3-none-any.whl#sha256=387ac26fa1ea8178f37c82fe3d64fe0f6ad5f4eab9a766c84b32909328bbc496" data-requires-python="&gt;=3.7" >lumibot-2.4.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/ba/e86df07dd8f1c8286534e567cb6573210717391ba1d93022355345249f84/lumibot-2.4.12.tar.gz#sha256=8e72f778caa8bbc0a009e384dc7574d5f063ec4c17ed30b6c5f1758a0607eafd" data-requires-python="&gt;=3.7" >lumibot-2.4.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/c1/ce1bf4da47038b30e2417ab0a56c2480281b30f6557e77581b8c643fbae4/lumibot-2.4.13-py3-none-any.whl#sha256=39eead11334877091e5b4eddb77b8cea7f843797e58b0f84815899ce5c7a9919" data-requires-python="&gt;=3.7" >lumibot-2.4.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/43/500ff145c16ae81330763af3df8bf09f4e98129bfd698fea58b5e62307a0/lumibot-2.4.13.tar.gz#sha256=201de6b5410e3c3673d524002898a112ed0b6e15ec091e0d08ab15e4a17e407e" data-requires-python="&gt;=3.7" >lumibot-2.4.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/f5/177f6a740a67f7ce5e133d14ae8729ef6fd4008d78a754ca393ef77daf3e/lumibot-2.4.14-py3-none-any.whl#sha256=00c86dc7447968866e0c2f5511c781ddb6776a8a04d6d1bbc95b557d1944c9f4" data-requires-python="&gt;=3.7" >lumibot-2.4.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/34/ab32d0d730b923cd6f8ac7361a6c3a07cfd357521d916a80ac636aaad2e7/lumibot-2.4.14.tar.gz#sha256=f32a5d7cdb7d3827688909589827a0c094239fc2c8c79f61ed3d6e4f19c73f27" data-requires-python="&gt;=3.7" >lumibot-2.4.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/5a/8f25a58e3d79d322e0bcb6c6998cb1d4f0ab176b0f69b0c60a02d5ecf7cd/lumibot-2.4.15-py3-none-any.whl#sha256=f6cdfd423e5400d3033a3ec7f6fa79ca191ec5249f0b082de74c4780975ac563" data-requires-python="&gt;=3.7" >lumibot-2.4.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/5e/c83fa7567ca73180ee1d18be8f30bae4b772b767d465374909e687ef6b0f/lumibot-2.4.15.tar.gz#sha256=a32cc5d553bb596f7654b8e1e40081fa2fc091d56bd7ffc997998b5e8a5eb112" data-requires-python="&gt;=3.7" >lumibot-2.4.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/f9/8ed678ed7a122ee4258452cf26ffaf759a7783f3a418054b4b18bfead6f9/lumibot-2.4.16-py3-none-any.whl#sha256=c0e787c3eb8ff2dd75bd8d8dfaa9fb94611363fec15e8839a13a04a56422b45f" data-requires-python="&gt;=3.7" >lumibot-2.4.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/a3/5c2eaa633ba97ba71d722480ccd22bfd966cf7a42583855b54b77cd05062/lumibot-2.4.16.tar.gz#sha256=c19051d9a87144d92427651eafd54baa29cc1d1fc36308abb74010f880cb9c8e" data-requires-python="&gt;=3.7" >lumibot-2.4.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/ff/8976819675c85dfd0d7998ad852cbe43147a279025456bb09698400091bd/lumibot-2.4.17-py3-none-any.whl#sha256=90e083c0daf261faeaa8f5697b8e3bd8815abcf7b7a3945df64f5ab98a52fed4" data-requires-python="&gt;=3.7" >lumibot-2.4.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/28/24b98e2be5c46449a62a23aee21b2e6ad6a58e0dacfce98b4883af3a1fd0/lumibot-2.4.17.tar.gz#sha256=56763c1a33fe9b6f52d7b7655ef30e43bdf5adab9e875294b314b2704e9817f2" data-requires-python="&gt;=3.7" >lumibot-2.4.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/1c/766b4ab57afa202f581f1c17e7a6ed304966b7888835c6986e2ee651a77b/lumibot-2.4.18-py3-none-any.whl#sha256=c00d6b77ec5a11136e2bf8fa335c4d90fb3ab8390f92791f838a0987c3168b60" data-requires-python="&gt;=3.7" >lumibot-2.4.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/26/4c59baa3e7646ce97f86bb4be631e76dfdd0d00ada726e7689f549471e75/lumibot-2.4.18.tar.gz#sha256=055d504ec884cc62ea7861cf21fb9b33afe29dc25a949eb2329cffc54ae4d3c3" data-requires-python="&gt;=3.7" >lumibot-2.4.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/7e/38f827e300afbc41ab0e8f39320b7aa383cae869c20d46c6c75c96e8aa73/lumibot-2.5.0-py3-none-any.whl#sha256=4b2d315f390d9ff0b5a9b8c647f64685aec8801b7d38763b593cd11b0cc89e4c" data-requires-python="&gt;=3.7" >lumibot-2.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/6c/1399dce53c2ea185e521752856c0569e83dec67a7a4e00fe6e8c18e88d2c/lumibot-2.5.0.tar.gz#sha256=7e0b87ae978d328ef4032c62d58891242502b94922d8959e88089eb7fd1b4328" data-requires-python="&gt;=3.7" >lumibot-2.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16368055-->
+<!--SERIAL 16881487-->

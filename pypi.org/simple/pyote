@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyote</title>
   </head>
   <body>
@@ -343,6 +343,20 @@
     <a href="https://files.pythonhosted.org/packages/62/60/1fb6b6f698bfbe0089c08320162b5aa635109158eaa757927950c2900215/pyote-5.0.2.tar.gz#sha256=4d8270bd242b2d2298afc86c21ac5978fb7265d70d632bb5fe5a261c71f56f8e" >pyote-5.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/92/48/4bdbe4abe7afffa3d1141ddf095b50293900b6be31226f43a09cc99a6e38/pyote-5.0.3-py3-none-any.whl#sha256=eb08481fd0bc2df2481fb5d249c9ecf3430592781a1299146e7e2ca44585a080" >pyote-5.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/61/97926ecfb38e556ebe77e1ddbdc3d448567f60c7fb04a64b49a7a834ce96/pyote-5.0.3.tar.gz#sha256=c6b856cd2189b1f25724f5f72d0a922a48eafbd6c171e5572115ed3f520d6c4a" >pyote-5.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/7f/bb4a69c029b336f1e66fddaced564afee1ecf21b5c8c32cc10afc21946d9/pyote-5.0.5-py3-none-any.whl#sha256=3f9103943b7bff2441cbcef97a48402698326dd0d761e952be9280f0f9f9ec20" >pyote-5.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/d3/514ba901cb1c366c1a676c7d4ab91ccda7deb1b49da3613b94ea198b0d52/pyote-5.0.5.tar.gz#sha256=256fbe731d860190da33b88d7a8149cb0922d7f27b6a8cb9cf6b11fcd3d4e78a" >pyote-5.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/40/b0f9cecebc7f8a51c473bda5e25e4994b9336b63f7faadd13fad6f7c6f0e/pyote-5.0.6-py3-none-any.whl#sha256=be3ab66b1025e2d7a9c96af36a04eccf806892a821542191e8ef3eb49121a026" >pyote-5.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/95/9691fde9c48b8f65b5fd75bc34e5bd0010ab45687a68b1a307b28389bbdf/pyote-5.0.6.tar.gz#sha256=41ff0e09d6107d266957db81f00cc31d79b5e5330ce9a563436d8b7458898a9d" >pyote-5.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/52/baa24b8c1a460e1792613c7074fdeb08da733b9fa604dfc9f8b59d80ce20/pyote-5.0.7-py3-none-any.whl#sha256=59965e5bfc1fd7ea020f5b57fa5b77e2ba12b0a787b85d0e814fa06fdcdf2ba6" >pyote-5.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/8c/53174574a942fb93eaa07a4ecf635496f24856ed49c9a68f8b310827c2f1/pyote-5.0.7.tar.gz#sha256=8a2f83e928a1972dda26a42d4efebd6f5d2a174ab6335b8207a7b57bb0d32c82" >pyote-5.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/8a/39d0aaef52ea50a3e9f52c90866568456b2047680e0948058a53ea25dca7/pyote-5.0.8-py3-none-any.whl#sha256=7c01e65a90cfe2bacf68f5f29e1d892b4dcfb2963974a04d8db57b6bb87c5b7c" >pyote-5.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/1f/04aec08063090b591bdf875fbc28afd18c24cb7f1b645db86dfa050730c8/pyote-5.0.8.tar.gz#sha256=627930a3b9c67e4661c2b88fa0ecaad85ee78510f2966ca7be2dbbe1bbd65b2b" >pyote-5.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/d7/21520a97c6253c2940a119e71fc12f2f36a884bb7999a920d3d998c0ef71/pyote-5.1.0-py3-none-any.whl#sha256=be2234e7fc99353fd5967f0f1d6ae76b87ed1f40719b9943408a351cc985e36d" >pyote-5.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/c3/7f41771d04861c3f67f8672fc1641bfa345c2273b6507dd4a44b1215edb8/pyote-5.1.0.tar.gz#sha256=665796af088f1cc5757f9ae8516dca17bb1c408091579fe2c6dc480c72170742" >pyote-5.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/5f/29796353a59d5b8e784ee529aade95f7bc48dc86e9e16b36094c8a15a022/pyote-5.1.1-py3-none-any.whl#sha256=7f6232695c80e91f5a550adad2e5df84cf9f51608fce5575ceae33db1edf4fe7" >pyote-5.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/58/0573705bd0959208e2b51404b0c7ba5a815168a98f9b90397e348f5dd434/pyote-5.1.1.tar.gz#sha256=f5339883350598b6b31fcd8933c5e7e0b941d9f5d1f58c7f207c1b3718eaa9ec" >pyote-5.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/a0/44aaa7b5054a522e17d8716e95197f971040824346a2c5c9ef1145e54d81/pyote-5.1.6-py3-none-any.whl#sha256=72daf44217cdfeb0f0e8ccb95b97903da5d7a741db669bc60a01621e4bafd7f8" >pyote-5.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/ed/b6cb10e382c13e2067efdf947448e439c7d38a055a7f7a1ae333c466fb35/pyote-5.1.6.tar.gz#sha256=0fba4c31436e49c1c1ae2fe0d0de241b8032fa6eb5802c4efa27d051571fac4f" >pyote-5.1.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16371119-->
+<!--SERIAL 16814971-->

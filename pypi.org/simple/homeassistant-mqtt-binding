@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for homeassistant-mqtt-binding</title>
   </head>
   <body>
@@ -18,6 +18,8 @@
     <a href="https://files.pythonhosted.org/packages/a5/a4/e2ef2e5e86e68173f620a653eca84dca209498c820c86c6a9f0e5e083309/homeassistant_mqtt_binding-2.0.0-py3-none-any.whl#sha256=f4933b098e7162030122f549133a9293854d450ea09b2f054815a9104ca6e47b" data-requires-python="&gt;=3.8,&lt;4.0" >homeassistant_mqtt_binding-2.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/93/723c96b82bf065f3e8ca174e5eafe0c0a03a7306f9c25138f619160ae1d9/homeassistant-mqtt-binding-2.0.1.tar.gz#sha256=fdf6cff60fb92c439a9398c273e6a40333380601264e5bfd649b4be848342cd2" data-requires-python="&gt;=3.8,&lt;4.0" >homeassistant-mqtt-binding-2.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/37/b3/78304ee03b57dbb67cccbe3c24a0192a0384f058f9291264377fd0f8edb5/homeassistant_mqtt_binding-2.0.1-py3-none-any.whl#sha256=97e42c5376bc7888d945022ee2e90713f252a31a0c7bce72c3d99766d328cc0b" data-requires-python="&gt;=3.8,&lt;4.0" >homeassistant_mqtt_binding-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/48/2099e71de09eedd2dbb0b29621b9ab1339f796d17aa6a5dc86d6ffff5e45/homeassistant_mqtt_binding-2.0.2-py3-none-any.whl#sha256=6e6bc8a7a4c29e6eaae81768d36dbb2b1c131ef96e6ace7e8ec7752c1bdadf74" data-requires-python="&gt;=3.8,&lt;4.0" >homeassistant_mqtt_binding-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/6d/c3fbab0c3e9d863260b8ef1b2000b72a37357d8a5a41362d2bd437f63363/homeassistant_mqtt_binding-2.0.2.tar.gz#sha256=a4b1184d3ea532781a4fbc7cc98710720b62c0f1c8373eeab2450af0e0802102" data-requires-python="&gt;=3.8,&lt;4.0" >homeassistant_mqtt_binding-2.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14895694-->
+<!--SERIAL 16592255-->

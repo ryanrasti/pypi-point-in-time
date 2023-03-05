@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scalecast</title>
   </head>
   <body>
@@ -136,6 +136,29 @@
     <a href="https://files.pythonhosted.org/packages/43/ec/ccf531ab3b8bdea3d311991c704c5c77133d8fcd27af9a1988c132c12db4/SCALECAST-0.15.10.tar.gz#sha256=7ebb423217d864f63f00a429f8a71906f401cd15bc9490e079153b5c57d81738" >SCALECAST-0.15.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/5c/ec60a6fd6dc225a64a84bf1ab03ce2bf000eacd048d674f405d69b0a51e4/SCALECAST-0.15.11.tar.gz#sha256=9a40de18cfcf65ad4d6873556aaaa6e17c774492144bf9b74af122e9829b22f6" >SCALECAST-0.15.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/7f/ab58ecd55e245b5b64dd574466aa65d68ba764ca40ea2594e8b3a82ef3cf/SCALECAST-0.15.12.tar.gz#sha256=69841fd912e1f1ddaf3b5c7240e7db94422c680b5845402408ae38fdc873f3e2" >SCALECAST-0.15.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/c2/ce40253285dcf16aab12a654acca096179e98874a5599f68b71c97a85bc2/SCALECAST-0.15.13.tar.gz#sha256=8e339e8a0f3d945e1637e3768319f7c636f9a0b54823b8807d1804bf33d5ef8e" data-yanked="SeriesTransformer function doesn&#39;t work" >SCALECAST-0.15.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/bc/281a39246b752444b4bd4479a6e21d985a90adf3fba293209b833822f82d/SCALECAST-0.15.14.tar.gz#sha256=1f4e92f42e8cd2459a8f5ce7dfaa1d08916ab3447871dd35dd41fb42142a3ab2" >SCALECAST-0.15.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/b3/75ee4b12af94493a5d94d10caea1a235746a4b9ba4a989a70e199c485187/SCALECAST-0.15.15.tar.gz#sha256=6c7bddded158475af43cd397c9d7d62594853c6b178f4ca23f2d00f3b744ce46" data-yanked="Didn&#39;t add ax to all plotting functions" >SCALECAST-0.15.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/f8/702031f23ca04f3ec302d3197ba59ea45d63b734b260a400c68bb3469d27/SCALECAST-0.15.16.tar.gz#sha256=c9addbb702b2dbbd3bb6c55328a50a2bd09d87f832852907c4817dfcf5035c51" >SCALECAST-0.15.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/0c/5e585c06e8b7ca30f5ef9eebd47aaa089505fbb55246b03dc16a8895b186/SCALECAST-0.16.0.tar.gz#sha256=8116d7ff7fd301af0682788e43597089273b006cd0876a82f7cf441164c948e8" >SCALECAST-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/f1/c474b2e5ed7d7aab777e092ebd2945a47664d91fa1e8b0c22b137ba6520a/SCALECAST-0.16.1.tar.gz#sha256=21d070706b00908b70be87747ca5c936029b52ad81735d2821331094c7538c5d" data-yanked="Circular import" >SCALECAST-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/b7/1769a31f3ef0be51c8c1456c3e2be8ce03b8bbca00f85d99b99a4a6269bd/SCALECAST-0.16.2.tar.gz#sha256=83c402caa960980838b00bdcb9c79332f8694ee0a04302d7bee20720a44e3303" data-yanked="ImportError" >SCALECAST-0.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/8d/1758667853c34079eb127b36c431df65851cb1a5efcd611c3f819799edeb/SCALECAST-0.16.3.tar.gz#sha256=1934d88742a91231d36679a9dd4054690bcd0b1257e7362d3f483bcee6a00e6c" >SCALECAST-0.16.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/d1/4154241f9ff88f641c8efefc33fe87cd4828002119ce57e0d367f7f72913/SCALECAST-0.16.4.tar.gz#sha256=2b5659a870dca52d1f2c083af139ef7b1da6cce9ad9ff97b44124bbbceec2611" >SCALECAST-0.16.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/bd/24ee2dfe37769246412ac312767832872f1e85708467dd00e298d7de0787/SCALECAST-0.16.5.tar.gz#sha256=a8fd9efefbe8a98ccc1dcc6c7c9b9606879ede92382321f194ef62ad9c910f2e" >SCALECAST-0.16.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/1e/0ada2fcbbcce912d9863a56a656114738d71b81055561c52cf4267c9dfac/SCALECAST-0.16.6.tar.gz#sha256=a6c7eea99f793710cff3f409f184827e2534ea905fbeede1fa4d5367ad3f1a5b" >SCALECAST-0.16.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/1e/414110253124a9796730870f53b0e6961ce2d19576b6b292bcef42a03660/SCALECAST-0.17.0.tar.gz#sha256=3ed77a2cb0c8a458d7acccfca6f38e6b210e92b3dacef5e6511f933d7d7e6415" >SCALECAST-0.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/6f/dc59f3cb576f1ae38cd7f7eee3891345ec32810cad1570cc109c23f9c397/SCALECAST-0.17.1.tar.gz#sha256=d25f54f3c33df6659b2ac486c2dce024983a5b10d3381ae23f380a004499cf5c" >SCALECAST-0.17.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/b9/326339cc0488cff7220c4124570184ca463a6309bea3e85cdc4de4e6da35/SCALECAST-0.17.2.tar.gz#sha256=f16245a8369fc4d374f24d5210d777e5f9b8b3d1cc1e49279243daad3ae3fd62" >SCALECAST-0.17.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/58/6deb9876c74a7b61172a3e50bee57cc56a437b7dc24279c66025984a1ca3/SCALECAST-0.17.3.tar.gz#sha256=2e2d2f21d0cce48ef5b4a8546e343d24e71bf255dd783b79df2af58a6c7ff65f" data-yanked="grids not working" >SCALECAST-0.17.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/35/5a640a935a3b649c173b354be7c08b8dd844b2ed50ac9ec4293f8fadedc7/SCALECAST-0.17.4.tar.gz#sha256=ae9baff41ee27f0f64765ba201e31f8c431c2caae3b8d4e766a18254ca4c9687" >SCALECAST-0.17.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/a3/d4800bd63cd048112fd19b72bd431e47dd419863cc98b3f72872997ea74b/SCALECAST-0.17.5.tar.gz#sha256=eab00a33db81ba7af8568f13101b083e1efcc929395a32abe22a93eae1436bf1" >SCALECAST-0.17.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/dd/43ad953ddb61ce1920c748d52d5d0e0042d3e30e14581108a52e578d3b79/SCALECAST-0.17.6.tar.gz#sha256=9b18ed2bccd5a5e2f5273f946fe995d36655c85362cc6c5c324374def4904b65" >SCALECAST-0.17.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/90/27fa5f46ef2564ee1db80c776be30ccd42e7d2a0a7961ff7e06e5311efa8/SCALECAST-0.17.7.tar.gz#sha256=32b6c4b1722d1c9bfc2a6c285609531abcd2fb33f22518babf59e1a98fd48690" >SCALECAST-0.17.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/20/11863c0d7f14cf0b249a21ba709522285e20c681a517f6e22f0c0d1adb40/SCALECAST-0.17.8.tar.gz#sha256=9dfa7ebfdcf2c58ef1b2475e77a7259619e2bcd64d78bfe6acb3f9167967a0c4" >SCALECAST-0.17.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/77/9075459a6373676ce314ef185f65060c24e367891ce10d5bfe50dec5eedd/SCALECAST-0.17.9.tar.gz#sha256=2528b0bd1077d41fe320e245d53e6c46cb06c46c11eba4f4306ce74a1a1ca8ee" >SCALECAST-0.17.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/8a/5b990316cd1a758ac7bc4c84a11dae58016dfd1861c5a23c1cefc314b973/SCALECAST-0.17.10.tar.gz#sha256=4c78792f610d24afdd20910d3141ab1dc684d12491108cb739d17cc7d956f34f" >SCALECAST-0.17.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/fe/b42b1ed14f7ef348f61840497658b6633f176a7c718d2075e4d37fb3142c/SCALECAST-0.17.11.tar.gz#sha256=5a25836057dc579188fd3ccbca9e2aeb2f4764648a10ffbbc7f18b693ee94306" >SCALECAST-0.17.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16077163-->
+<!--SERIAL 17149730-->

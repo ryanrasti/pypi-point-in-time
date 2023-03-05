@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for acdcserver</title>
   </head>
   <body>
@@ -33,6 +33,18 @@
     <a href="https://files.pythonhosted.org/packages/93/40/f12655137728a337ce96f8a772fcf508f36a79e5233bf5358c4f9e0f54ee/acdcserver-2.1.6rc5.tar.gz#sha256=d065b313c4ec32a25436cf8f09d125a5d6ffb941d0683744b12a3a7fbe2f5ebf" >acdcserver-2.1.6rc5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/17/9dbd9012b5f055bfff58fdcf690c737036765cade37c5ee1ee32193b3fa8/acdcserver-2.1.6rc6.tar.gz#sha256=a115a1ba7d21184174908578dfbd041768fc1d18a4b6ed131aeba68d77548012" >acdcserver-2.1.6rc6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/6a/4b3e355660968d1d3898b641c4a5f1235af67ca382e832e5fa1a1de22555/acdcserver-2.1.6.tar.gz#sha256=f1be6f07cb39dd10e7a95294e04dcf80b4d86f1b5b3c65eaa12dfe78576ac790" >acdcserver-2.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/cd/d3799727e3737a5b23f0e7cf7a81570bc68030312f8ab23bd93b3d815105/acdcserver-2.1.6.1.tar.gz#sha256=d6a6801f38614013b66466e6fc4214d2e4c41b478f9ef2f37b3a3c8dcde3af43" >acdcserver-2.1.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/3c/4936c212323ffc35faf3949f42eec8cdfba506d846fc50643964b35e9be7/acdcserver-2.1.6.2.tar.gz#sha256=da4de6739ca0e1141bc02aa5abb5ea5e3ff78a77633c0e975303d8b07fc38d19" >acdcserver-2.1.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/a5/6ff2466f956bb1b2137bfb1c1e5bbea016706ca4eb41b12ee488b22b42c2/acdcserver-2.1.6.3.tar.gz#sha256=f6a732538851b0042e49487a43be5b2cf8b6037d1fa9e6eaa5787c8420d0bde5" >acdcserver-2.1.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/43/3e92eff5edbaeebcc6ecc6c1833440e91260fb00771b08b18ce72b843a2c/acdcserver-2.1.7rc1.tar.gz#sha256=7ea91afaacad6832dd86685b4343105e77fce749d7663250470127d77e227ae3" >acdcserver-2.1.7rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/73/4dae74a20e8ffee88080c83932af1210cc30cd01f4ef01df07c171796373/acdcserver-2.1.7rc2.tar.gz#sha256=23065809f4f3dae4ab7af97b4693aae56782aabcbdb8c52805ea42f53bda2c47" >acdcserver-2.1.7rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/1e/357a1e26d25a85288410b24a67a20a5aa703143525f25049b606a6e29c49/acdcserver-2.1.7rc3.tar.gz#sha256=2b6643f6ec41282908187a5e0f72cd1e9001507f304b95c8f4f56e890b7c2ab5" >acdcserver-2.1.7rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/e4/c4fc97d08c583b7014a4ee7d917e911657a1e7980954b30fd256613d847e/acdcserver-2.1.7rc4.tar.gz#sha256=d4173c6dc9c90d821410f9c9d5ec536fbdd7d2d4082b3d64e0a6fec7f5cb331f" >acdcserver-2.1.7rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/31/229041d35df7f4274b22c04d5de2cbf7ed524c6443f6d02eb4f8c212105a/acdcserver-2.1.7rc5.tar.gz#sha256=491e0da33748e96678d263c09e2f6e0d59bbe9f1db7f276f16a45138af2025c5" >acdcserver-2.1.7rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/30/548d02e7f0495c32a27eb49b7a9982c9f0502f89683d96bae7dbfda01812/acdcserver-2.1.7rc6.tar.gz#sha256=115917a58dc6a19f4cc51427f39b2204ddd01c8674e459d37cb7e6042498369a" >acdcserver-2.1.7rc6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/43/33b384316e111e76339906e20630b4d7494d99535a288741c3e572319cf2/acdcserver-2.1.7rc7.tar.gz#sha256=96a0fefc0018f54858fb0c3bc565ec1b31e07d7a6aa68f08a6439a8869b7df43" >acdcserver-2.1.7rc7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/fa/dd2f80a3a57932081bdb505b624c1d953ec97171cdf7d0280349639b8f61/acdcserver-2.1.7.tar.gz#sha256=0807b8b963a5d339004a0567ceb5a2b93ff89dd10534908aa0ca539eb2b6828e" >acdcserver-2.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/23/dd8cbb0f8967fe69702f41c9f9b9b63faac01b4fba1caecad36fcb792485/acdcserver-2.1.8rc1.tar.gz#sha256=d2080ca0b56b03d6ecc5b777e74d91fb71bf7ac8881ffcce531a6b958a3786c8" >acdcserver-2.1.8rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16391331-->
+<!--SERIAL 17072625-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jamexp</title>
   </head>
   <body>
@@ -42,8 +42,24 @@
     <a href="https://files.pythonhosted.org/packages/10/b1/f15383a6c20b874fd0fc324cb4a2545c9d3e49ab4d8e6daf69639a794dad/jamexp-0.0.16.tar.gz#sha256=38e49ee026f2a587cba97e1f323fc5ed5dd2417101bb592100dd77818484f10c" data-requires-python="&gt;=3.7,&lt;3.10" >jamexp-0.0.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/34/ca/c1ca67e7d6b8ffe656823bdc43cd1e7ae1135bd76d626383a852d9e8df01/jamexp-0.0.17-py3-none-any.whl#sha256=9ad8814eb70e7bafaf6f02224752d29bd6bf8c4aa1ab839e16dd4a71e38d0f11" data-requires-python="&gt;=3.7,&lt;3.10" >jamexp-0.0.17-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/20/daec2c326edba21e2e72ca0f905665da517ad826cb9d692efe312d67641f/jamexp-0.0.17.tar.gz#sha256=5a0eee1254442d88071108617049d5a8725d9624b73cd87326a800386be7b959" data-requires-python="&gt;=3.7,&lt;3.10" >jamexp-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/39/20f881a220bc31d01f697da4cce1d5f7644b5f4def33dcc788a32865453f/jamexp-0.0.18-py3-none-any.whl#sha256=f3ed43068e4c419c49dced7229b754e7dd57eb65bbbb9649b243b85e1ca51e34" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/6b/2bb7b67955d8f7f010de6487e4334f9420a82bc0b7b9cfefbe1d1bbd0a24/jamexp-0.0.18.tar.gz#sha256=e4d78d44e8a2fb70733f64843238112946feb2572066e6f54d5e9b2333bb6b36" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/d4/12b8e245ce328ee1e9c5f22af2416cb9c29c2da531afecf19cec0f2ac0ed/jamexp-0.0.19-py3-none-any.whl#sha256=05cca194614f809d3f4df75caf8d65cf37b1cba237845b364f1c24eeca58955a" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/f4/0051abccaa0ddf77f5ae30076b5ce256282aead616479c8d6109a11027c8/jamexp-0.0.19.tar.gz#sha256=a287cef31c60b699425727eba6c574d11299d80653d5b129e7c9e33ba5de2826" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.0.19.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/5c/e0b759b50089ed7057a5724bbfc4dc34006e829327e0d49877d820c246db/jamexp-0.1.0-py3-none-any.whl#sha256=f1fa0d314e796fc5aa9dfe8084b5520df573646d681f702fa11deb46adec3f19" data-requires-python="&gt;=3.7,&lt;3.11" >jamexp-0.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/eb/28/f21d333a5fdc3bfb73f0c94a46576bf672164d889f577a97ce592fd9dd66/jamexp-0.1.0.tar.gz#sha256=7c1adec5d176647adf36cf8cde6a7040d4f68eaaab0a9c174e9cac41035a0ebf" data-requires-python="&gt;=3.7,&lt;3.11" >jamexp-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/f4/3f05f93fe3ac908782001c4f7778913564d0c25302abf38b3304b1fe30fa/jamexp-0.1.1-py3-none-any.whl#sha256=fa7ee35a31d9643afe8672c9201e03c4b974bfcc954321527e82e14ff58ee190" data-requires-python="&gt;=3.7,&lt;3.11" >jamexp-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/f4/75bd92bdd7e54b219a16b0e390fc5f386073a67d6364a5d0fcacc618dd33/jamexp-0.1.1.tar.gz#sha256=5ff2443534ac8685ddd82d8701692a81fff53a1607af1fc00ec1eccc137aa3f2" data-requires-python="&gt;=3.7,&lt;3.11" >jamexp-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/40/b0cd59fd303c5e4ba38410d1a97d4136495de79c18b58905c0d1fc24dd11/jamexp-0.1.2-py3-none-any.whl#sha256=67c2d3f02e36970bf9ec932640b5cf037945c333ee0ff184ebba23227d44429a" data-requires-python="&gt;=3.7,&lt;3.11" >jamexp-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/3b/6b10e68efd5edce7aa2b97c6c2bb162b0e86dafbeaf05687e7c988e9e811/jamexp-0.1.2.tar.gz#sha256=2bfda32a40acc2f24944078e7d5f70db6440d086444332ff7d52721fe21729b4" data-requires-python="&gt;=3.7,&lt;3.11" >jamexp-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/00/0010cff4629b16feedfe66c93899a4d836f5405f61a6b31ef8d6deec87e8/jamexp-0.1.3-py3-none-any.whl#sha256=b9238a84460e2a34fa3a20fe6fba693c1bf4591e8bfc55d76122c70d0d7e2753" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/06/457e58c2c4ed4bbe2aa080ddff4f44dcb19ca4a6545122045c41368e2b22/jamexp-0.1.3.tar.gz#sha256=d95312da433efe19620feafb9f3ffda47cc0c53382cf9811be52591f27252b67" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/1d/9b18c766a3d5445a6de4b1750a0d09516bedcd8bad3a933bf02d3356244e/jamexp-0.1.4-py3-none-any.whl#sha256=5223c7eea1fdf9c9684abbdaba296dafad81284822d219edff5e42ffdd63a3a3" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/a1/c10ef2c8545729dbac96ee558aff3e95554870ffc585fa4cb68c4fd397d6/jamexp-0.1.4.tar.gz#sha256=fe4035a2471ba5bac48a3072a484bfd42e564d1a8a38ef21d5ad3f89f4ccfba7" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/4b/5fc5663d6033391365e0213e7785d080ab3f634afb833f7c59d4f0507617/jamexp-0.1.5-py3-none-any.whl#sha256=55ba761f2ecde2308648ec9945df7dbe9a2a8e8b8d9c15afefdb34e221eb9b2d" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/2f/3a44bcf7d839ec6d49b0d63b4edad465ce7149e66f1e08e0834cb43a5327/jamexp-0.1.5.tar.gz#sha256=41f27d31303a1c0769fbae0fd63f6afa5ada5ee53411626426f1754243b9df49" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/55/80976e8a3bbb66bb892b2d68089c75ed904421d886472f8ab159ab39a607/jamexp-0.1.6-py3-none-any.whl#sha256=b3d321f2ce70512fb1dcced585fdc267877149ef4153c85fe3db556de42ba3d8" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/04/05589de9ae2ce2d21f49583c21e09b32e04b79dea8a70b809b932a232de4/jamexp-0.1.6.tar.gz#sha256=1d38c6cf692d2da4a0573d0fffbb88d95b1a799f45e9eb8df9d54709e8b8725b" data-requires-python="&gt;=3.8,&lt;3.11" >jamexp-0.1.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16385263-->
+<!--SERIAL 16925138-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lightning-app</title>
   </head>
   <body>
@@ -64,6 +64,18 @@
     <a href="https://files.pythonhosted.org/packages/0f/5a/910c1c3b3bb9f8d52c2b47306256edf2b8a88a2bed5e3dd5614e87ce9376/lightning_app-1.8.6-py3-none-any.whl#sha256=4349e043745a8ae820f770e59a36826994b33b21b4bb2a728593a3e1f13cc021" data-requires-python="&gt;=3.7" >lightning_app-1.8.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/8d/679d292cdc9083c6c53d3ac3219e56b5b93a4787ff4a1218f8e9a93ff826/lightning-app-1.9.0rc0.tar.gz#sha256=f927b4018768aec9c0880a6fdd6fb770dccacae12797a72aeb2509356a7f806b" data-requires-python="&gt;=3.7" >lightning-app-1.9.0rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/f1/c8b3cecaf55a2f67f791db00e46858d168bf419f8f04c31f57955b781ba6/lightning_app-1.9.0rc0-py3-none-any.whl#sha256=bdcda5fb092ea72c5bfccfc84f6dbc9d9d6c21c28eceee7410740015026015bd" data-requires-python="&gt;=3.7" >lightning_app-1.9.0rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/b2/46ba85b095f289cd90d86527f6d451ef0f8dee7c6f767105a118f42aed67/lightning-app-1.9.0.tar.gz#sha256=a388f844c71a260fede366d86b343e9934929051c3de354ed0460c1a503f6982" data-requires-python="&gt;=3.7" >lightning-app-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/63/54684a053e4fcd189b1eb512cbfa081eddc5e0ce54d42791a5e984a7430a/lightning_app-1.9.0-py3-none-any.whl#sha256=a4faf87c31c2debc1f57d62fddca51060e24390065714185e0f9947155666ba1" data-requires-python="&gt;=3.7" >lightning_app-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/34/2ef0187955fe2ad6c1676532852f240b9065a76296680e1b4b0b7079eb8f/lightning-app-1.9.1.tar.gz#sha256=5d483d0a180cf29441adcb16ab217b7eeee0ab477412f56f66fd28cf557699f1" data-requires-python="&gt;=3.7" >lightning-app-1.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/46/f093490a02a3cbe9716717b6b23bec31139838f6877cd08cf1e273911fee/lightning_app-1.9.1-py3-none-any.whl#sha256=035547ed90bee47dea67c9789386283380a74ef4c59ae723bab6cd5bab019d78" data-requires-python="&gt;=3.7" >lightning_app-1.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/b2/0dffc56cffbb5c322c01e23d408e80a612aa5e357fd4175847ac250989c6/lightning-app-1.9.2.tar.gz#sha256=22820d312446d8f0395c230dfe9848a07b3753ff4d9076b8e4e9e2c697ff85b1" data-requires-python="&gt;=3.7" >lightning-app-1.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/17/9476a1a4bf8d5efe8c6b45c9d3ea19b7fd3fe9f21c98ad8246fa5c267bcd/lightning_app-1.9.2-py3-none-any.whl#sha256=538cd1858e5fccd54846e81672ed39d2b3448259ef96fd54bb23bfe52061a7a3" data-requires-python="&gt;=3.7" >lightning_app-1.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/cc/3a3636d9b683c3ae8bef3ed69395c7ec8c30528018b7db14dc7c6c5d9deb/lightning-app-1.9.3.tar.gz#sha256=41407fc6bfb1f907e36f995d882fd39d343a01f4d11b7f93a3ac6ebab1de00de" data-requires-python="&gt;=3.7" >lightning-app-1.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/a4/e29ccaf9052e7742ad504d99f3aa6c5eb42fe6608514a2fc3f8be1413220/lightning_app-1.9.3-py3-none-any.whl#sha256=6b30833dd541cab8ec41a89269e6d5a0d4f748fb82b257692404ad866110a684" data-requires-python="&gt;=3.7" >lightning_app-1.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/45/666276467052c6ec8b2e4bd16c083aa2f1ec31555de30788d2fba096b3f1/lightning-app-1.9.4.tar.gz#sha256=a4a5da8652c95257da560a2b63755a6a44ed357be651e2c8d6087fb3cc80e22c" data-requires-python="&gt;=3.7" >lightning-app-1.9.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/50/4f274205ef21a954b804123c3470cf02ca8966e50a4212ccaac939704905/lightning_app-1.9.4-py3-none-any.whl#sha256=6db50893e514bc56c425800dfd297f62c6f7fa46f2dcb47fd1cae5725230b4f3" data-requires-python="&gt;=3.7" >lightning_app-1.9.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/51/0567367726b84db4e5a7e8b443f9ac10be79e0ca2a622125b419078c8064/lightning-app-2.0.0rc0.tar.gz#sha256=b88e85ac9e31050f6b4224846216b70acb13dc263d3e9d4d918cffd7991bb23a" data-requires-python="&gt;=3.8" >lightning-app-2.0.0rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/9a/88ccb44ce5ca5d2c4ee97c6717f8f7a69e23985ab7d67fea1cc4eb50dbc5/lightning_app-2.0.0rc0-py3-none-any.whl#sha256=1ff9c24d706c3addff5a06cf274b13e017e5447ee960c22b93622ad82f8b39d7" data-requires-python="&gt;=3.8" >lightning_app-2.0.0rc0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16330878-->
+<!--SERIAL 17128847-->

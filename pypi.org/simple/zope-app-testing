@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-app-testing</title>
   </head>
   <body>
@@ -38,6 +38,8 @@
     <a href="https://files.pythonhosted.org/packages/b7/72/f62c1c79d691260235f1ebe48f954d2fdffc253bcb14623550e242a366dd/zope.app.testing-3.10.0.tar.gz#sha256=e49d86a33147ea0d2bd9602f40ee07dffb3deb8329913c9307bdf50f693b5fe9" >zope.app.testing-3.10.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/54/a7/ab178fd3ffe001a633fc33f472f757deb3ae6885fb7d4423f62a39a172fc/zope.app.testing-4.0.0-py2.py3-none-any.whl#sha256=22c21919e216a9a47da860e9af6eeae76a5c77953efda81bb8a2f5543b6c0208" >zope.app.testing-4.0.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/50/a8/cbb1a15f27f4131d1b712e59a33c515f531e5f344a92c5c047dae540798b/zope.app.testing-4.0.0.tar.gz#sha256=fbdbcf93b75a8daaff9eaff1f0423d68cdcb740c4534bfa0083c1466d86b56a4" >zope.app.testing-4.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/40/50c9a85cafcf84fe52ee496725a2cf22a1abf607f1cbde9784721c976726/zope.app.testing-5.0-py3-none-any.whl#sha256=8fe6d4c863a4306512a3b2516143cc40214c7401126b7a6bc47a196aef0161a8" data-requires-python="&gt;=3.7" >zope.app.testing-5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/bc/8fb92c10ee5108ee1ae82de9f5a51559c33b2b0711f2e26d4cb234d48745/zope.app.testing-5.0.tar.gz#sha256=09ae370fef42409b685d4a3915b3770fb65ccee8469bd47666c68311a48ecef9" data-requires-python="&gt;=3.7" >zope.app.testing-5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 4410598-->
+<!--SERIAL 16786312-->

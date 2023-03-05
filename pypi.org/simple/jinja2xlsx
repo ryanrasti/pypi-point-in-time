@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jinja2xlsx</title>
   </head>
   <body>
@@ -24,6 +24,16 @@
     <a href="https://files.pythonhosted.org/packages/21/e6/90cdd0a2d53dc809c3d7537a3c073fb52132776dbc19ec9e470503f279cb/jinja2xlsx-0.4.0.tar.gz#sha256=52b264f57beea513cb557211074a44e02b8eeb52402a9639be9a8be0a8558a95" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-0.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/0b/8f531df5e3d999c6649e76a1497d5dd41ab80e73988c78f449399dfa503d/jinja2xlsx-0.5.0-py3-none-any.whl#sha256=cd7e0b4a5f6300289bde401e07698c36c472251e9ce43dd1c6846dc125cb9915" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-0.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/b8/83d48c842d248c465f4f0db211a3b200454eb5873696e00b02303a000df3/jinja2xlsx-0.5.0.tar.gz#sha256=b3b91d5740530c502f8c31304aee7260f628fba7de0847160f69c6567117cdb1" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/78/6ad02c65c36fb9d36a38282dfa1aa82d8ce5bd027e828f54d6b2b1502c71/jinja2xlsx-1.0.0-py3-none-any.whl#sha256=cda75720f838f161ddbb26bf8e69c9f98bf653fe46bd0b9141ef7f3c4b997513" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/4c/8525d6e79580e7976e2b7b64fa6988f67c2d780126f6595f79a50104f8d0/jinja2xlsx-1.0.0.tar.gz#sha256=d1798a8cceb79a561bee032fd7c458b5f0ac8564f5d281f987ab50bd0d04178d" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/40/12826290baa1ced0cbb6224c8bc96eff35e3bd884ff92807b214bcb109c2/jinja2xlsx-1.1.0-py3-none-any.whl#sha256=6b74cf05819451949d7b5ee5b571acc5427fbebb0d76b747c29eff32485481a0" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/1d/b18dfec52c7fb6e74da0dda929af3de5cf674e3f48b9b017f025617f912e/jinja2xlsx-1.1.0.tar.gz#sha256=ff930337941fedccb01270cfa3cbe9d7e03d684cf16971c58f3444addb2135a4" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/8f/206cc41f82e68af35a972a9f73a59f2c29a791036c38ca1542c35065a325/jinja2xlsx-1.1.1-py3-none-any.whl#sha256=244f56b9a85a9fc621c6235eeaf37ae149edd997bd9561db40e0cb77b98b3d95" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/39/0a48deee5d534b7a633a7bdec0f37a4774c7d6f3d673d9204f8f16239bc5/jinja2xlsx-1.1.1.tar.gz#sha256=419d0cf6a51d0603a20906a3d0f93c7793b4ec9dfd2295f08aa99141f412fc31" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/63/ac2faf9a63c6dfcffc0ebcf790206538ff07168321af83f59a9fe63cdb33/jinja2xlsx-1.1.2-py3-none-any.whl#sha256=f8652617a5781f2ef1c8791f86d8797cf05197b6453b118b73ebcf0494c92b9c" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/6f/e20a0177cf7396dad49ca5f59233e21c0658ffd01467847412ad955021dd/jinja2xlsx-1.1.2.tar.gz#sha256=86aa0804142f6ac5447566500341c5da5ba02fcdb4900900dea574f71cb24804" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/32/3fe194c8e3941b97757ee7a87832f584e0a1b9923776ca5faa70c0607aa9/jinja2xlsx-1.2.0-py3-none-any.whl#sha256=87826a863febc53c76d1090acbefe94be36bfafea6d29e0b1a49f470f9281614" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/51/ecd350bde40021eee6b3bcae2785a9bcce1636ccacfebdab019895929240/jinja2xlsx-1.2.0.tar.gz#sha256=3604d69d02a9a57625c135293fb68bf22a3089f734d59f7bc41e4fe77854d61e" data-requires-python="&gt;=3.7,&lt;4.0" >jinja2xlsx-1.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 7779071-->
+<!--SERIAL 16562420-->

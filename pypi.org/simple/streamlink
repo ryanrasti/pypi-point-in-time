@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for streamlink</title>
   </head>
   <body>
@@ -163,6 +163,18 @@
     <a href="https://files.pythonhosted.org/packages/a0/03/0e74471d784bee5848effe9e5696110ecff7062943fa7194478a07f5aec0/streamlink-5.1.2-py3-none-win32.whl#sha256=2ebd752a0196292a8c41388849ddad1d8bc2181da0074696bacee8240b27268d" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.1.2-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/1b/d36c81a2a8ed52ac7aa22201f84502b89dcb2d43e8a975f73bc2e3fcac41/streamlink-5.1.2-py3-none-win_amd64.whl#sha256=1aa7f6f044fe5dd854e75934ac680e604c4c9ed70dfe54dea24107e237353f55" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.1.2-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/1d/c3d998c9e9fb85395eef7fc1f340f6759c7396e8f5eb3f3daba5ceb93642/streamlink-5.1.2.tar.gz#sha256=501f604d3dbfad05d5d50ed4432c041e51810890cc0e65eea43f27608238767a" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/f5/2d55c45f1196743aea719d0fd7e6dc95fddd6e92bf199fd243276f26859b/streamlink-5.2.1-py3-none-any.whl#sha256=d2d7591e6cbdeea4beb54de46ca37b50b676031b374d207f13d7cf88c0799978" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/8a/477b606c8e9ba1a7dc65196a320eaa8da296977fd5d7acc7b8672aaa6e6d/streamlink-5.2.1-py3-none-win32.whl#sha256=0a16c29e2087ce4ec9e40b0d48d992049c2fc23cd4d104aa6bf1b6e65c0ea51a" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.2.1-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/62/16da131f3a5b57d5dcc367bd3d58dd00d17fad6b8ea933926f1202098024/streamlink-5.2.1-py3-none-win_amd64.whl#sha256=4da5c9f6d28add695a43bdc033171b866b1985681a220091d958b7a7d8941bfe" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.2.1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/0c/b8c90cda86583a141dcc584eb32838ed312fb8cd9d5aab20faaa7f49d5fb/streamlink-5.2.1.tar.gz#sha256=fd87051f9b7dc7d12c98aee83ef4840a684bdb2a476203efb0c74bd48ba911fc" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/32/dfaf4ed9ccf42a5ce272ebc55b39edb3796c8acf405c73c62ff1afdc8b37/streamlink-5.3.0-py3-none-any.whl#sha256=73e5f2380abebacb23aa5958d9a3c6e9396362d561858dcf5cfb90523ff49b6e" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/65/d8f967d430906cc54e477af4d8691d928625ad7b8b2dc93a5589da91a651/streamlink-5.3.0-py3-none-win32.whl#sha256=acee3ba67b0538413644c703f8e97acff0ed441bdf1e3f881b74faf9c4d71fd1" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.0-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/52/7fbccb7bd5146d63e82097383ad93320c1a6b8d9267c5ac9d83d36aacac4/streamlink-5.3.0-py3-none-win_amd64.whl#sha256=a755ec5a38d9bbd49aa1ef29f6634d57eb09f01f3adfde17dd5780aaafe43f08" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/a0/e2640220ba46c70f1ffe7704f97f5fd0c66df196899c95567dcd4fe9f057/streamlink-5.3.0.tar.gz#sha256=fbd3124b33d867c83039e40b7a1478d529257dd7149fc3dae9323ffe587db701" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/df/2794afa5623448b9357a5fc1e07dc7e8d7999529671d6b5d26afe1810d66/streamlink-5.3.1-py3-none-any.whl#sha256=3d44ecaeb2c77792d2a22c908ccaecdd7bc411220d90e57fd38ee1ee48277c15" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/4d/b2f99e2dea017951c4ba7ec4f91a5463c521f881747385720ecaa48205d9/streamlink-5.3.1-py3-none-win32.whl#sha256=b8fd1b96e9a1397790f93f468bf4e157a5fe2012f52b64d110fc66a39eb44273" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.1-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/57/b2515af0fd98b38eaa0e897446b9968eb89c634d9af86e4813790f4e4268/streamlink-5.3.1-py3-none-win_amd64.whl#sha256=ca5901549d487547c514df77220db789a5ebeb45ff5b1356a79a95cf26550f8a" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/e2/a30254048c9be8667ff647d6c79f1aae3fc20fc9cfcfbced15b1256a6d55/streamlink-5.3.1.tar.gz#sha256=886b63a6cb3e5c6597e8c4162546124ee3c9baefce85ddd5c053177ffdd5d4e5" data-requires-python="&lt;4,&gt;=3.7" >streamlink-5.3.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16349299-->
+<!--SERIAL 17021168-->

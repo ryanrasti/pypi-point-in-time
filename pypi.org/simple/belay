@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for belay</title>
   </head>
   <body>
@@ -60,6 +60,22 @@
     <a href="https://files.pythonhosted.org/packages/1e/d9/02ad1cbc65a7c09437e6a90f8da7e4f4d1bb45ac5afeedba275bd2c77603/belay-0.15.2.tar.gz#sha256=eb54529af452073095cffddc1653fdc918a18563a3f4cb931c82cbc6f210458a" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.15.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4a/ea/a8a179f1cba6ae0f5a0e107ec6fd6fc32951a7d2f74be3d073bdffce8ff6/belay-0.16.0-py3-none-any.whl#sha256=8c4f51516be6a3ba60928e829fd0f37618d3a6153525526ba38cec7c7b3d1282" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.16.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/17/f6/a9e7d55a7e1ec4cb7511231254d9c96aeb376c510e20918d3870d0c7b794/belay-0.16.0.tar.gz#sha256=7953d02a7e1cad9fd5879babde2de618f510d3d7ce47adb1c8251235c86fe1b0" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/6a/c6823be7bb9727228d4abc69dbd6efa5328144e330eca515c963113df318/belay-0.16.1-py3-none-any.whl#sha256=5f0876288657651c1e4c7f0225c1bc52c740400d94afde1f2d05a9713f6f9d97" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/33/38dea0985547baf780d1763d624c01626336932d08a9fa068b27372cfd86/belay-0.16.1.tar.gz#sha256=d4444cbaaa8d714a0117c342ba7e68dbfc5e36d46f34b2f5bbab5c096443312d" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/fc/05aab1e2b7983e125dae34c514e7bf2012c31cdeea3d790103f3ed39e86a/belay-0.16.2-py3-none-any.whl#sha256=de994b82809a79e42b6792fe586adc9d58155b662808344d31967b187b343ee1" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/23/7116e5166b9de0617957b72f747e50a12b0caf5c2947b25fee496cd1377f/belay-0.16.2.tar.gz#sha256=31b21111d3250ef20be2c6286b5d44c35ad89dc01f4e76f6dd89a5d77ef039c4" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/93/9e19e99f73cf6f746ea10902382eee415f3b2ee8ca9348b1d31d5592668b/belay-0.17.0-py3-none-any.whl#sha256=65927a19de3717635f9487c03154bd91f37157e8d4e7e6f64eb2f5631fc6d832" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.17.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/10/d63510f909a15a8e91486168365b8465409e3346d14eca8fa023abaa6977/belay-0.17.0.tar.gz#sha256=fe087ef59fb32d8d8a88b9fabd10a8a3d581ab9a53c6f468bd1cd5b46e788eb1" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/a6/6adafce2688fb07489867ce3a944cf3455b6aa21dda97ff09a94f69ff501/belay-0.18.0-py3-none-any.whl#sha256=552cca2ffa57af54eba6a4a532e472b43cdf2a7ed67f384bf140173c8aa53353" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/0d/d621d1b6f94315f88f63a565564de410d90dcafcc4aa3933b7001db66ded/belay-0.18.0.tar.gz#sha256=32c39bde081047b74246fed4776919958311278bab9a8e22b2b7ffb360711418" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/75/01938ae71b620b425869ecad11d49e3ffa4304c66ead2c5cc0ba24e4ab25/belay-0.18.1-py3-none-any.whl#sha256=4003c69d222728b8e73f6b7f7526f4f63d23871b0657f080b444461f358dea8f" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/a9/f497f7a32c75491f95eaf330d8e8533f82f32d572456fced002d40d14d8f/belay-0.18.1.tar.gz#sha256=20ce070dbf7d5db77c26593a97ab57535cc82e5e9b84d7b00afb811f8f8261ce" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/13/3d5c099620a2c99d40180a0633bd8e57c1d3dc9a7c98c054128ec37575d5/belay-0.18.2-py3-none-any.whl#sha256=ef195f95493a858def4bb9316ec86ec98cb722bf2f031bbc1add5812c9935697" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/77/6f1c7d88106ea295450a0a6ba37ab1bc94fdfe6846184daa1672d65d18c4/belay-0.18.2.tar.gz#sha256=47addbeba5d6c6277b7397bff6b5c80bc3ff2a110416ec892a521239817e4114" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/95/dd46154f4fb8b796991c1862e938ca8316ea47d8c25bd7f6dcb200f80b1b/belay-0.18.3-py3-none-any.whl#sha256=1cc442901ab781a15b729628bcc3153834fdcc4a2dd7017e816701be7ec17ec6" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/5b/a5be38fa4ed3f9387aeb64c2104e0cc316ee95c5974f93c843a530b8f6e6/belay-0.18.3.tar.gz#sha256=e2c9edaedddb225a0d6ec66ba1a0f0935ed8d3b6a1d6517f8f53f25fadcab6d1" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/7a/7123963d99f16705050b2e932ca6d1f86caf5a58220f8348381e01decba5/belay-0.18.4-py3-none-any.whl#sha256=e1dfbcf2f30945ec50557e468b6e97ac963ad5ab06e1dfb73cd887f7d0fb0cac" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/2f/be997daa76f58219861887e066f5567b644f7e935df3efa66a37464bb779/belay-0.18.4.tar.gz#sha256=4c2f17a1b3e31e2e3a3731afa69d6285435fd34fefe528f42f45acba4cc57266" data-requires-python="&gt;=3.8,&lt;4.0" >belay-0.18.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16145665-->
+<!--SERIAL 16916310-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for translate-shell</title>
   </head>
   <body>
@@ -24,6 +24,20 @@
     <a href="https://files.pythonhosted.org/packages/75/b3/ccda60dbf7c1e07b42e3245797f504ca3216dbfba2818d29815dc6a29202/translate_shell-0.0.8-py3-none-any.whl#sha256=39ecc619baff7ecf2f49675b58ee197312d70f8103533556817f5763f9c8a047" data-requires-python="&gt;=3.9" >translate_shell-0.0.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/10/53/d1b2622fd5860f8b6f36dbdd934c30d2e357cd577f74de20d18e020079f4/translate-shell-0.0.9.tar.gz#sha256=5af326c155581f949eff76bf1b8ca6e4d881bf08268612bcf694062656c11bb5" data-requires-python="&gt;=3.9" >translate-shell-0.0.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/98/35/b13c5dbcc2776056ed99f064c95ac304954372486aefab2f4114b4e1a0d4/translate_shell-0.0.9-py3-none-any.whl#sha256=4d946638e6393d820413b40ee5c996fa24189ad9dd711b188cb12fea932592d7" data-requires-python="&gt;=3.9" >translate_shell-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/4d/c17748900c7a69ad3452357b4602871d811dd4ec0dcfa3664493cd032a5a/translate-shell-0.0.10.tar.gz#sha256=5e93c4a5a90175b64aa4dc8b04f91813c3d38d7c9db05c39b1872dd4e27e1861" data-requires-python="&gt;=3.7" >translate-shell-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/63/40f428690c406f34e8a1f9239556f845e6053ec9b346929751a3b29f572c/translate_shell-0.0.10-py3-none-any.whl#sha256=7e02adba59eca7b185eaf8de295f616158bb16ee04403256df25b5562abbfbcb" data-requires-python="&gt;=3.7" >translate_shell-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/29/96fdf82bd9db6eb4e291198d7fb6c76b975de66cc294336e7c35c8489777/translate-shell-0.0.11.tar.gz#sha256=cb779606ca2e83079df782d9bd3e9c0017cfd166a24ebb858ad8fc57c0f8dca0" data-requires-python="&gt;=3.7" >translate-shell-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/2a/0c325edbe7d76a63cd1ecc1d4adec6609ad39217d8d56ef5538e3a016c99/translate_shell-0.0.11-py3-none-any.whl#sha256=8b075c4e4523e6044754337f76f64ba61c7db7c589ed0612f190fd1ebf9b20ae" data-requires-python="&gt;=3.7" >translate_shell-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/c4/b54ec4ca36f185e35d4d5664f51276ff5f89a9bb9e9c08f160ed4f30df24/translate-shell-0.0.12.tar.gz#sha256=2416b90ca40af031fb2bc7d3da1db492a59654b3038b338c8587488a64aa45fe" data-requires-python="&gt;=3.7" >translate-shell-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/77/1e0d310b9af73dd452d938e161482a121023983dc9e81ff959c67773c4e0/translate_shell-0.0.12-py3-none-any.whl#sha256=255ff394a3403878c2e6734cae554c0c2c04bd3724b4009b8d829f2491eae765" data-requires-python="&gt;=3.7" >translate_shell-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/63/690b4123e8549ae6e1f2d4160ebf4bbe26c79a4992c5065333e61337fb67/translate-shell-0.0.13.tar.gz#sha256=87f4a5ab9c8b687d0d7fac533962db62b83e47cfd4257c36511aeeaa9addd67f" data-requires-python="&gt;=3.7" >translate-shell-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/da/7035ceb17f0aacc703ced9148ae01bf62366e54bd323c7bc9e5d0e1a50ec/translate_shell-0.0.13-py3-none-any.whl#sha256=04b2f9c6c745b20d01fed4a314d0d7f0df431b74781dfc518f85ebea2bd7cf6b" data-requires-python="&gt;=3.7" >translate_shell-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/8d/30f08f872a38eff0db80107cc4d2443cf63c8cb7dec29cef6ada3c657fc2/translate-shell-0.0.14.tar.gz#sha256=e7b22afc8320464c96dc30183219a8fb14e7837090754c620a136c1940c7192e" data-requires-python="&gt;=3.7" >translate-shell-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/21/dc60b24301a3f364f80068ab89035f01cae1888eb5500916bfc58c95734c/translate_shell-0.0.14-py3-none-any.whl#sha256=ff3759f9d3d411a301e57639fed0ebff60d2445dadbde9de7b633fb301613b9a" data-requires-python="&gt;=3.7" >translate_shell-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/4b/3e64b6482bee7458be7846a49dac26ba4a3752549da29fc2f7a53f1c3918/translate-shell-0.0.15.tar.gz#sha256=17d75b14f237524eab96e94347e17e18d6937ed6f81cc8fb30e37a849bba00da" data-requires-python="&gt;=3.7" >translate-shell-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/3c/c8cf0f34a7367ca4fee91278976c04210c5fecac97b8f3236bd849ec487f/translate_shell-0.0.15-py3-none-any.whl#sha256=38344091eee875749268e438c2f6d6e4a4e8a4ed94d08a418bd6b988a44bbd45" data-requires-python="&gt;=3.7" >translate_shell-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/48/78e02fd314a08f1ccb3a0ff28f535b3ae42cc022b9bfa83c827b685d92d4/translate-shell-0.0.16.tar.gz#sha256=0b765e5d22df8d0fdc7e208f1862824bb8c3c0d1230a93c4faf4883eccfca2a8" data-requires-python="&gt;=3.7" >translate-shell-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/8d/055480035978a6e2a2a10ff90bd71298cc86d6718a7b74431fe5febb0c05/translate_shell-0.0.16-py3-none-any.whl#sha256=37cf83e35b5cc65c336c0af28f93667ba046a3adaa0b8392bb36882fd761d936" data-requires-python="&gt;=3.7" >translate_shell-0.0.16-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16355837-->
+<!--SERIAL 17158734-->

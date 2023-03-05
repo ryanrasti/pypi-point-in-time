@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for coalpy</title>
   </head>
   <body>
@@ -34,6 +34,8 @@
     <a href="https://files.pythonhosted.org/packages/1e/be/31bcb9d123788f829a419342f8ade418c118eb76dff667614fc4615c5ffb/coalpy-0.3.tar.gz#sha256=ac85d7495cc83548e65a9d2fbf371852414c92ba0ec762c2e8d2dab29673aa37" data-requires-python="==3.9" >coalpy-0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/98/00/b680ee3d7efd0fd0cde2b3098a21619ccb0464485503304b41fa061120b6/coalpy-0.31-py3-none-any.whl#sha256=10f225f9d1235764999e511c7f967dffdb9bc7256b04bf9d5c92cc576f43ecc0" data-requires-python="&gt;=3.9" >coalpy-0.31-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/1c/fc8d235c4753a3cec59ab2d820e4a12602226d7a7a2e8b80530997e67e80/coalpy-0.31.tar.gz#sha256=e49125a5d4015d46ada16b04e4d38783ac273751d0b2a0ae57778c3aa4821e9a" data-requires-python="&gt;=3.9" >coalpy-0.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/44/ae968837406a45e26383a8390c2cc60096fd7a886e1a0ecbe971532c6c1a/coalpy-0.40-py3-none-any.whl#sha256=bc7f65d4ae25dd857137980a5fd79e607d8005c69ef387f1cc8a253cdc3e131c" data-requires-python="&gt;=3.11.2" >coalpy-0.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/28/34fbfd8ce49af295e7e7701260991f1fc209a468e53c86f02dd4e93dc487/coalpy-0.40.tar.gz#sha256=4616da8591a2ccd2fb13944692e1a2a7a70e1266c7e6317a897858f9b9556022" data-requires-python="&gt;=3.11.2" >coalpy-0.40.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15545413-->
+<!--SERIAL 16754948-->

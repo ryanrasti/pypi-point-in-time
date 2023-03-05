@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rkvst-archivist</title>
   </head>
   <body>
     <h1>Links for rkvst-archivist</h1>
     <a href="https://files.pythonhosted.org/packages/13/60/39cfd07422e54fe2bea28f452ae5aa473756c98454d3bf38ecc8b494f4ec/rkvst-archivist-0.18.1.tar.gz#sha256=daac74aab6b2fa40247d4add27e6f9cdf0b38b41c0174b42450553c6ed1c7c34" data-requires-python="&gt;=3.7" >rkvst-archivist-0.18.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/74/47/19d7257aa3928566fc5c8a5c9851d41e1e14c445272a767e7b85b7cb9018/rkvst_archivist-0.18.1-py2.py3-none-any.whl#sha256=da2eb0b932c3183cbe9075f0b5797a09b23d6389619bc7d447195a1d4fa131f5" data-requires-python="&gt;=3.7" >rkvst_archivist-0.18.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/35/dc4269bbc7ea94e55649660cfc4350cac1012697ad70a1ee9d229afbeb3d/rkvst-archivist-0.19.0.tar.gz#sha256=bed39fd2a7b7dcc6db03ac9d2d54404dbddef2f11513af46363686c07590ff2d" data-requires-python="&gt;=3.7" >rkvst-archivist-0.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/7c/46501b31747375d496836f63dda77b303e111256763f7e545e8bba714f58/rkvst_archivist-0.19.0-py2.py3-none-any.whl#sha256=595e165612f59af3411ec7efc425cc1c6a7be349d072e2f8a32aa5168a1df6a6" data-requires-python="&gt;=3.7" >rkvst_archivist-0.19.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/d5/e47d87ae2d5fc8a6db6a50f27e90eca63d690f38d4bba90978f20fc21674/rkvst-archivist-0.19.1.tar.gz#sha256=a4993aa6e18019acf707c9d1f760c51f366a1bfb77ac6fe8d1b9a72a0498ead8" data-requires-python="&gt;=3.7" >rkvst-archivist-0.19.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/37/9723dacf84e98947a9f4394ebf82671f363e114142ac238ca0980b18e5b5/rkvst_archivist-0.19.1-py2.py3-none-any.whl#sha256=2dc32d02bef9eb1da97137714f2cfaabf436990206719db283c7ecf9577d4f01" data-requires-python="&gt;=3.7" >rkvst_archivist-0.19.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/ce/97fe34a18ce4962c2a1b2d5ca031e37be07c52478eacbb28d1fd29ffcaca/rkvst-archivist-0.20.0.tar.gz#sha256=bd46b1eccf060167a7ebc04b649eb58a6816fcb5c5d83da8e18329451d38a432" data-requires-python="&gt;=3.7" >rkvst-archivist-0.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/66/b532f162c315326117ab41b71511e7db64ebd04c1133ad4ed2dd4ca01732/rkvst_archivist-0.20.0-py2.py3-none-any.whl#sha256=2803174bc748480d10b24be714d17f4b0fe7a05a010ac8f5c015e32a2de3d532" data-requires-python="&gt;=3.7" >rkvst_archivist-0.20.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/fa/4bdb476c150055d8bf29ab028bd5d5c25f3516b3ac14348e731ffe3fae54/rkvst-archivist-0.20.1.tar.gz#sha256=e4182081e92e0514e37aa949d48b5e989427003f80b6e2e215d53a76146d8b46" data-requires-python="&gt;=3.7" data-yanked="missing dependency" >rkvst-archivist-0.20.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/60/f6fe0319c30c919546e79aa50012e9c51474357495db21d19534c2d64e7c/rkvst_archivist-0.20.1-py2.py3-none-any.whl#sha256=1240a94f11c86f4d11340e450ddcdc5b5abfbcd1821f708b5df3858f070389b8" data-requires-python="&gt;=3.7" data-yanked="missing dependency" >rkvst_archivist-0.20.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/51/40c365d0502b4140c2af1740a64ff2149d47bdb58c38c0c691764090288c/rkvst-archivist-0.20.2.tar.gz#sha256=909990ce3e75024894a7598affeab2aea35c53c269f7161b6a2557ccffed4d5f" data-requires-python="&gt;=3.7" >rkvst-archivist-0.20.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/7e/623f02f4b098777a8dd2b1a385978eaa07c9b49ca17fab682f30db1b4e8a/rkvst_archivist-0.20.2-py2.py3-none-any.whl#sha256=5e158c46954bafaa247846b103aa88e122925c1fab28e98ece43e537ce04d621" data-requires-python="&gt;=3.7" >rkvst_archivist-0.20.2-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16160327-->
+<!--SERIAL 16874379-->

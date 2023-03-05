@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mypy-extensions</title>
   </head>
   <body>
@@ -16,6 +16,9 @@
     <a href="https://files.pythonhosted.org/packages/1e/2f/7bba47eb58f62a473387cd7658dedd0bedb4b0fa9d530bbbfa0a6d23034a/mypy_extensions-0.4.2.tar.gz#sha256=a161e3b917053de87dbe469987e173e49fb454eca10ef28b48b384538cc11458" >mypy_extensions-0.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/eb/975c7c080f3223a5cdaff09612f3a5221e4ba534f7039db34c35d95fa6a5/mypy_extensions-0.4.3-py2.py3-none-any.whl#sha256=090fedd75945a69ae91ce1303b5824f428daf5a028d2f6ab8a299250a846f15d" >mypy_extensions-0.4.3-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/60/0582ce2eaced55f65a4406fc97beba256de4b7a95a0034c6576458c6519f/mypy_extensions-0.4.3.tar.gz#sha256=2d82818f5bb3e369420cb3c4060a7970edba416647068eb4c5343488a6c604a8" >mypy_extensions-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/c6/7809c27b5c5dacb9f6537e9489d969b266f7091204c75a03048edcb4daf9/mypy_extensions-0.4.4.tar.gz#sha256=c8b707883a96efe9b4bb3aaf0dcc07e7e217d7d8368eec4db4049ee9e142f4fd" data-requires-python="&gt;=2.7" >mypy_extensions-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/e2/5d3f6ada4297caebe1a2add3b126fe800c96f56dbe5d1988a2cbe0b267aa/mypy_extensions-1.0.0-py3-none-any.whl#sha256=4392f6c0eb8a5668a69e23d168ffa70f0be9ccfd32b5cc2d26a34ae5b844552d" data-requires-python="&gt;=3.5" >mypy_extensions-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/a4/1ab47638b92648243faf97a5aeb6ea83059cc3624972ab6b8d2316078d3f/mypy_extensions-1.0.0.tar.gz#sha256=75dbf8955dc00442a438fc4d0666508a9a97b6bd41aa2f0ffe9d2f2725af0782" data-requires-python="&gt;=3.5" >mypy_extensions-1.0.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 5992708-->
+<!--SERIAL 16697020-->

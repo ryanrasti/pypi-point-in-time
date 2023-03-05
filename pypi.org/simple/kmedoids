@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kmedoids</title>
   </head>
   <body>
@@ -105,10 +105,13 @@
     <a href="https://files.pythonhosted.org/packages/c7/f0/3d764f0119a639896289d6f5651f638d542662d22dc2ea0e740da8de43c6/kmedoids-0.4.1-cp310-cp310-manylinux_2_28_aarch64.whl#sha256=fe63d0a26ed28612c357defb10269e8435556bf8bdbf723a761011e7f0a05a6f" >kmedoids-0.4.1-cp310-cp310-manylinux_2_28_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/8f/3ec1a3ba82d940500efc0630b1d8059b21641cfb3b095ebff525036054e7/kmedoids-0.4.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=f1c4fa371b7a2d68343f5f42fda85aff87fbce18bd6a48388bd5addd0331b0a4" >kmedoids-0.4.1-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/38/fc/a6ce58374fdb84ab2df6af9efbf60e723ce9d29e2f20e2c4e8b97044f9e3/kmedoids-0.4.1-cp310-none-win_amd64.whl#sha256=1eeaa1d1a77bc84533e2134b5d78e171df78341238190712935b7931ddc8bd97" >kmedoids-0.4.1-cp310-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/86/b26cad5edf588fdb036d86ead1e181fc365a26afef2ea7b874f498a38707/kmedoids-0.4.1-cp311-cp311-macosx_10_7_x86_64.whl#sha256=9a19adf6fb84fa01a4d12a431be238ad05456fd6f74e925c4b97348a967ddf5e" >kmedoids-0.4.1-cp311-cp311-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/31/1de9bf7d3777d023fe5d490452619cfa04823b70e710ed0fc7f7b9e0f347/kmedoids-0.4.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=a6ec525711e48e4603d6c96f64bd48842a6125bb0e37e67fbf000008a8baf9cb" >kmedoids-0.4.1-cp311-cp311-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2a/5f/9159ee7b4999ff78e003654363f237200e7b4354b266810294642e6af248/kmedoids-0.4.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=438cbe8b5199a11e5b0d3371c34102eceb2957b4f956441161b8a7c96e2a74f5" >kmedoids-0.4.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/10/f1/1ecd8b14f34b91f075a2fb3fc9e947e30f577698a296d614e982f934c5a7/kmedoids-0.4.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=77d123f7954dedac13c40db8c58fc65688cf7b950b0d99926bdd3a7f8d5db9b4" >kmedoids-0.4.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/f4/c1b5b952ad4fa43d459e3d9133c50871bcfc1b29be488dc1e340605800aa/kmedoids-0.4.1-cp311-cp311-manylinux_2_28_aarch64.whl#sha256=7ee7da64850c1a7131be92cf8df53f1dc24a9af8777caeba741099ee5534fe7b" >kmedoids-0.4.1-cp311-cp311-manylinux_2_28_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/41/60/118f0267f1f8d5eecb451c90e786bc16f4146ca3dbdb5425062a71a43ba8/kmedoids-0.4.1-cp311-cp311-manylinux_2_28_x86_64.whl#sha256=ff051f61c749f6bc6c8604341e6023aeb7ff675db3b07bc8713f53eda6880e0e" >kmedoids-0.4.1-cp311-cp311-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/3b/dd919e6f1ee65c03f6a9ed62ef92d828cbe00d7dffc04594c3ee50390dc4/kmedoids-0.4.1-cp311-none-win_amd64.whl#sha256=8460c9e142bd9db3f9105691849aa2e7be223c3488443cc212b67247f3ca4b37" >kmedoids-0.4.1-cp311-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/9c/17ce9bdd266b40f5f9816592bc4fad1fd925027207a663935658182975b5/kmedoids-0.4.1-cp38-cp38-macosx_10_7_x86_64.whl#sha256=ec67981c3ab7cc8ff4852852a8f2051d4f30728a2a9b79bf145111df31620d33" >kmedoids-0.4.1-cp38-cp38-macosx_10_7_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/bd/fde8a9c506b2887d3bb5fc1d5f14c04f27faf1d112a67f07ea7167cde148/kmedoids-0.4.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=484f653a5f0c55bceebdad374674b8ebbb3529f54c3192105671ef7460d620fa" >kmedoids-0.4.1-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/52/bf/c3c66d8fd813fd3df5f52d96faea3c1f8ba1001ee1596a74fa47ba0f06e6/kmedoids-0.4.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=f0c6a5eef8f33e1c6a63e0694f5644f7fea644051b9614ff161ff267061c461f" >kmedoids-0.4.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
@@ -125,4 +128,4 @@
     <a href="https://files.pythonhosted.org/packages/f5/e4/0a7f26f529790c8d036c95abe1be6b26b004e7c7fb0dfa1ea32f2ca706fe/kmedoids-0.4.1-cp39-none-win_amd64.whl#sha256=f7b733869608684c9f7d0caad1ca3beb2b7e76f0b581098698b87d0182305ffc" >kmedoids-0.4.1-cp39-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15422467-->
+<!--SERIAL 16530767-->

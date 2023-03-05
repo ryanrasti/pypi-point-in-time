@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for eyeflow-sdk</title>
   </head>
   <body>
@@ -146,6 +146,16 @@
     <a href="https://files.pythonhosted.org/packages/19/51/8560a221e9f09492262a5312710617f5ee2d4269766cae1ec9747baa1575/eyeflow_sdk-0.9.71.tar.gz#sha256=515f41386c70b78b989da2e6cb31d57e17c4d46438412f9a8b23acfe7bd3a51b" data-requires-python="&gt;=3.6" >eyeflow_sdk-0.9.71.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/26/7aedd8b54a9fccb050161fe8748e7d8336dea7b55da9b5a328f5311c64e7/eyeflow_sdk-1.0.0-py3-none-any.whl#sha256=2034627432dbf3a99aed5056f87bd87fcb3ce42354d71e8b1657852764e88855" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/e2/0a51785615681d11c9fb2aa09cf9962e02f3e696184ff3db28d8e9838f0e/eyeflow_sdk-1.0.0.tar.gz#sha256=4f8fb5ca95d13c67295db73016b841351a93f243f8693e2ad605a70e7ba7c768" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/97/44784e11e14bd4c760aa7c90299f6cd3706f4d03fa238be4e9d845017b91/eyeflow_sdk-1.1.0-py3-none-any.whl#sha256=c1166e8a34cffb7dd81469f4e199222b112c75c792c3b44627b654ece9a7dd11" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/1c/47cc4a3cb2b9683899bf4c60d2d54f22d990b6f246abec604fb7b12b6437/eyeflow_sdk-1.1.0.tar.gz#sha256=df0cbc6fd3c8ddfee6d71d31719d6468de884554b2724ef98487a1366f32c44f" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/4d/e8794890fb7752ad9fcf75e1165a9b2c93e175f1f0dc582afd85fbb26324/eyeflow_sdk-1.1.1-py3-none-any.whl#sha256=b72f19c1c9b1d061345ef0d23d0b50ed62f23d1666b69d3a36a91ac8c62ea25d" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/07/28260586baa93a3f89175b633e2fbe50f378c31712f649e7769fd31fb377/eyeflow_sdk-1.1.1.tar.gz#sha256=da94a0ceb03f5904b7b301198d1bcb419afa3d787bca378943ae2a3a6c9f049a" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/8c/9dba1b4029af9b09c3d14abdd451778f72fd2b110d112266bdb530edd50a/eyeflow_sdk-1.1.2-py3-none-any.whl#sha256=6a1164258cceb0bdb6d79cff6f9fe4f14bdd6f1381128d8658b47d5e1c57f464" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/cf/b95e352065e2960bef76b55ab96e8e9dc2133cf426ee54465644938cbfa7/eyeflow_sdk-1.1.2.tar.gz#sha256=40b4cb989332e6c93b883fba451d7eaadad38a205d9beb2f31b6f5d13020d3e0" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/7b/245f38ddf7e7d6602341509cf1b98b326af01398120952f0ae87d3c4f6c2/eyeflow_sdk-1.1.3-py3-none-any.whl#sha256=2d035fdb157a593339b8996f0cf1e223122f11db1ba83e368462246d91fdc95d" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/4c/9f986b4a1fd43c3a65b447cfa9658589c79b70e30dfe7c1be8f218ca01d6/eyeflow_sdk-1.1.3.tar.gz#sha256=621bdf4a1ca05043795eb196b56b658bf2ec94489ce83b16b402604b810e859e" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/ce/5f3f68ed15751f6a719a792b5495f878fa9e3da79a93c950cac884c33c31/eyeflow_sdk-1.1.4-py3-none-any.whl#sha256=016e7dd72e4fbbb5121ed79a55f8c53e330503057124b0bd2c429a2e3dffadb1" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/41/21ea386e440b076b2f2bf4680a84c7f81eaafe5dc416eac3711bdab7234f/eyeflow_sdk-1.1.4.tar.gz#sha256=b9e7a8293a21bedbe98e33e34c7760b0776625158a3567c2be7dc912188de551" data-requires-python="&gt;=3.6" >eyeflow_sdk-1.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15466371-->
+<!--SERIAL 16861867-->

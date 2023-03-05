@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sui-brownie</title>
   </head>
   <body>
@@ -78,6 +78,24 @@
     <a href="https://files.pythonhosted.org/packages/f0/74/426b9bc74832a62f4fb96f850799c1d2c598ae698c77d16bcadf511ae080/sui_brownie-8.2.0-py3-none-any.whl#sha256=191e2289ff7e44e969d5b818ded9734688694227627220b9e6a20a7e3a2af754" data-requires-python="&gt;=3.6" >sui_brownie-8.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/59/ae1af152837b2b0fb8827eb0a4e6189a459c250e9e381da2b91a00c39849/sui_brownie-8.3.0-py3-none-any.whl#sha256=eb2f724ff07df2bb433863e6f6215bebfb30de1646512a4647ca24b263f01ff3" data-requires-python="&gt;=3.6" >sui_brownie-8.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/ae/3eb853f5fe528a0f34cb7bc10420b183cf755819aeebe3801fd109e97da9/sui_brownie-8.4.0-py3-none-any.whl#sha256=745792420df09c954f98d0829c4ff0703b481eb8692e4d12d31f65506728541f" data-requires-python="&gt;=3.6" >sui_brownie-8.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/2b/16cd094182bf2fe4c532089dbeca0ca6637e48c726a00d42d9993334ae3c/sui_brownie-8.5.0-py3-none-any.whl#sha256=5b97569d763eff1679f1bd3ad1a4f30f790f17d2dd1d94f1bc315e2838ae4b2b" data-requires-python="&gt;=3.6" >sui_brownie-8.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/17/6067af397e361f01da7336c96c3467372f8aec3ad753fbcbe6a2e558ae70/sui_brownie-8.6.0-py3-none-any.whl#sha256=1a1dcbf71a4b0b07fdc76ae8837b685b83bba320428e395b56c86e0cb85c077e" data-requires-python="&gt;=3.6" >sui_brownie-8.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/77/3d1840f8fa723c4c81fee389b7dfbd70cc1a2cfeff1f7aa0c70d035f2ddb/sui_brownie-8.7.0-py3-none-any.whl#sha256=c779219eaad468d4b1613b06ad38eececaf14b430ffab312874bb62dae9d8576" data-requires-python="&gt;=3.6" >sui_brownie-8.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/e7/6589931c035767afdb21fddc16f466bb515d83f398eced97d85946804d89/sui_brownie-8.8.0-py3-none-any.whl#sha256=f6cfc7d393226cb37cbf5901c64fe1bc2b98d806424d0db83ee705e51f6e0f46" data-requires-python="&gt;=3.6" >sui_brownie-8.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/01/3e7da74626f6396d3bd908d791834ce8f29e4d47ece49a914d9a35d65dc6/sui_brownie-8.9.0-py3-none-any.whl#sha256=3062effa3622e31fc476d89a06d3e2fcc5bf6b090384723d10d3899e5f2c4ab8" data-requires-python="&gt;=3.6" >sui_brownie-8.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/50/e11fb3151860f67fcc6e47304190d16e1958a04b8f59df6fd463d938ebe2/sui_brownie-9.0.0-py3-none-any.whl#sha256=90a16d6d81675805402d5883dbdaa3ddc346d691e320f35a7ae54c7b890f9137" data-requires-python="&gt;=3.6" >sui_brownie-9.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/1b/7c9ac4401a6c8bc10ee9282e9ca2f738c9e9c0f696abc239bff70244a4fb/sui_brownie-9.1.0-py3-none-any.whl#sha256=c3e5b784f62bc4619e6bde55a4b1804dea33706cbc2d46fbe8392706ffd5a6ff" data-requires-python="&gt;=3.6" >sui_brownie-9.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/83/76487096a56ad8aac0c688a55a3a826e557a7b7d4c407b0f06217fb03d6e/sui_brownie-9.2.0-py3-none-any.whl#sha256=e80534700b8fa2dce63ce25f37a5a57e31bf7c18136d92087fb78c2946a56cec" data-requires-python="&gt;=3.6" >sui_brownie-9.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/e9/6b062095444a0f79569024b6a6725cd2572a02048ea98c6466b0eb8ec45d/sui_brownie-9.3.0-py3-none-any.whl#sha256=9a41fca21a322b0a299a38aedbc9542a844b7f4e5c0e5686ee930fea31b108a2" data-requires-python="&gt;=3.6" >sui_brownie-9.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/2e/0298f65f981d0d7e967d21b8dbc34620c46e17bf2e2f8e5ca1532d5f63c7/sui_brownie-9.4.0-py3-none-any.whl#sha256=3ee691ac7e3602afe8b5f0761471a638047272fc1eb6e9f986173ad4fc10c6cb" data-requires-python="&gt;=3.6" >sui_brownie-9.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/fa/8581308dbd98a4b33a9f0671d2eb856fd7296f1a328d2aff3716f1c8ad9f/sui_brownie-9.5.0-py3-none-any.whl#sha256=91e3cb976ef21fd69aa9ab75be3433599716b2431ff74686f9780382eb9e9c31" data-requires-python="&gt;=3.6" >sui_brownie-9.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/51/918bf139232db85f3c6a6b637650a33cf99622800b0331aba3a7cec0fa09/sui_brownie-9.6.0-py3-none-any.whl#sha256=d2756977a27089b2192909e11be5f9113ba28dafcb8bd8899dd4632bc3abf7fa" data-requires-python="&gt;=3.6" >sui_brownie-9.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/53/42a84ebbffa812d5837a37ec900c61b9e6b3b506c631d7b919357b83168d/sui_brownie-9.7.0-py3-none-any.whl#sha256=7275b81a3abba01adca028ff34ccab140aba040a3ed063c5999a2d84efde82a1" data-requires-python="&gt;=3.6" >sui_brownie-9.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/2a/30a969ffb5163e81786192ff3d49270ff0fac7202c4cab4786aa92ed0002/sui_brownie-9.8.0-py3-none-any.whl#sha256=f98ae0f5d908d8520942c27c81cd153a587803493896ee640c1f9d2068468748" data-requires-python="&gt;=3.6" >sui_brownie-9.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/3d/8f20afd356426e7803dcf7c18d5e1b7ef8db2887bf16621edc8d04dcf2e9/sui_brownie-9.9.0-py3-none-any.whl#sha256=a37557b2bf8001e644e30bb8dfcf5bc113318f2ff3b5e5081c1f9bce053c81ce" data-requires-python="&gt;=3.6" >sui_brownie-9.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/f7/3d3054886d9e0ea4a66eb92f125b17633b0dcf353fcaba5933803e53a0dc/sui_brownie-10.0.0-py3-none-any.whl#sha256=a0ca9ac6736d2b79b1b276ea8284be0cb3dec4fe02c86126502cc5931eb74b3a" data-requires-python="&gt;=3.6" >sui_brownie-10.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/e2/0edfc3d5565d025465a1cd6d37e18f2e077ac09255a5bfa6b88e2bbc87ff/sui_brownie-10.1.0-py3-none-any.whl#sha256=2e8c66334891026a13e2594448ea81931daa492f098b5d0f2fa5aeab832c39c0" data-requires-python="&gt;=3.6" >sui_brownie-10.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/6a/307b62d43757d6f2299d7597c0a429020365910cef0167fa1aac984b8bf8/sui_brownie-10.2.0-py3-none-any.whl#sha256=7d52ce4e7f93ea49dfd45ab0d267ecce6f683c8d2f4afb38425597eee60d3f95" data-requires-python="&gt;=3.6" >sui_brownie-10.2.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16413486-->
+<!--SERIAL 17060819-->

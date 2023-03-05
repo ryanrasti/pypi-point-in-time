@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyrf24</title>
   </head>
   <body>
@@ -24,6 +24,17 @@
     <a href="https://files.pythonhosted.org/packages/98/5c/67186957621e8c7a74b05766c7df785b28fa12691f8e6696a07a3635a2b5/pyrf24-0.2.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=2f9bbebcf0f6bfa2b49ad2a792de573da355721989bc4624c3de695697a816a4" data-requires-python="&gt;=3.7" >pyrf24-0.2.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/d4/405a0e025bc654b5cdaefba695f2860c75da5bdfdcd9f33adb304beb110c/pyrf24-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=63cf269e15b86dd5134944738736d261d42fa85128247b6c167cca1376348d84" data-requires-python="&gt;=3.7" >pyrf24-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/53/1dbe684af145cb2dacf2ccb058d6df7db111f23aeef78caccc3bbeb5f96b/pyrf24-0.2.1.tar.gz#sha256=40c7bfbc1463898b0ae76c0f45c8319642b7e1b092d981a8fda79b619866d123" data-requires-python="&gt;=3.7" >pyrf24-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/23/9ac76fcf46231bdd7520dfe563db02495ba10d927397e5a7a0160a69e747/pyrf24-0.2.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=df04a6658f1ca549d119cbc11e2d5f28fe96688f943d2b4c108b561f84273cad" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/aa/216e580a009e2ab145955c22774f1f671c0c2d3d2b4a552f6fe9c3355ee9/pyrf24-0.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=01d021a8b53900db15739f91b7892d6d7d7583fd27d158c9a664c7af8bdc4224" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/10/9d922350d26b287ece473292ce495b31b89a207e00c053f49e17a4414ce0/pyrf24-0.2.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=5fa4005737c65548345fa247980f5923388f0611b7fc16d4094f033b2d49bc0c" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/e5/a1f088bf6c0b4154684be55faf4ce3436291c7644c8810f2cdf031edf105/pyrf24-0.2.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9780bced4ecf9eab8a910b607b63ad304582587a052987a0a4cf4bee8a4d9e28" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/7c/b7aa2dc2e33f294c7b125c5e40fe68a8a2d34139e2d40652f5332f34d99d/pyrf24-0.2.2-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=0e5d1ee685bff618be0254961833d890a2b1a8dafcb28b3e24d8b68e1ab112b5" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/70/f3d48a0d4b0f77a2ba4a57e2ffa899f3e59e5491cd8b32cd104cfa321d19/pyrf24-0.2.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b8d7fdff383aa583ca669ef095192d3a5af4bb0159ff68b30ff4e55864d3d399" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/a8/0cefbd0bf594daf9f149979874cdeadd06bfa017cdcd0042a71282c787fa/pyrf24-0.2.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=bfbc30f22d89059b566bb29b38488307f432f05890c4e4a27bac1cf94265ee87" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/70/751f5100cdcaa8e0a432f338126f45ac15eec38bf679472b46e42fbf5b6a/pyrf24-0.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=cafc16619c02e7b7be33005b92a32b54246bce164894f9fa1ab81faf7194b988" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/52/b13ec4b19559ff02dee8f075a8ee42d6ea86fe84659cc064e97b9b8cc7a8/pyrf24-0.2.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=ef6f595eb98a1e0acbe32ebd06de5c377d2fea61ba28c4c3ede121bc4a3ade06" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/e8/855a06d16a89096082bc7fa5cbca1533e7b751df3394ddc5ed851038c287/pyrf24-0.2.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d04170756c20c54cecffc713a7370c47bace1d017c96103c0547f6640d4ef38c" data-requires-python="&gt;=3.7" >pyrf24-0.2.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/07/71c33c88290ac94867baa96a57911621fe821c4b9e319d2890b55becd0cc/pyrf24-0.2.2.tar.gz#sha256=33a77f5391a648330601f8c82d315b969226784e9d64e2f20dd3ec1979708c02" data-requires-python="&gt;=3.7" >pyrf24-0.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14906053-->
+<!--SERIAL 16486495-->

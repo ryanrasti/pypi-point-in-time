@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pytest-azure</title>
   </head>
   <body>
@@ -10,8 +10,16 @@
     <a href="https://files.pythonhosted.org/packages/2a/8f/9463d778f0393d5b53ac60aa3d990f4d4aeeabcaf7908a600c7aa4e912ca/pytest_azure-0.0.1-py3-none-any.whl#sha256=c96294920833d31a374f10a6a7eec2c3b1f71e28f51832001e1d93bc4eaf83ac" data-requires-python="&gt;=3.7" >pytest_azure-0.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/08/ad/a0507e09fabf21026d72ecd6ae34cb9ff7fb8545954e88034ca3d200eea1/pytest-azure-0.0.2rc13.post1.tar.gz#sha256=8a2d03fb609de1f3330767ef737ae9131233f5d5d245896f5a2a05dc5ac89e76" data-requires-python="&gt;=3.7" >pytest-azure-0.0.2rc13.post1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/89/17/760e6b4bdeeb1188014ab75d01950ff497b6026c936cc9b203e239aff1d9/pytest_azure-0.0.2rc13.post1-py3-none-any.whl#sha256=f7973f54a48edcd33f4c5100f480e4e08c8b3165d21619c373e14567f70b6f37" data-requires-python="&gt;=3.7" >pytest_azure-0.0.2rc13.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/43/bd53e079994aa6c8f1c5b56747debb9c2e6072b17342c0219a3b6611e2a5/pytest-azure-0.0.2rc48.post1.tar.gz#sha256=35121fed2870e54b59d173e1d223dd3ee5d81066ce2c37348525e00a01f155fd" data-requires-python="&gt;=3.7" >pytest-azure-0.0.2rc48.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/2c/ca9532782a6aabf485045acbc6f12256bd84cac628f1277fde3ad3b81b9e/pytest_azure-0.0.2rc48.post1-py3-none-any.whl#sha256=9692c9444e774dc32e6d09e8285c2c4776e35661043462e5bf8362ed2d8ae934" data-requires-python="&gt;=3.7" >pytest_azure-0.0.2rc48.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/38/8196ceaea17bf76035eb13992a89d71a72d49300f94e701267163440e1a8/pytest-azure-0.0.2rc56.post1.tar.gz#sha256=dae049ce3af8030813f776b7a2aa6efad9c539b009adcf0252e087f96185c937" data-requires-python="&gt;=3.7" >pytest-azure-0.0.2rc56.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/1b/2ed8027f9038707a81f73f0cc3d98f93823ee910fb9ddda3ee78c1fac2c8/pytest_azure-0.0.2rc56.post1-py3-none-any.whl#sha256=fd26bf63b95f3c32330ad3fffeb21475d36778c541b79fcbc794c9165f3fa27e" data-requires-python="&gt;=3.7" >pytest_azure-0.0.2rc56.post1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d5/fe/d27fefd33bd9f43c2c4ce6e9e411865298dbd79712a1b243000e648958df/pytest-azure-0.0.2.tar.gz#sha256=24b04d6ece6400893635d674edd4c8f717091ed4017c075e6bde1b685d4a175f" data-requires-python="&gt;=3.7" >pytest-azure-0.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/16/e9/266da61aa06af474a50063495a13ab919d3730d2c25b0c70dd8d3a6226a6/pytest_azure-0.0.2-py3-none-any.whl#sha256=e45d85edca1f85fad3505097e4e538ab934e4c515d6a00d373c926fe5dd485a7" data-requires-python="&gt;=3.7" >pytest_azure-0.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/fd/de138d261057511af36fafc434da88009e6694314b851ef092c329a35812/pytest-azure-0.0.3rc57.post1.tar.gz#sha256=3f1dd6b66f70226d8fe772f53d4c6ee3cbb29e16709797f2b78c385bc7a85c36" data-requires-python="&gt;=3.7" >pytest-azure-0.0.3rc57.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/a1/6bb293315c778d5f1bcf61489f6076144acf4abb63fb6d59fadf0ccbae11/pytest_azure-0.0.3rc57.post1-py3-none-any.whl#sha256=87b3859aeced2162adb42b67cc58981027575a8966eb1cacabe78f875e2b39ec" data-requires-python="&gt;=3.7" >pytest_azure-0.0.3rc57.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/e3/7e41f44c81a5529ba949d36c2477fa8a09521522d46c83c7764d6033a667/pytest-azure-0.0.3.tar.gz#sha256=29ff514b9a1864dae1704960ed95b3b9ddee4f3fb50c02f18d448334a87f97bc" data-requires-python="&gt;=3.7" >pytest-azure-0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/06/f0c4fc7aeaaa853ed4d7d81f3c4aee7e692dd39205f79fd734b480b14c9e/pytest_azure-0.0.3-py3-none-any.whl#sha256=8e2b76715ecd3e4f0b2a0b0b886134212876a2460858ea3861aa196b20746a7d" data-requires-python="&gt;=3.7" >pytest_azure-0.0.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15366662-->
+<!--SERIAL 16465686-->

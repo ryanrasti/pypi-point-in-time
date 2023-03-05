@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for guarddog</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/2f/ef/05d961c0213f3d6ec4f7bbd43610be8c306356b9bb84851d47573395f83e/guarddog-0.1.9.tar.gz#sha256=07f2ab3e8ecd710fd72c2eba4972b467d6dcf41256798b2e59f56d8a9586bfcc" data-requires-python="&gt;=3.10" >guarddog-0.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/95/bb41e25866e3b0072316a9d80cecc900dc3f42d2122a702600cbb6f473b7/guarddog-0.1.10-py3-none-any.whl#sha256=6f093ea1102dd291c5c95caffec05d129e60f26614205d75962dab7c17c92319" data-requires-python="&gt;=3.10" >guarddog-0.1.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/bf/2c0a4a6630cefaa23f95d32e4e1c8e9ed3ed289e843b42adca3ce679acdd/guarddog-0.1.10.tar.gz#sha256=52f4684824bdf526cb4ebd1ef328d5da11207f2d2ce5e8e0dec0a15f32234eae" data-requires-python="&gt;=3.10" >guarddog-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/73/9b12f6486f81a881591b50a34663ba869b7355fadab0058c566c9724b8dd/guarddog-1.0.0-py3-none-any.whl#sha256=d8dd7a94fd272217fe2d7cee2243d7c0e2cc33c10ef0f53409e6102586c3a1ac" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/6a/19879b227d0008703225de9e1327b4e2b06264b5577b53a115d67df39d30/guarddog-1.0.0.tar.gz#sha256=d8c9f1ebb46455fe129f01c9d55d245eeb0dda82612b177c413fafe31fb135f4" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/db/baf4eb789df35ea5d00b30ce164aac8af77ab6a68aa9ff7cd75c56e4e1a6/guarddog-1.0.1-py3-none-any.whl#sha256=63fdc130857b55b42917f382cd61662a23a834980141a82179b981c9d48398b6" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/fb/45745e4a7e7f9d048250e6546a711a37257b613887253264b998f390c5d2/guarddog-1.0.1.tar.gz#sha256=9f89bde9ec962c643c4b3995179d1a547fe2dff5126d7b91fcf78302f8b418c9" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/76/7aa80a21468759ae073cfd144c8d139d75eeb16b79aee22b940e65b2c017/guarddog-1.0.2-py3-none-any.whl#sha256=aa43731aec033877d0efb5fdba92dc7fdbd889ff4df433b84c829283d857c69e" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/53/c8ce1ab1c65b3dfdbfd461a202da42b0e7dcc6589a4b95d602bfd3163342/guarddog-1.0.2.tar.gz#sha256=98b58a6efc57b653f14fecb8350bc7fb3ee85f5f55f0a4f4cc81e402c226d166" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/de/58060bc1f14cd43d36ac3f3deda0a920c449fdb5318de03cf1540f57b720/guarddog-1.1.0-py3-none-any.whl#sha256=caf48bbd78e8cc4761fabf0a6eca97065b29674cac55e9791ee092c36254e1f1" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/57/9c4c367a39b034fc2a3ed4ee11836ebedfec2f132dc4595dac95efe529ca/guarddog-1.1.0.tar.gz#sha256=968b2bc0de84d52457cae41f54164914b5e3758590443171cf389daa9d0749ff" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/c3/268f362a6c6d0580fc2328c9c512897c890cc1874979372dad09e6e33960/guarddog-1.1.1-py3-none-any.whl#sha256=b6a0a4fd9a3339f076f968417f85ad59e4c9a22ad8535b192bf7118608bd69e1" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/4a/098e843b410a1e6834fe44c51b051cb7ad9439dcbc630eff083156510183/guarddog-1.1.1.tar.gz#sha256=1139d04836df80dbdcb4f2fc5765893aa6e494b87bf5dc3ed1698af922edf76b" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/c7/f9289bde2b77d09e7a8edd64b19753ecd1a6a27768eb48163564ac994cc4/guarddog-1.1.2-py3-none-any.whl#sha256=fcf24ccaf87b75a4126f329bf150a357e439801300375852f70da8306a68503c" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/8f/d7b4f0f0bc583ee12b97f812facae8ab62edbc6ad83198bf6eb833b774af/guarddog-1.1.2.tar.gz#sha256=e555e35596f24c3266612bf01a44b1944c1de9f1e32067ed6c9ca271c2c74f63" data-requires-python="&gt;=3.10,&lt;4" >guarddog-1.1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16072240-->
+<!--SERIAL 17134085-->

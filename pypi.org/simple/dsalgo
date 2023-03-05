@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dsalgo</title>
   </head>
   <body>
@@ -18,6 +18,24 @@
     <a href="https://files.pythonhosted.org/packages/93/92/ac18e2875d97559bf38219b9df212a1375d51e7c9db78a473902b5fbc77e/dsalgo-0.2.3.tar.gz#sha256=cdc9a3dacda119791368cc07c98c4e8411ba41b6f1e4a7c79b3ea55d2387d380" data-requires-python="&gt;=3.8,&lt;3.10" >dsalgo-0.2.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/5d/3d0cf21141690172bbc83ba488e93720175108c0b3645c3dccfb8a292e0f/dsalgo-0.2.4-py3-none-any.whl#sha256=b03d02075653e544c77a8c3071d47d66eba0c84518b41458626bab3392de33cf" data-requires-python="&gt;=3.8,&lt;3.11" >dsalgo-0.2.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/04/7a/2dcda4df1e2f523861b181532c95d7125f93db0b2e31d8e621d45679cef8/dsalgo-0.2.4.tar.gz#sha256=788d9d4f310151b3c890c04211565fc06713f08d5593c91d16436a34ad81bfbd" data-requires-python="&gt;=3.8,&lt;3.11" >dsalgo-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/4b/f464ca4874cdb9b8147abecb6bf8c952b839131a9dc806742ec8ee69ac5f/dsalgo-0.2.5-py3-none-any.whl#sha256=ef93d6407fc4154ee3993d842bb869578d12768b67204a62ef5a1eb6994e9c54" data-requires-python="&gt;=3.8.1,&lt;3.12" >dsalgo-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/32/6cdcb7163a5bd6f19b0d25ec40cdcfd1822f1d461d7cd89ec914d1739612/dsalgo-0.2.5.tar.gz#sha256=fc738154d3486d294fa336013b155977e63083431d18e6fd47e9dc25a66ab1e5" data-requires-python="&gt;=3.8.1,&lt;3.12" >dsalgo-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/d9/75e64a89e7b84f421f9b5061b82c4385fa7e209d9eac35f0e233d88a06dd/dsalgo-0.3.0-py3-none-any.whl#sha256=ec8ac45fda0245bcec2e7844cb91fc1b79ccdda97c71f30c997ff06e7aa51ff6" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/8e/c842c7f89e2a70710e80713095923b7ddaacac27f68b45f939b6d5294b60/dsalgo-0.3.0.tar.gz#sha256=d884b90255d94ae9ede40f33769a069d99c426d32a58b6a9744ede2c326d6d10" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/6f/d809fa63cf6b553e3168b690ae9f625539a064d5a89b00fa68df7ab0fc53/dsalgo-0.3.1-py3-none-any.whl#sha256=0a8f162b64ce43bd5c1762c76ac2d3674891dd9cc3bbfbbb4e96341fad781cbb" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/4a/f7d48c4d278a4507261d0637226917b7a4ec194252a6d0235c9d8f8562a7/dsalgo-0.3.1.tar.gz#sha256=50c1a60b9cb6e61219397c12ac53d1c3c2d3aa13e0de9c8c0cd5ca528eb28c3b" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/29/34d008006e4c52361d83cc698c77dcbca7e431732cc3e3ba572cd8b437c0/dsalgo-0.3.2-py3-none-any.whl#sha256=9c9a2452d495629426a2f1c404bc85ccd2a67b211e770d9ec5c4a5a3c8556f00" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/21/3b914b1802da247945fd519d1b1bf3504c555d07dc5a2a39f64fba2e4ec8/dsalgo-0.3.2.tar.gz#sha256=e2f3f0c75ce3fdc6e0885e64f83a6354d10462fd265ae1bd668b3f6477633828" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/8b/eef29b7bc1cd5a4b5ce56824a8229311f8c6bd54c9e596fd0e1847d70f9f/dsalgo-0.3.3-py3-none-any.whl#sha256=385b79906e02abcd92410e89447ad466b4ed74a0deb4e2fe62eec1db05a46c19" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/66/e7c2937baed8d88f7802d2519990626ac419231c90e00aee3490d4a5346a/dsalgo-0.3.3.tar.gz#sha256=6b7bdfe4cd5631a9b5aaa9cd7aa572fc7bce3528fd6dff786269203838367bff" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/d7/5aa7d8f67493521bbf3552bda80c318f9b453bc277d21f983818088ebbce/dsalgo-0.3.4-py3-none-any.whl#sha256=7ceac7769fc0c3333b65ed395970dedce770b2cf2b7eb9d0c2b1bf36388cef26" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/61/9ed1271f4312219f6f36f1d48bcdaefbdb2eb8cdca408831ac9727716850/dsalgo-0.3.4.tar.gz#sha256=ae5a5e4c93ef55aef98ba2e247fe84c8043e3cc70089063c612b3ce6ca9a6672" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/71/f2f78799d4edea2ff9363aea22545709bc59c29aa347774f50d81ba25eee/dsalgo-0.3.5-py3-none-any.whl#sha256=50bc29129d1f9375f8669ea700871e502951618c9eef1d919a93d531d8895fd3" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/ae/3b4222980944b4bc9330b6425c1a0a3171213881db023e0f9fde6cab21d3/dsalgo-0.3.5.tar.gz#sha256=90fbf166ab76a8a1aee47aec61b997a3a36fab9c48106c3aa99e988ecd9e582e" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/66/98a53abda8ac4d92eba27fe9d9322b3398d28ece479c9c3812274901354a/dsalgo-0.3.6-py3-none-any.whl#sha256=77f27a76e5b3929972c876bd9549ec17d8055600dfcc06919d1ff54a9d963a0a" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/b5/51031b368c230440c7c0944d904ed8ba013c7f675bae0134877464b163df/dsalgo-0.3.6.tar.gz#sha256=f68adeb3d57c62ab70b9f47afe8ad5937a1b95dce0a101daf1f6dd1749cb6d51" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/9a/4af2a17eb45f68936a26f822a8cbb4a9059049a49c89a38121fffd77a7e4/dsalgo-0.3.7-py3-none-any.whl#sha256=de0029f7430e781992fd4166133033099bf5f09b0ae57289c227b60c9d9df4c9" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/a4/ce107a1a0af3c981a7b44d984feef7e5bd02285b7131d26c2d4eaed9b653/dsalgo-0.3.7.tar.gz#sha256=58117167c5ede1d632e3604b7a9104871c7f6e8754785cbc67f40b76210ccb6b" data-requires-python="&gt;=3.10,&lt;4.0" >dsalgo-0.3.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13742249-->
+<!--SERIAL 16737034-->

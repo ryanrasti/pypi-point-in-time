@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-msteams</title>
   </head>
   <body>
@@ -282,8 +282,32 @@
     <a href="https://files.pythonhosted.org/packages/e7/68/b9600ae8867ceb8eeed495839719672bd5fbdc1ba5690660f8372c7968aa/dagster_msteams-0.17.9-py3-none-any.whl#sha256=24253fc6f8b1dd07f2e28d1cae2a31c8c0f37571338a02dcdff560227ab4669d" >dagster_msteams-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/4d/e00e24c4d0689b244a074242e183d7b27e4032dec3fa25b0f18ce35f87ee/dagster-msteams-0.17.10.tar.gz#sha256=15ddacf49e5661bffffabc75cbc3b4a57e417a46445d002c893de24fa750359b" >dagster-msteams-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/80/76/3f85f10d94942136b21b79723b8c075a55c259c1c7105d22d4ad0e42d1e9/dagster_msteams-0.17.10-py3-none-any.whl#sha256=7a5a61e9e3d0e84c11d4d380dd7bcb12db978b396e40f289deb3141608c7c0b4" >dagster_msteams-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/2e/40dddff28e1368d7bd775b1a46f56bc907105a95904cbb23f6c4cbcd2da4/dagster-msteams-0.17.11.tar.gz#sha256=b08892b00fb3220e1389d8563a1dffe9b040de495e5b72fa319ca2b59d512124" >dagster-msteams-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/2a/f9de865deed562a4bf6cd2d44ec29cfdeb2f91cbbf3d591d316b4a2dc5c7/dagster_msteams-0.17.11-py3-none-any.whl#sha256=440225742df24a8499893726647ed130e0b40f2dadca0bb41ac1248ddfb91391" >dagster_msteams-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/0f/4e2446453ec37c12213917b6568ce2cae5ba51a0bc3a181c076f8a7a94d7/dagster-msteams-0.17.12.tar.gz#sha256=b68745bfa38b4a6c6f707ae9cb3fd934dd826a8280a524d06ca26cf6f26e7c57" >dagster-msteams-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/fa/a6b6ead99ad807cf3db3024c25a3f7ee39d9465bb0bf26207b292f9c1834/dagster_msteams-0.17.12-py3-none-any.whl#sha256=9a2f35568d983e0752e3904cfb581212f8f08536a2e8f18661bb4f0a653a3540" >dagster_msteams-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/c5/5087dc6a207dbb7f68c21b7b4745de18ed267475d926d7804056df1f9c87/dagster-msteams-0.17.13.tar.gz#sha256=7d595b26bd9023b6843c0cc599176f294963951364e36ccddf8fdfe088c8c828" >dagster-msteams-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/8d/6ea2fa27d0542980d55602e89997227663939ec6537dc2a5fb82fde7cae4/dagster_msteams-0.17.13-py3-none-any.whl#sha256=c8dc1acb4b0f527e26b1d091b00447aecb6f34c36bd6fa7f7e201d56ea075e0b" >dagster_msteams-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/0f/d471b886cf9b2347acc93a968fd12f6209026af3e660cd6285baf81f93c1/dagster-msteams-0.17.14.tar.gz#sha256=b9fe6f177602fdf01ebab57eb7c665346bbf85a086f175dfc10230891e1a4274" >dagster-msteams-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/77/360a2e935a6705571c061d4c57404693622cc1c961576f03f291875cef7a/dagster_msteams-0.17.14-py3-none-any.whl#sha256=2ba6ffbfa61b16341c66691b2b8b48d90d3fc17ee771e96d177e7074d7048b4c" >dagster_msteams-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/df/911462312c51760c6441b57b6cd8b39a0391a0d56da3fbe58795fa984e37/dagster-msteams-0.17.15.tar.gz#sha256=a723a4c7b67236f166aeb3fab8300bb45dc41b7de38757d2de8fb24f91d4d22a" >dagster-msteams-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/9c/f5ea2024f7175ad85da8889edb4109eaed83dcc868da7d84363d9b044f70/dagster_msteams-0.17.15-py3-none-any.whl#sha256=f64eba9c7af78ea9ed81428ca57940531b21e86532a52067ece8b19de13dd494" >dagster_msteams-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/56/1ffd4fcc849cec872abe86fb074315864c5f2305f58df8a84bf46691417a/dagster-msteams-0.17.16.tar.gz#sha256=5a35b5eb4016358d3f2a5734c53cee98935981c2e3a8c9dc8a2164611d0ecad2" data-yanked="" >dagster-msteams-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/61/ad185c4074400a665734f4960128083ec33891ec85416cf93f69b5f24fcb/dagster_msteams-0.17.16-py3-none-any.whl#sha256=74bf78574ae377769da677c9047055deeb4175f46c996218341a2afb7fdc9290" data-yanked="" >dagster_msteams-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/f3/d82da83c3e050321a55393971fa0c2c7a08e5d903a028540fa7f05aa96ef/dagster-msteams-0.17.17rc0.tar.gz#sha256=606bc72d792b9d974b3236506c9c3895bd71a59fb8fbb6d5735241958ab9b585" >dagster-msteams-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/af/c22d8ee4624f474d48a4495d25c45bc6735d3ecc51a23e7edbd76d9daef1/dagster_msteams-0.17.17rc0-py3-none-any.whl#sha256=bb8442926a95e8fed136af8d82f85261fd3639c9c9678dad36bbbc5399df1e26" >dagster_msteams-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/1e/9c04d256c67267008d026b19ba77cccb74deebcde07e55aea0d66329c11d/dagster-msteams-0.17.17.tar.gz#sha256=6c6853de2553652c00000ee2940186ea2f02f36d076bb34ffec739524fd2507c" >dagster-msteams-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/fa/6d3bc5853d3f23a4c3d6a336bddbd7f2d76f4c8da9f037ad80df7f07bc05/dagster_msteams-0.17.17-py3-none-any.whl#sha256=d9a59e9c14533a857c3b7c434eab607652ff952224f5bafacc79bdfce8375c8c" >dagster_msteams-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/9f/d1f96d32aed9ce00f6d3ff38d270dcf8e83b292ff59eeb0188c49f898dda/dagster-msteams-0.17.18.tar.gz#sha256=917ab3ed7b961fd6ed61635eec0715e2db925d7feda702a76602cceaa52b8f25" >dagster-msteams-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/d5/177812ebf78105c4c24a4ad9c13129f8c13fbb11525a1dbea05c91874fdb/dagster_msteams-0.17.18-py3-none-any.whl#sha256=836ae1bbf3884e001bde5a2016ced78ec73937d98c044138fb04102b69538ef8" >dagster_msteams-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/ac/1db5eec31732ff3fa7536a1f8af6bb1a22179d74bdda60ea1c29dfce3430/dagster-msteams-0.17.19.tar.gz#sha256=9debf202b721543ca5b8787b1c1966f04565ddd3e9a43a873241efa49dfcfaa4" >dagster-msteams-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/6e/bcf3515c704ae159619793501c60f202f7d5c7c5823bff9e8a1ed7795bff/dagster_msteams-0.17.19-py3-none-any.whl#sha256=f2fb6068e117119b6b4756190a3bda0c530c7eef1fd9277514029fc656d04890" >dagster_msteams-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/4e/42f029c2f4956334d2ea6bce8006760a0b4753a5da287d4db28fa9a0ec97/dagster-msteams-0.17.20.tar.gz#sha256=5f18e5bbc7090ac0eb8503bcacd56b5df6f468750d8eff587f9c80303bfc2817" >dagster-msteams-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/e9/89b4183808788b25f547ee5f870a68db580fb8122afbb0375491aafc13cc/dagster_msteams-0.17.20-py3-none-any.whl#sha256=82de3a493d5e4e2683203e53e30bb470ccad60ca9ba7a1b99416126a5626073d" >dagster_msteams-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/a7/3ddfcdf705154fdbca73d3f9d29f2b4186d39e049babd830e10acec888d5/dagster-msteams-0.17.21.tar.gz#sha256=a09d4000d06bc6622a64f238a609864c5e2300ee9129a30b79493b98783dfcf6" >dagster-msteams-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/fc/047696ddee1c9c902edb3f8a94facbb3fa405c3b89a145319b9b6c8f1234/dagster_msteams-0.17.21-py3-none-any.whl#sha256=14fb6834a70a95d96a465abc5a89219c7e70e7b4e97c5b21cc8068ae198bf4ac" >dagster_msteams-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4a/c4/202992767341c17f6280fb8c0cad67c5d754bd6f75adde26cc3966d6533d/dagster-msteams-1.0.5.tar.gz#sha256=2ca129b4f0f47d42bac930ccc1617249d2739f447ea432fb5c42c78c7b08e9fe" data-yanked="" >dagster-msteams-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/26/da/bd0d4bed11924a917926e5b392312d971ecfd239f6c2186df461d9acf77c/dagster_msteams-1.0.5-py3-none-any.whl#sha256=ff04291762e16453ff6b46a4ea07c6a08db6d8f3c73c2cbf5cbcb277335169fb" data-yanked="" >dagster_msteams-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408649-->
+<!--SERIAL 17135884-->

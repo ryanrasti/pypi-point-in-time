@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hledger-utils</title>
   </head>
   <body>
@@ -30,6 +30,20 @@
     <a href="https://files.pythonhosted.org/packages/d5/55/578f429b6def62547ee2c3c41160f32f7dd3625b40be80aff7b9378cd604/hledger_utils-1.8.1-py3-none-any.whl#sha256=7cc1ff92f2226e0b3a006f50f3c1d7bc68a554a803325b4bf17485a208d746a5" data-requires-python="&gt;=3.8" >hledger_utils-1.8.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/e6/cad3afda7c4ea91bc10e39af109aa16f4225b164350645c98b23a1a31ae5/hledger-utils-1.9.0.tar.gz#sha256=da50e95555233ea528cb97b8ded6862899aa7e4ee165f8b366c9f578e9ed12ea" data-requires-python="&gt;=3.8" >hledger-utils-1.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e4/f3/e52d4d07a05e3fc309649ad7b735365d4b4759ec6461b96e1a4ac351b99a/hledger_utils-1.9.0-py3-none-any.whl#sha256=912067a95ac36cfa565beeaa65838aa2c456770200f7b3273221d635ed23235f" data-requires-python="&gt;=3.8" >hledger_utils-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/cc/2809d46f6f87aef9d5735c380fd8c2b3e806926648a313fd2285bcf99db3/hledger-utils-1.10.0.tar.gz#sha256=24c0aa4dc4d816a5c57c36beccfc3be65ee8550e8e9891103b7c916be96733f2" data-requires-python="&gt;=3.8" >hledger-utils-1.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/7c/07503b55b1bbf89f48be8a55ab61e8d9ccbc10577eb334b720ff545d68d9/hledger_utils-1.10.0-py3-none-any.whl#sha256=db06a03403a7a004dd9d1a0041d2d0ab08279271aa579c681e1018dad49bb660" data-requires-python="&gt;=3.8" >hledger_utils-1.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/8d/b59e8f2f80bb230659471623b092d897730f39fe4620a821f741e2b20c96/hledger-utils-1.11.0.tar.gz#sha256=725e4850484ad631632aa718f71d0af8d8e6c2a3f1d0c2597398d6d6e813a7c6" data-requires-python="&gt;=3.8" >hledger-utils-1.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/a8/1cb911bfef54756b5d618f40a19b4b03ac6ba1be9bc20a63673c14db7ad1/hledger_utils-1.11.0-py3-none-any.whl#sha256=76f822ae6848f7f0eece3b3b4632d92e786bff56bc2c801d2e74a3cda86dbaa7" data-requires-python="&gt;=3.8" >hledger_utils-1.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/f2/4ef36727edf3d4e7a05aa7284b321d84fe8dc9a6108e562e118e8db316d4/hledger-utils-1.12.0.tar.gz#sha256=e62d775f33bd2d4a81636da7bd25a359140e821d1833df8a90b4a55afea1e823" data-requires-python="&gt;=3.8" >hledger-utils-1.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/cc/ace9f62efa8a03d42aa6165cc0677ab69cbfd86e2749841ea4f1f2a158b0/hledger_utils-1.12.0-py3-none-any.whl#sha256=a59cf45409e698d3e813e65e5abbbd759e7eadc43e65416d0a15ea07ebfcb381" data-requires-python="&gt;=3.8" >hledger_utils-1.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/ba/9581cc0d91f263280261ffbe8c5e62ca22795185208364c2016e954a5c99/hledger-utils-1.12.1.tar.gz#sha256=fafeb6ef38f0cb9b793148d0262a0d9112eb70e808f4bc4076c72f6ab3a2907c" data-requires-python="&gt;=3.8" >hledger-utils-1.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/c6/d5f5f72d4a453aedb086fe87d2f69826f89d15ba5d48586861694880bc8d/hledger_utils-1.12.1-py3-none-any.whl#sha256=9cd2321ff519f8811978fa5d750c27f1e473b0c97776718c2c3f42a2c947e1fc" data-requires-python="&gt;=3.8" >hledger_utils-1.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/7e/b01d3c85777b7603be5920af76accd0365e46977a686b30fe20a479e822d/hledger-utils-1.13.0.tar.gz#sha256=82edb93929bf775fe76dc1edcd00c717489eaceb7367501e022df0c335a16a5e" data-requires-python="&gt;=3.8" >hledger-utils-1.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/f1/52bc124f4659e32d4af7704f78225b0241b60cb1a4cf85b473a41e941ffd/hledger_utils-1.13.0-py3-none-any.whl#sha256=24ee37279ec1115fdb9573df87d549316d562e7cdbf997ab3cf8fd27f3e818da" data-requires-python="&gt;=3.8" >hledger_utils-1.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/91/68146d649f700d630cb7dfa0d6a09589ae5617482ea1ae993cd912969d93/hledger-utils-1.13.1.tar.gz#sha256=72f5d51db9282ca14b6ae990660b3336de50a0a2cabb206e6df4022d3a321f95" data-requires-python="&gt;=3.8" >hledger-utils-1.13.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/b2/3de49847fb48e033346bfb9b212441e5f7eaa854f7b915c6689da09eb0ff/hledger_utils-1.13.1-py3-none-any.whl#sha256=28212ef12f0dc1e8fe60301abc52d9797e0888e45ff1563784d38f4a0a4837eb" data-requires-python="&gt;=3.8" >hledger_utils-1.13.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/fa/998bdf788826720be6c4074d66c67750f3d440ac317b7c189005c29feb64/hledger-utils-1.13.2.tar.gz#sha256=646bae1537383f1c5946323beca8be48616dcadd641acce36f1bbc95107ad548" data-requires-python="&gt;=3.8" >hledger-utils-1.13.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/e1/2110a98d3e9c6922c112135949e8b77da3cb7cad34ae13af4f375b51d95b/hledger_utils-1.13.2-py3-none-any.whl#sha256=a278be0d96b7f68f3d4597dccb68215c11af6b5be5243bafc0e4d8204609f27d" data-requires-python="&gt;=3.8" >hledger_utils-1.13.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16431427-->
+<!--SERIAL 16901912-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dvclive</title>
   </head>
   <body>
@@ -118,6 +118,20 @@
     <a href="https://files.pythonhosted.org/packages/6a/e6/81129e66cb53a9bd3e884619050ae737b4612b210681f2f51f01b17d7255/dvclive-1.3.1.tar.gz#sha256=be9cd8786b56438ea21347c52a06cd29120245775a3701cc783cc73362e995cd" data-requires-python="&gt;=3.8" >dvclive-1.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/cf/45e429cd75ba27ec080c2d720055bcbcddb57b87671ee750e63122c26bfc/dvclive-1.3.2-py3-none-any.whl#sha256=60fa7dbcb8abbaa0707c4984c1b5bbfff9d3b980a76d26e5b8371057972af6e8" data-requires-python="&gt;=3.8" >dvclive-1.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/53/8e7d43ce8d951961f618a5ff45ceabf1d00665753ab5d342fe9e3ed65efa/dvclive-1.3.2.tar.gz#sha256=0b2996e57aa37c3308d51ef3bf76a8754ea5a749d7ba1f6af4bf94b53a614279" data-requires-python="&gt;=3.8" >dvclive-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/5d/2ffd7d90b1fe2d23b6ed6baa28b56a030d2fe334ad5c497adc2c3ab093e0/dvclive-1.3.3-py3-none-any.whl#sha256=72e7a758db0cc56954b25598cd409ef4b0ff92ac9ca74d4c9dade49f42862d2e" data-requires-python="&gt;=3.8" >dvclive-1.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/20/7a232501f3574fdb47e9e2703b320e349e09dd082d0c73934ff9cb550a09/dvclive-1.3.3.tar.gz#sha256=6f652487f8f478033987fcad1882717a8fc282affe3271f75f5cc01a2be434a5" data-requires-python="&gt;=3.8" >dvclive-1.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/de/879578650cadbf84bee170843bba32e7066625e7b20fa1ddc024124e9aec/dvclive-1.3.4-py3-none-any.whl#sha256=c52d185647d1814425388f1e2c5d86750f0151b21455afece50be62b9b1113d8" data-requires-python="&gt;=3.8" >dvclive-1.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/9d/c88cc4c1be9bcf02b7474009e5deb55eae8571bf73cb66d3d85eab46913c/dvclive-1.3.4.tar.gz#sha256=bd1d6518a58cd4e4b6515ed266174df4fa564e43d7a6048e36ba783df0006817" data-requires-python="&gt;=3.8" >dvclive-1.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/61/4aadf4fa5cb7c43a78fa2fe276193090a0b99c291bbc6fedb5caa47fbd4e/dvclive-1.4.0-py3-none-any.whl#sha256=7778f1bf1b1ebf3411f7d12282d654f79e343413ce71dc8a76bc1392228e12f6" data-requires-python="&gt;=3.8" >dvclive-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/8f/ecd1131996ba5a0fda200f445d1b61dc79adbd861ed36e60f5ec2c7e44e9/dvclive-1.4.0.tar.gz#sha256=b088b258a4cd53e07a674c902ff9a14f33099d2ed67813bfa8eeec80eee83faf" data-requires-python="&gt;=3.8" >dvclive-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/b6/4db76fea2e6938fbfa9a784445330b96cf3644b406492fef8c73bfa2effa/dvclive-2.0.0-py3-none-any.whl#sha256=e15b3bffded6d26e8a9d3c09d5c1c10ca038dfa6ff1d496c74c504546e84c078" data-requires-python="&gt;=3.8" >dvclive-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/0b/a67527b3d6a28c0b8b28e4e0d5adcdf36d799d397421b641a3285b37b41e/dvclive-2.0.0.tar.gz#sha256=f834af114c000510fd0136a5a34a5bfebd7526fc90fe27b30035a11439247d8d" data-requires-python="&gt;=3.8" >dvclive-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/7c/132e6fe47ff0bb44fa80ad3b881842c57359331935b259a086139c45e6ce/dvclive-2.0.1-py3-none-any.whl#sha256=7c19ec2cadc8813be16d1ef10258f164943789bdba34f8ec1bb349a3dc4f76f0" data-requires-python="&gt;=3.8" >dvclive-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/af/3976bdcd0eb347b18b18a1d4908c38ed7dd1019d9805d5d27a7a220182ed/dvclive-2.0.1.tar.gz#sha256=7191d65baaa176686105ea6ec10a64ff604ad6f24d5d1c471630496817654a0a" data-requires-python="&gt;=3.8" >dvclive-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/e8/ace8332c7b8ad835a5b9a3db0ad8a3f0f35a408fd90a859c7a2b43fe99a7/dvclive-2.0.2-py3-none-any.whl#sha256=398375001eeb9177c7ec66567d90d4cb9e91b306cd666065e7304f4269bf740f" data-requires-python="&gt;=3.8" >dvclive-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/76/904700a56433e062a00de1b89e3aa036190c2dc1d62eca94448ac9fc5770/dvclive-2.0.2.tar.gz#sha256=795db7a05deb0d33ff9bb309375b9493772cc8072c25c79ee7f1939d22958833" data-requires-python="&gt;=3.8" >dvclive-2.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/d6/1415765d0604f4f176eb5b22666cf74c8ec11a82a94d5bbf2afb318fc6c9/dvclive-2.1.0-py3-none-any.whl#sha256=1a2644f37a5b5ee3c9dbf7ef66bfe55be8b40d08a137e7d6a7d3fb9dd5b88b9d" data-requires-python="&gt;=3.8" >dvclive-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/f6/61037734cd47c3db6c654ff08600740f9690ebdac16e56d0c8a68bfecdcc/dvclive-2.1.0.tar.gz#sha256=99c64f3de61e1b05b5b17204ab0a9d88b61c77911474438d4ecad8b776b29d1d" data-requires-python="&gt;=3.8" >dvclive-2.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16300902-->
+<!--SERIAL 16886798-->

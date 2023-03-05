@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for chemaphy</title>
   </head>
   <body>
@@ -108,6 +108,18 @@
     <a href="https://files.pythonhosted.org/packages/79/18/1273618a417605f68543c4331f4fc6c8c90543860726e3a19aeb468f0df6/chemaphy-2.6.0.tar.gz#sha256=25fa022dbf6fafdc950f912dffcc1b69783e8e932c5e5392a3be981cca45e77a" >chemaphy-2.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/52/a30ae6b2fd622db87f4ecc1df03edc2906f685a47ebde59914963ee4eb5d/chemaphy-2.6.1-py3-none-any.whl#sha256=0b4d3523bd8aa6daec125492047abe30aee0fa2ee3834115e05a3ddda6dd6f40" >chemaphy-2.6.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/39/a7a6024fb3a75001a8fce7fddb3fc019a5ec7212862c61b72fb3124c4755/chemaphy-2.6.1.tar.gz#sha256=4ac75f99005f3a2ec02b5a54986dc2dd5ead8333912a7185e46c2d5a88a4612f" >chemaphy-2.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/02/ad30f2c80cbdc4c0bf5c630b22dd100174f38cc74db577c69f7a51e4a1ac/chemaphy-2.6.2-py3-none-any.whl#sha256=741757788fd8fadb1d172d42b1d7e47e71c5a7f1dbad103c1131e3fe57130577" >chemaphy-2.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/12/c9aa2c878ef82956f19b55b248e1694c33597187de04df35589a378f733d/chemaphy-2.6.2.tar.gz#sha256=b4d3f9db5734ea5b0e0361ffa326f728f9ec408df02e2045e8071b6d76880360" >chemaphy-2.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/ce/2b1c42464afdbf73831af04a7161621eaf29e7211fceb6b36fad99fd4720/chemaphy-2.7.0-py3-none-any.whl#sha256=f3cc1e5437b248fb28921c4310e83a2534394432cc302496a7716f7b953e4cd5" >chemaphy-2.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/78/268438ff614b4513971bab665886838847e8c0a5c56cc4964e0b49d0a8b8/chemaphy-2.7.0.tar.gz#sha256=b5790f80499328cd3a6ce2cc566777389d4042a3bc4f43c45ed85cadce897384" >chemaphy-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/78/ec45c294054f908a37806973edfe1bb24bcf56fdfc28c76a9ffcd8046173/chemaphy-2.7.1-py3-none-any.whl#sha256=9b6428fc858d51d7d81a27a09e6c42cf969180a5cc66472f98d633cf5a055276" >chemaphy-2.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/05/08e54f19809a714ec0bafaf6b5546218821ac97f848997daa0db4fc69b0a/chemaphy-2.7.1.tar.gz#sha256=dd18b71694297b382ee8a1a9e1af486581e6dad3346aa4580ed5387ae79776da" >chemaphy-2.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/cf/9a14099f32eb3562bab107c6dae2294b49529cb2d1b7a320373baf3a5c27/chemaphy-2.7.2-py3-none-any.whl#sha256=d365845babd4a92c0d1aef7f08c356736e8cc9684dd867174b669f192057cab2" >chemaphy-2.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/26/e93c4e2dbed5fffe442cf333180025c3453671b2ce924b9538cfc576a0cf/chemaphy-2.7.2.tar.gz#sha256=4a3af89db74b9b698e60a70f172bd22f20d11b3017316327df5c7914c368b141" >chemaphy-2.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/10/a0ce6ee3792e70eb8449b52641a9c3bab12a3c14d4297984b10c5a12bea6/chemaphy-2.8.0-py3-none-any.whl#sha256=dd37644de5da8a646e1b9330381c2bf62c1c672ff6fe18d6af880c2a7c465e4a" >chemaphy-2.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/fc/267f5155e166a31d77b53516012e83c3645e63c44014da473dbe0e5ed6ff/chemaphy-2.8.0.tar.gz#sha256=ba0bcf15825385d541bb3c06d7fc22e3b118a7db8ac2ef79ae65b9d5a584ad4f" >chemaphy-2.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/1b/d08440e753fdbdfa282363ec1bb66d2deea719704281be90575df0d4c78c/chemaphy-2.8.1-py3-none-any.whl#sha256=e7d1b9281cdc58cd3e151a44185027df2c0e6de7b34db8ef45390aff077e6e36" >chemaphy-2.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/12/c697bde31fdb8bed2ffe738e60d5569013c9442c4d2191f497aef299a404/chemaphy-2.8.1.tar.gz#sha256=4d9770286f2b716ae96c2ae931a3bc3b584c865bfa5802d7a85ec044a287cd11" >chemaphy-2.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16363797-->
+<!--SERIAL 16926556-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ramqp</title>
   </head>
   <body>
@@ -68,6 +68,24 @@
     <a href="https://files.pythonhosted.org/packages/2a/e4/49aaf2ea9282440d87093e3dda4a01c5d599a6916d4cbc02cb57d48dedbc/ramqp-6.7.1.tar.gz#sha256=b1c8c00dc76ca74d99c585dc2fca8d0542b15737a636a22d39b14accb0828f4c" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/58/f5d721e290fb1f8117509b865ad93fc5d62fff86d8750a5f7af739b979fc/ramqp-6.7.2-py3-none-any.whl#sha256=de4ad052df411b530b3663a1d94eef6f09954b093dcda8ef3b3253b27ed58954" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0e/56/2b0aba1424ac8e8cd7920e43991461cdf90e81c028bec265485550fd44d4/ramqp-6.7.2.tar.gz#sha256=acdce2401c842f28fda7fe8dd06e3b9f190befdc765e8a060c0d96af3b3a9581" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/05/4d2be2ec33753a3d792b1fd9adedbb84929750362b3c4936b2ff276d8774/ramqp-6.7.3-py3-none-any.whl#sha256=eadf7e5be93d4a9675134f373a845b18083a9c3a6d9342a6f060034176bcc5fd" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/66/b65103ef26e75fcbe7e1dd7b8a634cd69ea505c53a60710ed368fa5ac23c/ramqp-6.7.3.tar.gz#sha256=291096aca710318fec038b50bfdf5b0ac7fe96fd8439f0691ccfe2132493e557" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/44/c36abc472fb81f1cb1da4af555e6564178e2b06c5f55e440d0d4cd391544/ramqp-6.7.4-py3-none-any.whl#sha256=48e674e7839b71868b2af6b41c3eced3b2430b62c4a81b8725721ada36f2d45a" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/1e/750a2d121bdadb5ece3160e435c4c663d8c2e3d4f10143e3923d38b9bb21/ramqp-6.7.4.tar.gz#sha256=624602d3a0048c5ffea119c91183df975bba4d45203636ee8526feac5ab25481" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/c6/010c45e7cef1e1e82ab007b4c7f4618f8fb5cb8904e8c225578869a509c0/ramqp-6.7.5-py3-none-any.whl#sha256=69c072d4cb613342acc9a5079e6e1bfea25f8f2311fc38fd09a15a88436681f3" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/0a/cb2b91ffacb59b4b4ed83ac9cbe9dd47fe9281f97d8afc1e080f56b4bae7/ramqp-6.7.5.tar.gz#sha256=bc2832865913276b8570402a508d105d703711cc44f4d88fc40ffefac8452f78" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/7d/748a8861733ed66d82b31f6033305ef97a0a03ce1b3e9b245219a86c4d5f/ramqp-6.7.6-py3-none-any.whl#sha256=bf2e187f6d2b6253761795b2d077322d6ceee626924259da7cdaed19dfdd8f59" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/7b/dbe8782c20b67762306c85742ae7e73a824652621e75b0ddcc3ebcd893bf/ramqp-6.7.6.tar.gz#sha256=869064452ce966df7150cdb00f563c5353474130ed2b6b7b9b845318b9cd8d75" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/d4/07b8360bf5ff384e60dcd9f2dd77a48a725ccb05faae4dac66a7433f4184/ramqp-6.7.7-py3-none-any.whl#sha256=750e96e9bf3c9e52551fc5ceba9e18613c518f3c77644b047a304e03f768745b" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/ff/348a7112c7c4aa6e24bd137e0fd6ecfcf00299f4b9a6746c051470252240/ramqp-6.7.7.tar.gz#sha256=5bd985b826ed20054421ce16ca0e8bff3860c87389222648835e83442a9a02da" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/8c/611c35d35d156fc336576d83dd91f9ec6426c79d579f6407c5622af53bcf/ramqp-6.7.8-py3-none-any.whl#sha256=f9d971ce5060ccb9eef1288adc3073505023d501befb232ccb1b46830be83ad3" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/19/d9d648c6dc75b8dcbae3bb1395f9f4df9197b22ee028d6183564c52ca815/ramqp-6.7.8.tar.gz#sha256=9c1f84f174b820b4334a2f07fb31ceda696f6dc684966532ee1950cc57f2c42a" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/81/5c6090feef17157423efae53f1a75ac7387edf9bf89c4735ad94550382cb/ramqp-6.7.9-py3-none-any.whl#sha256=8129f3a1308ecca0d1e625cab215476f8b82ac912ccd7b3d1a68fbbd716c2a16" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/0b/23d1599214e6bad39cad3fafff21a7fa751ba7de3cb499fcd66cdf3543e3/ramqp-6.7.9.tar.gz#sha256=bd041f76a3ffe0975088b8869962d97cbc4c89042d9bd28d4f8df3f578193a15" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.7.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/75/26bea07838941c8f673014fca08d5715ec802deb351d445729c1a713294f/ramqp-6.8.0-py3-none-any.whl#sha256=1144567f74df511187d71bc3bdf552786d4e1b73fb5eef4aefe08ca559c8a21b" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/6d/24d2085a607fc3405ba9119db36f296cba51f9be68c247b25693e128f69e/ramqp-6.8.0.tar.gz#sha256=e9c760ecde0e0f29c4d9d7c960b018847005343604a83ef7cf011e4c774438e0" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/73/447678be75f9d176b8621756b315b9b58ad08c0ec58b7739536fc9b2b60e/ramqp-6.8.1-py3-none-any.whl#sha256=f2544d1768b908f4ce2a6be3c556f77ae2bc4d4562fce30ad3d7e569897d8a0c" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/c3/a6ac06e2822457ca9086a9d3e26801a5f88b4f12b6afacbe49b2983bf6e1/ramqp-6.8.1.tar.gz#sha256=7855d0a799fad2a901c97ca869cfa216992a8397b5adc5d226d6fd60d1bd8cd7" data-requires-python="&gt;=3.10,&lt;4.0" >ramqp-6.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16159485-->
+<!--SERIAL 17049286-->

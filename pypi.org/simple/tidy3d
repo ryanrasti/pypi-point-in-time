@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tidy3d</title>
   </head>
   <body>
@@ -24,8 +24,16 @@
     <a href="https://files.pythonhosted.org/packages/2f/1f/8aa25c4bb20a1dd0922c064677c77af0be4d217d15ba7f013867de81d625/tidy3d-1.8.1.tar.gz#sha256=ce045b8983f9e0f098fc8834819493f4640e3675a220603f0f4869c63cb87fce" data-requires-python="&gt;=3.7" >tidy3d-1.8.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/e1/c583a43d8a9947858c9cfffc00a5826ec15cd795487213fee36b339adc8b/tidy3d-1.8.2-py3-none-any.whl#sha256=09a07f37e6a330f34b2921bae46d820fb858fe9e7d534c7519b69c9373acc5ce" data-requires-python="&gt;=3.7" >tidy3d-1.8.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/8a/ceefdfb60a5fa7eb7e49e458e816b2c120f3c330b4be4787b99af6d02dee/tidy3d-1.8.2.tar.gz#sha256=903668a5e4ef062673fc3790c3ff1ac5ce3fdc6be985dae3977ee9f91518b4c8" data-requires-python="&gt;=3.7" >tidy3d-1.8.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/95/ac/3fd6b64717648dc1c6c6dc2413ee92451023f6c97d9c438332161a850582/tidy3d-21.1.4.0-py3-none-any.whl#sha256=e255833310aa854632a1672204b7747967166ecf2159f1aee7e0fd34eb611e93" data-requires-python="&gt;=3.6" data-yanked="alpha version" >tidy3d-21.1.4.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ec/5e/56898ec05350ef27b1662f780f846040458e3e9fd1249a40abd159d1a475/tidy3d-21.1.4.0.tar.gz#sha256=6247f3765b560589cae7b25254bd2abe152d1415fd3a659f0be5350ac947322a" data-requires-python="&gt;=3.6" data-yanked="alpha version" >tidy3d-21.1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/1e/ed36a43a826f9603bd84d6fd9b1fcfb00960ac22f35df75097ecebb6c022/tidy3d-1.8.3-py3-none-any.whl#sha256=c5c90d578e5d2d690639950961770df0acb00be31c79d0219712903f82f47c1c" data-requires-python="&gt;=3.7" >tidy3d-1.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/62/dfdd32ad3ca305bacbef60988815dfb0ce1d8f2dfe9e48ef674aa7773ed5/tidy3d-1.8.3.tar.gz#sha256=1329ddd33ee2e5f462c60c9ee2a02e1a5e5542c7c266adc186a23a049cfcc6e6" data-requires-python="&gt;=3.7" >tidy3d-1.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/0b/08ab704ebdc192cdc12cdeeb590747de3bd46b357f600bb4e37a02c709b1/tidy3d-1.8.4-py3-none-any.whl#sha256=825aa600a50bca9a775da31fc90beb74c4d86a9769364957da1dad51132834df" data-requires-python="&gt;=3.7" >tidy3d-1.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/45/c0a2dd343b506ea226dcc4d6fb6653abc50b9a781388fee5d2586dfe2406/tidy3d-1.8.4.tar.gz#sha256=791a8f9092a7af88338aab473ba2f16058155066fe50b0eef4002de3facf8c13" data-requires-python="&gt;=3.7" >tidy3d-1.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/bf/db4a37c6819bc1343ced4b528991cadfeb9962a2496e76daed9640555649/tidy3d-1.9.0rc1-py3-none-any.whl#sha256=4d66c0f4ba4895aec2c9dfa17841d9f70e1e9d3a804f6eaab90524c97388d989" data-requires-python="&gt;=3.7" >tidy3d-1.9.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/e7/adf3381f16f69f89b69d9f866bffd7364bc055632c2b4e427b7db341b2aa/tidy3d-1.9.0rc1.tar.gz#sha256=c15c77a4a4270c6a4e4ed7fb70b8d71c9d9ae312d5a9a4699d107599465b6097" data-requires-python="&gt;=3.7" >tidy3d-1.9.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/38/3a24a93f1b98d1c91265e5346da08f9142fe8f9c7faa1343b4455730639c/tidy3d-1.9.0rc2-py3-none-any.whl#sha256=de5caa2c078c9de6155c2be437089c60c916007a5861903c0361caaf895e5289" data-requires-python="&gt;=3.7" >tidy3d-1.9.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/4f/39a35da475f4130b7d15e7fb001cb58624cd6f7d354ffad28dd5c8da888b/tidy3d-1.9.0rc2.tar.gz#sha256=6d54308dff9c1460517a9892fc6ee60a264f7fe6e87da390617c727f5a72868f" data-requires-python="&gt;=3.7" >tidy3d-1.9.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/4a/229db10fa20cf006e4ce4360a1ea7dca597253a4bb6edfe631833fcb8f81/tidy3d-1.9.0-py3-none-any.whl#sha256=70f92ae2183b3a5a55fd471193bd8d3b5db4c85b8837587f22d07a945f460e12" data-requires-python="&gt;=3.7" >tidy3d-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/c8/971d3445f6788caf1c91eca70a412f46fe50541fe2e8e15d819637803816/tidy3d-1.9.0.tar.gz#sha256=33ba1586d230e420c4ff26db37a7ba5bb3d048fc656ecd944dae33e4f9877d15" data-requires-python="&gt;=3.7" >tidy3d-1.9.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16410410-->
+<!--SERIAL 17131151-->

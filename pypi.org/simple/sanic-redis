@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sanic-redis</title>
   </head>
   <body>
@@ -13,6 +13,8 @@
     <a href="https://files.pythonhosted.org/packages/0f/91/ac1fb71c8f6c03412ca6df307f62f7e136be12b88dee62a2d3ae20e16f4e/sanic-redis-0.1.1.tar.gz#sha256=e110996b6381883e7572eb3749f7339e2729c25f98f411d94f07bfac3ddc68e9" >sanic-redis-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/55/4a/af359cd69175c773883335a7d32fa420fda4bf24232c7a84f8cf25a491b7/sanic-redis-0.2.0.tar.gz#sha256=7271b0ad32cc2f2d3a6dad5ab4de35265f5c0b58c6c610f6e1044a83037b3eb1" >sanic-redis-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/bd/f0d183d8a08f8713c19bd5b044059d6802f87e63a261602129f5c6d1f568/sanic-redis-0.3.0.tar.gz#sha256=054e7f409b41e60595f3a51f5322690eb327d610edcd9fbf200d2fe66efdf66f" >sanic-redis-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/41/dcacf1d71dbd44efc7683bd1997525bc645f1184e762bb3fb93c915f9067/sanic-redis-0.4.0.tar.gz#sha256=a460eb5f97f806dfb38a80186acacb9937bb891e964f6db79d9df9a655c42c6b" data-requires-python="&gt;=3.7" >sanic-redis-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/c1/fe7d0255ca2d12105dc8c2ec29db1b0523d47c01f867f8764ad24ea7b1aa/sanic_redis-0.4.0-py3-none-any.whl#sha256=1c68b17823b22d39d2b6a649d0d1f3832739076b1b1ee1bde9ba0a8aa96b3e53" data-requires-python="&gt;=3.7" >sanic_redis-0.4.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 11455496-->
+<!--SERIAL 16783117-->

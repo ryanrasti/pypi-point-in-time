@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for guiqwt</title>
   </head>
   <body>
@@ -136,6 +136,26 @@
     <a href="https://files.pythonhosted.org/packages/7b/c7/9f862a88370ab8563818e1f3ac44308968831b0053370ffd905c2fd18e71/guiqwt-4.3.1-cp39-cp39-win32.whl#sha256=84cd2dec266e73fd2687d9be96c7bf63c399d02bce9043ef3aa604b3af0cb2a2" >guiqwt-4.3.1-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/db/a51d19a4f5efc9deb1c69bbbdf9063730f22b4caed01e5707eb21b839a95/guiqwt-4.3.1-cp39-cp39-win_amd64.whl#sha256=3bfd8ea0b70967f7888c6908ac9bf40e6d927d8c174b4be1e8e968eaf708695a" >guiqwt-4.3.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/a6/139f7314f7456383974d65a17855513b71f3772800b8ef1817c19f8b463a/guiqwt-4.3.1.tar.gz#sha256=bb84519e1f7b2eadeae0a41257211e79882eece4be2198028c81cc7a51597bfb" >guiqwt-4.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/04/5f501a0ade18c7963c85a95a11b0d827ca2463b1f704372147ead6cf6867/guiqwt-4.3.2-cp310-cp310-win32.whl#sha256=8c3cd86808aaaba508ffc73c51134ab5dda892fa26e80014e9f4d0bce75eeca8" >guiqwt-4.3.2-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/bb/f7bc9d70cde19da648af77732152359dd6c617a96c5b640337e9666f04fc/guiqwt-4.3.2-cp310-cp310-win_amd64.whl#sha256=88be611800ae02e1267ea2d2bb2acbf0e988fcdb3a0e7eb727c00429c1cd8498" >guiqwt-4.3.2-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/bc/0c9ec97e3251ebb55ba6b3deb833fa3cf50cf9d12270c12bb980dd64376a/guiqwt-4.3.2-cp311-cp311-win_amd64.whl#sha256=54d91291eee9c3bae9a046e2e5951b6cdc879f4fe25d7e04cd84e06d025a7e50" >guiqwt-4.3.2-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/26/c9911497eec443238b8dce3396ecf839e7e6f80537d616f233af1c39b2e6/guiqwt-4.3.2-cp37-cp37m-win32.whl#sha256=23dd2f3940d4b3c704b01e3254ca7ee8a055a49c75bb3d9c3e25ef5945b69a53" >guiqwt-4.3.2-cp37-cp37m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/5a/3793d7fbc9d5fbd9cc3b9cfac5fc7d27e4a5fbd76ff10c7ebb33d73d3c58/guiqwt-4.3.2-cp37-cp37m-win_amd64.whl#sha256=837109cd120d015576e6cc3505a8cc19946c321ea0bcbcd73fd3604b4eef4372" >guiqwt-4.3.2-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/9f/c22060a526f081b527c0c7fb8c07eb682914ae575a290b41e2ddf5c5b541/guiqwt-4.3.2-cp38-cp38-win32.whl#sha256=470c311b50541175b46244260636bc4eea89e168b5e3ddf9ca8c2f4f92beaa0d" >guiqwt-4.3.2-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/1f/73707b10f13fc0a956b40d6b140b3346c90092d2b64b5fe0a4063cd2f207/guiqwt-4.3.2-cp38-cp38-win_amd64.whl#sha256=dbf67621c227d7317cbf8c17a579c1089cced4c88a27d913e8a27411755639b2" >guiqwt-4.3.2-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/6c/56ed22726da048357d73b5eb6e12026eebb2bcb654b2cf62c85094eb21b2/guiqwt-4.3.2-cp39-cp39-win32.whl#sha256=cb5a2c3ccc6ace7655cb91aeede2a405f09028b6beb6c252087cf091bd1b1f08" >guiqwt-4.3.2-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/4b/26384ed94bc0ea4ba3fe116731cce52476a1b4947de4c4733cb27f9b053b/guiqwt-4.3.2-cp39-cp39-win_amd64.whl#sha256=6fe462320688b55bb799845c89b9c6493b17d806a7128e3402d04610fe6b98f4" >guiqwt-4.3.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/a9/f9b7a8b7a1dcf72fde786a453fc183e94cf9c0611b7ec2692b8506c01174/guiqwt-4.3.2.tar.gz#sha256=b358a251e99a0264cf5d15769a54c75cc8c31f54dff12b3bfde25fd8f6e217f7" >guiqwt-4.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/6e/3c7bcd4662ceb3f9cd90e187575d100ebc809c235b7f75c05e2617517579/guiqwt-4.3.3-cp310-cp310-win32.whl#sha256=c3dac15f8ed8513a4e73cf9692fcd608c0afa489f43232b08db515a1e4457820" >guiqwt-4.3.3-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/30/82d55ed0c9acf29c1d32a26b97e3a892016ba8d7c28bee00e90051345a15/guiqwt-4.3.3-cp310-cp310-win_amd64.whl#sha256=7052dc735a7c8f911a20ad0f32725203bf320ef469419f2b6a178720efc80fdc" >guiqwt-4.3.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/95/a0f6685d69a0868a09b9d5ead59ac7e42b13d423a9c2e3355cf77e5331da/guiqwt-4.3.3-cp311-cp311-win_amd64.whl#sha256=4eec5fe6d2c2f20966a3d936eea32a2598093a4429ec533a07f6edd9757bdb12" >guiqwt-4.3.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/a3/0ac20c35a2b55f26c97d5f70da996b3a5062c9f163d13b57b1b5b3f8718a/guiqwt-4.3.3-cp37-cp37m-win32.whl#sha256=9febcc23ed74602d8f4320b651e8b4dab8aecafaffe54699ea5f5e531a13ccef" >guiqwt-4.3.3-cp37-cp37m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/dd/f4b277c9b50ee0dcded732450a1df133c0964bd45f490890f7e2a4ffb680/guiqwt-4.3.3-cp37-cp37m-win_amd64.whl#sha256=75ba75495fb293bc904d27d3b657a7518b707abf418985a099024ce99c232668" >guiqwt-4.3.3-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/e6/de05a02d93799d031f8ae5ea3ebf627a698cfc59681b00fc546b6062bf29/guiqwt-4.3.3-cp38-cp38-win32.whl#sha256=a7e9edb8866bda509cc99d41d490b0978f33bd15e25077820136d5f2e6194f99" >guiqwt-4.3.3-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/63/a830515578e1517a58b1539912edfba4457c9b9e35f817f629b61728f345/guiqwt-4.3.3-cp38-cp38-win_amd64.whl#sha256=e63ba4731c5894b59e283544e39cc047099437653ae7e0d2dc02b2e95c91155f" >guiqwt-4.3.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/db/df35d086a87bf2c9c42e13d49f5d05637604a6d3993a870f5c2ce80274ca/guiqwt-4.3.3-cp39-cp39-win32.whl#sha256=2e5f21368952e3aef0182f880aa297da161c97cc723f0e870a9b7c6ce30f49d6" >guiqwt-4.3.3-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/7e/2095409f93e1ebcf34da1b49ec8ea7862e71b6cca280339eb8519e5e6d8a/guiqwt-4.3.3-cp39-cp39-win_amd64.whl#sha256=a1accd54eb0b3396238673a1e65d9eab396a5a8fb5e8c7fe54baec7977c26103" >guiqwt-4.3.3-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/30/41e563fb90985d810ff212faaed52927f236ec37d576765b9b68d7520114/guiqwt-4.3.3.tar.gz#sha256=28f1d2a73ef53a684501f6c7067a57354ff46582bc4f34f7abee46c38630dc4a" >guiqwt-4.3.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15773006-->
+<!--SERIAL 16940916-->

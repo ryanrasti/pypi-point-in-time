@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flict</title>
   </head>
   <body>
@@ -30,6 +30,30 @@
     <a href="https://files.pythonhosted.org/packages/e8/c0/7bca6ab19b025e6c9b51530dd7d40b35f738d07fce759e05246ecfd7e064/flict-1.0.10.tar.gz#sha256=de0fb84b180888631143f268970e992bb9481f099851aad9c33c91ac206fc16a" data-requires-python="&gt;=3.7" >flict-1.0.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/5d/2a4cf07a06941a5a6d1ba32794f59f649339b6ca3a4c0870b8d2324fde6f/flict-1.0.11-py2.py3-none-any.whl#sha256=644ebd1c496fdebe22e1518ad79b00c19025a7d192ddbc9ee864432d78dbdd4f" data-requires-python="&gt;=3.7" >flict-1.0.11-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/3b/7e6b9072caa253639812890ffb07d758f921538b928d802db81e67162869/flict-1.0.11.tar.gz#sha256=edcc2beeeba2cb038638cc9c814eecf50c38e203438a50d4a4825d2fefb2bd4e" data-requires-python="&gt;=3.7" >flict-1.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/f4/d6f2ee17fd0d438ce72bc976026f83d87b218c3dcf22c1344071490a1207/flict-1.0.12-py2.py3-none-any.whl#sha256=16a423ffa5da9af913015250a7abbc782bc091cbbd6911b7cdc09dce88093796" data-requires-python="&gt;=3.7" >flict-1.0.12-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/44/c725976bbdcee17e0911d9baa01b61d87099110a69334e614124b3a1f67a/flict-1.0.12.tar.gz#sha256=c2a31657fa4852fa53231c9676e22fd65c31d0c52bbfb0da4a46e998da36ed30" data-requires-python="&gt;=3.7" >flict-1.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/40/484abfc69ba7e6b1bbab0bee4824d787a37d3332e6eff12462ea0f6e4ab4/flict-1.0.13-py2.py3-none-any.whl#sha256=1cfb60837193f3c8526dfa04c43bb54c29989d546b0683db2195a1b3bb9c1b64" data-requires-python="&gt;=3.7" >flict-1.0.13-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/e9/33b635e649fd6b841ef235d722088798b054ca1f4574e0bd01bc9c0c7654/flict-1.0.13.tar.gz#sha256=03d6115ba20df874008a4637941803309a9e445832877b4c0e7f820a9cd0bc9c" data-requires-python="&gt;=3.7" >flict-1.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/8a/ba99c4cc07ceb9656beffed2e7499ae09bcc1c6ff7c8ad413513cdbfa97c/flict-1.0.14-py2.py3-none-any.whl#sha256=16dc7ea37d7ba2ba472d09d517978b9039c04e52e3082cd6a0b1bf02c71a280f" data-requires-python="&gt;=3.7" >flict-1.0.14-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/72/9a035ab3b4d498ffedd8f2e304b4593aa8e3cb8797fc7862294fd170328f/flict-1.0.14.tar.gz#sha256=f65b461a6c63128fdb0cbd11fe21f0eb07856c2c833608b68c5017f04c2b6b27" data-requires-python="&gt;=3.7" >flict-1.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/d7/46b8fd6b14a22df818e5d34e47c70ec5e374acebdbd7c8a55cb0c5231784/flict-1.0.15-py2.py3-none-any.whl#sha256=7550d473c8e4d7a67630e61b18f0c45b4289c403b01e27d020c1b114f01735dc" data-requires-python="&gt;=3.7" >flict-1.0.15-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/b1/2f8b8dbede5ac28a60ad19ae860a807e85ea20bb51925475ee0494201956/flict-1.0.15.tar.gz#sha256=d858f401041ae17696c2582d185323cb15c6fcdb21631ace90f9cd05772c76c8" data-requires-python="&gt;=3.7" >flict-1.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/28/86a50fada3239d5181079699f369f48bc54e1a138c76e5cbe29da89a6f7a/flict-1.0.16-py2.py3-none-any.whl#sha256=b216531a36182dd7cfd2c8c3eef9b82d543fc213a0f8419e0c36a02891b8b9a5" data-requires-python="&gt;=3.7" >flict-1.0.16-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/c3/9c8b1efe1371a294d30f2386266dc0f30834cc11b062c63bfa81135518cc/flict-1.0.16.tar.gz#sha256=0d2936414b65b1c9ca7cba10b64a12f1c058d42216143aa479af2ea7daef21be" data-requires-python="&gt;=3.7" >flict-1.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/12/2e6b37e3288f13c015d368d9120e26045b9e2341fa7a475aebe330ac368f/flict-1.0.17-py2.py3-none-any.whl#sha256=95247b1135251a7f38c8cf11af694522c36d395c92aa616d53989597b2e46d58" data-requires-python="&gt;=3.7" >flict-1.0.17-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/aa/7a0b91efae07c013c453bbfe2b6d63e5e39a8e5b5eaf7b63060939bf0585/flict-1.0.17.tar.gz#sha256=5386e4453464babae66d9e1c1a9cf4537ebd4ea089998cd49c007551723d3c47" data-requires-python="&gt;=3.7" >flict-1.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/4a/26f76801256fb9353c609a9d9561d7d8d7d4cc55998d22708b51b0fe69bb/flict-1.0.18-py2.py3-none-any.whl#sha256=4ffcb168b7b2af1bad88b4fb3e9706a07d3f9c6e69f4be36f46a07825442d77b" data-requires-python="&gt;=3.7" >flict-1.0.18-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/60/0488a5dc031f95748cd391500501d9a46ca19b7c0f3c0d0503226e5b079f/flict-1.0.18.tar.gz#sha256=fabef71b75d7c5d0300e72347d91c56104033b3bbaad5d244a9211e76870e3a1" data-requires-python="&gt;=3.7" >flict-1.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/8d/ef6e774ae072dfb69e1d4375da11c18d5e76523e57448461391d6a6bd1d3/flict-1.0.19-py2.py3-none-any.whl#sha256=4e67194af34117931a77e526ac373e785d8817c702313f7a534d5d010083d7b1" data-requires-python="&gt;=3.7" >flict-1.0.19-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/4c/15d75f12f10df94159aafcc0d55db462ae1c262f7c0d78ccab7462f8cd0d/flict-1.0.19.tar.gz#sha256=f84d7f52fc89d4ba4ac4bc5e22eb6f4ceb8f80081181cbb92fdd1fd03731c0f0" data-requires-python="&gt;=3.7" >flict-1.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/b7/47cee4eeafc42e9b3799ee915a06e49319e19acfcd09cbdf7f2524e96519/flict-1.0.20-py2.py3-none-any.whl#sha256=dc8224962c2f3418d3dcfe58ffbe78e69230f05c29f9519bc9e8ee9e8cbaaab6" data-requires-python="&gt;=3.7" >flict-1.0.20-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/52/ba9ed03e4672471225c08cc04bf5dada87568a72288a6c36ae47ed3cb0e4/flict-1.0.20.tar.gz#sha256=b92ed07c6ab3470a1e70173d938a46dc5699e017c003506b6a5cc3b01e8d5687" data-requires-python="&gt;=3.7" >flict-1.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/22/b613ac49f251e38613bb7ced211d1c942b5da4a30710d86036fd0cbf63ad/flict-1.0.21-py2.py3-none-any.whl#sha256=dd1216422bb39fea665b0ba77ea51743b05ae18ba7f33198f1fb35e3a6b0a272" data-requires-python="&gt;=3.7" >flict-1.0.21-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/0a/f3ca818bf39a35afcb51ce3eb42e8d08d7a7a25a8f5afbfbd8485b58fe93/flict-1.0.21.tar.gz#sha256=69bc4de911fbcc901ae9cdc030cfe280d0f8cf4ed39b0eb9a27ebe4b92f9d694" data-requires-python="&gt;=3.7" >flict-1.0.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/77/eb5129444de600dc1cc32f921c42e19f6705e15322f242f9500e6a5f016d/flict-1.0.22-py2.py3-none-any.whl#sha256=a7c351202d01c173b7362dbec3bcf8cb12b3ee2bc21ec21100cc851c10e87389" data-requires-python="&gt;=3.7" >flict-1.0.22-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/1b/5297b2a7a8958d3d4e4622979c38c1c5a9e416c79ba9a3592b21668cc992/flict-1.0.22.tar.gz#sha256=2615fca0560afc534d1c54aa5ce4cb342f4dd99437cd4b4ca4d606cf6a66e5ca" data-requires-python="&gt;=3.7" >flict-1.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/b5/f1167caa1e48e89fb9a41271ff200c70c7906737e3c3c6a3068253dde929/flict-1.0.23-py2.py3-none-any.whl#sha256=5aa0f33e87f4960148f117dcd71f7ba14bd941e69aa4decc57e507125fe10c43" data-requires-python="&gt;=3.7" >flict-1.0.23-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/7c/2431f90d525909d9e26365524c43c4a3c23b02454a9699d227b325f71e7d/flict-1.0.23.tar.gz#sha256=e42fa16a70de187f47c3044aed0928535ed213777541aeaa6fc2e9834d2ef2cb" data-requires-python="&gt;=3.7" >flict-1.0.23.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16407583-->
+<!--SERIAL 17141085-->

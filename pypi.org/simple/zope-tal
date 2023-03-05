@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-tal</title>
   </head>
   <body>
@@ -29,6 +29,10 @@
     <a href="https://files.pythonhosted.org/packages/3d/79/16fca4ffc42d2bd7b9edb3462873d7b396f6ffa8b35c5a7b7ccb884f9fe8/zope.tal-4.4.tar.gz#sha256=6c4149bc2273941a95e1ed80e682f01b3c62bcf5034ce2f0157a5aa81fa89635" >zope.tal-4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/14/98/fe1090289317e9c5ccd670cda8e5788ab38e9c234edb74eb29c21de5169d/zope.tal-4.5-py2.py3-none-any.whl#sha256=7f6cb3db2ebf928854d209cb576b68c854c75f3fd5ac6c4abcf0558f4cc0f0b4" >zope.tal-4.5-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/69/2b8211ae6b2c6a855e4df7103777883c2accdf001d91fd95a2d997e96d73/zope.tal-4.5.tar.gz#sha256=a43f9dc029d2003247b059e46480df997d5018ef6388c5e25a72729aceac8d0b" >zope.tal-4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/ad/3c4bc8bcb7257d1b34298b0ab8d3097c3520c864f74cc8f0ec00414f24f9/zope.tal-5.0-py3-none-any.whl#sha256=e9253e4f1097cecbaf8362e7c4451a716dbb2df9376dca6b47e7fb3bba596439" data-yanked="Missing python_requires to exclude from old Python versions." >zope.tal-5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/85/7f890d3de1b6ca380005d6f2f7cbfb98756182481fd9b0c9af239d61107a/zope.tal-5.0.tar.gz#sha256=07a11528c7ce13a00b9cea55afc1a732f122ed2ca329e73a85ad456a256c9d7f" data-yanked="Missing python_requires to exclude from old Python versions." >zope.tal-5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/11/7347999cf60f7a40e0062ea38955ab004c973fe58a8ad42099e4ac553bdc/zope.tal-5.0.1-py3-none-any.whl#sha256=a25020172500e95c293be0601200521596c8bee30f6cf4da8e224a004baac319" data-requires-python="&gt;=3.7" >zope.tal-5.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/c8/dc51eb13a13e8e9d965bda205a50c589f12d33f3892f776f49b94a2a07fe/zope.tal-5.0.1.tar.gz#sha256=3440e3b7bc8ea6395628b0cf15f2aa74027b8a0a742032740eec98881e14d7a7" data-requires-python="&gt;=3.7" >zope.tal-5.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 10500101-->
+<!--SERIAL 16529786-->

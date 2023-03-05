@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for wasmtime</title>
   </head>
   <body>
@@ -210,6 +210,18 @@
     <a href="https://files.pythonhosted.org/packages/d4/fd/29aa4a0e1b9c513e4f41ca2930dd988db27df8849f9e0db251821f8c0f64/wasmtime-4.0.0-py3-none-manylinux1_x86_64.whl#sha256=7be8ff8b7a3206740afef5fc058c74617acd0666fc14a7a70e3b7bd4eb14ef98" data-requires-python="&gt;=3.6" >wasmtime-4.0.0-py3-none-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5f/a9/fc541bf36fbe2d0aefaa12abfe71d2ba6696ec5ba96717313b3a2b2c4ef8/wasmtime-4.0.0-py3-none-manylinux2014_aarch64.whl#sha256=1037a5f7d1d86848d771221b06136dd989daa204d637ae70037ce42923f5525c" data-requires-python="&gt;=3.6" >wasmtime-4.0.0-py3-none-manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/37/5b4b660e898f5c9740f10766170ccd87391fd8c0af0362f454628ceaaa18/wasmtime-4.0.0-py3-none-win_amd64.whl#sha256=c3e846492282c57a1eb03cb81bdba5d311dc4771c49e6ed8be3200049ee0c336" data-requires-python="&gt;=3.6" >wasmtime-4.0.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/89/3d485c047d70a50dafcd083f66f516509ab4644ccab35fb190bd4f314aa1/wasmtime-5.0.0-py3-none-any.whl#sha256=1069220a1362d93f25d5c49b34a48094e500c17e8794abb17a9cdc274ca6379f" data-requires-python="&gt;=3.6" >wasmtime-5.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/b0/1814882df9aaa458fa1d73397692bb621d4f309abd01831a92d0f0c256a5/wasmtime-5.0.0-py3-none-macosx_10_13_x86_64.whl#sha256=d6dba77465329f0cc5cc524cb6753edfca9a6137256e1d3527f8babb53f39673" data-requires-python="&gt;=3.6" >wasmtime-5.0.0-py3-none-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/7a/af5a0099ecf8beb5becbb146007f309fbfd14e190fcd8f2e93881e4f61b5/wasmtime-5.0.0-py3-none-macosx_11_0_arm64.whl#sha256=c030788fcf12481e71ec2fa6f986faaa902093668ddf06b5e223c93685247a7a" data-requires-python="&gt;=3.6" >wasmtime-5.0.0-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/42/a443b4a5d4f9c7bddefc736d2fd0bf51a22f483ddd7372bc0f0bce5bbea0/wasmtime-5.0.0-py3-none-manylinux1_x86_64.whl#sha256=cea8f9d8423970e91b7b04d4e00e0964a0d2d04277d95f4193ffcae157baff78" data-requires-python="&gt;=3.6" >wasmtime-5.0.0-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/5f/bdd2b59c0663d69554e10f85f54828ea341b062a90ac811c4b5cc50dfe7f/wasmtime-5.0.0-py3-none-manylinux2014_aarch64.whl#sha256=7442b3bf0a6810f18293458043ac3207f3f3baac7559e37eb71df52ba6dc8d5a" data-requires-python="&gt;=3.6" >wasmtime-5.0.0-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/f6/3acd813f29d1507f0ef54e40ef219fc525928bcdd9240fe553fc9d9fd531/wasmtime-5.0.0-py3-none-win_amd64.whl#sha256=4c7f938c77a81fe85fc6525f8c672b5454866265e371fc3cbf6ec62b750aa308" data-requires-python="&gt;=3.6" >wasmtime-5.0.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/16/1b1618ab93746ce84a891c27d45179514fada5ba560d8f2c6b84a3fb344e/wasmtime-6.0.0-py3-none-any.whl#sha256=4b9ccb4c29a6c03729b8eb376de2c7e7e27a92ed5b6f84c2b1a37379eeeeb255" data-requires-python="&gt;=3.6" >wasmtime-6.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/e5/5b500dbd89f22069d3d664d1bd6e5ca1c6110a27b4a13648e55e80622bcb/wasmtime-6.0.0-py3-none-macosx_10_13_x86_64.whl#sha256=dfb974d82f09f8b9f4993a9c3256c42b40d9f223128f54da7d9a07043645ed35" data-requires-python="&gt;=3.6" >wasmtime-6.0.0-py3-none-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/2a/20a9c3f303fb405c72397bf9cd00a8d465cd53aa5c694972d049a8ced77b/wasmtime-6.0.0-py3-none-macosx_11_0_arm64.whl#sha256=df1e6f735642490de585701c1030dc4e9cc4d853628370183fa3d91e9b5d816c" data-requires-python="&gt;=3.6" >wasmtime-6.0.0-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/be/4895f55d5f80b513bfdf2dbff502f428524568bfe0af914f2308eef5a19a/wasmtime-6.0.0-py3-none-manylinux1_x86_64.whl#sha256=5a457ae39c77521aced2a9d66148a38583965ded101cd97803a2f0aa86139b9e" data-requires-python="&gt;=3.6" >wasmtime-6.0.0-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/66/db21ce091e3e9157263a966137568a12cee27c5abe6bfa830fcacc7d88f2/wasmtime-6.0.0-py3-none-manylinux2014_aarch64.whl#sha256=694420c5049d1bdd767daa7969eb73d1dd70a778f2d831d13c4aa14fe63beeef" data-requires-python="&gt;=3.6" >wasmtime-6.0.0-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/69/6ff7cfd641dff185f84143392e1af984a7253819e43228581cfe918f36df/wasmtime-6.0.0-py3-none-win_amd64.whl#sha256=fe77820fecc6f12da97be35d2a3bf0be8e47904e8b7e75e0e07b156a79eadba0" data-requires-python="&gt;=3.6" >wasmtime-6.0.0-py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16336780-->
+<!--SERIAL 16946896-->

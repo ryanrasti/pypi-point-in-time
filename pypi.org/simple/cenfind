@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cenfind</title>
   </head>
   <body>
     <h1>Links for cenfind</h1>
+    <a href="https://files.pythonhosted.org/packages/89/f8/ef81cf18982896b225b86c555754f2698d602ea180faf454b9671986ddd7/cenfind-0.0.0-py3-none-any.whl#sha256=1c7d1c152d30f4095761455dd0f8b18cdf1fc136cd34570393f81ade320ce14b" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/c2/f96b2fccab376aa3e8fe68184631442028deb96846eac79a49b2c7d3d448/cenfind-0.0.0.tar.gz#sha256=059e9be3a7bd9d3855aeaab1cafb0a9df511c1cf720d81c8316a1a77ac784e75" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/02/6d7d5dc65267e0e9e3c12b6a536c1e3b8bd9f42aa360d6bcb75e5b6c6be6/cenfind-0.9.0-py3-none-any.whl#sha256=b3860ab9bdc6937f77f2968d8441146d1bb11abef94e8675ec1fa3a1d090a814" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fe/ef/437999fc68dac584b7d9879bb1873d0a845a1d3926f83f441f7af2df7f86/cenfind-0.9.0.tar.gz#sha256=63a33c5e45c536b9d3a09ddcffc75af6f7ed6f840e760fec66e89efeb1edb209" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/a5/19670d5b36b898f104c08a9a941e452e5c5b6aec1a0349675769df81c41d/cenfind-0.9.1-py3-none-any.whl#sha256=2e940507b3ce464023f0859c97ad0af4d3a36bc786e0306f79916487f741f4d4" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.9.1-py3-none-any.whl</a><br />
@@ -26,6 +28,20 @@
     <a href="https://files.pythonhosted.org/packages/c8/80/4ae6cb4768e5164173fb59eb9d77d987b8f545d511951f3086bbae702f59/cenfind-0.9.8.tar.gz#sha256=03fad9fc2e76463cf19f1ab0c81ecdd180f806f3ed731fdfa95f43760b8af949" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.9.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/8b/d4d8525f671987debf891a61413f48cc7dd23a799b8e9ef74333cda360f5/cenfind-0.10.0-py3-none-any.whl#sha256=2aa2699958fadba0601e4cfcd0ff868dae807d7b9509e63edeff3718542733a6" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/23/84/bdee7c3c52658d70885934f5127893f7c08434d382319de134ea1e40307e/cenfind-0.10.0.tar.gz#sha256=e8fb4a639ba5fc3c5694737f9fb091df0cfe10a923f6799f620c40a15321c559" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/fa/2f7f434b42f705cd3bef294a0f521aa69feb533dcb156cb7767d152a2c1b/cenfind-0.10.1-py3-none-any.whl#sha256=87d66a09a1f8fc0eb79a4e3fb8f99519df7d7a56ea8e85cb4ee70d3f6b147e79" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/fb/d6666e4421083c7724f7e6152a9341a9a69f6770260629509ff1c918c0d1/cenfind-0.10.1.tar.gz#sha256=a06e8303c5e17785317e0d973c7297a28c7bae275f6204d52b05f0b10160a816" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/2f/4c9cb785d742170bfcbe7db25af2d5334e8989585824580a2c96083d4368/cenfind-0.10.2-py3-none-any.whl#sha256=a7b247f4977c8b89aef38241bb9a5b5168e7e098a6f7266787dbca9613d4fa00" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/8b/a0cd5118f7fe74cd1ae34179c0a51c4c00c15c1917061956c55878bd6875/cenfind-0.10.2.tar.gz#sha256=496919b0f88af0123838b9aa6e2023ede6fc5c2020911620703e1051d1382e6e" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/8a/7ee3d121cdc51ec844c7c2e56b87852c224fdedf21ed72f10a0e93b6a685/cenfind-0.10.3-py3-none-any.whl#sha256=589fcacb5b3f8cbe758f5e8912633acf600907fa540d4d45b9cc7f3cf756213a" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/33/7692a0369d479a27de6a7c80c5dc69e1f76e6b6370180feee6d14bd6f504/cenfind-0.10.3.tar.gz#sha256=9fd152f9a265b87560eb10ce3cfbd5f9a11887325097435506441a838a2515b2" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/48/ef01de39be84f3b64ab3f73784d83959cccc143780d14f7b96af90a7b717/cenfind-0.10.4-py3-none-any.whl#sha256=8a486259a44830049fc9a0684bc95ea680ffd6a06b5626e7c3a1620e7f7e3304" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/35/5971f181e0c63f836e8dec708ef5460f4dd6e2c201f21c27002023628103/cenfind-0.10.4.tar.gz#sha256=cb86dff879350050f8ab4fe7851c1209133a9630d59025c0b80b7a4d685646ff" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.10.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/12/51a9aa80b713c691abb33423369ec6f9b368ddfaa6043625af7745af02be/cenfind-0.11.1-py3-none-any.whl#sha256=e3b2bb68417084b0d4a2aa546b9c2ee8997b66f7390ee1a86cd1a70ad778535a" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/82/1786770dda94cc8be16138259f5ca1ca98ae5d889c55e776cf9ee23a6d23/cenfind-0.11.1.tar.gz#sha256=2122ed04d37d313550ba132267f18c9fbb34bc4d6f75f10c874e6572362d4988" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/44/52bda0393db72eb4020a7be9359219bb4cb4fecd61cf204f29925e8cc70a/cenfind-0.11.2-py3-none-any.whl#sha256=979bfc7663f35e75a3195ac9d0c7a9fccaa8ef9b19f1a5a3f083e74ea50dae65" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/3b/16a2a0f21d7033a3fe0c5211b69693c3110792df74ac24999af3bc373794/cenfind-0.11.2.tar.gz#sha256=35d56b17cac8a1acf07ef504547371e086d8147c7233831c2ee8dc0aaea6a3b0" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/67/beea2bff4fd84e7d308d1305ad25f155d3b67300e73519fdc39fbcc80937/cenfind-0.11.3-py3-none-any.whl#sha256=25a50a4d027dcafaf854fc94df469c6ef8f23d23c54c9100269a4b3d45a73194" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.11.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/12/6820e7c09fba39393532ef4cf4b2f922dbf04d78120e9110850c4f6bf841/cenfind-0.11.3.tar.gz#sha256=167ee07395d59c6a91120d0a41ac87ac5597bc433ddcfe1ff505ac33cd64488f" data-requires-python="&gt;=3.9,&lt;3.10" >cenfind-0.11.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16419760-->
+<!--SERIAL 17097416-->

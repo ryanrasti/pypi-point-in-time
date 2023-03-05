@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pycgns</title>
   </head>
   <body>
@@ -30,6 +30,15 @@
     <a href="https://files.pythonhosted.org/packages/fe/54/057d7512ccd6eaa55d805cc97ca933525f1c9c4dcd7e7e2c2145cc4ab41e/pyCGNS-6.1.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=48477ebf9e5d2123c2dba25d74a289b69ba72c2c52d5d98f8942ec4ec25d7721" >pyCGNS-6.1.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/5d/ec021cce392e8b413ef8ff5d7fcebeb7056988e70dc382478689895bae80/pyCGNS-6.1.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3f511d0af5ca77376b1b61dbf0669bfb566a0dee4db0a75a228e627276b43048" >pyCGNS-6.1.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/76/aa/fbde7069ff581f143774e96e8cd10a5e1a9f23284f76885f986b834c233b/pyCGNS-6.1.4.tar.gz#sha256=2caf946a536642e99f36b9f884dfc04a05ca0ba0b847c7333d780e39d40b3886" >pyCGNS-6.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/45/b42fa4ae49d9c0dd1aa7f15ab6b11a6b93823415a85540e801cebab77662/pyCGNS-6.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8bf0d9cf0bcd5778613c955e4539b45e9de96cf98b958cc7c2a4f7d23500eddb" >pyCGNS-6.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/22/4d2dc9178cb202a16e0323a35c2b63bb681fb4d22fb22d92135c3b0b9d3c/pyCGNS-6.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=cd272520e31d98536068f63063e914c71cdac4af57d9539f60a759fdf8cbf3d6" >pyCGNS-6.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/f1/425d5e4b4fcb140e3d77c8fb38090299b9c81e77a3ee96bc0ad9963fa270/pyCGNS-6.2.0.tar.gz#sha256=7e22232e4c47df4ef67ad398bdeb897b3d31b376b90d5890ec9285672a68cbb1" >pyCGNS-6.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/1b/20beb2454a17dc19fa2fa6be8e8e82f81c493edc7ea5bcfd09c38aa0a415/pyCGNS-6.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=622839e90750dc169f6fc1570ef4ac67e2824cd31506cc986a4af11469c418a1" >pyCGNS-6.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/1b/2c4e235caaef9cb1fabf893549c86a2b2513d53789393f14f43e69cec389/pyCGNS-6.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6b3c33e40f64469368afd311c5fb6f2be4127caa21f3f74c33a2f44ee46291f0" >pyCGNS-6.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/60/62283a62f85224e84688004d53ce810c60a5130a7ce350ab18108fb00cd2/pyCGNS-6.2.1.tar.gz#sha256=dd2da464ec8a149b21ca6965ee8d3c285735c985df1b1259e4d98a180d757fb9" >pyCGNS-6.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/09/3b70fd2f3a72d8aeaac8f9d1210d6b319ebe7cd62b4549561778705dc8ec/pyCGNS-6.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=060e84fe713ea0e92689f213d9e10f78d94010599aa6446cc80e2f82cc617f47" >pyCGNS-6.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/12/0f93d0d2750411a131040780041d7a70040ab71106a8470931d5396cbb76/pyCGNS-6.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d46e5483bbe6a0461ab33dd49e7b09bde904b8cd7bb7b8fe77d58e992a5d8be3" >pyCGNS-6.2.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/87/4edb4f47de41c6ba9c308489a04a40d18da578aba95571f0ab1f1f93acf9/pyCGNS-6.2.2.tar.gz#sha256=2e82ba90fdbe88cf61d8d67f86290d4fdef344176969aebd0388927583e22d70" >pyCGNS-6.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15158636-->
+<!--SERIAL 16656805-->

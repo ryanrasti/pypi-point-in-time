@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for snowpark-extensions</title>
   </head>
   <body>
@@ -30,6 +30,26 @@
     <a href="https://files.pythonhosted.org/packages/4e/df/10ae1af914b7438e8ba265b80e1c019f093acef1a32487392a2fde65a5cc/snowpark_extensions-0.0.14.tar.gz#sha256=abfdde1b5f24501ce21e29861446c8937fb5abd7fa26ac3c34bfabd35730fa14" >snowpark_extensions-0.0.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/74/da2cc2a1ad1106b40dd369781647c38ea383e5b0ae744749e1f87701e290/snowpark_extensions-0.0.15-py3-none-any.whl#sha256=be2fd977ccd5b8b27a31d8510cb0281cb35312831a2a7052f2ea426dcd612416" >snowpark_extensions-0.0.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/d2/b07b5987bafa2d1204a984ad2c4d68538338915d27bb4c353bdbb7a1a6ae/snowpark_extensions-0.0.15.tar.gz#sha256=ec9f584553f110ae1f4d586473b9410143757a8c15c1961293c684e4527bb880" >snowpark_extensions-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/c1/21bb8bcbd0e87423a2f42604cceee755253a6c0f00d1f7efd8b56a973696/snowpark_extensions-0.0.16-py3-none-any.whl#sha256=8e2b302157b6fd6e01673596e9cb619b359b1db36c06529a17308f1e4a0920b3" >snowpark_extensions-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/03/011a9efd270e669b0cd70818a51232fd1e4b4948b1f136182490c24ca51e/snowpark_extensions-0.0.16.tar.gz#sha256=853f29689bbe4730c7af5dbacaa4d8e57e27db0f122c9052d5e7c066a8456d4f" >snowpark_extensions-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/ee/d1d564c0ad39d16836716a9043676bcee87b864f41ebe86fb520899c93bb/snowpark_extensions-0.0.17-py3-none-any.whl#sha256=278d2ed416bf217bf41f27b92f2d42843729c4bf9d9a282b17c09660c52bde6e" >snowpark_extensions-0.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/e9/ed3adbbb3f7950bf16704f389979251d657f43593f8af11b5fa92056aeaf/snowpark_extensions-0.0.17.tar.gz#sha256=1d701be4f82c3f0b853cdbb71081de9bb745b8286271032eac9b0711ff44e562" >snowpark_extensions-0.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/07/4f56427297b38ada1c96277f6a56ce2259053467b79cf8cf9c1e35936b15/snowpark_extensions-0.0.19-py3-none-any.whl#sha256=00061478784dec4ae0e8b878c9fe5f4863e0b3c1494a3b1dd7de5c7604ce6f74" >snowpark_extensions-0.0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/58/a0b78d086908383494a5604eb6baeb83d6703f4da720fc9c5d81fe64e73d/snowpark_extensions-0.0.19.tar.gz#sha256=1ab7ccf43c54bd5f4eb78c0bcf4233f09fd52e4b3a23105a359005e9e97f8743" >snowpark_extensions-0.0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/ec/e5ca2a2da9eed65287a7838e6b57d9445a77f37b966346eb16384bbd6b44/snowpark_extensions-0.0.20-py3-none-any.whl#sha256=da22c118b95a70c2b3f2916adcf216d0bb809f7b3946879e9ddc3e2378b2bf77" >snowpark_extensions-0.0.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/89/6d6149be5f9389b29915d101ee3accccf3cd683270b749501f48fe18ec41/snowpark_extensions-0.0.20.tar.gz#sha256=2307535b794e89b2ae8cf66cd546917d6167ab9503929d9d11285de6a30135c2" >snowpark_extensions-0.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/32/929b7e75faf4924373856c80f70a79a3e26a955e6b43549f98d38346ed0c/snowpark_extensions-0.0.21-py3-none-any.whl#sha256=20448ad1e9764d910814b429b5d67e1ffb0fa55c6b53074ba47139f96bc1c985" >snowpark_extensions-0.0.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/78/71c0b8b62b8d92b709512660be77d4c453bd3ed1adf2bed110f196069c64/snowpark_extensions-0.0.21.tar.gz#sha256=9a5e388b308f966fa129429b94016568e7aeaeab60d9c8daa17dbf24b8bdd3d3" >snowpark_extensions-0.0.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/ea/c7ddf86f865c8ea63e0f912cfd21b701a1665635ad71d9d1eda6e1c05949/snowpark_extensions-0.0.22-py3-none-any.whl#sha256=894cbd59c6b3a4c535fc2639e1d3d44fce2dcbc647588ce0340ec75d3e48cf46" >snowpark_extensions-0.0.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/e3/3a8779dcf936775beff15dc346531ecc75ebc6df55b8c95d3b1e0506fffa/snowpark_extensions-0.0.22.tar.gz#sha256=3cce1fc1016570dd6b4b7daeea87e3d0cd0830a799be8383cb97fa4aedeaeb3c" >snowpark_extensions-0.0.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/eb/e60b8c875192de28943f5cb3653e8011c8c53c8bbe3601ea401112cc1325/snowpark_extensions-0.0.23-py3-none-any.whl#sha256=720140c980378a5c628e88bae7cb3dbd1fbc03f8aa02564aef1a0808fcf5a392" >snowpark_extensions-0.0.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/72/77c59e7471732c591cc9f53d38498f3273a0d1bf98181066abc4742960f8/snowpark_extensions-0.0.23.tar.gz#sha256=edbe55a167137a9558544fbabfed530f78f6065d18f8ab2bbf06d225b0421a2f" >snowpark_extensions-0.0.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/e1/8e0bf8b865d2175c23b9a06a87daa5c8651b403e89c4c7fcbccc3d459432/snowpark_extensions-0.0.24-py3-none-any.whl#sha256=bdddd2debe18a5cffbab4cdc42c27d4cb233e4bebd4f751bb30d6129f4f16793" >snowpark_extensions-0.0.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/45/bf7973417a73d585b7961d611503116da882500c4656f0e8c073c8e15d85/snowpark_extensions-0.0.24.tar.gz#sha256=67709997252c1d26e68e1df652ebe92714fd5d5951f0f17030c9b4ea9e1433af" >snowpark_extensions-0.0.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/37/89670919e1cdaf1e9d51a3cbe61015c582626ce538542bebb88a44856726/snowpark_extensions-0.0.25-py3-none-any.whl#sha256=8f46ff4ecab0e04a62e9a1222c689b1d482a1f9fbc7f497c5a8ef9c6f1a427d4" >snowpark_extensions-0.0.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/31/2e6b0cb747c3994f7a722830b9f557c411e624e1da1235ed49c457538c50/snowpark_extensions-0.0.25.tar.gz#sha256=2cb446b0004ccb2abc3452886ea19e2c2b3189df7e8cb626a9460a0ac663d469" >snowpark_extensions-0.0.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/c3/395e0cd6b22e2ee4e519c56a308e3a6c4d247070eeb002f185f3e8fb6e2f/snowpark_extensions-0.0.26-py3-none-any.whl#sha256=61dc1e64616eb42dd73bafbdc8ab37394a2f18e2dfa400ffcb2e29f44dd622e5" >snowpark_extensions-0.0.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/ee/1ed2d7413cbec018ae2572c69c7ec1492f9a43af88ccb26df9318d40fe05/snowpark_extensions-0.0.26.tar.gz#sha256=6e488f20c31749c257a5ac99e7c3a1ba802de39fef743ed70be7592aa8bf5616" >snowpark_extensions-0.0.26.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16302434-->
+<!--SERIAL 16761615-->

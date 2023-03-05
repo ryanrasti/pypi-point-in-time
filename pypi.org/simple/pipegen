@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pipegen</title>
   </head>
   <body>
@@ -16,6 +16,8 @@
     <a href="https://files.pythonhosted.org/packages/d0/90/c1deba63425776f76d2dee0568e116f89b3b036f51382263c104b0b52363/pipegen-0.3.0.tar.gz#sha256=efabae5ca813ef4031afd1df7e906352a377367a720a313f9e3f60bc04eba5cd" data-requires-python="&gt;=3.6" >pipegen-0.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/33/5a/e5cada44ce5aabf3eb92124ba38706841d30236e5090cd75af5b4abc3c59/pipegen-0.4.0-py3-none-any.whl#sha256=9fa3a09d1af4088a8cb9dc8eea2050a3475ef448a3033a29249a75804fce59d3" data-requires-python="&gt;=3.7" >pipegen-0.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/66/6e/844bd14ff6261c8c5eed694a582c645bfdc1d7074b099f0caaf59abc683a/pipegen-0.4.0.tar.gz#sha256=36690f844038986187997ebb24157534fe8c580f114253a866431c42a8a2264b" data-requires-python="&gt;=3.7" >pipegen-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/8e/0a46b2236698d8d4847978855a12684ef42382fc47ad3f7adb0c0e761da7/pipegen-0.5.0-py3-none-any.whl#sha256=8b5d1551a9aedb8f08cc69899762319c156623c1ac1c809ba49a4c0b23bd253f" data-requires-python="&gt;=3.8" >pipegen-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/6b/d266522192d33a9ce8a0e65191b7659d7f272dd68a5133493a5f0db31351/pipegen-0.5.0.tar.gz#sha256=28011f7aed0c0c7c7d59824d4af140c8829f070a9b2d03c50a0c60088be849b5" data-requires-python="&gt;=3.8" >pipegen-0.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13042560-->
+<!--SERIAL 16615614-->

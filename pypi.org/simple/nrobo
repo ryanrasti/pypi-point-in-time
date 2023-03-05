@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nrobo</title>
   </head>
   <body>
@@ -31,6 +31,23 @@
     <a href="https://files.pythonhosted.org/packages/8e/b4/2ccc291ae74a207f25715074d6e86bd46a9c3d9a2b019e07f5312be54db9/nrobo-1.0.14.tar.gz#sha256=1156aa3562f3da1350d30e83b813210dd0eaacf356ebb002d530a885813c28be" >nrobo-1.0.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/01/7b/183d48d5d172d0384f00631d0988bc2b26c4430ab350cf559b439ca87d2a/nrobo-2.0.1-py2.py3-none-any.whl#sha256=75918f6dca119d379cb7c50a8ceafc8c5a5bb54982f740e7d48f7969ad11a780" >nrobo-2.0.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/32/21/0c119d80000a7177b2594edd30b96147733fab75aad62ac44e16c2dbac2b/nrobo-2.0.1.tar.gz#sha256=75ea4a1e5dd1a88e360e0684b8c30f4f8f414c7a32284009dbf8f46cfe68b570" >nrobo-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/7f/2caa932cdc97afb159875df1957ce6bde10f5abce932bb85fd5a0cf81658/nrobo-2.0.2-py2.py3-none-any.whl#sha256=f198b557dff050970de5b667fa6abcd43f9365915d82e9588555b180b440ca21" >nrobo-2.0.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/48/1362fc65b54637887b677125bff5cc34b75f7c69924b76ff0720b9dc4c1e/nrobo-2.0.2.tar.gz#sha256=c1cfdee82e7c20cc79013cceb63d8672ea8ecbb5c89992273dbf69e668402eaf" >nrobo-2.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/9f/efab1a7559d1f8cb2d39a311693b6a94619891f8ebcadb766fe0ef4360fa/nrobo-2.0.3-py2.py3-none-any.whl#sha256=4f77fdda46a09b7498d94ab55e6f4fc66e0a71921a0d5ac428dc8047bf8ddd94" >nrobo-2.0.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/27/a0f608f420a170370ab5dd6151814f81f418763bf5e2fd0c93e30919c7c8/nrobo-2.0.3.tar.gz#sha256=122b70e59cc1acbf16882ae4a29c09d83282c6700df628add6f29436ca0132f5" >nrobo-2.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/20/db4ae44afd041d4864d30a9bb05ef04432e917d7ed05363806e1fcdc487a/nrobo-2.0.5-py2.py3-none-any.whl#sha256=983db1f775d58fe08000cd220cf09e2cab472a3c356768924b1b7a5ecc7b7261" >nrobo-2.0.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/cd/f418537bc66e2efa27a34d89cac75ce72e2c39989196708e04de244f8190/nrobo-2.0.5.tar.gz#sha256=f477ffe7fa638b7613eb531b5d1452c9e8a4381b8b34d1f079784134efec93df" >nrobo-2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/10/19c35c65cd631962859528a5012b4256e7fe30095a5db41b38dbccd9715a/nrobo-2.0.6-py2.py3-none-any.whl#sha256=c28e25ae379b9a30c7c80b34d84ab3afecf2a6fc2e7eda915e8ee408680b3d40" >nrobo-2.0.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/51/634ad3d85279aa31f8f4cedde54d2f1158252a4e90d4a351b9c78b058a98/nrobo-2.0.6.tar.gz#sha256=d0743ef31e912c91d5e5f541e00e8fe6ed98359a089f9e9758f28af2880c5e5f" >nrobo-2.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/71/12aa18600c400e8c5be3ca2bbd0fe4e7319237efd1f834ebbee290b794b9/nrobo-2.0.7-py2.py3-none-any.whl#sha256=41f876506efd88378fb8ea777e04a4437c269df4b9f9759b68e045903868d824" >nrobo-2.0.7-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/aa/e4d3c90e08d3461bf05745d2263aa57998ad9036f46deade94842fac96bb/nrobo-2.0.7.tar.gz#sha256=95e3d62a7b0cdcb41e4a955eab2bffca58bf0646c1776010c1978881e9e26951" >nrobo-2.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/4f/c5e6b402024729f3dc82dd98720b35b6255fb0e096165a19c60f8780fdcb/nrobo-2.0.8-py2.py3-none-any.whl#sha256=c38ceafa92b743a8f66cc391b35b11e616432f21ea5c4b1c261994a0f4f5ef15" >nrobo-2.0.8-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/01/55b435abcb1fac7d6b65be649216d8d0e940f6f90b40034379b3be7119cc/nrobo-2.0.8.tar.gz#sha256=7e39f6d28d7b699b9b7809e862739cb6b2bfa2b2db402096dd00a7222f6accae" >nrobo-2.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/e7/1c52153692bf40b4d27becfe7fd4ff88cf3a35b6dce6459054d61b155358/nrobo-2.0.9-py2.py3-none-any.whl#sha256=585f7631da09f443a314ceed2ec121ddfbf89dffee3c2a50bea583799f39a19c" >nrobo-2.0.9-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/93/6824d2d31a9ca5b1711eef6e257215d163982b1462c1af48d0617adbe42b/nrobo-2.0.9.tar.gz#sha256=7e10402d15b2cd9d9c638a3fabb99403971b80d5e5baecd6b2bc4dd4bae13815" >nrobo-2.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/12/e3c86dabeb8cba20489befe050f6f854534466cd3aa12f27657f97a27c45/nrobo-2.0.11-py2.py3-none-any.whl#sha256=3d9fd249cc5ca2da894b46f4b78327d3a40156273b60c7e052139fac608c36ff" >nrobo-2.0.11-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/c0/363d38de85d60d590f259f818274ed4ccee61e5f36a51b1f13f3514d8824/nrobo-2.0.12-py2.py3-none-any.whl#sha256=dfe76c9c68b29657f2d6bae8175a648d3a419a24f32cd65ceeac900176b551c5" >nrobo-2.0.12-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/36/eed42756cdeb08a6d192032dbb53e82edd316594a82b4328ac2c8e0c5f11/nrobo-2.0.12.tar.gz#sha256=c8c01adc3fa6e808a1193f47e7f28d89979a9147f14d15cd512f00d5ffa9d366" >nrobo-2.0.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16429558-->
+<!--SERIAL 16638957-->

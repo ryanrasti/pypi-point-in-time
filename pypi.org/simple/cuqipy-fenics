@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cuqipy-fenics</title>
   </head>
   <body>
@@ -30,6 +30,16 @@
     <a href="https://files.pythonhosted.org/packages/90/23/8450bd2cea786bb43bb59cbc8b5af78ff7d8fe851d16b0d2e5242bf53461/CUQIpy_FEniCS-0.2.1-py3-none-any.whl#sha256=3a5265a201297ca28ef33b8446fb0295c8d957a01f870c6918416f327a1df011" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fd/8e/6b67d1a210aad996f4a5b03cc80f746587230122d5a8aa9354ef705f08b5/CUQIpy-FEniCS-0.2.1.post0.dev3.tar.gz#sha256=a901f5ce3e815de5f42fae244afa45dde2391319e1eb57e7e10892c83c9f3c26" data-requires-python="&gt;=3.7" >CUQIpy-FEniCS-0.2.1.post0.dev3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/af/b6/1c116d12aeaf4123904ed37f4cede37caf46ba532c6f71d17728e005877d/CUQIpy_FEniCS-0.2.1.post0.dev3-py3-none-any.whl#sha256=8350931c48543e87fd67b832115701f9bac34bc513951ec9994dd2e40a2217d1" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.2.1.post0.dev3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/59/10bcfd0ace8f540a3387362ea1e9a7a4c0e8eedc8427d44d4f9f3565e8a3/CUQIpy-FEniCS-0.2.1.post0.dev5.tar.gz#sha256=9f4d2d26a221fc8a495168b5779e6405470fde42308dab6de1068e9f612d72d7" data-requires-python="&gt;=3.7" >CUQIpy-FEniCS-0.2.1.post0.dev5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/28/3fae4d5ea59009ae2d0acf937fa0554e10621e471fab308a201a78d4a758/CUQIpy_FEniCS-0.2.1.post0.dev5-py3-none-any.whl#sha256=250b74e6417a9d243cfda0807997109262c36b12c6f6a63feddec70cc5c6b7e5" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.2.1.post0.dev5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/94/f1891a63fa09d503bfa48528eab564d50ef6e9001309edf446d121fffc12/CUQIpy-FEniCS-0.2.1.post0.dev6.tar.gz#sha256=7bf504a93a31a36291e3a45b856e8444d39ed7d8ec267cc5e6fc106385077c04" data-requires-python="&gt;=3.7" >CUQIpy-FEniCS-0.2.1.post0.dev6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/a2/364045f34a6f2e820af57ca7e52890a95573991ed321497bfa37b662efa4/CUQIpy_FEniCS-0.2.1.post0.dev6-py3-none-any.whl#sha256=9222d21d16c8c7fa93686fa6b086a38b78cf0b51172a2dbe57f86695c3165b73" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.2.1.post0.dev6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/50/4e776763d8c1c10663d3b76d7a3d4a5b977ad22176036fafc53dc699e72b/CUQIpy-FEniCS-0.2.1.post0.dev7.tar.gz#sha256=f59c47ffc6e5976091b885b3d9d9a77f5674cebbdd2505147c6e1dfca84a3a35" data-requires-python="&gt;=3.7" >CUQIpy-FEniCS-0.2.1.post0.dev7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/06/7e022828232271b40c7bb7ced01b181d91e8bd9b1c12c6ac827d2e7166da/CUQIpy_FEniCS-0.2.1.post0.dev7-py3-none-any.whl#sha256=b847822e640381d99cc7c278deab5b8ea517c485f31efe1ff150cf75a19ac426" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.2.1.post0.dev7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/8c/d2a8c82d03395f4a7eafee1f942eb4456786563bf1683badac86c284e660/CUQIpy-FEniCS-0.2.1.post0.dev9.tar.gz#sha256=99bab7718569d4ee207ec3c0255dd0476a22ad2e26eed370bd57b974d74c0bf6" data-requires-python="&gt;=3.7" >CUQIpy-FEniCS-0.2.1.post0.dev9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/22/2e2ec304e179e592b80a2139c88afc372e37e99dabc62f2485b6635ab8cb/CUQIpy_FEniCS-0.2.1.post0.dev9-py3-none-any.whl#sha256=648a73772ad2bb0455028ff6930586b3318b2f70cafff58b35df7f44279cb12d" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.2.1.post0.dev9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/4f/a12e100e9dfcee193bdc40f9eba399a88458a69edc6a6a580d745a21685d/CUQIpy-FEniCS-0.3.0.tar.gz#sha256=b5ae936fa8598283b0da07f7a808c65bcaa082d0586606251291fa39bb19e86a" data-requires-python="&gt;=3.7" >CUQIpy-FEniCS-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/54/a61881726f1402e1c0a4c7286c5135f62d449c6106a6a1048e584271783f/CUQIpy_FEniCS-0.3.0-py3-none-any.whl#sha256=2e3bf1176f7f5be1fd31e6cac6713c55be535eb1b6ee78790ea14288985c5244" data-requires-python="&gt;=3.7" >CUQIpy_FEniCS-0.3.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16386891-->
+<!--SERIAL 16974067-->

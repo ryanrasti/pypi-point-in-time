@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flytekit</title>
   </head>
   <body>
@@ -562,6 +562,10 @@
     <a href="https://files.pythonhosted.org/packages/da/de/063c548679073b0419e9b34f263ba6a98346cde2f3e10e362599458719fc/flytekit-1.2.6.tar.gz#sha256=3e3a0b83e91782368cce0d62374e55eee7fd5ca4cefe2088e34fe022c35358f4" data-requires-python="&gt;=3.7" >flytekit-1.2.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/fd/8ec9f5b1634c27c78398ebf44a61f90df599a3574bb0364990b3a0e2aca4/flytekit-1.2.7-py3-none-any.whl#sha256=9a2444d125172d80835fdf25f71a12edf239821cf9a3b313f177f9bb580e5d9a" data-requires-python="&gt;=3.7" >flytekit-1.2.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/85/4f7e68f3f1ac3e58661c900283cef694971235df9aab2e2e46ef01fcce68/flytekit-1.2.7.tar.gz#sha256=82ff9be5ef42fe78f8152ec31332d2d510914229013b038c59270b51a95c5094" data-requires-python="&gt;=3.7" >flytekit-1.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/74/6bea49c8e7ce6a4ffaebaf2878e3971f404237afdca75791387071788df1/flytekit-1.2.8-py3-none-any.whl#sha256=a6e35e47daa8ff243704f4f2dc17723d8abf4b6e2059b78fac9f20f2f504697f" data-requires-python="&gt;=3.7,&lt;3.11" >flytekit-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/13/462584c2733b241430457cf1fb0a5295d71c8592f52349da5348000bf6f6/flytekit-1.2.8.tar.gz#sha256=c53e1aa5a93c3550ab3800cbd7643375eb5bd09b2ff655f5ee24d0c5e97523fe" data-requires-python="&gt;=3.7,&lt;3.11" >flytekit-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/84/62ee534cc94bfc0275ce647df4950f2e269a6f5e6cd24b6cfdcbdecc6695/flytekit-1.2.9-py3-none-any.whl#sha256=36000965faa78aa24abbeb4018a9aac2430817225067e45824402db95e4619d1" data-requires-python="&gt;=3.7,&lt;3.11" >flytekit-1.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/10/93127e1529c30fca32c7dd32cd892709764fe52a1d1e0c896fc0267a19b9/flytekit-1.2.9.tar.gz#sha256=6f54543726b46e4414e53c66ef8468549187dcf2ec274fa21c411ef78b2ef2cf" data-requires-python="&gt;=3.7,&lt;3.11" >flytekit-1.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/4b/6c621870f5174600128d866beef92ab1b0e34f738efb5d6febdb394866d5/flytekit-1.3.0b0-py3-none-any.whl#sha256=2e97f81c0f651e66a0078cecd8566454d289acc718d74ec962a5085b069728f8" data-requires-python="&gt;=3.7" >flytekit-1.3.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/99/03f4edb17a033cbfa96eb53493e34f9e2e942a6759c0807fec07f9e9dac7/flytekit-1.3.0b0.tar.gz#sha256=d7d46e681436cfba29d1d0863775ee5030d107e7214c86192c9250981b608412" data-requires-python="&gt;=3.7" >flytekit-1.3.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/65/54/0e23417f32ff68b43bfbe9b43a8fd53f1653c84fc487e6674dd750b52fe4/flytekit-1.3.0b1-py3-none-any.whl#sha256=679f43dd88e6351159b2b392bfa7bb9cabbf7991fdf83c22cd5ac190a972c0b8" data-requires-python="&gt;=3.7" >flytekit-1.3.0b1-py3-none-any.whl</a><br />
@@ -578,6 +582,14 @@
     <a href="https://files.pythonhosted.org/packages/fc/32/fc35ee3ef6103acbc61fc6fda9e08336968a09f41df3e1fdbbeb695d4b94/flytekit-1.3.0b6.tar.gz#sha256=0320bf6b52042fb262f29ac1dbf17fe8d30b23feb5f3a5735aa75659dade0889" data-requires-python="&gt;=3.7" >flytekit-1.3.0b6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/a8/f968fe1a9ebb60a8b76e6442a7127129151abc68f934d3a52e43bddc8250/flytekit-1.3.0-py3-none-any.whl#sha256=ecf281976c7b7df17b8923ba4872fded7ff0c1c05499c9fb3721af5b1eb3bffa" data-requires-python="&gt;=3.7" >flytekit-1.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/0e/afcd2e17e253d53887a0a5a0558356ea306ec50d7b267ded7bd504fc6f87/flytekit-1.3.0.tar.gz#sha256=d61aa8800bcf137d0f70786362f69bbe03a640e76b959624c939bb487112e799" data-requires-python="&gt;=3.7" >flytekit-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/d2/13306b4aa66e37de2f8c89dbdbecaed3aa0b6e9ff79478dac84b9c1d0501/flytekit-1.3.1-py3-none-any.whl#sha256=24529b3a0abdc851030a9e198578db0352d75f208872465c8446810fdaffc69d" data-requires-python="&gt;=3.7" >flytekit-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/2c/08ebc7b4b734598ce8e1900f3b7bd10717a4fb0335ab02ff41d918af7757/flytekit-1.3.1.tar.gz#sha256=e593f39bb02e247ccd22ed90877d57f7441a049367450d9bd5d77b6bc41fea14" data-requires-python="&gt;=3.7" >flytekit-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/1f/57b5f4108cf12251f87cc6c0157fa1fc7aab959eab97ff52114a67f7d6ab/flytekit-1.3.2-py3-none-any.whl#sha256=054913ec0deb00ab21827b810ec0123769c2bab63307163bccb412dd29e148da" data-requires-python="&gt;=3.7,&lt;3.11" >flytekit-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/87/bd2f656c552e070ad6be44e3823cdd391e4aedf4e3699e59006a2baa76e0/flytekit-1.3.2.tar.gz#sha256=3da3d8ff0b4766d6a4863398901f9ef50666ed05dbfdc3e14e651ebbd857f0a6" data-requires-python="&gt;=3.7,&lt;3.11" >flytekit-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/45/6d00041c92df20f3f9ade1d5148faa6aed83daeb1ae07c8a1fa8a0af4fe9/flytekit-1.4.0b0-py3-none-any.whl#sha256=b7cd33f38fd728a633a96c290f2a9c9bb7f2dab374b22b5c594188ef1f82d8b8" data-requires-python="&gt;=3.7" >flytekit-1.4.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/40/cb8698eec6f3da3552c0eb3bb0cd1062ed8eb3b530bb4faa13e981d6f298/flytekit-1.4.0b0.tar.gz#sha256=9b65e3b87feb887772f4631fc8ab02bdaf1c7d1a87651bd2b06791323f60f508" data-requires-python="&gt;=3.7" >flytekit-1.4.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/02/57a02e6b782dde9faac237855160536a37721b718f00b95d6fb8ea7be723/flytekit-1.4.0b1-py3-none-any.whl#sha256=6ab36c7c14fec07307e5b296c739fa0118a6458c14b99a474e38ccc4d6dd8a8f" data-requires-python="&gt;=3.8,&lt;3.11" >flytekit-1.4.0b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/7e/6bea00dc0c6411a27e404184da9a717e163c91f30675bfe4a11789a0357d/flytekit-1.4.0b1.tar.gz#sha256=c6c5630ddbece6eb0217288f193a48d47a272d0cf8346e520be5d6fd2794e277" data-requires-python="&gt;=3.8,&lt;3.11" >flytekit-1.4.0b1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16407935-->
+<!--SERIAL 17100596-->

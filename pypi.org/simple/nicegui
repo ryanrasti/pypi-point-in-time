@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nicegui</title>
   </head>
   <body>
@@ -288,6 +288,10 @@
     <a href="https://files.pythonhosted.org/packages/29/59/ddaf9feb7d43e6c971f96d4e62923245484dbef8f485e0f9a674a6892a37/nicegui-0.9.25.tar.gz#sha256=8ddb1db3ce15197a7d5c75f9756c720ef2b19427871f34713f3299ce9c4b8199" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/03/23717d8b435e2a2832a7057e89bc68c572ea4d5318266620bce3a5301138/nicegui-0.9.26-py3-none-any.whl#sha256=1528f3fcc92538eb9e8962ae8cd01f70e3b4f1e01fe652865c5e10c9609de9d4" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.26-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/a9/6547317e17d788929bda64af1b9e74fd404d5f8fbdb098ba2b946c541a26/nicegui-0.9.26.tar.gz#sha256=07a6e0812def9bc09ed24586304f450cdfa433e01ddfbdfe134904c87785afa1" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/89/dea69c1400b9d1aa4e3059bfdc33dc230ddc50f93fe74da3035d52df9c63/nicegui-0.9.27-py3-none-any.whl#sha256=4ac02bef6dd2f91d07aae83fe00f388cb8c0d1a257333c22432f30f7ab72f366" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/60/16063e9685de827db4ad413465bce71ad613eb5567eecdfe5f7aac130afd/nicegui-0.9.27.tar.gz#sha256=df7ec1cff635e09f8099986f4a715641f5a6541ab2b12d7cb7fad0732253d23b" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/01/4679078dc992f1b42f62af8339b24a390816c768262d12dc9966e4aa7af7/nicegui-0.9.28-py3-none-any.whl#sha256=c034681b19b91633ea7fe1aeefc6625e02c52e24c85fd601bdaa4951998922a2" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/50/350813f6f56ce750b3bfad61cc33e0d0d0548935906f1c4df0c14f210d82/nicegui-0.9.28.tar.gz#sha256=242d46def8633384f83143eb64b064b069c61784e6559a412b9873bfc95f85ad" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-0.9.28.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/30/19/995bbcc40bdd34d77d0d9808e859eea073ee3aa148e550cc61108295e06b/nicegui-1.0.1-py3-none-any.whl#sha256=4248a81061468d2faa7887d6efc38027d5fc916314e0036c4230b284f70588a0" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/91/03/efbd6dd45756d374dc4e8b1d7a5e6bf1e70bfdad05ef6dff90965c7a9ccc/nicegui-1.0.1.tar.gz#sha256=1b2356621cdf544182f28a61998d386a9b68b7c5c7814ca42bb64a0e14de0085" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/d3/d98a18ce9cebd1bb8420b419441a4c69bfedfb41ccd911557595d31566da/nicegui-1.0.2-py3-none-any.whl#sha256=f6bfacec5039f220a94fbde6b3c54d4bbbae88d3d832e2c8da275ac4b6cf0af6" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.0.2-py3-none-any.whl</a><br />
@@ -314,6 +318,20 @@
     <a href="https://files.pythonhosted.org/packages/e7/34/254ce34e494c8a06ee70d77e568af0149ac383618b281956c9d7ba8557c8/nicegui-1.1.1.tar.gz#sha256=df76dd46fea029dd922c23de77672a5112e9af72d9cc6a17a68056ec93326f9a" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/fd/00028d5aeedf23a99fed845a2b50427e28989be27624c049358a7e849566/nicegui-1.1.2-py3-none-any.whl#sha256=1f60dcc41e157a34ac699f14cb4baeefff2c21c0147031f94bb758328d9d5584" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/6c/22f0595759a22930345b7c61dd302ab257ee4a7a96d5f8fcccfd246873c3/nicegui-1.1.2.tar.gz#sha256=389f2b8b75d73985f5d4d3be9831dc379088250c5a338f1dfd7713ece84ba16f" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/92/7d0b6d481dcac2e8ecf1f1ec997ec09656b0d409b6490c9786f88d5e11c6/nicegui-1.1.3-py3-none-any.whl#sha256=f8910e2899e4574000e54dd9a238ffaed11e83fa2b6b728b46031b7dd2361058" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/6c/8842262c5402a5b769ad6e3af2baeaccd5193b51c43f888f459d2bdc9c5b/nicegui-1.1.3.tar.gz#sha256=0079abd5a01ab203f093c155eeb4efef096a8fe062e53897d6fc9f54237ac9e8" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/5f/3dc872dfe7c7447884602ffd8af3e0f253cb722850befcf517580a029bb7/nicegui-1.1.4-py3-none-any.whl#sha256=88d8a105dcdb8e4777a5a240ebd0e4280f1da342e3716b0e32b503e4ca90ca5a" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/98/f4f4b157f22318c0f55a72fb49291192c9059e85287feee0afd71d3f609b/nicegui-1.1.4.tar.gz#sha256=6272afc22cf561cadec0112f0133a9f8e666c4e5b6741aa620dc1e719898a3f9" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/c0/247b6cd8a3e6f47d209e1a8d57de8306d526463aa14204a56063e00b19b1/nicegui-1.1.5-py3-none-any.whl#sha256=75c3e15d2a27bcef1b46105943364f15e9697d4a0115e2368b0101962c758c30" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/ac/276e87b39fd49b366b4d6a24647aaa242332346da1e9203ed5982eff2626/nicegui-1.1.5.tar.gz#sha256=a2ec2c03c0660cd63063398d0c955c283ef4e12c22c340a841cc3f898216b400" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/f8/b7b6a083367d8b4585b087a34416f5f965a72343a777b2a1ff179c003fbc/nicegui-1.1.6-py3-none-any.whl#sha256=5fc2d0f11129fe613e6cb0e4414d6f78027d415f777b7dab618452e8b95d1de7" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/07/19d5b7dc705b7b963deff29ad6158084587711447f8ab5f2dd73544579bd/nicegui-1.1.6.tar.gz#sha256=54eb4e541ec8e40435a2e9a4957611b039f89a67cab6d91cfaa6edc771d535d6" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/27/4495a93ec15aba8ea19e1671137b6d4c5ee4da1a9392b076a61e68309601/nicegui-1.1.7-py3-none-any.whl#sha256=048e29991e8b6b5de5039a17fea220a1bddea50cad34a5abd64a1ff3e07091dd" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/66/3e101bf48634c41a2580fc7530956f0875db4cc7c5ec531e417c0e54a25b/nicegui-1.1.7.tar.gz#sha256=afc4d90986bf9f577d0edbe52c1e12ed1532be574151cd5426d2ccfa4cd2ef52" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/47/95cb80012f5de428fddb825f42fca4ffb002765d4849668ec0731536b689/nicegui-1.1.8-py3-none-any.whl#sha256=3f68c28291df4cda44b13a676dff0fc0c2edba85027ce112b7f5cead4d860e3c" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/71/724365a34adc438e8d69ce8559f77b62c9a4bd23bdda322d33c3da6589fd/nicegui-1.1.8.tar.gz#sha256=c4ac0325552edf524d7babc51cfe8d380284c8a08091e98e0a85a1586f23e748" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/27/4e23e7a56c36373e033487a1d7ff3fafdbb97ce39713fa80d9eb5a06325d/nicegui-1.1.9-py3-none-any.whl#sha256=d571aa5f03588fe314e67e0d364b28fdf2c3e176d407afdd815642b58c69d94a" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/d7/06b8b729a01cd2920f2b9e03e79106413d037b7b9e0f4416bdf5245d884d/nicegui-1.1.9.tar.gz#sha256=cc2a843dfeaa536448d9fe98bfe2c09a70d1ebab3806f5343ee5e0a5129f40d7" data-requires-python="&gt;=3.7,&lt;4.0" >nicegui-1.1.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16413936-->
+<!--SERIAL 16944675-->

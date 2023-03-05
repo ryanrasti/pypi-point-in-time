@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kgx</title>
   </head>
   <body>
     <h1>Links for kgx</h1>
+    <a href="https://files.pythonhosted.org/packages/c4/53/4285270883a45c71f325788964949e3ae857d3e4658479970461065a6bf1/kgx-0.0.0-py3-none-any.whl#sha256=fb3ff3f16c4e5f13b8c95a9acc8c9ac4c50be2094ce233eda78bc91b218cc0dc" data-requires-python="&gt;=3.9,&lt;4.0" >kgx-0.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/f5/be1102e3acad8a3015fdae5e90aeb94ffc1b89064f4d43803ebbb231e473/kgx-0.0.0.tar.gz#sha256=6385206c5f518a3aa7a350b772c40033e54b255d75bee46789a005069d4ec181" data-requires-python="&gt;=3.9,&lt;4.0" >kgx-0.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/56/d0/9fbcb245c143688d267a1fd9f22e1e20d3ed7af5956d5381af51aa7c4812/kgx-0.1.0-py3-none-any.whl#sha256=a29fc08c77623559fe858fff08ceb6e28614efe3de7d11e1e572e96c6033f61d" data-requires-python="&gt;=3.7.0" >kgx-0.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/32/cf/377302be1d5014f5944d45f6a7c0e37108ad83d5cd6b663c387944092e9c/kgx-0.1.0-py3.8.egg#sha256=959e2f9f39bee3ff9ba3385884fe06491e7074c643f37556cac71e63cbedeb7e" data-requires-python="&gt;=3.7.0" >kgx-0.1.0-py3.8.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/eb/5b/63b6d7a2daae709badd1591b625863b1f1f1874cfa8db5901444875c6140/kgx-0.1.0.tar.gz#sha256=1d13f55d58d5e231226579144cff0deff2dba98e0639e867cdb1a255e8d4dcb2" data-requires-python="&gt;=3.7.0" >kgx-0.1.0.tar.gz</a><br />
@@ -101,4 +103,4 @@
     <a href="https://files.pythonhosted.org/packages/43/d9/b001b5b2e7a5221ddd5c2e11571cba131d5d16f8c5cb22b168e1a0c32abb/kgx-1.7.2.tar.gz#sha256=7e7c712a16265aa2a92fa5cd70690998d7c219c21ca816ec696184babe714cc7" data-requires-python="&gt;=3.7.0" >kgx-1.7.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14930468-->
+<!--SERIAL 16862123-->

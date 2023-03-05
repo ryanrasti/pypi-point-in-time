@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for coremltools</title>
   </head>
   <body>
@@ -607,6 +607,20 @@
     <a href="https://files.pythonhosted.org/packages/89/62/a66a0268154db0bf0529e5b71d7dacd04fc9edd7a98a327a8cbd2adcd30f/coremltools-6.1-cp39-none-macosx_11_0_arm64.whl#sha256=eee48db1306ad0adbe1c33cd8892535791f31d408411128ce228444ae869ac4b" >coremltools-6.1-cp39-none-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/02/0a/96f6eb022eaa82940fe202fc966533b18bfa1b06fd7f8dce5f8a5dabb2d6/coremltools-6.1-cp39-none-manylinux1_x86_64.whl#sha256=292ae2269236dcdada7f4979c1e5cb60e21d070c81a7c1ce609469902eb49553" >coremltools-6.1-cp39-none-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/08/4325db34e8dd4e9b4ee9ae8d365bd531898ad9598cc5c83b6ff71cc08c5c/coremltools-6.1.tar.gz#sha256=0d40bbbdce02ac4ce32b4ae86775254c9dad18ac3ca48b20bedea73bb81b13f0" >coremltools-6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/87/e886cb68f2b4d957b6541b103d5fdf368734f1aee72983faff8d8f1bbc43/coremltools-6.2-cp310-none-macosx_10_15_x86_64.whl#sha256=e9e2ee20eefa56ba031c3a545872a5e898c96d777e3ff267f818b36314616028" >coremltools-6.2-cp310-none-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/9e/7830c32f73c964bc71d929dd3a40291a60f88edd65a646f73119662d4657/coremltools-6.2-cp310-none-macosx_11_0_arm64.whl#sha256=975b67b194e7919534f83a10fbfc1dc96ee97ac7a1046061752711c84d3d83d8" >coremltools-6.2-cp310-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/5c/465bddca946386f55ec5457eee0d501ff3f8c5ef70a3f5a6d70118729366/coremltools-6.2-cp310-none-manylinux1_x86_64.whl#sha256=db38bf8f346658667dfe1ec0f6ef2c8f4a70874bf73e06152840e19699190841" >coremltools-6.2-cp310-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/e4/46666e46c30d280f0be53b69fe4067a2dbf792719a30015b374786dbff98/coremltools-6.2-cp36-none-macosx_10_15_x86_64.whl#sha256=dafd5e29c72909902d152701cff93ea33084c5ca79ba0a5c4d349a87850db425" >coremltools-6.2-cp36-none-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/b0/1e5df19bc433fe7b0a9bcbe222a24d7c4f3ae917bb9a37a82cf8459ff16d/coremltools-6.2-cp36-none-manylinux1_x86_64.whl#sha256=e38f4aedaa37856cb961b667848221098038df3d1a02a1c375cbdc28a7e2794e" >coremltools-6.2-cp36-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/9d/04cfb74f6261aad2c1d913ba6d3dacfb636457f1ac68e272497996db1b72/coremltools-6.2-cp37-none-macosx_10_15_x86_64.whl#sha256=8f7208c5c11eca3603cce5d2b6d984adc01b9b27db78e66233f1e140074f039f" >coremltools-6.2-cp37-none-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/d8/624f5134b40c9ccc28c5f29a50049580ea92ca92874c99634df728d6f39d/coremltools-6.2-cp37-none-manylinux1_x86_64.whl#sha256=a2d4d013c40dcc15205e0735405c27b93df05e2ff17369353a0a1f0ad75a9fbf" >coremltools-6.2-cp37-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/14/997100662a654ff5865ad3b7b0e86c8e36c20bf1f4385f0d1138092f0a58/coremltools-6.2-cp38-none-macosx_10_15_x86_64.whl#sha256=e2ab141a338e4b09f40e9d980d21b050b57ef845582fc1f7d3f442267cb329b3" >coremltools-6.2-cp38-none-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/2b/c3bb774989cec851b3591eb80d05704906eeccd907ecdf2841388bd4834a/coremltools-6.2-cp38-none-macosx_11_0_arm64.whl#sha256=dae5a6b00632b67354b63b6e791f431c8eab17177448feedcfa81d29906ee0bf" >coremltools-6.2-cp38-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/b9/06a3fe86fc7aa960469e02fe3f593bb6cc23586f2d3005dd0324534830b7/coremltools-6.2-cp38-none-manylinux1_x86_64.whl#sha256=b1cf1399f254e3e14f4bf9fbb7efcbf23031602c795aeab9419f4a70a5cf23b4" >coremltools-6.2-cp38-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/c1/727b59202718b75c0da35b3f443f0690f0c5c83c4183d7ff634c81233d74/coremltools-6.2-cp39-none-macosx_10_15_x86_64.whl#sha256=cf7573edcef951ae40284716e18ed127a9fe0eaf2ec52a7b800ce1b17c4b7d8a" >coremltools-6.2-cp39-none-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/b1/bde0123d12e7c19afd4fee5fe4019295135f7cd708d218ef9e325522256b/coremltools-6.2-cp39-none-macosx_11_0_arm64.whl#sha256=dc94779aef47eb9cd7b31b964d3dd923872fc8218f03805a0b6302de419989d6" >coremltools-6.2-cp39-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/4a/f1aac9ec526311034fe5859c637b7268c44f5d1f99c032238eaeff271374/coremltools-6.2-cp39-none-manylinux1_x86_64.whl#sha256=d0a4b5b579b10679b88e3e207097f32aeececa4d53c63c007893056a7aadd394" >coremltools-6.2-cp39-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/20/155ba08ca51a5d272f37069cfc6e88c8ff0b481b02407f92f1b0b447476c/coremltools-6.2.tar.gz#sha256=5851cb636276441139464feca6aabf6196d41da7cce8ba3f95301a7df76ea3fe" >coremltools-6.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15771340-->
+<!--SERIAL 16687128-->

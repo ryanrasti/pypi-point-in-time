@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-pandera</title>
   </head>
   <body>
@@ -180,8 +180,32 @@
     <a href="https://files.pythonhosted.org/packages/24/f8/cd86c22f07dc4470047b0308522f5f46911eef84b494e4cfe978496c13cb/dagster_pandera-0.17.9-py3-none-any.whl#sha256=c66ad5af3fd287932780caeb2e43d27a5a704c9d9ef3a74b40ffb264a751c967" >dagster_pandera-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4d/62/715312346893ba0515a6b0eac11883fb4bdf42df6f26116789d8b6ebfc11/dagster-pandera-0.17.10.tar.gz#sha256=84bbb7edd24e55994a57fb94c2a3fd2fbdf26a290c9347a8220ccd97e44ac679" >dagster-pandera-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/b8/3def49fdc0a4526b691961f25a917972f395edb4636d15bd28233f780578/dagster_pandera-0.17.10-py3-none-any.whl#sha256=ae410a9a4a7459b938104f32bc629f7467dbb84eaebc68732850d8c215f74ed8" >dagster_pandera-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/f2/1adf42abb48243b9aab0e14d42c781cb8298ed936fc4edf803664288e453/dagster-pandera-0.17.11.tar.gz#sha256=17507a34d418f326a1561070ee02f814d5684adcda42ad47c046dfd7a61f5d1f" >dagster-pandera-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/a3/784b395a9141c9455bddca1bfa4c50f42b208e5a27e4e2baeb1737158523/dagster_pandera-0.17.11-py3-none-any.whl#sha256=fffa56c975563ff569ff3c88255b8b6aaaef010015fbfcd88fee5cbd3285a489" >dagster_pandera-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/e2/1342af475a4b98631559edc9884133a5e29b066576da8251879fd352486f/dagster-pandera-0.17.12.tar.gz#sha256=5ff71e9302cf692f1a4ecc0da915af8babdc3c61876548b17898b12eeb83c8aa" >dagster-pandera-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/b6/53efd1eac9da5a7cf4aa8c6b83ae1652d4ea05cbe135993d17cb308c4c5f/dagster_pandera-0.17.12-py3-none-any.whl#sha256=de5c0346e469a93a35967e535c3d4770f214bab3391ad9a3bc6b94cac1bdb86d" >dagster_pandera-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/6f/6433ded71222224c994fc7e82a2cad4fabf8c184b3354afcfe746a76c8b4/dagster-pandera-0.17.13.tar.gz#sha256=43f3b52fa0f5d3908d517e8075879141b41cc5df4eb26bb011929162794c3515" >dagster-pandera-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/d9/9b2c23f69b128e5bd349ff9a8d0c0358d72de933a308bffeec7b7cf77907/dagster_pandera-0.17.13-py3-none-any.whl#sha256=afe116b18a8f863c07314cb9b8304da81a37ae575d0bb928a4f4a8b073197cf1" >dagster_pandera-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/b6/2a54b7680115030a655821ce4ee87d3f95459466ca1ca7da2b03b7ea4a31/dagster-pandera-0.17.14.tar.gz#sha256=a4a31dd2b066d7af5d82660ce0ef199f1b1b5ef9017c722b9b80369a37166e56" >dagster-pandera-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/05/3311ccc99dc17d464e20a6637982ac6afe5320ee7306d492e01bbc91d1c6/dagster_pandera-0.17.14-py3-none-any.whl#sha256=3582f9360098b29c41d2a4a388ef30aad8459fd277922f4bb7b0ad4a925d29a6" >dagster_pandera-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/71/2fd65562b799ea75a87376cfa09b86e7a2fe278c945745fdd9abb2412654/dagster-pandera-0.17.15.tar.gz#sha256=a0aeb29f02ea7bdcc4bb77be0e67bdd99a4f083dc85921580f830b8b912d80ab" >dagster-pandera-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/45/570ba86495079b538aaeba66348601ae8743c175b10e8bd01170446ec4e0/dagster_pandera-0.17.15-py3-none-any.whl#sha256=6dcc895ff115c0f3b64c3872b5e0c4be0ef96baa4a8fba73d100412a375a0810" >dagster_pandera-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/80/e7efde493795d7ef3bba862f7071d80d5535f0b4a22eebacc347f89d52d2/dagster-pandera-0.17.16.tar.gz#sha256=d782deaa6438896d64c45ce8f9c8208d0fa85e9e413f5955c6d5b80c0f346f3d" data-yanked="" >dagster-pandera-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/43/bf7376797ea79b522316c94f9c787c5a3fd69282785ec843aa1d2673e661/dagster_pandera-0.17.16-py3-none-any.whl#sha256=af0a544b729d5721d46779764e31f4a341f605de8e40fc5aab708238fffa1855" data-yanked="" >dagster_pandera-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/92/0505c9bbea5da12ebcecdd208ac016f9336a22928a44bde69a989154f010/dagster-pandera-0.17.17rc0.tar.gz#sha256=3e50817c56f68ec3e979682d80fc2beb12fd93c3eee6ce45f101f849e0b52385" >dagster-pandera-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/a0/3d9abbc87d945d30d1d253ad5957998408fd765da8ffb43bf9ae8366472c/dagster_pandera-0.17.17rc0-py3-none-any.whl#sha256=d893eec76fec26629c9662419a3e5ce6c2447b7e26959a136ea5ee79d64217c5" >dagster_pandera-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/a8/b4cf6744d45698c341ff77f89a2d613a379e1360cb2481fca3a60de721a9/dagster-pandera-0.17.17.tar.gz#sha256=66d37ab1c95437c629955bfb4fa114b48d3ee727c3237bd27268dcb1912b2af7" >dagster-pandera-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/94/893042be97b35c5c80ea81fdc8a07a5da28a46a18567cdf5fa54e217ed7d/dagster_pandera-0.17.17-py3-none-any.whl#sha256=bd0423d8df6b633883194c920d71416f1aae5455770698f1a92d6a557919ec30" >dagster_pandera-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/56/436419eb4a4e383dc48bcadc007cd508ed6a07670cb2e63b57f815ea1e27/dagster-pandera-0.17.18.tar.gz#sha256=13c89d34f4291d2431b5e4e158f732f699ab8009a323e8c9eaf9d1f6552385ef" >dagster-pandera-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/d0/0232a196c4bbfc0895d842c502f81446bc5f4d0036848cc0127e2a39c908/dagster_pandera-0.17.18-py3-none-any.whl#sha256=8c16b90df75bf128e7e51abaefba5767cb44f2ea22fc84315329c402166ebb06" >dagster_pandera-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/b1/a006ff1b46578bdc0d09ee82f4ba498f7135e00d991b4ee145e0a63cf27b/dagster-pandera-0.17.19.tar.gz#sha256=b5fc2375fca4bb6451c191f593ed0c9b232e630f67b55ec8e5a6d52f6d9557a9" >dagster-pandera-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/60/a273e87c22be53bc28cbe311fb382536da2021fad544df86dec3685ffc74/dagster_pandera-0.17.19-py3-none-any.whl#sha256=d60549bf9f32dac76aff8f5f37a9c7bcb327b5757ad16e3ee519cbd882b6cfb0" >dagster_pandera-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/13/4bce7eee1601ff400863a07aaa2d545af22318150ab096ed957a2af603a2/dagster-pandera-0.17.20.tar.gz#sha256=2a77a332d62155638f4b51f6f6e0508b05fa22d166e5a1c4d817a683d64eb971" >dagster-pandera-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/30/6145150c37cf7ad3a0c7e13866cb38aa5031f35b0bb636254b2aa78ecc38/dagster_pandera-0.17.20-py3-none-any.whl#sha256=42131a8a5d30dee619552b34e54baaf372dd0a7dd9bfefac625f7afe582a6a51" >dagster_pandera-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/0d/bdf6796087f6ab4ddc0134d025c501f1beb2b3ed0ca009bea09b363a17ac/dagster-pandera-0.17.21.tar.gz#sha256=5a6a56ebcdc53ddb85b42c5d7a34baa16431c2ac3a96f8adb7e9c2a1e25f4821" >dagster-pandera-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/10/132facf9ace05cd0f4304a85ba22bf065765d8cebd54d2d97c83d856bed1/dagster_pandera-0.17.21-py3-none-any.whl#sha256=92d25b298b0ec7ccf88dbd965529159c24217a7bf69ca39af7f89dfbf1f3c7b6" >dagster_pandera-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/84/b8/52d5fad5b1b02ed6f3292a69689b83bf2ff34d5b86e5d356279821518094/dagster-pandera-1.0.5.tar.gz#sha256=1c68e045d4a751d7c4e2aebd8784bff13ec3ed61560e875c042b02523898f33d" data-yanked="" >dagster-pandera-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1e/11/5d9a4ea598157fbdaeff06a69cbbf0178b272658f2acfd4c59e9ab5d652c/dagster_pandera-1.0.5-py3-none-any.whl#sha256=3bb5c62003c24a7ced7b4d7e47d5f1e0e1064cf9a80af42c1133a2fbceebdd59" data-yanked="" >dagster_pandera-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408543-->
+<!--SERIAL 17135783-->

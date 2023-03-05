@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for icepool</title>
   </head>
   <body>
@@ -76,6 +76,16 @@
     <a href="https://files.pythonhosted.org/packages/81/f8/cf5c7d9e158e0e3f5defb6387763112e95782fff7707fdad23b062ad8475/icepool-0.23.3.tar.gz#sha256=2a3b91279caa21e589fc8150e86792becc3df680140554e109f55ddf6642b958" data-requires-python="&gt;=3.10" >icepool-0.23.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/59/42/54c20c10209846e4e480cfe49c4cbe026dfe4ef87ab8ac560006e74f4076/icepool-0.24.0-py3-none-any.whl#sha256=f275c391642c617fa959747a07a30817a2e36a8af73e6f8781e424f255763166" data-requires-python="&gt;=3.10" >icepool-0.24.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/57/94/b72554fcfd9907aa596242b950ef93488bfad749afaa42e1b8bc7f79592a/icepool-0.24.0.tar.gz#sha256=32dfdfee69ac5cdc52302e9018d663904eed5a264d18413390845eb9f38aebbf" data-requires-python="&gt;=3.10" >icepool-0.24.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/6a/8635c26d93e22e5d116f383942304d23dbf9aca66fa870f82ccacab1b87f/icepool-0.25.0-py3-none-any.whl#sha256=b85a6f3c0e52e840fccdb232e42860d0758dad7b5f8cc6c2aee15d23a9a530b3" data-requires-python="&gt;=3.10" >icepool-0.25.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/22/48af07288fc2520e7f17ec28086be0fde80b618043f680c5f44106b1bae2/icepool-0.25.0.tar.gz#sha256=cfab725d92ba23dbbd55bb0ecd8ba8f69e77dd701577411b021a8ef5f3a66156" data-requires-python="&gt;=3.10" >icepool-0.25.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/cf/eab89e1777a1ef344f5af4e71d0215b08c559c39c18e8d671ee41e751755/icepool-0.25.1-py3-none-any.whl#sha256=241d8e8b8f1303e548755b63347657256efc4896eaeb79da28fda9ee032a15f7" data-requires-python="&gt;=3.10" >icepool-0.25.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/2b/02584e7a056442c9791c959d7c5f341289515074af3dc6c3416f1cf62b4d/icepool-0.25.1.tar.gz#sha256=7b31b5ac8e66d4e3a66e1eb56538aab1e0d3a02398fcd7d33fb583701c6bc859" data-requires-python="&gt;=3.10" >icepool-0.25.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/2b/0e4696222a7a1b9d477e76b7b2e152d2380f61133f81eed87e7aeab3f679/icepool-0.25.2-py3-none-any.whl#sha256=55e1633be737a158560a238cadaaf26b0a14647c00662bace3e804a4ca8c1caa" data-requires-python="&gt;=3.10" >icepool-0.25.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/3a/089665033decb473395376b477f5f7d5128f795b923190e763ab83cfd164/icepool-0.25.2.tar.gz#sha256=5e9e6e135af9c56738e6de8960625b96650a79af6182f224722c5d9d2c0356fb" data-requires-python="&gt;=3.10" >icepool-0.25.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/63/07cdfd4d0de30937a421cc96da954165c2dfb77ea06c8fabf05903cb3996/icepool-0.25.3-py3-none-any.whl#sha256=6fa86f9793c607c578cd93ac5a134764fec1362faaccf334ff16b19bebd74127" data-requires-python="&gt;=3.10" >icepool-0.25.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/8d/dca6109fc0026a5d365317cef3af3268f4800ea6dc0f0623d6f79ff99b66/icepool-0.25.3.tar.gz#sha256=a61416f004b68551f29326e30c233055d81d6865d56e966e30647409ab982187" data-requires-python="&gt;=3.10" >icepool-0.25.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/90/6fc03555ad06df9e29df5300982422b6bab975591656eb1cd6f0df9eb25e/icepool-0.25.4-py3-none-any.whl#sha256=c12c64541ebba597fa391645cb3a561165306dcb2481600c71788d9f32ddfefd" data-requires-python="&gt;=3.10" >icepool-0.25.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/44/adf5ca92da9cda3e38ea8167a0620e62da2610837f6d40dd18dd8a196018/icepool-0.25.4.tar.gz#sha256=b1abbe1a07223ebd174cc28f8ba6aea82fa456ba09610efe4a651a9f3b138a57" data-requires-python="&gt;=3.10" >icepool-0.25.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16356685-->
+<!--SERIAL 16912111-->

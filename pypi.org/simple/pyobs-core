@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyobs-core</title>
   </head>
   <body>
@@ -260,6 +260,16 @@
     <a href="https://files.pythonhosted.org/packages/11/27/6e2bc8662808d4051567b0dda98f490695d3ef697f75ea902844cf4f8953/pyobs_core-1.2.6.tar.gz#sha256=3c8b9640af2e39edca8b99791a7919fd27623f4cc57aee453fd78f406a93e585" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.2.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/72/6bf4276f53cee2c38590db1b565a42bdbbf5890445850cfa4673d313fdbc/pyobs_core-1.2.7-py3-none-any.whl#sha256=cd42c4cf81c67888ed6b502472f73135b2bb15e6e5ddf2449f69a481f9d4b25b" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.2.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bf/48/f405442cb325102ec7f7665d2809e0aa6450a74cf356dc3b7265c710b5bb/pyobs_core-1.2.7.tar.gz#sha256=f388a77d9afdfdde88fe379625dc50f01d4acbb7a012c063c4267f6213e4dc22" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/a6/37311e549ee4917ed7fe60908f16b0e42103bbd5682d4e0764be59074e59/pyobs_core-1.2.8-py3-none-any.whl#sha256=565e8e856bacdd06e711718b958c16288318297e45ecebc8135e11ea40507534" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/ca/b9eb16616937332ce204c7e25d4ebb519746b31de35ccda1f510179aec4e/pyobs_core-1.2.8.tar.gz#sha256=b6a64fbafd9e8b24d8cc167debf7dd3d9de06c33db4cf5dfe2d2000a4226ec41" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/c3/239648339d4daf7e966e4b1b860e2a7794562c3717847c3c09fa1b87fa19/pyobs_core-1.3.0-py3-none-any.whl#sha256=278ed0b3d60133101f4df6cfb0c69f3af9f0949887a22af330bd0c8ead6ecff2" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/86/bd88f77c96cd01c9025515d454ac412628a33435eddac831f7cfbdd1d379/pyobs_core-1.3.0.tar.gz#sha256=3ece8aadbd2a424a6a6efc9534737f98b02969686443e74474a2053a56a0bc37" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/65/082b90ff0ab4f6e2b465ed8d9421912965730b7dfb21c1c0ac7a4aeaea8f/pyobs_core-1.3.1-py3-none-any.whl#sha256=34d16fcbf157c600ec22f58a6bd866b9057c847fc0ddcabca2d79b9637f7bd6f" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/76/5a6d669db82eb533f73749d91a385e8c312d772d0e86c7a5d4abcf51c766/pyobs_core-1.3.1.tar.gz#sha256=890e9c380c588aabb08c6d0d6389b7db06986a0665470b8ae4c76a01e9023485" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/ae/12218848ca52828ec1680f0388d370e681db09f15585e2bce5cb26f04ca5/pyobs_core-1.3.2-py3-none-any.whl#sha256=e02c631915acbfd80e8d13b2227d57d4a5d1082589c5f6e4abbc68e613ffb7a3" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/1f/b917813c63a33f8c4d163d89f36be4542cbb040d7ff7e9401124fd2c7430/pyobs_core-1.3.2.tar.gz#sha256=0fa4908c909bd298e58b9ba7888ff845fa97df4f7a634acb34eb5267dfd78775" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/b5/adc5bf8881315b8a1145d5c8eaf154dbc780e16492ab5af77417de0a56f8/pyobs_core-1.3.3-py3-none-any.whl#sha256=58b81ce615c63db8a95d994cbc3b7a061dc36f67708325a5be24af438cc0dce1" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/ca/0d9c0d62793036dff19150b0b5413d67bf21912711c3ee8c60f85b1a0d35/pyobs_core-1.3.3.tar.gz#sha256=c88fb10ae7f25c636c96aff2584122b7baf9064891039ec64f4658e98c5a5648" data-requires-python="&gt;=3.9,&lt;3.11" >pyobs_core-1.3.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16426233-->
+<!--SERIAL 16958272-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for akeyless</title>
   </head>
   <body>
@@ -188,6 +188,28 @@
     <a href="https://files.pythonhosted.org/packages/a4/bd/00cf7d9b43d61f267adf2f6de2e7af426a75b4f232333768f1cec2a3bf82/akeyless-3.1.0.tar.gz#sha256=4f2193402268e2d8c77584551ebb8c059f593f1b936035e641a71d42de2b9625" >akeyless-3.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/8c/cd6d2ad4172118f921d1d6e814e5e45741cc3ae760c17fb5e85f1d49002d/akeyless-3.1.1-py3-none-any.whl#sha256=7774d81c82364f42799eeddf3ac3970a766a89b455728970bf75715bccc4526a" >akeyless-3.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/82/c778cc79b8aa05a755dd0c32d521264e013c91b139665582d6e7f6a2a01f/akeyless-3.1.1.tar.gz#sha256=f4d48dced30c47fe7f4dec2916469665f1e9d8e4653288ca87654d0858ba3079" >akeyless-3.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/9a/54fa34d8cfbd66b494ab140135eb8e61e43903889c0acb05bb686c89ac18/akeyless-3.1.2-py3-none-any.whl#sha256=04808ee3d95b51f0387b355c84d6c9662af79d9e6de6e8bd7be4b953ff9a5aa4" >akeyless-3.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/3f/ab8acc783492e56d1300863da3084f9b3a9f06346f450854b76347178bdc/akeyless-3.1.2.tar.gz#sha256=8fd31179416147642f3dbe71561ef1fe1d2e3a5c15a6d9c7d191a9165a88c080" >akeyless-3.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/18/d6f530564854fbd76a0577ff9d6b5b46b3b45575addf09f656af3699c9dc/akeyless-3.2.0-py3-none-any.whl#sha256=48a3213612bf01c1b6754231c148fd7e64473df54ccdcb7214aa69577a02c350" >akeyless-3.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/11/a218bfa6cf8be9086ed8e5003de605c39c28b2b4dddde9df067dd066e32c/akeyless-3.2.0.tar.gz#sha256=fdf005941cbd21305589fe5260ba2a1240093f2549a15db956975567840f2855" >akeyless-3.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/92/66903904aa275393e3d5ed2422b4f28682baa3a0fb65e5a1cabd6bb8512f/akeyless-3.2.1-py3-none-any.whl#sha256=deb3f286b17a5593780004b724e3ce1f71fd0bce1f514e8d33b290bfcb675000" >akeyless-3.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/54/df56e9bf6ebdcace940689b9883b06264548f4fb530bda4489cf0e55d049/akeyless-3.2.1.tar.gz#sha256=d2158c317d0096afc1fd06d2b2a6c905e3ea21d83e3388e2a09c88f74e268544" >akeyless-3.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/cb/488e87324fc4687ec24ff6b887f73ff7a74fdeda7a7c133e83c5f3a9800b/akeyless-3.2.2.dev0-py3-none-any.whl#sha256=b27f80f1ceb9ca9a8de62efd27ad2576e08698422ce43656ac2b0a54d1bda147" >akeyless-3.2.2.dev0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/b6/24c22bea9e6c435804acab466c2aff52d35aedb4d7abb31d25e47c49a84a/akeyless-3.2.2.dev0.tar.gz#sha256=62805a8f48295a85e932cfa3c163fe9afd287749bd26a85d28160f5ff1b12374" >akeyless-3.2.2.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/ed/4f42869e8928a373fed0ed170d40854b46cc6d92c1c9535ae7ed45932898/akeyless-3.2.2b0-py3-none-any.whl#sha256=9f0f4c8b3230d415c8c0c76455e4b1d6cdebbbde2a1dddfeb18a5f902b2736a7" >akeyless-3.2.2b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/03/4d18ea3e9432f12931ec7000524f0485a7d1f8eba139a6929bff16cc5913/akeyless-3.2.2b0.tar.gz#sha256=4e4d5f08f8351faee6d7cf8f59a42c90d190340632fc96bb64b89c05849c0f4e" >akeyless-3.2.2b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/de/38b1179a10be13e49498dc19c90b65b904a6cb170d499dca664dc6bbbf02/akeyless-3.2.2rc0-py3-none-any.whl#sha256=85f6c538dc4c3cd1c9ee70bb6dcbc42eefb14cbbb22d00442999272b33e187cf" >akeyless-3.2.2rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/6e/27bbce7c48ba1d7e8096f5c0f60be24bad385a0c30becf2f7a1beaaba82f/akeyless-3.2.2rc0.tar.gz#sha256=6445dcaee65aa7d8c02a9dff658786b82b41439e9bd5c0c2e65b5310324e6725" >akeyless-3.2.2rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/eb/94c515a66f34e9b7d77f1f6d95ad6ed4b6105484c140aa50f8b10533c3d6/akeyless-3.2.2-py3-none-any.whl#sha256=f0a5d83c095652e15265591bc40350d979adb11be4a36fcf1bf03059696c6b7f" >akeyless-3.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/d7/e65421f8af59909c903239b8daa1ddcbb87c336f080058dbc9337c1c788b/akeyless-3.2.2.tar.gz#sha256=8ce3e232f070da5f3143cfc03f7b0e2dfdfb8c49ac1d0d9f309a7af7a6921cd2" >akeyless-3.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/8b/e3acfdb442540358fe5523bcc3adf10ead865ff4b009867997bdc248ea29/akeyless-3.2.3-py3-none-any.whl#sha256=4e57acd6259619c65c9af2dbe019787d9eab818f105469506a89d393f927e8ad" >akeyless-3.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/32/a275d80a34e1489ca63376c48a0120378e89f2e38f6b28973f89cec3ade1/akeyless-3.2.3.tar.gz#sha256=eb7f9e55d1aa7e4abc275fbca454381420b30ebc3fb66ec2f21f65cfcd878dd4" >akeyless-3.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/d5/0c763262a9e04d4747cbcc7b59b28cdf33af234edeca2428bdda30b7299e/akeyless-3.2.4-py3-none-any.whl#sha256=7c12eb9fdd22887e4a4938a7b6b24324b47aa506ac9b3a2d3c3a2743b7e47dfb" >akeyless-3.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/07/4872824d29864bdc7a9ac19ec9a85b43201a4f4ed44a15ccfc2e1e76766b/akeyless-3.2.4.tar.gz#sha256=a1df7a3f6fbde15c2549327953d98d012f5e9feb7cb9b96ceb278e4644ef83c3" >akeyless-3.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/19/ea92e70baa6de8721e51cc6dafa181c04326eafac616108b7af66addef4e/akeyless-3.2.5-py3-none-any.whl#sha256=650ba6d5974f3475e88665736f180e95d054aa95ee950bd95358d881feb4f4ef" >akeyless-3.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/3a/e931f6a699c0087e7528c349fd90b146a47516d452b404a5e9fcd0850414/akeyless-3.2.5.tar.gz#sha256=b7e4c8f00125f865d6f4275a1a2fea433fa1e53d512a009493ca4f7fc4e4731e" >akeyless-3.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/35/32e3645861dc3544a701451201ed6e0bf5bbd51855616b3d5ca2b39c19a0/akeyless-3.2.6-py3-none-any.whl#sha256=619e438e626df770e3eba38ccba4152fa46bf6a6ef5700106b8ca5896fbf7b60" >akeyless-3.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/2d/28f112fd0e5f81dafed98915f91142f57f9bf941a61a10a14e6302b2889d/akeyless-3.2.6.tar.gz#sha256=7b3e5a26127f95ecd154de8e6f61a064314b869f9a13b36069aba3837ad74115" >akeyless-3.2.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16401923-->
+<!--SERIAL 17046578-->

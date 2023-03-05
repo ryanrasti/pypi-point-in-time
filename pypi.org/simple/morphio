@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for morphio</title>
   </head>
   <body>
@@ -370,6 +370,20 @@
     <a href="https://files.pythonhosted.org/packages/40/ef/4cd5f5b54863ce1719bacd065d1fa476d44bfa2e5d5b2aa1ca6ff7b49aad/MorphIO-3.3.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f1bc8c8381be84b5759cf655a00d91e60ebe0f8e051a1163d4e41e4f6b97bbdc" data-requires-python="&gt;=3.7" >MorphIO-3.3.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/05/4e/b9d03178c2546303b89c71fe399cdb65ee96cc6fce9ddd9e5d0473bcf91b/MorphIO-3.3.3-cp39-cp39-win_amd64.whl#sha256=8a38068165140a6e3b854594388e24068f6af689d963334bf7bf44089fb5ed0e" data-requires-python="&gt;=3.7" >MorphIO-3.3.3-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/66/d604ad61d2b55e83f817404307e7a36d5aaf0890e94687e11e4b9bc22908/MorphIO-3.3.3.tar.gz#sha256=f6d91970cfd734b2e5fb8f9239a0bfa00519fe082dd8e403e4cc204dbdf0a9fa" data-requires-python="&gt;=3.7" >MorphIO-3.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/3e/9ccede256ec0e44c92478bc560883b0c26de64e61fa6a9af9d06c163e2e3/MorphIO-3.3.4-cp310-cp310-macosx_10_13_x86_64.whl#sha256=da6671752fecab72b1612feca8b13f89ad66c13a57db385a8029cf44a1c22c7d" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp310-cp310-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/d8/9f972a32f17c1cfa1f48ce88addd0704c66f5164d3f65affa1e6ed6d23eb/MorphIO-3.3.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3fb3e16d8540def9a5905637c96dbf13e66cc65a3805ff63dfd7e0e871e81323" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/20/c13648449e85955ab18a168d99157388e9d322394bf266c0bde2e9875924/MorphIO-3.3.4-cp310-cp310-win_amd64.whl#sha256=7f240ad7abdad4630d4bc4097f7ba0ecf9bbe698c657cf3c092774f2a77c35d8" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/6b/14029561d6b9f64f903872deaad961d89a5039865b143d4c60668e78f7f9/MorphIO-3.3.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d274dae3c73eece5bc8afea4ed6d794521af7b3e116b6006e7afc7ad862d29e3" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/a1/bff32c06b6f3e482dd8e323e63f5219b7ee0f2c92956c3f2b94bc49ec9b1/MorphIO-3.3.4-cp37-cp37m-macosx_10_13_x86_64.whl#sha256=96c296cdbb2df7c71ec26ae79ddb00c206fc1c627979a2b43e9b9133b61aa843" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp37-cp37m-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/84/9754fa9457f5ec096beab425a3382c91da3ee654c4fd028207ce4cf47ae5/MorphIO-3.3.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d0ad1d6f56b56eba86a5c40109c82f68215a41b9d7c1868d2b889719b1287f02" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/55/0be7a969adaaff7359870dc81b51aedfd749d34428dcdfdc452202575f95/MorphIO-3.3.4-cp37-cp37m-win_amd64.whl#sha256=619dd7e4a47ede14fbc2f37d7e6f40e1de2cf597a1fe55ca203b58901f6bc038" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/2a/4128a6ef2d102d1504558833bac810af5b395b0e8c1f7529848b05746360/MorphIO-3.3.4-cp38-cp38-macosx_10_13_x86_64.whl#sha256=8abc3135281ec250d8babfac7cd033105dffb5dbbd3a08d297b7e6cecb1d7312" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp38-cp38-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/81/17f24d6c376624fefaba8fc434594d8430c33859fe0c6851eef81cb240b1/MorphIO-3.3.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d3e487694fffe34e5516de2f1bf6e7a094301597a07e46217f82b288f63476f3" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/29/4c91c671e99a3862eca94f40dac07ab20664bfc13e6afdf851868477fe00/MorphIO-3.3.4-cp38-cp38-win_amd64.whl#sha256=ead1c731970a65a583b3650e2d0a729e5506905484ef53ed6a840c493960b566" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/c6/99116f90fafcd75d6c24f2aa30447c9d2f4cec0e1e666f16f535a584c2c9/MorphIO-3.3.4-cp39-cp39-macosx_10_13_x86_64.whl#sha256=7bdc23c1d01e506395bdc9c10207eb54e0a0b43177aec3e43ea97611dee1c1ec" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp39-cp39-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/a1/0a86df8f9ba00e9ad83e81b965caa4cb874472031e8a8d68795a82948bd7/MorphIO-3.3.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=51eb0bddae338bddb6b1d6d33997b78f4b7161cca0da356774c3d1bf252f88c2" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/8e/c7bf041c7ec66996713f933eb231c780ab59782bfad236292dd3eed3c958/MorphIO-3.3.4-cp39-cp39-win_amd64.whl#sha256=087bcb43ae7ffeb8d0d8dfe11843207898d6141f224875687222faf2668544f4" data-requires-python="&gt;=3.7" >MorphIO-3.3.4-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/16/a076b65ba94d2d13909948b29eb8448b5a637e8a42861eca02af22ba871d/MorphIO-3.3.4.tar.gz#sha256=b70c6884e9b835560501f798c75c9cc7eaf3162cba1d930b5a9b854bb9ea60dc" data-requires-python="&gt;=3.7" >MorphIO-3.3.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13068702-->
+<!--SERIAL 16454801-->

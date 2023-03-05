@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dmbiolib</title>
   </head>
   <body>
@@ -20,6 +20,18 @@
     <a href="https://files.pythonhosted.org/packages/ea/c8/d9d8eb22830b1e91b2efdd0628f747f46676e89db4eda8c5de4ac771a00f/dmbiolib-0.3.2.tar.gz#sha256=1d5bea51818fbdd3b493df6e03f21b8a27f1d027c967cf8d5ac096d4f720360b" data-requires-python="&gt;=3.6" >dmbiolib-0.3.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/82/af31dfd684ac4b424e06fb1fb7a0f72b844211f81356db875ada3c4c52da/dmbiolib-0.3.3-py3-none-any.whl#sha256=2f0b74ff1220854e7b90d7f1e96510e4e920da1c8bd5d787a0854cf3fbaf0ef5" data-requires-python="&gt;=3.6" >dmbiolib-0.3.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/c6/f0d66f6cdff01f27f441b3d52fec80933aa90ce741585391987a4e684c91/dmbiolib-0.3.3.tar.gz#sha256=1271441265d4ff6b77c262b527a9e8b4a35536f7de0654932324cb0400e9e70d" data-requires-python="&gt;=3.6" >dmbiolib-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/95/03292977196c2c9118f775c4942b9b0917f9ad64a7b26a03330b1787ddf6/dmbiolib-0.3.5-py3-none-any.whl#sha256=5a969ba83459123d0d04e5db292e97412a7a8b9c0ffd4520b4a61493e97662d6" data-requires-python="&gt;=3.6" >dmbiolib-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/3f/eaf8ddc1f62485d8ee9c36cb40693b9201b3c6a68c17aa3f04218e978bf9/dmbiolib-0.3.5.tar.gz#sha256=6121dabc013a0790c18298559bb3f5c6fefe0bbab4ef7ff15f074906cfddcaeb" data-requires-python="&gt;=3.6" >dmbiolib-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/82/60a8f6d06d4289cd31e09345f566a7cc12909b21f90b6b71c3ff99ebc9d6/dmbiolib-0.3.6-py3-none-any.whl#sha256=bef552a3c00c757c9d82d0cf0a46c098467bb839ba41297d20094f370622854d" data-requires-python="&gt;=3.6" >dmbiolib-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/5e/bb40bbc492c9f112f3c400b3163ed260f4949523a9b450aa842a5dcc29c2/dmbiolib-0.3.6.tar.gz#sha256=94baad2b3fe3d38d79286f4250ecfa5d6ffbddd72ad015d0f10db9d56faf283e" data-requires-python="&gt;=3.6" >dmbiolib-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/3c/c43edb697c763c711143954924252f002e915668394d8a4465e71efb0a05/dmbiolib-0.3.7-py3-none-any.whl#sha256=5f26aceb777d7a5e44a2cb9de10554893671d2044f8af63746dfb4342ef20495" data-requires-python="&gt;=3.6" >dmbiolib-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/26/dcc76216dba44542f6ea680f3f93b51aa81e1165286326d7841c071b401c/dmbiolib-0.3.7.tar.gz#sha256=26d2974bbe19c2af337e364b1b93f902300fd88d8635b02af2467288a6d9cde9" data-requires-python="&gt;=3.6" >dmbiolib-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/88/63f23465946eaf5117a94372ddd34b2a19c4f11841583e8404da34333c5f/dmbiolib-0.3.8-py3-none-any.whl#sha256=a5037550817f60dc4ead2fe7f966f9faf8484fac3b583c190c36048f01c3f960" data-requires-python="&gt;=3.6" >dmbiolib-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/bd/48f30caf8390416612f57eda3ba37648a3120dcaa599842865cf2ae9c59c/dmbiolib-0.3.8.tar.gz#sha256=eb532795c0014c0aaf6e3c1e449b32586d6bbdcf8355a5dfb197a4ce87362833" data-requires-python="&gt;=3.6" >dmbiolib-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/d4/aabe4af1ee85edff1d2b1fb2457a0f8ac21f276e08b415acf88277c351c3/dmbiolib-0.3.9-py3-none-any.whl#sha256=f11bb887c50710f3ccf1381bccc013fb80617c38c71b7ad6128bae34970f656b" data-requires-python="&gt;=3.6" >dmbiolib-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/89/3cbe870a1e7b84da0e9e9fb6df46673a05c64dcab987d182c1eae414c93f/dmbiolib-0.3.9.tar.gz#sha256=f59c7d2cb6a0dd1d288d8cb43c1be98dad9d8127b6f0b2215b670d0384691527" data-requires-python="&gt;=3.6" >dmbiolib-0.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/bf/28bada00583cc19de50fcaedbbce6705fa0482928a355ba336e28cb589e6/dmbiolib-0.3.10-py3-none-any.whl#sha256=b0235886d559372430c0de4556adbd6d37ef741828a3d9a2a009b6c10444cfed" data-requires-python="&gt;=3.6" >dmbiolib-0.3.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/5a/7abbc90f97cfaa4bbfc6f795047de681dfc71f92c06c7e4e9eae125d18d5/dmbiolib-0.3.10.tar.gz#sha256=cc52dfd8a14e878e56a16835922a781eabfc62c213fd002567fb76fbdc18d957" data-requires-python="&gt;=3.6" >dmbiolib-0.3.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16005889-->
+<!--SERIAL 17140300-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ggvlib</title>
   </head>
   <body>
@@ -26,6 +26,26 @@
     <a href="https://files.pythonhosted.org/packages/34/94/a276f716d8fabdf90cef3cc2a1fccf75e3e71e43c098bb84478fc31b0ff6/ggvlib-0.2.9.tar.gz#sha256=e7af12ea2cb6e0eb22469058478610b8e658507de5d89645475bf3e51de47000" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/ab/3a5c10b89dd23e44ac52839db07f30939220987b7412f278500cbc2da5e1/ggvlib-0.2.11-py3-none-any.whl#sha256=8d979d67d098183fd19d39d34a596531117ede1affcdbb3425db43a6d617a19f" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/10/d2/5e1ac26f91eaca121c2bd091e0198426b33ba3221795552c4ed27e2cb1d2/ggvlib-0.2.11.tar.gz#sha256=f2cf3ce41132271c6a64397607d5d59464b07a85f2e4604449890684083c57a5" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/e5/996214fe4e8fddaa938ee57fecceb69ad6c5b12147f39433cc7b8994e3f2/ggvlib-0.2.12-py3-none-any.whl#sha256=4806d6ae8c17257ef68071f9125296402373405ee4351629a6ec8a6aabe7ebce" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/31/bf85f93be1f5f477791bcd1e5cb543cc19e9465eb6a883565f2e9451e614/ggvlib-0.2.12.tar.gz#sha256=d1771e4a727226a09d6e4bbcf9b1da906026922adbf5c36b3e33c8d5b2389fc8" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/e8/55751f9bc637c8a113c4fc2ad72197ed6052ac7f3fad0bee1669b557179b/ggvlib-0.2.13-py3-none-any.whl#sha256=66fca9872b1161e72c8395410bcacaa23379c9bf7980b94d7cbfc090899e2303" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/a0/1d7a66e0ff7fc5481c77d73d9ff55f7b06b22f79a9f5376a5d28c87dc826/ggvlib-0.2.13.tar.gz#sha256=f40d1a644f988fd57546778b03bceecae86cedd0da643861d4b771b6af571d0a" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/53/00bb9ce672ab84e7a31f9989bdd21b4576f7abcaf902382b1ff75c4bf530/ggvlib-0.2.14-py3-none-any.whl#sha256=7797e6e71a69f8756e833455f556a72959d0cfe84342e0a8428c12fea1ceb3d6" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/85/3375074dfb8a1326df580189ac1cb10b463c775200711b16e2140148536e/ggvlib-0.2.14.tar.gz#sha256=9e7e901032dd7c0b852260d2dfcd4137447a4fdbef61618173379ae169c12cdf" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/e0/3beefa71cced50dc01ba080a9c1ea514de8a52c3a90833baacbb8cac10fb/ggvlib-0.2.15-py3-none-any.whl#sha256=541aa5d252e60621d2db6e3b82ef4ef2882565fc6039a88775306410f0de24ea" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/c0/14af339a834b61fd675b64d59dfeda2425b4716f9a3333024b08d2f4d2d6/ggvlib-0.2.15.tar.gz#sha256=569710970f80c10682c1aeeaae9db693c6fac3c08414abff346ad422a1024102" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/c8/64f42368f3ec8f89cb016ab300cbb15f956759e1e3ba901346d1644380b3/ggvlib-0.2.16-py3-none-any.whl#sha256=dc3062d51c9f981c6dc4d43b11226e950e6dd0c019ba8a222dae57e32caa9cac" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/5b/7fa980c6ef34b39e25e606524f62ec68a4155bd2e288ee4a69d01768ce0a/ggvlib-0.2.16.tar.gz#sha256=38097e95cf2a24556739475524c992257e29ebdb1ef68dcd7e0b2ac3bb2cb634" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/7f/26775d249e2aa8454836bbcd6a2f277c6f6ed11988c3579e924b1fcb7c44/ggvlib-0.2.17-py3-none-any.whl#sha256=f2f7ea5097d97df9fcd427d9b4fe6d1e3a3169e62a078cac93f559021d7bddae" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/7c/b70914ca474aa97d81db1a6c305c582f7cff33b518f746c2381719a93e2c/ggvlib-0.2.17.tar.gz#sha256=fc006f1d60a4ed57e0c91fe4c9665a91ce6d3679619552ba6d27fa29a47ab362" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/c5/0036abd58e7a5c44849a7b0b593325a6f334e12cbe5549db4000db767eb2/ggvlib-0.2.18-py3-none-any.whl#sha256=c1540b4dc01135955cd496827aa571cf7376ae5c7963a5b37ed5889b47b05016" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/5d/7fe71694c898902244b9aa9a493cb713e596645d83235d08465e64c560e9/ggvlib-0.2.18.tar.gz#sha256=16b1512928cd6fef4b288119127b7dd6096e798d3d34b381a444a11f56c88800" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/8d/de55abf042a02d14f4c3bafa671cbae92085daed873e9f5c544ee99b492d/ggvlib-0.2.19-py3-none-any.whl#sha256=e561890e551f64437b9838e8691f36f484e68284139d812998a146e0aeb84c4d" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/28/77dd3e02e65cb6ec4c3d0ac8733325a4ff4e195d07651b8b8ad4ac3aa4e8/ggvlib-0.2.19.tar.gz#sha256=b86257c53180c4d2a1dd57efa18a27e90d535b4ecb65de4669b9a948b82405d0" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/ee/a306401cb1966365a5603a9c740a0e1b0f4fdba1ba0f60d4406dac746ac0/ggvlib-0.2.20-py3-none-any.whl#sha256=a1f67bb87868b715bb038303d577193bf6b864395e4c237dac80b1a14064c9b7" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/e4/e0b09ab1eccf826fffd470e446b4904e7e9092ebcd8ae7cbae52cfd13e81/ggvlib-0.2.20.tar.gz#sha256=1fe96a59cbf9a22695cf08acbdb56a07b86f43117b67a5a41126178f736a89aa" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/f2/a7041293fca3d370771378719853e6eca1b25041226f0cef5d833f67c84e/ggvlib-0.2.21-py3-none-any.whl#sha256=5c1e6167bc1e8edac3ef98d31ad075aa92f96c277f94be7d6f125505430dc07b" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/2a/04ca663947844b031cabd62aa162431315683d5844b6a405c1c40d0eecee/ggvlib-0.2.21.tar.gz#sha256=6f008834f14cf330d61922f541fef214fba74b8dac4d19f4316da4528e3c5242" data-requires-python="&gt;=3.8,&lt;3.11" >ggvlib-0.2.21.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16182762-->
+<!--SERIAL 16990074-->

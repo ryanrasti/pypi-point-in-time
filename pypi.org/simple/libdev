@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for libdev</title>
   </head>
   <body>
@@ -94,6 +94,20 @@
     <a href="https://files.pythonhosted.org/packages/68/60/b9bea0395c1d59007e82c87d0722d75682b41c0659ba386dc2da9e659705/libdev-0.43.tar.gz#sha256=811b1c4aa4993dfcdc186132c5cfc62888706c3d07679a1e5eaa9827e3955ba1" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.43.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/f5/268ada3470e7b119829acda9490b5f2190c10a85d65f7fa485d3bbe9b342/libdev-0.44-py3-none-any.whl#sha256=67ac3c367158f408724e6f6f0033f98165ef8ad48fe0fce7442d29dbd8529782" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.44-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/fa/d9d4e3f7fb3986eb7ca956c69ceda2b939a2c9b5e626f96849ff88be3c3e/libdev-0.44.tar.gz#sha256=75a9f23545eaee61f2770e2cf154869b84c798b2a39e9423c3b4119191b0e8fd" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.44.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/a1/063cfb04de4e2f839de35b24aa95719f0026b18b1583fd9e2ee9923d6c79/libdev-0.45-py3-none-any.whl#sha256=53aa76482c362de1ab4915bc02d6bd9e2993a7c81b1e2930e29c1b3b2bf3ab3b" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.45-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/e6/d0175ee0338076f8defd55961ec7d6af5d8eba90e1e173487b5e0d54cfe5/libdev-0.45.tar.gz#sha256=075c10e65f6b7277d5f18bfee2dd0a317b6c88a5a4737cc88fb3ba9f776310f0" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/b5/cbc1ef8abd3fc38bf29805f3a6a1195fd70e2f1b5b17304773e89f08492d/libdev-0.46-py3-none-any.whl#sha256=0a992693302d9b0cbaaf1e7a04f1bb10f537f91fcb9b547f5854c5d5bbdd0683" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.46-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/ef/b5c490abadd8041b97826df1d69d3d9e50ae4de6f0e81c227f08beead8b7/libdev-0.46.tar.gz#sha256=afa18896f1433835cb128d492b201a0bc6f773d8edbcda6614cccde4edfa3ab0" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.46.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/a6/b328cfa3d418cad85a5e69503b05657c725b5989ca2261a1c45aec124e0d/libdev-0.47-py3-none-any.whl#sha256=6706a8bd94b1b17c4e3de93dafdd8a8b01ac0a5c1096252c8559f27e967eceb9" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.47-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/75/c34daeaed019aab37dca9ce08e92790e61e123d3c027fca4ed9c65b0b7c3/libdev-0.47.tar.gz#sha256=28ef0d3446d1a455223d8d7f70f791edf223ec0bd9716d77ceefae302d835c44" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.47.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/e4/dfaf950d4ad604ae38124e67090a07d3d615449e2bbd3660377bb15dbe24/libdev-0.48-py3-none-any.whl#sha256=144823605b71ffa4452581a856536ba4d351034ce51fb907f14cadf37bf9616f" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.48-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/e5/df584a46c6fad8bc5ac7dc620c95fdc5e78aa7f065f81712d9e566268df0/libdev-0.48.tar.gz#sha256=3d5754127c6dd3cd251be39ea420d31ff353711bc36c46d9597284e090405d22" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.48.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/17/802165aa497c46e057d8b754d393eecb1060af3ab789292f151a24084cc4/libdev-0.49-py3-none-any.whl#sha256=ec0e897237a9f33486922460643d78d335a4ba2ed124ff1365ce8f87405d068a" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.49-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/d1/802d2a14b616e96891df107452ae514fdc0ca74cc8c60b94a3017029e2ac/libdev-0.49.tar.gz#sha256=447b812504a6dff64ae5914d3e024e8150aac24ab0e074e468d63893254ea970" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.49.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/6b/4dbb0d911961cd1f929ed079e38f93f4ddeb9ede07d3249d4f654dc7a042/libdev-0.50-py3-none-any.whl#sha256=607a4e88fce2a35dca163f92ec4341ea666aa563d9307cbee2cf6f5286525783" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.50-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/f0/46249edc448f9101e64d1286d49915b4d69659ef39634c01ab4f858eb633/libdev-0.50.tar.gz#sha256=aaaa6057a924514333b08363f5e9094192eb0b4a2c046330f06dfc92c85e6409" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.50.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/4c/e719ee4841715135db5b48bfbf6c92bdf220d7aae0f17ece4cd28da60b2d/libdev-0.51-py3-none-any.whl#sha256=9cf8d833dba8b4b5ca18132983dd8ca2610f52b554f5d53e43f9c804c8c9cd29" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.51-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/d4/5a014e36c35b21738797d098d7b6205b7f88d92e09d88e220bd6a242fd56/libdev-0.51.tar.gz#sha256=d48d2b6c97d50bb78713cb2d8816b48e8a4950a870d9e60b81a3149b14ffbd51" data-requires-python="&gt;=3.7, &lt;4" >libdev-0.51.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16153537-->
+<!--SERIAL 16973966-->

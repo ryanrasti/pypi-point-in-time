@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for osint-tools</title>
   </head>
   <body>
@@ -32,6 +32,18 @@
     <a href="https://files.pythonhosted.org/packages/c4/f5/dc772e5bf6445c3c0091e863e54f032923ad7bd8fc1baf271a612e397c30/osint_tools-0.2.1.tar.gz#sha256=1cb76e2cf66c4a4135b4870bbd0bd630d0b9b225346a67eb5264c8b116c483c3" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/c9/5b5c69acf78a15b883573c542de527eca1897b5c4826fcfa8ff799d7de7d/osint_tools-0.2.2-py3-none-any.whl#sha256=5566adedbe6f418c4addee669ca1d5cd9672b1f37f146c52ab47bfcd123e802e" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/18/6e6d9a66449b9c41214f92038254d11377a56ee386670c1e9d46eae2abb6/osint_tools-0.2.2.tar.gz#sha256=132b6056d074ca70d250524ee7c6f25c917b04993248820b187cf990e2e28230" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/b9/3f62b8468049844ab34db0ef5aeab67919ff9bc21f8451740580af308e34/osint_tools-0.2.3-py3-none-any.whl#sha256=82ff57db943fefcd325012a297ff46b3be208a174b1274f015fa9498d4c00b5b" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/07/157be76daf34728cdec2aefd9fe843509fe6c84db014bbeb8fadab93503d/osint_tools-0.2.3.tar.gz#sha256=60e0db34774358d4ac6304ce0477d5e3fbb15bd288c57e189b6874daa9c0da19" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/79/e53d4f14a4006f2ac1ded53717bffd79e936e42453f21d12ce662bc4343c/osint_tools-0.2.4-py3-none-any.whl#sha256=68a0bc8dbd53cf209bddf711fc8730c17f0992f271052a5fc4012967deb02b33" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/f3/c7eaa07a8cccd8bad1cb43465d9a1e9e34be4d0792187e008a146fa80297/osint_tools-0.2.4.tar.gz#sha256=f983557ffe45ab805b59d0d4268a41eb936e159500c9d4cd915a01f7e78fc6e4" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/31/6a9c7b8ba1abc521dde8c87164c5131b455e64b5a6392cc9d6022311b8af/osint_tools-0.2.5-py3-none-any.whl#sha256=f68145265f590f5904ab12a0b9c28b2d2fb24ac36ab973bb082b60290949446e" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/7e/59d4bed728bb1c0cf92e5f5a9efe926a56e219dd56f2629eb0f74ca0a342/osint_tools-0.2.5.tar.gz#sha256=ebdf95bd0164ca72b5461e6c2675a30bd1e09a0e3acf37d1dc43e7dd1f021318" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/66/d52d87a9fa6ee79730f4d56f8c281e31bb4bae499bb7522ff9dddd9d862d/osint_tools-0.2.6-py3-none-any.whl#sha256=deef91a44b993f1c297fe02a9febd918b25ed48e4d6de3397f75248e3e8e75be" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/3c/e85ba43d411d5ff1af2206287f3113a82d14d55de9cd13ae7ad3743c402b/osint_tools-0.2.6.tar.gz#sha256=c7feedd3dfd892ddb49455a58909e6556cfc4652ea2cf5c57b919a7885b3ae4b" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/56/e9c91563405b6cfe19f689f6105a9648e6c79c096348f50153619a767a62/osint_tools-0.2.7-py3-none-any.whl#sha256=fc280cd4096177b7295d845a96908ee8b52dd5ff45337a430a283c6cc645338e" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/30/f08780d525ca27063cc4ecbad4f1d2e6395905a15a1ff6b09f99c2afa4c7/osint_tools-0.2.7.tar.gz#sha256=a691fb4ad409cf7cccad4b27d3a6ba145d43bfa9c1518dcc8396e1ea8bd6f97c" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/77/c700d38deea5aeb3773469ba072227b29a55c6f5c12aa7d2cfbad172d614/osint_tools-0.2.8-py3-none-any.whl#sha256=7b3a29d2df3d8660d9f165ac87a217858dd659731a89f4c620b1ee9f057e83ae" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/ab/4870e06ea2da62ced4422cb188fa2d55a04b40e750e4795cd3fa9c9e3629/osint_tools-0.2.8.tar.gz#sha256=06a35f65f579b253536f8f3cfe7a81351532004c12bc62afc139de4acf339717" data-requires-python="&gt;=3.8,&lt;4.0" >osint_tools-0.2.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16062450-->
+<!--SERIAL 16611732-->

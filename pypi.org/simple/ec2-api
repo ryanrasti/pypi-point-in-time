@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ec2-api</title>
   </head>
   <body>
@@ -68,6 +68,8 @@
     <a href="https://files.pythonhosted.org/packages/14/ba/e9cf32aab6e59182ed8cba56deec439e9a23072370d058f029c7d3d68162/ec2_api-13.0.0.0rc2-py3-none-any.whl#sha256=2c1f0b9983901605817128e4318c45e3a963ffe9326d3c8c88660ceba0a6e39a" >ec2_api-13.0.0.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/f5/ee171eba4756ec8f939131204cbb43b360c2e69445481a5a6e6146efeb89/ec2-api-13.0.0.tar.gz#sha256=c099c74f1d930d61ac7b52c07eca2ba73677a5c789bd737a0721e827538c8db8" >ec2-api-13.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/31/e9/a31de426a96fdc4aee5738a937acc23b391d097b066071d2744a8fb86511/ec2_api-13.0.0-py3-none-any.whl#sha256=db38f674f81cb0522a1ec4667b9cd23a3fccd4cce9b353dccbbc1ded6eb7a87e" >ec2_api-13.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/ea/15ef3d2af6be9b720e2800099bb9d32dced5d15a488bd980d0271321499c/ec2-api-13.0.1.tar.gz#sha256=d12ddcb223661eb0d58854eac1f7da3f6f801653ed9653551c7f20be116ec33a" >ec2-api-13.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/61/8cb8a314dcdfe370767dc9c60d4589e3a51792e2bf97f2954ca2952cbc8b/ec2_api-13.0.1-py3-none-any.whl#sha256=387004d8c1283abc6b53df7fedfccbf83ae3d277e5510fd058803a36f41bd4f9" >ec2_api-13.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/f5/eab0437a6f67d5e153fbc5a4a2f3a19cbe358f3ff8dfd3557d5026c2a43e/ec2-api-14.0.0.0rc1.tar.gz#sha256=95b8ab5373d943688eb83852bd7053c5e147fb54e8f1b5d098a4cadf813f1d2b" >ec2-api-14.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/2c/78dc63639524be4cb7c3344da3e4975336f5d21c6d1987244b48ae584f99/ec2_api-14.0.0.0rc1-py3-none-any.whl#sha256=eb0082bb60a07c7039d428b1928c3b64c81fcb1cd19070f432ed5f33ea292492" >ec2_api-14.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/96/cc/bbd16d440241f79c2ef39e20be6d577194138c53502129ba344cd1991036/ec2-api-14.0.0.tar.gz#sha256=0a6e2552503bb9c61099d123236eb96f6a11b50b95157e0a823fc619d64ea4f3" >ec2-api-14.0.0.tar.gz</a><br />
@@ -80,6 +82,8 @@
     <a href="https://files.pythonhosted.org/packages/f7/87/3405214aeda0d91db50234f2a125d9c6d9d0f85e6e055d118aa8a71d7d21/ec2_api-15.0.0.0rc2-py3-none-any.whl#sha256=1aa4004bad4f95a4f6233da7cce60487de195e942880d722a8fee64daeabba01" >ec2_api-15.0.0.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/21/cc8cb752b9da3b04dfee296d72f1a1738f30b699d680e90655acf1546628/ec2-api-15.0.0.tar.gz#sha256=bd8df51eae41e4cd9d64e3ad138be5613fe352991d40ac3a3f0baa5ef0dd3274" >ec2-api-15.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/30/bf/af0a0a4b939d1be1c81b72f0b044171bc76c1fdd016c59aeb5ae0dfda5fa/ec2_api-15.0.0-py3-none-any.whl#sha256=f28782e904f170994c7364ce13e39cb8ca71aef1088db7a81d7ad5be2ae71d1e" >ec2_api-15.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/85/3252d0ea7eeb5ff11e6bc24d9d7ffe3e4b0ec41e40c55073b866e3305c7a/ec2-api-16.0.0.0rc1.tar.gz#sha256=756d24269af97fc1ee1a9b21ca376138a085342f2a49006844927e278d160908" >ec2-api-16.0.0.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/fd/16ccbdbf02bef3324700a144dde27997b8745961d4a99e4cd6be0e37330f/ec2_api-16.0.0.0rc1-py3-none-any.whl#sha256=b40164d77d99a86df6241dcdf092bca6a40fdbc450183ae3fd2e011fba994a04" >ec2_api-16.0.0.0rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15311623-->
+<!--SERIAL 17126314-->

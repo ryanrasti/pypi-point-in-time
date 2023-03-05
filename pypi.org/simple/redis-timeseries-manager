@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for redis-timeseries-manager</title>
   </head>
   <body>
@@ -44,6 +44,20 @@
     <a href="https://files.pythonhosted.org/packages/06/6d/49b5f1f25df51a4e1df8b197b9374ca7f374dd80dc84010f3dfba0c598b4/redis_timeseries_manager-2.1.4.tar.gz#sha256=60b77b4cb26ac0ea183792391ba93a30606e21c03bcd0a6d6b406d602c2a1c7d" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/d1/378edb1328b3bbd0e0dd6ad085eb546550f773d74f1c44b3769415aa96a6/redis_timeseries_manager-2.1.5-py3-none-any.whl#sha256=804ad2b1b895854aed002de9b6b83738d01514ef08245574a79f2a9556c185e3" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.1.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/db/1b/86a2fc8e95ad9fe968792d9cbc0410dee9322d35d69baa93f5bddeb85bb2/redis_timeseries_manager-2.1.5.tar.gz#sha256=178e98eaf65b74e2478986bfc1e91bd403cbb1dc3f5d2bfbe3215081f570d717" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/f9/bf605605ff18f4fcf26120eda7105fe8fe2b7e6ffaf95d67aa4b292829f7/redis_timeseries_manager-2.2-py3-none-any.whl#sha256=a3dcf1f8928e809f1a18824000cb83c7520d6a52f70eb8b6a8ab715e0e6f1cc3" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/d9/30a13744f6240cf6743142fd270864a93a711616fe2ba9ee4493f82bb07f/redis_timeseries_manager-2.2.tar.gz#sha256=e031dd1ce8b4359ab2376df4911ceeec91b7f5b42221b43d65ca0fec87facbd8" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/cd/3d9c3ff2b17611b176fbc1b3a3b5e033095defb13559de9e5a073d07fbb7/redis_timeseries_manager-2.2.1-py3-none-any.whl#sha256=dd18a15edf84542587d8d4cc9cc613452cda1622e3e5c17c484de565dc4cbe6d" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/2b/53a21ab2b04fe447a051cf88a09398e0c006cef1f506140611c21d840030/redis_timeseries_manager-2.2.1.tar.gz#sha256=f30fb594e12c597396baebdf7c0c426a072b8df0f1203cb95131748eb7b87537" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/35/ef11ff3cdb77b2b931dd03f0555d7fc4f899067f5ba7cc334ba19f5c7298/redis_timeseries_manager-2.2.2-py3-none-any.whl#sha256=1e47a1ab7867f3d7cc1e1d692885214274e7109f421f73bbb0e85ed6e38afdc0" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/4a/95fe6782db08d8beaca59ef98e4ce6d9a11932649a407ca5396a45ee28f6/redis_timeseries_manager-2.2.2.tar.gz#sha256=2d2fcb4e200ed113cbee23c3d1d2ff399eacd552b2cff2897a3bef8aaf1c4e11" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/62/1d53e4af848326b6fe36b9c345b099ca6bd4c601772be379550a34917eaf/redis_timeseries_manager-2.2.3-py3-none-any.whl#sha256=6b71fbe73630e3fbddd72c3bd2adc5171dd209c097f9d76fddfc4bf0a37e7862" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/bc/29ab26c3e53602b724ddaa534e972935334ff8ded27ed53c08ba090f5d9f/redis_timeseries_manager-2.2.3.tar.gz#sha256=149d80f2a157a45ebc32d0c836b01c4d5eb589e2efdbdbf792364032cc96cdde" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/93/0e3656e51c7cc5bbcdc31ef423049d5867d62cff93e335f44838c827116b/redis_timeseries_manager-2.2.4-py3-none-any.whl#sha256=661669d87a89e208c79f82f68462ce0b26f946de63cdaf53349a5c6cc76de5ea" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/14/6f03d6e91070b983bdf16d5ea9b193d931cb3d68b4e73a37e788d69465f0/redis_timeseries_manager-2.2.4.tar.gz#sha256=6e63e9732b19c6fd40b1ee2216d077e61a5aec286c3fbcc03bdda24f604e4617" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/58/a186845f45a2d180f56aeba45425c9d16550b510557d3c1055ef701e54e0/redis_timeseries_manager-2.2.4.1-py3-none-any.whl#sha256=009245c8af99821c1cd41463bd6c03f82f44e1016a335fa5174dfd323c4bbf18" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/8d/7e3133241e0d7fe9d4cf320df0805e34024c05dae0fe85c8845f9acbda8b/redis_timeseries_manager-2.2.4.1.tar.gz#sha256=2bc704731ed53cc5cc9d8908da027d81c29bb0124321d9dff12f546a5fe16095" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/42/a991c34dfb954ca78b04affc72d0d074d772682e341324bc471ee6edccd3/redis_timeseries_manager-2.2.5-py3-none-any.whl#sha256=d1beb1ff83da1c3557de7b8cb1a0ad2410d8b6484a16381a51c59c6cda9fb3d4" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/b3/27716297820b7f9328872fd9e32ff621f839b4b4c25cae6bafc499a2e800/redis_timeseries_manager-2.2.5.tar.gz#sha256=b82eab6c815b7edadd60e0451254f3bcbc763a529ff88fc255dbb9e5d3a71d7f" data-requires-python="&gt;=3.6" >redis_timeseries_manager-2.2.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15981607-->
+<!--SERIAL 16800788-->

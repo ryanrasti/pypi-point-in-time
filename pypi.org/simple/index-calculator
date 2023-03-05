@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for index-calculator</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/47/cc/98588e154207e69affa1129ef4bd0bf0771bf48b60380fa1cec019a87929/index_calculator-0.4.0.tar.gz#sha256=e4a9ab641a36bcc5d82b84975bb6f04a6daf8ece744627cde3c0135e7cc194c0" data-requires-python="&gt;=3.6" >index_calculator-0.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/db/687e3bb650267edfd57d17fd28c20bc039810c637def18d1297ee63c65ad/index_calculator-0.5.0-py3-none-any.whl#sha256=d93589b18999591490d9bb9b2311df8858af1a906b7eeb9e38b45abbf44154d0" data-requires-python="&gt;=3.6" >index_calculator-0.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/98/77/f4a106167ebe7b346c6511b437114f934b271f3bb26a246929426cbb1619/index_calculator-0.5.0.tar.gz#sha256=af594840b5043b084ef2ea835b396f9c5ca7742778ac20c11b0bdeef5432935d" data-requires-python="&gt;=3.6" >index_calculator-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/9d/1b8e265743cb6e5cb32c944f01a5304cb2107367a0bb0951a542b4b12ee4/index_calculator-0.5.1-py3-none-any.whl#sha256=5cda77fd58b462e424defab8a910960b6f61d3879ea75ff35271e35500e08621" data-requires-python="&gt;=3.6" >index_calculator-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/55/a4282d1dfdd8130d0d68f940a38c04604a9bad56b26ff210829a2af8da14/index_calculator-0.5.1.tar.gz#sha256=81fa0cc8abbcff9a9fa1fa169c70739ea6692786421d3401bd5b463337ce7fc6" data-requires-python="&gt;=3.6" >index_calculator-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/56/de9d1304d852176f074c080747aa68f4aabfa04dfcbba613bf56941df740/index_calculator-0.5.2-py3-none-any.whl#sha256=5a5ab6165192fb62682bc4c5617d06e14802e70d6df571dc3f7675929d15e947" data-requires-python="&gt;=3.6" >index_calculator-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/4d/74a5026f684062bc37cbd7c9a31ab725d5104ca5bcc330d7f32964f6a065/index_calculator-0.5.2.tar.gz#sha256=dfeb5860fc7b6a2baaf62c5f7709fe2324b30d576c1230d1afd4a16f273933e5" data-requires-python="&gt;=3.6" >index_calculator-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/94/e4659aa3a4534dc11f038c3142e3893ff73f8d01be7bd09a6ef85aa9c6ce/index_calculator-0.5.3-py3-none-any.whl#sha256=c9a8e71768d06e280e3ffc76ca724a67d1be31d32fda58e0a22e4edef81433ff" data-requires-python="&gt;=3.6" >index_calculator-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/0e/2842fb10a66a28f5d23821ed4455b7b302f6b62f9aa765b9af7db4cc3a29/index_calculator-0.5.3.tar.gz#sha256=61974aa4297b4ed78b46674d85edec617c136547644a74f5180cd5fb2d1fc82e" data-requires-python="&gt;=3.6" >index_calculator-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/9d/f493d430d1b5f90087c7079f4f56bafc24d70120dede7f40418bd0899df4/index_calculator-0.5.5-py3-none-any.whl#sha256=86a239973599b7a62ae6f5851bc8789359eb49fcc5fef231a3abec1b53a38ab4" data-requires-python="&gt;=3.6" >index_calculator-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/d5/57fe7b111446bd6d3885dadd2639f4ccad0dc73e0db0281fb9702d2fe965/index_calculator-0.5.5.tar.gz#sha256=671483abcd7c5d6276455939c3aaddc0762eed2fc6da834b22b6553d87acabd0" data-requires-python="&gt;=3.6" >index_calculator-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/83/772224983882561b832704e71e25c471fae7b7a70c0f4f7c931642d23d52/index_calculator-0.5.6-py3-none-any.whl#sha256=8e843a820075c78768e44cbd7b6a6f6214e5ee40cec6284d1a73144445481bac" data-requires-python="&gt;=3.6" >index_calculator-0.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/63/51303a21a1f7a8dc1dcf7201f619dcac14b82f94f8b5e3fdb7b3a085d104/index_calculator-0.5.6.tar.gz#sha256=fcfcd334e57e4343063038ae8ba97d006d2a552c0fa2d57d3421ed289a6244f2" data-requires-python="&gt;=3.6" >index_calculator-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/f5/7034682132587932a237492a0a993b7039ce88501e56cd56f99742055d51/index_calculator-0.6.0-py3-none-any.whl#sha256=a17799ac0845b63323baae69db582f2a0bc9df9d6f98c0877a5a02976e1a987e" data-requires-python="&gt;=3.6" >index_calculator-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/09/db5c988e29efa4ba35cb7c9f6c2f77ecffa1fa0a8be13e4a0b0683ec6f75/index_calculator-0.6.0.tar.gz#sha256=51b1be05d05af05d17b0dc5c02239ec1dd3c0cee91019d06565ec07834de79ef" data-requires-python="&gt;=3.6" >index_calculator-0.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16301439-->
+<!--SERIAL 17144920-->

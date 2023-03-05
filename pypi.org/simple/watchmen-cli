@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-cli</title>
   </head>
   <body>
@@ -132,6 +132,8 @@
     <a href="https://files.pythonhosted.org/packages/1d/2f/5561c6995b6e62580b4db52800d6c9e79d25b868c000729a545a447f08d9/watchmen_cli-16.3.23.tar.gz#sha256=e4ec31d71259c17964c0a6ce91667407bd1558d9c58b99cd0233b3f53bd2a45a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/81/1b19023e06c6764f1704ea7c2f2e6e6d579080a8a21a3345dde7154a528f/watchmen_cli-16.3.24-py3-none-any.whl#sha256=a37965fb23951d802b50fe3861c16ecbea87a2f5d4d44420a67ed6c1f1f63bab" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/81/47/2fbc96c42bcf8f93817fead368b08168e1638ee932039ecd373fa5d80e8b/watchmen_cli-16.3.24.tar.gz#sha256=8ca4fbc890edff82c14aab81c6067e51760ea27e54d3425e0adf6f9892e24b7e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/ea/84204708c170d1c67bade5e44fe64a4347027bdfd5ef48aa0d14c4c83063/watchmen_cli-16.3.25-py3-none-any.whl#sha256=e0f627e032d4adf980c6d85cbe44e1e58b60939650cef0b95a29e8d0cdeb58e9" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/31/e6316715bd732593208b74f503a21a2b956a84cd328c5d17fe4ead741100/watchmen_cli-16.3.25.tar.gz#sha256=78f13528b99af4cbd0e261bf7fc47dc51f1f5a49381144f7aebaa7dd9ae04c8f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5f/7f/414a7a1f14208a460e21fe64454fd5164775fdb08b15e40fb02f38c36ee2/watchmen_cli-16.4.0-py3-none-any.whl#sha256=eb2e605015afa4472d7c9f776a14314e0361afa56f75b91201e1dceca6c79597" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a7/51/8de5d73dd1a4dcb33b8b4f7dbb8984f5b289c1784acedd9aaa809f5ea710/watchmen_cli-16.4.0.tar.gz#sha256=b57545e1517e3c0f942a7b741a0ef80d17e7f236a398099d8c90660becd8a637" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/85/3c78f2669ebb5d0b5bfd74c6a11e755dbcb968ae260f60bac0e6a0faa01e/watchmen_cli-16.4.1-py3-none-any.whl#sha256=5e24d6bb968f7e915d641b1bfbf5310f8944439a60022ff8b86ca1ca285a097f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.1-py3-none-any.whl</a><br />
@@ -144,6 +146,12 @@
     <a href="https://files.pythonhosted.org/packages/ed/c4/ec2b9034d882eff0869486e70000bfcb91f1c1f1df5f9aa96678e5e861bc/watchmen_cli-16.4.4.tar.gz#sha256=5bec7f7e6d93c37ecdf54dab19c79cc508bfca6ffafeb28f9eedf51d42ca6e44" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/b2/ec5aeaec70945786d8089ad6b3a7f25d4a6e5bfb122d7f314fb60a17b627/watchmen_cli-16.4.5-py3-none-any.whl#sha256=28f42ea37e64d68430c48030bf018c4b734730bf12ae69e701856d778670e34a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/b7/6ecbbcfd3c03c879baa34381f225c6ff3a326c157e7fbbf8adceb55ecfb7/watchmen_cli-16.4.5.tar.gz#sha256=7c5477801c36cb6c407f6b76d8345c339f5e01254f629b71384a4b10fe767492" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/b5/5c58772bb846347835a99e4d1d6b6c27da74a34b81412ae992bc757157e7/watchmen_cli-16.4.6-py3-none-any.whl#sha256=058db635d714d22e87abd80776ceeb6de6ab56f3aca071e56479f871729bb7ab" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/24/15015d7f58a076bd2259fbbd5a9e660576412dbde1296f05b7fec36d53f7/watchmen_cli-16.4.6.tar.gz#sha256=86cc8b48e934edaf2596b4743d67afc7aec05df700998e5a19cf3169064af095" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/29/38a1c0cd9c21d3cd152e2f00212a61d54c9689337f16273b71ee6f84ce7c/watchmen_cli-16.4.7-py3-none-any.whl#sha256=df0e8760432f41413c862a8c6482a15ed84bbb96a1d726d40901922150a204d8" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/74/8a4c7a25110ae9187d2de25a26bb54e945590e3af3350e54434c8b49984b/watchmen_cli-16.4.7.tar.gz#sha256=6e265813483c7ecadbe64cdf5e780549f253fe4b413417753d9d191447af6d9b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/5e/48bb3d19fcad7fe5a9d90334142bde8df1ad2c2993bf9fd53b7d4f65ed51/watchmen_cli-16.4.9-py3-none-any.whl#sha256=1258883f5adb1c71bffc3288100dcaa80aae95dadfe23559d4f00dc40484f079" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/10/0584296d8cdf49659d7759f3c83f5a21d1735aa26776a0c5d576921c4040/watchmen_cli-16.4.9.tar.gz#sha256=7d7d78f3ab4862cb318c41c3b8d187cfd0790ca1935aaaa79ac96403083e29ee" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_cli-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398920-->
+<!--SERIAL 16991599-->

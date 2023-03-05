@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for m2r2</title>
   </head>
   <body>
@@ -24,8 +24,10 @@
     <a href="https://files.pythonhosted.org/packages/3c/70/f38317d303dc0e29d74d5e310037ffc3f88ec2c2b98cbd938ce9bb5164f2/m2r2-0.3.1.tar.gz#sha256=6bf2d74e4cd15ce8a795999326cc7a4924af69ac1d114cac8064c1599ab11892" >m2r2-0.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/85/e8/37dc688537d59cea15e7b4ca10cdbdd0fa7b81da055e8f6ce91eed6c493f/m2r2-0.3.2-py3-none-any.whl#sha256=d3684086b61b4bebe2307f15189495360f05a123c9bda2a66462649b7ca236aa" >m2r2-0.3.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/a9/aeaaa222e880cf6634ef63d8bfa42a68c9a689fdc69319f957fdb518e3da/m2r2-0.3.2.tar.gz#sha256=ccd95b052dcd1ac7442ecb3111262b2001c10e4119b459c34c93ac7a5c2c7868" >m2r2-0.3.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ef/c5/a887de2e2d79114143ef1a7c607061ecd8a4b3b960d5910a2eff90089d18/m2r2-0.3.3-py3-none-any.whl#sha256=2ee32a5928c3598b67c70e6d22981ec936c03d5bfd2f64229e77678731952f16" >m2r2-0.3.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/01/bf/b21e7d23bb8707985f39f33f82e5a121d0d5d597735b024ed457d00f3b55/m2r2-0.3.3.tar.gz#sha256=f9b6e9efbc2b6987dbd43d2fd15a6d115ba837d8158ae73295542635b4086e75" >m2r2-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/c5/a887de2e2d79114143ef1a7c607061ecd8a4b3b960d5910a2eff90089d18/m2r2-0.3.3-py3-none-any.whl#sha256=2ee32a5928c3598b67c70e6d22981ec936c03d5bfd2f64229e77678731952f16" data-yanked="Missing python_requires, so it&#39;s being offered for python2.7 installs." >m2r2-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/bf/b21e7d23bb8707985f39f33f82e5a121d0d5d597735b024ed457d00f3b55/m2r2-0.3.3.tar.gz#sha256=f9b6e9efbc2b6987dbd43d2fd15a6d115ba837d8158ae73295542635b4086e75" data-yanked="Missing python_requires, so it&#39;s being offered for python2.7 installs." >m2r2-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/57/164112275965de407680ac176f96434d02329539438324c0ab8084df0343/m2r2-0.3.3.post2-py3-none-any.whl#sha256=86157721eb6eabcd54d4eea7195890cc58fa6188b8d0abea633383cfbb5e11e3" data-requires-python="&gt;=3.7" >m2r2-0.3.3.post2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/09/fe73f1739c727ba119cbd67c43b65316af56e55f5501ba601c79dd7ba080/m2r2-0.3.3.post2.tar.gz#sha256=e62bcb0e74b3ce19cda0737a0556b04cf4a43b785072fcef474558f2c1482ca8" data-requires-python="&gt;=3.7" >m2r2-0.3.3.post2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14730624-->
+<!--SERIAL 16614837-->

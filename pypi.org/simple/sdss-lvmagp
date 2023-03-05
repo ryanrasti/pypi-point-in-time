@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sdss-lvmagp</title>
   </head>
   <body>
@@ -38,6 +38,14 @@
     <a href="https://files.pythonhosted.org/packages/2e/b5/fcb5d7ebea5d81554cffa4b74694c3a800255a12eb66025ef86e6e53478d/sdss_lvmagp-0.2.21.tar.gz#sha256=acd24aba2752d34e0ea84ff268f389d49a07220a21fae563cc4095c80db828e5" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.21.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/1a/a07bb8f9cd379f39c61b4de4950eaa18b45dba26c17380041765a8ffd24a/sdss_lvmagp-0.2.22-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=318d19c49005c901b26d9c303408744a7f7d8f43052b8a648edd0a171e3b22ae" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.22-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/66/c1c4aaac3ab9c668b147f8d41c0827120784d8e28794e41d7ce83627a032/sdss_lvmagp-0.2.22.tar.gz#sha256=2a5f5f57e975e6a2f2609d5d8a3c9d04290f37959ffff76cd9926fa65a017e57" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/8b/6312d8f0c97a4441b2b7e5af088a1d22ab8b14e40f2f44ac82de6e5a03ec/sdss_lvmagp-0.2.23-cp39-cp39-manylinux_2_35_x86_64.whl#sha256=d6f6641dc1638114e998f459137641b3a2de39fe685f7d00fa0cebb62b5101a6" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.23-cp39-cp39-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/bf/3e2776ecd2760ceb4e61b084e935f30de1dda107f9bf63f145e940697c09/sdss_lvmagp-0.2.23.tar.gz#sha256=8d75c7f9357ad0ca6728c4e05b970685672c3fc280cea4e5bb3356e4db4c421a" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/cf/be6bb213c0d393b8d2d68b7a9422a889bd04cef6ca82f7de3858c0991ebe/sdss_lvmagp-0.2.24-cp39-cp39-manylinux_2_35_x86_64.whl#sha256=8cadf7c3bf70a51e6e1876a7ff453374ca565c1345bcfb383e9717acaad799f0" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.24-cp39-cp39-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/69/0ecb2e6e7826a383b4460556455459936742ce13595f0ac0847a9e124ec2/sdss_lvmagp-0.2.24.tar.gz#sha256=35b341e536812152c6df1d0ac078dd92e5793caf78eadabbaeb642664fc46800" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/78/fd0b0cc7813bd62f03251919ceb53f1d17964ef0ce2abe33611520d2487f/sdss_lvmagp-0.2.25-cp39-cp39-manylinux_2_35_x86_64.whl#sha256=24e120f764b5584416fd435c74751991e3c637ff40923e0f96dee413f63b91ce" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.25-cp39-cp39-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/4c/56a6561e490c926fc044738c73de813ab52fab49c750fe076042dcd25be9/sdss_lvmagp-0.2.25.tar.gz#sha256=56af335e515953f847e0010afe261c264d472aa23bfdfa0b017f94ed6fcd4564" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/c2/69ab7eeb7a9d826c6de3233d771a093f7aa85c063cbd872b7b66c9bc687c/sdss_lvmagp-0.2.26-cp39-cp39-manylinux_2_35_x86_64.whl#sha256=89e1d300e71fdbc5e9b4c60ff6083ef7d05dca6223591e56b5ff456100030c0e" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.26-cp39-cp39-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/95/e09a4e151451384b2525cc82cd4a0bc8c609648770aa7691c30489d29612/sdss_lvmagp-0.2.26.tar.gz#sha256=87a462ef3267664be21d654bcc857b2690b8c9aeb95614474f42d92d663a886e" data-requires-python="&gt;=3.8,&lt;3.11" >sdss_lvmagp-0.2.26.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15643493-->
+<!--SERIAL 16769103-->

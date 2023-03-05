@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for oci-cli</title>
   </head>
   <body>
@@ -444,6 +444,20 @@
     <a href="https://files.pythonhosted.org/packages/b0/35/e07c2ff0915c38cbec16468f6c19175319a1250e1eca6341bcfcea297aad/oci_cli-3.22.0-py3-none-any.whl#sha256=adf2c195b58e934e154eda3cae4ccc29f4deeb1649141b5c6062edf5cf737a79" data-requires-python="&gt;=3.6" >oci_cli-3.22.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/4c/4b4f7af348e2d95f398476d36b1a712a006ecd2ccbb74a4301bc30b9f6b5/oci-cli-3.22.1.tar.gz#sha256=1b08177ed7b4baf58895b6c1536f0567a5dcb13c3bf7754749053ee50773ceb2" data-requires-python="&gt;=3.6" >oci-cli-3.22.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/77/65/921978ed17407afe32afa7af28d5608a970cb5f3ceb355af5a7542493ab7/oci_cli-3.22.1-py3-none-any.whl#sha256=5405c10255967e1ff97faecc1c9895faac06ad9e40f7d9e2afb62602a512e04d" data-requires-python="&gt;=3.6" >oci_cli-3.22.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/9d/8327cc0da9e66ee5e97dd69b74d84095b624ec74976ae14465440864d89b/oci-cli-3.22.2.tar.gz#sha256=00a7c73d660e12abfc3e24d5239ecae7a206afcc85630693db062c9b4da8fc82" data-requires-python="&gt;=3.6" >oci-cli-3.22.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/05/dcec68ae10a05f603215e642148f1f50ace733413380d0d99374409b9ca3/oci_cli-3.22.2-py3-none-any.whl#sha256=c7ce7da964fff979b309940b1717303c8bd010e5d360f66a67c11fe26996be43" data-requires-python="&gt;=3.6" >oci_cli-3.22.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/f3/f5695524a8562a81948e8647a1a6b34486771756f3f786a7686c273386c5/oci-cli-3.22.3.tar.gz#sha256=e1612b53109e9eb9d0d41084839156d695082405d5412e3da208346a334775d1" data-requires-python="&gt;=3.6" >oci-cli-3.22.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/6e/6f0005ddf5fd999473c9e3a3f5b464c2aa186ee863cd351cf131074675f2/oci_cli-3.22.3-py3-none-any.whl#sha256=f3396fff9e238aa896c7e094a8b2f69d402769db101ef5cd8d0e6ec897686c28" data-requires-python="&gt;=3.6" >oci_cli-3.22.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/08/57b8134238918026c6be0e8c56f3a199486215febfa8429d0eb856d41222/oci-cli-3.22.4.tar.gz#sha256=56953e07bb8f5352ce7d539fb8430dbaa8cadda7d0ff529dbd7b0df332fd2dff" data-requires-python="&gt;=3.6" >oci-cli-3.22.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/6c/31fa4ac6422cb301ac8adc9534b235f7b9c01e6182643407040898e0933e/oci_cli-3.22.4-py3-none-any.whl#sha256=a914e512ee935b3022d0cac4b400eb7d7b2c99c09cb68c9412a63a8277124aaf" data-requires-python="&gt;=3.6" >oci_cli-3.22.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/2b/f509bebc59d3355231b82f27df011e3f972f945bafde048493565f776caa/oci-cli-3.22.5.tar.gz#sha256=b68f84542140be8e22039003b585f9b5ae3883ffa437ab7625feef101a75830f" data-requires-python="&gt;=3.6" >oci-cli-3.22.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/18/171d98dcb7e24036c9b588efd81594792ba8b50247475c002b9ea5be91d0/oci_cli-3.22.5-py3-none-any.whl#sha256=3f4690ad9c6de94333276fe81dc45d7ebab9f261d8bf53232d2f3d89d3285389" data-requires-python="&gt;=3.6" >oci_cli-3.22.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/19/89ddae82ae5fc446eb23b05b35ea7383fbf86e3557a691d115d9b6694d29/oci-cli-3.23.0.tar.gz#sha256=7a12c4c4e972517b41ee567a76f9071a9161069ece5867b3ee702b589d86d202" data-requires-python="&gt;=3.6" >oci-cli-3.23.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/e0/1abda378bfaaacf1e2bf8a69b0e35c33189faac97efeaca99e0ae896a334/oci_cli-3.23.0-py3-none-any.whl#sha256=07abc1739a93de4fc886115b040b7be1b8239755b1f7f01e6a749c28ed572bf4" data-requires-python="&gt;=3.6" >oci_cli-3.23.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/98/464a674099b7ea234b27382807d1b585f2dd4a5686aa5bbf24e86035b5ec/oci-cli-3.23.1.tar.gz#sha256=6f362c40431769c4dbb48e9bb6d1ee5e9d165fbd0af95f94b137bccbd1874671" data-requires-python="&gt;=3.6" >oci-cli-3.23.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/ac/6ec0030af2ba70509680df47568ce9e647ab69f956c882f0933b497f97dd/oci_cli-3.23.1-py3-none-any.whl#sha256=c316ab879ec08d95dd7f8cdf0981fec816868e8667d5e48902348c86769ee91b" data-requires-python="&gt;=3.6" >oci_cli-3.23.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/99/0d5bc733590020b761da1d8b7719b83792c71ebc0e1da111aae4ccbae939/oci-cli-3.23.2.tar.gz#sha256=11860733e5e14f68667de6b5efa77a0388360d023ae473b8f5178789391fab5b" data-requires-python="&gt;=3.6" >oci-cli-3.23.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/96/5336c7eff1a880e88ecfebc6c17eb8cb9f3efa354022f3838c3b7162e16e/oci_cli-3.23.2-py3-none-any.whl#sha256=2b509446117c21d2af7c3af7fc2bfd7ea4a13f67083115034c347e8fbd57da83" data-requires-python="&gt;=3.6" >oci_cli-3.23.2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16376915-->
+<!--SERIAL 17078061-->

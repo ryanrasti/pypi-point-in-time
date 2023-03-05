@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for jbg-util</title>
   </head>
   <body>
@@ -24,6 +24,22 @@
     <a href="https://files.pythonhosted.org/packages/fd/92/9c59fc4456b53d434c67eb833dbdd4574087c385438abf4778353e7f6ee8/jbg_util-1.0.2.tar.gz#sha256=10a594cef60ab7b58d68005a7e614370177821696bb14330c76c6f80ac78b2ac" data-requires-python="&gt;=3.6" >jbg_util-1.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/93/9c/b33febac03b272e71866ea81f6a073c9994e5e09ea94c8c5fe8882e3d32b/jbg_util-1.0.3-py3-none-any.whl#sha256=57482ec110f1336ac7c77c6912307215fe38dce668dae2fd09a596a255dcc3d7" data-requires-python="&gt;=3.6" >jbg_util-1.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b7/0e/6653410ff0466c6f0af8dc3e6adbf08176d5915047f0fe9cce00bc16e5c0/jbg_util-1.0.3.tar.gz#sha256=8d9070673a3eee59f59451af7d81eef6b1749ffc96976c22c89fc2945889e66f" data-requires-python="&gt;=3.6" >jbg_util-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/b9/f36e6cb4a53c0dd45feeb33052bbbb8f117950d7dd81afdf7543a24f04a2/jbg_util-2.0.0-py3-none-any.whl#sha256=c4498757eb668eac973f8ff864116963bf1d6602eacd06ec04bd2983fee1ce3b" data-requires-python="&gt;=3.6" >jbg_util-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/bc/45bd70eeeeed31f4a069c49bf8db9e3ac7727e090c6df4599594919e144b/jbg_util-2.0.0.tar.gz#sha256=d8075bf39862e2776b989570ab669d2faf1703beb4532fa281f730046f00406d" data-requires-python="&gt;=3.6" >jbg_util-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/fa/4620a2cf3e8dfd3cb907471e86ef089b17fbdf4aa252cb16d716b4589789/jbg_util-2.0.1-py3-none-any.whl#sha256=6068ddad66f0aea6292d6019affcf7b513e96acdfdd6a97107e58c0a92e11b84" data-requires-python="&gt;=3.6" >jbg_util-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/38/63a917feed78bf5b63b5f0fd86af3cf646bc5944864c470e15cc03477b01/jbg_util-2.0.1.tar.gz#sha256=451a54288c09423d9852d2c354ce62f3c98038a38786b6f0e55b946f4f4c9a17" data-requires-python="&gt;=3.6" >jbg_util-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/41/e92f51e51ab1aa03081a43bcd109ca502e63c2045a8938f521462cc84273/jbg_util-2.0.2-py3-none-any.whl#sha256=17cafe330b6b9be8835e1cea334ed3d0ad369f4bf8376935d86d2c3d84d69b1f" data-requires-python="&gt;=3.6" >jbg_util-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/4d/bd6b6a6b7d8369729c22ded18db7d4ce86f6fc4438e5d4f037b2b609499c/jbg_util-2.0.2.tar.gz#sha256=738af0aa7401f8eaa5b4fcd97e9b684791c72df991df62830afc7e44fef9f359" data-requires-python="&gt;=3.6" >jbg_util-2.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/ec/b9ad35365bec342600aff3973251282603cb0e6dabf13e4856d0765fe0f6/jbg_util-2.0.3-py3-none-any.whl#sha256=0025f681848439beded41aab51a7e1ecea0ffeb245d2b3a003caa6ed8c5e3723" data-requires-python="&gt;=3.6" >jbg_util-2.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/e7/2e7a77259f81142181815a9d0d60e1f39b05c9c64f8d744bc2d7a301e331/jbg_util-2.0.3.tar.gz#sha256=7518678ffa3463924a2ed22eb2e9c8b358af4949e05821d1b05cfdf2f518d53c" data-requires-python="&gt;=3.6" >jbg_util-2.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/4a/92641615c56a6bbe35558d3e83beacaeebe7b8ad09ce16e589325872ddce/jbg_util-2.0.4-py3-none-any.whl#sha256=34c3ae5bfed3483079bbd3a85ab0910e336afece6b9c6d5a1ad7e69e858b2c3c" data-requires-python="&gt;=3.6" >jbg_util-2.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/da/c8b023d893573cd6dc2634c80f430c673212d4750abdc9ea4cb41a992586/jbg_util-2.0.4.tar.gz#sha256=d4ce6d4c7a353dff77fdd38ab75a3dc252b29670d00a624fa7692f35684bba93" data-requires-python="&gt;=3.6" >jbg_util-2.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/26/3bc08364fea85772aef206f4a1fa97ec4e3c126ce56a6af7ee481e5faa10/jbg_util-2.0.5-py3-none-any.whl#sha256=83d809de0df86957a0c2ea913264c7cacddebed8fc89b942b38c777e23712b52" data-requires-python="&gt;=3.6" >jbg_util-2.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/1b/936e72535b3aea5151efd255c44b1d359ab10b88afbdd3d3dc7e6103d5c8/jbg_util-2.0.5.tar.gz#sha256=69bee4292e6402947c6e9a592122cb55a5c3ad5eee26b3e4ce48f12679446628" data-requires-python="&gt;=3.6" >jbg_util-2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/d8/b0e5e4d66b5ca04ca112bc7266a42e0ac4055e2b50dd1f89270a10269f9b/jbg_util-2.0.6-py3-none-any.whl#sha256=91693d0dc931401a57538025ef2064285e45f0d324153e1b83d00e018878cf1b" data-requires-python="&gt;=3.6" >jbg_util-2.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/e2/82465be4ea84aa5a04c8adc58a30b4d48bde1cea26c09ac2c250371c7ec4/jbg_util-2.0.6.tar.gz#sha256=8c7c7e696500ab883febb407ea59556b22eaeb74b44bb0c30613072d2c353c24" data-requires-python="&gt;=3.6" >jbg_util-2.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/96/08c1e9099f72fb7c0daf3a7cba386496dcdf77988df206613a1a12c9a435/jbg_util-2.0.7-py3-none-any.whl#sha256=8a6c00b5bee8266cf8c53b0e485c826d6069fa81b2e4bb7eae7730408bfe4af0" data-requires-python="&gt;=3.6" >jbg_util-2.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/15/0eb20d5f01d86f420f5ad8a2cde4e046cec0b5517f50a0d5a4f2f6ad2600/jbg_util-2.0.7.tar.gz#sha256=babe396530276a271934ca9b7a2a85f2bf24dbe5552da5a31854dd9f2086d94e" data-requires-python="&gt;=3.6" >jbg_util-2.0.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16414351-->
+<!--SERIAL 16448792-->

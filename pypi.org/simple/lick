@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lick</title>
   </head>
   <body>
@@ -36,6 +36,19 @@
     <a href="https://files.pythonhosted.org/packages/8f/ef/f3e4b09ca48adee121008e552e029c4cbcf4853fed4f6f7c7e542b952843/lick-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=841aa37a0b64e191163d9369269723a0015fba07486df302b5a5ae75e7d3b5c4" data-requires-python="&gt;=3.8" >lick-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/7b/5bc79b6712a9af1be5d7f471921bad912f2a5bde8368be8e396b06c50653/lick-0.2.1-cp39-cp39-win_amd64.whl#sha256=7c27aaa66c5235c67d1bd2de0fed087a82a8b46d4fbf1e8d2d9ec398ff8b0aeb" data-requires-python="&gt;=3.8" >lick-0.2.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8d/a1/c660ea5d089708b5882c30e18c3e34ed3072a03ca88d0462edddbbc27796/lick-0.2.1.tar.gz#sha256=4a8649af2044efc8bc9b5f0a87c2ffcd5a4c17229956a87d396b362bdc5ccf30" data-requires-python="&gt;=3.8" >lick-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/b1/22c4b6c29f929b37925014eb298701e4b3d2f3f07addbbd9951ac7c52f12/lick-0.3.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=c58408673b8fafa946c8cb1572c53db2b7a26e93c299e657318ed768a61be955" data-requires-python="&gt;=3.8" >lick-0.3.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/ff/eb05780114979ebc1b2c3b910f8271bb672e59b20b8d6d33eeca6d756b44/lick-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4e58dbf3e607c685017aae4bdb3acbb7b4f44e6c3402c6b315d13744ac60a17d" data-requires-python="&gt;=3.8" >lick-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/48/22e869a52d777d3a6aef9bedb307eb716384d9289bfb13da41f7ac9d453c/lick-0.3.0-cp310-cp310-win_amd64.whl#sha256=a4f0594a8f6a627eb5b5c236216aee42c36dbcc7678d34e730777400a19a1090" data-requires-python="&gt;=3.8" >lick-0.3.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/8c/620785e06998932a3635fee1b60453b3106c97870a34148a4cf9743bebae/lick-0.3.0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=cbae17f321cbce0aa8f571b0373bd6f768dede080623cb24fc8ff82169be5b51" data-requires-python="&gt;=3.8" >lick-0.3.0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/62/2368c078a1140b14cccc7d222b652461da286030af8170b4bfc9bc7e4c1b/lick-0.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=5abefb27737367ddb66cbf2b89aaf7d20e172d1813561db193b4b85791c83cd0" data-requires-python="&gt;=3.8" >lick-0.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/64/92c409a1299238461e041e230ab47729c94207a19bd10ed05ddb61d7b77c/lick-0.3.0-cp311-cp311-win_amd64.whl#sha256=fd12cfe3594398d7e34869fd54d0d94620ac642342960c7ab901d161cdd5724e" data-requires-python="&gt;=3.8" >lick-0.3.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/00/e50a5c879401aac50a93d435c8b3a9b03d4634fd17662fe409f53a668747/lick-0.3.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=1f8d819255553e5a96ce07d7031432a5a9e416f6a9edcb60da46f1702080582b" data-requires-python="&gt;=3.8" >lick-0.3.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/bf/b4dacb5c0817a78ca13335414c8f202e366e2661b097fab1f183935aa772/lick-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6a0ab57c404aa700432de45158333c96098ff8e4e0fa9b00da1187b386d9b5d8" data-requires-python="&gt;=3.8" >lick-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/0e/2ad835612c618ae8f7035a50133fb6c212b04e35dd3d8cb295db1e1e6328/lick-0.3.0-cp38-cp38-win_amd64.whl#sha256=3e954e73b40071a456221137afd8747415fa19e05802f1573edff90650e47404" data-requires-python="&gt;=3.8" >lick-0.3.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/c3/17f1e1de592e5ef78adf5ed6ecbbbd39a6a5209489aedbf5984d34729f5d/lick-0.3.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=ff48a0dd362002581fc02ee23523a125b57a5ea9bb6d46a7f7f35d9517fbd03e" data-requires-python="&gt;=3.8" >lick-0.3.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/d9/609feb63bfbbf7e1fe788fcf2eeeee72c15bfa2561fae99cf0994fd8e600/lick-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=045413decbeac76cbe427432d16b3f2cb1f64dc9b0283bc3198c9eea46c749a5" data-requires-python="&gt;=3.8" >lick-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/75/1f0b33641d03cd9d4dc52c75fd314898014ad76926949431b50b990332f8/lick-0.3.0-cp39-cp39-win_amd64.whl#sha256=d61174e734edf9df61f4c7c95f21f042f03e85e90a45d09f6bb6119ba616171f" data-requires-python="&gt;=3.8" >lick-0.3.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/62/e272132e733f948c0797915cef044cb1e7f62cfd27ac44fb4a5c71749cc1/lick-0.3.0.tar.gz#sha256=7511b737be651e24096cb53fbdcef0453295c0a2be9f721add53881ebfff4a2b" data-requires-python="&gt;=3.8" >lick-0.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16006997-->
+<!--SERIAL 16694336-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hoppr-security-commons</title>
   </head>
   <body>
@@ -12,6 +12,20 @@
     <a href="https://files.pythonhosted.org/packages/5c/5b/1d2d26cefe7928a48c9d60fe10c669d7de38b28ffde4f7025d45bd3d0b80/hoppr_security_commons-0.0.5.tar.gz#sha256=5c3ebefa5c46e8133f4b2e1eef78468fe5a8d0b5806987c89db27531b6c5ea7b" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/85/1b/e3ab37b801d88efcc702d768d5a20f4085f3d007169db350dc3f1606a24d/hoppr_security_commons-0.0.6-py3-none-any.whl#sha256=f82a2c7fac5eb81a6f883ee95e1964ddb732e05f2c3fc9c1eba29813d739f268" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/7f/1a5d883d3fa346442dafd7ab36ec36cd2b1c6629355f16da8cb51c029598/hoppr_security_commons-0.0.6.tar.gz#sha256=a86283f956860644ad97a4d077667723c16ac2d68151a852436a753fc7cd6d8e" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/20/9ebcef7d1733c3791242683d080298fd625439d20220c5eb13ed70652f20/hoppr_security_commons-0.0.7-py3-none-any.whl#sha256=6b7cfad70f7b6e090e35b4a682c239bc1f3974508f2f6c8759755eda4daa2b33" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/5e/f47502c6078cb56b16783960518fd9ac9c12774743f2a27a05d7dfbc1890/hoppr_security_commons-0.0.7.tar.gz#sha256=54892774371b54ad1bef1b732d8004409a521ff0ea6903a74f2c7ebf83618070" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/f6/3b956fe73c34c100ad509faff91bdce93658616e120d62c21f76fd221c9d/hoppr_security_commons-0.0.8-py3-none-any.whl#sha256=89b63c8b4f0bf866c213e3cd79543fccf535454f6be9fea20c2b9611a53fc271" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/a4/8b39dee10fcc7f5b6cf68593087145653b22ef60b8f70d63c5484f34b750/hoppr_security_commons-0.0.8.tar.gz#sha256=152f5494c8f4e7d0b7bf0e137e75d0f152888b597e7d597b35e2c1e4a0985b4c" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/7c/df60ea8daeb5e5302e0dbb6cebb31799f04b02b638a763c72d377663c50d/hoppr_security_commons-0.0.9-py3-none-any.whl#sha256=397f5dea56f1a0028e70f19fb41980ac82dfa513a20abc4151912e950823c9bc" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/98/819d5ffab5f26c075fb2191a2d5583cd18aa8069a8fc43484d65978fe18d/hoppr_security_commons-0.0.9.tar.gz#sha256=518057c0db5abe81b20ce3f710591c73145a2500583dc2494a5b87bda45601dc" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/d1/33e91c5d274db3ea16c5a2e2db93661b8a7584d1f49b1b8d91054c197274/hoppr_security_commons-0.0.10-py3-none-any.whl#sha256=9d91e7d9fa9ae6066e65536b9b9af0de725f22cd0e4aba0bc473b270918fe152" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/a2/ce0276bcc3ffc5a2a0232af7eaab2ec02263bd5f0e2ee28c905b9f5805e6/hoppr_security_commons-0.0.10.tar.gz#sha256=02228157f716ad37991ac898b50c75589da63f2abb8ccde3c4fba26fbfcd4199" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/54/018e55dfcf70b2faaeb4d3a21c37faa26f35255bee5040fe736901a4bb4f/hoppr_security_commons-0.0.11-py3-none-any.whl#sha256=3b9967657f3485ef9d444601b48b39f619c70bc2c0ec5c20f5d9a5e188d406f4" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/70/635c7c501d3e27324cc636daa5e136cc8c94d7a46382550b00030e6769b6/hoppr_security_commons-0.0.11.tar.gz#sha256=ff297cb36b8b81f7486d5862bd9fb37c01f2b65ef6062931076e37243b5a1bf5" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/c6/0ae03e7a57421b529981b0fc7e0509ff06fcef4916dd544b7156398b6a2b/hoppr_security_commons-0.0.12-py3-none-any.whl#sha256=46e6c9acb4e89c3f4e33eae616e254a05489c5dba420cf92883d3f749de8c72f" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/22/3d710af7494c1f0b830f3049f8a114a604de0d1b9b3f19162e4753ccdea4/hoppr_security_commons-0.0.12.tar.gz#sha256=db064479ab391b591baf9cb9b542ead54801aa3e7c59fc33e350adeaddc22fc4" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/e7/ed29ffb02e84c6ad70908e15edc8ec275a7da849d2cbb5edec382fa5ac74/hoppr_security_commons-0.0.13-py3-none-any.whl#sha256=32c10a038ebcab6db4762a9570aedd952973532be26e9d7139660bbc5a867b4c" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/1a/ce5e0a1500c7a2b897df3341dad8c566333ddf808418a183b43231f3302d/hoppr_security_commons-0.0.13.tar.gz#sha256=512f1dec51e800f00143c5ea4e380f86d7d45ed97bbb2e901320402616b7b5d3" data-requires-python="&gt;=3.10,&lt;4.0" >hoppr_security_commons-0.0.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16354394-->
+<!--SERIAL 17044142-->

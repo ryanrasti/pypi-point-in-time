@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-async-include</title>
   </head>
   <body>
@@ -20,6 +20,8 @@
     <a href="https://files.pythonhosted.org/packages/8c/20/526a9efd2a934bb272a4a693b741b5bf83f25997b54982a9acb0bda24825/django-async-include-0.6.6.tar.gz#sha256=6a228a0e0718b361b216832c000628e2513fbb2163fb3b947b441ccd12b80e20" >django-async-include-0.6.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/4a/a713f4f2307424ad1f774c5943f249958772104fdb0bcc72f1e6d8e6c7a2/django-async-include-0.6.7.tar.gz#sha256=126cda782e14b24f6caeef3d9c6115450160ae8ffd55f9bd8ec3f83728666ef4" >django-async-include-0.6.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/60/c2/48cdb0f1c938021752f767c086948b0f6a3d74c3858cb88b5b6a84eee8bf/django-async-include-0.6.8.tar.gz#sha256=e7e0e6f1f647df179a7e369ff032b751250760e83dc2d419b17ed828f0914e65" >django-async-include-0.6.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/30/26351ebbb054fcac5382a277fb4f5ac34f1c438ab2bd81d9f531e0c7d884/django-async-include-0.6.9.tar.gz#sha256=fb6edc8041c0d35b9e760e4054c10ba9e3ec95bd6d8f6f414c6e1176a8fe7f5c" data-yanked="Please, use 0.6.10 version instead. 0.6.9 is buggy. See https://github.com/diegojromerolopez/django-async-include/issues/18 for more information." >django-async-include-0.6.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/16/c9f5dc80b001bebe59edec6fbf45982216685fe8a4cc013ed53144d5d988/django-async-include-0.6.10.tar.gz#sha256=ab4f579eba7cc98bb2cec4b0f5dafd54bf4f560b903dcb54b7dba1427c457990" >django-async-include-0.6.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16241087-->
+<!--SERIAL 16968308-->

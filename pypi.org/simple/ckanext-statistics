@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ckanext-statistics</title>
   </head>
   <body>
@@ -17,6 +17,18 @@
     <a href="https://files.pythonhosted.org/packages/d7/1c/d2850d285f121918053458395dc00e16e4c38f8d846c817eb7aa7fe7bc53/ckanext_statistics-3.0.2-py3-none-any.whl#sha256=ef952f8e2d97f58dba3db91ed945f5f9af288decfafde2efb0e56948f11cfb83" data-requires-python="&gt;=3.6" >ckanext_statistics-3.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/76/69fe130b0c9e43ebfcc436fdc9678cda2be422607c4450bb7b40feb6470c/ckanext-statistics-3.0.3.tar.gz#sha256=ff5bf3be09b87a9543b6d17c329c74f802333851313c78e3763224e33775c1b1" data-requires-python="&gt;=3.6" >ckanext-statistics-3.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/4d/877f11d821e980d83ce9555e380d310897f3e8a84da767114dd68d379831/ckanext_statistics-3.0.3-py3-none-any.whl#sha256=86c49aa8d928ab46eae9e587872ebaf7f31d145767c302962dc7e56f61de74ac" data-requires-python="&gt;=3.6" >ckanext_statistics-3.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/18/b9c416fcca20d34d1d22b74af8f3b631ec3702da9b0ef244b801f2242923/ckanext-statistics-3.0.4.tar.gz#sha256=0a5b2b423b712cd452f344c53654df80ac8ed367ff23c503cb83f467de8b2da6" data-requires-python="&gt;=3.6" data-yanked="incorrect version number" >ckanext-statistics-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/fc/92f90af87620e40649ac144531dd72c7a9f4e4603190f6cde2265a6cc395/ckanext_statistics-3.0.4-py3-none-any.whl#sha256=9753f9af9e8aaa0a1730d25b82dfb3cee2f397f5c16724cf9a94019fbd93ebc3" data-requires-python="&gt;=3.6" data-yanked="incorrect version number" >ckanext_statistics-3.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/57/874c4384dc61f34812c73ed3c36ae4da298594d84bc51752894b83805689/ckanext-statistics-3.1.0.tar.gz#sha256=591b14d01ece0ce541b824b580d80607bd140c87bb1c768708804b083bd66469" data-requires-python="&gt;=3.6" >ckanext-statistics-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/1b/7e5831d655675913afe58dfba3457ce7aadeb0a04e3849fce4280a10aa97/ckanext_statistics-3.1.0-py3-none-any.whl#sha256=7eaefe981aa3b05a8fb3d215dae89b8e6df0be89a85bc28c76e8072f87499704" data-requires-python="&gt;=3.6" >ckanext_statistics-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/dc/15e81e379689cd12a4104717eea857a0306902caac85618562039c38f8ac/ckanext-statistics-3.1.1.tar.gz#sha256=1cc1679df94fb323e63c688d646d6252bb44c931bb00419e0cbaef13222c61ee" data-requires-python="&gt;=3.6" >ckanext-statistics-3.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/73/d544e331c75e94cf35b36aea3d044e7742c54a0991dd3cc23751756fcf73/ckanext_statistics-3.1.1-py3-none-any.whl#sha256=ad7eb4d16cbe22ecb6abccdb0fc396a97a59cce4ab342032758292c915cff196" data-requires-python="&gt;=3.6" >ckanext_statistics-3.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/78/aa95da36e95b20648bc397e2a0b3f48b4bec52b58009e0de980a6961d520/ckanext-statistics-3.1.2.tar.gz#sha256=1f41c628633aff31cc758aa1f20b2e3d853f1a25c4944e5c04c529874505cdf9" data-requires-python="&gt;=3.6" >ckanext-statistics-3.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/cb/39f662dbfadfb9785f2d5eb23c275a7e724bae61999a43ccc1a6c28ccd28/ckanext_statistics-3.1.2-py3-none-any.whl#sha256=03ae3c30f181105885e03e92fc8d6996c5468cfbc461b92be530409cb2e6442e" data-requires-python="&gt;=3.6" >ckanext_statistics-3.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/04/f5d7f429647bec63feb34acce81f993319859d54098fcea8d4dacf41bf83/ckanext-statistics-3.1.3.tar.gz#sha256=ab65e410d7f0c094a962cd7a427cba0540089a3fe47eb67b1519ce0bade05cac" data-requires-python="&gt;=3.6" >ckanext-statistics-3.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/71/944354d09ccfebfbddfeced48a68b07b03d39415eaad4d2512069f1e5292/ckanext_statistics-3.1.3-py3-none-any.whl#sha256=cd595bb73cdeef2feb94ec1ad8975f496dcd8e85842e5ab706e227a1d4e44da5" data-requires-python="&gt;=3.6" >ckanext_statistics-3.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/56/1998ab3218daff54967bb3a458d960a03b8bc5cb2dd3c1da82ed4ef8df9a/ckanext-statistics-3.1.4.tar.gz#sha256=2eb3635ff358780385e13ec12dda0f2a1d55c93425f1214837267aa8e87c4465" data-requires-python="&gt;=3.6" >ckanext-statistics-3.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/9a/9cf6b42f847160175fcdef05ed756051e956db8a535e132f979617b2ded9/ckanext_statistics-3.1.4-py3-none-any.whl#sha256=1cc5567d51706d58bc0855bb9fe34093355eb6f843c950cf8e983f58deee86e0" data-requires-python="&gt;=3.6" >ckanext_statistics-3.1.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16099744-->
+<!--SERIAL 16941911-->

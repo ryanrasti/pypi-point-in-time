@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sentinel-server</title>
   </head>
   <body>
@@ -60,6 +60,18 @@
     <a href="https://files.pythonhosted.org/packages/99/d8/3c36f04709f25e18f61b12d7e450f81d01d0d46a893206b487ee46e4cd41/sentinel_server-1.8.4-py3-none-any.whl#sha256=275be7ffda1bb7b2ac20df181866e3077592a31964fd9e0ffec08cf240af35de" data-requires-python="&gt;=3.8" >sentinel_server-1.8.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/16/00/7f87f0795e7e4a1c9e9cc7fb462d5c522e09bc85b7ac9666a7ded9b8bdd6/sentinel-server-1.8.5.tar.gz#sha256=2cb7fa2fa225aa3b4f1e0900e021c059994618bc6581361233406e28a44e7526" data-requires-python="&gt;=3.8" >sentinel-server-1.8.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ae/7b/7fdf747bdd8499f5f02d8b5ef4e190af0d4c4760f9fc54567d2add4c8fbf/sentinel_server-1.8.5-py3-none-any.whl#sha256=6f8817178bb9815038b1e490a34c0f0a248c26b2f605df68d35d608f45df5159" data-requires-python="&gt;=3.8" >sentinel_server-1.8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/b7/b1b2f6d56eb18508cbec690f4889a8b60f1f02781a2c884f40f97511386c/sentinel-server-1.9.0.tar.gz#sha256=dccb4b0cafec07b26475ec5f8bd6d9e4b3aa836e8f6d3c23f1390b20d639651a" data-requires-python="&gt;=3.8" >sentinel-server-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/e4/cf9e6cc4e216588e7d1938998b6559c8c0b7a859c0ae0f7b9127f695cb11/sentinel_server-1.9.0-py3-none-any.whl#sha256=1c4a7dc8d127d22781c74a29b93d4089880117c8e3dbb687ab32fb1211d27b21" data-requires-python="&gt;=3.8" >sentinel_server-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/c6/2cd11ccdd7959d3bdf3d818027e3a668e2a1a1e331504808df67d1dfde40/sentinel-server-1.9.1.tar.gz#sha256=9d098055202b9f30c24631d31eabdeda10557d71cba86e1c2c91cc908b181f17" data-requires-python="&gt;=3.8" >sentinel-server-1.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/cf/7d0375da9a2e14f3f7c05d700c3b3e1f3bee0ddf3fe7927d4b2363b7e9d3/sentinel_server-1.9.1-py3-none-any.whl#sha256=4cc6bdf1d337c635741a620355edbe07a190a1b9a841e2c684c9961fbdbcbb28" data-requires-python="&gt;=3.8" >sentinel_server-1.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/99/e7929974510a7de5c9ac9a7d794eb3236f9045803d0408990e8901d9973a/sentinel-server-1.9.2.tar.gz#sha256=f12bd658058c9b22d5ad5fd23655282fa95f5317685b9a7b883a4f40ffc2749f" data-requires-python="&gt;=3.8" >sentinel-server-1.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/df/48c0ad781ffddeee4a02a2354d4ab00e7c0d25a205fdf06d2039e61d88e1/sentinel_server-1.9.2-py3-none-any.whl#sha256=6fed30c211b487bd807df90f18253c8b5747c164a186da66fb1005843fae9c28" data-requires-python="&gt;=3.8" >sentinel_server-1.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/07/48928e09df8c675a4f4ef00aed4a12a4c13d7a4ada738ab5708a6ba0387e/sentinel-server-1.9.3.tar.gz#sha256=c650bea255e364d72f4edca40d0b3edb44c9877ccd7e9d8d317318fd972833a3" data-requires-python="&gt;=3.8" >sentinel-server-1.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/37/d7f498ab3fce3fd66c964ff178f66a1d1885e0d066b8309baf61113297d8/sentinel_server-1.9.3-py3-none-any.whl#sha256=f94b25e610e8c84720a24ef70dfff0e82cb8ef1f5b76c8a43747e7ccc6b69acd" data-requires-python="&gt;=3.8" >sentinel_server-1.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/5c/a5653e6ca35776b29c648df97bc6714729f67cf931c6ff049481a24bdaa6/sentinel-server-1.9.4.tar.gz#sha256=abe71917638b73e37322d5aecee0aa01b6eab968e747ab12fbaf5ce000202c0b" data-requires-python="&gt;=3.8" >sentinel-server-1.9.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/d4/d897ca95160a67c8401d9371e2774a0912ffffb4fb39da74f0d027e2025a/sentinel_server-1.9.4-py3-none-any.whl#sha256=1a7260bb49d2b4c846883f9b7c917a111eb5e734a59b2efa727dff8142f1dd33" data-requires-python="&gt;=3.8" >sentinel_server-1.9.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/7f/9a97b8b1b058090595decd1003222a63d5283e62a99d1dbf761181060b15/sentinel-server-1.9.5.tar.gz#sha256=c510eb4f039b8a89003ae3d347b0c77a8ac0ae8d69e9ad35a6b0ab4e547928aa" data-requires-python="&gt;=3.8" >sentinel-server-1.9.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/3b/52201a94e4c12edda174306290d7796f68c2ea6476249d3f1c88be0b0ce1/sentinel_server-1.9.5-py3-none-any.whl#sha256=71328995353e8b9f8d8d814df6e67c8ad62f325e5ec0d13e120e258c77b4d95b" data-requires-python="&gt;=3.8" >sentinel_server-1.9.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15738208-->
+<!--SERIAL 17149974-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-integ-tests</title>
   </head>
   <body>
@@ -94,6 +94,20 @@
     <a href="https://files.pythonhosted.org/packages/51/cb/c4f24f554d9527c7de776b17b6f57bf5fe4bf7b1af40c4fd733ed633303b/aws_cdk.integ_tests-1.187.0-py3-none-any.whl#sha256=ca389a65fd5ca82f3bfc8d6046793a4f3a45bac3868f9d2f48375538cb299c25" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/08/8e/76a90f3d8542a4351817f131346f4a25b30e2525b88702ac1b169adb13f2/aws-cdk.integ-tests-1.188.0.tar.gz#sha256=ddf4dbb82d0659cf8c7f22c7ca426d73b5c8b4a1223d6c66b9ce53b7be7a3c8f" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/86/25ef6b19669db8459b07c40643dda63b72ff0c4a14094222e2363d3abab9/aws_cdk.integ_tests-1.188.0-py3-none-any.whl#sha256=0c6b96f27d81e81c5d8c5a1fea8bc0151eca0a8647f63233148223cd0fbd61d0" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/9a/003ad80f66c7cba8ce1d7e7620f9e216f9ea4786e6c30c0ab3b1c2eea423/aws-cdk.integ-tests-1.189.0.tar.gz#sha256=f724d7ae70797fe3a7f2e7b6614bb31e65b66097488eeff4494b66e5266f431a" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/c4/4f43ebaaf7f525aaec39314b0d0373570b9bb2c0095fee5ec7cbc2e49330/aws_cdk.integ_tests-1.189.0-py3-none-any.whl#sha256=57981b1dbfac945b5a0bca0590909f5a8dfd821765312d795829b60857f3a49c" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/65/13d3e2dc67b2449585b25a8f4832839eed80b6e5b2c1657c1b648877b5e9/aws-cdk.integ-tests-1.190.0.tar.gz#sha256=85ada475c431d8a10eb8457b37370994a17f8e76ee02d6ed8976c63fdd6a0fe6" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/82/520728ecde35c506dd4a80a0eba9004eafd7c3e12c49688774b34e5c6fe1/aws_cdk.integ_tests-1.190.0-py3-none-any.whl#sha256=3ba75a2895293e87571658f61fb057fa524108b4b1f945e3c50778062d254445" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/4a/6dca9ffad839f9e2a2a867dba671061b75ca56f8c1b7bf3a6f8605f69ca5/aws-cdk.integ-tests-1.191.0.tar.gz#sha256=cf900f4565fd48e623d35f3ae9a89668b821f7e4f9697d1f1423e59d03b5e1d9" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/7b/a1162a960210d5ad636b00c6b76ab7b0fab503d9015a909675833bdab8f3/aws_cdk.integ_tests-1.191.0-py3-none-any.whl#sha256=72cb915f01cf91567a01882e1e5dd77f333fe0f0a00fcd24337d806cf05bad24" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/0f/0dfae36df76b6824fce8d5cac5c611ecd263122124481331188f406e376c/aws-cdk.integ-tests-1.192.0.tar.gz#sha256=959dfe50f4a96082b4f48567e97b29df0004baed1a3840f9a9bf8d08d3a27fe4" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/e1/fc704b5ece151457d7edf7f216138aac5044e8e8dec2d5850ee34b266597/aws_cdk.integ_tests-1.192.0-py3-none-any.whl#sha256=e1c61f0b17fe282af01a21f055fc3359735ca10b80b5d67112b6fdea727f7d59" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/ab/07cf8482364394a2f2b82567ac9908cf4966a2e5e598306a9240d9564c3d/aws-cdk.integ-tests-1.193.0.tar.gz#sha256=4c7d13974db2b7c312b815603a8cf7c2cef526ff69882bc1814ce4d05053b709" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/19/e89a6273d798b35e1b508e88072dd0442852cbb14716e4314bcff7a56410/aws_cdk.integ_tests-1.193.0-py3-none-any.whl#sha256=70c0807f35addce49adb7098aae1da7146e8a9a488d6d272c761ce50ede10152" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/87/f341eb34a531ab817fdf050913e773e5689285ec2b2198da18b6328fe42d/aws-cdk.integ-tests-1.194.0.tar.gz#sha256=cf988aedeb066ee826c62cd12e7b23fd722cb4a50b47cbe6b6fccb6fd1e7d546" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/3e/b7f44cf5a4d49b73ae1c8eecc080005bb1de90ad9c90523349c50eaab7cd/aws_cdk.integ_tests-1.194.0-py3-none-any.whl#sha256=8e34305aa558ca9c79d43ed1452c5b6a3e7c81d4893c0a0328d8259dfe79fd9e" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/6e/f48c67d8eb3f642a2dc6955488638ed3da24d146a4a76e4dc2c40a1138cd/aws-cdk.integ-tests-1.195.0.tar.gz#sha256=c961a1484b3512c12902fc0e9a4516bbedf3b2b5c18d5e456d27bb9a98fcf0ec" data-requires-python="~=3.7" >aws-cdk.integ-tests-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/9c/7f45f52e0b1506110f4d860755ac039048b1961a85c1805b826eb16ece02/aws_cdk.integ_tests-1.195.0-py3-none-any.whl#sha256=9b80d338a38540a133f6d59edb4ac4b52ead0820cab62249f1c1caf068c92cd5" data-requires-python="~=3.7" >aws_cdk.integ_tests-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393525-->
+<!--SERIAL 17132066-->

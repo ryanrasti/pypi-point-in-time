@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mpservice</title>
   </head>
   <body>
@@ -114,16 +114,12 @@
     <a href="https://files.pythonhosted.org/packages/bc/61/24280fdc4a2a753d88211b7e90599f54d4b0ec3c8c44cd61fa45551f555c/mpservice-0.11.7.tar.gz#sha256=8c5d11fca106df3361692fa740b6d3450c071078afdf60f8da25162eb8858e84" data-requires-python="&gt;=3.8" >mpservice-0.11.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/fa/f2c926d9b0ec7c175e4e0788d29ad975ba4026144f58ef83d1a485e5acf9/mpservice-0.11.7.post1-py3-none-any.whl#sha256=30526fe4526adc67f48e17ad2140e237c47b6c9630a30c11a281c099fe10cc6c" data-requires-python="&gt;=3.8" >mpservice-0.11.7.post1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/ae/e527b2919ae51b160d9d1a303f6713795782b9b98e4e62f76ef9ef172225/mpservice-0.11.7.post1.tar.gz#sha256=551b3177bf99c68be765f944ca590882d2316378b36de4a893a79b9040331ccd" data-requires-python="&gt;=3.8" >mpservice-0.11.7.post1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/7a/b4/612d35c2ca7571bbf0a29acaf5f0605ce5f8bdd6123154776327745bae11/mpservice-0.11.8b2-py3-none-any.whl#sha256=2fc364069773b0c9d6686f6b8f840e9b41dd0d36938525116e8c593e2895ed75" data-requires-python="&gt;=3.8" >mpservice-0.11.8b2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/83/9c/5421b6ae6aae6290dccdabf7b0d4005b7513e5590a0e31c653dadbd6eef4/mpservice-0.11.8b2.tar.gz#sha256=d08b75b92253ba7d008f111fbb42c0b055956a1e9e93b2439f974cb8b0e3611a" data-requires-python="&gt;=3.8" >mpservice-0.11.8b2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a1/96/e4c0efac85444b33d28fd03e4081f3f4f4a6c5ae463d258efe141b481def/mpservice-0.11.8b3-py3-none-any.whl#sha256=d086485b16905d8bbc052f09c490883d1352278cece9d1b5de9da66bc619a500" data-requires-python="&gt;=3.8" >mpservice-0.11.8b3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ca/48/07becf7e4f9dbf3ce15a0a630e27eef2e28a6072c1eba2e99ef5b795d540/mpservice-0.11.8b3.tar.gz#sha256=055d6d2f1e701003ca399f24e969eaad548e1d9a574c7c748f4113d6b46d9b9f" data-requires-python="&gt;=3.8" >mpservice-0.11.8b3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/25/96/1a8a412a5416676b029c06d1cbc93d77c4a0ffbbf0056d848f4e1376e3d5/mpservice-0.11.8b4-py3-none-any.whl#sha256=ab4cd73f84673ca256d213558a536b6497d85f1d64056aafdb50138948a14dea" data-requires-python="&gt;=3.8" >mpservice-0.11.8b4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/eb/4b/39dac916e9bbe9f3512a307848fb97a6b347acf4c3e9c97c702517188ad3/mpservice-0.11.8b4.tar.gz#sha256=b52819855f03c31cc0a61c3d5b2e502fb920f3e14b3daa82200a2afc6374e965" data-requires-python="&gt;=3.8" >mpservice-0.11.8b4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/0f/04/dd317823bb0ad690e91ea1295548051df4a49b5d300b3fc97b36403ed707/mpservice-0.11.8b5-py3-none-any.whl#sha256=f25796507db5c0799578171483f95d57a0998f56d7e950a872508c89ada44185" data-requires-python="&gt;=3.8" >mpservice-0.11.8b5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a7/50/c6399c1503224af3f012705c88b09ec2a6968960292c8b50b28a3983fbb7/mpservice-0.11.8b5.tar.gz#sha256=dd4f17c50697b49a3e8f793cf4d6dec48569ecdf7fba8635c839d61344c25c44" data-requires-python="&gt;=3.8" >mpservice-0.11.8b5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/ac/e171da8710fff49ca7222c462968d993d9eba396b4a18f09ede0bdd1a211/mpservice-0.11.8-py3-none-any.whl#sha256=f5cb5b44a3ecac6d4aeb9b72320603a28c17fd96895e8d0114c747e53e913a5f" data-requires-python="&gt;=3.8" >mpservice-0.11.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/42/52a712c3010f53e827105c7faea272ae46c87e4fff75091ce8df177ee32f/mpservice-0.11.8.tar.gz#sha256=ab129ab11c74c1ff3089c30eb1a508f48f4ee78bffe240f150cb1743b0d141ab" data-requires-python="&gt;=3.8" >mpservice-0.11.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/11/d18d01669e67f8c8dcb40a133fd3569d5a2a186a993aeedd77f0a468d600/mpservice-0.11.9b6-py3-none-any.whl#sha256=9fb3711ad75fe3e4206b5db1ab0071001178ba93c25e1353d19f11fefd5dca89" data-requires-python="&gt;=3.8" >mpservice-0.11.9b6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/52/38b173ad1a79fd3d3031bb3ef6d47d1cca5906efa8536cdb79fe4d0c2d4c/mpservice-0.11.9b6.tar.gz#sha256=0603d6b6361a54d98c7a8e9d3a76e3266ad0487a5a2337c727fbabcfb9856f9b" data-requires-python="&gt;=3.8" >mpservice-0.11.9b6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/8e/3218a2014f04abd12752521ca0232a9094dedbf0703178c61576664fa4b7/mpservice-0.11.9-py3-none-any.whl#sha256=55ad02d6e4a3700174771ef2fc459c55bbfcb0cd0b1e4721a9605ffb25bb300e" data-requires-python="&gt;=3.8" >mpservice-0.11.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/bb/d6f9d3852c1ef83623431e7769f4b7b1efbfbc45a22920ea2a084da9d70d/mpservice-0.11.9.tar.gz#sha256=0fbb47253eac7e4f0b05900e6204661bbc903568a38242e0e3aae3c3ace55f4c" data-requires-python="&gt;=3.8" >mpservice-0.11.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16181924-->
+<!--SERIAL 17024339-->

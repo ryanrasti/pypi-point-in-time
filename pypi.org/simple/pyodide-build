@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyodide-build</title>
   </head>
   <body>
@@ -44,6 +44,10 @@
     <a href="https://files.pythonhosted.org/packages/93/46/d441b4ec96311fccb2675396cf201f6dcda3f2c245596643daf3498bd883/pyodide_build-0.22.0a3-py3-none-any.whl#sha256=bedd59abbd7fcf95e92b551887dcf29c4a2705d6a395c45636a9f1545c596d2b" data-requires-python="&gt;=3.10" >pyodide_build-0.22.0a3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/e7/cce01ce03c83cbc4101f9b6e664381348cc6cfd13392132d52e9f99112e3/pyodide-build-0.22.0.tar.gz#sha256=d06f74199c88db0698707b52f1552537f88661b4627b828c03aa73e7fd0200dc" data-requires-python="&gt;=3.10" >pyodide-build-0.22.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/a0/80f1f62a153f60d73a756dab54a2d4cf365172d904bee3b8d11c05273431/pyodide_build-0.22.0-py3-none-any.whl#sha256=c12f615571b3bbb43a6922f5f8b08a3bdd2d91fee432fc2ce1e81099c707cf13" data-requires-python="&gt;=3.10" >pyodide_build-0.22.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/dc/3ffcff76b4f39cbfb4162839fbfb0a4e504cf0d49aedb7b3e683f68ca9f8/pyodide-build-0.22.1.tar.gz#sha256=b758be86dee0559dac99d11fc7f32e99e81da847fb3869d4294b5ed04c10ca30" data-requires-python="&gt;=3.10" >pyodide-build-0.22.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/85/8c785eb102e1b8e33df7680a5df84fe4643c3cdd89fa349aee26cc793565/pyodide_build-0.22.1-py3-none-any.whl#sha256=c28053e81c5a31da75179954a87f3de1f1a007bfebe024a12e5eb2334c2da125" data-requires-python="&gt;=3.10" >pyodide_build-0.22.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/3c/d8815010f631f135c6573b4afa8fe885cdbbb3af3318df62b902bba1105d/pyodide-build-0.23.0a1.tar.gz#sha256=5528657edaa4775feab4bd34a3d397ad1dbcf63090ea68fbee57b06698507058" data-requires-python="&gt;=3.10" >pyodide-build-0.23.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/1c/7e6930f954a7a13ff9001c1de0f9764f5533c8beb01f0e1a6beca42a81b7/pyodide_build-0.23.0a1-py3-none-any.whl#sha256=5f45151fb7570c838e93b7db01c24d013a4aeb0c584eaa796056b34e70cfa779" data-requires-python="&gt;=3.10" >pyodide_build-0.23.0a1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16289807-->
+<!--SERIAL 16566688-->

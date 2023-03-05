@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hydronaut</title>
   </head>
   <body>
@@ -10,6 +10,16 @@
     <a href="https://files.pythonhosted.org/packages/49/fe/feae0f4316d7614376af77fb9d13e3b6f58d6068098fc6c67a0c8c5cb443/hydronaut-2023.1.tar.gz#sha256=0487ae24ac4e15144a411ea11cf20afa963015e7efab75c61957416892b7eb3b" data-requires-python="&gt;=3.6" >hydronaut-2023.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/43/d7f0bead9da73bd530f63c9f6650de4e78426e4cd417b8294373af779281/hydronaut-2023.2-py3-none-any.whl#sha256=5dc1bbc73c1d09e3ef8bf04bfc42e0f8569e66f28051e8aff66ddb0904602925" data-requires-python="&gt;=3.6" >hydronaut-2023.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/53/42f177034ed9c91319f7c7bfc92dde4308fc81b59e8b021e2b7bf4279b21/hydronaut-2023.2.tar.gz#sha256=f781e71a0d721589757c0fb4982095e3d7e3c9a2b9c705657a0ec5fe9e4d3dbf" data-requires-python="&gt;=3.6" >hydronaut-2023.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/0c/ce6065379630c215fb4db188c26bd14f0f720b2716b0af5b56a22ca00ea8/hydronaut-2023.3-py3-none-any.whl#sha256=1754f13c534057afb8f91e8c7bae5e7bbddc8bd36abf814646304975b60a6a0f" data-requires-python="&gt;=3.6" >hydronaut-2023.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/e6/3b815ac13e40155c4d8394337cb9c024cc64d169e967658a076eb80fce79/hydronaut-2023.3.tar.gz#sha256=5e469edbd337b4c51a8eb8e9cc990efb0842cd45463123bbd313b0f0af5fa8f8" data-requires-python="&gt;=3.6" >hydronaut-2023.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/ff/464ae74029ea3d244a2baeb12708e6d97fc7992094e12636bde22a934adf/hydronaut-2023.4-py3-none-any.whl#sha256=cc013090f9f46bd95d45dad1c5299ef563bab1618726268d93025226d2c0cf98" data-requires-python="&gt;=3.6" >hydronaut-2023.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/66/7d9c1d48a10b83baae33e05e735a718e3bc79a0a3f26e70387fd1b186fd9/hydronaut-2023.4.tar.gz#sha256=4afd83689d25f8089211d0f07fa7f61cabbe34123e86d0a15376f5f8a65cefcb" data-requires-python="&gt;=3.6" >hydronaut-2023.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/04/ad648e74326d65d9caa5af9be0db2757c614ebcc655659766071e9bf7a50/hydronaut-2023.5-py3-none-any.whl#sha256=4aa5d2a2ff6c6b54cc827fe5ede21c21a9a857776536f0898e68d79205e715ec" data-requires-python="&gt;=3.6" >hydronaut-2023.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/ca/39dc5867a654cddf8a86f5c572211071a883d689b1b3301a4a3fe0682865/hydronaut-2023.5.tar.gz#sha256=7eea4fe957009563432bdc27a1f7e140789cb05b7a3107cbc64a2b20145b2ffa" data-requires-python="&gt;=3.6" >hydronaut-2023.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/60/0fdecc0105f6f3e10c85f2cbba2c07376a7f59a64b892ae289a75c1d4bec/hydronaut-2023.6-py3-none-any.whl#sha256=e6476e46fcd469f8bee57a406644d70fbbc8864b2551b0063c27bc94516b53b1" data-requires-python="&gt;=3.6" >hydronaut-2023.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/d6/1d87bc1a9606977eb8999ceb40b58a8f9de3dfc21214d36c7b35adcd5114/hydronaut-2023.6.tar.gz#sha256=2ffd2e441586836c5210d41d66570d71439041e100d9cecf05cd1bedfadf4c59" data-requires-python="&gt;=3.6" >hydronaut-2023.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/47/5dd5f055afcce625f17324e0aeb4b51c72374d5b8d12b19eaf89de7dea21/hydronaut-2023.7-py3-none-any.whl#sha256=9dfd2f4ce768c2ed278ff66bf081bc418281f7382d9af9c11a3eb894d8edf403" data-requires-python="&gt;=3.6" >hydronaut-2023.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/bb/91ad7f77f3fcf87ceec9ce43e4088422f35633d6d2fc185267e16fc85175/hydronaut-2023.7.tar.gz#sha256=facd286672e72e049468556fa03974b6b5b3dbc022aac05381c9354648a9affb" data-requires-python="&gt;=3.6" >hydronaut-2023.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16428513-->
+<!--SERIAL 16844921-->

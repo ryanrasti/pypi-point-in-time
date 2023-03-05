@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for edgedb-orm</title>
   </head>
   <body>
@@ -202,6 +202,16 @@
     <a href="https://files.pythonhosted.org/packages/28/b3/a412b10dfa7d76c53599c05bc14c639a6a56511ed92f75d35c6d83a72cef/edgedb_orm-0.7.1-py3-none-any.whl#sha256=efeb9149c6c21c3b9f3a7d90e793ec07fa8e05a8640037ff08232d1ecd8168da" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-0.7.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/7a/901d07ec99d9671f47a57387e5389bed429c0eb33fa01f4d12ef004f71a0/edgedb-orm-0.8.1.tar.gz#sha256=d4927f7e824c1025b050a236797dfef891ea92387d65f4fdeace4e6c8509623a" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb-orm-0.8.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6d/a0/fcfc266c323a0357731c27ecf0f060b3a657da913b4ba123b4582bf6655d/edgedb_orm-0.8.1-py3-none-any.whl#sha256=67f3a34c1202e13ea3eab30c8a6d01445b1a355405b67942a5f5f7e1afbc2457" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/0f/9db1379e9c6b92d79ba19a14a690f0807b916754a216a13a1fb8497f78b3/edgedb_orm-1.0.1-py3-none-any.whl#sha256=e856703974d6579ab77b15424fe462b9d441bb56d153a7103f83a0b5dea56499" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/db/7e280c29cd81e81af4f8ffdd78f7a1144d02cd5992397c4d8dea7103ba7e/edgedb_orm-1.0.1.tar.gz#sha256=259b992b75d194561bce24e610d16a34dab5e4f68370ff96f3c43aa956f61a43" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/aa/8239a709660e1d44bbde354ac8beb85d3b32e8402df9fed62625b0923791/edgedb_orm-1.0.2-py3-none-any.whl#sha256=2cf83b5aba5e366abc0a9cbf41786f6c0115a0a8a5e22381a839f2db35f3fdc7" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/ec/225f54f04f067acad4ded251de25a50bbcf3fc9c0e6d95ff33072a489bbf/edgedb_orm-1.0.2.tar.gz#sha256=4cb485705bf347e3450433f01bba94937ce3483670b2c90dddc4863854ebfe9d" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/65/05d9a69473d44fb493786d1362d606d5a8250a0dab7e1098d98f8ec64167/edgedb_orm-1.0.3-py3-none-any.whl#sha256=8c8a5d76f4f456c6f4d836a16e815cdd268e88ec4a35fcb9fd947c6db648625f" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/31/a3ed50db16971bf26dd6d91dc6352003d3926877c9a2e7e43ce710f9d554/edgedb_orm-1.0.3.tar.gz#sha256=5e8494915e59400f6f546020e9fe0a8f4639b47b74816ddd3bfcd96fc093ed57" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/17/88ed6053d88f1682d0e50219c7167d721ee39868f151837e424e4f8c662a/edgedb_orm-1.0.4-py3-none-any.whl#sha256=3268292483d7fda3f5ccb683f9cc576efb0b24e88c8fa1f47a22384159048f0d" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/bc/93e252cfe2537837e6d12fe29e40e63d8a0ec2402b5d6d7f7beacfcd701c/edgedb_orm-1.0.4.tar.gz#sha256=794f6ffd2f46d8a40aa1f299ed01e5ea22882a3fe3416984f6c323e021e3b4fa" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/b3/f3e36737d207f0c18eab03a080e2cf0fa68483ef555154710e20e95deb96/edgedb_orm-1.0.5-py3-none-any.whl#sha256=c0999410f99410e97f056d32888e1cc91062935faf50c6df44d24cf031d9af87" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/fe/218e514c7a17f4ec5eefbf0d15428ca79394680d13b3d12bc7f65fd0435b/edgedb_orm-1.0.5.tar.gz#sha256=294af3feccf52b5229c6f106af0c7eb458bf991d994b3267ac9ec0f72e7829ae" data-requires-python="&gt;=3.9,&lt;4.0" >edgedb_orm-1.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15443185-->
+<!--SERIAL 16773205-->

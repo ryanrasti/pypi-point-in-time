@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lumigo-opentelemetry</title>
   </head>
   <body>
@@ -74,6 +74,15 @@
     <a href="https://files.pythonhosted.org/packages/7a/6c/f2bf80c7e5d5a757a66fc2011a9e56ed987304136d194a7ff3597abe70d0/lumigo_opentelemetry-1.0.58-py3-none-any.whl#sha256=b0f5baa047834c97c503cc03aaa7a4579792ed288ad662586c2db8158df62680" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.58-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/91/7c/6bfdd61ae20e570a7f1637f1e2c4924413c72730d1a39b0ec381a8971e13/lumigo_opentelemetry-1.0.59-py3-none-any.whl#sha256=4e98e0b8b57e6689e7fe39ec6c003c9f964d8856de01221274b40d346876dd04" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.59-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/16/6db641de8ed2ae32a64ae5a0176855dd20b59052a4a538c8df9a91eac5f5/lumigo_opentelemetry-1.0.60-py3-none-any.whl#sha256=81311efc12dc12bd67e4a3ede7cc31c8a8d8236e0933a97dde7d898346ce213d" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.60-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/d9/9d1b0b67ada320a409b280621e2f24968e1c9580dd25123ccf90237e14ea/lumigo_opentelemetry-1.0.61-py3-none-any.whl#sha256=a835d331290330c449267493139489cd509c9b1cf007b8f21d4e6722127f8984" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.61-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/d1/c7706ce4b9af984eb7b8995fbfa1723d13e344fac38fb0c008d433c2e9c9/lumigo_opentelemetry-1.0.62-py3-none-any.whl#sha256=ac127408420c2be2ede1d948f7121d8e199d7fcee2bded565a376c2ef40c980c" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.62-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/3e/1ed91f3389d39268c500487fc46ce6fda2fe181aa2900962c5bf7b3159c8/lumigo_opentelemetry-1.0.63-py3-none-any.whl#sha256=0ab84737e9f14f2fadf62df782fc85b71470aa763de7a5c0ef7b779e0392ad5c" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.63-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/e0/c1570e3dd1fb319de801d5952017929d90f8d28b6b5d506b4a6666577439/lumigo_opentelemetry-1.0.64-py3-none-any.whl#sha256=4e090fabb2308663638dbd2f286155c9040b0ed7c814d78018bb294cef866632" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.64-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/53/b09904adff034480dcd419bb099470fa7b1be89f27de1e5b6cee3b83a3cb/lumigo_opentelemetry-1.0.65-py3-none-any.whl#sha256=0593741eeeac4c6e292de220659d7a04a12390ecf9c0d22ec3d0b3777915c07d" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.65-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/45/894aaf96b737a55cda303d3dbf6bed5ffa43628fa052c27a75892f9b49ba/lumigo_opentelemetry-1.0.66-py3-none-any.whl#sha256=06219d395b35e46af4ceb3cf72db4bb618745d08193a5195a43eb173158f739d" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.66-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/e7/50c3e2f67f29948ad64a6528e9310e7ce027594681a8425428ec02fdb02a/lumigo_opentelemetry-1.0.67-py3-none-any.whl#sha256=e6df37e346d60032915462b8096b064053ea25d93d1574fc819fdcc47c10b850" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.67-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/1a/fa9beea2aad94099f77ae3afde4cef8b7e6bef9b2ba04f33ede628357702/lumigo_opentelemetry-1.0.68-py3-none-any.whl#sha256=8cf33822d99f4e14d0eaaefb9ccda2678c634b919b874375f4d966211994f2d6" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.68-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/e7/6a3f636eb2d1a6f7e1f195d81b38d1acd1e7949f1c2d69573bcc6325f5ef/lumigo_opentelemetry-1.0.69-py3-none-any.whl#sha256=7dcc365298e0e02bfb53dbc31b0012fc2e97ca5dbeb77b412426246e2e5aeb76" data-requires-python="&gt;=3.7" >lumigo_opentelemetry-1.0.69-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16401529-->
+<!--SERIAL 17145394-->

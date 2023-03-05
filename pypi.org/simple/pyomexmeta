@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyomexmeta</title>
   </head>
   <body>
@@ -99,6 +99,12 @@
     <a href="https://files.pythonhosted.org/packages/c6/fe/fd80c49c28e33a9ac15df8fc098ab067f622c59f710913760da1d124d286/pyomexmeta-1.2.12-cp39-cp39-macosx_10_15_x86_64.whl#sha256=f878246b8a5b02852b3a9f34fefdd247e144d3731722fbdbccc121a861d5dc5b" >pyomexmeta-1.2.12-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/12/05/f512f81494766034cc2ae852f0864c8ef59377c4be4dae4027e151cb415a/pyomexmeta-1.2.12-cp39-cp39-manylinux2014_x86_64.whl#sha256=3078862d648d77e7338a8753f4f3ec80315781009f0d5807813378eb24775358" >pyomexmeta-1.2.12-cp39-cp39-manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/b1/51c57a20e563915d29e3747dae7993347a75a0b56e920851f0eeb6ac12c5/pyomexmeta-1.2.12-cp39-cp39-win_amd64.whl#sha256=b5b1179045dcc5ca27ca2a88fa17ecd84cfc91af3b853ef9b3a640190d4c72ef" >pyomexmeta-1.2.12-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/8f/650cb3ecc09fad664dddff81922f370025a752b09884b73eef55437d7441/pyomexmeta-1.2.13-cp310-cp310-macosx_10_15_x86_64.whl#sha256=7c94484576ea24f29bfb3b73e27651561e6d586356e84e02888595b61aabccad" >pyomexmeta-1.2.13-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/c6/8c591f19aa69a82440baf8c391f2acb4dcb8ab5f8864b58188f2b869bd15/pyomexmeta-1.2.13-cp310-cp310-manylinux2014_x86_64.whl#sha256=9533447a26970d01608f2ef1351a116ff72010ef59a67db4fe1260f9df2a125a" >pyomexmeta-1.2.13-cp310-cp310-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/11/97692e363e6b8c0fa0c81ed10cb051c42ed37e161be0896bebefafaaefa9/pyomexmeta-1.2.13-cp310-cp310-win_amd64.whl#sha256=69daf3b308d1e7335e9a4bd4d65dde560f0f537ab43ea8d216e8158a88dd6876" >pyomexmeta-1.2.13-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/6f/f2ccc406d97c41471ce6be7cc361475d780877c54de3dfccd671bd051260/pyomexmeta-1.2.13-cp311-cp311-macosx_10_15_x86_64.whl#sha256=ee8d7cb95a8cfa9885f9927638d3dbe91e2529e61255e136f12749cd595269fc" >pyomexmeta-1.2.13-cp311-cp311-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/5b/9003f911e7ee029a4a94464cc6c1903bf11757f97e236077ad0edcc3380d/pyomexmeta-1.2.13-cp311-cp311-manylinux2014_x86_64.whl#sha256=c61898efca7c037f3c9d1ded9ca328d8d183160b00c4fc838ca2e0e7a818128c" >pyomexmeta-1.2.13-cp311-cp311-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/94/b9131d2b413703f8c63ac876d37df50ae1e859cfe9506061454fced0e0fc/pyomexmeta-1.2.13-cp311-cp311-win_amd64.whl#sha256=9b2e90c19b2e9312647bf92543703aab58e98f8db330bdccd2ebeba564d166aa" >pyomexmeta-1.2.13-cp311-cp311-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/d9/171acd8d1860285ee51d742fca844ad740fb9baf324ca715ee20c6cf5cb2/pyomexmeta-1.2.13-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=78ed94a31a99b37ff6deabb73d224188960110849ec4ac2afdfc8acc277a354d" >pyomexmeta-1.2.13-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/05/b9015b2c2768ee5cc4e2a0c71f7b633736306115f564a2185ecdce58a585/pyomexmeta-1.2.13-cp37-cp37m-manylinux2014_x86_64.whl#sha256=17df074616456a59b54e437982648647204ec182c5329845c3d8118039bdc889" >pyomexmeta-1.2.13-cp37-cp37m-manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/24/31/870a5804c71eaefd2e320ab5ce9a6a8cf59494adc32b18ec9f46d2ff2560/pyomexmeta-1.2.13-cp37-cp37m-win_amd64.whl#sha256=e86b10acc666b360b996f449c09b811a89dabd6197afaeb84fa1aa62b38741cc" >pyomexmeta-1.2.13-cp37-cp37m-win_amd64.whl</a><br />
@@ -110,4 +116,4 @@
     <a href="https://files.pythonhosted.org/packages/e4/4c/71175ccf92b88a4f6f0f68a8a66d2d81b14e6c16d5121b6ced7d4c12f358/pyomexmeta-1.2.13-cp39-cp39-win_amd64.whl#sha256=a04fbe7174fe5809d0d91fdbe1a89b38b6815a69bd0295c95c35cf4b661523be" >pyomexmeta-1.2.13-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 11253317-->
+<!--SERIAL 16804658-->

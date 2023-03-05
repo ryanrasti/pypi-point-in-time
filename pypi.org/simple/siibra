@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for siibra</title>
   </head>
   <body>
@@ -80,6 +80,22 @@
     <a href="https://files.pythonhosted.org/packages/61/19/5df26c9dc35b699f445f67a94022812775059fc23858b5bae8fa49401c15/siibra-0.3a26.tar.gz#sha256=d602955961b918cf5808874d5868831b0f1b882b31c48dda556de370ac904d19" data-requires-python="&gt;=3.6" >siibra-0.3a26.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/84/0c/0b41bc7657377eb8db4182b3338138d85c56e75e4018ebec3b67861a779a/siibra-0.3a27-py3-none-any.whl#sha256=7a48d730b2f3d72ff9417a73f8cc3a30d109f90f633a566426d6b06a0501a93f" data-requires-python="&gt;=3.6" >siibra-0.3a27-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/68/1fe64fc8c5f5b5ef95a894579f91d635be959102073b82dc09685db87c05/siibra-0.3a27.tar.gz#sha256=c798eff88ca5bc4b674aee623fe1f735d3655b9cbba56770ecb1a8dfa390b515" data-requires-python="&gt;=3.6" >siibra-0.3a27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/5d/9506566dff48b5945fa1e95ec570da36c42b7e5cf6e7b5f9e44cf00f8f06/siibra-0.4a27-py3-none-any.whl#sha256=a71bc2b9d5629b7f5d67e3a6a60ccf30ba8c8cce43f43a444109276b3a569468" data-requires-python="&gt;=3.7" >siibra-0.4a27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/11/231b4700f7af5f18c893863ad7b1f0fefd6e72a218200556575c49d286de/siibra-0.4a27.tar.gz#sha256=71cfd9337eee5838436310b4f79c4739eedb787dd7df611c2788b0a592e30b3c" data-requires-python="&gt;=3.7" >siibra-0.4a27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/00/ab5b6cbe137d8c60ccf64491cdc677081ed7ab1a2ee06085eb2ae00351e2/siibra-0.4a28-py3-none-any.whl#sha256=7373cb43a48927a0b7195c55cc005edc030fdc1b28a36c754044fc17806d0773" data-requires-python="&gt;=3.7" >siibra-0.4a28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/8d/cd40075a04396c183e3ddc0f353650c365d78801fbf6397d297807ae4f9c/siibra-0.4a28.tar.gz#sha256=c66d26e83783bcae77582efa351a0eca520a07faeee2c5f84d4c8bdc3a56a33f" data-requires-python="&gt;=3.7" >siibra-0.4a28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/02/d3a2e175883137b97ec99164197a0be6fb5bf9eca16fbebd6a0a02ee845a/siibra-0.4a29-py3-none-any.whl#sha256=3192baaa83994962ffc77016702a6e922625097253e8e7fc6305a6d930ab8662" data-requires-python="&gt;=3.7" >siibra-0.4a29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/24/b0b017a49b0f9227bf4abb8d6819deefda0ba6b99830ffb4abec3f828eb1/siibra-0.4a29.tar.gz#sha256=881a789fc0465468a4553f5516f7a128bc2936e6f57b0a069952e3f1a3114cb4" data-requires-python="&gt;=3.7" >siibra-0.4a29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/15/672d942816130a76293df50338fa98b549c0182a64caa734fc24cb8b91d0/siibra-0.4a30-py3-none-any.whl#sha256=73abb2fe6224462dcdcbca7f19f88e45dda61eb3e36b483ab2afa075f087c7a2" data-requires-python="&gt;=3.7" >siibra-0.4a30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/54/f59450e2bf8bee5bb07d4e5483f5b9001a4840b1eac1722f41bc3e476baa/siibra-0.4a30.tar.gz#sha256=8d5667cdf900b194b1b517cc61d898045a1b5158fdf06d5b30c38b6bd0617fc1" data-requires-python="&gt;=3.7" >siibra-0.4a30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/88/72290ec61ff754e6dd2b967231749c86975bd62ed97bf987a838df3c64e8/siibra-0.4a31-py3-none-any.whl#sha256=81639242b6d2d4ec48e5f3d38f9cb43a94fbddc0d58438518ae9974793a2e2b4" data-requires-python="&gt;=3.7" >siibra-0.4a31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/f1/88f0a012b0068f17d2c65060bdcb1b1461ec45c7aa684e93ab690650441e/siibra-0.4a31.tar.gz#sha256=e49a1583b0b60403d799bca031c05208acd57bf5d3a605cefb3e9439bc36410d" data-requires-python="&gt;=3.7" >siibra-0.4a31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/4b/633ced049f548539ea78e16fcfcd935113bb73b966f378bdbc8c73b7494b/siibra-0.4a32-py3-none-any.whl#sha256=7dceb915a9dc0e4dc4d7389a1771fd32b85d9cd1b1cc1b5765ac3854d92183fd" data-requires-python="&gt;=3.7" >siibra-0.4a32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/f5/c02ebfea304a28ba34100d80b99c0c3dc4bc057653cd98d02e73ba44e327/siibra-0.4a32.tar.gz#sha256=bfeca6c56cc33630a8e046f0ba8a4d9e1168916e64ffe730b4ed08b8ad06bb4c" data-requires-python="&gt;=3.7" >siibra-0.4a32.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/98/a0d923a1739bb73f7173fbbfd62bf50a96537686be62eea2f30e4d7204a0/siibra-0.4a33-py3-none-any.whl#sha256=fd937016fd2a4229ce374bc593bf72404620c1376184a790b56afda921e9f4fd" data-requires-python="&gt;=3.7" >siibra-0.4a33-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/55/d2568e47a0943e9e5a12cf29d26f469f70291af3b6d1d16be86d5e4991f7/siibra-0.4a33.tar.gz#sha256=d67ba51547cb7fbc792bd14e93d083cabeac978b9a3ee4bfd5cf9aa0c95c5c94" data-requires-python="&gt;=3.7" >siibra-0.4a33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/2d/6b3db0193684cfbdff428b39a214d1be6f216b64e34578494f769f32e578/siibra-0.4a35-py3-none-any.whl#sha256=8fa7e322a36c2ec5902c75adce543ee94d01e8600f11fefefa6732f1b19baf58" data-requires-python="&gt;=3.7" >siibra-0.4a35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/e0/6bcc26203b5cad3188fe458d3cb6720d7c2121c31a05d8c3ec30f7fc4e33/siibra-0.4a35.tar.gz#sha256=106a61824c6e3260ee65241add88bbb2d6be4a48756c1e3173860406722a0dc0" data-requires-python="&gt;=3.7" >siibra-0.4a35.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15710179-->
+<!--SERIAL 17011915-->

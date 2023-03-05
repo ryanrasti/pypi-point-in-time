@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gitlint</title>
   </head>
   <body>
@@ -52,6 +52,24 @@
     <a href="https://files.pythonhosted.org/packages/92/15/8850b30ac84e47ae7af0d50b63da171c19a63fa947139efa8de7a3cbc9a6/gitlint-0.17.0.tar.gz#sha256=8c10c6b404d255b43ddc4a2f5f13bcb10284bc162adfb2c03b10708309009189" data-requires-python="&gt;=3.6" >gitlint-0.17.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/08/d3/0f702f412982d23675cf170955dac19e211a9bcfb4dc32bf462261d8863b/gitlint-0.18.0-py2.py3-none-any.whl#sha256=77ad954738b400019c1bc51241abdae5fea28c81d1586ef9fe133b96b503531e" data-requires-python="&gt;=3.6" >gitlint-0.18.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/94/5e/73eab3781435d95e5a387169d28308858442b30c9465e81a938c0087c1ba/gitlint-0.18.0.tar.gz#sha256=b0edf947a9202ace282d084bbf481a1d0fdb2fba40e32dd4a520bfd3ef6d3963" data-requires-python="&gt;=3.6" >gitlint-0.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/35/ba1d7357349f4a61de65eee3e87b6371c7bb66b343ce9b2801b2ac0e444a/gitlint-0.19.0.dev73-py3-none-any.whl#sha256=0cb1ed6b21aab8f984470fc671b1faede5dddd91a616a75d185167a378f0ed2b" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev73-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/fa/b83b3a8405dbd79c98a63278d2c5a5041367528cab6995918c95712dfa50/gitlint-0.19.0.dev73.tar.gz#sha256=8903d51f5902989cfb60ea5517e4b7264e000614ce62d7715deeef78bf44a644" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev73.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/2e/21f8a857f30334641e6fe8e646c012cb7f45abf64b7dd81f076aad29894b/gitlint-0.19.0.dev75-py3-none-any.whl#sha256=226d2337d490389eb01c6a75a5f68ba6029ca35eecfbe295068095b6dd9fd5fe" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev75-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/d7/61481789e3ec96809295c09f2030528b2cc017abb7555474a842748f70e9/gitlint-0.19.0.dev75.tar.gz#sha256=f4fdfe8344631b80078c651ffcb7f9761b323ece6fa30034b209a500a530f70e" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev75.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/ed/ea7210dc42815f14f3d43dcdcd9f136b3ef133f3444a82a44d0ce41f37c3/gitlint-0.19.0.dev76-py3-none-any.whl#sha256=0835a72b7c20a089f4fdd13906f6f761c02ae6d8528357d52b10486377c4fe57" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/bd/89f7d227658899004deb455722b42f79557717a12bb03f9eb7610a99fc0e/gitlint-0.19.0.dev76.tar.gz#sha256=70fe774d6e2fef8fdcd3081aea78b08b6819709aeb3c38011fd1f35fd7917a8a" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev76.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/68/f68f2e35467912930d066aad4dcd85dc2d7e177cbffc160965f6f5f345de/gitlint-0.19.0.dev77-py3-none-any.whl#sha256=0266043cb7d6cf6f44c55f06f1c538a09faa0e23af07267aed4ed333dfe83bdc" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev77-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/48/882d277f57d4cde4b0d2b37bb41558488f02cedc6cce736b0ce04e0416d8/gitlint-0.19.0.dev77.tar.gz#sha256=8060afa186cfa3ac36830d53e805cce076ccab0333b18ef991dd0dbe6ed43b22" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev77.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/86/53447c36e2e2a89f7ae2c2be34732ec9a989a33c0ffa4d4437f730b7e579/gitlint-0.19.0.dev78-py3-none-any.whl#sha256=15af5dc27239e998c0e7a2b872fc807cab628e68c06979bffff888dc116f6e0a" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev78-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/f0/c32e2a2cb8ec18fbce817c8b2e3747e455985f11ce817625ca40c9a6e821/gitlint-0.19.0.dev78.tar.gz#sha256=d50641ca94c400efc57c1409c6bbc32b67a3501a7c4e22504e2eb3587addacfe" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev78.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/db/e2d39abc67d4a82f5f8825b344773fe65e10146e87c25ca7aa695f0e31c2/gitlint-0.19.0.dev79-py3-none-any.whl#sha256=973e8b663e5f81d5fce882ed17df9cbe512087eee30be9771bf30cceb6021903" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev79-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/60/77d94137cd20bb1f4cf40cfe3b15c7a84988da02acafcada19311fba9f1a/gitlint-0.19.0.dev79.tar.gz#sha256=35a6fea5f4d399f99fe28880935dc8b9077db58c25cac44d7de099db63c466f6" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev79.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/e7/851326ccd746ed8a92bdf099abe133110b645c9110afc0d455b23064beef/gitlint-0.19.0.dev80-py3-none-any.whl#sha256=1c7d0070508a0e5b366f9a8d6e713a7dc8443e932b485c42a9ae755141e78c4d" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev80-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/46/f320f6ab2973978b9a51c42be7517dbb50be089520be2f21f648f1ea9e5a/gitlint-0.19.0.dev80.tar.gz#sha256=fdc1c32e7eca3502500bf293a18ec0c2c34bd59e71102c789e53d236f1ee20a2" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev80.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/95/46e9d10dee631d2e5fd982b129cd848b808aa32f56815bcc78f117863f81/gitlint-0.19.0.dev81-py3-none-any.whl#sha256=89d26abec4aaa8743af442ccb84a5373e10e8eb3a64463717e59dc1bc00bd078" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev81-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/12/c00e0199c6ce41e268a5ad66e4ad9ff4dd7e5cc894f29c25f764f2326467/gitlint-0.19.0.dev81.tar.gz#sha256=14788fd8fdc7e29dfafde408a54c3601439ee425b9e6eef2b9b2a350689cc20e" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev81.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/9a/1191e688d80a7b378a93cc0a822e5fa56fee38f5cb24fd57849d44dbb239/gitlint-0.19.0.dev82-py3-none-any.whl#sha256=9e46a402ab0f39715d2ab5f9efe390a70794359ba2258d0c8a2acfd36a5c9575" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev82-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/81/8707dae126bf96910ea1a2df4956e3129450eaf8db23fef5c8b36288e73b/gitlint-0.19.0.dev82.tar.gz#sha256=c76c8454987cd9adc0706a64e32aadc1c5e1622adaf81f67ff7a91d95a6aa8a0" data-requires-python="&gt;=3.7" >gitlint-0.19.0.dev82.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15787433-->
+<!--SERIAL 17080348-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tifffile</title>
   </head>
   <body>
@@ -221,6 +221,18 @@
     <a href="https://files.pythonhosted.org/packages/96/e9/bc14577c801e0e65c6369288b02cc8e553bef783b55d7c7b7159d8051fc6/tifffile-2022.8.12.tar.gz#sha256=3e74e0fd48838477ebcf40e09b7780bd095ee5920b2238f485e2c68463a3dcb4" data-requires-python="&gt;=3.8" >tifffile-2022.8.12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/cb/1ecf9f39113a7ad0529a0441a16982791e7b37a4efdba2f89a687fdf15c9/tifffile-2022.10.10-py3-none-any.whl#sha256=87f3aee8a0d06b74655269a105de75c1958a24653e1930d523eb516100043503" data-requires-python="&gt;=3.8" >tifffile-2022.10.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6e/a6/2ae17402253ae574f01a41b32572d0398f5bca3dd01dfc2bf8d12ce194f0/tifffile-2022.10.10.tar.gz#sha256=50b61ba943b866d191295bc38a00191c9fdab23ece063544c7f1a264e3f6aa8e" data-requires-python="&gt;=3.8" >tifffile-2022.10.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/43/7c69a1bd8579ac35c8e5658f63e0084d8ed73bb727d1de375964412073ca/tifffile-2023.1.23-py3-none-any.whl#sha256=c0e11011f4c6800a5b8b1551c6f616bbe8d400ca99f4c1c432b9547082463133" data-requires-python="&gt;=3.8" >tifffile-2023.1.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/7d/7c963639b02ccad3a074b3784cd4242414c9f1bb82c2296a8836c2884721/tifffile-2023.1.23.tar.gz#sha256=a4f7800a383fb024172a73f11e2108ea4b6ca7164779fe60e385439685581cec" data-requires-python="&gt;=3.8" >tifffile-2023.1.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/d3/7d078fe231fbbfbe60b01b3bd9215354b83de6f94539dd3c6b7be048e76b/tifffile-2023.1.23.1-py3-none-any.whl#sha256=2b626a8ee81b692e1fa5320201a4b70f1915d2567945e68665621a75a12b3730" data-requires-python="&gt;=3.8" >tifffile-2023.1.23.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/ae/c910802c564138f35ed6ed6ff7301932888b5cb4615d18527f752e9f8d60/tifffile-2023.1.23.1.tar.gz#sha256=a3d0c149cc7faef796fd598856314f43fdcd0895c79c3cb662a38c1c1bd49572" data-requires-python="&gt;=3.8" >tifffile-2023.1.23.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/e4/6159f15626671424b647686096ca8769b42777d34eb43db3bcb716d9dbec/tifffile-2023.2.2-py3-none-any.whl#sha256=e0ae7c27b18215fed3a766ed30cbe77bbb30b0a7e5440317280259944d693f4e" data-requires-python="&gt;=3.8" >tifffile-2023.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/69/5a1ac32c12255d63d7247c3b068e900c1d473dc9a6c9dd6666fd9091a2cb/tifffile-2023.2.2.tar.gz#sha256=d734e70a7ef855cc75410accea67c37f1c1b4b3f8fd5197a44c0396328ec5ab1" data-requires-python="&gt;=3.8" >tifffile-2023.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/ae/ea1896b7fb09f9da6bdd011c315b529abd18a472fdb0f7533a8f6e8f7bff/tifffile-2023.2.3-py3-none-any.whl#sha256=6df45c1eab632eadb9384994c8ae8bc424cd3c26e9508481a345dbef1dcfd480" data-requires-python="&gt;=3.8" >tifffile-2023.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/4b/7472a94cb226fa8c5fa87b71108f70c4f236df0c48b252b7cfa9bfed1695/tifffile-2023.2.3.tar.gz#sha256=458df5ad9a5217f668edd636dc19fbc736062bf78aac823ab84cdbae9de8eaa6" data-requires-python="&gt;=3.8" >tifffile-2023.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/7e/8ba589fa354aef54bd08765cf2310495b2b5c2e04b8a77f8982555b082e8/tifffile-2023.2.27-py3-none-any.whl#sha256=a9355dcec7b4eb5b79cb5a2ed376131ffa3436d5fc7fff86b721618e0e91eebb" data-requires-python="&gt;=3.8" >tifffile-2023.2.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/f7/734344b6421754dd10bdc5c1dc79ecb1b93b69bfa58dbe554a5fe1e4156c/tifffile-2023.2.27.tar.gz#sha256=dac6e0ceda765657d4ec71491664b8e9329c0da0d15768c3fad8d19baa5aa79b" data-requires-python="&gt;=3.8" >tifffile-2023.2.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/30/b3a70a98b1be0ef881593b7f0ea7fd2aed9f5f3440e90547aa79000a8792/tifffile-2023.2.28-py3-none-any.whl#sha256=8357cd8ccbdd4378ad4d6b84ffe3ab15b1d96630b1719f576d4de386f45546f1" data-requires-python="&gt;=3.8" >tifffile-2023.2.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/0b/e8123041ebdc361bd5b7b1a9613be4adcbf583befa0a2fc407bc0e71878e/tifffile-2023.2.28.tar.gz#sha256=2d2baba8dea6609f553fe61853db9a61f715d60ba3bce6a20b5a1ab72407dfed" data-requires-python="&gt;=3.8" >tifffile-2023.2.28.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15376760-->
+<!--SERIAL 17108074-->

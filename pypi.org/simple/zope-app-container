@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-app-container</title>
   </head>
   <body>
@@ -42,6 +42,8 @@
     <a href="https://files.pythonhosted.org/packages/e2/9d/84e47f2b9063f7b255252c7b43224b672a11af95c7fd9dc72ee68bec5ebe/zope.app.container-3.9.2.tar.gz#sha256=cf2494ed837267dc1fb2c013b54194928c64926d3542d75a0419d090da919bd1" >zope.app.container-3.9.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/e2/f67a4c383f94d4693041e7335a628cb508760fa302b541fd11c15a39f93c/zope.app.container-4.0.0-py2.py3-none-any.whl#sha256=b4174468ad611708a48fb09ad4f49e128121240a347c099081bd36b55d275e5d" >zope.app.container-4.0.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/34/3b/0fe6361d9500c41e1a9f96fcf6a7c708af72d57a16b8aa04b691c3532b6e/zope.app.container-4.0.0.tar.gz#sha256=83f0476d5f0e7c198df7ebc735d0c73c026057a0a29f5a68b303dca875eb5671" >zope.app.container-4.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/6b/1311a73a56f1bedc275e5f0860afdbbec48734e87a1c145d95bb60c1cfb3/zope.app.container-5.0-py3-none-any.whl#sha256=2ebb18ae13e346abc2fc1be8bfba37fb6ed7f06bb7817711bf8948296a688ab7" data-requires-python="&gt;=3.7" >zope.app.container-5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/8c/6bafb694a2588212e4721455def1f741a75addc15837cf365fe0af23bc15/zope.app.container-5.0.tar.gz#sha256=dae0a7d3412ab98094a7a685275d7c65422d91d0a7631676e6bf52261db81672" data-requires-python="&gt;=3.7" >zope.app.container-5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 2826398-->
+<!--SERIAL 16751518-->

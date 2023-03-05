@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-kafkaconnect</title>
   </head>
   <body>
@@ -114,6 +114,20 @@
     <a href="https://files.pythonhosted.org/packages/80/f1/241cc611b34512a686d18091b7c768c72fd05dc7c09862e697b133556f72/aws_cdk.aws_kafkaconnect-1.187.0-py3-none-any.whl#sha256=0b1d20d27ea98d61945126528d37e1b9d723b3ea6690a34a73b3f9512062ea6f" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/a0/21e7aa6f7ecfa461a2e3210cca12b13c6947dfc896669cd106d5d6d9673c/aws-cdk.aws-kafkaconnect-1.188.0.tar.gz#sha256=a930c6b67f82862fa6c86cda7ab78b0e879a7b3f3806dbba2612623b9a1c94a8" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/2b/333a765397b89abd97e015b38b4112defe76d85f8996e16db283f841fa14/aws_cdk.aws_kafkaconnect-1.188.0-py3-none-any.whl#sha256=480b020f26f111cc3c64031cc5442c381e4ae42f05c46b869fc49e51f15876b6" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/68/6ec020a021ecaa7e259ed61ae9d4a8038bf12276b7edae5bf73a83b21c5f/aws-cdk.aws-kafkaconnect-1.189.0.tar.gz#sha256=8947ccf89a22b1df53c76c8c4f1b3ec46f039808447de570b24ddbe613a3c182" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/7a/67aa2a1f25262eaa51f5c4a4c6ee672b6dfc3a546920e6ec6bfa090751a6/aws_cdk.aws_kafkaconnect-1.189.0-py3-none-any.whl#sha256=3bd666e56640a38aca7636812f72c3c926d8e8fa7b0a5b73486c2ca650cbdc60" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/2c/77a8bbe52565122ef543f471bd8d0d5a4f8013c0a6153f7ff6741f88f34b/aws-cdk.aws-kafkaconnect-1.190.0.tar.gz#sha256=0a7e86c8c0b59e027b91441632e39b0d0d65a9f8a50f97abd45046871b2aef71" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/81/1bfa69eb6ae0838f2bcca7eccd986d2a3596b00878cabea8f88f7bf0b1c3/aws_cdk.aws_kafkaconnect-1.190.0-py3-none-any.whl#sha256=0362ed95d5643b8fdf6d9d42cb03e75c2cbbde55449606054969bd835fc96e0c" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/31/0d49c9a7619af45bbaead3a9949a4c15111e1f00ab9864377f6a3f2f7520/aws-cdk.aws-kafkaconnect-1.191.0.tar.gz#sha256=35b05e5ada12c7cdba2974a4d6074f2849a10b4f6f81f5428212e57a9d4aa591" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/22/171c51a3930e86bc872a45c2b4170031b270b18219aa7d3cf767ae5b80cf/aws_cdk.aws_kafkaconnect-1.191.0-py3-none-any.whl#sha256=e38ed052002906e6c0d078720a93fb0adb699823cf9ca78dde7b04409e164ad7" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/8e/daa525065c53e4f8a7814ebcfa03b887fc24a8249bfdc041259b22338ca2/aws-cdk.aws-kafkaconnect-1.192.0.tar.gz#sha256=e7c0dc3f4099617a7391514c5c4106c220ca2c39d5f2b5ac744c172999d8bc45" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/5c/55bd745faf1f9fae3aeb59d3776243e0caf493239088bafc5a0e446177ed/aws_cdk.aws_kafkaconnect-1.192.0-py3-none-any.whl#sha256=2b2cd2a9b4a9ed8fa0e1dde6c50f3931438271800e048378ed63c53d9767cc23" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/0d/6de18f756ba4dc31c7bf0c83921811dba27dada3868504cd4744b606d66d/aws-cdk.aws-kafkaconnect-1.193.0.tar.gz#sha256=8828c854074fcd821014682926809b293bb12d152183c6aef1bec92f10472fe0" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/ae/60b4261dc87137d2a9db71bc30c9f9b2775ece7c3cea384f49c6e9e0eed3/aws_cdk.aws_kafkaconnect-1.193.0-py3-none-any.whl#sha256=15e5f5221704faef35af07dbab90337796d974a943c3d11bc62335bb20ec94be" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/df/822de9bc6c1c278ab3526df3716d28a84ac18c1603a546e02ed277962ed0/aws-cdk.aws-kafkaconnect-1.194.0.tar.gz#sha256=de270096530d6653a5abd945e31738b4dc8eae67414c98499bd3a4ca752f2a50" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/6f/46ad9840b3231c4ba50ea7b87f50acbc2d75d301067a6248d6a92d8feec3/aws_cdk.aws_kafkaconnect-1.194.0-py3-none-any.whl#sha256=ce9896745ad882281670601579e1209f485320b6c73bf1c2c4b6ba62b3ad583f" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/db/18c61b09dfc82cd600fe3e175e558d840f1099dd661005502b27707912d6/aws-cdk.aws-kafkaconnect-1.195.0.tar.gz#sha256=299911e0ba375338d54f0c111ee9358a35ca729ded85058bcc2b3e65c38b84a6" data-requires-python="~=3.7" >aws-cdk.aws-kafkaconnect-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/ac/83e1863081490241c3cf156367ac7bad6ed8bc01c8d88275fe04bbbab693/aws_cdk.aws_kafkaconnect-1.195.0-py3-none-any.whl#sha256=cc67807b44aed3bf2c1d666b631ef72d0a4a50c5f2a3d4104b3cc2596178d47d" data-requires-python="~=3.7" >aws_cdk.aws_kafkaconnect-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393403-->
+<!--SERIAL 17131930-->

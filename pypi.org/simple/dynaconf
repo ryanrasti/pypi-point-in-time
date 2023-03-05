@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dynaconf</title>
   </head>
   <body>
@@ -152,6 +152,8 @@
     <a href="https://files.pythonhosted.org/packages/e6/99/16ea97d10353775e959bb8ad6ed01b7d727da3a207c52e9613574b7e6464/dynaconf-3.1.10.tar.gz#sha256=772591c542a80ffd1e44c88c320354b3348daaefb125c563f6aa6eb21502a39f" data-requires-python="&gt;=3.7" data-yanked="This version by mistake included `tests_functional` folder in the package. For a smaller package use 3.1.11" >dynaconf-3.1.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/67/0600b5fbd27928c112a11a5018b3e9ebf3d7f896d510c3c231f8d09886ae/dynaconf-3.1.11-py2.py3-none-any.whl#sha256=87e0b3b12b5db9e8fb465e1f8c7fdb926cd2ec5b6d88aa7f821f316df93fb165" data-requires-python="&gt;=3.7" >dynaconf-3.1.11-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/54/6f/09c3ca2943314e0cae5cb2eeca1b77f5968855e13d6fdaae32c8e055eb7c/dynaconf-3.1.11.tar.gz#sha256=d9cfb50fd4a71a543fd23845d4f585b620b6ff6d9d3cc1825c614f7b2097cb39" data-requires-python="&gt;=3.7" >dynaconf-3.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/e0/3177a9cae2687d30fb80db000da3b3e814cb0f43856f62ee09e2eed698c7/dynaconf-3.1.12-py2.py3-none-any.whl#sha256=a79d7b3ad4a35af9b576c49f11cd3b23a1b04b87b63a4e9f92cc82f2b0cafeeb" data-requires-python="&gt;=3.8" >dynaconf-3.1.12-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/38/ed036e126de2b477ba30ad6f91932e6271ce78c1aa34181b833ee60a3b24/dynaconf-3.1.12.tar.gz#sha256=11a60bcd735f82b8a47b288f99e4ffbbd08c6c130a7be93c5d03e93fc260a5e1" data-requires-python="&gt;=3.8" >dynaconf-3.1.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15181539-->
+<!--SERIAL 17128873-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ksrpc</title>
   </head>
   <body>
@@ -32,6 +32,16 @@
     <a href="https://files.pythonhosted.org/packages/fb/84/2dba59ba8a09872829594904027b13c6f2352b469f015f02b267134dff22/ksrpc-0.2.7.tar.gz#sha256=2797454bd3f2427bd9feb15a2db73f9a059d39b337219d0cd90547a458098eaa" data-requires-python="&gt;=3.6" >ksrpc-0.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e4/17/e448a30ad1588d7c33bed28c32340521fef9715a5efad7be66b925031a03/ksrpc-0.2.8-py3-none-any.whl#sha256=581b34f14fbeab0c79afc94f581664468984c23abd2a515b57f5ad8c90fd0af6" data-requires-python="&gt;=3.6" >ksrpc-0.2.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/cf/15bd51a1e817406268006e09d1376a4c272264fdbec71d3b38634eaf8299/ksrpc-0.2.8.tar.gz#sha256=4eb3d13276b0dae6bcb4aa2eb1cf0371bdc6a4928ca67359c0e3bda9b4687ac3" data-requires-python="&gt;=3.6" >ksrpc-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/13/4cbf4bed704f8088911270fe1e4dd5efdbdc17eb2a0cf6e3df9fc39aae35/ksrpc-0.2.9-py3-none-any.whl#sha256=d809f2b5d76e29a783cec28bca97a0e6043fee6f870b40af17e18eed23130c14" data-requires-python="&gt;=3.6" >ksrpc-0.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/d4/a85d2cacf8a37efc0856e597ba41a331ac7a281f0401903c0cd89f63f72a/ksrpc-0.2.9.tar.gz#sha256=dde1f01236c4ed34d634819e18ee933455f8ab7303a1db0271128743cee62bbf" data-requires-python="&gt;=3.6" >ksrpc-0.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/6d/223bb78768189c8625b772a8675a55071cc4bbea4c5d9c9bf7c281ee0ae7/ksrpc-0.3.0-py3-none-any.whl#sha256=f497776f760b3c17af24db2831b5ecd50b1083e1c0f08cc3263c6835ed2e32ee" data-requires-python="&gt;=3.6" >ksrpc-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/0e/326837175bf375e7069370bcb7362eb3e0cf0c5c56783751e49d8d0baf15/ksrpc-0.3.0.tar.gz#sha256=2f67377e53ce3612cfcff4220754b53d6ede8c35e1fcf9bfb19ce820858abd66" data-requires-python="&gt;=3.6" >ksrpc-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/21/da72c3a961ae88be4b9b1598f4974f2e59452ee619f107fbe1b491982907/ksrpc-0.3.1-py3-none-any.whl#sha256=f634bf8fb7a22207a3011e7207b0d73b4244ea46ed7ce66f3e4f1793329d4bf4" data-requires-python="&gt;=3.6" >ksrpc-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/8d/cdadcbbdb22eb964ec5eaa3b5cfeed9b48fda1dfa1316446f63cf90a6b8e/ksrpc-0.3.1.tar.gz#sha256=031653a87b256cf428d71585c373e01b0f1a375b1c20fe9124f30af7ce78c613" data-requires-python="&gt;=3.6" >ksrpc-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/c3/e6500d330fa376c74bf890417bdb4eafbb435cc9f73b30b2d0228f776200/ksrpc-0.3.2-py3-none-any.whl#sha256=765af4013bbd2cee5efb523e1dfed8fc461782e0734fbd4a0d6c909420d247a7" data-requires-python="&gt;=3.6" >ksrpc-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/70/ef884aa0a3259ab83602ce764afabb0c156067935291e80fdc71cccc2594/ksrpc-0.3.2.tar.gz#sha256=79511f469a1b7d37a1e32a0a2edd404bbd77754e8b0b400d8cabd41ab140dde8" data-requires-python="&gt;=3.6" >ksrpc-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/af/0a7d141516b1d2a728e19a8397edef04f202087def3367f132096678b6ba/ksrpc-0.3.3-py3-none-any.whl#sha256=26c36b9212a4c2e7bfde70c20f29ded85ad61e4809c541e4e31790a638cf76c4" data-requires-python="&gt;=3.6" >ksrpc-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/94/fd25f8cb87a6db442600f645a4dc1f185099f909a5fcdc67a82e0c8906ee/ksrpc-0.3.3.tar.gz#sha256=e4f8126bf7936e2f318739c74d7378d795c17f27767cebceb70edbd491bbfe6a" data-requires-python="&gt;=3.6" >ksrpc-0.3.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14494740-->
+<!--SERIAL 17141134-->

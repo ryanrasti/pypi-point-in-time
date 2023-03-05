@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for patent-client</title>
   </head>
   <body>
@@ -83,6 +83,18 @@
     <a href="https://files.pythonhosted.org/packages/5b/0b/279ba24e3d73b9fefcf41d036a8c15908b5dbb5f4d73fa0e26cc8f85deeb/patent_client-3.0.5.dev53.tar.gz#sha256=9f807649855071d1945807e395ddb425c79d1431002a7bffee902219102d2f8c" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.5.dev53.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/97/2b055b06f1d8f43f760ed279c29d5e064db68dbbc813f16eab7e6e842bf8/patent_client-3.0.5-py3-none-any.whl#sha256=709347c404ff513f3ae7b836bea5f54ee20a86d008ab9570ab26cb1a8cdb33b3" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/0f/c803f79ad4212f016439172e686eaf925a2aa202be33ad487207a75c0f06/patent_client-3.0.5.tar.gz#sha256=9bb0b84ae27d0a47c8eb09cd279c9a9ca71297bec584e014a194da64a2c9ef8c" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/94/aaf2bc309efcbff24fea7286524092f16262f180811de8dccb6b568b1be4/patent_client-3.0.6.dev55-py3-none-any.whl#sha256=f0956af7b29870931b9870ec104b68a173e0707da898bf3d32142e30c01efe8a" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.6.dev55-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/2a/18dc14d8173e5a7a30b559dd47086e2be274f6d4cd1b054e07bc8f6c3d79/patent_client-3.0.6.dev55.tar.gz#sha256=58232511b788e4867845a91eb2423d9ccac62ebaf62b42e36787fa2996c562fb" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.6.dev55.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/4c/313968ac853ccdfa9fef827167cd9f5f5fedd62f79da70c51c888b1088c1/patent_client-3.0.6-py3-none-any.whl#sha256=2aef5d661a43a1fd5d80c7bf41fef8f9e2fc20e2ecfe88b9a5b23a60465ea984" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/b6/7297d2ec64a431832bdf2d409e0997db43d7d5a05c29d10b193894aa11ce/patent_client-3.0.6.tar.gz#sha256=0c69cd0a6e96076ec0e0445cdf95f885733722995fb20b903897292c7115912b" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/35/8f532b77d5c65771f83771936f8dc189a4505c9eba46960668bb7a19e19f/patent_client-3.1.0.dev59-py3-none-any.whl#sha256=901180256c6c2a4151bc1ae754a0101dade749561662c283f0b2257ab90a4f79" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.1.0.dev59-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/9f/6edfbe5ba90097294a63c3dd21b5b6bfa2a98950d5c5438a5940354c5c94/patent_client-3.1.0.dev59.tar.gz#sha256=6e9e0232e608a5d85eeafdc2487eb012e666cf0b2e7dbf50b222a9e0eb763b99" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.1.0.dev59.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/55/450c56fece331bd9980c22670a1e52492303ded70d025e131c5c2f41ae14/patent_client-3.1.0-py3-none-any.whl#sha256=5a9f41dc6513123564593e2b01b75686ce5d7508b1834c041a6fdc77d17dc28f" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/33/9be07a4d18c6be2179bfc23773942d8a03659d9a1b492189c19a36ac299f/patent_client-3.1.0.tar.gz#sha256=02a5d9faf72c5da8325a6bd2bb3dfadb8fb8507f00eaefcc03db47e723d749b8" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/20/08b783187af5a49a07380116673a2b0340a7f4eeb32cce659aac5f4c784a/patent_client-3.2.1-py3-none-any.whl#sha256=fc48a06a0b33b1ae5e7d164f09952f34c6b8c3f7efdb37e899a8bfc9b4c18314" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/09/dfa9730e2e28093efa8bc33ca43c1bb995cbaed8a870081b79425fc8629b/patent_client-3.2.1.tar.gz#sha256=b9ef88ad42b028807d3a5865e985b6b22b3f2503388490c524f9f5be343681b3" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/45/5f21d1449b720c31f3896f8c174f5e024442eaa2ad16af5a2ca9835fda7b/patent_client-3.2.2-py3-none-any.whl#sha256=ca860f5726519a237d6eea66ff4e3054488dffe7a08cb93a50fe637d023b10aa" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/64/70a9444e33b6ab9d2b12358de540693629e38cccfbe6bf407f0379212803/patent_client-3.2.2.tar.gz#sha256=57a0160026ad84dd605ac9cebde1622732715c2f6318262c49130468aadae055" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >patent_client-3.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15803459-->
+<!--SERIAL 16506214-->

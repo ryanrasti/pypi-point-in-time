@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for scaleway-async</title>
   </head>
   <body>
@@ -10,6 +10,16 @@
     <a href="https://files.pythonhosted.org/packages/65/db/d96ee49dde86e773505a9858705ae700870d1ccbda66da13ab01954b0ed8/scaleway_async-0.2.0.tar.gz#sha256=99d61caf1c7ff34794b83f0b41fe2d52c361067a15bee1fb121cd30d1e6e481f" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/d7/ab4a6b6cc8328036f68048ca643dcd63bddbcea8471267e32070702073fe/scaleway_async-0.3.0-py3-none-any.whl#sha256=b9065c56dd99a1372e6f26f4c43a6cdd4b8827761180fb127f395b92a4e3ad7f" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/0b/bc6de4a64e5fa15a6e5b930bd45c510542442cd0a7236ecd1a3f4f203562/scaleway_async-0.3.0.tar.gz#sha256=20e5d3ae6fab113ed7674809520edf5f7393f4ce53f48f69f77c2b13bc0f142e" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/b1/2b595eaf6e6195d0009db0376c0f345a7ab135389130e407701945310c86/scaleway_async-0.4.0-py3-none-any.whl#sha256=d5aa4954f1beca4915fee46ccac2c4b2d41c40a407fdd514dcbb12c685039858" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/85/db8add6554df54d827d003b92628b2e30e6a0a337ba6dc05c5b8bf014fb1/scaleway_async-0.4.0.tar.gz#sha256=bde6510a2f8a96348d89d43d56529c516f09b5a5967b7d8617ca789d29023b9b" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/f6/738fe8b673b988f28120ca9b49713da17423b5016f57a8471f32c6c1abfb/scaleway_async-0.5.0-py3-none-any.whl#sha256=ccf7de7784b901644aa103f4426665bcf796539c9694cd18e134d997b13a7d05" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/81/63be74fd3858b09a43425e947d6f938a0f6ecd7edd0ef5c18e64dd518b9a/scaleway_async-0.5.0.tar.gz#sha256=b74ca30ce37a9024f0b544e8b2b3b5b7dd8e28fdb1e23efc20052f49b3b11654" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/87/ad9c86dc6d5796d3897521a8f9b16913fdee6484c0e905465b87f8e981fa/scaleway_async-0.6.0-py3-none-any.whl#sha256=b586362a9124bb46cbb74fbd6c24ffa114cf1259afaae9764315b21a1ffd099e" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/94/60eecc5cfbd45438da8824aa44191799fc3a93e793146cbdd89b7b4a5736/scaleway_async-0.6.0.tar.gz#sha256=a7158db99e86d481a21fcd70c25abb8adf8c626c1b3568da201e3fbf4cb4118d" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/d6/94c10f87ef5126903888c71cc32eb681df62b4929c64014db4f6a98cbc67/scaleway_async-0.7.0-py3-none-any.whl#sha256=1ce641a88185b7e29743f92c5ec62601d7f5072928f1585d651339000c0eecf2" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/04/060181303b67a68d190eb6e074c4c9834a8f78366339151e181045791064/scaleway_async-0.7.0.tar.gz#sha256=5314df10fa2e74693db16561e44eb9123ed9d51ca6a42f35abfa9292d6387e65" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/47/6953dead2a120e4ed412dcdd3151925455604a3aa39b6f5e75b947cb121c/scaleway_async-0.8.0-py3-none-any.whl#sha256=8a5be34f17ef02bf097f63583e9fe3d62578ba0718273a61ad9045a935c718ee" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/08/72eca403ef3cc6b54711cd4effb064f70bc6b35fb4b15bd32c586c082078/scaleway_async-0.8.0.tar.gz#sha256=4b3e5423abfe8525773fa4891f3da0b70fe9f39e45ad90a7eb1d2a3a28632b34" data-requires-python="&gt;=3.8,&lt;4.0" >scaleway_async-0.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16420184-->
+<!--SERIAL 16993969-->

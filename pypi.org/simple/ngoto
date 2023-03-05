@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ngoto</title>
   </head>
   <body>
@@ -28,6 +28,18 @@
     <a href="https://files.pythonhosted.org/packages/2c/1d/2fa5e69fd6e778bb1ca7aa094c9e9cbc7df3e9f3a2fadb872e6ac54a872f/Ngoto-0.0.32.tar.gz#sha256=0d28d8a7b0f146c922ae88485eed67853fec8aa67322c0e212c1807301eec59f" >Ngoto-0.0.32.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/44/9b/a78ef0bc56dee6296253123cde99469d2177ea3733766604865c69a0e973/Ngoto-0.0.33-py3-none-any.whl#sha256=8735c1460196e019bf92cef9d68b77ce649b94b01dce75338a9b9a3ab7ec091f" >Ngoto-0.0.33-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/78/2e/21e57c550186daaa0a00c1b97fc033a31533f0052767bd339451677f3bb3/Ngoto-0.0.33.tar.gz#sha256=4635a588c60423492c15166b3ceb44052fc74f6eaecd31299c3b9fc111fce332" >Ngoto-0.0.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/f7/b48ad299a04bf7933bac9043c3f42cb8ce292e56fddea35f2b49d05bd7c1/Ngoto-0.0.34-py3-none-any.whl#sha256=9b301d71932319971a9e758f353c344a4a3bcb2223c6d001dbe2aec5031da894" >Ngoto-0.0.34-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/14/3c5caf330e7305d4c840e3063597783daa98ae1e67225c30f6cdf0e8778f/Ngoto-0.0.34.tar.gz#sha256=e0eb0d63541a8e2f6cda1668306512c269036f1faa63f044df9a947db3ec5c8a" >Ngoto-0.0.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/f7/bddffc1798ee313b10e1826c810ed8f0298068b06dafb674403647977af2/Ngoto-0.0.35-py3-none-any.whl#sha256=68c49cb517ef85d06717351ff2588a35f20f1139b43e4cb907433b522b11d69b" >Ngoto-0.0.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/f2/23e55c51978d39f59a7abbc541752dfe330db611c573ab6c22418bf86460/Ngoto-0.0.35.tar.gz#sha256=115702ae7517f05867c6068c257c581662eed4b2e1dc8d91e1b883b60235ce39" >Ngoto-0.0.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/42/7a83ff052947a2e80875c8694052115d5a5bd6635f343ee4028efd978ed4/Ngoto-0.0.36-py3-none-any.whl#sha256=812dd195e36c572d7677528b6572192f9748b84fdfe6272e1d80ee6ffadb5eac" >Ngoto-0.0.36-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/d2/65f7fbc8a128a7476d0f8ebf990b7aa44d97bfd4b70abca45a2bfa8cb4be/Ngoto-0.0.36.tar.gz#sha256=28e0a164b48074636958ebcab4a1e7e59dc62055124560272a3e26cbc8229656" >Ngoto-0.0.36.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/d3/20690ec8ffe386fd05377c9cd23524039463338f5676b103fb190d1903af/Ngoto-0.0.37-py3-none-any.whl#sha256=bd9c5c6f989450ebbc59c8cd28b40f560fa09c567d907d1bdb5eeb04e53a49af" >Ngoto-0.0.37-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/c8/54d31514b3b06022d49931a80c6f3c4315a290b6c26d4f77b02651bdf46b/Ngoto-0.0.37.tar.gz#sha256=63ecf495886f4388a662c8264186bea3a4be47fa0ca78cf8f48e5c1f8d16ed27" >Ngoto-0.0.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/bf/abdc7ea54b6143b1fae7218bbc1abbaea0a6de7d0d495d39841f9265e207/Ngoto-0.0.38-py3-none-any.whl#sha256=89551effd0c31abc0773ec86d0420747a45b36fe3f403d31ab28dc3cf5b7ac7b" >Ngoto-0.0.38-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/08/620139990d03c46a9d87469f4876153fdcd5e3e2267ec4cbb475bfacce8c/Ngoto-0.0.38.tar.gz#sha256=ac4555b6388eabb7594dcbb0f0b1685c3594a06f9d387317e646deb3580a6538" >Ngoto-0.0.38.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/28/41cda7c27a0cd8ac59e3f4eb9ac2d04d0068039821e69e585563c700af78/Ngoto-0.0.39-py3-none-any.whl#sha256=f2477b3bce25dd029ccf756a80865283c31a25d7bfa45c8d1d77ebc5830443c1" >Ngoto-0.0.39-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/b8/1d46b105eb0994e55d77a3884661596b92aac6feada67551ab5c6231f21c/Ngoto-0.0.39.tar.gz#sha256=198e42439ebf9c276c60250206a2ba59e8469ba4843268287b5f2efa63c45a9d" >Ngoto-0.0.39.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15025545-->
+<!--SERIAL 17136413-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tuxrun</title>
   </head>
   <body>
@@ -138,6 +138,26 @@
     <a href="https://files.pythonhosted.org/packages/91/34/5e1b7ca49d780e433439e3b8d755617f3ffbd86df8ff5dde12c581a94e01/tuxrun-0.32.2.tar.gz#sha256=01d2b990b9b42166395ab529389911eba06b87e60fe2aa06b5790ed332a72173" data-requires-python="&gt;=3.6" >tuxrun-0.32.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/75/56/d1ee66e6842eb0e58878f709f323e7da0eb664e5509c365d18fc27f5d566/tuxrun-0.33.0-py3-none-any.whl#sha256=b0a25eb772c47e9849b279b89d3c7e3a3e6c0d31492e010f1c353ec78b767aa5" data-requires-python="&gt;=3.6" >tuxrun-0.33.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0a/06/4a8b94ba30bc47c3265e7ab2f4e4ec3cddf60a4b4a7d08616b655e6a77d2/tuxrun-0.33.0.tar.gz#sha256=ca230166a96f377c5c396c80683bfd0a388945245f8093e6a3e9cec438f7120a" data-requires-python="&gt;=3.6" >tuxrun-0.33.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/fe/02c020a37d8b82751e8d5c3d4f926d815f88a19d82b784765e2a8942d709/tuxrun-0.34.0-py3-none-any.whl#sha256=fabe72db3cedc494b3e48b5f912453f5eb652b4cf8381d303adf33cbd87dc4d0" data-requires-python="&gt;=3.6" >tuxrun-0.34.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/4e/166473623d513592dfcf0129cccfe7b746a642da9ef651440503de6afaf9/tuxrun-0.34.0.tar.gz#sha256=05142bc298f960af880895e43d09cf908fa54716a5b695396017028e86238de3" data-requires-python="&gt;=3.6" >tuxrun-0.34.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/e6/5b0870114e5c7c40412cbb5d34aacf954d99fdae13a6d87ac512ee91b62f/tuxrun-0.34.1-py3-none-any.whl#sha256=2a2fc4c0c974a80db6debc4468315803328de79b1e1d979b7bca635a2f08969a" data-requires-python="&gt;=3.6" >tuxrun-0.34.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/87/106e1d87e24e0a0550ab03735be03156328d1749636b46edf7d5c650b17f/tuxrun-0.34.1.tar.gz#sha256=8d16e438e3850d773c34fa302a60a0517770731fe3ffdf991f1c5e0d57d77254" data-requires-python="&gt;=3.6" >tuxrun-0.34.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/88/3deae3acbf7e361b0edca254411808ca58231c290f1af3d7d85b6dba3c85/tuxrun-0.34.2-py3-none-any.whl#sha256=4e29fba3e51dc59792b4682e5192591ce25ccdc7675e5fa70f14faf62f9813b9" data-requires-python="&gt;=3.6" >tuxrun-0.34.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/3f/31d6c60b9d9242c041fe5b5bc2700dd850340d0d98e535f275a2bfc8df66/tuxrun-0.34.2.tar.gz#sha256=693b2e4ec2a36cb7123a36411b757b27406f7f3aae72e02338c0b661db2270db" data-requires-python="&gt;=3.6" >tuxrun-0.34.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/e5/741fba78f977deafe83910f8374c2c12cdc3293f2461cc2c110144e605b0/tuxrun-0.35.0-py3-none-any.whl#sha256=19bebdf39543de4f6e8852f72ea267f09f8ce9c5f2468f51bc985e133c7c6e45" data-requires-python="&gt;=3.6" >tuxrun-0.35.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/d8/28745b001e3dc221d7382c3a40199a9683803633f1f1f297ffdd3c638853/tuxrun-0.35.0.tar.gz#sha256=0c1ccef744f6ff42ae9bbd0c1ff172df0c5ee2df36994d227835e90e8ffaba90" data-requires-python="&gt;=3.6" >tuxrun-0.35.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/cb/f7848fe53ef38c009b4631d92f0e80d9d541511cc00b7cb4c130a34a92d1/tuxrun-0.35.1-py3-none-any.whl#sha256=37c5676469aac192caa7c40f59501ebf6c298416933d5baaf8e02aab68a53e22" data-requires-python="&gt;=3.6" >tuxrun-0.35.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/08/afe43875cfdcf733b1f6cf5073e942cc444f75d7db9f56609631b1dcdae5/tuxrun-0.35.1.tar.gz#sha256=6e28d7f7de4b73c6677c249b2e8896a88eca929dc3b43a6e9979bd4e031953e9" data-requires-python="&gt;=3.6" >tuxrun-0.35.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/ab/9cc819b0234cc8f8c93e7724d7e6325ca9fbf6b2ffb27a175f7c6ee73f44/tuxrun-0.35.2-py3-none-any.whl#sha256=dc1594f2ea34ed5109d01e544e76955ad184a2f53fd2769bc6a40c9c4f75be92" data-requires-python="&gt;=3.6" >tuxrun-0.35.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/da/0f9ff0bdd0b50a43ffe8fd3bededf3fb879fe8eb10d0242bf0abac474b26/tuxrun-0.35.2.tar.gz#sha256=7af90721f13a4d1b80dcef002c1477af22d45c5062945319a2578c448f04095f" data-requires-python="&gt;=3.6" >tuxrun-0.35.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/0e/3b0029a3b58150f1eef24579249b343cd402a2890ef362590e90353192cc/tuxrun-0.36.0-py3-none-any.whl#sha256=d0cf9bcce71da33e429bea2db1ca01218736b897b79dcd0e71d544b83fddeb91" data-requires-python="&gt;=3.6" >tuxrun-0.36.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/e8/eb8f885690901b1c17f76e9bba60a787a5950fe9d5813360be5b6b3e0827/tuxrun-0.36.0.tar.gz#sha256=030cffaa6c24d051e6ffb131236474d7c257ecf022fbe0967290097a61c4e549" data-requires-python="&gt;=3.6" >tuxrun-0.36.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/ba/abd0f6de1fdabfee1423d8179837cb7d737d55d5d096834c8e0d1af85dd2/tuxrun-0.37.0-py3-none-any.whl#sha256=2fe329453d57276cff2bc8c9236bffa2820034fa1caf2cbf69213b6ca22b43b2" data-requires-python="&gt;=3.6" >tuxrun-0.37.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/79/f4327a857e810e4b0ad95857573db5acff6f09c2006f5b34667d2e94ac22/tuxrun-0.37.0.tar.gz#sha256=573f48440828874bc6fccb2f420eafc7be5dd505e738bf6ef77675f687bbe5dd" data-requires-python="&gt;=3.6" >tuxrun-0.37.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/89/99efce8277d88d3b47ce16c94d57617049ce33c1d1b01f150bd0974d4908/tuxrun-0.37.1-py3-none-any.whl#sha256=6e36831ed64796c345136185459faf6a6a0ba6db7c87ba26f71d554a173ce666" data-requires-python="&gt;=3.6" >tuxrun-0.37.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/c8/fb1f84aec8de4f19a5097c08cdb248e7f474405c5b410c36b01b63e22df6/tuxrun-0.37.1.tar.gz#sha256=b56e0c5ce1e6b389b7a47fb0152ac790f32f81e03af4a91bc4ab2ee9f510119b" data-requires-python="&gt;=3.6" >tuxrun-0.37.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/1a/d54d38644718cc71fffc76a626aed49f7e82cf65d6ef627b09f401034b24/tuxrun-0.37.2-py3-none-any.whl#sha256=3f76ffc0b4595709c1a4d4581832cfba3d451dbd7c986e5d02808bb0e2b3cc16" data-requires-python="&gt;=3.6" >tuxrun-0.37.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/e5/e1144433542f9fc09826d7b19f88dc44cc1c078e81803b312adada5ca99a/tuxrun-0.37.2.tar.gz#sha256=1622ba7544d5a01f8b64b4b9a5ed0c1e8e66689515c032d552ef9870aa4b17df" data-requires-python="&gt;=3.6" >tuxrun-0.37.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16317128-->
+<!--SERIAL 17018376-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gamut</title>
   </head>
   <body>
@@ -30,6 +30,44 @@
     <a href="https://files.pythonhosted.org/packages/96/ad/b8273ea3d6558e880895697e06360fbe005d7ab31ed78bc31658dab6d31b/gamut-0.1.8.2.tar.gz#sha256=2a0ea3b624815bbed3d1493ab69cd355ae0efaa8fee95e3a06ebbeadfb2cb094" >gamut-0.1.8.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/41/323a4b320f45474e14f387cf9b52de8027db3a165b051f4acc0118d97a76/gamut-0.1.8.3-py3-none-any.whl#sha256=d4adcee51c247689761629849e706592bba02d7bb9f65c04ee4fde15f067523a" >gamut-0.1.8.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/05/8351cc262effcaebb8891d7e919d54bee3a3cd6d746dc4035a40d3dd8c71/gamut-0.1.8.3.tar.gz#sha256=862d4d44b8be98453f243bf39d164be14926bd09daa89911830d3225411753b1" >gamut-0.1.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/f0/3b7738157be4dc64fbb50f7fd5f0f565d4307cda58b5e7fe6d5daff74f4a/gamut-0.1.8.4-py3-none-any.whl#sha256=05b142e08c63fd4cee621a7c573fc82311bb3849300a041e7a92608fa6456980" >gamut-0.1.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/39/ebd0833d57f2d624638b8a4775fd67fae665c17d25ff603af9a27f21e419/gamut-0.1.8.4.tar.gz#sha256=129f66f6a95ef622ceac1b4aa80605dc11d424a226e9d8fe7926206b10514777" >gamut-0.1.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/4b/5be81632d15a8ee789dd425ba5c3db32a107cd8c394ad42a2c55497cf040/gamut-0.1.8.5-py3-none-any.whl#sha256=dc04684d29a6ac2d9b44996f76f1d70acdf5d844a5d28b6d6d19eed86be7512c" >gamut-0.1.8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/b5/7a254c489cc173404651aa50db1527a7eb4ecfad63005999ffc1b53aef61/gamut-0.1.8.5.tar.gz#sha256=c8b83d59b0ea398a052eaa53abb35fe2cb9b529f991b06c6067e972bbe3e28f6" >gamut-0.1.8.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/2c/0481f2aad359e814d57208766ab615714e8d50890c43186dd6bc29abc2ce/gamut-1.0.0b0-py3-none-any.whl#sha256=787c0270b3ccc4b0a818bbf8af8403506af4c74d78a6822dc99d5f8acb1c75ee" >gamut-1.0.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/60/03b61a08f09ce685e387d036a551b5b5cbad49ce016c2570397b81eb746f/gamut-1.0.0b0.tar.gz#sha256=fbed0e3bf3fddd63424c75bdf78831253effbba19ec128f83b650cbcc1b2ae7f" >gamut-1.0.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/dc/77fb1657475827e042240731b33da2d9e28f23838c475c2d862606fd98f7/gamut-1.0.0-py3-none-any.whl#sha256=31978e2bd7bfd7f1e05673b5728b55f7747feb3f9726ea3ef140649e32cb0571" >gamut-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/60/aedb504094b5e854541e6d361cd35c0efca2b66ab261d7a3c98d30442389/gamut-1.0.0.tar.gz#sha256=45c9a2d4b70bfc5935c447d6838304105b7a6fc64d183177cf12f3215a8f3412" >gamut-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/b3/acb43458a689ac466e601d364444cb4eccd6850a67f4643c621d62f3fb1b/gamut-1.0.1-py3-none-any.whl#sha256=bbdebbea7354b28c7b11217d9e2a51a1e84afdee84f0ab7ec7b6ae29294fc010" >gamut-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/79/7f34663e5753a56853d80e584daab9c62ce50e96a09a908992602849b4cc/gamut-1.0.1.tar.gz#sha256=c0b01657e3bd51b0380933acdb4a976dcd0591557b53fec8d4d825106ef20c8f" >gamut-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/d8/e3334e4f800a8034871cf9be78e18ee1765311b0667188c139887eec9903/gamut-1.0.2-py3-none-any.whl#sha256=8d9e7641230f71ceaf4dbadb5fec43cfcb53b3927e4e48afdc60eafa7c5bd094" >gamut-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/9c/5f2687172cef77a96dadb486786027253f091b714ea0b3c91436d7f9d46c/gamut-1.0.2.tar.gz#sha256=f73da701735d2a31ccf2884d3bf3998f7436af19bfb59f271820f667672cd1e6" >gamut-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/0c/0b7a3ff5d1a1069e311a8ba5a1cccef5bcfc42c0b96139cff208329fbe4d/gamut-1.0.3-py3-none-any.whl#sha256=ad861a3f109c52bea88bcd5bda4379d0b8bd0ab0883564ddf47d867760028889" >gamut-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/b5/788aad53fc01e5c5ae12a71716703a10808687248ae156e9df44e30039c3/gamut-1.0.3.tar.gz#sha256=a1ea029ff49a23117faf430299b4a9e157a508618e09e63996d66a5cbe9c493c" >gamut-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/47/e8e9564c7c06795782590207c79b7fd52d002330aa9a870ca849d4db05ad/gamut-1.0.4-py3-none-any.whl#sha256=a8d7ca9c5e8e1719c1a83a1315c320f0eec4c6f7101c65a0124016b54bec337a" >gamut-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/94/40c04dfde717ee44fd74bb16cb0341fc9b81c6f26160260f22745ab8b170/gamut-1.0.4.tar.gz#sha256=0c48e04b6587896a796e6937fd5d4815c62c8b0e1b2336a4631ba36ecefb26e9" >gamut-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/79/56a494a690663e1caad12998c5fd6a7efa0bfbed032974249d9b8e39c3b7/gamut-1.0.5-py3-none-any.whl#sha256=ce2cec566bb31e42880deb44d21c0795aad542a27eeae503b8028ebba957c1df" >gamut-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/f1/0346947ea579b2c66c3449cbbf65262f0896aa9613a7d75387e69c67d442/gamut-1.0.5.tar.gz#sha256=6bc76bd8591eb699d5713669ab4ea6db3bc6c0486929639d04e296b90ae5c13f" >gamut-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/a6/efd30f4cc27cd3cbffebc97b8f814d9415a03906cf3d6dac134edea71392/gamut-1.0.6-py3-none-any.whl#sha256=7a2291f93adfc3c4c1230b095df636122e2afa9f56a3b8b853997a83d63358dc" >gamut-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/8f/f3eace865e2457024887f0f3ac506afefe0e2d0b7a2ee68f4a4ec7f3f6a8/gamut-1.0.6.tar.gz#sha256=b65ea7b243116eb6d4d4e36c9f1cb2e5c0d6344ae4bc04752da415aee685b9a0" >gamut-1.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/35/38d5ceb7f2e622f896fe1b57d46f9b93e6908b0039ba5188f84a59dbf3b9/gamut-1.0.7-py3-none-any.whl#sha256=32bf2ca694eeb57b6d6bcd82881a70ebec3271de7dc9782e93bb5ed4f6612c81" >gamut-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/ee/5b8b487af8551cde952d3cb721a8891dc2aaffc4fe5d520399c45739b015/gamut-1.0.7.tar.gz#sha256=cbe121dbd77f18bbe846c69330c81d968cd8d2b037efe1cd27d931cff38a2758" >gamut-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/8d/a308cc350e86f4b7d3b6a48851f189ad536a832c6bca2e15c8e2b042ceab/gamut-1.0.8-py3-none-any.whl#sha256=1b2c69cff1a7e42872d6d97524184467c5f80d56016bb2b03b5506c0b1c84361" >gamut-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/c8/65c17fc4e8b836c3de23fcfdc06833fb29fc19fcbf68d9cfe806ba6dc492/gamut-1.0.8.tar.gz#sha256=1aab8da75643727638bcb5ebbfa64cb49ef23ac2ec7c965e74417e77fca1f9eb" >gamut-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/9a/2dab718dd6c64418e0557df84331835f7f5794ed9dc77ea19c7f2f0ab933/gamut-1.0.9-py3-none-any.whl#sha256=1323504cf85a13da275192db21e769cf3d472f517052288d6dbc3e400f4dcc32" >gamut-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/92/2f98814b2dfe6aa7bc41fd97086dfcd7ea7ae30b40081669f9d0e2701036/gamut-1.0.9.tar.gz#sha256=331f0c4fd7eb3c3a164f86b2c5318c626b272d9b4f08f83a9f5c63702df34b8f" >gamut-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/e4/9b29d5fd4cb4b35bff8b14d12f094851d1584f10bed47fe19cce81f31063/gamut-1.0.10.dev0-py3-none-any.whl#sha256=3504e214b14830f08f127e89e230aea6e1ddb0280a0ee7e467691251d5c4ec85" >gamut-1.0.10.dev0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/29/268c7d5ae2ba7c25e226074261da2c32542e0127f8ecf9ce8c5e0ce99e8c/gamut-1.0.10.dev0.tar.gz#sha256=c3c8ae4de84c28d8b4ff3cb0a0778f705021660c876d1749b74217f1e6d17ea3" >gamut-1.0.10.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/72/a018b7fe81c43f4282effbddb183a1d1dbf411e806a6120eeb71bc5c0efd/gamut-1.1.0-py3-none-any.whl#sha256=834403e9c20927c2dbefda5f082ca44292da1244ff40b79d7a5370c287f3b4d7" >gamut-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/76/315990982575928e5546d3b29eb9b99f858a149fac5f320c0e49bf52473f/gamut-1.1.0.tar.gz#sha256=fefa992c5263a36b9dbec8df0fbb50aae12fb0ae10aec76a6ed751d350d0e8b1" >gamut-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/e1/cc95f28fadd6c249be1e515c9b8e947988bb4dfcbbb47ebaab4222ee5622/gamut-1.1.1-py3-none-any.whl#sha256=f62705dd9c75ddf355e989668f9109d30dfc9d618a03e3909c0ad0d07e4e82e6" >gamut-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/8b/f81ffb9d0faefe426d0de1cd6c7357db2d81d270b23ed8953528812f9e5a/gamut-1.1.1.tar.gz#sha256=37dd6247f98ade36475d33addec39fa1eabeea2005666e592d96d9a4a0d7803a" >gamut-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/69/f88b53e41703f819d56f2536a70d2c2a4c3a6e527f4b7d8d79cde4fa15de/gamut-1.1.2-py3-none-any.whl#sha256=d715a018cab874b33116cf7f6e6799373f6d2b64502ac90ff3a022011eb2e105" >gamut-1.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/dc/08302d94efcb36f8a173701a6b3089889381d10f3ae8c04ef6e507f0bfe5/gamut-1.1.2.tar.gz#sha256=adb245be7fa883f9d1f7c92bdeb5d6ab6ee30fc1357848c7ffbca5076b7bf2c3" >gamut-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/5a/1b26c167ded2e307db8b3317a97ed6d043f0c34fc134c3a98d0f9b19fe33/gamut-1.1.3-py3-none-any.whl#sha256=5ebedb96703740968131513971026ca5d027136b2c34ea00433020a3b7ba8c8d" >gamut-1.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/a6/12342d32991cadfa62ae5b217e39401c8a781d12b07c82f321474000dd53/gamut-1.1.3.tar.gz#sha256=482623b9a93ce7b47c57d61dbccf402dc5fbda9f52b2c95cdef9111bbfe25e85" >gamut-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/f5/0f0f1df87f77cb25b586f0c9747b869640235292baa5c392d351882b31ba/gamut-1.1.4-py3-none-any.whl#sha256=3578e7114eae098db1cecf07b3fa92f6638b8a1002234a806373ba2c57f214d3" >gamut-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/42/0cdfde4f3625552b05b717c7721b76b06d404951d29c4986cfb642cdf0b7/gamut-1.1.4.tar.gz#sha256=ceb9ebe402ae5745cd790a8e7e307827715558ebae35c2f2393376ef9b992195" >gamut-1.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15859174-->
+<!--SERIAL 17159431-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for determined</title>
   </head>
   <body>
@@ -344,6 +344,23 @@
     <a href="https://files.pythonhosted.org/packages/d5/84/936eedabd0e4bb1420cad5a38ec1b819576b36977a61d671ed00f5139f48/determined-0.19.9rc2-py3-none-any.whl#sha256=1745f8a9d85b677d9ab05c7c08e510b7b86a1a7b9f56a4ff2c0b8911182924b1" data-requires-python="&gt;=3.6" >determined-0.19.9rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/60/69f09ff8a886837b948e709ea38ee67e27fb47314eab438d4904f49fb1ec/determined-0.19.9rc3-py3-none-any.whl#sha256=248e5efabb433635fdffe3b66f80d9442a7094da27f7e19daf20886669f60789" data-requires-python="&gt;=3.6" >determined-0.19.9rc3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/69/bc992e9f79f88baa731289709e08dd2f7515dec49d12d24605eb9884b5ca/determined-0.19.9-py3-none-any.whl#sha256=82b160f27abb6b5b7b9d1a8a98a3f222e2a20056caa5879c96f2ad2da2bb24bd" data-requires-python="&gt;=3.6" >determined-0.19.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/97/a8a9d57e802a438d9e5e47232f74c4060c4dc3b20513f4b0990c01f8df28/determined-0.19.10rc0-py3-none-any.whl#sha256=481af7ea3f35a53ed653e2384b755d03a071e59a657b24954ef2fb537fbe9ccf" data-requires-python="&gt;=3.6" >determined-0.19.10rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/7a/e937291b035aeb9730900b83332e77290e8f515bde0dfb19f003c27ea206/determined-0.19.10rc1-py3-none-any.whl#sha256=6c0a4429e17d31114da56d8679dce19c47ddf3078aae40ba8d8fa9ea8b31e0fd" data-requires-python="&gt;=3.6" >determined-0.19.10rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/9b/2b3c6e529b5b9b8d5f33f5d6d56cca02c64ee2ec2b2abc3d88aa947531e7/determined-0.19.10-py3-none-any.whl#sha256=41d209813d8fdc9d8cb782ceab5f35164871858306ad2e84ccb8db01664719ac" data-requires-python="&gt;=3.6" >determined-0.19.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/3b/e9541e8f44b53e4c0880b2461910b20a0847afa7480cfa9170121cb7e420/determined-0.19.11rc0-py3-none-any.whl#sha256=42766054594f7c7319c396c8e40639240734b8ad42a5086c0645661cc8b14cbe" data-requires-python="&gt;=3.6" >determined-0.19.11rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/64/d502378e8a19a6d4a01050df2a4e9967381f0b6cf8310fdaf176b87ef749/determined-0.19.11rc1-py3-none-any.whl#sha256=4d83614537a0b51bdc95e9a61bcdf40915bd684aaafbfb40d50b19c877979188" data-requires-python="&gt;=3.6" >determined-0.19.11rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/ad/97887bb8fbe2d8dce63266f1162bbbd03bc16a8de1fb22cfc3e7977a2e15/determined-0.19.11rc2-py3-none-any.whl#sha256=a944ec9e189d6cf148e2eab0fa46c368fe8a59bd0e21b205fc31db88c29587ea" data-requires-python="&gt;=3.6" >determined-0.19.11rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/b2/3a68be3d606bf737fd3882b0cf4811a5a4eb0d94e78920720ebb01eefe18/determined-0.19.11rc3-py3-none-any.whl#sha256=c8ea9dac66443a33aede81a7d8f2f95859a97db06c1ee691ad75c69863bcdaaa" data-requires-python="&gt;=3.6" >determined-0.19.11rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/e1/f17a23a5189216a62e3cacf91f8a6cecbf31a3e509c5b612bc724cc9c602/determined-0.19.11rc4-py3-none-any.whl#sha256=28f5fe915d074931a93bb89dee51bc35969ddbbd3b0031448ce0d4926a11c8f8" data-requires-python="&gt;=3.6" >determined-0.19.11rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/a2/14069a20ef59c4fccb6e1254e259058ffb046560008f9b1321983de6b9cf/determined-0.19.11rc5-py3-none-any.whl#sha256=ea3f0acf5f8960bab788a243e9649b40e21ba81df392c9f296e6447a4ed1512a" data-requires-python="&gt;=3.6" >determined-0.19.11rc5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/a5/a99091921ea4bcc701205d3ae4d588d0c42530d7b6db66059e1bb274314e/determined-0.19.11rc6-py3-none-any.whl#sha256=ffcaf812d9d89cf9c1c2e88cca740d76d9ef0fc935ef808a6a5b3fca732925e8" data-requires-python="&gt;=3.6" >determined-0.19.11rc6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/74/e14501718feac8b5678931de9c7253b54cb22467371e704dcc50a845e461/determined-0.19.11-py3-none-any.whl#sha256=af4ef7cd659792ffd447bf2f1294114bbe6661c759b200ea080bc98c5185a12a" data-requires-python="&gt;=3.6" >determined-0.19.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/f0/976411d4ed753c52c75f1265b6dddc2e7a26d95bd0e31abc854ad3785cb8/determined-0.20.0rc0-py3-none-any.whl#sha256=4fd4036856befca0e38ba0dd190e1e3d094fa6d898d26099a4200dd949a14b33" data-requires-python="&gt;=3.6" >determined-0.20.0rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/4e/842aacbf856535148bb1c608f0c28555eaf67c01ec7e6c635cd138d63223/determined-0.20.0rc1-py3-none-any.whl#sha256=590e99376332ac3149c70ca7f85f539f268ce87c6c5c14b0d533d49a99ea4539" data-requires-python="&gt;=3.6" >determined-0.20.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/90/42c32f47db6815e14ecb4e3d3c52afd9709416d0ba237d4aa962b72ac6ee/determined-0.20.0rc2-py3-none-any.whl#sha256=34f7a979d618c55df631752b4d163744903c5dfdeb3b0e43818d68065ca14b06" data-requires-python="&gt;=3.6" >determined-0.20.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/f7/b336aabe9169483bd89f693c4e91b3b2b4110193e0e998a6ce5e4c728ab6/determined-0.20.0rc3-py3-none-any.whl#sha256=4e0bc2de14bcc9090ffb826cf1a4eb0c7290315f57db64cb856b43f2740930b6" data-requires-python="&gt;=3.6" >determined-0.20.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/d6/ae4c0badfc391c6818730970995d81083808c1c73a91e8d76e83c70f0c48/determined-0.20.0rc4-py3-none-any.whl#sha256=869e19a143714919fc2b6f0e27984cc2bd6f623557074c62c1ec9293d1be84e0" data-requires-python="&gt;=3.6" >determined-0.20.0rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/66/b61519bdcad82bf80cde535a2a34e6135a24e906e1bbb7363f0930d038ab/determined-0.20.0-py3-none-any.whl#sha256=3168564bd05f205e76fe1900e471bd9700f36a34faf55b9f7ab14e7c580ceb28" data-requires-python="&gt;=3.6" >determined-0.20.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16167183-->
+<!--SERIAL 17106145-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for glance</title>
   </head>
   <body>
@@ -86,12 +86,16 @@
     <a href="https://files.pythonhosted.org/packages/4c/51/f8541cae2fe686eb5cd9dcc4547203daf6e150d75734a83fafaf91985761/glance-23.0.0.0rc2.tar.gz#sha256=3d1b51024681a43199b55b07833e9f932bdee2b22c44adc65bee63676fac3b2b" data-requires-python="&gt;=3.6" >glance-23.0.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/32/e8/29a32047294f40cd1269136bb1ae48033fd0c5fb46ae6eb746d21662ab56/glance-23.0.0-py3-none-any.whl#sha256=f060350c1bd3752657fc01f983ff36be65161c4c2c35103d2cc1a490bc96191e" data-requires-python="&gt;=3.6" >glance-23.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/b1/72fc806ebea55bf22d9e996c3bbfaff18298493f4c9cef0005e091c60d96/glance-23.0.0.tar.gz#sha256=b10d13faa662c74533002d8337fc0b6ba9c0e58564a738f05e6a8fd68f648d3f" data-requires-python="&gt;=3.6" >glance-23.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/3c/c52b59949132b98d76968767ebeed7f2a702b7c09f93c4282661d8933ab8/glance-23.1.0-py3-none-any.whl#sha256=f6747c4b4411434bd7c4ede10e898a7824ed170769305d4038fe460a19380eab" data-requires-python="&gt;=3.6" >glance-23.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/92/1ea12f03c2e9f1e78b1c7866b17ae229b1f4dc96bc033e66c9c1485c40ce/glance-23.1.0.tar.gz#sha256=b67155b10cc366f0172ad1ea2456def1ea300d96d370dfd54a5c96ff02126486" data-requires-python="&gt;=3.6" >glance-23.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/b8/7d97568e02b2c69ec55e677030cce3ef3d56f1d8e0923313622c57514dcc/glance-24.0.0.0rc1-py3-none-any.whl#sha256=73f9532ca98ea319b43a788c177e94c7904a9cd99e64df8c6694af8f189c5d15" data-requires-python="&gt;=3.6" >glance-24.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/9e/59d04184fca765d9e5f394bd78da128b5a6e400fb9673a9a3530c8beb89b/glance-24.0.0.0rc1.tar.gz#sha256=260ef17c0bc8900ada9a8fcb70693ae5f088e26261b49f6d643d41ef27219bc8" data-requires-python="&gt;=3.6" >glance-24.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/26/645ac038d776d4df38422cb1a250b957fba977ed7fbc60866a574cfbaa18/glance-24.0.0-py3-none-any.whl#sha256=f5f7581a704cd08ce2e685438164c0ec830c37f670010d1d3d5fef9cc3d78188" data-requires-python="&gt;=3.6" >glance-24.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/d2/72ef593b9c8b0a3ee4bceedb28bbca762a4643511b25b60dfc385c02ff25/glance-24.0.0.tar.gz#sha256=d6edd4941a7ac0c9b280bf975daf25e08fcc192efa05caed35983762fa46374e" data-requires-python="&gt;=3.6" >glance-24.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/61/de/f21d1677ff104ccc03d17dbb7cc84c06463103e5acf21148f326e167e9ec/glance-24.1.0-py3-none-any.whl#sha256=674da0c465ada17309061fe9bd9efbaac47914ffbc81ad9329ebf95983aff2a7" data-requires-python="&gt;=3.6" >glance-24.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/72/23/1997ec5d200620384848ddb2c15c8ea569913bd4cca691d0c1edfdf65056/glance-24.1.0.tar.gz#sha256=c47ba59ecafaba2fdcf01db8f0214a2ede1640c5ca7b852da58d7e1e95881701" data-requires-python="&gt;=3.6" >glance-24.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/80/829488c559c65c54be412ae7f2af173d1de07a75780d20e02eb9ff63d008/glance-24.2.0-py3-none-any.whl#sha256=20284cbf8632fb49c7ebc4d38627c50295e6cc021220213e86444d3b4f6dce74" data-requires-python="&gt;=3.6" >glance-24.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/45/96f57ca1b96828a0d3cf19f3fc7881973cd555b67f3c744a32f362b54d44/glance-24.2.0.tar.gz#sha256=d0a22d82ebe0b94091328f8914be8569208ac505b49570f3b546c060b4f8c3bb" data-requires-python="&gt;=3.6" >glance-24.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/eb/04/b29108243a712455ef320f7922baf8a30227eed92063f6eddaabfadcdee4/glance-25.0.0.0b2-py3-none-any.whl#sha256=45ec548144870cf9d8a179c96852880f90d827d8fe8c92f296b078c341799a34" data-requires-python="&gt;=3.8" >glance-25.0.0.0b2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/ff/29c538d10c3a405624aef4802c7416fe6cd74e06dc9456fa0ee32ea53fa9/glance-25.0.0.0b2.tar.gz#sha256=08994b61fede4ac0df4c55b10229c6abbae9cc3a5fa7bf6541070b4357c1df95" data-requires-python="&gt;=3.8" >glance-25.0.0.0b2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/50/0b/395068c3c35d3db7bc71c957d0211e7adfd8a247a3908023cbb948012abc/glance-25.0.0.0b3-py3-none-any.whl#sha256=3b4b89f4baeff6004e260a6d7448db25b3c386be72785b669c362d007d47d6f4" data-requires-python="&gt;=3.8" >glance-25.0.0.0b3-py3-none-any.whl</a><br />
@@ -100,8 +104,12 @@
     <a href="https://files.pythonhosted.org/packages/81/66/84e1861c06f4dc8fb04efcec9711d31356bb1f12835eabde4b5d57483494/glance-25.0.0.0rc1.tar.gz#sha256=ccdba758791082d1fe6b90a8426644be2f264648071ebae75bbbd35e01cea1e0" data-requires-python="&gt;=3.8" >glance-25.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/78/98/12cf6753caffb15b5be8d9ff13fb75e1fa1ea100d385427edd4a609769f9/glance-25.0.0-py3-none-any.whl#sha256=f42a0d0949bfb27863d153566a1ff349095230c227800bbc894e1eca3efe342c" data-requires-python="&gt;=3.8" >glance-25.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ac/08/15218e2d4169d66304017ba895ba0111657a9bf5bf1742745c2edee495a4/glance-25.0.0.tar.gz#sha256=3311ee657372a990b160ec69da13bbc74ecd61710f450306429dfae6c1f18dbe" data-requires-python="&gt;=3.8" >glance-25.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/4c/da05793d74790ad5e4baa376599599511f3813f550ef2ae30c7312bdae3c/glance-25.1.0-py3-none-any.whl#sha256=d3ce927fda671d454fb1dba833bf76592a378663c6e551de41b13992b3e752a6" data-requires-python="&gt;=3.8" >glance-25.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/17/c6383f003c8aa85c6e0339c84b4d27deeff51c60846de13178e64d4e6138/glance-25.1.0.tar.gz#sha256=c1499fc7a556a908a372e79895d8996f5f0c730a6b377e6c7630c57a9ff5bf53" data-requires-python="&gt;=3.8" >glance-25.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/49/3e7c9a377c1f25169d34675d0ba2febb52b31e5fa347ee4a269ed04f97ce/glance-26.0.0.0b2-py3-none-any.whl#sha256=d85e6654355aaf475af9865c7748f3084a1048f4985949a6263a82abca53eb29" data-requires-python="&gt;=3.8" >glance-26.0.0.0b2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/4b/de0cb65f031dabfec2b981495d69c8b8563cee47a0b2f2197071a7296704/glance-26.0.0.0b2.tar.gz#sha256=b1176ba40905bdb72dd29be2b8200b5e8e518680f0d9753d7efc9d1ee80c83e2" data-requires-python="&gt;=3.8" >glance-26.0.0.0b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/91/c60d0a527a234870165be412fbfc3a012b4feb58d935aba420ac88105b20/glance-26.0.0.0b3-py3-none-any.whl#sha256=9863a3051e959fc46b6677861f14cea7f474782d73090d033ddb2bfe35814231" data-requires-python="&gt;=3.8" >glance-26.0.0.0b3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/64/9a15b689e4bb3b087d057fe76bd5c45de40e972dc7d55b81178fe15e9973/glance-26.0.0.0b3.tar.gz#sha256=d4c63fc6879d7426a835c0038d6f662c138d4466473ca089f0f10ac0f0c7d099" data-requires-python="&gt;=3.8" >glance-26.0.0.0b3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16314229-->
+<!--SERIAL 17017036-->

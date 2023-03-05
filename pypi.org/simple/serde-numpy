@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for serde-numpy</title>
   </head>
   <body>
@@ -11,6 +11,16 @@
     <a href="https://files.pythonhosted.org/packages/93/32/4a48a3b53a25eca2310a8f7e8b1a1a16c99f569f893e2077ff868ed247b0/serde_numpy-0.1.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=aec0bf5c2e196ed1d22cb1dd4ca2015af7263e61c0b9ed4672c7ffa2866528d9" data-requires-python="&gt;=3.7" >serde_numpy-0.1.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/84/22bd30ee62e494c2021e3d0354c3e37132f2dc10efe790fe6fc99de6f11b/serde_numpy-0.1.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=9c85c316596ebbb6273c650e2bc6528270899b65fc5e26554553be2ed35a47b5" data-requires-python="&gt;=3.7" >serde_numpy-0.1.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/53/c4/bde7f27bf35379f1d94207a1b4130341d2589626afee2880279a41aeeb9e/serde_numpy-0.1.0.tar.gz#sha256=79c45c72f28b3288b7449776192331a83e7b2fa81dd88e9915369134aa8b3069" data-requires-python="&gt;=3.7" >serde_numpy-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/72/fa585c7be1466c76fab46921870810ba15a7d89e150d1ec845c9955831f1/serde_numpy-0.2.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=5cad976cf908cdc51065fbf8ce16784c5c2e2c59de6a57f9900af0da030241e8" data-requires-python="&gt;=3.7" >serde_numpy-0.2.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/ce/44c212eca875587da66928086c3bdce71a0e64f4649c0d198bcbe44c7264/serde_numpy-0.2.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=99a88d3c616234628442423ea75b31f96192d3bd5cb4ae2145066cd3ccd0ddbd" data-requires-python="&gt;=3.7" >serde_numpy-0.2.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/1d/07a4442cd772b76173c56a0f8c9ad2f19505dc17e167045382fd07151f65/serde_numpy-0.2.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=3fb2fae6db812764ea558cfc38291e3c126e8d01717d6550f7bda7279cb6235a" data-requires-python="&gt;=3.7" >serde_numpy-0.2.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/56/acbdda2f747cd447fe1a69456d43dd7c0ad5369865fc5c9af5e92c43cf47/serde_numpy-0.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=f010f05f219c861521dbfd89bd4e2e021cf143941a0461e474399e106d75b130" data-requires-python="&gt;=3.7" >serde_numpy-0.2.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/fb/e536bc987f970e6e0915e7dc21a60dbe3580b8d5544b4969f8e500f66ba1/serde_numpy-0.2.0.tar.gz#sha256=ddb5597da0a9e7a8fc2857f118dc7b503c5862a0db704eb345afbf7aa3866d9d" data-requires-python="&gt;=3.7" >serde_numpy-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/95/b20b7e59c924e2c2a64a5ad35b5daf3aabe7248cce8f2de22b7c111ffc89/serde_numpy-0.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=26f10b6b173c22a0b0165980a05a037d5c57b5939e206b88eb0a29e90a69b4c2" data-requires-python="&gt;=3.7" >serde_numpy-0.2.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/a7/5f2eb545133092d1c5ad61bf9e9081b68092f208fa05b2edc61216a3e0da/serde_numpy-0.2.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6d5bacb47146b874d012a4a10c36b5a4315315805ec2873424f0d8f46a1bfc46" data-requires-python="&gt;=3.7" >serde_numpy-0.2.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/3f/46c644070df0f41adb182b37653624e2ebe4098a56bfe6e245cdb683288f/serde_numpy-0.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=eab93a32d697fe0746ec546c95590875cc3edfd35569fc718625874f67d7a2fa" data-requires-python="&gt;=3.7" >serde_numpy-0.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/f4/e4ab9705c9510d2b71b94c88f023625facba5818dbc07e9e2c1daf34d249/serde_numpy-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0e8f0db8d94143e611e00dd6f189d85c24ae3ca86296c68eae4ea30bc4955e48" data-requires-python="&gt;=3.7" >serde_numpy-0.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/a9/0ec1f5f5aef6ef0e23dbcf1b15404aee72c256100ca3ecbb93356affe662/serde_numpy-0.2.1.tar.gz#sha256=f4bcf241bf0b4fe5b3bd3727beffb31fbf89471748a1b924dd37d115e9e76400" data-requires-python="&gt;=3.7" >serde_numpy-0.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14805071-->
+<!--SERIAL 16791860-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for redis-extensions</title>
   </head>
   <body>
@@ -110,10 +110,22 @@
     <a href="https://files.pythonhosted.org/packages/09/ad/a3c6b8ceabf7355aa32158d7700dce97146f13102b6a3cc5449afe1a854b/redis_extensions-4.0.8-py2.py3-none-any.whl#sha256=e09975fd977fbf09a2aeee2108580ea4c6c0d7dceed0fbcbf86196a9d9f6571c" data-requires-python="&gt;=3.6" >redis_extensions-4.0.8-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/46/b00518ee3e085c8e8ca9ba62d0837f750fdbae7dad6364692a5108224a31/redis-extensions-4.0.9.tar.gz#sha256=0b25b84b96342b4d1c72acb1a81d3712b71bf74e7ec054ef538e40dae91f742a" data-requires-python="&gt;=3.6" >redis-extensions-4.0.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/66/e0/e2fb3e5baec8fefefddc5c618e8786b3906fce91a26510abe6694d8cd57a/redis_extensions-4.0.9-py2.py3-none-any.whl#sha256=4ea28d5aa2bddc4af97d370fa5b7e605a3ff690cef77c2aa933964f6868442bb" data-requires-python="&gt;=3.6" >redis_extensions-4.0.9-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/07/4900a24224ac102226220569d1bf9799c85035bc6f4b936d6081aab093fb/redis-extensions-4.0.10.tar.gz#sha256=a0837c345bd8e46f28254f52aae7f78ba199ab0223f99d5f415c964e701ee1cc" data-requires-python="&gt;=3.6" >redis-extensions-4.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/76/c7d3538a06f0ad8d94e83d3e786f13fe79016c386607686e93a6c3234bea/redis_extensions-4.0.10-py2.py3-none-any.whl#sha256=3ccb3001d94b0f6f1614c4cdcac7381c655199e7ef8176b6f8a6e7b5018519b4" data-requires-python="&gt;=3.6" >redis_extensions-4.0.10-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/42/7f269e4210303135d3763d344c5dc95ca57d0b847745dec2147eeb2b5b28/redis-extensions-4.0.11.tar.gz#sha256=5eb6240024ceba54aa4e307335bc802f6e3cf91be1ada149d02eb8423787e520" data-requires-python="&gt;=3.6" >redis-extensions-4.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/d2/ba6b6e01adca44b9435007ea6e760d963dea241fb58f60abc3e5bd7b8e41/redis_extensions-4.0.11-py2.py3-none-any.whl#sha256=9bae90406228002cc0c625f76195a49c6650c6150565b2ec7d162558c2582895" data-requires-python="&gt;=3.6" >redis_extensions-4.0.11-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/9b/6181971cdb59a283d2d6b239de2bf46eb72ea55d26ed7e6a55fc1120e33d/redis-extensions-4.0.12.tar.gz#sha256=74a1f762efe3a0412ba26e3522a4f15e06befc827809995e6d3e36ba8b1f38c3" data-requires-python="&gt;=3.6" >redis-extensions-4.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/40/98345f10839907d58dfd20599cc204edc4c8a4fe3d53d21cc2436c749abe/redis_extensions-4.0.12-py2.py3-none-any.whl#sha256=f9ca760c69888d9a3f83c97e0470c0bb1e31d6d23f6a61dd300d0656b2d46ed8" data-requires-python="&gt;=3.6" >redis_extensions-4.0.12-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/5f/55982fbd4877b4f4b00cc20aa92f751e3b77bd04bf5619738733f0f4fb56/redis-extensions-4.1.0.tar.gz#sha256=6c9a392370544a6d78bc2300d8fd99e099eda70931b65b21f91aaf1e2e8c160b" data-requires-python="&gt;=3.7" >redis-extensions-4.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/22/4d/46d50b5610eab03123a1c66c4a8587fa616a79d0b0fa5373f2c24b7cce92/redis_extensions-4.1.0-py2.py3-none-any.whl#sha256=e6b75f6b04dd49883ebb9d751e5199d63df6bacdb219d68e29e131a2c8275efe" data-requires-python="&gt;=3.7" >redis_extensions-4.1.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/86/5d839b0ec5197df51b2aef616604422504a6778e04715c2aab0083215c62/redis-extensions-4.1.1.tar.gz#sha256=a9d6d6429b8e6b701fe579face48928aa1999fad2a6ab7c088955644d6a700fd" data-requires-python="&gt;=3.7" >redis-extensions-4.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/08/82/7309a3ee29f6e55397df80142d6961f589803f18235da7667709bc0d4424/redis_extensions-4.1.1-py2.py3-none-any.whl#sha256=76d4f2ac6daf5f700b035fdbe0e91b2ad25c68ec7043b9d8e02b825d89995bf3" data-requires-python="&gt;=3.7" >redis_extensions-4.1.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/e4/b1bc3e2753fcc2d8611d60cd19edd5bef14bca44680a5918ea5d92ac4e45/redis-extensions-4.1.3.tar.gz#sha256=c2a5bf3a3f4e6cb2bbfdc13d78a8eeee5f4da48ac0a8daf5b52bd4ad681dd755" data-requires-python="&gt;=3.7" >redis-extensions-4.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/d4/21674150bbd19d31892f2be3097adbdf54cacaedf2dc15da5d960e24392e/redis_extensions-4.1.3-py2.py3-none-any.whl#sha256=ffbee019811ee30bfea846f29b99388f769c3e5193749f7f2d12d6d1e8a08f03" data-requires-python="&gt;=3.7" >redis_extensions-4.1.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/d9/bab7806d74ee7dee6c7df760f39bd9e84a838a47400c63a1a9d2a36ebd48/redis-extensions-4.1.4.tar.gz#sha256=f5240653bc6a5a156eb452db9de3aba49bcc52847c8279e01a4dccf5116c1c74" data-requires-python="&gt;=3.7" >redis-extensions-4.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/46/8840a9508813aec89e65b5c65990de9a8ae744d8933b983a85b6c99c55ed/redis_extensions-4.1.4-py2.py3-none-any.whl#sha256=ec99f75821e208b1d59ecb1c6e27d43664e1f378d1b07c2cd7d1315a5954b81b" data-requires-python="&gt;=3.7" >redis_extensions-4.1.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/df/d777c05250d4d7253004271e8cb070c44f49e7d2427084c789064f555293/redis-extensions-4.1.5.tar.gz#sha256=e464af3937a3c6e789af4120cd688027542789cccd480bfd78316019bdfb0596" data-requires-python="&gt;=3.7" >redis-extensions-4.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/ac/86aa997b7bd187c2d765352bff64237fd5e9fd9f7355c888a0b9e6f78bcf/redis_extensions-4.1.5-py2.py3-none-any.whl#sha256=887246279a1d695541799cadf84dfe7c7a76fd6b52d6572bd887af4185246046" data-requires-python="&gt;=3.7" >redis_extensions-4.1.5-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15520795-->
+<!--SERIAL 16616980-->

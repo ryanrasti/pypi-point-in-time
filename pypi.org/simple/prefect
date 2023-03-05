@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for prefect</title>
   </head>
   <body>
@@ -375,6 +375,26 @@
     <a href="https://files.pythonhosted.org/packages/4f/f5/1fd9f107567b8dc59b7a39d9270ee4fd04dfec9891bad9c1f64f36ddd12b/prefect-2.7.7.tar.gz#sha256=2f2b4e598fbf444abd509a96f912502b08a92d553c3ef7119eb737dee0f209d1" data-requires-python="&gt;=3.7" >prefect-2.7.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/98/e7/c3e08edc7cd0a8e7efd31b7fe78b1019f34d3592e02b665d4dbd45edfdb0/prefect-2.7.8-py3-none-any.whl#sha256=fd2be4b155fdf2f15a176a9b2eca5b65adf67772e6d069b87926f8ff89f4c836" data-requires-python="&gt;=3.7" >prefect-2.7.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/8d/5a64b5b9a55deacafe8d4c74ba582dc4d204826d5609dbf59bc439e81c5f/prefect-2.7.8.tar.gz#sha256=a33614a002c0b02ae7db9c9b0d0a918df674480c7090cb9072afe4666f68cac8" data-requires-python="&gt;=3.7" >prefect-2.7.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/95/6041b0139e16909602a3c245b1b2d3e892c397b55eb0a7cfda6bcf1dfdfb/prefect-2.7.9-py3-none-any.whl#sha256=224cc088de40f5c1af7db2d577e00968821bebae6ba83c3e3ef03d0bf4b5c113" data-requires-python="&gt;=3.7" >prefect-2.7.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/6c/7af9ea9d25fb0ca8da8df43d743afe329c71721cf28089dfabc93edbdb80/prefect-2.7.9.tar.gz#sha256=c76b22dbb3cb76f19b9bab00eaa2a039e1792cf7e06e43bacc2ced2604cd78f3" data-requires-python="&gt;=3.7" >prefect-2.7.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/bc/b0b1df223fdcb9ba131bf5ed467fd68ef5a9a12f12e90da883bcaa9902ff/prefect-2.7.10-py3-none-any.whl#sha256=ad4692d8c7e127fd24b41045fa9ef22123de8fb66fa549db496ea4528ee417e4" data-requires-python="&gt;=3.7" >prefect-2.7.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/b2/3fed56258e7586075f77a4e0bad5b3a71e62e6d37bff9264405306896997/prefect-2.7.10.tar.gz#sha256=f1c5d4396d43c26416e274cafd43e0839dada7cb7647011ca55d977590aac5ef" data-requires-python="&gt;=3.7" >prefect-2.7.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/6c/2c143fdaec2e65c62ee322ab82ec93ad6e0681217935c8854e912ac222e8/prefect-2.7.11-py3-none-any.whl#sha256=48b6e658c058e6c282a360c968199bb72ac2bdfd67c9ef5512a57f34d9994997" data-requires-python="&gt;=3.7" >prefect-2.7.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/f1/36f314a92a17b0368e20c17e2c2a6aa3a7384dbc23b8c29a79d221bae768/prefect-2.7.11.tar.gz#sha256=eb8d7bc2b9a15748215697fffcb21af244b0005c9dbe76260ff8147d1b98ed00" data-requires-python="&gt;=3.7" >prefect-2.7.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/16/9148380176b4af9332aa5cc578976138fc0c0d58cbae8bbafa342342fd3f/prefect-2.7.12-py3-none-any.whl#sha256=a2636cb4690b934202a60cd1693959c1e3c4c1b56bf482db5c851fbcafe5b667" data-requires-python="&gt;=3.7" >prefect-2.7.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/4d/1c0356cc1d9c2e2cc527a7cc44de09718e3d2ffa4c49b9e2e9f3dbfc7d12/prefect-2.7.12.tar.gz#sha256=0d936b02546f4dd37c784ddac8b057b47674124b69ea53af3cd8e069a5794f38" data-requires-python="&gt;=3.7" >prefect-2.7.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/8d/f7ed03e7c9f9e35017fb5c2ef5d43518769b166d3b990778173f21c93638/prefect-2.8.0-py3-none-any.whl#sha256=0b174dcfadde2df60da2ff9ff9ecd95919e6d0e3658c40a10a349fe6fbd2d810" data-requires-python="&gt;=3.7" >prefect-2.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/12/7350118d55b39b7311e58f9f7e3e4f530dc6b5894832c14578e3a2630b04/prefect-2.8.0.tar.gz#sha256=c3d0d7cdc4a1230ee0ad4e7142c88610fca00abc0a05c5ad5f6c7a105fc8a159" data-requires-python="&gt;=3.7" >prefect-2.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/86/04fca2a9949484b61f4288c184da564e2523b82d731f054cdd2381dc6df1/prefect-2.8.1-py3-none-any.whl#sha256=35f7f5c30957711824b62a5d3c9f99d75a0c08947993e8220a3e3d2c9514d07b" data-requires-python="&gt;=3.7" >prefect-2.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/0a/194f42f132cb00dae1972ce6954a145013c6ad958150968d9e71bdf7b940/prefect-2.8.1.tar.gz#sha256=9aec2b54db436a0d8f9a58024a4e2677177df9aca61204720b0dff624b926a6e" data-requires-python="&gt;=3.7" >prefect-2.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/e8/d61db21b036c52ca23dc80b284f7158e102e5a47b0c489e6b8339e518170/prefect-2.8.2-py3-none-any.whl#sha256=6b749aa9132f3b864d28981bc9f9bad572f1162c677d29da149bd987fea76c43" data-requires-python="&gt;=3.7" >prefect-2.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/00/1e03fbcbe6c36dd868a9da82da36b7e9602de7a112f1849b84b9f7a67ff8/prefect-2.8.2.tar.gz#sha256=34304456ee8d7fd26b55db4f2504fd704405fb873d1069a4850983e96a53f656" data-requires-python="&gt;=3.7" >prefect-2.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/cc/6fddb3835d1d3782bdc95560c8041a178101ebda1f927c0d716889591ebb/prefect-2.8.3-py3-none-any.whl#sha256=44e678818ca69917e7c22ca7c0053a48a89c379887c60470ad5ac86e8eede012" data-requires-python="&gt;=3.7" >prefect-2.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/12/6df7d991cf60ba761edc2ba21567dfce126d024400d5b2f7fb71f7f28a47/prefect-2.8.3.tar.gz#sha256=9abe382ac37305ddf28d256c488771505db402617ef478a6faa9d0f9fed74ff7" data-requires-python="&gt;=3.7" >prefect-2.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/72/b086802a678179bfc42c95cf0c50ba51b3a5f455472ba40b959e95f7d6c3/prefect-2.8.4-py3-none-any.whl#sha256=8a1fb10ed0bc3130f55db8b726eade73a561fc2436bcc5b64c2be7fa630c7830" data-requires-python="&gt;=3.7" >prefect-2.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/5b/8ac892496a4d1a53dd582a57fb6eabc4939568601f07c0afa21a2c67478d/prefect-2.8.4.tar.gz#sha256=2e4803dc9bd7004822ef406edcbf148b82a4e08184f85a21ff18f9b8fc4fda94" data-requires-python="&gt;=3.7" >prefect-2.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/e3/4ac0b6e214e4fb315d2032e176eaa33c175e29ff182fe48ac1cabccb30bc/prefect-2.82-py3-none-any.whl#sha256=5925bf53ed97cd41bd4acd5ca946d82afed8260e24f90e4452cb60bca567524b" data-requires-python="&gt;=3.7" data-yanked="Version number was supposed to be &#34;2.8.2&#34;" >prefect-2.82-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/bd/9580e89a911969805904dd984258f2250f96726fbb91373970a41c36aab3/prefect-2.82.tar.gz#sha256=58577748f6ea4eb28508946fb054597afee148668b83723516a2a830188635ec" data-requires-python="&gt;=3.7" data-yanked="Version number was supposed to be &#34;2.8.2&#34;" >prefect-2.82.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16408456-->
+<!--SERIAL 17132960-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mariadb</title>
   </head>
   <body>
@@ -276,6 +276,17 @@
     <a href="https://files.pythonhosted.org/packages/5c/73/f8f2ca4f7f72bd5f16687d458a6517fddee8132b96e8ac5ccb21be090aa9/mariadb-1.1.5.post3-cp39-cp39-win32.whl#sha256=fa5f0f42bfb87013f179f9c3bc3deefa13398cae1e027a869b367db9dc8dd285" data-requires-python="&gt;=3.7" >mariadb-1.1.5.post3-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/96/9392491add849c49953e172e0405b929a4f99877466967e722b9abdb0647/mariadb-1.1.5.post3-cp39-cp39-win_amd64.whl#sha256=0f805d6e5406318438df4923cc01bea80cfdddeee5f53dd22057b94f75391545" data-requires-python="&gt;=3.7" >mariadb-1.1.5.post3-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/14/f17f00028c553f3411a4825dfdd3d949479fb1a2c1eddedf76f723d17828/mariadb-1.1.5.post3.tar.gz#sha256=f9336dd4cb3207e621933bb5221f33fac0d7184db64dc44c70531430f4ecdcee" data-requires-python="&gt;=3.7" >mariadb-1.1.5.post3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/ae/8331a9c1f1744ca6ce379f26cdf8bce6bd6413b02f291b771245783fd200/mariadb-1.1.6-cp310-cp310-win32.whl#sha256=b8db1d71c914de000953b8b7d3554838593db97a144075ea52bc439b85d1ec64" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/31/2bb2e90d0a7d5186936e0ac6ad56d30150bcbdc5a7fe0cb37e2d5486da17/mariadb-1.1.6-cp310-cp310-win_amd64.whl#sha256=876b40420fb0d897c928e8f486deb419631464972cb19b9e0ca0206a57944bef" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/c0/658ac03488984ac5c0a65e3baf4159768683a8845795912780773496efce/mariadb-1.1.6-cp311-cp311-win32.whl#sha256=f18f26b67fe4bbd57212cd42593b1a43206f758353cfe400983ee23542bed2c5" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp311-cp311-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/02/48c8b47ee3d1aa69f47c3745f92dc5c15f440cc4e987e6636e8763f00238/mariadb-1.1.6-cp311-cp311-win_amd64.whl#sha256=95e2bc091b05ab16a2cf0083a927670bc99b813dfd35cec989e6f2f6c7c60a27" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/63/e76fdea7b045f03fc6fe282506b8a4707f3b08ad54e00187593d295a416f/mariadb-1.1.6-cp37-cp37m-win32.whl#sha256=979005321961b62a0a84bfb8046784a473ce390dff8c97fe362ac21f1d3e6b26" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp37-cp37m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/9d/bddd56bfd22bae6d2766ce04611390b51f959bbb78d361a85be23099aa45/mariadb-1.1.6-cp37-cp37m-win_amd64.whl#sha256=ffd7bc78f3b408f2074d804f3834ef8343e32df935549623c8e67938ac4be146" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/93/0680246335ba4aa82f4de19f68563576a0362e3681479d268cab12075231/mariadb-1.1.6-cp38-cp38-win32.whl#sha256=9928ffc43a582d0c44f25d2e7096cf97d049d02a76fcd24e67d4527db13b5af0" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/53/f4f1cdf5cc1bd00cca0474efaabb0b5a4b381e3b6c48fbb6898894f5875d/mariadb-1.1.6-cp38-cp38-win_amd64.whl#sha256=bc8195c1dd5510730126b7d76a69bab1450dcb7690edffafc891a7f1e848a33e" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/78/3ca388cf447ca9334f106dfa54bdfaefcd8c859fa4466687d6f58057a64a/mariadb-1.1.6-cp39-cp39-win32.whl#sha256=cb4af75855e6d33824472e692220b67064b43df6f9b441c385463cb851509d78" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/c5/016050f89412568b8c6952f9559809f5724792d1c0daa9b40ee7d4fc7486/mariadb-1.1.6-cp39-cp39-win_amd64.whl#sha256=34d73bcc7d159c86b2c0d7041880f609eaf32d876c3d06534a677b05d99c905d" data-requires-python="&gt;=3.7" >mariadb-1.1.6-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/f4/b93c582407689432927959c452321eb50ff027e878b09506b5a070bcd3f0/mariadb-1.1.6.tar.gz#sha256=af17a7eb29d24e9ac00f323909c4ba0c47f643ee4b7b890a158cb855ec866454" data-requires-python="&gt;=3.7" >mariadb-1.1.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15839055-->
+<!--SERIAL 16960947-->

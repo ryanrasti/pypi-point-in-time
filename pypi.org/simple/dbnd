@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dbnd</title>
   </head>
   <body>
@@ -1075,6 +1075,12 @@
     <a href="https://files.pythonhosted.org/packages/da/82/9d30072a63f1fa245d936f041f421d38d68e13aa0fb09a1031937b21d446/dbnd-1.0.9.1.tar.gz#sha256=fc8d92151b08144405346bfec14368a1d1e0b580d794d26d5084f376a14d84c0" data-requires-python="&gt;=3.6, &lt;=3.10" >dbnd-1.0.9.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/32/27/668199ebd2fb2a790b0a2314928f4301d8cbfe00aa746d6d57d15693c130/dbnd-1.0.11.1-py2.py3-none-any.whl#sha256=9af189adebac5f1602dcc16103c57222f831f36290b7582a8a92244aa813f1cd" data-requires-python="&gt;=3.6, &lt;=3.10" >dbnd-1.0.11.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/34/26/7e3b7dd7e5999a6217f6d570bb316e7ecb86ada1012787dd9d6498e9b427/dbnd-1.0.11.1.tar.gz#sha256=9de29218ded1dae02710ed6c96600d95d1c15b07736bf7f5d045ed1482a39b70" data-requires-python="&gt;=3.6, &lt;=3.10" >dbnd-1.0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/a1/684efc9b6ad9d60f6cafabb8aba663a29f6e5341c77a15aa47394cc6a135/dbnd-1.0.12.1-py2.py3-none-any.whl#sha256=79d1353cccd9301de72a8fb708a1ad909ad7a185cbb3b48b0273bd9f09511f52" data-requires-python="&gt;=3.6, &lt;3.11" data-yanked="Breaking change" >dbnd-1.0.12.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/47/3e3f3695613be9612052c07743ca9485c649e4f04b052ecdc77d33eb283c/dbnd-1.0.12.1.tar.gz#sha256=ed037a83c4d44cfda0579c9fb1d0213bab2909a1a1ae6c9a2ab27ba3743275fb" data-requires-python="&gt;=3.6, &lt;3.11" data-yanked="Breaking change" >dbnd-1.0.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/1b/4a1ff016d1afcf571f1aff52bcf24451ef49e1193060b972a5e6c0a46386/dbnd-1.0.12.2-py2.py3-none-any.whl#sha256=e70f1ad60c1d0aaea7c649e566820e8e874e87ebaa45947daf08172dbde313c0" data-requires-python="&gt;=3.6, &lt;3.11" >dbnd-1.0.12.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/c7/10caaae20cca946fef435704adf57909114695d7d0e711cb9f66e4db6055/dbnd-1.0.12.2.tar.gz#sha256=9eae47a2543e9b4ce04c88462df7a944a905b7545697aa184538debbf2311eda" data-requires-python="&gt;=3.6, &lt;3.11" >dbnd-1.0.12.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/ba/ab4cec5c0d769ebe12d0cc1e589f17a723e4d2dce76318b5e66ec0f1bc62/dbnd-1.0.12.3-py2.py3-none-any.whl#sha256=4111ed6a5b6bee3dfda76b9256f96d634e7b33b95ece1ef23a52a938272abfca" data-requires-python="&gt;=3.6, &lt;3.11" >dbnd-1.0.12.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/ea/fddf044fc511877642a73c9941eb773d76f3d5a1fa584cf9d1306f869829/dbnd-1.0.12.3.tar.gz#sha256=7ed326a627c4efd146632e628d0f8e68cdaa0dff71c3f9f15cb3c4abb4010615" data-requires-python="&gt;=3.6, &lt;3.11" >dbnd-1.0.12.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16163429-->
+<!--SERIAL 16890976-->

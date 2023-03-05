@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-shell</title>
   </head>
   <body>
@@ -704,8 +704,32 @@
     <a href="https://files.pythonhosted.org/packages/e9/b2/79fd9cef07f749468d44efc9cb27e40b141ac5a5c99fbbb3880886fc72f9/dagster_shell-0.17.9-py3-none-any.whl#sha256=e53a12e95bca16535ee12f94681eb9df31625d2469c48ce4baae4cc22353fc10" >dagster_shell-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/e5/0a74a98bb2ab6e9527b66f4e705c13e7ea13dfac08bd8d5f02da86b20434/dagster-shell-0.17.10.tar.gz#sha256=d1139c0dea0446d38fbb2a37fda39c54f15a0e911a27982fe112f6c63309abb1" >dagster-shell-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8a/0c/3c855d560e0000410e86ddc96d400ff809fd3cd42ff2151bcbe4512ce1a4/dagster_shell-0.17.10-py3-none-any.whl#sha256=91b2961b2f0579ee297f6f9b42594fc4a5968a83d449a69bac0a5101e18452ab" >dagster_shell-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/f6/68b02cd50581cc72441931e3087f1535e28834542fe51f66f0b663489415/dagster-shell-0.17.11.tar.gz#sha256=c642a4e6ab8710e9309b70af05614d9811eb7591f66530722fcaef8994a7e53b" >dagster-shell-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/c9/3ac9836214773a75f9ad57fd9fc71458121c0493f4ca66546da11654beef/dagster_shell-0.17.11-py3-none-any.whl#sha256=9017101eba4ab7fe2b0df892ccd47623bd69695f25b88896ae4e6e11e54c1339" >dagster_shell-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/11/17987c35019371db9f540d5651417847efdd62a203c0674d911e1f4b9014/dagster-shell-0.17.12.tar.gz#sha256=e630785b9dd6a4d19a8898939e5b3dfadb6b2d3d223f65e0f658b26eb4f8bb93" >dagster-shell-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/ad/c0a1f2f21cbed2b2061d7706112073d90beb65a1676fd8564859e0a4fab7/dagster_shell-0.17.12-py3-none-any.whl#sha256=767cd1d8e3b20c1a98780d0c2f83a3f81354e2fa658c072795aa3c36a9a2a9e9" >dagster_shell-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/8c/f634b453cafebb8bd586c5f99d867e700e847e1690b00119f3878d86b1ef/dagster-shell-0.17.13.tar.gz#sha256=6007883af4172113844c010a3038e746b7eb30667f585e20d827807f6ff77583" >dagster-shell-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/8a/899730b0880d626c92e61f4cfb717779d3458d590263d8da22178d35f2bd/dagster_shell-0.17.13-py3-none-any.whl#sha256=cab86be51b9860d6490f226b6902cc9a4520c942d62b39c783dcf777367819b8" >dagster_shell-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/48/5a390ab54b72054ea51ea2cb93a4b3e836f8124727e4b1a5ea8c8e9b2818/dagster-shell-0.17.14.tar.gz#sha256=3839109316e4b6f68ae5e2c09081d46b1c288e713b3dad90a08b4625d34c071e" >dagster-shell-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/08/244bac6a04eb4d1315011eb11141f9d9a81e44d3a6b7e9727629a37d2564/dagster_shell-0.17.14-py3-none-any.whl#sha256=691dcb07e2181f2e7b81ee8f83c90a97a988a1c3c8a91ab8ca6e1fc21ff62f92" >dagster_shell-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/f9/ccf769a35383bc7a2252903f0902d2ff42189b9a9855ee3efe118e3728eb/dagster-shell-0.17.15.tar.gz#sha256=942b1c233aac8632c62baaa9bff5af39d0f64ddb34dc259bcc41f2e2525156a0" >dagster-shell-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/da/e38e1ae41b06ac52a9fa4928e7a954aa36228d156eeab616803975555e68/dagster_shell-0.17.15-py3-none-any.whl#sha256=c35fa50eaa2c034d13eb7eb7e58f1a56b52fa12e0d10aae0899344dee26e6960" >dagster_shell-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/bc/5c43a46c5f4aa45727030885f1844294fa57b1380b2c3285027d14fa17bb/dagster-shell-0.17.16.tar.gz#sha256=b6ff9526e2c2aaf25a6bbf74caf1d4e506e8d1bf379c255fc19285cf99a20e41" data-yanked="" >dagster-shell-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/f8/20944cfe8fd7a7eb1b7a7ff47a47a6cb758f6bbcbb8b507637a85150ca44/dagster_shell-0.17.16-py3-none-any.whl#sha256=f89f4e92c39bc2e67c035f45645ed843995045561e3979107bf41f17d1b7de95" data-yanked="" >dagster_shell-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/af/4653c8cf54c5e0ef7cd8c4fd3b136c498de013d2aad17f6c8eb1fde1d7cf/dagster-shell-0.17.17rc0.tar.gz#sha256=bfd0fdc5e8ed498cda8a09f65812e50708ecb9202cb5d16aff69e1c0c4fc5282" >dagster-shell-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/7a/5033ab39996388c968864e23f39ba85be36ab8df0259e234ecbfe6a02dbf/dagster_shell-0.17.17rc0-py3-none-any.whl#sha256=7cee36afc3346e215819d520b06f078300486bfa51da170b6b1329a036e33cf7" >dagster_shell-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/17/3ef967bf66faad2946fcb85cb3cb17a4e033c7a2901e6313dbf6a3afa015/dagster-shell-0.17.17.tar.gz#sha256=5f1be8902b7f7764a51bc21ca8bfddea57d708ddfef38ef960ee1108d3d842f6" >dagster-shell-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/cb/4669641ead841a0ecb8aa8840db367dd678b25480021b4fe9621a95ff19f/dagster_shell-0.17.17-py3-none-any.whl#sha256=4e07582eb065b50856c4c072a979b3bb9205dab51cfa7224fe60d5aab5cbf394" >dagster_shell-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/bc/b4472e5faf69a5646692096bb4c694a890dd325c9e16b9488f990dc61b7b/dagster-shell-0.17.18.tar.gz#sha256=dfe82711a88d9fe19cc09e6497feec01881015a2f3003e16c8b80d8da981452e" >dagster-shell-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/d3/237e731fc5e100c7113ee762dd3133131feef8dced909a03fe7ed9872a9a/dagster_shell-0.17.18-py3-none-any.whl#sha256=347b318ed4215ac306ace2fa796975de1a08a8c35774c91fdbd83eaa5717b6f7" >dagster_shell-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/18/5f566a78fdbec4a06a0bf483122e005fabe59ec1bd64314d2daf22281de0/dagster-shell-0.17.19.tar.gz#sha256=93d9d3cb72124ce935fded1ea780a9d74ff3b63b53ede6c1aa29926ecaf8d150" >dagster-shell-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/15/6e8e46a74dac9c8cf43936df11cc2678f371c02b008156fbed86c42f1e76/dagster_shell-0.17.19-py3-none-any.whl#sha256=2851f3a9c9e154eb71b6550bcf955175a8236917971a98ffbf8358bbddc4b2ce" >dagster_shell-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/8a/03de96fcb5814cea2cb0bc8cce7cae90f8620b459e496c10b3500bbaf1b9/dagster-shell-0.17.20.tar.gz#sha256=5829451f9e2331154754a6bbd1f03679de033bb2da305c8fb74d4fa68565d0ec" >dagster-shell-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/16/c5ebaa53c7c5b450196437b33ccd9ce95933d648962ee5f0677a65d33ccd/dagster_shell-0.17.20-py3-none-any.whl#sha256=b9be7dd85468a7b1e972d99b42081807d9bc6c26b843b9335c6b452432b7b4cb" >dagster_shell-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/2a/7b38233ebaf92c60f7c1dc3848d4415e5ba7f91dd7970a190fc2781b95c8/dagster-shell-0.17.21.tar.gz#sha256=99ae5eee5b706cb5b667e20114995209dcfbf71018f40b021c1a49f8a398d91a" >dagster-shell-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/a0/e51f38dedf5c1bdf2aa90904035feac6f10260f253d71f895e446b15c0c2/dagster_shell-0.17.21-py3-none-any.whl#sha256=2a7a97d54be11ff801a4cc68b3f1699c9f155b205cbc1fbc5de07594dc5d378c" >dagster_shell-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/5e/c71a8abb77c93f9805643d494830a75318b986c4842c0283ff75422e3d62/dagster-shell-1.0.5.tar.gz#sha256=b99e2946d5ad5eead07b0149442d1a3e898315067bce18820d6218c664c868f8" data-yanked="" >dagster-shell-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/e0/0bad1ad5a6a0f494c5ddbaee41b3ba3a1677a41917704226c961c1151b32/dagster_shell-1.0.5-py3-none-any.whl#sha256=9bc21d92cc5a44ab8bdb9153c39eeccd1847a8ceb3127af20a6a5758bc62b48d" data-yanked="" >dagster_shell-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408611-->
+<!--SERIAL 17135789-->

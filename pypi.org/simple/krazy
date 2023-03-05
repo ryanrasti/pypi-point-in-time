@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for krazy</title>
   </head>
   <body>
@@ -55,6 +55,18 @@
     <a href="https://files.pythonhosted.org/packages/25/08/d91aa50305714971c6d3e783bd08c6ceea1b3fe3657b911f28d97a312b4a/krazy-0.21.4.tar.gz#sha256=29c0d92c1f819506482421a5eedc66078a7fd5f6c381ca4e5b2c47e0312af571" data-requires-python="&gt;=3.9.5" >krazy-0.21.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/bd/cd5bf32429b09d42fe4746204895861f9759badfe93b0649388e8be87021/krazy-0.21.5-py3-none-any.whl#sha256=adeed0472e26ab67b5e831adbfade3132780e4fde6d884281bb28ee32396f6d3" data-requires-python="&gt;=3.9.5" >krazy-0.21.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/be/83/d2596ab796cf5b0a6b108f37f87bf409d7dfccc28d4532fe2d3ed5d52867/krazy-0.21.5.tar.gz#sha256=3da0508bbfb5c6c5f13c3cad222198d2cedb061b0ca7098dcb54b5575b77fbd2" data-requires-python="&gt;=3.9.5" >krazy-0.21.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/5c/a4663d8f3ca1cca99d96a7291b5c2adef1a9c2ac3f3e30c9b271454a7e28/krazy-0.21.7-py3-none-any.whl#sha256=8c08fdff3bdfcc86f213e8b52d83e2e474905234379112761a928fd8bfcc4f59" data-requires-python="&gt;=3.9.5" >krazy-0.21.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/2e/59bc9d74723a345b9c4d353e183b3a3b5d3b98ec48da6b92d96ee8e95aa6/krazy-0.21.7.tar.gz#sha256=8f472e30e0acb511a8ccb6c687dee7fc6962154c2273123828f5bf61ab208408" data-requires-python="&gt;=3.9.5" >krazy-0.21.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/38/ebc46bedde93b54933d86082a674781ee99599734837bd30ca7ac1fc04ea/krazy-0.21.8-py3-none-any.whl#sha256=eeb6e9accc4450758752ac64a9a6f5d320ad8138eb11a489f48ae45e7af5f7be" data-requires-python="&gt;=3.9.5" >krazy-0.21.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/e3/da5b74137f1ba2fcd6a648cb62d1621cd1cc952635b5775676fb38016d03/krazy-0.21.8.tar.gz#sha256=f0545662fe03751068fa180f2462d842e617df534e0a0688d4cf509be90b68fa" data-requires-python="&gt;=3.9.5" >krazy-0.21.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/54/8f8f628e01041334d587f337a7f9bfac5e23c468224d28c889c337ddedcb/krazy-0.21.9-py3-none-any.whl#sha256=02f5bf351ec88a8065344db0d02d0b1c6f44fb7b36f3a833dd4aa8b224c53c74" data-requires-python="&gt;=3.9.5" >krazy-0.21.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/6b/8fc2f8abae195375f3d8de5940c32030097f97ee4301e028b3b718b97153/krazy-0.21.9.tar.gz#sha256=5ed585f5fffe3f4ab18e336d5dd745e62921f6cd43786da0d9181185d8f821d5" data-requires-python="&gt;=3.9.5" >krazy-0.21.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/8e/40369ffdde06a730e04d8c7803516857828cc7a774d7ca2a2f21a554e3c9/krazy-0.21.10-py3-none-any.whl#sha256=7a542661136b1501879a08e6ab8dd738f5a2e6dfb1c47ea5e1c07ee3c20fbe32" data-requires-python="&gt;=3.9.5" >krazy-0.21.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/be/74a43bef6367fd4134fe1178ce65a6ceae5e0984bf1da05bce95ea052485/krazy-0.21.10.tar.gz#sha256=63c866628b10c6e3bdd5b019d0b36298eb57a5d9093d31c58a48965cb8cb0567" data-requires-python="&gt;=3.9.5" >krazy-0.21.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/cb/295543a9e87729192ab5163da90914808ddd6d6f1345927e37dd0daa328b/krazy-0.21.11-py3-none-any.whl#sha256=4a43656caa9469b47693e81158cd34421fec0d74016379deb4577d66e14492a5" data-requires-python="&gt;=3.9.5" >krazy-0.21.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/f3/5602eb0327c1c3b2cfb2903175063418d8f3a41db191d7d0c63e12f7f0eb/krazy-0.21.11.tar.gz#sha256=9c05ebe0bff7081a2e47a3a3a1e40674490a7200e6e0a5432871da0b8834f715" data-requires-python="&gt;=3.9.5" >krazy-0.21.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/c0/3a0b9eeff2f468d8f24c81169d2bdb07ebf0ec596e9bbdbd1d2da25f27c7/krazy-0.21.12-py3-none-any.whl#sha256=1bad3dbac407e0a470e4a951d77d78bdade6b6f76d7c6816152d899d804ade73" data-requires-python="&gt;=3.9.5" >krazy-0.21.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/35/f6218daeb7a1eb0cc3e019ff0700bf4d3f8511835a42b321485e346fd389/krazy-0.21.12.tar.gz#sha256=4a9015f5856b391db129eb9bb5204be61d58b309fc1543e05b0e55c71b1a2510" data-requires-python="&gt;=3.9.5" >krazy-0.21.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16427125-->
+<!--SERIAL 16808728-->

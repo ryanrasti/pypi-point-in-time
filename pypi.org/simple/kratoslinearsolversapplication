@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kratoslinearsolversapplication</title>
   </head>
   <body>
@@ -112,6 +112,14 @@
     <a href="https://files.pythonhosted.org/packages/71/33/1e954d4d5a0df97a676ed49df7d89a4972f717cde82be4620cfd5a4cde30/KratosLinearSolversApplication-9.2.2-cp37-cp37m-win_amd64.whl#sha256=47b688bc05b352b9fe93eb85971eee78f720a949978b5ffe737843a15f549538" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.2.2-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/04/1f/54529e7be7aa76031cb8f5a4db0884eab74f95d805f9c0973850d1bc75ef/KratosLinearSolversApplication-9.2.2-cp38-cp38-win_amd64.whl#sha256=eb74c668d941a27650252f1ede6065199685866efb12d1d45269f59880153976" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.2.2-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/24/44/2f10761aeb9f6b6ae183f85f7333a17344608a8be4b33c3089af20c1d2ad/KratosLinearSolversApplication-9.2.2-cp39-cp39-win_amd64.whl#sha256=ff491815a3ab07f3d321f06be2693a3dcdf758e02d5d3a5a13ada41fedfb0b08" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/6b/c25fefd78a3712bcfc4310af134dfb363daf05324b37775ec62f038f9941/KratosLinearSolversApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=deaa2148d655b7f532932157669c21887554f71d10ca7f30795d596dd44c85cb" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/08/341dc704eca4f8742b8810b8e57117af90e36d2f1237bb206afe57a16944/KratosLinearSolversApplication-9.3-cp310-cp310-win_amd64.whl#sha256=da8cb1e639cd9113d22dba7a94dce34b0185f115a0942317dbec57f5357e085d" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/d1/5238a03dd2e4680d12aa491949ad2c9e801350dfc316c447b70032f43381/KratosLinearSolversApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fef2f9ff6232398ff9f16445fce77e9955102e3556103ec686c19e713ee3c81d" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/1d/233b762c330975b9354623c0404b80a882cd81b11ccbc02f4da3e433f347/KratosLinearSolversApplication-9.3-cp311-cp311-win_amd64.whl#sha256=68403b11d5afb9d445b05446f9111277378f54be2c0ac2bc018f81e3fd7a262c" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/ed/a05b206d9019b5ab39a5a616e7179d5f7fb35db78a06fac20a8f1fbe899d/KratosLinearSolversApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e61e9e7529780d3d2d48c4dd84c2afe57e95aa1e703f8d3a1453e81efe6ca348" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/f2/b0331dbd5e4d289351d2276f701c1839481d66f1ab5bd18ffbd86feb458e/KratosLinearSolversApplication-9.3-cp38-cp38-win_amd64.whl#sha256=85b52289e71594f7e549b912ea0fdcfef5a7c1a82830adadd83e2a59d27d544f" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/4a/9f7c3638d10208609b50ab452eb32523488ac2180c1ad988fbc08d2e0e54/KratosLinearSolversApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8c20e7f317b370e9b29d8ad89ed30cf25f1641c7a45f57367f95324e8eff12b3" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/3d/8de0965fda2221e8193b63dd03cb80d4d0e439a97a6494e3e298574f1985/KratosLinearSolversApplication-9.3-cp39-cp39-win_amd64.whl#sha256=16f8bb77da11058265911ae32a8d714d02f63d06444d1b3fd4650ac36ce83aea" data-requires-python="&gt;=3.6" >KratosLinearSolversApplication-9.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15413858-->
+<!--SERIAL 17063865-->

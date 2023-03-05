@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pydatafabric</title>
   </head>
   <body>
@@ -76,6 +76,16 @@
     <a href="https://files.pythonhosted.org/packages/d9/bb/95855413f6d95935af7892d67ccfc3bc92a6586757363b44866ab35505b1/pydatafabric-0.4.15.tar.gz#sha256=22eeb40cbfcb6e57f8e162288f808695c1d7312ecf69a6e84b1a7a813e5de643" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.15.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/df/7cfebb93709aae7c74697f689f02bc5f3804867a776bdcdcdfaa90a275cb/pydatafabric-0.4.17-py3-none-any.whl#sha256=fc449b3fa491d7eb4795e2928495ec829241154453e1fe1b02926ab8e63f40d6" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.17-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/98/e2/ca684cd92d94e9c796ae09aecb0dd614c426305442ff7acdd3e827fd4e73/pydatafabric-0.4.17.tar.gz#sha256=156ca1b7edbfd5f7a004ba904cbdf76f406ca5e52d543105bad21a2a8a44195e" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/c8/4ef3498232b12cc069ab91d072ad0b2cb52245a9d708e0d06118ae6d883f/pydatafabric-0.4.18-py3-none-any.whl#sha256=2830811eb23cffc5a85b9acdfb3a17d8c98633375153c18e4d7bc1a816c846b3" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/e2/8f130f1dc8fac9e6fe4611ab80735cf2843240ba9775ae708b997b393f75/pydatafabric-0.4.18.tar.gz#sha256=50cb0857b96c98b29ec718468d98b5c3b46675b12a7f5ebafc709c0ff2f89f09" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/9c/78705abdebbc89e269aa649335da048ab0ba140abc7877de02bd7a1f1a74/pydatafabric-0.4.19-py3-none-any.whl#sha256=0027e948b9545a76e04ebc6e9e41e46f624d526ddf1390bc9407fcdb8f46a386" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/9e/45430112cde1d3169e255ceb8343f6c8a1ced3856d5d462ea4197fce8649/pydatafabric-0.4.19.tar.gz#sha256=a9da3e77775c3eeea53232d8b80e26f518d0d3edd1f387fa0824ca7a868ba66c" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/07/3c6be5e382a202afa2d6e605120d21e9448d941acb0ab9fb9e9eeaed5cdd/pydatafabric-0.4.22-py3-none-any.whl#sha256=a01a4a56667b906c52f0caaaca86b9be9d01b3451017dce15fff4996596f2fb5" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/65/ab4a3aad7acdd3bd44b80b26fe26e397321319cbaa49cbe3574dda41f827/pydatafabric-0.4.22.tar.gz#sha256=5601c823eee0a25bbac329121bce547e82fec34f27d70bd76982cb4d6f175555" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/ec/74a6cb2c83c9af630453561d2f849008b9b4c196daaeb0b9d93340e6c95f/pydatafabric-0.4.25-py3-none-any.whl#sha256=a71f9a3e7970e1838f71b72dae69f269e263a5bfc1f99b113f7c7dd553dd6233" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/54/b6181b83a6f987e06a9dc8284c9fcbff2db07e8475f83ac1d2205acc5ef6/pydatafabric-0.4.25.tar.gz#sha256=081456cccd994669a254ce7f0004acfb409744af5d5d2eef0af25e3116ecb1bf" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/63/bc4c3960d2d6fc1b1bcca3a85f804692e1400148121e1df97a95917a6aaf/pydatafabric-0.4.26-py3-none-any.whl#sha256=f36538efc6d0d46cb27f50ec5bc51a3e0e6da483c670f3f61297c15785c6fca8" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/04/9546bc5c08d7acc7be20691a4ec0e7d9795f88aea9fc3c382a5f5a853da8/pydatafabric-0.4.26.tar.gz#sha256=4014c70184a6dca58ef95373cf34094edbd77515150efc583584a70228c8b195" data-requires-python="&gt;=3.8,&lt;3.11" >pydatafabric-0.4.26.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15469805-->
+<!--SERIAL 17079420-->

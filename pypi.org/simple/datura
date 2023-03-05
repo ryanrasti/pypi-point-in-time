@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for datura</title>
   </head>
   <body>
@@ -26,6 +26,18 @@
     <a href="https://files.pythonhosted.org/packages/06/18/730300279c712622051ca6df299199e53ff0096acf8f3278afa572c394aa/datura-0.0.9.tar.gz#sha256=8625e9f941021b9b5bdd5acefd8349cb48a27b23588925bbc8433dcee721f5c8" >datura-0.0.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/da/07/addf6e50dc53272508969d344e2dee895f727aaace8aecea171ac8355608/datura-0.0.10-py2.py3-none-any.whl#sha256=bafd5fb8116a74110961200c9859f3dac2871c6c4a57daeb2f0eff084005704b" >datura-0.0.10-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/29/47/903404f8bc2d2a7a9993f27cc283d6bd5ee2c213d345a2f14af06602f1b2/datura-0.0.10.tar.gz#sha256=cb8679072075af32e1f1d70229f73a22c52e810678f795c146a454d7771bcd88" >datura-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/27/bc388ab5d4c71316e68a44ce2f7f523e436b891136fa4e88652e4f2b592a/datura-0.1.0-py2.py3-none-any.whl#sha256=65f53d0b24b3b006dd8bdb5b35bc09c97d740057d34474bf62f27d95de100788" >datura-0.1.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/00/447b96fa68f52192a7fd393e4b3f8f13688844062cc7464f408ff90f5bd9/datura-0.1.0.tar.gz#sha256=1e121cc40caa1df0ce9eceff1ab1c44919f24b27921667e815fdadd335bd843d" >datura-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/12/47118d0c16524abd03d4d25ad864056c8127d012adb0deaad3e5f0876d8a/datura-0.1.2-py2.py3-none-any.whl#sha256=15467ec21cdda1a1f7e973a584ebfb1fce4fe3e74bb83adf7d8e2bdd28d5a57b" >datura-0.1.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/44/49715869aa745c7295d13259f0a4d3f459b87a3accd01a819730adbe9d59/datura-0.1.2.tar.gz#sha256=fcfa5ed1891427f6a9991de613ced3006c9c8953019b295a5dc476b94ca79c5f" >datura-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/6f/164d6079c388a21ccd05fa1d15ad1b3df686e228c6810cb83d82c8ea98ec/datura-0.1.3-py2.py3-none-any.whl#sha256=bdbf614b20bac69c6676816c7c99cf7d566f0906078a58cea7a6db4af7b749d6" >datura-0.1.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/d3/561dd0e4f142a26a1b74672130a9fb71124dbc56de0809183ff44df6de27/datura-0.1.3.tar.gz#sha256=a2add0fce781ddbef6321efe166cea640edd0b1fa3275cc3aca6621f707505b3" >datura-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/6a/639d8cd05d80954686809e9e8da247569cb84a35089a874fa4969b4f28a4/datura-0.1.4-py2.py3-none-any.whl#sha256=85c29f5c83f5380cb47c81847d4643f25be8cc0a631edab21135ec5793864524" >datura-0.1.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/f7/aba0b9d140615dadcfe69079fa1af42d43d8fecc1094ccd782959556e3fe/datura-0.1.4.tar.gz#sha256=615601b8dec539645fec04ca03447dff6cd321c747b4f24d0337a1c550b967ca" >datura-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/a6/a14a60e0b17eb87e903600dce087b7071c0a07c94db0d74a031d388e42da/datura-0.1.5-py2.py3-none-any.whl#sha256=167bccb36dcc3570b7ea0a391e3aeda1847529ce571de56e6d79adcb0624e41c" >datura-0.1.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/67/fe2eb32795e3e40fee841be093eabdb031b8240de46f76202290c999395d/datura-0.1.5.tar.gz#sha256=c0c86f5c46d072924470384c3e0cae3cde6d02fa180bff2412abca8b8cb7e93b" >datura-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/e1/8980ba76d6e1143ba2c117f346c92b26bf4ff3e1cae9241c0e76f8624de4/datura-0.1.6-py2.py3-none-any.whl#sha256=de0075e6688117daac28132c64ad202afe0d6a90de02259154270f7b0cc80b67" >datura-0.1.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/c5/09b386053460c3ece017f1b2e284161ed862e74eab5dc489599b2f352652/datura-0.1.6.tar.gz#sha256=a6f25bc2c09ec10033524a47abae7315c20e503d3d29e05e3e23501d916a39ff" >datura-0.1.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16095561-->
+<!--SERIAL 16909307-->

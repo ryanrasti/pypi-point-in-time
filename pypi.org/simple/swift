@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for swift</title>
   </head>
   <body>
@@ -47,12 +47,20 @@
     <a href="https://files.pythonhosted.org/packages/1f/b2/21b2e2e811af259413e98e2f0a91b47ddc1bdb113d1f324a517daa876a8b/swift-2.27.0.tar.gz#sha256=0555d1171d077804dd5e419d23f9f81c46ef0d7ae7ded84bd6c9cc069fd68344" >swift-2.27.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/55/1a/c3541cf61b748349afef38354b26cb35b3cb820a11c1c2726ef7de40c2a8/swift-2.28.0-py2.py3-none-any.whl#sha256=ab53e0d4b83093013e0f3514e11983a98afa0cc6acde2186734227d01ee38d20" >swift-2.28.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/09/0f/7da3083f115599d74f0a7d224accb84dd64bb8cf15d811518428bc468d25/swift-2.28.0.tar.gz#sha256=79a216498a842226f71e9dfbbce4dba4a5718cda9b2be92b6e0aa21df977f70d" >swift-2.28.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/c7/9873d129a36a8172c3436e460ceddc061a8d67ed6f1a2e8dcfa6bf379ead/swift-2.28.1-py2.py3-none-any.whl#sha256=f441ef722b40ed7225258ceb9260269ba1f3b2549b68e0402e8ca17d6cf7e52c" >swift-2.28.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/22/25ad1a1e7ddfb338ffa97394c5486158098ffca40877331637730685890d/swift-2.28.1.tar.gz#sha256=0eb02f6251d6b6bd992d1de4196e84aad638e68f17341253675f4163257da3ce" >swift-2.28.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/7c/9c5112635517b40b9fe9588fb84014e2d47e146cd960713c0f5589b3a17f/swift-2.29.0-py2.py3-none-any.whl#sha256=f9a7b0fb9d5e93d362c1c140cc193411f9aaa36d13e3800721a90a265e4a8ba2" >swift-2.29.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/68/71205220b7e31aae7f5e0ed56c513be9c5c79be80bee97a5634de570b998/swift-2.29.0.tar.gz#sha256=b061c046f8b53c015a8f3f361807a00d5a72e80f7c404c8c7eb0c766336d0c64" >swift-2.29.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/d7/16256181e419ccdf73745a85ca6c971b767025ab39fd87f5a76b8df30e52/swift-2.29.1-py2.py3-none-any.whl#sha256=db73db61892e645ed8a77426e8fd9b41135ddfad53d8b874e42656823aa8649d" >swift-2.29.1-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/99/54/274018f832bf3b4e61c1a855ab196aa72f444299ba2e00ab1071ab91c438/swift-2.29.1.tar.gz#sha256=3e84e86ff433fd7c44bff036ef5450593d75ac820905e8d51a3a404f5e222948" >swift-2.29.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/70/e8bf76d35bdff989e811a24c6b755cc3de252204c647e7be9740672cce25/swift-2.29.2-py2.py3-none-any.whl#sha256=ae2f2846e034c354ee510be9a9db3a18b3ab12c623ffb0a4260d3c68dedf49c4" >swift-2.29.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/17/c0718399f55becd3590fcdad20c961325131bea26571f14773c7e253f0fc/swift-2.29.2.tar.gz#sha256=339ed93e21ba08ee0047f129be56632c6c3bd0b03ff0e199a9c3a2bf128ce59e" >swift-2.29.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/8e/1dc4a39f2257c478837f9b282612429cce5b7bb003d8901d3149498f9eec/swift-2.30.0-py2.py3-none-any.whl#sha256=3224ecc5760937fd617d7ecf22c5a59b8b04d7a71beb0a58218d6938ff9e50a6" >swift-2.30.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1e/0b/c47d6a457602bb5b4fe17a5332a6f0c2445dc2abcdb56b7a99b08b9edfb2/swift-2.30.0.tar.gz#sha256=62dc6cee15906bb89a0629ceda78625e136fa3b96cba19833e7a84d4aeb60b99" >swift-2.30.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/36/acd47d9ec49483e6415cbcadc0528fd6556eeb81b3f000e03e151103d802/swift-2.30.1-py2.py3-none-any.whl#sha256=583e0de57ab5cb9a35c3453258148ecbf1385508d7d005c69452a354524c3ccd" >swift-2.30.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/b2/62115c46d94de4cb501c329131b65332143ad738dfd3031c81a9f5a4095b/swift-2.30.1.tar.gz#sha256=5256e175ed7ddf76990ca189aebe7789c9f154b388763f6d86b25979b6782d5d" >swift-2.30.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/58/f77a54d3c545c53b6d2828a2188b43f5ccbbb9d213126e537b0f5aee9f83/swift-2.31.0-py2.py3-none-any.whl#sha256=d6860e4634c1c2cfde23e50c0763e1ce40178535089a7d4bc7a4578d16eacca3" >swift-2.31.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/6f/8c27903dac06a2936536cf5980ef1f575086fa17c091a6f5a2877502c426/swift-2.31.0.tar.gz#sha256=814e9740a88bbfa1353ad4a3c03ba78e134830adfafff6ab712b10470b91b536" >swift-2.31.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14865643-->
+<!--SERIAL 16664719-->

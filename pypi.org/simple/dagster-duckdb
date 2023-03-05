@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-duckdb</title>
   </head>
   <body>
@@ -36,6 +36,30 @@
     <a href="https://files.pythonhosted.org/packages/b8/d9/2c4cb76de83e8969cb336011638191c94be38bb266ac0b718e064f2d9014/dagster_duckdb-0.17.9-py3-none-any.whl#sha256=0350bd4687342c3ce5284263f2636495c473b9d712c4a1e8bf99d6de605b5325" >dagster_duckdb-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/e8/c8c6dd228622c9976bcf927916880163c9abadf3d6833bbc156f240c5b11/dagster-duckdb-0.17.10.tar.gz#sha256=cf52eee01549c531dae81aaa6d39a678bd2e700272d35f7fed53b77992812c4d" >dagster-duckdb-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/68/dd/0c46d5c883dc3530dae336f5827fe73a9d02b414653d764109166cab3ff4/dagster_duckdb-0.17.10-py3-none-any.whl#sha256=ff5889ceec7cb99cf1a52b843559986b983a89d74b82e5a7f285e4fec43df806" >dagster_duckdb-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/11/13468059ecae542312277b8deb22fbf5b88ae1b8191bf81f97ceae32db43/dagster-duckdb-0.17.11.tar.gz#sha256=71a1fd2def82129ddb3c6c53de42be385b01467533806e833098813b905fd7da" >dagster-duckdb-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/77/f7417bad33f8737149aee1840fb899adc59e3f01f14f73e8ea7adc431884/dagster_duckdb-0.17.11-py3-none-any.whl#sha256=f0158b0dfb20e0e2af22250d42ac46cd769bf3fe0b51d854ea0e7360e999a0c9" >dagster_duckdb-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/12/ac443a9b438205e98c3cd416f9c555fb76cbe2c31459fb1a207851a19cd2/dagster-duckdb-0.17.12.tar.gz#sha256=334a0b184367b54f8ed311c4ec690265dc4c64d7a22a3d16cbc81125c0accf8f" >dagster-duckdb-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/8e/408494d83cbab6f692e57ba4f16dbd0767d4d5fad302f9bce3c594eb6a14/dagster_duckdb-0.17.12-py3-none-any.whl#sha256=72814de78f6b421603ef7c40aa1fad490987c3570d2825b5a91ccff102312124" >dagster_duckdb-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/24/213f7dcd7405ba349b9f738ea06c164f1b829c45f18d37448ab5666c7ec1/dagster-duckdb-0.17.13.tar.gz#sha256=65a0d796437314328be65223e5ed2bfa35bbd9c528e073f57c9f2fbca0a24eb7" >dagster-duckdb-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/52/f5b4e31686d2eda211744e9ef46f01e8576dc2ab6f955b54c07c15400179/dagster_duckdb-0.17.13-py3-none-any.whl#sha256=c9a0a623faa1fef8e47691daae019f3b6dba8f21511d283d37ba6fa518ee2de3" >dagster_duckdb-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/cb/3224422c93f27c57f61b3d3041bb5a90964fe067d28525df46dd9e2880ad/dagster-duckdb-0.17.14.tar.gz#sha256=508701d3459518b11ff1d33f38cf4ac59305fcf2906e38c27bcaa5680a096a3b" >dagster-duckdb-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/2d/85afbf1442a9c461a92f8b6f542d95a210b9c85c8ca8559a9c5da6a96414/dagster_duckdb-0.17.14-py3-none-any.whl#sha256=614964dd040c7c18b58950b736d89f2d31aecea7408621bb346239c9462b96ff" >dagster_duckdb-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/61/92d83a4d09813d028507074e326707e74a1b6d2b767a73a02dfd7db98160/dagster-duckdb-0.17.15.tar.gz#sha256=63e1a27fac44085bb7b2bbc654556087b06a7b3eb818527ce9bc03dcf18fac18" >dagster-duckdb-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/c2/c0f1c0e5a5142ad2168ae1d5dc7484379a14ecf5069f42e27b971c9a5b79/dagster_duckdb-0.17.15-py3-none-any.whl#sha256=fb732b9f52409ab5d707fb4a3b2556fc9016c1ea620e707f4d50dd3ce03e7001" >dagster_duckdb-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/88/681aaf206a33da35a3ec6fb3223d6623b794770d721e7a7193419030ac18/dagster-duckdb-0.17.16.tar.gz#sha256=065b334b1fa425383a01da571b7a6d8795177ecf828bdd49da5acae422406d49" data-yanked="" >dagster-duckdb-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/18/f60e4114752cd6d6744359a3f50bdedc20a7652f2f46c77b21ea4c33b957/dagster_duckdb-0.17.16-py3-none-any.whl#sha256=8143337a8b59003354df10b7c9d092f9d9dd7fedcf236394cc018a86c7af0b90" data-yanked="" >dagster_duckdb-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/0d/23d51b15677f6a66158e761472166c9b098e52fdbdce4359c0fc61e086e2/dagster-duckdb-0.17.17rc0.tar.gz#sha256=0cc74fa5019ead75a358e7d93f6670992ccd68f319f6005ad30b7c73d2b2e41a" >dagster-duckdb-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/57/5d29c310622a5fd988b7909a28162bc015fcddb00d8eed3cee1a3660f4da/dagster_duckdb-0.17.17rc0-py3-none-any.whl#sha256=dcf2fbd6330662b91ae49ef1d027eb3a7da1da0d425224e08574e7a737e31855" >dagster_duckdb-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/bb/37e4b83ec1dc48f6261ba76f0004d79657fddeacc981c5df6eaa9b2defa7/dagster-duckdb-0.17.17.tar.gz#sha256=c466f2399c8d91f58ca88411cbea09371a39db2d893432777342c3cacbeb2516" >dagster-duckdb-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/ee/d0915d287ff42b0708d9cc173eba857eae8e6b7dafc4f73548eab34eb1b3/dagster_duckdb-0.17.17-py3-none-any.whl#sha256=4b721ae685a8137d941e44db6bc3d7aa186854802f1b8d3878ba35673982f87f" >dagster_duckdb-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/b3/49bc71ec52afe7866402a53c7a34b42171a564a91485ac874582ff559536/dagster-duckdb-0.17.18.tar.gz#sha256=a0f3f091df13c88fd81f61a4d0302a8d8436eae92795fdd5900779da67fdb78f" >dagster-duckdb-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/5d/9cda94467c7002b2cff875ba49fbba8a3db0decaba7cb8786667a2f439f0/dagster_duckdb-0.17.18-py3-none-any.whl#sha256=909d8d026c707d9b9741a11c45c1722d6a717868119da73870366a91d60f8837" >dagster_duckdb-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/d3/aef26809710efa61864b4d85536d12f0bff26dbdaf5ae02031cc50606d61/dagster-duckdb-0.17.19.tar.gz#sha256=80b5e348105fa1a109a6534ebe39b0154d6272d83f700d841aa0faa0bb41e9f8" >dagster-duckdb-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/e7/a8daae4de808705e8e5e9bd9f6c918b350df6deb5d0132fb98a3fcf7062c/dagster_duckdb-0.17.19-py3-none-any.whl#sha256=da1a134aa0a1b22e0bbd8d1fd91976c2fcd2e1d3bcc50f4a3a37b90b32210b16" >dagster_duckdb-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/9c/2864ee12ae1c0cd5f47246191af31bd31378dea3a88d49b278d6af17ddd9/dagster-duckdb-0.17.20.tar.gz#sha256=e48b2d0d95e254a2ac64ff3390f451996ff577d51349aa842187498bd82d4648" >dagster-duckdb-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/47/7ad6c2540c6c3a8e35ff62fe84db3f721f9b3b8e96ed598ac4b987f5802e/dagster_duckdb-0.17.20-py3-none-any.whl#sha256=596c5a5de30d7b8b71d2173c13d02ad93105abe485323fd414355497db7ced7b" >dagster_duckdb-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/4a/439bc4aff7aa4223ef8c91da8e1f6e2e88a9cfddf5c4a51fa7eaa84cc4a1/dagster-duckdb-0.17.21.tar.gz#sha256=78b7918dcb037b584ceaa107b2cf33b0526bec772b4dfdb57aba5d410dd4b9a2" >dagster-duckdb-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/9b/24baff7af5565c5180235a002f6458f67b3597af02ac79e78e7c0a70d181/dagster_duckdb-0.17.21-py3-none-any.whl#sha256=579182ac9de98c1f30592d060ae2048eafd7305e98edab4ceb56a95e770735af" >dagster_duckdb-0.17.21-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408602-->
+<!--SERIAL 17135822-->

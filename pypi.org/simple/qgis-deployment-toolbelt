@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qgis-deployment-toolbelt</title>
   </head>
   <body>
@@ -26,6 +26,26 @@
     <a href="https://files.pythonhosted.org/packages/d2/30/9358b02c0b1879031c58f0bcfbfec2bc5fae49610183b844bf6fcf10e0dd/qgis_deployment_toolbelt-0.11.0-py3-none-any.whl#sha256=b8e59378170b4ba1bbf752632cc91ba3a642f89ed8c06a7ac7ace3887b9dd52c" >qgis_deployment_toolbelt-0.11.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0f/15/066a6a075c40e2838327ed57f0dd5716091cffaaafdbb3dcaca4697c1ea6/qgis-deployment-toolbelt-0.12.0.tar.gz#sha256=1ef092e10bd25d6c7db20aaddf039e0f5509451a003b762d8e67be045c4fe7bb" >qgis-deployment-toolbelt-0.12.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/68/9630416881326b399b916cb1dc832ffad4579dbbfc62f1d641f5a832427a/qgis_deployment_toolbelt-0.12.0-py3-none-any.whl#sha256=88829bdfaf40999a7e1c4d34da7d2f8b259f34b337deddde44e25557ad473b0a" >qgis_deployment_toolbelt-0.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/a3/76196bc310f942bb5e75272616422baf282bc968f382c944f4cbb349ba04/qgis-deployment-toolbelt-0.13.0.tar.gz#sha256=2bfe82d0521564c9deb7aa1ca8cb1ed95f218d24071d204b82982383a23c1e9c" >qgis-deployment-toolbelt-0.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/b3/b63df9e87f9bec8c431258d5ff73037aab4aa9350c33701022596fa88edf/qgis_deployment_toolbelt-0.13.0-py3-none-any.whl#sha256=427a2931b0c6bb7bb3944b1a65a4c517a031359eca1dad5281761dded28dc847" >qgis_deployment_toolbelt-0.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/87/4b40b3fd8b4023fc16e2d58fb181b49457245ad4677f2aa55e435ee2bf59/qgis-deployment-toolbelt-0.14.0.tar.gz#sha256=11d6506b3e0e4b4072b2f64d261d0c44761420c88b28a8550a222030e774ce29" >qgis-deployment-toolbelt-0.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/16/7d463a6435208d57618d59947246589875291b811a8ec5ca6d46a199f95c/qgis_deployment_toolbelt-0.14.0-py3-none-any.whl#sha256=4ddefea1b1f78c3c51f2eed5b5258b8c225f1c4021f4ac8517919f4fb9d0efff" >qgis_deployment_toolbelt-0.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/5d/4bb0a1d95b421e57fd2ecf5822a03814b5e6dbe846c512f1e7142c8231bb/qgis-deployment-toolbelt-0.14.1.tar.gz#sha256=b4f057e0f08874c1394455555a02a78ae20a7d1fd3ff03398c0a486a48d15cde" >qgis-deployment-toolbelt-0.14.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/04/602e419e47efdd940f66450a20c989a55572abd946453a59d4c818145a51/qgis_deployment_toolbelt-0.14.1-py3-none-any.whl#sha256=8110d0d0d5eda5a90cae39893cbb13e00e0923c2911c316ae184716532c4ea40" >qgis_deployment_toolbelt-0.14.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/b0/9cd1d6ea45d1cc64603cf75d30f2306198b5e288ae6be0004c358ee99942/qgis-deployment-toolbelt-0.15.0.tar.gz#sha256=93425a498abf23eb5c09f325c7e8566e455b23d9818740157d32993b20b8460b" >qgis-deployment-toolbelt-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/37/6f9e9c7646c3a3c5eec4820d2a1ddc84c962524b574d8d7ba7bcd775f66c/qgis_deployment_toolbelt-0.15.0-py3-none-any.whl#sha256=17250081150b23af00a0269d7dfc10843ac0978f466c6a40315dc469aee017da" >qgis_deployment_toolbelt-0.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/a7/114694b014eeb826fe4a9e4e6965ff474a3ae329d4873fdefded2ea7ee67/qgis-deployment-toolbelt-0.16.0.tar.gz#sha256=9f5d80918172b83c02617365cc8e202b4d4656abdf4f6149a6c2abe8efdba701" >qgis-deployment-toolbelt-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/a3/c271a5022d5a06d6059a2d04158a13963b5ed08f279c64d2b3e70427736d/qgis_deployment_toolbelt-0.16.0-py3-none-any.whl#sha256=0d58af115883cd1b6cdff3ad03e04e5d3c45aba2df40b8945925c96c26c58568" >qgis_deployment_toolbelt-0.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/95/2cedf1f988b434961cdc812c826bd9025d6f5ee7aafc5c73f09507af39c7/qgis-deployment-toolbelt-0.16.1.tar.gz#sha256=7c560676a9b2bbb48b2afe493591aec50edf1111f6d3053cbac51e0d5a1a4c82" >qgis-deployment-toolbelt-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/6a/9097f7382e0ba97feab9a695f3435c37b0c6dd0bd957bf8c2d0093f52fa1/qgis_deployment_toolbelt-0.16.1-py3-none-any.whl#sha256=50f8639dfa276657419793dccbd399d737018ce734f5ff73bb2d21a0a2925cec" >qgis_deployment_toolbelt-0.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/44/5132cdf1ce59c725bceab37ce91e8411be63ddd155362340d278ff76848f/qgis-deployment-toolbelt-0.16.2.tar.gz#sha256=7c5fcca80e9681ba2440a05196b8a8bbd083567368dfede6ac514366aa277ebd" >qgis-deployment-toolbelt-0.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/41/b918a9050df29032f7ed4634519af3a5ecc4463b2103ad0c9beda5440a46/qgis_deployment_toolbelt-0.16.2-py3-none-any.whl#sha256=c0b1e3f6d9172d7618bb0c7bc005396723339fcd26bf8a5efea08bf7526eb39f" >qgis_deployment_toolbelt-0.16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/18/eb8548bd00a43e9dd7631058e4f05dd8e8ed08caf93bf01d49ef5409ca2a/qgis-deployment-toolbelt-0.17.0.tar.gz#sha256=02240a5a670b9024ef4aad5045c26292d83bd584e6bf571f7472a449cb1b8c02" >qgis-deployment-toolbelt-0.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/b6/ab9be60b727aa7c895b4ca679b98eb578b0c8f6b236d910bf43cb6035f05/qgis_deployment_toolbelt-0.17.0-py3-none-any.whl#sha256=84fe88ebcbebe3cbe9db2b33fee10e68a22a858c2d3bdb7f10e7337d669d6484" >qgis_deployment_toolbelt-0.17.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/31/ac2e7e6e685f8ff645736c866e3a813306f0a55d18a6327f678bd680d606/qgis-deployment-toolbelt-0.18.0.tar.gz#sha256=76e6c41b746d4f12759f24a95f02a3037df6d54c5ce74344f73c1135047f6766" >qgis-deployment-toolbelt-0.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/dc/6bbe580592c9a404c1c93b6012fad10c7e69f2655a775a4fe2b283ebee5f/qgis_deployment_toolbelt-0.18.0-py3-none-any.whl#sha256=911af15967d99dcabc422e28e92669c3bb23349300847103d364587f377f6dea" >qgis_deployment_toolbelt-0.18.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/d4/fd997d4d1039a7ae64f6c83447b14adc11bfffb03acfb6fed3c2ad1d2874/qgis-deployment-toolbelt-0.19.0.tar.gz#sha256=58ea7c6e08b7870804f79fffddb6107f1809e7564b6fbaea6297ce7a3ef31ddd" >qgis-deployment-toolbelt-0.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/c0/f880d609399ab81aae9cc55c2663cac16830ff4cd2873fd99b634fca4059/qgis_deployment_toolbelt-0.19.0-py3-none-any.whl#sha256=34859f2170cf4b034771e06c672f46e60fe6673c75e9d02f823cd353e5ea2b60" >qgis_deployment_toolbelt-0.19.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15898288-->
+<!--SERIAL 17146321-->

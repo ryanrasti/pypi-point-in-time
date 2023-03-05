@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for xoa-core</title>
   </head>
   <body>
@@ -14,10 +14,14 @@
     <a href="https://files.pythonhosted.org/packages/97/d2/51d406a9ff5225c2154aa1edeb51542cd39f933d9e69756334ed583e5f94/xoa_core-1.0.3-py3-none-any.whl#sha256=acc30ea743dd840519bd8313b1be4740fafc7498c93a5c8b82f7ccf70b314e3a" data-requires-python="&gt;=3.8.9" >xoa_core-1.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/c6/cc0bf752163210802f7db1e68cc806e7de027041edf2bd92d00cf1aa4fc5/xoa-core-1.0.4.tar.gz#sha256=7e72fb25b52d01acc73c2b41c44202a3c4fc0176076832b2a6a102764cb28ffe" data-requires-python="&gt;=3.8.9" >xoa-core-1.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/7f/fe619fa33d5d281d761ff6e9d014c8422fa92993ed4930dc2cd5765e667e/xoa_core-1.0.4-py3-none-any.whl#sha256=4e5e13a3bde729e04dc6f67d7db40c20b30c429c1907492e32653078f2d8c2d3" data-requires-python="&gt;=3.8.9" >xoa_core-1.0.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/34/7c/179bb22c5c0c9c1081354be63962937ea7b09ea08150d54dee21a261bcaa/xoa-core-1.0.5.tar.gz#sha256=9b959ef0dafa31c84a185f6aa0be6a58ab0591d3a861cfc38d5078526bbf6e3b" data-requires-python="&gt;=3.8.9" >xoa-core-1.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/21/31/2237d433c5a188f1573c36e4a0f4d1662088a4ce512ca22d827d9d140d41/xoa_core-1.0.5-py3-none-any.whl#sha256=6580e768463d3c5f5ea410e8378ba0ff39ff6fbea6bd249c1cfd4fad60fb4754" data-requires-python="&gt;=3.8.9" >xoa_core-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/7c/179bb22c5c0c9c1081354be63962937ea7b09ea08150d54dee21a261bcaa/xoa-core-1.0.5.tar.gz#sha256=9b959ef0dafa31c84a185f6aa0be6a58ab0591d3a861cfc38d5078526bbf6e3b" data-requires-python="&gt;=3.8.9" data-yanked="Data model change is incomplete. This has caused problems for some users." >xoa-core-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/31/2237d433c5a188f1573c36e4a0f4d1662088a4ce512ca22d827d9d140d41/xoa_core-1.0.5-py3-none-any.whl#sha256=6580e768463d3c5f5ea410e8378ba0ff39ff6fbea6bd249c1cfd4fad60fb4754" data-requires-python="&gt;=3.8.9" data-yanked="Data model change is incomplete. This has caused problems for some users." >xoa_core-1.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/23/4c/c9e923e9b28f21d23f02669464cab0fc885fae83e07d662717acde1c5d9c/xoa-core-1.0.6.tar.gz#sha256=8b3e78d1cb3840ed9358e5eca50240c30377a386fd777419a979b495ce59de98" data-requires-python="&gt;=3.8.9" data-yanked="Contains a critical bug that prevents test execution." >xoa-core-1.0.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/68/21/0ab25934571b30520e77878044d01fde38d25ab30dcd1d96db37fbb31643/xoa_core-1.0.6-py3-none-any.whl#sha256=c0cbd8735ce52e672f52370f0aa3f28d9c450e2248e8b26075373fe273a7fc72" data-requires-python="&gt;=3.8.9" data-yanked="Contains a critical bug that prevents test execution." >xoa_core-1.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/2f/1e98702976d56ba76c2dc373f8dfa658fe21685d42395e1f62356be4c725/xoa-core-1.0.7.tar.gz#sha256=3dfb72ddca3c7909d55636e0f66cfb6d1255c52ea8b8fb0104f4eaf6bc0518c1" data-requires-python="&gt;=3.8.9" >xoa-core-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/8e/4fd5a847b19d0e370e8a1719f388f08c19a8f1fe2d6072703761dc44bf33/xoa_core-1.0.7-py3-none-any.whl#sha256=af6bd0795038ea90cb2695d0bbc4ca8da2369de32bc3bc2b0323e879b1efb7d9" data-requires-python="&gt;=3.8.9" >xoa_core-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/21/b503bb006bb816cb5d279d2592003f4ca4a26792c34944f69c452955cdad/xoa-core-1.0.8.tar.gz#sha256=08185a604a0dee243f2b92f8d778fef680bb1647cceda4c285a71ab06bcbe468" data-requires-python="&gt;=3.8.9" >xoa-core-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/15/0e3f32d39f54c89a149700ba537fad3335e85e560f97268570ae6f7979f8/xoa_core-1.0.8-py3-none-any.whl#sha256=73e01e56107cc641685a2b1fb7058b284dc10fe1cd709fe81f5108f0643c8cd0" data-requires-python="&gt;=3.8.9" >xoa_core-1.0.8-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16085427-->
+<!--SERIAL 16885426-->

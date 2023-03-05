@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for symforce</title>
   </head>
   <body>
@@ -78,6 +78,18 @@
     <a href="https://files.pythonhosted.org/packages/6c/d2/75d4189e6361e7ae2ca45846285a911e27e883a2a546641b6618970f4b08/symforce-0.7.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=726536a1fea0417d3b0378c477bbd1ffabf2a20a56c94fa98c15fe11a1d169b1" data-requires-python="&gt;=3.8" >symforce-0.7.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/95/9437a327ce471c92afdccd919044a6f3679c932e497f8b8f133c5ee0807e/symforce-0.7.0-cp39-cp39-macosx_11_0_arm64.whl#sha256=cf4ec41ea79c78c689b2ddf3fc3a2c49a1bb753545e1775025d71a827d3abcd1" data-requires-python="&gt;=3.8" >symforce-0.7.0-cp39-cp39-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/14/1e/02fb3315d677b8db0cf9d46b1507bc2ac673715c80b7716b55d6f51f8c72/symforce-0.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9d2791c88cb2013ec4f321b6ea148cafdca6e100b76f5eaece4457689b5aa64c" data-requires-python="&gt;=3.8" >symforce-0.7.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/e9/9b3faca3a35e00a97889ab613176d99b4f75e2ba0ae1db26ec77a5de9a52/symforce-0.8.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=8cdcd41e3977ca77eb2baa9023e986561e4f7a59ad10de01471dce6d25c3eff2" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/e7/ba66eb3dff20bf7b6406de99641754ce736c5507f97a50709466f85e2501/symforce-0.8.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=ce5af75e93bb1228ee86ff85895c7f8564812a7b86409c2cfe14bcde15bb5a06" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/11/291b80fd5dbad68545c3f1608f7e1d3233481a0bbe1faade177b9b46f76b/symforce-0.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ab450626f0fdacb1c8429436fcbdcc82f8ca69d52dd7fa2faab39a1bae2a3667" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/52/abea7b5404f2c4bb7e6dfdb6d1a9db6d3967ee82b5ed68a996867f7b7805/symforce-0.8.0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=f05541e2ea40cca69d54a58d0eea1fd84bae10f62ed57841f390f431d7022fc3" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/cb/f8e380fa90980f6ea07d7ee7803aec53d28d09263bab04e6aae49066c13d/symforce-0.8.0-cp311-cp311-macosx_11_0_arm64.whl#sha256=c76e4f45d51076a9a6c5b13cbce40ca9d515a9d2315c9975d06f5900b5ccffb9" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/2c/7e0fb4b958e5bfaf352b9606b5347346e939c1b6aef79406582ba2562ccd/symforce-0.8.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8a1c790ce76fb0c052fac1c4275135ea59351ec1dbc011893845d0a16325a11f" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/1d/7fd162f89f6accc34697a2e9d9eb620b0457c7a6564fb10c4f6adcc11cd5/symforce-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=705f10b2f6de2f2a56b1f30c77dd1659caf19d65caaaf1ef81ff8a9287bccbd8" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/8b/663a526e8067d49b2c65347c655bbf7ae036cde15a86d37dfa53853349ad/symforce-0.8.0-cp38-cp38-macosx_11_0_arm64.whl#sha256=da539fa0819b26f464757a8e72062357c53778e1955cf00ac303715afe50443c" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/b0/8b94975ad4bc1634a6b23fd0e68f78579f79b344a347a1968a60ea60bb7d/symforce-0.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7c35bbcb670064d22715dc82ab16c8c2fb7e0f72ef0e9b332980f393bebcb646" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/8f/dac88c9eceb568683590f5b4d612477f1db2812c707db6502a98863a24c4/symforce-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=d5dad266372a2146389e7f86f139a9c611e268f4f854794fe7305a14f3e74046" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/c4/552507c6f1c4b453cd0a161ad7bdf474bc8fd44ff3b82150b632ffbf7baf/symforce-0.8.0-cp39-cp39-macosx_11_0_arm64.whl#sha256=fe6f7eda1cae299a9e53e56f9706ae1fa9bb9823f07c81e7aa382ee0cd7ee47b" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/a0/a34e77e258ce72d9229f73ce09370b3b2089aa754e249abcc9d7b890d886/symforce-0.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=807ff68c338a3639b84277b242aa3a687a7a32dfbbff0dd86999b5a9df6be01e" data-requires-python="&gt;=3.8" >symforce-0.8.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15847924-->
+<!--SERIAL 16732665-->

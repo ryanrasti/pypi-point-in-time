@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for proxygen-cli</title>
   </head>
   <body>
@@ -16,6 +16,20 @@
     <a href="https://files.pythonhosted.org/packages/87/bd/52739b5e7d053678bf543619a49a827b30ccbad0c0bb9fe9c4d025336ae1/proxygen_cli-2.0.3.tar.gz#sha256=e751cb8e50815c742c403f24122724ebedbee396ffbd2300a1f7f6e8247f7f94" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/da/a0/7a6f2cc6398b186f5538373ea642b7139f54e26f656c74b1828e36ca6a3a/proxygen_cli-2.0.4-py3-none-any.whl#sha256=72f92be5aa64045891789526d45d467f8920992164df3a98fbeb47bf3e2fe393" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/22/d41eb24bcbb1cf1a142d2744b570e5fcb7bb864556713a70fecc64805033/proxygen_cli-2.0.4.tar.gz#sha256=7ea7458ecd063716f5634a230b3eb9539e1f1ee92f443345a5b8fd3ca085953b" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/b4/4106f151f4c12eb872908572a539347b8682492fc3759a52c178d078481d/proxygen_cli-2.0.5-py3-none-any.whl#sha256=0db544ee1371fa69326d103e206f4248a270f34be861c150f4bc2e75f72f215b" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/ec/43da97fd8094033f102cf2135d1f230989dc2a81d8c6bf37d3e77a97dea5/proxygen_cli-2.0.5.tar.gz#sha256=2493778904d7840642f163bd2911f45d622196d5a462c4b53da617ec30b71b71" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/fa/d48e32046dd32cb5ba2779b3a456cbc9c699e677ac473abaa4fc7739582d/proxygen_cli-2.0.6-py3-none-any.whl#sha256=ed486b8f4cc012e184cd8e34d8d26f3dc875ca3a53fbd70e6b6e50dd4981fab0" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/41/d729069fd72e149ba573e61c86de1772ce1456ae68e60beeb5d80178793a/proxygen_cli-2.0.6.tar.gz#sha256=8a993f1c026e20ca217c78a60bacb3dfb4117ba168b87ec8d2ca2d0f78af6f28" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/78/64bba40277069c60cff0e70b3c0ac70a800ec61d4936b44baa98c0bf0d2d/proxygen_cli-2.0.7-py3-none-any.whl#sha256=60480397722ae5d2f891f6cd4514bf55db7d623524f86f995faf7a119f7c99bd" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/1b/941ca8788091b31144438076b6869b34c9f769308bc7f71e5a8abac40b3c/proxygen_cli-2.0.7.tar.gz#sha256=e0be420b209ab4f7f9c575da381fb9885beaff117d5d370e0cf2a3c6fafdfd28" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/17/e488f92dc8147f2ec967fafe3336f1a1be99fd1b2671ccf1b1ac54f122a8/proxygen_cli-2.0.8-py3-none-any.whl#sha256=654bc7c29dc935023961a76c300c324913dbc4dc3966d33965d8b876e739cead" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/37/7d06bc8fd8f6d5b0993593e8ed3c057e7975c3a3b24e9f9ea1c74fb0177d/proxygen_cli-2.0.8.tar.gz#sha256=3d9359ff29aa177288aef9fd3129e4d6d4aa3b3b6bb1dfea3fc69cfa9d968872" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/c9/4a7195cfab44c23affc69d29958ac8f264573ca3ba6cbd08d69c320b3dd6/proxygen_cli-2.0.9-py3-none-any.whl#sha256=868ca1d73a3da8c21e569b504ff883d5ce148e6fa1b817cca15a1dbc94561577" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/12/2a1aab274b3a0df5485114c60d1f1a6e9feeea2593cbcf49275814638cc7/proxygen_cli-2.0.9.tar.gz#sha256=c4f5fae592bd24122043ffb6e73ea5312951bb86d2eff99a60bdf89f11c68cd7" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/79/7ce7c86c8d25731072313cf354ccfe6052c064bf4ef3164a91eda0d93457/proxygen_cli-2.0.10-py3-none-any.whl#sha256=4bcf1107c49c789cbadded4e5a58121c768f1d56c98468aef4ae112432c74f59" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/0b/d1bef994cc3b6b50cf8bf338b82d069ee82c318c14180afa448ac471cd91/proxygen_cli-2.0.10.tar.gz#sha256=f64cd6082271fb56311b9c6b0cf256ea372ca2edfa0e2bf96543e3684e3bff50" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/01/33149011320c5f792d18ac1be3a663911fe524e17677d81a204bd0e58d6f/proxygen_cli-2.0.11-py3-none-any.whl#sha256=9ab8378d8b88c48209e53ffbf8e0851188c03dac2d3a590473e34a31c361be30" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/17/4673be12a0aa5362db30f2d30aa7658262934034b48c9555c261a04e2c71/proxygen_cli-2.0.11.tar.gz#sha256=9e56f38da777ee31056f40ca2a8f3bb23bdecc4763366449f8a6d0d2aa70d8d4" data-requires-python="&gt;=3.8,&lt;4.0" >proxygen_cli-2.0.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16317637-->
+<!--SERIAL 17114059-->

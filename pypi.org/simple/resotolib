@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for resotolib</title>
   </head>
   <body>
@@ -54,6 +54,22 @@
     <a href="https://files.pythonhosted.org/packages/b7/aa/2c2279505eeae3889e15e17f57bc04da0552c81e05e24c723437c7738253/resotolib-3.0.2.tar.gz#sha256=02c1db8d580050940fb1d54749a94fa8b2ee603e1ae36e611c3a92cf0e1a2ffd" >resotolib-3.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/76/fd/af6b1b35722d4b256e1dbd83faae5570798a103258181d50982428100405/resotolib-3.0.3-py3-none-any.whl#sha256=e1f01adfe630239a61f2b727c172c9597e4a2c44eb88925c8219e89189060e55" >resotolib-3.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/fd/ad98ec7753f4183433f71960bc8b4d01aa8695166fef6529f38deacdc176/resotolib-3.0.3.tar.gz#sha256=1c6cfe702dc3fcc5cb8d0fcce252864bbfd05714be0e189a574a5f5dd0574006" >resotolib-3.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/5a/71d16b2625f94773573282d43cc7b3c21e6ff4277c3e3c1eccc61596848e/resotolib-3.0.4-py3-none-any.whl#sha256=5dde0395052fbcd34a25c3b933c8637e0355036319523dbc991606b924ec1f41" >resotolib-3.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/99/ba51e58b1d7b67ef0fd2c5e7a530e74629507acbb367bb5d70a6010044cd/resotolib-3.0.4.tar.gz#sha256=a5a8626b497b57fadc7dd61ec788e38714343afa4424caeef75f5440041ed331" >resotolib-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/c0/2c388f16f0353ce058630b8f0a32e75e3ac5af6fa1657e2bc8ceb76293e7/resotolib-3.1.0-py3-none-any.whl#sha256=407f257b2f9402c1c1ba44ead727ae9d4e76cca0fc6fca18dcaf8b4e3da7465d" >resotolib-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/1d/c22b001459194239457d11a8afc3ac670b90fe3940ad14a6f07fb76c9a72/resotolib-3.1.0.tar.gz#sha256=fad8bf24d1926fae6c51fd03f9f46a55acd7f7af5570fe6415c10df5dc25dc92" >resotolib-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/ae/06c38b33a44e7f4196d113799440da836146f94d00964fa78e25688dd1b3/resotolib-3.2.0-py3-none-any.whl#sha256=fd48999fb20fa2e7e3158c8ba635f13b1695c5c3704a81bd193f2b9db6be8cc2" >resotolib-3.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/fa/649ebc356391a62dcbbc2139efd27aed56df0d4823f8e0eb4ec3b2704e15/resotolib-3.2.0.tar.gz#sha256=d28b20620fcff7cc9317cb9e47682115ae9e257ff05a8d51b3b1494bb879c070" >resotolib-3.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/d5/65066a455512faa65516e4601ac39915b619999e04c16e563d3377d6270d/resotolib-3.2.1-py3-none-any.whl#sha256=1120ae943680da5c03d496f6fc8364f28dcd41ea2021a2c7837c60d3f863a747" >resotolib-3.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/a9/32952592acfc59d381980976cc7df49569702e993160696c2df0b1c6a0b2/resotolib-3.2.1.tar.gz#sha256=b41c66cddd9ff330f9f2695d2f24a69e3674f89508d8b503957ca7c595d1965e" >resotolib-3.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/0a/54e75e1e8336ccd5d7bf0ce9b26fd82c2b8104cc2e07e4d61b92f96b760c/resotolib-3.2.2-py3-none-any.whl#sha256=6fa88272b67c46f2054b2f91481b26eca64502dc6ba3ddf20b18eb5f75146e90" >resotolib-3.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/73/1692003b78910769c799beb0a078056d197dcbde7293bf3c656cdc5c9a1c/resotolib-3.2.2.tar.gz#sha256=963899bc0198ab61963244dc418186cd4c399ae09bdcf54fe4089e17ccda8411" >resotolib-3.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/36/b13d453e5c9c31d241627a3a4551bb46d7a412c0d1121c9a34f6aac2d79d/resotolib-3.2.3-py3-none-any.whl#sha256=df012d06d23b2c6292226580c3bef7620e2d70863e3d39d3ee32b71358d46634" >resotolib-3.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/bf/60b2a17c3bf0b9786cebd348cf67c75540bb4714f0597e50daf7251331b3/resotolib-3.2.3.tar.gz#sha256=c7e24aa293803f6a542bc3e0a4a0997904b797bf9af95a0bcee2ffbeaf82f31f" >resotolib-3.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/e4/69a84d31aa428758fa0fbb7df8dd094880ea72fe0e7587b3581d26031c77/resotolib-3.2.4-py3-none-any.whl#sha256=181be12a7ee0289cef15513ad67dac20add7521f51bf058de3c781974af4c0df" >resotolib-3.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/76/6205a33de6d7c94b6d974b1d9d6720fd50ba7e3595a02f939a08a12138ca/resotolib-3.2.4.tar.gz#sha256=2c50b0f8e9d5482ac2e075880680f386056852b748cd8b0731d5f20b81beff17" >resotolib-3.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/c6/9a01c9745f939f58911c493087fd23c28402dc5ffc3cd7349fec22c6f179/resotolib-3.2.5-py3-none-any.whl#sha256=5d52a520f22ccc9e747f73e97716e03f5df56cf36fc46d4d3fb20991437ff3c3" >resotolib-3.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/02/d70c050c1193c9b6afa9918d90fc3b0839e2e89793f5a18b1f6f1aa7abb6/resotolib-3.2.5.tar.gz#sha256=f254730b6570277994c3662295aebd1448b60d4666bf49fc8db865092e9c8740" >resotolib-3.2.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16229857-->
+<!--SERIAL 17146927-->

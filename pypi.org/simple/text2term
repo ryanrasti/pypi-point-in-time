@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for text2term</title>
   </head>
   <body>
@@ -16,6 +16,16 @@
     <a href="https://files.pythonhosted.org/packages/8d/dd/6c3f97d7bae7eba827708a6c37e8dec413ca785065c81002ae94527e5db4/text2term-1.1.1.tar.gz#sha256=bdc6b4b131cd27b4acf89e63a5a2dd750a157df5eed0aacbe9e521ed2d82fff5" data-requires-python="&gt;=3.9" >text2term-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/11/7b/aaa832433bbca1e2eaffee60cc0474aa71479e315c68cc2169409dbd0c11/text2term-1.2.0-py3-none-any.whl#sha256=a34017e0a7104f8d374fc9e33cf8f3e46628d28fbe5947733d4e9f1909134508" data-requires-python="&gt;=3.9" >text2term-1.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/af/c621213509a4079695e120af61b5614840dd1bc2a7a075e87ce19eceb8a0/text2term-1.2.0.tar.gz#sha256=acfd301408d459da5200ffd6c0c8f1826004ae8458bed2ffd5e1f45e5aef4e13" data-requires-python="&gt;=3.9" >text2term-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/d7/1e5b72b5045b2d766d3c93f0dccbaaaa345f6827d62765ff41f2abb8202e/text2term-1.2.1-py3-none-any.whl#sha256=e6a8201f1a81194cb0290117ee4ffe61ef90dd5a333b57c497bf11fff1aa4769" data-requires-python="&gt;=3.9" >text2term-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/1b/cd6bb2209bbceef5fe02e4b74fd65c096b978e1212264c1b7a6939dbe9c1/text2term-1.2.1.tar.gz#sha256=3555cc2f5575a5d55f0cb55223bb4ff4cdcda49551b9ac48fd68df872c0bfdbc" data-requires-python="&gt;=3.9" >text2term-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/01/ed5399967b68f1827b06c8f2a2f80247466b3da76dfb5e801b891984db40/text2term-1.3.0-py3-none-any.whl#sha256=d872cde584c0b598f45367103ad57396273bdb5816552190dd24e164bc548aa1" data-requires-python="&gt;=3.9" >text2term-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/6c/9aa51a101008b814c02a02e234384a17ac0fa518a1d942b7b69306f26000/text2term-1.3.0.tar.gz#sha256=6407fdf83007a2947a5580877e38c6734ad2878bc4e8a7dbe95626575b1c213e" data-requires-python="&gt;=3.9" >text2term-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/0f/42f29fba26e1a1f00e19cdf9590bb304fd9903ac8e77c56e7f30c81acd73/text2term-2.0.0-py3-none-any.whl#sha256=3ab13ef23ff1a85572bce16ca20c6a9aedc84bf060811deb0d2bcba113136e52" data-requires-python="&gt;=3.9" >text2term-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/f8/76823363086930d028bf8d12ce8e75c887d5c9be1d8aa338b9cb068ac986/text2term-2.0.0.tar.gz#sha256=edab8709f09de97325b19e6a0d01b9635ff68e8dd5b5a280cadc9f6defa57ec2" data-requires-python="&gt;=3.9" >text2term-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/be/402249a53b9aebd4e7189c89f4aacb129dc8220bf0789247d9feef4c755e/text2term-2.0.1-py3-none-any.whl#sha256=c1195ae9cf70786a31bf65411ae0b1381d1f871e8ab628c56f223bbbc121db10" data-requires-python="&gt;=3.9" >text2term-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/18/1e177649b2683a55e7614e7df97e68ca59d543bd663f44013ffc4576eb42/text2term-2.0.1.tar.gz#sha256=2eaa8d72ae74c3563f37303de1a7db51227982aa5e3bccb421aa300e74b6f732" data-requires-python="&gt;=3.9" >text2term-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/7b/7a48707282d31beddc256892d796c811b5006b65d1532e8b1c869d13cb75/text2term-2.0.2-py3-none-any.whl#sha256=a61cc0ade55b199b6b171d66f8c6b19f3e951a986d5aff689c6873beddbeeae1" data-requires-python="&gt;=3.9" >text2term-2.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/12/0cfe0c8d33d756bce68cdda5ccb4cf8f3c8eec439d511ae860114817e71c/text2term-2.0.2.tar.gz#sha256=f86f82fe4c050f726ff3f47e0ccb4c326f17fef61b11d16d7099bab68f7e228e" data-requires-python="&gt;=3.9" >text2term-2.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16419778-->
+<!--SERIAL 17015808-->

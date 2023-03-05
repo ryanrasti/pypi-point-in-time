@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lbt-ladybug</title>
   </head>
   <body>
@@ -543,6 +543,20 @@
     <a href="https://files.pythonhosted.org/packages/04/06/5f282884e74895dc6def419d5f50dd5261e6f0d5af5e7d4e9e0e35f72b9a/lbt_ladybug-0.27.2-py2.py3-none-any.whl#sha256=fd166e95fb2396fc5d79c43a33d2afd6e38bed0fb517d2f8f25e3ea7ba2419dc" >lbt_ladybug-0.27.2-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/87/5d/345cb743402905267f96f98c4aa3dc58d07cf0a5f76f7b0577a7ecde29b4/lbt-ladybug-0.27.3.tar.gz#sha256=e4d7c7b0f34a5b65ab2ec854ccedda06586d862517e2a48c89ac92f699c4f795" >lbt-ladybug-0.27.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/4c/b8fbb25bb8b9c9c4686c47cd6e502948c9f41d67abe68c14ec1e03d471f8/lbt_ladybug-0.27.3-py2.py3-none-any.whl#sha256=c91166ea724115b973a599648296831cf3aad9b94c09ba432b4bd7c8d5fc2b79" >lbt_ladybug-0.27.3-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/ad/0ec4f553ab9ffc0f89124001e8ac5336d160fbcd811f902b0c76dbaff1da/lbt-ladybug-0.27.4.tar.gz#sha256=0a8fa6eae8db0511b961e974ed8dedffb6753265596e868a5b96fcc6dd692105" >lbt-ladybug-0.27.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/85/a29864ce78692ec25b3ac815639ae6390996df2986c3a2daf9a6b8945fb3/lbt_ladybug-0.27.4-py2.py3-none-any.whl#sha256=483537a7fb1ccf36a9c3d724b8607013e57b346efda81026859b5f1e28471f21" >lbt_ladybug-0.27.4-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/65/f5e37f8f189599d87e18df28a8a37000dda81721a6592853e479721296e4/lbt-ladybug-0.27.5.tar.gz#sha256=b66ff648eeb5d8abfd68837770ba0eb96af021833c840e6806a629e9532d8abc" >lbt-ladybug-0.27.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/ec/fd9c73b9c15d3f85b128f0e52cbf63348e7fe73c6414f3e37cce8767ccc6/lbt_ladybug-0.27.5-py2.py3-none-any.whl#sha256=de859706a94192c2d46cc74cad88dbc606d19af75098acaa209a2f5c3feda1d6" >lbt_ladybug-0.27.5-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/be/f0c8f4156e3f38820bc49fae702937c8e1ebdf4af131bdc4823d5de31080/lbt-ladybug-0.27.6.tar.gz#sha256=7f3ae109156f16cdbab0cceef62e5fc17f33435e92c0af8fe6d7b1386fc412e6" >lbt-ladybug-0.27.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/53/caf7afb333f4700eb95158bfb33cdd6bc9f8f08f2ec2cdc1be0cbe5cff4e/lbt_ladybug-0.27.6-py2.py3-none-any.whl#sha256=7b848b005b3633dcc681495c065b84e7962468787dbf59576f41b0f8edb2990f" >lbt_ladybug-0.27.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/bc/73f84231e9afe070633558adfc0901adc316bf2896a305afe47c8c3f5e06/lbt-ladybug-0.27.7.tar.gz#sha256=607e14893fa863c5be5ad2fc25d3541a3397277d31f402e8f045dd411139cb3a" >lbt-ladybug-0.27.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/1f/2a4f11cc193cf40043d5860cca6da8ccc6ce3db86ec422c8fbe408d04826/lbt_ladybug-0.27.7-py2.py3-none-any.whl#sha256=84436ecb4c0b8a327a7f91a6dc36f1b06aa2c19701e32a2c21b4e6695a4f8f64" >lbt_ladybug-0.27.7-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/8f/b7471f14e503886eca9b1cf8bcdc7eef2af0b3c03f81b578e44b58a23322/lbt-ladybug-0.27.8.tar.gz#sha256=5e477487c6953655742c49cce064028840bd3939d02e115190ab90b30498786e" >lbt-ladybug-0.27.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/a7/8bbda2f7f99ce31cd41d268c4085f511953dce2f8314004364d7e1788220/lbt_ladybug-0.27.8-py2.py3-none-any.whl#sha256=e0abed39dbfecd32379fc0e2835d45a62aa229a0bb82c8e9ef6a40e0b2a70ec6" >lbt_ladybug-0.27.8-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/b7/fe47065f1a8f2826ea0a3555080684cc8e79f913483678ae5571c5b08f09/lbt-ladybug-0.27.9.tar.gz#sha256=7706cff347eb77366b3b99d680a64ccccd08326b50b4947a9b2fec41a144cc5c" >lbt-ladybug-0.27.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/d1/7f493592c698fdf93a340cca0bf02ead58df1b0a8c3ee1d5b9f1d662e6b1/lbt_ladybug-0.27.9-py2.py3-none-any.whl#sha256=c58979a0c4b6c32cabb9746df1a3dcc935a4e2c5c5d46bc8c7a1e30678340175" >lbt_ladybug-0.27.9-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/53/875daba33b8e787f92dd91ec81f1ad9778e7a65d04462b50d76949594b6e/lbt-ladybug-0.27.10.tar.gz#sha256=fdf51d4d0baead4ec5f8d6690d59d42988664c7c1c6338c0b4c0e962f4ebc5eb" >lbt-ladybug-0.27.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/1a/8f1c9c84acb488b326a0b45c6e34c9ae29bedc55775f2d2c6de820707c16/lbt_ladybug-0.27.10-py2.py3-none-any.whl#sha256=01ebbac80bbf4c34cab5624572f8b6597440551e2b41fa0df1e6a2fe7dc888b5" >lbt_ladybug-0.27.10-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16378442-->
+<!--SERIAL 17148336-->

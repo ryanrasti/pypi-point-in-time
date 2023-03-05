@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gantry</title>
   </head>
   <body>
@@ -36,6 +36,20 @@
     <a href="https://files.pythonhosted.org/packages/63/a8/6f5a691acdc634ac2e50ed8a2a9e9f6d624d92f36d09472802199f45d71e/gantry-0.5.0.tar.gz#sha256=f79a9e0280c2f5d8dc09ae4cfd4c97a04ea7cde1a3da16ed70cee4ba026166cd" data-requires-python="&gt;=3.6" >gantry-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/72/714df423be05328b118471d40cf3231435d035177057bcd644417adc0677/gantry-0.5.1-py3-none-any.whl#sha256=e2c69fc5a56bae345041b7434d4a9c292f98c3b20323c2d2d901883d19990460" data-requires-python="&gt;=3.7" >gantry-0.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/eb/40/22f4c51b06e63755b170a678035068b31d848a6ddd0dca8ed25c1c43681b/gantry-0.5.1.tar.gz#sha256=76d414cb1528b5b7ecf1ada15146e7c99b6a857a5981190f0b9f2d6d99c83bde" data-requires-python="&gt;=3.7" >gantry-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/89/a45be58625dd43c0cbcebffd311ce1284145e14543c688d16a2cca72cb7a/gantry-0.5.2-py3-none-any.whl#sha256=6b2354711f81ebbb25dd74cd488a189c399b24172841038b63346fcbfc58bc93" data-requires-python="&gt;=3.7" >gantry-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/30/1f5c078a8732ef9a172af64afa498695391191769b5947b9842bab12edcd/gantry-0.5.2.tar.gz#sha256=c7e7ccfb86a59dae931e40c9443a76c7758503ae41c67eccd53f93366f7c04ec" data-requires-python="&gt;=3.7" >gantry-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/b3/b4273fd4765da5de7aa1803ebf5ee1541effe6e5f0b8c0aea29466abb66d/gantry-0.5.3-py3-none-any.whl#sha256=7722cb78bcf93aab51d0b11d4ff0a3a0d9eb9cf27b5f7141274b8b61e6d6e560" data-requires-python="&gt;=3.7" >gantry-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/bb/6b68bd145fb26bc6b6f10566b78ebc88310e3e9ca11273a09904e9889c68/gantry-0.5.3.tar.gz#sha256=3cc67372db87406c33cf66667ef5acc33b632be64e8f741e01448aa44f9a0db8" data-requires-python="&gt;=3.7" >gantry-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/f0/403d1a24bd73adb9dc6d45108f264fd9980f486709dde8d6dcc8210afc2f/gantry-0.5.4-py3-none-any.whl#sha256=c7f66e07bfe95d5955a96c8b0d1784ed09e66b6745ca632b1c0bcee908803d4d" data-requires-python="&gt;=3.7" >gantry-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/2d/45c65682f7a0f243046350ac778e3a84fe445ba0322c287f10da2bb07984/gantry-0.5.4.tar.gz#sha256=5866f2496d9f7a4167aaacbd400bc9f278bf5f7a2d627d79e4833c61a80e3d02" data-requires-python="&gt;=3.7" >gantry-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/9b/e90d09bff4f572391201dd72b26105c288de8e5161b3096fc59fa2830886/gantry-0.5.5-py3-none-any.whl#sha256=ebcfb071a9475776d01e5e593b692fb8e587c28eb91f4a0e04d658afcf86e360" data-requires-python="&gt;=3.7" >gantry-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/a1/931f09a90b9013bed5c8bcd941cff95eb438e879e592b3511a26e7b4e736/gantry-0.5.5.tar.gz#sha256=e93fb6108488b60e81fe96c5358f16298e3e20fe9b6bfe7348e05d781fe6d0fc" data-requires-python="&gt;=3.7" >gantry-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/b6/1772cc18f6be11bac498dbe1ae877102c03c913fce49043caebfa5a991e6/gantry-0.5.6-py3-none-any.whl#sha256=70f83374b90ebff93d39038022635fa422117042ddb69cdd8906f5ff1849ae40" data-requires-python="&gt;=3.7" >gantry-0.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/ab/444a0ec105abd409e9ceeac815a4fa69a0ff30ab850af7214b9da69aae5e/gantry-0.5.6.tar.gz#sha256=6054cded48ce0407cac6e52ef02a2b86563da5b286af2d451404a3d3a223bc3c" data-requires-python="&gt;=3.7" >gantry-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/41/90511dc5328474c0444aee268bfe29be0f57fa65a30cabb6de832ba29872/gantry-0.5.7-py3-none-any.whl#sha256=d0d7b5b492c43ba8113b2c5168b8f4710b8f91c0f7a83b1a3ef8e274cc6d99e1" data-requires-python="&gt;=3.7" >gantry-0.5.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/43/731e185252b2e96226b8f127ff8f0a7e2d67b8756df9d68e7c9725f4e11c/gantry-0.5.7.tar.gz#sha256=27dea5d6989267b5f47b481b7f31c1940b45c703fcaf11b5ae1689f139799081" data-requires-python="&gt;=3.7" >gantry-0.5.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/32/02f648d1302ed199236647f98670743eece0130d61098fd38a6c50b436f4/gantry-0.5.8-py3-none-any.whl#sha256=69aed9ef6c27f10748dbd42bb5256f9f32d552e1f812d0637e0dd5dbd3f443d7" data-requires-python="&gt;=3.7" >gantry-0.5.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/bb/9411f0487351dc6b439b19b26200b4768b7a6da60fdc530d39d382db18d1/gantry-0.5.8.tar.gz#sha256=e2bbf0a2753f1e4d1bf165c292df3d74be5406c1d940377468c7f5ca9d1ecf3d" data-requires-python="&gt;=3.7" >gantry-0.5.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16154580-->
+<!--SERIAL 17005499-->

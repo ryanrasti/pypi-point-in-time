@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for deemon</title>
   </head>
   <body>
@@ -250,6 +250,8 @@
     <a href="https://files.pythonhosted.org/packages/0d/76/1e14dbf6f57d7d9a0bd8bbbd1114e04cb525cf84e9305da8252a4f4bbb06/deemon-2.17.tar.gz#sha256=b346bdd7836a79190e90b3608fac4d9041e6db5b0868fde4d247a9386e6b1b00" data-requires-python="&gt;=3.6" >deemon-2.17.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/92/cb/0281de3ab60418f44c78b96f7fec333137c54da30d9dcbe8f76f5ebc08e2/deemon-2.17.1-py3-none-any.whl#sha256=0d50601ad6b1848b38b4b5624a31fb0150959c7673548c888ca2e04ff3c80765" data-requires-python="&gt;=3.6" >deemon-2.17.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/5d/b72fe9a067afc07469c5aacafffd4e850a933f930f4e66fec3383ee3df3b/deemon-2.17.1.tar.gz#sha256=cd0ff7ca42f7d37f10e9d66dc6d7e5e58510da618828b3a60d4b859393de5805" data-requires-python="&gt;=3.6" >deemon-2.17.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/1f/2bdf622570dd3fed9a82ee43c0533f0ec3fa54106f6183d90855f9e52173/deemon-2.17.2-py3-none-any.whl#sha256=bf1bd0c0724d3f6da25e092417e9a661b81b261e6268aef01bf3dbecdf260b41" data-requires-python="&gt;=3.6" >deemon-2.17.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/93/364f63896ef3d4e32aca796fbbe5d63f7d24c50b2b4a5c40bbd34010b2bd/deemon-2.17.2.tar.gz#sha256=54b7a2961f9d24b7d1d6685effd889f034f8f05830655020908fbc9386723910" data-requires-python="&gt;=3.6" >deemon-2.17.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/2a/90576bcedfab3a56846792cc1123f9b19fe25c073c9e0e2ffbb3c26d4c16/deemon-2.18b1-py3-none-any.whl#sha256=bce96f1bc8f9b92bccd593b263f6f446084148624fc9b97c4af9a9824608f2fe" data-requires-python="&gt;=3.6" >deemon-2.18b1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/4d/95a83c8a09694672b76ef3f130e6b59c95237595cd5781ca1ab528150de2/deemon-2.18b1.tar.gz#sha256=032ad70e8f7722e8d3ed436776c2b1d7582378471b4886ac99d0bccd9834b9a2" data-requires-python="&gt;=3.6" >deemon-2.18b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/40/ee/7eafa38ecb920724183d2ab2e4a0118a21afbf5551164a5666da16cb5d77/deemon-2.18b2-py3-none-any.whl#sha256=0ce890b81d8a61ba228ab8a4c4494002496ff8648250512a33a34b07b4d5bb7c" data-requires-python="&gt;=3.6" >deemon-2.18b2-py3-none-any.whl</a><br />
@@ -258,6 +260,14 @@
     <a href="https://files.pythonhosted.org/packages/07/d3/d74f77768ff1e6d2e4aa1ff0c94272769e2f310b57e0a37f661e20984ede/deemon-2.18b3.tar.gz#sha256=7aa15ab998ce6ef0f7815dd71bbeea4f0ea872a2073b3ffe18e4637e2b899ca5" data-requires-python="&gt;=3.6" >deemon-2.18b3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/26/ac88c50f270b7f37dff5d7665f641c1b060af61b7b7fb95c0062efaf73a9/deemon-2.18b4-py3-none-any.whl#sha256=3f506b251d6ccb45a221ce0fe3c8ff3d8ca85acd65c9bf0cf43640c3293e65a6" data-requires-python="&gt;=3.6" >deemon-2.18b4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/37/f7c3cca112d58894e4e0cf4cd41b51e41baacea1699fdf35b756ca31d7f0/deemon-2.18b4.tar.gz#sha256=f7792551ac50a8a758b5839059983afdacd16893f3071f4b4da9ba79ba0a8756" data-requires-python="&gt;=3.6" >deemon-2.18b4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/ce/792be7e764423d0135dc5f225b3fdc1bb3b127924e9e32a65c01c91197bd/deemon-2.18-py3-none-any.whl#sha256=8e6443d0eb32c406e45a5875273e89737a4b27ca4837449d2bbf38eae1a33182" data-requires-python="&gt;=3.6" data-yanked="" >deemon-2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/80/215c076f03ab49fa5dc0d88dd8da23d853917f5abdfdc731c1f1e1275e72/deemon-2.18.tar.gz#sha256=e91ca0ae6d3260c8f867d8738be1529e77faaad66e49ec344e44ce75b327fdb4" data-requires-python="&gt;=3.6" data-yanked="" >deemon-2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/f9/418f7c7f1b32eed1702cd269434a38e32bd5ebf90d862060ec10065ca207/deemon-2.18.1-py3-none-any.whl#sha256=6f17d2ad543c5d43414880919446bf1811958f68ec3b18d28b58cf8b71e1f8dd" data-requires-python="&gt;=3.6" data-yanked="" >deemon-2.18.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/a1/3d9802e31fbfcc836510d7be0ba5a89a369d4719f4610eb2e26f3a4d5363/deemon-2.18.1.tar.gz#sha256=778dfcb938aff9cc95f52b53199090aa2eee0a6af654fbb5e4774c2fac562f71" data-requires-python="&gt;=3.6" data-yanked="" >deemon-2.18.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/80/f0c6531790bc10336b39a154fbba9a524081d34b29f5974ee636f316f5e0/deemon-2.18.2-py3-none-any.whl#sha256=f88d6b13d0d24c9e0c7370250c2b9a737f149be033f3b881a1bb9d40410eccac" data-requires-python="&gt;=3.6" >deemon-2.18.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/92/c05565d3f0a20ae4e59f565589aa023fe4908314715c8a6acb34653ccf98/deemon-2.18.2.tar.gz#sha256=0128d436eb666941a9d4c61c09dd6dc745a026148a35f2450cd370087f238a6a" data-requires-python="&gt;=3.6" >deemon-2.18.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/4a/9877c16d46b98951ff0498a57ee77daac3c345061ff4a675dfefc77c2c44/deemon-2.18.3-py3-none-any.whl#sha256=e2c6765339fde0dada2e83b49406282b8a92b61045a90c3ad4331d4dc05900f5" data-requires-python="&gt;=3.6" >deemon-2.18.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/27/1bf95a942f2e9ddf0e2e8743618900a5b0ee60e9b9e42a95e5e7d3d0a8a6/deemon-2.18.3.tar.gz#sha256=0e8ab68609de11f64714d27c73378c84c2148cc9aef4fdf6a6e26ec4327dda04" data-requires-python="&gt;=3.6" >deemon-2.18.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16232897-->
+<!--SERIAL 17139636-->

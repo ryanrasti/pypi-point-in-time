@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pulp-ansible</title>
   </head>
   <body>
@@ -125,6 +125,8 @@
     <a href="https://files.pythonhosted.org/packages/3a/ad/6cf7917a60b863a17a4515092f20eb886e715ce05749a963adf829e69a82/pulp_ansible-0.10.3-py3-none-any.whl#sha256=997d37db32e956cd53e00b25db7ff47a0f80b0977a48e4fb48b484ff810968d6" >pulp_ansible-0.10.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6e/94/3ca5243f7b6351d1278dd7ec8c2d99bc0115ec711ab90559411c922de384/pulp-ansible-0.10.4.tar.gz#sha256=46c33bb95ac37030d2e8e43a1a6718641c362cf2abc1dbdd878a63af46c9109f" >pulp-ansible-0.10.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/be/5a/78a1274c7ea70a5fcbd460ecb62f04c8ae59f6a96f5b433c44b9c21a35a6/pulp_ansible-0.10.4-py3-none-any.whl#sha256=6390ec8c18763ca740d3e3c348bcc896a7ac425505f5200e7663e2fc63fad570" >pulp_ansible-0.10.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/f7/3b6bf3539f9e90b025bb8ae9ecddb4946450e2404cd1f3152cf03402ea7b/pulp-ansible-0.10.5.tar.gz#sha256=f053209aaa71331a8997be96a5e89fdd999156b891fde629e2e4e57138feb8fa" >pulp-ansible-0.10.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/40/2aef19a9f471bb1d21f7e70f805bb183c9c92b9596b02c5fbd97bfd96581/pulp_ansible-0.10.5-py3-none-any.whl#sha256=5e32d2edd112918cf2acc2d2a137143a6844c16a9cbcc6dc877bd7a1a5437a37" >pulp_ansible-0.10.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cb/65/830681ae827eef9f75d9b3d39df058dccee3c4773fefb6aa89f4fddb29e2/pulp-ansible-0.11.0.tar.gz#sha256=fd97ca771670dcc0a74b2a71703bf41646603c0954a8fe286396b8a3f3707d11" data-yanked="" >pulp-ansible-0.11.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/db/57f99833050bcd438067836708c015db0d606e876a4778225ff67b5a6e24/pulp_ansible-0.11.0-py3-none-any.whl#sha256=e1064a8badd99a74d76597da3285c3cfd2c271c596d7e7b6fa9bbde78dc93462" data-yanked="" >pulp_ansible-0.11.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/67/fe/d4d692b17c0134aa6472125e317f6bccfbd579ba2d137784aa966f1bf6d1/pulp-ansible-0.11.1.tar.gz#sha256=48cd48ce413ad4ec440384a2bdba4186d26ee729d5b8655e7380c7b228df3646" >pulp-ansible-0.11.1.tar.gz</a><br />
@@ -143,6 +145,8 @@
     <a href="https://files.pythonhosted.org/packages/85/fd/3108958a3a1cc67e62216b054e966d07d6528318a4b2f9a9bc04e47ccdea/pulp_ansible-0.13.4-py3-none-any.whl#sha256=0bdb9d9ca3473348ba03c863bbd09d29baefcc0fc5467926693b7b3c59a2d3c2" >pulp_ansible-0.13.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/b2/bf11d4af03f0e294a3d94a1032ed8b2cd83d9d58c35406a3122291f53906/pulp-ansible-0.13.5.tar.gz#sha256=df565bc0e3284fd6aed2fcd4a07d6bc6ee298ac6cf59d0947d234dba7548ea73" >pulp-ansible-0.13.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/fb/6541fcc6f45ea386338b10cb85fa18713ffe96f6c2fb4d2911841f4dc585/pulp_ansible-0.13.5-py3-none-any.whl#sha256=d695a4329f1729793b203a926a269526ca6aa34c4e4a8c0481fa442c46dc7bd6" >pulp_ansible-0.13.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/ba/0e960f722f012530df5ae0eaee02738531c3c0ae5e94240a45ea2d36807a/pulp-ansible-0.13.6.tar.gz#sha256=6d0589ee138794a26e25fdd3bb19c1be9c2a70d74e2bf78f969681170434037e" >pulp-ansible-0.13.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/4f/6c4613a72afaa0c96ed7dcdde4baf0437255e197c1cf791da0f51224b468/pulp_ansible-0.13.6-py3-none-any.whl#sha256=514f2bbf11d48e58ee9b88d1f964f336b25a51a1c8d4043dfee76f83b255b441" >pulp_ansible-0.13.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/94/02/98f03341e637ef48d557d0f53abc96e45d596cf889c4267927dd48f0d5f2/pulp-ansible-0.14.0.tar.gz#sha256=81dcaefb8c69ac5b84c77cd4b103258196888020412e19f4db6891dc645fecde" >pulp-ansible-0.14.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/a1/1f7254732ca66f89190a818a451a94fcd9ef5cea21a79ccd128d0dbfe619/pulp_ansible-0.14.0-py3-none-any.whl#sha256=82f2d6a7439e5ac53447ef800aaa209505c9a8a94c43b4f32f2ecb1e8ca996ac" >pulp_ansible-0.14.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/86/a6/8c5e212fbde2bc88a6ca635126abed00bd7e03b33c7e7d1b8589fbd91327/pulp-ansible-0.14.1.tar.gz#sha256=60ab33b7f01e6c2febf11f498ff826041aa210b4ebd7bb90226d82b3655cc74e" >pulp-ansible-0.14.1.tar.gz</a><br />
@@ -151,8 +155,16 @@
     <a href="https://files.pythonhosted.org/packages/e2/9b/06f34e192e2c682a4e902bdcffe8c19ff0b96fa9cd9ccf8c83d3d582a67e/pulp_ansible-0.14.2-py3-none-any.whl#sha256=63b6c0059fb8564b7bd3e5b8614747ffcfc1841b727013b22dcacd8acf25959a" >pulp_ansible-0.14.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/40/57/27feb09716e6746f8db6933e4c9eafb44bc767bc0d7f98d8e1c6e507d68e/pulp-ansible-0.15.0.tar.gz#sha256=11c4002b99b36db03241d346249f3f3b0a41a1332316e6dd74d9ad9d8af396d4" >pulp-ansible-0.15.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/90/4394e54f0c333427bf6acacaeae82bd851056b7b958c9478667f254878b8/pulp_ansible-0.15.0-py3-none-any.whl#sha256=05adaa108f16af992cf9962bf2457de3c43e7890c1df0ce140d3d81385b63f98" >pulp_ansible-0.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/a5/075904bab9d299de6a1d218a2dba498e14085d34336d0c5bac64c8e3a7cf/pulp-ansible-0.15.1.tar.gz#sha256=74f660ca406225417e91064a6659de48bb5aceb826e78fedb5a2e654117efed1" >pulp-ansible-0.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/6c/9d25dd49f917b26dc7a5157ed84acfeab9f375b73d860897aa36e9e510b0/pulp_ansible-0.15.1-py3-none-any.whl#sha256=09ea8055371abd22854ca166821eb866c53e791ffbc28ff084a493bd6ff7066b" >pulp_ansible-0.15.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/ac/d0c37fd06edcd8a474d30c39e0cd988579e8932f1730bf3d8327aacb1b27/pulp-ansible-0.15.2.tar.gz#sha256=4bfedf2e8ba70ebd98562682f42856fe7ef27d5efc190c988d3e46986af7b6c9" >pulp-ansible-0.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/94/0c3b8963ee7d98a0d98da8f557beb1e6072641eee2fe1a1c8e3bac96f078/pulp_ansible-0.15.2-py3-none-any.whl#sha256=5a476c5f71244aa0d7a9988ea36afcf82a394e7606e0f7c10fe3f620bd9221fe" >pulp_ansible-0.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/6f/15057ba0f738202774575d5ec7534e7011d0056eab8a05ef614255271a43/pulp-ansible-0.15.3.tar.gz#sha256=039a30b304e9321ed7adbf79cf78a38675aed82b303b969d2f687d9d0c87c4f3" >pulp-ansible-0.15.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/96/3bdaf8468ac72d6bdc056fe9d2b4e19bbe7361e720e9e19063d87444964f/pulp_ansible-0.15.3-py3-none-any.whl#sha256=1acffee37c766f93b3b7e1ed8db0dae7c3bbc4d3f816eda7c352048250638e54" >pulp_ansible-0.15.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/f7/036e6eead9e2501a94426aae9e9e8499ca5b2511d8b09a94ddbd9a75486c/pulp-ansible-0.16.0.tar.gz#sha256=7f7be02d461702f73cd671f88484a1e32cdfba22efa7da60e7e1f549fbd6611a" >pulp-ansible-0.16.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/08/f1a73895b9d52a9e0eddf24a488cf2122cf9fb5173e03a1582590eaac82c/pulp_ansible-0.16.0-py3-none-any.whl#sha256=92778917c5970e225658ea0a83801e39c933a7e85a40ca8fa0d32ed4b1beac82" >pulp_ansible-0.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/6e/e988117750d591dc10734b0ee2e066bc478c38c0c7bb6585cad1290ae31c/pulp-ansible-0.16.1.tar.gz#sha256=38efe194f4c21d990c93840269f523c5ca3cb4b2ae9206d029a28e8e23e4edb2" >pulp-ansible-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/d3/1a1aadf6486ca47e56a3fe758a4059b15d2fa174ea93e45ab3d0116ea351/pulp_ansible-0.16.1-py3-none-any.whl#sha256=10ff32b18babe26c86122e3ce848784090d6664c05a73c32f6e38949b2142682" >pulp_ansible-0.16.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15964919-->
+<!--SERIAL 17001862-->

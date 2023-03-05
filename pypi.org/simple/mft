@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mft</title>
   </head>
   <body>
@@ -94,6 +94,18 @@
     <a href="https://files.pythonhosted.org/packages/15/56/54c843c00ce2a1bb315937a93339ab47f2759d96c86ef8eb3fef5ee38b77/mft-0.5.6-cp39-cp39-macosx_10_7_x86_64.whl#sha256=ade642734629fea20982cc06456bfb07d0a586d22a24b56e66de53e8d8af8f8b" >mft-0.5.6-cp39-cp39-macosx_10_7_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/f1/068d8737be7d2ea893ae8b4bcbb6968696e096fef18e1a6e5b3f92a2ad38/mft-0.5.6-cp39-cp39-manylinux_2_24_x86_64.whl#sha256=23630f13327f9379eb428c562240aa779716e1bf63cb7e2c77043473b11a01e8" >mft-0.5.6-cp39-cp39-manylinux_2_24_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/b3/9e88c4a9b95076d35dd84a204306c20a4d2176c03ecdc24abc99ef026eb3/mft-0.5.6-cp39-none-win_amd64.whl#sha256=d4a9b5b0287712ceed0d7f8006006c9d53e2007585d66f150b5f8baeab935acc" >mft-0.5.6-cp39-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/39/fada4783074d8a86c0bbe7d0b790fa0e5d36c5c89f6e5abed19ca56dc22d/mft-0.6.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9f65730435aabc1367f8dc2bfc5b3bf2cd86d358afe264a82bfc966cd100f6d3" data-requires-python="&gt;=3.7" >mft-0.6.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/31/e118dd40721d6974131975341497702d50ec8a44eecc7cb3d9faa12ac6e9/mft-0.6.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=79180dcefaaa62a6db0eb21d1f405b31ddd3e04d26818a90080910b62cbba3f5" data-requires-python="&gt;=3.7" >mft-0.6.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/6e/6cfbcd20a93912754fd4bd0d24a896973d54fea7989e6f43ba14469829f9/mft-0.6.1-cp37-abi3-macosx_10_7_x86_64.whl#sha256=b6212a2dfc546e2c089f8240096a8ba407385bb42f147d4ed4f8f242b04c7cac" data-requires-python="&gt;=3.7" >mft-0.6.1-cp37-abi3-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/72/4bef696a244810851edc9e065c770f0b502f9f185583421680cb1f09ba15/mft-0.6.1-cp37-abi3-macosx_11_0_arm64.whl#sha256=3ce3e9f2ee64e257d0ba21eff74747f143061d50efcd5c833f639a58d31eb369" data-requires-python="&gt;=3.7" >mft-0.6.1-cp37-abi3-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/e8/825d2cd9c96cc7d4b48b2fa2dcff16c1e6686d342a774ed8b46b3aafacbc/mft-0.6.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6279bf9ed1985004ab127df3db56b3562814d0b1e136723ad67bd27d2b43e11a" data-requires-python="&gt;=3.7" >mft-0.6.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/a6/6ae29142293e79124886c0aa267900b4e79fcfa1e0b38e279ff493fb2948/mft-0.6.1-cp37-abi3-win_amd64.whl#sha256=9aa21e8729cdfbd2d1e3df058fe2d4743a1f2cfd085c895b1c0630433dd50529" data-requires-python="&gt;=3.7" >mft-0.6.1-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/37/9002ddc3d60eec9e4a3d271dcd7268ced267d924ca5eadabf7c1dd7f37e0/mft-0.6.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7d15e5466ccb0fcbd81b4434f550463d17068b485bf69bf3836820d5a3cff925" data-requires-python="&gt;=3.7" >mft-0.6.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/04/eea2ffe18b50a17202d94d605a4dc34f1b118ea8c1fa617e2f0195927aad/mft-0.6.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e19fd042fbb8f12d727be428d8ed3c956ffaa17f133d8795d2835656437cb97f" data-requires-python="&gt;=3.7" >mft-0.6.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/46/44356469598768a2ef3de1a8fd30cf9470b8985e3db2e480e32dc550477c/mft-0.6.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl#sha256=466ba49d9d9a10bf4c32885c60a35acdec6f0172b866fdb6c63f9fbe25425f2f" data-requires-python="&gt;=3.7" >mft-0.6.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/ee/5782828100198c58f5a168b376b4f2ec5e688390b792841f8d13d83b4507/mft-0.6.1-cp39-cp39-macosx_11_0_arm64.whl#sha256=d3973c20f5f0b66f330a74d8b88487d2471fa87fdea65dee30b64483bd561549" data-requires-python="&gt;=3.7" >mft-0.6.1-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/9c/c458e10ef37770d7943f565ea480807015f7bd7fe312f3c0b651c072f2b4/mft-0.6.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=148bb85f3caf86ce4b404aa03a4801dbb2355fc15c351f04a5a189c54ea7dc22" data-requires-python="&gt;=3.7" >mft-0.6.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/92/a8de3fdfad02540c3f968d1e8ed50334cca248203c1f5e0fac41c74427ca/mft-0.6.1-cp39-none-win_amd64.whl#sha256=5b027fb7c641b5e7ac02856dda8e4fe9720fd37c44c6ae9b7f723e094cf20375" data-requires-python="&gt;=3.7" >mft-0.6.1-cp39-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 10866538-->
+<!--SERIAL 16914049-->

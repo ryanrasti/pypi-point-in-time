@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pytorch-metric-learning</title>
   </head>
   <body>
@@ -388,6 +388,22 @@
     <a href="https://files.pythonhosted.org/packages/52/79/761f72c2f34b7756012c6978e7cec7077defb9b15f05278eadf6e44714ca/pytorch_metric_learning-1.6.2-py3-none-any.whl#sha256=1b2d2371665b84b9188cc4683343818cc57b9a2bae735092cf2d81ff8c130e44" data-requires-python="&gt;=3.0" >pytorch_metric_learning-1.6.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/3e/94b267ec8e45ed34809e52f46460a473a7c479a6545a958461a3cf43bbd5/pytorch-metric-learning-1.6.3.tar.gz#sha256=1c5099934152e0637c7302eceba4f39ff23919a40a8e0a776a16036d40c26c3b" data-requires-python="&gt;=3.0" >pytorch-metric-learning-1.6.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2a/ea/1b3e9fb7ad59cfc70b56fc33bc3cf4f12ea6e09b0c50bfd74932487a8991/pytorch_metric_learning-1.6.3-py3-none-any.whl#sha256=118c122662c4a63fd703a2275303fddd7aec8ec63ad2fa430ee5582922636171" data-requires-python="&gt;=3.0" >pytorch_metric_learning-1.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/a3/c72ee7975af066a0206b2ebf80f224b771b40061e132ff9006f53ba1bf7e/pytorch-metric-learning-1.7.0.tar.gz#sha256=c63efb557872db5d053b0e1c69ea451c697c5decf8206289e172162ebea902e6" data-requires-python="&gt;=3.0" >pytorch-metric-learning-1.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/9c/4991422f642b09244ca929889610ca6892c3b27637b5f7a8a98dac4de406/pytorch_metric_learning-1.7.0-py3-none-any.whl#sha256=96fdce9567d1c40c2e2abebf3e664e07c8ae374fbc936c169c7229885cb47d5c" data-requires-python="&gt;=3.0" >pytorch_metric_learning-1.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/ec/ee951828b39939617a2409a46ac66760393501c1973676a5d90f284cb1c1/pytorch-metric-learning-1.7.1.tar.gz#sha256=207f9310f010a5a041b8b466305adb9606ca9b419e081a96a5230e3effb959d5" data-requires-python="&gt;=3.0" >pytorch-metric-learning-1.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/dd/eac9c80d7e09a5146b9c1f6838e747dfa8d186721c1d0cb4c72d094fb7a5/pytorch_metric_learning-1.7.1-py3-none-any.whl#sha256=4b948bb54dd684a95fdd1600a225549acada640956396d4e3de60e286f14c7e3" data-requires-python="&gt;=3.0" >pytorch_metric_learning-1.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/b6/3c620cd1590078c5cea7cd00399fcf4e2b5e0045b5c08de3fe9850755e1a/pytorch-metric-learning-1.7.2.tar.gz#sha256=504bf0d97033a7f233e4df58487585868b59991ecdf6f70be23676d3eefdf946" data-requires-python="&gt;=3.0" >pytorch-metric-learning-1.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/06/fcd36e03ee9dd90186ce9071116b31d68182fe4be8f59cad7d82a3e04049/pytorch_metric_learning-1.7.2-py3-none-any.whl#sha256=423edbc7dcfad157ced3518a950450b9d74ddf55e877a68d88f0a99c6a853f37" data-requires-python="&gt;=3.0" >pytorch_metric_learning-1.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/d5/b5367bf873dda5955558af98824ddef1584c2788a9497df5a13068e6c3c3/pytorch-metric-learning-1.7.3.tar.gz#sha256=e742b36c167ea61e469d87f6e6c76224d7c0a6da9ddd2f22e5e09929f9b3a4b2" data-requires-python="&gt;=3.0" >pytorch-metric-learning-1.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/d9/1e352c0d5c3247bb06ef38de1f511bf989d126d6a1aeaf02f5e2ae3fe682/pytorch_metric_learning-1.7.3-py3-none-any.whl#sha256=db3729c31b85d5f2c830876341963010f4e929f41182f0e30354c12f83d2482f" data-requires-python="&gt;=3.0" >pytorch_metric_learning-1.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/04/2b87137b356d5e6dd3e7cda8f6dab89218cdf8e0c9013af8f7331404d47c/pytorch-metric-learning-2.0.0.dev0.tar.gz#sha256=7aa96e5c94319f6dcbb749800efc86752ee8689b1834fe6c325e17acc5c14c95" data-requires-python="&gt;=3.0" >pytorch-metric-learning-2.0.0.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/81/ae9430c2af111f685f5040d3d3e36e9d8575f29cdf850d6d654e8ab328e5/pytorch_metric_learning-2.0.0.dev0-py3-none-any.whl#sha256=5f455afd3c2ffed79bec80caf5c03e4614522b98e68dccd8c1dcc68ff289a061" data-requires-python="&gt;=3.0" >pytorch_metric_learning-2.0.0.dev0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/0f/b0474abe0672fbb4753c3e52a5b7dc2296f84442ef8e83fceea94f7670e6/pytorch-metric-learning-2.0.0.dev1.tar.gz#sha256=9cdf5b8e2a53b8219f671e3fbbcf3d289286ef289358602c76f1b83edc230375" data-requires-python="&gt;=3.0" >pytorch-metric-learning-2.0.0.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/3d/f8b930b9b7da1beddefb6b752812ec55158dc19e3d4fcb59e26d13c46444/pytorch_metric_learning-2.0.0.dev1-py3-none-any.whl#sha256=783b2838cd653274f494d450916315949e1aa50e7875070a61bc503adbbbd949" data-requires-python="&gt;=3.0" >pytorch_metric_learning-2.0.0.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/a7/281e020b5beffac7ab4cc2babb5308617eeb84868b51c0bc666706b030ad/pytorch-metric-learning-2.0.0.tar.gz#sha256=2705d668ffeea073c6bb56aa29c3b4af6755224c94c808a515fc17707f35b0ba" data-requires-python="&gt;=3.0" >pytorch-metric-learning-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/ce/1832b2a9510611a72cd74eacd1e192a7034432893c769c3847dd8124ba04/pytorch_metric_learning-2.0.0-py3-none-any.whl#sha256=51ace40d62f2be3ceae3e4d80c61a17279c7fda8776a1fea991e3fecf68ea8a1" data-requires-python="&gt;=3.0" >pytorch_metric_learning-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/72/47ea12ef1c9229c8d878820198d1af474c43f195521c968e1f7a61832480/pytorch-metric-learning-2.0.1.tar.gz#sha256=e7bde95e7e20ace9c3f2f939896661821346e2e0acdca9af02d133f7b0e2191e" data-requires-python="&gt;=3.0" >pytorch-metric-learning-2.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/f1/4eaef24644a57ba7842bde2766b8105dddd875ab0887c71b7df2e015b80d/pytorch_metric_learning-2.0.1-py3-none-any.whl#sha256=6140d69e63f87f07a87bd939a20a2dc46e84f5b98ae2201a2b8ccc7132e7801d" data-requires-python="&gt;=3.0" >pytorch_metric_learning-2.0.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15619512-->
+<!--SERIAL 16963289-->

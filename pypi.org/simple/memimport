@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for memimport</title>
   </head>
   <body>
@@ -45,6 +45,19 @@
     <a href="https://files.pythonhosted.org/packages/34/51/0f60c4e8f7fa6cb6a8e8602f506fcc18738df9ad6d5076b7214a0e9cd7f7/memimport-0.13.0.0.post4-cp39-cp39-win32.whl#sha256=26d326df61a188a59518bd64521cdd579f3fa7242efddf63c79babde84a0bf01" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post4-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/e6/45988176f7068c073714befa836ffcf9292315451899c129df0cdbe1e354/memimport-0.13.0.0.post4-cp39-cp39-win_amd64.whl#sha256=94f43ee526a40318093381e03eff3dea066950e6f2200ba6d1c9ba6086730c4b" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post4-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/86/cd/6e86a7170f7a1ae87533a5d8d60994c5b5f1e2d5b34e596ef3ca9a18da9e/memimport-0.13.0.0.post4.tar.gz#sha256=548a5206b50d5daa20531bfe368aab00bee49e6505e58684b4b56ac071df2ee2" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/af/28daeeaad0dc6f567cff7660f04dbbb60d41273eaf1a7140324ba9028458/memimport-0.13.0.0.post5-cp310-cp310-win32.whl#sha256=bee50cf6a622755d644c10be05f989642594bf55dbdb43854dd93138e853d353" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/3f/f11a696b50cd64bd958ac26225cb7c5d94c0821851d09d21db3b3b550d24/memimport-0.13.0.0.post5-cp310-cp310-win_amd64.whl#sha256=26e1922bdcdc4d01e19a4325848000cac3d42843ac71a834cdceb026f69484c1" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/98/20b0de534ff5fd90bab1ba9518e9d003668ddc2d07c0616f8c236f575e2e/memimport-0.13.0.0.post5-cp311-cp311-win32.whl#sha256=fec4aa285316bc272641765feba9fe27116151ab41120b0083d8a1213c16cae6" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp311-cp311-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/ac/aa95552345a23eecb39ab3f9130994b1445db5947c0f5ec94cb216e2f885/memimport-0.13.0.0.post5-cp311-cp311-win_amd64.whl#sha256=bcd273011d9da79a5da7aced8a4315989ffdf92807332837221acc8917c08e51" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/e3/8c41b835012373cbdd8814267fef659eee38f1dc9b8f9310788619839628/memimport-0.13.0.0.post5-cp36-cp36m-win32.whl#sha256=3827190aa2a5bdb5968edf846d868f8723799443ed6efc88673e3f5da2bdd183" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp36-cp36m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/3d/985e4b5d8a3b92f167f0a82cf5caa1d1bb4a3942bc65ebce49884f809fa7/memimport-0.13.0.0.post5-cp36-cp36m-win_amd64.whl#sha256=429ed7149edcde62da84fab5eeb14dbfb103da424c796ecfe9fb998425652571" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/b7/d279508321d361bb2cb5530e96255ec1bc06061c02cf60ad28b77dc5f437/memimport-0.13.0.0.post5-cp37-cp37m-win32.whl#sha256=be11c7a68100363eb4406854a02b20501dbaba4b5af9e4727d8432dd70f23285" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp37-cp37m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/27/9996c7a425ea5d07ee976937736101ddd209db81d628570b6bf2f587460d/memimport-0.13.0.0.post5-cp37-cp37m-win_amd64.whl#sha256=f52233b745d8d26905d976d6d0165b10febc7cf1cca22ef9a7bd4c5c7227468f" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/10/12ddd7ad023a2e564eb37221ea868aee985d8665b06d7b484d5e7139f33b/memimport-0.13.0.0.post5-cp38-cp38-win32.whl#sha256=6a95ef712e95e6fed574f11eaf3c89c0e443f97821a92267c55c80c39822f0de" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/5f/fd741250db3daa0f880d1cd3672b927b557577935f6f0c404d090240195b/memimport-0.13.0.0.post5-cp38-cp38-win_amd64.whl#sha256=bcd1208a6c32440cf42ded47534f1819649951ae1e212ffde55f555352dcfb30" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/db/9ea13bbe9e7979367c7ec88b757c4e59d983be805ec50740b657c8df10cb/memimport-0.13.0.0.post5-cp39-cp39-win32.whl#sha256=1545ff2270e7d112fc28e38eca0dc3a8ce105a5561ee111a4655fd291d46db0d" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/8a/7776961c2d59090e7ab538be58702bc61c02d501955b69890422587485a4/memimport-0.13.0.0.post5-cp39-cp39-win_amd64.whl#sha256=b17f524cec3a8d17b78e6bbd71b9b47fbd80ef24be739c2a8350291922999aee" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/9e/727bd924b6c9ac26d5c7f8e572c3f344eb7be07d6ee38710d1dc71d62409/memimport-0.13.0.0.post5.tar.gz#sha256=e0125c25e45b29b1578ae23319b58cb75b815ee33fd106ab94174ff86e1aec70" data-requires-python="&gt;=3.6, &lt;3.12" >memimport-0.13.0.0.post5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16361240-->
+<!--SERIAL 16456031-->

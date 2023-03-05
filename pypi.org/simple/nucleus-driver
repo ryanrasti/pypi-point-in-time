@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nucleus-driver</title>
   </head>
   <body>
@@ -114,6 +114,18 @@
     <a href="https://files.pythonhosted.org/packages/d5/8a/4aa24a515b132c1e51d36969cb070bc7ad52b0bcd565b0348de472476175/nucleus_driver-1.2.0.tar.gz#sha256=d2c572db26354632f436c17774e9d1228856d554a022ad7c33f18019307f9be0" data-requires-python="&gt;=3.7" >nucleus_driver-1.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/38/2be3d1fd2ac53c9bf7a6f7c07e247462d5850ffeb7d13c06b295fce2c771/nucleus_driver-1.2.1-py3-none-any.whl#sha256=17ab3e1d00adb9a50f0a4fadf2a7fd8c34302bcd97867e8cbf8b43158d88d7a4" data-requires-python="&gt;=3.7" >nucleus_driver-1.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/05/e285aaddafa6f847b3c8e68b8a2e4dd3ca37edbdb97670da2780588ce594/nucleus_driver-1.2.1.tar.gz#sha256=300752fd4ff2da1224e0f8b6c5a17faa86a3ace327908f4199d8c6412fc53a20" data-requires-python="&gt;=3.7" >nucleus_driver-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/c0/1f07e77e8fa763ae0eeed1e9b8a1833a4c4635e8dfe35ceb9834af893b55/nucleus_driver-1.3.0-py3-none-any.whl#sha256=53a67c0736179c41c6e271d5cab85404e6abeb00fa9f3000973f372380ca333e" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/af/947ef889e38ce883ea4bcca0487c0481e0794e8ef287a936f36bc65aa17a/nucleus_driver-1.3.0.tar.gz#sha256=9af62f09cd452d4c258cb4a014274e6a68860e2f78bc61035c605196f8630c22" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/f3/5dfcc7649952731d5c22256ae38edbd3122bbbd7003953447e42b1d28372/nucleus_driver-1.3.1-py3-none-any.whl#sha256=28d0a692a9e5e602946589d38349749de0c772723b97e1ae65a47d16b774dd94" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/49/9901ad1affe15af4157b7286b34527dcdafeda611f7a6f72f75e056897d0/nucleus_driver-1.3.1.tar.gz#sha256=1ec7e17bd299ba7b9ea1a6fdfd92e69dec90157e036d2f215c0f5a487a37b4ca" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/a5/2ce6731e6e1b27a935beae2a3edb43768d088051ca392f590455a75b5b69/nucleus_driver-1.3.2-py3-none-any.whl#sha256=aab8f461cbb9ddd5db3796662b3aa7f3a1309b6a120eec76ed61d820609fd7ae" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/64/a984a28db90bb9a53b0280492722d06cc9b5869ab99cc528dd9b29e1e9f6/nucleus_driver-1.3.2.tar.gz#sha256=75aae467e3d8895ba982cab02ddafa14001160f00918efd30ed11bed22283353" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/da/547e066365d33cda92f46f099a57e332d752fc8f51102cdf40d013058e87/nucleus_driver-1.3.4-py3-none-any.whl#sha256=0d9c174db902437c1ece77deec2e790bc3dcc7782594e0b36ac5c9a7454e0092" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/5c/eb06a49dd63d84f64632e44cf7d0feeb251f55bc8de0ea368bbd38af8808/nucleus_driver-1.3.4.tar.gz#sha256=860783db8152dfd673610b088d62893206f8032b4115fd58509b4570fe2db84c" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/be/709802be602a7768e02d66f66653c82edb78cb8daf8328077995c6549a44/nucleus_driver-1.3.5-py3-none-any.whl#sha256=e03436079fa4b38f687f766ada32c221bc4057c8a1445a94e6746524df86bd3e" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/72/619f11a3b995be9811e4d8fdc8a6e2b898c4af4bd37f97990fee35d67ee7/nucleus_driver-1.3.5.tar.gz#sha256=33584bf68e15edce804e2ec3467801b2005ec933ca0ddf60852908213008819f" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/25/a2d22aa6c3ff189df3376e8e0657738e4d308a90e594d179d8908a60bf9b/nucleus_driver-1.3.6-py3-none-any.whl#sha256=23065122b01ce06fb4e53b351fd986b49955cd7e85393ccb97b015e48e81169d" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/1b/e172548e4241f04302b357d2c625a8539d21364387ac1714e88574ebc85f/nucleus_driver-1.3.6.tar.gz#sha256=21fcec017c004500e18e3c1617ac38dd9fe8a431f072397a4a27917def90f48c" data-requires-python="&gt;=3.7" >nucleus_driver-1.3.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16358446-->
+<!--SERIAL 17067729-->

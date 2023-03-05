@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for huawei-solar</title>
   </head>
   <body>
@@ -82,6 +82,24 @@
     <a href="https://files.pythonhosted.org/packages/01/1b/532bb7825bee3d35b937cb2a9964699a3ace8549818d323e6db3736e28e6/huawei_solar-2.2.0b7-py3-none-any.whl#sha256=915b5ea6765667fda70a2b1a7c785539f4e2421e9c2688f88f9d9be37f6ba484" data-requires-python="&gt;=3.9" >huawei_solar-2.2.0b7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/6b/7a4c82a2e1a415a95bd0d3af3405418cd62973c3d224757c7ed60dec7c4a/huawei-solar-2.2.0b8.tar.gz#sha256=f3c98e2f652b49959304bbdcfca766c8fd8db786afe3c2c8a60defc39c675510" data-requires-python="&gt;=3.9" >huawei-solar-2.2.0b8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/54/8d4e64c6e79ac877548f57b2d48ecfb3b7090448896895f5ee85fdd17370/huawei_solar-2.2.0b8-py3-none-any.whl#sha256=be1c9148f7b881220cb88003901728aa648709c6b47f38b26207af646ec32725" data-requires-python="&gt;=3.9" >huawei_solar-2.2.0b8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/11/58016fe6ce2bf61ce36bb476b948710af97715633cec4ab7ba5294e4367e/huawei-solar-2.2.0.tar.gz#sha256=ca1d9f5c14889d10fc3f03652dc169e111ea5615d89f8b83f8088cfa1f3ce68a" data-requires-python="&gt;=3.9" >huawei-solar-2.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/f2/cbdeab319de33885516fdd837384f764a69b03956003fafc724dbd55410f/huawei_solar-2.2.0-py3-none-any.whl#sha256=ddd5f24dad2b1331dc5ac7ebade3edd92c786bf2a62b2bb1ea5f0ede6351e691" data-requires-python="&gt;=3.9" >huawei_solar-2.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/40/461f71644b123d7c23f3b95451e6e191df639f6c19239fb09527410ec552/huawei-solar-2.2.1.tar.gz#sha256=3cf567a2fe7e86c0126a89e9f4a6087e6032af5ce4e69932dbb605683854229e" data-requires-python="&gt;=3.9" >huawei-solar-2.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/49/418275a18fb478baa219c2764874103e9134d7e3e2efdfee1ddeb190e27c/huawei_solar-2.2.1-py3-none-any.whl#sha256=7c042ecf4ef83eece69282172a68cc0837c63fdf3d684393dac9119c076dfc9d" data-requires-python="&gt;=3.9" >huawei_solar-2.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/ee/8e6c8fa37e666ac98c38d05cd9d3d941d3a523626b46f3abfad7d3b6f1d8/huawei-solar-2.2.2.tar.gz#sha256=5b279ca573e99b45d7ebd86ad7a3c6db90257340f5bffbe340f3382775aaf1de" data-requires-python="&gt;=3.9" data-yanked="AsyncHuaweiSolar.set() is broken" >huawei-solar-2.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/3a/32edde6632fe117a01053df47388505b53d8b8cb3cd5f77896ea11d33928/huawei_solar-2.2.2-py3-none-any.whl#sha256=f0ac6c7494abcc579c870a406147095a7381eaaf12d6e7a80b8d6f4a0b057d59" data-requires-python="&gt;=3.9" data-yanked="AsyncHuaweiSolar.set() is broken" >huawei_solar-2.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/7f/b22dfff1907381c9b7d3e44a860a528a76ccbe088e546ab6b3a2a9a03617/huawei-solar-2.2.3.tar.gz#sha256=e6763e3f5c973d2cd11ec6888de68a17670c426f7e86325c5c7a8014a9b158f3" data-requires-python="&gt;=3.9" >huawei-solar-2.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/1c/b85c4220cc529aab14e44114da39b9ff7c5044404aa77cf6a9060c1db3b2/huawei_solar-2.2.3-py3-none-any.whl#sha256=bb8f8d31cc82af99c3c76b567bb45c2c93a90b3c1ca1156ae3369d2d87741868" data-requires-python="&gt;=3.9" >huawei_solar-2.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/3b/e5668a6043efae94b69544420f68b3d838f12b822eef18fff21fe9e8d221/huawei-solar-2.2.4.tar.gz#sha256=ebb4a7f3e90726398a30a1e73f0a374e0f21bb7ec5a2178437ebe123a20d2e12" data-requires-python="&gt;=3.9" >huawei-solar-2.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/28/72cc98b3c863cbb8fced6fd61143dbd9bafe7ea4e928230b96dcd633c2f6/huawei_solar-2.2.4-py3-none-any.whl#sha256=846936a3844b7282ab29af33788196d877db632c65785f2a4e934fb08f1ea8b2" data-requires-python="&gt;=3.9" >huawei_solar-2.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/07/e90babb23f2e6d1254c20732a521a93b8932575b3770752965f360dcbaec/huawei-solar-2.2.5b1.tar.gz#sha256=5686bdbe46899ca5116bbd10ea1afaa81d839b87e45ca8314abd3a42ce495fb8" data-requires-python="&gt;=3.9" >huawei-solar-2.2.5b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/aa/e2f20f5d7323102ed6f72a2af8f1e91b956199e75d489435d0737a962b73/huawei_solar-2.2.5b1-py3-none-any.whl#sha256=daf0709202392a5ec59364a4c56f8ea6484ecdcfb62c13f36d4e576150fe17a7" data-requires-python="&gt;=3.9" >huawei_solar-2.2.5b1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/a3/d5e9575dac8a41008e5b8e59d54ee36e74d54c44b2c3818c5db68034e168/huawei-solar-2.2.5b2.tar.gz#sha256=967474050142722641a40f05df1325a5415c4e5e48ec08304a5f70b004eb446d" data-requires-python="&gt;=3.9" >huawei-solar-2.2.5b2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/25/c9845e295b201141b4b33edc468c0c8e95b132936c6cfaaf842f9315e413/huawei_solar-2.2.5b2-py3-none-any.whl#sha256=a9aa53a08df247c8be7ea72a80f7ce5ec7c447dd0b3a036c776863901264e2dc" data-requires-python="&gt;=3.9" >huawei_solar-2.2.5b2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/ad/496afd222e5533eb8608aabb3b531246d62db7c78501c6c79ec356cf4a58/huawei-solar-2.2.5.tar.gz#sha256=6e1c8ae33fc8aa29c4a1fa5afaa19818c7ac49c52d9667e4d672b69f00f40ac2" data-requires-python="&gt;=3.9" >huawei-solar-2.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/98/edcbefc268dede64865f5ad9a9efeb4cb3fd338cd14145d9062305851593/huawei_solar-2.2.5-py3-none-any.whl#sha256=e5b65946215b128e802110fe7b7291d5db9887dec1f4eabaaed3aff5004facf5" data-requires-python="&gt;=3.9" >huawei_solar-2.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/db/f4407b71756ad0063b4b2f0f5968a122a266f684b5b270763fd05ad1baf0/huawei-solar-2.2.6.tar.gz#sha256=cbe2490f03b19609b05026ffe8d4c335d5b24dea975204e746ed51ef1a151c2f" data-requires-python="&gt;=3.9" >huawei-solar-2.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/4c/713714204bb9824a7d17f02aa0a06955930673bdd63f55af88757037b4e1/huawei_solar-2.2.6-py3-none-any.whl#sha256=b31d32df270137ca29373ced67c2d7d3740d930cf0efdf83fabd2de6aa688d26" data-requires-python="&gt;=3.9" >huawei_solar-2.2.6-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16317099-->
+<!--SERIAL 17108485-->

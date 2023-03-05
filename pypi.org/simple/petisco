@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for petisco</title>
   </head>
   <body>
@@ -468,6 +468,8 @@
     <a href="https://files.pythonhosted.org/packages/c4/18/94a25e04552f804ea820ee41241ccd0c1ee187005208c2c829cd6691f6bb/petisco-0.42.7.tar.gz#sha256=6c57822a1838e1e5a80a2f10fd5b9e882faa4f135940a1c40a30267c496585ad" >petisco-0.42.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/12/da/7951782bbc2c70aec98ce3090d2c6ee7868bb7b1c5f6495645ee95d45f29/petisco-0.42.8-py3-none-any.whl#sha256=ebc4c1b69b86f54f15c61ac5d69396f3d86de67f732a1c2d951e8cf8c6918435" >petisco-0.42.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/6f/65f2c0a5070d4ca39fabdd2898d050405e1798b53f1dd1e855b683dfe1ec/petisco-0.42.8.tar.gz#sha256=c4bea5dc53d2531ddc537265fd3c393955ec2c8616528d3a67373f52922ff3e9" >petisco-0.42.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/3e/c07474713c6fc28f672eef1d6a765ae95564cb2feb434e991c93262ed542/petisco-0.42.9-py3-none-any.whl#sha256=803962f64f1d2f6c0008537692bfd3ec61c0974a6f8f62d13bb23dcbde7462d1" >petisco-0.42.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/c1/60266882ec711a0221fe5c77ab0e6ece2ab19c68449b9f7b58bf7cfecde3/petisco-0.42.9.tar.gz#sha256=837c978c888e75a4973d28b4b05d74be2ee914a7dbc327fa25d177d21f0dd401" >petisco-0.42.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/27/dd/8d6aa00e6759bd6cba32efb1b920c603a9feb58231c71d8f9c5df8f7607b/petisco-1.0.0b0-py3-none-any.whl#sha256=1d2906b82014a6e0b70fc33ec4584437af38ca7d5c8b3e8e58c63644d6332d04" >petisco-1.0.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/79/b2/baf7ee1da9fe4f998fa78edc3829ac59dce616f6a655ee404b3bf68ae239/petisco-1.0.0b0.tar.gz#sha256=67a24bd9773425a7215d1542458815bce8ec9a63fa5b6945ed66dc1b5cfc03a9" >petisco-1.0.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/34/00/089662bc79a95c36ffa56ef08ce0b2349efcbf395b9e0a1833f0973b19b3/petisco-1.0.0b1-py3-none-any.whl#sha256=8e968bb8fc6e56b029efc8496b6d144adcf9c88ce1ee53307ac24f68b667aee1" >petisco-1.0.0b1-py3-none-any.whl</a><br />
@@ -574,6 +576,20 @@
     <a href="https://files.pythonhosted.org/packages/67/e8/108ff7422dd52edcab5ce43b3a8da46ea3d1e18fe995e31c7ae16c1beb53/petisco-1.11.0.tar.gz#sha256=4223a778d49e087f70631e4a528bbc6428682da579adfc6ef2411166190c23a0" >petisco-1.11.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/93/a9/53c1b037e7580869ef1cb3fff659a307f8f75073827d19056406d0c25c45/petisco-1.11.1-py3-none-any.whl#sha256=71cbd8acd0b352ac0f3443991bf3de1d1e980ba274eea313c8f76cc2a9ef1702" >petisco-1.11.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/96/89d081d56927bc17fb4aad6692162d0924c95a466e91d0e926848390990f/petisco-1.11.1.tar.gz#sha256=a21a856a42d763c80c372e98cd667ba3960e536fde9356466f916e0c958370d0" >petisco-1.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/d4/f32e04bb66ad91a8f6b70bda5be6e5fb6bfa3122e0f675e58736a28bf8eb/petisco-1.11.2-py3-none-any.whl#sha256=f3419c2ff055aa93579ca74745a5e8d85723a686f2f55394113233a1d9a7ec44" >petisco-1.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/54/cf24375105b6b9d6c53433e8ff59c6989d534a94242ae88f4d4164a0f128/petisco-1.11.2.tar.gz#sha256=03313e99700bf7266c758c5b61230f8fd5b3908c954fd00f24fe32fad87ea289" >petisco-1.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/95/b1abb981e88d85f0329c952fe32ffc96a659449970e200089a620841f27a/petisco-1.11.3-py3-none-any.whl#sha256=a497815546db9fae9fa37ee60678bed70d40e3bf0358c1f562a59490ff5f9d02" >petisco-1.11.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/e1/cb9962743efbee257b478a2465b31cb40d196d548a9f6a2c1d8b245e1d38/petisco-1.11.3.tar.gz#sha256=798b71a2c25ddc318813d78798d411135f63f89e2e2e067eefb047343c91b9d2" >petisco-1.11.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/c5/4fc0e11c89852c524069234dca2ad6b18c09fd72b3552e5b1310e43696c0/petisco-1.11.4-py3-none-any.whl#sha256=322b3357f687896251d2081e309233208de49eef8747bee02106f2d38be53a8a" >petisco-1.11.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/6a/a2e0b5ca39bf69a8befbda1fc949bb15e8ec8b552eb2adf6fa51f46f7731/petisco-1.11.4.tar.gz#sha256=3855527990d7dccb82c7d79b66bf11ed3381c289f8ec508c7fe855778fda376d" >petisco-1.11.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/c1/a953ab49fa9e7724c0a649a54a3ffb2cb3acf1601374b81f97f51c8cf522/petisco-1.11.5-py3-none-any.whl#sha256=143a26a6f929b7b92a37f0afb209115248605b58a969f4864f6b3ae13c303c94" >petisco-1.11.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/6b/e1295ae2e96e0388c1ddbcc1ce6796b9574e53239ee9b612934ba72465e4/petisco-1.11.5.tar.gz#sha256=2c9e180933605a5a002b9445d87a6424ade2a7184193c03f4c475571ed56e0d7" >petisco-1.11.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/7e/c18ec608d172873dc88f9e10d1c8a8c91ef63affcf393828d4cdd79cf112/petisco-1.12.0-py3-none-any.whl#sha256=bcba866782cf27693a1121478525ad6cba9291cab7d3b256cbe1aac7c9b998ce" >petisco-1.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/5d/08a4190e9892c854cbf0a2f2172802e6ab73813f07bbd36d1ac24e51d9a0/petisco-1.12.0.tar.gz#sha256=c1b0bbaf5224b6035d18073d0b7770c4b11ba23e40b24a0ea52f1f4a29c2513c" >petisco-1.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/90/9e993bf38174e6ce27639c3e6cf3977a1840c448cc734c7436afa4e6d9bf/petisco-1.12.1-py3-none-any.whl#sha256=07fc5f52c7c0b60399da2c49490a34660665b02957504c1385460b994a41e657" >petisco-1.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/72/fec2114973305e06cfd97c3f7c52284697696cf8006a6f5582ae17c55174/petisco-1.12.1.tar.gz#sha256=35bffccad72a4b87cc4261b6b03590afaec224b109d82deb4d65e9f6982e980e" >petisco-1.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/95/274e4d982bc05a2ce98668839c3694931a2fb0118cb4a7a18f68516e30e3/petisco-1.13.0-py3-none-any.whl#sha256=4b9dc364602a405fd458496fbec429b4cb173b16eb47d693738f8687cbbf6551" >petisco-1.13.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/e4/bb37f5b574b8cc2b0ad34938b82a8916157be5ffefcc75f9cd86c241ec61/petisco-1.13.0.tar.gz#sha256=baba4561b22e45ae86250755a3886f055352229f4ae1989f5d3f226aaff1516b" >petisco-1.13.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16194981-->
+<!--SERIAL 17111018-->

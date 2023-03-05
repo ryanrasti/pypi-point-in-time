@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ansys-fluent-parametric</title>
   </head>
   <body>
@@ -16,14 +16,18 @@
     <a href="https://files.pythonhosted.org/packages/46/ff/2ac7695ab4ab1f33e8b5a1e428e16e8e0716e0760653dd537734d99097ee/ansys_fluent_parametric-0.5.dev1-py3-none-any.whl#sha256=31eb2992d9195750f73db447dc31212f65112854d1ec52488a87e1a5ef37e04d" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.5.dev1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/45/d5/a4bf5a5ce2895d8d86841ce69193690c806b9452299030f64276e3465c13/ansys-fluent-parametric-0.5.0.tar.gz#sha256=a162bdcad9af19cc2c65335b93b6b3c9f789b31dbc63d96bc0b1d0c6b97a8005" data-requires-python="&gt;=3.7,&lt;4.0" >ansys-fluent-parametric-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/75/b7da909ac0e6e4c3a5d11314033a9a4af7da09260073f12c6cd67e5b9c4f/ansys_fluent_parametric-0.5.0-py3-none-any.whl#sha256=b3633342a050d2ffe1bed2ef36c8324fedebc343aca0053eb626fa5e77028401" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/b1/c9e259e72787c105a10e5d155afeb55b813041bcd209790e635948abf605/ansys_fluent_parametric-0.5.1-py3-none-any.whl#sha256=372db6221fb62786cf2b956e757a5a572c5a91a1d34d87dedad9a54d9c37ceb7" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/5a/13a7ab514724b5878c52f36accc98ff88d38366ba5a1914936ccc4fbd724/ansys_fluent_parametric-0.5.1.tar.gz#sha256=87db438e66c233c73de73d3145f3fe79dc9dd96a5734e3f00189ac6e655d047a" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.5.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/3a/1ecfe9b53e462eb3128ffa8b755adb296f8d79a3435010b66b622736f525/ansys-fluent-parametric-0.6.dev0.tar.gz#sha256=9ba8645a33a78ce5ab582b9a87dc187ed7940007232343fd14572eed008d5434" data-requires-python="&gt;=3.7,&lt;4.0" >ansys-fluent-parametric-0.6.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/21/35517a52adfb1caf23cc3ea2096231e688ddc8940f6f87a582c8bfae9160/ansys_fluent_parametric-0.6.dev0-py3-none-any.whl#sha256=533cf3f38527d9faa3bae5a02a3ed5643a20eac277f95ae9180ac24dea64f98a" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.dev0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/26/a0/5ddcc0c304a02fa191f242f735e7e9cffd74a5269c65652a350a0d0523d9/ansys_fluent_parametric-0.6.dev1-py3-none-any.whl#sha256=73e7cbcb6f0049a1b112a58511b1cc4a06fe579b8d9840dbae7952cd9ee3e923" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.dev1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/df/05/a42a1ef15bbccb3d75e68e56a3704139b9550b8cfb3007c2769954bebed6/ansys_fluent_parametric-0.6.dev1.tar.gz#sha256=10c62776dca89abc19899adee7cef565a3b855547daecab775a9629b0bc4c470" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.dev1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/7d/c3912ed1412eecb0121fdcc7ed53f386875ee86ddf838ea9001108d894c9/ansys_fluent_parametric-0.6.0-py3-none-any.whl#sha256=1a6925f9799cebf750f7b4ae77563a64e542b19e1b85f496337a191ca1ab5c6b" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/25/6c/7054a70a8fa192071a939eaf2ee80776d615bc9cbe74afc84ce4f8e59c3d/ansys_fluent_parametric-0.6.0.tar.gz#sha256=b6cfce83f8aee65d90c07ca5e52497c0792e3c7b67bb6bbb2e1e3c2ee189ee03" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/b1/cfea6b3e89bcf7d040cf728a7a725a82a4e9ff626f56559085f620bf847a/ansys_fluent_parametric-0.6.1-py3-none-any.whl#sha256=dc817aba706a2b18fbc1b0cc14d89a8c1d6ce9f9a7fd1995797fd3ef51030ea4" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/e3/7ef668532d220d75e707b6b5b344ce04291632611c5ff6f87d1ded4afb8f/ansys_fluent_parametric-0.6.1.tar.gz#sha256=d7323de0116661f0646ea4eb276bdcf5bb4e98003d94fa0877545e723bf6a971" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/48/17/304ec4e32fd26b03de883d150c7b2cfb357d65f8449570da32ef599aad1c/ansys_fluent_parametric-0.7.dev0-py3-none-any.whl#sha256=fc2d461bb2e3e6bccf199add26003993ff710ca7ab85caf613aff441d100e519" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.7.dev0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f6/00/2d553ac18f1478d017eaa04dd9adf77cf0edff3f6ab95d2f19e2a36ed08a/ansys_fluent_parametric-0.7.dev0.tar.gz#sha256=1ec696b270a91fd0734855b9854474d8666bbd2f4bacfd2ee6b8378d11980fe4" data-requires-python="&gt;=3.7,&lt;4.0" >ansys_fluent_parametric-0.7.dev0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16407628-->
+<!--SERIAL 16682097-->

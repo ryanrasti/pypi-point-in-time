@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for block2</title>
   </head>
   <body>
@@ -116,6 +116,19 @@
     <a href="https://files.pythonhosted.org/packages/16/a1/4a61b4473b72d88deb336f1e4787820cc377f76bc3437e6619e94aa25ece/block2-0.5.0-cp39-cp39-macosx_11_0_x86_64.whl#sha256=b8ec4f89bbf67f38ad6011b2976298d4967dfd3ca6e49685766dc6153bfa2ec1" >block2-0.5.0-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/93/22d628b75b82711b16e89a12d213eb89c4a01cf853a131d0d310448dd1f9/block2-0.5.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=657e34e640ede774c356b965d5851c191b590c2fd038612953583f78c1da1746" >block2-0.5.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/79/76/fa9cb8b1f6d31ea66989f44ac1831888ce02ac866be29b6e240d5a466e59/block2-0.5.0.tar.gz#sha256=575f460d3334ae5ed7cb20fb0afa0f83dbf80760fc3408d0adbed171329ade8a" >block2-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/29/de3212569edb9d6762a57c60de55f49998eb8294f2af907414a82705b059/block2-0.5.1-cp310-cp310-macosx_11_0_x86_64.whl#sha256=36eee00fa16a665120c7936012e6f40c606ecab2034e864a9021e4108f008a3c" >block2-0.5.1-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/9c/e67afd0816a69a379252c62a69cb2adabb08fc12030178fe70f87f83f154/block2-0.5.1-cp310-cp310-macosx_12_0_arm64.whl#sha256=46efe65a46ed3ec4b9bf86c55e5b0c129d801dc82ab949b0eff6e8bf380c9163" >block2-0.5.1-cp310-cp310-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/fc/b04e091a30276bdf08e70fdad9e291b2279aa05e4dd8eb6fae0bb8c6d360/block2-0.5.1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=e0a2b6dd2b2855dd3bed76bcb27694f4027c2b9292085a3a02b317fc1d2ad273" >block2-0.5.1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/eb/0b79f4f2ed23847f94324019a8a1e834448f03cfbd8b322e0d80b432f5e6/block2-0.5.1-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=02f349d567c5ef627fde16c07896fd3507b12471cb7dad02f1f7d2c600f009af" >block2-0.5.1-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/0d/ccd4dcb622f05adc31880ce542005efbe88026bd8092e43cb4185f44aee0/block2-0.5.1-cp37-cp37m-macosx_12_0_arm64.whl#sha256=670c66e14d7681dafbd0252bd78014c8f45587d1286ae85ca229c758069b063b" >block2-0.5.1-cp37-cp37m-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/b7/a642230db2dee17ed91406ea17856d2cbdaf3d0258295decfebc4cb00d04/block2-0.5.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=2130f1af499af36193817cbe537fcdfa064fbcb8326f084c8ca37d4e06ff6009" >block2-0.5.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/ea/e7cbec0f76fd433960c1f1999ac31a79492475dfe226c15b3bbfdb8055ee/block2-0.5.1-cp38-cp38-macosx_10_15_x86_64.whl#sha256=568c00e63680c7e86f7ba583a13b90d51795b3efc6d13f7f27765959a64e0523" >block2-0.5.1-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/94/5eb190dd62eaf4194b165ca927f658a8a574f6a171efed619fe0188b4b0f/block2-0.5.1-cp38-cp38-macosx_12_0_arm64.whl#sha256=b37afb092da36da50275d0d9d90c36f1e4491612700e390a8eedfb3ce300bb81" >block2-0.5.1-cp38-cp38-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/c6/648d969924ce6e0a544fbcdbb4b5429550691db526a8f4c587c0f78053a1/block2-0.5.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=4c8ea0d7e01e2d93694802ca7a179eddb11c7d6cbeaa72914ac65b8ec7788de1" >block2-0.5.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/9d/9d5b34fa875cfbb4ec489e8ae5d28c4fe632fe6243f9a29f5bf215689878/block2-0.5.1-cp39-cp39-macosx_11_0_x86_64.whl#sha256=66a4f8664167d967b5b5609a24f3c659c2b8128355b0de0d3b3554eb7f0c7d5c" >block2-0.5.1-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/11/465602f525a6b0bd83b41c67b459e3e75d7253a6832d8b5a276fcc0858c3/block2-0.5.1-cp39-cp39-macosx_12_0_arm64.whl#sha256=8fad862ad95cd950c29ab0b9e53c297f86c1cbbd167cc061f59b1dc5e67fcebc" >block2-0.5.1-cp39-cp39-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/b2/42f9257bb70a0513e0376da957e6a0e987c40bceeb1035b82db7daa30662/block2-0.5.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=ea2e25f46b23add34162b39345bcc28e16105ad2fd086b34a6aa90a9886eb5d3" >block2-0.5.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/23/a9e184d120109bdf784d396d4c6ddad47918934041e6d21ff90c800ade6c/block2-0.5.1.tar.gz#sha256=1373cf0c3a228383cacabe66d245fc1f14526ca9ddc5d2b5b6fcd73bacee811d" >block2-0.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13552966-->
+<!--SERIAL 16615732-->

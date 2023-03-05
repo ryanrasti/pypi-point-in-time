@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyvinecopulib</title>
   </head>
   <body>
@@ -106,6 +106,19 @@
     <a href="https://files.pythonhosted.org/packages/0a/90/bca84697c2da46905fb6422c468f03c5637b78751ff3b951f2ec504c1d6b/pyvinecopulib-0.6.2-cp39-cp39-manylinux1_x86_64.whl#sha256=ed1a1bfcae7edec523d18307209d262bfeb97a806531342585271cdc1f022ab7" >pyvinecopulib-0.6.2-cp39-cp39-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/91/94f7a9a197f78a014a95240502dd7f8a34917cee7050e1939490f99335c0/pyvinecopulib-0.6.2-cp39-cp39-win_amd64.whl#sha256=4eadf9f01bea3cf4b7706d60e6a6ec1e7b550876779f9f147b1364dadd9aaff6" >pyvinecopulib-0.6.2-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/40/5c/4766825373ac05e7fa0c56c7aa79107817804017bc415ee50c2aab969ee3/pyvinecopulib-0.6.2.tar.gz#sha256=81790b936f333fb078337d8d739a7ea7d528a99337f6fb4ba64a0deaddfc4095" >pyvinecopulib-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/b6/28f0af430f29b013c4cbd9531956e6857b234d03ecdc6c04690bc56cf216/pyvinecopulib-0.6.3-cp310-cp310-macosx_11_0_x86_64.whl#sha256=972e8381fc4c36ec94b1584a1b61ef6044cf3da7d563a22e7b8d08089514f128" >pyvinecopulib-0.6.3-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/f7/bd4ce40e704c7b32513969ec0140f921985310c7a824a8e6155f8d3f3bd8/pyvinecopulib-0.6.3-cp310-cp310-manylinux1_x86_64.whl#sha256=0a874cf627172ef0a36cdec071a02e1e5ea5b254dedb93eb3b8114a02399d068" >pyvinecopulib-0.6.3-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/3c/39512e6c734d569f80608665f18ea86839fcb18c97ea16583506e3baa150/pyvinecopulib-0.6.3-cp310-cp310-win_amd64.whl#sha256=48640a86eb676c5d70d41ce46ed7be31a320659a2d1c840b63e3567db5e167de" >pyvinecopulib-0.6.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/3e/2094f90103b72096b45fecb2ccdfdca295f59f0fd3a98eda8419f48743c2/pyvinecopulib-0.6.3-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=393bc2e84d3a64813021281461fc85578c51178a1d46e62e27c2d3a361c51c8d" >pyvinecopulib-0.6.3-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/19/a182b9749e02dbb35d903cef5de274f63eeb86d0d195f17da43bf1994877/pyvinecopulib-0.6.3-cp37-cp37m-manylinux1_x86_64.whl#sha256=18eb69dd4bf7535539467098c972057f963fcd9b18b380e63c81bc55783a9c60" >pyvinecopulib-0.6.3-cp37-cp37m-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/4b/24ee3e42d5659c93acd936cd35a281ac0522e59a6c2bb23fedf4819fe152/pyvinecopulib-0.6.3-cp37-cp37m-win_amd64.whl#sha256=490e6ce4e47869e74d595e53bdb9d2ca70aa0f93fa8fd76aa3f0a185ecc5b9be" >pyvinecopulib-0.6.3-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/15/93019e51a0344d0e79655ccfea666110faee3177ca91843eea75b1730a42/pyvinecopulib-0.6.3-cp38-cp38-macosx_10_15_x86_64.whl#sha256=358da1b8acf7e9efe4a6b8899a8e4eb78b067b835a27f93f32aa820c6bea32e8" >pyvinecopulib-0.6.3-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/c2/995a3683bc591bbeefc1fb7e29075bc87b304a9970012baa0afa3969e43a/pyvinecopulib-0.6.3-cp38-cp38-manylinux1_x86_64.whl#sha256=a2560ed79c6c66320c771fec691fb4a3ca69df7ed09292da53b5f4985395e79c" >pyvinecopulib-0.6.3-cp38-cp38-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/47/91dda257895647ed1927bbfb0ce464d2cc0f8751431ea26931efb19b9e2c/pyvinecopulib-0.6.3-cp38-cp38-win_amd64.whl#sha256=f0b55e6a2b7d4e601c66e244096999f299cf6e3f8ee54b4ea66f00cfeedd8aa3" >pyvinecopulib-0.6.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/bb/9ff5283e999315c325c3cf460918a99e625f40e3632b294e99aff38472aa/pyvinecopulib-0.6.3-cp39-cp39-macosx_11_0_x86_64.whl#sha256=7907ded72331b9469babb274ff89230e18033fddded7e019da6a8cc7a91d49d6" >pyvinecopulib-0.6.3-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/d5/2d949d3911ec8799a9bbf538c73e7bb4ed02940acec27f34ec493d09cedb/pyvinecopulib-0.6.3-cp39-cp39-manylinux1_x86_64.whl#sha256=665ce67f1a01ac6aee20b409951f1ac6190270914418c807f85bebc29cd55e83" >pyvinecopulib-0.6.3-cp39-cp39-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/05/15ec16d00bb7185cf96bcd4586137c519e44fd8e49464da940d7d921d235/pyvinecopulib-0.6.3-cp39-cp39-win_amd64.whl#sha256=f38c70cb564f35a09e8b9a2ab8f57801dc4bdffbeb44d75794faf5bfadf35829" >pyvinecopulib-0.6.3-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/b4/58229d1b69e16d5c54d1f825ca7e03d43517849316564f2acfc8f784f1ea/pyvinecopulib-0.6.3.tar.gz#sha256=bafa823738bb6d0343a11d2802c75a09908ac21a790d8b3dbd7c327d702ad6fc" >pyvinecopulib-0.6.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14901980-->
+<!--SERIAL 16945378-->

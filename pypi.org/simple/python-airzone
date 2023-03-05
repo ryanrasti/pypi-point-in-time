@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for python-airzone</title>
   </head>
   <body>
@@ -154,8 +154,16 @@
     <a href="https://files.pythonhosted.org/packages/a7/5e/bcaea8f4594ea9821eedff485e9e97516e7b42a6953b470dc3cbb16de068/python_airzone-0.12.0-py3-none-any.whl#sha256=51311a9d797aa6991d434f60a4c510481f3409aeff3922250b28c66ca2eeae83" >python_airzone-0.12.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/02/df9741306d55e0bed715e7a754cafcdb64edfae2e6003a4e7f8ec0159c3b/python-airzone-0.13.0.tar.gz#sha256=94635985c2f239c818741bea0b287107b4beee8403250d784f9e880500afd4df" >python-airzone-0.13.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/f7/5f4cde21b7e771438c145f3a7db87e157f0b6ac27a846c44784f7eb175f7/python_airzone-0.13.0-py3-none-any.whl#sha256=3b0deba655d4ff316e61e117909bb4d71fcdf341e13939ba4fdfde80228d33a1" >python_airzone-0.13.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/7d/c9/f46fdcdf912c788105170836109531ab53ad80c39886e144aca5b0f113ce/python-airzone-1.tar.gz#sha256=f7dca4616abc92e1628cc2e335badde19ec5f5322ad5ca614210779d4c50c815" >python-airzone-1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/32/ab/02e332586841de645e8795f56dd4fd5d9329d2d5c321e86bf81ee72d65bd/python_airzone-1-py3-none-any.whl#sha256=e2e87666e0af003b443ca263591aeb88dee12346699c4f1861ed783d1ad41895" >python_airzone-1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/06/3c1f3caa27f147e7d96d9284ce51a6582066537aa7894fb6e91abf95de4a/python-airzone-0.14.0.tar.gz#sha256=c68497ce14d367eba36c23069e466d892ff5a6532189e4b512e33e977a163a60" >python-airzone-0.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/73/ce26f87111a96a9cf21a3f01d74413d5ea119dfafa7037c2add758e6aa41/python_airzone-0.14.0-py3-none-any.whl#sha256=ac5d4f209c5616444db7e4139bca85561635b8bfa5aa74493b15c822da38b01d" >python_airzone-0.14.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/25/1e0378a5131bc24266f67a91a979d4a542129dc4fedb4bae5d58cbe3dda3/python-airzone-0.14.1.tar.gz#sha256=d9ab91a9e15d402c7f4a7bda51bd505b0e260fcce129df797233b5d6b6a59210" >python-airzone-0.14.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/1b/a6721c29de6762611692f20df4e934b0b5c5d71b70579f2162cf3a67b65b/python_airzone-0.14.1-py3-none-any.whl#sha256=8e33622575fcd3738d5c85cceb0a75b8a17a4561db351d9cdd5d5dd83081a783" >python_airzone-0.14.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/b5/943dcffa7328191a90bf81a483c4c24c192d19c1743a695a36432f6a35c4/python-airzone-0.14.2.tar.gz#sha256=6f0a9886356b1460b5fb45197fc9287c43bdd2e13924859296b30c1887b55c35" >python-airzone-0.14.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/63/757de88f75328e68a2d925bf66adb6d02a0529d47e2c59f31326482d5141/python_airzone-0.14.2-py3-none-any.whl#sha256=e86f396c522c74799d850424e8300286e30b003b0acbe0e49ed5ea5ecd836512" >python_airzone-0.14.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/d1/38336f2a6b4c9189481b4958be2675bc62e0c361d4c07424e85420ee047c/python-airzone-0.15.0.tar.gz#sha256=cbbcd934af2e552c193f0e931a6824ec49e3883d639acb69a6cf7164b6a5347b" >python-airzone-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/dc/2cf7a42cc862b654c004cda964ffea1d64386be90e6f889cc608b0eabb34/python_airzone-0.15.0-py3-none-any.whl#sha256=d207e2ac531ce3be89c6c44303e5161619930e1f6106020d1696182f520cc9df" >python_airzone-0.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/20/c1dc79ac6340e707a6ec48af42b0334dc3f8d2954805e3a233494fbff185/python-airzone-0.15.1.tar.gz#sha256=8faeeeaaf96ee0387f6419c8d273924b9481373a4fb12d27b09100f763a481b0" >python-airzone-0.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/10/8bbd20fac6e750bd875ae4f423da746fba6c0eea23b4ff263805e2b2c2c4/python_airzone-0.15.1-py3-none-any.whl#sha256=4e275acc1d0b2c414b8e581978f90bb6b20a45306882e7c9e70625889bc93357" >python_airzone-0.15.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 12435191-->
+<!--SERIAL 16825330-->

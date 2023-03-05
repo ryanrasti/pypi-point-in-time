@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sumtree</title>
   </head>
   <body>
@@ -18,6 +18,16 @@
     <a href="https://files.pythonhosted.org/packages/5d/f5/729fa3bbcaba658a7f5c902da4f67b7b74d0270113782f007cd7875e25d5/sumtree-0.1.4.tar.gz#sha256=d2ce66a08727df4c94dd2dc9cabdb2e127bbbb743ef1a8be4c151bc156092783" data-requires-python="&gt;=3.7" data-yanked="Bug in the add function when the tree is full" >sumtree-0.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/16/cb/2ffca43287c3567f7a6f8cbc9926ed2388fff039baeff93970fb8df8d088/sumtree-0.1.5-cp38-cp38-manylinux_2_28_x86_64.whl#sha256=ec137d33b56ccb6d9b0935ed935ab3969e525e08b420c50003820930373f4fba" data-requires-python="&gt;=3.7" >sumtree-0.1.5-cp38-cp38-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/cc/939c618b6ebd88810be628adf0e9d54a3fef01b7c779fb3d251400f471ae/sumtree-0.1.5.tar.gz#sha256=fd24de9250b0906dafb7560690def684a2428234dfe0e36a7bfe7eab3a3ade1b" data-requires-python="&gt;=3.7" >sumtree-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/3c/744229455ec368924d2a6df787f3de072169aef042fccbf08501aa4c857e/sumtree-0.1.6-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=998830e789ec93c4bcc9f3ee2b5c0ca5e795895e0eb8350e7802598e4175b578" data-requires-python="&gt;=3.7" >sumtree-0.1.6-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/f6/ae236de2fa4285f9895ef2146c0ed58b7e83d618761f3bbf9d9439215be7/sumtree-0.1.6.tar.gz#sha256=679deefd15ab4730a8d7dfcb78fed8cc10ee5446ad5b69187b3c2ac9b535c117" data-requires-python="&gt;=3.7" >sumtree-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/b6/73eceba71e21fb572bc8a09c698bedf525b0588acd29c383a7f38d362dd4/sumtree-0.1.7-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=229b26ef494a9c250f10d457c197fae564c1f88c5cba7e189cccdae4ea332c4d" data-requires-python="&gt;=3.7" >sumtree-0.1.7-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/1a/87fd0fd31d8c66a87c6db7a9ac8fce298da6968aa0bf6f8692630f4bb2e9/sumtree-0.1.7.tar.gz#sha256=00e794e07e1bf47a791baa4adc1a9b021bebfc64cfd79780e565e4564c58c472" data-requires-python="&gt;=3.7" >sumtree-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/3c/23266168d23aaf2880b53ee2e8340d574ba3c11a4f5cd14b1f5d7a349a18/sumtree-0.2.0-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=9f509d7a4fca6c1e96151d4e333b2da1e98231b7d086b2478a73c13ec21e8e73" data-requires-python="&gt;=3.7" >sumtree-0.2.0-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/bd/5538ea9c9fc8992ff83cced1815471d1ad07f305be661251e1f88f564129/sumtree-0.2.0.tar.gz#sha256=1ac3cc2b9a9ce05be00df73490b35d4b41185add6b21b91658d9a8a31ff6f4ed" data-requires-python="&gt;=3.7" >sumtree-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/b8/f0fced6dda781f1cbf999ec9f319a0e37c02540e3a93ec0cc616391b4059/sumtree-0.2.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=8ad4bf796ffeae08f53463c1c27e19cf70811d5e447edd07d60a6d873640210f" data-requires-python="&gt;=3.7" >sumtree-0.2.1-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/b4/eb78d3302e7eb0c617b16fa6b81025d4499d19ca014c4b878936a89e9b4e/sumtree-0.2.1.tar.gz#sha256=d54092517b9e90096479f6efcb9cdad3d2a678aac8884ad7ed58cf8343692b62" data-requires-python="&gt;=3.7" >sumtree-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/93/c473cc6148830b39a4225fe7aa8d11eebe939e218089958d2fb03fde4033/sumtree-0.2.2-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=943f22c769b354785672ea5b549ec177e52c4dd158fa70b55f7033378e417053" data-requires-python="&gt;=3.7" >sumtree-0.2.2-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/d9/2a6d415f19e0a1eeed47653f15d11a2cf46241f4f6bd92a3293ad2bd490e/sumtree-0.2.2.tar.gz#sha256=f8682668fc5241854bf1f1412e792df406fe02285fe7800acd25b6db3eda9612" data-requires-python="&gt;=3.7" >sumtree-0.2.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16128416-->
+<!--SERIAL 16994431-->

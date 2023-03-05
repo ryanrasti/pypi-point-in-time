@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for labelbox</title>
   </head>
   <body>
@@ -228,6 +228,18 @@
     <a href="https://files.pythonhosted.org/packages/08/20/d2d7fbab7b96c86b330fe2b7042edf46fef27cf0a7af7dc0764863163cc6/labelbox-3.33.1.tar.gz#sha256=1caae3f343a6a837aeb3326c7b0cc2e4beeee3f0e8c908bb76e5ca1695524b29" data-requires-python="&gt;=3.7" >labelbox-3.33.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/64/2af7bc406465584c266783fa4d7951526249cbee70cc3cfac2d4cdbb50ff/labelbox-3.34.0-py3-none-any.whl#sha256=ae6bcfbb83103e3731339a8466bc1cc34d8068e192b03d3ed289a2bea942cbee" data-requires-python="&gt;=3.7" >labelbox-3.34.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/98/5fa3459cfef071c34d2b07cb5b9680bd11533bd42171157d6bdc69afd28e/labelbox-3.34.0.tar.gz#sha256=cfe5172e8c4e01b7a8d6855aab1a0e5d49bc52db5d2f5388fab8583c4955b810" data-requires-python="&gt;=3.7" >labelbox-3.34.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/4b/92d57da32cc92e7b5230783d5c7be52c3b2d36ce9e0e15350f2b84d67d7a/labelbox-3.35.0-py3-none-any.whl#sha256=f259496ef6754b67979c89a3a31034c7a76e580e5647d4924eb5a511fb82e3f6" data-requires-python="&gt;=3.7" >labelbox-3.35.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/eb/ea2e64a204fb7a6540a5dfbfca3c4b2412f70e53c6481a7f78d193649d48/labelbox-3.35.0.tar.gz#sha256=2f9648e07eadb90b20e6d4935ff2e89e550db998452268c9a8cf4ea16a472f1b" data-requires-python="&gt;=3.7" >labelbox-3.35.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/36/82b981fb3057b4f1e2eb72b7f96e5ac6a941ca242ecf708194b3c93d0661/labelbox-3.36.0-py3-none-any.whl#sha256=318ca7e85c2d2958956aa6b93c3d1b45dac28598f30365e5997e4412d745464d" data-requires-python="&gt;=3.7" data-yanked="" >labelbox-3.36.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/80/d7f00a19e74e1fb1e5c19121e5c9a984ed490f4677a3f6253d8189e1473c/labelbox-3.36.0.tar.gz#sha256=80a4f684cad5018f08ebd617f6ac0b872b1650691edeb7795d547628e4411b3b" data-requires-python="&gt;=3.7" data-yanked="" >labelbox-3.36.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/49/f029a488789c8f8877f6cfa58c1c2b3397129bd839a0f078e96f4e8ac5a9/labelbox-3.36.1-py3-none-any.whl#sha256=61a26cbe647841f4d3a303d37e2c60b0e691b2da9741d0f99c1a8bd31cf08db1" data-requires-python="&gt;=3.7" >labelbox-3.36.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/bb/5caa85fd0b77adadce8af4e63fefc38dd86521f871e8eb8cbaa9aa26cd41/labelbox-3.36.1.tar.gz#sha256=670127ec3fc7d88489b8f028fef9bf59afb96610f88f019d570c35e103576f6c" data-requires-python="&gt;=3.7" >labelbox-3.36.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/68/6935b42b0432694833cb27ad2a7395809ce3f13708c13f984d4d6d6c4e74/labelbox-3.37.0-py3-none-any.whl#sha256=617704d4ecc68092d2500355bb354027d7f51110de3449ce89d19164c695bbc1" data-requires-python="&gt;=3.7" >labelbox-3.37.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/13/23f3bd4b97e5c492feeb81bc54a9b1eed3b2c1bc00d2d1d45ad4e4c18ed1/labelbox-3.37.0.tar.gz#sha256=2bd5d1e842ee7320b6543ff10f9f3a3d6897362f253ee8f8509b3f9bba23cad6" data-requires-python="&gt;=3.7" >labelbox-3.37.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/56/32c763108469f33ffb55bd847a2f9ca33a4d315dedf7b51298e5e8245580/labelbox-3.38.0-py3-none-any.whl#sha256=0a512b8e17b22e8b74bf116a4d116e2aec7131e819743fa91e664c91823f43fe" data-requires-python="&gt;=3.7" >labelbox-3.38.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/22/af964feb819dbb84b2e65e016061aa4d0d3ccf069dc228097f957a1d0659/labelbox-3.38.0.tar.gz#sha256=7e48ab51696ddb9436f83c8c50f11552ab2510d464222f9a7be49ade9b7c554d" data-requires-python="&gt;=3.7" >labelbox-3.38.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/f0/e2b105b38dc45a15a9b40f865b38fafed38af8554f87ce9bf98e5be172fa/labelbox-3.39.0-py3-none-any.whl#sha256=04509e8c78ad858335267a7651f96e5ebd3c9ecf65965408a5285dc5cbd15ff2" data-requires-python="&gt;=3.7" >labelbox-3.39.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/1e/1d7d0291e60f3e79d84ae00b2ac7d51b1fb0021e8ea1f8c0416a3e750bf2/labelbox-3.39.0.tar.gz#sha256=2a5dc33b5d453dd3564c550d8513984ba7535c11b658ee6166d098f7de2b0d5b" data-requires-python="&gt;=3.7" >labelbox-3.39.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16199044-->
+<!--SERIAL 17106007-->

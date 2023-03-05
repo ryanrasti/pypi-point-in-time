@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tifftools</title>
   </head>
   <body>
@@ -104,6 +104,20 @@
     <a href="https://files.pythonhosted.org/packages/ab/41/6eb4434cefb7c5359aec7619e1a304e123a375b30dcf305059c453c65db6/tifftools-1.3.6.dev4.zip#sha256=31df39121e15cd1002dcfa360915eea5cca78a35fc89eb3f3bfdc7b35869cbcc" data-requires-python="&gt;=3.6" >tifftools-1.3.6.dev4.zip</a><br />
     <a href="https://files.pythonhosted.org/packages/b1/b7/393810f3a238128d60d0ea5ede175cede42c4800164c1b0b642b6523a65d/tifftools-1.3.6.dev6.zip#sha256=d01282fe02a310f505fdc3f1f7439401dea8a57762ffbddedd2db8b8d7c1b024" data-requires-python="&gt;=3.6" >tifftools-1.3.6.dev6.zip</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/39/e91ff2dac4f5482103c655108787785178b18f235d642f3beb10df4a31e5/tifftools-1.3.6.zip#sha256=53165e8fa024293d150eda9e9a6b7acef302e677b1c6763dbfc930749243b971" data-requires-python="&gt;=3.6" >tifftools-1.3.6.zip</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/7f/5d5bb914d6c3cd8abb63738a2fc4823970db74ff20951be6100a07667bce/tifftools-1.3.7.dev2-py3-none-any.whl#sha256=190ead3f474242c631d2a7baf868fb2b0296652dcddf683e7779df1eadf42d03" data-requires-python="&gt;=3.6" >tifftools-1.3.7.dev2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/0f/f6ac27f0904a357cc0d76677530ad767ddfec41e6e0e147f11dce8da5371/tifftools-1.3.7.dev2.tar.gz#sha256=00b586de5699b9a8ac30431aabb318dbe06f03b763cb5e15aec62682d8e47db3" data-requires-python="&gt;=3.6" >tifftools-1.3.7.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/b1/6a95030b239244c710f1e497844f0d3df3c096148270490001542b2320c8/tifftools-1.3.7.dev7-py3-none-any.whl#sha256=3237f12b396b5b6b9b5f0ec486830b3e18a024dc009229d5e42b9b2829980754" data-requires-python="&gt;=3.6" >tifftools-1.3.7.dev7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/5e/f8b5db00ad3b4999ac7f5ab9431573052a55e4338100485c2fbbc8a12a1d/tifftools-1.3.7.dev7.tar.gz#sha256=62de78198c3b09f70e0d4a756baf28191d456a9ec671922a7aa556dfc6f02dc8" data-requires-python="&gt;=3.6" >tifftools-1.3.7.dev7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/f5/0f97d56fe10cb6a4b8913d1a58e7c9ebc9fb76b98d7637328da5ceeb2a12/tifftools-1.3.7-py3-none-any.whl#sha256=c10ed3b56f4002f8b5138f1fc5fead5b93ec787bcd49d1d8f137798325eadb11" data-requires-python="&gt;=3.6" >tifftools-1.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/13/8e6b5129946db536128a8bbe9f028203a0b3599241b72dc9bbab3ba9566c/tifftools-1.3.7.tar.gz#sha256=4868f97988c7cd40abce164b11425aa32e2bce3ef1a746727f78ab717a357079" data-requires-python="&gt;=3.6" >tifftools-1.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/7e/417d963b17afe35be3072754075b7e98465d1a54cb197f1d108de004b124/tifftools-1.3.8.dev2-py3-none-any.whl#sha256=dc3ed605b6ce071dd4be2e566d5f9ce845c56f66a0c3324671b11ed8ce410977" data-requires-python="&gt;=3.6" >tifftools-1.3.8.dev2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/43/490193642aba03be29a5128cc9ff6ef8d6c3439728377c2b7de8703b737e/tifftools-1.3.8.dev2.tar.gz#sha256=2fac6f1c40a458b128ce26103616c4566d23279cd48d43abfffd7563ed5b96d1" data-requires-python="&gt;=3.6" >tifftools-1.3.8.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/15/f86927261889774507be0a00f03477a1266e129f8e5e5a10689566f1819e/tifftools-1.3.8-py3-none-any.whl#sha256=f908f546119a0ffa55ff28f1919a0793753498c24f57acd04f59049543ef8827" data-requires-python="&gt;=3.6" >tifftools-1.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/ec/de9175e9e7a3bededfd39a35433f8107e4a43c8bf4ab79624bd50f74ed66/tifftools-1.3.8.tar.gz#sha256=35e5f9ab25a893ce65e754259629a16416a7e5db1d9767d52c9a3da51f9382f3" data-requires-python="&gt;=3.6" >tifftools-1.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/c2/bbecf9966650bc97b65b53574b9575aa806fb2d99bccc8767be8c4bbe49d/tifftools-1.3.9.dev2-py3-none-any.whl#sha256=896f0f5bcba0c96482453a29c04865b6e37ea19dcc3bb48c1ef0bcab7ec33161" data-requires-python="&gt;=3.6" >tifftools-1.3.9.dev2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/34/fa227304a1ca3ecf56ed32ede2d4a76e6cfdfa3608027c7cc459fc22ff64/tifftools-1.3.9.dev2.tar.gz#sha256=85d4023ff3c9f2c964db80a028a6a3ba9adf89c32858b7e6d9b476efc057862d" data-requires-python="&gt;=3.6" >tifftools-1.3.9.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/41/492df509da1924bdc97f74d3be0c4875587c39ef7af80dad94db73d49650/tifftools-1.3.9-py3-none-any.whl#sha256=6d6ccd42f687d8dd7e89504a520141ab65b5240e7edbd0e492e71adf8a0acea9" data-requires-python="&gt;=3.6" >tifftools-1.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/5b/3b0a83c36bb2f18b4c2e86265c1ebc96d9d2832a253c3e5533529c77696b/tifftools-1.3.9.tar.gz#sha256=aea42c038f568c74b83ff270049f58500bdff2392c2033553ae2c14c669385d9" data-requires-python="&gt;=3.6" >tifftools-1.3.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15999199-->
+<!--SERIAL 17099719-->

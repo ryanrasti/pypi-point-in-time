@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-sagemaker</title>
   </head>
   <body>
@@ -488,6 +488,20 @@
     <a href="https://files.pythonhosted.org/packages/94/07/370670f43197721737c31d37c7ebfd4cc574d07e3170f24838febb03f0da/aws_cdk.aws_sagemaker-1.187.0-py3-none-any.whl#sha256=16370f873b820aed4eb6907525db336797921950160ddbf2017e65fe2fd9e2db" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/43/97/fc5b45fc6de414c407daf370c1a51f7940ea9a655237c96de408a9ddbdf3/aws-cdk.aws-sagemaker-1.188.0.tar.gz#sha256=155e9557b51d1a92c29c6a5bc7bada77ef6f8cd00be86268359d987c35a02796" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/95/de0fe3a4f69d97215e540471213d059b7b5e5d54ae19d22dc1e9ad77cf28/aws_cdk.aws_sagemaker-1.188.0-py3-none-any.whl#sha256=b5d1862e6a34dea79ddb721a775196364483eb79a704c3b046b13c774ab2cd0a" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/6f/f63a8a55087095514163c3c5cb6dd17afe126331c8c8a96359869c00b5e1/aws-cdk.aws-sagemaker-1.189.0.tar.gz#sha256=3a84a70b85d55e52302580f112e85357431ddb26b90b15443efaa0787a911c4e" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/d1/6995702fb9db9403b3ba2ffdfaad76725cd443279b8454bd32a263f8455c/aws_cdk.aws_sagemaker-1.189.0-py3-none-any.whl#sha256=dab7ed2480f4b61920de8264593e910712c4c2376c944ec2c7e682672b5eb390" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/ac/db1dd576d9f33a10385c7cec79c6b58fc2744bd7a974ccfeb0af48c6ebf9/aws-cdk.aws-sagemaker-1.190.0.tar.gz#sha256=978a2a3e792b23496410011daa7c4897a4d8ca7209a6d37b6ea5234d470f1eaa" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/3e/488c772fc5e4dadadad06c11485e35af8b2ae775100d9115d181ab139741/aws_cdk.aws_sagemaker-1.190.0-py3-none-any.whl#sha256=b2743e53fd9df99c26627e0610a8aca0dcc2d2a4c81f0b4f5a2fcb6687898cfb" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/05/88a1e982100680fbef45e3a1c5ce49657951d6d57964c5cc958ac29ce81e/aws-cdk.aws-sagemaker-1.191.0.tar.gz#sha256=80cd00ddd8fe33db47f76a87638d0e90709a8b5a343f3a1648594a0c01cd9c9e" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/db/adec8f00d3255e377a1fa7c023c5127980977e7fa7845fd35985a221ab85/aws_cdk.aws_sagemaker-1.191.0-py3-none-any.whl#sha256=842bc554e9b028b6902f2393ff58b4f2ffeec447c1ed8dc05b4d36437b507d83" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/10/33a8d7c04feb9c9b2ccbba8da48b3950b5dc1e52196328c4c9cc85aa5b3d/aws-cdk.aws-sagemaker-1.192.0.tar.gz#sha256=6e493955f55eee80adccca9279dd5fd41ce9f87ea3b0b63071d6eb56d347d0c0" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/e1/bd0309a0772e9d7d213be2dae3bb3691073286bd4c97ce6b941a6aa75fae/aws_cdk.aws_sagemaker-1.192.0-py3-none-any.whl#sha256=0f410074934512401d880bd8569763b6614a898e6e0333f80cf4445e685d2522" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/21/b4403464a30a58098ad232b87f98c8d2dd605540c9516b083f1cd5dae0ca/aws-cdk.aws-sagemaker-1.193.0.tar.gz#sha256=35f77d70e93d9a570e18f4c8679f82354a3f57cad460fd291ef499b1f7d49789" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/1a/79aba55be50c39324b3015a1de140bc610b45a9a316859df287db080c642/aws_cdk.aws_sagemaker-1.193.0-py3-none-any.whl#sha256=c6e7483e3dd35e763f5e4b9fe7a786025d5e11b395f8727aa6a3ef97b89ffe08" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/39/33bcb0a864033611c1547593c93cde0097e1aff97c9c7f53869f96306b77/aws-cdk.aws-sagemaker-1.194.0.tar.gz#sha256=7b4b05e14187416d523346a88eb4291e2c5b98338f23b1a03c44c45579ad7f96" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/7a/985d4b33cda6b11ac6c3027c7252a7fe852438567031e13055d512428c4b/aws_cdk.aws_sagemaker-1.194.0-py3-none-any.whl#sha256=fb331af2d418a80f722688ebb0c96b5c1749672760a3302f520085dba745c669" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/cf/422f1f5bd823857dc96103144afd6fb364d353724798f019d81f7e3ca341/aws-cdk.aws-sagemaker-1.195.0.tar.gz#sha256=da7e2d1e2bc8838e9056a6e83333c2548ed7dac1c330b751b4c25ee81512ae0d" data-requires-python="~=3.7" >aws-cdk.aws-sagemaker-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/c4/6d87433db9135aae1141ea1db14eb71699bade58bdd1d3902304b5bf6137/aws_cdk.aws_sagemaker-1.195.0-py3-none-any.whl#sha256=1c68412bce2f06c4619e869f5b886500eb4a28e514589c42764b435be2b0ec27" data-requires-python="~=3.7" >aws_cdk.aws_sagemaker-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393485-->
+<!--SERIAL 17132019-->

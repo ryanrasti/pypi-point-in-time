@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-app-security</title>
   </head>
   <body>
@@ -27,6 +27,8 @@
     <a href="https://files.pythonhosted.org/packages/bf/44/c8f8113174fc315fc8b3333a2e9753dc2c8e3d5bb8e1c39fa0631fa24d8d/zope.app.security-5.0.0.tar.gz#sha256=6a10dca5dbad56e99604ca811385b6f54fe8eec0aaad4e3792f40e235f89a50c" >zope.app.security-5.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/7d/a398443fadecae771a7a697732ee4cf9e14a70a8211d4040cc55eb600240/zope.app.security-5.1.0-py2.py3-none-any.whl#sha256=14d030bad2c5effd06acfd6d76b7a3dd3b18cdc5ce87905275557485300a334e" >zope.app.security-5.1.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/de/49/384a350f36efb0e48e0d3aa45858958ab87bbf10aca033e68aab11923d60/zope.app.security-5.1.0.tar.gz#sha256=2cabdcf8c064ca9b5c8705888d8de69f195b18d2c8179b4e1ec1c0ac1b128a5d" >zope.app.security-5.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/e3/0521251f30d3766d7394b87ad39fdaa8b5210fe9ffb6ad6586d7079e6f82/zope.app.security-6.0-py3-none-any.whl#sha256=f6ba2f8bb1b92afeea962cb2c0f3d8c631c30178a05c4149c18817835b867cc0" data-requires-python="&gt;=3.7" >zope.app.security-6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/89/7e7a0496ba11de6db6c23b120d8c31f6a3a5440cc716cbc374e60043b5ba/zope.app.security-6.0.tar.gz#sha256=2e6d352eb3cf6cffbc755746fbbe861cec221ee373f538f4fb92dfd3708f30c9" data-requires-python="&gt;=3.7" >zope.app.security-6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 8524265-->
+<!--SERIAL 16899461-->

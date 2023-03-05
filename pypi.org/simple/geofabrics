@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for geofabrics</title>
   </head>
   <body>
@@ -20,6 +20,16 @@
     <a href="https://files.pythonhosted.org/packages/ee/1f/0a8824d824300f13e9dcaf17735adb73b378a3c64e0555efd114268592e8/geofabrics-0.10.5.tar.gz#sha256=8c0e45a2ad0c229fc4584e93ab099c17a2fbbd2ab9444584a896d2e31798d301" data-requires-python="&gt;=3.9" >geofabrics-0.10.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/f0/b03e3c31d9f839b24c92121964817198cb27b6870c3010412eb3071321fa/geofabrics-0.10.6-py3-none-any.whl#sha256=dfb301469d3e3f6f18b12393b8c382d49bec2ccbb13c7ab2a5e0d3d515afa79a" data-requires-python="&gt;=3.9" >geofabrics-0.10.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/ec/c2532919370b6b2965b12511edb89a1b7469d03d9ea558e4191fc958547d/geofabrics-0.10.6.tar.gz#sha256=16e08e98f5ab440123f2c435f26af51925da9e49bfa3508dcce3fd5aa5ef7a01" data-requires-python="&gt;=3.9" >geofabrics-0.10.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/db/392fd921132017a55e987492998db8a376da1ae39cbd6b985544e6590c25/geofabrics-0.10.7-py3-none-any.whl#sha256=086c268bf677d379a09e01e8542f7a3c922b4fe3f3538996ccfc4aa7acda09b6" data-requires-python="&gt;=3.9" >geofabrics-0.10.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/3b/355112f976c875a2a0bf8077628a10a82f19345855760be6310c3946a038/geofabrics-0.10.7.tar.gz#sha256=c4b2db739632091534edc810f9e72a631436010c2a84edbce51ace11086c9328" data-requires-python="&gt;=3.9" >geofabrics-0.10.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/d9/043619bbb2696acc12a81cd8bcaa4304bcb062e9cfedf00a079aeb029b1f/geofabrics-0.10.8-py3-none-any.whl#sha256=9d8afdeba14d0f2fb7d4c919e43d69bff86132f95cd5025a8de9599aa1d7c899" data-requires-python="&gt;=3.9" >geofabrics-0.10.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/05/c80daafdbb3d5c47ca7ac3ccd4f465a38622745e1bb48a05e43037d4fe00/geofabrics-0.10.8.tar.gz#sha256=0aaf1f9dbc50d8b8135ac2f7c91058fad2aa55fa2be383676106993551f349c8" data-requires-python="&gt;=3.9" >geofabrics-0.10.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/f9/bd745675fb77b2b526042a9ebb956f5ab0f8f52355f17777bd8da3b47379/geofabrics-0.10.9-py3-none-any.whl#sha256=8ebb7fc181a6049918987e9dc094974ba99e702a53c83239a4d63bfa504b2c0d" data-requires-python="&gt;=3.9" >geofabrics-0.10.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/7a/d94471fc873ef800043a887f4c325fc462c2f2ff9c1c429b9a8c25678eb9/geofabrics-0.10.9.tar.gz#sha256=43dcf50b5febda5cadb50ece9272b4fd39122d6bce77b50e9c066ce37b5676b5" data-requires-python="&gt;=3.9" >geofabrics-0.10.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/31/242257a4c2d78ff55a67cdf86edb339017cf12ab63d2296b62c96d30a240/geofabrics-0.10.10-py3-none-any.whl#sha256=e2cf7b2129b21bd89bcc332e6c4d031a691239b9b7d6c04db57f2fc740fef3fd" data-requires-python="&gt;=3.9" >geofabrics-0.10.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/c7/43b093efd1f5ebe4ecdb54a02c167237fce216e389b34f2a21d6ac55ed1a/geofabrics-0.10.10.tar.gz#sha256=77daefc084a6cd747bba424d1a6e025cc8d6efe41b9521d4ba9980e735ae1610" data-requires-python="&gt;=3.9" >geofabrics-0.10.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/8c/ff1e4d9e03d5982279dc6fcc940e02caad48cd30c657e5612e17d9c1ecc0/geofabrics-0.10.11-py3-none-any.whl#sha256=2e1fd228952569dc1daa17f5eb7ce88e33dad079e58ef1f5983b6de4ab270518" data-requires-python="&gt;=3.9" >geofabrics-0.10.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/77/ef8ea019930300eb7f12b3e879529c6333b07796abf80a93f58832795af8/geofabrics-0.10.11.tar.gz#sha256=58b94bbe3fd366201c29a34ac7584723b0e46b6bea09d31bd4672c34400311cb" data-requires-python="&gt;=3.9" >geofabrics-0.10.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16413404-->
+<!--SERIAL 16553850-->

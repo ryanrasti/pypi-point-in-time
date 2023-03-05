@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for grimoirelab</title>
   </head>
   <body>
@@ -82,6 +82,18 @@
     <a href="https://files.pythonhosted.org/packages/af/9e/eb172c0999ac40737ec3a19cbf837532b6fe7ad6dcb167924054f512a4d9/grimoirelab-0.7.1.tar.gz#sha256=304289ad3c29eec266060f25c699dd975e6d4aad455e94a2dc8656aca337ddf5" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/5f/c3200c3300f4724b427ad57220c2033b6b43cf525fae7079f9c392cb4718/grimoirelab-0.7.2rc1-py3-none-any.whl#sha256=3981a34eadbae77e69f6e0ea479d49df2524fb416da129a686c122352ed77084" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.2rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/e0/2a41cdb3d84ad6d51d8ced06530235b0fa252087a40d15ff0f52024437bd/grimoirelab-0.7.2rc1.tar.gz#sha256=c9ada3abe95970a499490bbaad9d2e796333d49a53c53a7f0d42aa2b92d3c634" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.2rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/49/122eb3c048ccb2cef47fa351610e888341ee24b110e54c3bf48ab6826597/grimoirelab-0.7.2-py3-none-any.whl#sha256=599612f66e1e43a584a501ffc1bdfd64761621c8ac6542a2820a8dc5a4103b04" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/0b/1e38662bb4a6d34ad81039a8f3a2234afaef174e72afa4046d7ca2dbfd0a/grimoirelab-0.7.2.tar.gz#sha256=d28d24b87381068774a67615dbe02a6cd13a427e81bc541968c1d2f023813aaa" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/ba/5e184b9899e9e44c7bb10c96cb5456814cb02d5136eaf06e25848762cae3/grimoirelab-0.7.3rc1-py3-none-any.whl#sha256=b93a015be9d58dc660045a624ad78c78376941809355891014b42fa84683ab10" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.3rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/b6/e06da68e28f2692a8b53e42953b2324a41e843e5efe7cf4b8c5e253b50b1/grimoirelab-0.7.3rc1.tar.gz#sha256=51d6a7506a3d92217bae67b683d88971969bd0d5ddf3bbf018094f7131988b66" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.3rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/50/c4e130a35de04e9b6e3eef5c60ea1928a9063a8fe63e7936339627eac5bf/grimoirelab-0.7.3rc2-py3-none-any.whl#sha256=47f2d7be45ad46e0699bc461d613e805c1d932710db767f65b6ad91c4fb659f4" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.3rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/f1/ecd48a2ac12e61ca894ff74e82bb293422feeabde49fd0410b2bdb8f44c8/grimoirelab-0.7.3rc2.tar.gz#sha256=737d21216f886eb09af99d6d31d1ebd3e2974bb8312fdd06dafdaaf016f22d92" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.3rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/6c/0d9b958e4ab40036b15a2f68d4b6cd0ff295bf7ff4765dfb86cc3bfbb473/grimoirelab-0.7.3-py3-none-any.whl#sha256=562fd705c1d4937672485ba1cde9a232e71e2813549ea4f2f57e6c4cd355d1d1" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/88/33c01237a89e89fc9855add2cae1b7564741ce9949146c216d943d7b8138/grimoirelab-0.7.3.tar.gz#sha256=df1b44db9185238a7e5733955027e14ffbfe16baad9f1cc4b0598ed5d2b4543c" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/13/2eb09a341d41bd6e3cab466372eba9b537d327d4c16aa15caadb72b9bbed/grimoirelab-0.7.4-py3-none-any.whl#sha256=6267f11f6380f89bbed339ca4c9709d01612221bbcf760b6c4d84db4cbb73643" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/0d/9df295f80a76256e2224a191eaf12598bfd5e2dbcef256bb0a74f98669a0/grimoirelab-0.7.4.tar.gz#sha256=27ea8a3d30ab1f22e19fab36f469ddfa4ad30b5501f279a41c400e289baa2ed7" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/e0/45407c81534e747ba796ffea20fc8b050e469f907bc39884dd5e5ff24623/grimoirelab-0.8.0-py3-none-any.whl#sha256=12f095ae84f0ec8cd212d1d9d526fbaa44aa8ebdbcf4a360a55533e740afa124" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/c9/dfe77a74554b1160c71e6bdc2f41d5723c183f3a3e73c605a9d066a32dfe/grimoirelab-0.8.0.tar.gz#sha256=fc1a3d4f1cc3e7f2a2fdadce27c743bc66c35904fade8924e13d08645f78a27c" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >grimoirelab-0.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16374076-->
+<!--SERIAL 16680109-->

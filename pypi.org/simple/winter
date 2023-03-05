@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for winter</title>
   </head>
   <body>
@@ -119,6 +119,16 @@
     <a href="https://files.pythonhosted.org/packages/58/fd/bc461b491721405489a4d4d449bddff071d9a7257f0c3ea0232c4f67eca4/winter-14.0.0.tar.gz#sha256=ce2d9f94726e9a20d76792ca133f74052692fa32e578e7ac39d3474da423ccbd" data-requires-python="&gt;=3.7,&lt;4.0" >winter-14.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/45/151bea6ca30632724018f18821fff8a6945ffe87a09cbf3cb5e950127fea/winter-14.1.0-py3-none-any.whl#sha256=bf5f7baca5cbbbb9fdef5f00f059972d1342bb96379e43ca6c75ce0d93741004" data-requires-python="&gt;=3.7,&lt;4.0" >winter-14.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/86/72d9d077257fb42c01f6e28c39771044f29e2221c010b8f4c5f44b0509eb/winter-14.1.0.tar.gz#sha256=777e48228ee5b5d2b163357c3c3fbf2dfe75cc65c7dc0ef12023cfbc46c8317e" data-requires-python="&gt;=3.7,&lt;4.0" >winter-14.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/61/fa7ff41afb4b12ec5c359032de89777b679dff0fa2baab49e41fe599cfaf/winter-14.2.0-py3-none-any.whl#sha256=169a621ef84ad994ad9e02e3f372a49ced1781cf46b14c942dcc43620b6f1042" data-requires-python="&gt;=3.7,&lt;4.0" >winter-14.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/67/317987b7fedda63571f504a5cada44c79f8420c310ff5c89823d9c76fdf2/winter-14.2.0.tar.gz#sha256=cafb888e2cce054cf158e1138646868cba142f8c339c97dda33d2e79999e9df9" data-requires-python="&gt;=3.7,&lt;4.0" >winter-14.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/b0/d2b2e5857318e18c0186e77b62042973941033f8e8a838bbe63e3f3341d7/winter-15.0.0-py3-none-any.whl#sha256=511203cd887378517f2200bbe505bf20e075318b9b430d6f3b4ab3205c8bc817" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/cc/656ce356ed6f5a09899110d01abea8dbb452422345c4defe84c2b722b347/winter-15.0.0.tar.gz#sha256=0ec2b01d77db8eefc74f3418184b7e7a8f8b75016cfc1f44d99b06671a0d5673" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/b4/73dc0a25f4395fe7338d3078f92f08d66fcb11e49fd969c58870828238fe/winter-15.1.0-py3-none-any.whl#sha256=8c40dd989d3a414031df8ae99aa77c27f642679a9d135f886665d8fc1c63d84e" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/fd/2d08fb12aa951f9184bc726c7be2e64bd930db998e496fed0da90cc2e196/winter-15.1.0.tar.gz#sha256=a23d4df1d496d46a80c1605b38d84286acea11f5e7cf89afe71951ac83f72e6d" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/87/281e8e0befa795c0dc494ffcf3f88f95eae18039fc59fde1a51bc2c9edc5/winter-15.2.0-py3-none-any.whl#sha256=80ea08ffaa410106a1690b394842468c77e127b752174ba0b98610dfa1367551" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/cc/40323a9c55b63c751e3c37c70d1389837c611b0a07e90e7eee247a6bf1ae/winter-15.2.0.tar.gz#sha256=df5b5e398ffa30ba844a00aafdf5f5efc8f7b18f8d4a9cd8d0c3475b37fbc949" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/39/2c066bfd04eefe5645de2ca29d062c6f909d6db6923a73826bb2c00acf00/winter-15.2.1-py3-none-any.whl#sha256=06d43ee9efdb9565c1ddd8ca3498d3b701b300ab2b4d970541960e0604db8ae0" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/9a/fca8ceb1bbd79aeaa03382b876e080c1a68ab20d535c659eb8ba3f308a3f/winter-15.2.1.tar.gz#sha256=33d0527badf5f8d880865b3d8ece752f814b407a700d44fc98f508d2bbe68d87" data-requires-python="&gt;=3.7,&lt;4.0" >winter-15.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16146580-->
+<!--SERIAL 16886265-->

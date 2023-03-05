@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for binpan</title>
   </head>
   <body>
@@ -134,6 +134,18 @@
     <a href="https://files.pythonhosted.org/packages/00/d3/07a2e60438b8074fa85d53f18283954bb4ed1baaaf6fcaa0fafd0232e935/binpan-0.2.40.tar.gz#sha256=f46d6cb6be0469d4fdd7863e364fec5ab6ace239d4b12db1f01961d7ea110bef" data-requires-python="&gt;=3.7.9" >binpan-0.2.40.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/40/564ae37fab310c44a6cd7683a0524b179d52dc67a8f2904fcd3fd76f5e90/binpan-0.2.41.tar.gz#sha256=1186991d484570ee850f6c4013be505a1d93f17aa0f806ef0f63cad12c062a15" data-requires-python="&gt;=3.7.9" >binpan-0.2.41.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/50/bf/2ab04c569de6ff339fcd389bca2f0ff7ea6f70051d8f6e7a66f44e5923d8/binpan-0.2.42.tar.gz#sha256=582ae268068ddc8691c910da16e0906e3daabab8999015c9d308b4ca28bd38f3" data-requires-python="&gt;=3.7.9" >binpan-0.2.42.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/4e/ad61d626834f82c705897ab8861783f994483cd07952ede7f6adfbb159e5/binpan-0.2.43.tar.gz#sha256=d9e38bc0c3837147db05599d25a00dd36df1c8addcd276556efb38ea8f273aa0" data-requires-python="&gt;=3.7.9" >binpan-0.2.43.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/37/5e90ac125f580e778ec12297ca26d7f6eaa749d4f77a5962c0218e54d633/binpan-0.2.44.tar.gz#sha256=3eeb0dde7469111ec18457bb2ab9af1755c3796bed54f775f898a2ea71fd8719" data-requires-python="&gt;=3.7.9" >binpan-0.2.44.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/1f/e34a326072b48cc920de1ec33b95d2f83147e0f51d985c9460755c487fec/binpan-0.2.45.tar.gz#sha256=ecf7fed0c120735fd2ea95226bdac838726da00b5e1383ab07f34719d9233edd" data-requires-python="&gt;=3.7.9" >binpan-0.2.45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/61/018303fe25ff0573a46fca51765743a688bdc0faa669a861da319e19abc0/binpan-0.2.46.tar.gz#sha256=656fe5ab2fc2f70f05519c726da88df2c290175441255e126155a178fba94a36" data-requires-python="&gt;=3.7.9" >binpan-0.2.46.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/b3/0bceb8ba7ccf769a35dc31e9153543ee54a78c52b823da35843eb514c7ad/binpan-0.3.1.tar.gz#sha256=21a11a289e22c492563b93612a37cab56d164cd4ef349ec52260c9d88cb18522" data-requires-python="&gt;=3.7.9" >binpan-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/cb/872821255775f6e48eee14b6db81c251e5ead39f4d0c1cff7f46144fe52b/binpan-0.3.2.tar.gz#sha256=f83385778f978f78c308f3943cc75a4cc89dc5ddcfd68009c1e9fbbed7a90838" data-requires-python="&gt;=3.7.9" >binpan-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/d1/bd0e0cceecc645e0a8f5ad2540f2029c02115d8f3766e348108d23327a3c/binpan-0.3.3.tar.gz#sha256=274ee80964b059cc64103390a8427927bde1fa56c9badc1f15eeb2dc889d04dd" data-requires-python="&gt;=3.7.9" >binpan-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/67/0374832b768dcb19fdc5d06dab3ff28b1b84469cc79e8a9b20ec9aafbbaf/binpan-0.3.5.tar.gz#sha256=05d232756161451f99b558daa16d416732e7c91c1d351990dd15b8a1ed6f6d1b" data-requires-python="&gt;=3.7.9" >binpan-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/45/80ff993ca55c0e701b7331cc9bbf83ba67867863286b59e4346a87ce9757/binpan-0.3.6.tar.gz#sha256=2ac4eefc36423b1d9f5258381a1ab0dba28886a584d546a4ee28b725dd24ed23" data-requires-python="&gt;=3.7.9" >binpan-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/73/d74558e03ee8bc07e0bd825868be53203f49e0a48b40feeb927d571983cc/binpan-0.4.1.tar.gz#sha256=9b02390b236a166c4525fe9f1ca322637ad42e133523d046b16cf33a9bf2c8a1" data-requires-python="&gt;=3.7.9" >binpan-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/01/976c2076ee997275aa38bfbedadc1a4469cbd4d4217a7bdb895307d6bcfd/binpan-0.4.2.tar.gz#sha256=96816a8abff278dd63eb9d91ed6947769616366b8b9ac683ba3890e77ce5b0d0" data-requires-python="&gt;=3.7.9" >binpan-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/31/9d0b6fc2d029df3141cd8a2a67a73c8a83482d0f98c65301a1b9e090c872/binpan-0.4.3.tar.gz#sha256=2cea23c971cca5cffe76cb40f33a25324c95725f5a1d3612e14bf528faf19c2c" data-requires-python="&gt;=3.7.9" >binpan-0.4.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15930526-->
+<!--SERIAL 16964055-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for resolwe-bio</title>
   </head>
   <body>
@@ -586,6 +586,16 @@
     <a href="https://files.pythonhosted.org/packages/01/79/e74c49e4ca9b2fd6ef3011eae7fbd9a7b9d5599d08d84679d470d19dcff6/resolwe_bio-48.1.0a1-py3-none-any.whl#sha256=60009b1ea718e211e2dc41b759efe75b32a03248e6ec881484c9de6e69ea21a2" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-48.1.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/cc/9fc3f1db07e14f37d7372c026fd807a226f3262a5fe5202bd9bc74069eae/resolwe-bio-48.1.0a2.tar.gz#sha256=c9ede6c1f64a29a94ca78aab8f61b8ef1049b3b29c9c8c7fa10b61d34292ae28" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe-bio-48.1.0a2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/5f/9c1b0c3a1a832d190c06faa710d45dc7d94c316947fb16af91e5945ba133/resolwe_bio-48.1.0a2-py3-none-any.whl#sha256=61c9d8d7f3cc82f09c123a8ab97b2339e9d99e8b913e1994b4aa76bff523f775" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-48.1.0a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/87/c1b6551c67f71b27e8208b1f27846545b8eda471b8482cbfc7871014bbc7/resolwe-bio-49.0.0a1.tar.gz#sha256=fccfbd9b51b07154a248188766341c799766aa89d173677846c7819ae0066219" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe-bio-49.0.0a1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/32/cf8747a1e5ae71a1f8c6a399406be25ed1d734494c7220aaa952b167cd84/resolwe_bio-49.0.0a1-py3-none-any.whl#sha256=50c4116db9766f10af82677fe0dc06b85db3309c0026315fac4e3ce8f0f785c6" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-49.0.0a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/11/232bd660f451bb9bd6ac4a7ba70468c18493d966e079b005fffe6e0ae1b2/resolwe-bio-49.0.0a2.tar.gz#sha256=88d88f5d42de11af3e079bcd0e721450673946206559a2d9e6635bd98a2e76f0" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe-bio-49.0.0a2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/30/18ac2b77f43a8d4b7ddaa43a40488ae64ebb3c7f5f3e6598aa816471f65b/resolwe_bio-49.0.0a2-py3-none-any.whl#sha256=d40b345984b17d54737d60732e615b0a53a97b16f75653f65a7e47c8b90c81e6" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-49.0.0a2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/b3/7195c2b03e95c099bba8ea0f9e426a8b3ee1b43bdda62e199d0b21a81224/resolwe-bio-49.0.0a3.tar.gz#sha256=7e0824fe466b9c59a1db55a704727137b314266922a4759269ed7cbc71eb53ba" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe-bio-49.0.0a3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/69/970a8140c305e96d8d0255f5cb4ea0a6f9e8f06ae32ee3d3c2e2cb771a4d/resolwe_bio-49.0.0a3-py3-none-any.whl#sha256=55d98fce1198de35ac16027ebdab5271e7e1de9a15f7c5d6f9c03e34be75bceb" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-49.0.0a3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/ab/fad48d2ffaa069bc0050534c8ad075c1a11070f87996ce2224afc00ae120/resolwe-bio-49.0.0a4.tar.gz#sha256=d7d3aff69799b859c08ff35aa9c675272c0aab4f2b35b60bc8f82fa13e46f462" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe-bio-49.0.0a4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/c9/07f31cb84ee9a2516063d0bddcfcf594531dedf4c7799ce6cfaea87e7323/resolwe_bio-49.0.0a4-py3-none-any.whl#sha256=6679c18c656014f84cb51d6b2fe88254ba882fd3481ab7446be5161aaf53b25e" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-49.0.0a4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/43/4942b86cddfe58bc73c0723620738e101516f67eb64da691f3fcbedb55d5/resolwe-bio-49.0.0.tar.gz#sha256=33c0342cc2f2d76659377994948a8240c489342bc47c0905f3162db7c21af211" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe-bio-49.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/dd/e8f530940a87d3cb94cc49e2240b684b863c1760085c6541967ae3d93963/resolwe_bio-49.0.0-py3-none-any.whl#sha256=c9a8a4481242774de7a65a1ce7a07ba191e83a30510065f5fa10f6461f45daf1" data-requires-python="&gt;=3.6, &lt;3.11" >resolwe_bio-49.0.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16357249-->
+<!--SERIAL 16836951-->

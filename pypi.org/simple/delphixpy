@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for delphixpy</title>
   </head>
   <body>
@@ -12,6 +12,7 @@
     <a href="https://files.pythonhosted.org/packages/5f/02/d729e572e6fa2ebd07fac3ebb86534842c1ca9df6ba26b7a71f7cfaeabd5/delphixpy-1.9.0.0.tar.gz#sha256=3e8d14b66ccad15eee335e0d12daa1519fd05cc0d9bd17fc970adaabf7dd3c62" >delphixpy-1.9.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/46/0b/c2d9ea3d486c5df07e6984c53af43fc02d6b6a201229dc6e224889c62839/delphixpy-1.9.1.0.tar.gz#sha256=ed79ae566c0c5686b0af0f7cd6410aeb8fec51bb5e4ee607548205b0de19bf7c" >delphixpy-1.9.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/72/d1/cc9d4049bb24d9574b4602bf56430e6d2802b9efa401800b03ccd4f98a1d/delphixpy-1.9.2.0.tar.gz#sha256=017b362a041fde4f991b412830e510e8ff2db0ac82ef9560e419fff99bba7bd7" >delphixpy-1.9.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/96/187b1370e693b446a6a77c41581b2dd25c4f35c004301f90709fc25caf44/delphixpy-1.9.3.0-py3-none-any.whl#sha256=e948839ef505d0f96d136ea47a4587ec2e67ff9c88cc5af7e6c8a662e62de7fb" >delphixpy-1.9.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/35/a9a69663b7d681a8dfe0e8b1cdb6505653efd3b44f0a25edcd1b2beb0d08/delphixpy-1.9.3.0.tar.gz#sha256=6e8a22649391009cc463c2498a35faba9ab706f835c564fa51aa925fbbb74752" >delphixpy-1.9.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/bb/46fefff8eafd081828ca3ac6f1b91f9a3767a2706bf636db6ef5e4ee97eb/delphixpy-1.10.0.0.tar.gz#sha256=32f0765a73543abfdbb3b38fe08ab2e1b15097d1c694e7535470d8b606386238" >delphixpy-1.10.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/71/55/767498d712a3f2806427858e01c27df5d9755c31e27e3bf70100034c4f6c/delphixpy-1.10.1.0.tar.gz#sha256=81baf39584ef84378020a49c14667614faa6018346f53c089cc8e94bc2781c08" >delphixpy-1.10.1.0.tar.gz</a><br />
@@ -57,6 +58,10 @@
     <a href="https://files.pythonhosted.org/packages/91/b3/1a824757fe92a06ef482fbad0385e9d1b3287bcdbe6d23297c2f0634f473/delphixpy-1.11.16.0.tar.gz#sha256=aa681841cc02bb47db8fc7299b78292fe8fff6d85354e1d0cbbd110e19ce1193" >delphixpy-1.11.16.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/e2/e20f39a9bad70ccceacf6adc34c7162d1e1a40dd6d7e1b548bfbde1d5ac0/delphixpy-1.11.17.0-py2.py3-none-any.whl#sha256=c4f591ddd7707aa57c5b794db0201bfc4829ef2d352a146d260567f98a5dbd1c" >delphixpy-1.11.17.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/57/15/e8ce114de175e6c2533fe2471ebc707a53b65c3d64b67560e079efa5a772/delphixpy-1.11.17.0.tar.gz#sha256=622d0d838ae38ec2097a4db40c6fe8a10197d4ad74972096ed3641d549edbf7e" >delphixpy-1.11.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/fb/c517b90e4d2dbee36001a1c28fc0c1815f0ec18386ce15f2469bd27f0c0c/delphixpy-1.11.18.0-py2.py3-none-any.whl#sha256=d2d741f56799dda7b22d9bdd2ef6776a7e12d4efe30dadf2d0f6cbedc73d63d7" data-requires-python="&gt;=3.6" >delphixpy-1.11.18.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/5a/10b14fe1f5087e3a36c9bef6f5c195d6aed1b206a0dba604fb147dd660b9/delphixpy-1.11.18.0.tar.gz#sha256=5e0960a886743430ce857c82f8005cadd412e8c07839eed4808ed586d31b177c" data-requires-python="&gt;=3.6" >delphixpy-1.11.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/fb/59b8a0d4143ef481258ef16cc69acfdd616b868c89e3bbc29c5067a5dbff/delphixpy-1.11.19.0-py2.py3-none-any.whl#sha256=d427b23d0486e623c6526a28b3854f2a3747f63f08d3b31d58cef4179150f565" data-requires-python="&gt;=3.6" >delphixpy-1.11.19.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/74/77969d6058f52e6880432540015d7f077f1578b5ee68ce899de6a430756f/delphixpy-1.11.19.0.tar.gz#sha256=2567c958a901d65a1295b4dab6e96f17d4d79c9fcf531d9245ea2b1496968dbc" data-requires-python="&gt;=3.6" >delphixpy-1.11.19.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15781456-->
+<!--SERIAL 16843553-->

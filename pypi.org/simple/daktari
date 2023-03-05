@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for daktari</title>
   </head>
   <body>
@@ -152,6 +152,16 @@
     <a href="https://files.pythonhosted.org/packages/e4/5d/10de6e36b77753c4f9edadaa869c30d00fb963feb02242e1d70e75e87df1/daktari-0.0.74.tar.gz#sha256=1cfa6fe5dee1ca2314ca648a63fddf9615fb7aeff280511818568bdf97858f60" data-requires-python="&gt;=3.6" >daktari-0.0.74.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/62/ab/1cc64c0d9f7fdfd77b2f82b9a578c1a58970eb5473420889940037139054/daktari-0.0.75-py3-none-any.whl#sha256=cbc54e2440cc01c0c7a00a3d2452ac300e69c28b689aba78b4df801ca75dda03" data-requires-python="&gt;=3.6" >daktari-0.0.75-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/83/d6b01a49c55de20d191146d8f33a5776c40a1f36f93b46d3c9850b3c6934/daktari-0.0.75.tar.gz#sha256=af99d927d0fb200dd07ec7daf24f6f3b10d574e7f5d329a367d3303c6587d052" data-requires-python="&gt;=3.6" >daktari-0.0.75.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/0d/8774c2356188f0661a60955ab83f5ff7e980d6f87508b1682a58d6408632/daktari-0.0.76-py3-none-any.whl#sha256=e0ca1d243834091ea57dc2689d75a780b9e20451cdbf703411e2e36bf6b62bd8" data-requires-python="&gt;=3.6" >daktari-0.0.76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/39/36b6154e954b8856481091798c3a0dc03dd6f642d353c5cd3cf2aed5065d/daktari-0.0.76.tar.gz#sha256=0c95aaa8e386533f5e52f35ed1751430493ba280025c244bb4247600552dc977" data-requires-python="&gt;=3.6" >daktari-0.0.76.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/32/260a356b4e1c796000ede5e46ff198a159f031d9bcc765afad2f794db9e8/daktari-0.0.77-py3-none-any.whl#sha256=22d0c95fdce557d7f7a5a4d65ce203d1a8dda57eb25c3af11118ca3424d3bf45" data-requires-python="&gt;=3.6" >daktari-0.0.77-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/c1/c0f08aafcdc7227031ed500a155dc4ae3e4033c59c8035d6cc279ae246bb/daktari-0.0.77.tar.gz#sha256=6eff9eac15d4d5c3e0f85ba86d4f3938ab8ad8b2721567f70f43fd0f0f9093d6" data-requires-python="&gt;=3.6" >daktari-0.0.77.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/14/c48795ccf036404e970f2efe1c4c517e1d39726c816e726e0f06964cca85/daktari-0.0.78-py3-none-any.whl#sha256=55d31279fbd7734f1caa824c9fb66b985d61a35c96ada99819f70689f705be33" data-requires-python="&gt;=3.6" >daktari-0.0.78-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/21/3db2b31e1b384ce1dc5505829659df75a0c81f8b6bac97332329dfd491df/daktari-0.0.78.tar.gz#sha256=0001e8aee3327885039a579d0b6efe43f7f6170743775f911a5e0adb5724d607" data-requires-python="&gt;=3.6" >daktari-0.0.78.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/b6/4d7a49f8eb0fb1d298e748f11e5917dbaaa909422ef53d3c28b370f10302/daktari-0.0.79-py3-none-any.whl#sha256=0236fb199349fba6208ca7a783c3992d67cd78a432212440084d62e6cdf1a990" data-requires-python="&gt;=3.6" >daktari-0.0.79-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/3c/b5c219fd5575985727e323ffe542efc0e6a8505b527bb3db8b519e21661b/daktari-0.0.79.tar.gz#sha256=dd49da0fbbe63a3e7647b7ffff83b88e2fe54163b880bbd26550c52f574cd484" data-requires-python="&gt;=3.6" >daktari-0.0.79.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/fe/39d6bfe88b98dc34fb58977cbc7708e1be300efeb2367d4fedd92a076a08/daktari-0.0.80-py3-none-any.whl#sha256=2256d50fded865351cca831b4fea1515e0fb169709d06e93782f6fba57afd2ee" data-requires-python="&gt;=3.6" >daktari-0.0.80-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/f3/d31b7e5e25d8bfda07c133735fdc8a5bff6d30b81fe5fd9582b3757a8e9e/daktari-0.0.80.tar.gz#sha256=06e1b06551d9fe9d1545d2f875f5b771055699f522209456ad686f2782a0bc02" data-requires-python="&gt;=3.6" >daktari-0.0.80.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16363294-->
+<!--SERIAL 16974664-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for conda-mirror</title>
   </head>
   <body>
@@ -43,6 +43,8 @@
     <a href="https://files.pythonhosted.org/packages/06/1f/7023c5b411571d48f744a164e44de63fd5fd438a24e1b62329b00bc9ba3b/conda_mirror-0.8.2.tar.gz#sha256=80d09cfa2481574d2420bd4ed4913b926c4a2dd65ba8ac41cf98555ee695d92c" >conda_mirror-0.8.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/35/57/ab1738bdf0c20c1df6d1121e666fdd15bddd848a8b22b31d0a34706768af/conda_mirror-0.9.0-py3-none-any.whl#sha256=46fdf64e71254f20bf9eaf7198e702546a6daa8813e81dd8d4312f6d22a15c81" >conda_mirror-0.9.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/f4/030f80640521f08efcae9741823f90edbbdff58598a86c0bf1c6637bdc85/conda_mirror-0.9.0.tar.gz#sha256=32500b6ecabd22beffb4a62f208da261afc39b431c88f265adbd06f1805a32d3" >conda_mirror-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/92/9eb30f36dcc860ce4110dcc082c6c081c362843307a3d7910beb4bf4c5a4/conda_mirror-0.10.0-py3-none-any.whl#sha256=9bf7ef587fc246565d5df955970134f44e46561dcb08546419d057092eb5b261" >conda_mirror-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/f3/40e9b7a16a625f8a8ee9a6ba9196777f4f65e869b5a04a3e373a9e209a37/conda_mirror-0.10.0.tar.gz#sha256=99c7cfa912cff190c5051c7c2100740dbf8c74614f8f9e8431d4d5b01816100f" >conda_mirror-0.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16415606-->
+<!--SERIAL 17141905-->

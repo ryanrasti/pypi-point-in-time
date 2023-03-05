@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for balpy</title>
   </head>
   <body>
@@ -146,6 +146,24 @@
     <a href="https://files.pythonhosted.org/packages/10/94/045362e06f7a91df261a0304332bd8858d11eaba8f0b8a875cbd906a6cfd/balpy-0.0.0a69.tar.gz#sha256=bd749ab2c64592c14ec3a3af69ba2317042499849f6d0d0075a24234521c6c34" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a69.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/b8/e643ab05e6cb416275afa3eadc76fc952e8246cf5a8c54ddc6806e6d8297/balpy-0.0.0a70-py3-none-any.whl#sha256=484f1085dfc658c50e018ee3742a64b8a007d9cf19804af92dbae66aefe96950" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a70-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/ec/e7725d23dc30a5e718a8a0371e182d585497c1168a6c3ecaaeea340e3d72/balpy-0.0.0a70.tar.gz#sha256=9d26442150f49da32886ffa567b38eb2ca2012dee6f08218271319a60796d4f2" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a70.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/2d/9670fa2603d7c5f729caa1e3938aeb66e8f385016b37dcfa610237f6d6ee/balpy-0.0.0a71-py3-none-any.whl#sha256=a9b05b967af79bd61da5e52e2412a849675a3fb69551066b627ed8faf8ab1995" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a71-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/20/dc3ed54f62535e9d1c19f7a417442baed60a902701ce63522c329a9f974d/balpy-0.0.0a71.tar.gz#sha256=7b261948a03dcea7d608c350c3242813bcbdf0965190ccf4510d30e7bcfc8d35" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a71.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/6f/c3744aed87064d87a11b6b6ce778a95b66442200182b1e1988a9169bdff4/balpy-0.0.0a72-py3-none-any.whl#sha256=818289bbb453ef9a84b216133643df60c1d512beeba3e267930e3836942a30f6" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a72-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/18/f9d748b1246ef28ea3c7127b9d4ecd7a24eec8160231b2dfa8cc919f001e/balpy-0.0.0a72.tar.gz#sha256=d69ee3698da1092b89360c159604f0e5155ada76da3b02c49fe06a324ee2679a" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a72.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/ee/9c72170ed5c4f474cd6db79e974a9b444e17ed9f7e4f155afef506a095ab/balpy-0.0.0a73-py3-none-any.whl#sha256=151d46145c919817652b8e0333c5e96ae1989384c9c11205e6d45b888ff8fa3d" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a73-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/32/5f9bf52c967d5ddfa72981e5f1d181284addd7fdc6de03b830553310cd12/balpy-0.0.0a73.tar.gz#sha256=38576fac51b5eff03a92fa79511844b03ff0225e96469943bcfdcc34695318d2" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a73.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/75/30815bde27e66b9ff2de51ee2116ba36764545f855127e8d858dbe4f09c1/balpy-0.0.0a74-py3-none-any.whl#sha256=08b4651b135b3390596abc71b2311433258f0dadb57f2a8aafe1c061e3063881" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a74-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/49/d282fe01a6e54042545ee1f1cc2ccd2cd7e2d9bb3bca7a7870e3b8517797/balpy-0.0.0a74.tar.gz#sha256=436fc4df11b57f9b8f0d96e756a3f1bf5644bc4702e37cb9d3a9e7cfe1dcfd34" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a74.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/ff/f61214481d24ffaa3e71f8079c4343be18eeee425470e94618344ba1d60b/balpy-0.0.0a75-py3-none-any.whl#sha256=3086f1299a90c6506371dd85c5feec081c8588932a0e88455c72dfba9da7f6e8" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a75-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/f8/998313829cec4644222680fb2cd9e0a45b790a047cc2302cb03c59ddee29/balpy-0.0.0a75.tar.gz#sha256=8d187f6fbbd45d235e9e1288d9c780c9f1e9c4ed7c6f9b42353d7b253bf4f9cd" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a75.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/b4/587a76006a87db43732cf83fa0e79f3a717c623bd850d378a70dacccdef0/balpy-0.0.0a76-py3-none-any.whl#sha256=60a6aa30b9f965276e262496209af173ebe8815128b5c5a9e22cceb574267a81" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a76-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/66/f39cc5937fbff1d7af059f017e815b8bd9aff5bb246ae95709e615488041/balpy-0.0.0a76.tar.gz#sha256=b1307351d4d7b9e42695665f6a8d2a56100b419794de0b6935025664600082b8" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a76.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/8b/f3a884e891a7d7ccfcfe83cc892d0156dc2e4e0436046b6b8f27248680b7/balpy-0.0.0a77-py3-none-any.whl#sha256=837e83e7b97ef529bd5e9ea9a59aadb503b7cd150336f80af40cf5a51de9e214" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a77-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/f1/3cfc104a812a805e669a4dba17cf118da83bd2ac11f260c88bab05a5eaaf/balpy-0.0.0a77.tar.gz#sha256=84604caf5d263731970d55af065b8c23c2cb993bf4d870476bb7a023370f3ce3" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a77.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/ad/79d73787279c604ff33d9db8c9d012b3b2d44f1c4a7a00b963ce7002e294/balpy-0.0.0a78-py3-none-any.whl#sha256=dc9812a7a334c1cde39761b6b83d128be58cbd28c2917701b9a512f2b1669f1c" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a78-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/b0/17010d21dc3b19e89b65dbba1d31ddff6f5b944d8966fecd08e2edf4385f/balpy-0.0.0a78.tar.gz#sha256=95fa6c75d118dceece2011fc8ce18c230cb79adee6824d5e6a51896c1a029423" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a78.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/e9/cf00f7c7c9d8568522af9274c5c87e7b9b6a47ab42640a77670869b4e734/balpy-0.0.0a79-py3-none-any.whl#sha256=13d59d328c175dd1d6c9636eab09a10dc3af3b38c3becd9c2c5a87d5bdce31e5" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a79-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/4d/00dacee6dcd3b82c34d52e5f49bb5df3ba9845d21e4b47880d4aa6c3bc52/balpy-0.0.0a79.tar.gz#sha256=7fc1e393e7f8075cb228f8c6733e0068eccb44fc5b7ee7e406f96771ee59698d" data-requires-python="&gt;=3.9,&lt;4.0" >balpy-0.0.0a79.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15934100-->
+<!--SERIAL 17069318-->

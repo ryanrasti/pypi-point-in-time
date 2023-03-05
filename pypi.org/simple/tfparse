@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tfparse</title>
   </head>
   <body>
@@ -25,6 +25,18 @@
     <a href="https://files.pythonhosted.org/packages/b9/bc/13a3a27f124ed9fa2ea8aab94d4ce0011b9db781199c2e0f7d291225934b/tfparse-0.3.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=f1dda1d9cbf817d560f67ebd78c61284315ac1f53ef985dd8c1e09ec45e35422" >tfparse-0.3.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/40/e5/0d51ef99714f288fde5df1201ee01b008629e83024f65282bf877f5cfd11/tfparse-0.3.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=4aa3e22c53f6e7f89ba611f7f38bd1705517ed8e6ef818fab91f724f50f43fc7" >tfparse-0.3.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/c6/ed1e1d3cd129cf41089574f05d3d0bef73170e8a9fb24062d741afb625c0/tfparse-0.3.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=563570692f8a81b58d7046bef629c6eea01d4aec5e350b895db04ac9e6bc7b7c" >tfparse-0.3.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/41/6f3e1124885116dca52b7ed1adeb00f7c8817f63613c910b2d57f4c57aaa/tfparse-0.4.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=18b8968bba96b7160c4ff457da4fb2de3e946737faa2999d579ddcd1d486cd22" >tfparse-0.4.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/20/1a4771df6de052a2df8c23c19fb2a39e798d40b3680ac0b1602d9076251f/tfparse-0.4.0-cp310-cp310-macosx_11_0_arm64.whl#sha256=eb31427b01efba42b7e1bccd8450e9bed0b16dbbb8bfca635b7447e150657f02" >tfparse-0.4.0-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/67/be247733ec0bba329994b17941224e8ff3b6e0e36e7e7f4ff13ec69b0b6b/tfparse-0.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=c8b9ce16598d56ce46d9a85a20c977be09466558dbd5e9ebcd91e322d058f170" >tfparse-0.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/c8/558d98c4f0026555a2691c47f6465f2ed7c63f7c7f193b2ba8a4dcfc8489/tfparse-0.4.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=bc8bdda0d0683a3f1edfc51aba0c506173c89158f2e7b73bc5fc1be6c1cc0f71" >tfparse-0.4.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/d4/8b171d02afeddb92da13c5a22a3a53141de3a259bb764c47e5ee56b04d99/tfparse-0.4.1-cp310-cp310-macosx_10_9_x86_64.whl#sha256=580bac0dca6bb94e4a69c0c80516a2f2c568826a039754c23b4120ae910c9f61" >tfparse-0.4.1-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/92/bf6fed0e4d9a5b2df67fb02f6044981349a546c7d13ae1d9c17f7d32c96f/tfparse-0.4.1-cp310-cp310-macosx_11_0_arm64.whl#sha256=b0af5b555a72e8eb833f44e9550d5f6fea937e7896789ef533a956ac9d9ceb90" >tfparse-0.4.1-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/5f/7e627d35990adf6bab242117b2e2be9496278ecb54c65cd5401e72f08acf/tfparse-0.4.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=5b5594629334a848f37ccb494c41dc7823b599a2d271acb321c7f76fac9fa11a" >tfparse-0.4.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/9e/ee58d3c3bc8ade846387ba60ee7a8f1b5a994dcc52da42406786471e5f73/tfparse-0.4.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d40845652b8a764130d6ba719af9dc24a364ba1859583868ed42ecf2e5e0f8cf" >tfparse-0.4.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/4b/851410df64b7220fb901c2daed6011f123506c02276ca4afcf1b0a5886bf/tfparse-0.4.1-cp311-cp311-macosx_10_9_x86_64.whl#sha256=cd4505b6aa16b66cbe1f74a81f832f557a522024059683d67b2cb5b7c9a91b15" >tfparse-0.4.1-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/ae/4c4c64ede95312e1bfd14901cd1b577a1c700944e470a7a41ac8bef1675a/tfparse-0.4.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=3b2e53be7e568207fcffad99a8a29e399a6254f1dae235fbbfb5f3bffbf6a50c" >tfparse-0.4.1-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/8e/d905ab035c7ac295b72233aac00c01e61ab01f159f8c5c8d9efc8dee35a7/tfparse-0.4.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=0c972d5ad521525adc39db4ea5580bdeda43795e9b3229dd39518a25f2c780c5" >tfparse-0.4.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/92/ad1df54fda902fcc788e42fc603444609e7bc6dfb7956dd93bb6568af55c/tfparse-0.4.1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c06e397999049cb5cfee735c22e159c1fb9aab6834a5ba03a27b5f612fefa4f0" >tfparse-0.4.1-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15524433-->
+<!--SERIAL 16959512-->

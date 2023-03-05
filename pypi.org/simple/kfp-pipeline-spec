@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kfp-pipeline-spec</title>
   </head>
   <body>
@@ -22,7 +22,8 @@
     <a href="https://files.pythonhosted.org/packages/0d/02/68fa63f6ac3419c1ddda95fa9bad998e58dde90cae3209b1d7fb60fc3d44/kfp_pipeline_spec-0.1.14-py3-none-any.whl#sha256=bf9bdb244688b5084e75fc733a1a0855ee7ae789b8f5c8d82c6a5032762accba" data-requires-python="&gt;=3.7.0" >kfp_pipeline_spec-0.1.14-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/85/4c9e4b3b60eec7b69348bdd1c30685e65115ef85876030b0a07fe959fa5a/kfp_pipeline_spec-0.1.15-py3-none-any.whl#sha256=46cf427e9f55539c0fe36e9eeb9722216090b148fd785cf3903b6e93c4b137aa" data-requires-python="&gt;=3.7.0" >kfp_pipeline_spec-0.1.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/47/69/79bc7456679b9e7bc57d2fc1dc94c5a20709134cb0e82617934e2d18db7b/kfp_pipeline_spec-0.1.16-py3-none-any.whl#sha256=4cefae00ac50145cf862127202a8b8a783ed7504c773d7d7c517bd115283be25" data-requires-python="&gt;=3.7.0" >kfp_pipeline_spec-0.1.16-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/c7/5b/8eb826eaddda11d75b44a640459751772a262c4b931b34d86d847176a527/kfp_pipeline_spec-0.1.17-py3-none-any.whl#sha256=989f4db995862830f6f387124ed9a4f0fb8936ffe9abd6dc28ed97fda4f6d35c" data-requires-python="&gt;=3.7.0" >kfp_pipeline_spec-0.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/5b/8eb826eaddda11d75b44a640459751772a262c4b931b34d86d847176a527/kfp_pipeline_spec-0.1.17-py3-none-any.whl#sha256=989f4db995862830f6f387124ed9a4f0fb8936ffe9abd6dc28ed97fda4f6d35c" data-requires-python="&gt;=3.7.0" data-yanked="Many KFP BE deploments do not accept the fields added in this version. Many existing SDK versions permit kfp-pipeline-spec&lt;0.2.0 and will get this version if left unyanked. Must yank and replace with kfp-pipeline-spec==0.2.0." >kfp_pipeline_spec-0.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/76/04efb7e865023c81a5f7b48432e4cfad58f523ad9b995214b751c51c82f6/kfp_pipeline_spec-0.2.0-py3-none-any.whl#sha256=b13d938257104278f5fe66c5d83a2452e8fcd5176ffd05945c5895e4f8e439fa" data-requires-python="&gt;=3.7.0" >kfp_pipeline_spec-0.2.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16186859-->
+<!--SERIAL 16506257-->

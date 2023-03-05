@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for minimal-activitypub</title>
   </head>
   <body>
@@ -14,6 +14,20 @@
     <a href="https://files.pythonhosted.org/packages/c9/11/a4243e6300e815697c38ca5d4f0f93322c6f0e287de2ee55f16b9c396460/minimal_activitypub-0.3.1-py3-none-any.whl#sha256=491c542e0b1b8fe371fe2deeca5c9dc86a44c69ce7fc0cf2db632d1ba85ad82e" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.3.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/34/3b/e5defa92eb73331965e625123ee9d3b8971ec94f1c0b355a55d4f8bb0494/minimal-activitypub-0.4.0.tar.gz#sha256=c6fcb4a766028a6dd46680505672fe88a011244b83667b0f742a8c10532a8e91" data-requires-python="&gt;=3.9,&lt;4.0" >minimal-activitypub-0.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/ce/c08c12d60178e482a317a47b8e4030ede77d5073b8caadc0c31560da2fdb/minimal_activitypub-0.4.0-py3-none-any.whl#sha256=17a8cffca35b2a56c9807fd6c562b1e66cdba6997d13ae7b97c27c8264dc30ae" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/8f/aa363311d8852c07e9f62d18eea6c661a9a9b02693cbd55d5e8d97958354/minimal_activitypub-0.4.1-py3-none-any.whl#sha256=a148ee87011d0b5d313c5e923d92e63ffc704158402471acfdf2a89c12d0c2cd" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/d6/9649907f7a9495a8b0076bfb83e7ff8c6922019c269e7fbd2e471751b014/minimal_activitypub-0.4.1.tar.gz#sha256=47e02b3c14744d2c25ca4fee4b86c6df49268bbf096b5185f49c83f01a91a1c2" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/01/f133c209e5407b7dc5055d44a5c0932ed51e0abb624ca2d60e34919dbcee/minimal_activitypub-0.5.0-py3-none-any.whl#sha256=6e6d8178be8fef2b230a7b0ff2d9d3f6244669232ca38d992afd407fda77da7f" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/27/cc4b400272454eed75b020bfa9de31a49768008e1fcfc44c5791055fe340/minimal_activitypub-0.5.0.tar.gz#sha256=c8fc78a193628ce2fdefb498e8b6eebd43c513e22d44aebeab3c62e9ea544fa4" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/eb/43bcf087c3f99f49955c4ae2e3eb23044ff2dedfcdf4b89e3f1e3765e343/minimal_activitypub-0.5.1-py3-none-any.whl#sha256=e001fb6cc14e04d42006aab20aae4efe25e3bec5bf07da0f6b6539a2ce7b1161" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/a5/7ccc988d8eba85433df8b478f02f69c4db774ac7422e9823fd5b63423c20/minimal_activitypub-0.5.1.tar.gz#sha256=824633701e4f8ef714719f685efea0b8b7be1b5f955570650f90a9e6c51279b8" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/c2/8ebc2d5b0c7899d606495275c8f0f69a9a6226dbe7d2f16508bdba6084be/minimal_activitypub-0.5.2-py3-none-any.whl#sha256=511e66dacdc71e1dc25007ca8a1c939be6b9156014b17fd5470f708d0408f406" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/8a/3afe610d2f5c7d2694d18acfdb2b188dcca361886c97528a001fb4eba3f0/minimal_activitypub-0.5.2.tar.gz#sha256=cca53a41ec2d16fbb512c05ac0720d490cfd0f746a8155c11ca8313588597d72" data-requires-python="&gt;=3.9,&lt;4.0" >minimal_activitypub-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/39/8ac92102d10155e05be7bff6603963175beab17dcfa1895cb8fc7a3572e4/minimal-activitypub-0.5.3.tar.gz#sha256=0e40c7b423ed49bb2e337d693cfc2da9ccdba9cdf1a937f2ff0511c36a1b7169" data-requires-python="&gt;=3.8" >minimal-activitypub-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/a3/eb760291774de289752308b30499ebd1d1b966aed5a3f3f6c8aa2e7af10d/minimal_activitypub-0.5.3-py3-none-any.whl#sha256=8e896a579c396c5fa83ab32c6799d1dad0c0e71eaa0cf922aeb7571d86dd9eb0" data-requires-python="&gt;=3.8" >minimal_activitypub-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/de/23f9e012c7d3cbf9a2da20407509c4c15c01d33c852d6c7262ce9d5994a4/minimal-activitypub-0.5.4.tar.gz#sha256=322d71bdc0dcd869c0323788455066340c045d12ce79f90f4651e5ec06d77636" data-requires-python="&gt;=3.8" >minimal-activitypub-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/ab/3c99f4ac9f37c7c22a13006de4a7cf46b0e5998641079f0197dfa4d1e75f/minimal_activitypub-0.5.4-py3-none-any.whl#sha256=00615d5207f6c5330f7a031fa78d6d9e3bda206550c71b4d71e20a93912ec638" data-requires-python="&gt;=3.8" >minimal_activitypub-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/aa/017c78b2eb916b6f8d34a8450a1e96718279cb4c27d13aa49d64d2543e20/minimal-activitypub-0.5.5.tar.gz#sha256=468a9a319e368f91708495d3b555a9a2e031fd098a3f98aa82933c2f690bda8c" data-requires-python="&gt;=3.8" >minimal-activitypub-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/47/c2a1c92c8d8f9cc429058a0a761cd26d697da75ebc8edcd8695b97f8d5b3/minimal_activitypub-0.5.5-py3-none-any.whl#sha256=4ad8918aaa39c4b11f5a9a6986bdec7a9ec9c11f648fbe92cccd72e6b9b8de6d" data-requires-python="&gt;=3.8" >minimal_activitypub-0.5.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15731227-->
+<!--SERIAL 17149743-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for taskcat</title>
   </head>
   <body>
@@ -181,6 +181,8 @@
     <a href="https://files.pythonhosted.org/packages/e4/16/4bcf620454850d6ddfc663c2b913a20bcec8f8206916206ff7584ced1dc5/taskcat-0.9.26.dev3.tar.gz#sha256=3642ed1fe64dc9b124ce0d749ade6d5c959b1bd1104e0fcb92ad68be52d8d617" >taskcat-0.9.26.dev3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/04/30e28867cd7e1a655f54038ed685acca7dcbfc93176d36f00a290e8a1624/taskcat-0.9.26.dev4.tar.gz#sha256=e2f8183323744efa577d306aec69acf836c0a2f8b81f7e81d84626a8d75af7d4" >taskcat-0.9.26.dev4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/e0/54009c11fa15e0cedc67f567e5505430f01de31d7008efb81fdf8e0b20d8/taskcat-0.9.26.dev5.tar.gz#sha256=6d3c13ef9a628f64e8cbc05c4d17d66f4512f9d77715514c4370875129bfa037" >taskcat-0.9.26.dev5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/b4/84e6e2e3877dffa6f56dc549253e4a429f5c941fd993725a9c567316ed6a/taskcat-0.9.26-py3.8.egg#sha256=a237a14cf343856e6fb05cc722b39eb36b0208aa56f7f16a531589ccc4d67555" >taskcat-0.9.26-py3.8.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/a8/ad80e8f1355b9de1bda618c8db5ee187925bd1a975516acb8220aa0f4248/taskcat-0.9.26-py3.9.egg#sha256=fe24b9c5a87d6205b4ea62b0ad6749906f18e8ebb8311a255dab770ea0d4538a" >taskcat-0.9.26-py3.9.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/fd/ba/c2d372590527a618d53954f7e68a639ca462b8fc052b44bda99a7bd09816/taskcat-0.9.26.tar.gz#sha256=d991d7c6ffeaa21a164f2c53fcbb4c4aa9d2cd67e881b375b84278fda98cadd4" >taskcat-0.9.26.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ed/25/47a1916d32b28a76fae0b183f27741d38cb62fa8fe6e7923b15a2968bea7/taskcat-0.9.27.dev0.tar.gz#sha256=53a835d0344f12d8ed245eab9fc7a79b735b4afdcf3635c469f23f11ccac853e" >taskcat-0.9.27.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/07/b7d445f8a2dd23f3bf088c064d4a58375088055949bf1af69f791bf0902d/taskcat-0.9.27.dev1.tar.gz#sha256=4ea4debe195742b2b2b61341220302271dad7132075195a5dd506f6325e2daa8" >taskcat-0.9.27.dev1.tar.gz</a><br />
@@ -194,12 +196,16 @@
     <a href="https://files.pythonhosted.org/packages/84/46/cf162584ffa8d808f4ae4a2b6e65922cb399168bed9c640e608d15ad6994/taskcat-0.9.30.dev2.tar.gz#sha256=da49fb18fb0f618fa267d3227a3c50cc2880eadcb8801a6f184897cdc335935a" >taskcat-0.9.30.dev2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/35/5f/6b5b0902a183d630b1dea1715edde3ed690e2f570c06ad9de39e3a250b70/taskcat-0.9.30.dev3.tar.gz#sha256=c7a419a6b30d20527c09a1d8335301481587efd920c83d8be2e89fc8b1e5e4a3" >taskcat-0.9.30.dev3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/39/34e4318f0e9087000d26b80ca043c628e295ad377b648f298c37a3182b67/taskcat-0.9.30.dev4.tar.gz#sha256=aa49bba5dbf75009bcf8e0d78bc66e034cb9488a770b5720e70c037cef72686e" >taskcat-0.9.30.dev4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/3b/ec401f061eb416c9da507934e40b2842cccb141c76c7e8f790e194ac0405/taskcat-0.9.30-py3.8.egg#sha256=80bd11f8dddd23f754827503246b6ea160e4a7854044a99c7bedad59c977061b" >taskcat-0.9.30-py3.8.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/cd/ddf4d92a7182b5bb2a0bd34a6bcf51eeee8ca5f15d937335048e2eb11f2d/taskcat-0.9.30.tar.gz#sha256=746812f2ffa665e781eab9250f298f53ed02d2b54cf274e20b2a57934befbe5a" >taskcat-0.9.30.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/8b/88818fa2d230ef731123a384e6e4ae85b895362f5c192fe159cb7124d738/taskcat-0.9.31.dev0.tar.gz#sha256=784864b350f13fc1e15940be575ceb90e9b1cab3454e7f0a55233084201d3315" >taskcat-0.9.31.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/bd/9bbe8acfc7fa720cb733da5f95f6a94fb86e99b0c1f6800e1273c01df974/taskcat-0.9.31.dev1-py3.7.egg#sha256=d8e357a1c6d08f902d4cfd02618b4f3b2a3a95e8babe46a9847fc5d7264d554a" >taskcat-0.9.31.dev1-py3.7.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/c6/42d4397705d1f1afa911fdbef4d93da53c7b143a03450ffea54943a966bf/taskcat-0.9.31.dev1-py3.8.egg#sha256=e9ce12eb7a5dbafc607d10ebad22a84b35ee7be48b8c6d5f1ef66c1cad22705f" >taskcat-0.9.31.dev1-py3.8.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/46/db5c22dbbf85d51a1f7b69b618e9f7ceff664dfbd054ec5da7a8931709ae/taskcat-0.9.31.dev1.tar.gz#sha256=abd45d592169c9c235cee71a7b319ead2df1393ae49a16144916781983770006" >taskcat-0.9.31.dev1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/82/24/d788e9a0cfa7cfc86853795809d70d564c961b012feb1ff7de4ce7d31425/taskcat-0.9.31.dev2.tar.gz#sha256=90eed8c57953621862663daacfb638392c3995914e3061c59daf011dec90d6ad" >taskcat-0.9.31.dev2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/16/241cd337aa6ce87bf894de5c925d9b8cc302ff0930b3564655f70352972f/taskcat-0.9.31.dev3.tar.gz#sha256=4cf62ded42d84c2fecbc96cf44448799ccd240526585ad8f5431c17d5461e263" >taskcat-0.9.31.dev3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/00/11/213e81dbe88b95000cb90f1f562ec1aac8e4c5f4c562aa5f9710840a51db/taskcat-0.9.31.dev4.tar.gz#sha256=e0aa8363618986449855921c7680a59e985e9fe85cb511161a490739f74408b9" >taskcat-0.9.31.dev4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/64/c31e8435271348bec7b4dff09ca36e6fa980e69b69e3764765afad12a33b/taskcat-0.9.31-py3.8.egg#sha256=33b496ca848349307027e26d9b02397981557b5db17f3dcb85c5b8dee63af3b0" >taskcat-0.9.31-py3.8.egg</a><br />
     <a href="https://files.pythonhosted.org/packages/e3/a5/ec3bfae656a86930d60aadae65c84e1003a34735eae3820029ced97f9333/taskcat-0.9.31.tar.gz#sha256=a5a3273de8e4aeaedc544c70969c8ebf474d0106150775fa0b9e01aaaccc0b2b" >taskcat-0.9.31.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/02/ba7f44caab8846d6cb5422cfbc9049c91ead0b8e657ee882c42dc5fb9232/taskcat-0.9.32.dev0.tar.gz#sha256=c13d76e80d7e6f883f7e72b8ac7629eb285e318fb932fe4bdc7c14bdf39cafd6" >taskcat-0.9.32.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/2f/bd99696ce7991b0b5e2d71a4f47f205acc87a928c7b55277622763eee62e/taskcat-0.9.32.dev1.tar.gz#sha256=04501869a5a879a61f0634d69cba1231c9d47f6c63741758d564f109607b70ec" >taskcat-0.9.32.dev1.tar.gz</a><br />
@@ -215,6 +221,9 @@
     <a href="https://files.pythonhosted.org/packages/4c/ad/2df09f4da8f78504ac946684b4c304938e89376b77fe725d715d62ac4c7f/taskcat-0.9.34.tar.gz#sha256=47c22d1119aa08e0e20f9ef23298d1067607c89cbbc472b9e467d8205d998e23" >taskcat-0.9.34.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/ed/41675603579a66470e0a2813291d0c017d61f6c99a0448545b0dfe6ce372/taskcat-0.9.35-py3-none-any.whl#sha256=76ee1d3c9b059fdfc882fad7e4df1a641328e1d846d112980ee629667b585d09" >taskcat-0.9.35-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/a4/9d88192fad81b7a1baa5105d5009c486125301faa3b13f4788b1165e852d/taskcat-0.9.35.tar.gz#sha256=43fd07f2fcc5dbf42c284e8bdccac97327f83001bf03fcda0adcd4bd88479a99" >taskcat-0.9.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/30/2a9fd0c195d6efd68f6ea0686fc1506ae8e6e5c097e50022920d7734c718/taskcat-0.9.36-py3-none-any.whl#sha256=5d92db0272e3745c3b9747f95e9012495c688a00218e47667c579569f5395053" >taskcat-0.9.36-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/d7/da428cdbc774b1faa7b6c15925ce3430b04e358a13c26cd955481c37f6f7/taskcat-0.9.36-py3.10.egg#sha256=a96f709ccc3bb971a6b1cd77a1440bf8572893ea9a286ce912900d543cc6c489" >taskcat-0.9.36-py3.10.egg</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/5b/16ebcc33d7156ff3460134052641bb2bcce086c5785215da17deb789aace/taskcat-0.9.36.tar.gz#sha256=fa4066cb7ea19c729deb04b55b09ed8c09247d4dc10a66253d804bdb83627be2" >taskcat-0.9.36.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16092875-->
+<!--SERIAL 16843001-->

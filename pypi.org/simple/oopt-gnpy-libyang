@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for oopt-gnpy-libyang</title>
   </head>
   <body>
@@ -23,6 +23,15 @@
     <a href="https://files.pythonhosted.org/packages/e7/dd/b961f43d79b06c94f60ced3d1aa99db85b32761cdcb6e711571fbc7e832f/oopt_gnpy_libyang-0.0.4-cp310-cp310-win_amd64.whl#sha256=8076e9dade766a45f3a914a0fc6c3c0dbd833ca3f4ef2edbdd17682c170bde6a" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.4-cp310-cp310-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/a4/7a6aa06c071d82d4f96fab9f5fc3d98c6c18ab3c1d470bbf24ce149fdc27/oopt_gnpy_libyang-0.0.4-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=3eaf035a8aabeb660fc291c41c640498a876da97380626ff442188975ba633fd" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.4-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/fd/ea14d0910ee52e6ea594a09c4227bf33c7ccddfed6af237613de19a51f97/oopt_gnpy_libyang-0.0.4-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=dc2abbdfe3f3742da7fc0ef1f3f7c3b8e88bf917e0fbedb0cfe10df4d823f5c1" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.4-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/aa/4580009aa58a907d5cbf8bb8e07770c6d3f8d210650f38676c548b093d60/oopt-gnpy-libyang-0.0.5.tar.gz#sha256=1bf29627f6d29f6a11b0218fdb87c7420730f9ee2b81648ed30c0306b13db5bb" data-requires-python="&gt;=3.8" >oopt-gnpy-libyang-0.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/3f/4ee41ebb520104eec92d8e4a112e4b086d1e3a1bf8eda8e65147150e2a79/oopt_gnpy_libyang-0.0.5-cp310-cp310-macosx_12_0_x86_64.whl#sha256=a4abe6abb1562d02d8f8a92cd329c71973fd6fa094b19f1686dafd8f1d8345fc" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp310-cp310-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/15/b2921407bfede51431f8c0f21964d17983e3bd63d617a7bceda137ec3b39/oopt_gnpy_libyang-0.0.5-cp310-cp310-manylinux_2_31_x86_64.whl#sha256=166b010e6142c9ab14d3403ad70f294c85a6e221864709bcf687726b513d3cab" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp310-cp310-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/48/f4f427f798ee024cae30f64c0c7a81fa517c63a0a12980418bbe409303aa/oopt_gnpy_libyang-0.0.5-cp310-cp310-win_amd64.whl#sha256=d9849ac15a5d21f9a254185a6b0e3b942be24e26b9c4158e26b2092b5cac9e36" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/bc/2a4095f4f05978147b869de22ac397c6a27bdd58c917014f6d236ebafe96/oopt_gnpy_libyang-0.0.5-cp311-cp311-macosx_12_0_x86_64.whl#sha256=5678229e623f2aec7a1f768f80b9968f66d5351699e685aa0c8712919478e167" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp311-cp311-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/67/72a032e576702ec7072d6494d924ac9fc169d6c10903fd8a255b3d1b5992/oopt_gnpy_libyang-0.0.5-cp311-cp311-manylinux_2_35_x86_64.whl#sha256=785ff2b0b84d584540843c0ca29dce4232b7067803a452ebecfcf1e2f6df8b19" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp311-cp311-manylinux_2_35_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/69/0eb288ef154c7e23f3096b688407953711ea8e8d0b1c0a48b5aa2b3c8350/oopt_gnpy_libyang-0.0.5-cp311-cp311-win_amd64.whl#sha256=91a110e754407c51d7a884f4f61d3e6b8fb63002b877339cd684b30322584cd0" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/6f/39767a0a8c661d9e67ac516472986367116c9999401562313acc3701cdd4/oopt_gnpy_libyang-0.0.5-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=384c48308ed61c5c8491c738d9021760568b6a41c18871919289a9a2a10ab63d" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/55/a2e7f4129fe83e482a3373844b257caee47c1f0bf8d6ff26d03d1f7ffffa/oopt_gnpy_libyang-0.0.5-cp39-cp39-manylinux_2_31_x86_64.whl#sha256=36959a72053e330924737d3a1435df49742bdb69d2ff618b3fe30967cea08373" data-requires-python="&gt;=3.8" >oopt_gnpy_libyang-0.0.5-cp39-cp39-manylinux_2_31_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14369647-->
+<!--SERIAL 16696999-->

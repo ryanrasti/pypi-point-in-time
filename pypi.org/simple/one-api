@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for one-api</title>
   </head>
   <body>
@@ -102,6 +102,18 @@
     <a href="https://files.pythonhosted.org/packages/3f/11/8feb55546a48537da97c7bb8239e900d59dbae64ce66100c1e71ff194481/ONE_api-1.16.3-py3-none-any.whl#sha256=3ecfcbce0ecc4303b5ddd818826f25a45add0fe228eb83832161e1c69343a3e5" data-requires-python="&gt;=3.7" >ONE_api-1.16.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/e6/fa28da5d97078e860cd75d019bec70a271705164ec7c6f52b93c6e52a65f/ONE-api-1.17.0.tar.gz#sha256=9e655732fe771b1bfd084c3bd5f23b5383047324e9ca2bdccb7af582d2c57dc0" data-requires-python="&gt;=3.7" >ONE-api-1.17.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/ca/dac984377c47cb047b6bd8df6844c7b03eb3cc4de574823c13b00c403c96/ONE_api-1.17.0-py3-none-any.whl#sha256=f67d9ced87896fd55c51d0feabf90857135bb0c9a8166a5cf882c9c9da49f678" data-requires-python="&gt;=3.7" >ONE_api-1.17.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/1b/69b122a0099e7e33aea60f28e865582c925095c7ebfbd26aea08780c32df/ONE-api-1.18.0.tar.gz#sha256=5e10bb4f7bb5a7afde4bdc9e686a0a885fb061fb15174ea642b233e4640b3bea" data-requires-python="&gt;=3.7" >ONE-api-1.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/5e/48c718a8b7259c293cc074dd66ef4b7aeae15991aa612c1415ed6f9b65b5/ONE_api-1.18.0-py3-none-any.whl#sha256=75c1069af998ddc7cb0a90c5471e20917c68f4c995e403041e2e4dce75303298" data-requires-python="&gt;=3.7" >ONE_api-1.18.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/4f/f02d7630066152720225dceac9e310e4e05de20452887ac24432639615c8/ONE-api-1.19.0.tar.gz#sha256=e35989f9e9acccfda909b745200feb77dde45d8a4b0ca8ee8dd4d3cceb7dcb4c" data-requires-python="&gt;=3.7" >ONE-api-1.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/d6/801e1fd5c0ca787f47c332ff6d5f2a492abb050ffd63675fbec2fc978851/ONE_api-1.19.0-py3-none-any.whl#sha256=07eb79bf15ae1b7c523c856cde30a3689608c402bf756426e8fa73a1f49e8c58" data-requires-python="&gt;=3.7" >ONE_api-1.19.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/e5/c406acdb50636a061f4d7f026bcf8ffc8a0de363235c1fee55134cceccd5/ONE-api-1.19.1.tar.gz#sha256=2159dece732acf912adbc62ac3ad4961cc97bdc197643c26aacd037929556e0d" data-requires-python="&gt;=3.7" >ONE-api-1.19.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/4c/978b6b65aba645d4a2a862b8e62f59785326422e2f7828a339e9b00c9fd4/ONE_api-1.19.1-py3-none-any.whl#sha256=43336758d69f10f2932b0e9a62e9e86dd00538bd7403db29b38574e19049a735" data-requires-python="&gt;=3.7" >ONE_api-1.19.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/bc/9dc2f79c658bab96fe019e07600b53e75cc67c99cd526d08da3dd2821aad/ONE-api-1.20.0.tar.gz#sha256=06084e7f439883765381205d9d13566a31b9e4905421709bbc242ea41203ada1" data-requires-python="&gt;=3.7" >ONE-api-1.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/6e/84a9b6b85c9de37838294408286df83cfc15aa0757150232550507783e02/ONE_api-1.20.0-py3-none-any.whl#sha256=9be5b87d20c89eeb2ddca678e2fea8c6935d8de13da037e98cf64be249636af7" data-requires-python="&gt;=3.7" >ONE_api-1.20.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/68/ec6af61f3aad35e0c66353612c2a433a86bb26d0554db33dd4092705492c/ONE-api-1.21.0.tar.gz#sha256=3ec98e17f7b1ff9eef3aa3c024d411caec6fb5bf31d886458f303b48a046ed08" data-requires-python="&gt;=3.7" >ONE-api-1.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/fd/cd067041ebcdc4dc4f4bd3b9fea7de620c964215648f4da974406eaf47cf/ONE_api-1.21.0-py3-none-any.whl#sha256=379e3e9a6bddf826e7e9ffe21dee361195f07992a4ccdd7f9a785abb356b60bf" data-requires-python="&gt;=3.7" >ONE_api-1.21.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/0f/1a349562f5e9ff6a81ced2ff25ec69241d5dc0782ecfbfa3bdfeccd8be02/ONE-api-1.21.1.tar.gz#sha256=06993c2b45c336805e5c319ee40ed00a9fec039e04bbbb1e52becd76fb2e8ac6" data-requires-python="&gt;=3.7" >ONE-api-1.21.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/c5/02e0a8eb05a5b46d483c62888f8c195121f781c9e8710458c513db6f322e/ONE_api-1.21.1-py3-none-any.whl#sha256=cc5e9a65d45ba9874c19b4167d0925fb261c6220ee454e930185f23e889cf47f" data-requires-python="&gt;=3.7" >ONE_api-1.21.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16390590-->
+<!--SERIAL 17128395-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pydomdisco</title>
   </head>
   <body>
@@ -55,6 +55,21 @@
     <a href="https://files.pythonhosted.org/packages/49/13/28ae1807fb4725f622751c2d60e2096c6f5c23a516dac9a8469ed74e015b/pydomdisco-0.2.0-cp39-cp39-macosx_10_7_x86_64.whl#sha256=a9b4e2a0b5a129e7b6ec7a73671bdf3d92462783046a021476dd9c6b1730a59d" data-requires-python="&gt;=3.7" >pydomdisco-0.2.0-cp39-cp39-macosx_10_7_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b9/81/7100487936e93c7d8b7273cd58fdd351fe77923b4ab7334f3d5aaefa18ff/pydomdisco-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f18ebc7ae4442138322ad9f2af0251816197928dba7e100990a5aa0f65ae69e4" data-requires-python="&gt;=3.7" >pydomdisco-0.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/12/c2/b78ef7bd6130ff851b01f66e44f060885e85e78456104bc3a952bf0cca85/pydomdisco-0.2.0-cp39-none-win_amd64.whl#sha256=fa804c719888a9981b36497a59980ba1c0e1e0a0f579d6dab0f9b976bd1b3927" data-requires-python="&gt;=3.7" >pydomdisco-0.2.0-cp39-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/db/aa0c3447409d8dc14108f24005b389fe7ca887d1ae5ebfc41fd367dec255/pydomdisco-0.3.0-cp310-cp310-macosx_10_7_x86_64.whl#sha256=effba40af439ee2b5b5d036b7537ed03266f745f51a37d2599c4561246f1217f" >pydomdisco-0.3.0-cp310-cp310-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/e3/ea5c1f194e3bccbeda0d00bf90c85f9af74f45a56ddf7b23527a649663ca/pydomdisco-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=5987119483f4804e88de9c8dd5095dda8c5362bfbc7585577f082028540dd2f6" >pydomdisco-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/f2/3a970fe9318b99270d6346897065b684cfc95263ecde2bfc943cbe28b229/pydomdisco-0.3.0-cp310-none-win_amd64.whl#sha256=e90e1b3158e41f8bc72fd3b7cb89891e9c328949089adc34b288b378047aa401" >pydomdisco-0.3.0-cp310-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/fb/c47efb473da5d60e63ceba5a056090ae92c9ee7a56b68c5b44f1aeae6678/pydomdisco-0.3.0-cp311-cp311-macosx_10_7_x86_64.whl#sha256=ff9a10118e4240b5e7f6d3b6ac54982e044490aa48a9b34014c165539bbfea08" >pydomdisco-0.3.0-cp311-cp311-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/2a/24470eccda0632cb017900ec4bba0656fa4f8577bfb2c567c9f8b104e592/pydomdisco-0.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=afcd995f1ebeeb85ec2fea869428bb078b04d49a3b1cd5b40f6b57eb68df0b32" >pydomdisco-0.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/13/b0f3232516417df204b4b5bd01e5b0d6549a6316972cb0cb09314fdf51be/pydomdisco-0.3.0-cp311-none-win_amd64.whl#sha256=379aaa770573806a1c4a4fd3f62616a0c66cd079cee1f5b000bd9163612ee500" >pydomdisco-0.3.0-cp311-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/87/be55e1f216e79be00b049d728f55fd1f118e9b50fbe6285a14f8502252e2/pydomdisco-0.3.0-cp37-cp37m-macosx_10_7_x86_64.whl#sha256=4b0a4689087bfcdfb7d91643bc8607ef7ecc535f1adb239f23e1204ab76e1268" >pydomdisco-0.3.0-cp37-cp37m-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/dc/ce791f93a3ed643d5d0fa4d305b9ba4d8fc5591342d29b7e4ba2caa78a19/pydomdisco-0.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=71839c9f2698eae6704c68f0cd5c1a636775b7bc1f4866e15efa5118e11b11e6" >pydomdisco-0.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/7c/5f05b786706a56b99708f4b921b3a371435fa9ef2d0b2e881d0521013113/pydomdisco-0.3.0-cp37-none-win_amd64.whl#sha256=c94d94f2e95ea408d1d367decf1772b030d955cee678a3d9483edb7c9aa1d939" >pydomdisco-0.3.0-cp37-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/c1/e8e5240cb0d48712e02ddbc8a08ae9a091389adbc52006489519a4c9e070/pydomdisco-0.3.0-cp38-cp38-macosx_10_7_x86_64.whl#sha256=2b7af0f1efd0bcde8a2be9a18f26ada12fb9d5778b93e178705a3873a3b36818" >pydomdisco-0.3.0-cp38-cp38-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/d1/a2fc64df4ab0262d7ff74fa13312221ccba1d956340c9e4c66f07378cb6d/pydomdisco-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1b81cf1eb16d1154d38bad438ae3bb6f7e962b67846084f39827bad0363a9242" >pydomdisco-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/87/fb4f4139e95c1993d2f5cec304eb82aa4cdc91a139450d9ef0ca0cb6931c/pydomdisco-0.3.0-cp38-none-win_amd64.whl#sha256=3268b692605bf0c12fd43604094751a81ea0fa58bc7f1b22fd7aaef8f1547002" >pydomdisco-0.3.0-cp38-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/85/4804cc9dca891fb5e493cf62d9a3c55e50578d3a732fb1fbb66d876ac3d2/pydomdisco-0.3.0-cp39-cp39-macosx_10_7_x86_64.whl#sha256=a39b8960d039b20ff8868ff4430b0f687a24ad925abbf0a4bc2d0666ec5c9c1b" >pydomdisco-0.3.0-cp39-cp39-macosx_10_7_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/ff/43f972d92edd8a714afa3b1c38f5a012e849dbaf7f97c1dbe0d73a416863/pydomdisco-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=dd42c80bbd26b4d9b7e6912dee7e8b8101fbe4cb8942a4cdec6de3455ace01da" >pydomdisco-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/74/f28398e6bb90d753f7a7ac001ecc18fb64120847eb87016248ac42216c99/pydomdisco-0.3.0-cp39-none-win_amd64.whl#sha256=f71b5390bf6167e7314cb0b5037ceff95a9eb447b79d19cae020d2a37a21cbdb" >pydomdisco-0.3.0-cp39-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 12767684-->
+<!--SERIAL 16435126-->

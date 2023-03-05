@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for portablemc-quilt</title>
   </head>
   <body>
     <h1>Links for portablemc-quilt</h1>
-    <a href="https://files.pythonhosted.org/packages/11/1f/3945a6cd5193869edc4591ac47acc4d21b7f79354e8b63eb9527baac422f/portablemc-quilt-1.0.0.tar.gz#sha256=9eef98a3a953d9e367b26d8044b256ca722817104747469bbff2911d1d1b6466" data-requires-python="&gt;=3.6" >portablemc-quilt-1.0.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/42/51/550fc5b27cf42fdc66a4b658682b33cd3938e3d88a4c9d0167af95ddce68/portablemc_quilt-1.0.0-py3-none-any.whl#sha256=e0f47f11609503a79383b8fcdd20301e092eb41f112cd4cefb2e089b6f18bb9b" data-requires-python="&gt;=3.6" >portablemc_quilt-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/1f/3945a6cd5193869edc4591ac47acc4d21b7f79354e8b63eb9527baac422f/portablemc-quilt-1.0.0.tar.gz#sha256=9eef98a3a953d9e367b26d8044b256ca722817104747469bbff2911d1d1b6466" data-requires-python="&gt;=3.6" data-yanked="critical issue leading to wrong installation of the metadata file" >portablemc-quilt-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/51/550fc5b27cf42fdc66a4b658682b33cd3938e3d88a4c9d0167af95ddce68/portablemc_quilt-1.0.0-py3-none-any.whl#sha256=e0f47f11609503a79383b8fcdd20301e092eb41f112cd4cefb2e089b6f18bb9b" data-requires-python="&gt;=3.6" data-yanked="critical issue leading to wrong installation of the metadata file" >portablemc_quilt-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/c9/d0d0a77b8eedd71d2528cd49f42c4bab7526d82cb11f164db2419cd6f8b5/portablemc-quilt-1.0.1.tar.gz#sha256=1fcd8fb194ef03b65fa599dc0e558b5306f58350597defe3acf419fcd0ebc550" data-requires-python="&gt;=3.6" >portablemc-quilt-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/d0/464d94d386799d245a441578e86eecdda9b4f8bc6d3ac0821296dc29a485/portablemc_quilt-1.0.1-py3-none-any.whl#sha256=6fac97b2871a5a7afbb7abdf39f96fb54a09947c61b178ba878fd632d22263e5" data-requires-python="&gt;=3.6" >portablemc_quilt-1.0.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15282988-->
+<!--SERIAL 17015078-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-collector-kernel</title>
   </head>
   <body>
@@ -46,6 +46,8 @@
     <a href="https://files.pythonhosted.org/packages/9a/6b/e034eb01a6bf6eae3650d800e926619ee22cd0783b30a9762c0fa9eb92c5/watchmen_collector_kernel-16.3.23.tar.gz#sha256=4db2b6f049f7ff7aaf70b3e3869bff83dfebf90bca9a2bcdd135ba33ba0a02ff" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/20/4c956bb879a67b473ef125c4be497f2a2dbcb89c370339fcefa693c46f06/watchmen_collector_kernel-16.3.24-py3-none-any.whl#sha256=c71e429f3d048bd8526c8dc837bba64a9a612c8086650d9067cc7bb24730f7bc" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ed/48/3c74fcd9fbe7db479825dce08025a4e5e0d9f875358366e5dd7dc9d4a727/watchmen_collector_kernel-16.3.24.tar.gz#sha256=357636d8cea000af69949691e4086a2ca76c33b5e8ad6b91f6bf08d66d57f5bf" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/65/a00cb86f58dd13775eb2ba35a1f44365e4ee4b52c63a61b3b7592deed8c3/watchmen_collector_kernel-16.3.25-py3-none-any.whl#sha256=01db369760d4bf73e650d4bd1ea77fa896712c00f7008488492d1cbeb2892d23" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/02/49b2031d0097513a37ddca88238a69881af79a7630d3492dfca2749ef399/watchmen_collector_kernel-16.3.25.tar.gz#sha256=67c7dcd1c6e79a53de34a1ee5b4a22a84999492d42a37d8c0b0932f88573db27" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/0d/8e2bcf92c7a90c27befd716231b79b568a5ea8682a3d285152cd7dcb4439/watchmen_collector_kernel-16.4.0-py3-none-any.whl#sha256=483dd5ef63fb3788d9504f7beef9471b028ee3da3fe65d9a07cc44d6208b196d" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/65/69/1d26da1a94c62cf04dde7f511d4bc05a54a0b30087ba8933878bb8d18163/watchmen_collector_kernel-16.4.0.tar.gz#sha256=2bb5e901c3c0369249d044487a0f936f0980497d32245b16af98bb2634b4d767" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/85/5e/d0cc7b25aa4f3cacaea3aa371557414db08746f4a61375e6394855fa17eb/watchmen_collector_kernel-16.4.1-py3-none-any.whl#sha256=78a7de5afb15db1474a24d68bff7bcba56bb6932bfc7634daedb16c7a5541c05" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.1-py3-none-any.whl</a><br />
@@ -58,6 +60,12 @@
     <a href="https://files.pythonhosted.org/packages/93/79/c63d95450376b2b1f96b0799fbec96f66929ac52b2068bf15a6f30e8a123/watchmen_collector_kernel-16.4.4.tar.gz#sha256=ec9778dc78f1807e26bd2f07cb58afe7aa9ca218fbfc5b348d7f2dbe268e9371" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/39/2e/945e35ad49edb2ea34f4bab1b52c19baadac312e7fe901adf1a0c51aa21c/watchmen_collector_kernel-16.4.5-py3-none-any.whl#sha256=7e8b76fdfa2d0d5ad4bb7d2189764fc38cfb3403cd1c7a5ba6be250c70f32b36" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8e/e2/440c072fb1ce7b80d9708378a0f90b9186d3524964a53cbc17bb00d21227/watchmen_collector_kernel-16.4.5.tar.gz#sha256=5787bc1749bbba9ed563e17c5d51b319edb238ae178882771b4c680f92a68498" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/0a/1c4d8a40204636ee3c9e656d6fd06b1585b925ece4ec6107875e49ca0cda/watchmen_collector_kernel-16.4.6-py3-none-any.whl#sha256=b96fb103ec29cd474501dc8371d47fa4c4ed3e1ba76dec5526a9c79d3b149cda" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/48/e91be391d711605b81fe30590235b99c77b09e3d3acb9c749bcf480e96ee/watchmen_collector_kernel-16.4.6.tar.gz#sha256=f695f392f71ec3393ee37f7fb2ec57c4fe41d18b7940abd3600daf1edc425816" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/0b/c6c2a56b7f146f5ee2249b857ce8473778fb84422361617d4d0e4125db59/watchmen_collector_kernel-16.4.7-py3-none-any.whl#sha256=2720fc0e3e45c54ea53fc511f13a2c3b764d3cee92314ce23b44bf1d57b03082" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/d2/c2425c0c6f4d5baf38daf6114a18b79e77deb5c0664ff785702aa13790fc/watchmen_collector_kernel-16.4.7.tar.gz#sha256=955474d1e366b978471eb09d4b14860d2722e1beb34600ff726143a403a55ff5" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/d4/98e12f3b06a5e0e7d4bacb5a80586496fe39dce84566ef8edcb7b7b5eaaa/watchmen_collector_kernel-16.4.9-py3-none-any.whl#sha256=202ac0d21cffa461f4e494e278f8a968e708ece338a671ec74c9ee624903e19e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/25/dc19db787e3f561570d78d3b0c120e3f37b07faa3a21668c6b9563d464d4/watchmen_collector_kernel-16.4.9.tar.gz#sha256=03831865b4ecf4c44651ca09b0aa6b9ecc09fc8687088ef058442f51e48ea446" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_collector_kernel-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398874-->
+<!--SERIAL 16991561-->

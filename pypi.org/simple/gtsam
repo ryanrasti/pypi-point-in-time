@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gtsam</title>
   </head>
   <body>
@@ -111,6 +111,20 @@
     <a href="https://files.pythonhosted.org/packages/31/e9/951d582f6b45cd830e9e2fcabee4c9e92e00a90a73563e60e4219043927d/gtsam-4.2a8-cp39-cp39-macosx_11_0_x86_64.whl#sha256=0631d23f2f24f6aaf529a496de737c4a3026a92e9340e16d3e24407d6ef407ce" >gtsam-4.2a8-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/d6/8afd9463126d1a21f67e09b64a0c337cae976c7d2aab5f6f1a1465c18326/gtsam-4.2a8-cp39-cp39-macosx_12_0_x86_64.whl#sha256=a978dde4597c92e8ae4167e12e5b46cc8feaf57430046d04db7a74de61e1bb36" >gtsam-4.2a8-cp39-cp39-macosx_12_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a1/9b/b77a9bcf33f3ec87d7ee3dec40251d3620fda188ff5164ef0894c957f353/gtsam-4.2a8-cp39-cp39-manylinux2014_x86_64.whl#sha256=fab9d927bcb887f685c252169d800f37fdc895e30c969bf988fc07bed43ce8a8" >gtsam-4.2a8-cp39-cp39-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/04/fac10249a0d1d3c082b19d01280d1c79b2a589ac37d6502c213e3c138f74/gtsam-4.2a9-cp310-cp310-macosx_11_0_x86_64.whl#sha256=cebe664899a21613df0e1238b14f4855a3c90839d4459646927bae3706afb53b" >gtsam-4.2a9-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/0f/f39fc8cb0624fe43651c5ec12e85ea8481194b1b9e2a197efd902c38aed9/gtsam-4.2a9-cp310-cp310-macosx_12_0_arm64.whl#sha256=48fc4a3f0a5ec320cb85cc2c5fc84b66def46a7f9701175caa553cccc5db762b" >gtsam-4.2a9-cp310-cp310-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/6f/b7643277e166d59ee4fa91401192ce6204c677026392bed3476abe28fc4f/gtsam-4.2a9-cp310-cp310-macosx_12_0_x86_64.whl#sha256=c6ffaa31506a02863c955deb31bfbf28292eba3d4815d9784241fba3275647a6" >gtsam-4.2a9-cp310-cp310-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/c9/29b50a842f47526d58f109739d427215f3c40cba05bceaaccb8a1526101b/gtsam-4.2a9-cp310-cp310-manylinux2014_x86_64.whl#sha256=8b01e19400ffa1e7ec150e9e281dfcdaa22b53f5253235a23ba654df3b1b2171" >gtsam-4.2a9-cp310-cp310-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/79/fa06bbe3ea52c488c0fd330ac31c15dff0b26dfde602b39fc37b74471d72/gtsam-4.2a9-cp36-cp36m-manylinux2014_x86_64.whl#sha256=679f2a17a94c7e7bb59cf5ba9550cce6109638e53b95f3059b3cc1b50bad9ab8" >gtsam-4.2a9-cp36-cp36m-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/50/8c98a0325d758fb80eda2a26e200ab8b8a9ae31b61a323c6a9ceb04c2518/gtsam-4.2a9-cp37-cp37m-manylinux2014_x86_64.whl#sha256=417a4c4da284862e2255bae7e79b13339f05a86dac7f1cb03ab3d643167fadb8" >gtsam-4.2a9-cp37-cp37m-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/1e/f1c2584878d6a42db2f94e0ec9386a7cd58019b4b4fc10b89e48186a4fde/gtsam-4.2a9-cp38-cp38-macosx_11_0_x86_64.whl#sha256=bbe68870cd98bf9f5506e0d4766100d331d27dc31850abc96b93523a7798361f" >gtsam-4.2a9-cp38-cp38-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/ad/ffc7ee3c533207649a1e07a846781a31b582854f6e8b2f55f49be470c721/gtsam-4.2a9-cp38-cp38-macosx_12_0_arm64.whl#sha256=b0c83a5eec2d1d816f42768868f45b034434e7c7d50b58c95f7c6f0d90d59365" >gtsam-4.2a9-cp38-cp38-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/0c/08a84bbbff9e8087ef379c584d967520e10801021a934ff8924c7860b249/gtsam-4.2a9-cp38-cp38-macosx_12_0_x86_64.whl#sha256=687fcfabfa7887934c2352da504a3e62c4c4f30787a50518c4c2caa1faa45c9d" >gtsam-4.2a9-cp38-cp38-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/52/69be9d6ca9e85e449b6c34475cbfc0a4ca299ee7f5c02cae956f9f8ccdc6/gtsam-4.2a9-cp38-cp38-manylinux2014_x86_64.whl#sha256=276eb126d9d61b3f6d2e6b8f75a2f091ca43740a90f0b9ff8f9c42685e19a21c" >gtsam-4.2a9-cp38-cp38-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/44/c262ea787fb289a2add081c01f713cc07ddc7e33f620bbd3d5a44de56e30/gtsam-4.2a9-cp39-cp39-macosx_11_0_x86_64.whl#sha256=c72056f62eec0428518b8c280001bbba5aaaeb89a6075a97903b7350ebbfdbfb" >gtsam-4.2a9-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/1a/fb21202eccce052e196659e6fd41f5bea2acd91c4f933b5d5d47c1433cc1/gtsam-4.2a9-cp39-cp39-macosx_12_0_arm64.whl#sha256=90872390153e30ab85e69df13f7052f866a7179fbf92bc95e9f58c59f7d8d518" >gtsam-4.2a9-cp39-cp39-macosx_12_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/57/eb0fd6c8003064c6ed25dc3c3bdd7529461761779a67de9b757bf45a994f/gtsam-4.2a9-cp39-cp39-macosx_12_0_x86_64.whl#sha256=fbbe23f79d1068985dbdcffd26832dece2a0f442961713b5550c9098e05060cc" >gtsam-4.2a9-cp39-cp39-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/1e/3d63259b34c4baa00ed53a9d36a396b0e02f04bebdc43eaffa811b6e5f50/gtsam-4.2a9-cp39-cp39-manylinux2014_x86_64.whl#sha256=763ee73fbd2da75f1dbba359297cf86ec0a6b3cd757b4f4c744073812a521c60" >gtsam-4.2a9-cp39-cp39-manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15944896-->
+<!--SERIAL 16607401-->

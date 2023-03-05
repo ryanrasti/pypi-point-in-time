@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apache-airflow-providers-cncf-kubernetes</title>
   </head>
   <body>
@@ -126,6 +126,18 @@
     <a href="https://files.pythonhosted.org/packages/ca/c5/0b9479bdeb344e89cc13167eb715edb7eb56539448a57dd4184d7b77946f/apache_airflow_providers_cncf_kubernetes-5.1.0-py3-none-any.whl#sha256=264ebb774d8c56cde9cc59ba03360f024825f7d6a477a1ac40889578d1e16017" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/ea/f89fd313c8bf29c8c8f0a6e2a519128c1b26fc3df15eebd11cacd7d04b14/apache-airflow-providers-cncf-kubernetes-5.1.1rc1.tar.gz#sha256=73ac3fd62bad51491d7fe2bae2561920acc27cb14cc13d05ca0521573ffce150" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.1.1rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/40/93/ab6ccdad3be249d1968034ef2e98f8190c845b4bbcbd117738f171527349/apache_airflow_providers_cncf_kubernetes-5.1.1rc1-py3-none-any.whl#sha256=1b204fe61a2f7553ef97694e81d19a8ce1af25d6f86d3494bcaab68ea06b0b7d" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.1.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/ff/03b20c443462589cf176bdd3fcbe34031efa2b1afbe6e3c11db88b41538a/apache-airflow-providers-cncf-kubernetes-5.1.1.tar.gz#sha256=9dc0084620cd13c9d2eb0ff878bac11f82c32c375a95cd3574d123d3a85bda8f" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/fb/646b829584d1135bd17b05cad27e859641736dc66fa8fcb4c543b44e94ad/apache_airflow_providers_cncf_kubernetes-5.1.1-py3-none-any.whl#sha256=d4b2b60ec41bcc5086b767cdf8897bcb10efc49102ab08593d4ba5cff07da816" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/be/fae95711a6f025381f62eeb83c4e6e15898d702a67cb7abebb11b35925a2/apache-airflow-providers-cncf-kubernetes-5.2.0rc1.tar.gz#sha256=7219121fd4998348e22ea7be9a83720f9486139a641437565b504e18be5bdf5e" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.2.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/b1/3f74a1682d742a5b4faeeb317bc6d297b884c42dc30a77fc31dee5ce12f0/apache_airflow_providers_cncf_kubernetes-5.2.0rc1-py3-none-any.whl#sha256=1018898725191f001fd33261f4b54a05a98ff6d9c5937df3d13f06bd20245e3c" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.2.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/32/9e62bbdd3ed9c716efe8b1940651ec9e7d8b7cc0ede65d219ce64bac9f75/apache-airflow-providers-cncf-kubernetes-5.2.0.tar.gz#sha256=10bca151efdb01772f25bc8e45738df4331910cd7b493bfc68d672866f1dff6f" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/21/c6f92c376c7cd2065bbe0bec17912122b2faf95898d5ed4017e7da3757c6/apache_airflow_providers_cncf_kubernetes-5.2.0-py3-none-any.whl#sha256=24cf7006a5197d96def66f80f57fb7c105ae804f572b860663162c523433f6a8" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/5f/96a1c328d405808602a57eed66a6874685bf129edcd23b80df9bafefde41/apache-airflow-providers-cncf-kubernetes-5.2.1rc1.tar.gz#sha256=16e402dee5692d07ea4041b3dff5f43ad0bc8690761d10396e9c91b80b2f7aa9" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.2.1rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/ce/ad810dfcb47a3a9c00da2c58f5a280061e10e116d9d5decbfea797371ceb/apache_airflow_providers_cncf_kubernetes-5.2.1rc1-py3-none-any.whl#sha256=10b632f0c37dd5a211e5253fe39e5378c38fcb1c0bf742dd35b7088165fe6a92" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.2.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/82/1143f768f483e46b5f0d2d30c5a80a2fd23bdc085ae30f66625912f283f5/apache-airflow-providers-cncf-kubernetes-5.2.1.tar.gz#sha256=a866f1836e140819fd44c1b1f645e060ec9a74998a3ea35f09d56f3929a9a6c2" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/c7/906cbf4dbd3db08f40c75318712c0eadcb1c6ce37b420c5712020e4d21e2/apache_airflow_providers_cncf_kubernetes-5.2.1-py3-none-any.whl#sha256=00922f3b632e2816be4e330745beeeec27211001a7d26d14e76a0ee5d352412e" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/8e/028410690eb7cee0f7ed08a0e91cf172f07946417be492574f8a263f22d1/apache-airflow-providers-cncf-kubernetes-5.2.2rc1.tar.gz#sha256=fde8d6e7194e23641e46cb116d451d1f68b67082855e2e5d5a6dcaf7c49558d5" data-requires-python="~=3.7" >apache-airflow-providers-cncf-kubernetes-5.2.2rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/bb/cf45e5170c683b5433d395fc400471904805376d2a9eef0df019addecb2d/apache_airflow_providers_cncf_kubernetes-5.2.2rc1-py3-none-any.whl#sha256=d70a61b314706c60f1d2f5eba175674d4f4b5287ad87ea2062360d8eee0e8033" data-requires-python="~=3.7" >apache_airflow_providers_cncf_kubernetes-5.2.2rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16428208-->
+<!--SERIAL 17144494-->

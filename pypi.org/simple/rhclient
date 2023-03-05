@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rhclient</title>
   </head>
   <body>
@@ -26,6 +26,12 @@
     <a href="https://files.pythonhosted.org/packages/20/fd/00d1c65f688a778abe63a90436772af40fd661712bc5606d889324e1aa10/rhclient-0.2.1.tar.gz#sha256=08c6eea352b90722ca010791df99e22da7972b5a386359a18dcf14cd6329beac" data-requires-python="&gt;=3.6" >rhclient-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/0c/5d41cbd11cb4247f168240891772df8ba6fd3d821bc011c2a9bacb10b5df/rhclient-0.3.0-py3-none-any.whl#sha256=7ab10af1489e663b01423dadcf2a31f9a006eca58dc406f9ac6ce4d16a5c3ab6" data-requires-python="&gt;=3.6" >rhclient-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/2e/d1333bcd35087e23dc90429c5518ebabe0f699f152329d6419932cb60795/rhclient-0.3.0.tar.gz#sha256=47df34e83dc34f4ae3fdd2fe6680919e9c3f0023d90963b35585ec8b60f2f1ce" data-requires-python="&gt;=3.6" >rhclient-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/d9/5d3024751e9f215b78fc11742c259d9f099e18f6cffeb2e5d4c7b3f458ac/rhclient-0.4.0-py3-none-any.whl#sha256=f835cea124f86a837c20c4cb6d742db590fd2353807bf22e7a285fa474de9bdc" data-requires-python="&gt;=3.6" >rhclient-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/74/1daff940168c4a5a8907523563a66b33c7a3d6ae7f0aa475f734b1f830a6/rhclient-0.4.0.tar.gz#sha256=0d1530a88daa5312774e1830948e1de00c2e02d1014c22c6c072497942d31792" data-requires-python="&gt;=3.6" >rhclient-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/70/7cb284b61cd2689081782cc1ae895b63e8307341c3b2cdc7beaa10f50b25/rhclient-0.4.1-py3-none-any.whl#sha256=b25d735fd5df9b9db471746d6ea502cc5b02f389b9e560bdea2f8c3d43f5393a" data-requires-python="&gt;=3.6" >rhclient-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/da/e23ba5a409fb40c98164bbadd730a55697f4375956d53c26ce7c28c17cbe/rhclient-0.4.1.tar.gz#sha256=f26b291069ed9749752f5d5cd675af933dc20b57cfca020c1f540cf1d138441d" data-requires-python="&gt;=3.6" >rhclient-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/35/69fe501503e7d34c1d6c893486b3283ee89bc3d4b8abf3bb0382f3f033a0/rhclient-0.4.2-py3-none-any.whl#sha256=8170ea8a9c32da183b232a4c2ef26b56c7a9d3278e29155ab79dfb40f783e919" data-requires-python="&gt;=3.6" >rhclient-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/0a/ef4058dd7c7d8e43f94b660292ca01de4eaaf822df1edf2f18fa9931dc6c/rhclient-0.4.2.tar.gz#sha256=7ddce876c4fda7cd9064b588ec66cd178beaef18c0762a22596515c8464e286a" data-requires-python="&gt;=3.6" >rhclient-0.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/40/6da75915c8461d0e425b68c97e73c29d0c9e7b4c3b45570e8d0384cb179f/rhclient-1.0-py3-none-any.whl#sha256=93b8a1489dd133c46a2d23dcc8ee26c389ea5585eb82e42203391d25951b951f" data-yanked="deprecated" >rhclient-1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bf/2a/2fed26ae0a529aa7528d401e9f07d262c7f60ec065d558b9e3854ae81292/rhclient-1.0.tar.gz#sha256=6d4d9541d43a67980f76c96484ca38631769156129e4e1fc044ef676a88a57dc" data-yanked="deprecated" >rhclient-1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/da/47/735ed419834ae00708125099faa37df98b3a142f30a1c04d4b9df53bf3fe/rhclient-1.1-py3-none-any.whl#sha256=ed0164ccde0797dbd453c31cee11dd03148aa204e9a6bf6e5e56b65f8334e6f6" data-requires-python="&gt;=3.6" data-yanked="deprecated" >rhclient-1.1-py3-none-any.whl</a><br />
@@ -44,4 +50,4 @@
     <a href="https://files.pythonhosted.org/packages/d6/5c/816d12093788eed7b3397e688097e846f2f0f3a8f36ab0e886a9c2674ce0/rhclient-1.2.1.tar.gz#sha256=7dc57d4efcda25968b07d3a383aed47e45bbe267f0994df8cbcf7a03a334c09a" data-requires-python="&gt;=3.6" data-yanked="deprecated and versioned improperly" >rhclient-1.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15598144-->
+<!--SERIAL 17071151-->

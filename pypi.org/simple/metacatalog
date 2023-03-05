@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for metacatalog</title>
   </head>
   <body>
@@ -73,6 +73,34 @@
     <a href="https://files.pythonhosted.org/packages/de/b8/68ff0aec791bfdc33c9425d7d04759ba7b16f7503357568b21f58d54f56f/metacatalog-0.6.4.tar.gz#sha256=caefd4633a3cdc91e5fab2afdb9c604a98b8e0b0bb269aa20fc6116fd54ab7cc" >metacatalog-0.6.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/5a/ebb8c43b8523045778f2959b01477148acdfb94987a9802ebbed0fc393fa/metacatalog-0.6.5-py3-none-any.whl#sha256=4397fe3dd95b99653f758dbb866dfa349a276caa4adaf72dd2554d162c000fc8" >metacatalog-0.6.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/33/02ee5c9b8e091354c043efcdc99970413e7a2d2c7f27d5680b434f84bddf/metacatalog-0.6.5.tar.gz#sha256=3fc2d578ee85320ceaea3d9316690d536dd6f00e1cef1012c316fd417f724fad" >metacatalog-0.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/eb/52215aed6a47674165fa073121a130a3106355bb3739b1b8da77ec64cc3f/metacatalog-0.6.11-py3-none-any.whl#sha256=3e96d72ee030bef9758a0188bb1b3f09d1e2c82e6aba3444e060aecb227fa6d9" >metacatalog-0.6.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/9b/fc9e77406f9ca2a92e25f678ad012e9ff542e40ab0b07db86851de28f6b8/metacatalog-0.6.11.tar.gz#sha256=c29b627abd6b24e3844238f2aaa316f3a404d92e1dec670faf355dcd1b37aff4" >metacatalog-0.6.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/bb/9189330d6d9e1e353c0ffc0678bacf1fe759af10b77c91f026127779a22f/metacatalog-0.6.13-py3-none-any.whl#sha256=aafc426ffc2ef581986c82ec796a7a7b3a1ac72239dca8ebbd0ec971d0f132fc" >metacatalog-0.6.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/21/669ad9b9bad34ebd0015951c71d0c55571f6d0cfcd166aaf296b846eb5c6/metacatalog-0.6.13.tar.gz#sha256=5e9b7a9fd14b6f2fd541a878b8f3e484069d127878955457f656d4788e0395f6" >metacatalog-0.6.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/d1/8024d44895648df1c872775bf8cfe2cfd08a7de56b7f77067524f694ef83/metacatalog-0.6.14-py3-none-any.whl#sha256=5c1d57bb3aebc1b35e1626050f2f9c88da2dd42a4c0062e2f7526aa1473d4cf0" >metacatalog-0.6.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/60/efc5b3ec41a235a7bb18ad1f3cf8cbc749d8129c821f384e815e4cbbb6d2/metacatalog-0.6.14.tar.gz#sha256=d190dc38204218ae0d65bf810079b0d44db220eab4c7bc6962c5fbbbd8c55503" >metacatalog-0.6.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/ff/9102cb64d07922cdef03d006a10a7da686997c6c278d61cd309e9d8a387f/metacatalog-0.7.0-py3-none-any.whl#sha256=e03964a33b9ec0c32fbab71a24e66254ff2b39deb18f4f14221b2dc0c7fcb05e" >metacatalog-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/38/fe9e57e58da975da1566ce1b851398fa4f18843fe6de5363bc3038de9d36/metacatalog-0.7.0.tar.gz#sha256=081a3e3b8953e02d978cd73002653d56c8bdac85eddd0d7a7861ed28a57c996b" >metacatalog-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/51/9578c42ee26f5ef4d8f117e3eb5748337e091c4b359dcbe2cd7f53af42b3/metacatalog-0.7.1-py3-none-any.whl#sha256=a1d6e2818522161a08458d45143c2471814dd4beec9f99ee7df058f9b3622a74" >metacatalog-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/11/b0b638f22baa2191f18d8a297c0b921829ad7b50ef9772716d374bee28b6/metacatalog-0.7.1.tar.gz#sha256=945579b41498ef7ebbd2710726d1a2e12691cf51bb97f9f9293f01ae38df3969" >metacatalog-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/6a/f0d51a6b081a0c3ee6e66b91bdd90ecb48f761af4842dc31507d3467be5f/metacatalog-0.7.2-py3-none-any.whl#sha256=3dc1658b1f929008c66891453177437552663fa72da23a7af50b7a36d33ebbfe" >metacatalog-0.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/d2/ce9a615d1efde5505cfed7c742ed194fc8259e03abc1a94cb6ab018d0581/metacatalog-0.7.2.tar.gz#sha256=cc8f4deebedc00bfdc783ed941dc49acce2e293afaf7dec0be1bde7e87cb5e11" >metacatalog-0.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/08/dc3183f61bb53b66b70da69cad9d844d72c29ee83a7557a0cb27fe7c7bbd/metacatalog-0.7.3-py3-none-any.whl#sha256=f30ca26b8afb2b336f41b1714d7efa44eedcc32338ab36a78cb667ccbfbd068a" >metacatalog-0.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/de/4d05d10282bd297c937372d644282dc519d751af38bfb738c3d59248777b/metacatalog-0.7.3.tar.gz#sha256=f84f6964e173464cd95bbf875802dd0773742453858ee5b8abb35bc2734b0da6" >metacatalog-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/d7/b1cbc1b9835dedd0e1dd1d5a8568c8a09a7046fb9f620d86b52ec8c1e2c8/metacatalog-0.7.4-py3-none-any.whl#sha256=741694f3093a3439d9ee0f989fdd0a0acba449b9e69df16350f801d53a15c389" >metacatalog-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/a3/ac722270bdb00a721ddc57c68e9ed4a442ae0b628965707d038a520a0706/metacatalog-0.7.4.tar.gz#sha256=c9eb287409a8d01791f0e0c70084954ec4f10568d5fd59780cd24bcba0ff7d28" >metacatalog-0.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/2a/6a801cbf022433c6a4e651daa0c8b7310f225e20c5f4d6f85515d24b1a6f/metacatalog-0.7.5-py3-none-any.whl#sha256=4a3304ca54bae2adb06301578f9b159da04edd882f1ebb2e2ed8e46ec3641376" >metacatalog-0.7.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/5f/6c6e8de2ebe49077fdd6d6d331b90df66fec776709403726a9022a83d504/metacatalog-0.7.5.tar.gz#sha256=ce38740db46f010180ca441e5bf79ca1efb1f77a769614c3ebbc75682f935067" >metacatalog-0.7.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/41/7fce9364b4ef9758861c9d53b6a594d140471b22ec29dcaa0c3c3a3e78f7/metacatalog-0.7.6-py3-none-any.whl#sha256=9322aee27eb5a005cddfeebd7fdbbd9378de99e5f70ace3c2c52437dbe37f26e" >metacatalog-0.7.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/52/5eda5e662019acf4ab1db54eab38fae78fba926875a5d392ac5fc28bf3cf/metacatalog-0.7.6.tar.gz#sha256=76eaec35263b709d5cbf6ae4a1210e9b115bd9da03bb536f7babfaf96a03c920" >metacatalog-0.7.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/55/41d3dac88c073d9262f7f9a4c49c4861fb4b5809c6bfa4847c2058f456a5/metacatalog-0.7.7-py3-none-any.whl#sha256=07ce3529526c82e44417bbdc4f630863d11d754d872f9850a86e3d6ca4f39d47" >metacatalog-0.7.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/de/6d249c9471d6032acb9ee8fd2444983116fabc93d0ee7c2deb7a6129077a/metacatalog-0.7.7.tar.gz#sha256=671f291d5b8c780039c1ce6a34cda5bfa7bb1ec8e818e49c027fb68d02f5326c" >metacatalog-0.7.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/b6/8462ef70f1052774a62683ff92a0049b6768e174aa448d8b07a110c36948/metacatalog-0.8.0-py3-none-any.whl#sha256=ea63827ec76b7f53ad29daa113bf6cfe76de9790bdab994953b4571b24c9d6b8" >metacatalog-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/51/47407de10264d2425359da961005cfb2a27727cb0b7f3106069225d75c79/metacatalog-0.8.0.tar.gz#sha256=7c92b57e70641a92d6d63d8b0d51eece76090ca40578805a6950c15a31face00" >metacatalog-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/76/80b11d6b33b9184486e8c1e5e68c9b1596b407fef8a8ce7febaef829ce00/metacatalog-0.8.1-py3-none-any.whl#sha256=d25086ea6a0928b72022d1711d1147b491f94d8858e2a5e31ea54e7660a376ef" >metacatalog-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/b6/840a6c0e17904e8b056220fbbcfe35da698184ecbfa0b3fa1fab8b8de43e/metacatalog-0.8.1.tar.gz#sha256=e78ed139daf3903ef16925d1dcf6955fcd22461e378a93039a7a6b62398ac872" >metacatalog-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/12/f308f59f9e502d9d96fb4d8b2d09e2a37d8fd46281faa6eca328492c3c2b/metacatalog-0.8.2-py3-none-any.whl#sha256=4985536acf212cdfd24ca80c83b8d2f96d2d4de39231c821d3f925682c3bd8a2" >metacatalog-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/93/a76394de7e06336b4556398c959f79544c6fd24a5dea983db1a4bb503cd4/metacatalog-0.8.2.tar.gz#sha256=adaaca928ba064cd1b6dea7b030797f936be1161fb3567574b1719b4e2a0c1a8" >metacatalog-0.8.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16418371-->
+<!--SERIAL 17079481-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-greengrass</title>
   </head>
   <body>
@@ -488,6 +488,20 @@
     <a href="https://files.pythonhosted.org/packages/9b/1b/9a8c6e2aaeb062b5a51e95ead19d9404bc93b6114bd61cec5c1e17e7abc9/aws_cdk.aws_greengrass-1.187.0-py3-none-any.whl#sha256=4a5450baf2ff91e7c84641bdeb702aca4d4e03ad0afc85799acec1224a7d3485" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/17/1e/4018d63c18a07e7c5f70ea12613a1dcb3193713825355ac66e097f99f1a5/aws-cdk.aws-greengrass-1.188.0.tar.gz#sha256=a9717157884e597db04e31880a535e83b94ec326c2689be41684859dced382fd" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/17/48b238f3468a7275d2c0a4e29d16128eff46e3abca36855b497bb800a150/aws_cdk.aws_greengrass-1.188.0-py3-none-any.whl#sha256=9319d6188da0cb3bca28182a46a30e1b44a6f3a38bdb0d33a91c3b7128e82468" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/bf/6645d1c29d0dbd8a63a94c481abf0d897e8b6f30253b729648eff02cecfb/aws-cdk.aws-greengrass-1.189.0.tar.gz#sha256=0a947334b1a37613135301329d2a45a3247f3fda10cc7c03c665a3d8cea1a565" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/55/ac04696f70a51f7a3cdd47f28e65102ae61bc30eb49988d170e62e784061/aws_cdk.aws_greengrass-1.189.0-py3-none-any.whl#sha256=5f098940f2ddaaf98efbd15ad66f23ef336f5ddac466f011b442b39eb69a1955" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/7d/6fef64b1546a485c659da1b157cb94a4ad7bf943e2c747a97cca329e03b0/aws-cdk.aws-greengrass-1.190.0.tar.gz#sha256=2982d786be709e6c12fd9f72ac39353e3ca185f1cf8415227184ed3548ae0a4f" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/bb/02716306ccdde12354f8c24387ca3ee539a759fedee3cb85495d0124ae8b/aws_cdk.aws_greengrass-1.190.0-py3-none-any.whl#sha256=5af34caf5ba7cbf0cf5d18e3c64a68200d3604a9805ffbd63dc0d0bdbe57ff77" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/52/26076d89b8f7b3252e8fe21d490582578c6bf5c39871bf3896082d710e7b/aws-cdk.aws-greengrass-1.191.0.tar.gz#sha256=797bd999e3d7151646cc7286d42f6be28bf782490c0b2892058a0f7675df75fb" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/2d/0d119a0862dca45a2924a5a0dc1c58186c740878b4b79cbadf1c4418f810/aws_cdk.aws_greengrass-1.191.0-py3-none-any.whl#sha256=3dd6df1c17a02606decea3400a409ee1c17243295da9345e87f7ebcb8c81a2a6" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/6a/79b59d66e24643effc91257aabc3d44ec6904259bfa58b0bdc42c3ad2eee/aws-cdk.aws-greengrass-1.192.0.tar.gz#sha256=3c44e543d083d858f5b38bcadc9c03d708c6967b21446fa4492ec8dcacde9d74" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/59/f7914007b11b5bff153c5e7116369b7101de50fdaa108751203a29585a29/aws_cdk.aws_greengrass-1.192.0-py3-none-any.whl#sha256=e61ca8d999c22e65fe0c530d9da5055668af7dd80c7cb1e962d1b834578d5647" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/80/5fd00dd4beff4ee710bd059e87e1014ba8cf0e0dad5d8e0304247b1b97b7/aws-cdk.aws-greengrass-1.193.0.tar.gz#sha256=f81397e072ee6ac8d657914d5d6e2b763fcabbe9e95f58b4c067cde52efabeab" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/f9/2baa37e9dc84593a5bf01d00227e27512971e9ffc9be8fd820bc0f8e2e60/aws_cdk.aws_greengrass-1.193.0-py3-none-any.whl#sha256=5766c47d4e1499c656643b1c414bba5b31757f75c5bfa34d610a3f50beff8208" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/85/842253476192fd34f7726dc1eb1eccd1afe8e765a0542d7f3988ec7a1826/aws-cdk.aws-greengrass-1.194.0.tar.gz#sha256=f17bc1d106e8fa898d530d24a5feb29122c4c2109dc1d11ae6da9f676ada47ee" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/b0/c457cfd84acf7d97096d51180d7628e3bd3fdfa31674deb8e920cd0e21df/aws_cdk.aws_greengrass-1.194.0-py3-none-any.whl#sha256=da78da1aadf485943ffbd7300e07c8c51c02ac412ba9d3cd0a4db1d3f9567f70" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/93/ac483f2b330742d80763d44a9d114909fd02a3593290aed17c5b3dca43b2/aws-cdk.aws-greengrass-1.195.0.tar.gz#sha256=0f4ca9d40b85fd37b636925a9018a7e56fbbf21664cbb2f793987546b0ca2b79" data-requires-python="~=3.7" >aws-cdk.aws-greengrass-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/c5/a3bcee9dc39e8f1a45a2816120a271cf58aaa69b29f68e2ea7d4323ee40c/aws_cdk.aws_greengrass-1.195.0-py3-none-any.whl#sha256=90ea40c7a10df8c929d5fe3948e9f1a7cab00293f3e021115a4f6338f053f532" data-requires-python="~=3.7" >aws_cdk.aws_greengrass-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393376-->
+<!--SERIAL 17131905-->

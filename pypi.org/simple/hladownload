@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for hladownload</title>
   </head>
   <body>
@@ -16,8 +16,10 @@
     <a href="https://files.pythonhosted.org/packages/d4/14/6ba19c1a546fa17fef4de7c0cf2c3b4e89319c983f171418cba2a167f3ee/hladownload-0.0.4.tar.gz#sha256=f139b29a5de6ef3df7ca8162ac550ea81ad041ca32ca95fc5644705e526ad4f7" data-requires-python="&gt;=3.8.5" data-yanked="Fixed caching bug" >hladownload-0.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/ac/88c579acc64e41c50a9c224f193cfc4ebebb40448e452f9bfd1d174a987d/hladownload-0.0.5-py3-none-any.whl#sha256=fec1cdc0e8229431e1e6b8b8bc99abec2d91138b8248c3a7651a3d36f6031c8f" data-requires-python="&gt;=3.8.5" data-yanked="" >hladownload-0.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/08/f04977a08700a5f8bebaeac9fe79d0170b31605c28575968a11cbf5e7430/hladownload-0.0.5.tar.gz#sha256=3945e87269d294e5f2c8e8460684a16fb573e7c968e104e20f1ff66db835219d" data-requires-python="&gt;=3.8.5" data-yanked="" >hladownload-0.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/4a/4a/5553a265d4c5523db0e1371452fb302a4c16c062c0294f5ba44358c79853/hladownload-1.0-py3-none-any.whl#sha256=b10097533d4d6a22e758a8dcbf37317fbcf36d7b6639b0e784ede0308d502b9a" data-requires-python="&gt;=3.8.5" >hladownload-1.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/00/87/02455175ee561ed34697fae4285af763c763006d2e30b32b6be37f554cd1/hladownload-1.0.tar.gz#sha256=7993d3e607b870992fa7450ae4b0d6cc336e177ee0f66709b671c5a25d2103ee" data-requires-python="&gt;=3.8.5" >hladownload-1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/4a/5553a265d4c5523db0e1371452fb302a4c16c062c0294f5ba44358c79853/hladownload-1.0-py3-none-any.whl#sha256=b10097533d4d6a22e758a8dcbf37317fbcf36d7b6639b0e784ede0308d502b9a" data-requires-python="&gt;=3.8.5" data-yanked="Retrieval of eplets will not work in this version anymore" >hladownload-1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/87/02455175ee561ed34697fae4285af763c763006d2e30b32b6be37f554cd1/hladownload-1.0.tar.gz#sha256=7993d3e607b870992fa7450ae4b0d6cc336e177ee0f66709b671c5a25d2103ee" data-requires-python="&gt;=3.8.5" data-yanked="Retrieval of eplets will not work in this version anymore" >hladownload-1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/01/d33d10765333f5fa3d4102e796b6cdce041cba00726a6209b75fc086be60/hladownload-1.1-py3-none-any.whl#sha256=b53a98a366aa30c6c67a500bd46ea42cb495dcdc8977af4a9966458d98f52f3d" data-requires-python="&gt;=3.8.5" >hladownload-1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/d2/b284f720a0b1da2d78ed23960a22261c80db02e8272515ed10ddb412275d/hladownload-1.1.tar.gz#sha256=cfe22e6fca3a83ef3debec0caa8147a6b4be0121a5eae0f4d7131d8741c0e95f" data-requires-python="&gt;=3.8.5" >hladownload-1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 11479468-->
+<!--SERIAL 16828257-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mpy-cross-v6</title>
   </head>
   <body>
@@ -15,6 +15,15 @@
     <a href="https://files.pythonhosted.org/packages/14/fe/eb2e5e4987225cc6b3dc307cab7b36e1b2c55bcf0d5de03c32a03b721785/mpy_cross_v6-1.0.0-py3-none-musllinux_1_1_x86_64.whl#sha256=350a885a3f9962de7002282c5f166114434d61b75e5c322159dba0805f4c7de9" >mpy_cross_v6-1.0.0-py3-none-musllinux_1_1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/47/fd/50b27db23b1a54a9f289c9a1c004f1596f35161239578175331c11cba926/mpy_cross_v6-1.0.0-py3-none-win32.whl#sha256=425cae70137f164291e745b0779d4fc0968e17229f54f5229b0880ee5f32a42a" >mpy_cross_v6-1.0.0-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/94/142ca2d5c8aa5bbb49b930bd73e2fa539cae20c45af2670640a84c264c32/mpy_cross_v6-1.0.0-py3-none-win_amd64.whl#sha256=52889af69209eef1c5241488ae57d6b380da35b4767933f6c18327c19c63705c" >mpy_cross_v6-1.0.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/40/550a6ab94fde35fe1c3ffdc7cef8c889faa4a8b9bea4e8d25bb1ba2bc17a/mpy-cross-v6-1.0.1.tar.gz#sha256=4afa35ede3f18749e192157f7d565d5737a618f48156ffe723c073f95b9853fe" >mpy-cross-v6-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/10/9fc82e3253cf0206f90fab07d3eaa8278191b58c1a8e9960125c47e60af0/mpy_cross_v6-1.0.1-py3-none-macosx_10_9_x86_64.whl#sha256=38125007bae8ccd7d97510c5adeb6eab794268dca572257b37638173ce50b621" >mpy_cross_v6-1.0.1-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/8b/33b6109a8cea9219af6f4745a397fe9032904fdbb75b0330c06fc6d491a6/mpy_cross_v6-1.0.1-py3-none-macosx_11_0_arm64.whl#sha256=71cd8205d977fb23ec8d0e38cbfd1d3b827645923e2782fb707cc0283fe1adcb" >mpy_cross_v6-1.0.1-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/cd/818f559a51f06412d18104156ba75120dbe433898cec86d5974cd6ec717d/mpy_cross_v6-1.0.1-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=f16355abe04b8185e59b58953f4b28d631273ec1796f62216023e5762e7490c0" >mpy_cross_v6-1.0.1-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/a2/cadb794c2b715bfb36604c9546a4f37635d44893a8fbf415f41bed7756ae/mpy_cross_v6-1.0.1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3a00d6cc4fc16175cc8121aa152d8be9742e030e576f47b2efe0dd509dc08c66" >mpy_cross_v6-1.0.1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/fe/60bf0f4299d5d78182b11278de1fc739be12b002d68a5e6e8f793df21851/mpy_cross_v6-1.0.1-py3-none-musllinux_1_1_aarch64.whl#sha256=798ecf9ff4dde698156a35a507b95af63ff74ce0ee25f8cfb493634ddb8ced92" >mpy_cross_v6-1.0.1-py3-none-musllinux_1_1_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/58/72c05e9d8ae8d787148a232dfd668a3524f57c47af296097163364116374/mpy_cross_v6-1.0.1-py3-none-musllinux_1_1_x86_64.whl#sha256=dea79672c1c39f44d408cda9447c7e9c4c21333bd55bd69a3258a4083a3e5ba0" >mpy_cross_v6-1.0.1-py3-none-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/0c/6a928b728764331afad9b7e36a84ef59184f2a51d6e5e54142f87930839e/mpy_cross_v6-1.0.1-py3-none-win32.whl#sha256=415940a7d8cbfb40ee9a670213393a23de9908b5fe7a840e349994bf4b27fb94" >mpy_cross_v6-1.0.1-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/ea/5694107f849588ad6684f06e14c4799bfdf87db1466eaae814149d169796/mpy_cross_v6-1.0.1-py3-none-win_amd64.whl#sha256=36da73f8d936770ece87e1bf9397492a70769c297d9c83f7a8c0cd9a681ce042" >mpy_cross_v6-1.0.1-py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14155853-->
+<!--SERIAL 16893882-->

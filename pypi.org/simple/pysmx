@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pysmx</title>
   </head>
   <body>
     <h1>Links for pysmx</h1>
     <a href="https://files.pythonhosted.org/packages/41/80/a4f5889c0ee8c7fe180a9c8493bdced39c86a0b4ea50f8c866b532279e44/pysmx-0.0.1.tar.gz#sha256=6d3bf4aa0c45242bb540354bfdae2c624d96ee9ced3ba1b0ce781fa22633de1e" >pysmx-0.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/47/c1/21813c91464570b1ea39f44e6dbe121e7d0b3f1667a2cd0a80607dadc09f/pysmx-0.0.2.tar.gz#sha256=1fa1bfa8cd832fe025a7cda58e45c7e70b39ceaa24207953904301e273b101fb" >pysmx-0.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/df/cf8589a7db7a5ac2b69d909540a44646fd926673f1e86108ef89632bb1e8/pysmx-0.0.3-py3-none-any.whl#sha256=65f0d8f9125505df7839a2058ac013c52eedf189939e117be3aee9d132df89e1" >pysmx-0.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/df/d18f01fc114e28d184fa7e5532e04470594989c0bea51b65b4058fd7d075/pysmx-0.0.3.tar.gz#sha256=c02a104edae2bf53ccd8e9267c100ee8d9bf94f4e20ba30c91189dac816524de" >pysmx-0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/42/db75eade4c4d350cf94540d553613604d45a7cc677e741043391e67ebfe0/pysmx-0.1.0-py3-none-any.whl#sha256=b87fecb500083810fe12c8ca37869063c60c889f888fcb16f7b38bb64d0383b7" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/64/f39b3b6721339467526e6e9d95b333f70c99a99c27fab79331ceeda63c07/pysmx-0.1.0.tar.gz#sha256=4ee743b208f128ab1b9b41a908cb02fd0306f6c394698cc85a85d6efc1070e6e" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/33/eb855bf76bb67eb9eac53599bd7d0f98ab1fa20b9443d8527eac29fc492a/pysmx-0.1.1-py3-none-any.whl#sha256=7ebb3a291f3a21d39785dbc88403a9a76e9b96ca4f262737120c149695c9582c" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/f9/25afe0d91e223b02f2302dc9e49ea460c0d69d66841d3f36182fb1325764/pysmx-0.1.1.tar.gz#sha256=a2046f4b0e2864623fdf6495306137f2fa6e83f3c31cf3507047bc51481f4d0e" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/14/bf093442ed794c01b724817d57396d399013259abe224945ffc96fb6ae90/pysmx-0.2.0-py3-none-any.whl#sha256=b2356370245d584053e70c37dfdc775eb4d3016d04c17fa91dbd5a4fed8bad0f" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/60/8c9500a28c9902569b48e5bcf40283b1f1e55862ee10542b7e9152f31cd1/pysmx-0.2.0.tar.gz#sha256=1528606b31763993001b51593a5fcf1a7c4f8ac2507490149b0149fca537960b" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/cc/f7bbe6b504f5cdc40477feb3cd4c89e0fb9872d9301b4e69f8c1452455ac/pysmx-0.3.0-py3-none-any.whl#sha256=a48d47bb8f5e42b4ecab404b31a635029b67c0a69ec0e3a920064f9a4db309ac" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/b0/d188ac3c114636fd688c0aa41a024d9aaa120a49b53d4e26a6c7e7fd7719/pysmx-0.3.0.tar.gz#sha256=1f979e78f5c39b4c7ac097c609e208ee4f3b807d8f571bc35b95631737d5a811" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/2c/b975001c50180a290c0c575738df5ec011d73de994137652323429552c79/pysmx-0.4.0-py3-none-any.whl#sha256=05b5754279d250f37fb666c2d452d46ebf45cc5adf67f636fff7639cc9908348" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/c4/054bbe0806c63bab38b7b5bf9e6a18bacdd4730e3fe8af0b789adcfc1c08/pysmx-0.4.0.tar.gz#sha256=d5be2f3ea8f6cebaa368b98c0f0ebb697710bb66489f87ae2babe1eb6966ad9d" data-requires-python="&gt;=3.7,&lt;4.0" >pysmx-0.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 3818961-->
+<!--SERIAL 17124229-->

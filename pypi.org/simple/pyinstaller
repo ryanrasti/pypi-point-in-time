@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyinstaller</title>
   </head>
   <body>
@@ -230,6 +230,18 @@
     <a href="https://files.pythonhosted.org/packages/a6/fc/029b4c0138abc7941ea757044efd5b739de2ef561a87bad624309dafdd89/pyinstaller-5.7.0-py3-none-win_amd64.whl#sha256=9b47c10fbefac6f6493266f8b1689109b2b14efa9142dbd2cd7549226a4568b7" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.7.0-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/49/7c/55a26eec5e23eb1825c582a0a3f8adab9df260f09d95026d0bc2d1990c7b/pyinstaller-5.7.0-py3-none-win_arm64.whl#sha256=3e51e18a16dec0414079762843cf892a5d70749ad56ca7b3c7b5f8367dc50b1e" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.7.0-py3-none-win_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/2e/bc4c0026659cea46aca867f4d71e8bab5a6430b4c005c51e174da5e6e4a2/pyinstaller-5.7.0.tar.gz#sha256=0e5953937d35f0b37543cc6915dacaf3239bcbdf3fd3ecbb7866645468a16775" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/74/bc3dd35e79f4ff6f1787196a019bd20c4c7b87a9499374fedb1f35c61134/pyinstaller-5.8.0-py3-none-macosx_10_13_universal2.whl#sha256=502a2166165a8e8c3d99c19272e923d2548bac2132424d78910ef9dd8bb11705" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-macosx_10_13_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/61/8326349c6c5af8af8ed7f811284adf87c251d685b71eb268d17457a37166/pyinstaller-5.8.0-py3-none-manylinux2014_aarch64.whl#sha256=bf1f7b7e88b467d7aefcdb2bc9cbd2e856ca88c5ab232c0efe0848f146d3bd5f" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/b0/92a20d7e0ff068b295f9a369d7bbb0f1c5f87b72bb60587d5baa9d5ac93e/pyinstaller-5.8.0-py3-none-manylinux2014_i686.whl#sha256=a62ee598b137202ef2e99d8dbaee6bc7379a6565c3ddf0331decb41b98eff1a2" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/da/33468658cb4d0a959d0bec1664b1f7f448aa8ccbc5026655f2cd809d43dd/pyinstaller-5.8.0-py3-none-manylinux2014_ppc64le.whl#sha256=e68bcadf32edc1171ccb06117699a6a4f8e924b7c2c8812cfa00fd0186ade4ee" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-manylinux2014_ppc64le.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/d2/c7cdb929fa64a19a549bcca0a60118f4ccb3de28e32fc59dfb08c9aa769f/pyinstaller-5.8.0-py3-none-manylinux2014_s390x.whl#sha256=ded780f0d3642d7bfc21d97b98d4ec4b41d2fe70c3f5c5d243868612f536e011" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-manylinux2014_s390x.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/3f/82a27d1b1effafdf6d4cf324e1c41ea139a27a372ad0ab685baaa353ab03/pyinstaller-5.8.0-py3-none-manylinux2014_x86_64.whl#sha256=f9361eff44c7108c2312f39d85ed768c4ada7e0aa729046bbcef3ef3c1577d18" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/e9/5deec9b1a3f0a0ee6936f5a05e31495f5b8b054d60e272799c6cdc25885f/pyinstaller-5.8.0-py3-none-musllinux_1_1_aarch64.whl#sha256=5c9632a20faecd6d79f0124afb31e6557414d19be271e572765b474f860f8d76" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-musllinux_1_1_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/09/13a25d8f1afe6e85c89d3f4a5d1f4edfdf53b2f7e547d12932e57322d8c7/pyinstaller-5.8.0-py3-none-musllinux_1_1_x86_64.whl#sha256=8d004699c5d71c704c14a5f81eec233faa4f87a3bf0ae68e222b87d63f5dd17e" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/1e/d6bb9799a785419199665b34d5d3591a20778d42e9df1faba62923064d0d/pyinstaller-5.8.0-py3-none-win32.whl#sha256=3b74f50a57b1413047042e47033480b7324b091f23dff790a4494af32b377d94" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/d9/6d76544c4d554cdabc58e11a28b88a9767b1a57399c460342eff2ad0aeab/pyinstaller-5.8.0-py3-none-win_amd64.whl#sha256=4f4d818588e2d8de4bf24ed018056c3de0c95898ad25719e12d68626161b4933" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/9d/956ff5f679f4e99a8817162fc323d65c4027d411c99d31872eea55289262/pyinstaller-5.8.0-py3-none-win_arm64.whl#sha256=bacf236b5c2f8f674723a39daca399646dceb470881f842f52e393b9a67ff2f8" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0-py3-none-win_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/20/cfb61921d7db3e8473440091ac99ae900357f26197502ab7ec9ff6473ca5/pyinstaller-5.8.0.tar.gz#sha256=314fb883caf3cbf06adbea2b77671bb73c3481568e994af0467ea7e47eb64755" data-requires-python="&lt;3.12,&gt;=3.7" >pyinstaller-5.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16059502-->
+<!--SERIAL 16812040-->

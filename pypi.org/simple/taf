@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for taf</title>
   </head>
   <body>
@@ -380,6 +380,19 @@
     <a href="https://files.pythonhosted.org/packages/83/03/fa91b8205d8b950247b9dfad2f246c699f580f5cd4086d697c2caebe5480/taf-0.23.1-cp39-cp39-win32.whl#sha256=cf854210d54aef910fb0a8713f02eff8d6b0418d212a2b02ab3b076c663c14d8" >taf-0.23.1-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ce/d5/25e39702b2b2655d761cdbcaeb7c52ffe594e9536f6df98becccbd81f66d/taf-0.23.1-cp39-cp39-win_amd64.whl#sha256=211a32853dac484775a0891ab16ea28471370471787f14e9624c31a265108e5f" >taf-0.23.1-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/10/ed989d6e9e57083d63897d8a164431da63fe0bded3f3fdb85cbafda57057/taf-0.23.1.tar.gz#sha256=c21eea92e734cd0538c97c50318f41934b9f6fb3dc13035e0183647e0fc2ef61" >taf-0.23.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/11/4bc8f45039f331cb6e7138ce0e857a7dfb0870f49e51302f8668342c80f0/taf-0.24.0-cp310-cp310-macosx_11_0_x86_64.whl#sha256=5248b3407fdfcf4c599d01c1be13283f88324d9b8dc9c3f9339cf535879f3380" >taf-0.24.0-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/0a/3b0347600d9acd793281e36ef3d3b56576f9aa8dd7b4247662ce3d01faa8/taf-0.24.0-cp310-cp310-win32.whl#sha256=d7c4b31fab081d7fdbc43746b770d065743cb48115bc2c4d6d098806e29264db" >taf-0.24.0-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/96/4d02107e7b22d8c17355375cd5abca7c2e98135652d10377b1db5eaa51a6/taf-0.24.0-cp310-cp310-win_amd64.whl#sha256=723303b2ceb79530f7ee9501f7285e05cf3f0f01c2564ec50bf1d075da08c695" >taf-0.24.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/51/a274e54d93d69549aaf78383205fb71516ee0c2d3c8aa30168f693aa9da7/taf-0.24.0-cp37-cp37m-macosx_11_0_x86_64.whl#sha256=7a817afc51eaa48ed8e483e5c57052e9a2f5ed3aa0841e32205d27e24fe8ac38" >taf-0.24.0-cp37-cp37m-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/c3/1b5fca7283d33c4aa4702f24d0c810fc96770f70a0ea3c1efca32f8d3e9f/taf-0.24.0-cp37-cp37m-win32.whl#sha256=6e4ca83126027ba490e9f92586915abec8efcd5c964201d8d07552f75ca8760b" >taf-0.24.0-cp37-cp37m-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/bd/7eaf2d987fc5e533344802541b21b12255eebc0b8486fd529e49e7617cbf/taf-0.24.0-cp37-cp37m-win_amd64.whl#sha256=611cb8a717290ac24f80c5bd30c2c4bde86cccb992c290fda27c063b9ea919d6" >taf-0.24.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/7c/1d269e22c24197b3bd74390deaad868eeae16473fb56b6194035ed114ba7/taf-0.24.0-cp38-cp38-macosx_11_0_x86_64.whl#sha256=a73d9c5d0eeba53cc6b0a44b8503f44094461b0a6d15f275ee68c3bd84bbc4e5" >taf-0.24.0-cp38-cp38-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/a6/8ce8a54a99af748d261d8eec59e4e24ec4a930046c91063c097d24b0d077/taf-0.24.0-cp38-cp38-win32.whl#sha256=7755a4bbdbbaeadeed537b8509fbb3675cabc6668f7d9f333c3ec454e8733e39" >taf-0.24.0-cp38-cp38-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/cb/52b7fa09ab6d80d494c22d7634a80f5690e5835ecb4ee3fa198ba91aaa96/taf-0.24.0-cp38-cp38-win_amd64.whl#sha256=16afd123890a396c576aa626e26b1069c582f169e705adbf17c92d4a32105e98" >taf-0.24.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/80/238d01259ebb4ab3729dde6b88c6a03e8bae09c4fe6e2fadd374780d997d/taf-0.24.0-cp39-cp39-macosx_11_0_x86_64.whl#sha256=2e23577f9f7dd496324ca4bbd51b888a9ea9b0cad4a61e8e84ee3a8a69f5f232" >taf-0.24.0-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/ae/ced4612cad09cacde257a5df0f546efb7eb72a52a42f6bed8121f46525ea/taf-0.24.0-cp39-cp39-win32.whl#sha256=3b85af1ad285ce195b87b19e1dcfaaa04e318a4e40f8601a5944b61176079caa" >taf-0.24.0-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/1c/2cc5d3fc5923662dc0fac2fae3a7d77500b0000d8476f22aef55498e0322/taf-0.24.0-cp39-cp39-win_amd64.whl#sha256=3e8fa18abb2481c89dbca04f5ead04317e127f8ec8f631f43da980a81787579f" >taf-0.24.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/67/0181fe35e281739f3a65054c78f49d33f94c8b4710b6cb8aad321c332a9b/taf-0.24.0.tar.gz#sha256=fded0550220a3d0f7fcae6d0491bfe2856c8503749c61e5791ebefcb530c4035" >taf-0.24.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16420384-->
+<!--SERIAL 16960864-->

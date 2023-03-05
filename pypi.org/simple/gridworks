@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gridworks</title>
   </head>
   <body>
@@ -30,6 +30,22 @@
     <a href="https://files.pythonhosted.org/packages/0c/a5/2cd3d73b2a5cd8e17995c28a2c2256b0fe355375b5317ef805b9445d9622/gridworks-0.0.11.tar.gz#sha256=eb94001a47b41b3ed3a2a06d19fcabacf23950e66c226abcf51c13a6222631e6" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3f/49/d76f32017869bcce01ae64e8ff68e0eade4a6dc2f1d8eafddfdbc39fdf96/gridworks-0.0.12-py3-none-any.whl#sha256=fcfc0973cb16b701d4ff697fd527abe6c0025e6cda33cef3fad1324d01c82485" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/74/8ae9dcd537979045adf3493ec0d9eb2c7a11b278c6d00120942242f3484d/gridworks-0.0.12.tar.gz#sha256=5a375f50d0a47d10bba73b00f3e7bc74efb52bb1d756a5d5f0cd24af2e4a767b" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/0a/dc6b3bc57a9b2d17b4b155e008a14aed1b804499b8df2ce2ecf9b8bf35da/gridworks-0.0.13-py3-none-any.whl#sha256=1e4e2bbc7b4cb8f8866bce78f37910b7c18f4766babdffd954f75b789ea2912e" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/0d/24a11abc5d0f2390e34cfb57d80d8955cf7f46fb705cb6f8008c47eab906/gridworks-0.0.13.tar.gz#sha256=e8290a681ccd692757ecc9691e574384305220e2e87e4e6c6080eba34243b2fb" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/c9/6910f453e376159ad3d5cbf5d4e26385f274e38981fd77a114ad30d4fc3c/gridworks-0.0.14-py3-none-any.whl#sha256=a22311c3ea9e8697d79518a36cf0e70273e2417887151f6efc8665cccaa4b410" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/46/7d6d38fa89ae397c36640958aa46a338a60b8195ce091a818eaa91e63139/gridworks-0.0.14.tar.gz#sha256=1e3f5e0340d4f6ff14d2d5e67e06e81e79fec31bde51866ad16f70350d7bcea5" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/c5/8aadc74a921ebf06d929bb105177ec860a380dfbc3d199a3026282c0df2b/gridworks-0.0.15-py3-none-any.whl#sha256=c9fd225852b45967acb30b56aeb4de40e3e4811c43b80c758ece9dfe1afe3ed2" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/b0/0a01f1261348654540eea1fa877da4b837bf1bb6ddc79b79c2beaee9a93f/gridworks-0.0.15.tar.gz#sha256=9a0f6de15db43de80e11f87b03094a502069c9727abbe59f3cbf85d91512277f" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/96/4b8e0bc962fb16ec05ce415e27e41287eac6357dec1102a5774ef5949c3e/gridworks-0.1.0-py3-none-any.whl#sha256=5b6f8ad10ef5ad653b2f60a43610ade11123dc4ed1e5df6d468ebd4e6b935c38" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/31/7f85826c8b6a50caeab6a27d2340c3bf5c7f43fa32346346bf36ffd5a259/gridworks-0.1.0.tar.gz#sha256=09e952eb6803574c07058f6ce7acabf228ead1497f1fa600ea9263b0316e686f" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/ff/d3c9f8262b22d2f3d3bb522deedaad0cfa03d2c68e10b01efdc711340fcb/gridworks-0.1.1-py3-none-any.whl#sha256=72230cce5ead0745c6e085710da20336607900614ac26038bc098c1188d2485e" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/a4/306098364d33c6f7e63b17bbd788effaebf0280dc3af16b68031e0275799/gridworks-0.1.1.tar.gz#sha256=33f649af2136a0e17ffb80e72a23424593d7e21e96075933cfa99c6056f543cb" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/b5/ee8977f1fd36462ce99709fd3685c3456de509be6c883175ffe76e824175/gridworks-0.1.2-py3-none-any.whl#sha256=ae2b6938a1a8305000f15096fc0782ef22f7538315f573d1cd2bbe18ead99b89" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/61/038a58e9788a9932c035f4fc8761ce77c9be8bcba2c1724e60b620216b07/gridworks-0.1.2.tar.gz#sha256=206691025d42ec909257cdfd604e77296e6f9f92fc322266abdae3555bf5a991" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/84/c9fa53474f737879f12dd1b75a0e344088e59d989b77fc6e0e59c1824650/gridworks-0.1.3-py3-none-any.whl#sha256=38cae2b5255d60b2350906c67bbd024b34b0c135317b9f88af83febd9f7bf479" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/6e/8148a529bb4b78d10d48ba95fb75b22f27889cf1d836aae9809910376325/gridworks-0.1.3.tar.gz#sha256=995275a1455a6a72c905ba9883f14abbc009dbe136e8e5140f1d6efec01a48e8" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/eb/c18cfc87ee6f7d10dd186d10734a8393534d78ef70f303d2856165a07a35/gridworks-0.1.4-py3-none-any.whl#sha256=2d9f4054b8e2a69b810b5ec2e068693dfd89751c5bb3ee3a78231258c8a52c19" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/29/51167e2a9bc226d94719677c516deec20569967a39b245f5577063c4061a/gridworks-0.1.4.tar.gz#sha256=3e49d58c9a87caea8d3119c59a4df9e96d498ec68cea9487adae69fa1aaf3a5b" data-requires-python="&gt;=3.10,&lt;4.0" >gridworks-0.1.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16428805-->
+<!--SERIAL 17106467-->

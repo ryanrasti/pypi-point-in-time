@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-inquiry-kernel</title>
   </head>
   <body>
@@ -134,6 +134,8 @@
     <a href="https://files.pythonhosted.org/packages/25/e1/763d5bc9479b96a0c972bd7f4f03f3d249e1128cc236415da73e69665ae5/watchmen_inquiry_kernel-16.3.23.tar.gz#sha256=3cc492c9d657f2d032897d6127d691ca4a6ecf2320e9d5610eeef0f9b94035e1" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/97/a736ada397e0dd58ad4a672f806b7d835bf4ba88dd1cae3d683b18622711/watchmen_inquiry_kernel-16.3.24-py3-none-any.whl#sha256=d197ab02372cd026dbd5f96972ea40e080e83b448ae8d00765acfe2ca70d78b2" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5c/e2/e51dd28f0a8ad36c4c2819a540d5363303636019632d44292e4125277025/watchmen_inquiry_kernel-16.3.24.tar.gz#sha256=80769d39f74babef810d8db9e68d1daa4aa3b96ffb1852baf791fac88c796dbd" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/d4/4eb786d56f588f23465a711ce73385eef355fad3ba61a5a19d110b1059c2/watchmen_inquiry_kernel-16.3.25-py3-none-any.whl#sha256=b2353f135ba1b66c03d8f5dcea3c4847a5b74460dbb0a9d9d97d426081561968" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/a6/73e414c2230cc8ba66dc2066e75da7d7adee64c148b538dca6029d539d25/watchmen_inquiry_kernel-16.3.25.tar.gz#sha256=e0145b806eb5bca903c5c9c299bc0362b87b24f5e9ba7e3116434addf59c23f5" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9c/ec/78e09e997de8d2626078b59b11d881d1e813549684d5af08a42590ddb096/watchmen_inquiry_kernel-16.4.0-py3-none-any.whl#sha256=3b5909caed261100a99283a818973ddcbfe395f399ae3169ab1e23599ccb400a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/3f/7b2a5960c93ba760513fd03ced0bc8fa4e9cd11ebbb853685a7a65a4f856/watchmen_inquiry_kernel-16.4.0.tar.gz#sha256=84f0936826ccd07b1be503da170dafbf55b054e9d00cea3cc8a16e147ef241db" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/c2/0f06b04066c67d3233a92896fd663ebd13444bdb687e7e77a3ad1f9e8e90/watchmen_inquiry_kernel-16.4.1-py3-none-any.whl#sha256=53938a74bed05abaf6f0a6d6051700679edcad34b2b8ee74fd1f54f90677150a" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.1-py3-none-any.whl</a><br />
@@ -146,6 +148,12 @@
     <a href="https://files.pythonhosted.org/packages/df/4d/e6c17763f296134754b30dd9d6c36983c6ddbc5e47e613b05b9374b8e0bd/watchmen_inquiry_kernel-16.4.4.tar.gz#sha256=ab797ddeaa5d72c5a0992e221d124a09ffd3ab3352872a96cec6105f02fa46e6" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5d/c9/b4060dcb4bf039b90afcad354142c2d02f56ffdc27b87629f86bdcfd7bef/watchmen_inquiry_kernel-16.4.5-py3-none-any.whl#sha256=8225caef27807dd0005b4a540d810fa170ce567206b3138663f7d2bb58a29df2" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/4b/ae93fc7beb3b507ec928c06fc02a757179bd7d35293a3a9f0b4ae2d3c22e/watchmen_inquiry_kernel-16.4.5.tar.gz#sha256=497b9e390cbeec1c0234134e45107dba4f1e78d5885b541c7c05718b7104d2a7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/06/4622c1fa481d91ecb00bef513c8fe96950982fb87afc417a30d856b2bd8b/watchmen_inquiry_kernel-16.4.6-py3-none-any.whl#sha256=58edc295ac35fed0963130340c7920b8d93408f2f39c39ba7ea357ca00b5dfd1" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/da/83533911dc25e0d33c351b9f0dc5cf9b3d57c35813c54417aeb8d95384cc/watchmen_inquiry_kernel-16.4.6.tar.gz#sha256=b8167c0785df86992e77b9b078794cd3d882cdbf503909383cf998afc0377487" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/3f/3e37239e353f0c8de22b541ba3680e04bf7dad8d6c8c3c631209a3314a94/watchmen_inquiry_kernel-16.4.7-py3-none-any.whl#sha256=2e3d43a9a748b283bfe60bfe37c06f2d5b8a6db4218e764f8e9045c967d88a94" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/8d/8ea15f5412a17e9da914c2c32d22817a2718017abe170e59ce422f442f73/watchmen_inquiry_kernel-16.4.7.tar.gz#sha256=e1a28be653d052a68462f561ed435642ce301c46890dbb576b8e914616afda55" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/1d/89cdbe79dbf5d4a28aa404628dccfed438c26189a2444322145e4d325d08/watchmen_inquiry_kernel-16.4.9-py3-none-any.whl#sha256=5a6c08dac6ac35370c81f83a827b0801b528043f5af28ca548e67c6edbae95b2" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/cb/236e872119c382a472801c40adbfe42a1a98264dc8019715c46a7294e208/watchmen_inquiry_kernel-16.4.9.tar.gz#sha256=90ddea89fc3b091adcebdb9e9571a0eda114bf79f18e01e362dc7712cce99f30" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_inquiry_kernel-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398885-->
+<!--SERIAL 16991577-->

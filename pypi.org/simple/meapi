@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for meapi</title>
   </head>
   <body>
@@ -28,6 +28,18 @@
     <a href="https://files.pythonhosted.org/packages/b7/0a/729fd0a9ae6fecd08bcae65c83fa83eefedfd6558aede123b607b3d0c4b3/meapi-0.3.8.tar.gz#sha256=e6e8ac5d5e08a8d633f33a42b6f5399bb785df5d9880b002e6e60c8def3db728" >meapi-0.3.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/fa/5ab2c782504f4fcda0d2b5eb4ad7ffed66c3878cb6c309b2d43a756cb6b5/meapi-0.3.9.tar.gz#sha256=812fb008953dabf423e377609a8d462c213d555e63e835aa8a293b7fe466d8ec" >meapi-0.3.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/75/02/b52d704de28d82446f88f2d719eed216172919db16a935ad3b97ab78c40b/meapi-0.4.0.tar.gz#sha256=96835d743df81594387b7bbb955691a9af7235c4a0469ab931403e1422dde7c2" >meapi-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/c3/c16f5e84a1db60b77ae22ac15ea35092a08788bd1a5e4dde739ef187b8e3/meapi-0.5.0.tar.gz#sha256=d06456ea69eb40e6b788d143773bc4ba860c81890c3f62bf0b46142965b65e34" >meapi-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/6d/5f59abf4c8416dab91e9e8f33f0b027b84dd63e447ec843ed2788145916d/meapi-0.6.0.tar.gz#sha256=67f7bbb0ba0b27c9cf4b8ca4df88e35fb0313369bb8cd34a4ec65e69f42d1b3a" >meapi-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/d8/85986db5f69ec41ac544543725affc2e31b7a556a82e6de22f0ec417a203/meapi-0.6.1.tar.gz#sha256=2cfaf6202b112bbd5f80d7d83e9248a096e899f8e72fdd146afee7e71ee68486" >meapi-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/86/027a0856dd8bac52f296b32e3238a88c2168dee32799088765bac0eb030d/meapi-0.6.2.tar.gz#sha256=ee60c93e69fc9638d6df00fb605808529ec6a1821389f0a7276fd14a5c84b852" >meapi-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/0d/a36d912f7682ee81e2fc73b88e7a6a782877f61959973e339846b04455ad/meapi-0.6.3.tar.gz#sha256=d0e16432a3f01594d69d415eec025b6aa09fa4454b28f91d4eb53f402dc8d1fb" >meapi-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/4d/b6b7308b48dd5fae387f915b54058812eaa13d9d18d3a50e69354aedf2b1/meapi-0.6.4.tar.gz#sha256=958b00160d5b72745420ccf790aa8c99b263e8eea6428827281ecb0819d6c760" >meapi-0.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/05/60154afe69dc872730356cb5de0c7e266ba99c6336bd03e6cae623cd1d90/meapi-0.6.5.tar.gz#sha256=88afeaf4718e875db04606babdb11523957ae12ae62a2e6366ff38fd52178573" >meapi-0.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/b6/ee34994297671c1cd7fbfda1d2af0f9ac5e6a86610fb36db30c60b8b8c54/meapi-0.6.6.tar.gz#sha256=ea795a5d64791c2524c0cb67723b719b9ba035443455024581693b8b5b2fa119" >meapi-0.6.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/07/a29a7db84d75fab6cd74076f8bef1b594165887cc7e2320aa98d1b810c75/meapi-0.6.7.tar.gz#sha256=85b350602bbca77a0576faefe8e1cd72fb9de1a6685175055b25a10ae30b65f8" >meapi-0.6.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/bf/98cd4526fa28db9cefcb19fec84931ca8e94dafd7417cece1fb433be7ed1/meapi-0.6.8.tar.gz#sha256=3855cde47de3a985518f86d7fe2774e5e3dd9d444dac325866401f8748678434" >meapi-0.6.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/d4/86a5957626da58b017c13640bb5832481bb63e35a7b201298d71c3abd464/meapi-0.6.9.tar.gz#sha256=2d5283ce6e9cc221ead6af7c052c2602b45085e335b8ec49aef1ef1c1905e074" >meapi-0.6.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/91/7c7d3a61169d30b792b2c9573b0b833567a70b760b0b838c84b20a26d692/meapi-0.7.0.tar.gz#sha256=e7c4f2ce3fc055956350ae01cf1aeae93cb568c81044a07e0df8c4a7a079bc59" >meapi-0.7.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15410352-->
+<!--SERIAL 17063369-->

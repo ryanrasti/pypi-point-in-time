@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bitsrun</title>
   </head>
   <body>
@@ -14,6 +14,22 @@
     <a href="https://files.pythonhosted.org/packages/45/a4/56b5d7bf7dc6b5c369578d1639e708e99fe93f84ebef66a2083b526be907/bitsrun-3.1.1.tar.gz#sha256=4fbe6de1db33565e51a4326d3bd94c2e833306a438291a0f2868fb0f943fb305" data-requires-python="&gt;=3.7,&lt;4" >bitsrun-3.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/36/a7dc89b94aa2f3cd7eb34d0db187e4b95fafec92df118aa38354ae2c5eb2/bitsrun-3.2.0-py3-none-any.whl#sha256=75306ddba3c175431f445d1da3eb5f23fb361616d5e06fef9686c9cbdaa36e99" data-requires-python="&gt;=3.7,&lt;4" >bitsrun-3.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/80/22/e60d647a0dc7a7748ad6565e532b35e66d7c9400612625e5b162b92923fc/bitsrun-3.2.0.tar.gz#sha256=68fda5e909fdf0e21adc0a0e450bb66204e1d129176ba9fec641642a3d047bd9" data-requires-python="&gt;=3.7,&lt;4" >bitsrun-3.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/54/70f7121d0760ce1dca3e5e64182d73c9667518a5ed22839edef05e482b68/bitsrun-3.2.2-py3-none-any.whl#sha256=65d4f9f60ab545cabbaea0e666c2dcc62f74ba534b53c5bc573bc036a4ce9b85" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/72/16b73628f0fb054df9c6f1d2540b96c074a85545904bc20bde1c7ca7c47b/bitsrun-3.2.2.tar.gz#sha256=48fb4d5247ac82a5907e3c6ede2f3a06c77393e269a54b58ef0e5e6748a05d65" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/cc/f9190c51b0af2696b47d66845ef1e541b1b7393b90ccbf27aa825090356b/bitsrun-3.2.3-py3-none-any.whl#sha256=66c08e652936dd50e87a7d9fda2256f193395b5fb1844af3b68ef3adfee281c5" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/e1/fe92714a7815a3bbb921a08bd060cd1eec1de8d5c719f4439e127cf303f6/bitsrun-3.2.3.tar.gz#sha256=c661c19aa326c4c10601d07605eb4d9502a198ca980536b74049cfac0f866377" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/53/f863a92edef8bfc92b146ab1bd22967387d3204442a298ebb23b6b070a3c/bitsrun-3.2.4-py3-none-any.whl#sha256=a52245dd3187d44e0215151127b4a2922e449c1e2d47bd336d87c3115b763998" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/fc/3b12309e22368d4206bb219b44e79b99a37ffcb528b3c3399bfe15d418b9/bitsrun-3.2.4.tar.gz#sha256=034e6ba60b29ed04c30c4776523dc73b2629325d6051bedece743c3ab78cc5af" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/da/8fe638ba7ec17d6499f8616c0b03215bf18ade1949fbdfd2c0af546a0e60/bitsrun-3.3.0-py3-none-any.whl#sha256=247e500ff5fd251e6224465febc60d10a1572d67821cf6b53ef6474a7546a92a" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/88/1e0700c2eb4f606d9430dcc4cd36a1aa2d11fbbaaf09698e155781fe8e27/bitsrun-3.3.0.tar.gz#sha256=998b5ec1828d91c994be73b3e3de47004d684bb7252d8038e030b1d21e7fe4ae" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/41/f0883182415e1a68816c2337e48334e7873dabc22b22f65c1118a99aec63/bitsrun-3.3.1-py3-none-any.whl#sha256=94e415c13bcbb33151f84fa9f62dc992f66687fe7965ee03cfa7d0b96fecff79" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/b4/107982a412d54107596119868e94efbc9f20497320e830d639b50573f029/bitsrun-3.3.1.tar.gz#sha256=e135faa4317a4a2e6066d34d07a156c9537fba344706833a20131cbee4dfd654" data-requires-python="&gt;=3.8,&lt;4" >bitsrun-3.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/7c/934ffa54fc54b17bb36d8e7cf7b1e1b70dbefbbf61352579a4298805a43c/bitsrun-3.4.0-py3-none-any.whl#sha256=97fce3940ce6905a564219a8a6c4503a53468b861cfb783ba0738b391851f4a5" data-requires-python="&gt;=3.8,&lt;4.0" >bitsrun-3.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/e2/dcea64a0c9db7d47e566d9baed9abfc57da07298cd7e1c063e062a9fc204/bitsrun-3.4.0.tar.gz#sha256=e2252ecc76591bfabc0814d089cfe7fc730345a0776e15988b0e3630a0037722" data-requires-python="&gt;=3.8,&lt;4.0" >bitsrun-3.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/db/ebb7cb55a880c660b45b3a818d9db3a382e852d583834eb4abc112698e1d/bitsrun-3.4.1-py3-none-any.whl#sha256=3c9a1ca176fd011288dfee94708a76a144c5a3a8cdc563d14b217da4ad91eb08" data-requires-python="&gt;=3.8" >bitsrun-3.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/b7/059d1c4fca0d625a1ff38f2a38d8f8aa4357335b4092394ec3d9921f80be/bitsrun-3.4.1.tar.gz#sha256=c4edf83df2d56a063184bc03f4b0c15e07cf9a8a5f2679e344c1922ed728d787" data-requires-python="&gt;=3.8" >bitsrun-3.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/b3/87cc3bc7bdfb2e841481ad76458df98a0f3b7793df5f026e1174a5765452/bitsrun-3.5.0-py3-none-any.whl#sha256=59a3aa09f7e4f7577a5b84a4321ac1280580e82b55a6ac843c2e94fe312b9240" data-requires-python="&gt;=3.8" >bitsrun-3.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/2a/a2fe8bb5d0e4ce76b050ca175fd8c3091d3c22a86288a43031ab12eab79a/bitsrun-3.5.0.tar.gz#sha256=374ae0d5758817ef7791a16dfe1d66dfd151dad2fc80dbb47e6993a9d9a26732" data-requires-python="&gt;=3.8" >bitsrun-3.5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16238503-->
+<!--SERIAL 16762501-->

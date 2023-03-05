@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dioptra</title>
   </head>
   <body>
@@ -46,6 +46,28 @@
     <a href="https://files.pythonhosted.org/packages/00/ac/425cba2031c90b04debc88abb790287fe6586a791a301dd81dd5004299a2/dioptra-0.2.13.tar.gz#sha256=b74a8cc8bce8c1da0a359a18a0886f81b47e827c12f2268262af03a2b49fb855" data-requires-python="&gt;=3.5.3" >dioptra-0.2.13.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/8c/211583440a89ec0bc87735cdf83c91a3de9630be35d1e627c5d2fb3c9f6b/dioptra-0.2.14-py3-none-any.whl#sha256=f244b2ae94eb008771d26cd52e043762d873bfdef00e3c8ed5333b49ad9c1af4" data-requires-python="&gt;=3.5.3" >dioptra-0.2.14-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/ed/2709c009f665ba1d9cfb2c23922d56120dab919f345aec4a7c36cdd5556c/dioptra-0.2.14.tar.gz#sha256=763ceb455bd3571fb21ad1df2957a6b46309ade98613cc21fb3b756a9aab6b8b" data-requires-python="&gt;=3.5.3" >dioptra-0.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/5d/b8f01d6da6e1937cf0b46a6a4521315ba8c3d21cbc7d53acade5bbb8d4cb/dioptra-0.2.15-py3-none-any.whl#sha256=05a91ff08889aecd91a8f9c671d971d18bbfae50094c36f2d797e391abd69e45" data-requires-python="&gt;=3.5.3" >dioptra-0.2.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/04/8289848630f64b27ebd8ea0fb5e8c5dbfb5779d54abf5d89d7ac8ad6df77/dioptra-0.2.15.tar.gz#sha256=d0be1476d532585d15e83addbf2bbe76c61effa996e241df653433f1eea9f2ad" data-requires-python="&gt;=3.5.3" >dioptra-0.2.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/f1/f25c1b81a49aace8f973680c5286aba6cf95d3a8a3f2e04ac786bdc7e41b/dioptra-0.2.16-py3-none-any.whl#sha256=4eaf62e580b2ebb758d47d2d12246f6ad3dc79ae6d0919ad315cba7339fb0f44" data-requires-python="&gt;=3.5.3" >dioptra-0.2.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/12/e058d5e5f6f7f07651549e01de911097c02813745af5b9b6dbcef501a98d/dioptra-0.2.16.tar.gz#sha256=8045facfcecb1f82e337f5c7ed519fb2e0a366427d5cc8b280e574a952e49259" data-requires-python="&gt;=3.5.3" >dioptra-0.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/06/adcc4e701bc91662f5eb1956fd41b104770995e03c272556ba2183325052/dioptra-0.2.17-py3-none-any.whl#sha256=2987f696fffaa9d67a8ed8286b6611673f807db83442c74b3147d720206004ef" data-requires-python="&gt;=3.5.3" >dioptra-0.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/48/4dd096a011d2f83efa43ab36625f10328ca4781f535fc31925ba7b5c0967/dioptra-0.2.17.tar.gz#sha256=0ad28be7f1877b6d939cbc636aaf9bc8c9a0556363b4bd9c725501097958bfe3" data-requires-python="&gt;=3.5.3" >dioptra-0.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/bf/173c83bb9a9b7db2efe882aea08cc81bdc2ca57a05c0f8c0d8334496f7e1/dioptra-0.2.18-py3-none-any.whl#sha256=d347721e850849db7bfd9a9f090b15eb6095fdb92db2c66adaf4eefcc62fa1eb" data-requires-python="&gt;=3.5.3" >dioptra-0.2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/e9/e0544d88f7e03aeecdce05f122c5228885ecc185c73f026361a62ecdf842/dioptra-0.2.18.tar.gz#sha256=34a90c3785a0901fa68b9aa4fda551f5f6aebd5d33ba7147272440c44c988188" data-requires-python="&gt;=3.5.3" >dioptra-0.2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/36/e6beb4cfba8ae31e193f3c4174ee98458cc8ade3d1e7f18aacd76be36b2c/dioptra-0.2.19-py3-none-any.whl#sha256=e400e8574ae9c8ce150a6b03f1cabec59ee5292d0f98b844f936a9052dc0b886" data-requires-python="&gt;=3.5.3" >dioptra-0.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/9b/991dcbab316bf24945cd0c8e951a94cffedda358110759a1e38f0b475e64/dioptra-0.2.19.tar.gz#sha256=079f1ef79547a4d1935075c73da317c54499d7e012240c1209c2279323f9e640" data-requires-python="&gt;=3.5.3" >dioptra-0.2.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/00/83189512fd30dea105c381ec722e5239b38deedd9a73a0c927ef559ee8b1/dioptra-0.2.20-py3-none-any.whl#sha256=4e8aa6846ee5c9d0720dbf3ad60265140f5be3bfad97393185da064f87ac6422" data-requires-python="&gt;=3.5.3" >dioptra-0.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/1a/dfbc0fd2b488f395f7393f13e2664afb387c2c8a6179e9e3ed3f776a3443/dioptra-0.2.20.tar.gz#sha256=42661bfd6a10b5130f5112e778a5cebc34298cc0f8fcf57a9a793e3b73da0ab9" data-requires-python="&gt;=3.5.3" >dioptra-0.2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/58/d98f026ad10869cd9e4900699ab137a7bca87210388712a29713dcaf9a95/dioptra-0.2.21-py3-none-any.whl#sha256=79e6e7bac585c82bc5fdf665d06adad19d63873ef68a8d776f33eeae5cc76c03" data-requires-python="&gt;=3.5.3" >dioptra-0.2.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/dc/8c9e53cb008c45bb50939614138bbcbef88c9cb6e938d4c2621bb371f1b9/dioptra-0.2.21.tar.gz#sha256=1c0fa4d52280d96c7b9bb6d18d17bfc4b241df7043c83275ae9d959e262582a6" data-requires-python="&gt;=3.5.3" >dioptra-0.2.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/35/8391767f6d6bebf5b106d24d5d40e2dae5cd2d8d14baac808dd47f914916/dioptra-0.2.22-py3-none-any.whl#sha256=18ca1125ab7b7a04b54b1a2370453f4a2a7f3d0746e0c06383f3d8e8be88145c" data-requires-python="&gt;=3.5.3" >dioptra-0.2.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/95/7f8ecb503ab41821ad40de2379d152d8a28a3390879bcc6718c486569eeb/dioptra-0.2.22.tar.gz#sha256=fe62c2d60ab790126e96fdd7080354a81afb7be1d31c06b9c51cf8eea8c3e4ca" data-requires-python="&gt;=3.5.3" >dioptra-0.2.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/86/a7d243f22a747e47e6a0ff7fc050ab3c89c14447bcc7f9acb3f9cc668193/dioptra-0.2.23-py3-none-any.whl#sha256=38aef0bdc40fc5a007378706f294c856ed16054bfa3ce9e8ea19804c8cfbeb5f" data-requires-python="&gt;=3.5.3" >dioptra-0.2.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/30/48da4b3f26291ac7d5de917ad0515267108418eac3c7c4b733944433cbdd/dioptra-0.2.23.tar.gz#sha256=68ed034440c7429a316d0a5309fc5a7e7349089e21473a5e5871fccf304a7fc6" data-requires-python="&gt;=3.5.3" >dioptra-0.2.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/48/1ca7b4529047264927f0a649a3074bcc090de48ea2fbbec2c0fb58ef7084/dioptra-0.2.25-py3-none-any.whl#sha256=d91a45f473f5bf48ffe76a5f7eb610e569844e9c71efeb378781ba6324f15f6e" data-requires-python="&gt;=3.5.3" >dioptra-0.2.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/e0/c050cfcfa6ffdbeac35fe2c024aaa7b78700c79841e0928d598ff0f894ab/dioptra-0.2.25.tar.gz#sha256=84274fdf9ed34694f80913075eeda2f86715f5b22bca19c70910ce6b5848553c" data-requires-python="&gt;=3.5.3" >dioptra-0.2.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/bf/a8e13d987ec614e205547d88ba8d4230b0151a77baaefd48a836778af294/dioptra-0.2.26-py3-none-any.whl#sha256=9a76a0b4c1db19bb8f167db65016194a6a64cecb47e1fcf8aaf93a472d43812d" data-requires-python="&gt;=3.5.3" >dioptra-0.2.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/79/974dcf17c5e563b64e0ee9616daaf9cbe3552cd7f7ec8bca8163a9f79daa/dioptra-0.2.26.tar.gz#sha256=7dbbd95fcc34d13b72f671a66bc069bc70e4809be47d4db925346da2f37444cc" data-requires-python="&gt;=3.5.3" >dioptra-0.2.26.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16378974-->
+<!--SERIAL 16984170-->

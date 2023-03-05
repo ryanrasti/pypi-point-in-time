@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for buildstream</title>
   </head>
   <body>
@@ -33,6 +33,7 @@
     <a href="https://files.pythonhosted.org/packages/4b/c2/de49651492a507d1983f06c365fd38ca47dd35eea390c10fdf17478780ad/BuildStream-1.6.6.tar.gz#sha256=5f35c1f8361fc30367128fef12a3e82e02f5018ef12557a39c5ec9ad9a60de93" data-requires-python="~=3.5" >BuildStream-1.6.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/80/bf/aaa4a73a549f6d7bd5900bc7f28cb6f4794d943ddd1d342edd31bd2103f0/BuildStream-1.6.7.tar.gz#sha256=995bec8a605b9ef2034495edc267c94475eca3e073f53e34993ae24e4e2ce96b" data-requires-python="~=3.5" >BuildStream-1.6.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/8b/9f6f65e381a6b42bd17e6b59ef34b2673edbdece3331b1a91d724e20c3c0/BuildStream-1.6.8.tar.gz#sha256=a0509bf849901028d163b52c18b43715c49de43653967963950861ccb6eebcb0" data-requires-python="~=3.5" >BuildStream-1.6.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/17/2020753c6ca3ecb84905c7275c19fd9393d27f9716fd41d354f95e409be9/BuildStream-1.6.9.tar.gz#sha256=ac4606c026e96c104c792a5176c1134871a2bc3c50566fcf4855b90e6119b460" data-requires-python="~=3.5" >BuildStream-1.6.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/04/d0/d0af58c6bc41c28caa627a1fbe3eda87f28af45f9ce9c7df138d04373e9a/BuildStream-1.91.0.dev0.tar.gz#sha256=cfcf9b8c5be83bd975eb426f60470969cc4cb8a421346d1c49a1ce96694accb5" data-requires-python="~=3.5" >BuildStream-1.91.0.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/96/4a/970619eef72f3ea47c114a5a66e49fef13ca7ea063152260eeed36dac2a1/BuildStream-1.91.1.dev0.tar.gz#sha256=7fa9993619a4cacf627aa15f2566cc0ef78a8f83b5ed8285523fba5317eac7e1" data-requires-python="~=3.5" >BuildStream-1.91.1.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/d0/b51944c45ab7b6582d9ffc4d47a65837da3bd1b4bb83255da8346c895921/BuildStream-1.91.2.dev0.tar.gz#sha256=01a1e0205744fdac7971c566661f8e56adc0d8798c6082e0e6208499cd84fe1a" data-requires-python="~=3.5" >BuildStream-1.91.2.dev0.tar.gz</a><br />
@@ -76,6 +77,12 @@
     <a href="https://files.pythonhosted.org/packages/ab/11/9091a85bdb3e761878f9609cb1a7d7e589abdc5e296167e0dab203279eee/BuildStream-2.0.0-cp38-cp38-manylinux_2_28_x86_64.whl#sha256=2c7a0210fb48a5f39651dd1a914055d200f0d855dbaca61b0a0899d56a627cc4" data-requires-python="~=3.7" >BuildStream-2.0.0-cp38-cp38-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/b6/c349731aba6f7cd5ac1a09d787bfcc096739302dc5ce0a5b3e6eea5df4d0/BuildStream-2.0.0-cp39-cp39-manylinux_2_28_x86_64.whl#sha256=e1c0f35256da883414d3735ab51cb51d8dd48ff577ebf448751b13ec7c99f0ef" data-requires-python="~=3.7" >BuildStream-2.0.0-cp39-cp39-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/fd/68a75282525152ad333bd69e8e9f6224d56dd7db3ea36b7e2b6f5ab1728e/BuildStream-2.0.0.tar.gz#sha256=112e531ee645e193a38701b47650ae401a181a4094f7fca6da54991993c3c61b" data-requires-python="~=3.7" >BuildStream-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/5a/028303e1d0497640d562f5e2c3d971a77a017825577d2e51f2dbfab80dab/BuildStream-2.0.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=60c1c48ec9f2767262260e5ec9dd1c76564e582126b0904631aa7e0e03e26cce" data-requires-python="~=3.7" >BuildStream-2.0.1-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/77/5abdd0a86116a4e2f02f4282206ba38a3ec48ae1d405dcd0191eec6df6b9/BuildStream-2.0.1-cp311-cp311-manylinux_2_28_x86_64.whl#sha256=4c578a40f9360546e38fa020ef8137ae174cf404f68264023c0c8c4ab1d8e04c" data-requires-python="~=3.7" >BuildStream-2.0.1-cp311-cp311-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/2d/249f7cb78849f702e1a98370ceb379e5661de3fe66e2be73a35e7bbbaf88/BuildStream-2.0.1-cp37-cp37m-manylinux_2_28_x86_64.whl#sha256=c87f940de4e2a34fb97d6fdf7f809f045436bf2f6869df536254f3f32543a90b" data-requires-python="~=3.7" >BuildStream-2.0.1-cp37-cp37m-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/f4/513917817dc32db02d3caa9f29c1239ab48d7d3d4a3b3c8408711fae3954/BuildStream-2.0.1-cp38-cp38-manylinux_2_28_x86_64.whl#sha256=c88473c7a506c9ec8e6d19cbefe3ff29a2d2b2e3bc16832ab87b817914bd0afb" data-requires-python="~=3.7" >BuildStream-2.0.1-cp38-cp38-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/92/f0baa3b444520b70a7524adb705830af0d0136d6895c0fd8f08a436e5eec/BuildStream-2.0.1-cp39-cp39-manylinux_2_28_x86_64.whl#sha256=299c40d62ca6b970c9d22d10b9edc7de0989fc7aa3d345fdcb79c845d3d7828c" data-requires-python="~=3.7" >BuildStream-2.0.1-cp39-cp39-manylinux_2_28_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/7a/f4b055c219ad61dfa032e7862aa48f161d7438c785a9da03f8f88e74adf7/BuildStream-2.0.1.tar.gz#sha256=fbbf34b3fa2511548557e0d08ed1a02bcae1de5b67e22ddee0eefe7872f1b8f1" data-requires-python="~=3.7" >BuildStream-2.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16183347-->
+<!--SERIAL 16961296-->

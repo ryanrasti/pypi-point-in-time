@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for snk</title>
   </head>
   <body>
@@ -14,6 +14,22 @@
     <a href="https://files.pythonhosted.org/packages/82/4a/b6a9497faf7ee674934d0d892cc87186009514f4c1d2396bb19d5531eabf/snk-0.0.3.tar.gz#sha256=03ab0dac012fbfb8468f59c3c4163927c7dd15078e63fd62db53b5cb3a054d1c" data-requires-python="&gt;=3.7" >snk-0.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/32/3b/b4db955d16c769ed4e417faed2f11cace9519c366674a1ee2d90b78d039b/snk-0.0.4-py3-none-any.whl#sha256=d5fa52a774b388c2856fc6ee154dcc97256c606e18b4e485dbbc705325c7720b" data-requires-python="&gt;=3.7" >snk-0.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/99/9e0ed2fd42946e09f9b84fe0d426d0900614966483dc135bbdda2e4279b6/snk-0.0.4.tar.gz#sha256=58f28fff01b64fd40cad0f52a2e8ff2a41446739d4ad53e8bae85988831b943c" data-requires-python="&gt;=3.7" >snk-0.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/e1/58d3806e0f178eb553b6af3e75c01b1179e2960524a9626bdf0699a00550/snk-0.0.5-py3-none-any.whl#sha256=00aa614285b4808336d6c6ec50f93e7e4e3a633f40dca9950f29d29fad500475" data-requires-python="&gt;=3.7" >snk-0.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/77/732881d54444f8168ba504539227aad07ba30d45d84df32578b8fc0bbafb/snk-0.0.5.tar.gz#sha256=0d3017002cdea0f8bdb2c3424566fc1b3114ddc232d7eeb8e696c9121804a409" data-requires-python="&gt;=3.7" >snk-0.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/f0/8c6bc2173e6d80429ef70b2ca156440faabc137881681baf08ce43ffb480/snk-0.0.6-py3-none-any.whl#sha256=64f1c01d8b35d8adc2b7a3e96e86fa37fe38985a0706f393e8eb9db5967e9f60" data-requires-python="&gt;=3.7" >snk-0.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/50/3f40d93a2a952952e8fb3f7ebcf6622696f8fc6ee3a8c0a2b89602169da0/snk-0.0.6.tar.gz#sha256=83953e0de2fa065191f049e897d03d25e0d2d51fa2db97a277b91c5a3a970b62" data-requires-python="&gt;=3.7" >snk-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/51/1948b1eab1e13e61aeba84ee1b113f3f34447539667e097ec9819d5b2241/snk-0.0.7-py3-none-any.whl#sha256=82436181122e7813a61fe297c03c902d671512104c9fa0e7d480ede39b933334" data-requires-python="&gt;=3.7" >snk-0.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/1e/679fae6672703354277c92af8341a7bac90dc971cb28c201f9f7a6fd9b75/snk-0.0.7.tar.gz#sha256=c9c3048a3f62cea0b02d469d8bc6c4d1fe12461943dace5bfb915200b72f836f" data-requires-python="&gt;=3.7" >snk-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/81/d54c0fc16d50a8ba1f8f8cc00b72275cea790c1ed7e2b3ad15787e7430f8/snk-0.1.0-py3-none-any.whl#sha256=306be8d4a1940307404cbb7abb87362965f5c3f7116938bee2a4f5ebdcad0950" data-requires-python="&gt;=3.7" >snk-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/06/9c6445918d4f28e7898fd061fe947ee130abd13a3b62d57774c002bfda54/snk-0.1.0.tar.gz#sha256=505293b59ace49fbf84bb4de5cb6eeb89c6f85b72015e801db1219bd180c0b13" data-requires-python="&gt;=3.7" >snk-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/fd/ecbe64ea0b7440ec868a246320bd2e3195aa3e6a7893dfe026b5e09e9661/snk-0.1.1-py3-none-any.whl#sha256=7f262ef457b92f99d7c3ad1c75e7aab58779983cf11b79469ffaa94e3fbbe914" data-requires-python="&gt;=3.7" >snk-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/2a/5035268be72daf6ce51f1541f14be46eff94315338007ad7a01f5f987794/snk-0.1.1.tar.gz#sha256=7135409882b34b410ef37f1ede2d91c9788944bd2480d93dc8b13e47e350ebb4" data-requires-python="&gt;=3.7" >snk-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/86/33e53e1d4040abc67d86d67db5754b0d21302159c6dbcff9ea8af370319b/snk-0.1.2-py3-none-any.whl#sha256=cc2065738def45d5e072b30936385a23ec58eb3e1b53809c39d0dd22cd915315" data-requires-python="&gt;=3.7" >snk-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/a0/2608e66021ef2e453aaf027c233612d8be20ef9b19fe089e39270c32e418/snk-0.1.2.tar.gz#sha256=0f59fe894e5d23d1fd38eeae637922d6e5d3e60e8ae27037a41407b782e94d7c" data-requires-python="&gt;=3.7" >snk-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/89/409500ffe957a111c7c58fffcd5611861246a371ad5451269a13ddd4ec59/snk-0.1.3-py3-none-any.whl#sha256=0796eb3efa3b899dadc99ddd9394248a9cfe55f4a689d7e75d38005161f0a68a" data-requires-python="&gt;=3.7" >snk-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/c2/506c22291e4decb41d591e3b38392d55b3d0095e0d733509247798bfb10b/snk-0.1.3.tar.gz#sha256=49bce3786cdc684123087b2f8c24c90fe056cfc9ed57dce83f0b9656958ec6e8" data-requires-python="&gt;=3.7" >snk-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/6d/2bb1a6b6481910486539efb5c19a55c952337bc0e9982870ece6f95012b1/snk-0.2.0-py3-none-any.whl#sha256=93dbe2b10043fb3d1ccefb8f95f238aa1d1b3fa8af6994e199ea2bc2d8f9c330" data-requires-python="&gt;=3.7" >snk-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/65/ef19f8ee46add4dd2b288803d5f2968e1aadebbd4e71409add1e9880533d/snk-0.2.0.tar.gz#sha256=fcf5fa1659cac77513743bd2e0256092b70d6df4b58a92bea3ff7eb92b94ba5f" data-requires-python="&gt;=3.7" >snk-0.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16371489-->
+<!--SERIAL 16495015-->

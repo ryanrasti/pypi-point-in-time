@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for vegafusion</title>
   </head>
   <body>
@@ -43,6 +43,18 @@
     <a href="https://files.pythonhosted.org/packages/35/fd/5b75497e4049c56ac924395e9e4b64e94ddc7fc05fb619a1405491febac1/vegafusion-0.11.0rc12.tar.gz#sha256=6f033cfaea48fe1df5bdbab64d2119d37892adbbf8c43b0b2375bfbd57413147" data-requires-python="&gt;=3.7" >vegafusion-0.11.0rc12.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/f8/27d4abc43a53e3a69e053e27a7aad18408de531949c1ee9ae1652d4e2aa2/vegafusion-1.0.0rc1-py3-none-any.whl#sha256=a74cd7b86d3756fb5f6ace32641d4717fc059a6ad903ec757638694d8294f021" data-requires-python="&gt;=3.7" >vegafusion-1.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/53/f8/044c3b96ed1a378aceedbec08a828ab78cd7d15f841b2716bc755c936e0a/vegafusion-1.0.0rc1.tar.gz#sha256=873c955a1f4189689820884ebbc74164466eb08ebb1d5e5ac6ea5311c33e71e0" data-requires-python="&gt;=3.7" >vegafusion-1.0.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/0a/89dcfe8b638a6e564c15238ab965f6d086b40d2dc19ef87c663755caa579/vegafusion-1.0.0rc2-py3-none-any.whl#sha256=b7142d2bf1111fa2ebe3398c92b0ce9506a66cd2c0ba0f6525655eff837e69e9" data-requires-python="&gt;=3.7" >vegafusion-1.0.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/ce/8f06f5fea6d00b395a76f3587ed8d322c24141136110386930a1a80b3260/vegafusion-1.0.0rc2.tar.gz#sha256=91bbf4b89ee76d693f1fc767e2037562489f1dde5110239e8045c7a32889d973" data-requires-python="&gt;=3.7" >vegafusion-1.0.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/9d/d8d61de7567f4f6072149e7c810bf845dfdc18600294abd4c25e098df401/vegafusion-1.0.0rc3-py3-none-any.whl#sha256=6bac7863c1618c655051ed82e0ec16211c854f76f8197182c4f1dbcdd6ef0367" data-requires-python="&gt;=3.7" >vegafusion-1.0.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/2f/dfcfe2f2a9da340b9e09395d1fd870e8f87948aea9c17028f2dd7ff05831/vegafusion-1.0.0rc3.tar.gz#sha256=db7acd05cfa7612c041ecf8ef9c9a481308bae657a7eceabea19914408f53219" data-requires-python="&gt;=3.7" >vegafusion-1.0.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/38/9e79cf03604080eee6f1e4d058cae1bf930184a5176fb5b90ac622976801/vegafusion-1.0.0-py3-none-any.whl#sha256=a9738f81a42a88d1b58af071d9684e89672460dcf5b3a68f0b5a8de86841065d" data-requires-python="&gt;=3.7" >vegafusion-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/f7/efde22dc848c6eb522b08fb204f21fcb12d4e26ff3a1d0d22b4aab3dbbf8/vegafusion-1.0.0.tar.gz#sha256=15cb4d0f35271782cdc50a1fb3521754d1c730e1982dcc3bedd6966a3ce5594d" data-requires-python="&gt;=3.7" >vegafusion-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/7c/c26cfdb2f794c8aa93de14682be814c8e79b5b8942d652edf895021cff5c/vegafusion-1.0.1-py3-none-any.whl#sha256=62421c6fa96c052a485420995977ab79d104514d914e07ad814ce94cad1542a5" data-requires-python="&gt;=3.7" >vegafusion-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/b7/400a1bf13c4f71323b52c80d472e789ff9c22aa9a11016681c8ec5c14a64/vegafusion-1.0.1.tar.gz#sha256=f81c50a610b5352f390bd4ef64ccd87d5a71d995968b552671a8c19017ca32e4" data-requires-python="&gt;=3.7" >vegafusion-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/9f/cf2126660ca4008b18ec04c9da2a238b2ff766c355642832bc5254caedeb/vegafusion-1.0.2-py3-none-any.whl#sha256=e12c39bb3f97e1aa1dca03e3f5c509cbe4522f44607b5514c48d405385d1d4de" data-requires-python="&gt;=3.7" >vegafusion-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/03/794a60d6fe5165daae58d7dd29afd480532aee08cd09f34b8ebf549205f3/vegafusion-1.0.2.tar.gz#sha256=4ddfb2f82e55a82093d41aaa5b787d94bec470b14bb063a7e9136082f8c303ee" data-requires-python="&gt;=3.7" >vegafusion-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/c7/04940b4f4cfa667d574be4ea86b13150949b7c4e9edf85af2f63cb65391c/vegafusion-1.0.3-py3-none-any.whl#sha256=853972ae7ca14d5fa18dd5a0ce2e864d8eaf2ffb6bf479af977f83df63bfa901" data-requires-python="&gt;=3.7" >vegafusion-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/4e/5b01a6452c6c4a1229e94cbbe701fa548b7f0aa3283eed2e81ca4db7d8c6/vegafusion-1.0.3.tar.gz#sha256=617261a44b81484fb87f997d69d04efc1bdafbcc58702552cea7e04c0fc2bc46" data-requires-python="&gt;=3.7" >vegafusion-1.0.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16428393-->
+<!--SERIAL 16624619-->

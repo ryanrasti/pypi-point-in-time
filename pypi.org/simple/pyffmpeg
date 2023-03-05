@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyffmpeg</title>
   </head>
   <body>
@@ -537,6 +537,22 @@
     <a href="https://files.pythonhosted.org/packages/be/a5/207f25dc36b179f8d7674a59107b022c621a0412b2eeb4ebdc166fa97141/pyffmpeg-2.4.2.13-py3-none-win32.whl#sha256=4903dcb9f8696de4066b67f93cb8ce7f16b5378c156b510e4741b286e104d39b" >pyffmpeg-2.4.2.13-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/8e/edd8fca88e970f79cd482b0860ae1f4b92c56192b5768a7deeb45ce389ef/pyffmpeg-2.4.2.13-py3-none-win_amd64.whl#sha256=503986fcd54852e9556285c655f87e6f0b687d211dc797057544bd8f64747c7d" >pyffmpeg-2.4.2.13-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/8b/3f90442814ed462c79d7659c356925fab6ae010c8cdc00b2931e7eb74843/pyffmpeg-2.4.2.13.tar.gz#sha256=8e31752cc134877b1fcae6584b68b2c14f1fc941c686edc7a5414b8115d9453a" >pyffmpeg-2.4.2.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/7a/4738b985f69feb03f1a60f0f0497753d1ec1e0fba31704594ee7296b78be/pyffmpeg-2.4.2.14-py3-none-macosx_10_9_universal2.whl#sha256=25787c98fd971dc620f17e948de4c9d7863a46040fb07e5601048c7a2652040c" >pyffmpeg-2.4.2.14-py3-none-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/80/ac38f318a7d05a05dd26894fc5ac840809dce141a8b902060d651ebe4c5e/pyffmpeg-2.4.2.14-py3-none-macosx_10_9_x86_64.whl#sha256=8fb598b76f05bf485ccfd83607880342d15e2a58909d2ea905acf93549ae324f" >pyffmpeg-2.4.2.14-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/8b/7625e9c72d6bb4b2c53ed41099a9887b3632c60f1c384540d9591d555904/pyffmpeg-2.4.2.14-py3-none-macosx_11_0_arm64.whl#sha256=e47a607f877ebda22589854320074291e5e30b9ed654467bb0650102b3939c85" >pyffmpeg-2.4.2.14-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/59/ccc17bec815b483c4d8af4dd0c1c28502a22e00988f319fe444ba52d63bd/pyffmpeg-2.4.2.14-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=9904e2ccaf68fd8a5c6cea0142e23e1d4eaa215bbf2b7eef09186b37261e5322" >pyffmpeg-2.4.2.14-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/78/54f49fe4353198ab124f6502618e22374ea0e17994823034a2d858e8679c/pyffmpeg-2.4.2.14-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ae155baa1917247c93437c4fd015669f4c573d6abfe84318f4b42d18f814be94" >pyffmpeg-2.4.2.14-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/6e/fac28785641abb1431718be4040531d0c3b4f2c5fa309d66f367c910e5b6/pyffmpeg-2.4.2.14-py3-none-win32.whl#sha256=e9d96246f21b8074fa1619aee016f537bd0d475fc0db161682202a6bfe893868" >pyffmpeg-2.4.2.14-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/c6/f979fb590a145764f29d151a4ec085c37257efef5003e365429ed5c2e1d5/pyffmpeg-2.4.2.14-py3-none-win_amd64.whl#sha256=bf737c592607235d84d7a9d983bfa013df2a7b44ec1cec17d489e7a6e632fa6d" >pyffmpeg-2.4.2.14-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/2b/524fcb4e3bf7d3e7c4c563813ba4de38cec608a7cb14169b4428b96ec9c2/pyffmpeg-2.4.2.14.tar.gz#sha256=dee5d33b3c0d3b557155ad710db91437a38080d2932b6cf85015eb36c73ce70c" >pyffmpeg-2.4.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/40/cf5ccffb0d47d4352431b278c3f2cf090c9086a8cd6b3621258fadab04fd/pyffmpeg-2.4.2.15-py3-none-macosx_10_9_universal2.whl#sha256=05891604811b4a3f26c3f5f738fa8721b29da31aa0af6eba9f3dccea76b0adbe" >pyffmpeg-2.4.2.15-py3-none-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/14/9285b024cbc0b0b7066b21ebe46f2f757620df1ff023d2fa5f4d3c5f4b8f/pyffmpeg-2.4.2.15-py3-none-macosx_10_9_x86_64.whl#sha256=0f0bf519b0cc6ee2196dde5d5eb92d8dbac43fa84cf92ed404f2103e4daa747f" >pyffmpeg-2.4.2.15-py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/d8/655350931f44cb42a131be0f43ed1386cba092faae568818a765da9290e9/pyffmpeg-2.4.2.15-py3-none-macosx_11_0_arm64.whl#sha256=1b5fbf518cc1165411bdcb441c43565089a61319ed835322b4fa4b9dc569d533" >pyffmpeg-2.4.2.15-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/99/9dd265e04d9ec500f773ed3e54d157aaae025cb11d3652f07fcae663a5a8/pyffmpeg-2.4.2.15-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=33bc53d10b8368b656da831b6b3073e394e32a9360bb202c10a880a387c541a4" >pyffmpeg-2.4.2.15-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/f8/720724c921881e6a070ae94e118f9376210eb453aa7d0797ed58872f1518/pyffmpeg-2.4.2.15-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=511bde318c43b54547960b678c6347eb4578df62a346873896dec13a2c7ba42f" >pyffmpeg-2.4.2.15-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/95/f8fb054487ab5571a4d8477e7dbfff68a958f44243d0c7bc8235c652b5ba/pyffmpeg-2.4.2.15-py3-none-win32.whl#sha256=5c89c4ebd20cac22df55019631bf4cfe6d036074b49a895a74dd9da2bf09e536" >pyffmpeg-2.4.2.15-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/e7/fc90c73b6c5069fdf22b22ea5fb35049f3df70ebeefa01ccba2a69852e7c/pyffmpeg-2.4.2.15-py3-none-win_amd64.whl#sha256=21b980503c2f1bce784334142784bb700dc5863cb9c5a1128ebc1055c94893ab" >pyffmpeg-2.4.2.15-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/ae/80441a8d5e3ccf45c259628fe68e8292fa1ef24c29658ef63257b5639745/pyffmpeg-2.4.2.15.tar.gz#sha256=fb4978bca3fdd7d225549268217dea9e1b9d19f1cb75cfc5dda7d8d13acddb6a" >pyffmpeg-2.4.2.15.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15983539-->
+<!--SERIAL 16794132-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ozcore</title>
   </head>
   <body>
@@ -22,6 +22,16 @@
     <a href="https://files.pythonhosted.org/packages/55/8c/82aef88beceffb7293413be01a3c024a4dc756fc7cdc28908649ac1b8474/ozcore-1.1.10.tar.gz#sha256=8011e22aa791552a15cf41b1ca987e92b525ede038c05daabdb225fc1841728a" data-requires-python="&gt;=3.8,&lt;4.0" >ozcore-1.1.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/14/ac/346bd5ca49c623b009a18b787be54d670e9328016559ee5a6fda770530d2/ozcore-1.1.11-py3-none-any.whl#sha256=b097b964836834feadf661e4b1d5bf84083e1a72dbfdf3838df07d2d0c9edb55" data-requires-python="&gt;=3.8,&lt;4.0" >ozcore-1.1.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/8f/1f0256451e76a77c8ac5bdeca9235da552163e17f5324d592ec538334d36/ozcore-1.1.11.tar.gz#sha256=c6fe79700167583e0f1e9501ed6f8b08d5541019daac8287f335433a4091ec03" data-requires-python="&gt;=3.8,&lt;4.0" >ozcore-1.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/7a/497f253989e9a7109289609332d1632c8c062c641ce9b6d107d19e2c58b2/ozcore-1.1.12-py3-none-any.whl#sha256=7095bef955e59d236c6e00cc3d1e3beda90cbd7257bc4e0d2737eed9485f49fd" data-requires-python="&gt;=3.8,&lt;4.0" >ozcore-1.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/4c/5dbf8c169de6d55cede1a893cce3b7b717e75698674286cca0e9c457ed1d/ozcore-1.1.12.tar.gz#sha256=e34f08017a5356f841899658b914257abc1b8e87381a7a9d81fb123e2aa313a8" data-requires-python="&gt;=3.8,&lt;4.0" >ozcore-1.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/43/fe3155cca44fd4a4e25c644504159e8e15a9d38902304f9795a8e15cbd90/ozcore-1.1.13-py3-none-any.whl#sha256=774be09f450035518e912591b46ee36a2fdbe672e87560b91647795979d2e53b" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-1.1.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/a4/624d4c41f58cbc3664cec7e8c3c4ebb56c03a95f35392e2c7db27b164962/ozcore-1.1.13.tar.gz#sha256=ed4c3ce467c09c787a7154d30290fb4f40f8e9702aff3d010581cbedf00f832c" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-1.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/11/407848c133a252dfd301cdc153bbbe6bb54297c342bc0f11992468d86b9a/ozcore-1.1.14-py3-none-any.whl#sha256=428f858c62493d520d4d3d39bdda178e84a762ee79ce6d2555212a6cb41008de" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-1.1.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/72/e4a5b1c2fff8e519fc5b33f8d2bc86f58563ad89205c497ca5977d3cfccd/ozcore-1.1.14.tar.gz#sha256=26d903ac935f2d09df1243e951b7edce7bcd8411a63b25c10cac90e7e937a702" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-1.1.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/0f/fea9623824f7ddd9fcf01e930dfc2485fcd93fc3dfd64f128b37b49c205c/ozcore-1.1.15-py3-none-any.whl#sha256=1d70a06e064f715755917cf08bcf029f609f32dabd37f7a5300c9ad0aa3268d2" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-1.1.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/c2/631c7f0bb198c7aa3d159a48cd8b4929befdfcb7b75f52654c9c2103da7e/ozcore-1.1.15.tar.gz#sha256=ab161f723e4ab6dd1432baf23fe3c69c6bb905c33bb8b33452f154709610e57f" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-1.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/4e/075dc10457ddeee3363a692f94c37c24ba22080caa368d659eb07ccc86f7/ozcore-2.0.1-py3-none-any.whl#sha256=3f73d2a2dc16261f48a88899b11682d49814205cf9f4c00e03c8c1d0bbbf461c" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/9a/99addf2406b348e00d1a3f2d8d50dc40823a29e04e2a8f16f0b1dd47d061/ozcore-2.0.1.tar.gz#sha256=175fa8cb76ea65d1ef5e42a9e73f5992b1ac3b55281f880ef14bed471d59b45f" data-requires-python="&gt;=3.9,&lt;4.0" >ozcore-2.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 9987542-->
+<!--SERIAL 16774576-->

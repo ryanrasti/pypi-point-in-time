@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-identitystore</title>
   </head>
   <body>
@@ -32,6 +32,20 @@
     <a href="https://files.pythonhosted.org/packages/b3/6c/75c4a8f24ec54fc8b8db608c371baa066f366c9c89a0930d34bfb550d6d7/aws_cdk.aws_identitystore-1.187.0-py3-none-any.whl#sha256=dc2c31a81cc8b2a37db326b7cf5e52c8f501320fb797f8fdec9fb97c92b147c9" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/15/217e8e3b565fc37db50b1a15f26c899af7ee05f4b3638104c6a9d347474f/aws-cdk.aws-identitystore-1.188.0.tar.gz#sha256=3fc205f8c8da1c13488fa7468669b7c29b59f9d6a59134a55db2e1a4c1a97111" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/6e/9b50271704b7c426eec1fa654267525db20d03c83a77fb00546890a20ed4/aws_cdk.aws_identitystore-1.188.0-py3-none-any.whl#sha256=48a28b9e4c6153ce0355f146efd6ad41bded31862578cf4eebe21efd20098b01" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/e8/5f4c834b8cc5034fa30c17a6c6f2f89dbb1bf80fb0be5a4500aa788c28eb/aws-cdk.aws-identitystore-1.189.0.tar.gz#sha256=20130b6f2ccf686dbd95b918f8c45da4129119cc8dc21ecc2c8f82fe757af56c" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/10/f5a0de72223edf57b2fb2a68ac6fc5bf0efcc0a1839b4d9e408974bcc055/aws_cdk.aws_identitystore-1.189.0-py3-none-any.whl#sha256=7dfc9e6c92bee66f9a3bbb6d57bf4cd4f797272361874ff21c27d9e86c990639" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/74/086d5c1293e4eaa23ff60040fb0e640ee0949dbac17a1b17cc754ebbd9f2/aws-cdk.aws-identitystore-1.190.0.tar.gz#sha256=3c1680e5fa3e5614a3af2bfac21093721d80de63fba2cef1cf8258adf334b1b4" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/0b/b869f7d6b71a8c24fd53d9ed6a21d3a84069414929911b4414d630029744/aws_cdk.aws_identitystore-1.190.0-py3-none-any.whl#sha256=a6bbf0134cf6a63b87f1df5bf654df507a80e936ac7305bccd16b05bbae84d50" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/dc/f59a552958ade13d7adb193a10b623456fc3558b77fb244e8b7351af4d8f/aws-cdk.aws-identitystore-1.191.0.tar.gz#sha256=0631e5f88990583912eca1adb8a29193be00f9e8e726822ddb47964ac9119f7a" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/4f/fc0deaa46e50ed616783f8c0b0325cbb7cf4e8dfc50045301fc83a62293a/aws_cdk.aws_identitystore-1.191.0-py3-none-any.whl#sha256=f4878d4279851ae8cbc3ec645d67be1ae2c2ef94d21431da6c8b567c3277108c" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/da/34dc716f1409da9a66cb82de658e52d54132e997647e5f4b54f8a682b158/aws-cdk.aws-identitystore-1.192.0.tar.gz#sha256=269673c81c07f2e3fb1efd001295121d714c537e835518bf482d6a7e26bb3285" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/da/1d9a017d3465e4e57dc2e477135e148c34fcc65fe6d73c2bba082f6373fc/aws_cdk.aws_identitystore-1.192.0-py3-none-any.whl#sha256=c287a9d732142ef46a7ee7d91a7d4d33a1271cdb82561333c2f1d73ed6216aab" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/99/6d27831b71b4d4e4ac10fb90fe456062b545c605a07681b998480341e512/aws-cdk.aws-identitystore-1.193.0.tar.gz#sha256=8d2ba79d2fda835b49689f67eb177c4110bcc4848df222c91c1cfcdb3f515b3e" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/57/afaa7df9fc143f1a7fe27403a83571b090870fd000838bc9bc09fe8d1f60/aws_cdk.aws_identitystore-1.193.0-py3-none-any.whl#sha256=d5897aaba100ee25cd508a425bc2b29d7e8f7cbf2581b869d7b4151b083125c6" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/e7/6217e4fb24e248aeb8d669823b4609e0022190e5019bc1db81d687abd06f/aws-cdk.aws-identitystore-1.194.0.tar.gz#sha256=a1cd5e694eb2053edac2fd8265c014ea861648e4a7cfa1e378a56ff2c321927e" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/05/8d0f08bb5ee9f1580dd6df8a1ef8ffbf795563765236b52db3a87c684ac7/aws_cdk.aws_identitystore-1.194.0-py3-none-any.whl#sha256=6c4de7551cac720cee593728b8857a5422015a5f8ea72a37effb4bedd7096997" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/75/0f0ef1767814b9f61139edbe174ba0edeb06a24320812f0340e4147bbca7/aws-cdk.aws-identitystore-1.195.0.tar.gz#sha256=04817d0921226b75fa44d1a2c549f186b6cbc6b065b730bf67eb4f95db99c1a0" data-requires-python="~=3.7" >aws-cdk.aws-identitystore-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/c5/6b90278b4f7b0ca83947e0de7be35f98d164f722caf3998ab6bc637297b2/aws_cdk.aws_identitystore-1.195.0-py3-none-any.whl#sha256=9c0bb958dc80e79aaf096551800e59ca5535656ea6d8cd79ff1739fcbe0673d1" data-requires-python="~=3.7" >aws_cdk.aws_identitystore-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393382-->
+<!--SERIAL 17131911-->

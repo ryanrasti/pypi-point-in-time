@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for spiderx</title>
   </head>
   <body>
@@ -28,18 +28,12 @@
     <a href="https://files.pythonhosted.org/packages/0a/38/bdc5166668af43c8d8fb12955ee54797392b7e8d7c1bc7aa8180d6cf526b/spiderx-1.8.2.tar.gz#sha256=fb6cb30ed430ebc308613bfee3d365dcc6833f31c33a7582d67dbdc886f69a20" data-requires-python="&gt;=3.6" >spiderx-1.8.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c0/fb/92a7677f6e5bd88537f3a8c3c88ea5fc3d4aee8da411de3b3262098dac71/spiderx-1.8.9-py3-none-any.whl#sha256=9d7db5faa04133ad923d62d9a84719cdc9d8a601d992797bb7d5d48ec403520d" data-requires-python="&gt;=3.6" >spiderx-1.8.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/89/1b/9167dbeeaa50aa50ace655fad0bdde6e911624db12636d31909324747f8a/spiderx-1.8.9.tar.gz#sha256=5d88520d365eac9353ffa344d7be84fafc083b25bd2c6f0f5d9bf048e663a823" data-requires-python="&gt;=3.6" >spiderx-1.8.9.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/22/56/a6d8ee58793d7035cc678e69526f0fed8f1e484e0125324f001566bb0fbc/spiderx-1.9.1-py3-none-any.whl#sha256=add75c24eeec76831a764acf98270eb628eb60bc4f77a74ebd9543c66d7d627c" data-requires-python="&gt;=3.6" >spiderx-1.9.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/f6/30/ca09f14759471c25afd05fea9c5a5f85310961f319d817014fa3238dd989/spiderx-1.9.1.tar.gz#sha256=01260ac60b26b91eed636c3542e22f3c73cf998891e26e3d542096e362637fd3" data-requires-python="&gt;=3.6" >spiderx-1.9.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/3e/1b/c06615caac6c2cf39d63e7af4c6b121ef74966e9e0ef04611cfca3c49ba3/spiderx-1.9.3-py3-none-any.whl#sha256=58fb6fe008c23690954aa8b40698dd5ce63f69bc52f4863326f97565e25278ec" data-requires-python="&gt;=3.6" >spiderx-1.9.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/28/37/f6296551b71595d50aabfb84301fb05d80d4eb76a5a9553a7640e452e953/spiderx-1.9.3.tar.gz#sha256=339aa5f2843101b75d822928d239512dc5392d01703c1722174878e507e2f773" data-requires-python="&gt;=3.6" >spiderx-1.9.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/42/4e/9f5a7fb558eaeda87975179aa533d4caa03822c5dc370ce2610b27eff0c0/spiderx-1.9.4-py3-none-any.whl#sha256=4c22de21b92ffb18947787366ee0fa930fff9edc790550f0b41e49f21bc32ab1" data-requires-python="&gt;=3.6" >spiderx-1.9.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e3/f3/a03527834c9de6d888c463a7950cd8c07f134aeebaea95cd714e44aefd10/spiderx-1.9.4.tar.gz#sha256=074ab45223ad48178dbaf458a2812e9ac4266bcba0e16435c9b27d60de15a242" data-requires-python="&gt;=3.6" >spiderx-1.9.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ea/00/7a3853674e92966dad7ed6de4c893bc6bb1d478dd4b7386febae13f4cd2d/spiderx-1.9.5-py3-none-any.whl#sha256=672d53e924dc2bbe9b52ed003859d67dd3b667a80cb1fa7ff28b6835d0858b53" data-requires-python="&gt;=3.6" >spiderx-1.9.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/0c/0e/453381604f46ec30c1b781ce8b57d2a7f9f003795ac3b202764dcb8accf5/spiderx-1.9.5.tar.gz#sha256=a52d8b31bc9f898633100d53cef008e71a0e0900cb6199180ba3161b194aa7c5" data-requires-python="&gt;=3.6" >spiderx-1.9.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/c6/84/29844a54ff8aa27646aac9b4b3a0d558449001a5d2cf93f2eec5f27a9600/spiderx-1.9.6-py3-none-any.whl#sha256=3ac5d33a53e2bd47377c82668342e3a99aa2055f4245b0c0cb4ddca6c5731044" data-requires-python="&gt;=3.6" >spiderx-1.9.6-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/26/41/ce78f66dd3f94a60ad7e0966142c4f9a3b7df8bfe3973b33d85364e665b4/spiderx-1.9.6.tar.gz#sha256=92c16527112100a3c52210bb2cf1e4eb7e2de62f112dd1333455da40d5972e87" data-requires-python="&gt;=3.6" >spiderx-1.9.6.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/e2/ea/582b92041c162fdf90a7edbd048e47d35c0a38c7e1eef182ea23ed5a8a2c/spiderx-1.9.7-py3-none-any.whl#sha256=fcc3d5217e13ea2608326bc85d99c0f1d1ec33cd7cc6b4875a6ab4cc4dc97e86" data-requires-python="&gt;=3.6" >spiderx-1.9.7-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/1c/c9/40f9f3c76154e015b5e599b4aef5d23a5d1a2af02f18e42da6195894b463/spiderx-1.9.7.tar.gz#sha256=c8156a4ad394d3587536acc73dc22b1edd662434179c749acc681f49a5c99b9f" data-requires-python="&gt;=3.6" >spiderx-1.9.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/f5/ab7b87bfac37bb0d08f393d71184448e3a2d6e6ff81880d996ca7058ea7c/spiderx-1.10.11-py3-none-any.whl#sha256=879a330d1df3e63f10d20203de2a03b70b8c9193fbb328feae532ccf583d3494" data-requires-python="&gt;=3.6" >spiderx-1.10.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/35/2382ea2a545b148e44f6f12bfaef550bb34e4345899c4cb2544f79cb5940/spiderx-1.10.11.tar.gz#sha256=2738e775f646251c4f776603a6be2b041277e545fa0f6aa57e9c29534464e2a3" data-requires-python="&gt;=3.6" >spiderx-1.10.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/d4/bef02fd2ab998e09688f24258429b1965cd966fdd07bf6143ab5aaf9421a/spiderx-1.10.13-py3-none-any.whl#sha256=95fc3b90deb253f45d3ed8dde54cf1d01e37a9b5935d1e60d1c74855979de2ce" data-requires-python="&gt;=3.6" >spiderx-1.10.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/f1/fb04f118613be9438993b2ad16210849aee4303875fb8df37cd7220b87fb/spiderx-1.10.13.tar.gz#sha256=c8dbf453ae7ea7450955e74c29bfbe8c0d3269f02f6bd750b2a6b1a0845c5351" data-requires-python="&gt;=3.6" >spiderx-1.10.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/dd/88e3508a911240f61b4e2c34ead70d4a70a186fdfb2c3f7937928ae14174/spiderx-1.10.14-py3-none-any.whl#sha256=62c21a057807b12cafb5f4b1f11d47e9f1431b7480f2b1269756b1251e47bc3b" data-requires-python="&gt;=3.6" >spiderx-1.10.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/23/97da5942d260eb3b43199a4770ac25dd0d586ef790d955ba0c1e72499681/spiderx-1.10.14.tar.gz#sha256=7b9d952ac7b853ec4b2a070e5351b9b7fd63f7fcc060743b15d240f0d5dc6c0b" data-requires-python="&gt;=3.6" >spiderx-1.10.14.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16204927-->
+<!--SERIAL 17061593-->

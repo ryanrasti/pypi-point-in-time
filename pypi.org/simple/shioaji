@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for shioaji</title>
   </head>
   <body>
@@ -1007,6 +1007,27 @@
     <a href="https://files.pythonhosted.org/packages/d9/f9/7145f09e3ff6438b0a989bdf7ca86f531966457c2b2b56a7a251ec4a0c8f/shioaji-1.0.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=2f0761bcbf1e20c6fb66edd06be6fa65a885ad8ef85c315495910441db7d3d50" >shioaji-1.0.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/29/7a8eb637d0e34ec5164793442fd1c5f91316483db230c3a8bc7ce380aaa3/shioaji-1.0.0-cp39-cp39-manylinux_2_24_x86_64.whl#sha256=d36c96779e2b54b6c573699e77c3760f91984bd458ba2cbead57dcedf7f9151d" >shioaji-1.0.0-cp39-cp39-manylinux_2_24_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/46/dd5dce6f6460ae3a7ccccbbe63da4f05fbec7c68352ea14230d477ea6630/shioaji-1.0.0-cp39-cp39-win_amd64.whl#sha256=9361fff3943ac35e6302a4ffc0762d278fd78ce0ea5b9e5b9f12c9f15ac23796" >shioaji-1.0.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/a6/ba8c98fad083124ab6e368e0c340ac630904591618decb598e0ac9119fb3/shioaji-1.1.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=3901ff2e6e228144ceda219ac68e9bea6e25eadcedab2a12c5ab15dde7e67c85" >shioaji-1.1.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/42/a5d8ee819b66b3c6ec44446f89d3f969117d507857a3109d575bcd6542ca/shioaji-1.1.0-cp310-cp310-manylinux_2_24_x86_64.whl#sha256=be1b00bd4aef09b83251431511c69b9107808ce643182b941aaffedcbe6b84b0" >shioaji-1.1.0-cp310-cp310-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/0a/f7811fb3aa8673970f92eb2691e08aa1ae0ad460f8e26d628c6e2ec356f4/shioaji-1.1.0-cp310-cp310-win_amd64.whl#sha256=36a2af50218ea6c83b7eae599c4c8f07dd3ebff6560317e93f035ed65651d892" >shioaji-1.1.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/b4/34cb3f4db0267ece6ec29e846d2d1416817a1b58f4d36e29186408dd14bc/shioaji-1.1.0-cp311-cp311-macosx_10_9_x86_64.whl#sha256=c1198c13fb77ca7dbf1ff8344a0fe4cb4d05c41968633bbf103c2f5e72fc141e" >shioaji-1.1.0-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/08/d1bddbaa1c2e561c93c3e681dd909d9d56168e0a9691540f8cba38ea1d3e/shioaji-1.1.0-cp311-cp311-manylinux_2_24_x86_64.whl#sha256=c625df4e27eeef09b000021edabf30a21a0e9725b3e558f1e773dcca24a907ba" >shioaji-1.1.0-cp311-cp311-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/c6/474d6f6cdaf47c31bbb36af847c9d35958b4c70f794979a27da660184100/shioaji-1.1.0-cp311-cp311-win_amd64.whl#sha256=9c8e38cfc76d616e0d158951ded2f5b28d9eeaa093b4e11d63ba0d9df7eb5165" >shioaji-1.1.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/7f/16e37169935228e20a4614a5dd1074b49b3e370d4d77c2ce1e7e83ad6e3c/shioaji-1.1.0-cp36-cp36m-macosx_10_9_x86_64.whl#sha256=92f8f2466730a241cf1bc19418ef9bfdcf3413ffc490d1729279b406da749f1b" >shioaji-1.1.0-cp36-cp36m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/8a/9d8a23a0ade8de63c6c76f3845f846c912215666d8f9b00c3b21bc88b40a/shioaji-1.1.0-cp36-cp36m-manylinux1_x86_64.whl#sha256=17d8a7155971814362fe5d816e09ccd238fda232ef3b1a6a2a1595d30b524797" >shioaji-1.1.0-cp36-cp36m-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/28/0767f81c0865b65ae7e5606bd1da2a0788eb1ebd09c8e36ea1aa8dddefd4/shioaji-1.1.0-cp36-cp36m-manylinux_2_24_x86_64.whl#sha256=f2a4f1b64c4c07a6e0855fb13b9e015e24494e667465d220af7a118e95252c4d" >shioaji-1.1.0-cp36-cp36m-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/3e/2399e0a6c20398a8fd9c00d562d81431f2126a9622a451982c6b60ba7dd7/shioaji-1.1.0-cp36-cp36m-win_amd64.whl#sha256=6acb80ac9bf67e2ec7763627e3d5a66863406210eee489991b8e23598bab039b" >shioaji-1.1.0-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/29/6e129ab85a90f280e7ba0744b38bbf46c1936af8dce23c6fe90a0f9456d8/shioaji-1.1.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=de73a9e3e77c56d3b31074446c7ec5d2e3618b090d2a1a0cfe6f8188b071f2ce" >shioaji-1.1.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/46/db8490defb3b0df92bf4421df438375258b2b81e9602d9c01408d6da5d98/shioaji-1.1.0-cp37-cp37m-manylinux1_x86_64.whl#sha256=ea705c65a7fd139c22b98e19fb3dde4564738cab64872f2d125e3c72df0bdac4" >shioaji-1.1.0-cp37-cp37m-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/2c/5e9f874bd9ab89b6d26b41dbed6efcf50de809c797d3a640ea2000123722/shioaji-1.1.0-cp37-cp37m-manylinux_2_24_x86_64.whl#sha256=eecbf35f8862ae82395588e8b9f5def78fb2f49c63d531351a29afcd9b4311da" >shioaji-1.1.0-cp37-cp37m-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/8d/1ba268d85efd7ea6d13aac397472dfb447551485520faeace491e7ab6a1f/shioaji-1.1.0-cp37-cp37m-win_amd64.whl#sha256=f207f3f7209f7704db244619f01761ee9967989c5e092fa5a578a1b2c8769287" >shioaji-1.1.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/f6/f10625b886fe671d03323ffb0ba4afbc893728010abd1263141d830c582d/shioaji-1.1.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=32fb3b64c7b1954de111125d694aa5317c28e6b5b76038e55d997307f8822d42" >shioaji-1.1.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/af/7f383576c4aa7bc757c97b98020c07751631679c1e4abbd83896dfa4c244/shioaji-1.1.0-cp38-cp38-manylinux1_x86_64.whl#sha256=3575b8f2030638cabda45f6f52476e70d404d0afceafceaa40dfe181fe0c80b5" >shioaji-1.1.0-cp38-cp38-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/3b/13b05cd9c578b999f9dd6c03550927c1819f1cc3c638b447475a88e4eaa7/shioaji-1.1.0-cp38-cp38-manylinux_2_24_x86_64.whl#sha256=c240c45d7d4cb8617b5be4a575c486adb004accee09b7d398ca0a678ca00ac02" >shioaji-1.1.0-cp38-cp38-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/69/2ad39991acca0576ef2f102bd9711b88daedec34c7085ed9fbaa29fefa49/shioaji-1.1.0-cp38-cp38-win_amd64.whl#sha256=3a132a8682072f758ab1d68b6d421da4a310c94b3770a8f0f07e3fff69f8937e" >shioaji-1.1.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/03/b6afe2cd5f2d23c9c399c8ab853348b74aa322565a2660b020e71351993a/shioaji-1.1.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=626f93f05ae7e230ab94516625b18b77afc168aa667fc19f108151a1e4d67d89" >shioaji-1.1.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/74/60e6ebb63b358c7c3d0c84d7f485352ed32142f4acc215c2ea36181f52ae/shioaji-1.1.0-cp39-cp39-manylinux_2_24_x86_64.whl#sha256=79fa23d2d7abccc88c9d25f9ff0c7f5fed1b31cf279d03e4c50848fcf9cb08da" >shioaji-1.1.0-cp39-cp39-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/91/f5f556b39acb05cd2744fe319b3f352768d285bd659fb0a83c6e8d46cbb2/shioaji-1.1.0-cp39-cp39-win_amd64.whl#sha256=c5ed9d84bd8cb4ebfab39fbb0a86ca487b856755232dc8f643f9f8301231b1b9" >shioaji-1.1.0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16313309-->
+<!--SERIAL 16884220-->

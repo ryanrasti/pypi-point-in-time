@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for disdrodb</title>
   </head>
   <body>
@@ -30,6 +30,16 @@
     <a href="https://files.pythonhosted.org/packages/1e/f6/8d21f851868f753ba1e709f4c135dea5cce8525fb1d73eb35255d61cf8b7/disdrodb-0.0.11.tar.gz#sha256=f1cdcf6f9eb8e71818a77f0028d4858283a1227f37799c44f738a5d07aa537ae" >disdrodb-0.0.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/00/a3/bc3ec51ee4d783fc9c8cc840d02747373b150455efa7e21c0c00f1d63e5f/disdrodb-0.0.12-py3-none-any.whl#sha256=761bbca390d5e1e8aa9defb50b7312df20a5241eec39a082e660434d0055faf6" >disdrodb-0.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/3d/afe55075340fd6bb7e39c0861de6613f541efad3717a8015b0151edd531b/disdrodb-0.0.12.tar.gz#sha256=3cc3e663c7b25b43721334cbc1e1645bc5a04456a8469798de13aee70ffad869" >disdrodb-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/14/5a81119b4e7d3b9f503c584aca4010415415c9da092bdecc959663c68b42/disdrodb-0.0.13-py3-none-any.whl#sha256=1c4f3b82046c93c800360f4074bdb206d50d637b616af9f465fa0bc6e2a3fe98" >disdrodb-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/b9/71d85d15eb155cfe858dbed32260433747ba6fc145bfd764a4960164090f/disdrodb-0.0.13.tar.gz#sha256=cbace112c80bade1b1e83dbd0478497f0a0f5a779df9803d435c96a5c2113436" >disdrodb-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/e1/de78ab58d43553cc4e5236165fc1f8bd96bad69e7070c73fed35c710d85c/disdrodb-0.0.14.dev0-py3-none-any.whl#sha256=62603d140626b021799f06a320fc91af29d27d95cf5827fbe77d5eb20ccc4361" data-requires-python="&gt;=3.8" >disdrodb-0.0.14.dev0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/45/9844479684eec03d4a6edbfe6aba59d9757f03c74f2ed74e39354be69ee6/disdrodb-0.0.14.dev0.tar.gz#sha256=93129a05dcac6470be84d0bd807d35ed5a36bd66284e4d47a72f0820e394c2c9" data-requires-python="&gt;=3.8" >disdrodb-0.0.14.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/80/0cdd91c942f0a31b732dfa291f051fe876f6b573177a22bf890f740c41b0/disdrodb-0.0.14-py3-none-any.whl#sha256=77e1a83111e1d1bcefdd14957d7e317f5ffdf4c0fb13bc26fcd6c08e7e628917" data-requires-python="&gt;=3.8" >disdrodb-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/d1/8f2fc41e1bccc6146ae4e939e87f3bcb862bd2b1a0a9f6bf7b3d6042395a/disdrodb-0.0.14.tar.gz#sha256=f40143758b0117e64f18e9d9e1d49a87a6ac8893b6d5f416a4494b545d6838da" data-requires-python="&gt;=3.8" >disdrodb-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/50/7e1762d5b5afcef5b25e050643e29fc49c87bd05749649268ff6ed6e5ae2/disdrodb-0.0.15-py3-none-any.whl#sha256=ec6e487ad1466cfc29814724d92234a96bab2bd8067b13c549409e76505ac1cf" data-requires-python="&gt;=3.8" >disdrodb-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/38/3f181e811b0a584d6b9dee333881f1927212fe95ac42c29d1480f496908b/disdrodb-0.0.15.tar.gz#sha256=42200c04b71cddb4c2c6e4ae6316d6702269cdc260ad335d4bbb63e4cbb6dd72" data-requires-python="&gt;=3.8" >disdrodb-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/91/2df93340ad9c34360b5ec3c6326eb7db316e87b3c653377338105d338eba/disdrodb-0.0.16-py3-none-any.whl#sha256=86a6b5528ef0b72f927d7770ff35f5f51d06a43993b39cd623ab4b5ad43bda05" data-requires-python="&gt;=3.8" >disdrodb-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/e0/bda7f9e57c97834014cbcf4d6f46ff8cd6e3513959f4a05e5bf9d57bb2b6/disdrodb-0.0.16.tar.gz#sha256=abfdddd3cbe2229d0d1ed7c647a00132859694ed71a2872dd7fe22079ec97e75" data-requires-python="&gt;=3.8" >disdrodb-0.0.16.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15941961-->
+<!--SERIAL 17065925-->

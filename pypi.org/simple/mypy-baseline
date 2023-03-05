@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mypy-baseline</title>
   </head>
   <body>
@@ -22,6 +22,16 @@
     <a href="https://files.pythonhosted.org/packages/31/24/9f1b21e343577e5cd12ef49fb3602b67c626dae71396c34e1b0a07b735de/mypy_baseline-0.2.3.tar.gz#sha256=b8fd05d36b47a3f1802c5c5d3b2ac93f8dc3dd7f13121c80ad312337f5b01de7" data-requires-python="&gt;=3.8" >mypy_baseline-0.2.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/1a/847823d537d12023dfc866760efd1c15570d07bae4ded730e0976888f47f/mypy_baseline-0.3.0-py3-none-any.whl#sha256=39454fac5740f46a3c498bf7c8c42f3e952a094bed32b85d718ece23385ecac1" data-requires-python="&gt;=3.8" >mypy_baseline-0.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/07/c8a1575238142ef8c797ad88a6f5f95fa9070dd8dd8315bfdd5e67d434e5/mypy_baseline-0.3.0.tar.gz#sha256=02ec846ba0c870e35febf2c0662c56bbff9267d3804008822fb692c041f54082" data-requires-python="&gt;=3.8" >mypy_baseline-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/9d/24cf33a1f5b8c24cc7f8d3775acd8c0d474986ed6bdd744a6c50dc30cf9d/mypy_baseline-0.4.0-py3-none-any.whl#sha256=10298f909beebe6385ea918af0268313980f94306197362dbd3af057b55fce9f" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/ef/4dd8d494ef8c70405caf684cc2eb83b4b39461b5f7f02294f180886e7219/mypy_baseline-0.4.0.tar.gz#sha256=63ef1e3a1fdc1132bd8772ac016b356ab901f383ed8d85e565fece0957c32509" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/ed/14ea7cc6af27179f059ae883554b78f5bfbe0e938461bc0e2d6198e3678b/mypy_baseline-0.4.1-py3-none-any.whl#sha256=6fd4355ca7ee0b54b2cad1253a50507955208a5b1befa06cc1dbc3d7becb9dfb" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/a8/4b00adeb11d314f306795fc7a15e85bea74fdf401ed06ab30fb37dce3d62/mypy_baseline-0.4.1.tar.gz#sha256=884266c20275a7fcc9ed9b862e27b385558ff33dd235c5c950cfd6f8f8159949" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/05/0e327d2d4e5402f074274cadc2dbc9bb97dd1c6b4b9b2d7d3c1e68e838eb/mypy_baseline-0.4.2-py3-none-any.whl#sha256=32ca6d11dd0bc1953348c48ff23e6928d2b6e29cc4df52782a34bd7dd6bb9fcf" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/ae/6b1240cceff200e865ed7a108e38391eb0b521488def81b3d29a54d5bb24/mypy_baseline-0.4.2.tar.gz#sha256=1c110a0836165aa22dbd015908dfe5d1b94a714522555c946080543a2fc8336a" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/17/425c77abc1f461404c55ae32f53ca6e1baa4f748c128845d4126a329d300/mypy_baseline-0.4.3-py3-none-any.whl#sha256=f0bf4527f027f353554d686d9c44602e2f6ea170e7f5822a592ddef65e64be05" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/a2/77d48028a6ffd210a3fd97163ee97aad81bda02c5e47a9eb5bb2ab8f25cd/mypy_baseline-0.4.3.tar.gz#sha256=091a92ad5cc0ff91cc5fd878da5d8b28ff2b8f23521548079f0a34748f118645" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/8b/ef91cc8acd119c8c007c79b83d7bfcff1c0b805b2a1c610ff59b119ee190/mypy_baseline-0.4.4-py3-none-any.whl#sha256=af4990f1b9b6b78387dbadb482e4053fe0cbb95354e7a1d72776eedb34c4d221" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/1c/e5b78a87b6cdf12c1d6255316467d17d248d84531cea51b5d3921c8ff35d/mypy_baseline-0.4.4.tar.gz#sha256=17500a6cf1492d529959b3fe89c6aac4f9e15a4d936b32d7080914225ac67a4d" data-requires-python="&gt;=3.8" >mypy_baseline-0.4.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15663699-->
+<!--SERIAL 17141443-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flyteidl</title>
   </head>
   <body>
@@ -400,6 +400,8 @@
     <a href="https://files.pythonhosted.org/packages/34/72/37eb33fd3056ae57fc1a882735da9c496c8c7eec7db5987d7d56a8e2efd9/flyteidl-1.2.7.tar.gz#sha256=319d9e89da46a5194338157af36256ac944ae368089bdda1c77a0ff0d88664a0" data-yanked="buf migration is leaving this in an incomplete state." >flyteidl-1.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/53/18/010146afa6e9113893d726390537ff664ec4e9e429a66c7670990fd541a3/flyteidl-1.2.8-py3-none-any.whl#sha256=f74cb61aed20c5c1e53d9278f8287127f2c838ab104097e4b3eaf621e276714f" data-yanked="something with the buf migration" >flyteidl-1.2.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/80/0a89bb7de1865a81a9dcc8dd6729b77d7c1bb5bd19f9916bcdef9ab550c7/flyteidl-1.2.8.tar.gz#sha256=ca55c04321c544bb35f83a563d853d06fd0e43808936f897d7fff5e9e90c3f91" data-yanked="something with the buf migration" >flyteidl-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/11/99a13322e309d0db0276c787bf0aef810c2944c065656e32c3dd00435b41/flyteidl-1.2.9-py3-none-any.whl#sha256=5c522612bcc83299920da1c8be850b9af188b6e4373dfdceaea984039145ce80" >flyteidl-1.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/70/7cd152825c01b07740ad49aa7809e240d92775992a4a15272af296132ada/flyteidl-1.2.9.tar.gz#sha256=9d03230f0e7e346ed4b85aa535d491244f530c88b19fc5700be94eb334052f02" >flyteidl-1.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/a6/5bd13d17b71fc6daace6450a3c1648559cbeb16153146ee22d495ebda7fe/flyteidl-1.3.0-py3-none-any.whl#sha256=36688d4a93e2c40cb231b5eb42265532b1f82b84c138b83b3b6fa47aac78d85f" >flyteidl-1.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/a7/43b10ef8cc5554ed86888072a75c18962ee911b39515971c443864710ec6/flyteidl-1.3.0.tar.gz#sha256=6cbbecd649cfe26fed29e53a67331961a21192b126d908b0240a4bb37de7ce51" >flyteidl-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/6b/35f8ad01b61d5c90d5b547751efc6a08ecfa61810123766f51bbf784badd/flyteidl-1.3.1-py3-none-any.whl#sha256=b515dcd469a3b9914c9e2a97dee4356f5a9b486505eb7839916d6c6447a1b01e" >flyteidl-1.3.1-py3-none-any.whl</a><br />
@@ -408,10 +410,22 @@
     <a href="https://files.pythonhosted.org/packages/73/63/1f5ad8b56f7ac83f0d6681215e35a75257d4b78df1a77789db0f6e434b34/flyteidl-1.3.2.tar.gz#sha256=6ec1e87a95361afcb3b3e907d164b808141305c52669449e82e7fad940a25df9" >flyteidl-1.3.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ac/91/f30ab9218dc92f75cbc96a3fdcae41d361f6785200a0a505c13dce671aad/flyteidl-1.3.3-py3-none-any.whl#sha256=1d00e1a736352f6a53349ed86bfc9bd243a148d3a74d6b8d684e0b4316281cf2" >flyteidl-1.3.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/de/ab1a28afd481395af628859c6545a12245196d7bcd1e788c80a3744f17c5/flyteidl-1.3.3.tar.gz#sha256=957c3e6cdd9ea0987eab850f237a051f1b7069576e54a2b1f7d3b7686334ae33" >flyteidl-1.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/cc/b84e5b89761be0dc5cd9b0a2547216ab29d5cddfaed648db74d710531cc6/flyteidl-1.3.4-py3-none-any.whl#sha256=cb1538d9918ad8ce9dfae7c9cb75df00fe2e11b059c308fea45e4a816143a24a" >flyteidl-1.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/ca/99ecdbe3acfb8ff48e21024b6af45e8540c0100104f79ab65841aced6e52/flyteidl-1.3.4.tar.gz#sha256=5af042c79ef3b1dbd107bec6efd92dd1cadb82cfc3269bb0563e0b750593224b" >flyteidl-1.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/73/1431bebe54ff2fb47f299fa102e2bebb8e40a1ebc8be339d271f103c0253/flyteidl-1.3.5-py3-none-any.whl#sha256=44fb249a258922038889e6dc3c4b061803b36c16d0f6b271e68f8fba3f090afa" >flyteidl-1.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/27/f836b251dbdbb0e616d5e92073f15d238ccd4e753c43bf4c5d50f5d77573/flyteidl-1.3.5.tar.gz#sha256=1211663910c18f1f037a74281c73e539f9b38e8e15e537772da4f80b21293ff8" >flyteidl-1.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/73/b2f99fa72b7456c91a6648982714bdd8cf5a4c6c8bb8ff8219e806812bff/flyteidl-1.3.6-py3-none-any.whl#sha256=1f644b1e8e2e74ebbfd52168062981471d8c96573e2f9c8389dbe36d9130d273" >flyteidl-1.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/ac/24c2466a70306e9e22ec712336b0c8afdd377e8c6fbd986905cb8c089786/flyteidl-1.3.6.tar.gz#sha256=b7b6c386dffd239e3bd4521efbfc07fcfa5a36f012386851c71c7520a2499789" >flyteidl-1.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/4e/7ceb9c9945c08833e40e9202c9ce8a1024707701321b1fc96b03c0d74469/flyteidl-1.3.7-py3-none-any.whl#sha256=e609d51a8b2a3446127ef3c4f83c78179fca4363481864212c95efd982c0ccd5" >flyteidl-1.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/76/f3f065b47ca22e9fd707d5f74a24139a7e7fc83befbf908a6ca73ffc73f5/flyteidl-1.3.7.tar.gz#sha256=a074b2caf9cafb531df8647e7ecb2d25b9e103a1751ff36bdf53bea8d938359d" >flyteidl-1.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/f2/7e5259a21417c5deb04ec08b101bc4ab2b644182df9fb44f77eaaac4ded6/flyteidl-1.3.8-py3-none-any.whl#sha256=11e177e9a933d984099a7b3881684a4ef8af87cf059b84b031c8e295e986084a" >flyteidl-1.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/92/9c1e9fa2e91eeda4588d9b5804f6330e3258dac0a25b84626ddfb68cb9a7/flyteidl-1.3.8.tar.gz#sha256=dd5c330bec8948dc1e1fc43ab874f0c6523fb5871763d98a6627d8e238f36dac" >flyteidl-1.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/c5/b8240013cac585aacc37c0075f059e29800e15b8540eddfd22c5340806f2/flyteidl-1.3.9-py3-none-any.whl#sha256=0aef5d50f386f1c729e613cfa4b8a0a5fe58e4c3d2426dfa394acc4462382291" >flyteidl-1.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/4e/434c77437362b98397a6b5738fc4a8ca92d5a5806d190fe032a0aaaec754/flyteidl-1.3.9.tar.gz#sha256=26399b081bf9d6713b40609575fce7b16c37b16d313e509422e6c78cf89dd282" >flyteidl-1.3.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/55/a0a8ad493ff15ead2f120914dc215075d9d7f75f545e58299921c8dae15c/flyteidl-1.4.0-py3-none-any.whl#sha256=bd61a11daa45fa6b1e390f2fdd86613496ca7ccbc021ed6b033513d7c36f0567" data-yanked="because i said so" >flyteidl-1.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/eb/49929957766f64f757b2bebc1b9fc949ae99959441c37f1e46f9acf1f120/flyteidl-1.4.0.tar.gz#sha256=8d81b5f988c20a8af1bfd2ec01a344544df4e473320570c2b926c2beef53116a" data-yanked="because i said so" >flyteidl-1.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/36/baa9e6037511c9dd86fa4fded4e6b059f8669d131e79098302c9c094c2f4/flyteidl-1.4.2-py3-none-any.whl#sha256=9f64fb6a4f99fffa7241e7bb31801a2dedb374ef0f0c440ba63b1b6c6ac4caeb" data-yanked="error" >flyteidl-1.4.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/fe/4f2ecc59fa289c7edad9cf160b9cb3880fe136bddb7fe641fdc31457efb4/flyteidl-1.4.2.tar.gz#sha256=3bf039f9b9965f48abeb5bf293b6a41ec9642a8917c8d4f60ed2687c7372f986" data-yanked="error" >flyteidl-1.4.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16423325-->
+<!--SERIAL 17140225-->

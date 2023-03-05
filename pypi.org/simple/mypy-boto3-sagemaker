@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mypy-boto3-sagemaker</title>
   </head>
   <body>
@@ -1149,6 +1149,20 @@
     <a href="https://files.pythonhosted.org/packages/cd/da/3c2c81228fc552a178ffb60abb1d4afc5610575a9609eaa9e61567c3b8a8/mypy_boto3_sagemaker-1.26.34-py3-none-any.whl#sha256=16d93a1bfa2d8a43fc33395bd9d332ac65f2ac0600c6d4e9216b6548df5e3b44" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.34-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/e6/d727e5ab115d1551eb2ab7a24492b7e22f0453bf96f5852149d0d18b0ebf/mypy-boto3-sagemaker-1.26.35.tar.gz#sha256=729bf46a30d94bc760eedc1643d2292dba5d980e2aa8ef8d0284d96916093a8d" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.35.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3e/58/d93626091931ad43c116e5bcd24365ffe0125e8a8fe703d72cb51d3db591/mypy_boto3_sagemaker-1.26.35-py3-none-any.whl#sha256=86fd768e3b0feba1a988fcdf8e2f172414139e8f1271e2aeaa8c2543a1b241e6" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/b1/a4a56f8475e3ed2471cc5cf76a70adc7b7fbbb877b261fa352a4e06539ff/mypy-boto3-sagemaker-1.26.53.tar.gz#sha256=c1ec040bdd0b90e2ad848ebe82e14bd8e93ba0d820b7a0065944c7c4eaaf5a63" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.53.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/f4/70736f00943e90f0e451e5267a713aa5b37c02fde91046194f5ea9f98e4d/mypy_boto3_sagemaker-1.26.53-py3-none-any.whl#sha256=9d672843588353efc511b15f8b25f252dd827efb7706f7b022f66251ae7cafff" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.53-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/12/f3c465480263917132e031bd72012a290bcd735b2478703ef8c02fc46ce8/mypy-boto3-sagemaker-1.26.55.tar.gz#sha256=f3e172e21609395096d9d706060898c1ada3fddaba2def02ca25e5649fd8bd2b" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.55.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/18/a686e91e19ffea46d4e73241d979c50a96ee95dcc3670175b932a163bdca/mypy_boto3_sagemaker-1.26.55-py3-none-any.whl#sha256=cd5794674d652fc9d506875e89bd627d967a4eb40014c56e141365f5a866afeb" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.55-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/cb/f259f112fe8ac8e4c06a08dd6993a0ef6bf2a856b08b6c2f2a0f8ba96dfe/mypy-boto3-sagemaker-1.26.57.tar.gz#sha256=bf95822ca7fd643dba2fa0d496571c7450d5b838431b901ceceed6751b5b3edb" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.57.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/bd/2b15cbff0463b98f4f00d029009964bb0da22020aaf70bc2b294d425f6cb/mypy_boto3_sagemaker-1.26.57-py3-none-any.whl#sha256=6ed703efe4e6063be81664a70c5627fd47a05325c28f22bea56884b5bfeb9c57" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.57-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/c2/78700ddaaff9d2c6eb8ffcaec5ccd73ae946982378233c2b207af8b56bda/mypy-boto3-sagemaker-1.26.59.tar.gz#sha256=14732ac4f96b056bfb987519f170d44f3504f8f94c2d3b5a84d12acebd295ab3" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.59.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/44/28dd1e26c41fc2451f1511b817922d10b0b02caa9f56415fb909923707b9/mypy_boto3_sagemaker-1.26.59-py3-none-any.whl#sha256=5276be4551826978ee0d0103bf161737441883760c3fae65157929bc79332dff" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.59-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/8f/1d2097269d416425736913f9bc200eb9a4361e721e043fb2ebf3cf78886f/mypy-boto3-sagemaker-1.26.61.tar.gz#sha256=eb1ccb2e219a48bbb5b996cd2f61c5b8bd2ecc2473bca4b21fd8f9ed5a8139f6" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.61.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/3c/3dba5bc50741da8a2e706de10e01da858e2451b39fd61c57e4caeef9fc68/mypy_boto3_sagemaker-1.26.61-py3-none-any.whl#sha256=b2d8a9d2af3fec7f899c12016462675398c19eec3429b5d3ee6facbb5f0cd02d" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.61-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/37/5e6cf9213af8a956385ba82c0aacf4ba9603010c904943c43a1a9b1e58a4/mypy-boto3-sagemaker-1.26.69.tar.gz#sha256=d640fa3508b6f0309afffbf1dd6abe249abbc1bd3fa866b3c816ec3641210352" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.69.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/77/b035a70ccb3d60fe9f8251839edfdb273e1c3aeee67134454507926aa602/mypy_boto3_sagemaker-1.26.69-py3-none-any.whl#sha256=19207ce2f663d1fc06231cb0f1fd60c4e0f3bb97117f7d336965f24465a1f591" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.69-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/b5/556c14cac68d32f1a5c6bdaad6410de56d50ca9f06832dd346991b285391/mypy-boto3-sagemaker-1.26.83.tar.gz#sha256=6d2ee3c5ccbeaced1073acd19d8c576666929b6cee1d78005649a055760c6312" data-requires-python="&gt;=3.7" >mypy-boto3-sagemaker-1.26.83.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/e9/7a3ead5bd77e292e49156d374e28be053d957dccf6cb9d00d05fe144f22d/mypy_boto3_sagemaker-1.26.83-py3-none-any.whl#sha256=bb27046641d9b50e2a3ef644baa01331ab5a06cb33bd38a107a2111b3210e4f2" data-requires-python="&gt;=3.7" >mypy_boto3_sagemaker-1.26.83-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16177537-->
+<!--SERIAL 17134102-->

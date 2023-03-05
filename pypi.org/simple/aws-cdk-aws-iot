@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-iot</title>
   </head>
   <body>
@@ -488,6 +488,20 @@
     <a href="https://files.pythonhosted.org/packages/89/b5/50ae37da5adbbdd077e4264d60b13f1f28f5f88ca24e3317496f6ba2d460/aws_cdk.aws_iot-1.187.0-py3-none-any.whl#sha256=0a0bd264a33cb549ed546a7f038a7c482cbe3b18d8a39ffe17b6ea41e66b090e" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/ab/e7d172e9db9a8af23daaf95acb0979735aaf18b860c43b2f20c2c8514766/aws-cdk.aws-iot-1.188.0.tar.gz#sha256=094069f1d500a9edc0a81d6da408e817c24435f9954484cf7bcba88605f0531e" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a2/05/5bb5cc393d5c1f68c16c6a3d7627c3b023f5b85bbba87dced76582413091/aws_cdk.aws_iot-1.188.0-py3-none-any.whl#sha256=49e0d6853d8328e7c86a1d16eae0f442a5540bde51305af905979877fc0ce179" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/9b/f92eb4aaf2481f8fbaa0d327df2bd6f9b5a1ed1e74db0b619ac81ffbf7d1/aws-cdk.aws-iot-1.189.0.tar.gz#sha256=1558d93c25454a7e652e4786c073df1841ea08361642ed386479c350a51731bf" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/48/f2fcad33f3e31a4e157efe50f8076a607a10cbd11bd39ad09a509326a4c8/aws_cdk.aws_iot-1.189.0-py3-none-any.whl#sha256=d78bb6086da8049cb4a7ecc398c639075744045a1c36751a93d14947c3a1a9d5" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/22/e32c6dd2df42910c44c5320d1e5bd6406bd263e5a8449a78a27e6e4d6839/aws-cdk.aws-iot-1.190.0.tar.gz#sha256=a139e9d7eab7a77cf0e37a0f7672a10d333b5030f701c3be22ee4e3d1305e4d5" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/da/6386c8a3bbf99c5cc0dede3fb118d29a3734a36f3839339b4ac057f7ec1c/aws_cdk.aws_iot-1.190.0-py3-none-any.whl#sha256=508723e8ab7e054193524f203392220e1c27be5649baad1b8bd345de17c17a97" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/9f/86fd2b369ff799394f9aab1ebd5b0b9886684673ad89ed9b725796c25331/aws-cdk.aws-iot-1.191.0.tar.gz#sha256=78e596f93792b945cbf36e9af8c070c1f6aa6ea889d7e0082c99b46154ec4397" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/5c/6a8c03ff4955076b1a66f4b65aa6bb6d0cd6559c673aa1de6d6b699073f1/aws_cdk.aws_iot-1.191.0-py3-none-any.whl#sha256=d560d59700c4c7cacf21243b343aef02286d9fddf63c006a7787e5bd4750a4b9" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/ac/ce4e4e6e235b142bff1b6c6e74b5ab1123932f8d95caa88050f88ef993f9/aws-cdk.aws-iot-1.192.0.tar.gz#sha256=ae1e1926f64fbbd874988d0f130d223a117bb1c7a9c4f4b75369ed6396e171fe" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/5d/ef6adb4ec11600fb834b152ad42bb97cdc35747a0a3f5c420e013b6ab9d3/aws_cdk.aws_iot-1.192.0-py3-none-any.whl#sha256=2a97d9d1e579668e847491e61f2777b529147a05893be867aec0268c33286780" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/15/ad2fa57227652fe6791844b2ff2fd0a310fa05c5d54959c284c1c027ae74/aws-cdk.aws-iot-1.193.0.tar.gz#sha256=b472d01fb64b27345631a8946ba711c1d502ab2eb2781ebbc19fbc2c992b8c17" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/28/0fbf513ffff5df3c1a7253ddecaea8811dc0ecdbdc02c79d45d5ba566732/aws_cdk.aws_iot-1.193.0-py3-none-any.whl#sha256=dc9b52109707e23227aa51520026b7fff6deeeb1464112f02c3c384a05225d9a" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/ac/3978e2d4e6d16e97564cd61c56cf4ddaddcd9cf277c61a20a100ad129570/aws-cdk.aws-iot-1.194.0.tar.gz#sha256=2135da4f2cf3f4862feb735916232ce9bf4fdeec1c83824c19f15415a07fe825" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/0a/be2e162841f1ac910e4f4d10e81d3156f8f91c3945a1f08f67f15fec4228/aws_cdk.aws_iot-1.194.0-py3-none-any.whl#sha256=5f5b6d459f88612763c0ab050b971d87fa021bd05d7b2d2bffca67428bdeefdf" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/cc/5660852319586d9b3d17309c0088581a89fa7a1467bb93b4e9bc68ba1825/aws-cdk.aws-iot-1.195.0.tar.gz#sha256=681b6fffe56e94a51680bbb195b33b40672ce31b7bfeca4124a8f1c02f4e2ebf" data-requires-python="~=3.7" >aws-cdk.aws-iot-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/d3/b49f6dc78ef440f66ce29bbfb2d2c30a4bbebf07e384e22d5a1f7c715001/aws_cdk.aws_iot-1.195.0-py3-none-any.whl#sha256=97e6ec489bf2e18b5afbf58a2b595b8bc0f5fd004407e406611b67f392e53674" data-requires-python="~=3.7" >aws_cdk.aws_iot-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393388-->
+<!--SERIAL 17131915-->

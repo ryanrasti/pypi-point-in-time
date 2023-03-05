@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for neurodocker</title>
   </head>
   <body>
@@ -19,8 +19,12 @@
     <a href="https://files.pythonhosted.org/packages/dd/a0/5675881b404ae39958f45f5cba1dc3f2d01b82f255cd9e86c31859c6e0bc/neurodocker-0.9.0.tar.gz#sha256=00e7ef38d1a413086cabdaa8021bc1dd32ab6b4e9434615b31da198fe094baca" data-requires-python="&gt;=3.7" >neurodocker-0.9.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/d4/59c2e5e6751bd45f9fce741cd20cb8455f22343dd3f33a62e79748add4bf/neurodocker-0.9.1-py3-none-any.whl#sha256=7f0d22b53400959fbb3dc4531e6908188314d20f41ad7908e08ec7dee3cc8d02" data-requires-python="&gt;=3.7" >neurodocker-0.9.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/d7/e987f61b34f4e9ffc1db58ccdca157adc7b753e83c1245f604d7d5667ca6/neurodocker-0.9.1.tar.gz#sha256=cda57fde147ad1dac4c9011aad292f2c60036242ecab87cb73bf6f920dd0f280" data-requires-python="&gt;=3.7" >neurodocker-0.9.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/71/cd/3bafb6adf9fc5ca1d32c562eedc5e92031fcb1f045e7fc822d104a427354/neurodocker-0.9.2-py3-none-any.whl#sha256=1fe326c39499d7b28f4a3eb71b73b7fe732f88eba0756ea82088bec488b8dbf5" data-requires-python="&gt;=3.8" >neurodocker-0.9.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/f2/ab/2c325ef5619e4b2caac5d49c1dbb9d802408702de8242e6ac618642e4cad/neurodocker-0.9.2.tar.gz#sha256=c6fa5752e62f44209b0aab3544729da15408b82d9da6504cbb6e35035ae61f9f" data-requires-python="&gt;=3.8" >neurodocker-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/cd/3bafb6adf9fc5ca1d32c562eedc5e92031fcb1f045e7fc822d104a427354/neurodocker-0.9.2-py3-none-any.whl#sha256=1fe326c39499d7b28f4a3eb71b73b7fe732f88eba0756ea82088bec488b8dbf5" data-requires-python="&gt;=3.8" data-yanked="Bug in --copy and --entrypoint options" >neurodocker-0.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/ab/2c325ef5619e4b2caac5d49c1dbb9d802408702de8242e6ac618642e4cad/neurodocker-0.9.2.tar.gz#sha256=c6fa5752e62f44209b0aab3544729da15408b82d9da6504cbb6e35035ae61f9f" data-requires-python="&gt;=3.8" data-yanked="Bug in --copy and --entrypoint options" >neurodocker-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/ac/47382cd88ba5dafb8c4f052ef423052d822c4bb24a2bcb67e44bace4b299/neurodocker-0.9.3-py3-none-any.whl#sha256=e7cf18baa41a387437d08cfd634ec9de628844c4ba5ecf8fb16de0c7134c60a8" data-requires-python="&gt;=3.8" data-yanked="Bug in --copy and --entrypoint options" >neurodocker-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/2a/afeac4a75fa78d57a4d0c19f6254e0a268efcf1a91a32cde948811532a8b/neurodocker-0.9.3.tar.gz#sha256=87b31398a1c3ec6a302b1c72641dce7a4ac57c4c292cf4b779a6c96bcd27691e" data-requires-python="&gt;=3.8" data-yanked="Bug in --copy and --entrypoint options" >neurodocker-0.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/ac/2c2ce9b60da6fcec75b783b5eb5520711624f2395125cad8260299dfed61/neurodocker-0.9.4-py3-none-any.whl#sha256=44d0926b72282c12d5e83464c1b39d5810d9e2c0945642c8b25c9bc724864f01" data-requires-python="&gt;=3.8" >neurodocker-0.9.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/94/7af4ccfbb36f03e8fd1b99db22ae100fe0158cb9ff9de6e3c5198266d1d0/neurodocker-0.9.4.tar.gz#sha256=022fbc45c34c6a3e47b3d68d7f13a750ce9b686d050eee1312961d3b5db3b9a9" data-requires-python="&gt;=3.8" >neurodocker-0.9.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16431870-->
+<!--SERIAL 16477461-->

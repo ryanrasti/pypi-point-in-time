@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for munet</title>
   </head>
   <body>
@@ -194,6 +194,28 @@
     <a href="https://files.pythonhosted.org/packages/93/ed/3e5af0625dc361b52885125e711d67911720c6d85a6111ff50c67c964ba1/munet-0.10.19.tar.gz#sha256=8c5891958f8afc42abc6114e6c7c2359ac1598114ff1e5f016897e979dc7f7d0" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.10.19.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/22/37/2ded05d72957dce339d0e8121333a4193dd95054202aa562b28d67032835/munet-0.11.0-py3-none-any.whl#sha256=4a826a9641ca31d5b7669434023fe5144d8e6ee56362754f459cc4816b63a2e4" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.11.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/03/cb/1fd182d9002ccfae50f7f7a394d37e9c0d6167a5adcfbd0ce345c99a41e4/munet-0.11.0.tar.gz#sha256=7e03b18217e5ac8c9347885ddeb88abf9135f8ff1ec2fc2ddc6c69a1bdb8bb76" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/0e/67d9ce854bb769c81a03f439bfcde54ad4540800c9d3614021489720bbfc/munet-0.11.1-py3-none-any.whl#sha256=4e93006290e30b153b10968bc1a97285fbc4b7bf80259f2ff9888287e39f373d" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/a9/5bcd8aeb5e610946a9e418a62c8845c527c97515bc02fd94b9e0e77b5982/munet-0.11.1.tar.gz#sha256=9733e537aabd09d99da1115386bdd68d43dffe4e94ce7e93fcb8f3fbeead97f6" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/8b/bd889354a9b0c67ddd551329e24690689dab3b8563ab3c2cbc4c4ddd1dba/munet-0.12.0-py3-none-any.whl#sha256=34b4570c69954baaaf89ef0652c70a1077044885ed861d52a8a6909448ac6676" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/b7/2a35b3eba34a60a02cfd65a57d292fda8e8f3e3559dc4a9193405dc899e5/munet-0.12.0.tar.gz#sha256=7afd7256dce3f5cfdba018b02e4b235e274fa54903aeb488f0227af23175a83d" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/c3/76ab964b96a7263c4a6f298deaec584e55f4c2f72577209dc0aec3565120/munet-0.12.1-py3-none-any.whl#sha256=9147333b7b7396d8046af992233abeca0a6abb97fa306f94e99b75a40928c093" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/65/2cf4336e2c0bcd53e83cdd594411df31d17f53a62fbddc9625cc4be791ae/munet-0.12.1.tar.gz#sha256=f4129eae350a40af628c60bd8c29c9a6fb4ce0f2ba630830b8af2dcf9b58a3d4" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/43/da403101b09f6da8712e409f8fd2cb3728a756cb02316534a501db6b125c/munet-0.12.2-py3-none-any.whl#sha256=dfa553d272d1c3e40d88ccfc5d961870885f37b5483deea46a6698f9a67adec3" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/b7/a265a25b255dbb6e6a7c2e1709f05667a1f32dac84a8862cee4b42e15175/munet-0.12.2.tar.gz#sha256=7c566703f2b44a50c64d771b5a080ac0192af0d546cb53f811df325a972eb2ed" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/29/8e145a9a51176ff07c9c411c17e0f106196a783550dd7653dbf7b43cd186/munet-0.12.3-py3-none-any.whl#sha256=d0ec4f25bf6577cc3bfa229b5807e715994a413bd33a68507a3e7575e618ac80" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/3d/21bb6d8d567fafd0963f2c66734a453a2798b895fe4b9361fde920a1289d/munet-0.12.3.tar.gz#sha256=88f728dec719a23c99007a833acbc424f2fb4d82fe3cdaa502432428d8d0d30b" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/c5/f64287054fddba2321f3bc6af666047b2a8e2b6a52ecdee037b0130031e4/munet-0.12.4-py3-none-any.whl#sha256=147aa073a914fec5d08b07036cd3ed869252fa17a4fa4daea83c0398e61edb30" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/73/1bd1e948405426216b3fa94db6d414649ca072e22d0b02737544fdad6dd9/munet-0.12.4.tar.gz#sha256=c77ea81262a1693e327c1169391715d49259f7ce731d02e758f27ff1bcfefaa8" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/20/1780329a443e354306b34fd43c3f1b1dd2c091517a2c077207c7aa3ee85c/munet-0.12.5-py3-none-any.whl#sha256=bc49c01941aef0eeeb933bbd2e2d6fed8200bf2cf6f99a9f08d4262ca5097965" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/0c/774a0825c09e169dc9c36b19219f3d3366a333c5456e5d26fe88acca3a59/munet-0.12.5.tar.gz#sha256=12e00bd103f799095dd36185e9058852bd374027d188fb574c342cf9e9883a2d" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/7a/ea8fc1f7f5e4132547dedcd6edc9a6297319816b52de10340ac30e6646b8/munet-0.12.6-py3-none-any.whl#sha256=e297de3b480f5e7b002c0cc5693967fe69b602d76511d343fa3e38b14618d302" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/1b/66e47d55b30bcf0e569dd323292a1fc4d6bba3151c4e7f5e4ddd43df92be/munet-0.12.6.tar.gz#sha256=b606d7d1480ac85be959cc1bb91bffcecb9e93274ae8a08c2c2847146f6faf80" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/6f/1ca8d8cdabb24c054b9f8b28ab957847498f039acd2d7290387d2dc531e4/munet-0.12.7-py3-none-any.whl#sha256=551c41ac993df5949a9ab57ef6266da915176dccc1d677e69d89ea5c3f6fe416" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/47/e9a7c79a4fec9dcd89dcedebf5b3fd7d22ba2bae70bb30b0d5647bf3176c/munet-0.12.7.tar.gz#sha256=fd492ef63e69984a8ad17375ad4c17967bb107971172988afae6be7e56883df8" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/55/8986b62ff6881368eafce04f86fcfe9787ac36d2d23370ca78ce24edf8fd/munet-0.12.8-py3-none-any.whl#sha256=b612c7eb8436187aa43b2e2351ff4afaf99558e62693fcaf49cc50afcc86395d" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/f7/c3acc99ecd1a6b5501a11c6e07867977a3aaf98e6fc1d40f8820d515fc47/munet-0.12.8.tar.gz#sha256=204e8c508531303a4117eaf5ed8540cb411d38586ba36ebe82f9c42028b78dec" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/70/90c0af3e8455cf6667148092c3386ca3207280786894dc272f2608bbe8e1/munet-0.12.9-py3-none-any.whl#sha256=bc414f087167e52c8e0473888c035449e325ac4ce8c81710e69c6b1b53dfa02d" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/18/5f0ec02bef09e6205521e09d05d2cf629d2b169f8f0cbc50f4494919b5b0/munet-0.12.9.tar.gz#sha256=22668270d776cfe0566a97b03f65a342c0fec5c71f713521622634cf26dd70fa" data-requires-python="&gt;=3.8,&lt;4.0" >munet-0.12.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16401987-->
+<!--SERIAL 16895388-->

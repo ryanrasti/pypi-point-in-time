@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pasqal-sdk</title>
   </head>
   <body>
@@ -66,6 +66,18 @@
     <a href="https://files.pythonhosted.org/packages/7b/a1/c6b68caf9beaa6d64fcb634e1e0ddbf272877576456d4b62b6cb940a1a8f/pasqal_sdk-0.1.6-py3-none-any.whl#sha256=be6d9ccb9d2f4ccbe60d577bb6ae9e07943fafea9cdfdcabba38dbeb06f82c3c" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/0d/c2074f930c5c44b6b399f54fe0cc12bc8dce124dd42cffa30257bb821ae2/pasqal-sdk-0.1.7.tar.gz#sha256=963179930eb9a1bc46b8d9b96b42de0c667613883848e19ec27760529d71666b" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/27/6105162eafa59e63f3385491bdc111e0c1c90ee1b4870dc4e403efc5cfe6/pasqal_sdk-0.1.7-py3-none-any.whl#sha256=e5a7f1c14c92f00e90e0a663012c681129ebdbe7c4e6060ba566ad9e7a5aad68" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/5d/ea8e966c584670f0093d3a66d5014a6b09e5785ba687b752a38f227d6508/pasqal-sdk-0.1.8.tar.gz#sha256=cb4087966bd8d65660a63b024ee30b3a99ced82d72a75a486c004cfd2600169e" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/64/06dbafd069bf06accf3ef53c4fd2eff641f69f05f38bf179ff1690a88ac5/pasqal_sdk-0.1.8-py3-none-any.whl#sha256=eb6e82cdd67ed0173b86f8e6c0e9a628884a2a574370c96b8806a79331b5fb41" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/b8/a83ab369d660dba033275f34786dea536c4af990143a08f1a557d9d14806/pasqal-sdk-0.1.9.tar.gz#sha256=e2c5f0c52ccd407b5b89fb6249879484731c4d12ee9319acfe5ee36bea84038e" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/4e/234354b7330cc7ff7711caf924e8901421eb8c6404bca4aedbf3a0eb74e6/pasqal_sdk-0.1.9-py3-none-any.whl#sha256=579715451ff64533c9cf5c20e0a670dd95d0e3230657576930ff9959841d4029" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/b0/fb1cbcfe17cd246b7a32fc252fd6c48617f83403fb48493793d5507180a4/pasqal-sdk-0.1.10.tar.gz#sha256=4d8d3786cc14235fdccfe0db01121ec607012e811184325ceca82b6f2fa4ed46" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/e7/3598a22069509fa78eb99669ca18d35cc5ea768b34a8c19939c3a8760eb7/pasqal_sdk-0.1.10-py3-none-any.whl#sha256=040f225ac9baeb4414ab852065d082b58c61cf887b49be588f9dffe9b400ae52" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/0e/e908133c814619c538484e1ff631ff4810904ca290e57f438d6ed2c02ac6/pasqal-sdk-0.1.11.tar.gz#sha256=ba23c64eaedd702e0840451da7b12d15d66636cb3a9bc953616d174f19fbdeff" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/ff/be1ba7c71a7dfe70381e9b4b14934047e3d7a559dc289968d7ef53dd2f0c/pasqal_sdk-0.1.11-py3-none-any.whl#sha256=3b3d05f564e0e966cebaae8cf7229d656615f77abf95412fe730a38e1860cd64" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/67/d7540a69b1033296b4becd3633a5556aae9f6a7cc3767c4cb4cd3d242643/pasqal-sdk-0.1.12.tar.gz#sha256=3e0d2f8dd562be87fd88c931aaf62fa0bf3962d4510e465da07999ff8e2f3b46" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/1e/c2d22e0bcff8dae7bdc5b129532573aeb99163d0adeed08162f83e7d4151/pasqal_sdk-0.1.12-py3-none-any.whl#sha256=1d29bb35e606234ba34cef25eba0c1950493dbc9b2ced49a6a15de39fab1a073" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/fb/9a62536b559961c9cef89fa5a3855e8a1013fdc7c8719d3021cad99da995/pasqal-sdk-0.1.13.tar.gz#sha256=e933223c98b9ae09642b444188d64a89aeec5b8499cdab9de8880b7e621af606" data-requires-python="&gt;=3.7" >pasqal-sdk-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/f4/4a87a764917b6a3cb72e058289bd75706db984087d2e8d87b3808d5d5468/pasqal_sdk-0.1.13-py3-none-any.whl#sha256=3d0d64bdb5790e37f4c06874d27df2d43271cb528520190b159cc4398b044aca" data-requires-python="&gt;=3.7" >pasqal_sdk-0.1.13-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16313561-->
+<!--SERIAL 17143890-->

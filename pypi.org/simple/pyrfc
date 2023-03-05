@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyrfc</title>
   </head>
   <body>
@@ -67,6 +67,22 @@
     <a href="https://files.pythonhosted.org/packages/c1/ac/c54b8d434261498919ce40533b5d68261a53a55c7d8f7a14f3618fbefc44/pyrfc-2.7.0-cp39-cp39-macosx_13_0_x86_64.whl#sha256=9abd5bb48706b72b7e56e96a03b62ad3300c3faed63b689d461e21e4286ce1ed" >pyrfc-2.7.0-cp39-cp39-macosx_13_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/70/21/7096cd46e7dc378797845bea1c5000d40ab15ae72ca10a8c363bfae10d6d/pyrfc-2.7.0-cp39-cp39-win_amd64.whl#sha256=e72b06a2df326abef36098df953e2ef220347ce76a0b1284e833510335b46145" >pyrfc-2.7.0-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/72/a68d8c6b4311540e870e42492ee0b3c1953692684a1907639fe9ee59cd78/pyrfc-2.7.0.tar.gz#sha256=c740afb117cbf2756d953dbbb438b72ecfda52a9cde1a532e7fcf1a2ae1d089e" >pyrfc-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/0b/22984f0655c3c36972d8fba9b3aaa1d86112e04494e76b8ad031bbebdce8/pyrfc-2.7.1-cp310-cp310-macosx_13_0_arm64.whl#sha256=60f37c54dfcafb4cfcec7c235d96c8539f0af18875cbf62693b52a3395627346" >pyrfc-2.7.1-cp310-cp310-macosx_13_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/3c/9f4424228ef8cfd33df61819faab454308dd92a640825a3221bb52d4037f/pyrfc-2.7.1-cp310-cp310-macosx_13_0_x86_64.whl#sha256=dbfa581406f796b80e35a2772b250ef07f638c176c56533709c34b1ebdcf2e85" >pyrfc-2.7.1-cp310-cp310-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/69/b5310614ea2cf7108124d75e011d7645b421cf9144c936275e6e1569f133/pyrfc-2.7.1-cp310-cp310-win_amd64.whl#sha256=ccbf5ae28cef2f0997392929ed366d0b992e7c227e5b27f8130ee6a83af10b33" >pyrfc-2.7.1-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/e6/0e1fd77ad8576b400d0af47a8f6a6532e3d12fab6e5666135a468bb169bb/pyrfc-2.7.1-cp311-cp311-macosx_13_0_arm64.whl#sha256=9ddae4a3cc0806e40041934adb35d14374f5a043892c5fe8fec7190a6c74ea6b" >pyrfc-2.7.1-cp311-cp311-macosx_13_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/cb/f888666e40b4c9a4a51bd386013be3dddc2966297c5505c7ac656cbf2265/pyrfc-2.7.1-cp311-cp311-macosx_13_0_x86_64.whl#sha256=edcd34255dec4a2bf5a55c56ed4ecdd1aebb03d33bd6a31f1d037a900f286146" >pyrfc-2.7.1-cp311-cp311-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/bf/a7b116ec31aad43bbdbabf8bc88e9b088e3ea289fb7b5d70300471889d26/pyrfc-2.7.1-cp311-cp311-win_amd64.whl#sha256=706349d50eb5ef8dfc4fcc645007d0e1d51a9df5b40a8d4695d03c4331e3a069" >pyrfc-2.7.1-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/46/475a7de22c7c9f6ed9f58fcf2b140c2c269105b8a9e6280dae3721717c0a/pyrfc-2.7.1-cp37-cp37m-macosx_13_0_arm64.whl#sha256=d0d93e92054024cb48ddee35a4a582947361236ac78ff78270b26dba5c9bb0e1" >pyrfc-2.7.1-cp37-cp37m-macosx_13_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/87/c44246cc7bac8faf88723cfb8a5d2660c351b9b1536d96c6d8f9f8274a36/pyrfc-2.7.1-cp37-cp37m-macosx_13_0_x86_64.whl#sha256=546c13c2ee28122bba04c2b17d62a122454993be4745760d334fa1e237e27bcc" >pyrfc-2.7.1-cp37-cp37m-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/8c/eaadcea6b9ca417d1e40db2fe0967915039a90f398411b7a5a373dd61573/pyrfc-2.7.1-cp37-cp37m-win_amd64.whl#sha256=dd24772e93b3134fa37c5e1f86375cd35aa38475782a8fdbf5b356969e5adfa1" >pyrfc-2.7.1-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/18/4b8e4c7a8202463157f53b59afc5dc4ee29f4b199263d0b03da128e6355e/pyrfc-2.7.1-cp38-cp38-macosx_13_0_arm64.whl#sha256=7a27515229ef55a4b5d6ddfa89ba3ecef096dbede5417de80ad6e276b0eed835" >pyrfc-2.7.1-cp38-cp38-macosx_13_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/14/359463db07272c7f70d73f1365c4ac4668182443b9537817bf79b986ef28/pyrfc-2.7.1-cp38-cp38-macosx_13_0_x86_64.whl#sha256=6ea4e23ce20324e55855939feba01c8b6258bebab64d6a7d84c63beefbe288a3" >pyrfc-2.7.1-cp38-cp38-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/f8/34539f1ce10557a0117d0150564c324614eb3eba22c2faa9b8225105d1b5/pyrfc-2.7.1-cp38-cp38-win_amd64.whl#sha256=d3160f99e9592630ed94709b7a4e59a834c7d0097ad53dc6eadf7ed338dd4b98" >pyrfc-2.7.1-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/9b/03d26249a0747a31767f776b6e08ec88ee9b1f4852c98fefd6461ed2a61a/pyrfc-2.7.1-cp39-cp39-macosx_13_0_arm64.whl#sha256=119e913b55ff022459d46f2195754d1802795ec6de37a53e36d255d81c5e8857" >pyrfc-2.7.1-cp39-cp39-macosx_13_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/00/1210406ffbdee16224378895a9ae7bcd187ff04be29c015b89a379517b50/pyrfc-2.7.1-cp39-cp39-macosx_13_0_x86_64.whl#sha256=b97ebbd900ae4f12dd3a5fa9cf5baf287d1dc14d2eaab2c079fa8c01114c1369" >pyrfc-2.7.1-cp39-cp39-macosx_13_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/7b/f7100c577ebef1cf19219b8df0693738824e528a39d8907c5c82d3cd9ed0/pyrfc-2.7.1-cp39-cp39-win_amd64.whl#sha256=5406e1a8b07115a211bdea90a8b6b31b45924279bf99c674b1f13574aef43bd6" >pyrfc-2.7.1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/e6/4766ab8b362f91c57d8369930aa42ec845e5022b3d9ef69df9af215bc72f/pyrfc-2.7.1.tar.gz#sha256=f032ea2783d6973c0e5c6461fb452fa490d12386d2faed1934300534a50ab59a" >pyrfc-2.7.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15684653-->
+<!--SERIAL 16651162-->

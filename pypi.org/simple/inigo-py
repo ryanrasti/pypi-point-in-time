@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for inigo-py</title>
   </head>
   <body>
@@ -26,6 +26,18 @@
     <a href="https://files.pythonhosted.org/packages/7e/b3/bfa3f191477d8e10ec2d273a914f010d241314f4cec46ea6fab4b37df9b4/inigo_py-0.18.2.tar.gz#sha256=b059743692683078c55569224be4f79884a34d2688c9162bbe38394b13356377" data-requires-python="&gt;= 3.8" >inigo_py-0.18.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9d/cf/cbf1598a5e7a1711489ddd29fd5a48f61e1c6106a2ff55349c098db50603/inigo_py-0.18.3-py3-none-any.whl#sha256=db224d0d5252c4067d768726cb7a9afe6bd7b6f2e09147eed98784e27210eb0f" data-requires-python="&gt;= 3.8" >inigo_py-0.18.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d0/99/b08b7a1b11998c37a9e5d533ac40f12b2deda8be8b6041f792a4b72d3ac7/inigo_py-0.18.3.tar.gz#sha256=a9c39cfcc0586bcbc1c341c24d29e5f3be64a259a0d18cfc82c9ac152f47b85d" data-requires-python="&gt;= 3.8" >inigo_py-0.18.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/f4/de0c3add613c3411ee3767c68656c4271a72ff89cd38c4c05a2b1e725038/inigo_py-0.19-py3-none-any.whl#sha256=37b90a80a5e6974d5b0d65e17f0e3a80f36908a578baeddb137a3be163a2feab" data-requires-python="&gt;= 3.8" >inigo_py-0.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/ed/79c2739df65bf53e6e899930ddf8198038a37ed8ee722ab2b0f9b0fa71f3/inigo_py-0.19.tar.gz#sha256=352c0e3a045c9ef0ca747b4cbfc34616d084d9b400db0ff0dd20ddef29b39aee" data-requires-python="&gt;= 3.8" >inigo_py-0.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/12/0ee079b865b63b75acc05041a22c86571f0674c835b10c1fd6cafb323971/inigo_py-0.19.1-py3-none-any.whl#sha256=ea923b58a34b26f96977e0414de0d3a6fc7883596e27cdd6eca13e7e7b9fe571" data-requires-python="&gt;= 3.8" >inigo_py-0.19.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/03/75a5d635dbbc43ec0c11586ce66c00851906b7b5189d7eb127b1081a3880/inigo_py-0.19.1.tar.gz#sha256=c6a821fc0694b79b8efffd7b3dcdc063737ca06431d74450b5e987f1d3007d73" data-requires-python="&gt;= 3.8" >inigo_py-0.19.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/74/dfce8538a9124d440509e7faba8d82c6a2cbf3217fc7dc88df3936abad85/inigo_py-0.20.0-py3-none-any.whl#sha256=a259cc4a795dde53d7e281ea0309eb1a3023f7e11fbc8721a7d5fa80955afcb7" data-requires-python="&gt;= 3.8" >inigo_py-0.20.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/0d/4cf21ae76537e9b1bedb6486738086fac3661793b4fe6d191babb5373d6e/inigo_py-0.20.0.tar.gz#sha256=14e223415181a134d2dbca5ce6f786408eec6034f81e845874ab900d0a2cd133" data-requires-python="&gt;= 3.8" >inigo_py-0.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/64/7d77419b7313bbf7e1d5814b0ce4cc6e4900b35e71e08efef064895384a3/inigo_py-0.21.0-py3-none-any.whl#sha256=02c31cf62b2a2347b19836099ef5e9f88ef244f2369d4f9b17e1e30f01339990" data-requires-python="&gt;= 3.8" >inigo_py-0.21.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/13/3017ddd3c882acbe14616b1d4d096bed6f3cead41430efd3037841faa74a/inigo_py-0.21.0.tar.gz#sha256=1c0dd9d783236c3a9df99dcb3b243aa88d89e3a02a3213c09f172980f6c96ab3" data-requires-python="&gt;= 3.8" >inigo_py-0.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/e2/3916722c80dc742eeeb275eedd697905772004576e96aeafeb9da8cc9833/inigo_py-0.21.1-py3-none-any.whl#sha256=54d23f20aae24733de43934be5cf02aaeb5053a728c38e7261e799998d244a5d" data-requires-python="&gt;= 3.8" >inigo_py-0.21.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/1a/2e197347d5070ee19e6936041a9fa6ff383ebd706b01fa490615108c633c/inigo_py-0.21.1.tar.gz#sha256=dfda504f61127a2a9f1fc8f5c6dd80897ecc02cba3d5d36711e51dbae5978837" data-requires-python="&gt;= 3.8" >inigo_py-0.21.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/56/353ddcd1df80d6f962b9c67ec9ae8a97d5a2a3132c88f5a799a8c6014c02/inigo_py-0.21.2-py3-none-any.whl#sha256=5beba7b220df2afcd719839eef1660616e6b4d954311d747254ac8b92ddf649c" data-requires-python="&gt;= 3.8" >inigo_py-0.21.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/d0/08c9dd93c70307f4155005e5645b082208f90ee97e0d85dc30b0ed83be30/inigo_py-0.21.2.tar.gz#sha256=f9b7019ba0e50156bc6a0fb5e33e07ac2f50c715d4e6d1334bd4d2a4dc260a69" data-requires-python="&gt;= 3.8" >inigo_py-0.21.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16189187-->
+<!--SERIAL 17118697-->

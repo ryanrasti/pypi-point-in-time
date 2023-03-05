@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-storage-mssql</title>
   </head>
   <body>
@@ -134,6 +134,8 @@
     <a href="https://files.pythonhosted.org/packages/2d/49/f189e1864a774c58179a684cc385485d905425b2663e29e796dcf9c5e66b/watchmen_storage_mssql-16.3.23.tar.gz#sha256=c9b138823642373942ba2c55a05482bdc629a5f9c8ea27c83f8ff5875c8cf4d6" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/05/83f57460ef6f8b0f7e1dcc5bcdc9a6cf2923cdb36bb1efe3cfe85db0f705/watchmen_storage_mssql-16.3.24-py3-none-any.whl#sha256=960af2d9b62b0c863bfa5128a645665b246db0bb9fedcf968d9d15986e79c1a2" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/7c/90a3c86caa723b7230a69e733b96f7bb09873c1de3358c506a2d49b26bcc/watchmen_storage_mssql-16.3.24.tar.gz#sha256=72f4b433ac62a5ce23ce8035acd2a5937ed65e2b1356944b0b99e26ac1bcba45" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/f7/b5528b2ebb1a42f12db8bba4401c8601ab950083a289a1f4a9fb5f7a9905/watchmen_storage_mssql-16.3.25-py3-none-any.whl#sha256=f8a6af3dfe0f96e80ae0adc8f0873dcd445f61ee35eb6fddbbe3aec66b858852" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/fc/ec1c0efcbe54e98a78b92760b2ffadfb84489a0f3b25f583386c76be292a/watchmen_storage_mssql-16.3.25.tar.gz#sha256=fb360b8c39e20daa9bffb35d3e173bf8ebd3140cf0785d88fcb27420a7743785" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/1c/f396a102cb3cd8073e0afe909e73fee297f1d56021a751869b74363c759d/watchmen_storage_mssql-16.4.0-py3-none-any.whl#sha256=6e9167c8f96427d71080874cb8415cf16b2317db8e6c4d06d194f203c84e9559" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/a4/60e3efbeeba5c1ad79108e89ff0d75bc01009bed83c08c1727c479537d9c/watchmen_storage_mssql-16.4.0.tar.gz#sha256=24a49cc833e41deeb66239611cb092edbcdaa04a308c410a4a2549b5b8352f7b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/bc/83cf213be5da47ee2bafcb52b3bc2af638400b06430ab095f1f2d6027768/watchmen_storage_mssql-16.4.1-py3-none-any.whl#sha256=897bec6c31a81212cef03df84d82dd6f865f29e1c1efbda907553be769a27ac7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.1-py3-none-any.whl</a><br />
@@ -145,6 +147,12 @@
     <a href="https://files.pythonhosted.org/packages/bb/27/845945668fb45b495dcb98620f0219dd788b9ed133bd8c4695fcd4596ec2/watchmen_storage_mssql-16.4.4.tar.gz#sha256=748dd2f086950383ee47e588dbcb6bd3eabbbd5e9f13e3129886b2ac5056ebfe" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a7/6d/d436124f58f1af033058f686f79a409ffb6265f469c67f57ed6f5e7a03e5/watchmen_storage_mssql-16.4.5-py3-none-any.whl#sha256=910dce5eb26d6538ae32901348b76bee2cb597834f1e1f6895bb96a5566df255" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/88/35/5b737a3253a2d610784e7ad525ee4928c651a74356e181e542d4f85d4a98/watchmen_storage_mssql-16.4.5.tar.gz#sha256=d8c03c5a2a38b3d5b6d18fe3d4abc41db4eede4490b10cff3402093c80d624f7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/47/e936b630d96d7e2a9a184333c232f7eb6533b1a847345ccb575d758140e5/watchmen_storage_mssql-16.4.6-py3-none-any.whl#sha256=303691efaed9d1e81e22a39f773295aaead4551ba1c6fc8ca9910df1985bab49" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/b4/045c26c34c80476e151583cd9693abd63acc2ac65f1eaf55204002213506/watchmen_storage_mssql-16.4.6.tar.gz#sha256=70ca5e035b95d93de79315f8ad2e1b98e413ad3a63ce4cfb2ebbdc7cf5d26a46" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/2d/bf9622a740fa4c09f197f4d3c62e610bf8190d9d484f63458e317a738d39/watchmen_storage_mssql-16.4.7-py3-none-any.whl#sha256=d014b199f391633fae41bc9d283dc8b98b35c42e58d99007fc444225495ea93c" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/32/92d305dc998c8a5f303694e3ba1effe5c45eec31ecc0e5c5d8af8e20c2af/watchmen_storage_mssql-16.4.7.tar.gz#sha256=be6882085e9af19bb72e6bc21c6c0eccaf68266190bf3b1c968ffff356e692f1" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/e2/590d4fe5be1558d2e451d111624379f03ef8921ce29d703714b0a70f22be/watchmen_storage_mssql-16.4.9-py3-none-any.whl#sha256=8da465b1b6f4af4c43a57ae40e80e8ea895f6b04cd313dcb69e2d9e3ef352551" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/29/b9e9db17d085b2f50ba9fa8912584ad538cf75188579a42e2a7bbcb47655/watchmen_storage_mssql-16.4.9.tar.gz#sha256=27e4d2b242f158c69e6536fc42bb09f9b1705c9f2751b85ff4022f7ae2009869" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mssql-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398838-->
+<!--SERIAL 16991513-->

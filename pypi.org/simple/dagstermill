@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagstermill</title>
   </head>
   <body>
@@ -918,8 +918,32 @@
     <a href="https://files.pythonhosted.org/packages/ef/9c/8fc53acfd02c58ef01bc764fe0517ecd974e95ba319e9ad2b5828d40beb4/dagstermill-0.17.9.tar.gz#sha256=914e5f3b0333e8b86f5eaf83fba1e8b33a2135739902c191ce44ef93f6ddc2a0" >dagstermill-0.17.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/43/d0/d35671323d5faa20501babef3939be6897ce7e3d90e658f9a056488ee58a/dagstermill-0.17.10-py3-none-any.whl#sha256=4bbc3eeb9dc992014a5d21b41ab23646ce77e221f06e34e44eb941eaf1ac3423" >dagstermill-0.17.10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/67/1a/d88dbaf2af0a6d270275d684e2f4b2febaf7e03971ce92d382258d834a53/dagstermill-0.17.10.tar.gz#sha256=ac884bdd83238b603be43546ffc4c9439aa984e29ce52e9a1dc8fcd44a823485" >dagstermill-0.17.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/f7/fba7a40fead3aba5dfa64b1478217eb7d02f363567a7453c9f879dcfaded/dagstermill-0.17.11-py3-none-any.whl#sha256=c34f72e237520093064e731e3b4da0d806868197a918a37bdd0061e9bbf5e3e3" >dagstermill-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/5f/acb6ebec5b334330309ca1555cff6f3523b733715242723fc2903174cd71/dagstermill-0.17.11.tar.gz#sha256=2d2535314287f2bc0ad2c17873c2f601fcc92c3a3397aafc51b5ceec210ddab6" >dagstermill-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/6f/4300d13e1d48817dbe1609d251a951d41efaf4cf148eb95ac2bd0eb8b75b/dagstermill-0.17.12-py3-none-any.whl#sha256=6c1e52aba15a15a008ed7458005f58304403bb71bd8ac9c5210032bbe465954e" >dagstermill-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/92/7c17dc70d7be3e149fa0568932dba7724363bb463d7d56edb53fd18a4b03/dagstermill-0.17.12.tar.gz#sha256=db490ec22351a74f4dcdc49b2a15b50ade5702d57067e8fcb1311de52a2c8e32" >dagstermill-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/ae/36127f4d8ff98f6d6f6a6a30bf605d363cc69e11b7bb25bfb58f76a70fe8/dagstermill-0.17.13-py3-none-any.whl#sha256=7cd67ce049bf430503105d6d043fe724adffaa8a35f890d0ae286acbc571b915" >dagstermill-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/4f/58d32ea81430ff6270ec16392049f8f6a256c874d2d46c06a5c353bb3c4c/dagstermill-0.17.13.tar.gz#sha256=839c0b62b9ccd2e567d2236fa1a84859c6e6c1cbda8777f006ef764c595a84a6" >dagstermill-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/35/c413f290b1905f8c84b2be539824d8a002209b302dca6526f22fa11e528a/dagstermill-0.17.14-py3-none-any.whl#sha256=4ca49cb8c9b63ab44838fccb353ee80193f459ac8efde572af50b1b4d518977a" >dagstermill-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/9d/8a0916ab8ce5a02a45e4e5934058567113c569cb4e3e14ad633577f7a656/dagstermill-0.17.14.tar.gz#sha256=ae716a97551682806f994080a8f800065b27600509b1824edbf0bdadc4feb9db" >dagstermill-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/b8/0695ba48d02151eafb5a40286b94d691cc6650b47454ae49c713e3b6ecd0/dagstermill-0.17.15-py3-none-any.whl#sha256=7d0321da1785bf93684d22bc4e4b1e46ce5ee55055b86b233d03dbb022459a57" >dagstermill-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/10/09954dff185157af38df142a06c3b8b0acef69b2c77a4695ae4b0c51beed/dagstermill-0.17.15.tar.gz#sha256=d6dfd30e81f800b90fbb1bf8bf4f092ba62c8457cd0ac6c9d5e14911bb246b53" >dagstermill-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/21/0fe2768195708a35b433889bf2e02112bb544b5ffec022d8b57b5e15e8a2/dagstermill-0.17.16-py3-none-any.whl#sha256=bae618d480209e4bc81f48543c79b317d0fea7773d06f8a0a04da7f9e4cc809c" data-yanked="" >dagstermill-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/c3/e4af115fbde5a9d74a99aa78a58ab4c9e3eae52e1c314adb82c4d5662eeb/dagstermill-0.17.16.tar.gz#sha256=22d848e72397e004eaffa3f45a770ed7c77be4a433cdffecb29d89a3a43c45da" data-yanked="" >dagstermill-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/61/fa247531309ba8ea7f27d0832d1d2a3c111569721b652582d711f853a850/dagstermill-0.17.17rc0-py3-none-any.whl#sha256=09045b5dfeeddf9ce15794540a612eb1aba2104113abd31c859ff8d42121da09" >dagstermill-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/9a/21bcd2ccb4821535ba48894c5d9f9b52fee1771e152d6caf80e967aeb373/dagstermill-0.17.17rc0.tar.gz#sha256=ee04e85189ed601e5d92ccee6a37fba07e12edb0bd3819b1e0f7c1ab429246de" >dagstermill-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/65/bfc7338e955e88efcba861348bcbe4ea7cbb2c99ff03bf679bd66c8ab043/dagstermill-0.17.17-py3-none-any.whl#sha256=4a8fa3eacb4a3f2914286d165b7a2a9b38b2b36d93ee32faa42a028e90fad849" >dagstermill-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/2d/1bcaeaaa318084f6cd78185261de4b1a78d6456693572105e967745d3011/dagstermill-0.17.17.tar.gz#sha256=da324b1d33ee4da085981499216f5c39947ede1d7e74b0063904dcd098255a0c" >dagstermill-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/8e/ac27d892eea4212d87888df391b22c76407540d152d16bccf7d32a53503f/dagstermill-0.17.18-py3-none-any.whl#sha256=3a41f2afb908fdc5d4f85508739bcd2911152242c8736b26ed223057421f9baf" >dagstermill-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/03/6c1d742ed7791176595681fb7209abfad01650e4c3928360ae547e0a5a00/dagstermill-0.17.18.tar.gz#sha256=7120fd8cfbb56254bbd5b52f62c09caa513c18aa94c51a4c52e2f44fa9313c73" >dagstermill-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/b4/731c8a924acab3ad7c47aeffb457ae6819e9f15d3cc404c80d798d7b2828/dagstermill-0.17.19-py3-none-any.whl#sha256=551fafffe7bfd8690e1e64d775d89d0ec3e51e9355ed3d6d692e889510117cac" >dagstermill-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/39/5c26fb9b08a6918a6bb20b4006c38cb6f2c5013d348ac808339e69402ed3/dagstermill-0.17.19.tar.gz#sha256=308efc2d536d8dec773b22be28f2f08d6d9f47f1d595e49ebb9782c6721bf672" >dagstermill-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/95/5b6e31c25952409a182b2e26e42817aa8f3061542773ac10454f157168f6/dagstermill-0.17.20-py3-none-any.whl#sha256=ea74f9b694137cd30a4a90ce22568c7a285f4838c3d6baea1313cc9f2371e3d6" >dagstermill-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/79/a438ce3c0c048b27f48d50d4f7893911fc2cc93452cc87ede407be201447/dagstermill-0.17.20.tar.gz#sha256=6edd13da11b217b95d88c9ae960f8897ceaa4023f7261aed92f2f61d4f488898" >dagstermill-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/ef/6d86075ed811ff0f6b9fc4a8baed2ebf926cc052ba2e29b43764035a7e5b/dagstermill-0.17.21-py3-none-any.whl#sha256=17783fcef9e499e282d964ed964ac4eddbe8239a87fecdf4d342a727bc89349b" >dagstermill-0.17.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/7b/14990fd936d0207a8d3180ed95db163162054b82b18faf86428a985d7066/dagstermill-0.17.21.tar.gz#sha256=257e479ace9cc603c0ddee891c537666ea94727c9121df4e518eae258286f4f9" >dagstermill-0.17.21.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/23/39/37ba3febf01e9fc9a95c98c031c89637f9e47f1a5bbd06dfed3a89e215fa/dagstermill-1.0.5-py3-none-any.whl#sha256=d2847b657cd7b3772bcf2236cbc0063f21462ca7ad2c1c110f822de10228fb2d" data-yanked="" >dagstermill-1.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/67/c6/4648c075aeaeacca52af1aa2ca9011e00692855e108fa32b71238499a701/dagstermill-1.0.5.tar.gz#sha256=c182e0b54643d14f905fe65e2055035c4dbc4e119309cd353cfac7bf70d9fd82" data-yanked="" >dagstermill-1.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16408537-->
+<!--SERIAL 17135855-->

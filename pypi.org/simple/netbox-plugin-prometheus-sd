@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for netbox-plugin-prometheus-sd</title>
   </head>
   <body>
     <h1>Links for netbox-plugin-prometheus-sd</h1>
+    <a href="https://files.pythonhosted.org/packages/34/07/d7b009592d105debf6b141d8e80f173651ace20bde0d1074a747cf6c193e/netbox_plugin_prometheus_sd-0.0.0-py3-none-any.whl#sha256=78584f926e888ba1c4968554cbadd6dccd38e7251b0421345120acc6befb3ac4" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/84/097217cd0971ae6bfa84d6d79fd297f9b2005548bc8daa825e8150b48bcf/netbox_plugin_prometheus_sd-0.0.0.tar.gz#sha256=d54e14a5357922b6bfedc00f7e4e462c2d808d57705f2dc09d58c182b8e02876" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/be/9118f9b822452f9bca25349d4d1adc73c94775964c5ec32817b2b40d3210/netbox-plugin-prometheus-sd-0.1.0rc1.tar.gz#sha256=b9514f59b9fd54da3925b93bf2609703ad01d23a2f9cfd8de21ca3a4c3620fa7" data-requires-python="&gt;=3.8,&lt;4.0" >netbox-plugin-prometheus-sd-0.1.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/da/8a/c21fbf65760e64ac318e7271e496981b601b3caba2d000d5b2f8322693ca/netbox_plugin_prometheus_sd-0.1.0rc1-py3-none-any.whl#sha256=db79d29c100292526b061160c18282751b6f1e4f041949872eca0d62ae9c64f8" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.1.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7d/73/7e1bec3dc5c3325efe94d8440ef41889f786a962d902d51635f5cb187237/netbox-plugin-prometheus-sd-0.1.0.tar.gz#sha256=45aa6cac6eeac5d3b559e1a6e4ac9fe1fe43be16a526e03ff533a2279da0231e" data-requires-python="&gt;=3.8,&lt;4.0" >netbox-plugin-prometheus-sd-0.1.0.tar.gz</a><br />
@@ -22,6 +24,12 @@
     <a href="https://files.pythonhosted.org/packages/97/03/eea3556c6b82b487b5fb518bd48eaca367a2f9ebafdcd0eb9df02f4cc136/netbox_plugin_prometheus_sd-0.5.0-py3-none-any.whl#sha256=26083850e0aa72d993aa4b98e6a001556657616bbc9856f6e1fe69edc56b731d" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.5.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/21/bcc4a79d4db5885fde661ceb4da7c8d4b76471aa670a437737585e7eff60/netbox_plugin_prometheus_sd-0.6.0rc1-py3-none-any.whl#sha256=27a3db2cbd6b18a622695db72ace90ad539b363d6513145995a51db324bc3903" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6e/61/42fefb187fdefdaf99fe6cbb9f5c6032ee6b460e0d7ed6f9a9c9c1456b78/netbox_plugin_prometheus_sd-0.6.0rc1.tar.gz#sha256=1487e31a77093ec2fa73e9a338b8ae4ffa6485dc272f4d41cf412af404edb053" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/0b/ab3cd99164b9e4801e97ad39a794ad5e58222c60026d0ece629d0a02cd6a/netbox_plugin_prometheus_sd-0.6.0-py3-none-any.whl#sha256=e723aa0d76976acdcb41ffb3130956c47e237b72cc376a27c68b1ca83911ef78" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/7b/265deb36ff3d8c4b5316f8bb298ae2c12021508b8d66b0d9d0a236d7b54e/netbox_plugin_prometheus_sd-0.6.0.tar.gz#sha256=c306dc4227a849834af2dc16e348d7748e1420bc3c11beff49e12998322c7522" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/d3/29edfafdee95cd08d18f1115965384369a5b669ad432a7dc2c97bfd81640/netbox_plugin_prometheus_sd-0.6.1-py3-none-any.whl#sha256=6e4a853473b348c919657e106d8440094f6869365fd0e1b82df5486c0bacc781" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/a4/a40d2e5e93c7f40a431e195027475aef7d480f70a7a47cf4b718f92d5f5e/netbox_plugin_prometheus_sd-0.6.1.tar.gz#sha256=c5f73cc7c0e542a85f0b679a887e0335c55b549263cfd4fae94191df7005170b" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/19/c1897b3f26a90d60a8911597ec0a86a70b4d2661f654e74bd50c4299bf38/netbox_plugin_prometheus_sd-0.6.2-py3-none-any.whl#sha256=ef87e4e7cc27d68f4b691b739521d67c3b00432b49754f4546fde55dfc8c8d71" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/69/74ef5ef5111547a6c5437b2495972b2976756059940de5d507ed5489c449/netbox_plugin_prometheus_sd-0.6.2.tar.gz#sha256=af16d2d7fd0a91cb4b5f265274a834d20748ce3df3e1acd44655dfbfaa1f702e" data-requires-python="&gt;=3.8,&lt;4.0" >netbox_plugin_prometheus_sd-0.6.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15522611-->
+<!--SERIAL 17063208-->

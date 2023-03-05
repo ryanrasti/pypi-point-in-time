@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for diamond-miner</title>
   </head>
   <body>
@@ -540,6 +540,13 @@
     <a href="https://files.pythonhosted.org/packages/51/76/8e6b0680802f32555af5040912af019135908dd8a3d60eaec383526380f7/diamond_miner-1.0.2-cp310-cp310-macosx_11_0_x86_64.whl#sha256=75a085ec97a11219f5700a5f2d82f1b7866267779bd4dc79add6b9e58f6d3f82" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.2-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/99/42/b8a3cb82c1b2954d3860b4e8446901c2b9df124dc80203b6d8dff61d271c/diamond_miner-1.0.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=2c3e90a99ba9bb35982d3ab50a8c3a613c01b4f933b9a1160a57f8bd2d5c4e60" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/ba/136eae96fd0952394efbcdf81c04c22028c0dde7cb8c391d8dcd8de5dd2f/diamond_miner-1.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a81c5c560dd37aff2b149e8d243010292c9a734fb441802c1178a8daf700dfca" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/3a/84d57aca07644e6a4fac6304eb0196aa633b5d451d33b944140a9d29a6ef/diamond_miner-1.0.3-cp310-cp310-macosx_12_0_x86_64.whl#sha256=7228bbe337b3b827e30a28d95b5eb0f21455dbd4626f49e1a291d4966e358481" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3-cp310-cp310-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/4d/2aaaf8549e5a6f2cbf35d1b2fe46d88d50b5e2721ac5b24bcdce769ceca3/diamond_miner-1.0.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=3f0fe7124a1b9fe95942cb9474dd853e71b4dad84e007418199d972e733d0843" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/e5/da8de28038ee2322c47241da5f6434ce25086532b410a3545685bca9971e/diamond_miner-1.0.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ea9ea4d74bb1bf62ca5a139ff67e0c7b95a325955d0e78bde760dc1982b5ee99" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/dc/0a50598972a0b82fa7e354d51b0d3cfbc60375dd40a4a7b97b5ea11719c3/diamond_miner-1.0.3-cp311-cp311-macosx_12_0_x86_64.whl#sha256=0e04a6ed386107dc79799354985e29df8e451db43ae1746a10522adffe518bbd" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3-cp311-cp311-macosx_12_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/9d/79e3f2ba24208bd512211b23392f970e61a418f60921338b1291bdb2dc58/diamond_miner-1.0.3-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=e9d08eb01691ffbec9b90e70af16ac42f783a63082da8f94673f710e7dde8bd9" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/4d/0391f81cbeb6985f10b47eba1b9d46275d01cb2fbf2d3673b2ea666a1218/diamond_miner-1.0.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9a9b1aa86146c8678049dc4a4616b9c896b4e6212286d19911a8a17f931cb142" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/fc/34b594855f28d6710bda1f9ba87b646b3530cc427df1b1bf95e7679d0e14/diamond_miner-1.0.3.tar.gz#sha256=0dfd28646862dad09f78fb07c02d97afd32f489987dda32765ae1070a5453476" data-requires-python="&gt;=3.10,&lt;4.0" >diamond_miner-1.0.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14876697-->
+<!--SERIAL 16942451-->

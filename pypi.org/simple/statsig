@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for statsig</title>
   </head>
   <body>
@@ -45,8 +45,13 @@
     <a href="https://files.pythonhosted.org/packages/22/51/e65dd139fa5ee6bbb619a5c3d900a951a623cf8103c24f9ba4f8c9aa162c/statsig-0.14.0.tar.gz#sha256=66fbeeb26ca25b808e6c88c799ff88598dee558a1195518f3d7de651dae12d14" data-requires-python="&gt;=3.0" >statsig-0.14.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/1b/f953639c12e667d8323be0458ab3d32983614be7c8914a1890cad41e3e85/statsig-0.14.1.tar.gz#sha256=c8c7d42e29510589044ccff2acddd60d03c277bc8a6cd5eddc5c936276b71979" data-requires-python="&gt;=3.0" >statsig-0.14.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/8a/0d3c8b93f54970480da500b6c3e4df6c59a551e78f10660309919a4a3dcb/statsig-0.15.0.tar.gz#sha256=3966408fcd9a4e6b0fda26c70c4c97c9b08639ea3267a6bd9d034aadb036d073" data-requires-python="&gt;=3.0" >statsig-0.15.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/e2/0d/18d0055d46528d7ad64eaa1c6b26227dc3f90374251b299d79ef4cfd0ed3/statsig-0.16.0.tar.gz#sha256=8bc143498f1bdd2aa1f1a623300d829958c3004f1f02ce7f2bcdcf8262bf1478" data-requires-python="&gt;=3.0" >statsig-0.16.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/64/7b/949ad19e12f13a4b4dd1e325c0ee5156f843aab174af1a74ba395608e698/statsig-0.16.1.tar.gz#sha256=57a121f98e38fe33ebf44f99a720fcd88342bcb17d3ffd30bcea2bd46c993b1e" data-requires-python="&gt;=3.0" >statsig-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/0d/18d0055d46528d7ad64eaa1c6b26227dc3f90374251b299d79ef4cfd0ed3/statsig-0.16.0.tar.gz#sha256=8bc143498f1bdd2aa1f1a623300d829958c3004f1f02ce7f2bcdcf8262bf1478" data-requires-python="&gt;=3.0" data-yanked="bug in global logger, use statsig 0.16.6+" >statsig-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/7b/949ad19e12f13a4b4dd1e325c0ee5156f843aab174af1a74ba395608e698/statsig-0.16.1.tar.gz#sha256=57a121f98e38fe33ebf44f99a720fcd88342bcb17d3ffd30bcea2bd46c993b1e" data-requires-python="&gt;=3.0" data-yanked="bug in global logger, use statsig 0.16.6+" >statsig-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/09/a1bccc29d9fe6143ca311112aa755359bc9f6fbee19c48f05fda609ea4d0/statsig-0.16.2.tar.gz#sha256=ff5ec6d4022f9230df575d689a2f7c1b64ab745b9c35c47a37cf7eb5d2fa5908" data-requires-python="&gt;=3.0" data-yanked="bug in global logger, use statsig 0.16.6+" >statsig-0.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/33/50e5e5dcf11917adb77fdae43f477f5381d1ed5f82c21809f13219c8d874/statsig-0.16.3.tar.gz#sha256=22fe1a3e78bfbbfa44720472d84bd8229374d26875dd75dc5f1a7fa73492709a" data-requires-python="&gt;=3.0" data-yanked="bug in global logger, use statsig 0.16.6+" >statsig-0.16.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/f3/1099b56c229a505186462f9e48d79815b386af5ab467486163a6c32fd122/statsig-0.16.4.tar.gz#sha256=925a57231c1180c53ebcd39991b0f044e2d832c0fec23fcac6354379b4855441" data-requires-python="&gt;=3.0" data-yanked="bug in global logger, use statsig 0.16.6+" >statsig-0.16.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/9e/6f77e4f64886fbab0fda9923ee37a46674082f841d135cffeac412a6ab66/statsig-0.16.5.tar.gz#sha256=35f2b506bb01cca86d02cbdddf8e6e659de9ea5f9b1ddc20cbc2f708eba2317e" data-requires-python="&gt;=3.0" data-yanked="bug in global logger, use statsig 0.16.6+" >statsig-0.16.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/96/eb2b4ca6f27801d43cf3517a6b9b7e51cdb5d745812fee5f74f96e5bacd5/statsig-0.16.6.tar.gz#sha256=381e69a77553daf0246e4d7de7267180538ce7eaafcb2d2df74c96251124a224" data-requires-python="&gt;=3.0" >statsig-0.16.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16337952-->
+<!--SERIAL 17147574-->

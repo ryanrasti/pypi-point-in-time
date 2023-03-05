@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fonemas</title>
   </head>
   <body>
@@ -13,6 +13,8 @@
     <a href="https://files.pythonhosted.org/packages/6d/0e/f4380fd8c232111adfbd7d96eb089d4b51045dd300e3f3870b9da7fa2424/fonemas-1.0.0.post2.tar.gz#sha256=051bf1ab6442633ffcae9097ad058d39ffd962f18555b936e04e097ab492fad0" data-requires-python="&gt;=3.5" >fonemas-1.0.0.post2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/b1/a52a866db2682fb73089e91200d27b76e951d256da7e80f30ecb0de8e29f/fonemas-1.0.1-py3-none-any.whl#sha256=f867f84816620a547ca8010301d409b4002ca8f10fa4ba29d8f7556463365f21" data-requires-python="&gt;=3.5" >fonemas-1.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/18/a9cb5406d941aeda9c3d523c228d96e4d8970f3533d19bddc2b4bab9734e/fonemas-1.0.1.tar.gz#sha256=a1d333e680466349506204fb00119b77132e7fdf508853bf3d43558ab70f0fe5" data-requires-python="&gt;=3.5" >fonemas-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/f4/60b2eb47affb978a48ccbf2303d997b9ce7f2fd6a4b29c1395a21a9d5f84/fonemas-1.0.1.post1-py3-none-any.whl#sha256=06501a65d105ce0cb2afd568f0fa55f4dde9de1df44cd1cd33b19c3709004d5d" data-requires-python="&gt;=3.5" >fonemas-1.0.1.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/c6/9423ef923b2c922615bb0032328b5f45d5e8a91d02082cc758eec17596c1/fonemas-1.0.1.post1.tar.gz#sha256=24d919fcd5f47f327f4cb50caf7fcfe3b3d95a4b09b1a482d12f4eed06df431a" data-requires-python="&gt;=3.5" >fonemas-1.0.1.post1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/02/b3b9d8ecfbe7e529c15aa1b96a09ba3fd2f6eee46b6d089d0df57eb5f5da/fonemas-1.0.2-py3-none-any.whl#sha256=62c9823ebd49ff7cfa70f341d3b08d2ba4f63bcede4080f8883140c6996fb640" data-requires-python="&gt;=3.5" >fonemas-1.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/62/cf/7c1bddf5bf8ee5ec546fd2c90965d7ac563ef8867666bff8f9ccf742390b/fonemas-1.0.2.tar.gz#sha256=2e5ed8362975167d8193c0995151ab907d332edf14c7a3485fb9e32d49b481c1" data-requires-python="&gt;=3.5" >fonemas-1.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/94/31e431a57f37218c370d5adce46217ad568ef4d577660ea767762e38334a/fonemas-1.0.3-py3-none-any.whl#sha256=379abd2d3f9d228ed0d4c6eeaf9b2e6e8242aa379c1ce452830c6650a587e6e6" data-requires-python="&gt;=3.5" >fonemas-1.0.3-py3-none-any.whl</a><br />
@@ -65,6 +67,8 @@
     <a href="https://files.pythonhosted.org/packages/da/70/6957f8775a706e0e32ba145be263060a522ba147563afbcafd936891ff01/fonemas-2.0.14.tar.gz#sha256=489e5f2707c1973036a09430fd095ef6746acbabfb88af1d978bfad67dcc9fa0" data-requires-python="&gt;=3.5" >fonemas-2.0.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6c/97/2b6a19b49d7d421c326f63ff1cb6cbe2556ade4dc3f61e08fa55e2443ec1/fonemas-2.0.15-py3-none-any.whl#sha256=30f5eaf7e84b720821c945a8a1b99ab251b8fca0a6182863a53b9d25dbe1d518" data-requires-python="&gt;=3.5" >fonemas-2.0.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/bd/08371e23be0206268009842695f41b3efae0e583c63febceb9947174cd9b/fonemas-2.0.15.tar.gz#sha256=570a63f0ab8512da4e69509c86cfc22354e6eb435ca39bf9c8366723a845c597" data-requires-python="&gt;=3.5" >fonemas-2.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/5b/0fc64a4c156845d41abcd17251170317af44c3c12f235bcc12b9fb96c19f/fonemas-2.0.16-py3-none-any.whl#sha256=65cac135a8426f5fa121378a170939ec28f5a6d3b4e3738de4b981bde17dcaf7" data-requires-python="&gt;=3.5" >fonemas-2.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/ec/d6fee00f2594df21f0be92f0a984f2236c66fe16662ca6c1c0d1c6ac2b0c/fonemas-2.0.16.tar.gz#sha256=35712a537d4be1e41a2376c0e8e1cb3f64aa254ccc1dac28c7c941a62084502b" data-requires-python="&gt;=3.5" >fonemas-2.0.16.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14884356-->
+<!--SERIAL 17123866-->

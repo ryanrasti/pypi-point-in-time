@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-storage-mysql</title>
   </head>
   <body>
@@ -134,6 +134,8 @@
     <a href="https://files.pythonhosted.org/packages/f6/cb/49b0934076204a4ad5298409a282565eab887e76d588c291420cd65841dd/watchmen_storage_mysql-16.3.23.tar.gz#sha256=5f2fa034c0dc8122f0aa695bd4913515405551394c328c916ef280f11851fe94" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a8/ae/68b58fa4f93f740f82156b7cdbbb0b2b6805850391709432f008bcdad509/watchmen_storage_mysql-16.3.24-py3-none-any.whl#sha256=ef3d9b24c19fbfe249e8c8ea806719826e41f276715690f1ce0ec3cb60043a7c" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/9a/89/55bf14391a3a71148188200eb0c796717b1f17a45cd38fa3d031d40b2837/watchmen_storage_mysql-16.3.24.tar.gz#sha256=b2ec433e8996fa7674bac235039774b7269c43ee09995c8998f375d2e77e1652" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/3c/949d7a363df2f24a8fb6196403e2e636ee1855cb634b8037527bb8fc77e2/watchmen_storage_mysql-16.3.25-py3-none-any.whl#sha256=dea7606aeef59abbdd73dd6e42a2fea073a346c30a3faacbb90c93c888fd5684" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/d2/17e45c76d27e149e40c1cebc666221e6cd46e7dee7b206432bfb1a9781f0/watchmen_storage_mysql-16.3.25.tar.gz#sha256=1b3114892ba72eea8a6feeadb7909d43d71f5b52c722a8479cff43eb64a2bc0b" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/57/aa/c532d6812bcc0491605dbcf23245f6a2501c3239f6e3bba0390dbe29c5c4/watchmen_storage_mysql-16.4.0-py3-none-any.whl#sha256=633bd7ab7cff3f94bbb24d0ee51a9cce2db03174566854c3d17470fa2f5d6a68" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b1/8b/146fffa5f2327522fed92be4a69bf8d50b12f793870187f06f86f2d452a9/watchmen_storage_mysql-16.4.0.tar.gz#sha256=2daed41bb3810f3efa8fed5f6e1d00e56a5183d2608beba60e457f245c33b8a4" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/be/bd6f667cf4b3d235e4ea98e0320e5d842fcdfafd1b9a6b296778eabcb0e5/watchmen_storage_mysql-16.4.1-py3-none-any.whl#sha256=b1f0d15f518c86356ae5ed7e0ddb562bd6fe8217b3196ee92173185ef8273384" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.1-py3-none-any.whl</a><br />
@@ -146,6 +148,12 @@
     <a href="https://files.pythonhosted.org/packages/8a/e0/e1b63923537fa529dd5b89b1d1bf043d5ce02f5aa8eb61b59aac38690edc/watchmen_storage_mysql-16.4.4.tar.gz#sha256=cf90fb3b318f01b90105a038d41f2e72066aed2d3a87d18b518a3816fb27ad33" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/49/88b61b8e5273383904a0a1fd78b73735fb61c630903e59eda015c3522f2a/watchmen_storage_mysql-16.4.5-py3-none-any.whl#sha256=9933777579395e04387d0c56cbd816872b836da3b7bb7a864eaf778537c09928" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/ce/a7d56e16a81a77b5128ff8d7e3486bc4fa13e79e552eff33f2303271f404/watchmen_storage_mysql-16.4.5.tar.gz#sha256=8164b88d3ef3f9ba601dec9f12f2fcb715d2ebc558dddd58816bcb5a2644a0b3" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/36/c1f5f697c6f8213680bc0f173b16787dd14ba8601984a9122ffd8b870d46/watchmen_storage_mysql-16.4.6-py3-none-any.whl#sha256=de14e5ed2c741f530d6b91d87255699b22bf7b644415a3c67150f907cbe01c24" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/76/ab20dde9ef9fe02ca853268cc1d5bd164c253eb2df6c875fec98a22b20d9/watchmen_storage_mysql-16.4.6.tar.gz#sha256=29442e233c8400a3142abc7bec7b086eb916cf48578767398f3948d16ae7e104" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/50/c952b73791cbe1a81ea8eab605c4d6b352408e1b21f51ec81db18531aefc/watchmen_storage_mysql-16.4.7-py3-none-any.whl#sha256=7d521eb2c5189993b6aabe73bb7937b4047b65c85045824dfc9a9fc1f3fb0634" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/7f/4108c4fed52783d319b15679d101c9154a5df4eeae0bafe1591e5b3b7f7b/watchmen_storage_mysql-16.4.7.tar.gz#sha256=d98138b0c89fb68e89361ee47c8feb321e006d04d8f797d19b6878008438e555" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/86/777d1fda1b942ec690e060588e909ef02571533aa46aa5996fbb4f0a143d/watchmen_storage_mysql-16.4.9-py3-none-any.whl#sha256=8bd8c1390aaa4e71a177e0f683def85e2e3928fe7e0af017d2c680ee592059dc" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/c0/74eb10cb133d721a7767b43351395e4f08f30590f696b7c39391f6df8330/watchmen_storage_mysql-16.4.9.tar.gz#sha256=a880c871c6eeaaf680a0aa8360914803863ebbebe19373e2794d75bcd8ff0011" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_storage_mysql-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398841-->
+<!--SERIAL 16991516-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for skorch-forecasting</title>
   </head>
   <body>
@@ -14,6 +14,18 @@
     <a href="https://files.pythonhosted.org/packages/d5/6a/cd344274174f2e8a101928f3771b7982e39ece424a47549c43378a7b4191/skorch_forecasting-0.0.30.tar.gz#sha256=92c62e1f3befcac5c8cfbf08b26133616a94a5ae713b768ccedd4756f53f9901" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.30.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2f/bd/b8a4e4ec976d35e85a91db9db53b4cf39eeed59248ac42d70cffb15d3e57/skorch_forecasting-0.0.56-py3-none-any.whl#sha256=fb685320786a68a3bccb329146a90a6ad2faef67b4ef8557dfe7d419f02379c9" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.56-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/1c/357351425a2d4cee599e4b31198b61c5bc27194bca4b31be7a94612b023a/skorch_forecasting-0.0.56.tar.gz#sha256=5adda3fb6732263d21a56fbbc53efde332f654b4e633b8d80d71edcfa1639f97" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.56.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/56/d647af78af504c1db1da7ad339f0d720416f754a022d78a13c9c9c063edf/skorch_forecasting-0.0.60-py3-none-any.whl#sha256=aae3e24eca3c13c78787d1254d05d33416a20fcbfc992d142a72e43d4b0d4aec" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.60-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/d1/313afd3c7172532b4f65a41d22b1be036202ec43ec61b05d6ca4ad5c4f89/skorch_forecasting-0.0.60.tar.gz#sha256=61a8e8146a0e7e1119a8b5cbf6917954b5f486cb7e59908f2731cfb802e3a497" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.60.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/30/87f079765a4a5cd6607c6436670004ba030e636d34a3fc7d636fdfdc18c7/skorch_forecasting-0.0.61-py3-none-any.whl#sha256=4f614fdf06d27ee1e4a7fa34ed02ef19eb969ffe710af02bccb1b779a257934b" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.61-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/d4/11596cecd1e6c801fb4d7c8774ef722595f8a72b427826e4936d8c9e9a14/skorch_forecasting-0.0.61.tar.gz#sha256=23161dd837c68fecca88ec9a6311b1b31adedaf3ed11373a5525be09774849dc" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.61.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/18/1b8b145791e5e99d0aafba9ee165e14f3746ebb34afde799b025c3d706c7/skorch_forecasting-0.0.62-py3-none-any.whl#sha256=21b8977eb4b8e87006b8f9cb06cbda8d4933895a8e3285043fc897087334d11f" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.62-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/f3/196d1c594154b201ca6f771393301604e7aaff77554fc9148f5c110690bd/skorch_forecasting-0.0.62.tar.gz#sha256=46046b458ffb93e92bd5f89a876d10a0b3350cf18c4b2fd1fab78a7afe6d94b9" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.62.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/87/4a1047ccb3011ca5ffd5b22efe7a4144137774868d040e36c0c904b856ba/skorch_forecasting-0.0.63-py3-none-any.whl#sha256=b2099bb5ccc523128fee574d2bb13d711ca95e58f9bffd82cc1a455e06cf522d" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.63-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/2a/b347a500264be124b20b953d0fdf91e51f49e7152f9fed88c3bbcc3513a7/skorch_forecasting-0.0.63.tar.gz#sha256=0a5818c45662cc482188b80cb874ec0fa33600e4147b1ea69f66303fca968696" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.63.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/ad/73af2a855af7aa5ce8145b5be35ad1b72c3d69d31eae7c9363fcc37f925b/skorch_forecasting-0.0.65-py3-none-any.whl#sha256=5a65c21b2f58a146423f1b9292fe5c5290144b2ec3ad469fdf7d1865e26a7da8" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.65-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/b6/606c7b6a639bcb9fe456c7cafe2191eee1e3b225257ee2ac54d9a10d7fe8/skorch_forecasting-0.0.65.tar.gz#sha256=b5e9bfcdf7b4bfa79a4366c0fc148cf35a4229e304fd6120b1ff77c70653daa1" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.65.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/83/6bab232b6113267f49e7dfde1226a3725201f1ce12afae36ce518947f216/skorch_forecasting-0.0.67-py3-none-any.whl#sha256=02c86e1b54b0d9c2a9c2cb659fd4e419554d7aa2efb33aa26de19661c5b971fc" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.67-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/cd/9e4a1ff879774ef6b53b2f5dbfd27740e1590d78227c6130c6ab52cde7a3/skorch_forecasting-0.0.67.tar.gz#sha256=dd7dd9df62154f267169681547d0d66f7b8a0f6116c912dee2cd827a214b2271" data-requires-python="&gt;=3.7" >skorch_forecasting-0.0.67.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15893857-->
+<!--SERIAL 17102588-->

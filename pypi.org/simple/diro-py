@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for diro-py</title>
   </head>
   <body>
     <h1>Links for diro-py</h1>
     <a href="https://files.pythonhosted.org/packages/37/e8/fd0fbd4b3303ab86c55af38ef44572568ea4656abcebc217e8ebe8fdb84f/diro_py-0.1.1-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=62d5d89150e65178dc06e0da7c9367582fbba6e17bdcb23d27b36688858513f6" >diro_py-0.1.1-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/87/ab/5625ffd83ec1bdfbca057d761b3e0fc9a8efa072f7f40fb79fa34d608b4a/diro_py-0.1.1-cp310-none-win_amd64.whl#sha256=6d974420a88c8e119d919b5839aed825d5a59f0e438c312ab2b464a36d745430" >diro_py-0.1.1-cp310-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/36/b85f36f39072de50ce855f6321f9972709fc3c50cbc7d11f1feca54eb2e0/diro_py-0.1.1-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl#sha256=ee021619d93d276e6e74ed3e113be9b6d4cb5050848e2c0780302c1e8435da4d" >diro_py-0.1.1-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/86/f2535451da2e0db355c16fdcd7c27b0460d34b6229e1ac69bf924156f554/diro_py-0.1.1-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl#sha256=33d0f7423895a820d8814c402cb569a5eef8a66cf41b5350fb462dd9b2a0153e" >diro_py-0.1.1-cp37-abi3-manylinux_2_17_armv7l.manylinux2014_armv7l.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/84/49ec3efd67511ae829d880d046520fe10842866d98a673ad412a80070ae2/diro_py-0.1.1-cp37-abi3-manylinux_2_17_i686.manylinux2014_i686.whl#sha256=f304f3a5c488ac3c866a367ec124cc00e207737926a71f8f6e3560eded5fcbb9" >diro_py-0.1.1-cp37-abi3-manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/9c/bca93b578c68a907d3bd113eb6e7a949c1c8693b0273e525e7ff5069db04/diro_py-0.1.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=06f08bcd522005832d51755e6aa91a26c4a2f25f90b0315685a6e447b9a7fa0a" >diro_py-0.1.1-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/27/86b20308baf3f9bb38d81290c73edbbdc76d84acb1c29107e1c46d116b1a/diro_py-0.1.1-cp37-abi3-win_amd64.whl#sha256=21744ed1490bf521de5a041c8363050e302a70acc3269779e13772c9a8154514" >diro_py-0.1.1-cp37-abi3-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/69/3c/c6cd8baf25f9525cf902d5176004a59645dba47563b327c773ce2cd8b07f/diro_py-0.1.1-cp37-cp37m-manylinux_2_28_x86_64.whl#sha256=23195138167fbd58aea49b35a57b674fb59436d6344d0c3ed559fd8ba8d284a3" >diro_py-0.1.1-cp37-cp37m-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/87/73545af3534055feb3c75aecc158146feedf6c21eccadb970c0d93d36f15/diro_py-0.1.1-cp37-none-win_amd64.whl#sha256=c43bc10a2498b44c4ad0b3509a52825c8bc83fba439f3b17f1b9b67cecd0927c" >diro_py-0.1.1-cp37-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/5a/1d5c75e67ae9b36ac207d804e38f704ab4da3fbd0c30be6a0e99a4a772c7/diro_py-0.1.1-cp38-cp38-manylinux_2_28_x86_64.whl#sha256=699e7d2d2673a41d1cdbcbdaf25196ea8850d7e1a2934bc7efed92e66440460f" >diro_py-0.1.1-cp38-cp38-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/46/91/dbb9df8a2e47b6dedad6ebcbbda78a45600520ef65bbaf868a10069020c1/diro_py-0.1.1-cp38-none-win_amd64.whl#sha256=5ecfd9b110158316179ff254c5044349001ac50fae753a20e688d0ec5d48efb4" >diro_py-0.1.1-cp38-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/02/ff/34bdb4bbe54f5c1a53645ebf6887e66a6f51ac5db1a1ed9decc3e4a90ed3/diro_py-0.1.1-cp39-cp39-manylinux_2_28_x86_64.whl#sha256=f20aca59ff76c15f053e6a105ebab64bb787d40485d9332937b67786ad4be410" >diro_py-0.1.1-cp39-cp39-manylinux_2_28_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/22/08/ccd445deca74c6f90cac809a6e2cb85e189372e5639ab93950aea17e4550/diro_py-0.1.1-cp39-none-win_amd64.whl#sha256=b769e3683b35b23a65c3f84947cb0298f3b787f93099cdf72656688b7e0de409" >diro_py-0.1.1-cp39-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/f5/bcfbcc62c4ab1f8fea12aa4ccd391f636d4049985963f7c6c174ba974f0a/diro_py-0.1.1.tar.gz#sha256=30c6fa683f29ae411319ef083d9ee203bad79f72bafb62154622d5bd59e2c03c" >diro_py-0.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14604535-->
+<!--SERIAL 16617149-->

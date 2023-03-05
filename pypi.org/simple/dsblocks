@@ -1,33 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dsblocks</title>
   </head>
   <body>
     <h1>Links for dsblocks</h1>
-    <a href="https://files.pythonhosted.org/packages/c1/10/17261c905e7261f174bd1e3bf392633603bc23b6dcd4170ba907cd6d2e7e/dsblocks-0.0.5-py3-none-any.whl#sha256=3e3c3ad93858ba9f44bc6b017ff29cc78062b3f9d60317cce758b47e7b22b1e3" data-requires-python="&gt;=3.7" >dsblocks-0.0.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/7c/38/47a77e1d603462088d2b59b92cd12b138f046b11bfb8a2723a7fcdbfc59b/dsblocks-0.0.5.tar.gz#sha256=e63f6f95b60928cd5a1ebbb64ba833f4d814e18af4f3981cc1359a1b500a4b24" data-requires-python="&gt;=3.7" >dsblocks-0.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/95/7d/17e939cb96b7ee6f21be1414114f71e76361c8e8ff3500dcad1472fd9ff7/dsblocks-0.0.6-py3-none-any.whl#sha256=0caad5daa9d9f35cf7dbb4904267c38dabf1096d4202bc80ec19fe77d623aa10" data-requires-python="&gt;=3.7" >dsblocks-0.0.6-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/75/bf/79a07b01ab6589ddcd446a3e8e18492978b233ad0c122c6c1901d8052a2c/dsblocks-0.0.6.tar.gz#sha256=b9fa14a87f3548e68d9bf5f4c652051674a78a96fee466dd290a775416e501d6" data-requires-python="&gt;=3.7" >dsblocks-0.0.6.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/37/84/d36eb918251b9f7db82255c6e113a6b4acffeee686b23752920e9d20860d/dsblocks-0.0.7-py3-none-any.whl#sha256=cd8bc857f0535fd3925379243d5efb2d5c1318b0966c3552329ed7f99420b21e" data-requires-python="&gt;=3.7" >dsblocks-0.0.7-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/0d/f3/a639d613e05658a27661e17d5cc77d9148ff689df9853339cb53dc43d29a/dsblocks-0.0.7.tar.gz#sha256=064999a459a3baf0b34d2b37499e2b5d4924d5412d61d2f1d4e9bf5801ba3ab1" data-requires-python="&gt;=3.7" >dsblocks-0.0.7.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/cf/60/ede11d7fe6f78477ca1cdd77dcf9609cb571b0b2ba71b9716ed3f7b9d755/dsblocks-0.0.8-py3-none-any.whl#sha256=69da503496026ea2f62aee86ad8febf0f49d271674b6966a2c3beeee641dcc61" data-requires-python="&gt;=3.7,&lt;=3.10" >dsblocks-0.0.8-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/38/93/3eee71798bed0f2b75458f84a26d321709be28e2ee5654ee9b3c767965de/dsblocks-0.0.8.tar.gz#sha256=0e6df233f99fb8db55bd412941ed7ce435f32444f85adbb454879f6352e030c0" data-requires-python="&gt;=3.7,&lt;=3.10" >dsblocks-0.0.8.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/fa/89/eb0dd1a19672fcf36219d173ecb609274d1cf04d54efa7f1d923d50e6447/dsblocks-0.0.9-py3-none-any.whl#sha256=5b705b17b6865f3e3e881870245834bad48cdb19b0edc0c0f9be535d5248bff7" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.9-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/c1/91/2528197e1130fd61d58536cc92624f5ca1cbf8ae7b1dfdd734f0889a2244/dsblocks-0.0.9.tar.gz#sha256=290b50f48eaaf308c05f3bed931e5ce1a056647a7518893ddb44e73cd53a9c04" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.9.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a9/c9/471a9847a4670ece354ee0eb664447122343be1d0b65a29955ea603a2320/dsblocks-0.0.10-py3-none-any.whl#sha256=388ad85d644e8e9620c6bce3d7df6c37d3c7befa425d276583297d8d1ef6de67" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.10-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e9/73/f4f2641a0505f9f0fd94a0e8c363a9225bed37d118e5007db4a8340d16e1/dsblocks-0.0.10.tar.gz#sha256=3df42547837d5b4cd96c25390afb900d0dd2352f4c0aca610c803e2bb88e0b83" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.10.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/66/f1/23c33c098bc358774b8a63a8f35b70360cefae7547cb7d6ef555154d13b3/dsblocks-0.0.11-py3-none-any.whl#sha256=d8ab1dcd1d5947ed7190275616feaba23973c00e3ee11862377d4d78df41d833" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.11-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ab/1e/d57cef2d1e14374254596f8da32746c72986f87a6867c71877863974a4ca/dsblocks-0.0.11.tar.gz#sha256=8b9bf4a3885a03376f3433883f84809d60e33c6af8be241496df750487c8874c" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.11.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/95/f7/288bfcea7fd23ce2c2295f87a97a08c1fcae74e4f746e3f82e7c84b1dc10/dsblocks-0.0.12-py3-none-any.whl#sha256=e75378a6d7bdc5c6413e7810798664126dc9fe56a52e7a37166d47bf862a3184" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.12-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/a0/f6/e85c80ed74dd710f1ca8768a32ecbd8abbee1ebf967b4914b028bf70f218/dsblocks-0.0.12.tar.gz#sha256=f6c92cef590c129fbee4423355e272f976002074df5c4b7533228a0397444ef9" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.12.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/1d/e0/0c20bd19dfd802bf55fdde905167f5a7fd73d4883d0e5ebca87e5411e7a7/dsblocks-0.0.13-py3-none-any.whl#sha256=0105c24deb06965c4e786706168a75b2769dd2aa614effb89f2d516b44bd8c3b" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.13-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/57/0c/283e2b0035bfb4291d2e389a1ea2b4138092af9e5ad44b4577f396c2337a/dsblocks-0.0.13.tar.gz#sha256=73f403c7db8808064036e22335904ec47b2f2c1f7af12165bb683c90442847bb" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.13.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/cb/40/a54f4ff2ab4e5a57fcda4d524773b35577c0044985a01b1a7c2076adb8cc/dsblocks-0.0.14-py3-none-any.whl#sha256=d9c10907e16b20f83bc50c9725c3f53518fe1aba63038d803ae78c6f4f7ed0e7" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.14-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/30/c1/fa6ab6bb78023bc1af33d631ee69f1b93df677d5d250492408fa435cb665/dsblocks-0.0.14.tar.gz#sha256=bcc4777772c76ab9adbf9e6eaaf5d6c3f3350155cbb85e6bc447c7e45091f75a" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.14.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/19/87/31c383d30c6d049b5d216e7b4cb72aa4490aaa9c26f932cca2bfa5c5eede/dsblocks-0.0.15-py3-none-any.whl#sha256=3b9344e504b25cecde2363e371d0c5b6a5a28e95c518d11a713a5360c9f3d787" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.15-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/53/8c/fa09d62eed830500936c28b86f6b89d9262140f6410b8fa39d207db2591c/dsblocks-0.0.15.tar.gz#sha256=6f42a171e296bfd4da99c19db9c7d64abbb517bdba9f9275ad438c4cdfd0b7c2" data-requires-python="&gt;=3.7,&lt;=3.12" >dsblocks-0.0.15.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15964215-->
+<!--SERIAL 16618057-->

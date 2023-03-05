@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for anyforce</title>
   </head>
   <body>
@@ -284,6 +284,18 @@
     <a href="https://files.pythonhosted.org/packages/1c/26/1b30fe6e8bafdede0cae6eaaec0dfa93a30723e6d4df481cb3dc6b1b3df7/anyforce-0.19.5.tar.gz#sha256=6cd64808074dba182c199a7b3a2b160095be3a3de1f1efbfd17fab8047c5eb24" data-requires-python="&gt;=3.8" >anyforce-0.19.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/f4/eceaf294ac5404d2133d4e0efd7551f42d21bbdef1afda9ba2e242664a3d/anyforce-0.19.6-py3-none-any.whl#sha256=5dd921caabb3f032d2defd1d3e4861afbac9146fcbdadcdb05f57a18a51253d4" data-requires-python="&gt;=3.8" >anyforce-0.19.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4a/6a/59b75831eb727cf5b5a8a1f8e6e0c0c69fde815edffe34a815e42622e4e7/anyforce-0.19.6.tar.gz#sha256=eb36a39bae868489e2419498ee1f0c21f9525545e612863168f3fd08b0994785" data-requires-python="&gt;=3.8" >anyforce-0.19.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/88/629cc28dfe383918f82efddfa26ffe267e2da6b2e7c4bb33306ed5a07a79/anyforce-0.19.7-py3-none-any.whl#sha256=0b9274f692d00c5921585ba7d5b9492e217a8c92d89f2c36eb6fd9cd63722d71" data-requires-python="&gt;=3.8" >anyforce-0.19.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/39/ecb7973a00ea159b5f1d788e9ec5a0b7398e2e05af210afc358f7d599647/anyforce-0.19.7.tar.gz#sha256=2ed2cea4e84fdca4098098a6d78cd5ced66719f607fdc41cb8991691f3929dca" data-requires-python="&gt;=3.8" >anyforce-0.19.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/32/f60d3dc712d03da0f7f71745bdc2dcf3efac74fd96f20ea83ed5b886a5e6/anyforce-0.19.8-py3-none-any.whl#sha256=afa8db42f2664ed55286f873fe5faf9048092e128e2bb59de2c78e8b85e85010" data-requires-python="&gt;=3.8" >anyforce-0.19.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/0c/7b34444358e63d017eb87e800d708b38946b98e969ad59a88fea84e7f987/anyforce-0.19.8.tar.gz#sha256=b043f33e40ea94710a108ec81ff2ac1c47387b031eaf84ed871fa3b50f6b3871" data-requires-python="&gt;=3.8" >anyforce-0.19.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/7b/a18a5f1ac71905ca9235b05847600c9325d81a369fbf1debe3409bffd93f/anyforce-0.19.9-py3-none-any.whl#sha256=7e11a68f6156ec6116b9be704e32b036ffc432879c75a27f3d579aa2daaee76c" data-requires-python="&gt;=3.8" >anyforce-0.19.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/78/1a6ebc2919099d75d520c36882fc5419f75cb99e268ed2c9bbb420b709b8/anyforce-0.19.9.tar.gz#sha256=2b00fc1c6a5b0d7d88d56d02d0a1c6c1f0ef42907fff47e59ea865ab7b2c11cc" data-requires-python="&gt;=3.8" >anyforce-0.19.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/ff/1782ed45c11abdfafd88a87df2a400f34e1a9b483e11a0b7b29dc2b45380/anyforce-0.19.10-py3-none-any.whl#sha256=a389a9f19b2925e829bcf887f247cb4985baefb387be2c1e8008b7638664fe82" data-requires-python="&gt;=3.10" >anyforce-0.19.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/6e/efab55456bfafa20e770d4f0954095c103b7ea691a741a665c4a2ccc07ab/anyforce-0.19.10.tar.gz#sha256=d18052f2a2419b2f5073dd09ed96d4a05e88762d75ba4a70152eafe18c0870eb" data-requires-python="&gt;=3.10" >anyforce-0.19.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/2d/d86201a5c72eb4fbe09ff9430ae94c9d5d58a3b9d622bf7182db1d30ed1e/anyforce-0.20.0-py3-none-any.whl#sha256=8d2c93a39e5b06344e5378e51d006ff88e2008d235804d48352985dc9f30d267" data-requires-python="&gt;=3.10" >anyforce-0.20.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/43/6c4d3e46648ed65c59a77098561387af57381b9f4ce92ac53dca12b76c7d/anyforce-0.20.0.tar.gz#sha256=0dc302db662302a0f80ceb3dc8e2dbbbea8ed62517e6747672527b6799bd2ed6" data-requires-python="&gt;=3.10" >anyforce-0.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/e0/4cbcd77260cbe6cc786f63fe33e6cb17da02ee893a2d5af0488a71c7e488/anyforce-0.21.0-py3-none-any.whl#sha256=2a524bdf7860cbaf23da342ed0ce90dfffd3788f41deaa2340ea40e75a93f2bf" data-requires-python="&gt;=3.10" >anyforce-0.21.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/df/67b2fd4d8d54c642030a31609784c25daacd3fee0d38949a21880f64126c/anyforce-0.21.0.tar.gz#sha256=366cbe7a68d0f2c69bfa2df3fc1819e9fd6f3f6ed92f0c5bf69be58a2f39fd8e" data-requires-python="&gt;=3.10" >anyforce-0.21.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16400686-->
+<!--SERIAL 16995259-->

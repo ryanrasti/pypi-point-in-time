@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flexget</title>
   </head>
   <body>
@@ -2441,6 +2441,30 @@
     <a href="https://files.pythonhosted.org/packages/44/2d/3c7ea70c17c361cfc2d9044b4894e9ca47724cba86acfc9f3854835155a3/FlexGet-3.5.16.tar.gz#sha256=cc3a503e2f72ae7488142338834eb4d39ec42b94a517efbb26e6035ac194eba6" data-requires-python="&gt;=3.7" >FlexGet-3.5.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/91/f127aec27661fa238934f775e9ca77602bb3ba289e51a5042a60f880a17f/FlexGet-3.5.17-py3-none-any.whl#sha256=b6e6202d757ade57e28890f993e1bd55947bb795a9ca37812ae46f2726e0d62e" data-requires-python="&gt;=3.7" >FlexGet-3.5.17-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/5f/149ad477d0fd4cdd3eb084b71f287735328c70edb4e08ce68c22c4ab59ac/FlexGet-3.5.17.tar.gz#sha256=47fff1a1358e70a77b40953d07dab81dcb1859ca7edee3d8c74faeb0b7ff3d77" data-requires-python="&gt;=3.7" >FlexGet-3.5.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/97/4911385ae8cbc0783fddfe9939e0281eaed7df31906a542a479a8b3b3183/FlexGet-3.5.18-py3-none-any.whl#sha256=f02a1355e65ec1a12e2f1f96c7654ecf7ff50a0e762a990befa1bd9090551b0f" data-requires-python="&gt;=3.7" >FlexGet-3.5.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/53/a4fd14a5ed7e4f1161962203d2a513003375960483b73efffbfa18c18695/FlexGet-3.5.18.tar.gz#sha256=812953f8e3a3fcdf4f0621ba25d7b4a3ece05f4927906226830cea09d694b0c2" data-requires-python="&gt;=3.7" >FlexGet-3.5.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/43/949bb3afe97b1328850fc0f055cde5be68d5488d606f9233dfd6f541a564/FlexGet-3.5.19-py3-none-any.whl#sha256=0b8c107f24435f921589afdc1a45025a8cdf5da7c99cf5785a153ba00ead38c1" data-requires-python="&gt;=3.7" >FlexGet-3.5.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/e0/4c4142a4dbd2fbd6f5b82851d361022a04c84896f892170cb3ffbc951abf/FlexGet-3.5.19.tar.gz#sha256=866c3a7b6c01e2a7e244e17964eb05cd59d1565c8db0d6463175096928aa138e" data-requires-python="&gt;=3.7" >FlexGet-3.5.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/1e/d90c93a21da864678744d004a20bf9493f0e92ddddb93b028ba7a706502a/FlexGet-3.5.20-py3-none-any.whl#sha256=37c97bf94303a68900eadfdc8321c23abf7bf2d0c6dd501351afd04f7146cd85" data-requires-python="&gt;=3.7" >FlexGet-3.5.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/26/9f532f63ddaa4b4b3046ad65bdb6a1c69062780a5895fd00696000e09407/FlexGet-3.5.20.tar.gz#sha256=4fbc407ea996a2f0d69992fe1f4a406582fffe8ec56acba1d4cae0abacd0770c" data-requires-python="&gt;=3.7" >FlexGet-3.5.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/34/54d05175118044f3525396244a73710623e94aea2d81ea3eec071fd674e7/FlexGet-3.5.21-py3-none-any.whl#sha256=dc8a505b5110437eccefdc3fb3e9b95a48fd360a26c5b30ca77e3db1e3d98d14" data-requires-python="&gt;=3.7" >FlexGet-3.5.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/32/13e67683f01ccc747448293ec26b28e30384298765f1d74fd3ae2706ea1e/FlexGet-3.5.21.tar.gz#sha256=ae4ffe7ab6f047f6d88e5f11dfce80fa78a7ea88abf7a341b9c4d06afcdd0a01" data-requires-python="&gt;=3.7" >FlexGet-3.5.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/56/5beca374ef8ed434b82875073ad6943c1b8dc994e01b9625f9ffffc6d259/FlexGet-3.5.22-py3-none-any.whl#sha256=e15f9cebca93064306a14ef3aa608d92012480beb631a6f5282d00b1aeb51b5a" data-requires-python="&gt;=3.7" >FlexGet-3.5.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/28/20a258acd645f26f4814d21c4250c7ce79dfb525e1b92c39616e0b3b66f6/FlexGet-3.5.22.tar.gz#sha256=a1f3fb7fe332ae5852a3075bee564180e7bc8f9437970b74c392983805d300ed" data-requires-python="&gt;=3.7" >FlexGet-3.5.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/bc/c90cf1de6064225ecbf3a5f69642a682d15e179f2386d862e8ce01d45d5c/FlexGet-3.5.23-py3-none-any.whl#sha256=f66ded48e8c105dfef8c91fc906d8fa7a61064fb80a41eb76f479ba320dba2fa" data-requires-python="&gt;=3.7" >FlexGet-3.5.23-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/76/66e71c2e77ea6757eef7183dd718e07280381122e383a414fdd455c4c1d8/FlexGet-3.5.23.tar.gz#sha256=e2a40a020bc49736a4df99567141ea3bda275e7374f46d0367c5b5488181e80c" data-requires-python="&gt;=3.7" >FlexGet-3.5.23.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/3a/807499a01ee42e9f11133bc31c77f4126f7d3d04fecf62936ec7a79f1a36/FlexGet-3.5.24-py3-none-any.whl#sha256=e1e2a28bdb4e120779d2d3e1602090f992fe234df259cc8ffa5b746f2d240a47" data-requires-python="&gt;=3.7" >FlexGet-3.5.24-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/47/6f1c1a4b2b5ccc246dbcf408fc69b747927b277eb66d0371bfdee3664b44/FlexGet-3.5.24.tar.gz#sha256=a99278245145d29c45b1418446b1bf243dea8393a2f71694029e95f20389b0b8" data-requires-python="&gt;=3.7" >FlexGet-3.5.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/fe/d08a6bacfb35af856756610816ca9665ff425feeafd32a7f1f4367cedd35/FlexGet-3.5.25-py3-none-any.whl#sha256=5fa3c54aa3a56dcd7d7c9097f9d4f9f67fcfc50e246d861bc0c30bd47b2254f1" data-requires-python="&gt;=3.7" >FlexGet-3.5.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/9c/b7120e5ec82d98571ca0a5775608b556fca7d9c19629173b520970d7f867/FlexGet-3.5.25.tar.gz#sha256=4fa438509d3abaa289f0ecf87e54b4bd50c2e593a4c022f35e3d22d820a47044" data-requires-python="&gt;=3.7" >FlexGet-3.5.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/aa/1a624449a339ff4958afceac768de05e1103813305b8053a36dfbf72bab2/FlexGet-3.5.26-py3-none-any.whl#sha256=5fea21374fd9e54ad65c8b92686dc12698fed601ec1a204b18e662d914d6b08f" data-requires-python="&gt;=3.7" >FlexGet-3.5.26-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ba/4df2326b2c04b3d07fd24940355788af68b56edec3e58d6342912638bb81/FlexGet-3.5.26.tar.gz#sha256=38c0a952473b1f68025197aabfaffdf58dac2b0762a9d0ef31aa0a2ac6319a4f" data-requires-python="&gt;=3.7" >FlexGet-3.5.26.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/c7/95e1aef407c397464eb03eb08d3bac7d83e3d9add0fd514545191e178300/FlexGet-3.5.27-py3-none-any.whl#sha256=0c3f4d2b07dc6b2db4a57c72e5cffe3cc169ad98197a95a85b42bfbad59cd366" data-requires-python="&gt;=3.7" >FlexGet-3.5.27-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/f5/2e692b72c3e8d6b38ee8797fb9f51203dca4e3ba7bd350dfa5c7f9a09bed/FlexGet-3.5.27.tar.gz#sha256=45e6e370dcceb32076ac32aac1304b9c6cda098de47bb7cf4457fca2ad2973dd" data-requires-python="&gt;=3.7" >FlexGet-3.5.27.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/4d/e4878ed03d3a1eaba3212f30dc63b678510b6a7b68b8577c8cd3130172f6/FlexGet-3.5.28-py3-none-any.whl#sha256=42e54047606d66a126070f707d9eff1c653d5a989bb1946abb38c632910b2e8e" data-requires-python="&gt;=3.7" >FlexGet-3.5.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/a7/e00b665a344bb0305d892a806e41f8fa255884acbf987fa441c72b990a15/FlexGet-3.5.28.tar.gz#sha256=366d910061f693a0c4a77c3bffe3e7fdd507ca92b72066066f44ab7f2132b4e2" data-requires-python="&gt;=3.7" >FlexGet-3.5.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/fb/b4ff8737c4203a402a27dbcd64b10ed72795411e8aa11123d8a040eaaa32/FlexGet-3.5.29-py3-none-any.whl#sha256=5727d93cc9bb1a7f87d277d5c3b7033a0a054d349c7f795a83683d504a750523" data-requires-python="&gt;=3.7" >FlexGet-3.5.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/c8/b9830f8e5fe72aceb16bf2e003699a39ece59d44686b3721e5c46025471c/FlexGet-3.5.29.tar.gz#sha256=c5dc9cef3f711f22d85b48d498733afe3b9349dcf8cfc173a8775e0dd30b74ba" data-requires-python="&gt;=3.7" >FlexGet-3.5.29.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16290754-->
+<!--SERIAL 17113077-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for soundfile</title>
   </head>
   <body>
@@ -46,6 +46,20 @@
     <a href="https://files.pythonhosted.org/packages/cd/5a/14906b5f4911ab4d6de179667ff7aad4412b3b2456f36060b6bbe86dff9e/soundfile-0.11.0-py2.py3-none-win32.whl#sha256=08d9636815692f332e042990d449e79b888d288f0752226d8602e91523a0a29b" >soundfile-0.11.0-py2.py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/c5/4a67efccbb2a8e2ae277a2f679d3ccdd2fcf882e882fd51cd671511336d5/soundfile-0.11.0-py2.py3-none-win_amd64.whl#sha256=a4ab6f66ad222d8e144dcb6abc73fbb867c11da2934b677f9b129778a6c65112" >soundfile-0.11.0-py2.py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/be/d5546b16c06f98d0eada0730a135d2650b1e947d2ebd656d4efb9b3c371c/soundfile-0.11.0.tar.gz#sha256=931738a1c93e8684c2d3e1d514ac63440ce827ec783ea0a2d3e4730e3dc58c18" >soundfile-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/2e/654509927df106d259f2e4e0eb703f248bf18bfed855a53b21d19fa3de8b/soundfile-0.12.0-py2.py3-none-any.whl#sha256=9e7dc313f4f1e835f3b3bf35fd7c2908bba31bd6080727f075799b7a03f8d426" >soundfile-0.12.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/cc/f9611e5795c169905e578b55717a5807cc0ff320622b84e1b7291c654c7c/soundfile-0.12.0-py2.py3-none-macosx_10_9_x86_64.whl#sha256=ff687a6db726229adc93e7df93e6bd80ffb041a0c4d84fdf6659f14fa32854bd" >soundfile-0.12.0-py2.py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/17/a747e263f18ace4cfe86bc9fce58a124cb4b776f988a9d2a48f90af792c3/soundfile-0.12.0-py2.py3-none-macosx_11_0_arm64.whl#sha256=29623eae59f22d8c1b18d8cab90d39de1c834270081e3e50bdcafc95d6dd7bc9" >soundfile-0.12.0-py2.py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/bd/0592fda86b85c54c51576b0e7653097da2e279cd2293c1b6d45126b22a0f/soundfile-0.12.0-py2.py3-none-manylinux_2_31_x86_64.whl#sha256=a90a27ce766dbc2fbdee91bf549d4e60ebbc2b94a2c2a7f12ca48b8bbe7b0123" >soundfile-0.12.0-py2.py3-none-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/fd/ecbcf931fd73d51ca03928c9aea32eef448df73f45738f4548f1e4953557/soundfile-0.12.0-py2.py3-none-win32.whl#sha256=63f320b284781a346f1244f1bc8505567f1340d0ceb8841b4e3b598c9eec9d0c" >soundfile-0.12.0-py2.py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/2c/86e3810cf60f62a6dfe142df103f2d70afb20d4755186e7b2c5af7546d26/soundfile-0.12.0-py2.py3-none-win_amd64.whl#sha256=5e34870f8e8aef60be350fd4c0aa7f294497b615e39e4bbbe5e87181af93aad5" >soundfile-0.12.0-py2.py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/ec/14564fc73cbf50cbc92a51094966011b303b66a1c66884f227bbbb7eb7f7/soundfile-0.12.0.tar.gz#sha256=e50c42733ff5396e49a6a689722fa362387b2c403273bcc195994bf4a8e2df3f" >soundfile-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/bc/cd845c2dbb4d257c744cd58a5bcdd9f6d235ca317e7e22e49564ec88dcd9/soundfile-0.12.1-py2.py3-none-any.whl#sha256=828a79c2e75abab5359f780c81dccd4953c45a2c4cd4f05ba3e233ddf984b882" >soundfile-0.12.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/73/059c84343be6509b480013bf1eeb11b96c5f9eb48deff8f83638011f6b2c/soundfile-0.12.1-py2.py3-none-macosx_10_9_x86_64.whl#sha256=d922be1563ce17a69582a352a86f28ed8c9f6a8bc951df63476ffc310c064bfa" >soundfile-0.12.1-py2.py3-none-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/87/31d2b9ed58975cec081858c01afaa3c43718eb0f62b5698a876d94739ad0/soundfile-0.12.1-py2.py3-none-macosx_11_0_arm64.whl#sha256=bceaab5c4febb11ea0554566784bcf4bc2e3977b53946dda2b12804b4fe524a8" >soundfile-0.12.1-py2.py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/07/7591f4efd29e65071c3a61b53725036ea8f73366a4920a481ebddaf8d0ca/soundfile-0.12.1-py2.py3-none-manylinux_2_31_x86_64.whl#sha256=074247b771a181859d2bc1f98b5ebf6d5153d2c397b86ee9e29ba602a8dfe2a6" >soundfile-0.12.1-py2.py3-none-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/0f/49941ed8a2d94e5b36ea94346fb1d2b22e847fede902e05be4c96f26be7d/soundfile-0.12.1-py2.py3-none-win32.whl#sha256=59dfd88c79b48f441bbf6994142a19ab1de3b9bb7c12863402c2bc621e49091a" >soundfile-0.12.1-py2.py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/ff/26a4ee48d0b66625a4e4028a055b9f25bc9d7c7b2d17d21a45137621a50d/soundfile-0.12.1-py2.py3-none-win_amd64.whl#sha256=0d86924c00b62552b650ddd28af426e3ff2d4dc2e9047dae5b3d8452e0a49a77" >soundfile-0.12.1-py2.py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/96/5ff33900998bad58d5381fd1acfcdac11cbea4f08fc72ac1dc25ffb13f6a/soundfile-0.12.1.tar.gz#sha256=e8e1017b2cf1dda767aef19d2fd9ee5ebe07e050d430f77a0a7c66ba08b8cdae" >soundfile-0.12.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15522475-->
+<!--SERIAL 16873039-->

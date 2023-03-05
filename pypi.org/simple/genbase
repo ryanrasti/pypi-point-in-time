@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for genbase</title>
   </head>
   <body>
@@ -78,6 +78,26 @@
     <a href="https://files.pythonhosted.org/packages/f3/4a/7a525a3f2511bd03bdbfe57717c927ab54297edb82b7f039deea79c8e584/genbase-0.2.10.tar.gz#sha256=cbdc32c2cb7896c9f5fec71c28b003f4498786c7822bf5549e9fbc769dc001bc" data-requires-python="&gt;=3.8" >genbase-0.2.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9f/7c/f1cbd72c36b2983aab5c6fbd5551d4039f586787bd007969cb4baeb556e5/genbase-0.2.11-py3-none-any.whl#sha256=5157249b6e3721b3294c466d60c8c42dd0c7d16446d6e6a9a32ce72a19505467" data-requires-python="&gt;=3.8" >genbase-0.2.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/60/64ab61e23006502b74e527ef04839007b39ed078dd6d9ec934b6f1707877/genbase-0.2.11.tar.gz#sha256=2ca6a606091324cc91a82300c9f8b3cc7a184ca524058cb34d4af1d3c0573c30" data-requires-python="&gt;=3.8" >genbase-0.2.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/e8/48087c986e4be901f0aa515cb31a23a7887b6562dff3d415954e7a0f3a8a/genbase-0.2.12-py3-none-any.whl#sha256=2b40aff00722c69a4139b1e59ecc15ca34fc210f4c79ff82fdfea9b025c9aa62" data-requires-python="&gt;=3.8" >genbase-0.2.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/5b/7ab430a23986142be77b6fd2006acdaee97258efbffa024bc67b7ebe3c6a/genbase-0.2.12.tar.gz#sha256=c294844d057f0ee8884a92ccaeed23c6e5d523a12c3265f818d5c170ee94577a" data-requires-python="&gt;=3.8" >genbase-0.2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/03/1e80404db2ad141965258f8740ca479fa3b8b1d7b9b9fe9b6a7e7a47de92/genbase-0.2.13-py3-none-any.whl#sha256=39b893fdf9de788f61fff977ae156390ebbbee96c3882de120fe42298a2efc66" data-requires-python="&gt;=3.8" >genbase-0.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/8d/e15b360f422dfafd0fb954c39bfd9957b977e114e6457fd2299d783b8568/genbase-0.2.13.tar.gz#sha256=8464802ffe0425fd6dc4aa46f74db8f9a663321eb43b0b9634eec58171fa4805" data-requires-python="&gt;=3.8" >genbase-0.2.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/d0/004841a512f2562ee3a5d719ab1d9d3c29ec08d83b84d09c37d565d0d9f0/genbase-0.2.14-py3-none-any.whl#sha256=b5d2dedf081d7d6d79e90b74ae50c3db98c006275993097bf7bb6338537795f3" data-requires-python="&gt;=3.8" >genbase-0.2.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/54/ed4d51a2f8695d3b0d312c02442db5ccb722a885507165c67e7a70607053/genbase-0.2.14.tar.gz#sha256=1853df024ea4ed5d57d9af91e4c30e6b09337a33f7ff863742be0ae85673032e" data-requires-python="&gt;=3.8" >genbase-0.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/32/b335f0ee91224176bb48719a68bc0e9ab4d633f650714bfd384bd1116da5/genbase-0.2.15-py3-none-any.whl#sha256=e9039f0710e9a1e7cc8444a16671efe978076a15f0deafd4c2a0eedbe47a5fad" data-requires-python="&gt;=3.8" >genbase-0.2.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/5a/2b68c2a3d9918a2c889769a0f4327a5f0abdc9c2cfc6d162180f2ed1f4f2/genbase-0.2.15.tar.gz#sha256=a186fa124437b3804adc8201eb4c381f8227b944ebc5d60007bdfb5419817229" data-requires-python="&gt;=3.8" >genbase-0.2.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/86/4b901b4ce9a48962d57b2199d53c16262cdeec5a15298a92e83198a09a34/genbase-0.2.16-py3-none-any.whl#sha256=e85f712fd62acff31f66267072ffe910e53d7c1d506d63c3da8f5c8fbd186a2d" data-requires-python="&gt;=3.8" >genbase-0.2.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/c2/01a90a47ad5de8afb8332c8c8ca7e3ce03cc1458bba4e0bf3fc58b570b15/genbase-0.2.16.tar.gz#sha256=2cc1430a8b5839270d62d6c926bf8bc1a9ed4b553e8c97dd80e230fcf47f9e1a" data-requires-python="&gt;=3.8" >genbase-0.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/0e/423f6228af1b52a1cb29d2da9f409f1348ce12f5171ea44bcb7189401d32/genbase-0.2.17-py3-none-any.whl#sha256=96652418a96ffd89509332893d5d72f90d60ce7c5ef657757c621790f0ca7f9d" data-requires-python="&gt;=3.8" >genbase-0.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/80/6530a68eb4ff2b76352a32d5fb764166b385e2084a165134b5e481b725f5/genbase-0.2.17.tar.gz#sha256=247768088a5845cc91f29df17a11f4308f7fbccae6b769fb4227faa641b75558" data-requires-python="&gt;=3.8" >genbase-0.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/0c/190619ac7132a8726178deea0c401d1c0eb6e1bf8c2230195cc13e5343e0/genbase-0.2.18-py3-none-any.whl#sha256=0f9ed80d38f02a258f56d70faa69cd43f02ec4d3ba03f33f77983abff215d650" data-requires-python="&gt;=3.8" >genbase-0.2.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/66/0ed981f9a22f807468f74b4a05f99af5b4e19cbb4ac0f5a3d77c51296c37/genbase-0.2.18.tar.gz#sha256=482f2a264772fe456a88f359b78e0c4e87560b8d8db3c6d268a7c2043e648f36" data-requires-python="&gt;=3.8" >genbase-0.2.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/49/caa95b6f257e867457ce0bb770a091a1c2fedbcba9bdb45b96093dc7f06e/genbase-0.2.19-py3-none-any.whl#sha256=6b03fa05edbe345476ede3ea4d3349bba0e8b4351c48957500872f9e172d6627" data-requires-python="&gt;=3.8" >genbase-0.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/72/26502a96df5c0791e4858be3d7e33d7969c97b3b6b10a880b991ad734db6/genbase-0.2.19.tar.gz#sha256=3cea60f09605b1dd781717f005ffd47e6d3d7dd297e9b39fc70c475674781696" data-requires-python="&gt;=3.8" >genbase-0.2.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/26/c0535732dc2db04ec543ed6ccf58e971b15b72c356eea4f3b4e65d2fa5a3/genbase-0.2.20-py3-none-any.whl#sha256=8333d37f7d1a58dc0f524c3b04e0734f30fed9220bfe988b66bbc04e36f9465e" data-requires-python="&gt;=3.8" >genbase-0.2.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/db/8d324b72dfcebc7c0a72ce63b74c17387bc4fe42ab61f289e62d71d28d3a/genbase-0.2.20.tar.gz#sha256=1679ae6bd48ef4fd2a29b24d41ddf24627e60734ae8fb0843e2fe26e78dd31a8" data-requires-python="&gt;=3.8" >genbase-0.2.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/c4/6bc5a8f020621f25810fe38ce8e767fc887934a21e6fe215ed30410ca75a/genbase-0.3.0-py3-none-any.whl#sha256=89b3aacd1be84d0413984cb816bb1a03b754f1d3e3df1f42ecf5e8db048ff640" data-requires-python="&gt;=3.8" >genbase-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/d8/d9bda3720a3f6d126fb0cfc879fa0b3b85f6c70d99db275d83be08445ec6/genbase-0.3.0.tar.gz#sha256=599987504a22c3e6e6386344f75388db678355ec8e45e812ace669446fb76885" data-requires-python="&gt;=3.8" >genbase-0.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14444811-->
+<!--SERIAL 16979785-->

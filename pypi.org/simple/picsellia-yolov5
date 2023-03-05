@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for picsellia-yolov5</title>
   </head>
   <body>
@@ -44,6 +44,9 @@
     <a href="https://files.pythonhosted.org/packages/90/bc/20b48b99738c5db7f1ea90eca44fa04e5cd3182945bcb07547e04a81bd45/picsellia_yolov5-0.1.10.tar.gz#sha256=86ab767da7c57a59588d0842d62a3264ee8753b506311918eda06c5747bdcadf" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.1.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/ab/dc7a0259d9ff64fef0d934ed854d7226312e9f7be52bcd655b212163ad64/picsellia_yolov5-0.1.11-py3-none-any.whl#sha256=c0042bac9680de22b14d4e2aed598e590ec5124a76520b79c7e634817ab25a95" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.1.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/93/27eb7ee36bf747b361074681ab26537770f2d823563d62283ebac1634f67/picsellia_yolov5-0.1.11.tar.gz#sha256=760b7e2d3da403da4dc287f9459e0f21d0d7933bfd6ce477fa19c37b5af8657f" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.1.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/5e/e64ab413d4e10e16d5e0ffa6388d71b33a0b39b537321933fe70788ab0bf/picsellia_yolov5-0.1.12.tar.gz#sha256=398ad4748ff2fb8b01ff7f21577b966741539e03d6127b729c740f5a7fc76c9f" data-requires-python="&gt;=3.8" >picsellia_yolov5-0.1.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/ca/bd52d020ee8cf6f8f408721a7bf1d5746cc9fe26a86b65f040d594060347/picsellia_yolov5-0.1.13.tar.gz#sha256=d3fb4400ae8dea2c2df4699c96a53fee3423e8c6ed0bc1c001f721df4b200b75" data-requires-python="&gt;=3.8" >picsellia_yolov5-0.1.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/d1/c63b4ab78563646cbf01444eb613a553e92adc1830c663bedaa36640f896/picsellia_yolov5-0.1.14.tar.gz#sha256=cdaa7628156048d7921021df2e5f4fbce7fe96cdf3a394a4f760ee2b75e4a27e" data-requires-python="&gt;=3.8" >picsellia_yolov5-0.1.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/27/bd714a45edd8cbc2f008f7deafebc00c66e71caa51629bd097ee2d9a4b80/picsellia_yolov5-0.2-py3-none-any.whl#sha256=4c6f5673ede0857e1d193f5bcc6b4a772a31ef77bcf82836c02e26e9b249c882" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/de/ce/0758bdea7a5cf0d089074a82dfc423020f74c0b8ab40b4fdf5eea7482556/picsellia_yolov5-0.2.tar.gz#sha256=5bf34dcb32108b4c40a772be4f1304c688084e95a1d3c8073e9f13f7ad6f39e1" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/d8/2241b4d214b2849bbb4559470d84d495626759720656a8891e12415b2688/picsellia_yolov5-0.2.1-py3-none-any.whl#sha256=3da732f9388a633e0ce9b0194988ecfff9aaab6ff466cfbc7072f3aac7534e35" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.2.1-py3-none-any.whl</a><br />
@@ -56,6 +59,16 @@
     <a href="https://files.pythonhosted.org/packages/7f/73/3358026a962c8346889b2d167dac88838e7554b23e2003559bd8caff5252/picsellia_yolov5-0.2.4.tar.gz#sha256=6c69c7a9c8dfc0a4ab8860ed40f2d5d9446e209882464095126f2289a5f7642c" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.2.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/31/26/81473adaafec0cb4d17bbafc214a4d27576b7e492535761a79edf0d034bd/picsellia_yolov5-0.2.5-py3-none-any.whl#sha256=8f374a704082fd3c15fb92e35788a7282788bb01a1fb6e4255a0e97ed15a0d95" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.2.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d3/8d/620f8fd7271a236e6cd5b7f8d2f2827539174b84edf398f6d91f7f897a80/picsellia_yolov5-0.2.5.tar.gz#sha256=6fb80d077a5ac1b8228d83678b8ffef18eb79e419eb4d57731bcbe7c532096fc" data-requires-python="&gt;=3.6.9" >picsellia_yolov5-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/94/14a6890460cf7829d02b81a887ec0de8a958240d5abf7d78e11896e7d487/picsellia-yolov5-0.2.6.tar.gz#sha256=a973a66cf7b12f77d31057c8ca2dd560153480598b60afe9687f481995f9de68" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia-yolov5-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/41/2ddb2f8300710739a8b4993d71e670478b7e3be238adec1e47faf915000f/picsellia_yolov5-0.2.6-py3-none-any.whl#sha256=363672951593a955de8c595e40199e12cd2d6bf8218708892dba1d4cfb7c1ed5" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia_yolov5-0.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/2c/e188db87750dc92dbe4b1237871d022ce204190b61edff8eb53bb9d25892/picsellia-yolov5-0.2.6.3.tar.gz#sha256=967bc900717e298e88a65878d7ef78370b3f5a4ccc7b506cf4938f754f9d8830" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia-yolov5-0.2.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/cc/13685b6bd7cdd5683b1bdca8496ef209c9dacc7f2dbc3603b5b6cc03c729/picsellia_yolov5-0.2.6.3-py3-none-any.whl#sha256=b606906fbad0d16bb06dc406ed7dd6c92f3c4fb869c6237073bcba27928ffecc" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia_yolov5-0.2.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/3d/79635b8d6adeccd9e49e9fc66413eec2cbb8bfcefeb19ac33891e124e779/picsellia-yolov5-0.2.6.4.tar.gz#sha256=3e7fbee1113cecd8f7563448444b5efab83856ba13a593281383f2aef4e5522a" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia-yolov5-0.2.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/2b/51380dfcb8a3e8b47dd108bba8e9c201ba2aa2977dc0ab0c7e640210acac/picsellia_yolov5-0.2.6.4-py3-none-any.whl#sha256=e68ceee934dbd7cfc903b0e4121ea82524cbc9dcb4d47a451a9463aeab267219" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia_yolov5-0.2.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/dc/98eb05fb9efb838240636695b69206134f03f82fb91470ec7fc055a6da17/picsellia-yolov5-0.2.7.tar.gz#sha256=84c529a58fe2159f9e976b8b58b8d2a30b118083434bd88397de77292ea06554" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia-yolov5-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/33/2fd4563820c744d7b869789639c7558d6f600fca925d361c354721c61533/picsellia_yolov5-0.2.7-py3-none-any.whl#sha256=d200fca0b8343d46455d596ee97a0bbf22fbc0cb2cdfa84465e94bb733496a6c" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia_yolov5-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/41/0bb9fca8f1b4849c112d6d3b12b400f5d214300fe3c76c27d1d180b3864b/picsellia-yolov5-0.2.8.tar.gz#sha256=2f51a3d06a036e1b54fb7a9bbb2445891a04e2c5e4e2f5875a4adc23534b219e" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia-yolov5-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/65/7f72087af21b9c64f1687ef677bf9c9eddb52fecc220205cee32bca6120a/picsellia_yolov5-0.2.8-py3-none-any.whl#sha256=2780e9bd538698e3e539a4870c0ff5696dfe23b4c43ebd4f545269cece6984e8" data-requires-python="&gt;=3.8,&lt;=3.10" >picsellia_yolov5-0.2.8-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15586015-->
+<!--SERIAL 17143854-->

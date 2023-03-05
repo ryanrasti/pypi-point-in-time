@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for downloadkit</title>
   </head>
   <body>
@@ -36,6 +36,20 @@
     <a href="https://files.pythonhosted.org/packages/d9/37/c31755e706d352bd414fd89f527e22599bcfa2212ee32e92e0028724fe6b/DownloadKit-0.4.0.tar.gz#sha256=ad8bfe2c393915e5bd364d521bc1ce4bf02ada65c69416eee96bf8ef26d79209" data-requires-python="&gt;=3.6" >DownloadKit-0.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/36/80069ec1929d4000589e99a88e9d8665a1daf9567e1423910fae34143e62/DownloadKit-0.4.1-py3-none-any.whl#sha256=9b9a7568d88f0f2ce41525a262f69c504b9b0fd1adba83c45639d8b5cbcd91b0" data-requires-python="&gt;=3.6" >DownloadKit-0.4.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/02/f1/ab277769ebe5b26af7a2cdb0f596d01e32cca86caf63459fba07007a1160/DownloadKit-0.4.1.tar.gz#sha256=7c07cc9dd9c6fa89dc3ec3f77b38662a40ab02db72e5bc970a3764915a92a1c1" data-requires-python="&gt;=3.6" >DownloadKit-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/9c/16ded3543611f2534f161641e5db64c471d611b73eb4ecffe89644adb0f2/DownloadKit-0.4.2-py3-none-any.whl#sha256=2a291c29bb5b576c82b0ff1ce592f654b32c663f9522711b2bf734d53a07e32f" data-requires-python="&gt;=3.6" >DownloadKit-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/46/4cd69f672533a2f691bb7b077a2afd674c3359891b2c44ddaed3d74c4a6e/DownloadKit-0.4.2.tar.gz#sha256=dae4cdfb71c8871a28693a39e296c053fa5fbc0b6979871f953f1b355087b3db" data-requires-python="&gt;=3.6" >DownloadKit-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/6f/bfc1ecaf6bd978d3e54dee832333491d5ca45671ec78032d83f7a896a935/DownloadKit-0.4.3-py3-none-any.whl#sha256=c62a8a02033b55d6e098bfacdaa33cdcdeee24dd23300911e872168f45072bc4" data-requires-python="&gt;=3.6" >DownloadKit-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/20/a1a4db0131c6a04a51150b974c1dda43a2fe311fe559dcbab228fc287fa9/DownloadKit-0.4.3.tar.gz#sha256=8c33139c38ed90b6f66e487f35814b839bc18aa88fc365f2d07ee50641159f27" data-requires-python="&gt;=3.6" >DownloadKit-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/b6/ecf5eefddd3792dee7e4fe694fa450664738fa3365acedabe4a2495b36a9/DownloadKit-0.4.4-py3-none-any.whl#sha256=163d0e962565db19ec2232bc154306339902fb7446b852f92134708f42a8630f" data-requires-python="&gt;=3.6" >DownloadKit-0.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/fd/bcfe3f3776646c2d93d9d2fa5f4964bad81e85a8172f13b3e1924783ea40/DownloadKit-0.4.4.tar.gz#sha256=a6cdb02cb8bc07fec391bcb39acff5836439ca7fef61405cb38ab592ebbf4093" data-requires-python="&gt;=3.6" >DownloadKit-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/b5/2c57f063fcd34be98b22e00c7f438bfb6f782dec701fdcad4bd8bae72ab4/DownloadKit-0.5.0-py3-none-any.whl#sha256=4bcb7f01cfc2399f84c63e1707a5591a8e5076597e8b94da626d3445ef59ac51" data-requires-python="&gt;=3.6" >DownloadKit-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/40/4a6e14830d4bd592970aa073d20887d55e9de9f965e7a2a97f02aadf2676/DownloadKit-0.5.0.tar.gz#sha256=cce696fb9094ffefb5a81461932aabda20470ddadb708df8decd3e1acaf9b658" data-requires-python="&gt;=3.6" >DownloadKit-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/85/8ad775b7aa7536e281832ad0122476f963d8baf0af0af81ebbb302484952/DownloadKit-0.5.1-py3-none-any.whl#sha256=f191c42f50774397f3ad2e425994997e9ecb71bdaea34ccb2bf1b8a75c78349c" data-requires-python="&gt;=3.6" >DownloadKit-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/f1/5c71cc9c4b966a5607bee73e8f60d93bed5f826dfddc4120530e6eb980af/DownloadKit-0.5.1.tar.gz#sha256=a42b63131b916171ec338783216949bfa4df73488b8945d703833b8ddb1a9a91" data-requires-python="&gt;=3.6" >DownloadKit-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/f1/2d1b43dc39207b630655f4dcf20a08730e7a52dcfa5ae754689f1b3c0a22/DownloadKit-0.5.2-py3-none-any.whl#sha256=bd5e5cd266b9b0a87de46da784cfa835eb647599f86cffd3d0df7d4fd4afa3e0" data-requires-python="&gt;=3.6" >DownloadKit-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/0a/325e985d83e847fec04fb763ef9b1e88270860ceb282dd904f4978d6e1af/DownloadKit-0.5.2.tar.gz#sha256=103dfc8fea6b0cbd1ec5b0f1b7c37fa05fe74ef435f9e0d5149f514dd57050fe" data-requires-python="&gt;=3.6" >DownloadKit-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/eb/2045291e5d58c7c332d0c13f3ba819c2fa3bcc9536cccce5d3ebe969690f/DownloadKit-0.5.3-py3-none-any.whl#sha256=81698f415137f29901cdb6000032b9d7a770d07dfdbdc496110c885edf6ae521" data-requires-python="&gt;=3.6" >DownloadKit-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/d8/569fc63fc60ecd3e2eea39d9b81394323ea8085d3d689f7d3a9b88b88301/DownloadKit-0.5.3.tar.gz#sha256=133b7d1e38aece66fc0e571edc980eacbc423387af77298c0e98edd42836bcb7" data-requires-python="&gt;=3.6" >DownloadKit-0.5.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16414993-->
+<!--SERIAL 16978427-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for telebox</title>
   </head>
   <body>
@@ -102,6 +102,24 @@
     <a href="https://files.pythonhosted.org/packages/28/ed/4b49647988f0187b9bdbf9e173c5652fd0895f0524035bda57dfb8d504f8/telebox-0.14.0.tar.gz#sha256=f2b1756dd0459942442a48d2940dda77fa7e740fd4a0f3c1b4b01bf2ab8f5e4d" data-requires-python="&gt;=3.9" >telebox-0.14.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f6/b7/04628d4fc21b05bb97523fbc940a515b7c51f065c35e6f7e96df83a437a6/telebox-0.14.1-py3-none-any.whl#sha256=8d35a5b6aa3ec4acde32aa6b291f1f46ef61981976e3fbbcb0c5cd9ff5f8bcae" data-requires-python="&gt;=3.9" >telebox-0.14.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/95/3b/faa4e7ef47c99379bcf892974f90d2f32b629dcc87d5ccdb5430fc0cdd0a/telebox-0.14.1.tar.gz#sha256=2fa7390e0a638d36a2c4a65c9fd22f2883cc65ad40845e25b1b7ed1fa8d86f1a" data-requires-python="&gt;=3.9" >telebox-0.14.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/ad/951c2b9e3bde4b6ee5e07fb09c52259e02b0325d18ae03c210dc481e296d/telebox-0.15.0-py3-none-any.whl#sha256=125f4d601af64246b77ad5a5a875c90cf1669081a750ed576cd399068903ba59" data-requires-python="&gt;=3.9" >telebox-0.15.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/f8/f3c43c7dbac4dc673ed64aa10bcf478447ce3731e262754d65376787d164/telebox-0.15.0.tar.gz#sha256=0d6c77096fdd268d478894fb4e107e8158dec7e8a8bf97a69bc1b6c3070c6a3f" data-requires-python="&gt;=3.9" >telebox-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/62/f6a053050951d80d468866a63cb79ff33911009f1e8372b04bc1a2e6a28c/telebox-0.15.1-py3-none-any.whl#sha256=49879e44a47ad98e2042cfe1cff732a6a154bfee84e3bad2fcaa202c36787f31" data-requires-python="&gt;=3.9" >telebox-0.15.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/28/0e159106a76462e33d63fd2e7f555bdd649ac424b6d9344d2e44a733c5a5/telebox-0.15.1.tar.gz#sha256=4604d5abc8c34f7adb8221cc2034785b2069ce6bb774e9c3a6d291e379f46667" data-requires-python="&gt;=3.9" >telebox-0.15.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/db/bc985522e54926f3bfa46ce235b83c9bec15134c16cb2e4d3425041d975f/telebox-0.15.2-py3-none-any.whl#sha256=fda34941ff94c29ea05c670636ace7b0f84a395c98834ec254afeede503a6025" data-requires-python="&gt;=3.9" >telebox-0.15.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/a1/f03f7bf2282f7cd1826c09547b0f940f2ffa04a553b8f946406383187d0a/telebox-0.15.2.tar.gz#sha256=f084177d25045036d0ca4176ca0b9be3c2950eb3256ba71c61957112d7cfd8e4" data-requires-python="&gt;=3.9" >telebox-0.15.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/db/b37e2e3a0476222aa84988e6f57a3283fb23f54112273f39163d6a98bb48/telebox-0.15.3-py3-none-any.whl#sha256=f04bf75664072cbf3e03b9b389e82b5c933050da69b724eab0bce467423c730f" data-requires-python="&gt;=3.9" >telebox-0.15.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/a3/f2fa07746122b1ab45d3acff3ff948999cd72286fb68f52827552d4e95a6/telebox-0.15.3.tar.gz#sha256=b74587007c2a4cdb84096770fd16062f22ba1a29f6cab69af673f0a5dabdf60d" data-requires-python="&gt;=3.9" >telebox-0.15.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/49/ef473128e9824f08040477f083fc14455326dceda8a25e6be16431f7262e/telebox-0.16.0-py3-none-any.whl#sha256=69ece79158353251ef9a0435d35363dfbc401fd5cc9653a563337b1f9bcc56b3" data-requires-python="&gt;=3.9" >telebox-0.16.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/df/d94246ffaa7cd7a78f447f5b196034847508ff4f12cce6bba8f900b1bf40/telebox-0.16.0.tar.gz#sha256=0b8c14986e4ac749f862ddba910f3edd96c08eae49095ab7521c2ba8fedb7966" data-requires-python="&gt;=3.9" >telebox-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/ce/7dd2378677dd72f73ab876ecfcc2f73296c2341768929116c36e338498ae/telebox-0.16.1-py3-none-any.whl#sha256=5cea484ab0b281957414ae4d8009b1538ebbe09e3bc25fc4c8b533edfc4c6acd" data-requires-python="&gt;=3.9" >telebox-0.16.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/60/7f60ad4e50c3be5a61768603056d1ed06c4257599d4799cfd55307500cc1/telebox-0.16.1.tar.gz#sha256=06b98e83e565e988f2b1bda1464aab7f45246bafce289e796a36d9c4058aef31" data-requires-python="&gt;=3.9" >telebox-0.16.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/28/53ca9fe3f29d31d4aa3df090b3613bd97ac19d5f3cbc9a8b6e4a11c09bf2/telebox-0.16.2-py3-none-any.whl#sha256=4e2f2dc8a1869a83f20dfe7b6eb24a3878051337346bcc8a314d520db3a1fb10" data-requires-python="&gt;=3.9" >telebox-0.16.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/a2/3cbc7dd244f15fbfc814560b110fe5d7b1af25f7a03c8d3af0d73146dbe2/telebox-0.16.2.tar.gz#sha256=61b9cf72b1347c46c94ccb95a68028bee6134e159d658fb37ba1481bacf71fc9" data-requires-python="&gt;=3.9" >telebox-0.16.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/e0/d0315c166b1be789ce727bbcc7d404f70631df7d7a945da45c9325d0950e/telebox-0.16.3-py3-none-any.whl#sha256=879454f109656f528af1174d3cc27fc66086aff7513909065ce5399a4e1128df" data-requires-python="&gt;=3.9" >telebox-0.16.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/05/5e7a4227b2271728a974dd9f48ff318a205f74f7fa223fd77ab457887a8e/telebox-0.16.3.tar.gz#sha256=525282bbc82c54e16d5f3ac20e2a9564942a6a30652ce3f3986f16803af20bee" data-requires-python="&gt;=3.9" >telebox-0.16.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/85/03752f26fe90a24a20a6bfbe009ab7b45c224a6954b6dea5a509ac0df5a1/telebox-0.16.4-py3-none-any.whl#sha256=33f68e32ce09f28489ce0201941ff45737f59013abb2607f190770413e80d723" data-requires-python="&gt;=3.9" >telebox-0.16.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/ee/11af712da118c7751072aad4e2472161417f523d80c50173114b819cc88a/telebox-0.16.4.tar.gz#sha256=d68ed2973784f51464d86a1cf46011b278cb70a877a5f23a468e10086524d132" data-requires-python="&gt;=3.9" >telebox-0.16.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16272194-->
+<!--SERIAL 17129424-->

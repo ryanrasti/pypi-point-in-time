@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for coretex</title>
   </head>
   <body>
@@ -14,6 +14,22 @@
     <a href="https://files.pythonhosted.org/packages/3b/24/ee42f91f9c17e5cd45c49f869254d502f7556740e318de1122558ce1ed85/coretex-0.0.3.tar.gz#sha256=693c905bdc68b2bdc98905d7f54d968417ec83ee563b58d6e4f39830bcf1992e" data-requires-python="&gt;=3.9" >coretex-0.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6e/a5/ec4ac903871d3916dcd81384964c7cd4bad407f4199dfca16e0a86a97726/coretex-0.0.4-py3-none-any.whl#sha256=d5b63923078b4d73bb3dc257a3055bd226821e16e00898fc07b351c409d3a22d" data-requires-python="&gt;=3.9" >coretex-0.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dd/4b/940092bdedebd4a9cc1cd512740ff87416564640d255e1132082194cbca9/coretex-0.0.4.tar.gz#sha256=c0e36aa056b7cee5db436f03c04946cc727f447ac38524164bcfce729e49f504" data-requires-python="&gt;=3.9" >coretex-0.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/8f/768453de183e3915c216787a53670194a5a212dcfdf3b11876f67938b4ce/coretex-0.0.5-py3-none-any.whl#sha256=8f5ef394e5542e3088b02c4b4f2b93eef66ec0a1c31817a0abb498f735c9940f" data-requires-python="&gt;=3.8" >coretex-0.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/b1/25c2fbe2fb2462d198f46a029ee1c7c635544430d11e8f1050b9fd625f10/coretex-0.0.5.tar.gz#sha256=f69aceb8c0b7d7a9eb84b5faee241327d991a9adb94f6247aa1e2e658ef9f50d" data-requires-python="&gt;=3.8" >coretex-0.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/4e/80ec4ca626416ed9c3a027ce36c10ed31cf9d3f71425d1e6f93139d0b0e9/coretex-0.0.6-py3-none-any.whl#sha256=d2a45cc248d5d2deea5d2f2dd89868d9fe357f7f0b7528ab321700583945a4e9" data-requires-python="&gt;=3.8" >coretex-0.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/3f/5df205a7590463de7601b3dc0c2ed39c5de87a48a7ad081975125633346f/coretex-0.0.6.tar.gz#sha256=3d9416622c839184f2802f521ad75d1c14572cd79b0cdf8f94bb8b1b84bc601f" data-requires-python="&gt;=3.8" >coretex-0.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/32/cc4e65f6b793760fb05f39d156e24169017f13335c1fbb7412d5a24a71f0/coretex-0.0.7-py3-none-any.whl#sha256=1d875b8c08070a8a5a6e6fc76a6fb50def7718dfc0b688dec3be633d22397193" data-requires-python="&gt;=3.8" >coretex-0.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/fb/b6ab3e215d76fe5e2c2be09b816c7b9b5304ad5c104edda85b6cd25c9b15/coretex-0.0.7.tar.gz#sha256=627b2cabb7173d6329c9f0f34a35e4030956a212f66a31c2acaf8cfa892a8613" data-requires-python="&gt;=3.8" >coretex-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/ba/78e5f4f7571bbf1b671fff7954bfcbf63503a6594b966e614ff625754a08/coretex-0.0.8-py3-none-any.whl#sha256=a90185393de810037e390f3b40e258a238d9c4cc30d30385f0ac6e3e22051a23" data-requires-python="&gt;=3.8" >coretex-0.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/1d/980c6d21dbe2d503de34a1993b1e0e9c69167b0ab6e7aae2d6ebf057e8ed/coretex-0.0.8.tar.gz#sha256=9c0fdb17abfb954c4b34e52141fac18cd8dc30eb0efb7e678c9663b41b8600c6" data-requires-python="&gt;=3.8" >coretex-0.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/81/434ebe45e261269321e899a67bb2c9fb0986493a91964591c86d329ef246/coretex-0.0.9-py3-none-any.whl#sha256=1afa6799e9c7ad566dd7f47e1a8d974c00efd8cee05c4acda3b079533160a57c" data-requires-python="&gt;=3.8" >coretex-0.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/86/1cf39d4988d7419e88a27e0ad1b3c4872a93a11dfc4bccd1a80ad2c687c7/coretex-0.0.9.tar.gz#sha256=b73c3a7afd118ecb09a0e3b4c2f80c93ee1591608e0d2c36820bfed7b8d53ef7" data-requires-python="&gt;=3.8" >coretex-0.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/af/3a5c8db2b0d229eb3d5195f0bb90ac884ff0de3271eb64ab96eb00a03a5b/coretex-0.0.10-py3-none-any.whl#sha256=afd3e9747d4933125362389c5375c96909832d1b7ea4db70e12e2ea34c8d4724" data-requires-python="&gt;=3.8" >coretex-0.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/11/5c2b7da6760d2e0631e41da481d24e7f8a036bfb6ecc278af965accbac22/coretex-0.0.10.tar.gz#sha256=b8495d372faa2da0418998a70673b9c79b861bf3995a372528c1db76b66c35c1" data-requires-python="&gt;=3.8" >coretex-0.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/db/0356d0305b2a33509d1394d22f74076ac4cf4ee31c0e92521da604fd75a8/coretex-0.0.11-py3-none-any.whl#sha256=141f6537ce6448b45e53fc0f6bb9c95c2bf984ae22cbf55d99412c11c4e4a320" data-requires-python="&gt;=3.8" >coretex-0.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/04/692973712b1e97fbb2070ea59f38a87b29fa8d22f1bffcf4e961358121da/coretex-0.0.11.tar.gz#sha256=a4835a1e4a7e668a490294f5ebedf9d6db22e51f7c9f5f54b0d263e7abd9b1be" data-requires-python="&gt;=3.8" >coretex-0.0.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/88/03e07aa7a89a2bfe756353ab1ed7b0a49e8a4fd002653a94a94c0f05b751/coretex-0.0.12-py3-none-any.whl#sha256=2389ebefbb1b4fac6fe8682266f7218683fdbb2b6de4ae3f350afbed5b8599ec" data-requires-python="&gt;=3.8" >coretex-0.0.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/e5/7dbcbf72d9663515fb1713b61460de3042d40bdf3886a77ef7fa088a2755/coretex-0.0.12.tar.gz#sha256=5ee97227c8a0ad6c4d6de862b38ff12f5781dce6c14d76fe049a48af1d0e9e00" data-requires-python="&gt;=3.8" >coretex-0.0.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16275400-->
+<!--SERIAL 17143421-->

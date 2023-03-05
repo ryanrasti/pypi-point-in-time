@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for apache-airflow-providers-apache-hive</title>
   </head>
   <body>
@@ -114,6 +114,16 @@
     <a href="https://files.pythonhosted.org/packages/b6/a2/fd0604015d98ac641eff0f59c32a860f06cc301cfda252080e93ad708ceb/apache_airflow_providers_apache_hive-5.1.0-py3-none-any.whl#sha256=df16b690e7d32676eb981deaca35947fb8a028a53b4573e309e355758ea25fff" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/bc/c52b491294ab73a556b5d26422d0a8eafb46efced672ee431e5298f0f8f8/apache-airflow-providers-apache-hive-5.1.1rc1.tar.gz#sha256=bdcc529e6a714da5a8696d18584c2c1b75bf93f09ffc6e31c69fc8428e34cafe" data-requires-python="~=3.7" >apache-airflow-providers-apache-hive-5.1.1rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b6/47/34fc8a270c0ffabc2559d81fdd3911c5b13ac25e63f130d6ad5374b3e9fe/apache_airflow_providers_apache_hive-5.1.1rc1-py3-none-any.whl#sha256=f9109b1ab0c672133ac70c3443feb40275063f20c9fee638d1f9baa29ac84aeb" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.1rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/96/d6e448c6f6388da01e7da33f06cfb8be896daf7ff206cc34aad3903c71f0/apache-airflow-providers-apache-hive-5.1.1.tar.gz#sha256=addd1da763eb334b0e562c71c62f4ef268e49c9a48c13c1a4c66621666fd6941" data-requires-python="~=3.7" >apache-airflow-providers-apache-hive-5.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/2c/efab5e6d2dd2ee2d24e1766cc5558eae433541548634777e55befea4265d/apache_airflow_providers_apache_hive-5.1.1-py3-none-any.whl#sha256=819e21451fb353d3f4c4a4277edb5225aa381bac8f993f0aafe02540a8037dc5" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/7f/b68537f1e0eec13d89dd1f49ff73a56381cd3b5622385f9fc2e3b77dd20d/apache-airflow-providers-apache-hive-5.1.2rc1.tar.gz#sha256=6847ce7fd101d176d92d804b07fcdc36045160d81405c4a3e8cc8eca170ce45c" data-requires-python="~=3.7" >apache-airflow-providers-apache-hive-5.1.2rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/02/3e0fea8b649f273b365c079aa573e7f3bdf47248bf494818cbef24448454/apache_airflow_providers_apache_hive-5.1.2rc1-py3-none-any.whl#sha256=78f67b707eb1cd4b2931039a65261d80578f09d9f98865a804b07d2c04022113" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.2rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/89/5f3fa0e71d0e99342e0e5f0f292fbfeefbeca9d22f1b5a734fa44495e7ab/apache-airflow-providers-apache-hive-5.1.2.tar.gz#sha256=ee3b329baa55d6de58aa601273013e9abbf1ce7a128d93a012c151331f182cc7" data-requires-python="~=3.7" >apache-airflow-providers-apache-hive-5.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/dd/caff95992f166652ca224a54afe793ee22177276dcfb11725b63384c1ac9/apache_airflow_providers_apache_hive-5.1.2-py3-none-any.whl#sha256=8771bfa911c5f8efeb5b0e7295a300e7b97d259808f6ea0348d5aeb140ed33a6" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/9b/a269dbc6c6f3c49e4b3e0c9b84cf17d17f3131241d613b303c31c5ddd104/apache-airflow-providers-apache-hive-5.1.3rc1.tar.gz#sha256=9c11a074490cd55929d46869a02aecf3e866c8b669731fa6c1c03a602c41f603" data-requires-python="~=3.7" >apache-airflow-providers-apache-hive-5.1.3rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/86/1ca47c29e1a55e55e97bbd0abcbfa2f0846cfce95e833de8faa8ec20f2e5/apache_airflow_providers_apache_hive-5.1.3rc1-py3-none-any.whl#sha256=abeffe3398dcd05fe93d19f0c99ce4d991399bf9797f7159736bdc751d943344" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.3rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/e6/0fac3c107a1f67d3549a4f7dbd068ffef325e75beef57c8d3b0499b3f8a6/apache-airflow-providers-apache-hive-5.1.3.tar.gz#sha256=c44fec2330ff503aae39d1c640daf572c4726cf8b194d6fe02bb1715571cb8ef" data-requires-python="~=3.7" >apache-airflow-providers-apache-hive-5.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/46/fbac912e4f830331b21fc3793e9ce55eff1fc10f1238466f2f9571ed1a7b/apache_airflow_providers_apache_hive-5.1.3-py3-none-any.whl#sha256=c8084c212264f0d589c4d05472e2954505de586843dff69be8d6b9e87e111c29" data-requires-python="~=3.7" >apache_airflow_providers_apache_hive-5.1.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16428206-->
+<!--SERIAL 16965862-->

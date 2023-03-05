@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for gdptools</title>
   </head>
   <body>
@@ -66,6 +66,16 @@
     <a href="https://files.pythonhosted.org/packages/50/2e/00c136cdcb49ae0caa6bd49579064f02ee34befb8ae9677ef17a4987cb1a/gdptools-0.0.27.tar.gz#sha256=c7976d1b6cb86c60c28ce64a5e07f32116e0f56f83885b08f6da1854d49e9393" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.27.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/87/0d/b9cd7c740902fc1ae31d1388626b0c186c817f952919d195d1548c2ef911/gdptools-0.0.28.dev0-py3-none-any.whl#sha256=6b9e68ee49496538982edb28ceaa3b6ac9114bd20bda317c7f1d0a7277f40591" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.28.dev0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0a/e9/1bc3cbdb09504500b871e94ed93e2b9c2ba6ea76046aa07a4544c595f15d/gdptools-0.0.28.dev0.tar.gz#sha256=c1c4f611c685f4f38618189c39bf9393ca63f357fc86b954bac83fc39165b5fb" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.28.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/4f/e02bab2b0336c4f3739acef2fad4b39df052c07d8050e1e93592dc7020bd/gdptools-0.0.28-py3-none-any.whl#sha256=8863764f5d45bf57d1c456cb31dde565902cd724df1d94f85fa169510373e070" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.28-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/51/9cd727c9f451441ce4f8e9c0cd14a1b6aedaedfab0576fb4fbf8678ad939/gdptools-0.0.28.tar.gz#sha256=5a85112ca458d4ba9c0fe34da0448065aa75449135bbf21e67254e3e8b9d6bef" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.28.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/f9/7d15851d963c376f546ea42baa03c98c6880697786a52c0785643db65b1a/gdptools-0.0.29-py3-none-any.whl#sha256=aa768f33f918e8874f9d02749a4464b17c4d313e2956e64652435e1ccb20111d" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.29-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/93/4b7cb0ce5d09090a28ecea84fb081a3a98cb2fe08c47ee0e1c87cc6f92a0/gdptools-0.0.29.tar.gz#sha256=30028779b5424d0892c131b7042c1a30a56d46d395093b0a9749292f1af2d3c1" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.29.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/1a/742f10835d09584b520e3f7e028924ee88d0fc091afb6420b132567e9eeb/gdptools-0.0.30-py3-none-any.whl#sha256=07b47443e962abb7d7d813bbcbd9b27ee45e5ef791b31c384b1492b55d55a792" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.30-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/91/7286f6eca09cb7c7e22d6c428544972349ac48394c87e9a4ef044518a6d8/gdptools-0.0.30.tar.gz#sha256=ae8903389eb6bb8e45cc1349c28786f80ef47ef858c8d8c31b9f364023fb2905" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.30.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/dd/16b4b5acffbfd98e0f7334e4bc8a8eddb8106ed84f89771e3daa9162eebf/gdptools-0.0.31-py3-none-any.whl#sha256=ef5239de5fdcdd2ece0bdbfd684add54bd359f160637dd51bda8b7fc06846cf9" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.31-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/aa/30ef86bed7dca57bcfda6338ab6f181fe0c88418579dc2a10e422d821f6d/gdptools-0.0.31.tar.gz#sha256=d0431a212bda333471aa05cf1a9a03992be35c1393fb466328dd199ccab3059a" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.31.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/42/1b4dc108625774331af33d752af6beaaa1470fea8d3efac47007f49f708e/gdptools-0.0.32-py3-none-any.whl#sha256=6b6f0e63a0f206f32a90a58ba70f226aef08ea79c91095046777f35d121c1590" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.32-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/4a/1204f792e231e6878bcdf733dcad9be3d743669c4ff77bea84c9c71e2a97/gdptools-0.0.32.tar.gz#sha256=829b5b2e9268dd98aa8d7c3bd53e382191dc33e13c5450222b16644d428078e0" data-requires-python="&gt;=3.8,&lt;=3.11" >gdptools-0.0.32.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16430159-->
+<!--SERIAL 17122242-->

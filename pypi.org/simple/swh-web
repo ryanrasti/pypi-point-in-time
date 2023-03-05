@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for swh-web</title>
   </head>
   <body>
@@ -461,6 +461,18 @@
     <a href="https://files.pythonhosted.org/packages/44/10/fed54820671404fd96f139ce8b2d10d92a926d809a4ac705f2b0ad18ec7a/swh.web-0.2.11.tar.gz#sha256=56266e58beba53ad96597f0cf8a9b82b3ea80713b55bf8d281ac32d93c5f9f75" data-requires-python="&gt;=3.7" >swh.web-0.2.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/a6/6d9299527e78fd3c226fcf9c921451f4dc05fee3dbc96ebebb262f15668a/swh.web-0.2.12-py3-none-any.whl#sha256=b4e4bebb94fdaf7cfb34337e394960d2518949adb2c6fb408e1b795dfe3f6ee7" data-requires-python="&gt;=3.7" >swh.web-0.2.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/72/9f902073c69d072e2d79779eb590ef2f9f03ecc8c22529f4114050041272/swh.web-0.2.12.tar.gz#sha256=4be5d3f08288eb5837b4c2addff8d2c8519718afb174db338e5aafb2b18013e6" data-requires-python="&gt;=3.7" >swh.web-0.2.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/ba/aeed586b0f112966dd47ec39033ade811ced3da20402efd1999f3d2f7178/swh.web-0.2.13-py3-none-any.whl#sha256=19736d618875580c396103a27dd9502dcdada0b8a0ff1e835b260bd25ff7c6e3" data-requires-python="&gt;=3.7" >swh.web-0.2.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/d6/a2961d7ad3f2a90a784e1a52fa5a29a702f61de8de7e39e0ddd5188cf720/swh.web-0.2.13.tar.gz#sha256=519ca78eb460e2b14d967046fab6f7ef6399b29fde7b579931f91822a670ae12" data-requires-python="&gt;=3.7" >swh.web-0.2.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/68/237cf43a9fa1b61d316ea73603b827ad0b27b48bd87adf08080992c0245e/swh.web-0.2.14-py3-none-any.whl#sha256=f8076a537355543263fd63ca5da33b6c871b709468cbac55bc98c01bd28ded1d" data-requires-python="&gt;=3.7" >swh.web-0.2.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/d8/b665cad47e004767c9b264a480c0a9147e1a8336b2422881dda97b4e3a80/swh.web-0.2.14.tar.gz#sha256=7ec875043070a9506939e805933f59a44a9f0ae6ba709822af9689cdc6a3c814" data-requires-python="&gt;=3.7" >swh.web-0.2.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/49/e261cdd8f455dcc8365523bd12a3ad55e8c76676807240e3ea525d579f6d/swh.web-0.2.15-py3-none-any.whl#sha256=01af013f15fd9e31a03036e43312e68a6087104f7f9fb07724ee65a36347a005" data-requires-python="&gt;=3.7" >swh.web-0.2.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/ba/4dddc9782c7da5e1b0e816890e8ba85c31a1e746f172cdaa141da09f9c92/swh.web-0.2.15.tar.gz#sha256=5ae73d1f41f43fbeca0dcf17215c91eed72cb141cac4aeed666a0bcdb739f66b" data-requires-python="&gt;=3.7" >swh.web-0.2.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/d9/cd77d3f032a3d7ab93d1e1b645c8ec4ce0344b87f2d9ef468f5ab5c231d4/swh.web-0.2.16-py3-none-any.whl#sha256=5b741c025218b26b8859957b5d25fd0dc11f2e7497bdef1b9b5f9a617e0c63b1" data-requires-python="&gt;=3.7" >swh.web-0.2.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/78/14736a11702f837bf443cd1fc6387a59a39c7ee80af6790d19be23b3e2a2/swh.web-0.2.16.tar.gz#sha256=81eec658891e9bed3c0ebfafbe00557c0fe294c12dbbcf43253366d36fac07a1" data-requires-python="&gt;=3.7" >swh.web-0.2.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/17/1114595666a46cbb161c085ae28ce4fc34b0046685288c1c463f52b26b2e/swh.web-0.2.17-py3-none-any.whl#sha256=41b01bf53b2c8bc1ef6e84eff64f9ba99b05c1f4aa5f01ded59fe5c5533a841e" data-requires-python="&gt;=3.7" >swh.web-0.2.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/2c/31fc3a11d7d20ea8911e419dda1c0c037f4f8516f66a8e06681db3828f05/swh.web-0.2.17.tar.gz#sha256=deed557275da4cf6373959b214bb2eab37da5356f9030eaa617f6c3d51f3b933" data-requires-python="&gt;=3.7" >swh.web-0.2.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/f7/955e9cceb29ac8c7d0367ad75f89c8471246876679a2ae56b198bddf99eb/swh.web-0.2.19-py3-none-any.whl#sha256=a607e6485c278757a555be738b941430b759f4e14fcd4657e425c1c314c9683b" data-requires-python="&gt;=3.7" >swh.web-0.2.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/89/dfc9d6f12cb01954c62a3574601cb30f0ce0d4266ffb61f07c113bf62a8f/swh.web-0.2.19.tar.gz#sha256=5c8b904cddda2931b061cf8f69f7cd8626e5b685fdd0c675e9b77e1f205ab86d" data-requires-python="&gt;=3.7" >swh.web-0.2.19.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16417742-->
+<!--SERIAL 17114812-->

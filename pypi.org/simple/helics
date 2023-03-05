@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for helics</title>
   </head>
   <body>
@@ -1013,6 +1013,15 @@
     <a href="https://files.pythonhosted.org/packages/cb/62/558fa558763ac0c8c0b00ae9bdd0fb3b4bd68acfb9766bd38782f0028248/helics-3.3.2-py3-none-win32.whl#sha256=bd7f4c0424c194ab2d8987cb74516badf8b2f9a2ee7aa0be09d070b4313586e1" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.3.2-py3-none-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/55/d2/c4f576b1c5583d12a6eabbdd76d0304fbbe1fd1cb7741006b789f56b4fae/helics-3.3.2-py3-none-win_amd64.whl#sha256=fee41883e88a182814bbcf3b14d4ed407a99e08e2dae04107a3b644190c23ee6" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.3.2-py3-none-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/8a/fe4bfe6a630c8a4aeb55d2c10717826ccd9a618d6c20fe7fee8d9600f43f/helics-3.3.2.tar.gz#sha256=7d71ae53823c9c591d63b911678d7e2449d6cefed2bf8b45c3f229ac46d1f861" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/46/90fe550967c25a5ecce0168b40f19398e69fd41a72c1453bdb9f820bce12/helics-3.4.0-py2-none-macosx_10_14_universal2.macosx_10_14_x86_64.macosx_11_0_arm64.whl#sha256=49bcf016058e1dbcb24d86e7961b7753146defe3748b41ff155d8284165ae79b" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py2-none-macosx_10_14_universal2.macosx_10_14_x86_64.macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/76/a5421909da0907bf72328bc5ac6f74c2d53f86480760155c5d5d92efac47/helics-3.4.0-py2-none-manylinux2010_x86_64.whl#sha256=163df979612d7db31df057fa612c2676fe576826298d0ff49a91193d7587a72b" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py2-none-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/b4/ad7bcd8c61651efe75100330a9ae644d3f548b05e8bcb5c6ac496b1f7bc1/helics-3.4.0-py2-none-win32.whl#sha256=8ec4275d9d4866b775b460322046805c151b1c1ccf0f5e4d112553ec89789e5d" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py2-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/71/06c5fb54433ff250a795486fae8a99b90ed4b2eea8acd02cd62e2deb38e6/helics-3.4.0-py2-none-win_amd64.whl#sha256=faa114dfac819d6b648fb4a40e9b50f26982f3d00c7fd6830cef332607e8437e" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py2-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/53/693c4e6a0d24e295a6a29af892ef43d50ef4fa46ec5c3368320cf4acf278/helics-3.4.0-py3-none-macosx_10_14_universal2.macosx_10_14_x86_64.macosx_11_0_arm64.whl#sha256=fd0489acf6d2d11767404fad4d9fa08c254614d89a1be52199cc00b762c37ab3" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py3-none-macosx_10_14_universal2.macosx_10_14_x86_64.macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/7e/6169c7a7f09a135dc5a5a2667dc3d5aad4134a44a99e4fad3811735701ae/helics-3.4.0-py3-none-manylinux2010_x86_64.whl#sha256=b8a7f95992b2e0784eb44e48bb45a3cc9ef4a4c2229850ae180695669262432b" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py3-none-manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/4d/2ece2fdb77c4a29a3c2753f2834fbe2f11fbd7d61d5e3a8fa764edc9b3e6/helics-3.4.0-py3-none-win32.whl#sha256=825bc5985149484092f5406cf73578bcbef1715195dd5107e290a276f54496ee" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py3-none-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/e4/493199548bdc5421677f5a6e779d01f054e4aa075132fd698e79fe821ea8/helics-3.4.0-py3-none-win_amd64.whl#sha256=55bf2e818012d80f2871a009cd96fc4801de947a474a21658339390c86e4c916" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/1b/0a32a0acf88d778080129f7ebc79ddd8412406014e97bc00f77cf1ef8323/helics-3.4.0.tar.gz#sha256=eb156bbe9c94e8bd672b7ce324a213b9d222f39cbd3bcc9267eebe670e705462" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >helics-3.4.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16105003-->
+<!--SERIAL 16568355-->

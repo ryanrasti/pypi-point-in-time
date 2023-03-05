@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pulumi-azure</title>
   </head>
   <body>
@@ -686,6 +686,23 @@
     <a href="https://files.pythonhosted.org/packages/6d/1c/2070ed5d41df89036801f5b3b2f887a2a5ac8ca8abe80fb9de90dbc478f3/pulumi_azure-5.30.0.tar.gz#sha256=7689a314d4e03fba154960b98fe0b34922ae0ef495bbfa20a62855017e47ff7b" >pulumi_azure-5.30.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d8/34/7e4640852d19f308fba1514603ef9a0fa11c7b7f93b6cbfb44aa8ab015db/pulumi_azure-5.31.0a1673587638.tar.gz#sha256=bbc03c9e9e5cb95218910c15ce5f320f8dfb05d6a82983df39e5cb1fb0c87edf" >pulumi_azure-5.31.0a1673587638.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/65/90/adb2ab2d9ca6679e9833dd0acc2ac5752243b759a05947a7621ad5a286e1/pulumi_azure-5.31.0a1673590972.tar.gz#sha256=f2900dbfaa8a4630710cc42bb2a1a373fbf1a44c32b39da55598084c94044756" >pulumi_azure-5.31.0a1673590972.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/9e/daba5928615be4a3735e4ab0c53004a051a13486221844bf2c00e09baa95/pulumi_azure-5.31.0a1673967639.tar.gz#sha256=0c3dc1334475e0cc15968b8c5159e356831b7b6e7ef4bbd8ec74361d345ef652" >pulumi_azure-5.31.0a1673967639.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/84/379f7cae25a838ac590750b93bfa1f1df64c1aa7e3865c120c7573181fe9/pulumi_azure-5.31.0.tar.gz#sha256=dd11dd091af7758cd8b94e208108a368af21005e712df4aed733472ea046348a" >pulumi_azure-5.31.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/76/24f2b7309e69358c09c816ea3ba15a05cae7b5c840116feb0f564a51df92/pulumi_azure-5.32.0a1674225766.tar.gz#sha256=948aeeca6bc3b6809d93583628a1a5e42584594571a8c84c670c85e0b3d0e2d8" >pulumi_azure-5.32.0a1674225766.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/7e/fdea57631d34d8b78c224ae90c493102054c8486356575f12cb241e075c6/pulumi_azure-5.32.0a1674667407.tar.gz#sha256=5506ac6d82f103d7edcd877f39768d820728d43d89849f9fc1b80c9d9986360b" >pulumi_azure-5.32.0a1674667407.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/f5/2fb61130b3204a2562d0439389284044df5a9b51eb41b4948b1966dbfcb5/pulumi_azure-5.32.0.tar.gz#sha256=d87ea0f05043933e7f9fa5f725bcee832d067ef549cd72156aaafcf0501d9673" >pulumi_azure-5.32.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/b2/ab9bcb8b978a427e14a5f7175cc2b5b38d81dbe8c0683f972b4e467a7b16/pulumi_azure-5.33.0a1675277313.tar.gz#sha256=0afaf5ca5b53e5f509ef097f7fdded66702269f033cb63bf464b7bb2540577f2" >pulumi_azure-5.33.0a1675277313.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/3f/c1283e7418948a3076938767d96df1f0688b176d9937e196148606c8acf3/pulumi_azure-5.33.0a1675798128.tar.gz#sha256=9672185195d17c63aaee7e4736696bd54b7616ff9e35c2d5c39d5cd22128e6f0" >pulumi_azure-5.33.0a1675798128.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/22/d133e2204e9cd5470649bfae504f9613e4b7ecf350ed14cfb85104bc22a4/pulumi_azure-5.33.0a1675974435.tar.gz#sha256=fbb6f8c0b2fae5de2183793ec3d0b834611d01f726132bc7d5f82b54e55014d6" >pulumi_azure-5.33.0a1675974435.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/9f/be96e9bcc95ae4d2972a673f22516cb3ced69589798045f205c751d55468/pulumi_azure-5.33.0.tar.gz#sha256=5276163c0b6ff31d50321d25ccfcd5ba30e37729e9d4b5bddcd5279fbb85fcb3" >pulumi_azure-5.33.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/22/46ca8d2635d4e524f4c5876124b729a6c857cf13a2dc99de8c80a87338f5/pulumi_azure-5.34.0a1676279223.tar.gz#sha256=75422d6d1073a9be90dd4eac4a52cc06f747babfcbd2dc92d6d79b995febe603" >pulumi_azure-5.34.0a1676279223.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/1b/899d7ef6f91d24d30cafdf9484b9241698d2a006b8c777d1f86768d4710b/pulumi_azure-5.34.0a1676323425.tar.gz#sha256=85dec2f58df29268edee2968f048f8fa218de5f04d4d7a9c5c4c62ed6933d9f6" >pulumi_azure-5.34.0a1676323425.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/79/0ef8e580db38b5deb21559af9ef4263a2c527d5da093aeaf83fbdbe3b704/pulumi_azure-5.34.0.tar.gz#sha256=2702b05a97e32b946a3a3228cb0d62f3b056fe3ce78281713a305069db23c885" >pulumi_azure-5.34.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/bf/a3989a57534ed5cd06ab424ee7e86f2d4a1395067c0342159fd221f502ce/pulumi_azure-5.35.0a1676416290.tar.gz#sha256=ba487bb46ecac8f1c2f24f49442d6e97e7f9f5873731deea048f9f89fc97054a" >pulumi_azure-5.35.0a1676416290.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/7d/9ed129850f87c5bded42c88957075b58a3bc9fe8843139eefefefd3b7095/pulumi_azure-5.35.0.tar.gz#sha256=d08ec3d6d18ffae70f970346e767dbf3c77190b8dbc5cdbed882d8161e2f64b8" >pulumi_azure-5.35.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/16/806c6c8b17612bb9176b705912d1e844854c00df7d5c2a00b598b813be7d/pulumi_azure-5.36.0a1677678058.tar.gz#sha256=37276735650b966c1e2f5808dabd8368f078dc19ecca007d18bd88f6ccb84c2f" >pulumi_azure-5.36.0a1677678058.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/a1/bbb4441e904b68413aa6098ca4711bd708f6c2ed9771d04f863663e072e2/pulumi_azure-5.36.0a1677772599.tar.gz#sha256=df1f1fc2ee0c976ce24d706cda1536542ede419c0378b3c8b6bafc1bf7b40c2c" >pulumi_azure-5.36.0a1677772599.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/aa/9b77c92127ad04e9d099c451f8b0495ecb02a1c4d09804ed731b77cd1cf3/pulumi_azure-5.36.0.tar.gz#sha256=74ca161bc379b8854373defe3ce9afc036cb72a802a1430f7a24a03eb592e70f" >pulumi_azure-5.36.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16415183-->
+<!--SERIAL 17134720-->

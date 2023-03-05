@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cashu</title>
   </head>
   <body>
@@ -68,6 +68,23 @@
     <a href="https://files.pythonhosted.org/packages/f5/1b/3f4ebbcfd3d30581e33b4998ac48db55fa3de4ac70ad8678b360d27a38fa/cashu-0.6.0.tar.gz#sha256=503a90c4ca8d25d0b2c3f78a11b163c32902a726ea5b58e5337dc00eca8e96ad" data-requires-python="&gt;=3.7" >cashu-0.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fa/f6/0c8bb691169a6693006b01570b7f6f16d487cfaffcecede25b48d712d8e4/cashu-0.7.0-py3-none-any.whl#sha256=be18d92806cf8b297aed9ba0a1c88b25b02f73a460a8f7cfda0936c72235ef08" data-requires-python="&gt;=3.7" >cashu-0.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/3d/886b968b068cc02ba18063155c3aca7534f9c4c3e6002eb5c28e6dc50d93/cashu-0.7.0.tar.gz#sha256=f951cd40f9e70b66eec5f696e0b0b3a07a8478bc86916015966cd5965359af27" data-requires-python="&gt;=3.7" >cashu-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/b7/e2f6a572c52f6f4ac0a2ee1fecfbf2dad6e0afaa886208e85a7aa0bb8618/cashu-0.8-py3-none-any.whl#sha256=14400fbffe9204865208b7eeb6bfe5ad338e443e9fcd3d3c186f71f5182d8b7b" data-requires-python="&gt;=3.7" >cashu-0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/a7/b282b2430a5276a840d1b4e214cf6836eee83df995ae73e5853e14b1d35e/cashu-0.8.0-py3-none-any.whl#sha256=7dad614614137f84ef317d037cf564a31e02313865f5a782e9faf0d2697fdc5e" data-requires-python="&gt;=3.7" >cashu-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/71/e4a8e8b7f1a6f74d0e570dcd3407b3ad1b2a1b1802835fd64c0916a57460/cashu-0.8.tar.gz#sha256=b57daa49b395f15382e8b5e9b8552268495536e24e702f5abb35c0ff6a4512b3" data-requires-python="&gt;=3.7" >cashu-0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/1f/dd1f50e7ff5e1f5bb741f8b78fc34dfc00af51a33a60830627921070cafd/cashu-0.8.1-py3-none-any.whl#sha256=d88f0369fca44db615dfe3624202d58de515d2bc66ab84daabdaf4700106c040" data-requires-python="&gt;=3.7" >cashu-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/db/636738ea9e77152961d73b3030033d92a024e8ccf1dd267252824c93750f/cashu-0.8.1.tar.gz#sha256=41a6ccc6ddac6f64d47d34b719e635a3870db010dea2094c24dea080e7c5774f" data-requires-python="&gt;=3.7" >cashu-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/e7/12cf9848f345c7bd3bdacb2997252257b6fbc7897c9415708c51094585b3/cashu-0.8.2-py3-none-any.whl#sha256=53893911763c424255bc7112aaba356e0a265e850d770338c70b2d282f67bf99" data-requires-python="&gt;=3.7" >cashu-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/8b/13c96fd03dcb25309da0f49cedf743213e9ac3d8a91814b292e2fcdf2e58/cashu-0.8.2.tar.gz#sha256=4cdd34a50d14960d2dcc6f5b6120f462688090dd084387860f7a59d16aa102ff" data-requires-python="&gt;=3.7" >cashu-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/48/0012ea7e7492aab04b60a837da5870ac1d340294d9ace76a60a76c77783b/cashu-0.8.3-py3-none-any.whl#sha256=b421d93701f116ae8b6406be0ed0a8bde8d16441619e56c166c31ced100478f5" data-requires-python="&gt;=3.7" >cashu-0.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/60/09bcf851756540a3d036697c383a64b84311fdee17e1b79dda3dc84f762e/cashu-0.8.3.tar.gz#sha256=5d304d866b922fbf1ad1588e1bafbe254d6ca275dff5cf79511b5ec7f02358ef" data-requires-python="&gt;=3.7" >cashu-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/6c/38ec91dbae53fb8cebb6c0bfd9c04fd20bf2c3b526b524f5e10d82f2fae5/cashu-0.9.0-py3-none-any.whl#sha256=73dde901c8ea75d223f0cb37ea214028c17b798f9189b88968884c4a9c2e32a8" data-requires-python="&gt;=3.7" >cashu-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/82/4cb4556330ab8c303a4efe9436a62e0bc647c10abcd53d3a8c9da892d6d8/cashu-0.9.0.tar.gz#sha256=5d5087b3b80ecd8350ea2b098605581a746fc377c0bf9f1e3a97fa5c6d06d9f2" data-requires-python="&gt;=3.7" >cashu-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/c1/311f503fa9599f62da32efac83b14dcff994ccab1265f49b30f5ea491336/cashu-0.9.1-py3-none-any.whl#sha256=a0862db5f93c6a2640f24c9e7e4b384fb67bf2722f38dba28de0a2cb8875925d" data-requires-python="&gt;=3.7" >cashu-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/aa/e200778c2ffb657657f327a94633b509f08ab57b52a495e8e48155ffea89/cashu-0.9.1.tar.gz#sha256=e9ab061cf87b9d112862a6843c11b4fe559dc905fe9d02f76db50ba27a7371f4" data-requires-python="&gt;=3.7" >cashu-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/bc/6b6b72477aca3cfdcde0f711d085c194775a9b03e2f50b17b74ac2fea9b7/cashu-0.9.2-py3-none-any.whl#sha256=197e008d37c7df6cce36b316e4cc718d1821d45bc59955622ed011424ab0eaa3" data-requires-python="&gt;=3.7" >cashu-0.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/62/ecba55db1d913686eed3de511d46d995a59b628df52085fbafd2f29af1ab/cashu-0.9.2.tar.gz#sha256=4a231022f40da3e5238714a5b4e5e9b915b11003860c50c8aa2bd4df4fbb72bb" data-requires-python="&gt;=3.7" >cashu-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/e7/6c9363d5390fef572b967ffaa88038560f9a9ad3ef74b965b39118aa1938/cashu-0.9.3-py3-none-any.whl#sha256=42acbb7af9ec0374d04a70b48c58dcbe843161bf4be4ef33945aad1381677b49" data-requires-python="&gt;=3.7" >cashu-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/06/f7c73d283d5c939445d90105094a4c158345a9076dad6171b10b525965db/cashu-0.9.3.tar.gz#sha256=f8f03fbaab238c1342a0e05636304f74fe1adaf635cdb3e3fb5d0c92d813398f" data-requires-python="&gt;=3.7" >cashu-0.9.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16238662-->
+<!--SERIAL 17033039-->

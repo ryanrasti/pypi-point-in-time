@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-reusable</title>
   </head>
   <body>
@@ -154,6 +154,24 @@
     <a href="https://files.pythonhosted.org/packages/91/c6/cea8f7c21fbc3a0c5c4c4638ff30c469a216ec575171b0f7342eca73d1c3/django_reusable-7.8-py3-none-any.whl#sha256=a6036d196ee7eec57b4474eb691eca2d118c4fb0fbd15b3caba11a453c72ab83" >django_reusable-7.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f5/86/18425d245b5598bd6b7eab1fac026a486e4431d5774221f0cf3147bae4dc/django-reusable-7.9.tar.gz#sha256=aa93e18bbba800cdc94d06c7e9d8d483d34ea97d1d000294159d50addcd1562c" >django-reusable-7.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/71/23b516341e86f23a72d9b168762fa6a7b4c9b7eac5ef9581740d966d2284/django_reusable-7.9-py3-none-any.whl#sha256=0375596406f20eac2c5e767770186c153bccc5340a1688f3d847a0116682d3fb" >django_reusable-7.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/5b/638d568059e9c09657e4dd49de2ba6638863bb866ad6be453e255de9cbdd/django-reusable-8.0.tar.gz#sha256=3f6b822bef68b2cb2bdc52f031d30843fff51a07526420045f0a2cd386869210" >django-reusable-8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/58/377fcfa151e13020a58a29d99a00e964102782f3d93f2fbf4d9490cd2156/django_reusable-8.0-py3-none-any.whl#sha256=1b95278d17aafddd51bbfc6fbb6737829022d206dc8c37f231ebf948a90e564b" >django_reusable-8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/67/20c8c95daef981415dc80b8c24f03f016504713fac58d6fc241fefe40f84/django-reusable-8.1.tar.gz#sha256=02e52014968d4b7bd16599c7aac58d47add8c081a761483122d102366456170a" >django-reusable-8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/13/efd0ec2982939a378cfe9ea1ef0f8cd293c4b40459783a7fa4216633c573/django_reusable-8.1-py3-none-any.whl#sha256=4ea1ef777d158f8c73365cc513829c43671029e923060f9174bcb901651efc6a" >django_reusable-8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/17/51282b6fd6c983ce67ecdee9ab5085b4b0881c1470bd5637c82f05c465b5/django-reusable-8.2.tar.gz#sha256=9fbf34b5157f210959e6d2da304d4479037a48db256a26403cafc5f051ff27f6" >django-reusable-8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/64/f5e2d2e8bdc3960083625f5bcc8b5e5a4dc057035660250529b2df27ec49/django_reusable-8.2-py3-none-any.whl#sha256=9ebad4469ea9d3af4c97064d50e4530d8b43b82912b00443a04a77663b0b26d3" >django_reusable-8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/e0/1c86fe91e4d50d2bd54ac2514d414380a83e55cc734684077ad917b80979/django-reusable-8.3.tar.gz#sha256=0ada2c59cdd581c1b8b7bf5218c620b133b24e6d0b6f99e8ceffac4b0d890d47" >django-reusable-8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/da/114007065107ab39e2e5dbcec217acf6d53bc6a6ffec5a434ae410a5a85c/django_reusable-8.3-py3-none-any.whl#sha256=48cc3e0b2a94b69b084be5e3e82d89d5c4eac4074ef76bcebbf3d0b21ede1e51" >django_reusable-8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/fe/b2042dff44263a5fe339b799f088f832773fa9b2906fe9d77b419b29c372/django-reusable-8.4.tar.gz#sha256=e5a808e26b6b8e469e87351f5f9510ac5135516b1ce13957dc09649f6bf579ac" >django-reusable-8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/a0/e6ecb7a305274e888186a8543f5bcba9351a63275f25727f682445f3ddf1/django_reusable-8.4-py3-none-any.whl#sha256=930bb98e048af528359920d96e5d35a9ab160b3c452df8d6fb655fe628f03c88" >django_reusable-8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/a4/d9e7127904e6599fbea594a83452591e3af249afc87c3b313a0338dcf973/django-reusable-8.5.tar.gz#sha256=d72ae8d0c180c1fda353dc5b06b4875da3b1ae7e378e528f5b94a63e22e2c533" >django-reusable-8.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/57/bb6c332cea7941572e358dee2b6663668db3871037b0d88b402859550ddd/django_reusable-8.5-py3-none-any.whl#sha256=eb9b99dbdbb1726e2c65dd6db440ae2248739298853b7c30cd4557c7f96d598a" >django_reusable-8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/78/75444956c5b9dfca28840cc8f290e25653fd30fbf29dd424341181b9eaf8/django-reusable-8.6.tar.gz#sha256=52f2350cc02ccd6cf2dd004bd6551a1a15b7b556b1ad367c122a9b061e17dc97" >django-reusable-8.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/17/132c5564f75cb6f9cd8968b7bc72b556be457ba4ec0974d143fa8e7eee15/django_reusable-8.6-py3-none-any.whl#sha256=cb7bbb79688dc2d4ba958fa9d9b9cb33c288052a713d84b1f58f35d0fc51af88" >django_reusable-8.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/17/26422c002d20cf716790cfce6758776695093780cb3d947ff60c677daf42/django-reusable-8.7.tar.gz#sha256=27a22f969667a93278052f0e3dca66fb408e024eef8bdf6b7ddfee1f23935a5d" >django-reusable-8.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/df/8f/126187cf301ec0b2d75bade147f3a796315e4169647cb888feeb57ef8cf2/django_reusable-8.7-py3-none-any.whl#sha256=048079aa963ec10e6a7c81a7b8c8d10a4c8e939d770b5fa6e4e468e2701258f0" >django_reusable-8.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/23/9df24ced83a9542a09b1d82ec64aeb9ff6fc613f5a34e06c4673c110b6fd/django-reusable-8.8.tar.gz#sha256=1436f47858e4ad5aae84be776b8db8f155829af9e95d61145db57aa205fa58b3" >django-reusable-8.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/8d/a2c1441d9e25f8e0c2def1ec5c0114e7f02416be6df713da9036ff558f3c/django_reusable-8.8-py3-none-any.whl#sha256=acf087f16c5d81af0bc9994b2e790a96a0ee624ac166a82babc17544ae35b58d" >django_reusable-8.8-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16352512-->
+<!--SERIAL 17077848-->

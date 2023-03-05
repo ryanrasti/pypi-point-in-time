@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kratosransapplication</title>
   </head>
   <body>
@@ -67,6 +67,14 @@
     <a href="https://files.pythonhosted.org/packages/00/e6/f6b1749d866efda010d117de0d1e125a560caf652c47104c65172e2ca731/KratosRANSApplication-9.2.2-cp37-cp37m-win_amd64.whl#sha256=8462104d6c10d887392e95945bd6536483ce38b422c9a79fa41d0b7b796c4b54" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.2.2-cp37-cp37m-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/7e/f6f667be1c00423e27bd10ac79beca991424f2aad6e2390517166678527b/KratosRANSApplication-9.2.2-cp38-cp38-win_amd64.whl#sha256=e84f7f43a5898b09c18bfa756f1ca9cbc0ea78c5677b5c3ea845b7ceec4f3985" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.2.2-cp38-cp38-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/fd/6ef1e409be7501619143de918648ce9759be291623c151346e6d66418fbb/KratosRANSApplication-9.2.2-cp39-cp39-win_amd64.whl#sha256=8b23e3de035600f03d2373089e894de6ceb565bda5d0029adbf40972f1494662" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.2.2-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/c2/77e4f31baf63f9e15f091299567869f3809ca4cdffa723f21c79ee990de3/KratosRANSApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=733c49e2d15630b0071e6ac3de2d651b6a86e013f10a0e5eb0e3becb0a99dab7" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/21/9ff84e5165d9fa040947b7a9048b7cee0894b78c141c26b8daf6aa9d829e/KratosRANSApplication-9.3-cp310-cp310-win_amd64.whl#sha256=4d9045340d6f238e95a769b40826e17ebc6602946e4ab2244fa512a1ea61035e" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/bf/edeb6e018fd81e8fab02d098724eb0c1e6b05a97601bcb5ddb7c76ef99dc/KratosRANSApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9c57c050c74e554fdd4de414f2cfc5640a891b3aadceff9367ea8957a7591229" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/e1/0c583c661dddd7e0847520fe1a90be0405f2eed03fb028ba4ed73f2698b3/KratosRANSApplication-9.3-cp311-cp311-win_amd64.whl#sha256=71ab3d26ed984a8f4a71d3f7ef2f4ba75538b1b2a0f8964c71c8a29e29e0f300" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/d5/391f78c4e6c7422c617b0ad5b6d621f64f7a9227cb593ad51ae1fefe430a/KratosRANSApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d5d19c40468a401cbffe7dcea9313cf25eb3d94407585f7dcef6b191c110621f" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/f7/6a079970a9cd4d89879ec33cd880ecdf59418b1b31b7d9c7a03d1193a750/KratosRANSApplication-9.3-cp38-cp38-win_amd64.whl#sha256=67fd220c476e37d4542569c13e3ed11b1bfab36d4a7da5c4baf96972800adb0f" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/8c/418473d3c4fed7822bd5c6b122b5d85ea5e81e00d102209b8b816a559a30/KratosRANSApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=a42299ec5053c844da9f7c7b759050e275aedb5dd7f71f025c7098e1c6ff3668" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/26/db335dde12b9ad0be41dccdee3bb8b9cf6949d96d11a70a46d77b791d125/KratosRANSApplication-9.3-cp39-cp39-win_amd64.whl#sha256=9c091b52303a2e93a671fd20f293a74f08905828ec89a2220d1d8a7e1c85f578" data-requires-python="&gt;=3.6" >KratosRANSApplication-9.3-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15413961-->
+<!--SERIAL 17063954-->

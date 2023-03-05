@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dapla-toolbelt</title>
   </head>
   <body>
@@ -74,6 +74,22 @@
     <a href="https://files.pythonhosted.org/packages/5c/58/e678c148cd0dba1843190df61619239da3d051db52f05d9d34f2562a86a2/dapla_toolbelt-1.3.8.tar.gz#sha256=9d20ef65660e31efaf9639aba370e038ad960bea7e42f7cb5d3b89e323c2acb9" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/ce/00c8e7498b93e01bb3f003b189f262ad17fcc014c3bb4cfd437fbad05adc/dapla_toolbelt-1.3.9-py3-none-any.whl#sha256=3251827a691980d29f471c8db7af02925b5026f4c4be5abea600ec3270cf61aa" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5d/bc/c5d46b05002ada3bf087762a37e3e2ddaa9b5abb1e39e7abe928f218766e/dapla_toolbelt-1.3.9.tar.gz#sha256=ed78ca50eae0a23f95493e25f57bd5072b49a364da75b71bb75992da50303749" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/1e/7bd8e87629d94a24b2e009be5bdb7c6b1e224b18eeb449fac77bc58a8ed3/dapla_toolbelt-1.3.10-py3-none-any.whl#sha256=3840a325362af0dfb77dd4d8d720ec46c8293be2c43bd2d25499834c50e9fe21" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/1d/8e4a8f47c46053c4c09fd36434f7fb019ba5f253a936d377f165293fee8a/dapla_toolbelt-1.3.10.tar.gz#sha256=ab6a027b753a516abaaf54facb63166edfdb20ad768a55a09882bee23b24da2e" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/e2/72bd1573346e523cf649363d142ac9cc22dce41732ef5137905941b5cb1a/dapla_toolbelt-1.3.11-py3-none-any.whl#sha256=34f23710f2459a4cabe1b5bfe469b7236d1231796f10d2748a0b517f7a641758" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/02/a747de18ff0ea083d40ada498015951a2ff1f484368451ab177ae5f653b8/dapla_toolbelt-1.3.11.tar.gz#sha256=53ee6c53901e973e1bf90db36029e2eb7aaa10484d997643c65832edd0d2f64c" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/98/7df9a7a05754a4e59e3367809177c70c9f840bb8a9e46ccd9bd864828235/dapla_toolbelt-1.3.12-py3-none-any.whl#sha256=870688c377748a5f096e8fa3ea87f630addd261c832d5404b78f03757f09873b" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/85/7882aa07d298b0f84649441138223238e288ad6e4a508cbf89c1f9915b01/dapla_toolbelt-1.3.12.tar.gz#sha256=6d11bc4d7961fcceb28fcf3e16376c21c415c5478ad35e6679d3b7f9bdb9e28b" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.3.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/c2/d6db51a60eb210614997f99953f5b49c99a57f8e5d706bbb3cf7b59bd963/dapla_toolbelt-1.4.0-py3-none-any.whl#sha256=b82460d1853246fb577d08f76ad569d7f73b46ec15c94d00e3e9eaf053664e44" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/25/190d9d495adbdb4acb4446f5872d02c79df562452926ca6bcf3bea5962a1/dapla_toolbelt-1.4.0.tar.gz#sha256=5e00c35e79a3889166cc21645bd051c6e7fdb01ab5564141f547e5cbaefecb10" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/04/f0ed27a20d6a5cd507f0a8746d9677d568160fa406f4e5a19980b4b4547e/dapla_toolbelt-1.5.0-py3-none-any.whl#sha256=d841120ecd25f6265f32d38e8a34f9fe00e7540895830cd11767ce0e6cd7a4d3" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/a7/94cb9debb1c2e33eb9f67dba41dd32db1a2913cbf93d04d848c8c79ab136/dapla_toolbelt-1.5.0.tar.gz#sha256=ca2013c39ba8f1cf5285b503017f4e47d872bf5de1dd74123586d4688f0d40b9" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/45/41143ec818f5a920cbaedf46f4cb957893f7b453ab15394e867b9b30b539/dapla_toolbelt-1.6.0-py3-none-any.whl#sha256=c2e3df0f06b689f8229c3765bc6c1f3abcf98904cdf58a4d6fd9d1ffe6ead028" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/74/dee679b2f3a6fdc336f1f5eea824728325dccb9004e97e4ca467e640eecd/dapla_toolbelt-1.6.0.tar.gz#sha256=15222575ddcf3d6945e9f5cfff227f76ac7f4e3633fbcb61c6d2ea893cd94feb" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/e5/574b885f5de0ed2d5f63fda8bb9010b8b3cf50baf75bd5c1b73d308ee62e/dapla_toolbelt-1.6.1-py3-none-any.whl#sha256=8d17f1fa0285ee5a5f276d2eed1216d053d1cf23f53628860905e84405994bae" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/c8/6da9699adbddd9b4789b48adeec5b5a464739d63c8677e849acbef838382/dapla_toolbelt-1.6.1.tar.gz#sha256=3ab572cfbf17a1fd69ceb0276969bcd56195eecad5e2303ee039da8ab4e5cede" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/43/af89194dd3a264fa838731411271cbaaf0eedaeab6f6669d7dd008378f54/dapla_toolbelt-1.6.2-py3-none-any.whl#sha256=36cdc3a0fc8812b70c6e6b7dc97dfb71f707387628aec46d8f99aef64e7c383e" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/2e/b5f1c3f28dd53bb3cfee9011d464a1f05adad3c9e5d7ed1306a3af888b92/dapla_toolbelt-1.6.2.tar.gz#sha256=6870e72a4dfc20743c653889c88948de8504df4c646fe90a9ddcaf3fac9e8268" data-requires-python="&gt;=3.10,&lt;4.0" >dapla_toolbelt-1.6.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16416508-->
+<!--SERIAL 17007656-->

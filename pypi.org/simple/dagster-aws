@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-aws</title>
   </head>
   <body>
@@ -886,8 +886,32 @@
     <a href="https://files.pythonhosted.org/packages/ae/df/52c6220737bd65c38972192d917039cfc7acfeddd012181e6853406f566a/dagster_aws-0.17.9-py3-none-any.whl#sha256=de5740f9330f7743d7d5bfd3bc37e206a8eb5b1585169aeebf5e2501bfc99d7e" >dagster_aws-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ac/0e/5707c2ed7c6d41ebb3bce20d15db877de3f904c63222e5f78355e419dab1/dagster-aws-0.17.10.tar.gz#sha256=2301fd19060bf88b9a67f8a6493664303a6e131de12082cf5493e1bdd10e23fb" >dagster-aws-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/92/d5/434480cd47e3fcd434bb80e2d82e20939bfede0db9d0ce033a5d0e478b4f/dagster_aws-0.17.10-py3-none-any.whl#sha256=6d9cb0d8b3d99105ee550ddae304e00dd40dedf29bab5947fcd900223d762b7e" >dagster_aws-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/96/e21df1d344d78248e9f89a5223821edbdb104b71d84a44066f447a65d5a9/dagster-aws-0.17.11.tar.gz#sha256=f647b180bd8dd3f35ef00efedd0491106bc8a2b09348724a2aa3c1126624ee51" >dagster-aws-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/d5/701029e55bd95860d2ee3cf46276bdc980cbe485c33aa57aee47d27d9733/dagster_aws-0.17.11-py3-none-any.whl#sha256=982413f7ed468200c47d5e48a38fd07b22bf9b0be971dda8cdfdde32d2a2de31" >dagster_aws-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/3c/2639283454327d36b30aed6c00d3e0415786472aabaef97795ea11bc9a1c/dagster-aws-0.17.12.tar.gz#sha256=b6c0c673fdb69d39c5a177a2d8a31b8a616777848beae40f7ee8429b531a28cc" >dagster-aws-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/9f/4e58fc00ad95dfd6b364d6dd354a16b9970374698f38e62b88665340da50/dagster_aws-0.17.12-py3-none-any.whl#sha256=ed7cbbe111adbf533aae9808b6be60d103e096be49b806bf4292ddeb32aba2bb" >dagster_aws-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/b1/9fbf1686266945c261aa9e96157e2a99d786aba0685cffcf9b7d3529489d/dagster-aws-0.17.13.tar.gz#sha256=83106ded47739e5139d60471fc0f865e2238014136e75d203a8073f269b4fc97" >dagster-aws-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/88/560ebde196a5a7e99b8622f1c0580f915404adc2ffaabecd82d7fae0e109/dagster_aws-0.17.13-py3-none-any.whl#sha256=a3babb80f0375dd8a010bde3c0d27cacd7e6bb478dbfead2d734166a4f6fb4a3" >dagster_aws-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/1d/de04b672b2b89fda21ce255f2bbd466e18f100b287933290bd6b1610d457/dagster-aws-0.17.14.tar.gz#sha256=095ba7de0d44a1e16751e38314a6378ac436c2d6c6d8fcaf9b0f120cc63f2234" >dagster-aws-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/f1/2147bb425b332e37b6aad00d6404c03946c2fcba9d6e6c2b916254572382/dagster_aws-0.17.14-py3-none-any.whl#sha256=a1efc29b36f2bda552186016cf178993ece10c6b4a99b3b19fa5a0e741e2def5" >dagster_aws-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/06/4f60b20b7c0cf19608a92c4ce9f9f730d958bd0b25e3869db98f68a85619/dagster-aws-0.17.15.tar.gz#sha256=9751864d78039e8198510d58095aad8ddf68a368453d4ab580722d7767ddd392" >dagster-aws-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/5e/e1ede53b27540694d4a780e68fe6243b7c745a7098aa6476f05ea952ab71/dagster_aws-0.17.15-py3-none-any.whl#sha256=c6cd13d9c8cb35c8fce9deb60ff4233241c98eef5ca152fcff87d937e1bb5a6c" >dagster_aws-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/86/405889f974b4504664917fa75b23ad53390c7c97f9e830cf55f61a3d2cd9/dagster-aws-0.17.16.tar.gz#sha256=5a89b30a6a83fb261a16c08449347fc259442117568f6454e96cdab9261df794" data-yanked="" >dagster-aws-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/2d/4a0d44cb1ea5d711d0c55d1ec7b35d8706b6531f3b6e4501b1b4e845de21/dagster_aws-0.17.16-py3-none-any.whl#sha256=6e843245888aeee86afe9e4e44a856d7c49d4acd0f25d75e6dba6cefb439baeb" data-yanked="" >dagster_aws-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/89/565704fd735bf2040b0151572cf8fc0a02fa4d77df1c59f35bd8632612c4/dagster-aws-0.17.17rc0.tar.gz#sha256=a9e054f09207d9ba8bfb65ce5f77852755af4f3deac55511c57aa7b0e6d6ee87" >dagster-aws-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/29/304ffa39e92c04d6ebe43b450c2a633d020b28d8268b534d14adfc417edc/dagster_aws-0.17.17rc0-py3-none-any.whl#sha256=886cd3a0b398dbbc7432f66029f672fb3d7ad0a1c3de4f6a3439c46d37daf3e0" >dagster_aws-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/10/0958e57b4e57a3c1138fd813c867ba83ca4542b2c767f6914a00bc183478/dagster-aws-0.17.17.tar.gz#sha256=25bad0a404e83369edef61372334df79aeba61da59b5bc311758535a59ea02f7" >dagster-aws-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/94/84897b3cb65315221fe1bd5cd3df09a0ab307f738be0f3b0eaee61abb68e/dagster_aws-0.17.17-py3-none-any.whl#sha256=661dcf2278bfdd49900119dc87e8e8c2a66cc931d1a018907147fe0194361800" >dagster_aws-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/b1/8bb95e250945678ff524753b8c64b00ace48456eac59e5ee5a30939c6ded/dagster-aws-0.17.18.tar.gz#sha256=4767642579f786f765024cd7827774e34e942324a73ee3769cb4a34a6879dc84" >dagster-aws-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/d8/6608a01a30cef22f44f4a311c667cba7a0efff2893500890bb11342df88d/dagster_aws-0.17.18-py3-none-any.whl#sha256=56a430ee8e37467297a43d934241c34d111128226fb15712ee9c3601cbbf9dfd" >dagster_aws-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/ef/676f730184df992d18332d9047a6789a4829b1b12087e7b1aebe26c9a32b/dagster-aws-0.17.19.tar.gz#sha256=1f62d8af53efc621bd1789f781f64d1916e2dc295cb5e167b3b906e5cc5bdcff" >dagster-aws-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/9e/10740d586791396a27aa0cdcfb1d2b7c8130e3073f4d4461db32be1108cb/dagster_aws-0.17.19-py3-none-any.whl#sha256=307b6797309600334e4f8d790eb03eda3ce766f43d56cc1743199e2063f9bb16" >dagster_aws-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/b8/6f5cf499aca65ae025bb1738230399ff10b2139cdded1422cf0732a0636f/dagster-aws-0.17.20.tar.gz#sha256=2dd9a0a7515de733c90d18f2f3a4de6e604cf30351c0c6e1a792b663fd125c4c" >dagster-aws-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/a7/0a248ab79d16f4f8f422f2d1a0b651fc00490428682ced5057fc107c6058/dagster_aws-0.17.20-py3-none-any.whl#sha256=c060675ba09c3a13ad0f93828d2aab9f9d2c0bed6ac8b5686487aacb25f1f222" >dagster_aws-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/29/492e20c25aa62a985b0046fcfb006bda0864a38c6673c68b2608fa5a862f/dagster-aws-0.17.21.tar.gz#sha256=3165a06edc2ca1c0b108dd9b0be994e3a1887f59e93f7a2517bb5fe2ad0ab80b" >dagster-aws-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/3e/8faa0e82903bf5cd68167be142c7cabbd9e8c14ff331667d80a8f424f1f0/dagster_aws-0.17.21-py3-none-any.whl#sha256=f250788bda606d05d3e2aabf996a20bd053d69ee2e9f61a5ed14241842b19adb" >dagster_aws-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/ac/37cae108d2d28c965f003f734ea7e74e8d5b7a9bccf0c533fd9d510b702f/dagster-aws-1.0.5.tar.gz#sha256=23d98e9c82c4799e1764d7a6f71773bb2e113ddf87fac50a25c05bcde145d499" data-yanked="" >dagster-aws-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/72/c5/fac3152b109d437ecd3ca8bf9a9cd9bf62c8aa7687e52a686e00f3b8587a/dagster_aws-1.0.5-py3-none-any.whl#sha256=80bb5b055e59c0702424c2e7797ded645f4085cabd8a1d30fd72033a5563c2f1" data-yanked="" >dagster_aws-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408599-->
+<!--SERIAL 17135843-->

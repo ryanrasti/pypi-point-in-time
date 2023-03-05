@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for z3c-caching</title>
   </head>
   <body>
@@ -13,6 +13,8 @@
     <a href="https://files.pythonhosted.org/packages/c1/88/5b55255a45dafcb4cf2dcd837578b18632c785ba87201dd8d88d2bfccede/z3c.caching-2.1.tar.gz#sha256=ef7d0735e3fe101b72bd25afa8137fb020c276c4e8b4a17f8270b43d537e74f1" >z3c.caching-2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/69/1a/bff6e4a74ce2c5bdd6d723dba1edf40361129a8b7469891717fd9a69df33/z3c.caching-2.2-py2.py3-none-any.whl#sha256=ced307be6e2d37546f0cfd1bfb834c79ec08983dd17041e9dd342159e9379927" >z3c.caching-2.2-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/21/2ff1e3033a3293ed3eb7b56a9a765035be99ce430fb3be7120b3e89dc358/z3c.caching-2.2.tar.gz#sha256=e6f9903faca77c7fc571ea35e31ce511dcb4652b1f383241aa2b2a7f559b6d4a" >z3c.caching-2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/85/eb0bedbeaae7e4be658b9963ae5261286fc0cdd4f678c3943fa6cecbe3e9/z3c.caching-3.0-py3-none-any.whl#sha256=ee30d9848f571c173e07f26238a28e8856e2570577478bc4a59f331c8bc3bb63" data-requires-python="&gt;=3.7" >z3c.caching-3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/61/56cbfa9303a1f3c21ce5e2c6ced59ea64c8adeeb30276149f443cfba1b97/z3c.caching-3.0.tar.gz#sha256=81822a6bb3db87984fb8a7251918d7228989a4b83e58d83292d0247e1830aa0b" data-requires-python="&gt;=3.7" >z3c.caching-3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 6753940-->
+<!--SERIAL 16748465-->

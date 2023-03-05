@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for igfold</title>
   </head>
   <body>
@@ -28,6 +28,18 @@
     <a href="https://files.pythonhosted.org/packages/50/25/9f5531c2906bfd191311af7863bc422bc4635d427384dc92cc6ca88f0e93/igfold-0.1.4.tar.gz#sha256=42a2fefbb3eb93abae0b3d85589cdadf23b448d24e2b67e0054675992b5ab870" >igfold-0.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/b8/0f9a4033ed75ffb0f2758590dfc512ed02fd1ed3b0e25029c3deaf07c8fc/igfold-0.1.5-py3-none-any.whl#sha256=99f36e0e88c1b8bdc926292474ff2a4082916789039423f8a94dddab71372508" >igfold-0.1.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/82/5dec03d69bec8f7c28b85fd67486acf867d17ecb86bad5e3ec02796f3ce4/igfold-0.1.5.tar.gz#sha256=fde32f64db3fda4f7d8195c625b291b5c6596946fe8e16b6bf9d1ecbe4cf8676" >igfold-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/a7/cd4b913e52e0427897922a6fcf043f973100d901146ed649aaea40383f5e/igfold-0.2.0-py3-none-any.whl#sha256=81d040c725b3f9d3649c9fc3a563e0c41e35671d6ad6a7fdfb5168301f2d0903" >igfold-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/ae/7e96a00e72547537ed768956e6341fc8912fd2c922a46db4653837a9f8c6/igfold-0.2.0.tar.gz#sha256=fbbb7cf433941811ab472c984c8c65545492226d532248d09e19e87accb7ad48" >igfold-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/72/fbf26093c005702187e9e4bb850e058ed89879b1064f36fa9b23ec8f9ea6/igfold-0.2.1-py3-none-any.whl#sha256=616abe0497f70d1c0728ea23eae9059e1378d44d813980a32e8cc3e3760ec596" >igfold-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/8c/d0436aa9595864341491078ffc2d67cf469eadda91b702f6fbf748b8a7f4/igfold-0.2.1.tar.gz#sha256=72b526634478cff5a4e7781d6f61c6c7a97ecd0a885d0088d97f70a385413f48" >igfold-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/91/988d5aaa8e62b718f3a334a5520a76c78fc40564c330de22a749c2ac5c2f/igfold-0.2.2-py3-none-any.whl#sha256=1aa6bdcd6d55b04f71671c7b6e65058c928fbcd3b1dbb0e5c8f69185f7a99d41" >igfold-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/82/7e743bf7918dc0bbcfd4a2869d1aa69f7529f1ae65828d0aaebe692836ae/igfold-0.2.2.tar.gz#sha256=f735bfb4ee8ef268060006957c5751f80b0f418786dbf95753ee2a18a3100846" >igfold-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/20/fce7d5ab8d26da4644b3c239e52a2c806dfbd7e852f8ea26182512a04958/igfold-0.2.3-py3-none-any.whl#sha256=da02bcb1a6bbd59761edbfd12b5732fb147019079d5a33bb6137b7a643511f19" >igfold-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/f9/0e40d9ba85a799ec6490d696f1e107c8cd60f3680e1b2f33498098cc9e96/igfold-0.2.3.tar.gz#sha256=439e65c352bca5b0d31dea961450355c3d114f200b8f09a7d479c1e8911616c5" >igfold-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/35/4c1cf0a7c64c0f9cd9590aedc47bec07839580c2adecc657e32f8138e909/igfold-0.3.0-py3-none-any.whl#sha256=33cea5ff1af2cfed25c5b539453bffede06e0afd3162934a8c575b0fc5fba644" >igfold-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/f3/50761783b9ce1f57c3a42506d5a81441f8f1b43157240b8c16d1d6784995/igfold-0.3.0.tar.gz#sha256=fd72b277046edcae191c3b38f6e43ae693e6a89bbe4da7804fde91a6b2c7805e" >igfold-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/a6/e388d29c338d1a2de8fb17e23d35b3fa2568db71262f6464a36fb6916caf/igfold-0.3.1-py3-none-any.whl#sha256=3fc174f8baba5b9108f773737e288a1c7a511698a339c4a4c91a081f10eb84be" >igfold-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/f5/1e42082789f310b07ce292c782b6d7b3d413b157d00dd120372b3d9d429e/igfold-0.3.1.tar.gz#sha256=a4b07e131432a1aa7b3f983529346e1d811a4837aa2ec67a789c25b20e77a443" >igfold-0.3.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16346528-->
+<!--SERIAL 17149148-->

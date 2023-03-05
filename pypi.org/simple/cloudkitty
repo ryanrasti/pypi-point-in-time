@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cloudkitty</title>
   </head>
   <body>
@@ -63,6 +63,8 @@
     <a href="https://files.pythonhosted.org/packages/7f/3e/7c0be809fca4db0288aa8478e18f30c687a01330b46510bd5d701be1f860/cloudkitty-15.0.0.0rc1.tar.gz#sha256=fb903a2e68a7dc996d9cf68ecf839fb74769393f4ab0b1e7a70ea4392d83dbb5" data-requires-python="&gt;=3.6" >cloudkitty-15.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ec/81/2a9a5345184d2d0cff1b6afc269b9e12520aa6a1e6cd8f25f19f1f70568d/cloudkitty-15.0.0-py3-none-any.whl#sha256=663d9f9332bd703df0cbb561731ee5a83176b68a6a49c3284eb4406f51ab9269" data-requires-python="&gt;=3.6" >cloudkitty-15.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/ea/92c3ea55238dbb71e96a107c9acd0b55503479d6a2c2ce83ec28a8c4677f/cloudkitty-15.0.0.tar.gz#sha256=b0ecd923ae3be09abe67729388faa4152b1e97f7d072330d8265790269362413" data-requires-python="&gt;=3.6" >cloudkitty-15.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/c2/93fce213bcc7e2232c92af4993d3b57b0e10c4f919844dfc2fd780164470/cloudkitty-15.0.1-py3-none-any.whl#sha256=cb4ce57b28b426d495876944f70f259e92a7ef7ee2df170f651c9af254aa4814" data-requires-python="&gt;=3.6" >cloudkitty-15.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/6d/b0d9da7ad7ec00fa485101ebebce6112c9689a5dd58fe86571c97bc6fecb/cloudkitty-15.0.1.tar.gz#sha256=cf2fd6a89798be07e5395d0abd5de0101cd903b2826929fc34265282d9f5c737" data-requires-python="&gt;=3.6" >cloudkitty-15.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4e/89/aa69021afd5dad4144ef596a926fbfac1f131026e046093cf4203ca50e9e/cloudkitty-16.0.0.0rc1-py3-none-any.whl#sha256=ac3e0e677381cfe2576222d5fe1d8f58b1b17565bb5e5d9ea524a50e67693f40" data-requires-python="&gt;=3.6" >cloudkitty-16.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/9c/86cc24eda63b42d97c2a2a5ea62b5039f8b5ac2471877adeeff01575ad49/cloudkitty-16.0.0.0rc1.tar.gz#sha256=1e1dea479f57f35691800ab2e4c9e75090574f6b1a8c01134ecd2da26476d201" data-requires-python="&gt;=3.6" >cloudkitty-16.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/92/141553e236cf76259078773dcbee7459cec18879bd59c3635d69e6dcde3b/cloudkitty-16.0.0-py3-none-any.whl#sha256=a6d0c99137e323bf79142e517432cb78a5ba83970d03d1d3d608447af63c3d3b" data-requires-python="&gt;=3.6" >cloudkitty-16.0.0-py3-none-any.whl</a><br />
@@ -73,6 +75,8 @@
     <a href="https://files.pythonhosted.org/packages/0d/24/3d1044e482f847293ec5a1fdf47b897e712958bc48ab0e40a35c4a28e88e/cloudkitty-17.0.0.0rc2.tar.gz#sha256=ffe558b7e527d1b50d3ef5593ec1edb9298bec419b8d9c95fca035373ccb4662" data-requires-python="&gt;=3.6" >cloudkitty-17.0.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/fa/a3f235c720d952481ca97e0f78827aad67e828464af2630b72d98a353492/cloudkitty-17.0.0-py3-none-any.whl#sha256=d656a9970cdc7782be53839d454f4e232d007dacc5d6b7f83ef9472466d8fd01" data-requires-python="&gt;=3.6" >cloudkitty-17.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/14/c0/2d2db7474492c85df4967e538432ddcd22175eaa185396ffd7579fb0bfd9/cloudkitty-17.0.0.tar.gz#sha256=b37e602c5b51734c95795ccb87e8c921dc97195655d8261007b1c6f6608ee54b" data-requires-python="&gt;=3.6" >cloudkitty-17.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/a3/775615585f2c0a4bf7f8b4cd1c27a4168630850db1867afea70ca9a590fd/cloudkitty-18.0.0.0rc1-py3-none-any.whl#sha256=b2a7a68524346f28c838329e3e7d482f396804be5b05afb9deae21266059de8f" data-requires-python="&gt;=3.6" >cloudkitty-18.0.0.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/28/e20f8a78ba409ac7f4a3ca3446c6ff9141b4572e4b9b53c8fd2855d17b53/cloudkitty-18.0.0.0rc1.tar.gz#sha256=9444c20f4ce0eaf2751f80623de01f17bde88e4360e7fc650cae80619dc7ead3" data-requires-python="&gt;=3.6" >cloudkitty-18.0.0.0rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15311606-->
+<!--SERIAL 17143054-->

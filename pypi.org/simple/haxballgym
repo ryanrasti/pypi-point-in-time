@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for haxballgym</title>
   </head>
   <body>
@@ -24,6 +24,22 @@
     <a href="https://files.pythonhosted.org/packages/05/a5/f047f282c050b89f24311963d38b619124765f77c6808fbb0316dd199649/haxballgym-0.4.1.tar.gz#sha256=a0455975affadb293174788842df4f284d338c5ca5e359ed91b9d7b466593335" data-requires-python="&gt;=3.10,&lt;4.0" >haxballgym-0.4.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/04/bf/f01954ad55cc4f1347a23a98f2866472de110f5c4f4b975f03bbb2e2d555/haxballgym-0.4.2-py3-none-any.whl#sha256=251315b472cf71092ac78ccaddf248d9dc67c2967ae81d71c193196bb1548214" data-requires-python="&gt;=3.10,&lt;4.0" >haxballgym-0.4.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/44/85/80260f55644c92bbf19bc3653404f0d6fd5747132e7757f366ce6196a45f/haxballgym-0.4.2.tar.gz#sha256=718ed181638910ac3c0d482cc54aab9453ffe94451ee79ffb4baddc056eba1bc" data-requires-python="&gt;=3.10,&lt;4.0" >haxballgym-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/24/a10d31d6f04f40242556b5d508fc85f53c1a7971c639a0970ba44777cb27/haxballgym-0.4.3-py3-none-any.whl#sha256=c0f350bb0ab6c374307e20d611f5c880ab4b3fa8f3ce1cfcfd48511575d4ed35" data-requires-python="&gt;=3.10,&lt;4.0" >haxballgym-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/73/d2982fb614ab8ad40e2d12141898533d300cf94733462cac420e6e5dac62/haxballgym-0.4.3.tar.gz#sha256=dde812dd7a3273d5dfe75f21f06d5a84050002f0a6369dbaecaa1c62cb88e106" data-requires-python="&gt;=3.10,&lt;4.0" >haxballgym-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/ec/64e9b1912eb9be726912926229a0bd2ccff95b5c0ef73eb0d3d8173cbacf/haxballgym-0.5.0-py3-none-any.whl#sha256=197e0dec699703dd50b4c7e526dfb8c21d61a07e03042afebdefd9d30cf9555a" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/5c/13f81025ad6111d183c47f3204616a209e23346685ee4b8116318901d1e6/haxballgym-0.5.0.tar.gz#sha256=8306419bff4b9ca9aaf4709d514b54ad46a5493471471601e9a75f80880ae16a" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/81/af00ac88901cbd48be3c818079bd56d006a05a745ad44f6ebe66c65d8cd1/haxballgym-0.5.1-py3-none-any.whl#sha256=0c834e1df6179865816efb9be7baf2edff89eff3b787dc328fdcaf64f532b4b0" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/1e/eaf3fb2e5725a26697a192be48dc8e1e363261883f4c8c76e345596b496c/haxballgym-0.5.1.tar.gz#sha256=8b65eb3ac520787486e1ce287af96ee3cc6b2ec8a4c725e382e6fb51cd24fd73" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/39/d1b8a938ac4c46d79b81c755b974eff19551832ffa8c2e231efee7f9bb26/haxballgym-0.5.2-py3-none-any.whl#sha256=877d0ff66ed59307635687da5e4b82cc41eac0d4f7d24428acf25eb48b3c3344" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/88/3d3d8eab0ce1858f7210aeaa61f5a8be73f59c32f1e286ad02e33970fc4d/haxballgym-0.5.2.tar.gz#sha256=5711e53781842159bab3a9c80384ce744132008764f92f0871254c5164ab9638" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/e8/1cdfafbdb968dd6142cb34ebca5b9398c312e092e89797d792302894950a/haxballgym-0.5.3-py3-none-any.whl#sha256=03dba51a686b06c84f9ea6e0a554fc7fc8fd93bb6f1f3f74b153ab786f3ec41d" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/22/4a9a6c80f3bda9b7fe43651dfb9e565add8f0de2f23d37061964c8d77a0b/haxballgym-0.5.3.tar.gz#sha256=90624a3ba9ca677607c4a1db5ca3a28eb8f7b117b9190cdb2cbce0c538247a85" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/cf/69b2c312bc363cbb160cc6a22297938c05fad60222f8f17b7926b6774283/haxballgym-0.5.4-py3-none-any.whl#sha256=b81fbabede192a757e7cb402275ab842f8299c38f9ce166d74e04a665b934a86" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/0c/da7088336cbf82aaf8ef5f938a7b09e9aaf157683261edb1485a7f843239/haxballgym-0.5.4.tar.gz#sha256=fd7991134021241550b91c68e2627aeac9fa79c864bd4029b7f0e5ead5bae148" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/5a/db6a66dd8c1c9fecb9ce9bce5ea06bc798020d53dc6910f0c4a357f6e6fa/haxballgym-0.5.5-py3-none-any.whl#sha256=bb223249b2901abbf451ff80106e098a2fbda049cf690e2591c23b9da4f9d65e" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/e3/20575948cba45ee6cb195cc149c4c86219696aef54ed8986f225fe5d3107/haxballgym-0.5.5.tar.gz#sha256=25386d2a19318cc7c198a7425b7aa3e602dd79e92e54ed1d1eb5d22ca51e69a2" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/6e/e304a72ef20beb71bbf37716b432431d827220ef65820254a9e97d4d44f8/haxballgym-0.5.6-py3-none-any.whl#sha256=4c57967efd651b68690f8460829eb04148c1b6ee67f8a2d7409189d11f5df293" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/73/5de983a184fd1c4f6ebf2525bb80b20bf77c7956cd9fe031d5ed5639d950/haxballgym-0.5.6.tar.gz#sha256=327538df9d25002c193ead92b448520d178990ff7827ef12216838265cd07916" data-requires-python="&gt;=3.10,&lt;3.12" >haxballgym-0.5.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16350587-->
+<!--SERIAL 16823172-->

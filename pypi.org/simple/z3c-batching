@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for z3c-batching</title>
   </head>
   <body>
@@ -14,6 +14,8 @@
     <a href="https://files.pythonhosted.org/packages/a7/98/26875d5a32b153e39dd480fb2a204f0cd9f7746ed57905f7ed76d9b7bf21/z3c.batching-2.1.0.tar.gz#sha256=24a99badd21ced028cd37fac258466721a3170e1c4ed9ccd3276b5c737642bda" >z3c.batching-2.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b0/5b/17a628a0744b4471f1bfdddf25538e17efebca40dffbe187b222537c018c/z3c.batching-2.2-py2.py3-none-any.whl#sha256=0290bc5914ecbebf58a793edf6c45a49aac9a44e448f52d002a815834ca38ade" >z3c.batching-2.2-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e2/c9/46fb0930c55156329fa1c883bae15907194263057037f8f5efb7bd8dafeb/z3c.batching-2.2.tar.gz#sha256=9ad3b9851efc28ae62758d1092a217d3dc54920cbcf7e7ecd837277b2e8e94fa" >z3c.batching-2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/80/31b4eb9c8f86248bce33a1263d6f97ad86a61b162b978fd9db43ef74889e/z3c.batching-3.0-py3-none-any.whl#sha256=89f6b71a9543c61a5656fd162e230fba3f6ed63756f4ca269bb6cf9e45d744ad" data-requires-python="&gt;=3.7" >z3c.batching-3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/d9/73969c7e3ef9bb67f7d93beadff3242dd542b90e15e0066d2cb2081f521a/z3c.batching-3.0.tar.gz#sha256=a2928e7f366f60cad0f1f0bc507028041b9c6d9c57b8c08072b84ee527425020" data-requires-python="&gt;=3.7" >z3c.batching-3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 4396562-->
+<!--SERIAL 17007359-->

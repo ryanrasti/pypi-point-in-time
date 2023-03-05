@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for eth-ape</title>
   </head>
   <body>
@@ -155,6 +155,16 @@
     <a href="https://files.pythonhosted.org/packages/00/cb/74d1fcaaee3d46424f6fd5acc296b12e78c6c13be707c1f7a59f83d472cd/eth_ape-0.5.8-py3-none-any.whl#sha256=5561bd095b4feba0012324a7220b7bf440057b6b86435ceb35c96600fe84e10f" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.5.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/16/25799d7006a26d63739b6af02eb204b0b2f781c64773fdbadcf6bf55bd43/eth-ape-0.5.9.tar.gz#sha256=82193928fb3d28e3b27619344862b02315884dd35fa8ca4fb84eda9f3f6aed16" data-requires-python="&gt;=3.8,&lt;3.11" >eth-ape-0.5.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/88/ec/05a9cc57899f7da1dd26638afa95cb95f172a1416fac9ee6ca0a2c0c685e/eth_ape-0.5.9-py3-none-any.whl#sha256=6a49dec5a5ec6c3d9e1afff61961861117652fcd46e5db0455031fd686836e8d" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.5.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/3d/491eb738bc63935a342571ca9377bd652ecc68c6c02c5d5b44db6674cb70/eth-ape-0.6.0.tar.gz#sha256=705c9dd3bba85c56109dc5b9197a71f6f16b6951592f57e55db0c08530bd78ff" data-requires-python="&gt;=3.8,&lt;3.11" >eth-ape-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/c6/699eb9376da780067bedb5d24d9beca40fe8fd068a1847f6bced6b20a6fa/eth_ape-0.6.0-py3-none-any.whl#sha256=3276a881f3f902d35a0e093e07a2c5ddc2c9b69f2e02958204090eba6e349066" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/55/520eb53b9ae8433ed3b9109f0a7674b18108334997237cf32bf6f8458cb7/eth-ape-0.6.1.tar.gz#sha256=05e97e777d91f07ca1354e5246395b0caafcb73ec7943ff50070a2438335319f" data-requires-python="&gt;=3.8,&lt;3.11" >eth-ape-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/29/a336b198ecfba044ed44aef196bdd7990cf01af3182929d71a23689bb137/eth_ape-0.6.1-py3-none-any.whl#sha256=76225ae952564d5c275fd003b68ff4d6cc9d6ea5e05f1af6b24578f7395a5876" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/b9/627fce9e66f2ab1f774c9060f329e3d4c92ccf9c7cb1924ed33a62b2e8cc/eth-ape-0.6.2.tar.gz#sha256=ad94c9d1eca53c9b8e76f05dd27656b56a889515a7599c595543a66c40a4a405" data-requires-python="&gt;=3.8,&lt;3.11" >eth-ape-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/0e/80698bc6faf0eaa2f425b66d474449c8f3cc44484ae4efa4b749db75bdfb/eth_ape-0.6.2-py3-none-any.whl#sha256=76584c957b513ad841cb6eae3efabd1a66c498f6c94f38fbff68f36ebcb98701" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/4e/67f1f773011e1e0bb625b3f4c4d81469eedbeb5c9620179416834c864dee/eth-ape-0.6.3.tar.gz#sha256=60bd8870424b272946ef5c27ffd839ac12e45ca3a1229a876279920431082559" data-requires-python="&gt;=3.8,&lt;3.11" >eth-ape-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/ff/e8d4413ec1a4284373d1fa69ef715daeacc8c1fc4074b17a502a881a9cfe/eth_ape-0.6.3-py3-none-any.whl#sha256=c3e87832475d6e5dce53df156e3b5bb350ecab52f4ed05735a373d2a4c7e1384" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/6d/824e12e1957f846cb8ddd0624c325dc4c0caf4e8aa31056879af08727385/eth-ape-0.6.4.tar.gz#sha256=cea6d2a201b554aeda1cf374d315f07a8e5ff011810ef8485a795d871d627193" data-requires-python="&gt;=3.8,&lt;3.11" >eth-ape-0.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/c3/2e3c6c3caf11cd53177e95e1bd51d8d7a87fe9a386cc08e7606e038f169b/eth_ape-0.6.4-py3-none-any.whl#sha256=3a76212835640a3c2a221af27f4cc1a01ff72b7064c5222dc8cf96ed4fe31d9d" data-requires-python="&gt;=3.8,&lt;3.11" >eth_ape-0.6.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16317434-->
+<!--SERIAL 17130906-->

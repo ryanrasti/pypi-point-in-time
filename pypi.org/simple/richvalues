@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for richvalues</title>
   </head>
   <body>
@@ -11,6 +11,20 @@
     <a href="https://files.pythonhosted.org/packages/b9/dc/d0a744444bb6c4d28238c814e4d9c2092df11d9d33360780082581f7ee04/richvalues-1.0.3.tar.gz#sha256=b3df46be30da2fe25b21ef2ed4009159eb724669d48b589242e051890eadb5a6" data-yanked="It could not be imported" >richvalues-1.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/5b/a4a7d8de23c32ec7174f4a711252b2825e725bcd9206e568da72ba047d82/richvalues-1.0.4.tar.gz#sha256=4165afe31621cb874ec0d34ab48a44c955f3df0c58e65b8268cd76b54739599d" data-yanked="It could not be imported" >richvalues-1.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/74/82/6c272b80c1a598e35fb926c4e40c9af7835d8707ae793a3d1f3ed4945ceb/richvalues-1.0.5.tar.gz#sha256=c9ce6e1f32cfcbaaa7c00582e3279e277ad7d9ec7a83114228872acdf284c517" >richvalues-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/40/b23f33a3ca80fac0590c4f8ff9e60592b9b74fd3a3fac776db7015412b24/richvalues-1.1.0.tar.gz#sha256=05e56c3af0fa5daaff28bf8845c4d4402df1807859a9c733a8739ca494eb2fc1" data-yanked="Wrong description" >richvalues-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/74/9baf930f004def88d8a72037dec91088cd5860ac5ac0d84cd832dee6fd39/richvalues-1.1.1.tar.gz#sha256=d13cd236d1725715d116e4d62835710a85bb6909bb60f6ead6fd4fb6ef155fa7" data-yanked="Import error" >richvalues-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/04/5c4ed58d2d973660808123d0c6c82de096ee358d7d301741794c94f44d74/richvalues-1.1.2.tar.gz#sha256=6dced5f59d6c6f0dfcdce348592471f3fb43699520c4d1d3f2decfbab12f92cf" data-yanked="Problem with setup.cfg" >richvalues-1.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/4c/3f3eece1238d5258e2cae6e495666ea58c1171a7d5c09f79390fd13d3f6d/richvalues-1.1.3.tar.gz#sha256=5256f99068fbfa720f15366d27f703595593e3ec0c1a5e9991630780ff01c13d" data-yanked="Wrong pyproject.toml file" >richvalues-1.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/64/46aed0871b2a5693e89ae9ab2baca4867078a24c32083faa30cb363370a2/richvalues-1.1.4.tar.gz#sha256=ab7b997912803069889fd6bf03526c80eec3a200b92ce3de6a97672ad29042a0" data-yanked="Wrong pyproject.toml file" >richvalues-1.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/d5/11596f7ee372fc8da1619fbc0dc1fbf0a23c2506d5ec6465c777decf1c7a/richvalues-1.1.5.tar.gz#sha256=5c52e47ad4ffdc6c124c214eaa35ef123a1f99af52caeadeaa26c0dfd76d800b" data-yanked="Wrong project description" >richvalues-1.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/37/059a99bae862a5920f469c400f21c88eeea516f8a118b6ea67c69f89c15b/richvalues-1.1.6.tar.gz#sha256=40e5fda14b74f1e5c4c51417b70913ce983f72d8881b88eb6e61fe8e4d096ea7" >richvalues-1.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/48/c619fc41139816d40c1f035b7cfb4c33bdf7e8f3f1a9883dc06f6e779c2e/richvalues-1.2.0.tar.gz#sha256=651feb6ebe40815b1bff43ffa1a4ace31b23d832e334513c52999d0b1ae884bb" data-yanked="Some features did not work" >richvalues-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/47/2c4f20e529a90b384cb9923a8964aa7c6dde2e05d252ea8520029b32f73b/richvalues-1.2.1.tar.gz#sha256=a84f636bc683373601d7b0f28cc1714879bc13454cba4eab92d20e7751bd2679" >richvalues-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/77/b72cbccdb4d89cbbfb9c1726ec63558ef69009b7b40b134fa2fcfe5afd2d/richvalues-1.2.2.tar.gz#sha256=dd10f5363ea915e570d5030e429087689519d39cac20fea4e6ff8e5697f4ed17" data-yanked="Some calculations were note done properly" >richvalues-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/c6/5868c6fdba91a1f66a419e4d59f98fafae8ade0815827c9d725b8643f9fe/richvalues-1.2.3.tar.gz#sha256=0210d5f73817866d25a0bc6709ddc849cb0bf91871ca34500f3718624135b819" data-yanked="Error in &#39;rich_array&#39; function" >richvalues-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/a7/e11eb5b0abe9e43138325a8cde454c8d33253b391937e0674046d82cdc67/richvalues-1.2.4.tar.gz#sha256=9fbdefb52c3068c83abbbf2faafbeb04cd3ebc24d141832798a2736d359c533c" data-yanked="Wrong library file" >richvalues-1.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/df/df3689f923bc6f2caf46171f8b855096d2578a76076dd180aa642d6008a6/richvalues-1.2.5.tar.gz#sha256=25b5c7319e3b38dbd319d93189038849fad4d527db8c32412957a4731dd87f29" data-yanked="Little bug" >richvalues-1.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/26/2f5ba74a313a3cba24b4e294f1b3a36a58cc17561b543c6f9cac57b71fee/richvalues-1.2.6.tar.gz#sha256=e0deee6835b153f1baad7faf8a3bc8e6bcd060ce7070ac93a529e5f720bb2594" >richvalues-1.2.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15704739-->
+<!--SERIAL 17099673-->

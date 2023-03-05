@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-spark</title>
   </head>
   <body>
@@ -886,8 +886,32 @@
     <a href="https://files.pythonhosted.org/packages/80/6d/ea9a67489d49938f8414aa945303ed4b0f514ca730f217743c2abb2c1b99/dagster_spark-0.17.9-py3-none-any.whl#sha256=5302d593fbbba6523b34ed1fbf8c8ab49e77f001de0067d10126986d80cb0b09" >dagster_spark-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/11/9495658947ed300bbc82a5bf18f647cdfa6b7c4c3ae27fd3822c88a5c16c/dagster-spark-0.17.10.tar.gz#sha256=9b6cb82c4863ba64477b7e921de6dac1c93643f86fe727d974395583b038f7c5" >dagster-spark-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/dd/fa1330f2ef3091c21fb26fec4c69f39b6c85bfa04ffc914ac241eec2e49a/dagster_spark-0.17.10-py3-none-any.whl#sha256=c453d507ace213b929fa12bec37582bd2c212a5199afd1e1b86a826fb8afcc95" >dagster_spark-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/c9/608a6cb2fd5641781981196ba29f6d19dfcdd1082f1584457b593844f534/dagster-spark-0.17.11.tar.gz#sha256=45708239ac7bf49cbe4d726879075c8fd45532cf713b0c611acb73b9c8f4dd3f" >dagster-spark-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/bb/23ad24d927c62ddf460b7d5b578a31bdb56c3d0348dc043ce128e87cadc1/dagster_spark-0.17.11-py3-none-any.whl#sha256=a3165f74dfd72cd8e9ef5d264601211d3d4aee3670eac96de83384125be63c5b" >dagster_spark-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/8f/26c358aca64cbdee0d57ed79ab35ada864f494b9d1a22c54db5cf29d7607/dagster-spark-0.17.12.tar.gz#sha256=47bf4cb6af6a124a578a46bca77c7030a75a439d3da62940be256125b8d48734" >dagster-spark-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/62/4387ea1c00361946d98671be3e0a2abe1ea9a757acd06605aadf7d53d777/dagster_spark-0.17.12-py3-none-any.whl#sha256=fc5683dacfd503863e3a39e4f8d80d75a5336764d64a77d77013f153a3eb7e27" >dagster_spark-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/23/c047267d17e8bcb35cd1c94e8128e7783cdd9a3c28ca847b334e9fe8c27f/dagster-spark-0.17.13.tar.gz#sha256=82c71744b5da707703cc095ed27ce532e96e058f33888c621fc828a301bdb3c2" >dagster-spark-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/4c/62aebf9a388f39fe39ea28c44fab6f80ac4a49530d42ce08ea15c0a12dc0/dagster_spark-0.17.13-py3-none-any.whl#sha256=b50e59a1a7866157e4c7c6ed3e65461c979d9be1725531f8ae1283f7bcc8f327" >dagster_spark-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/0a/566dcb534cf95cacc28d0696d39c257c2ec254d6b33a5d6f4642b9eee7b2/dagster-spark-0.17.14.tar.gz#sha256=1e0a7ca3556b5cb71e1765a23eb9086e5ce8bf94f836174e5c21b709e77d86dc" >dagster-spark-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/ad/aff5d18156c582b1e5fd92d162aef0a9d3994a976f0a29d338e6ae483d0f/dagster_spark-0.17.14-py3-none-any.whl#sha256=f9a4b1bd604e1cfc8c5f3345037926b06b3149e645d0c15e1551b4e671c2892c" >dagster_spark-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/b4/e5d36053038cf02624995161bf4ec5d7ad74c0da10858efdc37b9fac5496/dagster-spark-0.17.15.tar.gz#sha256=4b71e5cdf3007aeeb052aa0fb882798ea92f1de829271cc610b6638574f32e46" >dagster-spark-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/df/ed90e07896b8c9f0f28650646d15bc04bbb1c13f8d45cd811ac053315868/dagster_spark-0.17.15-py3-none-any.whl#sha256=bc794a6e879c114262bcf139781e753edde70c61b0856fe19c1a4226508c9cf3" >dagster_spark-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/50/e612753c2f5bde7102048f2debdb097a233151f1f9d255a2aa1f9666f228/dagster-spark-0.17.16.tar.gz#sha256=1f15b9b8d36bed80b7d9a935647ac4a86b43617a4020c33b4f693e9641a5458c" data-yanked="" >dagster-spark-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/73/6c30ced8144c802bcc6c5ed4793ff2ec6962d42c7c828e62dc78c2a815d9/dagster_spark-0.17.16-py3-none-any.whl#sha256=87358f03a35b972d925eca6d420a8280dc56e68f23fffbab3a991568211957db" data-yanked="" >dagster_spark-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/e3/f78ea17de7de18d8621aa6768e08cbffb0617b15295b4eb7a9490694d060/dagster-spark-0.17.17rc0.tar.gz#sha256=558aef922f179d8c412208f0b44a85e2c9e007185f5d7836b549ab4ff90eeb40" >dagster-spark-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/88/bc533852ed4cf6dea0d8238e2645f95fcf8b3739697da51abfb263f329d9/dagster_spark-0.17.17rc0-py3-none-any.whl#sha256=8ca705f7de5fdbb3ad5a2f27c2f8db03173a66a36631f6147ec3194926b2827b" >dagster_spark-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/6e/52d04df8077f5b2a5a1d0da1e6585e6be8b11842b961c7326b77e3abe21d/dagster-spark-0.17.17.tar.gz#sha256=38436e616650f820e9404dc40ecbb8b71e0dc02fd793a6dd9308755fd6e344a6" >dagster-spark-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/a0/ae608b15170bd1821f244e3cea794c545058ac64cc9848ecfedeebfdd13d/dagster_spark-0.17.17-py3-none-any.whl#sha256=d5dc893c03839fa11cfc187444999a401c4f2a6453da91abe7ea2d4b1891f347" >dagster_spark-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/dc/13aade0f3ca6d8d9dfb6f508149ba3b2f22c372ccbb17e09234c2d2a7fd4/dagster-spark-0.17.18.tar.gz#sha256=378771f245fe9875700be05c6b6ad0e9e890f0df927240a2dd49ed1c46e9449c" >dagster-spark-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/5a/24c49b07d6546bdb986237349918e73344bb7647dd0ced7d4c2f980a24fe/dagster_spark-0.17.18-py3-none-any.whl#sha256=34cceb6fef6a5e555f7125e22e7e7620a89f69bd70d492163350fdbb0d03b0b2" >dagster_spark-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/f0/4152544b43aeeb36d7b459a3f147a8682dfb689548e3e86f634baef381b8/dagster-spark-0.17.19.tar.gz#sha256=9cbfa9b0292ab3ffd43491dd42277e6aa47a05a8803462f0c65651aca6d4ffc2" >dagster-spark-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/11/c14e59d48e5d2aa6ee336ef119d27896546ef3e04aa6f9f61bdd4856aa63/dagster_spark-0.17.19-py3-none-any.whl#sha256=ecfd1a805f5ca679110a3eff025e2ea04787ef2df0dbf1fa591857585145cf00" >dagster_spark-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/56/d2b4060b9e21e859c0df4b6e795b771cccd8fb32a9c3bd093d87358d5a82/dagster-spark-0.17.20.tar.gz#sha256=421b24afccc9edd0c58d9f59ba64bb859a70be9820bb0027a19922f7e27880cb" >dagster-spark-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/26/3038c32d19bfc1d573d2e88064e40cd4748efb181f9d90368f56f4d85111/dagster_spark-0.17.20-py3-none-any.whl#sha256=1f6efa0a527769c50a73fd9fa315ffe11ab559deac8edb54ca259b4ae52bd319" >dagster_spark-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/e3/b1eb0196ff4394f7fd91bc9e439e815e7eca1f58f11f7fab3cce742ca117/dagster-spark-0.17.21.tar.gz#sha256=3cc05cca8a2ca173c3f875602192ef02fe51fbf246fa255caf63d96fff8c196d" >dagster-spark-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/f3/4ed37b78089506ce7e0a407928a162d346d8639845829dc4f63a980129f2/dagster_spark-0.17.21-py3-none-any.whl#sha256=6997a1692f77a95db021d1c3c060dadaaae984234de378be7802fb29ab091b93" >dagster_spark-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/15/a8/c40e5fc6a081a65180d091147b74f88a8340e06f67d9a2a73b5276786dcd/dagster-spark-1.0.5.tar.gz#sha256=e45afea3b6cccd65b6fc06184568db6eae37ce1048bfb398cfdf71d1d3b07583" data-yanked="" >dagster-spark-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/d9/2285750b63f92704f9c058f93d96b30b5ba5251d66ca4c4aef5ee90132ad/dagster_spark-1.0.5-py3-none-any.whl#sha256=bafa118c1c72855fba7d6f3116b2505c8f260166bbef29353d939457c71867ae" data-yanked="" >dagster_spark-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408617-->
+<!--SERIAL 17135840-->

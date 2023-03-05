@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for glyles</title>
   </head>
   <body>
@@ -38,6 +38,18 @@
     <a href="https://files.pythonhosted.org/packages/a9/60/1a2cb0517fd0b82999d3de3be08071355b5459968d7f305e1043b79f3d3b/glyles-0.5.0.tar.gz#sha256=92e34350db776fb4566910d7a0b10399eb75f72b9c4caa1d4fbf246a19c0c1a2" data-requires-python="&gt;=3.7,&lt;3.11" >glyles-0.5.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/20/be7fa303bf9c9a034f6b5a09792aa61fc1466f04bd504eda7c02e3575b1e/glyles-0.5.1-py3-none-any.whl#sha256=ba1889b5371d73387c55df9bf4d661f33131ec975a9fb5f7e6d49b8114f595f5" data-requires-python="&gt;=3.7,&lt;3.11" >glyles-0.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/93/07/e27f4841b82cc54592b3bedc7310a201306db92ce69d7c4c96163026a2b7/glyles-0.5.1.tar.gz#sha256=1ae15206da23921d129c2beb0d74806ce63d3586da63ae7cc403276e0c7bdb62" data-requires-python="&gt;=3.7,&lt;3.11" >glyles-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/7a/384f30957fbc93490662933ca91b0c58b553bb18ad2ce7867f425cc4ce89/glyles-0.5.2-py3-none-any.whl#sha256=1f89799f96bb494d836b5072701cf1a6f4f4d2001cfb65a62c5d6d0757a441fe" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/28/aaeb3111672f03772cdf72e0a42f715742af6e967d8cdb5546fddd738bfc/glyles-0.5.2.tar.gz#sha256=55e5f2aa2a5908d2daeffd7f692a64bbe8bec9826a6c7a3595b70f63a71a7d7f" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/f3/93facf165a2212ad0b80d5cecbc4b502f11d46cd24b6dbbbf5e5b5a83177/glyles-0.5.3-py3-none-any.whl#sha256=c49cc48750d1010af54e8c7f8debab060481c9c5505bc32fc46f35a232378234" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/c8/3c71a53ffc24cb6b495282c444a825e16e5ce6eed6439369c9f97d32eddd/glyles-0.5.3.tar.gz#sha256=8f42d6bd484d10935caec3574d9dae0fdca5e5127c5f6e5f1aab18d602f53ab4" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/96/957ac02dbb415dc16b96255538cdfbd061385264c0fffcf1db119210afb2/glyles-0.5.4-py3-none-any.whl#sha256=6e5f6f2f5c7043125e71edc9db27c4f5bca129d6c41c442d6ae3c58ed8030729" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/f8/1be38fc2ebd0d30ff3949b8369eb221bff9d38ac5043bb3e5d85b0f1db90/glyles-0.5.4.tar.gz#sha256=d7ce727adf20dd9c91ae0fcbe6b804b20c0ef41d04d19990bddc8882b0e3bea6" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/44/6a815d579d412bc418acdd7a4cad84060818be340955c8cde1ad2190195d/glyles-0.5.7-py3-none-any.whl#sha256=e08bf4c8dd49db8847c1f04462c5586151f08bd5debeb449f4c829d8dcc0ccd2" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/5b/7c843a0297c0c59cbc8c24b2a324ff684406d0019888043c731eb82267a2/glyles-0.5.7.tar.gz#sha256=394190534b7441f36ea6b2baf10eda88a30806935e7f126134a1bba0fd5d593c" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/aa/7b916d8b0957ae29d38af32390014637c8e0dbdcb18083876cedf5b583ad/glyles-0.5.8-py3-none-any.whl#sha256=912724b0805fa05e937b2df63a71752bedff6d94d33e7d1e9941ff748431796e" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/57/ff80c32dd99963ae3ec444c50d6c836de788999ccc86a600b966d2968caf/glyles-0.5.8.tar.gz#sha256=2fdbef3b195e48066dbc98f4f9c45f98445216b30b44776f6e3a5a45f7c1591f" data-requires-python="&gt;=3.7,&lt;3.11" data-yanked="Buggy" >glyles-0.5.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/23/b0c7dffce18621c30aded70366629a7aa1bad47aa341d3c142902b98b489/glyles-0.5.9-py3-none-any.whl#sha256=98a1ea49dfb132deffd387124bbccffca9247b2333f159c9e111d4fb5d74e728" data-requires-python="&gt;=3.7,&lt;3.11" >glyles-0.5.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/a0/8350963adf8b6cf0cd077f546092b50f210b5b9e1eee93d4a1b0e3a0de97/glyles-0.5.9.tar.gz#sha256=9d7524bdb30783c86d0bec915ae5003cc5c2c2cb9cafb54944b8f65d0fd7587c" data-requires-python="&gt;=3.7,&lt;3.11" >glyles-0.5.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16401611-->
+<!--SERIAL 16857287-->

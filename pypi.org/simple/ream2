@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ream2</title>
   </head>
   <body>
@@ -46,6 +46,16 @@
     <a href="https://files.pythonhosted.org/packages/66/5d/3576a5ad6c3c70705497cc89615f2412379019aee5e1c05502783fe1f51a/ream2-1.6.7.tar.gz#sha256=0ae7e92f4015c3db863fee5939037df9961b9c0a4929bd6cfa7cd4d652f2b314" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.6.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bb/a9/12a7ebe68d5ade9b92e09a75788f747c0a0788eedc4f5afdbea67fd1fb55/ream2-1.7.0-py3-none-any.whl#sha256=dc7d6ead9460574a04c3fa7294e05dd7cefa1c8c4558203c91005829db0087f6" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/8d/ca0b9a2a6fa4229168ae292b5420f73f89eb9ea4e9b0157244fd3f1a92e5/ream2-1.7.0.tar.gz#sha256=198bd6f841eaa454f97fe4e4201dda864ce8b1c7b75c2f6014fd1f89911ea0bc" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/74/f0d5bfa8b20ce0df54b2ab590126c56143a21dbddc3f8162d15356593be6/ream2-1.8.1-py3-none-any.whl#sha256=0e303fbe02e8b7104580c6a2f5573f9af5d9a4e9d0fe732c855b83e0c935112a" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/b8/44ae6568076ac53a090ed6a18d70d750538ec28dd6c5e7f1819427e6879e/ream2-1.8.1.tar.gz#sha256=d675b24af83db8914d6389a7a5f7cf75ea78931a9e864b0e695f113b98aa6d88" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/76/1739451480c3cf2a507573de3a055f41e0ed9b34d9207438b3d9a1852425/ream2-1.8.2-py3-none-any.whl#sha256=a01aac98632088e55942e4994c2a0570d1e9793e5b281396934afe9293dd693a" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/cd/ad4f7a68fe563fc8c942b437c27e5d95df54c33d29fc711658113b719cfa/ream2-1.8.2.tar.gz#sha256=ac9bb4374cc957e496c8d262108228c19eb24f70b2bb54f8ffdd88d177054f4f" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-1.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/d6/17b443ff60e62fb9223926334ecd9b8d03507f238f43579413b65b42bb2d/ream2-2.1.3-py3-none-any.whl#sha256=c0d88facaf92d0e671072060b264b64b403894321a0a5597a1a593dc20d712c5" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-2.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/ac/8990a683af7fab7e6f40519cbbbdca654173575d17fbc98cd76a0329ec34/ream2-2.1.3.tar.gz#sha256=9c2e53af464d176c8589acc8f77ecb4310d93cc5484295b2c11c94f055778c84" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-2.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/16/b74dfd911733a5100cd0c79fffb27855f52f7b8acbe29309d36ed6902f63/ream2-2.2.0-py3-none-any.whl#sha256=d578ac4afbc280e68b5128c56c8a8f7d4babd5587ae26d5a36a2846e319fb5ee" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-2.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/df/ad87c2872a097b472c57f9cf9677f11b464d41c5814e2289c1ebf5f6fef6/ream2-2.2.0.tar.gz#sha256=d45ca49345b04287d179b221468214ab65b4a7698416aa76774bd8251ac9889c" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-2.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/03/8d22e56a8adf84979684daccae05d7a964e1a184ee728302c13b5b4b8485/ream2-2.3.0-py3-none-any.whl#sha256=23079aa9e0f87d4c99b89f3ba11c360c7a7ea8bdffeb62375131862b2158798d" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-2.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1d/9d/5deea17fd6245dcc5485fa9b0c5efe36ea985a158c94b30e94ec689981f3/ream2-2.3.0.tar.gz#sha256=566315006c78de8ffc5b4265fffbd59081e81a08ce74ab567ff4b01c891c40a0" data-requires-python="&gt;=3.8,&lt;4.0" >ream2-2.3.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16268629-->
+<!--SERIAL 17099724-->

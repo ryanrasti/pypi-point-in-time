@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flarespy</title>
   </head>
   <body>
@@ -26,6 +26,26 @@
     <a href="https://files.pythonhosted.org/packages/50/c4/5ca71dec5cc90dd509431675cb5d879f9de0d646fe03071ec4f58a24f135/flarespy-0.2.1.tar.gz#sha256=0a5df42508efd91b293042de1163bfc9ec9fbfe7d6247754e0d70b1101e2656d" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/17/131a5ff130ba20b24f9f267fd56c8d514a5bff5aa0ecb48e04050ecf7fed/flarespy-0.2.2-py3-none-any.whl#sha256=2b873e023f84ecfe2f5f0976db333208881388f322cb2fc4717e75f4a6d39cdf" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/28/7a0632e39d9db0eee8499f16132cbf5f977fc4484edcfdc2873bd9badc66/flarespy-0.2.2.tar.gz#sha256=ae78b1ba2f3a65edfe0b0e61dd61b5a6ee84ad9de3fe1ccace2fada9709f7f4e" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/6d/2ae60474644938c0ce1d570d1ff21fe6c8b37061282fa14886270a7ce8bb/flarespy-0.2.3-py3-none-any.whl#sha256=f9f4486314ba76548e8cf1a9f975246c1b8155a697773938b6f5903a0aaa691e" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/d6/69cc7187806e507fcd3d866af665988371fd25defb15386979c37ad1e977/flarespy-0.2.3.tar.gz#sha256=a0edb0e412102eff281dbdf39f9f2661553803c5842cf211258c323c4c3bafe3" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/44/e7fb4ab16260a2f4b64dc5428eb80e5e824632856fc186d0bc4775f4ac0e/flarespy-0.2.4-py3-none-any.whl#sha256=f085854dc1dbb631f2d8b90fb2c17003845e590eb77aaedc8d89c5a53817f089" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/6f/a7de835db22e743ae686f0dca07cc292068348ccb89e0c493ebe376276d2/flarespy-0.2.4.tar.gz#sha256=8d46004c2e10401c0803ad306d5f0018b681be8e30092f7913be103cf75fc033" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/ba/1b6ef10f19481a94415e3c44c5749b768727d74f1d23a648e01244d8267f/flarespy-0.2.5-py3-none-any.whl#sha256=927e572a48b0d53bbb3a5d977046d9dc99ddb9899c6f37d01bdb2b5226ec818b" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/74/0a30ce21ba2eaff382d4cc1fe2c826e98a87963ed769d86d454a41788154/flarespy-0.2.5.tar.gz#sha256=8c0d9e6dc4f50d7ffa0cc11fe87a1dae87aab395e35fd64e4e097aeaa5891df8" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/c9/41db9b8138fa670e464644542fdd9f169807e421f2bcfb0bd3d6bcd5a82f/flarespy-0.3.0-py3-none-any.whl#sha256=c71ace10a80a4a1a2314d39a5d25b9c0589029abfe09727ed170a0fa289d7af8" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/bd/f1985c04baa36b46d8caed684eb0e9a5bdeab3e9681c368f4cb5c9bb1d26/flarespy-0.3.0.tar.gz#sha256=fe701f75db0ad3834301be677abdd07de4db30473137a6946590fb9f329db47c" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/aa/0256f82e30d8add83adbfdd288daa468e36847addf9d3abbc659d0e9f8f0/flarespy-0.3.1-py3-none-any.whl#sha256=db993b8e29a66638a121c299375da3b41c2692ec8160269719b48bc40423ac01" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/fc/9cef76cc8ac4975bf4fd58d3ffb4aa1f74a3eaeadec02a94da68df9c400c/flarespy-0.3.1.tar.gz#sha256=5d4ce46f449a1966c8f4e6e10aca42467474a2c1cc026ff919c194a543586434" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/3d/c1bae1a227cf00f1f39704eae22d503f4a5814341704a3f326df18e139b8/flarespy-0.3.2-py3-none-any.whl#sha256=ca1077ba7b6fa900c5b65019292b6054b28af61b55574985786f09cbeac360d0" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/9f/7a157ef3ada1420197eca7821a7ec1cde628176569c2d0ea4dd5ca74e5d9/flarespy-0.3.2.tar.gz#sha256=302159df0fe1ba9261db9eda2217e6d0d180436d0b208d589c2b118b38349e4b" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/59/b5b03272b743ece794d6ecdbbf42362f2395dfd1f67fd8b36ad88e0ecc96/flarespy-0.3.3-py3-none-any.whl#sha256=98fdbf87c44fb95c35a779ce0ab98cf0596e6c55e0da3a8892bb321fe8ad5023" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/95/88df1df57804b21d0e2a24f13f67af1c2416f7c894cbb7cd23e14245d4cb/flarespy-0.3.3.tar.gz#sha256=80cdf76eb9d74d899d8f06a4244d11dacb718c7755f04d288518d314e0c93984" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/45/c9e7060ec4d81b4942724d8ed05561d3aaf183192c35d72a1175c3c478c7/flarespy-0.4.0-py3-none-any.whl#sha256=75ab443f239f2d31da2ff7ed1d50ca1a775aee5b7f454a362ff82f15e5ca706c" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/48/f5bf1d1f906bdb023bcc665ecf8c780d64ef22ad8706e160f3d01c80467e/flarespy-0.4.0.tar.gz#sha256=9ee0183c0466f40441c01cc0ae7930c81efaf96e91fb6d77607cfe9e65c53d0a" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/f0/ea499852d90d16731ee3aa57dade72e510a9a84aca0b88778f6ea99b7da6/flarespy-0.4.1-py3-none-any.whl#sha256=1291f153ac518559521b5f01feb9d873b3da60f3a034ef8adf4f28b1b739ee86" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/25/a419c99282b80125107e4f9698c5f61268c0eb44156a4df0e7bde7cf7173/flarespy-0.4.1.tar.gz#sha256=7d84463e992cbb60bbafa22644fc04887825f1d896656653258e2ae03217aed7" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/38/ebf248588e10e3ef453e12487009bc3ef70050c3245b2c761c347aba0b71/flarespy-0.4.2-py3-none-any.whl#sha256=e92a92522cae3d35e842288b8eec2ee48930939cf46e5225f812f5cc152aa906" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/d3/80dad696b3f4f6581a4a0e95c6cca4dab36b7457b3e5b412748843b4c0fd/flarespy-0.4.2.tar.gz#sha256=bafbc435cb2c60c6147da2a415b1719dca71c7a23774f8379d93ed091345c112" data-requires-python="&gt;=3.8,&lt;3.11" >flarespy-0.4.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16157430-->
+<!--SERIAL 16911864-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-utilitas</title>
   </head>
   <body>
@@ -18,6 +18,16 @@
     <a href="https://files.pythonhosted.org/packages/6f/05/de48dd6ff37e4fd76799126f157e80256b3d8343e978c63ec08a53038ac1/django_utilitas-1.1.3-py3-none-any.whl#sha256=1d6a849d018e13421b521a58b57697a6ff08799c9c3427fb4756087b59cc3f87" data-requires-python="&gt;=3.9" >django_utilitas-1.1.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c4/86/1ff0bfa3210a919cb8561247bcc26a398329d403e512204fcd04739173cf/django-utilitas-1.1.4.tar.gz#sha256=34dbbf509bb813a4eeda56ff2683d7b33946ee925dad552ec3b6143dbae27092" data-requires-python="&gt;=3.9" >django-utilitas-1.1.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/52/873ac82211b7c77e3012e57bb70336549b056cbd3ef7d16289e329860b59/django_utilitas-1.1.4-py3-none-any.whl#sha256=fa60db43b266dba1cc1d6ae0d0efdb57ecb1e34e17694b54b90bedc7b71f4a6f" data-requires-python="&gt;=3.9" >django_utilitas-1.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/71/9c80e7dcc95608b658fb30bc67c728ab67ed59a686aa95a92d4268e5d121/django-utilitas-1.2.0.tar.gz#sha256=83cf615a10d8a6869d0e65114fb77ed7f33a69cba5b0cd50c587a1c8a5fdb069" data-requires-python="&gt;=3.9" >django-utilitas-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/2c/1c1509c30dacff9a83399bf53f9a8681e5a6f0075e411dc3b141ca86c219/django_utilitas-1.2.0-py3-none-any.whl#sha256=fa98871c1ee54ec753a7aaaaad0e31d771f6882737079522487ffb09b97aeb7b" data-requires-python="&gt;=3.9" >django_utilitas-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/2b/f2bc1effa752c93034ab6f943b4191de1c84873146e932e300c82192abf2/django-utilitas-1.2.1.tar.gz#sha256=8635001050d9a74b6604295a29b224a21c620cae1c14ec8f5b62825afc9e94a2" data-requires-python="&gt;=3.9" >django-utilitas-1.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/dc/6f051442eb477afdd9aaee81f2b0cc4fd59bdd6bd402147a2dab41dab128/django_utilitas-1.2.1-py3-none-any.whl#sha256=e1ab7bf6e21a963f336c3e08e4fc7180d19bf4bba4731e93229413a59f310e16" data-requires-python="&gt;=3.9" >django_utilitas-1.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/f1/6fdbc657077bc11a117ac77fa7f1f3446cbab205d3960ed618399637f390/django-utilitas-1.2.2.tar.gz#sha256=f6f0368e5d52ac0968d1607f93b1191bdb75f1cd2c010106f893238b711cd17d" data-requires-python="&gt;=3.9" >django-utilitas-1.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/ba/3ecd4be8e5fa3e5975c7a36e3badad42b654fda3792eea3d4f8c64bc5ee3/django_utilitas-1.2.2-py3-none-any.whl#sha256=ee87966b5e6c49d0b72e30f55debbfe42ed3a6e9c2433031c4d3cceeceee7f1a" data-requires-python="&gt;=3.9" >django_utilitas-1.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/0e/1616b77f10fdf754c08231c4d41466951e939d2ddd6b3452396b7bc4c1f9/django-utilitas-1.2.3.tar.gz#sha256=9bdb2d9ae327b5926cd192fde9ed5ee86384746cd116ee7ccaf4a006525e0421" data-requires-python="&gt;=3.7" >django-utilitas-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/61/d5f35c99200eaf13b6b91c3bd403ab80fd98a0a24aa85b634adf0ff60ea0/django_utilitas-1.2.3-py3-none-any.whl#sha256=9dd3eeb7e095a047d880f248933c51752a7ecfe6a732342846705aa60c1a644c" data-requires-python="&gt;=3.7" >django_utilitas-1.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/78/52752e9ad9a9d5f5167fc4e4cbc51c42e5eac1a59b7083a7b6365dbd56ce/django-utilitas-1.2.4.tar.gz#sha256=6b0cc6c0ad95fe1c5b0baa2e57db82dbb53be88cd54166d4691bf6a8d1cd024a" data-requires-python="&gt;=3.7" >django-utilitas-1.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/dd/586e4cb4b3af2cd1f0cdae39870fe23086ece7560c07f94014719c118467/django_utilitas-1.2.4-py3-none-any.whl#sha256=fbde8543cd88ebd41061d8bd82bd81669e94270e58d66e0b7d4cfc72c5da7302" data-requires-python="&gt;=3.7" >django_utilitas-1.2.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16246269-->
+<!--SERIAL 16972287-->

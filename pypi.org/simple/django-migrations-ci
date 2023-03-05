@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-migrations-ci</title>
   </head>
   <body>
@@ -24,6 +24,20 @@
     <a href="https://files.pythonhosted.org/packages/1b/fc/bc2fa6daaf44c719cd9e82c242f9a60cbbac4b5b21f5d5a202da2d082728/django_migrations_ci-0.2.1.tar.gz#sha256=05fa6f218f8e92de12d8020e77371f5d970e92f964701689eab98dc2725d99e6" >django_migrations_ci-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/79/84/dddcfad7c5b341b7c08e0e65517fb652ef98954ecbd621444dcb8144d46d/django_migrations_ci-0.3-py3-none-any.whl#sha256=40960b3b09bfb66a1db8d3390954f1814d2917e8680cb0199749685a888c8b25" >django_migrations_ci-0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/79/db1ddb0a1dd847f7271f988b571d18b7293aedc7bfeb1b033e41d2cbc5f3/django_migrations_ci-0.3.tar.gz#sha256=5175dac47fdcdb85a4bf6c6b7d07b210aab124771ec50d81487fbb4a31f5d134" >django_migrations_ci-0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/24/68827647ffc7c1f0de5051aff4a682944893906eed189c4f22ba176df55a/django_migrations_ci-0.4-py3-none-any.whl#sha256=17f61bab667fb25b0d44a8a25f3d81b3ef39334fd0f7368daa2d307449617021" >django_migrations_ci-0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/83/05753aa46c83ae141c3861b15902751e1bd16529c1d530c5489994b0ce30/django_migrations_ci-0.4.tar.gz#sha256=85d409b18960f5f57b2cb4cc86ba4cb3d9ab3670144a17ccba1c4bda28cdd262" >django_migrations_ci-0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/4b/6f819336b79a53f4d8f03d058f475db1813161d68d7f1171f904af7b5f1f/django_migrations_ci-0.5-py3-none-any.whl#sha256=318c4ff85304fb64fee0443bb61e3da3d9f7a9403416719352042c797208a098" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/bb/e218b3cb0a4776a203bea99a299b106182624b494688e6a3c696bc221468/django_migrations_ci-0.5.tar.gz#sha256=98430a1d8b4604f881ca2dcbc6d3055dcf39cfc0633e96786e6f96da3330a6cd" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/7a/18aba478f47d3ca89731b9c84468b3bcfd3a39ee04a452836f854456db1b/django_migrations_ci-0.6-py3-none-any.whl#sha256=3b56dbd46a8fb6bcb49cc56b417b0e466432f0dbbca4bdeae91e58528f62fd82" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/e7/89a0f00df03b633e19ce1dc179cf062c73939d1f41fc1253b65b61a5eba8/django_migrations_ci-0.6.tar.gz#sha256=a8103573315d5596572c0dcbcaf13e12597680f47f32e346f0e56a5a0b9e68a1" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/26/4d7b92e97b806c22c8e6d65378a4bbf023cd2e0ed2306b54c2c5c7d99ea8/django_migrations_ci-0.6.1-py3-none-any.whl#sha256=a21cd2e20e8cb847aa3c7fef6e949e86d75ee6373302b4d6b4cae9379147e195" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/61/102e699634807b0c76202fdb73234a96229ab053d4af8ca1595eccd8e584/django_migrations_ci-0.6.1.tar.gz#sha256=07ee4d5fb4501add63693177ce23e68dbe74f6034abffb88118f606fccffb818" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/b5/d7c1cf37a64c790ad0088fe89f8def8cfe3e48e45ac52abdf3abe4d6d120/django_migrations_ci-0.6.2-py3-none-any.whl#sha256=1578e8b19898da3b0fec2370f7b00fe24d2cf4fadbd3615482d7123f3091faf8" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/07/742caf2d39507811a2d210431f721ccec0dc34d531470fb49a52ef91a06c/django_migrations_ci-0.6.2.tar.gz#sha256=2eb576ecf48b5c4c9f8aef1208f9a9399aff9158dc6189488c5e0a26e764c912" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/ad/d288ae66df250e5f80fa499ca27f6622dd6a459871e01f2b9df0c5baac0c/django_migrations_ci-0.7-py3-none-any.whl#sha256=9cc00159f851ea9fba874229b819bd90fbf236d78c57226632806df21a8828cd" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/ec/521c8e083a39593950102282c286ef4cba739be9ca9394d95f4f5559a1c9/django_migrations_ci-0.7.tar.gz#sha256=9f92c713a1b95cde1bc066cbdd4fc80962ad50945c64436b9f725134bd1b0d47" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/10/29b647cace81d6e243d4cad389cc11bd33e108900e1577ed557a5efe242d/django_migrations_ci-0.7.1-py3-none-any.whl#sha256=9be668ae818400c7c571a65f0d2778956694ab94a60ece8e95eb44efdc3bf1f5" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ba/fa/ce2cbd0fdb9e5707cc3af657cea8a942d4c0c396400e84015df81c73c08e/django_migrations_ci-0.7.1.tar.gz#sha256=b095b02d4f31ba0aefdfce37ff5e354fd7f49cecfd832f802ca393c6115b7616" data-requires-python="&gt;=3.7,&lt;4.0" >django_migrations_ci-0.7.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16352597-->
+<!--SERIAL 16768894-->

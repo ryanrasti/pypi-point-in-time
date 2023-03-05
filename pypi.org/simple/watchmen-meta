@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for watchmen-meta</title>
   </head>
   <body>
@@ -134,6 +134,8 @@
     <a href="https://files.pythonhosted.org/packages/2c/c8/b8e9f3c2e90ffcbb388792b1d4ebcb0a14b6176135691dc21ae70213ad6d/watchmen_meta-16.3.23.tar.gz#sha256=87aaabd3710e39f17f9985d30648fa5a3056f38f74c7e7b25791e149cd2699d3" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.3.23.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/f4/4240b360d1831e73c93cf081249f704e5ea926bfab4fca9066becc93b8e5/watchmen_meta-16.3.24-py3-none-any.whl#sha256=7077491576e9be8dc879517be8406177fc24897901694fcb41a6c4b4d5a0901c" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.3.24-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cf/21/c61009a4f201b78cf54208358813d7ca2b173adf615d8c7e053ce97244f0/watchmen_meta-16.3.24.tar.gz#sha256=bb45fd403b183366c6ecd06eaf8d3628df21355714e791283d3190604782c919" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.3.24.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/71/7bedea7a73472d55ee7d475a3590c65eba632dca2f8052b9d5f1c421ec55/watchmen_meta-16.3.25-py3-none-any.whl#sha256=5d68de4ce15414ee9b1de38ce1ebfaf878a2310b497d3a87b9f390731228d6e7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.3.25-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/67/4c024e2be58037fa855eb0c7538ad87b4c613606012f1474baaba2405552/watchmen_meta-16.3.25.tar.gz#sha256=6fc190c99792c68a5ca90507ec70d856ffe00ee07e842022bdd6837355a1b6e6" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.3.25.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/53/8a89409eaeacf7aa0e02eff702b5a2a2e0328d007be98a014bbc324579c9/watchmen_meta-16.4.0-py3-none-any.whl#sha256=1a87bdb77e1f7fbaf70f2219557d34f17e92c2bd01a9bc5ff291176de6fc594d" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/1f/19f825221736aa692164aa54958ead7684bfa2242eac065406eda6d5c09d/watchmen_meta-16.4.0.tar.gz#sha256=7a4a84f491ad54f30e40198ef57018a5fcb4ee96afe725059b1436790f57ae3d" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/21/18/257ad39a6df7cf8cd1376d9e31668aefeec5dcb93b0f3fc6af840bda2111/watchmen_meta-16.4.1-py3-none-any.whl#sha256=676aa583ca0f7f34f5702cc7c545d86f41c39a659c9290686e3fd4491e371453" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.1-py3-none-any.whl</a><br />
@@ -146,6 +148,12 @@
     <a href="https://files.pythonhosted.org/packages/d7/31/2d9582789ede2f46762cb438fb2cec44c53d93b51d572fbc46b317d65d26/watchmen_meta-16.4.4.tar.gz#sha256=72dd30f19b27d6307d03f51dbc9e5262972285f6d1b25929e49a84cba0cd689e" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/df/603ad5fc3a8d29a6aa879599107c79107cf7051fe409de6f0e9b83a58935/watchmen_meta-16.4.5-py3-none-any.whl#sha256=d5dd7b740e7e101ddd7678c705bd69ea54ca5820f06f0d908c764676e6f4a490" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/77/52/78b1788f18e315a1bdc6b0be58ec0e704c3e80ba7d9d64fb7e3ac5e76587/watchmen_meta-16.4.5.tar.gz#sha256=51ba6255438c27003e3b5ce7be0c343b98493024147f6caeab07e63de6549d30" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/25/b5c4aa2c58f767ece6e2352a915cff20c5c33041c12b2c1ee84ff58af1dd/watchmen_meta-16.4.6-py3-none-any.whl#sha256=580d8c3b68f847ae24f79934677b494648a88aaba5cb7852bc0e01d27f8ecf1f" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/bb/f3f09027065fd4a9947f8d35464aa865400185afb2b8a13c8604ec76a636/watchmen_meta-16.4.6.tar.gz#sha256=548ad142252365d7741e344acc3f6a45731059084c5ece250090c81a300d08f8" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/8c/44c1f4b9fbbad011c0f8ffa42e19f95161c78a25f1ceafba5e69c2ff1dc8/watchmen_meta-16.4.7-py3-none-any.whl#sha256=5eedc12cdf7f9465cbd0c48ce4d0474327c0e43ac85730334f45c689ac612557" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/74/e2dceda3c0eb5d10c49ff7836701a9c18a57f3b2daaa9533c73810594d65/watchmen_meta-16.4.7.tar.gz#sha256=8e33a8e8618b8769c8ecdf3f5fed69602769c868f90cc3ef07485d3efc0487e7" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/3c/a151c84220ba759ad7a4bf101dd5d8b67f7031330ff841a9960fac27987e/watchmen_meta-16.4.9-py3-none-any.whl#sha256=d1ccda2421cd667e2acd4f562b1ebde86b0c745f42fc32d27f23df194aa5e8ea" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/45/06081a57227b468f6b6e5b27e15eff072b3443ee6a1e74dc2759c56991e6/watchmen_meta-16.4.9.tar.gz#sha256=bf9788af90a81940005295e1bf61eb5b646cb9d523b2f62e842d488bc159cb26" data-requires-python="&gt;=3.9,&lt;4.0" >watchmen_meta-16.4.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16398862-->
+<!--SERIAL 16991544-->

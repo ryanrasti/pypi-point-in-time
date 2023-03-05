@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-bulk-update-or-create</title>
   </head>
   <body>
@@ -18,6 +18,18 @@
     <a href="https://files.pythonhosted.org/packages/18/72/935a4f51f1ede0a40a27c0da4dfa0bdeb5d00de6990d09bf974a1f6661a1/django_bulk_update_or_create-0.2.0-py3-none-any.whl#sha256=44f96aeb0af35aee21258345b3fabca196c7850cb0480e3ee3f3972c86deca81" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-0.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/48/c5eae329bf835eb0e4d53158e6fcfc784b3f17ae8154519d9b1f044f7489/django-bulk-update-or-create-0.3.0.tar.gz#sha256=1cb7bdf93a7264799c275b26595c1a5060f3091dfd3709e743d710a9758bf9ea" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-0.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/c2/4077eb674ac3f853009ff118778de7941d224ccb1eb79c693dc84378f1a6/django_bulk_update_or_create-0.3.0-py3-none-any.whl#sha256=c251375e0331d469c2e9b2320e3b3d0f6a1658289ed97520ef230fa096ded645" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/84/1a0c0e9abd53b02cd889b7acdd254ca201cac81689f7f2b19bbe87186848/django-bulk-update-or-create-1.0.0.dev0.tar.gz#sha256=2aa42d07bf735712654ba172f8bf05f7eb5cc254f977232ae6983c3331a9e185" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-1.0.0.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/ce/778be4b3a1a6a8dc76f8ac0c6f207edb96b9f708125bf37e6f7575022c77/django_bulk_update_or_create-1.0.0.dev0-py3-none-any.whl#sha256=add7a710522aaf05769b8d1d8c7299707bd5ddf41223d5ce5e149f8529ae714f" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-1.0.0.dev0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/ba/7b5d9e13f1a072cc3ebaf8b084de03a6f5f958d3fb0bc39b08b517ef095f/django-bulk-update-or-create-1.0.0.dev7.tar.gz#sha256=89dd0df5e6cf8a6c4cfe8abc54971d0cde2b6968a1012754a2b2a74e32a5ddf7" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-1.0.0.dev7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/01/b62f5c364e13649851e32b1d6f90f0a39bcc91fca17814bcdd1d12d7603a/django_bulk_update_or_create-1.0.0.dev7-py3-none-any.whl#sha256=049aca7ea27b77427f1ab95caad423a662c85e8aff172d23d9685fe43d52e2ae" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-1.0.0.dev7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/9a/464fa3b9d664bbd9dc5b08c6c0afcba8b71d67fc98495d70ccdc00b0c19a/django-bulk-update-or-create-1.0.0.dev8.tar.gz#sha256=680921f483a6b992bc725dae5e39dadde19a824fbad8db903a4b45394e9b1b97" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-1.0.0.dev8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/ef/afe21d813e109dfba25f1be2f46e18352249e1abfe2b76e34500cf7ce497/django_bulk_update_or_create-1.0.0.dev8-py3-none-any.whl#sha256=11817528027aa865160c1c0e4da0e9032fd07672d3ee11b6e6628fc705e25203" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-1.0.0.dev8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/df/8d46793c1310d233b6c0a3201d80b05746822e97dd578f78fb5936ab6751/django-bulk-update-or-create-1.0.0.dev9.tar.gz#sha256=c4ef587a6747bdcb60b835d9afc7f576ff42172175b341e548f48b56660e1c5b" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-1.0.0.dev9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/be/e077d82c164b907a407aaf3a00a9f4f9bdb3a19e76644e9be9ace1c612f8/django_bulk_update_or_create-1.0.0.dev9-py3-none-any.whl#sha256=cb7a832d1e3a2cdc1b763d5ee1e6e44fc3f0b207e2ff9b89ef69cd0560e4ae93" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-1.0.0.dev9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/1b/7079ad6e8c65615f159ac5be8a9fcbd5a0433393e70ecad24cf10c2e0b73/django-bulk-update-or-create-1.0.0.dev10.tar.gz#sha256=8ea6c81b53ab765be60c3d6b53896ab9bad7029e3a48e0a7138a246299c62ea3" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-1.0.0.dev10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/5c/b9ef1807ee1c5e05c25a4298357b2cb646a8d345b893bb495d8ecb837305/django_bulk_update_or_create-1.0.0.dev10-py3-none-any.whl#sha256=65819feb614feccba8778086f0bd2c13e925d6b7fdeea6bf4895b1c1ab9078fe" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-1.0.0.dev10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/89/5c206cec89b46064de0172b4b684171c2c7e770bc6a945610d3de0cb3ad0/django-bulk-update-or-create-1.0.0.dev11.tar.gz#sha256=b342dbb62164bb8209699d4f6c93881d81127e2bc507616d10bab39c4ae04359" data-requires-python="&gt;=3.6" >django-bulk-update-or-create-1.0.0.dev11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/fd/91cc4950cf5add387789df763ec7b0c1b0b8c871dd9a256f04fceea6b058/django_bulk_update_or_create-1.0.0.dev11-py3-none-any.whl#sha256=9ffeb0e570102efc9f6f4f2d8d0bf393f9316becd13fe7811d9a287620704014" data-requires-python="&gt;=3.6" >django_bulk_update_or_create-1.0.0.dev11-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16411174-->
+<!--SERIAL 16829257-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dtreeviz</title>
   </head>
   <body>
@@ -42,6 +42,18 @@
     <a href="https://files.pythonhosted.org/packages/e7/fc/8f54c916ca2bde0f4014b8d2353a23a3593c0a711bad349753cc48705d82/dtreeviz-1.4.1.tar.gz#sha256=c9401ac8710288f38bf6d158825e30051686530ffa5397635a0a504d2408bf96" data-requires-python="&gt;=3.6" >dtreeviz-1.4.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c5/33/6ad0286c41e3f7130868ce2832210d051fda3d621e66eecae90620d937a6/dtreeviz-2.0.0-py3-none-any.whl#sha256=fa2fbf35502261846234957fc6dacdc11352c1c7b04793c919c04df89d06374e" data-requires-python="&gt;=3.6" >dtreeviz-2.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c6/0a/1353d5b0db46dc568084b1aad4a7ec544e781c691564309bfaf335ed2d0c/dtreeviz-2.0.0.tar.gz#sha256=f2db83dbcddf0613735fab8a57f24616160f919ead23a0170e5139a9bc31223f" data-requires-python="&gt;=3.6" >dtreeviz-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/f5/40314cf6240a01ab5fb5421795785e3242e21e0cc8f52e22dea5e3a1827d/dtreeviz-2.1.0-py3-none-any.whl#sha256=4f0798792fae955c766253438959a1951c710ccd363ab5d1c4899f1d2953d949" data-requires-python="&gt;=3.6" >dtreeviz-2.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/2c/bc3ad3ba85cfd12939086367642cc52bd5ebd473d2cf434b233ecbd48444/dtreeviz-2.1.0.tar.gz#sha256=e383263a13a39b97e52faf368e3a690bcc8f2e40dda9e52192482a24ded6a162" data-requires-python="&gt;=3.6" >dtreeviz-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/13/82175240e6aa5b32af95fdad2b22ee979e22d0952e33bdb9c1cad366add9/dtreeviz-2.1.1-py3-none-any.whl#sha256=868c4dfd380f9e9d32d26744f66c940369b0dd8601bc0226e7aefcf978bb86c0" data-requires-python="&gt;=3.6" >dtreeviz-2.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/13/6c9bb6dba4bb9f12528966ffe9fc06ca8907dfeba3a108f1bbd170585709/dtreeviz-2.1.1.tar.gz#sha256=b11463df8056feb2f480203729978f1e4ddc968c9fa12870eff68be2a977aae0" data-requires-python="&gt;=3.6" >dtreeviz-2.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/6d/70d20e7c50679c6bd5264f1736ce9b4d1a46f8f5d5b954e5279726b895c8/dtreeviz-2.1.2-py3-none-any.whl#sha256=1ad993f9dcc48f0c76af0250012cd955daff7dff9d9d4a9cae6b8fdca4cdf81c" data-requires-python="&gt;=3.6" >dtreeviz-2.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/35/7c4747f3c40caa91c0bb152cd826c533b0cc520a44db8032b5e59022b67b/dtreeviz-2.1.2.tar.gz#sha256=fbd0278d1b4ca9d3025ccee3b3d46f2d3a3bbfb5e185d7986146e6363f69f74c" data-requires-python="&gt;=3.6" >dtreeviz-2.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/39/05939955d4442212fef8eea37bf2bf4ba7da6e968e173db74feb9dbccaac/dtreeviz-2.1.3-py3-none-any.whl#sha256=a284e4d71a95091d75c5bef93e3136ddc2fc5b5ce8904a6b227091379d397781" data-requires-python="&gt;=3.6" >dtreeviz-2.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/52/276008808dea35b5154b4a5e0624f412aa1d03b26692378f0a7eb34f01c0/dtreeviz-2.1.3.tar.gz#sha256=df885a3a132fdb73d6294ac90eb96f59ff632d965c5ac8e37d6aba92818defc3" data-requires-python="&gt;=3.6" >dtreeviz-2.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/67/8b0541d34885e4e4cb935e8779de8a3e9437ed52aa3d100d97ec8b992b6d/dtreeviz-2.1.4-py3-none-any.whl#sha256=f3c13b74a9cf4373fcb2987d08916b71e237c600e130c9d4f9a3dfddabd0a221" data-requires-python="&gt;=3.6" >dtreeviz-2.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/4d/0b848eb8f3a5cf50e012f80ae920aab43fc39ddbc5736605b33240602551/dtreeviz-2.1.4.tar.gz#sha256=e29e49613aabe7667f38d345b62d0d3e987de34c065bf0436ab893e95d203630" data-requires-python="&gt;=3.6" >dtreeviz-2.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/81/c298e05e7969a91995032af6316f5ac77e5aca1f0d78e978a2fe39d11be0/dtreeviz-2.2.0-py3-none-any.whl#sha256=8862e25e0124ca6db8d4e6bc1d81570e8cae8fb59ef55ed778c748957981e572" data-requires-python="&gt;=3.6" >dtreeviz-2.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/da/ddc3f75762c7342c91f3f1388dabcbd1a852ccaafcabd2994900cf2eb934/dtreeviz-2.2.0.tar.gz#sha256=0d87b00e78c95b45f24fb6f3a9efbbb34169a8d51aa7b5c7194bf4431443d4c8" data-requires-python="&gt;=3.6" >dtreeviz-2.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16232037-->
+<!--SERIAL 16950485-->

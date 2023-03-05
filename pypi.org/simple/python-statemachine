@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for python-statemachine</title>
   </head>
   <body>
@@ -39,8 +39,10 @@
     <a href="https://files.pythonhosted.org/packages/40/1e/1ab4985cf34f76cd6af0314c5a170bb2229adb36f3999b1a7ea8b65dfe40/python_statemachine-1.0.0-py2.py3-none-any.whl#sha256=732864ba8afa3995a960f8de2e12f1692f1016fec1418fc677b36b95dbf05236" data-yanked="Bug: contrib sub module not included on the distribution files." >python_statemachine-1.0.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a6/9e/43a129f28442199f9ff11c6c15e415087a34d690593fbd4e94725cbd6807/python-statemachine-1.0.1.tar.gz#sha256=ed64018a249a903dad742ae6f720a1b71e31cf51e1a1b9205d07d32c88abd161" data-yanked="Bug on 3.11" >python-statemachine-1.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7c/3b/10ffda21bde96802aa6be168ba989fa037163e0ff37ae335305195ea81b9/python_statemachine-1.0.1-py2.py3-none-any.whl#sha256=e47584b2b5d11e74cf0b13565bd50f49fb7a234ea11bb5f4d9e6bf16def9aeca" data-yanked="Bug on 3.11" >python_statemachine-1.0.1-py2.py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/dd/e9/725b42bff8f98130a3163574c1e9ee8d3e5de613e74a92146d469c0c3869/python-statemachine-1.0.2.tar.gz#sha256=5e39653fb664b9a25de7a9b1a5e21292ba5d8f4fcbb1474ec77c837b09aca294" >python-statemachine-1.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/25/dd/f7367fe3d1cb1a6cd688a679be223d494621f6bf868fd65c014bb3225989/python_statemachine-1.0.2-py2.py3-none-any.whl#sha256=8a69b5b792b5802ddde749b5fb8574720b66f879898c075d52680587412412a9" >python_statemachine-1.0.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/e9/725b42bff8f98130a3163574c1e9ee8d3e5de613e74a92146d469c0c3869/python-statemachine-1.0.2.tar.gz#sha256=5e39653fb664b9a25de7a9b1a5e21292ba5d8f4fcbb1474ec77c837b09aca294" data-yanked="Found a bug. The 1.0.3 is the bugfix" >python-statemachine-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/dd/f7367fe3d1cb1a6cd688a679be223d494621f6bf868fd65c014bb3225989/python_statemachine-1.0.2-py2.py3-none-any.whl#sha256=8a69b5b792b5802ddde749b5fb8574720b66f879898c075d52680587412412a9" data-yanked="Found a bug. The 1.0.3 is the bugfix" >python_statemachine-1.0.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/b2/85137c59a900093689b18f1d2f6207d63600214d72325f30c73065afef04/python-statemachine-1.0.3.tar.gz#sha256=5e192b472fb6fa5c2dbf4828e0b6bbb313ec55fd21bb6d823d94ceb92be95476" >python-statemachine-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/e3/8a096d3fa189d6e5ba205b61575fdd1a43a73b9f19f765e4099592c3282f/python_statemachine-1.0.3-py2.py3-none-any.whl#sha256=6134984d2516badb84a934b0f07c988798fee272dad21839a0e4ab5e626a1040" >python_statemachine-1.0.3-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16411252-->
+<!--SERIAL 16591660-->

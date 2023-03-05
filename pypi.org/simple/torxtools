@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for torxtools</title>
   </head>
   <body>
@@ -66,6 +66,16 @@
     <a href="https://files.pythonhosted.org/packages/01/ba/22935da7a1b23220524c7814304a05aa7ae00d039f836332589e83ee5ca0/torxtools-0.16.3.tar.gz#sha256=5b790df264484ac96dca61845af4af669c9a641115dc896c5e077f3eb1397b46" data-requires-python="&gt;=3.6" >torxtools-0.16.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/4b/decd7c0a33e2e9e7044b8c8a3f70af2bca1ffcabc9f3e969d5938e5484cf/torxtools-0.16.4-py2.py3-none-any.whl#sha256=412d34e42bf14887e6da97c654e6c9c751205388bb94353cb80a4c9e8738544f" data-requires-python="&gt;=3.6" >torxtools-0.16.4-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/d6/962411d1242755a4961620b5e331f2438d3cf82b8ba08dd6af580919bc81/torxtools-0.16.4.tar.gz#sha256=97e697f0ad1b85faf4cb972ef79bc45022f1dc80a4af703d4a47238ceeaaf578" data-requires-python="&gt;=3.6" >torxtools-0.16.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/97/869e67951d1b9f53a71e6c34c0d6e6325f8b45a6228ab0a2b832b450c0ac/torxtools-0.17.0-py2.py3-none-any.whl#sha256=35699746d0ed39e24a1aaddd1e6d5b498b6eac63344ecf827a453f2bc72f826e" data-requires-python="&gt;=3.6" >torxtools-0.17.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/67/6e791e813895cc677a062eacdf27ee118276a48a3157718554adcffb35e8/torxtools-0.17.0.tar.gz#sha256=dce15529ea48ad88e732fe017b9e6c143c6cf107937d8dd86eb8c97a5a37dbc0" data-requires-python="&gt;=3.6" >torxtools-0.17.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/b7/f9a5ed0ec2cb2bcb36f5be5178f1e14f769594397f04c34ac1412e6cb0b8/torxtools-0.18.0-py2.py3-none-any.whl#sha256=446f694f1e80018221aa272471a9c9e36e79967b436cadfefbccdbe5020099ef" data-requires-python="&gt;=3.6" >torxtools-0.18.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/b9/941aac920623611229d852e7a156078064f7f52c8d70ff20620b2c82dd16/torxtools-0.18.0.tar.gz#sha256=9e470088fd3f49250c7a3e3853d6df7b569cdc9539781d318d68675d9b265a51" data-requires-python="&gt;=3.6" >torxtools-0.18.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/d1/83b52c2137be1d7793c65659ffc7d8aea9f160d558546c08883fbff42d85/torxtools-1.0.0-py2.py3-none-any.whl#sha256=b754eaf18b18d1063a0f3443570383c964fc1f776c85577919112f0e3edf26c9" data-requires-python="&gt;=3.6" >torxtools-1.0.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/a9/32af50955b639b62924724f2b827577228f729ed99db35a824a357e66628/torxtools-1.0.0.tar.gz#sha256=50c3d2c0786b02c06fcb2e513e508cc69230f787b9c03faa3f3a5afff42b28a0" data-requires-python="&gt;=3.6" >torxtools-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/42/3128bc51a3ca94a631f3d7041aa9c4d241e6c2a5419a0975b19f07dc0b9e/torxtools-1.0.1-py2.py3-none-any.whl#sha256=3d67290773a75785197cadcde0036e94ce741626b05d09d2e573f499222f3437" data-requires-python="&gt;=3.6" >torxtools-1.0.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/da/634c6f12e4be47461f715ccace7cde6a79bc478980a0beedd79e72bacae6/torxtools-1.0.1.tar.gz#sha256=10915686ae16b6e3cea6039da9f10e1edab4c97f0ba9e05979a8b2612b108fea" data-requires-python="&gt;=3.6" >torxtools-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/db/f5abba5545549f2919ffb15406966414353a6d4b12737ea741db520fc104/torxtools-1.0.2-py2.py3-none-any.whl#sha256=dbe5a6b33b1a578371538b2fb2ad79b50728552b5893b711ff8030050fee849d" data-requires-python="&gt;=3.6" >torxtools-1.0.2-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/fb/97cdb44c20dcc6e5b25ea1f820250bfe895e7d3c46ad143dd63762984aa5/torxtools-1.0.2.tar.gz#sha256=a86a0faaf549bac74ff55a7a320dc35e64134577ff07f7705866139579e14566" data-requires-python="&gt;=3.6" >torxtools-1.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16273503-->
+<!--SERIAL 16819897-->

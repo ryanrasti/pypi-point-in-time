@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tensorflow-cpu</title>
   </head>
   <body>
@@ -608,6 +608,18 @@
     <a href="https://files.pythonhosted.org/packages/be/15/c58adf9a62472b99dc235f354836d6d19ee481aa2abb1ed3346c7689ad44/tensorflow_cpu-2.11.0-cp39-cp39-macosx_10_14_x86_64.whl#sha256=d47df7bf4e684639d3d83cc27d150c6d29b8bd5f0586ca0a9a040af6840a92b0" data-requires-python="&gt;=3.7" >tensorflow_cpu-2.11.0-cp39-cp39-macosx_10_14_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/4f/fb8038abdc787ef2d8521e9106050cbe152d81f23f4d901f16332f12b8d3/tensorflow_cpu-2.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1954bccbd78681c3df0d4ac9f020a0ee44b17bd6b5962ebb8848479879f45bc7" data-requires-python="&gt;=3.7" >tensorflow_cpu-2.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/0c/9f7a4d1f41a79b3e82e507ff059be9a9ff8c094adf4c5cac4e210dc7d7fc/tensorflow_cpu-2.11.0-cp39-cp39-win_amd64.whl#sha256=d5e3c0666abdc0d9c63790238a1b91a41f2e622b488df7276750f61351b12ccc" data-requires-python="&gt;=3.7" >tensorflow_cpu-2.11.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/c5/ab269e8c6c938638067a548714b60301a463ded498485130085312443a51/tensorflow_cpu-2.12.0rc0-cp310-cp310-macosx_10_15_x86_64.whl#sha256=29812a09486604b2bd9b8b1de353c681fbfe7f1e15a2a9fdc86b01b0e2ab7212" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/61/2167647a297e4a1e15e924b1104c485b3f96547364ad759ed9b26461a8bc/tensorflow_cpu-2.12.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4785ef39b3e0592c649f819e9c54b7bf5925bd43974a53dec932bf46bdc60e5f" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/d1/52cce2dcfdd65639432ce57e4f7550f0dca9eaff233137de133501f231c4/tensorflow_cpu-2.12.0rc0-cp310-cp310-win_amd64.whl#sha256=ce33f503389535dada7b7cfaa0b7bee65264810f864407a246d306579e7a985a" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/d1/306ce0585f11e39f33fc96ec6fa32deee4dafc3ac5189149d28b9d41cfc6/tensorflow_cpu-2.12.0rc0-cp311-cp311-macosx_10_15_x86_64.whl#sha256=e2426d8accda1df31378b2dcfb47098622294d4aa24f80d535e93702a7de33a9" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp311-cp311-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/29/d9c88ae6736cc66b9d2fd7ac465e83bd6aaa5961968162cdf1f0b996e1c5/tensorflow_cpu-2.12.0rc0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f1b9b4bb8a79f28fc6766ade08a4a029d99423cd7b0daca79bade030ca120e17" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/09/48c2fe5f7abfc90ef121e55e9f92272ebdbbe6ea5ab6b19d2118e2745990/tensorflow_cpu-2.12.0rc0-cp311-cp311-win_amd64.whl#sha256=332a95cb2f53681525dce39cc239acc5cca8c6e1596a7542147ee53ce3189386" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/97/785e81639dd153c8d45deee0841b3cca00de5be5e6935fd0408a847b9770/tensorflow_cpu-2.12.0rc0-cp38-cp38-macosx_10_15_x86_64.whl#sha256=606a9debca37894131d2068baa123291ac30bbb0f716005c80ab81c006689fea" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/e6/8a794571d51cfdbe2e9525c1330da630c757d448fe6f0d5eca0e8a7f3690/tensorflow_cpu-2.12.0rc0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=f96a01394b1379bc1f1e150c27f73e2971545664789a2497959a30f2c6e10e3d" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/d5/fc1838b128c277adf41c13b6d7b33288f50837c1e7a056b59d6b006c1b76/tensorflow_cpu-2.12.0rc0-cp38-cp38-win_amd64.whl#sha256=e78d0c408611826ca5ca7570af8a1be695ae4bdd4ab0e257ed2427fbdedaf3b8" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/45/02a56c88844f416cd60b152f8fd187390144afaca71910d83e55d96ab724/tensorflow_cpu-2.12.0rc0-cp39-cp39-macosx_10_15_x86_64.whl#sha256=3066d722a92af71d9e51f4fda3c061e8aa83997936d5be95b9c946982bea7ea0" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/f7/5888bb138d8ae9c6400996c3f0ffc2d9034c5213d7c6aa6deea79bbfe2c3/tensorflow_cpu-2.12.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=505921b47561f7b26fef8d1e5d781c4afd9aaba8945b02258d36037f70cdfbef" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/e6/88f1cdca321229ecd62a378555dc6e554555368e79a80a1083f98e1821d8/tensorflow_cpu-2.12.0rc0-cp39-cp39-win_amd64.whl#sha256=418ea82c02b0f0bb38e02671d7bcad5e491ea1c2178fb7f90ac8bce5c7bd7893" data-requires-python="&gt;=3.8" >tensorflow_cpu-2.12.0rc0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15811527-->
+<!--SERIAL 16863627-->

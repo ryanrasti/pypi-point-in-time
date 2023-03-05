@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mltraq</title>
   </head>
   <body>
@@ -16,6 +16,18 @@
     <a href="https://files.pythonhosted.org/packages/6b/f2/b7fdf758dbcdd1f726e8e08a24b61f961728eacae874c242a6fd4de8a00e/mltraq-0.0.36.tar.gz#sha256=f015e11f5534496ba492fb1fec442c91eeda34a689924b581be04ec121032b4e" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.36.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1b/1c/51a1d5707d5adf8a5f3363be6043ae50429e7aa1a35ba7cb0ee7fd2a088d/mltraq-0.0.37-py3-none-any.whl#sha256=3cc2974eec3fda587533b3ba7b234c6ffdbeabca13e47743df4ff1d0d6548d41" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.37-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5e/d7/4e5930b3794e6e4fc9ebb97581462f4422e7c9f05f1c33e67f76e653fab1/mltraq-0.0.37.tar.gz#sha256=568f0b89efe3bca61b504e4ef323afa2fb18dce5b84ee6fadd0ac8a1e8d541a0" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.37.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/e0/4aead2aeae5b5e4de99103f21e21cf9a3c4ca6f733b81d48575751583632/mltraq-0.0.40-py3-none-any.whl#sha256=ccb24d6187736c5928bb48f94d1da723b37c446276b8790b0668af63413286fc" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.40-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/63/3fc08e8a15bb596fa9fb23793b4261266747784e80b3a64c029396b54240/mltraq-0.0.40.tar.gz#sha256=59f9548093582ddc00c0fa22912dca0d0a34dec1328a57e852519a51985438f4" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.40.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/34/b81aec157dbcf976561ecffaf988e57d9213f6adbeed8712356d60be8039/mltraq-0.0.42-py3-none-any.whl#sha256=66314798a7c3f8e5cdf8dbe226b182ab13f02970613356f14771a777ada173f3" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.42-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/b7/9abe77f99d91a2bbe682f2484d4c0b62e7a09f71b992557937352ddd5729/mltraq-0.0.42.tar.gz#sha256=45e3fde50f5216272e5b1ff556acdd3f1e094bf4f138b40fb0e13b45d767f5cc" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.42.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/97/81803a5100a308a4401a1d9f9f901c66b28c74760942e44ad4cc994bbf98/mltraq-0.0.44-py3-none-any.whl#sha256=fea8dbe013c534f877da9e5d1a41cbf5539d7f3d6d52978216eb03ca9a146878" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.44-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/f6/2d21300ae2f1812f267dff39888af854947d6e754f42512f25d32427a0e5/mltraq-0.0.44.tar.gz#sha256=321bc8631c53d8a6bd44e7fdaf2f0bcc0d4caa96ec8480f7d73192c054087b9f" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.44.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/58/d529c99df4e85858f3a05175c4c213df8b2125c99b1ad23e4beef98a936e/mltraq-0.0.45-py3-none-any.whl#sha256=25b02816e34eebdb392bad542ad87db11c6a113ee959bafa098bf9e549561919" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.45-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/e9/d4c57e1b1b884225a5765b14f337034a41c41c4a60326e3f98ee843a6825/mltraq-0.0.45.tar.gz#sha256=49f0faa8d99f090ead41357124623f286200d5af919ab536a6f62a5c0e69dda9" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/f2/c3273a4cfc00fb07127fefd8b85384abfc48b01fbd6c0faabd5ca7010c6d/mltraq-0.0.46-py3-none-any.whl#sha256=2219e12259b292912304ebe7a81e639de19d3e1cf529dbfde6f1f906238757eb" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.46-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/30/4a1094a958bdc00b78757be4753956f7758042bb332b2a164cae55ee77ce/mltraq-0.0.46.tar.gz#sha256=bf35082fb4c85b665187096dbb2bb7743c830c94d418e9ac7a1d97e5dc75dc92" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.46.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/db/188ad8dca9e2f9734bd63fc5bdc0544caadcabcbb1dc2f2fa63d865bea3d/mltraq-0.0.47-py3-none-any.whl#sha256=fd543d5a6350c6a9bdad26e1b430004a13b4642f736619e38e265577fbfe9b8d" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.47-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/e2/af6438e45e0a1956e20afd8772bd915743bb8285b6dd1fb3a9acc368019b/mltraq-0.0.47.tar.gz#sha256=68b44b28c655b5887593a0d81bccd0c7d472ea2b75c6df68647d7e33c89cbf4c" data-requires-python="&gt;=3.8.0,&lt;3.11" >mltraq-0.0.47.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16339788-->
+<!--SERIAL 16579104-->

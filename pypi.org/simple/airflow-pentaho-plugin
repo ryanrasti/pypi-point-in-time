@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for airflow-pentaho-plugin</title>
   </head>
   <body>
     <h1>Links for airflow-pentaho-plugin</h1>
+    <a href="https://files.pythonhosted.org/packages/83/71/65af22d94b9fb62dde3a0cc94f068614a84e960147d8005bcc9f26cb5297/airflow-pentaho-plugin-0.0.0.tar.gz#sha256=6e650119624e3623622b4ef3610b8d61b59c1865a8b881a6eec894a1f9f4e781" data-requires-python="&gt;=3" >airflow-pentaho-plugin-0.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/ed/8425ac856957ba41b66b8e0184d568dae5f84c55e3589b4ed7bb7622e449/airflow_pentaho_plugin-0.0.0-py3-none-any.whl#sha256=e495b2f1ea714670ac63ea990b324ec982db703214c7884893c45620ae4db638" data-requires-python="&gt;=3" >airflow_pentaho_plugin-0.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/28/a0b62a733089f9b9929fe45af5a5a712d0eedf87258aaff2c2be229475f0/airflow-pentaho-plugin-0.1.0b3.tar.gz#sha256=55f8b448bab59aac96e3076a8b1c84997b7efe5e0e5631255e4f383ba451dad2" data-requires-python="&gt;=3.6" >airflow-pentaho-plugin-0.1.0b3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/12/d6df05b2748c06321d93094d05a019134b16bc739e9a23e46acca7364f73/airflow-pentaho-plugin-0.1.0b3.post1.tar.gz#sha256=02f47f72883b2da33f6415b883c88187a8debedfabd9b3157c5cf2a9b42a2a65" data-requires-python="&gt;=3.6" >airflow-pentaho-plugin-0.1.0b3.post1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c2/dc/684a0eb434ef96a0661968e210d9b875f63a8e5e13c25a63c16f96d56478/airflow-pentaho-plugin-0.1.0b5.tar.gz#sha256=cfa2fef37db004d9b758ae9b606614f085e0cbc95e0efc2890f1106aa2a379c3" data-requires-python="&gt;=3.6" >airflow-pentaho-plugin-0.1.0b5.tar.gz</a><br />
@@ -27,6 +29,10 @@
     <a href="https://files.pythonhosted.org/packages/56/ab/75a00a8b09de563480e70cdd422734d99dfc635e396c0c6faed6a10a1531/airflow-pentaho-plugin-1.0.14.tar.gz#sha256=54eace7b47ca6af2d23d50d3aa92e1d44d5890ffbefba3c765943b0e61f27687" data-requires-python="&gt;=3" >airflow-pentaho-plugin-1.0.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bf/a6/5507f6cee175342462ec70d9abaa56e23225325553aacbd1b6ffc60bd191/airflow-pentaho-plugin-1.0.15.tar.gz#sha256=1e250217ffb8a4e04024f912f61e587f40551ceb8039254c22bf9f6f0528ddf6" data-requires-python="&gt;=3" >airflow-pentaho-plugin-1.0.15.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/bb/931f33ee14740604eda63c7e6fa08d73a2c9d0f284097306db72b974d16b/airflow-pentaho-plugin-1.0.16.tar.gz#sha256=49c21e63bc11d3c10223c5d0f8b2816edd8e66184949e8284efeec97b3df2419" data-requires-python="&gt;=3" >airflow-pentaho-plugin-1.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/72/82e4bffb1dbb342b47964daed789c5c2795af6149fd5548a9c5fe0963970/airflow-pentaho-plugin-1.0.17.tar.gz#sha256=18f445c13867dab1c46538a695d33b22772b724172eb8c9f5f43180a8b79d1cd" data-requires-python="&gt;=3" >airflow-pentaho-plugin-1.0.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/f2/6156ae3f7b81f793d1b6b83d307bc16a00764fa0871c34056d94a9dc894d/airflow_pentaho_plugin-1.0.17-py3-none-any.whl#sha256=7f1bfbb66e333b0ea416b8193286af12c98e8c7a0fb22660da85598de4c15bca" data-requires-python="&gt;=3" >airflow_pentaho_plugin-1.0.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/bf/8738e37dea728f5c4f32629e8a4c192a0c7401f751bbc61da7be7cd4f6d4/airflow-pentaho-plugin-1.0.18.tar.gz#sha256=6a84cc3a7ea47d17621bbf174e7b59d243179bb19e3185e48765ed3e3caa22a6" data-requires-python="&gt;=3" >airflow-pentaho-plugin-1.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/29/d775795facefb741b8f7dc65453716d5cbd108fca048236b81b6c25a7b88/airflow_pentaho_plugin-1.0.18-py3-none-any.whl#sha256=1a0b92ed717ec7939e3e73648a491c4658b0f7a48d9fc9b3b2cd0aa6be6cb3ce" data-requires-python="&gt;=3" >airflow_pentaho_plugin-1.0.18-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15956373-->
+<!--SERIAL 17144097-->

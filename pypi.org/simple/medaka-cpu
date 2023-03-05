@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for medaka-cpu</title>
   </head>
   <body>
@@ -98,6 +98,14 @@
     <a href="https://files.pythonhosted.org/packages/18/08/b0660bccc6ebc07d52893d9ef72edfcde31dc10f50b2e2d01e99bc99db71/medaka_cpu-1.7.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=01387b6b33ac4ae56f37a7989c1aa4046227161ef0b28d27cef71a0fe261b6c2" data-requires-python="&gt;3.5.*,&lt;3.10" >medaka_cpu-1.7.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e0/34/f6fb1f458b1bd577cecf99d4a0e89c806edeed7436f30878e6d92fabb195/medaka_cpu-1.7.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=95bba4b52394668a23dbde9488d2a82d073367cd5e05096cc745bfccfba9e476" data-requires-python="&gt;3.5.*,&lt;3.10" >medaka_cpu-1.7.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/97/429cb197818f8e8a66c0da2aef81d8c0e0eaaed3277b5ad707aabd70ed64/medaka_cpu-1.7.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=b5a41caac1002a07adeebc5d1fc6954f446f31d9748169af74f4781d026ed17f" data-requires-python="&gt;3.5.*,&lt;3.10" >medaka_cpu-1.7.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/43/e8f0e0345603b12c54a5d0e2610e61de44e44b5fb7f69f458787731353bb/medaka_cpu-1.7.3-cp310-cp310-manylinux_2_24_x86_64.whl#sha256=350db6e4c7afd8629acca37f9d87aa357b888ad7fbd6b6ca7d1638fde8a5b010" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp310-cp310-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/91/0182850e5cf6c781ce056b62bbe42ae8cfddaefa73538092f4f19f197b69/medaka_cpu-1.7.3-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=04d618e0be19b4ab3519506113cb2b610f85e59e04d069891c269b340f0d2a1d" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/e5/f9ed36747c68f643df216a671b68b58f105ea14d5960d8ebc5fe4b594a0f/medaka_cpu-1.7.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1820310553b88bbd7edac040ca148de3ccc22fd896039799f71abceaf6045fd4" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/92/ec66d2b071636c6f45f76c46c74bdb6bb53f336f2a0549fc37b268ca4fc4/medaka_cpu-1.7.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=7db18a57864150574f4e03fc3864974facf50f0a3faccf60611fe496cc63df7e" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/63/647a8a576a4c229e6444d2634c032b791ee518080493da023abc6ebc5712/medaka_cpu-1.7.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=44e0cae6d05f630f39ad3946d897bb7b3bbc34cc58c8c38826b3c922b775b6fa" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/24/00b913ff5ec127aed94c15550c7cfa6b04fe576fc4f163c20a8d235cf4aa/medaka_cpu-1.7.3-cp38-cp38-manylinux_2_24_x86_64.whl#sha256=953a39499e705a28cdf6ee53ba0f350a3316aab2051a368bda9c585c8e50ef58" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp38-cp38-manylinux_2_24_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/06/644e1b17e5cafe6743ba3ab06aa79e5b10e065f4e25fb8e0de181a670620/medaka_cpu-1.7.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=db7eab859d1e203f3151048b27b0e069e71c596c2dd60fdf0519b907a75271df" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/c9/bce6ac27749b5e3b8166babaa173297156763f74b37fb7eab3b8b0013bc3/medaka_cpu-1.7.3-cp39-cp39-manylinux_2_24_x86_64.whl#sha256=1089d3e79f61697c49b1e9f1ef5bcf8087a6c08f805a5a96075eb8f53604a47c" data-requires-python="&gt;=3.7,&lt;3.11" >medaka_cpu-1.7.3-cp39-cp39-manylinux_2_24_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15164134-->
+<!--SERIAL 16841334-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qsimcirq</title>
   </head>
   <body>
@@ -185,6 +185,18 @@
     <a href="https://files.pythonhosted.org/packages/50/ff/0a56c16aa2c88405f833095017270a98806a2200fc9bda4d73d76e37a954/qsimcirq-0.14.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=eed9e47e60edf4e6228de4d35bb88a5fd40707951059b4b703a3e7dc2feddf88" data-requires-python="&gt;=3.7.0" >qsimcirq-0.14.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2d/39/fed2597f07b00966b3dce7131e08afeef1193cccbc9feba4cf33323f0680/qsimcirq-0.14.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=756ce702d3fdc71852723703550717c3c6bf22171cc31361a19c2207e7582248" data-requires-python="&gt;=3.7.0" >qsimcirq-0.14.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/58/b7/4245a1270604c85e4902463fc303cd6c18dacb54ba1cc13bcfa85022fa42/qsimcirq-0.14.1-cp39-cp39-win_amd64.whl#sha256=579dfb9b59149363e7af5784859aefb715908adcfef1a15c3afef0ca8e1bce48" data-requires-python="&gt;=3.7.0" >qsimcirq-0.14.1-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/e4/a912a717a420a428190a7395225935768548efee2a68c1090328678fa711/qsimcirq-0.15.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=c0927e0abb43948ed49150f2d89c7bf989f490ba1e22c4bcffc426d8a8bcfad1" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/bf/3e09f51d013a3d1b6123b8ef05a651220b1a58ef1d0f8c29c2bd4484585b/qsimcirq-0.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ae362a46b7ea9faa69c890addb3d98f92f5a76eacb7218bd656d08e1a4557162" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/95/5e3f0250407e73ee03e1c44c81e0ae969b7d75e44e65036f8338b30a3f80/qsimcirq-0.15.0-cp310-cp310-win_amd64.whl#sha256=ab660a79fcd4a55fac547a03edecd87e44b846132f5e3a3263cbcd020831ab1a" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/e6/d6c11d1c7d1acaec9dd7fe2f8abf89736e26e56deae7b1a22271e7ad9744/qsimcirq-0.15.0-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=ca9670703d88f5103764166144a25a421d00b124739aa0a8c8bc5bb7e9bc76e7" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/e8/989b596503d242ca5be226b270d4c4a7d4dc162850376c7c50936a4df75f/qsimcirq-0.15.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=9663b0bdf9810f192091f2d799ab85faa88c10d6ccbb2e7a9331fab702a692c2" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/3d/ea4841634f2c62f3cad8dfbe7e4c510ac36137c6d892af14598dd12ffb66/qsimcirq-0.15.0-cp37-cp37m-win_amd64.whl#sha256=0d34b72f01730593c6e283b222d5d492a00b922aa49974edfd91661ea9cf284d" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/cf/a035f4e445a0454332ab85862d56414e15b55e7abae8f41a521777b9164f/qsimcirq-0.15.0-cp38-cp38-macosx_10_9_x86_64.whl#sha256=a31fce9b1bf4f43af219b8a570b1172385098ceac77a37d6e01cdeedd3fa153d" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/1e/518e7b5521fb6c940fd3241ad4059255ab127f639e816392ddf042c5ce26/qsimcirq-0.15.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=edc8634644648aa2bd01a86e37320b0c0750682c57ec317a11a597ded9ec5850" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/5e/1db44c33f49dbfb19997b423077469e52f57abd596d57396423dd9d32495/qsimcirq-0.15.0-cp38-cp38-win_amd64.whl#sha256=2601c2b2891beb976177215904e326f42c2a01de784a782690d242324f130204" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/3c/e6c0eba350e0d111cc62338c34998d9eb98f9ab8c4e7c6eb774705bceadf/qsimcirq-0.15.0-cp39-cp39-macosx_10_9_x86_64.whl#sha256=b662810291857d8d3015e2da2e8bd714349603ba66e2b25e97a0a6c662d0ade8" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/60/cfcfb9ba3cbb13697b33fcac0ce47b3c3caf813935bd930ad2e6ac13ac9e/qsimcirq-0.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=693b7eed75506984f34366897710d46289318e2d27f9aec0477079ed94b01f61" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/fa/6f12424d0b8985d0e2a3c3271ae525a8b8cdf253a3208c2edb5342770063/qsimcirq-0.15.0-cp39-cp39-win_amd64.whl#sha256=45bee866c08d515ce42f2a3cf0418565c88546f285175dc67f74f0b6f132189a" data-requires-python="&gt;=3.7.0" >qsimcirq-0.15.0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16154074-->
+<!--SERIAL 16491378-->

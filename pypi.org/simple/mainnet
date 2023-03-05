@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mainnet</title>
   </head>
   <body>
     <h1>Links for mainnet</h1>
+    <a href="https://files.pythonhosted.org/packages/9a/4e/cc3b20ac93dfc6e3d4a52e99c9da2ba8d8f19938b3f9f256cb9cd32bc9d4/mainnet-0.0.0-py3-none-any.whl#sha256=b10475045fb25bc10eabeb9aac01c622f9959f21ccab594de922518ae438d8b0" >mainnet-0.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/12/b1dc1915ae4cb2267cc536af8147acd11c99d65a6945aad7769d0d9c51a0/mainnet-0.0.0.tar.gz#sha256=1a40a7f583feda57ba1d611f11ddb8cc960e210f7142d467a2ed7361d8ef9a53" >mainnet-0.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/70/b1/278f0e08c2798f793ed5f29095a822eb08c957e4066e03d23695ac7e7f2a/mainnet-0.0.1rc0-py3-none-any.whl#sha256=d31c7224aa4a248535b505744a9d1efb8ae60fc0754c1e88dce09c69bcb21d77" >mainnet-0.0.1rc0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/64/dde930ce88939250d3b58270bca8cee470539822641504578070d750c795/mainnet-0.0.1rc0.tar.gz#sha256=eadbb681f9c0b47603c491435567ca5c3c30b006d15b7127ef471c20ef40e08d" >mainnet-0.0.1rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e1/31/52148c1c388489446c7bffd060c67f2eac17ff1b10724fd82f08072921d8/mainnet-0.0.1rc3-py3-none-any.whl#sha256=9e0a2cbbd94bdd0faa832ff185e415d20c5a2dc3f36700513975cea0fcfad34c" >mainnet-0.0.1rc3-py3-none-any.whl</a><br />
@@ -306,6 +308,14 @@
     <a href="https://files.pythonhosted.org/packages/6c/af/53edad3cd132ac8c0d2376a93e01897bcea085815688ddce36cb683f5a0a/mainnet-1.0.6.tar.gz#sha256=6d6e344aa9f0d1b0d859dff74593af33d7396177297ee54fd461dbe57f98c48b" >mainnet-1.0.6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d0/40/25fc6747bc5abae25ff6372b29623890ddd76e5ebe52af410824331c6fff/mainnet-1.0.7-py3-none-any.whl#sha256=d8db9f9b9c5c7836eb6f345ebeabf89d89f5377d218f9e0e34f21a51912bdeb5" >mainnet-1.0.7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/29/5615fc456773510554c7ea9eda0bba39075e2e06c628d315f62a55f6d4e9/mainnet-1.0.7.tar.gz#sha256=ff3f5c1c0d8f3ddab60b5cadf1bdcb94188616c6f68e215f42508774448cfaeb" >mainnet-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/8f/fe5350994ca3152eac4f7e9a1fb650c5616ac1b4d6885db098647fe68dc5/mainnet-1.0.8-py3-none-any.whl#sha256=31d0f59d5fabf42d56f68d5f79e15af04e1e67e97efc78bb08b864e28b049123" >mainnet-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/42/307b3b1bf5309a4a6811571a0a0608591feb280c2ecb10debd8d9a41ac70/mainnet-1.0.8.tar.gz#sha256=72f298a981ee310195586565d339bfb6009d3fc7c990e99e5869daab5960e5ff" >mainnet-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/84/1d8c6751535725947c43c4dfa0a6757cbe3a3bc044afba7217bbc69419c7/mainnet-1.0.9-py3-none-any.whl#sha256=72e7d18e1b4fbe0c38276530a58fbe454c078065048a0e9be66767ebb5d3785d" >mainnet-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/d7/ad80d9baf45450106b8def349a70cf4489eacdcdeb991f778dc642b8fc8f/mainnet-1.0.9.tar.gz#sha256=c7aece9a23a60c7b1ff88fbcdee627e0659c38e1690916726fecdf22f5834845" >mainnet-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/27/b4f7b4e9312071366e6b2a4472b65cfd9d1c644712081a2f94b04e8a879f/mainnet-1.0.10-py3-none-any.whl#sha256=75f25b36b2f9f642d897f16be24199e4dd4d174687b14b5529889a801a932dd4" >mainnet-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/a3/886c691799f7d2de9b52c05434d236e5ecbb787ced32a5e7e3207882fa65/mainnet-1.0.10.tar.gz#sha256=52a4f02217b432e59ebee459fe267d4854a26bc59537d67d10c43eb1e1fc044b" >mainnet-1.0.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/42/4c1c9b19ba27898234999f659d21b456351aecd16860ec2c2142923d5e09/mainnet-1.0.11-py3-none-any.whl#sha256=9242fcb98d9d5c46bd111c85693c7d7e1695259c94711472ab67a360665012ce" >mainnet-1.0.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/ca/16f66e50ceedf89664cd971930152e3aa83cafdcc859695875197c8c67c5/mainnet-1.0.11.tar.gz#sha256=a75fa20db3122c1ab3d37c9ce88df7bf1ec04dc75840f6630ef5ce69b812eaa3" >mainnet-1.0.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16390960-->
+<!--SERIAL 16867634-->

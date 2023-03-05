@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mongo-queue-service</title>
   </head>
   <body>
@@ -22,6 +22,22 @@
     <a href="https://files.pythonhosted.org/packages/58/9f/fde6516bf6069247966eceaca3815680de749d32fb6614b7776ef0a4c43d/mongo_queue_service-0.0.9.tar.gz#sha256=fdce527d42428ca72ffe93af3f18614e686c530ff30fa8b83a146d1f637a2d55" data-requires-python="&gt;=3.6" >mongo_queue_service-0.0.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/e1/da0a95017dd5db460f48125031dfac844676a425cc38ab32e84fa23feea3/mongo_queue_service-0.1.0-py3-none-any.whl#sha256=615e168ed6ac42f0a2636675a56bbfadb34397f64f45f603149fae19e69c5a4a" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b8/bc/e50e9629f9aff5055d8378d357b8b443c921ac7d2b9b189b57f8b405a014/mongo_queue_service-0.1.0.tar.gz#sha256=63043cf363ba804c4745f4d6042bb5186bbfd04b8dd37a002078c3c01c18ff4e" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/f7/5540eff85cf10e00497f0974ff31a110f3e7f23b9625e89877e74c765fd4/mongo_queue_service-0.1.1-py3-none-any.whl#sha256=bdd2505384da45d9ae79507b784bc198f9b8fc145f64b7ce0d50c2f8910b57aa" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/85/e037d9b029f4f73db0982e07306d49b25eb3f2ca718e35989ca866fd4419/mongo_queue_service-0.1.1.tar.gz#sha256=5e3626d45450debf433017b5eddd6ad603a98b9b33ec8be1144925880a278f4d" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/8a/0bde24ad8d735c9503b3da8b22b086c675d775dc95346269a9dc15d98687/mongo_queue_service-0.1.2-py3-none-any.whl#sha256=765a65e037cfe3e71443763768f0cd6344ca92277d8474a6989ebabf430a59f8" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/84/5b5e4ad8fe02df4af841178965de317b7f2cec7635c691bd36b5d314fa59/mongo_queue_service-0.1.2.tar.gz#sha256=2582733c8ec84f7678500b9c4dc956c71bb2255901e270b8e603d9b3ae80763f" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/4c/876a0ffe8a242afc6c66cf1583149fa97ba727187398f2e4e31d8203d690/mongo_queue_service-0.1.3-py3-none-any.whl#sha256=73f5cb0a00fab475bb35575d19ffb23e0854cd670c3c4b7d61962ee1f01c3ec7" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/e1/aaf5b588a7016506c434e92fb8ea6a8480fc9c815aa639ddf0ce1fbf4703/mongo_queue_service-0.1.3.tar.gz#sha256=0f1e36539725a1d56d3654c9090481fdbdb08c2a38cfe8fddc2f3a2faf4f596c" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/2b/2f3c745320d1afa60397af317d5b5c251c89ee5e0d428a3f319f77a9d24d/mongo_queue_service-0.1.4-py3-none-any.whl#sha256=58048837d1e05adefed1c4470296a749898f5bf74e4eb1dd086a9612df32daf1" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/11/168f92f2c339fb56b6b9249f86d4a5202531f4bb00cd11bb35dacc6bcff5/mongo_queue_service-0.1.4.tar.gz#sha256=f8d09b91bbc3886b38b11ba0cdb3bdcb5f2ee05fe4f8a64b2e96ba877e5a4b79" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/19/45ab669da7dd8f5172a1e7445468945ebe5c48ba5438e086b57e16a8a58d/mongo_queue_service-0.1.5-py3-none-any.whl#sha256=a72d79427ed9701d315c78a244367c999ecafc168f1eef621cf35a1b1cef4f63" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/c7/caeda7bc158db84fc7593e2222b56ce2fa9fb641f9b5d18c9a71e8a43422/mongo_queue_service-0.1.5.tar.gz#sha256=4cc800e14a201995bdea407325cdc96ef29bfbb2dd80eaa63ee908adc67d5092" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/e5/0fdfcd83b1b691e6ae1f57e647717ed651234eb352493a60939febe22d8b/mongo_queue_service-0.1.6-py3-none-any.whl#sha256=d03d63b0f2593142acf50309c3d6e99bd4053e5d237416948936ca0bd46d46b4" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/42/d20f6835cae21834615bd7939f6d954cad1281778d23d7e627d69311dfe3/mongo_queue_service-0.1.6.tar.gz#sha256=2edf91addebca822b128f61ff09a78288fde4120704436ca116cf6afb18cbb6b" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/75/19bbd50dd226bc8ba275e1401fdd43f623e7c91e29ef09910f12cd7f6ec1/mongo_queue_service-0.1.7-py3-none-any.whl#sha256=15f6e581c76958843a4167e43544efd38cb8f558f3d7514afea575a5ccd1faea" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/fc/294b31f1a79b8bb5ce9609fbe37d8f59013304630240658fecf28c01658d/mongo_queue_service-0.1.7.tar.gz#sha256=fc2ddd4b40f119636238587fe9acb8025195d99bea88b1b9cb0d69f82c9a1ae2" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/92/eabbf8189f01eca8a41e86ee6fc21d1fe7fbc700e96dc8a1a0283afdae1c/mongo_queue_service-0.1.8-py3-none-any.whl#sha256=fef7eef3ac7fd059fd6fd600016b776a97e52ec09980bb99b363c0e1d689880f" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/ab/c3d2862e7134038f1f4e3518e953285afb18d95cfc8355b134af9440efc5/mongo_queue_service-0.1.8.tar.gz#sha256=a534ff243b91141b255ef046b07ce629a8c1edfa70962be3e7edc1db462aa123" data-requires-python="&gt;=3.6" >mongo_queue_service-0.1.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16096358-->
+<!--SERIAL 16941159-->

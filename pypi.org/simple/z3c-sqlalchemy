@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for z3c-sqlalchemy</title>
   </head>
   <body>
@@ -40,6 +40,8 @@
     <a href="https://files.pythonhosted.org/packages/fd/7a/03645f1b461d4041f472065745c6bde27d6524ec65c3fe767a3b04b369ca/z3c.sqlalchemy-1.5.1-py3-none-any.whl#sha256=a5492ed2928490d7985c4e92cbf6609f86b5f21c359f1138bcff895622c0f1f7" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >z3c.sqlalchemy-1.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/c2/bcadfc810eb7e683ad6a48caaee66ab180e7356cb8ed9cbe6288edfc8d46/z3c.sqlalchemy-1.5.2-py3-none-any.whl#sha256=a4fde7fe24ef8e57b95dfa50a8780c3e4b4b18d567bc810b5019f12d60bd8a13" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >z3c.sqlalchemy-1.5.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a3/4b/f1d2cfde5040ca25f496886a2ac11f63374fb7b27b5bbcf0042dee919d77/z3c.sqlalchemy-1.5.2.tar.gz#sha256=8c7850800388d047f3e26b297d9305a7f0aa63bb64947cef3d9f5a27dd6305f3" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*" >z3c.sqlalchemy-1.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/31/bad30b98aa6739067dc5ea6d9a106ca82abe741770982232dd5afa0ecb7c/z3c.sqlalchemy-2.0-py3-none-any.whl#sha256=42fb5be91c4c4bfd1e9e512c811db1ed8b475b4afa290292eaf3b7f96ac832c7" data-requires-python="&gt;=3.7" >z3c.sqlalchemy-2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/b1/63aecf61ae7b25eaa204f7f4799678213915f5f9034bb21c3ff88007e43c/z3c.sqlalchemy-2.0.tar.gz#sha256=0ee2f7d57ab112067c7441f0fa8037529fec3f4b8fbbbe67f113918a25243ae7" data-requires-python="&gt;=3.7" >z3c.sqlalchemy-2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 8650789-->
+<!--SERIAL 17107475-->

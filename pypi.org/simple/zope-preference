@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for zope-preference</title>
   </head>
   <body>
@@ -12,6 +12,8 @@
     <a href="https://files.pythonhosted.org/packages/3c/34/6b5580d2dfa7f186f39c3db0902e5480fcf7703582affda7486f87354e18/zope.preference-4.0.0.tar.gz#sha256=ebfc6238cb0bf77f08f31d2e7a8c5de938bea7030b3c88ab3da55ffea3ee3aa8" >zope.preference-4.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/38/1a/5541055a7004dab6e8cb1486b642009cbae37ad8ff728761faf7a44ffc54/zope.preference-4.1.0-py2.py3-none-any.whl#sha256=c833683d90a213e445d2d1263c9ba9935a53088b464dd1dac4ce93cc4d48a0ed" >zope.preference-4.1.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/68/5c/d1df0ff39070f2e61590c076334d564467542f85aac260b4a41c9e758871/zope.preference-4.1.0.tar.gz#sha256=d0249ff28297b47718ca92ecf6025536e5b631c8b33b28e16f73cb8cec1f5396" >zope.preference-4.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/26/7858841ab4336347dc3e242bee34d504ae6b14aeac264989cb200e9c04b0/zope.preference-5.0-py3-none-any.whl#sha256=99e50e3364983f8e31b7606c2fdabaef0e278a60d32a378c73862a8c481766ed" data-requires-python="&gt;=3.7" >zope.preference-5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/4d/6fd771cc0be13581c8f0c2c362f6b692d7c4ed4a8acef9ac1414e76036a9/zope.preference-5.0.tar.gz#sha256=6b3d63c75e4e0c051a89a6adfc67c9f0a9e7c884de2cd8054cc435dc37d7f3d8" data-requires-python="&gt;=3.7" >zope.preference-5.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 4315860-->
+<!--SERIAL 16786572-->

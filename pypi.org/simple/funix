@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for funix</title>
   </head>
   <body>
     <h1>Links for funix</h1>
     <a href="https://files.pythonhosted.org/packages/1b/e8/7eeda7c28c78a79bb97bc7e0535b42229c7b450d326093e95bc0c9d0db62/funix-0.2.0-py3-none-any.whl#sha256=10af22fa50fe286f9bddaa556dde29a0e7d6b22be6ea2de0dd27312340fca591" data-requires-python="&gt;=3.8" >funix-0.2.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7e/64/ed5e686d701a69662dd3b3d94ab50b8d0dadc13beadd4e816904b4499101/funix-0.2.0.tar.gz#sha256=f553f5857fa8c5714c400ddc530ad13007254dc6abc9f3a07daf6749ac163f46" data-requires-python="&gt;=3.8" >funix-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/18/525b602cd5d30eb18d68b9b11d10b30d5f78ab6eecf5269e6fb9bf7d283f/funix-0.3.0-py3-none-any.whl#sha256=7f4442721c99a6e7247bc6c022d58dadc484983ee26f4930120e03ad6685a79e" data-requires-python="&gt;=3.8" >funix-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/5e/1557678c59b9668c9addf2b809192b42ad64866df7372f823dbb22bc5b64/funix-0.3.0.tar.gz#sha256=e2cead1d1d259ec54e97a2198e81167188f4ae8494898402fa8f345019679f9b" data-requires-python="&gt;=3.8" >funix-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/8a/f853a644eba0e8662d9a04815ca997d808718ddf8e6bac704e0004f3ebaa/funix-0.3.1-py3-none-any.whl#sha256=6198f5f20a3314f8efdae8a00fbef6d35f99852a2f6b9e95a92b9b7f598f7158" data-requires-python="&gt;=3.8" >funix-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/fe/da88c240db2563a87bbac1bdffcda57d5c03fc4df32ec2453586142f5ace/funix-0.3.1.tar.gz#sha256=759f43f807b9c172af85b8d9b0c809ee59eef3a0ff06433d0090636550ada3b0" data-requires-python="&gt;=3.8" >funix-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/e1/c859f938211e7ca3d265475ef2ac0ec45d5a154bfdeab9bc46101177a938/funix-0.3.2-py3-none-any.whl#sha256=d583300e64ce16378c93bba838a0603f8f0c4738a99cf05b150cf8cd1edd64e1" data-requires-python="&gt;=3.8" >funix-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/64/c88ac529b35a09e1edda00fd908afafd3489032196c29b618805d8404c19/funix-0.3.2.tar.gz#sha256=99c4a863fba71f7f88d4a325893bed9d3c0ea13d1c144dde5f09661f4935a58b" data-requires-python="&gt;=3.8" >funix-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/87/c22af1bdb545a15437928e498e115d36d7067e3c011c10a33f798ad599f6/funix-0.3.3-py3-none-any.whl#sha256=00d2caa7458cfe78d3919ea4b0d24719d686ababa1a8d35cacfa8213a0acc50d" data-requires-python="&gt;=3.8" >funix-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/cb/158344a47e1fb9820438f6d7ae899d1e6a733c46e06b3df3bc7ba01ec801/funix-0.3.3.tar.gz#sha256=6419a7c320b9f57401e42db7edd49f586bbbe47095939a1662d2024bb1164058" data-requires-python="&gt;=3.8" >funix-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/1f/a89a41ba5d4d550265a08f8a9cef24b2871eadd9ebbda70a4b4e23adab4b/funix-0.3.4-py3-none-any.whl#sha256=bea2ec2497176ec93845baa63b63d018e0b52ec0463215151dc72b7bc59bdec2" data-requires-python="&gt;=3.8" >funix-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/39/d5bae0a5cacc07a378c5a5036903ed8da0e246c3c160c7c3b93560012b3c/funix-0.3.4.tar.gz#sha256=2cdbc305587ef33c49e3dab1fda514b36c9e85f2cf81d9434ff07a49aaf9f6c9" data-requires-python="&gt;=3.8" >funix-0.3.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/4b/de51b5a8c62667792596e20f6142e8468136fb0a80d455ee9a23836d4ba0/funix-0.3.5-py3-none-any.whl#sha256=388d73368eed34f6cd9cc795cdf5734af9f189acfd50120b3d255876f1e34782" data-requires-python="&gt;=3.10" >funix-0.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/0c/5160ca9ec287330d88303db51b1694274bcc2f27f79f3dbc49f78ae62dce/funix-0.3.5.tar.gz#sha256=227ac870f7dfcd7862005e10c2d94bc1ba126ecf61ed2eef5c48f0539c24f56e" data-requires-python="&gt;=3.10" >funix-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/ed/34df2448dcad88330493135409bd4b03b65b22d344bf1aee7c7bdb21d0b0/funix-0.3.6-py3-none-any.whl#sha256=90f104c65e62b127c690c246ea23fa8a03b4df7b80dda3ec3248305d631fe92e" data-requires-python="&gt;=3.10" >funix-0.3.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/fd/e960a6efaedfbef50f5bcc66544046dce9c641d7f40ae902b80128ace781/funix-0.3.6.tar.gz#sha256=aefa55114d310acbb478e4da7ebc0ba74e5f91846a5023c8aac8fcc8b67e8e32" data-requires-python="&gt;=3.10" >funix-0.3.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16264463-->
+<!--SERIAL 17100936-->

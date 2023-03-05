@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for beaker-pyteal</title>
   </head>
   <body>
@@ -99,6 +99,19 @@
     <a href="https://files.pythonhosted.org/packages/a6/5b/6459e2269b5be6cfc28e2066650df9ad1a3f34ce1067f70f9dc462bf53cf/beaker_pyteal-0.4.1.tar.gz#sha256=0eb17567585a5f79c0abe9f5aeeb30a0b0f6029db78851639bce10353e6290eb" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.4.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/f1/88f336dcc36f197e8aa5c66b14828092279ac08a48174199b2968970b712/beaker_pyteal-0.4.2-py3-none-any.whl#sha256=79254e4075f1dd3554a5b78668003f8306cb78bfb96b7f392be07dd7a48444f2" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.4.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/29/7ce6e8c43c8e6c9c47c2466a18743d790a5f2aa4e168fc089543c802083a/beaker_pyteal-0.4.2.tar.gz#sha256=aa1606464bfc0968ff9c0cc69c7317594c174cbca50ab85e50f889581592c3fb" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/4c/8c78665e6d62804c07af431bf5766a5871dfa3b9a92c376ca230931875df/beaker_pyteal-0.5.0-py3-none-any.whl#sha256=a6858aaa3f326888ba6ac5baacaa727edb58e3bd3eeb32f4117c91d267117a51" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/cc/7d7dcff4ed81f05b314dd4f47f9d69b0861f6c36907629768ce048286160/beaker_pyteal-0.5.0.tar.gz#sha256=939e90d65d9711ddedb7b5035d4a524149f802acea2da250dab05d9e894862d5" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/70/e4d32b3ea85760484e23ca5b08b17c4350a7571693e186df620959207819/beaker_pyteal-0.5.1-py3-none-any.whl#sha256=7e9b8c61926112ab53d38fa5967b30b8655dd97318b3f7fb8fc73af7e5121f8f" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/6d/5bd411d96ab609702c6e67578058131b6e45f1c1c042130da5149571b266/beaker_pyteal-0.5.1.tar.gz#sha256=61a3336e37a11c27ee129c88a42acc2bc975a16eb6ec7259e68cb3babf2fdb62" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/76/ada1463a76f6fef38c7ab2dfbc42317631a3702bd50336301d5901855c4b/beaker_pyteal-0.5.2-py3-none-any.whl#sha256=f9cab01bc0f1c6005e6165e4689523ef852352fa68c600b85080deb3aa44e67b" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/a7/1e8da7e78931130c13b2d6fe49f24e75609a349cab58ba0c69531f581168/beaker_pyteal-0.5.2.tar.gz#sha256=56304543e7b9e5d48afbdaf6d4d04bc36385b106fb0b725880034c960f642807" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/12/255a599aafd7e415fd61b645dd6b3022e5b95cdeba535b753a2fd26ce140/beaker_pyteal-0.5.3-py3-none-any.whl#sha256=bb4d11e8c8206883978a17cfbe6445dd032d24dc452540a9fb5e9b8078b3307e" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/ee/d7233f38456e878db401171c96233f82bf23dcdf05a8eaf582f324fea88f/beaker_pyteal-0.5.3.tar.gz#sha256=3452aee8c4419ee61b68e2931e79c516fe29659fd56c5c4a962ad4b6adac9790" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/64/4c53a9052d473b641c0c679fd0453350c22d7cab580065fb9f496da81f65/beaker_pyteal-0.5.4-py3-none-any.whl#sha256=a05e7a0d1dbfd11be818dc02c5351ff8e60fb61bbbec339beda4e5c7a0e03a95" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/64/3236b0575d786b9bab01a9fa35ce7924aaba155ce0df1dc1445c8d1587c3/beaker_pyteal-0.5.4.tar.gz#sha256=3e653fad128477eb6c5eec6f7bcf0894ca061bb982d40a2d4d9bff4a6b936aa5" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/2e/e8be2fd6826ec6695a2651bbcc73e9b4a7a75c6289208234d79c2297f16b/beaker_pyteal-0.6.0-py3-none-any.whl#sha256=5a01f3767159a6dcfd78326e5a76ee44443a01f3271e24338e7f2a2b04490d75" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/13/1db02a725884ce757ea3202038f6ba3276acc2bbda3bfdc95c6b35aa86ab/beaker_pyteal-0.6.0.tar.gz#sha256=103870c5b450f5430820f7cceb636269566dc67e65592a020ee9c0a8188a444b" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/83/0a5dc8631ece75941c5a85c7bb8af070bb8d297d53d2d482b6532ee790b0/beaker_pyteal-0.6.1-py3-none-any.whl#sha256=75fca51724b2fe5c93e593c4d550e03fec8a7e6c756ca6443399421a6a6fbcec" data-requires-python="&gt;=3.10,&lt;4.0" >beaker_pyteal-0.6.1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16390843-->
+<!--SERIAL 17067305-->

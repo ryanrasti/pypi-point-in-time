@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ckanext-ldap</title>
   </head>
   <body>
@@ -17,6 +17,16 @@
     <a href="https://files.pythonhosted.org/packages/c6/3f/65b6de528acde78dc51463239ee9c64d371b5d10e5366c1095b7bccbbed9/ckanext_ldap-3.2.2-py3-none-any.whl#sha256=90c51d22b0405ba628b7c61e5358dd2f09f129da3960a546fb8bacefface771a" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/ba/a8339e90b1fe9588d69b9a436bc91760e3e673026a2bb3925cf59bffeb36/ckanext-ldap-3.2.3.tar.gz#sha256=b585a02f6f244289d59faa9d9516249f38a2e4c88885aa915030c8406f76247e" data-requires-python="&gt;=3.6" >ckanext-ldap-3.2.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7a/c5/fe23c52ab60fa33ba482b5e27d4f4097d016529c7479b8eeade1df00a57d/ckanext_ldap-3.2.3-py3-none-any.whl#sha256=5994cd108883c8298714dfb95b804c3b35c1882fe5b0a96d64906300f16250e3" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/d9/1b96ddb8d05ca6b6aa05f201421e1a1cf983a0a192dfc3106ba8f0caba88/ckanext-ldap-3.2.4.tar.gz#sha256=5fe3cbc64096959d33c181e8584550c5f1b71f9757ca3d5ec18e53fcf3c5d204" data-requires-python="&gt;=3.6" >ckanext-ldap-3.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/19/d944a464929e6d0ead4e7523732d2f86866758e8d2044c10a31203fae0ab/ckanext_ldap-3.2.4-py3-none-any.whl#sha256=2b0d24eaee331350551eaf957387af83e40495db5dc3a2014f7ec61bb517f07b" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/ee/1a42ef05ec29e9a0b3451cda9588a35972163fdad5bba304fe3911442d70/ckanext-ldap-3.2.5.tar.gz#sha256=eb914a30bbee74f0e5ddb70985c069183fffd88c3a209eda2d66810781f900d1" data-requires-python="&gt;=3.6" >ckanext-ldap-3.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/ae/55ddf025df5cc53e236c87d70d14c76bd6eb080388c4edc0c1c4d87c3df3/ckanext_ldap-3.2.5-py3-none-any.whl#sha256=8013d9b12cb79939c33e6e63634530f5134f688c1d1a8366f99707a2693757eb" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/62/c6331749ae702027ea33e9919af3897cc71118e1c77b2e2fd9654d2fdbc2/ckanext-ldap-3.2.6.tar.gz#sha256=7d15eec227b9b4256d3fdde41955328ef7f8f28717aa5eaa49acd1844955a832" data-requires-python="&gt;=3.6" >ckanext-ldap-3.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/34/0643a6fa60e40cf20e668480e84e8c58bae8c42f81a63c287d0c84e30df2/ckanext_ldap-3.2.6-py3-none-any.whl#sha256=7096cae882cd17ca9ca505c3a33b4333187bca7a822773e81dbbbeee6d3f80cd" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/9a/baf532f5abe8f4175fcc399adccb75c4bb199dd7a87d87c0401ea278496f/ckanext-ldap-3.2.7.tar.gz#sha256=d86e03747ff675e1c7f75586a34589e968021471cc7437fe0056a11fb53518b6" data-requires-python="&gt;=3.6" >ckanext-ldap-3.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/5e/3218b608c16af0ca1d10b0a67327d4169f945fb90e74636c44b4f632c036/ckanext_ldap-3.2.7-py3-none-any.whl#sha256=ee5d5ebd24956df267ea2602a5f251f37b7b0887fc49fdc3056ac78b98892c82" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/12/0493d873a29e97edd2c2690a154870f9fdbaebcf9dc6253501b38384b7be/ckanext-ldap-3.2.8.tar.gz#sha256=f8f20cea6da7cb478bde40b898fd17f47c2c906f413a63eafffb01482c1cda01" data-requires-python="&gt;=3.6" >ckanext-ldap-3.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/ed/aaf6d92ea0be7b1a7e514c1ed611cbb1d210dbd6db3502f892b012593d0a/ckanext_ldap-3.2.8-py3-none-any.whl#sha256=86b7cdfabb27d7de16027e970e99c64b4559fd337159b92587fe4819d6db203c" data-requires-python="&gt;=3.6" >ckanext_ldap-3.2.8-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16076532-->
+<!--SERIAL 16941809-->

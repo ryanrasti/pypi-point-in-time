@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pysyncon</title>
   </head>
   <body>
     <h1>Links for pysyncon</h1>
-    <a href="https://files.pythonhosted.org/packages/90/d6/d8f5618d7921c428cf861e12f5c0e1385a6aa52f1f9236585ccfb6f69b9c/pysyncon-0.1.0-py3-none-any.whl#sha256=0e53226a96d8f57be882bdba7a440a0bd480515a54879b2e343628a4b74f0196" data-requires-python="&gt;=3.8" >pysyncon-0.1.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/3b/f7/830c1481106cdfbcbee741543f92b0266d4ce992bd397fb42f7b06caaef2/pysyncon-0.1.0.tar.gz#sha256=9fe4adf2da87536c8e32743482fbc76ab10dd3447b4b8f42767796bc60fe1a76" data-requires-python="&gt;=3.8" >pysyncon-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/d6/d8f5618d7921c428cf861e12f5c0e1385a6aa52f1f9236585ccfb6f69b9c/pysyncon-0.1.0-py3-none-any.whl#sha256=0e53226a96d8f57be882bdba7a440a0bd480515a54879b2e343628a4b74f0196" data-requires-python="&gt;=3.8" data-yanked="Breaks on python 3.8" >pysyncon-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/f7/830c1481106cdfbcbee741543f92b0266d4ce992bd397fb42f7b06caaef2/pysyncon-0.1.0.tar.gz#sha256=9fe4adf2da87536c8e32743482fbc76ab10dd3447b4b8f42767796bc60fe1a76" data-requires-python="&gt;=3.8" data-yanked="Breaks on python 3.8" >pysyncon-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/a4/340ce8ee9ceff842cc48c1e9f104081810a28ac8ac8a600c5996e7e72338/pysyncon-0.2.0-py3-none-any.whl#sha256=be9084cffd370e51c4c65c561107946520ec6bd11b79000d68689d6c37b5bac1" data-requires-python="&gt;=3.8" >pysyncon-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/0e/c489d2d8a684518b8f39f327bca498dfd3ba298f20c4c5af966c67940772/pysyncon-0.2.0.tar.gz#sha256=b054693810fed2910136b4b2212c67cff25bab2bae786c0d79bf69b17a8e47e9" data-requires-python="&gt;=3.8" >pysyncon-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d5/81/2ff12f6e6413fd405a484073e98cc3587e738f94bb2f3792bc89d2465d8d/pysyncon-0.2.1-py3-none-any.whl#sha256=7559875d21a19f38b45971c58b05ec13c135852a0d57be1a258e390bfb49754a" data-requires-python="&gt;=3.8" >pysyncon-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/8e/e59eb708fa918726b15b79a4af6f8da7b9cfa77264bc845ea3ed57c75841/pysyncon-0.2.1.tar.gz#sha256=02a6dc40499932a17e490f3fdbd346b6afb55e5becb850580ee5490108a975a4" data-requires-python="&gt;=3.8" >pysyncon-0.2.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16352176-->
+<!--SERIAL 16477082-->

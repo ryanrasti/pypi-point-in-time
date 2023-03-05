@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for embedit</title>
   </head>
   <body>
@@ -10,6 +10,28 @@
     <a href="https://files.pythonhosted.org/packages/df/57/78d57dd396d7a36fb02288e21f1c638235533861e64635410a7b0306e2fe/embedit-0.1.5.tar.gz#sha256=c42869eb69672a924ff2fa16536e0cbaaa976ff1f364181f04ec326c1e47ae0b" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.1.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/78/8a/cfef2d83b7d2ec66935a1ccfa916a65fc35dea6bb31948622c013b07d07c/embedit-0.1.6-py3-none-any.whl#sha256=2c48b56b0a99743bcf33402710ac7c4ef78c9f3cb118f0f5cf81ae4aab1935f8" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.1.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/50/88/ca0b417286bdfbd67fda9c5a986c5ec6aba529dc08fbe5d1ca1cb5e60271/embedit-0.1.6.tar.gz#sha256=4466dc84afb00a769905c2678f0a89efcd907e4205dc9f9e2208ddeb1a9eea29" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/4f/4ad1d6af0c8c3384555d2145fb23ae96912f770d97ca7edb505cec6ea174/embedit-0.1.7-py3-none-any.whl#sha256=dee97f6831ce88dab158c6edf18538a343825e6e1feff5093252c0a185bfd140" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/a2/7ddce548a5999e1eed84228e35671d7577f56192c23a5d60a35ee5afa748/embedit-0.1.7.tar.gz#sha256=9b78ea45043b1c8d78ddd17dfc5b66bde3e1c82dcc224270ad8a120386fd060f" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.1.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/7b/692972f7786070ca08b6affb2b79b0fe4fcf8c5aa8da5313e41022121976/embedit-0.2.0-py3-none-any.whl#sha256=0467a5594c115eb00a27b4be92633447198bec1b845f7668747189d53c9e41cb" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/50/dacf64315fbf51e7eefccacc4d0ac0351470ef3be854a1e9ad5e1d002104/embedit-0.2.0.tar.gz#sha256=c0db5093925ca50b1964d3b18c80cc8036976475db980c2b347cc18c18b81930" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/c1/48cb6848628952e47b3f5021af27bb4b286c0b0502de88b88172c2944e28/embedit-0.2.1-py3-none-any.whl#sha256=0e4e9a78bcbd9996332eaa87c80df21e9706679feb55874beb6dbd1cff487cdc" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/d6/596d607efa2137e364e9caf9daaa89fbbd7d3ceb49529a7da725f440f7d6/embedit-0.2.1.tar.gz#sha256=85c5e47d4dd6b34b178ce842cadebfe8c743b7e880d614fff2263cbfe776ac0e" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/6d/5c1b55c267147a69c22b48ed14a54586ab5cddea33f66500e0d2aff6f15c/embedit-0.2.2-py3-none-any.whl#sha256=b86717a2b957e02b718eaa0fb41d2f95085aa60a31907ffb8453013370f9be87" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/de/dc/25c0a4d5c70e775c84c45ce2a99a5195a78846e30c58e18f80007d881033/embedit-0.2.2.tar.gz#sha256=7c6aa39b7139ecd5e3ac34586cc9e0bb661eabf5efd5c9922c26e6f082cdfd27" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/29/c55dea61563a0841729b1a2057de59b864a1ee3f66ed48038a6e4b7e6ab9/embedit-0.2.3-py3-none-any.whl#sha256=75d64f326f46a5b8e779212fd072c928c2662db09c7e441f0008c6f33ed0d883" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/be/35252c7755aae88bb9f75ca5213c8f8cf70b0385ce9d782060db5858a35b/embedit-0.2.3.tar.gz#sha256=2342660cb520742f5f6f43b8acffe5f409d4e4ab759f6c49ca4c867fd1f96bae" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/c7/e91d13e341c0184b927dbde8a7e9addbec8af52fd01c38975cd537cb6012/embedit-0.2.4-py3-none-any.whl#sha256=307fbdc7ad6a916f4e7edd266c0ba1284f9392feb222265498d08312b58704a7" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/2d/9f73b1cb21b3d21fa346a2cc8bae22555ef443a352900ddd60d069987f92/embedit-0.2.4.tar.gz#sha256=d03c48b4e729385a14044d3608ef388084177ddbf3e086e72ddec3bc60b054ac" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/0d/b41f252dd519ceab3f322f7370c45ff1e139e6995fd4d3543ebfd6d3910d/embedit-0.2.5-py3-none-any.whl#sha256=a1bba0ddeb3e230898d8b578b2e50a08e2f73b57c6c3250047bf287a645b8aad" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/e7/0032c574f5c7cf1f9bb3b30c4673f3dcb1ebe4377ad515ccce3aec2f7a7c/embedit-0.2.5.tar.gz#sha256=1ab5097b208a12af2a88f30dc49e92538f8f5842f81e84565a1895b28c91a1a9" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/a9/7b6bc67220f80a795caeed6008964ebed95bfb8da4755d4c79da419e4ebe/embedit-0.2.6-py3-none-any.whl#sha256=d77f09eb2bdc1080e4a945d577eec6455501a3aebb4aa580837198738d4ae1e0" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/e0/1675904d9d889b150afee32273c475c2eed6f3346066b4abf974a87eed96/embedit-0.2.6.tar.gz#sha256=f5f75dce74a0c462fb385de0b6e0f49e85cca993e6d61eb6e11c39dfe1ea2bfd" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/46/a330a13700671a69eb7d36fab343009ca1b382cdfb1874c31db3fc957703/embedit-0.2.7-py3-none-any.whl#sha256=18c11f771991b4511a26d453c75d1ce54506168973b5034377f7102c9ea22764" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/75/bca0c89f3a717b319e1e6fab254c09f9ccd3948325057398bbf7af8a31b7/embedit-0.2.7.tar.gz#sha256=0af1b961c3274d8123fb2fc813d500abd7b91ef395d0de0fd3963cae6d8e976a" data-requires-python="&gt;=3.11,&lt;4.0" >embedit-0.2.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/fc/765bb5f165df41397e2e2a67d41d524ad11aa11b7e390092a8d3bde2b79b/embedit-0.2.8-py3-none-any.whl#sha256=a4f41b3419ee8ec931526e9379d373687ad4e46c194763331d865de2721ff856" data-requires-python="&gt;=3.9,&lt;4.0" >embedit-0.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/54/4529ed7748e7655b7962798e7075824da661d86143872b4478e4954a701f/embedit-0.2.8.tar.gz#sha256=8106519cc9b711dada6c72b22c5427e905842e76ce3dbb73fd420856e3a0dd03" data-requires-python="&gt;=3.9,&lt;4.0" >embedit-0.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/e5/47af32624e6da093755a47ad9ea4eb9637369c6f52a30bc56d7fc025c7ec/embedit-0.2.9-py3-none-any.whl#sha256=d41c8ca8c44d58bd5e420a589ca03a68423e26d67daec889cf7d7c9d099c8ba7" data-requires-python="&gt;=3.9,&lt;4.0" >embedit-0.2.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/cd/d438dde37c710987dff9f9551a6b893291f9379a472e7b40b585b90560ed/embedit-0.2.9.tar.gz#sha256=67591a1816df99565ef563155d363b5c198507b9d5118727fd2cb92acded8626" data-requires-python="&gt;=3.9,&lt;4.0" >embedit-0.2.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16415168-->
+<!--SERIAL 16614692-->

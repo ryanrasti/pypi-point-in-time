@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for proxy-master</title>
   </head>
   <body>
@@ -10,6 +10,8 @@
     <a href="https://files.pythonhosted.org/packages/6a/58/889fdebc1dff5fb37e061c330e508cba926b5fc48ff57293f83c8984a709/proxy_master-0.0.1.tar.gz#sha256=02c6e1a1086800c68a6a73845c80d88d22083573b0570e63e0e9ae72dc29638f" data-requires-python="&gt;=3.7" >proxy_master-0.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/77/20/2df3fbbc487f79f33bfcabdbf314a1d16d5f85925509aa6ec9dc6c7617b3/proxy_master-0.0.2-py3-none-any.whl#sha256=7a6a66b8ceffd6cf786b51256e79241232f201ac6c812abc1c4db64f445d9cbb" data-requires-python="&gt;=3.10" >proxy_master-0.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/46/18/8beabece15eaac85340dfa0a3cea64314ef769a9a0a98969e2a06e274b65/proxy_master-0.0.2.tar.gz#sha256=1e9223809d6943fe093289d78ffbe7d6dae92858bcfeb664da2dd0e2aeba8f23" data-requires-python="&gt;=3.10" >proxy_master-0.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/ad/1497b49e7ed27cf1a07c2f9ef6f69da09986fa984b6b518e1a1649f7b3d8/proxy_master-1.0.0-py3-none-any.whl#sha256=15d1c2d982e7f69c1ce216212019a258f4f050d1e91871d3bb3a712e081541b6" data-requires-python="&gt;=3.10" >proxy_master-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/0e/f0a7521ba2de16b7d4cf85243c5cf738dadfaf1bb2b29166bb8c12fbf452/proxy_master-1.0.0.tar.gz#sha256=3185c0bba26f9b375deaa21da313b58d3bfc45d59b39ba3857ccba4c275cf92a" data-requires-python="&gt;=3.10" >proxy_master-1.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/52/f1/c5f9834065ce5e4d50aeaf97d286d02c766684bcc2d429b75977eb297485/proxy_master-1.1-py3-none-any.whl#sha256=e63644655a050263a65cfbab270ad4a9c8ef602cc582d2518f9fc9566ef8edc3" data-requires-python="&gt;=3.10" >proxy_master-1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/df/bdec37451863743402990b275bc120f7490e7a01f19c07c3c74ac71a2a0b/proxy_master-1.1.tar.gz#sha256=54f4096001bb18b07910c145a2969e5bd7dc25bb3ca0066727af999dd81fa38e" data-requires-python="&gt;=3.10" >proxy_master-1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/4a/206a314a81add8e274c4bca8a72e673041890c347ab2174810a21244502f/proxy_master-1.1.1-py3-none-any.whl#sha256=6dfc61f5a28a90ea1c704cffc1b5031704d4ac21b48971ff1da396b59560ab9b" data-requires-python="&gt;=3.10" >proxy_master-1.1.1-py3-none-any.whl</a><br />
@@ -28,6 +30,17 @@
     <a href="https://files.pythonhosted.org/packages/a3/7a/17ff1639b99c1bd3408b2a1e7a6cf6c523a6753ede17cabbd54b6005e6c7/proxy_master-1.2.0.4.tar.gz#sha256=d82ec0c7b227ad5fbbe4c906b70ce2f7ae05716b72f7240f0da30a46550a64de" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/42/44/e942626216d1f5c00a91768813d6ea45b5b470f12cd36f762edbd90ce64e/proxy_master-1.2.0.5-py3-none-any.whl#sha256=58e4907a40dc50cdb3efb52f250b1ea327b32baf9785132488b7547a79f7401e" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d5/05/31f2b9fd85eedf9d1b193968b6a89b88cb3e7be5597a07242d7d8e70cca7/proxy_master-1.2.0.5.tar.gz#sha256=ce3c231a31a441a2de5e278e56ee0fac4a217105c52cf3174677d26662f2ce5b" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/7c/6b3f8638273a2d94b5db53a0384e2caa25d2b75ba7a68b9ff83baeaf145b/proxy_master-1.2.0.6-py3-none-any.whl#sha256=1a666d9c0f63349209018c60d8ca7df20d550b582e45b984d695da354e282ca9" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/88/781d062f26bd884148aac01bfdb65bb5432ed89c7115773176e033eb3aa3/proxy_master-1.2.0.6.0-py3-none-any.whl#sha256=54f54e8d4b38c0983df525818e52ce29c603a177032fdd803c1d5e1163df4476" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/cf/d17b0637129098600124785758b95c236bf5b8bbb6ef008258964bd86c04/proxy_master-1.2.0.6.tar.gz#sha256=48a98abdb40389687bb8a95151a8340f260778950dd2ecf1e11e01e4f02fe8ea" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/95/ece04fa33f15446103a504de92f8ae6eb52b4b19f5b6c758a323bb7d8153/proxy_master-1.2.0.6.1-py3-none-any.whl#sha256=eaf5c03ffa9fb7b7ce3778acd4d47c2cf91c3e562a46a7c828b011002c8be2c8" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/f6/675d692a529d2b8273d6239da7ad81afb6067b9e5feaf19046c93591e7f2/proxy_master-1.2.0.6.1.tar.gz#sha256=22967babe506687ba056af40dc6f2cd96fcde68a8f95574e38db58284a462f70" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/eb/c61747643d56142e5c5ebd872d0542f1aa48ee314f8f12fbca811ad7b3be/proxy_master-1.2.0.6.2-py3-none-any.whl#sha256=52ef2aa420bda97db93ce7faea9a24bb26af070fbb6df1cc1b84f07340152d15" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/c2/3065641fc3570bfbc3684dd1527f2cacc49af1007e2a8a28317609193b28/proxy_master-1.2.0.6.2.tar.gz#sha256=2c9de261411bcb57ba4848c799347a9e55822af30eacf513f112a76ccf4c6024" data-requires-python="&gt;=3.10" >proxy_master-1.2.0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/00/3264ce94027723617605b5036b54f104236546a7bca47f8e1a0c5318403f/proxy_master-2.0.0-py3-none-any.whl#sha256=18b6e48f2fdb66dbecd786e260bd63097809b8059cce7dc05ab00fab6dbc1bee" data-requires-python="&gt;=3.10" >proxy_master-2.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/80/a3cfaa101db7cc7e910f8a2e4205a92fa5a920cc0bef07db8c2662b08f3c/proxy_master-2.0.0.tar.gz#sha256=bab1e9efbd74c581848cb04f96469d8ffafe51c124f31c5c5d55eba33a3cdb31" data-requires-python="&gt;=3.10" >proxy_master-2.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/40/09/7481e898908911c0191fb53d46450ddb2f0cf37ab5e5ca09a8e3aeaabcd0/proxy_master-2.0.1-py3-none-any.whl#sha256=9e455848998ac9ffb1f758ba36454cce6150b4f78509ac397f33d90b45356959" data-requires-python="&gt;=3.10" >proxy_master-2.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/0b/7691d9467a63db7bdecfcfc7a9cfb02cd581bcdaf6f4b02f0bda4be25664/proxy_master-2.0.1.tar.gz#sha256=bc5eb789d0e1496b28f4adc6265cd5ec3a9b94c719b93ee1b9c129b8f1895f8d" data-requires-python="&gt;=3.10" >proxy_master-2.0.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16295447-->
+<!--SERIAL 16916465-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mqt-bench</title>
   </head>
   <body>
@@ -24,6 +24,18 @@
     <a href="https://files.pythonhosted.org/packages/7f/06/22a7ec1a86dc156024e8e2ac9bf8378bdec4d65ec0324707430c0e4d5128/mqt.bench-0.2.1.tar.gz#sha256=eaba0accb0848e5b532099d6c2220988dc576a968c60d1d81dee8bcf1fa8de8d" data-requires-python="&gt;=3.8" >mqt.bench-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/17/ac/e7853eef96f3afed5efb3dce710a80301dfa645d201626393ef6fc228726/mqt.bench-0.2.2-py3-none-any.whl#sha256=82999364606194f2aff4570a8ac8390f1e5e442c2f5806081414beac6dc46eb7" data-requires-python="&gt;=3.8" >mqt.bench-0.2.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/78/12/531399e291f980f80294a488fd889ec30de0adc647eca9706fb1b8f4d4ed/mqt.bench-0.2.2.tar.gz#sha256=75307beac9911756b31f272834b020137f0b304359edab13c9e476e7301784df" data-requires-python="&gt;=3.8" >mqt.bench-0.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b0/79/9ac87ca18025d00dc546c8efc501fa8f4b1f1fed857c2c6743e42ef84b84/mqt.bench-0.3.0-py3-none-any.whl#sha256=8e2dabeacaebd0f74006fd91071bbbf8b14c25cd9bffe8f5cc77eb00ac135610" data-requires-python="&gt;=3.9" >mqt.bench-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/ab/e75b83d1adc10c27117229205d1e229dd56158986ecf7cd5b4655343e1a5/mqt.bench-0.3.0.tar.gz#sha256=889a19e7e455c61bdeff5200b380fe1c8410b10ad533e0a87fccbdb8add22c04" data-requires-python="&gt;=3.9" >mqt.bench-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/65/248573c662b56bb4ce79001006958630e43ca2eddafb2f824b695aeaa448/mqt.bench-0.3.1-py3-none-any.whl#sha256=e9f52b6270cbe0cffe5e6eff546e2fed4e0c0df8345c8681235167ad2cba2ba1" data-requires-python="&gt;=3.9" >mqt.bench-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/22/334a2d701e086fd7c5cf25edfe9d50541142d039a5013d830437eda11695/mqt.bench-0.3.1.tar.gz#sha256=1f3bb80dd6a98feba3b952fb32b072faf358ae345ae91098886c14471a9a0197" data-requires-python="&gt;=3.9" >mqt.bench-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/24/193ad5779bc40cacf25a77f86b5af96c642d91349629086850be1e4ec9fe/mqt.bench-0.3.2-py3-none-any.whl#sha256=dfd6a0d3361e8ea10f10e27a7ea4a6565617de7d4f99aba4cdee84b52e64edbd" data-requires-python="&gt;=3.9" >mqt.bench-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/12/ff723eb1371e77529592993e99492e641f7fccb262daf2f69f0bdd76c168/mqt.bench-0.3.2.tar.gz#sha256=f5c26e2e582e19d5c212005e435888d1598467edd29ada7ce4279f423bbe742e" data-requires-python="&gt;=3.9" >mqt.bench-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/6b/a9376371d423c780256533e1a7da662707bd776d6f235293265d0b257739/mqt.bench-0.3.3-py3-none-any.whl#sha256=a7fae224470585b6cbf462e7c24c4a656c23acb1a0f4fbfa6ab486451ec40b3c" data-requires-python="&gt;=3.9" >mqt.bench-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/be/dc61961dce71ff4b761e0b5e358177b91e49e413779ba72d98c603c2e40b/mqt.bench-0.3.3.tar.gz#sha256=3234547c1b56b7fce11257ba99e5d787ab43b16234f4f8fe219f167cb554a270" data-requires-python="&gt;=3.9" >mqt.bench-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/c1/5f554b3ef5c9dd6a3b4d06590a3ecf774c47e78d5134007db2417ee19ffd/mqt.bench-0.3.4rc1-py3-none-any.whl#sha256=81823d596125a4c4221e2994963502113b8b61d9d5baecb084343469519ade9b" data-requires-python="&gt;=3.9" >mqt.bench-0.3.4rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/73/638a19faff508f469801e9e273fef746712c6834865234ad898cdcddfced/mqt.bench-0.3.4rc1.tar.gz#sha256=95f58d48efe5c899d2464d1e635418c6fd071211ce19a2c821e7c2b136ea999f" data-requires-python="&gt;=3.9" >mqt.bench-0.3.4rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/89/1e0764796d9db223cdd4eb9de0fa7f2c484da4445c7329881158e02e7c61/mqt.bench-0.3.4-py3-none-any.whl#sha256=1bfb22fb7b48b37f6f8b531856918c127828ba1005541b775334681742e62394" data-requires-python="&gt;=3.9" >mqt.bench-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/29/5d4d086a8af8721809b36d9a2be7a975843d3befb7d20fd77f8708e9bc51/mqt.bench-0.3.4.tar.gz#sha256=74155be1e91328eec2bc76647f0827488146e3b0ec2c0d76a5d870ee7ab1c1a6" data-requires-python="&gt;=3.9" >mqt.bench-0.3.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16163133-->
+<!--SERIAL 17019999-->

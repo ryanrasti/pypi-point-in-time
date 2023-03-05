@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nextline</title>
   </head>
   <body>
@@ -51,6 +51,18 @@
     <a href="https://files.pythonhosted.org/packages/05/16/d4e40dc9c32bc0878acfb443514c5860511c0f62e9358766fae097c40ffd/nextline-0.3.1.tar.gz#sha256=c86461b14da7b852db62894216da7befc792dd8db502601438c926f05a16f8b0" >nextline-0.3.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/fa/ca81c53fec07b0e1653c1692ae72424b52d325f2d4298e3533d7571cb396/nextline-0.3.5-py2.py3-none-any.whl#sha256=01752ba16d5ee76ca44fefb59f1fe0d6d4fef702dcb802cf48456b157302c849" >nextline-0.3.5-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/75/4831355ec7a1e3f6d45349f3fd343c547b7997c9d6dbdd0909a083a1de84/nextline-0.3.5.tar.gz#sha256=41da32793d5fc9c78d92930fcf76e920b6934421fb9d95c9eea21460e0cdb536" >nextline-0.3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/b0/d7d10a5a33aac4bf7daacf1e39525287d857374a44cb1a867fe770db19f5/nextline-0.3.6-py2.py3-none-any.whl#sha256=22da14cc54684b789cc86a294b4dccd68bf537ed99bc97a48769dec950e1c1fa" >nextline-0.3.6-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/d5/3279782d2ba1554180dd519ee0a121f7006ab2c65505048ee8043df34359/nextline-0.3.6.tar.gz#sha256=651108b84ffc897a088d1d74d494d7ba5c31f1f00ae18efa10eca695b996366f" >nextline-0.3.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/f8/0108f0aec9f4802a07818f0473f59a7213a1973e537017b9d009ff87bc1a/nextline-0.3.7-py3-none-any.whl#sha256=6b4e86a92987eac994c11ea37148415d2b76a7937c57c0ad2664868fd2beb84d" data-requires-python="&gt;=3.8" >nextline-0.3.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/f7/10f4ec5f123de2d0637604fe31be133828eb0c5b314af509af007d82ecd2/nextline-0.3.7.tar.gz#sha256=3c8d1d85c15dcbb8ed02d571cfb8fe06fdec3fe4bf68f94f4cddb0b0e63296b3" data-requires-python="&gt;=3.8" >nextline-0.3.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/05/d7aa891f2292a7e4363667924b2f0352e9ae8212af74b9e9a25a304cdc9e/nextline-0.3.8-py3-none-any.whl#sha256=23571a2fc4f66566d0f1d9fde616d3f3580eebdd023b8757bfb6771b1360ba27" data-requires-python="&gt;=3.8" >nextline-0.3.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/d5/ce6ca9f90bb2c53081661f57a9aba32fdc9fc36488e0a5a51ea32a0c4322/nextline-0.3.8.tar.gz#sha256=c58f8864c8e2a73ee8a02d574371fa7994d5270d52f23db9df234d2aaff30f40" data-requires-python="&gt;=3.8" >nextline-0.3.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/2a/b7568e9f6fb70a263f7212f11486ac97769d4c166f793d79c856f2a760e3/nextline-0.3.9-py3-none-any.whl#sha256=5ed915b3ff07b0a8a41d1adc94ac71b0f8f365597f0c800482f77616f8cf368a" data-requires-python="&gt;=3.8" >nextline-0.3.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/f8/465eb5db48d038c1ba0f9f9e80dea518182a03943591932ab602efb8370d/nextline-0.3.9.tar.gz#sha256=9fb692c9527dcb6b12ece683a34b0847fc1d5f7c9a88eee0cc0c80d09cea83b9" data-requires-python="&gt;=3.8" >nextline-0.3.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/47/01d849a1572bef161eda4fbf633c13dcf422e061e76e47d2cb908e16963f/nextline-0.3.10-py3-none-any.whl#sha256=ed544c59e262db77b1bd1a64898c174e9a096f93836c3c29b6fb1a866d832e10" data-requires-python="&gt;=3.8" >nextline-0.3.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/f4/9ade629e2b44a6d4c9396754f9b4ed91fb5734726af241425cfeb6d5e040/nextline-0.3.10.tar.gz#sha256=98a0e561d3cadb9392ac004da9329698480be12c7126cbb82fdcbee498e8bcb1" data-requires-python="&gt;=3.8" >nextline-0.3.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/2c/edc50379d47fbef3e2830a64367c7d14b9cdca53a3a637c60833dee391b5/nextline-0.3.11-py3-none-any.whl#sha256=e59b4c510e073f313b84a84afae8935e6109a420f5e8c99717fb3a6344aa1da0" data-requires-python="&gt;=3.8" >nextline-0.3.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/ac/0db301512e7e4012b9845a8f9a8ca25caf73e81c75430d44db94d35d0ac4/nextline-0.3.11.tar.gz#sha256=e6d64ee83b4c686e4d8d1378c325d61ab4c4651fbadd276a3548d498f566aefa" data-requires-python="&gt;=3.8" >nextline-0.3.11.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16421836-->
+<!--SERIAL 17017592-->

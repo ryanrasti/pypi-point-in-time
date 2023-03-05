@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pysr</title>
   </head>
   <body>
@@ -296,6 +296,16 @@
     <a href="https://files.pythonhosted.org/packages/64/21/182ebf96b21217a40d0ba5bb0411dc9c7fb23b9bf721ff3aefef971e988f/pysr-0.11.10.tar.gz#sha256=39ae93aca594f203ff7fc82f7040a46f1811ac6c0492f8ae3759b905e0b480cd" data-requires-python="&gt;=3.7" >pysr-0.11.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/66/5b/fac113f28d6d11b8f3863481909a19c5553211443545000fc72c09099995/pysr-0.11.11-py3-none-any.whl#sha256=cb9b4367065c4de9e5a06cff103eedd5cfd66b860e6359fa91a254241573b5d1" data-requires-python="&gt;=3.7" >pysr-0.11.11-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/19/1047468c56f95ac1b27001f75ddc89b267dba0667857da2712f561e52ab8/pysr-0.11.11.tar.gz#sha256=64237bb45959d90cffff268c97385ecd0418ca528490214aeb288b34830db1fa" data-requires-python="&gt;=3.7" >pysr-0.11.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/77/b66e4fbf7f4e6a216450f66e29ec33bd4c7bb725c6f743dceea22ade38e2/pysr-0.11.12-py3-none-any.whl#sha256=cb0aeb0506661ab22fedbbdce4130e505567fd42f36d5dc30c486a556d58e420" data-requires-python="&gt;=3.7" >pysr-0.11.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/39/a381969217dd99631619d36382c02f9b957d385a0bb5d261df54ab552891/pysr-0.11.12.tar.gz#sha256=c8895f9dbed3426435d9e0771110347d984c474259d59bead33c04625d87f6e1" data-requires-python="&gt;=3.7" >pysr-0.11.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/e9/894854786f80648cc7ac6a4d3a416c7f20f8c095133b36934b8515472660/pysr-0.11.13-py3-none-any.whl#sha256=e37fde5488d894d6bb7bd58f729b60945fc0a5ddce72d04a192b676f216b7846" data-requires-python="&gt;=3.7" >pysr-0.11.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/be/8297b583b17525e265ce3731037617d08ee749f488cf0e0b8b40fdc6f6e9/pysr-0.11.13.tar.gz#sha256=95c82f0562da60b68890b88d071f4ebfae758d7215349ef8513b09f108b6cc1b" data-requires-python="&gt;=3.7" >pysr-0.11.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/38/ae1145614b228ad851c557255c597a593d7a25362606419bdfd7ed987a71/pysr-0.11.14-py3-none-any.whl#sha256=c14b200b79b8679ff3135d3634b8eabd6d268695a1024fa59360c13e419c620e" data-requires-python="&gt;=3.7" >pysr-0.11.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/bb/1222f15a7cb7e21c435b5dbc6e96f2948092c67df8f25554ff1e41920d2f/pysr-0.11.14.tar.gz#sha256=dd4594ec77a14bab17c5986cf9364f3d6f3a684b094670952ebf03304ad2b3ba" data-requires-python="&gt;=3.7" >pysr-0.11.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/ff/e6426fc2d348b8b49aa0bdada99425b386250487c5ef319c0aac0c7abab8/pysr-0.11.15-py3-none-any.whl#sha256=4558534f42f806fda988fe92e1989015b2f177f830ebc0958f07fd2a99c7f7ed" data-requires-python="&gt;=3.7" >pysr-0.11.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/1e/e7afc3f752a6ec00e2954e0d1184fe1774d35e77dbdec5450e8d42b786fb/pysr-0.11.15.tar.gz#sha256=870fc54bbddb08dca4fd6c2dc4db6613859a0457fd193c67607737920345080b" data-requires-python="&gt;=3.7" >pysr-0.11.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/f4/6e42a50475e6eb96ccadcf908e62fb8e176576a51117c5724ec25e57fc67/pysr-0.11.16-py3-none-any.whl#sha256=8a3f5446d55bcc7044ad6ad88f866d3972ee42c18adbed3833875158609f727f" data-requires-python="&gt;=3.7" >pysr-0.11.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/89/be0f13849299fe8fdd9a2a682c2d8adb434bef4c0489387982801c6de77f/pysr-0.11.16.tar.gz#sha256=e7371552d3aba95903a6f98f1a0960081968fbf67bfebb2459fa29fe4e7bbad4" data-requires-python="&gt;=3.7" >pysr-0.11.16.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15848149-->
+<!--SERIAL 17116523-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for python-openstackclient</title>
   </head>
   <body>
@@ -161,12 +161,18 @@
     <a href="https://files.pythonhosted.org/packages/fb/21/e3de4025d87da0dcc0441c9acc37079880669f42c733b6a965a94e1161f8/python_openstackclient-5.5.1-py3-none-any.whl#sha256=7dfd1d119985c0de8732f15b4921d345690a923940e5d219a2ea7b0bf12e776e" data-requires-python="&gt;=3.6" >python_openstackclient-5.5.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/56/5b/5850ca55b17f63741f71f7b59cf3621e538390fb05a20fcf1225c3ec205a/python-openstackclient-5.6.0.tar.gz#sha256=0abc6666378c5a7db83ec83515a8524fb6246a919236110169cc5c216ac997ea" data-requires-python="&gt;=3.6" >python-openstackclient-5.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/84/af00ab708a17477cf036ed62be654a65266a6430be140c1027f80a83069e/python_openstackclient-5.6.0-py3-none-any.whl#sha256=eb897db56787f64c54e99ae4637d876a755311822f5eec71de1e88ae2b4d82cd" data-requires-python="&gt;=3.6" >python_openstackclient-5.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/30/8d0314d00b6342b92c321e6635dfc5661fb125606cd11d5384e22a8def5c/python-openstackclient-5.6.1.tar.gz#sha256=3b07445130839b10492be0b3df98578b2053b8936116c514325cd04bd14307ba" data-requires-python="&gt;=3.6" >python-openstackclient-5.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/9c/e65d243b5634fccb489057fa522fb9642619def1bcea4c80ce67b28ca14b/python_openstackclient-5.6.1-py3-none-any.whl#sha256=49e94a243a1852edcc8551e782514ce2768433b42b1f6788164c61ef46906484" data-requires-python="&gt;=3.6" >python_openstackclient-5.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/4a/47ce3594f825deadfcebdc7cc5f1e0c7996808bae8b42402c873a15d9707/python-openstackclient-5.6.2.tar.gz#sha256=df7bceae0e5af604dc20864bdfbb44713d511a1ae13dc4595b2e828f6522cee3" data-requires-python="&gt;=3.6" >python-openstackclient-5.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/6b/9b62c16b1d2878bfb15bc83f8bebcfda080d3ada60e961c95d34511d04e9/python_openstackclient-5.6.2-py3-none-any.whl#sha256=8dac0370c77125b4b7aec4c90b563a893cce2ad242172c9eee0aa00d77d0986b" data-requires-python="&gt;=3.6" >python_openstackclient-5.6.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/33/fb/1b529a396e56e258bc6bfb49c0d1be3792aea7f6e0570c908bc0641df2ed/python-openstackclient-5.7.0.tar.gz#sha256=c65e3d51018f193cce2daf3d0fd69daa36003bdb2b85df6b07b973e4c39e2f92" data-requires-python="&gt;=3.6" >python-openstackclient-5.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b3/41/1f9660e84313d675697442e13751fb5ff0bb4cf2d8268ff263943f58dc39/python_openstackclient-5.7.0-py3-none-any.whl#sha256=3fb0425247cd41a191cf16a8cea6eb3af26e7d9e58c3b8bea47f4d12eb11e992" data-requires-python="&gt;=3.6" >python_openstackclient-5.7.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/d8/474a7371757b553e61ae5d4fe14c4443e84a20cc4c84db91565e79d3d45d/python-openstackclient-5.8.0.tar.gz#sha256=334852df8897b95f0581ec12ee287de8c7a9289a208a18f0a8b38777019fd986" data-requires-python="&gt;=3.6" >python-openstackclient-5.8.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b5/22/bbee69c1ae752fc9692e514dcf89fe09cbb6618d076230915224705dbf80/python_openstackclient-5.8.0-py3-none-any.whl#sha256=93054487ad1235c3f413f50aef4f7981b532c81d7e9f1d9ea4dd2f28705621db" data-requires-python="&gt;=3.6" >python_openstackclient-5.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e7/7c/12bcf0aa9f564e5df663df93dacae6cbd67151df17c55f5f7d9640381a52/python-openstackclient-6.0.0.tar.gz#sha256=91c3ac12da4b423c16b3917616f84a23e2961e750fce590d409ecc50ee0431ce" data-requires-python="&gt;=3.8" >python-openstackclient-6.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/cf/e52f31666a408b2966d076bca466c45956cfb7bce11c46a20e0c11a00d59/python_openstackclient-6.0.0-py3-none-any.whl#sha256=e8a8b3538c3f7818b23d247ba7ab8afd323a94f71696ab6ba4cd58bc79c05c4f" data-requires-python="&gt;=3.8" >python_openstackclient-6.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/f9/f06a2fee9b1cd3c5bb940bdd0912df12784ff372bf0eb3eebd597a04d2f6/python-openstackclient-6.1.0.tar.gz#sha256=ed91791851bf7909af4189d599a57c89660f85695d24f3ee9a5665a1e26434b8" data-requires-python="&gt;=3.8" >python-openstackclient-6.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/e7/817ad0603b55d9f16d8943ea326e107cee8db116c829a4ab2681c1b13e65/python_openstackclient-6.1.0-py3-none-any.whl#sha256=16a1309ed1b56396b30b775765b80c993baa69ea790155cfb5ebfdd73f513d53" data-requires-python="&gt;=3.8" >python_openstackclient-6.1.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14799552-->
+<!--SERIAL 16959435-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for efax</title>
   </head>
   <body>
@@ -150,6 +150,20 @@
     <a href="https://files.pythonhosted.org/packages/45/ae/9fd314ec092ce76a4044da94da01a98a1ff79c6ede08742ef86a83aea5be/efax-1.9.1.tar.gz#sha256=adb53c31bb5861f6c95dd331948928f9242b05c08594ab8de1302e8f882bf37f" data-requires-python="&gt;=3.8,&lt;3.11" >efax-1.9.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0d/a6/2a7f7a1de08a9a3190412a6921eac9913d280966c93b170e22c2426dabd0/efax-1.10.0-py3-none-any.whl#sha256=13b4c6840ec8d2b5ecaa7449be969962a01dcda9c6d590f32860c2ddeccbe87b" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.10.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/19/54/a7decb4c9c027c9c0d919f46ce4925fd8814b388133a8ef21fe05061791f/efax-1.10.0.tar.gz#sha256=b57a193c6fef789db19e40d2481495714049c07a81ce5a543495506f47d27a2c" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/ff/f271faefe7065e1dcb0802fa5dc5e50dcb4cd9149086b575236889b8d326/efax-1.10.1-py3-none-any.whl#sha256=771e093f342ee931262d6e36d74f1cd0e01ca5925e5363a9236750a9a4215926" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/e3/56d1611d3415a9ba07ffa8b6c3c7568b11ff1aae5130bd70142fb37d5692/efax-1.10.1.tar.gz#sha256=05377405e211430190ccf0b1173b39f0928e402de0e79f0cf3da1e49f9efdb97" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/5b/62cd7729f6c2e791e25ad10dd509368ae43a0e0974db126d78791d30a96f/efax-1.11.0-py3-none-any.whl#sha256=4722285fc2147b1e9f5516430bf67408849c041d4160b2adfbea549183a93268" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/87/02ca61a5692753266a5aebed842b6523cfd82a54a447e1d202d9ccd72284/efax-1.11.0.tar.gz#sha256=d484eef1a118785167b43cb2ab61051af16c6d1ecffb7432cb41686bd2f71f48" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/11/5b9a762962299db55ca65c31bff885b31e9b91f0f040e7e6c71632432e2f/efax-1.11.1-py3-none-any.whl#sha256=d66b45a9d6029064829764853f7c6122c69e003d4edca4a865b987269f3b962d" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/bf/354b987b708cac62a25d04347ae49d36aca27a9cc4b56a3ac2608af20025/efax-1.11.1.tar.gz#sha256=32d03a0bb5ffab1d311dd0d0ecde01db5d93e465f1416b03bdd6268e15bcf1e4" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/ff/101f5ef46757520175c0b960bbffde460d8f8548615cf644c8ab916f8ce6/efax-1.11.2-py3-none-any.whl#sha256=e246bf9b3e5d584009dc2a4da3f5c8c22b03d48846e950a6072245fd88c5f5a6" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/e2/33e0fa126994f23b52a90b9838b6b6475be4d59ba7ea735b80980f041ee4/efax-1.11.2.tar.gz#sha256=5159183086a75e91f5090c420e44471a6c1bd95eb70865740d1abdf0c0d36101" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/da/ecf89e9d88a6afc4e3537a93ccfd4da58d140fa6a224a31baaa333f50d6c/efax-1.11.3-py3-none-any.whl#sha256=2802b11c36f81b1b118510ba4da5d6453c5e53b8170fa2304f547ace790366a2" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/ca/93695534971f79de77b7beef01899031c87e3f9a70618c25518c55b95f40/efax-1.11.3.tar.gz#sha256=18f8398a376dff9b661015ba4eef21c17e79499437c1eb5e63056129cf3d5c7c" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.11.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/a0/b27daaad394566aaaac701c211ba89e7ffda138d63138fb6b6ad37a73aff/efax-1.12.0-py3-none-any.whl#sha256=62b96351f52a2187a2d394bfda253a1739a1711eae153c61aa4ca3e91d880267" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.12.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/1e/4c8139eb5d4e5c0729c71efbaf8349b4c5d0778607805b4a6429052af781/efax-1.12.0.tar.gz#sha256=c13a019c83a074932023ac68ba6842cfb537465aa2d1232d1eb3682a64f9bc5c" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/6f/c6864b89cc8f0eca3cd338ae2c6a385e5a0d62c3cd2c32f52edb46fddec7/efax-1.12.1-py3-none-any.whl#sha256=39180edcc9e11b13a5164d4e65d3b937178d2c5ed724009999792ef9c088e8c4" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.12.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/e9/c89daeb44318cf12249186fe9cff535e516d542708671893706142575f2d/efax-1.12.1.tar.gz#sha256=b5df494ec159dd4420c07cb89fe3383e579be52b257555dba306a0407c61e0bd" data-requires-python="&gt;=3.8.1,&lt;3.12" >efax-1.12.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16140399-->
+<!--SERIAL 17080636-->

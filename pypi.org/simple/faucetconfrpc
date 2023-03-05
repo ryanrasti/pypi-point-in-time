@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for faucetconfrpc</title>
   </head>
   <body>
@@ -72,6 +72,20 @@
     <a href="https://files.pythonhosted.org/packages/89/0c/2016ab9d64ca6eab4b30f1ed7ba74a11fabcf0549ca542d444afccbfd7cf/faucetconfrpc-0.22.44.tar.gz#sha256=7c55767008d6f5bd505eff95d64db227e07f45db55d422ff254970ea192e140a" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.44.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/81/0b/a9f5db353cd96f1d4b201c84e26ca1c1d1470c8863e6da7dbf5699108dde/faucetconfrpc-0.22.45-py3-none-any.whl#sha256=dd37b8eb1c376f2cec692b2d6215954be61bc3dc2f792f4511e555409e77ce24" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.45-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/62/9491087f7847d7d3076a20ba1f116033da75760786bc7d5e90b80554fd5c/faucetconfrpc-0.22.45.tar.gz#sha256=7762e8db61b19a29ee7df1154be0a41d1f5512d1cbc3bc45c6eccf0af75bd445" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.45.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/f4/5ef3f6a6fd7e5692887d6a03e5c961f3deb21abdac73e7172fb83415f8a0/faucetconfrpc-0.22.46-py3-none-any.whl#sha256=e9a28ccd2416cd20e3d38ec41fadd7385f1bbcc0b33b65b6e21f94719001767d" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.46-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/ff/3340f11f393b63d5448252bb23d1fd493245e06db4b733e52a900ca523de/faucetconfrpc-0.22.46.tar.gz#sha256=9248aa0fe83b78dec034333d000344d7db64d345538489680552a0202c3bd8cb" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.46.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/02/789ca9f7e61b86cdbbca3c9ae4d58895edd2a9be68d769b75d0de3171666/faucetconfrpc-0.22.47-py3-none-any.whl#sha256=02fd6e4b81f483ac33bc78f339279a4e88c1c163cc25bf2daddf24483c86ba0f" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.47-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/a0/b205d9962b1e1a4bd795a95fcbc61a1e08f67b0e98b8ee2dd6222773b94a/faucetconfrpc-0.22.47.tar.gz#sha256=defb360cb1c3d285789385e03fe97e979fc75134c8e40931cc6375b7c91773ff" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.47.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/19/51b90c3769b65c28db5fff838745d792b56378ad07feba179c078aa08ed3/faucetconfrpc-0.22.48-py3-none-any.whl#sha256=c190de60c019f755cf6d5c91c5970ec4d1e70bf620238a46485028ec0d33d16a" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.48-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/3d/4a5370b3da615e0437f021a4d31044d008b4aa8fb0931f0304860f435cd2/faucetconfrpc-0.22.48.tar.gz#sha256=38bdbf55f9dc7b8a757b6139cd14c13bab32b61e98fa2135838e5a036b4ef480" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.48.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/c1/6e4ef30706b696a37a10b1b92324f501f522ab38ab8a3a07466b6d6e5539/faucetconfrpc-0.22.49-py3-none-any.whl#sha256=ce06ed77def3e9196d2e754525d28ab55b2c6fec6674ed65c337cf21ae834073" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.49-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/c7/971e56b2c281c2596546647dcadcecbb5506058f5c1152e537f8e15d97e7/faucetconfrpc-0.22.49.tar.gz#sha256=acdcd42e56220e36eb0d549c0f54607760a923f252c8a08d4c0a25ca32c5e7a8" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.49.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/26/18b0447b8493c1a76c37b771e82ef3e697c8d071de70b884b14f97e532c1/faucetconfrpc-0.22.50-py3-none-any.whl#sha256=11387950d37927d8f7c70e4ee82cfeb6b0649e3833ab66a571605e16bb53c241" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.50-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/fe/796d554bcd65986fbc45851a95e1df5c96ea3dd2970cac1642aeb2aa084e/faucetconfrpc-0.22.50.tar.gz#sha256=4e6826ab70c68735cc222687d08a2bcf7d73cec993cc7221e06719617b9fb140" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.50.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/c5/683749fbadea71f23262aa962e437615fe292776ce23bbf8f87d933dbc8d/faucetconfrpc-0.22.51-py3-none-any.whl#sha256=aefd94e10ce76c20f4b01b0707beb7563036bfe9e0bd56b51d38c7a74709ac65" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.51-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/4d/559f6bba61ced0e16160ad56cb1b0cd9cbbf2331406361054a0b33b1d6de/faucetconfrpc-0.22.51.tar.gz#sha256=f89fe0d76ed4f93520f5a940447f03c4b71f640f0f870da7646e7bddc6f62393" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.51.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/58/f0eb4b835196852ef3a09de66e476076e1591e963bebd39f68a1d363b29c/faucetconfrpc-0.22.52-py3-none-any.whl#sha256=7b3d20589655630e86550640d7c91360b3ea114ccf0950ba39ebfd690a76afd0" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.52-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/e0/43b7558d921bc11026067e1524c64c6bc444432708004cac486470b861df/faucetconfrpc-0.22.52.tar.gz#sha256=873f30ed99f77c6710d5b4deb1190bcc9f63ccb9103cc4ce337b9efeaadbde5c" data-requires-python="&gt;=3.8,&lt;3.11" >faucetconfrpc-0.22.52.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16091338-->
+<!--SERIAL 17004004-->

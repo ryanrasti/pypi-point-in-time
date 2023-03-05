@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rnalysis</title>
   </head>
   <body>
@@ -47,6 +47,18 @@
     <a href="https://files.pythonhosted.org/packages/1c/69/f4d1a1c5c0972a6ed083465037f18ceff796cfbd1f05e294107e4078f9e6/RNAlysis-3.2.2.tar.gz#sha256=797ff30c39d1cd2f8c8ada638a1c31ce5910791f8aadcaef3f4f1fddaac3a066" data-requires-python="&gt;=3.7" >RNAlysis-3.2.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/c7/2aa8eba5d3a96ece17a7880ccd3ad7bd7c6b62b4eed62ff237cc5b5a388e/RNAlysis-3.3.0-py3-none-any.whl#sha256=d26a03952d4c7477bd18a3cf7991b75bf70538e45793a1c914e77fdfb02d88fa" data-requires-python="&gt;=3.7" >RNAlysis-3.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/3b/b54858397acd583197d88ec2a34f213c8a0d23b91519c948fbca50720852/RNAlysis-3.3.0.tar.gz#sha256=23d8314295b4ef4a81ed950afc30d440bf43c830d1bd731b4bbecee993d7fbf2" data-requires-python="&gt;=3.7" >RNAlysis-3.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/8e/ad22ed7a051b124f6d04b5bf6b3a105ea96ad0d0b673acb5fdd120184bf8/RNAlysis-3.4.0-py3-none-any.whl#sha256=461932c68190b2d4684ab9d50450c3d487dcd683d1cbe569c8920c0a2cedd277" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/8f/e8bc84cee4cc0db761bcef28a3c932a1ba6905edbee1f26c222350f5622d/RNAlysis-3.4.0.tar.gz#sha256=6e933db33f4568ea6ffb12967154870ecbe655cd60d39d8d6842f2982c091f81" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/9b/ae0738bf248b45a0afea5834a2bd04b7e8ea12461542275a20a7783fac6a/RNAlysis-3.4.1-py3-none-any.whl#sha256=c77b5dd0bfd41eea94164a70a0989caa83af284a280289392d7bb02101e52e31" data-requires-python="&gt;=3.7, &lt;3.11" data-yanked="empty release" >RNAlysis-3.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/18/b5d8a56160b1c853650856f67e62f161e65e09f9f50d014a45e6cbc5d4e4/RNAlysis-3.4.1.tar.gz#sha256=b5541cdd276c12d5718eaf024654f1480e8e9e9be47c2988230ef2fdbea36bda" data-requires-python="&gt;=3.7, &lt;3.11" data-yanked="empty release" >RNAlysis-3.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/ea/8b360fb34fa50cde62739a0e3e3175f42f5226beabf0c38db317277299bd/RNAlysis-3.4.2-py3-none-any.whl#sha256=6a92ac0a22c11b34aa0cf16ede0b9fb674c68dd7580bdb2d9ecbde59ccca2a3a" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/ff/55a6d028e784f92cb509f6223840a8ece86b65019247f237db12e0197591/RNAlysis-3.4.2.tar.gz#sha256=3c20b5245bd4d87ced6d9fe0519e1b995e4a6e483a55999665d6dbb0fb4d5f06" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/a6/7f00eaaa9cace8fefad5864934f6cce82633943307d0b7790efe52f7c89f/RNAlysis-3.5.0-py3-none-any.whl#sha256=1c5bb7a0dd64686debb75ce958619e64e412700138c25017a40fe23f04b62d46" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/e0/498b534b5d7a559fb60d0b6ac48f0a8bee082eac7b332d438bdde2bacee1/RNAlysis-3.5.0.tar.gz#sha256=dd693ceee05ac2b43dbccac62b5f2197215fa1fd3cb2e8166431daf1febf4c31" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/87/15b9c3ea31fcd5434c34b02bf1587a06c7b45872c2d4f011cffc0948b7fb/RNAlysis-3.5.1-py3-none-any.whl#sha256=db98ae5eddcf634bcf9332272a55abcf555dde3bc4aabd3dec29488e65b0519d" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/b4/5567da7801c94623d56019ce385af2b5dbe5670308d209e68f2cc3cefbe3/RNAlysis-3.5.1.tar.gz#sha256=dbe1712a2f872ed5853346da15fd09390429cc8df30b17fc199c892695548287" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/e6/72e08759ff5378708e98cdc536707c8d75fe0f462a1d15b7ee4133b26279/RNAlysis-3.5.2-py3-none-any.whl#sha256=9a19dbf54b48fbeff3494b6c3ec6d36229af44d73205eaf886d9538578e324d9" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/ff/64e5cf2f6564a23523c2ae0b453f55bf6f7340bba361478b4773df70ec48/RNAlysis-3.5.2.tar.gz#sha256=6863abcf3a372ee7e87a32febce3127f4f7cccdff8d200ac63f22ee066fc462b" data-requires-python="&gt;=3.7, &lt;3.11" >RNAlysis-3.5.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15974323-->
+<!--SERIAL 17052680-->

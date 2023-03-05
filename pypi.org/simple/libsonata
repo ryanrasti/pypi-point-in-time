@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for libsonata</title>
   </head>
   <body>
@@ -181,6 +181,17 @@
     <a href="https://files.pythonhosted.org/packages/5f/57/fba3ccd985f55d1db775015559e1c331906b87c53bbe3798c7a4965e1b31/libsonata-0.1.16-cp39-cp39-macosx_10_13_x86_64.whl#sha256=8a6af8798ed2e3c98856db877be34d1e9f737d48bd07d1de1d08b430b6253506" data-requires-python="&gt;=3.7" >libsonata-0.1.16-cp39-cp39-macosx_10_13_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/57/bf/0c99ddcdf14eb6f272f240994850ef4c17ead64f0c198c52ff34913925b7/libsonata-0.1.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=91d3d7af09d0f089c72e6d2111b4e5a04ea55d464eed7497efa4796991c8bfd6" data-requires-python="&gt;=3.7" >libsonata-0.1.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1c/50/aaf960c43ee372120993fcb407ea89fecfbe46dee95c41d06d6e14f6f473/libsonata-0.1.16.tar.gz#sha256=49ced56992ba8be8aa6638525e8078b7e3ce0d5c05c34ee90746cab02bb5185a" data-requires-python="&gt;=3.7" >libsonata-0.1.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/af/4a55e78555966047ca671b029b8e7dacb06164629d7b60534efd18848955/libsonata-0.1.17-cp310-cp310-macosx_10_13_x86_64.whl#sha256=049c1449bf49000c3d5b3ed172c3e8bcac27fec6b974b147a02a4c54cf9f2115" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp310-cp310-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/c8/139fdbff5b9cf4c3f8dde22a9df046c87d829f123c3706a18144b96836a0/libsonata-0.1.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=1c1b2765e489908f85ce025e4de4e1bf405f208b53644215305a0e87cc319439" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/e5/264a18cb1635949674925456cd2b2a5cf116a361d5c98a1133000b2f1b90/libsonata-0.1.17-cp311-cp311-macosx_10_13_x86_64.whl#sha256=9f20edee37bb8101853b690a49fe1c8bb57730d6e3abbbce596400d3f21b9da4" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp311-cp311-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/89/6f7b637626901a6073517fa983a5cc6381db15b37f159459518d325b4af1/libsonata-0.1.17-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=25af0edc2973afb8b6e5c5604a7167b5825d227c616fe8f11d1228caeca61885" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/af/bfb13e2e7b101f4d4b32812979fff52a7ae60b52ec46df12d1a20736593c/libsonata-0.1.17-cp37-cp37m-macosx_10_13_x86_64.whl#sha256=c695f459715f5b1f41514ac75e3cca65ec90409f0182f925dd7517e0a12c6421" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp37-cp37m-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/9b/303849fe3be0b15c551954e13467799ef58d0b796dd613bd5dfbd6aa397e/libsonata-0.1.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ea517db007b8a6f107952f270ec4e50ab3c8b97bdd8f3adacda33ee982c21bc2" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/47/eda63cdaf250b074a591de8d7af0ff852bacc618003821c6c3cb11e5504f/libsonata-0.1.17-cp38-cp38-macosx_10_13_x86_64.whl#sha256=ba033af2fdefd45e2d77388ae9571f399880d60f1152c52ec144436cffa59166" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp38-cp38-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/e8/70c60c1b891cb65a10c1ba8711fde6bee5e79fdc99410c48cc2f53486227/libsonata-0.1.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=358f67bd9f6d7668be49699d989245567134bd26e6e94345b8167ac103ea8bcc" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/50/67ce7d0f376ba56b671711885de4d7054c18f35534e22a53b6914bef368f/libsonata-0.1.17-cp39-cp39-macosx_10_13_x86_64.whl#sha256=4d1a2ad7e7d33891aedae2c54e503b0bddc0f57052655d62a517a58499f3d8ba" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp39-cp39-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/0c/7b4340cd62d230a29144f0e0555aeab8f0f309f1139bc382f8595bc5fc74/libsonata-0.1.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0c68240ca489b000e73ccd538c759c2a99f2eee637d6f7db95a632d30eaee9b0" data-requires-python="&gt;=3.7" >libsonata-0.1.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/8c/ed186a0ccab0bf3bfc0cd2530f77461279397fe0b726d7b220705516bc4e/libsonata-0.1.17.tar.gz#sha256=d122dd9fce82c8ce1621746ed9029e7db0d319fb94f6a737fb14f572f632f7b4" data-requires-python="&gt;=3.7" >libsonata-0.1.17.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15374721-->
+<!--SERIAL 16900235-->

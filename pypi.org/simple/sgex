@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sgex</title>
   </head>
   <body>
@@ -20,6 +20,10 @@
     <a href="https://files.pythonhosted.org/packages/51/1c/df673a83410a08933b11f1916cdd07d60bb57269f504ce4042ad923e6ca1/sgex-0.5.4.tar.gz#sha256=aac8a73959f0c22f9c3f9159b1d6f4b140a2dcdc1e7c70c5c7d2715748d7289b" data-requires-python="&gt;=3.7" >sgex-0.5.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/1f/a6c8a6657a11697f3dada3dc5c94c2c7b7d535d04ef6212fcb8aca9acee7/sgex-0.5.5-py3-none-any.whl#sha256=78f9b2bf0d800b9462d5fdeeb6ac478e440a2dcb753c924e1ff80a9fa6b7c337" data-requires-python="&gt;=3.7" >sgex-0.5.5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/d3/32a9e463124ab02369ec06c65a61f1a01d6209bca61aa2aed8ea5ca61c6e/sgex-0.5.5.tar.gz#sha256=8d1c6f6df2090a78d65c9b69c537c96dfffbba39095ff88149c251bc0519b820" data-requires-python="&gt;=3.7" >sgex-0.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/79/4422efc259623203453d825d6d963e1de333a8eb0d2cc5fe89d03664c0fd/sgex-0.6.0-py3-none-any.whl#sha256=b2277929e384e1608222cf204205a9081ac2145150e190b4403e9688148f2a9e" data-requires-python="&gt;=3.8" data-yanked="setuptools doesn&#39;t find subpackages" >sgex-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/8a/a4e1b0b460b64efff6254591a5cd17f120a740bc0acdc057d5dcaca0d01b/sgex-0.6.0.tar.gz#sha256=da14ee6648e85da71d392cef463414a850beb24d6e6877f172656ebcbf114f01" data-requires-python="&gt;=3.8" data-yanked="setuptools doesn&#39;t find subpackages" >sgex-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/b8/7562affb9336973ff63bc970e3ab4c921dea0831a520463aba2e6c3282e8/sgex-0.6.2-py3-none-any.whl#sha256=9029a3a21f7f7c075b671800c418282d1d1959874e77b61502e8ddf756efc2af" data-requires-python="&gt;=3.8" >sgex-0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/37/c6c6ff1887ccc6e0dcaa7942564efb49555b904e6952010c71f5f203a01c/sgex-0.6.2.tar.gz#sha256=c94733179f661b305d749dc5d777c5677c33f40e31e6a22b65fb4f0e17e89017" data-requires-python="&gt;=3.8" >sgex-0.6.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14379487-->
+<!--SERIAL 17114238-->

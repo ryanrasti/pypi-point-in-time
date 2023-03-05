@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for microformats</title>
   </head>
   <body>
@@ -22,6 +22,20 @@
     <a href="https://files.pythonhosted.org/packages/15/94/0e7bb04125b80fef61cae169ae0c421281f84491d16b950d189b6865614a/microformats-0.0.7.tar.gz#sha256=62693e859ff082dc767a60f8c31a2b87749ea6390688beb61c010bf48c782a63" data-requires-python="&gt;=3.9,&lt;4.0" >microformats-0.0.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/d8/0607262475bdb8373cd1aac02434cf7db8ea8a742416d4d9345595f032ed/microformats-0.0.25-py3-none-any.whl#sha256=8b9ed861ac219c2f4b8bd2dbfdf2d0b8c589e829acf039a20474fee2deecceb2" data-requires-python="&gt;=3.11,&lt;4" >microformats-0.0.25-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/11/f4/469bd7c4d2e07bf9da61200307a145e79aa44161633e38c2db27acd77e0a/microformats-0.0.25.tar.gz#sha256=01c39a18e26cb555390343fb6f65bd99aefd483f25a1616859a4c243393c9a14" data-requires-python="&gt;=3.11,&lt;4" >microformats-0.0.25.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/e9/a1aad466e9133277955d3bcccf7e495ef429fda912cc0cd0a2b11cd1b5ad/microformats-0.1.0-py3-none-any.whl#sha256=93e55947317499da6de532f9bafe23c7bd50fe2a3e82c605e96637cf17f8524a" data-requires-python="&gt;=3.10,&lt;3.11" >microformats-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/54/5a076119b5e51571524a5b408357ae74ac717092e639ebc07942884de75b/microformats-0.1.0.tar.gz#sha256=74d38e184145a37452a81ddeb286e39baf4a442baeda75aba166b1af1b1b1f71" data-requires-python="&gt;=3.10,&lt;3.11" >microformats-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/36/9238bc6bfb273f808a62b1aa7a5dbe5cdbe24d39d5c244bf562b43bcc1c0/microformats-0.1.1-py3-none-any.whl#sha256=9d6ec12f166f4d22343311dad778902b4459367f58b2eefcc0f4d3ebd434b499" data-requires-python="&gt;=3.10,&lt;3.11" >microformats-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5e/b4/053310ba9db2004eb60688691607ad7611e01dde34661ed9482bfca3e382/microformats-0.1.1.tar.gz#sha256=bcb5e0e48692fae339aab76bdca7e5aac007bfe87df8d29742aa709a73b97835" data-requires-python="&gt;=3.10,&lt;3.11" >microformats-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/5e/221b3843c46545bef3b3bf14dbfb3bf0b78f8e6ac9c4eff3134f6d27b311/microformats-0.3-py3-none-any.whl#sha256=415da1140b458d715cfa2b598973283892c6f05ee5c9d86c74fa605f1af12f7a" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/cd/4481dd900cfec74fdee526dd04b5d98bb3644d4dd4e5cd1ed7e653103ba9/microformats-0.3.tar.gz#sha256=792164b24509a7993277e698cdf68bc29b9581e360eab7f8069eda06f12297dc" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/81/6f4d94992ca6561454ccd1080846e7a16d42fad6cab7af58d7495e038ea9/microformats-0.3.1-py3-none-any.whl#sha256=162c02754be9d6290c4b54fe898a5144f3b7b792ed714f14e1e23fda2491a865" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/08/075ee77219df17c03c4904697dc8f71699bd72f295be47da398ca94540eb/microformats-0.3.1.tar.gz#sha256=a1deb3e249ebaec304d2f413061d111b9a98eb01603bca75a70257db6f421793" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/35/20c334e136e05519a8f9db99e8859e99befdece6455f3a392424e9ba53c2/microformats-0.3.2-py3-none-any.whl#sha256=78853a91e6f3e6722fbdb4fbbcea86b3af81a34f3820903d4241ed89ac6c5768" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/9a/95e01f4457fcdad01d6b9ceb2b4effdca6f2b977fed94a8226bbd25daa2e/microformats-0.3.2.tar.gz#sha256=8634d65f2f10643c35bca9fb6bac7b43e3eba29bc459c4a1a39352c91e6cee43" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/3e/0a6841926ae4eb9e4f7c2c84fb7cc474e880fd282529d20549b1257720d5/microformats-0.3.3-py3-none-any.whl#sha256=8d14feaea1af1165e76ecbb3372f87384884d47a80f36bc16751ea9e44f4c355" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/f2/5285a3ddd9fb50012222d5d533c481273d9a71992754df896cdb24367e40/microformats-0.3.3.tar.gz#sha256=f5d2d838be1da985b636e282c855cad0367abe8c326e598f2352492505c5565c" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/be/eeb4b7c3bf327b3f35ea0b745642aa2a3933b45448b8cdff6f79eacf5caf/microformats-0.3.4-py3-none-any.whl#sha256=1d29e3d0aa94a03bf25d45ae4feaba01da517b778e2f9b3494dd80ea954f7ba6" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/e5/c93ef716bbb67209a937cc1b4e1b7a9fde16338a568fa4d802660ead9858/microformats-0.3.4.tar.gz#sha256=1514cd8da7686a176a79376e9899200719ca47026803ae06d923b8d0fbd9d7b0" data-requires-python="&gt;=3.8,&lt;3.11" >microformats-0.3.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16423400-->
+<!--SERIAL 16804359-->

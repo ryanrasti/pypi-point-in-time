@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lightning-fabric</title>
   </head>
   <body>
     <h1>Links for lightning-fabric</h1>
     <a href="https://files.pythonhosted.org/packages/c5/79/c9e5305ce1f6db771ce8e49781b32641887b014a71177430c834395de3f0/lightning-fabric-1.9.0rc0.tar.gz#sha256=39e1d075151da0acdb41dc6823a6e12c4faaa17ba1ff8ef4c0849490f1a150f8" data-requires-python="&gt;=3.7" >lightning-fabric-1.9.0rc0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/be/9c/cf0d6467019831af1af72a2f43c324322c5d80975d5e91e67174d34a5f76/lightning_fabric-1.9.0rc0-py3-none-any.whl#sha256=5cae142cf26b1844c7778cb1e448983a5a35f4937754b94f26ab177cd593d3e9" data-requires-python="&gt;=3.7" >lightning_fabric-1.9.0rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/e0/9f6b43eb5a878571b40e5f0bbb574ede185ce84ac9b82d7b1068e1f31c42/lightning-fabric-1.9.0.tar.gz#sha256=27792b675da3479c23d7e040fc220e7aa70293ba7708c874edc1ba36ef71167e" data-requires-python="&gt;=3.7" >lightning-fabric-1.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/66/b717ee7af305d0297a12a03dba1e1c03f6f32b545c89d9d9b6a8437047bc/lightning_fabric-1.9.0-py3-none-any.whl#sha256=8547dc5ecdea932b671003f2a1fb889fe8f7762990233651046b30d97b14c0dd" data-requires-python="&gt;=3.7" >lightning_fabric-1.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/5a/dddc538682995d38813be4764da48465550dd41a299ec5f13f91c11d923e/lightning-fabric-1.9.1.tar.gz#sha256=fd2cd6cab81325a5f692196d2cb6bd4829374c880a9cf299cf1ccb1beccbe630" data-requires-python="&gt;=3.7" >lightning-fabric-1.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/b5/98eb97e0d9bf677d71b987aa4b0384ab5111d37959c390a69e78a91661a3/lightning_fabric-1.9.1-py3-none-any.whl#sha256=f2c35dd6f116f89a573c4c7bda24319035c8c443521491315760121ace9caf52" data-requires-python="&gt;=3.7" >lightning_fabric-1.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/a9/d7ecdc648277a685b6976e04b826f78d1fad5577e80fe163bb9f564296d1/lightning-fabric-1.9.2.tar.gz#sha256=a67f0948b11351ed6a0c410e09a2b19863a06f5c31b1d088eea0756bf3ab1543" data-requires-python="&gt;=3.7" >lightning-fabric-1.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/dc/18619401f3b0af6601345df71b42e745743da3c22552623901817f69e881/lightning_fabric-1.9.2-py3-none-any.whl#sha256=a45e085091162a9ec4f684001e9ae50f1da42a4555bc2f315cee7549a154c331" data-requires-python="&gt;=3.7" >lightning_fabric-1.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/ca/83227202c57e2d54e80bae4ff86292c350b01d05f1fd3db6883a57bbf35b/lightning-fabric-1.9.3.tar.gz#sha256=077d4e22d26944d8d593418ce6107b8b3522862dd5086ad0b9d182920054602c" data-requires-python="&gt;=3.7" >lightning-fabric-1.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/0a/12774df0365b41eeae52eb47daadb3d5af9146f2112077612ce20c6e1f7b/lightning_fabric-1.9.3-py3-none-any.whl#sha256=0dadc34278dcc2477320ea0e655d20d671fd3dbdb27756c7f55dc80bc5663ad1" data-requires-python="&gt;=3.7" >lightning_fabric-1.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/7d/dbcc9fdb4d548bc2ed545a2aed4c42ba2ad58a653564e9d19ba030be8fb3/lightning-fabric-1.9.4.tar.gz#sha256=5b84fe99c6222e439243ac0eaa4a2440c905502e6f0b9126fcad2e50f5803bdf" data-requires-python="&gt;=3.7" >lightning-fabric-1.9.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/77/feacbd52689feab3d030eeb13281533fde819127fc4a9722afcf29e3d5c4/lightning_fabric-1.9.4-py3-none-any.whl#sha256=0bcfc78c8f54b1555a6dfabe901dfc073de8ea4058d587dd7c72a1e00a4fdf8a" data-requires-python="&gt;=3.7" >lightning_fabric-1.9.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/9a/2318fc2fec413043dc511ed40bdf561e4decab6624ba03f0f084758d3264/lightning-fabric-2.0.0rc0.tar.gz#sha256=8afa74c906498d97ba28a64761b56a91148e5767ac1d7769e5b4804d426f87db" data-requires-python="&gt;=3.8" >lightning-fabric-2.0.0rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/c4/54a17501d90cf6910c260f6e718485e8502f830490034e30f397ea800609/lightning_fabric-2.0.0rc0-py3-none-any.whl#sha256=156c8a76e97fe63908d3a0872e8aeb4ad72f3db5bc860da57a1f1ec40ba9194a" data-requires-python="&gt;=3.8" >lightning_fabric-2.0.0rc0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16330879-->
+<!--SERIAL 17128846-->

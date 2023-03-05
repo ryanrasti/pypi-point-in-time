@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dagster-fivetran</title>
   </head>
   <body>
@@ -240,8 +240,32 @@
     <a href="https://files.pythonhosted.org/packages/50/ff/679b832037de037b639291e0b766b3eb427d7deb6949a4c261d666af18cd/dagster_fivetran-0.17.9-py3-none-any.whl#sha256=eda2242771b03bf443bce0530a21fb2de66d37c844beee866cadb24396f0b8a4" >dagster_fivetran-0.17.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a7/e1/468b26d8f177e92efb2fcd1e11cd9ae822ceafa5a03ccd8b7cda8831812c/dagster-fivetran-0.17.10.tar.gz#sha256=602997e3ce80c9b05183d98613da6391861fca06ae8d9b1dbefd52c9f016cdd7" >dagster-fivetran-0.17.10.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f1/65/466343c2fb0c85a438ee2250fadede215113ee160cf77b218ddcc7d418a1/dagster_fivetran-0.17.10-py3-none-any.whl#sha256=51944de2ce5b6ae7ad51d5ea04ae1298fd683a5a6db410a8142da3569b33a200" >dagster_fivetran-0.17.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/8e/30740eb27b1165d274bc0e357370926270eb7c354d2a9374fa9184b6252e/dagster-fivetran-0.17.11.tar.gz#sha256=9177db6cead18dc81c24b384fb829d136591ef7a186533054f63ff9dde491fdb" >dagster-fivetran-0.17.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/22/9018ec0b6df489ecbbf209c750e04cc7b732cc5a80bad0ed4f654f473a12/dagster_fivetran-0.17.11-py3-none-any.whl#sha256=209e8d28f88fe18c3492042bbeccf21c1bef497d77c813cef37e08b13154e9ca" >dagster_fivetran-0.17.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/16/6aab5ed7d761a1e6f83effce1cf382d5a0f258752821ec8c110f740f4e42/dagster-fivetran-0.17.12.tar.gz#sha256=2aaac36a8c71975554b00a7fd767f9f5fcc822420b89fe02ac571094d71a85b9" >dagster-fivetran-0.17.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/86/cc96a16e4b99a8e3712a2a220595b1645b762ebf5f3d4a458e0933de20de/dagster_fivetran-0.17.12-py3-none-any.whl#sha256=52270c5420e55f2fa7bd7daf24f5850a573a7f25901ecd7bdf1e572c7bee1884" >dagster_fivetran-0.17.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/5e/333292d6b3d45b6a30028aae9f14b42855418c6f45135db88b028a038198/dagster-fivetran-0.17.13.tar.gz#sha256=1dec72d24143a3022fe462ac3148524e2a0ac9ff4070e185b20c42caa0f847f4" >dagster-fivetran-0.17.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/7c/45e55155db527b37ddc23f008da011a12b3fc222250f5ea569c391ede23b/dagster_fivetran-0.17.13-py3-none-any.whl#sha256=fac0218624c57ced5e0950a55dfb09d7ff51995eadaa8121e834d8eaf5d08433" >dagster_fivetran-0.17.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/73/050da8d0a54ca996a668c83b4949abebc8fefa1b7510dacd6b4cca029c46/dagster-fivetran-0.17.14.tar.gz#sha256=5b120ed294b745b4b4008f8a3403098e82d08c3d0f790f1af1aff802037ef19a" >dagster-fivetran-0.17.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/a7/5034459458304415b922265705b61b360af4d05f0a2e23c362f85b98fdbc/dagster_fivetran-0.17.14-py3-none-any.whl#sha256=c971a9cbfdf2f3d779cdb8e0d845d24e2f16e5073b1be5ef535a857cfb1e8c0c" >dagster_fivetran-0.17.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/55/086f8c3aecad547701bb2e69f7439b1719ce754826becf8086e3097f2924/dagster-fivetran-0.17.15.tar.gz#sha256=c55c670e639fa6253a8f9c86039038cbd88e3a9c2209f82f2ee2e76d48968204" >dagster-fivetran-0.17.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/8d/e6a6602f4bbeebd64ad5ea90a6748b59cf0232830428314e0c40eeb8f83b/dagster_fivetran-0.17.15-py3-none-any.whl#sha256=14e84c8c00b12f91d4698de5b8e6906685b3033d888288940335364346beb38b" >dagster_fivetran-0.17.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/0e/7851b73a77703f1f9f37e2102f06468fbf1757a4cfd5327f039acac5331d/dagster-fivetran-0.17.16.tar.gz#sha256=be7b666c5819e32788955c83f5f60250bfd66df66ca3bd3e06561760251b89b8" data-yanked="" >dagster-fivetran-0.17.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/52/3146ac4d650e3f92223fc3ae6f99ead7322db3d3da7aef8b06376a70e482/dagster_fivetran-0.17.16-py3-none-any.whl#sha256=5b3b1ace8313488281c45cb6136d958e3093a50b18f959e9be61882cb46450c9" data-yanked="" >dagster_fivetran-0.17.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/bb/8043116dea8edf5e03173596b165ef80dee34e17827a2e0b761236e3dabb/dagster-fivetran-0.17.17rc0.tar.gz#sha256=c73bd5b6b50ec92bd3c39b200d1606702f2df37d9cadcb840a5afc7a72d1bddd" >dagster-fivetran-0.17.17rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/23/30c9f3852906aff54ed4b44bda93b08d4ac598cd59cf4918a8570f8455c0/dagster_fivetran-0.17.17rc0-py3-none-any.whl#sha256=1bc580e6352c706b32e0ac5e061c8e15aebf463e4d130f4bc0e38ec7920cadde" >dagster_fivetran-0.17.17rc0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/4c/61b80f2380797fa57c421a236348895497326f46fb92eea117881d907ecb/dagster-fivetran-0.17.17.tar.gz#sha256=1cb1efacb6f94b5cb9282c6994de46d088f858f30e934ec681f6600e4bc112d4" >dagster-fivetran-0.17.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/fa/907112180fdd693d54f661b773554174e6668d0080d7b7ef442a4acb259a/dagster_fivetran-0.17.17-py3-none-any.whl#sha256=6e88d6b29f0ff632e401746ef852d29432efb1bde7b7a417348c8e981c35c1b2" >dagster_fivetran-0.17.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/69/42478750c135e222f96f41d316ae9ca2415b1b2cc55d50ded95eb70b12cd/dagster-fivetran-0.17.18.tar.gz#sha256=cc44420dbc0daa11f99ab3fd6a86d61998522393454e53261cb0a7efad1f7140" >dagster-fivetran-0.17.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/17/e82ee9eb27cde29b3f5aee48dbe54497abbbdccf2b1f2736da2d109e4f13/dagster_fivetran-0.17.18-py3-none-any.whl#sha256=4f7f3c9360915ff7fb84273eef09b45b258cb3fe753dc0f274c9fb5182eba098" >dagster_fivetran-0.17.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/f6/6aee8b0e6505e42140966d14fdcc3f066b0f8017187514a7c90fa33378c3/dagster-fivetran-0.17.19.tar.gz#sha256=a7e33a9e7c021f2ae737cfefcd764e71137a6f4caa0b95036fa770ca3fdba8ff" >dagster-fivetran-0.17.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/b1/863f31f81cfc7c74cb316209f6d34c947954fbda21de7265e116c2736e39/dagster_fivetran-0.17.19-py3-none-any.whl#sha256=bff04805b77f34666177dffe9b6352eb92a4147dae6b2b7e9e292bde63dbfea1" >dagster_fivetran-0.17.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/4e/4ba0d799d165f0f0d1f76080c2abd8bb16c70951fdf2ff197ae5524a8d59/dagster-fivetran-0.17.20.tar.gz#sha256=635b6c4607f294d569b76ede7c58e05426be6a739d1b2137f3818a08f58bc326" >dagster-fivetran-0.17.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/23/23d785234d3e2820243daf1679e842ba42910123dc584e76a70f99feeea5/dagster_fivetran-0.17.20-py3-none-any.whl#sha256=3b8d53ce4da6a9c4f6f981f8df1d3ce2d9c562f42fff833144ba6f5df929f813" >dagster_fivetran-0.17.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/d3/c867635d14c2c830170baa6435fa31e930821fe53b95be38093c0828ae0b/dagster-fivetran-0.17.21.tar.gz#sha256=282b377aab5d0abae9167b1604aa1b8e83df66436e9471a1dbdd55386bbfe49a" >dagster-fivetran-0.17.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/c4/fbd553cc9870020ae443f8f09092efcd84f2b3ca50ac82add13cafbbc2f0/dagster_fivetran-0.17.21-py3-none-any.whl#sha256=781d930860078e468d608525df86124802469d2fcd58371aaf0b7c937b3e83a7" >dagster_fivetran-0.17.21-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/0e/eab2ee8aac5545a3014154f9b79902d9ceacd948f9504ac30b263e4b5066/dagster-fivetran-1.0.5.tar.gz#sha256=fc803d5b754a69a1d74ecdb8e826ae6f48d4893b376a165f3ef91d09e140af3a" data-yanked="" >dagster-fivetran-1.0.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/2f/b44674c36e939bb7ef3a9f48e346738fecfa4b0aee6bc0ba64944a58e7ee/dagster_fivetran-1.0.5-py3-none-any.whl#sha256=cb5c2806e4ac7b0a155711758a0e94a9a7b5dff94a25b485afafd3c39a8657a9" data-yanked="" >dagster_fivetran-1.0.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408549-->
+<!--SERIAL 17135831-->

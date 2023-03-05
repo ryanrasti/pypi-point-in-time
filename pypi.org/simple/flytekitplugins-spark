@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flytekitplugins-spark</title>
   </head>
   <body>
@@ -342,6 +342,10 @@
     <a href="https://files.pythonhosted.org/packages/4f/3b/b578d92ddadb1c0b11d9cf97c6a9795e29ad58301b82243892765eec07d7/flytekitplugins_spark-1.2.6-py3-none-any.whl#sha256=4fcf9ddbad8af8a0f3b9a550f0b671194ade37a94f20d59d2d9c8310f474f6d7" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.2.6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e6/a4/5d962c0d4d62b5324d522854ed0581d2d5bc92c42d18d202c76798809322/flytekitplugins-spark-1.2.7.tar.gz#sha256=f1317298aa36c2203da6d385b1015a1bd1e9bad2815244999f935647ee089778" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.2.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ed/69/677782a245f9fe6d621c1b61a9cccb689e62d9a9c3f305205d8f8a62736a/flytekitplugins_spark-1.2.7-py3-none-any.whl#sha256=75ed9f8654bcb16a193af76a9cba5f76f2646e18e4d6fe62d5cd7dfc65ae8de8" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.2.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/e8/4849503c33306096fbc4c6696e60965a7ae8eb41da226c293b3a614b9a53/flytekitplugins-spark-1.2.8.tar.gz#sha256=65c2da5a7b5d599d48b8cd7bcb6ccd6440d235cc64a21516dea4bf3dfc1a0e73" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.2.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/54/e44b916cc2a82af569c4658810b4b7ed750ee637aaa5c107134405974c7f/flytekitplugins_spark-1.2.8-py3-none-any.whl#sha256=019f6226b4c16c646cda5310c7977330d42e4415503f9691e300adc88403b19e" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.2.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/26/a68cd25e5329decd91af76d6f84e3d2964258e685b4d60fc6df22c2c942c/flytekitplugins-spark-1.2.9.tar.gz#sha256=6881f288a1cbb24142c65eb4e8aad782d3d5ea9a7f5cb4b2708e4f9de3cbee2b" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.2.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/43/908d4da95aecc6b122a9b78259981e182a61da4984c1f60b30f820cd4f00/flytekitplugins_spark-1.2.9-py3-none-any.whl#sha256=00c14e6faca9a36f7bac15a279f2c0ea6b50fe186c3c047b7fdd6660b0f1435c" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.2.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/26/48/dbbe6764f5058c7be2d874c0202f3853a238be518ad68c0843f9e0fc73e9/flytekitplugins-spark-1.3.0b0.tar.gz#sha256=0d8d6655ea45b402a5706dbd486f1fe4051ee47b0c70d7916e317f0fb8e39ea1" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.3.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/5a/9563d4ea573c14272f029ecfa45eebc5b3e7677ecf57bfb8db651b6a2665/flytekitplugins_spark-1.3.0b0-py3-none-any.whl#sha256=717d212ff8a8faef8d7750c970a8b474e693c393329771adf19b05e07fb0a6cd" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.3.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2b/bf/d175c8da8b7767163e5263d420a35c81cda229efa3663f4b3a82852d1cb8/flytekitplugins-spark-1.3.0b1.tar.gz#sha256=b8998e351819c6cb8bb74851ccb90df8619acb8c4de56007088e1d548ecde974" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.3.0b1.tar.gz</a><br />
@@ -358,6 +362,14 @@
     <a href="https://files.pythonhosted.org/packages/fd/07/fbc9248e315e496ff47b07882b9b26837d9bef3175ea022e4df5fa7cbeb6/flytekitplugins_spark-1.3.0b6-py3-none-any.whl#sha256=75ace68fd2717e3f3515b77b990a3d35cf3a4f4b0fd1de154751ae0becd6e2a3" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.3.0b6-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/a4/945ea91c81a5af3a508555572921480f570c458755eed4e92873c583caf5/flytekitplugins-spark-1.3.0.tar.gz#sha256=d2e3a9285d662f61250e3627e1427a193618bde984b0dcb2afcd1c2389d03933" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.3.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/7d/4b1594798eb05f437d8544468e06a602173aa36f421ff2737a8e4f0cee70/flytekitplugins_spark-1.3.0-py3-none-any.whl#sha256=52009575e160acdbd6e49c7d9d51982c59cec7a7a20a90cc53cff00f3b894602" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/2c/5697a0f18abdab57c0cf785eea2e163c4846920cc71ea18997adf29a5b95/flytekitplugins-spark-1.3.1.tar.gz#sha256=24e82e4a38756b178dce3282c35e91d9c3610af620a8a252d72f2aaccbfbd6e6" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/ae/4bd6e294fb419aaba851ee4d0d7f5c7c04e491cf7968b6ffd724f85ae415/flytekitplugins_spark-1.3.1-py3-none-any.whl#sha256=cb2ad53f2004b84409548a9fd6233aee2244db343d023cff12b547dd640c6260" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/62/95642867dc9134296c4fd07f0f54add3f122e9c61aefa73a19af61ed1eeb/flytekitplugins-spark-1.3.2.tar.gz#sha256=2b4c594fd457785ea64f1d59f382640f2b21d5018f7b885c0998d2f94adefff3" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/bd/26a8d396677be3f66959a5db74804b6946078273af87dccfa0eb194188a1/flytekitplugins_spark-1.3.2-py3-none-any.whl#sha256=5857188bbbdf2adaa87bdb1600fa519f2062164977104baf751e5a73ed2d6234" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/0f/c2adbe9215ecbd73c5682e17cca6b90c6ad0fead5ad018c3a7aadca9b23c/flytekitplugins-spark-1.4.0b0.tar.gz#sha256=a3ea4e699b61573722a4f86f4275e37fe89ef2670931c4ce5d11b8e762bfae86" data-requires-python="&gt;=3.7" >flytekitplugins-spark-1.4.0b0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/66/bf03727e6eb6a5c4e1fd1b7262b7e28926b3b3a26fb49db5712153324746/flytekitplugins_spark-1.4.0b0-py3-none-any.whl#sha256=0feb4829152a5bf8a350d7e3345520ef4181c6386075898d9b9eb799411c5fcd" data-requires-python="&gt;=3.7" >flytekitplugins_spark-1.4.0b0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/d8/243e35cb6ffcfab37e31e819f30956e84c1536eb8dd4417bb6fc7e0b63fe/flytekitplugins-spark-1.4.0b1.tar.gz#sha256=75a8a14a0a3d7b3012936aca1cd4a3e8df4dcb1ac7582ff5ec8ca6ecfc9af7a6" data-requires-python="&gt;=3.8" >flytekitplugins-spark-1.4.0b1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/cf/14e05fdbcdd96efecda93cb508d68dde2691f8848b3acb5c80ac9210759a/flytekitplugins_spark-1.4.0b1-py3-none-any.whl#sha256=d07aedf3732c41de07f48f2f98a135ca5eb05d788d3ba73a86c9f9611ff59c23" data-requires-python="&gt;=3.8" >flytekitplugins_spark-1.4.0b1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16408030-->
+<!--SERIAL 17100697-->

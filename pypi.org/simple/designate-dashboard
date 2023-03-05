@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for designate-dashboard</title>
   </head>
   <body>
@@ -56,6 +56,8 @@
     <a href="https://files.pythonhosted.org/packages/9f/a4/81f2e5f3b1ee0908ae9c038f9d650305916c8436968d417a2c6e2f6b23f1/designate_dashboard-13.0.0.0rc1-py3-none-any.whl#sha256=d0a84e3c0c089eda39e09129d010547978a61947f6f645271b4b0c2caac88400" data-requires-python="&gt;=3.6" >designate_dashboard-13.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/44/65/b51498cda0e62bb45a3f6657ccf6d6c16ce9e4a8224c8c013dde0d473d92/designate-dashboard-13.0.0.tar.gz#sha256=72b53b0b42f0c4e5ca414f6b92a347d9e93d2e7e759762e69ef68697010063c2" data-requires-python="&gt;=3.6" >designate-dashboard-13.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/53/06f6546abc97063856003f3d0258df1f9d1a49cceb1ebe10b7d8787d9632/designate_dashboard-13.0.0-py3-none-any.whl#sha256=938b98d614a3fdf94bfb66cc1915d939c453fbf45a5119fa743c275ea2d95f34" data-requires-python="&gt;=3.6" >designate_dashboard-13.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/50/7dcc4ae03a672047c23765f6a09f89c1e89e69492f545132aa71fdb09237/designate-dashboard-13.0.1.tar.gz#sha256=5b29411500786f5d122bb995f3abe5e11837f9430e6e24f5fc30c1ed6253f652" data-requires-python="&gt;=3.6" >designate-dashboard-13.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/36/62add1880e55bcce169412a10ab596c54cf53753f6dadb88e304e55bfe8f/designate_dashboard-13.0.1-py3-none-any.whl#sha256=1ad7979b321c052fab72407b4d66eb5b56372b3f36e9bd484beaa9d22f044595" data-requires-python="&gt;=3.6" >designate_dashboard-13.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bf/b9/ccc17712c2e66f1b3e07b65c17fb2ddfbbfd980306a83f2c8d141f974ed9/designate-dashboard-14.0.0.0rc1.tar.gz#sha256=c62fa00fd2c37f6ee2fd9f3235388753a383914a01dc535320e974c08a46d34f" data-requires-python="&gt;=3.6" >designate-dashboard-14.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/84/4e/e4d525b13ce139a0c55a3ad524c9b67b7d7646fee700101d3ac514ca1e5b/designate_dashboard-14.0.0.0rc1-py3-none-any.whl#sha256=d382dd77513ef832e5874d554ce046264ff36b2284f2ac3de61f53567a25dcd8" data-requires-python="&gt;=3.6" >designate_dashboard-14.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/80/22b5fae2c542630a937468e36fc493dc369598cc2dc4008ea828253bd386/designate-dashboard-14.0.0.tar.gz#sha256=e715ac3f7402f657e58adc2945b9b4fcb0f4bd2c65fcc36ada197daac9704c06" data-requires-python="&gt;=3.6" >designate-dashboard-14.0.0.tar.gz</a><br />
@@ -64,6 +66,8 @@
     <a href="https://files.pythonhosted.org/packages/80/97/37edb10d2e342eed90737bec2230a3106fc8daaddd9682a39473a7304675/designate_dashboard-15.0.0.0rc1-py3-none-any.whl#sha256=49320476604b05b9753b1a251af085502e66649ee8cc1070e7cb7091a0204ab9" data-requires-python="&gt;=3.8" >designate_dashboard-15.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ea/f5/1017d840edc0f3a42cbcbe42605f62850891bb9c02d07aacd8a42165be34/designate-dashboard-15.0.0.tar.gz#sha256=397a2f160081b2d0fcacfbf858f006a0e27baa25833837dfa77e0b9cd362a814" data-requires-python="&gt;=3.8" >designate-dashboard-15.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/67/fe/3d89cc0ac3e23488b6c16d401b0d78efd7a166934bcadb393bde2a9fc354/designate_dashboard-15.0.0-py3-none-any.whl#sha256=8c022c72354a6b25b329d59cea55b6d7229935378bc3ae1b7b96b5a49c4076e3" data-requires-python="&gt;=3.8" >designate_dashboard-15.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/ab/526b867acb907255ee2d6ddf503e8b5de141bff0bf9f9196328cb584a25e/designate-dashboard-16.0.0.0rc1.tar.gz#sha256=58194692a015edd33795872703ddf1afef758d3110a72cfd0a180c0091a6eb10" data-requires-python="&gt;=3.8" >designate-dashboard-16.0.0.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/66/e4602bbf11e1035b6e39de2745eae0655140aad4fb43283a22911adc6d1e/designate_dashboard-16.0.0.0rc1-py3-none-any.whl#sha256=8c3115bb61265daa3215af1b0dbb40789c09e447e4a14809deefa4818c0c2588" data-requires-python="&gt;=3.8" >designate_dashboard-16.0.0.0rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15311651-->
+<!--SERIAL 17111573-->

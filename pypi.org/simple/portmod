@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for portmod</title>
   </head>
   <body>
@@ -377,6 +377,18 @@
     <a href="https://files.pythonhosted.org/packages/bb/99/497cbf76b07953fa30d1e96982f3637c5955e1fffaeaf91949d5606297f5/portmod-2.5.4-cp37-abi3-macosx_11_0_universal2.whl#sha256=ccaa8ed2e163c82ece35e335e84abc9ef7585bf44fec06644550d12ead423c83" data-requires-python="&gt;=3.7" >portmod-2.5.4-cp37-abi3-macosx_11_0_universal2.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/36/99/8850917f0250e88b27683bb558b05d56b5ab1bad59aa85a5306b9e7d6f8f/portmod-2.5.4-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=c9074630637a3347561e3bcbc11f708820eca846e0a564d1955db078042e7a8d" data-requires-python="&gt;=3.7" >portmod-2.5.4-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/66/16c43a419718c78c4d61f436ea99348b6ab9f7cd816cdfa31f4ebe1a511d/portmod-2.5.4.tar.gz#sha256=0d3fc22d0046fd295c93b58a3a97553dbdab1ca075e1dbbb169eb515b81b6e7c" data-requires-python="&gt;=3.7" >portmod-2.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/6b/9ec792859c0a5f77be5231bf5009faef5516326759f274d729f27c38b84d/portmod-2.5.5-cp37-abi3-macosx_11_0_universal2.whl#sha256=84eb357b2745e916412f75443e155bf925316ddf73bd97674e2c7d9c99549216" data-requires-python="&gt;=3.7" >portmod-2.5.5-cp37-abi3-macosx_11_0_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f6/e4/411773936fab948f61a4251ba9847f50d74d8aa8adcd56b9df47b346e30a/portmod-2.5.5-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=571cfbc7b733b5f048471931bd16777fb19e163924a57d38c99fcb9cf97fd182" data-requires-python="&gt;=3.7" >portmod-2.5.5-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/97/39fe68f68b4cbed85ff44fca119012d60ee7f4380842ff5ba2b07794a941/portmod-2.5.5-cp37-abi3-win_amd64.whl#sha256=66a32e4e50fe787d80e2abb94e0f1b510d364340a0614dfffc71a1520068720a" data-requires-python="&gt;=3.7" >portmod-2.5.5-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/23/24d06b4e35079f5c532215b46f23218b9cf860f280576856ae95790a879f/portmod-2.5.5.tar.gz#sha256=393d273c25c6f3e054772469e70a8601500565e044a36ffb94c5b93ef75d0382" data-requires-python="&gt;=3.7" >portmod-2.5.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/dd/fa1c7b72e1a4b5b522eeb1106239fc738bce569837b8545616a506753120/portmod-2.5.6-cp37-abi3-macosx_11_0_universal2.whl#sha256=6af24186f7bc73cc41b62ad6b709d2997b2ec1f2328f01388925ed93a5f6b911" data-requires-python="&gt;=3.7" >portmod-2.5.6-cp37-abi3-macosx_11_0_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/d1/25c9f63c523a20b7c43858dc21ae5039cb68921bb61b2f63026a614e89cd/portmod-2.5.6-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ce3298be190fec495455967466c099db9c8343d982f2bd28627f67a9679cbce7" data-requires-python="&gt;=3.7" >portmod-2.5.6-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/62/eb085aaa946378884e8398cac6c1b9a5ca178c9d36c3c311f1b172423ea0/portmod-2.5.6-cp37-abi3-win_amd64.whl#sha256=82891200b235fc0fb36ed527c02f64722d7b383c93545878c8acf0637b51dd77" data-requires-python="&gt;=3.7" >portmod-2.5.6-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/6b/675fbf5e453a7c124f4da1af9cd6d64bc04ec2c1e4841f11ef3207f4b1e8/portmod-2.5.6.tar.gz#sha256=42a86a6c93ad420175b2234d60855a49e758e2e19fe910c436735bfd91499bc8" data-requires-python="&gt;=3.7" >portmod-2.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/91/bc/140f98620c21157bdb4ac56f21d8ce154ad42265a6fb3ee0b13728aa4d00/portmod-2.5.7-cp37-abi3-macosx_11_0_universal2.whl#sha256=e199c5d5bd69ce61ef63dece70f3956e27e0774142c030ac90122fb76bf3d8eb" data-requires-python="&gt;=3.7" >portmod-2.5.7-cp37-abi3-macosx_11_0_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/8a/905644591342cddd8c90430f1d144f2b46028ceb8f49b33ebe9e075ad41d/portmod-2.5.7-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=6f5be43f9d3065efe9714ebde64b0148f3f2e4de224995b7cd0490f7346db5ee" data-requires-python="&gt;=3.7" >portmod-2.5.7-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/b3/5418991e874b108d5468175fbc6007c3eebbae5fc4761e768aba87aa929e/portmod-2.5.7-cp37-abi3-win_amd64.whl#sha256=9c4401b7e689c5f337469c35dc3ec680d23b28736d16e0c834889bd3f0b0d6cf" data-requires-python="&gt;=3.7" >portmod-2.5.7-cp37-abi3-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/36/891038d4c54fd21428f4fd1646217a2c17b6860e30064f97aa9c66640bf7/portmod-2.5.7.tar.gz#sha256=a5e42edb7b5a95620376c02b8d2fc8f1b5eec42f96605a712b066c745842ff76" data-requires-python="&gt;=3.7" >portmod-2.5.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16423287-->
+<!--SERIAL 16994152-->

@@ -1,27 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for rick-db</title>
   </head>
   <body>
     <h1>Links for rick-db</h1>
-    <a href="https://files.pythonhosted.org/packages/22/f1/4cfa6704d66f9d7ac802da92d053bde7b7736811286ce83caeacbda9f0f0/rick-db-0.9.2.tar.gz#sha256=4f00f6e12131c53260c58409e5528ca63b72f27ecee06d6e8da7c7ee7ed84cbe" data-requires-python="&gt;=3.7" >rick-db-0.9.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/d3/9a/5343148650d74c0bde9953414317b59fc31471f2b8d8e86bb6fe18d40d3e/rick_db-0.9.2-py3-none-any.whl#sha256=7c858ffb00d5d4a1b088461cd500cab47120dd21b3c7e279e29b11cf34bca945" data-requires-python="&gt;=3.7" >rick_db-0.9.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/8d/23/62f9f87ab9ae2a20a0227d74d58d4e1736fc47a4a28c4f0267d2abe54790/rick-db-0.9.3.tar.gz#sha256=c539f78f937ee726e5219baa77eace39c19c3504d5023dc1511451470de1b69c" data-requires-python="&gt;=3.7" >rick-db-0.9.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/cd/98/a1432316c0bd6d200eb29dbc2adc8247ac7419e67ddb428431bed9eef498/rick-db-0.9.4.tar.gz#sha256=c3ba17503450b442d07e4dbb1043a7764fb305f3f53f847072f68e6b7a46ceb2" data-requires-python="&gt;=3.7" >rick-db-0.9.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/11/82/ecea21c02398d221e026d66b87eef60356ecb1e3fe448eb6a149368f6b81/rick_db-0.9.4-py3-none-any.whl#sha256=e10f0fc1d2c9c2f4f7abaa9e7b3c38d0c6ef3154e4fe443defe342db763168d9" data-requires-python="&gt;=3.7" >rick_db-0.9.4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/12/d7/4c342486c35172db92be265f0b2d7a5cd55f16251cd006f87b6cae3b0e7b/rick-db-1.0.0.tar.gz#sha256=b4b86f8ad634ba0c5a3a027bd8666a3e12f48efc1081eb98cfe4d71238b9c9b5" data-requires-python="&gt;=3.7" >rick-db-1.0.0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/23/13/578647e20840b336588662180d88813698f625381c0ee3a62edc5b869d84/rick_db-1.0.0-py3-none-any.whl#sha256=fa30702349712c7fb159d89e813bbbdf4f5a43534204bfc3535b67cd17b9aed8" data-requires-python="&gt;=3.7" >rick_db-1.0.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/b0/73/be3b45fcf1218a1a94987dda3e7a0f880ab1e75533f49d2c7ad01167aa5e/rick-db-1.0.1.tar.gz#sha256=70e0d4ba386ee273d8e839a6e2916620f5a492259aa105534540e8028c6b02d1" data-requires-python="&gt;=3.7" >rick-db-1.0.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/1c/e2/724626ed5b8d441a80b09d9423843a1d90f47c45550f0e291d0f4798db67/rick_db-1.0.1--py3-none-any.whl#sha256=a1b08801981fbdcea5109b806e33f532e9c759becdf7e36885c60047b01c8240" data-requires-python="&gt;=3.7" >rick_db-1.0.1--py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/0d/45/3cf427c040f5c001039603c0261edd56bb37eb60cd5c0bf47dbfb2532959/rick-db-1.0.2.tar.gz#sha256=dd69ea52c420fb867df2414de0096b7633c725f3b65ab4ca61676f886fc87576" data-requires-python="&gt;=3.7" >rick-db-1.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/ed/7b/1657c5a086c4eca99a80be7af32cf6b5b487ca3d54727f7ba2619c725e99/rick-db-1.0.3.tar.gz#sha256=5f2efd3228f4ff14fc42994776c093a299ea7e64991c1f008c6515d340ffc859" data-requires-python="&gt;=3.8" >rick-db-1.0.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a1/8b/112a3e54dfa9a48e38b2e1c98130905f51880b04e1ee52b9749d7b470a80/rick-db-1.0.4.tar.gz#sha256=7d59094f4af29ad800de16c9d1372a8fbbbfefe503ba2c1c280d09268af523a6" data-requires-python="&gt;=3.8" >rick-db-1.0.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/9e/23/5e5bc8d3ae0743d98d7aa46499fbee34c0e05f6cdec1f1028276e50e24e0/rick-db-1.0.5.tar.gz#sha256=81de0d69044e9e334510debf8c4776222d85f67e7dac5f9b54e88aed6fa2f472" data-requires-python="&gt;=3.8" >rick-db-1.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/42/d5/260a8ef9c6f83f4fff54c002a2f89e766b2ee7ec8169ff9897f9b8fa1163/rick-db-1.0.6.tar.gz#sha256=066ed734470467d985acb02d14f06471a450b9f040b0f1ced8bb4492dc8209bc" data-requires-python="&gt;=3.8" >rick-db-1.0.6.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/0b/46/be615b2b82c93b5461a0bcd39ed7e20ac90900f9ca5905e7fefa8e7a6156/rick-db-1.0.7.tar.gz#sha256=9eaaf93d1d520496afc3e01770e4d77fa4b3fcf7677306438cb53bfddadb0ca4" data-requires-python="&gt;=3.8" >rick-db-1.0.7.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/65/a2/db13c2041d003e418d629750442cd4d9a403bedef5b1711a5b5e5426c416/rick-db-1.0.8.tar.gz#sha256=88eaaf9a6fa53cf1ff06f9d62812d75b8debf7de1f069eb2f65bf97389ae6b03" data-requires-python="&gt;=3.8" >rick-db-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/e2/8a43e4f0bbfa4069c3343acba5847dc1894e1456a4d6ad06114beb035316/rick-db-1.0.9.tar.gz#sha256=a8d9fa4cf29fbc61f04b2fc81c569e9ddbfa42f93ff0642a1a50aad54012ef52" data-requires-python="&gt;=3.7" >rick-db-1.0.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16023456-->
+<!--SERIAL 17047904-->

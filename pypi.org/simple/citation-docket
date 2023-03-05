@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for citation-docket</title>
   </head>
   <body>
@@ -28,6 +28,22 @@
     <a href="https://files.pythonhosted.org/packages/a4/91/273b04fbce93ea6cb3831e79f42e107df70064cf6f79c9a4559f20479db8/citation_docket-0.0.11.tar.gz#sha256=ab01f104a534e4c7c1128085d7d0c2dec11f164b45e20e520db1dce078b48dc7" data-requires-python="&gt;=3.10,&lt;4.0" >citation_docket-0.0.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/db/ea/21b81bf9a77ca10d5e71b78d1ae100218226c44c33a2d2d07a4f7a2cb8cc/citation_docket-0.0.12-py3-none-any.whl#sha256=e4ad356fb5d8c19a87ab61ec7a2231a32735f964345c714fe69906b10c6c7c2c" data-requires-python="==3.11.0" >citation_docket-0.0.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/00/3c0332425687b5ccd322ffec3606753949cf7b2facaed04bcda8e7e52cfb/citation_docket-0.0.12.tar.gz#sha256=8363017a706fce43ace4da02485a9221d9e666cb01acc2ce7cd0cd8f69d26d01" data-requires-python="==3.11.0" >citation_docket-0.0.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/fa/030c8fcefc8fa9b7478a6ab86e91568eac2e983f57e84f82a176a75ee059/citation_docket-0.0.13-py3-none-any.whl#sha256=801817fcf850a1e63ad74a89a7fd909c03b072c23408f7be66b7d358dce4b35d" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/ba/158d3607a245531909012007d35d78a5d6171a097de80d69ff3f79cf131a/citation_docket-0.0.13.tar.gz#sha256=53eaf18e05bfe110ae7c576b45e62fb333bbdb4b43ebaec03a0190fed561cd24" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/98/8e99a0880bb85d1be85dd2b5e6191c8da91f60faecc85775327d0dd3ae26/citation_docket-0.0.14-py3-none-any.whl#sha256=182f4d33ccb112b9343f722e7caa4529057bf3a8693c4cb78e70791450f4da01" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/aa/ad1be7de855f0c92a47197907740533b0da0585b9e5a749712e76c81b9fe/citation_docket-0.0.14.tar.gz#sha256=02231ba3a1188f858a2d08b0d75529f2a1d855f6936ff9d3e47f56fc7f6435f3" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/6c/20d768994290d7392d9920f451d4d7687d93c67757ac9c0253a63a4960f2/citation_docket-0.0.15-py3-none-any.whl#sha256=77645aa8ed218f5d33537a0ea3fd49ed7942bf9c2764a9f4c3186142c304cbf0" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/c5/bbef5799965e09da381cc908b6f546c75fc816134e419b15bf431400ea6a/citation_docket-0.0.15.tar.gz#sha256=cd564ba0aa60a4aa0667eda08b8f0ac57a032816b8fd9037d918fd668674bee9" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/36/04c5e112c3173692e4791714b647e52fe74c32ddbb94413f1d33d2d60ae3/citation_docket-0.0.16-py3-none-any.whl#sha256=7b729d886603409af50409cf43582efd1c069fda91e2d6abe0028185f480017c" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/c6/d26352c83c9c14a09f50fb0ee2769bf28aefc43124e7083c1caf9c7e50b6/citation_docket-0.0.16.tar.gz#sha256=b818159176325def8086706145535d77c1e5538a63cdebb0828105a71d3dd6fd" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/ef/67f4be9c82097764bbc5a9de6ad702e91e2e348c0589d4f3f011597aef92/citation_docket-0.0.18-py3-none-any.whl#sha256=3a69e5491039b96598b2bae036015e05f4e4650e8c4de6ab0d3c220496f93740" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/26/7b36db174f29067e24280e0a5461b5626d8c0c8ffe406e73617b1e27c87f/citation_docket-0.0.18.tar.gz#sha256=1928d94adb314059d3d784a03ebb7612df1ab2887dbe046b0e1872a05a58edc4" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.0.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/80/ec4f08a552e101c5ab038a0961dac9379cd36f52e1e58e84a5bb4bdb9f3d/citation_docket-0.1.0-py3-none-any.whl#sha256=ad9cb0210221accbbceab845a4257b53031c680d5ea84a89c7c83a52f5a41b74" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/f3/e84a30e953e6332377e8ad72f428ccef70248291d7addb26d45ab08173d6/citation_docket-0.1.0.tar.gz#sha256=fd4a640d89bbac893cd79a7ffd6293dc58085d382490a7cbbe16eb233b9742e9" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/e5/27304debe36260f069fd5fc9b918087c2e591857673d381bb93908111c13/citation_docket-0.1.1-py3-none-any.whl#sha256=7426359c0482377120f98306cae311e0c72cddf106ea3fdac84effea671b203b" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/b5/12c3612041be6fced3eda0090dcfca5c2d063bc32f6153c1aa38f3f76de5/citation_docket-0.1.1.tar.gz#sha256=e4c2da7b4ca852117826fd1d5fe1849c832ad7b55218546cd6bc53f1fd9f4b17" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/1b/8b3c2894929281f0867d234bdf132b865613db8df31dd52a47d3626b770e/citation_docket-0.1.2-py3-none-any.whl#sha256=d46a29f8011034522883d4ce29c7051c957107fe7a7e6bd00ef0e256fae4c070" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/e7/c4a2789c29bf02324e64a469af189782f5fec7bd5a0d753ceb43afb22735/citation_docket-0.1.2.tar.gz#sha256=6ad10411409aabce08a5fe6de3ab9f123464ea1099d897739699654c614fccd8" data-requires-python="&gt;=3.11,&lt;4.0" >citation_docket-0.1.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16255245-->
+<!--SERIAL 17024711-->

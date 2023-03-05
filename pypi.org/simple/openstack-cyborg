@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for openstack-cyborg</title>
   </head>
   <body>
@@ -51,6 +51,8 @@
     <a href="https://files.pythonhosted.org/packages/00/49/1ec0c88036e7912aeee5df69ed68b95860fd3151e21624285f021e138418/openstack_cyborg-7.0.0.0rc1-py3-none-any.whl#sha256=42a610f8f4816c31d7cb69f3043605d246bb7792040365ed7e9ba1a9116b729c" data-requires-python="&gt;=3.6" >openstack_cyborg-7.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/fb/380628f237d4b91e2ada3787b4b71b2d0bc5bc2662bdaa44f15d0a068a0c/openstack-cyborg-7.0.0.tar.gz#sha256=15fa80162008401e8bfb56574b0941f3ed809a981327daf7bff31c38784db53e" data-requires-python="&gt;=3.6" >openstack-cyborg-7.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/4c/4f04df63f63f8f6bb72d14a1fcd232d7947f4e982715cccdd684503a3449/openstack_cyborg-7.0.0-py3-none-any.whl#sha256=8887fca71841aa7b63e0180f333481436e9e3976eab30ccac44d82ef19deafb7" data-requires-python="&gt;=3.6" >openstack_cyborg-7.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/dd/405292e88230c2f6a98e980de2012c4cada5106a0b10dd6da0c2b7321d53/openstack-cyborg-7.0.1.tar.gz#sha256=b7e5f05028fc53225b30a7e4c8d8d29b88f40a502056f0819d22efd0305d75de" data-requires-python="&gt;=3.6" >openstack-cyborg-7.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/5a/f9648e8e69e87b28ade6fc66d852fb8dfd64128d7e3f77d7b644beff7a69/openstack_cyborg-7.0.1-py3-none-any.whl#sha256=4a31fa97f5d044bb658911388cb1ba569acf0566a3122a7b4ef43bdef70f5d38" data-requires-python="&gt;=3.6" >openstack_cyborg-7.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ee/b0/f154ff2fbb4c29b83c0e85959d5f8a2f6a00f920e15f1609940b076cb3dd/openstack-cyborg-8.0.0.0rc1.tar.gz#sha256=acd8a7b666cd40f68ba5bd9b2fd40879ec9f21e668d05d8051c8216ee7e47a06" data-requires-python="&gt;=3.6" >openstack-cyborg-8.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b7/c2/b94c071a1d95875cc2d9e65231f2b345df54f548f160681ca7124053a8bb/openstack_cyborg-8.0.0.0rc1-py3-none-any.whl#sha256=ec389a30e7a7cfa68f3567e2e32a904c777fedbfea7dacbefc004f7b7083b685" data-requires-python="&gt;=3.6" >openstack_cyborg-8.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/15/cfe7b49f4eb050776d148b28d25075b925d2d28214fffa3e7913297c5eb9/openstack-cyborg-8.0.0.tar.gz#sha256=27236549ca4f6cbb97e0716dac132c834728549be95416836ef4cc64158802d8" data-requires-python="&gt;=3.6" >openstack-cyborg-8.0.0.tar.gz</a><br />
@@ -59,6 +61,8 @@
     <a href="https://files.pythonhosted.org/packages/de/ba/8e0c9a0c35823b7e6f858063731bf97812d37f3d6d185f5cd479302536f8/openstack_cyborg-9.0.0.0rc1-py3-none-any.whl#sha256=5db49e2f70c576ce92fecd9acaa1385f33dbac808025f2922a5026c47eef6553" data-requires-python="&gt;=3.8" >openstack_cyborg-9.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/af/c8/6c14732bc663c8f5a16ab07bf18b6f50c7aaaf289c18c7556b459a9cc4fa/openstack-cyborg-9.0.0.tar.gz#sha256=2a48d0d37a931db88de7698859c8f648d2ee910b67ef605d40ef48f9b04d3057" data-requires-python="&gt;=3.8" >openstack-cyborg-9.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/7b/ee/36160bd869cfe0ec7010711591be224261b0c75a5879723de2686b9fabf6/openstack_cyborg-9.0.0-py3-none-any.whl#sha256=9bae3e251e0c80d696af3acc399c9a34424c89185bd4d1469a358d727c37993b" data-requires-python="&gt;=3.8" >openstack_cyborg-9.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/23/5d2760a18fefe1b781c4efe78ca2d21e4fbe6648861f9c7d499efcb5f25c/openstack-cyborg-10.0.0.0rc1.tar.gz#sha256=b20f973e1f26a8f376771bd2fa1b582927d0a5aa2e5415349f0363e99c7e54b8" data-requires-python="&gt;=3.8" >openstack-cyborg-10.0.0.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/ce/28562f0a8917ca47f58dec3ce5c1e2c271870188635cf28b874a910ab188/openstack_cyborg-10.0.0.0rc1-py3-none-any.whl#sha256=b0f9c39b9a6fda93e85920f55c69b6965a7b39120be01b9acab5b0d342e57d58" data-requires-python="&gt;=3.8" >openstack_cyborg-10.0.0.0rc1-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15311645-->
+<!--SERIAL 17095945-->

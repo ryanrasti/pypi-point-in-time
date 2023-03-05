@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for portmgr</title>
   </head>
   <body>
@@ -77,6 +77,21 @@
     <a href="https://files.pythonhosted.org/packages/1e/8f/b5508ce5297bfbcf8aab9c2ee2e960178acb6ed11b7e07708dd603648e8e/portmgr-1.5.1.dev0.tar.gz#sha256=6ee06743c91df390012b02cd9786ed85f9a888007717438adfa520b3ab1de22a" >portmgr-1.5.1.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/55/6125fd91fcc701ab584354111b75b36f582c1636ea70c2d4d871992947ac/portmgr-1.5.2.dev0.tar.gz#sha256=127149fc6782c1441f1dde78c02151cbd6dbd9e3794f3224a8dc096d92748a6f" >portmgr-1.5.2.dev0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/72/af/91110e557da12db0b0f3faf8932414e90070927b67bc7b314ca08bbd1e14/portmgr-1.5.2.dev1.tar.gz#sha256=d7c8e9138f726760f6510af2661a3a29394c2a3ea7644f11b760bad8cd154e21" >portmgr-1.5.2.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/e1/2261d380d2c1863c5b3ad64c5810b979171a97907553e7aa941f57621767/portmgr-1.6.0.dev1.tar.gz#sha256=9edeb7bb56c7e3cfb870aed2d77756a167cf0256a1027cba4695f7ba60d7bb2a" >portmgr-1.6.0.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/b1/f6775779b5ea631fefe0bf9763e3042a6420be5fd04ffeff39aebec12b3d/portmgr-1.6.0.dev2.tar.gz#sha256=13a1d1f832932b2196ab1976d3d45229b69f11445d9f8f9a73c71ae861323147" >portmgr-1.6.0.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/15/7b7a4c959c0366d7bf58016763f6a7c802035aa5e60067977746217ad409/portmgr-1.6.0.dev3.tar.gz#sha256=9b410fa2924ee03aab536cbf597124546fc33bec7960be54066ad5c187ee0291" >portmgr-1.6.0.dev3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/fd/8835d584d31d453a6f83fd40d6b56d3c22f5c430bbced84a06ff985d39aa/portmgr-1.6.0.dev4.tar.gz#sha256=8575846537e9dc1c53b68499a88e894e59ad749e3ee441547c463a60efd9de86" >portmgr-1.6.0.dev4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/09/f0408e99d01cfc17dc43a940ca8f6a0d24e932d14bbd4c6729f8b8537afd/portmgr-1.6.0.dev5.tar.gz#sha256=3fdfd7faa6b3c1efaa4198071a84c6f05d5e811491d167c9e1d415cbd2a08bba" >portmgr-1.6.0.dev5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/3c/6d7b7889b59f232fd2d8b31f085d99ef69dc785d3de29698a9ca68d608f5/portmgr-1.6.0.dev6.tar.gz#sha256=45aa50ee1915edd0988096eb1ba1a1902e9651d36dbc0d66ca4fcc886b297b9f" >portmgr-1.6.0.dev6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/39/b5710259deede4c928eac4ec73b1afad4316db5dea3e59c964de202e69df/portmgr-1.6.0.dev7.tar.gz#sha256=766aa5b9233978c346dcc4b7777cbd854a4b93ba53ebbe3a499258392be10202" >portmgr-1.6.0.dev7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/14/1a854a56ba324b915b4de0559402a80bc924be29f5f982fecdf703315cfa/portmgr-1.6.0.dev8.tar.gz#sha256=7719eda96175f504477d38ee871c5009cca3c5b4fdb3da368f5b07fdcbc9e0e4" >portmgr-1.6.0.dev8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/85/91e440e7b4a4532199b330358b36f8c3d256434b1d72c5d73ffc0d96cb5e/portmgr-1.6.0.dev9.tar.gz#sha256=ed8161e964c5035d38f92146b65716ba36290d402846468e9606b775ecceba9a" >portmgr-1.6.0.dev9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/91/aff548e9861b76be70d73f0d0210aa7d480df3b2d5f493aa6d30a1465047/portmgr-1.6.0.dev10.tar.gz#sha256=02471bf81bebc333ffff1cfba604ecd238b3833ff458c7527dcae62a7c68e6fe" >portmgr-1.6.0.dev10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/20/6992121041a598a730806f615cfc413bd7b3288fe86e50726d5e5980d2c9/portmgr-1.6.0.dev11.tar.gz#sha256=40462fe154f3ffd6a99d652179396d17b4aeab291360c8b5ec1a6bbe56d08052" >portmgr-1.6.0.dev11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/79/2e3204a13629e5eb9a0bd4991d30bb8a11101640f870f9575f18a80a1c3d/portmgr-1.6.0.dev12.tar.gz#sha256=fa87780269c0c323c07da61b95518dc7602f3131e42fac1b5b416e3aca5ee278" >portmgr-1.6.0.dev12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/ab/0075dfb85694227366be596fdf195553c3dd77ccee5034e549228f78f463/portmgr-1.6.0.dev13.tar.gz#sha256=fbd59d8f6adbef8bef901c726dc3ed122161a359abde421657a488d4b784e9cf" >portmgr-1.6.0.dev13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/59/fb9f8c985d3a428bdd1493cf8424024d99554704ceac1f8a137136ba0d70/portmgr-1.6.0.dev14.tar.gz#sha256=748eb7b6234192716d065adb828ca6704e90e12441dd2671fd1319630cae3c7c" >portmgr-1.6.0.dev14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/28/867706d01cc225a69ce4831740476a00aded3bd9fa649f109360bcfef2ca/portmgr-1.6.0.tar.gz#sha256=f614750ea14631fd041b8ace5ca218273cee8f39141ebc94ea9abb1139b87625" >portmgr-1.6.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16084687-->
+<!--SERIAL 16982646-->

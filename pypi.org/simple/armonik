@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for armonik</title>
   </head>
   <body>
@@ -46,6 +46,16 @@
     <a href="https://files.pythonhosted.org/packages/f6/bd/55945d5eff947464bd11b43d9553335b388de9b5a4dcf6c63fd319ef4394/armonik-3.2.0.tar.gz#sha256=566e169e79880038bdf23b34f5883df6dc34935fea3c81f777f14d5704da0ec4" data-requires-python="&gt;=3.7" >armonik-3.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/30/94/b96ba5b17304b736b777ad678861cfef6affd4ab6f311913209c6beb472b/armonik-3.2.1-py3-none-any.whl#sha256=5f9af099d444a3a33055b80bbff99c133e5caf7a78f90a4f36b429ea2111aa6b" data-requires-python="&gt;=3.7" >armonik-3.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/d4/32ba84f501512a25e3ef825919f070df699f8a1fcb847abb4f3d25ed8807/armonik-3.2.1.tar.gz#sha256=2ee8005057c1fb008e60e5dc5c85ce07e6b398e420343b310e3f97b335fd3028" data-requires-python="&gt;=3.7" >armonik-3.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/d5/5a3259a138b232bd83b6bd5dd383df3c8488b4fef248a00230dc76ab53be/armonik-3.3.0-py3-none-any.whl#sha256=b38d227b1460f5d67ddea96abac1413b2260e2961504c4a44111c6de52f68cf5" data-requires-python="&gt;=3.7" >armonik-3.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/7d/076e7496b9bc82fac2deccb3cc7dfa24f3589c6f128583631e88c55c0f56/armonik-3.3.0.tar.gz#sha256=69ec4cbaf8780b01b7e7f6fb2a4ed1bc985d3fbb868e3a3b936ede53205c7f0e" data-requires-python="&gt;=3.7" >armonik-3.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/cd/ab3fdfc4cfcede78c6ca1e2e672a181ebe62992c7f2fabeb133feaf686b0/armonik-3.4.0-py3-none-any.whl#sha256=72058b7ffa33275704a78f93969ba543063b2cd1838463b969c9c5f0df1be421" data-requires-python="&gt;=3.7" >armonik-3.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/67/2ced9970f3962b816c24f566760f82bb6a2704a10a92593d48158b494c1c/armonik-3.4.0.tar.gz#sha256=8053bc4871ac5facc86d176985ecc0b33743ab46349496d85d844153912f7d90" data-requires-python="&gt;=3.7" >armonik-3.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/13/eb7d85d9ae552c1a4e31ee62a32061fd47daffb2465d4c1929af2b1fced8/armonik-3.5.0-py3-none-any.whl#sha256=3ab458d6f5bd4faa21c87792621838e37abc083dfe6333d870567a47dbee5354" data-requires-python="&gt;=3.7" >armonik-3.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/78/b108f12bc1555863dab47aa04d2573168c0518e1ce7d3ee33929b1a9eea8/armonik-3.5.0.tar.gz#sha256=9c487348db29534d3e2a679af3da7dd68ea75c6d10da20253a026a6c22b1e946" data-requires-python="&gt;=3.7" >armonik-3.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/2e/d7a4098bf61994b063645fc0ce255a8b61a4097243ef1aad579852bb3287/armonik-3.5.1-py3-none-any.whl#sha256=402e6687df9c1c57e722c90556fa63afd4eb8d82b65862eb2ef71ce21e91a969" data-requires-python="&gt;=3.7" >armonik-3.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/c2/b63b4f64c28784dbbd4878048f5c42792b732b1d92684ca2db967fb35f4a/armonik-3.5.1.tar.gz#sha256=4b420136638d17d5aba867e184ff406d225b5682f6858e0df6ad0a1b37bbef8e" data-requires-python="&gt;=3.7" >armonik-3.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/b3/10af67b4f857bf93f95a05e15d4fdf11d3e39c301671466dd630b8a69c26/armonik-3.5.2-py3-none-any.whl#sha256=2d54076816139fb8a4e7d072fbe0c63a8f3668b0730fb392cff9934e79165ba3" data-requires-python="&gt;=3.7" >armonik-3.5.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/d0/2572a6bc2b41346bc99887b4aa10dcdbbba6a4ba46fec6864bd431d321ba/armonik-3.5.2.tar.gz#sha256=19999ee9397c7220de80b3ff9baf0386f6f8e1da08db363dc48af52386d59553" data-requires-python="&gt;=3.7" >armonik-3.5.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16111754-->
+<!--SERIAL 16990472-->

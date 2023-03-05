@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pybritive</title>
   </head>
   <body>
@@ -42,6 +42,24 @@
     <a href="https://files.pythonhosted.org/packages/a3/45/be1ed13b519782c3171bacfb9bad5173b3367e1b194fd309d2d290776d4f/pybritive-0.9.1.tar.gz#sha256=e77e9c00965909828802d8a416b2b92639d1098966ae0215ebe6a16b98a976c7" data-requires-python="&gt;=3.7" >pybritive-0.9.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9b/47/c20559a156db81c5671e8f0f3aa81aca4f8fd941cb61ede303ee4329648c/pybritive-0.9.2-py3-none-any.whl#sha256=7d923ef3269b74adad247c4458c506e41bd7b0c88370f8b24de397746698b198" data-requires-python="&gt;=3.7" >pybritive-0.9.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d0/eb/d34ec70cc8fbf18b90a7cee3015693d29e81e4f46cff58a198c1fe44767e/pybritive-0.9.2.tar.gz#sha256=133b1ee9631b159399288df6343fa248ffe5e1bf7389b716572f251a466e0810" data-requires-python="&gt;=3.7" >pybritive-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/c8/bd31dd01948f7267cd5d0e9157315b64f3bf1a211a92b83ac10483b0ddd5/pybritive-0.10.0-py3-none-any.whl#sha256=cbd14e2ef0a47837f96ebb087649a27e899214e9e656be05f264e69580814d5c" data-requires-python="&gt;=3.7" >pybritive-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/b4/4bcddeb145f1f1563597b66a567df71b119ade114b6a79f22de27da65c99/pybritive-0.10.0.tar.gz#sha256=3bf4d2146a87f3e24cc183c88ec802fddf1d78df41c7b44d3c1ca51f350b34db" data-requires-python="&gt;=3.7" >pybritive-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/df/9386c802fa48cacbbf837399cc2b443178f332f14c59e54f4b5d79730e78/pybritive-0.10.1-py3-none-any.whl#sha256=e410c54a68f368ee74f0b037ab18d9fa0eba657493744db0f85538af61d4870a" data-requires-python="&gt;=3.7" >pybritive-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/6b/452f43fa55ec810b7782c9860069fd7204e83d0214f420e0629150a737f0/pybritive-0.10.1.tar.gz#sha256=85e9f6cc6618fdf979f7a289905a9f9d04e0f97d0ec59798e235769b4af07caf" data-requires-python="&gt;=3.7" >pybritive-0.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/f3/2c36d4aeae6fbc5ccd581fae5c509bcdb8c75c58df2c09a5b5b5cfacb9af/pybritive-0.10.2-py3-none-any.whl#sha256=a9ee5c08c2f6ee1bc36d0c6315fd1fc74f8b56ee387f0037fd61cddd3601197c" data-requires-python="&gt;=3.7" >pybritive-0.10.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/ca/eaeb800eb00887b8edd62bdf25c2ada4210c41833139b9e47aba402186a4/pybritive-0.10.2.tar.gz#sha256=3320100af7a552d73c7ad9d8784e075711bbb7f7c8b2ab9654468639b47688e7" data-requires-python="&gt;=3.7" >pybritive-0.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/39/05/9ae7a1cf36c7e38e0595aa778006c2cbd01f10c12fd1c6ca3dd8ee9299ec/pybritive-0.11.0-py3-none-any.whl#sha256=27725728b7a7092e8585226fdb92d8257c9beb91c8ca5fa0d65151b04c4367e3" data-requires-python="&gt;=3.7" >pybritive-0.11.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/1d/ed5b3432b5682113072e2a75f0cfa5ff79d45f3e9121813415e9362fa853/pybritive-0.11.0.tar.gz#sha256=e748c91cda16bd2b5bf00b20d5e53688f9c17a038596d228371414fc961d0f13" data-requires-python="&gt;=3.7" >pybritive-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/ae/504eeb0acac8c8ec51fb6ddda604f48061c878fe838db82003a58aca4455/pybritive-0.11.1-py3-none-any.whl#sha256=490a8b142fd5bcd5c31f1919c7021e5b0353f686c68c9ab722d9f160d1e60b00" data-requires-python="&gt;=3.7" >pybritive-0.11.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/6b/3f0c85ca2215cd009671f3960f0769efe1bd3eb39c05ef164355ab2beefb/pybritive-0.11.1.tar.gz#sha256=5c91c41ee0636be7191eba2b9e4769ba4c9f6e0dd01bb6b15ebd14fd169f28d6" data-requires-python="&gt;=3.7" >pybritive-0.11.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/f4/b69d209f3e60d12179a1877c755a2eaaa1f8e6f383b0ba315f9a8f629d7a/pybritive-1.0.0-py3-none-any.whl#sha256=3385ddd8b756d60e22e4d2b1ec6f7df0f20fe577c2593ce4dcf250a1a6e6dcfd" data-requires-python="&gt;=3.7" >pybritive-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/87/a01b6be7bfc93a8e9cac62ad1014b82a47a90bb91e9ca7e534efa65432b4/pybritive-1.0.0.tar.gz#sha256=a5d0240e151ff82111f7507dcb7532b8b94b02fff6163331e5d4ec32c10814c1" data-requires-python="&gt;=3.7" >pybritive-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/34/55830f67f86eb404bd37e540e6a2975240d7dc2b481abf3ee34d0917be17/pybritive-1.1.0-py3-none-any.whl#sha256=fd2cda6428381e3580599cb3d295000625496e0d37392646d687968abb503169" data-requires-python="&gt;=3.7" >pybritive-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/e2/dd272374d9c2af1ad2beba79fe9d124474eb09a3d6d219c46075491e8edb/pybritive-1.1.0.tar.gz#sha256=62fb24d8cc61c89671f227f436f21dbac65fa50d30f33b86bc6d56079fc1d3fd" data-requires-python="&gt;=3.7" >pybritive-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/f1/bc299398815a41e274364ef3537bafb30c4d8dd618dcd9d87bf8a5801b5a/pybritive-1.1.1-py3-none-any.whl#sha256=3c8dcb5ed6961400635e854eff4f930940296bbe37b92f8b24075cc20a21a498" data-requires-python="&gt;=3.7" >pybritive-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/24/f0555f6ed2619f72137cf41ce814894bc85b2b2ba573f536f2c927194379/pybritive-1.1.1.tar.gz#sha256=6ef6bc8c4f9a12d9640039928bc3a0e6e69ce9964b7d484a480891bf77be99e7" data-requires-python="&gt;=3.7" >pybritive-1.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/61/c097b0e1c631d7a7cfc01e997671ebd9446ea6988443ce231d3ad94b20b2/pybritive-1.2.0-py3-none-any.whl#sha256=d791e9d898c57d13a55d8bdac864d1474e4fb579b4fddee045a525f7cc1e6bcc" data-requires-python="&gt;=3.7" >pybritive-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/2f/dc6d7d8d7bcd6c92a9a4e7381dff5f26007c11b25d401423a3a83a718061/pybritive-1.2.0.tar.gz#sha256=45b7897bb0d39e6d73d066547b9f5eadc3fdf2d2011ab0a66df70fd54c037b57" data-requires-python="&gt;=3.7" >pybritive-1.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16394204-->
+<!--SERIAL 17146285-->

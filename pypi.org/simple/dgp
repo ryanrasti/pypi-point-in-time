@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dgp</title>
   </head>
   <body>
@@ -180,6 +180,20 @@
     <a href="https://files.pythonhosted.org/packages/ef/f9/f2781360345601e3ef9b950f5084ee44bbb57aa9e738027a9663cccc6b04/dgp-0.0.96.tar.gz#sha256=cb57e8427a8c81f6b44d4676f421b96c239b06094472743c39dd3839f2b50492" >dgp-0.0.96.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/cc/3c9d8329b4662d9edc7837e3253632332cd7655a3db3b99440cbe1b12176/dgp-0.0.97-py2.py3-none-any.whl#sha256=568ec47bd9d88d02a41b80bb679bf33a1913f7978c3270a20204863fb30294af" >dgp-0.0.97-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3c/9c/464ec1f3a5631822d0eb01f837961641942675e6e2e206c851eb0a5013d0/dgp-0.0.97.tar.gz#sha256=7b53f8952a37ef15c8f8bdfb1e2ac78796da926c822eb593fefd720fd98641fa" >dgp-0.0.97.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/db/b8/7c6786ad82bb1889060ee7ed15e971dfbc0c90f6c248de46e51f469f373c/dgp-0.0.98-py2.py3-none-any.whl#sha256=e09ad26486d5fe9dea906767fd25f186e8377e5f6bf18f98e27a3faf38cc5f7b" >dgp-0.0.98-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/af/32a6b1fea2397587c45a01e0611211b8799862f943bc0d97b3bddb4ab3b9/dgp-0.0.98.tar.gz#sha256=b2646ab5088f2ff8dad58a43a1b970cd4a7e90e6c6b4c1d0365b4f8ba0865d9d" >dgp-0.0.98.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/d9/f36e463ac9d32119fa3e656abaf3361e8179d422cecf811e7c2d8e337097/dgp-0.0.99-py2.py3-none-any.whl#sha256=76c81681b8e0a16e72a7f91d9ed264bdcbd19c17948e99c02a7d1a2cfb4b90b9" >dgp-0.0.99-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/6e/6b7fd787c1b5bd6bb8a214dda3b68f24b8f03be4010339a87d4feb58337a/dgp-0.0.99.tar.gz#sha256=714ec93ec0a0a36e367d8c8c7fde0c3c98ca296b6700ab09ab05d8755d83d76a" >dgp-0.0.99.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/04/d36373cddba592d4249b2e603ee5725cbafbe6f8e965af7bcbab5437b440/dgp-0.0.100-py2.py3-none-any.whl#sha256=bf7e774dc69f55f363688cb2194b51ff4d4f336d7159cad5e361f862d74fd10d" >dgp-0.0.100-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/bf/83669ba7670d23dcbb2fa8633b6d5c1b7a2e0d2750af4792073e5919c505/dgp-0.0.100.tar.gz#sha256=3d22f1f67cddb0f15e452abf6298242593d54f4741e1d532a383b668a9004059" >dgp-0.0.100.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/78/96/e72d0dff98588dc63ad8e8407b0a3b8fb613517aa7316c0f3cd9c6cb3cdf/dgp-0.0.101-py2.py3-none-any.whl#sha256=d84ce529419489138d7588985a1c290f91cd15ba693bd112ec1c3ba03017ee3e" >dgp-0.0.101-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/b7/f4b33042d28930e6d50f45504601e3166589f101e1219b1117f8e94ea5d5/dgp-0.0.101.tar.gz#sha256=2209ec9b101fa8f111c5fef668d268e34d98326722be63c4a6c1c3607228c2a0" >dgp-0.0.101.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/41/8d3e646c36caca183109b1f020728195c6fa0aac9a00bea23e14194bdb99/dgp-0.0.102-py2.py3-none-any.whl#sha256=57db4136f3919e894b92c469b2192a21b22b2aa210994868d86fef4f9a3bdc7a" >dgp-0.0.102-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/bc/9054df4e976597d1d7d1ec0d81e682f486122f9d85a50d0c4aa10113c7e1/dgp-0.0.102.tar.gz#sha256=b52eea1b315d9b6f70dd1fe5de822dd8fa9fea4bf5d789558ee2682211966d12" >dgp-0.0.102.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/55/8276cdd18786e4813f22ea8f14574ba552e7fa997f4c96d3be932e260f9e/dgp-0.0.103-py2.py3-none-any.whl#sha256=84df83ab4a32bf7cb8e7f2206184f41fc17e748a8815339a4b7dcb58da0776c9" >dgp-0.0.103-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/94/901fcbdb23ba58aef6f22fa8047d91a074184d863f6127a41ecc1cdca755/dgp-0.0.103.tar.gz#sha256=51f776df14c4f1fad1d681015be980e8b3cbcb7a3693c030f540a5cd3d1c01d2" >dgp-0.0.103.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/2d/0dbc24bbcf2a6ef78d1d39d009b37a6ddfc3e996802e91d861e7ebb68ab5/dgp-0.0.104-py2.py3-none-any.whl#sha256=c5416fc73bec2d92926e8484a147158a6416da52628eb75619ba5ec99330640e" >dgp-0.0.104-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/84/bb18be2c7ab8b0864dee362981c6ab0db427728e9d7c34d9b46ead2439ab/dgp-0.0.104.tar.gz#sha256=6f3d4299812355ebb269292b744e5e211a1c1f1ad0df770109d9230108ac9418" >dgp-0.0.104.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15145790-->
+<!--SERIAL 16962095-->

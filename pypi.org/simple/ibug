@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for ibug</title>
   </head>
   <body>
@@ -68,6 +68,21 @@
     <a href="https://files.pythonhosted.org/packages/34/57/c493e97c803efc65b1763691f6238e38df5471d87c2a777115964fc83fa5/ibug-0.0.7-cp39-cp39-win32.whl#sha256=fe3887c2439e79aa2eaf874cd9eee166626eb5d5b4db1d747591d7f8604f0142" data-requires-python="&gt;=3.9" >ibug-0.0.7-cp39-cp39-win32.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e4/8f/c7f9c057a1fffc1c6b59ee60db95e343309c1c1b86fe16100fa856674f6d/ibug-0.0.7-cp39-cp39-win_amd64.whl#sha256=2e777dbae871c02c568f59fd7c1da811e0d012db659e609589de76bcaa329257" data-requires-python="&gt;=3.9" >ibug-0.0.7-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/ec/04a491e0f1fd28223ee33f4ce8265d2062b45c4828f95bd03e790eb9bf5f/ibug-0.0.7.tar.gz#sha256=59ff3730fe53561aab5d99092ab8d857d1e70c8789af62c8459ccdc5cc3c38fc" data-requires-python="&gt;=3.9" >ibug-0.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/f6/c3cbe1a33ceb82ee7d4e4cc1c307286ebf470be757604805a26228864348/ibug-0.0.9-cp310-cp310-macosx_10_9_x86_64.whl#sha256=2b76ddcb095cefcde1e11b2f59eabf48613f1443fc0cd8c69b82a5decdc5c1e5" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/66/c04255da95fd16c1530fa3e3607059baf72e776a44eba9438729a7064bf5/ibug-0.0.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7960e4dbb89514e19e485178f31f57a927f64336aa76e98fcda5b8b9d2e00b46" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/22/c8c33567c05b6b64a8e718b8c4f2e7d7240f8327834c77a53b2c6328a592/ibug-0.0.9-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl#sha256=cc757028b7236fdf95feedc66d7943988adedfa104d59c39df4ed5fd89fd37d5" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/68/8ca5be4ee1cd4cb208505efc3f0d43eb27a6988e802ba22b7bcd24e60b88/ibug-0.0.9-cp310-cp310-musllinux_1_1_i686.whl#sha256=65403944fd768dd039dc1601387fab2d240c2cc7e0e96b1d54d38f21b59b6263" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-musllinux_1_1_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/cf/96e56be835aa4051c325ea4cce0c8afa713c322b36ff26900625b1a62bae/ibug-0.0.9-cp310-cp310-musllinux_1_1_x86_64.whl#sha256=cf9017e1a1c88ad8a0e46cd7e0f6c3c83724fe4415b36d9861365b484e5468d4" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/92/b37e0afe8a5d83777626e980909d82a0fd4fcdaa1a674ea88b3df1b8c35f/ibug-0.0.9-cp310-cp310-win32.whl#sha256=80b5990ced3b5c80bbd2d941783e08d1c474ad4d821ac46ca705325cfe1db6f5" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/89/3302cb9b13c49e544b47fcb3f601c46dcc88a3f4a3d81a0edf58fbed9a61/ibug-0.0.9-cp310-cp310-win_amd64.whl#sha256=3e17b6d21b62f92533ff697234dbe8f2f8b37e6b01206b0ee41952a282fa5745" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/ca/884e2d5c24005b606664407876dd1d9061882a0d48cc6fc0078c552e3b45/ibug-0.0.9-cp39-cp39-macosx_10_9_x86_64.whl#sha256=4f02ca887d02c954466d978ef75f3de612d3cea7c3105804a2a2cf1819ee6350" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/73/6646512b1516cb5ba0113a13c6baf6d99b059be29fe7cd1aa47cbaed839f/ibug-0.0.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4011ae6ce48510cc5c7f59696788fbbe5b4b7d3b938784856f1be3d40d40d4df" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/bb/5616052acfff8fb6ebf904edaf6b6af209f0eb2e273d784105f16c1edfe6/ibug-0.0.9-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl#sha256=92ed1a5e2b899b6a1f88edda5df20291244cce84ad12b170ccabb6dd386311c7" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/32/cba474e9c1711dd57933386f20b62faf287272184c8eb646a6bc9007a7dc/ibug-0.0.9-cp39-cp39-musllinux_1_1_i686.whl#sha256=8a45a364fb789d0fc601a37d010a64a9b02810f622ba9fbaf28dc830e2b5301d" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-musllinux_1_1_i686.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/a4/9da57294aa36cd91dbcbd1060f7702910921cd8186424b1ed40fc161ee85/ibug-0.0.9-cp39-cp39-musllinux_1_1_x86_64.whl#sha256=a18478f4bcbd6d86f16da19429b744ae5dca2bd1b2652fefa03ef9c49c1028d4" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-musllinux_1_1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/6c/df9666ed0afa831a219565b1876f4f967fb7b6d37dcc4c0ceb15bdf2312b/ibug-0.0.9-cp39-cp39-win32.whl#sha256=eb12c4e63e4e836e3f6d0a9037f9a12027ba755c4fa37e65a576182ee3d13f2c" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-win32.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/56/edb91d647293a056fe809ae72235cdffc3731d4d87e03a12618ed0e40764/ibug-0.0.9-cp39-cp39-win_amd64.whl#sha256=3ee6c8e483e41af73ec5905fb8a8894ff2a72388d2e381d9394d52c0b35d12ef" data-requires-python="&gt;=3.9" >ibug-0.0.9-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/62/4b3cf381c61d4b70959d7b398373818999e30aad599a9de67ccab4c3a1c8/ibug-0.0.9.tar.gz#sha256=a4fa8300efcacc9aae990d02cd19025e5e52cef9b98f6ded8839f086caa3e703" data-requires-python="&gt;=3.9" >ibug-0.0.9.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15694630-->
+<!--SERIAL 16638321-->

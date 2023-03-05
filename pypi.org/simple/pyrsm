@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyrsm</title>
   </head>
   <body>
@@ -89,6 +89,34 @@
     <a href="https://files.pythonhosted.org/packages/a6/b5/47bf45f896227e712ea81c5e563ad7efe6d66a81a73c69d3b13af5d0ec5d/pyrsm-0.6.1.tar.gz#sha256=3d2fa852907b03c615a9883bd8e772e56ad631c3b9387026e5ed9906bddffb5a" >pyrsm-0.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bc/e1/e7d439273f6002d6fc0e4c8781cbb43e281e9c6228679fc5085661120111/pyrsm-0.6.2-py3-none-any.whl#sha256=5cc17f6846ca86bc6368fb437a026359ee84d97706bcdbe77663ec99eeced231" >pyrsm-0.6.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ed/99/e43eebc3965e0c323a9f5cd29d5a0655642724159b0186c016f00386f1cd/pyrsm-0.6.2.tar.gz#sha256=356fb4ed117dbe4c05b7edcef7ff78b4a5cde96082cfcdc61f7ec389f3bdf032" >pyrsm-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/1c/9cf290e33b9bc1f24a6630c86f1d15e0c6b28aa458d03808c4ccc2debbbf/pyrsm-0.6.3-py3-none-any.whl#sha256=f33068a40ab84f573ac733d87febcd9e554aafb158537ee3778b076b5e85c1df" >pyrsm-0.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/b1/a0b11742f62641ead3cf08cb4f280c162fee024d130080ef09f87435c1f0/pyrsm-0.6.3.tar.gz#sha256=fb9bd79e708b24933a68c0a337ce52fd9e294f4bcc8d5fa032f27b2ef0aa355a" >pyrsm-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/24/c3f8c12e9bf103706eceb7493f4781016377a524ef79640069e488171bed/pyrsm-0.6.4-py3-none-any.whl#sha256=f3113f05377b18a1bf2fbb34a61e5573c2c3eda7d0da62925b00053d5f056a94" >pyrsm-0.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/94/b23a1fac8b002fc6e76f35dc9a29df3e32d223bfc2d8a96a20cb3789c036/pyrsm-0.6.4.tar.gz#sha256=1f30b375415ae74764fed46b30018857ab5bc2953b51e79905365509e3f34af3" >pyrsm-0.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/24/403a35bde6e2982e70cfece52fb385cf11c153e592fc8631b5046f3ad790/pyrsm-0.6.5-py3-none-any.whl#sha256=4a3155a69a7e17a5176770e12960533c1a68a3885c00bb48390a9843ff7be060" >pyrsm-0.6.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/71/9c039084771cf397f19b1efa18a555448215d0991027c9dbf9e8e987b8fa/pyrsm-0.6.5.tar.gz#sha256=a2b5fe8ce8c69002e970dc594e8678412e7be944b297326406cf34bf74d76c7b" >pyrsm-0.6.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/df/68147ad62ee675a844441affed15e0f20f9f0904f882cce50abd13e160a7/pyrsm-0.6.6-py3-none-any.whl#sha256=d82dec877bdfc6c570674757c69918f27adc136f386d0d3f9994ffaccad7ab24" >pyrsm-0.6.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/e4/3b9d27f2dd6a4487cdb2583d3d5f2879d49b61d2789b3b8ab497c8af61b6/pyrsm-0.6.6.tar.gz#sha256=8645930b0812291f925214e4d3d5e34f9ff9d89fb6998a5f45ff1a6f17e418b8" >pyrsm-0.6.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/f4/61502b9e414cfb8755377c5b520dec602293488378c6f1f8790355a0b497/pyrsm-0.6.7-py3-none-any.whl#sha256=18a933a63d4c1b76156e4ccd52d86822b7519282eeab8a16acef1edbe8a34583" >pyrsm-0.6.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/4d/c5b4a7bd0768153b3f72d99e58241fc5fc04ec4826efa162f1f66fd141b5/pyrsm-0.6.7.tar.gz#sha256=e29128ad2861546ab8a83e3233a7f775da0746ea7c24bc3dbc46c278cdf11589" >pyrsm-0.6.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/d7/59d1b093877496ba84ab9b87616aca1cddcb06db1a3b51ea5f6afebea31f/pyrsm-0.6.8-py3-none-any.whl#sha256=8a000a57b19850cec04e7cf968c5de0388a7a8edd3da23c9e94ffa30d1709b69" >pyrsm-0.6.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/2b/2a8582edb0f915006c91f5af40ff9d6fdb6e65826dbcc42a90537994577a/pyrsm-0.6.8.tar.gz#sha256=3f47101e42b5ba23c9c71a8b4cf187803668679ae141054c92d9ff7073f8947d" >pyrsm-0.6.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/44/77c9b3bfb2efb1d21e67bd0278e0b18e93a23034c9279b2e4d499d582895/pyrsm-0.6.9-py3-none-any.whl#sha256=7d88da4fc79ee37c790fab444de7aec5fd876f93cb741f48ee3e4eb2e4575544" >pyrsm-0.6.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/b3/fce93afe3c1b81e102446948bb7e10c24fd3a14a0e88d2dd47ea27d15f7c/pyrsm-0.6.9.tar.gz#sha256=4a2dc3c5444ea4c4972e129faef0457361a607b961b78fd3b7a59e576a9322e4" >pyrsm-0.6.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/0d/23846ff54ea103002a3aa0e92871143105fafdb2c73e6aa89d90e5339769/pyrsm-0.7.0-py3-none-any.whl#sha256=e8eac9df463cc55fb0e1fb40660fc0a41499e7b2ee5db755331cf8263e0eb7d7" >pyrsm-0.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/0a/62535983b5b1169e6f2ad91f387e95dae0a3efb3a59f62c8063833f4cf6b/pyrsm-0.7.0.tar.gz#sha256=7dbcf9f033060d11129371e8dfec070dc8ea7a527a717bb454b0864024f7eaa3" >pyrsm-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/52/adb3823a29dcd908e4917fe48105f7d0b6d8c34b4c002f70e3c0ccc9fa00/pyrsm-0.7.1-py3-none-any.whl#sha256=1e907d79c891df38847a75a9f2e877e05daecaa4812aa49f519e1a75b727d1a0" >pyrsm-0.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/99/078bac2c8094c1224ff4216ce431731ce7d354d5794a0b62dadc9f23c27b/pyrsm-0.7.1.tar.gz#sha256=a50e0b12a5b96524928a28b25d953c26bd49796ec89d78d5a103e5cfd8cc653b" >pyrsm-0.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/04/1c756830824164241749a4152752f64792b4f19b0292773eff6f0f9b27f0/pyrsm-0.7.2-py3-none-any.whl#sha256=d91649571a33c34c2e84b1dc26116fbe7c09c5537e5e6d556bc0b1ba8c4db094" >pyrsm-0.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/22/bca1cadefa5c2ecd6d50346ca8d98e02bfe9acd1023e848ac36bd94fdac1/pyrsm-0.7.2.tar.gz#sha256=fccb3517c44bc6b21f8a324091bfc238823ff066229e2010b5c4964ba73980d9" >pyrsm-0.7.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/66/d5810cf272407f3ca8d82bc6977670b02d3b812f46a83c2ff7f84191c008/pyrsm-0.7.3-py3-none-any.whl#sha256=0c323de912bd63ba8faa7527a2b1749ee9ee1e941ee1f63aa3c14398390449ea" >pyrsm-0.7.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/23/f64d9bc5b4245b2ddb74cb54fbecdbf1934b67e4415065f7a9f7f62549cd/pyrsm-0.7.3.tar.gz#sha256=6ca2792aefba4cd19820600fdbf7ce0ee2bbeec97b122127ad8eb38773062f61" >pyrsm-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/b0/9201286d8de71737ebf92116965e45810537c6c44445abc9e13eef875b9b/pyrsm-0.7.4-py3-none-any.whl#sha256=f4e49789b837dc7b0edf13c451941ed27d9fbed5773eab7bcb49a8303479c6b2" >pyrsm-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/41/e018ebb25be107203aafa3339a0a6615f31824eca128cd3546295cca7845/pyrsm-0.7.4.tar.gz#sha256=274f3e66f8db5bb81d65a24c18a4fbf3f221f7191affd7e4106758fe46e46fbf" >pyrsm-0.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/34/f41f5b1931aa22986ccae2f366a5a3cd497ba3d46948ad51904f29a2ea4b/pyrsm-0.7.5-py3-none-any.whl#sha256=0b91c83c03018f4c0efd5e12f67ab66815165ff7f5a22a69f4205d49bc243631" >pyrsm-0.7.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/32/b1215146f033b08944001865b9f1906225e5a12d48c78052f569389dec4a/pyrsm-0.7.5.tar.gz#sha256=465d25dafe039ba7ad174e82c9b5f07b270d8221406cdfb7e26847478ef5371e" >pyrsm-0.7.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/1b/d1643c90a46f9e04176b98bb91f5c9cd358d7afaafacb88c303be61d507e/pyrsm-0.7.6-py3-none-any.whl#sha256=f2ebccdb75601f58e7be3b1d6b64376f71cf569f62b14b775d1a71e4c46c115d" >pyrsm-0.7.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/0f/b3dbed032049b8c2d08e284a69cead20df748c24433cb9fc322ffb9fff4d/pyrsm-0.7.6.tar.gz#sha256=d177266206f718511ad54df0a1005271317c493966e3591d7f0a50f934f3969f" >pyrsm-0.7.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16321006-->
+<!--SERIAL 17134918-->

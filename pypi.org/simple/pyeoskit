@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyeoskit</title>
   </head>
   <body>
@@ -193,6 +193,19 @@
     <a href="https://files.pythonhosted.org/packages/ec/a0/538cb731777430bdd9ccf1464cadef0bb7108288e548bd1d75b9d9d5397c/pyeoskit-1.1.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=8d09c91c6001614c16847e838a3d90cd21e514a21d4599f3006989f6cc4db53a" >pyeoskit-1.1.9-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/61/dc/6921e207183db3d800195334c528ebdf9d9854b3d237dca189d8d6cf7471/pyeoskit-1.1.9-cp39-cp39-win_amd64.whl#sha256=bb3bdf11d8a32582026f587704b824681458aedcd1b83ab3b96fbb8ed09f2be3" >pyeoskit-1.1.9-cp39-cp39-win_amd64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6b/1e/2fe633902034492b98f138d927e4781f3c01d598930c4bbd6fd3355edeb5/pyeoskit-1.1.9.tar.gz#sha256=8408270505b2ff7975dc675d5f0ac4ba08dc0469a0c88fd4198923eea09947b3" >pyeoskit-1.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/e9/5c23196e285d0532d0b8faab0cbabe11768ec72faaaae3756befab6e8b41/pyeoskit-1.1.10-cp310-cp310-macosx_10_15_x86_64.whl#sha256=da2f8a630972895356d0b0b6732001416140b2a2241c517710000cbfd8f57289" >pyeoskit-1.1.10-cp310-cp310-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/91/0e777a2301aca4a257954bcdaf3b8048d232f908596ce9d8d668ef720db1/pyeoskit-1.1.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=70961a3e71dbfd9339c024f63d574ebde90c80e87f425716c6bf386ef63bda12" >pyeoskit-1.1.10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/d6/c98ae17139144941af3436bd8dd9570bfea5e3d7bbcc6fbce73aae3b20e5/pyeoskit-1.1.10-cp310-cp310-win_amd64.whl#sha256=ddb4a712f56c3b1e6ef91194416852576fb4ca0d6f513c712573eca07e85ebf3" >pyeoskit-1.1.10-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/80/4b/3171b3f79da94cd47356edf7b65ccb35fbc5f73635af4d263e8dab401e90/pyeoskit-1.1.10-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=8f5ff7224eb15164ab10027fd2d852989fc2fb1f9044a136e310531514e8cdcf" >pyeoskit-1.1.10-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/f5/0793ab083df70e36a64209557c550f425df043a4934131bb0443efa8db96/pyeoskit-1.1.10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ca927d75e9944d149a67c196be71281a690f823c9cf9f649791e033a4e561921" >pyeoskit-1.1.10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/2a/11323534d67a1f6da207f1283cb06b08753eaaa600b6134777c184dafc54/pyeoskit-1.1.10-cp37-cp37m-win_amd64.whl#sha256=5f3fba2e3f7e19b09469e84eccfab3e2e9d7bc1741d2415264b21365d26bbe47" >pyeoskit-1.1.10-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/1c/32c1575b82629a8192c4c82f1b92930d3fcf9de2381959e8c08d9cc97e7c/pyeoskit-1.1.10-cp38-cp38-macosx_10_15_x86_64.whl#sha256=bfe62eaf1e4c88c52fdcf0009679ca7364ff1be2a14000d3355b64ad67a06a09" >pyeoskit-1.1.10-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/b6/e846aa03f239943581519caf576c9a6725ac8d13bd126e4c81663bcfab54/pyeoskit-1.1.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fd9105e8fb336aca3cd6ef3d2fd749b80b8906417f412782f39980e6b7df3611" >pyeoskit-1.1.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/87/1763836777450d5ed859179e849d73fff854256c4a45faeaa7836fb6dbbb/pyeoskit-1.1.10-cp38-cp38-win_amd64.whl#sha256=a744c44b27a5e9ab3ec61766f08081dad9542abe554e4cd959bc66d156d5ff5e" >pyeoskit-1.1.10-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/23/c1/4f8e35c84118f1020325a2a8189f8f4a18c97393f53b76148e54ab69d9cb/pyeoskit-1.1.10-cp39-cp39-macosx_10_15_x86_64.whl#sha256=746ecf6d9828b20d2f539f69dce8c3ca81f32d4cf0c0b1992bb35537b1e87231" >pyeoskit-1.1.10-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/57/29fe92f4c4fc623d6533e93721fdafc864456e016fec75e9527691e04e0e/pyeoskit-1.1.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e4a7a5db3fe48e378affece84df84086ab452abf8db349d1935e57d746e94eb3" >pyeoskit-1.1.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/7c/73bf7cb186758072306e401b941a6c12e6d32c1471e66e8048538180f643/pyeoskit-1.1.10-cp39-cp39-win_amd64.whl#sha256=88a6079fcdaa00af547dcfd12b30a25596b72f2abba9d4dfa4aa67f1e41aeb3a" >pyeoskit-1.1.10-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/7b/5601249b8f4ee422d6b231fcf403fbdb5bd756d6d9dde49bde282a879063/pyeoskit-1.1.10.tar.gz#sha256=70cf24333c1432428416eaf97ac0dc3be6273bc13ad3f194c111b70757a6bde6" >pyeoskit-1.1.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14089515-->
+<!--SERIAL 16599683-->

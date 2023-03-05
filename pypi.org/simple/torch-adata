@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for torch-adata</title>
   </head>
   <body>
@@ -22,14 +22,8 @@
     <a href="https://files.pythonhosted.org/packages/2a/51/4fa0d221a01e3cf0a90352adf7dbe71ef90b1ae9ffd5734643c3a4f039e4/torch_adata-0.0.15-py3-none-any.whl#sha256=d199aba02122e179e20b249d32dd1bac6a4ecf3a073e75c0166bb6fb1c4dafb2" data-requires-python="&gt;3.6.0" >torch_adata-0.0.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/0c/c7/4a831463a1dfb1356449a4f12fb94e0e32dd9c2a86ecfe9c51e2c8774919/torch-adata-0.0.16.tar.gz#sha256=8f22fc2d8a501eb8d91f267209468c5944174c88152fd6fc6cef7184ad13f585" data-requires-python="&gt;3.6.0" >torch-adata-0.0.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/9e/5b/73bde7557d3449660a91e50f8533fbbde01429fa064818412c612dd85f7d/torch_adata-0.0.16-py3-none-any.whl#sha256=7a413d2864ce766790ee02b946f56a1cfd2e7ad72e6530176c59ad636d5a2ad9" data-requires-python="&gt;3.6.0" >torch_adata-0.0.16-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ce/62/284d21172a2c529ec577a2b60d06138c1da8db752b790b4aba1248aeec9a/torch-adata-0.0.17rc0.tar.gz#sha256=a254b64e33519a5cb4650c0af30fd8a9843f4f26a23106fd433c35daeaaa90f8" data-requires-python="&gt;3.6.0" >torch-adata-0.0.17rc0.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/0d/ed/78c9afb1f2c0b4f9ad39d9e95e471a9ee66da8c42c958d107168fe0a1b80/torch_adata-0.0.17rc0-py3-none-any.whl#sha256=0a256b93f80638cbb97f14704e6fd86af8111204d98d974ea5d45b87513e4360" data-requires-python="&gt;3.6.0" >torch_adata-0.0.17rc0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/42/61/960b46337fe15f5d47cbce17160b8f96ed62d4e0e947d688108a07c5603d/torch-adata-0.0.17rc2.tar.gz#sha256=2c1a7bdbace588c4a256fd5b3e77b6d6c41c050220ce2cd4493938a60d2674eb" data-requires-python="&gt;3.6.0" >torch-adata-0.0.17rc2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/7b/c1/7dbe1030b0c302049fe9818e8bb9ffabeee34b17646ef335e2cc9895a7b7/torch_adata-0.0.17rc2-py3-none-any.whl#sha256=f48b1c126d65748a73d69747a71e169bf352626cc712d5a457e9ded45d4f506e" data-requires-python="&gt;3.6.0" >torch_adata-0.0.17rc2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/2a/a4/c8cc51f973533b1fd223e7848c60c424a13a2158ac494a468658d9bb1961/torch-adata-0.0.17rc3.tar.gz#sha256=eb322a88aa47b18d09cda5818fd45e0699f99e99dd2cd94196acc5ab8d11b25d" data-requires-python="&gt;3.6.0" >torch-adata-0.0.17rc3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/c1/e7/a92a5ba7c8d3fec919ac4f7731f93c84614b699f8e5102e31d126179aefd/torch_adata-0.0.17rc3-py3-none-any.whl#sha256=7845b4f42a3744357b634200118ea986fdab1040118a015502348e2718b79d0b" data-requires-python="&gt;3.6.0" >torch_adata-0.0.17rc3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/b5/f7/7fcabcfb0dcfd8a66a9b7f3cf1a5f07332ef3f99806402fa2a6ff7a81a40/torch-adata-0.0.17rc4.tar.gz#sha256=15b168492d8f026314b7e15bd0f90d13f3b661a9b113ea2b7b00303faa56a4c4" data-requires-python="&gt;3.6.0" >torch-adata-0.0.17rc4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/f7/4c/c59e6ad45e860a65391f6f759bebdf64e2fde808442527d87e1852808e83/torch_adata-0.0.17rc4-py3-none-any.whl#sha256=5f16ba202bf42212822c25492e40abacb34bb2634b438f30f7800572edc49ffd" data-requires-python="&gt;3.6.0" >torch_adata-0.0.17rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/e9/ec440a4e39d787779fe5a1fad50778c94bee1c2ed0d745ebcbe44be8de44/torch-adata-0.0.20.tar.gz#sha256=59dc56fef3ca26d0eb876895b7463f14d6fb01b32cd87d671ef3d87a28234e52" data-requires-python="&gt;3.7.0" >torch-adata-0.0.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/97/d30d1e874cd845ac99c19ff513ba070e7bce7a1117901aea182ae2e93440/torch_adata-0.0.20-py3-none-any.whl#sha256=2b40ecafecfb959d273544f05e6b35a79801f1c4796534b91b53e7462ed84346" data-requires-python="&gt;3.7.0" >torch_adata-0.0.20-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16157732-->
+<!--SERIAL 16735127-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sparseml-nightly</title>
   </head>
   <body>
@@ -30,6 +30,17 @@
     <a href="https://files.pythonhosted.org/packages/72/9b/e8fac2b82e24e7aa2a43d22e496e3b233d96d37d3e0108037320bbb453e9/sparseml_nightly-1.3.0.20221216-py3-none-any.whl#sha256=15b55f28720bd2f6ee84e684c09b189e7ba3ee66f0edddeb9c83b99dcd9ad5da" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.3.0.20221216-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3e/01/5f205aac06d48c65967d0acd6419d940d61f4f8c711728e322ad42693bcc/sparseml_nightly-1.4.0.20221230-py3-none-any.whl#sha256=8fd6ade225a9e3bdb5c2afcee93f9179060b53dcbd3865f3718866d272e74aac" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20221230-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/53/50/77ffc3c6dfbc5d9a114451c42bfa34bd36b35d870ff460d44cb688f5829b/sparseml_nightly-1.4.0.20230105-py3-none-any.whl#sha256=f72dea0def69cec23bb8f4b47ed196094416611b45813d5346a595896b3d3cf7" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230105-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/55/05f2ca41d0c275932cfd2b563d4841820b27355a101c80b875698910eecb/sparseml_nightly-1.4.0.20230114-py3-none-any.whl#sha256=841ea86aa5a449ba830532ccf2e620f375296a0f5c91187c83446cf2de3c1884" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230114-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/c8/d67f0d26ed9c47315571c2aea16ebb0b25c22f540a3e772e133244edfd4c/sparseml_nightly-1.4.0.20230117-py3-none-any.whl#sha256=1b312e8a774c2bc30b7eec42fc473fc5f341523dd3b07291584c7dff710a7740" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230117-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/85/2d7450694e11dc5aa6a8bb3a866b27fa10b1e9fc58710917369de710d435/sparseml_nightly-1.4.0.20230120-py3-none-any.whl#sha256=edee7c4e314fb2d032943279815bbe2a99586d80323b202076ed20b373b34a47" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230120-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4f/9e/f210d53bec1fb30cde95f68950bbb6cf8fd619b69ca15dbe105e00ef86d3/sparseml_nightly-1.4.0.20230124-py3-none-any.whl#sha256=1eb1501f0b58a2967b57eedcb2b7a866998b0f281cebb7c871b7eb759eac8735" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230124-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/eb/6f7423e2ccfabeed8e935876d15f351c8312cc90cf3657fad633ceba9062/sparseml_nightly-1.4.0.20230202-py3-none-any.whl#sha256=f2cb8a900b38154f3bb942903a6917f95a88b0cfbd4abfc909eeeac2d2d99b0e" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230202-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6d/3e/256363faa240655678084a1751f832797d785101c3bf367b5ddc7e1fb3ca/sparseml_nightly-1.4.0.20230208-py3-none-any.whl#sha256=097eef661cd006215234f548994e63f5ca9d47c19dc083d92b32c41c54b156dd" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230208-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/04/9f8a0be2163afee73f62375c5e6297da6b2d5d6c70f10f23fe1dcf5362c8/sparseml_nightly-1.4.0.20230210-py3-none-any.whl#sha256=81da6ec7033f1a0e56cbb11f99804a1de4629b2d39154524fe2093a4e4e4d97e" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.4.0.20230210-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/46/f0/bdf74b0830eb01325e482e930fa1ec4a6d9a23418131d09e0224f17442e6/sparseml_nightly-1.5.0.20230216-py3-none-any.whl#sha256=6495da7546ca45529dab7b859b910023189ce317523eef8346f890d2594c2c75" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.5.0.20230216-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/a4/c36514c21e34676f66a18031c524a80329f45f85f5e06c61c27a1021607a/sparseml_nightly-1.5.0.20230224-py3-none-any.whl#sha256=67129f6a972bbbf4bdd12081b13e0a3af97db1bc31d37c8df7dae92cf95ccf97" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.5.0.20230224-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/9f/08a6c95bbd867559971e0a469e9a57fa285954aa3f6335fb5caa7d795635/sparseml_nightly-1.5.0.20230228-py3-none-any.whl#sha256=c09386b18e0616416499f1b23d0d2e80fddf0e1d64e7f83c0f4e77bb0aa57157" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.5.0.20230228-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/77/6c35e4accf0aea6fa9a5757daf7fe06e0e0532500b6296e4a2a77a33a6f1/sparseml_nightly-1.5.0.20230301-py3-none-any.whl#sha256=04185c6c9be861bffa8ee41f2b6ab14b7709fca7a511430f1fad7bcf65d8afdf" data-requires-python="&gt;=3.7.0,&lt;3.11" >sparseml_nightly-1.5.0.20230301-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16321297-->
+<!--SERIAL 17122858-->

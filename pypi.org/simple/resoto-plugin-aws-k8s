@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for resoto-plugin-aws-k8s</title>
   </head>
   <body>
@@ -30,6 +30,22 @@
     <a href="https://files.pythonhosted.org/packages/f3/33/cb1feb281c125806221ed6050080806269e71caabd987f6a965145a4ec49/resoto_plugin_aws_k8s-3.0.2-py3-none-any.whl#sha256=351e2253b75c10aa0f189355053dd266659349ae2288acd687234ae78b3dc75b" >resoto_plugin_aws_k8s-3.0.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5d/59/226c1552fddc198f2d4b5ed6bdee0ef0e3893499fc7d9f2282cf7fd02271/resoto-plugin-aws-k8s-3.0.3.tar.gz#sha256=0975b4d325d913d694f36a5c8e24e5386628bdb9be41543d1734d62a02f8898e" >resoto-plugin-aws-k8s-3.0.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/98/d2af84cf12ba44ddb24645089a1ce05bb458179071ed18261f9c70185cfc/resoto_plugin_aws_k8s-3.0.3-py3-none-any.whl#sha256=74d458a898df2b3dcc6c3b63e33443e93b971d992e0a84926f914a818a0a82fb" >resoto_plugin_aws_k8s-3.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/a7/49d18bc03e1537b2c0bbae43ba48ce8f19fda58c44ebc4b6ef12f0f46fe7/resoto-plugin-aws-k8s-3.0.4.tar.gz#sha256=a8666dc9b2cadf3691c429b44183f784b36b7d42b41f300c75cb682024682d8c" >resoto-plugin-aws-k8s-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/68/0d53e6c594cf27bcbfabd210af4e874df8742c6f6ae7febc647678a6b0a2/resoto_plugin_aws_k8s-3.0.4-py3-none-any.whl#sha256=f95608872d734db5a65ad57b391ab8968e3288dd82dc55c09054857c192ecb8e" >resoto_plugin_aws_k8s-3.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/2d/1e41af9846a9f93cbacaff4c57d624ec5a8e3f5e9ea00f4f0d3ba28e4f39/resoto-plugin-aws-k8s-3.1.0.tar.gz#sha256=af64b699dfb7634630edc1384d5ecdc203e3d40cdb789f7c74901c9432d89d1a" >resoto-plugin-aws-k8s-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/96/31d51a6e2590421784727a80dc533e5816451a87342dc7ffe52f33546d00/resoto_plugin_aws_k8s-3.1.0-py3-none-any.whl#sha256=fe5c7ad4af82406bad0bd48895b02983ffe1fe720f09da4939cf7043838492f8" >resoto_plugin_aws_k8s-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/24/85b2e0d9620346bbdb8b58e8089d86051f889df63bd6e08cacb4adb4fd36/resoto-plugin-aws-k8s-3.2.0.tar.gz#sha256=009a059f06eed391852355cb4302bd48860aeacd4ab01ae5d722e96f7678379f" >resoto-plugin-aws-k8s-3.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/b0/e7fb53a509903140ae43661fc8d0ce7f1bf718bb420e72e904aff40eee6f/resoto_plugin_aws_k8s-3.2.0-py3-none-any.whl#sha256=e974983043fa0b0d8ab7407b8e2dd104814a506e6aace465b8fef519d65ca1c7" >resoto_plugin_aws_k8s-3.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/dc/1fe3bd84216867425a1307977eded4b6e90c4a169d97f5584ee61afe4b86/resoto-plugin-aws-k8s-3.2.1.tar.gz#sha256=719859888add3d6b45c3cdcb21b76263fb76efa5e08ed5cba36ac833ca2e9308" >resoto-plugin-aws-k8s-3.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/98/964b29fe77d3c3971f5ecbed710482672b626d2d26f4fd193c78e3aeb3f5/resoto_plugin_aws_k8s-3.2.1-py3-none-any.whl#sha256=05ff71317b49db235e311aef03c26129e877e81341066fdabeb37a0b283f284e" >resoto_plugin_aws_k8s-3.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/9a/dd503474476b3f23c72034114bd00a6515ca44660fc42b574d0f1e36efd9/resoto-plugin-aws-k8s-3.2.2.tar.gz#sha256=b056fcbc6bd8ad41561832ca1200e2d214a085ee9d20b90e65e8f14c9d6c44e9" >resoto-plugin-aws-k8s-3.2.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/5e/55dbff4567965790a9315555950be6e0a4ccf08c7c66dae9ff6117cc9e68/resoto_plugin_aws_k8s-3.2.2-py3-none-any.whl#sha256=4e5fc53194a045fb46f384e1a5c022edc6bf6c0e8dedf6367d5709e579443554" >resoto_plugin_aws_k8s-3.2.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/35/bc5a28b51ccf6ef751abea338519c4b1b873bc6a3a3247b588e2999dba66/resoto-plugin-aws-k8s-3.2.3.tar.gz#sha256=49af9d50493e37606f7c6192c82b140f02b9112921bf8548df7552efc02af490" >resoto-plugin-aws-k8s-3.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ee/68bf951abe3d3b42adb660482901dea34e58dee7d71e8f37f34b59ed2064/resoto_plugin_aws_k8s-3.2.3-py3-none-any.whl#sha256=86c8ab9984d6107199128494366c792ab5622c57ea75c8a95cbcf60dda78c3ac" >resoto_plugin_aws_k8s-3.2.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/5f/f938a575fdc4e625fe00111766aaf247876b9dcbe7360e0c6d4e828490b6/resoto-plugin-aws-k8s-3.2.4.tar.gz#sha256=d5d99bd3f2127fc6d2d52e5031bfd9dff59441acf4b1bc3f548b11b266aaa88b" >resoto-plugin-aws-k8s-3.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/bc/e46e2c857bdccde775246bac61d136d23ff3fb6df10781d93e2dceaa7316/resoto_plugin_aws_k8s-3.2.4-py3-none-any.whl#sha256=2edd0979b089181783539c21521075437a59a9467d8525b3cd50cdb6e42d7d32" >resoto_plugin_aws_k8s-3.2.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/58/327b5745e87657aec0a0f1db08cbf43cc1f223f42c5371ae8b93d725da14/resoto-plugin-aws-k8s-3.2.5.tar.gz#sha256=d76de1b15945476dd71b0f1d1c451381cc377e12e156c5cee826408e9a22d391" >resoto-plugin-aws-k8s-3.2.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d2/27/9caafef93494cddb010c36e4528a414793e383f0a0f7cc419cc6e820719a/resoto_plugin_aws_k8s-3.2.5-py3-none-any.whl#sha256=8d26010b3e811df6ec0c1dc62109c264ce5425d282b75f35854802ddad070a6b" >resoto_plugin_aws_k8s-3.2.5-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16229846-->
+<!--SERIAL 17146919-->

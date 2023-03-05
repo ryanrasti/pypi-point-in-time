@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for censius</title>
   </head>
   <body>
@@ -33,7 +33,11 @@
     <a href="https://files.pythonhosted.org/packages/4c/8a/99ed052f42cd946a81615f8b7b1b41ed58409eb36af779faf60cbab687b3/censius-1.5.9.tar.gz#sha256=39d6f78d0929c7d9ba0aa1ab1ae3f925009641c97c6e6a23a7409c31fe3d4fd0" data-yanked="upgrading to 1.6.0" >censius-1.5.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/be/26cd7af5c2ac51d2bff297e65e49502e4ed5c5e7ff6f480d40365974edea/censius-1.6.0.tar.gz#sha256=a5db5d8d4bd4d49e1d4ef8669cf0878675a26aa6af55b633e8067282aa3c9b58" data-yanked="upgrade to 1.6.1" >censius-1.6.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/15/550cfc33ae943397afb1df01c079598b0bbe9e37d85e36b3098bed8d5498/censius-1.6.1.tar.gz#sha256=2952d17568a318c188667c2ca152ba9cddb52f438404ab61b1b69354a477e542" data-yanked="upgrade version" >censius-1.6.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/70/9d/f21a21d4c3ada36aabe3d101981c3bdb3fdb0db18c2cfd1651150ca1bc34/censius-1.6.2.tar.gz#sha256=4652e0cec7caaf0de66d8fc0bb4da2ebff31f3ba42d704c1b04e2b8f4e02a7f1" >censius-1.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/9d/f21a21d4c3ada36aabe3d101981c3bdb3fdb0db18c2cfd1651150ca1bc34/censius-1.6.2.tar.gz#sha256=4652e0cec7caaf0de66d8fc0bb4da2ebff31f3ba42d704c1b04e2b8f4e02a7f1" data-yanked="release new version" >censius-1.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/59/a6854f5cb602b059d89712ee0254e6deb1012a679995ad712f33473b593a/censius-1.6.3.tar.gz#sha256=c85c4f64892674cd7a81297bd87b8707a294a1dd87dd2786c361bed0d9483809" data-yanked="upgrade" >censius-1.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/b1/9f731912f3d184e7cbe39d80f5405161f491506f5c63f38f0ec95c42a983/censius-1.6.6.tar.gz#sha256=5197551d4f6122d3c56ce78b43075f2721125291bc96d5b83d6f12c6cdc19dc7" >censius-1.6.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/e8/ee637cd3960036481b10c29aae36d3c3298a064bff16ac209085a3be2b36/censius-1.6.7.tar.gz#sha256=4d5d5fa19bf00420ad8cb196e4247971bce191c47c2543a3bc7009c97f5903ff" >censius-1.6.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/a6/a60a81492d57c77834d223ca70a2a263622f3e1a1a3e3726278238ecdd71/censius-1.6.8.tar.gz#sha256=78c58f74fca1eacf0d09b3825e3ab078298d7f5d83a91eb878af78be91817db1" >censius-1.6.8.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16285691-->
+<!--SERIAL 17068403-->

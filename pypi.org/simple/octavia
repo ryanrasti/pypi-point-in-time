@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for octavia</title>
   </head>
   <body>
@@ -172,6 +172,8 @@
     <a href="https://files.pythonhosted.org/packages/ee/26/fb0b29649816252b98e87f97eb895c3ff4b5980f239e9dc97a2b3558e33c/octavia-9.0.0.tar.gz#sha256=d3cd416d69c1ddd3ffd77d2f053c40452d4d36bb500131f885ff52f17dc3f17c" data-requires-python="&gt;=3.6" >octavia-9.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/9e/65b9a2dc6b8b86cad69a906c5a5a0df737bfa00497710a8430d82184ee91/octavia-9.0.1-py3-none-any.whl#sha256=298db5974c53e33b049d5633479963fea7943431a2c5a5ca9eaa7300459a5161" data-requires-python="&gt;=3.6" >octavia-9.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/3f/98e77591c6e4db1d7b7fc30698a13e5394f4f6564cdd87e9702a7f95a7fb/octavia-9.0.1.tar.gz#sha256=1ea0a1bd4538bdb53c1c419969b962790587ece66d6a64d7a88e5f19f6a816c8" data-requires-python="&gt;=3.6" >octavia-9.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/54/c1/41d8fc78caacd18e67319329f3ff24e7ec4479882d5a105be8ed4a33cfa7/octavia-9.1.0-py3-none-any.whl#sha256=d6d25dc6f80210571b96c14ebbbbd98d379f688a2a522eea97c016d895563cea" data-requires-python="&gt;=3.6" >octavia-9.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/b9/b4d81efdcabf1fcc911b03f3922edbe7391a3f1f038d4c9f7b5ed4f8e40b/octavia-9.1.0.tar.gz#sha256=bced856aee38a99ea40a13e085c98b912acfb364aef78d71724eefa579277198" data-requires-python="&gt;=3.6" >octavia-9.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/ca/88e05623958e7c9529796fa2d6bd2963081f6233f0a913066f1777de60f2/octavia-10.0.0.0rc1-py3-none-any.whl#sha256=5b0b5befd9cfa3d0baa8a0a8cf1fc1685646ba7f84e55ad4f42bf93a1b563d63" data-requires-python="&gt;=3.6" >octavia-10.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/13/26/019c9c858691677ff61e54228272d931e04aa3cd66148578d739ddfab58e/octavia-10.0.0.0rc1.tar.gz#sha256=69db70b6431532bcfc3c28b3ef2769aad9836bccf622c3cd17a06e2305c0ea87" data-requires-python="&gt;=3.6" >octavia-10.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/aa/7c/276038c4668a393c87195417852677f6222a50ea640a68bb81af443d49b2/octavia-10.0.0-py3-none-any.whl#sha256=6a04ee668d0bec8b19b86636e8a9b34d7a9fdce1cad5c9c4ff4724c3b1ae6478" data-requires-python="&gt;=3.6" >octavia-10.0.0-py3-none-any.whl</a><br />
@@ -180,6 +182,8 @@
     <a href="https://files.pythonhosted.org/packages/ff/05/4644a2eb763ee9293f89738d8f80aa8bbddb48594f62b005200a37211e5f/octavia-11.0.0.0rc1.tar.gz#sha256=0a1fe42e9b2dda12516851f10fc1a0f0ec81d348037c72ff94fc8dde63765a1a" data-requires-python="&gt;=3.8" >octavia-11.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/01/72/553aeeb659da42673c796ba314c41b671d2e75bb0fba69ca9cb512c4aa89/octavia-11.0.0-py3-none-any.whl#sha256=cd69a83356242db77323a3e65715de2262dfd6360c38e22f5c4333f10fa53573" data-requires-python="&gt;=3.8" >octavia-11.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/c9/fb6d1ccad2f0af1de12d8ef955ab2f3240d8ea5d41ba38f4dd439768280b/octavia-11.0.0.tar.gz#sha256=0bcbc996ae9f9dcf3815f065ec44874b502bfccfa78032652454519590f82c7d" data-requires-python="&gt;=3.8" >octavia-11.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/d2/f8501e591d329d4b0fdf09d6306e43c4b784dea0d43a9d8630b1f0bda9a1/octavia-12.0.0.0rc1-py3-none-any.whl#sha256=1a18888e605eb9caf23c801ed96950ce1745404f3d39d763c17291804559c112" data-requires-python="&gt;=3.8" >octavia-12.0.0.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/13/f44071e3d516486924cdda33ed91a1b067d7867eef59d38bac185bb4bac5/octavia-12.0.0.0rc1.tar.gz#sha256=4adac3ec350c384a28f1d82eb6484eed8ebc1ed97f815a81addd8d249d8337fc" data-requires-python="&gt;=3.8" >octavia-12.0.0.0rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15311925-->
+<!--SERIAL 17142827-->

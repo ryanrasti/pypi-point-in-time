@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for setuptools-grpc</title>
   </head>
   <body>
@@ -10,6 +10,10 @@
     <a href="https://files.pythonhosted.org/packages/cf/17/82a047e63e14fe71fec04161923b4558cdf726fe668ec5bd9ce68c288495/setuptools_grpc-0.1-py3-none-any.whl#sha256=f507bdb3fb640d3d6e768cd7b0c6f2ff999fe8b4924ec7e299d83f63b4f910ae" data-requires-python="~=3.7" data-yanked="Typo in build_grpc command causes gprc_files option to be overriden by proto_files option" >setuptools_grpc-0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/83/7ff935e5d3ab4860378f3aab82d3bc411543a1d41d37a897e8e54d12783f/setuptools-grpc-0.2.tar.gz#sha256=01234d64032db691e04890c0bbbeb8a0089898e094a4d2cb05105dcda9c13fc0" data-requires-python="~=3.7" >setuptools-grpc-0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/03/d0/1ff223a4f7f82fed3975df41adb1c95849c57e8acf78ce5d410973a17265/setuptools_grpc-0.2-py3-none-any.whl#sha256=34302dfedc095453034af085e5cfd4d2ef9d41f14d28710a2ccca2fc782f5e05" data-requires-python="~=3.7" >setuptools_grpc-0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/d7/fd9dbc09a0ec3ceae313e9387a45f099dfb2d122cceec7e424924a6e1fd6/setuptools-grpc-0.3.tar.gz#sha256=021f16a6286b1875927c6d2243f6a1bdd1d1147577aa475a0719dea73cb9e799" data-requires-python="~=3.7" data-yanked="Missing dependency constraint for grpcio-tools" >setuptools-grpc-0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/56/e75358a46b2611fb7984affa05affc4ccaadce837c460a02fbeebf6e36bb/setuptools_grpc-0.3-py3-none-any.whl#sha256=82733e68c4c041b711a43cfeb8b75831964f70c17713be0d1dd08a41f9c197f3" data-requires-python="~=3.7" data-yanked="Missing dependency constraint for grpcio-tools" >setuptools_grpc-0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/c9/e24a35cb7c891cc4126bf38ba1457c8f52ba18d7b144776ab343d2e1efcf/setuptools-grpc-0.4.tar.gz#sha256=c1ad6b0db22927ed01ab3e48d8f5bb62b6fcdebdb007f085e16b8d438995c87f" data-requires-python="~=3.7" >setuptools-grpc-0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/ad/3b54213adf97f39142ef933607757a06ee8cd889c37f01c6a3c21f59f4da/setuptools_grpc-0.4-py3-none-any.whl#sha256=8dd67a0b6ffdcb122906d2ac33e41bb68f50483f71de94797a3835a6b3c47406" data-requires-python="~=3.7" >setuptools_grpc-0.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 14272104-->
+<!--SERIAL 16745821-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for cmtj</title>
   </head>
   <body>
@@ -90,6 +90,24 @@
     <a href="https://files.pythonhosted.org/packages/bd/6d/4cb03c04cac6022b29ef249a2f558446c206e526a39c2bf689ba688d4e07/cmtj-1.2.0-cp39-cp39-macosx_10_15_x86_64.whl#sha256=7c38e04d46ef2d673e9e49aa92368c74e96ff0b6042c7284787e286ce09cb6d3" >cmtj-1.2.0-cp39-cp39-macosx_10_15_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/82/d7b8a0a1e081115891da5a1a0360b431195dfa150e91bc200e441d1440d3/cmtj-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=28a514e167d8f92fe12b2beab797f39476986f8b7c3ebaf0d8e66390522d6507" >cmtj-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/02/80/871e77b576087314ae75ab7af3a1ca9e05385f3e5f92f77cfd09956ccec2/cmtj-1.2.0-cp39-cp39-win_amd64.whl#sha256=5c02fdb088eb4a19776d8abe6cd033b1d48c0c53ed2aacaff6eaa64e401dd9d8" >cmtj-1.2.0-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/7b/ca6111d2e6a34d890f8b2deb598528dc161910d70cd66ceeb5c1e0940ef6/cmtj-1.3.0-cp310-cp310-macosx_11_0_x86_64.whl#sha256=ce4e69b5e717253e70fd1f111effaa306f61623a6d523339381e656c4e450a0c" >cmtj-1.3.0-cp310-cp310-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/18/c5be4ddba370e3d2758cdceba3f86a16ee2de18ae002e6bf2f73ce526e8b/cmtj-1.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3089581d7e1c122b474ff084a540ea741bf27df776237c729a3139aca8925c6f" >cmtj-1.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/a4/623be148b979d4eb4e8eb71e53f9f1d70fa9c06611826a3d96071cbcbe04/cmtj-1.3.0-cp310-cp310-win_amd64.whl#sha256=ec6562eb076f1640fe6f4cbd90c1beb769e6a7a740ab3e88a22baca68106e129" >cmtj-1.3.0-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/30/48/63746edd902714e0159bd7be2c9f32dabb14fee2414599142715fd73ff9f/cmtj-1.3.0-cp311-cp311-macosx_10_9_universal2.whl#sha256=e633ae8e59c3b73668f3c753a37944e3f6ff1949188aa14ba0179936c495c811" >cmtj-1.3.0-cp311-cp311-macosx_10_9_universal2.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/82/75376d9699ea1f643cc4d3dcf4923a26cc7c76d7da6fc9b118115211658f/cmtj-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3f8d7c6cd2ce6dceba0c6369e8e4dbd86f5cf6822c229af786fa6ad55dab0071" >cmtj-1.3.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/24/74cd89986a715f562710c4ed6da4e9ceff3a1f2ef9598876d47b2cd08160/cmtj-1.3.0-cp311-cp311-win_amd64.whl#sha256=53b53b8d3e23fa58d5124ce4a53d5275f768fe2b739dec857ab7625dcb6d8193" >cmtj-1.3.0-cp311-cp311-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/e1/c83b89a34428ae7b0116f054e006cfacd05b9e23397119f233106bee2e23/cmtj-1.3.0-cp36-cp36m-macosx_10_14_x86_64.whl#sha256=a19bcef24d4b22cf5fe9560cd4613751c5a3d42c4302cb6f332f8276aa3e771b" >cmtj-1.3.0-cp36-cp36m-macosx_10_14_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/7a/06d13bc2fb7841b2076912cc4a625d1f1d44322218ec9feff59dccb5cf90/cmtj-1.3.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=d272f7788492d77e90edf9c9a459722dc17944ddff7fbf48e7e2a098d6f82345" >cmtj-1.3.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/86/6abb2b445145704d0f9ce9a298dbec22bfd0c586f86fe572341513f9f964/cmtj-1.3.0-cp36-cp36m-win_amd64.whl#sha256=90c234a497b7c1590f67f66da09d1169d19bb74d042e38685e7e378014f17479" >cmtj-1.3.0-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/c9/e0270557a7dd7c7407bc300ce03b2fc06007dbdcae58fb9749402f327461/cmtj-1.3.0-cp37-cp37m-macosx_10_15_x86_64.whl#sha256=298f1cecb4f3d3e95c322b467a5e12faee023603118c63f05b3de83a40ae3415" >cmtj-1.3.0-cp37-cp37m-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/8b/51ea50af43b147a4af1581156ef9db942c17334a88ed8cef7c87c6561e33/cmtj-1.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=0f596b818199880537cd9d91e0228aac3a24b93ff08b969e0a8bf49003522951" >cmtj-1.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/f3/23b8b75b536f3358ecb9ebe2661ecbfcf3907e186ab8735b262a38fbdaf4/cmtj-1.3.0-cp37-cp37m-win_amd64.whl#sha256=c488e5f38b3faa93d91f70ee530061e094f7e5debb4bcc162ca939707998f653" >cmtj-1.3.0-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/c8/4fc8a180b2caf3e7b5621c316ec7a275d40ef4496f97d66970e66966da70/cmtj-1.3.0-cp38-cp38-macosx_10_15_x86_64.whl#sha256=31220bedd80716d786a4823c2594516596cc0d9a0e0cc099aff81398cce9d8ac" >cmtj-1.3.0-cp38-cp38-macosx_10_15_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/84/fd266b0dc1e952e2627608b7e5b1944c15c7d1470341242f5f4fd264b7bf/cmtj-1.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4f9a1491865ab102c52cbe7175c6a19347a72e19ecd0d9cf2377ddf80cb9ecf6" >cmtj-1.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/0b/8f444a40333e965c95d0a13af3c968e5407d3d67ab28cb9a6f8b929b2b7f/cmtj-1.3.0-cp38-cp38-win_amd64.whl#sha256=1770bccaeb5b8f520def93293e308ff696ca6462cf117b27d1f1614727bf1684" >cmtj-1.3.0-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/03/91eec634ed266cf711db32427fe88195605c2b5421a5750725543ee0c060/cmtj-1.3.0-cp39-cp39-macosx_11_0_x86_64.whl#sha256=ac0b9bdc02931eb2e885a000a7ddc42621b0b94e10160b1068e5b07fa2a0aadc" >cmtj-1.3.0-cp39-cp39-macosx_11_0_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/45/c7e5a61b2ae64e4c2482129b4da63cb24a541bab040b2a11cdb98baf82b7/cmtj-1.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=e5872c5d4b1fb17a7c7b0f315be26d9add2c7b9034385e3872e24589f9181f2e" >cmtj-1.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/aa/32cfeec6ad4cc4eb5f89cb4e333ebce260f7089586c29bd08f4d0aaf99a3/cmtj-1.3.0-cp39-cp39-win_amd64.whl#sha256=709ea9517d1fd45ed7c1a89e4d3b9dee5402c88dc4ea843b313091220c057097" >cmtj-1.3.0-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15743452-->
+<!--SERIAL 16514973-->

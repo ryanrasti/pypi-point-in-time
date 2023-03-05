@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for google-cloud-functions</title>
   </head>
   <body>
@@ -66,6 +66,10 @@
     <a href="https://files.pythonhosted.org/packages/e0/ac/c49cfb054c0932922e3c8fe9e0faba207a375f0839c2ffd84fc241737269/google_cloud_functions-1.9.0-py2.py3-none-any.whl#sha256=11406f532a1f4de2b0ed24f1e81e2807620bad9dfa334906c179afc833348868" data-requires-python="&gt;=3.7" >google_cloud_functions-1.9.0-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/59/cf/758765a62370500d5ac674f84d337b3fac3e7cfba7ce80fdd9c470307f13/google-cloud-functions-1.10.0.tar.gz#sha256=3d38a08947cf3dd739440a9ac05b18420b391c354e6cd33f904d66281ac41e79" data-requires-python="&gt;=3.7" >google-cloud-functions-1.10.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/0b/a7/c18864e63c720288934013281a59ba014093187207ee71320f8e44783bc9/google_cloud_functions-1.10.0-py2.py3-none-any.whl#sha256=0c7cb74e5504768bf3cabb87d0dd793316765e98cfdb00365afa32425a906c23" data-requires-python="&gt;=3.7" >google_cloud_functions-1.10.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/66/0b458c23dd05d8058fa4099deb98138054147f7c7a00664aee550bb96710/google-cloud-functions-1.10.1.tar.gz#sha256=c8c36880ee8dfa65fa7209af33b4e17d682844c73ec51ecc0e3437a040b6fd58" data-requires-python="&gt;=3.7" >google-cloud-functions-1.10.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/06/0e1ef6d28846789e04eb08a6e22c7a8ad12eb2f5b98f36c5ce8884df69ae/google_cloud_functions-1.10.1-py2.py3-none-any.whl#sha256=95ca748b6a90c39dd5ff77afb8c1f77d3daccc63987938b53546c9864a2a0318" data-requires-python="&gt;=3.7" >google_cloud_functions-1.10.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/bd/98bdb7bf4f6e3f4faae5ef26fbe8f793e4c6ac0363358ce70c4b06c5c51b/google-cloud-functions-1.11.0.tar.gz#sha256=ecef82a7f91b7068cbd712ca5b07065549c5d36fcc95c4aa3e82231a907f7821" data-requires-python="&gt;=3.7" >google-cloud-functions-1.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/f6/57c52cb03acf87e451dea7e47dbf7e0e53a7335ccbcb8623f7ff9c2297dd/google_cloud_functions-1.11.0-py2.py3-none-any.whl#sha256=72e4dcfa801a709a920f574e2a7afec3b761ff220f7a4262e69bc798aef0b31c" data-requires-python="&gt;=3.7" >google_cloud_functions-1.11.0-py2.py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16379249-->
+<!--SERIAL 16893076-->

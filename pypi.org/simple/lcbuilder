@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lcbuilder</title>
   </head>
   <body>
@@ -212,6 +212,16 @@
     <a href="https://files.pythonhosted.org/packages/2e/41/222c8b07bc22c70168611f7aa2e03ac5c14258dbae39eaef1521cb7bdc07/lcbuilder-0.10.1.tar.gz#sha256=e5363b5a382a15f7a59d6affaa4a0e3f6c3d42488b67bb349b54e164a7dc40db" data-requires-python="&gt;=3.8" >lcbuilder-0.10.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4c/55/865a1058d75a541e2571fb09290797373856641768136286dfa7d35b22b1/lcbuilder-0.10.2-py3-none-any.whl#sha256=9859d03335562b8be3b0792c112f40b6fab1367bf4393ccea0ddff7a9450bc59" data-requires-python="&gt;=3.8" >lcbuilder-0.10.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/4a/a296ae1756410e87a8e57352336b9089211e8c8c0d8910c287b46aec4997/lcbuilder-0.10.2.tar.gz#sha256=065015553586cabd01f1886f6871e108007722d4e79b173221de891fd15569e3" data-requires-python="&gt;=3.8" >lcbuilder-0.10.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/f0/558df7424e95f7a4ec34502e3d8ed2e2835655d5239f9670c9c92015a921/lcbuilder-0.10.3-py3-none-any.whl#sha256=aab79296b958e54c954b64b6c02d647cf4178cda1ddcf6a6675de453070828da" data-requires-python="&gt;=3.8" >lcbuilder-0.10.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/41/6c3c547a0b70564dee07e778842af9d02c6a1c690b144610fbff1dbf70a7/lcbuilder-0.10.3.tar.gz#sha256=0138228347d69c2792f5f20bef341b11d7d05708a475d7f32d7d7dce8e0936d4" data-requires-python="&gt;=3.8" >lcbuilder-0.10.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/e3/e33c73b0e4e0330a3b264a85022d2e92eff7fea4cb64d398b62749c8b005/lcbuilder-0.10.4-py3-none-any.whl#sha256=da8cc6a536ffdbd5b45b084b1e87fd82f6c55ade931da2ccdb7ba2549f538994" data-requires-python="&gt;=3.8" >lcbuilder-0.10.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/6e/950c95981afbb5e73a6738c24388081735d8ba8880c10213822102aeeace/lcbuilder-0.10.4.tar.gz#sha256=ad5d5f4887cea56e62e15cf646fe98508cf9fb607fb208386e46df749fdb62bd" data-requires-python="&gt;=3.8" >lcbuilder-0.10.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/e1/6542272cd6948d814809bce50c43e42b15eeb45260ae0e203a020ade34a3/lcbuilder-0.10.5-py3-none-any.whl#sha256=cd53bb2e20533b6fed380585d40cea8e28e8d89774d0380f61048696af69fdb8" data-requires-python="&gt;=3.8" >lcbuilder-0.10.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/2e/f13f64aae04ceb10d7513ba833c6f8c104b98aed1cdfa0d5d2dc4dfe68ae/lcbuilder-0.10.5.tar.gz#sha256=b1465e8b11746ba8a42e65368fa1bc25e032908e0b241f171a3b69552893a1d9" data-requires-python="&gt;=3.8" >lcbuilder-0.10.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ad/84/f07d6491b04728ff983daed49e947575d171ce2d7ce2e91e37ab129b3aff/lcbuilder-0.10.6-py3-none-any.whl#sha256=f567057fb32d0e6ac2631002997aa6ee444d6185f889f0550c017f498384677e" data-requires-python="&gt;=3.8" >lcbuilder-0.10.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/07/29b6027533c15b5faa281d880651ae6a083820f426925e7f18f3bd05e1b5/lcbuilder-0.10.6.tar.gz#sha256=d275a4e9a080953d52cf45266372bd4a28237219d02e6a16d4e4bcfd86ebce6c" data-requires-python="&gt;=3.8" >lcbuilder-0.10.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/3c/b930c6becdc1a964f105a69b4b088b087c746596d924d2333ad939676774/lcbuilder-0.10.7-py3-none-any.whl#sha256=0bf907b831c9af1fd609f9726d45abba4c3b359aa90a9df9cc60bd60b69a1337" data-requires-python="&gt;=3.8" >lcbuilder-0.10.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/9e/e7d960e41c83bc7008bac84b0a066fd481f68fa245d36b92cf2dd58b64d1/lcbuilder-0.10.7.tar.gz#sha256=f7f813db25632c9b4c837292a73d30bf95c747f82bf6728d3537e5911c9b6b98" data-requires-python="&gt;=3.8" >lcbuilder-0.10.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16171907-->
+<!--SERIAL 16959821-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for torchkeras</title>
   </head>
   <body>
@@ -54,6 +54,24 @@
     <a href="https://files.pythonhosted.org/packages/5f/95/82b520d92ce4a18c063144ef274cc0e344a87be5792015cffcda25955573/torchkeras-3.2.5.tar.gz#sha256=f39bc05af28fd279dee48aa8f28314d38bcc4a43ed3262f65f32fd0345241bc7" data-requires-python="&gt;=3.5" >torchkeras-3.2.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/3a/9ee0e6d258259eb76c948c7a7e5c02fc1f3c3eddb151249739b12dad4666/torchkeras-3.3.0-py3-none-any.whl#sha256=398fbe5c2584b63851b5cfee5db099dacab0975202fdd5dee1fdec5b6594a4d4" data-requires-python="&gt;=3.5" >torchkeras-3.3.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e2/1b/4f3b21de39ecea1e59d591d509bc51e17cde0f8cbd23dbac01c661e669a4/torchkeras-3.3.0.tar.gz#sha256=d0a1cedb572cc69d8bf4fbb9ca4d37260b65755a145a70f2019063f7766c9be7" data-requires-python="&gt;=3.5" >torchkeras-3.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/08/599676912581155872953ebbe94a84e77975ecf79f96df2e5779d72557db/torchkeras-3.3.1-py3-none-any.whl#sha256=02281f65da630e4d9b27ccdd0ce209659dab3c8405168f501025da5f839a80b6" data-requires-python="&gt;=3.5" >torchkeras-3.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/c5/267fa781b0cf216b9aeabc4d88db9cd75c80c4a22dec488192c10b3eb654/torchkeras-3.3.1.tar.gz#sha256=4d5344cb53e07f93707b9339e980ea467b42aa264a9d43f6b8cfb3ce5f1a5663" data-requires-python="&gt;=3.5" >torchkeras-3.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/92/ccd7d8df5cc359525e13b8dd062310e72cf2f2f6eda3d5d614409c14a1f0/torchkeras-3.3.2-py3-none-any.whl#sha256=76ba27b476c2afeebaef49334fd6425a498e1c52493ae8bca6f1a5974e6caf33" data-requires-python="&gt;=3.5" >torchkeras-3.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/ac/07e2bb43801b15aec32e7eb57fe50e11d0679c6ff9c1f5e40b3175ba0da9/torchkeras-3.3.2.tar.gz#sha256=b6ce16d898d5e6777b66fbf9f2e7a3c0eef40f5de8e345308c358f5255476150" data-requires-python="&gt;=3.5" >torchkeras-3.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0c/d5/8cde1ed649e855f1fef0a7ce09c0303ff88e97c929947bc2fc1945a99e98/torchkeras-3.3.3-py3-none-any.whl#sha256=4ef2d1567fa61cf37d26a77f6889cb98b6d08e13677be9468e3e98d96531fc38" data-requires-python="&gt;=3.5" >torchkeras-3.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/ce/59f0dc9207cc60d692d017bc0550fc3efcc4632d117d669b469111e88e13/torchkeras-3.3.3.tar.gz#sha256=56fc898a193a8a0fc1d3709791fae16851e9bb50a42211c4b43edd0760ca44ae" data-requires-python="&gt;=3.5" >torchkeras-3.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/0f/51cbb17784205fcef2135e2eff551f2b432ba845b7b5d8c37732db545a3b/torchkeras-3.4.0-py3-none-any.whl#sha256=f56d2a22eab8c97b08a14a7faf8cab6a8c4190642fad7c22dd4f6848c4181dd4" data-requires-python="&gt;=3.5" >torchkeras-3.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/3b/60b0324351c56a3a0dc1adfb0830c17023aa13bf34f183420fc2bfba9762/torchkeras-3.4.0.tar.gz#sha256=a5f771d7ccadb85431f40c9ee96a5001dd6f463a15217fdf2b10dba8758b285e" data-requires-python="&gt;=3.5" >torchkeras-3.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/dd/99c73ad014a1e3078b449991b935fbf39f0a0a7d0db3f87369ac31f32a6c/torchkeras-3.5.0-py3-none-any.whl#sha256=d9af5ac789f64003fa61027a1ed1d41c83548ec33f8f502a7e705df51437e4f8" data-requires-python="&gt;=3.5" >torchkeras-3.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/f8/ea465ed82f9a248a9e8067ba0e20bbc24a835e8c6c97a79017156f80d396/torchkeras-3.5.0.tar.gz#sha256=559a7beaf35247b9b7265de6e3d6cbc34fd6275f9d3697fd99e5310c1e0bab14" data-requires-python="&gt;=3.5" >torchkeras-3.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/f6/781df6c79deb7401c251f411b34a1349ea49218a1e18858d591a261ae9de/torchkeras-3.6.0-py3-none-any.whl#sha256=83b96b5fbf213a40ba9b496b47733ec5130bf1ad0fc39183e7bceb2e1817eaa7" data-requires-python="&gt;=3.5" >torchkeras-3.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/c8/3948fe56c1f2b4b90eb01da05e85a815958013829f7003b3bb20e06d9117/torchkeras-3.6.0.tar.gz#sha256=738b91c6cb19b6cb3e5eefded5b38d556aa15448b2cbf2137c488a14b6d6e9bf" data-requires-python="&gt;=3.5" >torchkeras-3.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/a4/77b8c291c7769e823982bc6426738e6187ec142050af681b634827211d42/torchkeras-3.7.0-py3-none-any.whl#sha256=0f7a6c02bdc3eaa77bdc688027ab8d29d39f4a91cef75b5da28c0f9537585513" data-requires-python="&gt;=3.5" >torchkeras-3.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/a0/8d6b278c41bac65f47a0bdd8b4ebfdb600b84ea369cf7ae27bf5603147bb/torchkeras-3.7.0.tar.gz#sha256=9d12a66bcde0cc40c79825d39bf4ef5e6c7af0706596d9260536f7645e15cedc" data-requires-python="&gt;=3.5" >torchkeras-3.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/04/f3aba44849e4d7d6fd64b81a354750eca172eaf98b9ebc3abef50d0b6b72/torchkeras-3.7.1-py3-none-any.whl#sha256=75fc7b205cfe2b8f300d2dc458fc934295aa760c1e2b2d45db01503fa5ffa253" data-requires-python="&gt;=3.5" >torchkeras-3.7.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/b4/9942719f2a6eabd0a46d8370de5cea42e9c86e76fa43c8819b996bdd5b4e/torchkeras-3.7.1.tar.gz#sha256=6d3e97713d9d3b14358219158729097e947e1267f83f37ccd42c1ff806e9cc26" data-requires-python="&gt;=3.5" >torchkeras-3.7.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/d0/c0152dd0e7948ed74013df92a2ac741922a9bea45c769e86406ab927ee73/torchkeras-3.7.2-py3-none-any.whl#sha256=1546316ea0a65e69838d2a3766108dca20a2432a55dd42d9e00c724d4507ec30" data-requires-python="&gt;=3.5" >torchkeras-3.7.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/1a/633123dd64e05eac1f2171c1c0e36e0ebc890a48cea59d4d8801db73c889/torchkeras-3.7.2.tar.gz#sha256=0b50b791007bd24fa69617e6ffb1b490630df5dfa03bdfc096a3881a123491c0" data-requires-python="&gt;=3.5" >torchkeras-3.7.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15830545-->
+<!--SERIAL 16772147-->

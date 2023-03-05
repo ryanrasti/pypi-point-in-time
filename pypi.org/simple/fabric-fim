@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fabric-fim</title>
   </head>
   <body>
@@ -224,6 +224,8 @@
     <a href="https://files.pythonhosted.org/packages/09/ef/0b69e2576eb4f9061d6eb543a453077d2012525af7972d1160dee55ebaed/fabric_fim-1.3.4.tar.gz#sha256=005fe5fed2820a14705471aa817a2736537d8e39c8e070bfc680d1c9c0ec5da2" data-requires-python="&gt;=3.7" >fabric_fim-1.3.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f3/4c/da4b75c7f6ecd962463232ad0937a7ced72d9c11ab3a99be6a076219b7e9/fabric_fim-1.3.5rc0-py3-none-any.whl#sha256=2e17d3010b01ca1c1510c50ad418b58563ba25e0e5a33f311d2eeeb5875e371a" data-requires-python="&gt;=3.7" >fabric_fim-1.3.5rc0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e4/a4/04c9821b6501f77439ff6ad21fc0172637717bea9f6202f13d64822f1849/fabric_fim-1.3.5rc0.tar.gz#sha256=d9fb4244038ef6d21e129c0cc9c7b7c785cf6d7db1f7d859c07ace677ef4634e" data-requires-python="&gt;=3.7" >fabric_fim-1.3.5rc0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/7f/457dd7778498e18b3e66ae661365a321d6010277b2efc710d270ec7df34b/fabric_fim-1.3.5-py3-none-any.whl#sha256=1a3808ac4cdbc46bee84d82c3a1cf40ca68d8e6f4dbe931086f0f47f575f0efb" data-requires-python="&gt;=3.7" >fabric_fim-1.3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/f7/07696883ab9a52e6f475d56ed6d883a87fd2cc93b31913470c8969edd965/fabric_fim-1.3.5.tar.gz#sha256=4090c05572010bd961be3e810bf652588f174f1480ce7eb50d9683961f63523d" data-requires-python="&gt;=3.7" >fabric_fim-1.3.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5f/12/fc27b013a89b9210196051ee91f9656f210df076a82bb736a68b2e105238/fabric_fim-1.4.0b1-py3-none-any.whl#sha256=53dee691b71d6d949f003e4c3f8a19bb84f1945db3d5dba7cf76a7348c2ec3da" data-requires-python="&gt;=3.7" >fabric_fim-1.4.0b1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/39/ad/a2f293f3fcade5243cfe2fc190c4b49517d7f61f37816f80cbec0042bd6f/fabric_fim-1.4.0b1.tar.gz#sha256=c6d19b3f6bd38bc2ef430863db6d654236956160c38106dfe5680f1f0e6f569c" data-requires-python="&gt;=3.7" >fabric_fim-1.4.0b1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/b2/31/f95a3ad6bd623eab38b9c57a33577273d39264a07a115053455eb67f32cc/fabric_fim-1.4.0b2-py3-none-any.whl#sha256=af20ceb4f1164658419ca5b815569515e0fda2dfe377ac0e74ad2ecc886a894c" data-requires-python="&gt;=3.7" >fabric_fim-1.4.0b2-py3-none-any.whl</a><br />
@@ -258,6 +260,16 @@
     <a href="https://files.pythonhosted.org/packages/56/62/52a5b3cc4b7390c320cefe1ad4b255558e71b66fd2c2cec26387c9a32928/fabric_fim-1.4.0.tar.gz#sha256=1b8bcc144d07b4db8701609fd20ff7311010e358915a23739bbaf255711f4d6a" data-requires-python="&gt;=3.7" >fabric_fim-1.4.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/03/8bf167d1384805b6b11affbf329c8829e54876a5247d5ddacf5cf0ae4e9f/fabric_fim-1.4.1-py3-none-any.whl#sha256=4e767d4f23a8e7dd0249de29eb876d098e284c42dc02a1be8a8c6b83ff46fbe0" data-requires-python="&gt;=3.7" >fabric_fim-1.4.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/41/74/82ea5e3675dbe0f5b0fd2094a56ea63692d3d13a72ae1ef35cc9df101c70/fabric_fim-1.4.1.tar.gz#sha256=4b68d39a2a8322d063cbb112b51783603971d0e77b9e76107e5e2ca31a523305" data-requires-python="&gt;=3.7" >fabric_fim-1.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/85/4f0e2f96285ee2c7a5c5dd4a42002b172710c81f7c203f9f72a4d36ae1f7/fabric_fim-1.4.2-py3-none-any.whl#sha256=50d081b8fe90af8226ab479028a466e1d97adb38d0a715ddb6a3713a24b994b2" data-requires-python="&gt;=3.7" >fabric_fim-1.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/1f/6ff2f2bc335fc0088f4c5a9f405e6e56654373e392e0eb2ca2a6afb7325a/fabric_fim-1.4.2.tar.gz#sha256=8ea622afba529a6b66384f802e4c3de4b9a224d9b157c6767fde34133da3df27" data-requires-python="&gt;=3.7" >fabric_fim-1.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/3c/6b0aa87976e9baac01a27d082dc58a51c053f61a2264d50b7d4b58a1e6d6/fabric_fim-1.4.3-py3-none-any.whl#sha256=a6b712bffd1397cddc0ce90a9973b2b742579f5e767c8213ef13c0d89e4c4bc7" data-requires-python="&gt;=3.7" >fabric_fim-1.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/c5/d981dd17d6b3b8cd1fcd881daf5d92c681d91083329eba0bdb54a88462ec/fabric_fim-1.4.3.tar.gz#sha256=eba7be77b4c8fb1c46f71386c9de6ce4c186670a855159d33dcc8a3c818054d8" data-requires-python="&gt;=3.7" >fabric_fim-1.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/d4/a32506e2a416bdf9c0fbee98cf0654082d61f92c76ce4079f7675c524b77/fabric_fim-1.4.4-py3-none-any.whl#sha256=d24c2027091220d5c4d7c61e5320f57f70c2c2960c42997271d90e1b19de0dd2" data-requires-python="&gt;=3.7" >fabric_fim-1.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/e6/241ecf825bebedce53cfac679ec913da23eae70b343ad41fc14c078415b6/fabric_fim-1.4.4.tar.gz#sha256=2a300a5369759b46be5f1d29d409bd409ebd72c66b34f9426295bf3e9e0a3e08" data-requires-python="&gt;=3.7" >fabric_fim-1.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/92/33a25bf8e8147fea4c698fed537c55516d1de52e88104657f9efdf8d1923/fabric_fim-1.4.5-py3-none-any.whl#sha256=884a92ad2b3f2fa05984ddd3709aad3d97a53eafd50911dee3ca35ee754e7cc6" data-requires-python="&gt;=3.7" >fabric_fim-1.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/02/d86d30b2c214ac475868a3dcbded87a10d171b06df9eed02887526f149b4/fabric_fim-1.4.5.tar.gz#sha256=a3997d600132f152b00d316811a601db63ea84aaa6310e2de6f95ac8c19c9cec" data-requires-python="&gt;=3.7" >fabric_fim-1.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/4a/177c6b61253da5590cebf141cabac72a13c05f93581172e1a5f9fdf8e5b7/fabric_fim-1.4.6-py3-none-any.whl#sha256=4ee5b4615d3316dfd82a6d0ee0305dce9ae37b88ad8d70025aa4106b11fb4360" data-requires-python="&gt;=3.7" >fabric_fim-1.4.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/a4/fc81351431edc8101612b3a088ef52faba726295ab92bb8ce9e1e337c977/fabric_fim-1.4.6.tar.gz#sha256=77d0ae91596a76837908a14a7845a5caa03547f352f7cbdaa4d8cb681a028980" data-requires-python="&gt;=3.7" >fabric_fim-1.4.6.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16421892-->
+<!--SERIAL 17019581-->

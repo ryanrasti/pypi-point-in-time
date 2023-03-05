@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for canonical</title>
   </head>
   <body>
@@ -10,6 +10,29 @@
     <a href="https://files.pythonhosted.org/packages/9c/37/a741ae7f169a360152b4783366fdee6dc8b2503db96e6701bb2aeec52e6f/canonical-0.1.0.tar.gz#sha256=158748b17b2b264ebbf3dc33bb6276740da2355bf0ea5b4ca39a54a351de71c8" >canonical-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/12/6c/4db6f7e54713b528f80b547df2fefb48bbf73b9b9b4a8df25a48cc2c8af1/canonical-0.2.0.tar.gz#sha256=afb156b2f8dfdb42c4519e3d1ca6f7357e6e4fcea6181446fdc9090eec5a120a" >canonical-0.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/09/0f/54ea09fa8f05babfd503df0345478f49e8e916301c5701e96444ce35aeed/canonical-0.3.0.tar.gz#sha256=428d5868645a7f0e121b5c25f1676a6eae2687d1b3c4aa19caab334abb4b8e31" >canonical-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/7a/0f6bfc48f68c133eea7207c6b8579afa3e6ca0238f718cb20ceb9176d31e/canonical-0.4.0.tar.gz#sha256=d766459e99dfa00775903dcd0df56fb1d2869fd08cb4b459762d828cddd7af70" >canonical-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/25/101d935daa9581988a0cbcaf7dba2f359ed4980eafa578f322f9a44b6023/canonical-0.5.0.tar.gz#sha256=7c65ed1476ecad71df8402747df10c08116464186789e0734a3680e6d7f877c8" >canonical-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b2/1d/1cac02749a45c815d0d0769848a767ce32632854779c1ef1fb3ec144d4a9/canonical-0.6.0.tar.gz#sha256=86780a6f89fe436ba0b2e7c587042c88c7bd2cb2d063b58f3315acf590856ffd" >canonical-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/bd/1a553c7f06d704958ccff17f86a7f4f58f23a5e93b3715d570a9f8c425c6/canonical-0.7.0.tar.gz#sha256=e7eb73ce55eab85ad6504c3d33ba0cbf3d3b27ad3acea58ef43a9ba0ba3b7a61" >canonical-0.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/d2/a8a2ddf18c53dcd075763049d0b46580abf1b718bf3428537c995291c72d/canonical-0.8.0.tar.gz#sha256=9d6de6c44158ce26217a9404d7ca8b02422a814969133777d2ebfec392ec8fbe" >canonical-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/1f/2280296077ed31b38308f513c0fdfffeb1e131ffa62d7ccb2659a6d627fb/canonical-0.9.0.tar.gz#sha256=4a0aaf1b24f9029946516a9fca1524afa643aef372462b76f267b243e58f9bba" >canonical-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/da/dd9f125802bc9a9954685b7b2ab78d2f6e0a44803575a9da5e3ffd9face1/canonical-0.10.0.tar.gz#sha256=5aa59d7cef9e79891093fcb9c0e75801c1a376a98d9af2cc3a1370a03e0a5858" >canonical-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/dd/521db5be825b38a734ef7d6b49bbe7525cc3bc3578580999b718a3e1438d/canonical-0.11.0.tar.gz#sha256=1b2033529c86780d725cfcd2eee25dd2c8fa3c19cee97be6eee7748f755c5917" >canonical-0.11.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/cb/6347bbe7d3d23b09d30fc2766322259e0e411bd431ee68a70b07784cae80/canonical-0.12.0.tar.gz#sha256=6ce1e008fd77a1c3e65626659b462d36a7a01760e5a74c334cd4fc69d13b2438" >canonical-0.12.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/c9/15d7a07cc309b9368041f3a45eba1dbcf9bb72c2d3249cfbcb66f5163bf9/canonical-0.13.0.tar.gz#sha256=43084eaa5a7900a97dbafeea91cf80b5627a0cdb77642cac13f7249a89f4fc46" >canonical-0.13.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/b5/9ddc2100064f61519a15a7b7da0c45036bb8a04aea0728c1df5d48db74d9/canonical-0.14.0.tar.gz#sha256=436e545778e589398ce494e5a470b579718874f47bb7e5d8ed27174a4eaf76dc" >canonical-0.14.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/26/bb0f00dc953758368acb85f875f262f0c9249be64fb1c6939efd51733a82/canonical-0.15.0.tar.gz#sha256=6d9bd8a2b5209c0b083a86b95a1472c1b1b9db382bd667533c7e8b2fbb1672a7" >canonical-0.15.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/33/3de68ab3579ea5e6c54387d1c346975098cf45a698eedc6ca12a62e7a277/canonical-0.16.0.tar.gz#sha256=a703603c67d04c06551d460ccd9eaf8b9a3af141a53145a576055c37ddc3b5b3" >canonical-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/88/ee/8789879dfedea89fa128652969f6ceaca8c6a60f69021d596e32dadd50c4/canonical-0.19.0.tar.gz#sha256=aa34756e526fc0451b0d93bd5a5a32b3cf9e040d7fa6271a345e7e8879ff1882" >canonical-0.19.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/bd/79aaab81b103c81f8dfa72b9d596a5053b8617f5d1970426eba5b58e1c08/canonical-0.20.0.tar.gz#sha256=dba2f28ade257b43ef22804cbb97dca9b339893c33aa5a3fa3762d38ece47957" >canonical-0.20.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/41/08/9ff9486fbf962ed049b2514cc759163b8f47e30bb0a68aba6a8df139ead9/canonical-0.21.0.tar.gz#sha256=d62ed8847b0d539fc3e66f33132d286c2ee24f148584d9ec1a280a30a9dcd3d1" >canonical-0.21.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/16/c6/3d97091fc7939a3de4245a73e2775153fbb225f3e65de5ddb8af9ead6cb3/canonical-0.23.0.tar.gz#sha256=61f1541e8da162d8fb7abe9c53ad3a31a6db86d75d7a78d6b62302cbce49e08b" >canonical-0.23.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/44/3ea763149633f77dc9720f67fa1682c88e6c2f7a87288f0a95e3591f1f45/canonical-0.24.0.tar.gz#sha256=7e807a7a9788280d17ffc6323afdb8115632094c3de02f222ccde561a5f57e71" >canonical-0.24.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/45/8187d914b086054fc7b7ca8c0f849fb7eb6a5a9b7a24ef92dee618bf904c/canonical-0.24.1.tar.gz#sha256=cf6a6f537bcce53b2bd2ac2e2d9e7a9cab825b914370919cd2a078c006cf57d0" >canonical-0.24.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/48/4d/7ec4037fdea57bcde02bc278f83331c69f4951a18b9e4584a71d4c64b906/canonical-0.25.0.tar.gz#sha256=b13378106f2ae503fb3a9f20f11a966ab9438900147dd96e79a51987f4649f18" >canonical-0.25.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/d8/bc79ea583f0dba4354c8a8e14ae667e595a595069f534813fc45d0460f2d/canonical-0.26.0.tar.gz#sha256=aa7d3f382dcb96eab0140cbc329099bb24823c816459d39fe2c01c524532cd71" >canonical-0.26.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/57/2601e02ddd54761e1fa661037e98a9ae9341da04303d9f5c00067d08c0b8/canonical-0.27.0.tar.gz#sha256=03603519e3fe6b5e5f84c74b26341b448002c4d8fea00ed7e61beda53f36949a" >canonical-0.27.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/11/f1d7dbfca938052a20c1a92ca33e9db27dee02cb01f052912e06840a55f0/canonical-0.28.0.tar.gz#sha256=0d54d743431b210e1f8a7d7e72e5da72d5196aa867989e67fb8867b76adc243e" >canonical-0.28.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16216792-->
+<!--SERIAL 17130894-->

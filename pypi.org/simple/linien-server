@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for linien-server</title>
   </head>
   <body>
@@ -94,6 +94,26 @@
     <a href="https://files.pythonhosted.org/packages/e4/73/249ca8182a5aa23e9869b5cb7494378a91c6fd3c181af6a42b881f502bb0/linien_server-0.5.2-py3-none-any.whl#sha256=d4bad2cfb49dbaeb681e61d3ec07e791835470a5150ef8925b154021ed4f36d7" >linien_server-0.5.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/df/77/64c77feec46be5b4e4fb439cd5ca6efab4b63724ca98aca66e49cde82776/linien-server-0.5.3.tar.gz#sha256=e3be3ed65bdd0d7990bd71cc8c87f6106296048d353a77ea57b1ca49b78b906a" >linien-server-0.5.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/32/4a/d8eefb65d5c62e7f6f16e6a653f2c3a2414884e02281d286cf2d86eec635/linien_server-0.5.3-py3-none-any.whl#sha256=46dd02bc802a10b3c1377d0c8d4ac321d145100a5fa946a94e606875ca2e66fb" >linien_server-0.5.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/70/8839bcfaac96e06308f7f7b2f9e3b639a1dc84a1098315cd5de7070b27f0/linien-server-0.5.3.post1.tar.gz#sha256=a8102215f64a08f683f9f61631d5283400a149e59af3c82686d16cda002e839b" data-yanked="linien-server does not contain bitstream" >linien-server-0.5.3.post1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/15/6527b186034eeaedd36dcd732b96615ad81b9ee11740a4b6248ab8fb6da9/linien_server-0.5.3.post1-py3-none-any.whl#sha256=a7bd8e9dcbb44ce03baec3afa908f266ee1e41e2e65b476359febc8e2f31f74e" data-yanked="linien-server does not contain bitstream" >linien_server-0.5.3.post1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/28/6fbabef7c068c7fbabe08a45c54c444bad8fe84d6a6ee51634c3ad8a4868/linien-server-0.5.3.post2.tar.gz#sha256=4683d971a2213dde64a38f3067206643dc6ad7983d655c35a6fea4a07f7af313" >linien-server-0.5.3.post2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/0d/1c4182c577f79154170d9961268eaa6e6d9546812fbdbe7567eac88cd033/linien_server-0.5.3.post2-py3-none-any.whl#sha256=f5611ed16ac2c022d66cacf4022840f990d23a87983c4839551e9dbf48e8c9d0" >linien_server-0.5.3.post2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/f0/971f5ca9e30b0553b408e8a1bab711db76593e1a8268997ee3b973c71442/linien-server-0.6.0rc1.tar.gz#sha256=632b0b4679674b769caca95f7f3c2228a0c6a6d9064b98f598a789debfd0f2c4" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/29/ecb3a4e7f81b840e94497d29b66f8e069dd8570ebe818363464a9ffed19e/linien_server-0.6.0rc1-py3-none-any.whl#sha256=a39fb04dfe8a562bc8283175d17897a470f2a86de92bc476e437f766fa269d1e" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/76/c887d19106df053296ea97988016eecf97c91259d13a34d5f9462bab19a6/linien-server-0.6.0rc2.tar.gz#sha256=03b4a8a95939d66d5c091ee27a521aefc23ceb11c295795f65f6e4d0754749a4" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/a8/ac87ca139f7829c33d91aaa47e8de8943a9eff12844d33f832894422584d/linien_server-0.6.0rc2-py3-none-any.whl#sha256=b76a58f0b5d669fe84e60ca6902c4c4b366e481be98da1499b9db0d2de7a19aa" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/b8/2e19c874bce66d5bbb732c720c59f47c28641fbf333b4bbcfefe75f09b58/linien-server-0.6.0rc3.tar.gz#sha256=0d4d01262b2131b6cb4728c935d0ac61cb0b85a4af19159ce3020c7b2719119d" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/24/bc/0cbc2195cb3fc426791e1f6cc4dc024375cf5fd2f11dc59e6dccb57b8cad/linien_server-0.6.0rc3-py3-none-any.whl#sha256=60d17baee08d1b6babf5abe075d60c1c7dd86a44968265be09d03c06f2a40510" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/33/77/e8f4ffda38a990f0e8db19dec9493f9d5b6a3b14b22f74edd06d77c6741f/linien-server-0.6.0rc4.tar.gz#sha256=f72682f0be8fa6296a482418f0f9d1b3ba4be3db1985e269e6aa286b40d3c5f6" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/75/db/6371c94b2c7b6735434e63427b0d964c5c1f07ff333b1501bddce79ca40f/linien_server-0.6.0rc4-py3-none-any.whl#sha256=827e074e2d3d348f2118083bd1639db83025206864d48b6f979e2b17b4017637" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/b6/ad0c0e7e66e5a4583738f476af4f91b302d16addf902e1c96334421f0513/linien-server-0.6.0rc5.tar.gz#sha256=4359eaf2cbdb59395287d40e386a40da786bee2f98c5af02015ca84fd932ebbe" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/24/4b1ee6f85af6f04217a8cc82173e7767d2a524207d3f0e21e29c15526443/linien_server-0.6.0rc5-py3-none-any.whl#sha256=a64e939759b2917550198d4e38df3a4002af1fdc53d96edd908afc33feb764d6" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/3f/96ccd0fe4bae3d632a2f33ee502fd5f1d7e0931b96b46028466a94c05b2c/linien-server-0.6.0rc6.tar.gz#sha256=840f705e833d416e49d24ea5249094f85ee90e52234f85af1729fed01f774b84" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/7c/9a90813380320d929296080b8e427bdb22a5bf3d69e1a845d61580203cf1/linien_server-0.6.0rc6-py3-none-any.whl#sha256=3efb28b89650e1d9bfee4fce42c1e7d47b7e97eddcefac4ee2c9172216979060" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/2d/1d35f4290b06113e71544a0d2e4cbb79779340b5a0185365234ceff574e0/linien-server-0.6.0rc7.tar.gz#sha256=365733f78cdce1103ebbf824a412434c7e998f111871be370d88d6acc69e8019" data-requires-python="&gt;=3.5" >linien-server-0.6.0rc7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/08/69/cf67fa6ab3c9408bba129b3acff5ae727e663b189e8c7b9a408bda4c9a39/linien_server-0.6.0rc7-py3-none-any.whl#sha256=0fa129358c8fcaa0946efbd14c443c2fe6ba4a0075839f697649c21220ec6893" data-requires-python="&gt;=3.5" >linien_server-0.6.0rc7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/56/c367560219454af0a5d902968cef5c31c7b29f6ac93bec80808cee8ad0c6/linien-server-0.6.0.tar.gz#sha256=3a22b9f2b23e9777e3ace4e5975fe23a9b07433644da5ebc039014f1a8bad221" data-requires-python="&gt;=3.5" >linien-server-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/bb/7f623a2bbd049cec55598db9fb40bfc0ae61fc6bd5e1a5967c30f1e44ad3/linien_server-0.6.0-py3-none-any.whl#sha256=383cfa301ec7b618f340dbd5dc5fed4a49533012b725d87c77cc9a18dfd7bea4" data-requires-python="&gt;=3.5" >linien_server-0.6.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 13489358-->
+<!--SERIAL 17068882-->

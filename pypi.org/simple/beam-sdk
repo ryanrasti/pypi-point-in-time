@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for beam-sdk</title>
   </head>
   <body>
@@ -102,6 +102,22 @@
     <a href="https://files.pythonhosted.org/packages/da/e7/5523c0cb4108735ffb27cf99ad5012344e00c9774d050a85e246f0940ed5/beam_sdk-0.9.15-py3-none-any.whl#sha256=ddc27926fb5cf64f8a80928f89b5c5f0c3156ad1c9cb8176ab2d903afd4d9f26" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/37/56/1cd75e81b9ed60c0d120789e0ef7b07bee0df50c9d018527ded20d7c08c8/beam-sdk-0.9.16.tar.gz#sha256=beb8d175b61d4b36a027d65d776b9dbe353b8e24e7429cc071f7fdffb219fe88" data-requires-python="&gt;=3.7,&lt;4.0" >beam-sdk-0.9.16.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/69/0d/c207830ac0c46a7e46678517b01877be847da16435d24d26ecba4d02cf9d/beam_sdk-0.9.16-py3-none-any.whl#sha256=925b406d5a6e62239438981667e464ae8657c765b71597d1a382870419c78949" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/6f/0e782c739b4a0634258eca504b4d5f57a5df153357fa321056623c35f6f2/beam-sdk-0.9.17.tar.gz#sha256=cc7a36482f4582bca1117319b9459f20daa0b96aa81b24c01b6cbafd351fc2fc" data-requires-python="&gt;=3.7,&lt;4.0" >beam-sdk-0.9.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/a4/84f7f76413fdc787bfcffee5195c67e643055d2770b13adb6801c04b6d79/beam_sdk-0.9.17-py3-none-any.whl#sha256=155183acf9332817f245ae62441a778a4c25cd7c958f775795289268d71a78a2" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/bc/8209eabe20fa2c73e6ee0f590fc2210c7a420fae2217db50658837de2761/beam-sdk-0.9.18.tar.gz#sha256=97c5a03d56bbad5c309305c16fed8fa3e486c26e9764ac58ab2ac1e494ae0497" data-requires-python="&gt;=3.7,&lt;4.0" >beam-sdk-0.9.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/8d/2716833821d369bb70c3f6fa2faebc77b7bccc7d112825ed1cf56dec9350/beam_sdk-0.9.18-py3-none-any.whl#sha256=068107c0987dac7769719879907fe97053bc853d18ea55f2df8384a9677126fd" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/a0/8f95c71bb37866d63da410d97c7bffab19cb8e9d36e6c45097812e16f58d/beam_sdk-0.9.19-py3-none-any.whl#sha256=9e796e92a12e2c4fcacab4b5e67a02ca7773f35f20187a0c467d89dedf0a03eb" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/75/582090b96454a6176a93b16b7aa84d2092a9af9f572d15abc409fd2de6fe/beam_sdk-0.9.19.tar.gz#sha256=955dc40693d0320c2cc6828e65e5be97d4374c9c1d964221cf5c2ea5c5c8f5de" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/bc/f68b75cbe691265ccf830a5231cae6d9e4688b5f99567fbb557eceb41a6e/beam_sdk-0.9.20-py3-none-any.whl#sha256=dc07668280e98fe9ed2d4c02073685f59751d0a8de5cce1f70caca16117da082" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/b3/76fefa53a0154ef99a1d7dcaa43d79e69c6ffc92b6dffffb76a605c50447/beam_sdk-0.9.20.tar.gz#sha256=74e3ac99ad71e4c02a3b4ec8d350a990441ec759e784689eab31a0b1c3ae5aaf" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/fa/1cf5bd24ae0419fd19281253cd57408f1cfe3875d345019ac72d599a11be/beam_sdk-0.9.21-py3-none-any.whl#sha256=14b6dbe4d38279940ffb6c9c1ec1350929e65af4f87782f79710bb8b41078dfc" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/73/5016ff370758342ca120e20f8028c3df106cbe0cbc28a9f1e443a8fa136b/beam_sdk-0.9.21.tar.gz#sha256=163c7f3e23a89f5e3a14d20051ad529876aa36fe5d153691c7f5dbd01c883904" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.21.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8b/e4/2f9f0027e70ee465ad5e709948fd54c0eadf35012d1ecd58b4918e6909c1/beam_sdk-0.9.22-py3-none-any.whl#sha256=53e00e858452fd658f5c78d84c2b7562fe2406cf5077e98878be8215eb962df5" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.22-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/ca/22d5e15ca551399955cceb0a9f6db8e82d9165739f3c22cf13d2a6d8c0bd/beam_sdk-0.9.22.tar.gz#sha256=d4bccc1e503c44c9342cc56b11bfd07f0461e759dc2e90f50c6551393217a419" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.9.22.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/54/ae9ba87e331701731cdd912872d7e44ce2e5621bdf8f3d0505d95193e3dd/beam_sdk-0.10.0-py3-none-any.whl#sha256=57947adf05290c8dc65379cf58cf2f4faffa4a5ee7205083c68584ced7df1a4a" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/d9/574ae08c5568774373271bf279bb8e2ccd09cfc05ca47d8defbd16345423/beam_sdk-0.10.0.tar.gz#sha256=9d701230a511a14e1cac38c1f30572e70f8c5dfc93c837cedcf567513f07160e" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.10.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/aa/e1/a13f0dfc9d5b73ceb120b90c2b0f167b3309889337b5e8cb738d44a015e9/beam_sdk-0.10.1-py3-none-any.whl#sha256=481790f6a309f8be251b1f34da9b5e7d82b6774dedc5219dc6a9e9135a39cc0f" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.10.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/ea/3841c61d8b8bf34bf0480f38db5a55d6f026b226af6792d8829d31f2dd9d/beam_sdk-0.10.1.tar.gz#sha256=5888d85f1fe77d4b9542c76eaec6cd35bac7224edd219f24ae918641cf746a51" data-requires-python="&gt;=3.7,&lt;4.0" >beam_sdk-0.10.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16210136-->
+<!--SERIAL 16843200-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for quict</title>
   </head>
   <body>
@@ -18,6 +18,18 @@
     <a href="https://files.pythonhosted.org/packages/ba/a8/ca653e0bce746e6bb2519cea23459b938911b58bc2b84b3947d79263c367/quict-0.5.5.tar.gz#sha256=728362ce8d0bf79bf10c541f164d1f49fab6897fc3f66fdae11ed901e6f10b5c" data-requires-python="&gt;=3.8" >quict-0.5.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/36/8f/af2107765f7d514b1dd93fdf1273b9ccb0a34cb811d26dcad5bcd365b967/quict-0.5.6-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=39fb2980c16cf3df557eb654b14d20f2163802e9e1da3f44b32ffc82374eff10" data-requires-python="&gt;=3.8" >quict-0.5.6-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/30/6d/57243a11418108514de84b94742900762ceddf0c22dbae5defbb2bdfb346/quict-0.5.6.tar.gz#sha256=4ee712a0fe1dfa2376da2a619b4d61caffd77df863c2586faba88cd94c94a28a" data-requires-python="&gt;=3.8" >quict-0.5.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/63/5ffad2e9adf52cfaf3a3e686d678cca7407981a7d9d9b7f3d6723e395145/quict-0.9.1-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=d7ab8a50bfb04703b7c3e52a1b9b71757c60618ab5df93db74171f734767e48b" data-requires-python="&gt;=3.8" >quict-0.9.1-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/9d/a5d80924854cf7c0e2210e31fc092f7b75258a000e8f05edd4d1d12d347b/quict-0.9.1.tar.gz#sha256=d91c2fb3d1c1cec1f726e145075c68bad639d20bf01f2a5c18ec1e5bc4f70da4" data-requires-python="&gt;=3.8" >quict-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/eb/b536da0618d32c4a0c28c58a57a5cbc76dbfa958e8de1cfa9beb6f31f287/quict-0.9.2-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=8415009179bde27c129e92145f0668eb112c7669a7a5e85ac25ef2901488ee4e" data-requires-python="&gt;=3.8" >quict-0.9.2-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a0/4b/19e606043230de172287c5444f766811659e78e068bc879f7b96e1f009c5/quict-0.9.2-cp38-cp38-win_amd64.whl#sha256=584b5b2a5b3ea344eb277c2e1632317db9adc6e5d0e6783a206286a05248b0a3" data-requires-python="&gt;=3.8" >quict-0.9.2-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7c/0f/77797212c678a02225e504e98b42dfabc330dc552c8cf4b31bbd3c95d883/quict-0.9.2.tar.gz#sha256=b06eccc151952b242e072128d1a369fd86f29579fcab0ef9e2aec3cd4774de37" data-requires-python="&gt;=3.8" >quict-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/d8/1684b6dd7064915214ce25f448868e04eed491b1030f4347e000b21a4aab/quict-0.9.3-py3-none-any.whl#sha256=c96904db288136bb222edfdb6e8bf22a2b915bf4bc023608df5871f6303934a0" data-requires-python="&gt;=3.8" >quict-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/e8/55ef0456457ad37bb4ec9ecc4297b00a4f732528f9fe539300c58487ab8d/quict-0.9.3.linux-x86_64.tar.gz#sha256=81f533abd2f8183f304c48d2ff893c5d9122e67b57e151de79cc71f800954d43" data-requires-python="&gt;=3.8" >quict-0.9.3.linux-x86_64.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/e0/ac3c9eaa3d00822002c885762388211dd49def5cb0e204dd07b3b9b15f03/quict-0.9.5-py3-none-any.whl#sha256=1f9352e9a81e20410648a25eec40bcb3ef94f3381119a1ad2a62e2ce11cf8c1c" data-requires-python="&gt;=3.8" >quict-0.9.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/83/e3f4e85ca957ebb4ff095b0ca34b1c30813c128cf92b41477a96896017af/quict-0.9.6-py3-none-any.whl#sha256=f8ffe85e2682d30eea4f0bc4e29fa76f4cf5a864c5c048e0e257e6130e8ffd91" data-requires-python="&gt;=3.8" >quict-0.9.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/f2/9f857911670279527e1aa1212ff6197338089c291b928b3b23e1b46874ad/quict-0.9.8-py3-none-any.whl#sha256=5cc903de274775c7561acedddfb615f45c0d772d6f98a0e061b9e77aef16a4b2" data-requires-python="&gt;=3.8" >quict-0.9.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dc/d4/99f7aff636e3ae8e461751e9a30d33549fb83f79b04d870b5f2f9a09eebf/quict-1.0.0-1-py3-none-any.whl#sha256=aa3bf1dd21a88248f62bbcd1aeefb09c7a3d1804bbeaabd29a5ce2a4e2b9ac61" data-requires-python="&gt;=3.8" >quict-1.0.0-1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/86/c77af6b4e2fcf293929d488da838b0401ca910e24125feb5e18efa94601a/quict-1.0.0-2-py3-none-any.whl#sha256=1aede7ee2b18be024bf40ac8440e0ebd587470ce6099b66751f445c2fba21af9" data-requires-python="&gt;=3.8" >quict-1.0.0-2-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15722120-->
+<!--SERIAL 17079206-->

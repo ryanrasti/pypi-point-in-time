@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pydae</title>
   </head>
   <body>
@@ -138,6 +138,28 @@
     <a href="https://files.pythonhosted.org/packages/58/30/f65f042635ca6c14d7441f5248b0e0781895f481397d97283ed9fcd3ac8a/pydae-0.32.2.tar.gz#sha256=c4a4dda4ff876413fd6f9d358ea479665377639d7914f0e8ba6ddba59462f709" >pydae-0.32.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e8/fc/a149c483a06e65f31054eabcdd912cbd5e0d6c82979d7e06cd056e483e47/pydae-0.32.3-py2.py3-none-any.whl#sha256=bab70a311b905fe96c0e3d2434598fe2c2d221994feef9ff690182f75dad0c20" >pydae-0.32.3-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/0c/b8a90c3723cd92aa5a798237810afa8668c95e0e7393f06dd2d1f86d53f9/pydae-0.32.3.tar.gz#sha256=6f785e6e5fe24b878b331525b542796cc05240d8b747375d173912101b2fd2e2" >pydae-0.32.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/62/e5/f97f24b0ecb4a2ac0001a3aeaa78214909ec0b0b5f74a5c25771cb56c836/pydae-0.33-py2.py3-none-any.whl#sha256=1243b963fd2d1984b8f5f9e2091821ec33b947e3e4490f12e5b1a6528c9117a7" >pydae-0.33-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/95/be30e35c69e0ce307311fd2a28be865add854d07096982c531eea1831f29/pydae-0.33.tar.gz#sha256=b9c597f4e3690f44bbe140d10ed8ee7c25d59256ef5888097a92f1b60bab32fe" >pydae-0.33.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/22/b76e19155f88d2414f20d802b9c120b52be255ac661079b6a5ccaff0989c/pydae-0.33.1-py2.py3-none-any.whl#sha256=ffaa9b6b7467c2ec41ec0d40e1428e77d30fd257f0a2d0785acad7d4e112c351" >pydae-0.33.1-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/e2/5906215ee6dc837625e61173790cf28f718e1ba4a93b043690faf42e017b/pydae-0.33.1.tar.gz#sha256=44cc18582e4b1db5ea7082bf894e00c8df3bd267cce9cf18dc935ea30a1fb544" >pydae-0.33.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/90/62fae21dd0b6de9d84f3d76f61cbacb539e2a92dfb25fd5dbdc8aceb8bd2/pydae-0.34-py2.py3-none-any.whl#sha256=3d9d5208e535b4bbd313fd195d8fc4f3f03ed022bd81013939d6dd3190221de3" >pydae-0.34-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/18/46b0510f625d1c5aff3dd46830970530e3c1d91d0930ce0f007e11e717c1/pydae-0.34.tar.gz#sha256=e24013bbf05f102e992e58bcaf13f149bf6d6c91e79da3dff01dc31e6bb55900" >pydae-0.34.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/74/6b501e2cfa0618c1983998ff4b1dba118cbf26b11efe369f32263b7585eb/pydae-0.34.1-py3-none-any.whl#sha256=e5ee8c2e60c3686ef829396ed08813e23f691dfb806176667ceb63fcddc04fc2" data-requires-python="&gt;=3.8" >pydae-0.34.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f8/29/04ed3a3f4019d9de12370808a6177496fbd9ae6d05539de7f6f034871ba7/pydae-0.34.1.tar.gz#sha256=37e34e7e585d8c929a1955f3e61e59d0de600ad7c7bfe988e4b18de46607c985" data-requires-python="&gt;=3.8" >pydae-0.34.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/9d/11c8f626b66d728217060a79f5b249666c6996ba66304281795b84dbc32e/pydae-0.34.2-py3-none-any.whl#sha256=aaecea2c61f7db9adfbb51a4dc04050778b05e9516ddad3d2e0472f1455c332b" data-requires-python="&gt;=3.8" >pydae-0.34.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/ba/ac663321c2deeaae0e7dd6c89244965aea5c1bea44213200a5a58dd97f69/pydae-0.34.2.tar.gz#sha256=b2947680cb2ffd7bdfd6216d7be26c4ec8afdbe906e615e6e3ebf506da3d0bda" data-requires-python="&gt;=3.8" >pydae-0.34.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/03/30d34239cd78924831aa41cee8c04b6d5ca6dfece88653a7a2767096a0c3/pydae-0.35-py3-none-any.whl#sha256=c522cf3fce0097fcee101e80c15861c0c32706cebfc11c4bb98061b955ea0dc9" data-requires-python="&gt;=3.8" >pydae-0.35-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/ae/758a75a7750a442ab41dbd5da4f953285f6bf6622f4767578edd943fe77d/pydae-0.35.tar.gz#sha256=f2fa14549ab0ff206f035a57cbe00d1e292880a8f33812861aa758dc248a0294" data-requires-python="&gt;=3.8" >pydae-0.35.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/f3/7cb47e8b3dc6e1c753938798ff56c682c78d1d661c661f4db5827b72cf2d/pydae-0.35.1-py3-none-any.whl#sha256=27aa28f637e32c2bf8baff0f00b6f1da908e11c4ef20d064553c502aa144c874" data-requires-python="&gt;=3.8" >pydae-0.35.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e8/23/0b3c86b442c15ae3acee6844886c59f2d721b29c2fcce764a1c9532196f2/pydae-0.35.1.tar.gz#sha256=c7337be5f4b8f3fd8f4fa1b418973aea888060b752f7b9aab8d32885d3b2050d" data-requires-python="&gt;=3.8" >pydae-0.35.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/85/9076a33d5ee17f6a595590dae9fb925624f06b8fde0deb86565e5e0819d0/pydae-0.35.2-py3-none-any.whl#sha256=0f83e3dbb78dc870b3808588334fc3fb31e9e1f5c78eebec18a7c7186370f6bd" data-requires-python="&gt;=3.8" >pydae-0.35.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/57/33e54a2645488e7625ace0b1a91e91f399eb7f0adac6a6596e165af2094a/pydae-0.35.2.tar.gz#sha256=0d249a40b9e0c64e2112622f6c8abd0d9a8647803e95ccf0db17a648a0b63db3" data-requires-python="&gt;=3.8" >pydae-0.35.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/73/4dd94f7a85209da4209171f4a90542419d2d154362559eb71465f2a15e41/pydae-0.35.3-py3-none-any.whl#sha256=41fa1ce39a5e6942f413a671734859f79b56084627caf6219f79023a4ca9cd6d" data-requires-python="&gt;=3.8" >pydae-0.35.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/8c/da6c3f8bf3f3ff7d1529cb463ebafa1fa5e576e319c29efcad17d25323f5/pydae-0.35.3.tar.gz#sha256=4365596f66dc2afa70978223a73af08d8ddc13300e5b60dd44712426317cca11" data-requires-python="&gt;=3.8" >pydae-0.35.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/ce/6e3fafb6d3f0cf0cb48db3fc014ed2f521ab9b6616b132d06b1d4d2abc9f/pydae-0.35.4-py3-none-any.whl#sha256=dbc9ecad09a5b30414631351ebb993b35fc68ac05fccee27362d5270f1fc1b8b" data-requires-python="&gt;=3.8" >pydae-0.35.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/f3/6d06f4a6f911ab3b71f22a690213c4463006a87b83bdddec67f0093449d8/pydae-0.35.4.tar.gz#sha256=286bf297ee58c065195762271a337bc7dfd50e4a0e4b5bc2cd974e770f99a6a1" data-requires-python="&gt;=3.8" >pydae-0.35.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/da/e096413a0eb070668930a5be4c0ae9dbe203266f84bc290c4bb84fa3dfbd/pydae-0.35.5-py3-none-any.whl#sha256=c98ee21d2a84b20dbcdd1b4a252055852533c4019bc063aaff6ca5666f1e2fc6" data-requires-python="&gt;=3.8" >pydae-0.35.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/dc/492fe68d2ee0b6d2d7781f0a6042a30d775083ad7b2d8c3dd9a401948eba/pydae-0.35.5.tar.gz#sha256=6eb58edacf5e881d4ce41f907ab05b2a29ffc9b454193ad0887d90008366a104" data-requires-python="&gt;=3.8" >pydae-0.35.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16116144-->
+<!--SERIAL 17078269-->

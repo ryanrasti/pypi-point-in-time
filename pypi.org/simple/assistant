@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for assistant</title>
   </head>
   <body>
@@ -18,6 +18,26 @@
     <a href="https://files.pythonhosted.org/packages/7e/6e/3bc310fbf7702caa449decc8e0d299c43407376564ef9794cc6f8baaf963/assistant-0.9.4a0.tar.gz#sha256=080fa48c79c6041651e2ef7ee72cea1b74d6e592c3575d504bbb851211619d1e" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.4a0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/39/66f3d8a06fdbb718fc8ba4534609f1e9e7a97a8bac262df5ab78cc4f15d2/assistant-0.9.5a0-py3-none-any.whl#sha256=2a02138d6b47ec71aadc3da8f6270cc8cc13c03c3c033c0823d8ed3d38172a98" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.5a0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f9/ac/860b1992ac948b2833119637ebd2ca3cc7b50085a927519a9f6da764074e/assistant-0.9.5a0.tar.gz#sha256=e2f020b3f71a46de30e8d1d570ebfcd184d472f5107ffa6e8ca6559540995cc6" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.5a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/78/18620d8abeaa61bab56665c49f49112df08f60de68e26df9f125126208a8/assistant-0.9.9a0-py3-none-any.whl#sha256=3323fdf95da5ef4b4c1df5733a1c4ad790d8e7f871f4e8b1ac4d066345e43530" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.9a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/0c/9d8b0908bbe0937e822dfa405d027defcb3f45fbf9ca9f33e658a79715cf/assistant-0.9.9a0.tar.gz#sha256=71e881cd63455f1ddc7e674abec17d92b3abbdd4e373501a7994e2ab65b29800" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.9a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/d5/bfc77f9de43bdd789ef3a5336206a330e3ac03ab528caeb5f87f2658c5ce/assistant-0.9.10a0-py3-none-any.whl#sha256=6e79b8d0eb828e68e753c7b8e9234cfc55b6cb10ab71654cbf178c85afb625dc" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.10a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bb/62/63359f68391f2d4cba4d94f1f80bba9da6249e70eb1d99f3fe6eb3d5b874/assistant-0.9.10a0.tar.gz#sha256=ba6b38c13bf885aa767f954b4735748879306a2ed552be5391aa6b7fab23b3f4" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.10a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6c/a6/105307f2519e8aff9b5aee8c3c69a1cf70675f573973ee7ed234c33abaaa/assistant-0.9.11a0-py3-none-any.whl#sha256=ada634e0639d0f86dddf71e97ed0773030c032ffcca438cdd53e718f52c2e3ab" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.11a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/99/14/e75b1faf0afe3a0f0144f7a0a1389b7f346fcef0478134e715e232fe23df/assistant-0.9.11a0.tar.gz#sha256=9bbc49d009e0a42b2a46ff72d32e8b5f7b00c2866d2702b8c85350314f8a8823" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.11a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/e5/f396117878b0c21eb99ea140ffc2b437ed3ae3cd7f7d08917c088bfd04e5/assistant-0.9.12a0-py3-none-any.whl#sha256=3a9f064411a631dff43acf84a5936bc809898c72f9e16f7120b4cb61149dfa6f" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.12a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/56/a5e403406c9b1d6c10c75c7da4ae7aab22fd7da2f279491161b46fb78b2d/assistant-0.9.12a0.tar.gz#sha256=0bc850b6cab4f295dee3a0883854cc2bd6f67b0c1bba920715eee777a13adfde" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.12a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4c/91/a76f4593d96f3be33476580bdcd47921fa379fe8ba0357e395afc7f38129/assistant-0.9.13a0-py3-none-any.whl#sha256=9f55d39f0ae4ea404c061f6aa14dfcdeefcdbfd662eac256a34cde077667bb36" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.13a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/e7/e753fd760ca742f928a51b4dab2f88fab2de2fd27a274ddf46413a42086f/assistant-0.9.13a0.tar.gz#sha256=0c05834a65d385ae365015ba12512b8d9e60c4a29d58a69518377f154d48ace4" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.13a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/0f/3985c8a1f42ae6f68998a7c651d5a3d203c32f59ce15a7bb829c5b4e4d51/assistant-0.9.14a0-py3-none-any.whl#sha256=e42681f02b469894d04f540d7b50f2767f9b2d7f99dcefa49d1f99e5f3d069d9" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.14a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8a/db/6ea87ab94cee8aed18b008ec2782e13c04de574b3e05aa325024bbe42590/assistant-0.9.14a0.tar.gz#sha256=892aeb4cb5e8194544d3d3a7a65a682ae88b13487df2e9d441c239bc73319eed" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.14a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/3e/9787fc49b414f345c8780e3afb0c396f152d6f96ef12c3c485fefc84d48b/assistant-0.9.16a0-py3-none-any.whl#sha256=88ba4ab7cd8413a16ae7941174ce7c5a0948ac92e193ddce67661a1f2021845b" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.16a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/dc/8f493c95818c1f60cfcc59726ec841111d90dff6ca8a6d8ae9745a791c13/assistant-0.9.16a0.tar.gz#sha256=6ebe05ba9243eb98ab1687019572f63530391ef3fdfe9223a9d3f25620882cbc" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.16a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/b0/92877fce8ac542e1d3949783bfb91f491578ad72e45f8b5175d0627b1b5e/assistant-0.9.17a0-py3-none-any.whl#sha256=616a7756dfb17197cf5b30d925006aae07d1afbc5968c7dd8ec1d7b708b0a6eb" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.17a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/88/c78a824416908e03e7368dcedb4308fefd79fe7c3d22f94a70ec7b15ecae/assistant-0.9.17a0.tar.gz#sha256=88d94b648f88b8adee8f842e78d11866d820a766c7208f224250bf473aae623f" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.17a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/23/59fbd9167bb99a1b4c5bfe490fb5d0cc47d05d0e26cd9036a2d8dd2f8486/assistant-0.9.18a0-py3-none-any.whl#sha256=1eefccf28f79e8ee23cdebe9bfd8bb476a5ad572eeb6a2798cea103af75d6ab7" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.18a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/ac/8c57994ebe718a712ceced829ab940b26e4038423113f43fb5edd76082b3/assistant-0.9.18a0.tar.gz#sha256=9ab48fb4ca0010b1fb6723b269471c9a93e9e6fb48cb32ec0c858b1912955045" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.18a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/f5/ef2a1a19313933904620603f49fcf90489d91d34351737b8d50b37dbdfd3/assistant-0.9.19a0-py3-none-any.whl#sha256=b2dce33f11aaf8d836a6b5ec42475a16685e8bc2bf24a6d66515c9f1eb17331f" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.19a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/da/64f66cc1288991cb4929c4845476961918ea237f92f988d05c5d6a5af4b8/assistant-0.9.19a0.tar.gz#sha256=b7909c00105059e8edd6d9f4b65240775a309a73f7064eb3ec8237bad017016c" data-requires-python="&gt;=3.8,&lt;3.11" >assistant-0.9.19a0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15979729-->
+<!--SERIAL 16521139-->

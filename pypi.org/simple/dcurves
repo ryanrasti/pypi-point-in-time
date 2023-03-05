@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dcurves</title>
   </head>
   <body>
@@ -10,6 +10,18 @@
     <a href="https://files.pythonhosted.org/packages/84/1d/b3fcac9bdf5c2abbf182ef03f51ceaeedbf10b363b4163a61a34a8457385/dcurves-0.0.2.tar.gz#sha256=484074028b7fc085b763c9da1c20c94dce0a1642dca663c1db9c8034bfac3617" >dcurves-0.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ca/62/9dad57a39fe98b61f9bf6382e6962e2790edd2e66f42d910bbd04e0dfa53/dcurves-0.0.3-py3-none-any.whl#sha256=e4b25afea7d6f4036ec75f37e87c7e815260c36cb8f6da16ac34b6141916437c" >dcurves-0.0.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/42/3b9595721ff6b74c23c2cc9b8f4caf999446bcd6f747498d8cc1a7313265/dcurves-0.0.3.tar.gz#sha256=b213657068ca9306ec667b47e5ac5485c4011779e514420c089c79da0c86a2b6" >dcurves-0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7a/50/91b7694fdc255ea3ffbf5e116fbf786c5854e8742669cc2b73fd27d5c274/dcurves-1.0.0-py3-none-any.whl#sha256=6ac5d11aedc4175c53af082dd204d0f12cf16b4ea1d7480e2f4f52420dc838ef" >dcurves-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/b9/7dbc612354fcf94f74dc05c9bb383e11d761261e39ef95e0e7362e7d1fcc/dcurves-1.0.0.tar.gz#sha256=602a2c4ff74fe0259a6380b07fc6e0efdf653456e73960fe4781b634a7e83100" >dcurves-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/5b/b6ba582b88303b5b1adab221fbf91747b2b07477dff8ab3cdbcb2043688f/dcurves-1.0.1-py3-none-any.whl#sha256=a8726515b01ede9d38c33e0463232619a5877c21b49393203c24ab7789642e79" >dcurves-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/82/e8715b50968a621c672d827a337fdbe041f2fd1ad39e019c6b6b2cd0e73a/dcurves-1.0.1.tar.gz#sha256=d6e005afe8c74bc9a51bef225e2b4d5e60160c8800026be3f700197555131878" >dcurves-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/f0/70052b30cd4811123c90a898f3078029be04f39c497f004c089900da1d8f/dcurves-1.0.2-py3-none-any.whl#sha256=dfbafa64bab9531521bf6fd00dff7f34d99704004839be07813bc82abe777917" >dcurves-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/34/87683bef3d0426fba22a11b41aa262e93bae303e8249d90e457dcc757319/dcurves-1.0.2.tar.gz#sha256=6295fe9ba0280bd10f80238665d0ba1ba4dc3c1161fdae91b51ca74b88fe8f9b" >dcurves-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/db/251cd413a21ed5c0bab84bcdf6fc738648fb7b42f3e7b674374465ba1859/dcurves-1.0.3-py3-none-any.whl#sha256=44c2637da4b7977cd074f0ac9f86d813363311a4d5eb14b777b553d28c28f13a" >dcurves-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/42/585d9c5212941d9977d18751c7af54d6cf14b89ea4fd187af1178312859e/dcurves-1.0.3.tar.gz#sha256=d01fca5538e68fe000639863d5a8d9564a1a7f5b220be4df596b359cdda8c52b" >dcurves-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/9c/b0f82b89f465910fb0251a79adb3357371164c252d2e7503822e85aeb754/dcurves-1.0.4-py3-none-any.whl#sha256=d6b13c02a00f0e6c49bd2db3fd7498d8af29791523e10a83d4b529ba333b44a7" >dcurves-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/df/40894ecde39cf0bafc13fcdf2052e76cbe78825b75e7d5ccdd40ed126911/dcurves-1.0.4.tar.gz#sha256=2e8d10b8f825d5880a43c32f99f37803e8f6527c0a77ce5d8b56eb68ad7b84a3" >dcurves-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/97/31/ad976674495b81fc3ac3acd69ab25cb0adc873cfd8f05c7738f920a70f38/dcurves-1.0.5-py3-none-any.whl#sha256=7db2c0b2f312c266045c6122236f94536f1141474459036e3a8ab1e3393eeb7f" data-requires-python="&gt;=3.11.1,&lt;3.12.0" >dcurves-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/e1/cb0674cc4b46b6a28e86570d90d859307ab7565ef174ea1213d2b44120b0/dcurves-1.0.5.tar.gz#sha256=624ba14bf398c20af4c1fcee6a64c9be16f683613ac3c13e896ce1ca4b72838b" data-requires-python="&gt;=3.11.1,&lt;3.12.0" >dcurves-1.0.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 14005857-->
+<!--SERIAL 16728889-->

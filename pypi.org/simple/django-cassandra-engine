@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for django-cassandra-engine</title>
   </head>
   <body>
@@ -98,6 +98,7 @@
     <a href="https://files.pythonhosted.org/packages/c2/67/0bb5c487d564603cfd7de56098fe82eb311e5560ce181adb17a458087e02/django-cassandra-engine-1.6.3.tar.gz#sha256=41eac5b18313a5ec05a2b49cfccc19a2024781ee9bb089030d28fe6a889a472f" >django-cassandra-engine-1.6.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/1a/b9f799d5f2cd19386439a2e3e898459401215efb2bdec4e0db7878abe2a2/django-cassandra-engine-1.7.0.tar.gz#sha256=f18040dff958b20615bf802272d1a6a59ae2ad89d599f2f7b2a5802ee0f57a6e" data-requires-python="&gt;=3.8,&lt;4.0" >django-cassandra-engine-1.7.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/21/43/a910c8519935a7f3d759a12aa9cb6374fcad379f9f0eb1109e459c8bda39/django_cassandra_engine-1.7.0-py3-none-any.whl#sha256=911a0ec1ef500437c1579b3d9218d9748d12f7a44d09b4e3e9e3981f614ca819" data-requires-python="&gt;=3.8,&lt;4.0" >django_cassandra_engine-1.7.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/6d/2ab949e2cf5fccf9c8875b16b8f9296d6b08926ca4a4b7e98e45d2fdbf55/django_cassandra_engine-1.8.0.tar.gz#sha256=58484d89f91d9323a56e64dbda21935ad7ce3b5f70eb0208916b9de9119e80af" data-requires-python="&gt;=3.8,&lt;4.0" >django_cassandra_engine-1.8.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12541322-->
+<!--SERIAL 16671233-->

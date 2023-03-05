@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for runpod</title>
   </head>
   <body>
@@ -80,6 +80,24 @@
     <a href="https://files.pythonhosted.org/packages/bb/ab/2f88672256c3fbd7fd79221b70e8d34a19c34b71929af6affdae57bf33c9/runpod-0.7.1.tar.gz#sha256=3f81c4de4977d6cb5e62f9d18a1bc4fd34931950177c078fbe91928266ace7d1" data-requires-python="&gt;=3.6" >runpod-0.7.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/10/ab/ce1feb57c9c5007acf2123d69d1f221d70be22bfba90d29454f0700a9292/runpod-0.7.3-py3-none-any.whl#sha256=274b14e4de5ea36a892490f9dd19e5dbb170ca7466e3985a64f9a67fafbdd488" data-requires-python="&gt;=3.6" >runpod-0.7.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/06/50369a330bf1bd116abda3376c6d03bff44f9a5cfcc0ccbfd9431d36ad6d/runpod-0.7.3.tar.gz#sha256=b7b5490a4a2e5e0d9698d5366afad2e3596841e81c1f809d98a9800987f53c01" data-requires-python="&gt;=3.6" >runpod-0.7.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/d1/e53c5cd679b9986586c054f732cc3b52f0bdcc7c0d797181af9ac8acbcd7/runpod-0.7.4-py3-none-any.whl#sha256=26ce3ee0834df2b5fb385d5af87cfd472fc42c1295b158f9b37717e13ead7422" data-requires-python="&gt;=3.6" >runpod-0.7.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/e9/96125e2aee261e2c7e231bf241087efbab3bcd8ed3159afd0add01c73514/runpod-0.7.4.tar.gz#sha256=64ac5f73801cd5f5f2d02e2a57f2b0fb81bb5293267a66b318c8640a0f3e1453" data-requires-python="&gt;=3.6" >runpod-0.7.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/f6/217a67a82fb4e32b2a2a384e498e07c54538414164be95e3933703509a9e/runpod-0.7.5-py3-none-any.whl#sha256=2a811d16e290c93eb83dfb748a81045a1b1b10d30a2acd305041fec70cde33ea" data-requires-python="&gt;=3.6" >runpod-0.7.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/5d/0a7c319293c3a2ad40043b179d051f1d826ce6865066d49ba652b4578cde/runpod-0.7.5.tar.gz#sha256=025b0bd9b822fcce13976228374b2c8e7263161ac5779b52243223d1e5509b75" data-requires-python="&gt;=3.6" >runpod-0.7.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c0/16/be1bb25536ece00557f8e019abf819151a064e6930fc85c315274b543cb6/runpod-0.7.6-py3-none-any.whl#sha256=5f25f965d4209718621700870f0deba2dca49ff9667545966363642037e4a792" data-requires-python="&gt;=3.6" >runpod-0.7.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/e8/d3c63495974fcd97d7f01a9a0102172c87238022dc7d83ce6c0e69fbf8ac/runpod-0.7.6.tar.gz#sha256=cb9bcdf100a4453e94c74c792bd89394bab6c8764a91ad34f909260bb1ee0e56" data-requires-python="&gt;=3.6" >runpod-0.7.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/13/846a2f03cc121358b7eb788c60f6b986f74a997c01cfd025f01794aa9d3c/runpod-0.8.0-py3-none-any.whl#sha256=c6f5ed9bbb66dd3b1ae3a6e2bd521303ad4c21ec77e58b7b5eeeb882a8fb8b4a" data-requires-python="&gt;=3.6" >runpod-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/3a/ce2f588a9d96f1d3c1345e8b94a6e5c983289fb29b495e0af410e963f88d/runpod-0.8.0.tar.gz#sha256=82ee96b19ebeaf1180085cfc2ce6a8817563f8ecc50fab489d8f48b52923d85a" data-requires-python="&gt;=3.6" >runpod-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/c5/b1b0b7f3317874ad1791530fbcc93e84e63efe80d8db9dbca2ca95ac344f/runpod-0.8.1-py3-none-any.whl#sha256=c7db9a99925633fde0681371c3f7b709fec7de0d286cca37e6266c3a38241805" data-requires-python="&gt;=3.6" >runpod-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/2f/ad6f42d7b55d0ad81b4cb8469d381981ab79e64b8947f7ad97b653a09f8c/runpod-0.8.1.tar.gz#sha256=974001d55903c84a9f99dedb79b734af9a0d29b7712387d443e8bfe9a128168e" data-requires-python="&gt;=3.6" >runpod-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/25/02faf8145b59e869ed5687aa6d3b66525f987efcb4e775f7c7fb4288e06c/runpod-0.8.2-py3-none-any.whl#sha256=e1f423444514714f24c3c76d8e6faf9bbd38fe63deda5212395d41535e44e3e2" data-requires-python="&gt;=3.6" >runpod-0.8.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/b5/78e036bdb60491401234ba5f0d943f1e125f67dc476f1737efc7fd85961b/runpod-0.8.2.tar.gz#sha256=3e203632c9f38c25546d53cc4f981003e83bcee7d1555a271d887904433b8724" data-requires-python="&gt;=3.6" >runpod-0.8.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/2b/47e85f32501c86d1c96e419036495ddd475768fd3b908027a50e22a3ed3e/runpod-0.8.3-py3-none-any.whl#sha256=3aadc1b2205aac4b6cbe6d206208f97a3da763ae6e0eb007b814498d35ba3a0c" data-requires-python="&gt;=3.6" >runpod-0.8.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/16/cd0c6390d96a4e728e910eb1caf84f24600028d46e8aa0897c8f736d0da1/runpod-0.8.3.tar.gz#sha256=4950b92389b5d63726c03d0f6d5a65ad2ae49e5bc84afbb2be69b5068da44e0e" data-requires-python="&gt;=3.6" >runpod-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/aa/71ea42304ed1e8cd1a8421293bce5fd28561b93c9ae4444e710306c5c532/runpod-0.8.4-py3-none-any.whl#sha256=8035d7dfba292726aeb47733927a2fc99d3c4160af598586035347eb3d0a409f" data-requires-python="&gt;=3.6" >runpod-0.8.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/ec/3b6aa073ec4703c63236156342e24029f99c6b65db0ebd34f9106df15509/runpod-0.8.4.tar.gz#sha256=f6d0c230d7c341c864ca8462ddd284291a22d22995b015336de046d2fec5045e" data-requires-python="&gt;=3.6" >runpod-0.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/43/37/fde204066e8e099930afc5f95b9a0d40f35bda54ae4950a64949e7b9ac95/runpod-0.9.0-py3-none-any.whl#sha256=1016e96c7f09e050a3534e05e39a8a413fea0c7d19915a9fedd470ab61f8ccb6" data-requires-python="&gt;=3.6" >runpod-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/ec/9f782b761af2a0b63f715285907b0a638b9a5e1707b071edab461e270cd5/runpod-0.9.0.tar.gz#sha256=2cb9622cd1e356cbdb7fd75d1f57dfb90e323d66550d679444c6a0f9f471a8a6" data-requires-python="&gt;=3.6" >runpod-0.9.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16395593-->
+<!--SERIAL 16965585-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for seabird</title>
   </head>
   <body>
@@ -46,6 +46,8 @@
     <a href="https://files.pythonhosted.org/packages/f8/a5/1938fb554e14791101e31f49f676647a4af2bc6f93967d89a32084526af5/seabird-0.11.4.tar.gz#sha256=503ddc9af149e7e968d11b2e6ace6d05fcf30cd3f9db06713f15e7bb355c7997" >seabird-0.11.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/f8/4b/fdeb123cf9d9c7767fd2089f9a0e364e6caeaf98df754bf19ba2f668239d/seabird-0.11.5-py2.py3-none-any.whl#sha256=17145605e1e619abe5bfa9b09fc6ba441da0b8883cc910c4a7f4ae2bb3de43e2" >seabird-0.11.5-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/b4/5d/5b49e3a077b9d598c44a26f10c0f840d12ac3a2f462dde48b7c10250647f/seabird-0.11.5.tar.gz#sha256=cdcdb2d5a5d599660aa01593533e97c19b393a3ffe04a7b182b2d0aa738fdffb" >seabird-0.11.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/c9/32a34c894ab90880a4d94fb542f20f9d536b7aa252edb2d1531dee4f0d5c/seabird-0.12.0-py2.py3-none-any.whl#sha256=a26934d2dcbbc32a81ac1f8f1a5922799bb7d6016c7031547bd14b24580cd812" data-requires-python="&gt;=3.6" >seabird-0.12.0-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/9b/0d78dbb97ddf4aba17f6c0d729409e994ba3b6c28211107d48b3744b81c3/seabird-0.12.0.tar.gz#sha256=f5902a3e795946f09e711a02e0b2dcc7efa782d5238cab5de2e2858d72af27aa" data-requires-python="&gt;=3.6" >seabird-0.12.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 5860131-->
+<!--SERIAL 16606227-->

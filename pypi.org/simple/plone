@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for plone</title>
   </head>
   <body>
@@ -180,6 +180,8 @@
     <a href="https://files.pythonhosted.org/packages/ce/b1/859f9f71e03a84e1d718982be51de1322f4412ea45d58433c16cfdafbc87/Plone-5.2.9.tar.gz#sha256=fc0d4a7007fc4e5d6b433abd135610f8804e83a0f803906ffa6f53bbddac0fb7" >Plone-5.2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/01/7d/2442531d39c7da11fc2fa91d8795f3713b4ee4a3cddd185f81c2f99c7029/Plone-5.2.10-py2.py3-none-any.whl#sha256=ed016bad7c6eed864c2d35adfaf8da1a0bc11bbed0aaa51d9323b1d819e2dc6f" >Plone-5.2.10-py2.py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/8c/53ea5dbc1b172578927ac4cea639213dce46569afbaed283a203f72dcd95/Plone-5.2.10.tar.gz#sha256=a12991fdda30dcab80819773914055f89c1493a249b617cc1c2298ac9a9b55eb" >Plone-5.2.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/bb/5e3e7acfb852dafc57bd13f740bab465175a184a6f0cbf1e1ec6380bd3a3/Plone-5.2.11-py2.py3-none-any.whl#sha256=126c25a63e781348c2b1b54ff1a468bf8ecb01f23cc78169b29cb90950963422" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >Plone-5.2.11-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/96/cbdce558a8093fff818ea7362cbc6e9039df429acc47882896b53336e42b/Plone-5.2.11.tar.gz#sha256=bb45a94e856000c5ba76f6e5c23a76659fac6392add058af0f75a7d282600863" data-requires-python="&gt;=2.7,!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*" >Plone-5.2.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/23/e75bcf352e4fbaa75a3a2526040c05d8bbf903efebdc35e9bb669508eb17/Plone-6.0.0a1-py3-none-any.whl#sha256=842ad3dc7bec610cafb3db07dfcc3139e49219bd4252f4f5491398c57b0ef9fa" >Plone-6.0.0a1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d2/eb/3a35b7c3e8f931a7b6022878a3702070deef6a09df6d4fe028f2cb812c67/Plone-6.0.0a1.tar.gz#sha256=9dc360ecc2f52c2e8bdec6eb1c2a0c07ee47ab1c9adb08ce493ccaa9e4b7da63" >Plone-6.0.0a1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ac/09/90178c2a095b23510798ff7fea0f2bc6f27b97ddbd303023ab18a3a16a96/Plone-6.0.0a2-py3-none-any.whl#sha256=96778db369261c1de22e8123e9235de6e0085d8cc124bd7037a6a777e0c4ed53" >Plone-6.0.0a2-py3-none-any.whl</a><br />
@@ -204,6 +206,10 @@
     <a href="https://files.pythonhosted.org/packages/9e/f6/f80e1c9900f73df062f0b3123fb0949de40c4c1f3df4120951bc70caa756/Plone-6.0.0rc2.tar.gz#sha256=a55eec953a1b1f1fd0a9386e8b58f3417efabb362036929779707e7604ca5e42" data-requires-python="&gt;=3.8" >Plone-6.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ab/a4/c4b64ff40adb6e4ce1c98cf79bbbf1fef73a3e57704c4ce439f3a06a69a8/Plone-6.0.0-py3-none-any.whl#sha256=e89ce3761e6a30e4e8d3e55853f4d8e9a092ff6cb007ff92b72b64903f8bcb86" data-requires-python="&gt;=3.8" >Plone-6.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/cd/d4/f1bbb272c73b89b6e1e08d65f9e5863da1d1fecda66b8117003e7b39ec2b/Plone-6.0.0.tar.gz#sha256=5faef9d0eda5f317e9008c08550399c04108512aee521d5892d7776181cb570d" data-requires-python="&gt;=3.8" >Plone-6.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d6/87/4ee5282b3308902427561e484768c0c07a2098a4c2ef2bf5056b8230037c/Plone-6.0.1-py3-none-any.whl#sha256=5e23e581b50cfac4eae1fe8a6c13118c0631ae6ce1eca288aa4f4c5b22ed1827" data-requires-python="&gt;=3.8" >Plone-6.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/34/14e04188fe56d72ad77b154a554aed908ed6d5572b18dc2239cb69ee3e20/Plone-6.0.1.tar.gz#sha256=cf34482c898a6c9dbb20a32a04c97200ea19dfad76fa8fa15b58af9c0ce98d84" data-requires-python="&gt;=3.8" >Plone-6.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a2/d0/796bad5cc8ec4b71c8e47dc7b2d1c1197b01aedcb5a18668f1280f305238/Plone-6.0.2-py3-none-any.whl#sha256=96cded5fe7f389ed214552734d25ee68fed4beaeb99039034827210c5c919aae" data-requires-python="&gt;=3.8" >Plone-6.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7d/60/58df2204a5d5b7460032f057ed98b70587b2d484d2000f69419b0b44d386/Plone-6.0.2.tar.gz#sha256=0110d21f723e0552ef649dbd4e4bbc04633194512dd15b5958831ae680b8a289" data-requires-python="&gt;=3.8" >Plone-6.0.2.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16076073-->
+<!--SERIAL 17001324-->

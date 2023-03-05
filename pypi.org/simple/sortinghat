@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for sortinghat</title>
   </head>
   <body>
@@ -96,6 +96,20 @@
     <a href="https://files.pythonhosted.org/packages/4b/74/8ee3aa5f1095a55d65bc565a8312e5eee2f831324459f0df2d66935b870b/sortinghat-0.8.0rc3.tar.gz#sha256=4ffacf8530108fb67d84911f0baecfd7b302f97d69b128d0f4fb8897b0953b0c" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/df/97/9088892420f687a7d12008f79a02abf90840b0031ea726d4b30e34c96024/sortinghat-0.8.0rc4-py3-none-any.whl#sha256=b248d92b5f86c3dfaff6d544992eda629fe42edda6d5957f44f2524ffd423f95" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ef/86/8d152c11856044bf82db2502968f9acf14336bcd76712c085bfc0c8d6040/sortinghat-0.8.0rc4.tar.gz#sha256=38a9f5402cedadb5af7cf4555d48de103afe884bed7808bf2644f28875744c35" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9b/e8/c669af3f3a999906d36f980e5341610068fe3e1b29eab71543df6fc570da/sortinghat-0.8.0rc5-py3-none-any.whl#sha256=08abcb570df4b841c54abac9dd5de1684e4bd01078046d6c9086f97466ecec06" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/b9/f4fba31c37263257ccd84277da9633b8d1780b52dfa538db90c96dc78765/sortinghat-0.8.0rc5.tar.gz#sha256=422b0b28dddc30a673613fdc3088ee81a13154e9d4f0c48d105b964a64aa55ad" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ae/13/fc023cc4fb300bc25779c595ae084109c0ce5fced96098af8fac20293b26/sortinghat-0.8.0rc6-py3-none-any.whl#sha256=631cb181f1a7c79e8267b82fa90d5b06467f34eebac92813baa768eb7e6d6455" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/98/c5358e24804350dec80d4188151953b411dd3fa3b64f1776ce8494d631f7/sortinghat-0.8.0rc6.tar.gz#sha256=b5b6f9c408c72ba61e990662f7e37e54f146ffd7d0d182e27177a08e32aa05b2" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/13/06/8a4cc83521f77372bfc777b5a98d196a908d02ae4e0dfb846da0705efbf8/sortinghat-0.8.0rc7-py3-none-any.whl#sha256=edf05642acbf6b6689c6f2511618b16c7db9addd3deb25d1e7c8d638054e5f58" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/15/997a83200c7c90f7125b4e46d53bdc1994ea9ab518b2e7925a38551a672b/sortinghat-0.8.0rc7.tar.gz#sha256=308d1393e8c45e1284ca2d67ef98e6dff9a3b2c9aa835846b4b01573494c0c41" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3c/53/82fdc1fa9a90cad607fe154cd4db618d3517bbded440bef7109fd268599d/sortinghat-0.8.0rc8-py3-none-any.whl#sha256=04c77ad87a80397609c844369f88ffc8503a6df58187c41eb01e28ec0f70aba9" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/00/5b/2ef791d016bf1c0c54f95a712b67463d4251a4ad867ec5fa57cb2ec2f38b/sortinghat-0.8.0rc8.tar.gz#sha256=dead87db0ada49d360edeaf9e023d46832a181af900dbbfa83f3ad149da90f27" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/94/12a0282452ce88433d8db979bb94769e255a35da9f8fb58096b37e73b35d/sortinghat-0.8.0rc9-py3-none-any.whl#sha256=77bb1be54c96448bbd32cf2783b0bbd724a130c14e632aa2d0c68e7dbf9e7fe7" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/17/58b80ea39303319ba3865baf118e676dbe41f60b245508f6503c84ff92d0/sortinghat-0.8.0rc9.tar.gz#sha256=78a562eb11c5dfd87ea0086701902c62226f8d4dc77a788d1e34e23b8caf5d1b" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0rc9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/f3/565a6420cad31c96d58d92307c9886345f1450cc19176c1383d7b8d57d4c/sortinghat-0.8.0-py3-none-any.whl#sha256=e7b3eea4340a292256165a60967c23a5b8d6b84fb015877ad50e94c4c309dcfb" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6a/11/cbc8cb523108dee0a4d9fde3ad1752aa9a50e9b1ad2a5a6fdb4d5c5eb0db/sortinghat-0.8.0.tar.gz#sha256=b552f3191154dd63b05b614e55dae0bb7a4d241e5c15d8e44e3246e05aabbb10" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fc/47/0770fd2cc34b1e7d1c61d2b03760b39af0b0d9da94617c033bf564111883/sortinghat-0.8.1-py3-none-any.whl#sha256=a999b569055519e5d6d335e57d9075fab2995b63ea0b40e89245c1efed738da6" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/0f/65296c8db336b379600bdfa5c905497d27f45057b2e28d5f0a8010f72361/sortinghat-0.8.1.tar.gz#sha256=e0182106e4d238dd161845321ffc0ae9b7f79f47f3f9b2700b8fc7cf8544309a" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >sortinghat-0.8.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16373358-->
+<!--SERIAL 16678873-->

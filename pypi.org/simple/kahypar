@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for kahypar</title>
   </head>
   <body>
@@ -113,6 +113,17 @@
     <a href="https://files.pythonhosted.org/packages/a9/26/344960584efddaf35ed1bf81ed58a5c88e45947f83d075152cb52d67b74a/kahypar-1.1.7-pp38-pypy38_pp73-macosx_10_9_x86_64.whl#sha256=0bcf1a6f9a5928b9d24c4af2341d63a39331f05c30e6b18e54b3943ce9156672" >kahypar-1.1.7-pp38-pypy38_pp73-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a7/40/8e328ac261b23674c3baa1d20e4461ae1c56f4709f19294381e88084c9d6/kahypar-1.1.7-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=05d2b3442c37f31b2f4abe5ace63f7dd0ab7a415b4b3fe09875aea83e2d97af0" >kahypar-1.1.7-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/7c/2c06374565c2a14bc6ecf8efad09859e908d0255dbde62289b671691bddc/kahypar-1.1.7-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4a3a57081118713d82f54615cd35bd3e1f49cb5c1d18e717622370a1aea74f53" >kahypar-1.1.7-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/20/ebf2e096db8330ef3149e7f207ea08dd2e929a24042a338a60ca5ed06186/kahypar-1.1.8-cp310-cp310-macosx_11_0_arm64.whl#sha256=d75bde82712b4184b6158e31c570f854900ab92b21e70642cc662d2529cbbfb5" >kahypar-1.1.8-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/49/a5/9677397eb3c20d47830d273193b4939887f818a85755acf585cedc4ed605/kahypar-1.1.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=fc7af45f68f87cf4336cedcb7347aeb3cfed4b9884749491d2e0c810f901b8d4" >kahypar-1.1.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/36/ab297061897c57afb1893a0ca6060d27aec1502ab3906943c109162ac117/kahypar-1.1.8-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4647b843b9cab9744024cd765f81dfa2d5b61df924b08d12cde7e5d4b5ee6939" >kahypar-1.1.8-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/28/9db0eaa1166b52dba5b0c7341d8f7db57938909e55cc42b39378fee69ea6/kahypar-1.1.8-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=78da07756df59cdbd1c019d1955f7642333a6ebf941c91c5ed3ed54adddb15f6" >kahypar-1.1.8-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/68/b2b830f8e8d9713baed6d50afd9fd36ed581a19706565684b71a754b88bf/kahypar-1.1.8-cp38-cp38-macosx_11_0_arm64.whl#sha256=9e379a229262edce3bb476609dc40d327c710e516e32f5524fd754421e5c27cf" >kahypar-1.1.8-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/e4/76e24644d150cc6199c69095828d96c14f12f2990d2ebbf6f777dd9e9e36/kahypar-1.1.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7324a7a87359738384a37bac9adcfaea3d124eaad2c88868789d1094bbe57b84" >kahypar-1.1.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/87/9fe1fa98f49074798672d74430f5b1c2a39b777f5c5428ca559a7dffbeeb/kahypar-1.1.8-cp39-cp39-macosx_11_0_arm64.whl#sha256=1e3b0471708a1f4da2af2acedd73501b1c6ee4c379b24397a77f01c478ff280c" >kahypar-1.1.8-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/4c/6f9ff7bc8e8be55b4e16fed3ad1c812a7f38a15cd528ac8f5ca1101280d1/kahypar-1.1.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=11aec7bdf7e6820d67f0bc286d60beb099ab502d75bc45160732eff7c8b18452" >kahypar-1.1.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a3/4b/b0426d92ab0feb310c1ff37bbbf83507109096d66ade2d1e9579719bf700/kahypar-1.1.8-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2b372bf3f844e93b826d87dfa646a1be2db9d19dbcf5ec7645a9e1075e543dda" >kahypar-1.1.8-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/ba/65d00c60c9d226c120244db94c47f28f17050413ccdd640472c403996ac0/kahypar-1.1.8-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=7426fc525b59b94d1bf67d4469a4e63af4179444babab6363c66db8e8fdf5710" >kahypar-1.1.8-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/e9/988bd0c5907b1b764c4a41c7538961c1ae1af7a336750bcc6ed3200bbdc0/kahypar-1.1.8-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4f973ba71d7c612e3281830262ffee5ea238ea6021a8fd9111e30066b6c881d8" >kahypar-1.1.8-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15444666-->
+<!--SERIAL 16449746-->

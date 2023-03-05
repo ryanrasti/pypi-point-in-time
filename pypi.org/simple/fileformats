@@ -1,13 +1,33 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fileformats</title>
   </head>
   <body>
     <h1>Links for fileformats</h1>
     <a href="https://files.pythonhosted.org/packages/a1/9e/b45dc47920157ae3befa68135629c67d5c3f3eef7df394b7008c1474179f/fileformats-0.1-py3-none-any.whl#sha256=bf3fb5f7faa48e8b42e7153fb0d6373e8a8e03a2613ab36dcf04785600d5e2b5" >fileformats-0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/da/0c/c6156fd8a198962d0b03bfd99ecb013b7a320189a79d30cfe5fd73f60ada/fileformats-0.1.tar.gz#sha256=6e8bce584bfbbf3f98b7040f8e69ef700abc03462a9e3df43a125d4bc17fd1f4" >fileformats-0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/42/d499c2661fd1629a90d085558a98cd23ca062f3073b0ce29cbbc8f4b907c/fileformats-0.3.0-py3-none-any.whl#sha256=a0b4d491af57fac60dbd6ded7a8645fbba5ff91b7dec34620f88e445d02693ae" data-requires-python="&gt;=3.8" >fileformats-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/81/20a8fafaa4803ff3ab745b34c7df51307147be6da9620fbb18c7704edd99/fileformats-0.3.0.tar.gz#sha256=093a0111bd9441c3f81b2147261eda50ae9448d50763909051c160dfde0e6c6e" data-requires-python="&gt;=3.8" >fileformats-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/af/3d6ff1e108e1834234f071fc3813cecc8249feb66f03d20339d9904bb087/fileformats-0.3.1-py3-none-any.whl#sha256=68a8898416237a4095b64d5ac01520c81fe51bb84f0abb215dc03f480f85d373" data-requires-python="&gt;=3.7" >fileformats-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/6c/45ab60feeb4a9a26c1574f40ed927de83eb75d4db61b8ad16c1d2e7087f6/fileformats-0.3.1.tar.gz#sha256=372c90010c94067958433fea50e789b5a3283b9c4b5b3190325875a4e0f95c06" data-requires-python="&gt;=3.7" >fileformats-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/94/d4/827c7f9528134f42e809f43999c0a6bd4c732e74dfd07a1809a7767df4f0/fileformats-0.3.2-py3-none-any.whl#sha256=68be88f79b8b0ccf96d6e7974fc5661aedace5f0a15db997028ce1dd2ded88db" data-requires-python="&gt;=3.7" >fileformats-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/79/23/71612a35e0caec76724d8c68103958ee3dd56c7317524e203dad1a0077d5/fileformats-0.3.2.tar.gz#sha256=df9cbefab1b5b858eb8959664439dacc30b0242208b6655a288b20af683bda05" data-requires-python="&gt;=3.7" >fileformats-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/d5/1c1d3c35e79ea1a8bc1f840c081f27d868e904ff65bfb764a30dc004ea24/fileformats-0.3.3-py3-none-any.whl#sha256=3739ba9a732f0d190d2a502967a41f36c24104a9ea19087ffaae9fef916e66fa" data-requires-python="&gt;=3.7" >fileformats-0.3.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/eb/ba/94647e231cdf41ec69f68df840242cb6de525a68e44a5715e1f0a14c2fc1/fileformats-0.3.3.tar.gz#sha256=0ae6f2bccc29ffd64a359b4f73e1f90ba7853078a284c0cc8b252ebb37719137" data-requires-python="&gt;=3.7" >fileformats-0.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f7/60/d72151bc3769bd49a5d2b065f19bae7bdf90928d1af7afb71532bad0f109/fileformats-0.4.0-py3-none-any.whl#sha256=7f13f5d750ab6ab29389aa63db1964d0795e81840d21fa902a9b08278afc6e14" data-requires-python="&gt;=3.7" >fileformats-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/b0/146f7d9f5a2f3555390ac347c463cbd404c1c93cd08e2df2978ace2e1569/fileformats-0.4.0.tar.gz#sha256=760674e4d763b47ff4c8a0f6fb208015f9da5dc610cc9976f3beed4a31c73fe7" data-requires-python="&gt;=3.7" >fileformats-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/0a/2b4f034dc70104f9bef6f862ac58fcb5cdad8ccd7308f25b9cb99ab9f54b/fileformats-0.4.1-py3-none-any.whl#sha256=7145db0b2d26de14fe1ee3fb39c1e56ea30615a76d6b33e41ac9d13002c8d498" data-requires-python="&gt;=3.7" >fileformats-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/18/1660b33a7a470af39fdbb1ef841ad416e4aae044049bc38b174ee0e8722b/fileformats-0.4.1.tar.gz#sha256=29a828a334bd2f865cef54681a1b2e028023c35b81e4209b77846a866f34378c" data-requires-python="&gt;=3.7" >fileformats-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/c7/1b947c1eba5848663ba1a666d16ed830f4e7466cb36978715b612ad98346/fileformats-0.4.2-py3-none-any.whl#sha256=cf6f1cb1abb97080895918ad72658a0b3d3a85b4fbc192b2e9e3fdc43eccc23f" data-requires-python="&gt;=3.7" >fileformats-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/52/a9572ae9b41ffeb8c9a4ee0bca9d58928e32ff17bf5adf6585c0f062c01a/fileformats-0.4.2.tar.gz#sha256=ba4801eba885bbcad7f1b36fe7ed07a5d73175f7608f888976521408acbd8846" data-requires-python="&gt;=3.7" >fileformats-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/74/4f/c27d70dc5f6e20be4ac80ee89cbea1370fc893f4d6f815e393a8e17fb32f/fileformats-0.4.3-py3-none-any.whl#sha256=240eb1ebda9c7e23b750e185ea82c60f253c53d7aeace9977827513dc907d03d" data-requires-python="&gt;=3.7" >fileformats-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/bf/a24a703deea55a411094cdd8327f1e50a9c6a95ff5c8a9e7edd95cabff98/fileformats-0.4.3.tar.gz#sha256=b906be2856b5b7dc46beecc097d5ef60cfbcd413a2fe0f2e8392ecd8a01ed326" data-requires-python="&gt;=3.7" >fileformats-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/20/e96e1d75151ba05298a2007a199f23b21a761ac079a51921064b6faecd5d/fileformats-0.5.0-py3-none-any.whl#sha256=e16b675943b69d0bf59a1c11f8aa1aa475ebf88241c71ee6826b34fd1f25deba" data-requires-python="&gt;=3.7" >fileformats-0.5.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1e/17/9fc3f5fd44b541638d79b234ab04bf3d3b340e7a58e652f4be39401558fa/fileformats-0.5.0.tar.gz#sha256=67cdc82009cffe3dc2243f52bac7bb7be0992e562e2579d0b654e2161a121544" data-requires-python="&gt;=3.7" >fileformats-0.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/6f/6e3e990a45a2f315804fab719e54eadcc2b1016e4e80cf9f1db4c0e5b870/fileformats-0.5.1-py3-none-any.whl#sha256=18af1db8380412d2b32bd1c000f5bdca2f927b12e89b5a9e3bfe1b044d1e91a1" data-requires-python="&gt;=3.7" >fileformats-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/e0/2d707a31a194997927bc3d39d044ba51b0570e7366dbf7787d8fba5b08a3/fileformats-0.5.1.tar.gz#sha256=290368ec49185152f49818ed000e7a620a4866586c52e192bc8edd2ffcf806bd" data-requires-python="&gt;=3.7" >fileformats-0.5.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16214573-->
+<!--SERIAL 17139589-->

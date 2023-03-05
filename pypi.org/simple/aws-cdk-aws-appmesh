@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-cdk-aws-appmesh</title>
   </head>
   <body>
@@ -486,6 +486,20 @@
     <a href="https://files.pythonhosted.org/packages/57/89/32ae19e8742eefc925d24108694934188a3bf21114997f8d5190b7001096/aws_cdk.aws_appmesh-1.187.0-py3-none-any.whl#sha256=d0a5ae2bda9b374ac5bb601516a05778aab60f5b456d0a78b8bab7cc7b0fc6e8" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.187.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f2/e0/06678b7fb1b4508d14e8b02adf4707d40c8bfd759881bf65920986eadad0/aws-cdk.aws-appmesh-1.188.0.tar.gz#sha256=eed3320a3b7de7551908f6d039b01c5b668d8aa946d0df918d06c7502f56c9d5" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.188.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/7f/828c4a6cccf4278280a1cac50083d082fc81533808bc546775777505312c/aws_cdk.aws_appmesh-1.188.0-py3-none-any.whl#sha256=90b3b52a216e8793314668d9e9135dcd1d6d076a413a90a78824642e05c45d50" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.188.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c4/5b/843e278ddcf90abeefe3bdab887eae33eaea0b5c31ab13c62a1555562bff/aws-cdk.aws-appmesh-1.189.0.tar.gz#sha256=509e2d4a02f2c98cfe97d0bcefcd18a4fcf192e373a9b775efb5e55a61e6d86c" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.189.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/43/8ae9d8630de45e4dc5da63628fc676133a00183ff20d7fc4007c71e193b7/aws_cdk.aws_appmesh-1.189.0-py3-none-any.whl#sha256=9861c4444882dab46dc08c0bc20d1b9d975c02eae92af3739e70a11b277975f7" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.189.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/36/b5cce112ffe71cb37c83e0eb9920fc577304862e1d3a41a559613d3a2b11/aws-cdk.aws-appmesh-1.190.0.tar.gz#sha256=82cbe5b614339a786057d06daf9b882c3d8ca04f8a32d3e38ee4f27961063d8f" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.190.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/09/27/287675d2c4a9cc57b89f1880028cdb687dce2ef25c0272417b85729893f6/aws_cdk.aws_appmesh-1.190.0-py3-none-any.whl#sha256=0d6da2da22b2785e2c842c0b11fd3b04890e5aeaf3c26efa12d951333581048d" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.190.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/3a/8bb47ca5a7dd4ec086b402aec28c7beeb811a2f1bf74e96df397d5d7cd88/aws-cdk.aws-appmesh-1.191.0.tar.gz#sha256=d7e4a704fae1d9be45c84d786f985e57322267327984e4723bfcca1ca003d534" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.191.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/37/f0/0f706268987b89a7daa256deaf5325dee63397724c9deba7e769da391151/aws_cdk.aws_appmesh-1.191.0-py3-none-any.whl#sha256=761b89efd75ac9d27aef39d0138bf3fa598439817898d461e9a9ddde501c6d8d" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.191.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/91/06a170cf67f95c3aa37f94ceda58c4e6fd8a53100dfb1a18c45991be57e6/aws-cdk.aws-appmesh-1.192.0.tar.gz#sha256=27444292c9ad4b0b9affc4ec048a088fd9bb70d1b66397f3af865be8de0009b5" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.192.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/36/fa8ea1dc41a0ba7d809a253e05539c4573fd40457ed9aaa0771efae2ca3d/aws_cdk.aws_appmesh-1.192.0-py3-none-any.whl#sha256=995b4ff1f226c23125aa07653e2961701110fdad2ca9f6c30bec9c7f3660c0be" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.192.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/56/77b1392c5d8075f07f388def3a513fc69d8a74821eb5ebaa28e2334ec257/aws-cdk.aws-appmesh-1.193.0.tar.gz#sha256=4763ffbfc0f7d4ab6c5b619352bb452f1ef5c8fbf90be1a135d14eccf0f224e6" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.193.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/47/70ef4a8bf493cdd41980d1201bbcc3df71a3b1ff0b5bb7428c60fffd9814/aws_cdk.aws_appmesh-1.193.0-py3-none-any.whl#sha256=a11fc9ab56d8621f3300dd837a2b43e1e3a75c3cbc22a2c3a064b8c7fa39d0e8" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.193.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/be/b6/f75902e6e33cacf05e85861fb02c4ed55f2f82c7f40cb9fdec81d4916946/aws-cdk.aws-appmesh-1.194.0.tar.gz#sha256=93d0edc5f3c5c8d2f736a2941f9cd4fbd67aeba7937241964905b10c2744282f" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.194.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/42/467e2d0655fec64c6be3614844d45e1ded97a26a9131d7037ec764f81956/aws_cdk.aws_appmesh-1.194.0-py3-none-any.whl#sha256=91d4c349f480fc9a05002edb601c9ee46f56b177b144da6fce88cc9cc3743445" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.194.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/3d/3b65b6e3bca6297b50ba010cdbbf0bcbe267fd40b6184fdcd4db461d19c1/aws-cdk.aws-appmesh-1.195.0.tar.gz#sha256=776c47fa8609d7e4b9a3897e20274a1f1457e36fc94f2df5d5e4286742d422de" data-requires-python="~=3.7" >aws-cdk.aws-appmesh-1.195.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/b3/72fa76fd3b35f093538900d78835149d83be0135a99c779cd8a6869bdeec/aws_cdk.aws_appmesh-1.195.0-py3-none-any.whl#sha256=584d36755cec3b18adb9615bb38c7966185bb444e5d1f657b62a2965caf97d7e" data-requires-python="~=3.7" >aws_cdk.aws_appmesh-1.195.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16393280-->
+<!--SERIAL 17131793-->

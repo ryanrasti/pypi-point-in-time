@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for traducteur</title>
   </head>
   <body>
@@ -22,6 +22,16 @@
     <a href="https://files.pythonhosted.org/packages/42/c5/ed9458b38aaf3c87d318af17c26ad71f3d06ce22208c6fed718373866f50/traducteur-0.1.9.tar.gz#sha256=0f6ee84dd8cf3bd7c244869b56b8b53f7550e88fc490753177d7ab44f84e7c44" data-requires-python="&gt;=3.6.1" >traducteur-0.1.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/cc/21/52e24d6821f1f99e4367924d017388e322dd87e23365058c1653df74401d/traducteur-0.2.1-py3-none-any.whl#sha256=dbcb3a9548af3a267305dc16fc5f9e70a60ae6d5e9a0d28d04c60c70ca173108" data-requires-python="&gt;=3.6.1" data-yanked="Bug in manager code" >traducteur-0.2.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/75/8d/0fe077c35a7636337e73df5ae404fce8dd96cde82f1f533d3d2f4b7b17ae/traducteur-0.2.1.tar.gz#sha256=ad8f08f6f6c4cc61d5662b17754c8e692777e5de9101791a4bdb640c40ccabbf" data-requires-python="&gt;=3.6.1" data-yanked="Bug in manager code" >traducteur-0.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/c7/859c58af6b9eb344c78a036c8778fae8118c0361d87a2ea74c3762516669/traducteur-0.3.0-py3-none-any.whl#sha256=d789f5738bc94e45a0d2551638450500060c33147a324558e6a66f2871b040f5" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.3.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/60/a690bd4e7b93adfdf4df2abed02d8f3731e4cde2d59f3b250a5927ac1012/traducteur-0.3.0.tar.gz#sha256=6a797854485273fe263989be0387a1bb29e0d5e91b29fabda1a0083f8e021b24" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/cc/249c7f194419410cc732e72e50d322078fec768fc124dcbc65f3c896bbd4/traducteur-0.4.0-py3-none-any.whl#sha256=7044ac1a27b6e3fe4264e63a4cd01826024bf3b8fc30d881b7a48e6a92f46a90" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/e3/0290d7c02fad60bddf8b581b47157cc9da4914ed61cae8e56359d4ddcbf5/traducteur-0.4.0.tar.gz#sha256=dfd5253598f61eecdf58ca002cf69f83a7c6590a723dc1d91e1a22f7cc8c6598" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/cb/46c910581220e90d1ec7e4cdbcb55bc2b567a4d37b6d7ae0939cb55ee303/traducteur-0.4.1-py3-none-any.whl#sha256=2d453a658a70273e5742cc9bff834fe05181753ac3e372f83fa02b074ce9c8bd" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/70/899090c863ca7ba09a58eaa5a1d6fc84009e808fbd700149ea024dd03f29/traducteur-0.4.1.tar.gz#sha256=6a4eb4b43bf96c2526b01361516024cbef8eb85680c3ed15715226185a3873e5" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/01/def4dd043ec77e9a4377c5a9ec12e220972db95077c91463da582a990be1/traducteur-0.4.2-py3-none-any.whl#sha256=fdf8786674730e72162131b5dba4eac8403bba9f2c09c511194333c36d99a511" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/bb/99478701a7a0861f30c7b24d88c5373308266fe61c69800bcaf700672dc8/traducteur-0.4.2.tar.gz#sha256=9f6e68142c314fd619d5d7d47d070605acfc0cad5af0c9032b5aa785e5247327" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3f/88/bca1a059b7f6d6f2360f026e9ef7158b3c4bf8963364f1bb18ebf42d887e/traducteur-0.4.3-py3-none-any.whl#sha256=c13d447b407716c11ef5346b47f0e35d375e7e97fc7f6ba9bcc3216e8fb68bc2" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/ae/d22fa1aab2d35c54d54761c36335560b53718ebc02aeddb2f4dcaf98417b/traducteur-0.4.3.tar.gz#sha256=e1b078a1816730c075b4a7231afb94d23b0acb39d347523b5363862dea04fb90" data-requires-python="&gt;=3.8,&lt;4.0" >traducteur-0.4.3.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16174745-->
+<!--SERIAL 16601519-->

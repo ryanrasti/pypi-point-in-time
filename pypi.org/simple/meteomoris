@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for meteomoris</title>
   </head>
   <body>
@@ -27,7 +27,17 @@
     <a href="https://files.pythonhosted.org/packages/a1/92/8fae44506f7fcc45b06525bfecf2e61d519c62f25c1005dcd2697031cbf0/meteomoris-2.0.0.tar.gz#sha256=3a3f57a4e9bf167573ff74f899766e1b542d561a5fbd0cfb0b291599d6e9ec7f" data-requires-python="&gt;=3.4" >meteomoris-2.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/82/01/cd809f73cd66a7544c8171c9fbd00c3b41d2285f2843e612f4ea2727f0f9/meteomoris-2.0.1.tar.gz#sha256=ce275dac497684baaf3b0420e1bb96c8adeb3cd2208b623393d994bb9c2ca635" data-requires-python="&gt;=3.4" data-yanked="Broken install" >meteomoris-2.0.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3a/e4/166a59dd96c34a9964fd6d410f54098ed4db11d54e0ffe010496823f0183/meteomoris-2.0.2.tar.gz#sha256=cd08e148734e2fccba82fc995d2ad13a953592f4e224e93164412aad9c052194" data-requires-python="&gt;=3.4" >meteomoris-2.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/31/bb/639ab4f80dfa65b8566f94a73520d69852090fcbaa7b62c196c4ba1ec7d8/meteomoris-2.1.0.tar.gz#sha256=3c6a5dc1e44f84a5f59626207959dd44de24e00420794be69ff06794dfd97876" data-requires-python="&gt;=3.4" >meteomoris-2.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/e2/b66ad22ac1e1aa77d6f100d3c89a426d8bb50a117baa4e82231b0cc18deb/meteomoris-2.2.0.tar.gz#sha256=af482914a59e03abf93c3bb9ecf523374718c9b3189b0891d999d6ccc0bd127f" data-requires-python="&gt;=3.4" data-yanked="Broken Install" >meteomoris-2.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/cc/b2215d1c3e73420bf2b527ec7aefcac3a499d7941a37ad37f071015f92ae/meteomoris-2.2.1.tar.gz#sha256=a96325ee39052dae0d9e62ffdbeaa05b4deb3a1df3adef27bbc8025a36394fbc" data-requires-python="&gt;=3.4" data-yanked="Broken install" >meteomoris-2.2.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/da/da17a37b0f7c60033dbf75d860eac0a9eb95761bc56dd034ce68def4cd6b/meteomoris-2.3.0.tar.gz#sha256=b2747519f69e510375f5cf7f68a0c22e2f37b310efb26872ba903a5d5ac3e2fa" data-requires-python="&gt;=3.4" data-yanked="Broken install" >meteomoris-2.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2e/22/d08969b7ee105bbcab4ed68ba9c2fc66ce4f41bdad625289ab4ce7b72d7c/meteomoris-2.3.1.tar.gz#sha256=de229e1588c5329eaa0c51a85ab49c11c339c0e0f943e1d2b920496a7d158f10" data-requires-python="&gt;=3.4" data-yanked="Broken install" >meteomoris-2.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/4b/eeaad6a76558e80a4e542b34746f37dde924d559b70619b290e81cc9bbf1/meteomoris-2.3.3.tar.gz#sha256=734a07dad8e3d2507b28e28673f2788aef2941bdcb70db71083080c83e148bcb" data-requires-python="&gt;=3.4" >meteomoris-2.3.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/32/18b0550e78da4ae27d5a63991b9e4abbcebb477cc3b190700c71480d9dc9/meteomoris-2.4.0.tar.gz#sha256=9da8327a175cbaa0d6eecf64a7d860b727ae518a3b0b29a3988fe59315d2d751" data-requires-python="&gt;=3.4" data-yanked="Moon phase for today broken" >meteomoris-2.4.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/58/d4bad53933cae3783bc161e7a06daaf593e4baaf74961e90e4c4eae53582/meteomoris-2.4.1.tar.gz#sha256=96a6171c8a60e73b4f817963ff4c4e11ed91197253858d82f526697d90ad5fd2" data-requires-python="&gt;=3.4" >meteomoris-2.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/cf/140a71ed0f50c91ba5bd074ca8ba5851007452395d338787cfecdd6c53f0/meteomoris-2.4.2.tar.gz#sha256=cd7a49d2c0edc8606a645b5632eef7c7b079b87bf3bd1faa0e4fc4a81a7d32be" data-requires-python="&gt;=3.4" >meteomoris-2.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e5/d4/ad6541b8c301c35ee2074312044a737ef320cf2ce6eed2ba0b1d7f0822f5/meteomoris-2.6.0.tar.gz#sha256=d15e36c1148d85a14073fd0f02f1225ab17ae6e598c2892ad8e78b0c5683b22a" data-requires-python="&gt;=3.4" >meteomoris-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/69/38c75dfc85a0e5123aebf9f400d229b7e63892cc914556f0bcde0dc85d34/meteomoris-2.7.0.tar.gz#sha256=afeb7e148274c5098dd8c89d58651c4d247169c888cf818b75df6a53ef4b8ea0" data-requires-python="&gt;=3.4" >meteomoris-2.7.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/9b/37f4e4df44c5049144c0ae9dca1963361f617bc7299e60590cbb3161f030/meteomoris-2.7.1.tar.gz#sha256=2e3a611288dcfe8667fe2045afcc79bd6da9229754639e9cdf1b023a6a92a973" data-requires-python="&gt;=3.4" >meteomoris-2.7.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 13134345-->
+<!--SERIAL 16663827-->

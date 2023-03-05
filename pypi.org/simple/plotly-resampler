@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for plotly-resampler</title>
   </head>
   <body>
@@ -83,6 +83,7 @@
     <a href="https://files.pythonhosted.org/packages/20/f7/f4049304d0691d13dc84a4b30730e35caaecc48df98fadfcf5712de04d19/plotly-resampler-0.8.0.tar.gz#sha256=8b747440afa6eb08e8503a3dde6bb3413be52a819a79a7a70308a089686e074a" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly-resampler-0.8.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/73/c3/9de00bea9b8aead6d1f95d101a2dc9fefb45f9fa5cf6b687c36ca91c76ad/plotly_resampler-0.8.0-cp310-cp310-manylinux_2_35_x86_64.whl#sha256=5168f0712baff934d36070425d2ab75629a276becc87ac765ca093bf30ca794d" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly_resampler-0.8.0-cp310-cp310-manylinux_2_35_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c8/c6/f00d575c17473a374b0ab4b2311dd90288fc4c87a5bb3b49820b9f11f91a/plotly-resampler-0.8.1.tar.gz#sha256=774940a64bf6e6d9fe0eafff42f12ca1f3df7a3603efbcfcea5ed901fdc6b35a" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly-resampler-0.8.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/8f/63c373e88c54c73551d86e6decacd274432ef94830e3ffb3b762fab33519/plotly_resampler-0.8.1-cp310-cp310-manylinux_2_35_x86_64.whl#sha256=185a5ef18675245690ca752f86a987b820daf13d822c09af7bf17255e16576a4" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly_resampler-0.8.1-cp310-cp310-manylinux_2_35_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/43/9d/3304356edeb971fdabda4f5e135a08afac98f1f21a005073766308fe63cc/plotly_resampler-0.8.1-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=cc4d11bc7e339fe13000dba19497586d0e3e6b12de98d8f84a8e219398ee54b0" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly_resampler-0.8.1-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fc/8a/7da254e0621a61b35cd01ca17f7dca9300be0d55f5ade384868f880ba1e8/plotly-resampler-0.8.2rc1.tar.gz#sha256=10247208512403530369b672375f84e2a4a4b7a64ad9fbf411ec30b96422c9e2" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly-resampler-0.8.2rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/79/b1/11f5c2855a6902325d2b82756de53bfd782aad13ddb677c9921ca862a328/plotly_resampler-0.8.2rc1-cp38-cp38-manylinux_2_31_x86_64.whl#sha256=f8e1f90b3877e2d0d6659c9271bbeaf81af8a1485c9fb33f2c8d67ec72cedb62" data-requires-python="&gt;=3.7.1,&lt;3.11" >plotly_resampler-0.8.2rc1-cp38-cp38-manylinux_2_31_x86_64.whl</a><br />
@@ -94,8 +95,10 @@
     <a href="https://files.pythonhosted.org/packages/14/8f/5df0814f340941c0a8971e0469dff8ae3c2ed0c0df5edfcc59f883055585/plotly_resampler-0.8.2.tar.gz#sha256=fa089db1b99e4e178efd093b29a7c3f921c628157b363821c52809401a6ffa6e" data-requires-python="&gt;=3.7,&lt;3.11" >plotly_resampler-0.8.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/23/7d/4ed81619b384e050469feb0b11a0735f03f7a16702757b3f51a131966295/plotly_resampler-0.8.3-cp310-cp310-manylinux_2_35_x86_64.whl#sha256=f62bc60a81572e238d2f4f86b98e087ece7cad67e3fa14aa6dabed99b2de67f4" data-requires-python="&gt;=3.7,&lt;3.11" >plotly_resampler-0.8.3-cp310-cp310-manylinux_2_35_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/35/1c/1dc2fa913f36660b8d4d40fc5c9715a2c78c2b6b47380c8087438293bf5b/plotly_resampler-0.8.3.tar.gz#sha256=d656986d458370ea9a3486042b00b942f32746b5ef173d55786b7a47910bd809" data-requires-python="&gt;=3.7,&lt;3.11" >plotly_resampler-0.8.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/25/8943c32883f9f2db06a48225a553688dd3dc8bceb1c5dac3c29dca822b28/plotly-resampler-0.8.3.1.tar.gz#sha256=44727ae1212e2532fb1bb34bdc9876b3d830a02f2f4a49c7fad25ec0e1ce4c51" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >plotly-resampler-0.8.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ed/1a/7e84bf144c42da6fc5274f4b04d1c72f102ade56d9d804ee71876a68736b/plotly_resampler-0.8.3.1-cp310-cp310-manylinux_2_35_x86_64.whl#sha256=42aa3ad39093be34dca4349a2a2d2417e089c90eae6cbb28bf90b06a53aac396" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >plotly_resampler-0.8.3.1-cp310-cp310-manylinux_2_35_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c3/c7/e86de65e4b300de2a4839f2a6466c0ebfe4bd703deabc2ea22b105576f2f/plotly_resampler-0.8.4rc1-cp310-cp310-manylinux_2_35_x86_64.whl#sha256=cbba8e0cb1eaf45333997e9642d2f0cd3d8afca917cb8f489ae1a31bd22dc054" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >plotly_resampler-0.8.4rc1-cp310-cp310-manylinux_2_35_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/d7/5e/71a9e34a36c1855d0c4e30a88405d58c4bbbe7ece802b188628a643f2cda/plotly_resampler-0.8.4rc1.tar.gz#sha256=154ebffa9778813fe457ac9112e71e085ac283644a1e26b869bd5c6b7bf064a2" data-requires-python="&gt;=3.7.1,&lt;4.0.0" >plotly_resampler-0.8.4rc1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16172827-->
+<!--SERIAL 16665784-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for bigflow</title>
   </head>
   <body>
@@ -362,6 +362,20 @@
     <a href="https://files.pythonhosted.org/packages/62/2a/3542243f243671b1b300a7d33d007a7b6ddc6cb76ab330589784948d655a/bigflow-1.5.3.dev1.tar.gz#sha256=edcac4c4b2cfdff8adb7efb391da68f8395602b8cee6a5ffa3bec25886d2ee22" >bigflow-1.5.3.dev1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/71/00/db47278699625f87cc5fe8d440fa05436463f25fe07b1f41ec602867eae7/bigflow-1.5.3-py3-none-any.whl#sha256=d75dededb619a5bca687603a97ea3de9e8e7c4321e5fe48286751a8e081cd129" >bigflow-1.5.3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ff/99/5429fe3c59c719e478d225c879fd1d41efd971d2d92d3f7cf1dda5142e10/bigflow-1.5.3.tar.gz#sha256=b0e4d1854dab3d0c056bfe17ef7a24ee02599c150ac6b2c4810b8b5a66920d99" >bigflow-1.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a4/b9/7646bd13d673e6f689359d8e4ad789777c70045335365109f438314fb536/bigflow-1.5.4.dev1-py3-none-any.whl#sha256=e3820a19f4a733325bc0c9f276fb817181d5529a31dffb15419bb72db0801c30" >bigflow-1.5.4.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/bc/af3420eba9e4198c5df42ee496c2e914ed3ca98c10fa38a6857c37c2d0ca/bigflow-1.5.4.dev1.tar.gz#sha256=24d5599ac4004378f8a007f3cc6181f256ebb320c3dd6fd6263137b0d30797c9" >bigflow-1.5.4.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/e5/3654e482e275ffaef37ffacf2bb35dbef1eb0872ff964ec4d11a577a5a84/bigflow-1.5.4-py3-none-any.whl#sha256=2b65d2f8b3cb260f3f8f8e02cdb5ea722c210a2f7d3ecc76ea6aa034cfb53794" >bigflow-1.5.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/f0/7e5b5f3d020a80c7f38bf6a1a9cf2818d760266e1af33a6b468216972860/bigflow-1.5.4.tar.gz#sha256=e3ec40e772d7d4bfb40f74776fe9d63081ea3567e4d3cca958ef012859658c1b" >bigflow-1.5.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/c8/7734b93079ce0a2dd55e2411f8342899536e3fc5152d99d9b6a4bad8f5d4/bigflow-1.5.5.dev1-py3-none-any.whl#sha256=670dbbb6bcefa449d6c4096810a91bd6b5a8c678fc351823a33c72f781968d90" >bigflow-1.5.5.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/05/92e84dd60d4a9fdb98caf83f13f088ca82d284806261995af9f0568b5aef/bigflow-1.5.5.dev1.tar.gz#sha256=27e7a1369c55908dd9512161f64f360470b3ea23f62e036e8ce7c10fd306bf86" >bigflow-1.5.5.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/b0/e5ca3af10dbda8b51a4d8d919de613e2297a819c81ccbd15ce4c22bbd373/bigflow-1.5.5.dev2-py3-none-any.whl#sha256=cad27fadd9bb9ed39b8eb79c96c22333927e0ddce786a75fa2b0bbcbf63dcaed" >bigflow-1.5.5.dev2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6e/2a/03cb623b7b931ecf32bb48153ab6889028b6c8352b71fe43c59a6e91a08b/bigflow-1.5.5.dev2.tar.gz#sha256=e1a0e75adecb182704cf8044369e2279d906cfae937104545ce718481b6fb950" >bigflow-1.5.5.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/04/e7/8b1f2adbb362d93261447c982ba86a5c9ee5c9dc5e01c4cab0b955721942/bigflow-1.6.0.dev1-py3-none-any.whl#sha256=46104a6aecf162a98a6ea0cd6d1fbd72ac225a775edd0d6452099dc7e2bba7ca" >bigflow-1.6.0.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/61/6c/221bbd9ae97704c8b1d94268b8e0097852c0294a6dad80c43080f6d23f10/bigflow-1.6.0.dev1.tar.gz#sha256=e817e6dced67833f9b617237f6e09a21f40e7e54fd0bc0f4b1e7ef02803cf60d" >bigflow-1.6.0.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1f/2f/582bc0cbdb05514c9b7f9605ca5a59d7de90e4a3f54e318ca1df9a8412d0/bigflow-1.6.0-py3-none-any.whl#sha256=51aee6b5686c45e2c9e7e8664ff8fc993d27f8a6f2490023ea215bde904be47e" >bigflow-1.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/78/db4c07444323933818053c94e4974cb4d24eefeda376641fef6640cea54b/bigflow-1.6.0.tar.gz#sha256=62fdc804e2463044aefaf7d70d62acb99353b2c1b631b9cebd6d54c2d1c43076" >bigflow-1.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/ba/672913f6ec87a11f460ad464f68c43a09a71af2442c9c6b5b483c86904a9/bigflow-1.7.0.dev1-py3-none-any.whl#sha256=803aa285c1784e2c5d9b1eefd1bc1f9463ebe6c44724c6b46a63aed504e2e627" >bigflow-1.7.0.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/4c/49abb990f45a5b1d775379f278b7facbcb2cb8fe07d2545e68c0218d6ca0/bigflow-1.7.0.dev1.tar.gz#sha256=3e9554f6bb98e7fe728ee7881d904e8d1db529fb31167e5558085f804f27a538" >bigflow-1.7.0.dev1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15911610-->
+<!--SERIAL 16996027-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for nova</title>
   </head>
   <body>
@@ -160,18 +160,24 @@
     <a href="https://files.pythonhosted.org/packages/bd/fd/07b9dc7c04b776c054f237d654246ab476680e9b4bcbfd74f2e47c93521e/nova-24.1.0.tar.gz#sha256=5468b9c03696c7ababbc9b94526c098a2291875aaf46df102153709f7f7a2691" data-requires-python="&gt;=3.6" >nova-24.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d1/9e/ea1b81ec44eb8cbdb8d1585d285da456eab48f0e8447873902b921d68872/nova-24.1.1-py3-none-any.whl#sha256=9ca15b7cfa333f409274105cea3759bc0aae1d822ba1102686357ecde2cf8798" data-requires-python="&gt;=3.6" >nova-24.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/62/12/b8abca6d88e1a36f298b769f6f837ec57fdb28b580c9a2e9917d0b92436c/nova-24.1.1.tar.gz#sha256=b832b874c39ba4a3c095dc6a8af806584bd1c4663f8cbd0debb8bfd1443034d2" data-requires-python="&gt;=3.6" >nova-24.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/13/85f9e12098f8f312312175bc37558cdceb218456c4d778946a980f4254cd/nova-24.2.0-py3-none-any.whl#sha256=8dc97fb83bbbb5fa8a0571f157cbeb4281a1fd5759da0c86f1ec2d8c1cb7c665" data-requires-python="&gt;=3.6" >nova-24.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/27/e4/e2f5757758e59a89b77cac83b6ccfc03bf35c29114b01786d92c4bbacf96/nova-24.2.0.tar.gz#sha256=684392857e7390cee990a3b54dc79e2859a0114de40cd66d43bfa85105a8d056" data-requires-python="&gt;=3.6" >nova-24.2.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a5/d1/cf2974ff91d561b2d935b9d9df1ef79ffd3de43e0482ebfe5cd4be5cb6f6/nova-25.0.0.0rc1-py3-none-any.whl#sha256=839d3117ef8c1c142628e1d632a0aeb40ca1863b695b595d8b13e9041dafcdda" data-requires-python="&gt;=3.6" >nova-25.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/52/33/bdc3edd62df94c31a09460b5b318bf2ed1e2be1ef6b30f4671baa2c18aed/nova-25.0.0.0rc1.tar.gz#sha256=2eb607bd7fcdaae1bf690fc95141ecac3789dbd7b7cae484abe1ef9b0b77abc6" data-requires-python="&gt;=3.6" >nova-25.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/49/b7/19442be0b656d2d60bd6f497bc19e939ec67f28d5ecffcd3a04d43fbc182/nova-25.0.0-py3-none-any.whl#sha256=cdb437ecb3d13c6556c90f34879312cc807abbf7b7eefd5db3a7a92d0a9988e5" data-requires-python="&gt;=3.6" >nova-25.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/82/e2/b67db00abfa884537074fd1089cb41890e59bbb53eb285128e4ded6d45e3/nova-25.0.0.tar.gz#sha256=bf9e0fcb6b986811cbce30569903a2a09bac2ddee2ef1f38b4f71f7fbafa520d" data-requires-python="&gt;=3.6" >nova-25.0.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c9/20/e804a2720ea2a7c411f7f00c6749aaf4d534f9dda506dbd1e5836a5dd029/nova-25.0.1-py3-none-any.whl#sha256=28a44370df1dd8e465601561cd13ce201965074fdf2673454414a3cfc9c6d4ed" data-requires-python="&gt;=3.6" >nova-25.0.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/32/f0/20825272fc5279bdf5d0d9f1791ceba4e0b12204153cd231d93255864be4/nova-25.0.1.tar.gz#sha256=536f6fb1834f94e2d4e51cc6c6d50b81a614553535a970c73d6920a9de79e04f" data-requires-python="&gt;=3.6" >nova-25.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/ec/088335ccc6949d94b147d7f49b6fb07688382ec8054901124c7842372f0d/nova-25.1.0-py3-none-any.whl#sha256=09ecc97ce417ff73f1b1e1d0211d8938febbe065335f88f8cf5cbd741e6674d9" data-requires-python="&gt;=3.6" >nova-25.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e2/6f/0f5ffdb3f86fb157a622145bafc9da2255652e6692968aa0dd274cd29eff/nova-25.1.0.tar.gz#sha256=a969c131c0032dcaaab61b5ec345e08bdfbb573fa8d50f7d912de0ceaa6ab623" data-requires-python="&gt;=3.6" >nova-25.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/43/da/37b5bc5ebdc554cfc09199b7ef982949e336984146738002a7f950bac358/nova-26.0.0.0rc1-py3-none-any.whl#sha256=7dcd111723338027b3c5a48c742be8072e8e9af18a8e50f851fc1dd2d0725ec7" data-requires-python="&gt;=3.8" >nova-26.0.0.0rc1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/8b/9f/d52115859712660f47bc5069fd39c46eb35720ff5420a0666732ee062198/nova-26.0.0.0rc1.tar.gz#sha256=a70d1da5fbb48def83dad5b2fa78148f552ba5024b186393342e1b9364481644" data-requires-python="&gt;=3.8" >nova-26.0.0.0rc1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/77/2b/92489687c7500a8f93c8a5e5edfcadb8ca4d9552a0f9a3ed2cdce71cad75/nova-26.0.0.0rc2-py3-none-any.whl#sha256=509049df89f9d08bee447ce7fd3255cc59fd3552b4e72608cd1872a7e0aee811" data-requires-python="&gt;=3.8" >nova-26.0.0.0rc2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/4f/13/dcf6a6a62b7e1c4328d2f5eb1f01b110df45d92dc5f8c271b45ce8550622/nova-26.0.0.0rc2.tar.gz#sha256=77baedc6ae0adbe2ee17227cff705f07ca32fe4e8184945718663e9a0a047680" data-requires-python="&gt;=3.8" >nova-26.0.0.0rc2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d0/65/16231b830fec7ddd15719fd50d3a9d831dd9199d537c2781b3ff859f1ced/nova-26.0.0-py3-none-any.whl#sha256=3061312b19e440a95ef71b8cd336ded14ac1b2eb6da6f5c92464127e2a029ed9" data-requires-python="&gt;=3.8" >nova-26.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/e5/12/1fe2ad27ba015f361e908dc21750010c9e093d67f75c5133024a22205872/nova-26.0.0.tar.gz#sha256=d50aee322658fae6a20bfec04db5fb27dbb7a2984105828214630cfc2622c484" data-requires-python="&gt;=3.8" >nova-26.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/3c/c5848bd93d534158ad0c483c861184b302454b6e02a20237e89bc22fbf55/nova-26.1.0-py3-none-any.whl#sha256=48c120648137edfe00e455fcbbb6fe7dfe6c89329d08409bb2f162bd78638f74" data-requires-python="&gt;=3.8" >nova-26.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1b/3c/b766031e2817e0463486cd3895ebf914ab692697edd92e6d1ad27654b294/nova-26.1.0.tar.gz#sha256=9784728687965ac7c3dd5fc9052b0cde7973ad46c1273be5b1abe3d7b58f9677" data-requires-python="&gt;=3.8" >nova-26.1.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15653240-->
+<!--SERIAL 16574635-->

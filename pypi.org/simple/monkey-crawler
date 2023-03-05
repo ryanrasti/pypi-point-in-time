@@ -1,21 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for monkey-crawler</title>
   </head>
   <body>
     <h1>Links for monkey-crawler</h1>
-    <a href="https://files.pythonhosted.org/packages/04/4f/d770e89d9a8ed492dfe64d49b4db22d3dbbcc59f0a9bf99a27b46b13de05/monkey.crawler-0.0.1.dev1-py3-none-any.whl#sha256=6a6e80067bdac6ca2ba9b428a05ccb0809ce13aa358cfc43e9afb60579cd2636" >monkey.crawler-0.0.1.dev1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/f1/9c/25c92e773242f9d36bfed408ad819f9557428c27f4beef626ec364fab478/monkey.crawler-0.0.1.dev1.tar.gz#sha256=7e5f68f8f4819a3e120adf79c1c227c838c27a56c3ccfdf116f481564fe15dfd" >monkey.crawler-0.0.1.dev1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/1b/bb/10b579ecc1dacb0d0b51de49379f7cab71af4779c519f796d777e82e7aa4/monkey.crawler-0.0.1.dev2-py3-none-any.whl#sha256=d146057564697f871b0568b529a454bf64ae886bf4cb9301c5abbcdac39d458b" >monkey.crawler-0.0.1.dev2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/af/5c/6fd6f672c86396cf2cde502f7bb3f6079e42331c22ffb13f3d7dfa35a3ce/monkey.crawler-0.0.1.dev2.tar.gz#sha256=db30d652234bae775c200780b17e9047e5dee70efe7a901cd4e01cb684fd21dd" >monkey.crawler-0.0.1.dev2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/1f/8d/502f964441d4f5ca7cbdf1cd5b3d35090a6c86e6f7f2cf22672694c6acb4/monkey.crawler-0.0.1.dev3-py3-none-any.whl#sha256=e0165853cb92992f1c197bb7d110fadcc3161be9f7b0f922005c46a90359833e" >monkey.crawler-0.0.1.dev3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/c5/9a/38651eb0f7b8b7b6df5baaa84bbf238409cb49efe0c59928ef53d2441d9a/monkey.crawler-0.0.1.dev3.tar.gz#sha256=f33e4ab0dc09c70bc1b2ca7f8e03f85d74e648fd82fc13673e2627b896b5549b" >monkey.crawler-0.0.1.dev3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/9a/67/f8e95008562ab3370e33b59e761234cea28d2c7ffef177193a0503b2ed5d/monkey.crawler-0.0.1.dev4-py3-none-any.whl#sha256=1e2db109459f39cf7370fbdaba1f17ab2cd840d9836635747b5e6be9dca5ead9" >monkey.crawler-0.0.1.dev4-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/82/ba/4cbd9f9bf027ba00b45d81cbe96391ed099702d5b56dab645067e9f27901/monkey.crawler-0.0.1.dev4.tar.gz#sha256=d9b0246390be344869fefdce466a4094913f0c3f295e402612a5f25bd509b3a3" >monkey.crawler-0.0.1.dev4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/f5/e1/12aee3c8c62c30c070923ba788ed5e098a42d644010910130f37fcc4849d/monkey.crawler-0.0.1.dev5-py3-none-any.whl#sha256=e5331eb6314ac6fabc2becf05909c21ae23566e4a987f34f2821ae0c2d825792" >monkey.crawler-0.0.1.dev5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/c3/2e/3a5440a8c233f4068ba54d5ea44394dd8358dd8db2067e8a1a557fe1a70a/monkey.crawler-0.0.1.dev5.tar.gz#sha256=b2fbaaf34fc657f8bcc60150096217fcad3a7b7439666c1b2ccaa4cdb557a4b3" >monkey.crawler-0.0.1.dev5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/02/e6/854575184a20b1c0422e02fbe4351158f36dd5de92c9964d8042ebaf6dda/monkey.crawler-1.0.0.dev1-py3-none-any.whl#sha256=61c05910f7133b42bb2213ec075f07ee0104426e2250d4278d8f62ac1ec250b4" >monkey.crawler-1.0.0.dev1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ad/75/dcd87ab7d3ce8fa904c7221b7779bba36a293e2aa87f97ff19f65c80f7fd/monkey.crawler-1.0.0.dev1.tar.gz#sha256=9156b8d2e04152bab341149a72e0d492772904ad0e8dbfc992d299fa1124664c" >monkey.crawler-1.0.0.dev1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/e9/0b/c80f8e2dccf0f9daa6cc4a0ad1a0307d24a1b2c74e448c647a4e6766c620/monkey.crawler-1.0.0.dev2-py3-none-any.whl#sha256=775539766c6f28b26d47690882376184fb8ee2222eeaab708341c02e30fc16b1" >monkey.crawler-1.0.0.dev2-py3-none-any.whl</a><br />
@@ -30,6 +20,14 @@
     <a href="https://files.pythonhosted.org/packages/0d/08/513aa613c9384d4e5df86fafca87133c5816af37314e1a0fcb574653f3a9/monkey.crawler-1.0.0.dev6.tar.gz#sha256=3b766387485d3e57395de50beb8673d742ab7962574b429a01a0c57d98c21dd8" >monkey.crawler-1.0.0.dev6.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/16/10/9ead8f94f538969e4a279b0e4e64f735f277788d28a11a6e5218b7d74686/monkey.crawler-1.0.0.dev7-py3-none-any.whl#sha256=2b6777529faf184aa685dbf49471e183df51156dc71b805f51f3cffd981b5403" >monkey.crawler-1.0.0.dev7-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a0/8b/cb785c995e07afa023e50d2d0727e3f2edcaa030eebf5c718087a75181b4/monkey.crawler-1.0.0.dev7.tar.gz#sha256=0107d7ecf582f1adcbc47bf6b17f4e8fb7638d1292458b1a9256aaec0f3c42be" >monkey.crawler-1.0.0.dev7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/95/6ddc8fc4356f81e4289a1eeb70bba0c89b84f541b08d69e5daeb77748bc8/monkey.crawler-2.0.0.dev1-py3-none-any.whl#sha256=b8265beee81abdc1f27d4dc3b47d12b31df1aef16992a51292402e3d1f269d75" >monkey.crawler-2.0.0.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/d4/7d365f455d3c8e1d2c9521ce19cc2f632f3410a476323b1320d26357bd9f/monkey.crawler-2.0.0.dev1.tar.gz#sha256=c13395eb9c3f5f45541e5dd458a2cf66020be6a8500b6654c4a3a4e983886356" >monkey.crawler-2.0.0.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/f1/458dd324aba4bc4f7471f64f8aa7ce579b18f43d60f25ec51fbbce61db3a/monkey.crawler-2.0.0.dev2-py3-none-any.whl#sha256=f3887206208e9f553bf3c7985b89044ecc1460e8638f1aa344c0165e40ef709b" >monkey.crawler-2.0.0.dev2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/d0/c4511f02bf3bfb3c871d82986f3f5f7017793b1b099f68cdca99497c558c/monkey.crawler-2.0.0.dev2.tar.gz#sha256=d87f721f0ef4311a665be0c131850f09aea2610dbab605f6a31d52af8d4fa603" >monkey.crawler-2.0.0.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/44/30685e323024679b3f3f2315daa381cb67237065df54e5c3193bcbb9eddc/monkey.crawler-2.0.0.dev3-py3-none-any.whl#sha256=d2be33a7861d19b37f1896397c4f45fa031d6ef9717289379a6ba1c1254a62e5" >monkey.crawler-2.0.0.dev3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e3/3e/7131d9702cff643be979e7dbc54ed4b6c56bfbc4675709e757a2c5d10298/monkey.crawler-2.0.0.dev3.tar.gz#sha256=debc5f6e7c9ff61bf17e382ae96739825f135ddbdf0409f7d49a21a5ccc928e9" >monkey.crawler-2.0.0.dev3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/98/ce13d756e95ac2105fc325a8ab9f69121a55a47fe7ffa806def6f06c24c6/monkey.crawler-2.0.0.dev4-py3-none-any.whl#sha256=1dea94f2f3512f051ba81da89b8c3d337d160340bb36e741fe48223808e6e988" >monkey.crawler-2.0.0.dev4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/63/8f778a06f3575d7a94bfd4a1ae691912abf0492594508981ca1222c96370/monkey.crawler-2.0.0.dev4.tar.gz#sha256=331e701b54ab419df9e12b59a60654f5ef7d2c75bc9963d7904afd978cdb7801" >monkey.crawler-2.0.0.dev4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15210765-->
+<!--SERIAL 16602038-->

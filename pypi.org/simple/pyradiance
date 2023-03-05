@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pyradiance</title>
   </head>
   <body>
@@ -14,6 +14,18 @@
     <a href="https://files.pythonhosted.org/packages/53/74/437ae6ef17ff6ab43026c8fd664d221b380030f3308befb1c62366ff60c3/pyradiance-0.0.2a1-py3-none-macosx_11_0_arm64.whl#sha256=04978fe5550215c85898f2c5953415479f97f8ca0a572366e4db3ccbc355174f" data-requires-python="&gt;=3.8" >pyradiance-0.0.2a1-py3-none-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/14/1c/4db5053b968d7381f03ab8e6d055d6a7a748407d10137b3cfa2fcf76d4fc/pyradiance-0.0.2a1-py3-none-manylinux1_x86_64.whl#sha256=e0f7c7f13587704aa1a9d7c9617a3166543c62e605f4b68254f0e9de81f91c96" data-requires-python="&gt;=3.8" >pyradiance-0.0.2a1-py3-none-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/06/01/6371d122d343c81e78793b322f9120c18360703d4edf5349fa5ae7d42be4/pyradiance-0.0.2a1-py3-none-win_amd64.whl#sha256=59269da2584bfb470d745ddf0e41cd78fb2682cce6d17b951d568cc425137b78" data-requires-python="&gt;=3.8" >pyradiance-0.0.2a1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/b9/db809d8ff5be82c6aca32af9c7e75fe42b13c50a11ad79fdd85ffff33716/pyradiance-0.0.3a1-py3-none-macosx_10_13_x86_64.whl#sha256=83390945e1c0bb7310fd17bd618cc2e0dfef1cdcfd0df55c88c2e63e3d6567a4" data-requires-python="&gt;=3.8" >pyradiance-0.0.3a1-py3-none-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fb/6d/6b757ac7d12d84b49c8cbd7108a3e4f021ad98724a850245499d48a6dcfe/pyradiance-0.0.3a1-py3-none-macosx_11_0_arm64.whl#sha256=e6d6f93ef946b1109f935f0831ebcbc79a93f2ac0af41541a018e8b7ee47f5e6" data-requires-python="&gt;=3.8" >pyradiance-0.0.3a1-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/a1/882d27867cceda4c2afda931a5450a7bb35377039c1860b2456d4d3b23e0/pyradiance-0.0.3a1-py3-none-manylinux1_x86_64.whl#sha256=b08ba5c17af2599f2f5229aef98e9c83d50646167d73cc8f201360d71e993576" data-requires-python="&gt;=3.8" >pyradiance-0.0.3a1-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/a3/3e1def72031766eb8740cb538241991b02a9099ab74b34cd9664de9ecd39/pyradiance-0.0.3a1-py3-none-win_amd64.whl#sha256=1b78efc8a1d5615603998e9f93795cf9fb2da5791eaa463ca4c8aaf9e88e526e" data-requires-python="&gt;=3.8" >pyradiance-0.0.3a1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/bc/307c6b48475e3885fec6cb7eccea7380e8df98dfcc3591eaa6c5f44c0b92/pyradiance-0.0.4a1-py3-none-macosx_10_13_x86_64.whl#sha256=e169816bc28b3ca49329a4fc84be0fa56403c22d1727e6538d0d84c6f9e209a3" data-requires-python="&gt;=3.8" >pyradiance-0.0.4a1-py3-none-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d1/6a/d1efb8419c3a4cf8534627d289cba42c04026715ff50627e6de88ec0ccb9/pyradiance-0.0.4a1-py3-none-macosx_11_0_arm64.whl#sha256=94cc18bd974bcd3c77df9cbd69f896aea350c241b1b084a3b3c544ae9b5c3985" data-requires-python="&gt;=3.8" >pyradiance-0.0.4a1-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6b/e9/ec95d8d11ae2a6dc32377be9d453c7c963ac3a96fcd1208b6cf8ba063a2f/pyradiance-0.0.4a1-py3-none-manylinux1_x86_64.whl#sha256=882f4e933a29bbb805283809984aebf58b045d6359577f8c1a65b6d52e0ad492" data-requires-python="&gt;=3.8" >pyradiance-0.0.4a1-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/29/e30c4d3a6b05ac2ab8e49338b030f8b86ab1125e40d0b13fc9216bbc81d9/pyradiance-0.0.4a1-py3-none-win_amd64.whl#sha256=43f65df3d0f432ae642fa36a472de4c4ce28b1874f74dad9813965aab78fed59" data-requires-python="&gt;=3.8" >pyradiance-0.0.4a1-py3-none-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/cf/5a5fa29468f57fa3a4cb0923994989ce2d4edf533fc73749548a4c144cb5/pyradiance-0.0.5a1-py3-none-macosx_10_13_x86_64.whl#sha256=7aa4f7eeb7bbb6ec0584742230b36af4d1b22a37b4841ceb1f1d190d9c808902" data-requires-python="&gt;=3.8" >pyradiance-0.0.5a1-py3-none-macosx_10_13_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/da/50adf091fb3edd04b68d4ee916bfe9b90affbe2aec4773e84736bb923dec/pyradiance-0.0.5a1-py3-none-macosx_11_0_arm64.whl#sha256=e566c0c405403e0472e23ebec8a8271e591a885b68976bd0753be9a6b44c0dfe" data-requires-python="&gt;=3.8" >pyradiance-0.0.5a1-py3-none-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/dd/527de06a3cf933406317cd94a634f8317ebd2cd292247026e606d6af3583/pyradiance-0.0.5a1-py3-none-manylinux1_x86_64.whl#sha256=1e33ebe34d7b4bcadc949bcfeedfa1e2b9daf13dafc3a6b3b0aff6f7b8491267" data-requires-python="&gt;=3.8" >pyradiance-0.0.5a1-py3-none-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/bf/136b683ac6cdc6e5800f28850a649f73bfdd30668304ba1e4bef25ac2986/pyradiance-0.0.5a1-py3-none-win_amd64.whl#sha256=1b18e44f9c67335083136622338c456ef0d6d14d61c440be667ec9addc25c3ed" data-requires-python="&gt;=3.8" >pyradiance-0.0.5a1-py3-none-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16380255-->
+<!--SERIAL 16909108-->

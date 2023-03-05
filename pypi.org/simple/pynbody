@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pynbody</title>
   </head>
   <body>
@@ -138,6 +138,19 @@
     <a href="https://files.pythonhosted.org/packages/4d/25/bd3cde6fae342388048ec2638f71e9354551799bcec596dc546e4cbe29f8/pynbody-1.3.0-pp37-pypy37_pp73-manylinux_2_12_i686.manylinux2010_i686.whl#sha256=894f593b0b787aceb381cf97a5099baa2fec33869764a6301be0a7b1dbddd41a" data-requires-python="&gt;=3.5" >pynbody-1.3.0-pp37-pypy37_pp73-manylinux_2_12_i686.manylinux2010_i686.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/b8/4d3cc33f401bc9d4cb39bb246374acc54876bc6742b7afb7367ac35ed06a/pynbody-1.3.0-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl#sha256=ae1461b68ef42a1bc61eb6062a0894ea761ac616140b3dc8eafe8523bcaf9f96" data-requires-python="&gt;=3.5" >pynbody-1.3.0-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/92/67/0db4066239cf1e1aeed373c58ceb75e4f27a70aaba0844fe2b27b0d77d7a/pynbody-1.3.0.tar.gz#sha256=857a35e4cd1c39140c79907e3145c9f9be3dce27bd7724835d392b999d833346" data-requires-python="&gt;=3.5" >pynbody-1.3.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/dd/54f1023720c25ccdbd45048baa3b23a2191cfa2c3cbf5977cbb6c0f6a237/pynbody-1.3.1-cp310-cp310-macosx_10_9_x86_64.whl#sha256=f01a2995c1d4c88250fdf0de11dd4d2e4b5d4da2c2d9c3f8d9493f96b33129b2" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/e8/42b8241c279ed0a74597f801c711521d7614be9c5c544978dee92b83c65a/pynbody-1.3.1-cp310-cp310-macosx_11_0_arm64.whl#sha256=0a0f6cb2c0381c027ad780a5c38095ad6f62189b5e6b1188ebb0324a38307901" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7e/67/db1d9d23d94a9b6156a3b0b29837d62d53882c826a82aa2e5673d94eae79/pynbody-1.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=4d0a324ceb3cd5d8e94dddb4784c97828efbd8d49edfe81c64876a62388eeaf3" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/0c/c823e5400ba8f2555698053c1e4e42489b3f1a8391b6993a8fe6118259c0/pynbody-1.3.1-cp311-cp311-macosx_10_9_x86_64.whl#sha256=9cefe8a126bc003f3aa298fc8faf56ebce76181d2c0973a3485749d6b25231f4" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp311-cp311-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/90/9b/71d41c7e8c89b852ffd0809e12bee3837787d92a01eebdbaaf7b5c2fc4da/pynbody-1.3.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=69462c6bf9cca43859b2719908cb0c6b3df44bfd8e37f5b3f2117ce2ac2f44ee" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp311-cp311-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/33/b9333f90722b292543f09295ecf7241a151f0ee738e8d925735e1d1fcd8a/pynbody-1.3.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=3fd1411b1396b39c0684f2419e207b10652ecc52f93adf4370710ea04c788e7c" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/47/e8a3e83588b757d756669ce2b8f5959594a649d4170e42ce4d4120bf8c89/pynbody-1.3.1-cp38-cp38-macosx_10_9_x86_64.whl#sha256=e7fba4916ac9e322c7faf52b900bf70c2b51ddd25e482f13a32fa5e453d2e10e" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/d6/275fff1bb51d7355b8273060a555049bdafa4226844e52a278da8bcaa278/pynbody-1.3.1-cp38-cp38-macosx_11_0_arm64.whl#sha256=228e1c5791d388d6958d262aecb8883f5bc0f779f91a9511b9ec05e5b8907681" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cb/a9/3b4fcd47dcd5db43f54277c9541de8c61efe9d4a4f48d60dbf08124b2732/pynbody-1.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=2e3d9b7261890a7eefdce6a807e579289eae4e8b077df1d0c5e08d923dd7734b" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2b/78/f0d38f019376b6d2d6736ab3558b4a370c7bb74f9d366c55dc6812673458/pynbody-1.3.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=b3190589f2f30b7bf8c529ac1feac757d5468b9f2db0b02e0e4cd42db7361bc0" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/20/f59ba7306c4f3e581ebea800ecf195dfe4bf4933be9c6ca02106e17dd6ef/pynbody-1.3.1-cp39-cp39-macosx_11_0_arm64.whl#sha256=79c30c294a3014889f105b37f1776f1499fc4fc02021efbd7c4cbfccbebe4622" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/c8/0950892ff46aa1ec76e72a9fb35fae38822e94401424f67d01491492948a/pynbody-1.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=ae29f331065c983129e96e11ac2fdccb685e0ef9a0d345a8b44a8acdfb424874" data-requires-python="&gt;=3.8" >pynbody-1.3.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/bf/2981ba9cd0ae6c8c6fd9d3a5ad8caa987b38547f3a0b88ddeeb1f7e59f00/pynbody-1.3.1.tar.gz#sha256=ea2d27ae03956b18aafb59b8c8b2ac79da807b8d7ef1b50eb4abe26f8c92e7fa" data-requires-python="&gt;=3.8" >pynbody-1.3.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16425940-->
+<!--SERIAL 16600273-->

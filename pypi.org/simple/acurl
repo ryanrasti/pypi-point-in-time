@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for acurl</title>
   </head>
   <body>
@@ -82,6 +82,18 @@
     <a href="https://files.pythonhosted.org/packages/48/b3/a29fb1958d552834de5790e41dbcc1175a97b6ffc56e803b8f7023d19a07/acurl-1.0.3-pp37-pypy37_pp73-macosx_10_9_x86_64.whl#sha256=5bc648d83e04e4580dc384373dcca910bc25a737e3dda0158077a194b2442dfc" >acurl-1.0.3-pp37-pypy37_pp73-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/08/cc/796c3290671d8fa2c0db7dc03768b21fac449ea8c20464107d7e7dbb0653/acurl-1.0.3-pp38-pypy38_pp73-macosx_10_9_x86_64.whl#sha256=fb59ea07fe8594ace7f7ecff65ca0285523b4dd0832fac55555c64ff78f3a7d9" >acurl-1.0.3-pp38-pypy38_pp73-macosx_10_9_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/6e/21/f565a926d9c79f6827122e2bb27f695df8480fed540482acb896d8231910/acurl-1.0.3-pp39-pypy39_pp73-macosx_10_9_x86_64.whl#sha256=0ad90e23bee4d4727dd09a7399caa1410b4dd4f8ceef223b140d153e5c257b7f" >acurl-1.0.3-pp39-pypy39_pp73-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/58/3f/677179bc4890902506cfbf8ab4d73b4b9c3a9bda31248753316abbdf6f36/acurl-1.0.4-cp310-cp310-macosx_10_9_x86_64.whl#sha256=6ee8008ee965cf6b110f60cc8f89daef7aa6a4bee253a052134394523dbf8aba" data-yanked="" >acurl-1.0.4-cp310-cp310-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/25/973c641ac445061db24ab09969fda367b4f2d4d7c0bd4187007b9c6a26e4/acurl-1.0.4-cp310-cp310-macosx_11_0_arm64.whl#sha256=44ea8355ae2d49ff0976f670f99997b12dba49da4f72d35cdd2029f15096776b" data-yanked="" >acurl-1.0.4-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/d6/375e1ff093ed9b35e119e3db7a61be3214e7b5e0a8c57f146933e7c2de41/acurl-1.0.4-cp36-cp36m-macosx_10_9_x86_64.whl#sha256=5c11aca158554d57837949238221dc8aae8d9ef08fd2caab7368c9b8d0232404" data-yanked="" >acurl-1.0.4-cp36-cp36m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/20/ad1ed075e5c0b94dd03fba0c3c86b542fb052878f9f31b62bd9075b719a9/acurl-1.0.4-cp37-cp37m-macosx_10_9_x86_64.whl#sha256=0821d58c4494c4aba71077e6a714421d69befcf70ae0277442bc786c1e2e6407" data-yanked="" >acurl-1.0.4-cp37-cp37m-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/c2/f7f4127dcf638d70d909fc20a2106d3e57c6775852a458e6bd980c78fa69/acurl-1.0.4-cp38-cp38-macosx_10_9_x86_64.whl#sha256=c498005c8b51c39c2d47f887cb710a956058777afa0630d3df19c253367dd22d" data-yanked="" >acurl-1.0.4-cp38-cp38-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/dd/30/2ce74d01a383f6a0f576ec4129041f0c6ba3e0bb82fc3b2ab747145e663c/acurl-1.0.4-cp38-cp38-macosx_11_0_arm64.whl#sha256=76727fad6d0c282a3ac54edf3c0695c65441f8a7e49761871769147870c3e0ba" data-yanked="" >acurl-1.0.4-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/4b/279cad17bcaed5b58b52843bbcb99bef14a6e2eb2e7f82941d8738758dde/acurl-1.0.4-cp39-cp39-macosx_10_9_x86_64.whl#sha256=1db1776e28f9bf421af13893ba6d9bf822b8949c7e59c8917d354f3ff19ee435" data-yanked="" >acurl-1.0.4-cp39-cp39-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/69/47/cacc91d6fee272fc752082c2171bbd156e7b9059041116bfe9ef4b47950f/acurl-1.0.4-cp39-cp39-macosx_11_0_arm64.whl#sha256=42892d143cf06e9cf58115877deb9e9fdce0d7886ef1348c5ffcb03ad567dc46" data-yanked="" >acurl-1.0.4-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/91/fe6598b42a8581cff0889c25ccbc55fd79a079ab98fc6a7b6d1307e20e37/acurl-1.0.4-pp37-pypy37_pp73-macosx_10_9_x86_64.whl#sha256=da6120663f71776545c5bb58d11664827be47ea494847c307c7d2e759fd453ec" data-yanked="" >acurl-1.0.4-pp37-pypy37_pp73-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/99/e546ba63ebebe851cc8ea5b99fd93ec754028c3fe31d6fa3d3392c7b9cd1/acurl-1.0.4-pp38-pypy38_pp73-macosx_10_9_x86_64.whl#sha256=7c0b0e102fef2b14c725a61a2ecbfb7e0ee7a0a860a0ce3ea4224e4fd6456ac8" data-yanked="" >acurl-1.0.4-pp38-pypy38_pp73-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/65/b1/54fa543b43b5b34abee451b096f28be502e95bf81e6da9fe0c89f6d0c11e/acurl-1.0.4-pp39-pypy39_pp73-macosx_10_9_x86_64.whl#sha256=e2b5424050ef0baa89469138a4aa68faf5a79376ac6db3291cac3f30d196f1be" data-yanked="" >acurl-1.0.4-pp39-pypy39_pp73-macosx_10_9_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5f/18/350ae49ecf4e4242b022b3d5ab5763fb4b156ba97d5356c7e68d41231143/acurl-1.0.4.tar.gz#sha256=a3fd797efb309bd8fe338bd695a32b2bde52ad3728ee7b28a824bb3dfe97574e" data-yanked="" >acurl-1.0.4.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 15852185-->
+<!--SERIAL 17112011-->

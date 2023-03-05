@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for qat-core</title>
   </head>
   <body>
@@ -141,6 +141,23 @@
     <a href="https://files.pythonhosted.org/packages/13/bd/0aae25479380e2adf76a77ec83ead14392ddb527041de5563040ecc4adcc/qat_core-1.6.3-cp39-cp39-macosx_11_0_arm64.whl#sha256=170b3b45bc4c9a85605dc3bc02b8a52a5c677b037ce03c95b26ee793d86ec8e4" >qat_core-1.6.3-cp39-cp39-macosx_11_0_arm64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1e/79/49425d36ffdee1cf2008f597bd9965f843f837db7d2e9931fdcfde7a732c/qat_core-1.6.3-cp39-cp39-manylinux1_x86_64.whl#sha256=73befe2fe7c9632eebc0c8a1a4d05a38bb3b34f458393843e2fc125919047f49" >qat_core-1.6.3-cp39-cp39-manylinux1_x86_64.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/87/f7/6b30017d675a2b1445380ca3204aa283d3ba60011f4256f921ebd6697973/qat_core-1.6.3-cp39-cp39-win_amd64.whl#sha256=065604652e0da49a0c82a31e6d364c2f9b43d10bda08ae7b8dd432ec90f22cae" >qat_core-1.6.3-cp39-cp39-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/ff/8ac7b49d3bb742ebd28b946e05c423a2475fb660362edbf45d880a721d6a/qat_core-1.6.4-cp310-cp310-macosx_10_9_intel.whl#sha256=a7b1d184056634ad64c8c220a995889ed7912e7e97c49bf2b52c0f2fdb78e412" >qat_core-1.6.4-cp310-cp310-macosx_10_9_intel.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/69/29ba46887f7dad26b1092641529043c94bb3c59d7f25dceac1c6bc61d79d/qat_core-1.6.4-cp310-cp310-macosx_11_0_arm64.whl#sha256=affcfd8785d30c5c8376d9a84d690740e98b9d0e57dd712df9f8a422102abcd0" >qat_core-1.6.4-cp310-cp310-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/7f/9f4b9708f9832cdc49f3465f23dc791bff553bbef42ee928323f4befe352/qat_core-1.6.4-cp310-cp310-manylinux1_x86_64.whl#sha256=8b275a1178e2415e75c825ac29024b1c0c07b9f95523be415eb2155b21032030" >qat_core-1.6.4-cp310-cp310-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/72/a259bb5ffe254f6709c56890babd4e97d2437bf179d794e375a42e6c2214/qat_core-1.6.4-cp310-cp310-win_amd64.whl#sha256=0f89437c269541b13c2e06c1f39ed560a852382ded3e54b0132be0ec9d618ae4" >qat_core-1.6.4-cp310-cp310-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/76/0ba75ea3fab22a1aaa3623e6941de14c66141625d57653bfec96c8f78284/qat_core-1.6.4-cp36-cp36m-macosx_10_9_intel.whl#sha256=59eb90cd7e99798bcb944a366e6e6ea99d65be1c4a4d01229378aaf953da023c" >qat_core-1.6.4-cp36-cp36m-macosx_10_9_intel.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2c/c1/fb6501b7f4fde09a2c54c64e3c63d23670bb348260be9351d3fd0ff6f4af/qat_core-1.6.4-cp36-cp36m-manylinux1_x86_64.whl#sha256=515a8e67c31272721094895a91d41a51011e44189b472b2136389ee1d48822e9" >qat_core-1.6.4-cp36-cp36m-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/d8/ea6dca816a6aa5fb7ef2060b2bed3b6d0283eafb0ae945c40e84b52d0cfc/qat_core-1.6.4-cp36-cp36m-win_amd64.whl#sha256=71adf0ebf5e2a132558a76a166568c7171b3c3cf571e9e4ca87a626acf6084e0" >qat_core-1.6.4-cp36-cp36m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/bf/ac0569514967d20d1452bca7fe1a493a59e0e722d4896a731f211ef2141e/qat_core-1.6.4-cp37-cp37m-macosx_10_9_intel.whl#sha256=1ab0ec3ffceb435846a8902a3242cf0508da657d6bf201cf7e69eff6a1db72a7" >qat_core-1.6.4-cp37-cp37m-macosx_10_9_intel.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/07/58046ee0c8eb502762907a6b30f09badadea894ece5dfc9d7904f96ff913/qat_core-1.6.4-cp37-cp37m-win_amd64.whl#sha256=e923d8739c2dab14580ecf8f0ebe8908a4ba0e20b480a10f18c8849a0d45b853" >qat_core-1.6.4-cp37-cp37m-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/35/af/789ce659ad7bd765d2367e2e38b6707edf5a4dd5032d8e9b3df1eb8500a5/qat_core-1.6.4-cp38-cp38-macosx_10_9_intel.whl#sha256=88f42e5bfc89e973c1a4ff6c0ca50f96ac3014ad51e61654bc11e5052998457e" >qat_core-1.6.4-cp38-cp38-macosx_10_9_intel.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2a/ff/ea745d13247a39fb8d69ea9fa0ce2dbb302db9115b11532bd5503c10436f/qat_core-1.6.4-cp38-cp38-macosx_11_0_arm64.whl#sha256=98bb46420ee6f4e9266c02a29490b45b2cfea091d1e8c29fee75c8542341861a" >qat_core-1.6.4-cp38-cp38-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bd/a7/2fa7cc393fc16043d54f6cb355cc31797e6b6d6b708aa09104499243c96b/qat_core-1.6.4-cp38-cp38-manylinux1_x86_64.whl#sha256=2a47ce8288c751101741a101bb6a1908307a0f38ca7553391ad2c21a7e069321" >qat_core-1.6.4-cp38-cp38-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/c0/d09a61506d24447c3fd0b905dd0b6c6f06a31a8bfa72eeca4f6990e8eafc/qat_core-1.6.4-cp38-cp38-win_amd64.whl#sha256=f42affe5273a3a90e71375d1edc3964dda10a96d37b4c8ea479ea37549e501f3" >qat_core-1.6.4-cp38-cp38-win_amd64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/d7/f2dd0741b28373778b64a4a1a6ab71004b713af4e9a3ca87f474cb312760/qat_core-1.6.4-cp39-cp39-macosx_10_9_intel.whl#sha256=02f18b561279bbd102ed19ce64375f591718dcc59adab9d83752cfe4f706b0a0" >qat_core-1.6.4-cp39-cp39-macosx_10_9_intel.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c6/ff/d228f004dd9e72204817916384e263b20f0cb9da282ed3aaab94c9a63d52/qat_core-1.6.4-cp39-cp39-macosx_11_0_arm64.whl#sha256=fa084936d9b9d0aa2a9f1fd4cd7d212167cf634a9427d9ac9d6152ca0bf7adab" >qat_core-1.6.4-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/7c/7f16b593262e06ca456227c39496d24843a6c171399822ba8102f344fa03/qat_core-1.6.4-cp39-cp39-manylinux1_x86_64.whl#sha256=29402b438671508a581efb46f76256433d4e57d4ffad39227c95c2ada6a09982" >qat_core-1.6.4-cp39-cp39-manylinux1_x86_64.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/92/7f/35174ebf85f2bf8accac797fb81c0f64b414bee5a6c970d02a145e5bc8c5/qat_core-1.6.4-cp39-cp39-win_amd64.whl#sha256=d5067f85ace22b23679a439b37516550a25a545c84e7bb7811e66c6e6840ad58" >qat_core-1.6.4-cp39-cp39-win_amd64.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16378175-->
+<!--SERIAL 16548477-->

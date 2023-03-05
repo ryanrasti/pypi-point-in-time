@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for pytapo</title>
   </head>
   <body>
@@ -70,6 +70,42 @@
     <a href="https://files.pythonhosted.org/packages/3a/8f/1f0182a941fb71451cbadf995ae97f031656e09871349092f79a6b8df903/pytapo-2.9.tar.gz#sha256=00c45558d5eeb0f1f1bb076506128d42a47d225a592819a43341e3e12705cf10" >pytapo-2.9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/91/18bbbd4ba65346e5e70b4bfdfd6ce19fa54fa7df9e7b5cfde723be704be6/pytapo-2.9.1-py3-none-any.whl#sha256=322bdfede738d16d65bf9c07eb5f53bb991b61fda6066b7934958a6654c3387f" >pytapo-2.9.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a9/19/2941d866cca8352aa53e9f3d71dc3accaf5fafb0f6977657118b04524b35/pytapo-2.9.1.tar.gz#sha256=9262dba6d059a231a2a12ccb414fa75b9f77e1c5895e4f863795bd6c02ae839a" >pytapo-2.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/aa/e0a50a8368d1c662eb8a7958377963447efdbfc9a28f773e2bd470f4bc93/pytapo-2.9.2-py3-none-any.whl#sha256=6acda956cbfd4c6008b37aadd5f243989cedd1d444ea91be381c21edf4bc5cf1" >pytapo-2.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/09/251018d7def3f19e1042dededca3f33908c06b2c0ea34c114cc6ac03e027/pytapo-2.9.2.tar.gz#sha256=2d6d78b83401a8856c8a03b33b46cd4e98d8ec593421601e0cc3c4b9633f9cea" >pytapo-2.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/67/22/00f1eb817cc68a70bd0d2fbfc05c0181818671304d6ce9045f305e86373c/pytapo-3.0.1-py3-none-any.whl#sha256=61c3f53a5ff715a11b436016a5fcb266f855d63a841b5cd70fbd1c042f662c8e" >pytapo-3.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/0f/e09d83293557aaa6ddf9aaf162edd2afe3411d387e1b2695e34d9aebffa1/pytapo-3.0.1.tar.gz#sha256=57595076f99e9a8025c15485543e6547d11d1f11df40766d437734bb1370151a" >pytapo-3.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/ad/835054592ebd935bc24e3816e36e2d42dcb43f64d7388b48a049a7b6063c/pytapo-3.0.2-py3-none-any.whl#sha256=ba7e506d3a5f848362c8d10f2ce9dbb01441fffbd3007264282d34371f1c9fb2" >pytapo-3.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/44/d68f4fb6d6ae1866627212ab37967532c773f97bb2f7da2bc7482868adeb/pytapo-3.0.2.tar.gz#sha256=104814d02e6323604cb760f82df50093f0efa9e719b192b023a2b31056d572b9" >pytapo-3.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/93/8f82984afc46bfe41654d7372ce6f2ab7060f3c7647eaa475e67cb674d28/pytapo-3.0.3-py3-none-any.whl#sha256=6b9d03c2e2df745d351ecae1e7d634060c57fed38ceea731eba1dde92adcd653" >pytapo-3.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/53/4c/8271dcbcb34af6ae70ce82fe129b5c5cbdec729fc3a90122f5c77db2ea9a/pytapo-3.0.3.tar.gz#sha256=000ee22411aa7e4be28aa4f7df206afadaf7c3425497af3781152691be87e2ac" >pytapo-3.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/c8/29cf75df46ba5bd27f00619bf451cf34556a19efb7aa794efe4fc8a4bc7e/pytapo-3.0.4-py3-none-any.whl#sha256=f1926fd7003cfe01428aad82b7401db50e9d747539bec9b5c11e76cec6aca7db" >pytapo-3.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0f/8d/8fab8e7d0c64de40d2ca61da6ae678e96aac78ead5aa1431d98e0896e04d/pytapo-3.0.4.tar.gz#sha256=8e7104a4e4636b1db40214393a8b1a1f9ea03bad70feea9e1f0fe6a19cb32d0d" >pytapo-3.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d0/d6/70f8c1837898b469d410e9c51b856b36841c0d7a6579f0656688764478a4/pytapo-3.0.5-py3-none-any.whl#sha256=d4ff86a7cd486fbfd6292bdc8e12a4acb9f1b40933c9dfea0bdbc1807733a272" >pytapo-3.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/86/4ea6ff827154570752ee0b780c06440ec88f0e88b1891c0de0036019d9f8/pytapo-3.0.5.tar.gz#sha256=5efc0d935f80a21ab98d3eaa08790bdeca37804e4f0526cac2c8e63e4507e10a" >pytapo-3.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/12/48/46094768cfd2d7a974b8501ed5258b302b026882f0d1139998b4831ccff5/pytapo-3.0.6-py3-none-any.whl#sha256=c1a74f228c70118a181067dbe6ceb233188b13b43ad105850a44de8d612d384c" >pytapo-3.0.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/3b/b8/d4039bd3700bd54b33ae813c7861d940dfc76a45bb277caa44c6659a171b/pytapo-3.0.6.tar.gz#sha256=34060bcf2a419d3700618f9c11da7749397ac281c49a8c90987c1c8ed2cd1446" >pytapo-3.0.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/50/1309803dac4d2ce2cb81ed510ca5d929fa9673e19dfb9e2c3e7e15a82bf7/pytapo-3.0.7-py3-none-any.whl#sha256=77fbca3b74f1df4b92447f545aa268966bc3e82fa1c2f8de012df32664e4d803" >pytapo-3.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/60/db/74e4296ca5fd29bf6ae068d24e99b35dd4612a67e3838e6d0fcd8ca2dc0b/pytapo-3.0.7.tar.gz#sha256=098e72e90c2212de944c73e5f4808bf6de551acaac63693f93de31b8f682630c" >pytapo-3.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f4/3d/48c7c4ab633dd9638d4972d9903fc224dba76c2084280c90e7e1919b2ad5/pytapo-3.0.8-py3-none-any.whl#sha256=c6ad7e9764986b7a4f560aa494a93495a9ceb475a84729ec79b44b1a6570a789" >pytapo-3.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f9/f9/6742583c63339088165fd61a823128c3fc14eb6cc3157a5c179ac2d499fe/pytapo-3.0.8.tar.gz#sha256=d37b944c839d180cd9e5057bc385725d024176b73fadaa57735ec95d487933b8" >pytapo-3.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f0/8c/cc52b77504dc2af9c278eb8818930217825ae3533ae72b5ce4c6641d2ab9/pytapo-3.0.9-py3-none-any.whl#sha256=20351e29e6389f33034ceaeae91581d11bd5ce1402b4434c9fa7542b6d6a8415" >pytapo-3.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/c0/2ef9db17039591e0464467640c35e9a575a87ce978eeea0983c16e75d2db/pytapo-3.0.9.tar.gz#sha256=27ec7f25b595b1637ffeff50f3066292e9988578a153890a363bedbf32454a64" >pytapo-3.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/72/eba9581a8b8c9ee50b274b9fa4c29ef44cf742ded697f598d44856251be1/pytapo-3.1.0-py3-none-any.whl#sha256=d49fc4982091c07d746026424bd233d70f331cba06bca921da3cacfc08f3a8d3" >pytapo-3.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/d4/9e544f942528df6ebe46893bb5fe84b76336b8d086601b201baaba5fca55/pytapo-3.1.0.tar.gz#sha256=944e16bf0779b3710437fd463eb73817a64be7c2f844a17712be31240b85c706" >pytapo-3.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e0/4b/83570c4863c683e45366ca44885ba8abf64292fd1844bde440e99b3bc233/pytapo-3.1.1-py3-none-any.whl#sha256=c77383d0c2a5217d15af2b23784c5d9c605f5542478bec51fdf690d7d8be2245" >pytapo-3.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/2f/a9/12900e052c7a81326fe786152d9eb8afd4ca23fa14a159bf87eb2d07d9c8/pytapo-3.1.1.tar.gz#sha256=ba71097f675f712eaafb897a857023cc46a5461eb1c4501f1961068774f2d5f9" >pytapo-3.1.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b4/8c/46d389ca6a90763ebd7414d77014c0ce8bbf9cbe142d29f402dbf64b5b54/pytapo-3.1.2-py3-none-any.whl#sha256=3bc72bd0b6496a35b7b5f61fd01f9deb80eb2ffde0d08a38c2debb85668fcdb5" >pytapo-3.1.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/c2/6cf9806e17978e3544493d9b7abf40ffbc5581c287ce4fe3d3cd7709b4f4/pytapo-3.1.2.tar.gz#sha256=fd62f32ed610b7e529336594a759a2970b2293dcd5a017646e00a8bae9555bf6" >pytapo-3.1.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/66/6f/5edcb6bf0d13a1676f8f90586a3db45b441e17f8c197e2e19c078da6f17c/pytapo-3.1.3-py3-none-any.whl#sha256=d09d3e25b182b169555822890a2e9df7e7fe0db543475b48b689273a553d6acb" >pytapo-3.1.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/85/5741fe4334e6bd6ac0869ff18701fc2e3250ce6ed2f6e92d716d85f9892b/pytapo-3.1.3.tar.gz#sha256=edd3e7c396a77ef56231ce8f9d33baef9fc39c40cd83473717eb7ca7bbcf6955" >pytapo-3.1.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/61/d9a882d330b8ccc415e44edcb50178f7ae7075b8df05b6ae5048ac0961c1/pytapo-3.1.4-py3-none-any.whl#sha256=3c1aaa3c267355d5254c7b73c289555e899a4436e956e356395295a30afb7c80" >pytapo-3.1.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/bf/2cecabbb5094288457ba9f61e11bca644d7ad952ae7289a6dc1cf8eab11f/pytapo-3.1.4.tar.gz#sha256=d2d0bc7a7b9a4253a6929f54f92eef6732d07a5b850bfe2043e8dfcd5b623669" >pytapo-3.1.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/30/0f70e1211ccb82bde3449872dc71a7e97bc665eb4b81d23125f5b75e6770/pytapo-3.1.5-py3-none-any.whl#sha256=ea975f952e7cf67bc411503f8817456ff6198cb23681756be21fb96f40930827" >pytapo-3.1.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/21/b2/b96f4606266850335b48f401bd67dc2e40f72be94188f086883aa2acabe9/pytapo-3.1.5.tar.gz#sha256=e3cec6fa2507591dd9c593522ac0de46f40792626768e35b7902a785cf8f6e1a" >pytapo-3.1.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/10/94799ac8e750680c5c79cbf8fd5f8e8b044663f7ab8e597affebbf69f5b9/pytapo-3.1.6-py3-none-any.whl#sha256=50baa16a2bfad5d5fbe566caa6660c73f9513890aaa2515ea87be351bf1fc34d" >pytapo-3.1.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/9c/8e1b51fd06524f60fd8af603483f6207a1d69678eca5468f483375bd0863/pytapo-3.1.6.tar.gz#sha256=495f638f837eea082f613cfdea20222384fb1a29201a90f3168e2020e6044d4d" >pytapo-3.1.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a5/67/ab22cf94a082410fc56bd30f0df6f2c1d2bd593fd1161b3180bcdc00dbd7/pytapo-3.1.7-py3-none-any.whl#sha256=1b416ed7df91c7b5cfb0adfff03ecc507ad308fd7f91b2b115812fc5c66d2737" >pytapo-3.1.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/93/54063bd6429735c424ba21900e79403b6f15b69ea70fd99be902b89e98dc/pytapo-3.1.7.tar.gz#sha256=7b95de5cfc1fd90499ff181a3c13e8441693bc2f2835823dfdbd7dd30488e284" >pytapo-3.1.7.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16358333-->
+<!--SERIAL 17010262-->

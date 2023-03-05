@@ -1,13 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for fofpy</title>
   </head>
   <body>
     <h1>Links for fofpy</h1>
     <a href="https://files.pythonhosted.org/packages/b1/fa/0ce9b9259c50b58a125264e8edc0beab9ec72dd1fb94139bcdabe2966b25/FoFpy-1.0.0-py3-none-any.whl#sha256=dfaa5e9857c628ff9d3ef96927b7f422a330e3dde48055040ae8f2047f007b21" data-requires-python="&gt;=3.11" >FoFpy-1.0.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/78/fb/fd1f8e1110688b9b19ee566b01a38ec9fc66b3e296493cc980590023fb5a/FoFpy-1.0.0.tar.gz#sha256=6052559852ae8db1099a8dcf3285ef785dfb9c1c42aba1787020ddd40337ce0b" data-requires-python="&gt;=3.11" >FoFpy-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/bd/8517a48ccee87f04c9c1eba543555ad6dd47688a8319bb96bd7aa680c5b0/FoFpy-1.0.1-py3-none-any.whl#sha256=1241b50aa34cc024767f32718f3e4637ef93bff664e1597e75d2759d486a927a" data-requires-python="&gt;=3.11" >FoFpy-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/77/360a35d54010b91ddca16d17805d025e4da8dbd3da19616cecd455592b6f/FoFpy-1.0.1.tar.gz#sha256=7bd59507b9fa8f3b4e47926bb9141b71cc980537b6ff17cb42acafc4e7ed971c" data-requires-python="&gt;=3.11" >FoFpy-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/df/e5a60a9e8650a6adf45d0d0762d15460b591a5f62b380d94b5da79685ec8/FoFpy-1.0.3-py3-none-any.whl#sha256=d54ffdebbc905c2345c5c7567852e4736f7cfe0b50313469c07707a42ff96d87" data-requires-python="&gt;=3.11" >FoFpy-1.0.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/07/ad/d15ad4a74d10381fb3594330cd0df4bf9efccbcb9036d942017b6db86133/FoFpy-1.0.3.tar.gz#sha256=8ec1354338e50bc34b079f689efd3374cf2ed372f5d68053939576e398be624a" data-requires-python="&gt;=3.11" >FoFpy-1.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/36/77/72a00ed754734237d9a3d5ec0cb18c69cf50dd594f782f7eec0e3d2af277/FoFpy-1.0.4-py3-none-any.whl#sha256=3ce9b92aceeca5d2343e57b9544992be451f4679cbff91fcf965d31a2347dd16" data-requires-python="&gt;=3.10" >FoFpy-1.0.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d3/ed/9ee527b301b62415d383737ec8940ff8fd3a6cb41e52179c24a2a04a91f5/FoFpy-1.0.4.tar.gz#sha256=96092a264bddfd30eb86355bde75ae7e9daf8139db6ceee0425671bd25abe15d" data-requires-python="&gt;=3.10" >FoFpy-1.0.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/7f/82/531dda7554f6a964a1a36cb8c72670f157181f32f14cab4ae02df9f33679/fofpy-1.0.5-py3-none-any.whl#sha256=3caeb48a5d881117fb4fda798afaad88534d3e660d419eaea398ba772b31906a" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/0a/99d9bb596e614b245648328f653a4ad1dd84c659f26e96c693031ad3b7e5/fofpy-1.0.5.tar.gz#sha256=bbdb86126b523ed48d2d129cf4920878a56cf23ed36febe5d9aadb48795dda51" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/64/40c409ab720c07fca9a97923ed3f3881f97cfd742041028e1a4dabff3b5b/fofpy-1.0.7-py3-none-any.whl#sha256=4b9f8e9a39fe97cee333c7c27d31cfd28231b260f12a957928afede49720d20b" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/63/13/8bac84191678b881f18fb6d349b6a5af7d6b71d8989575c513ca5ebdafc8/fofpy-1.0.7.tar.gz#sha256=48c198aa62b3224a0357343a5336aa28316febe7a54c9c9122af2562123d8165" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/76/a0aee133cc3ae120293970a11724d7f9630129cc9127bf327172f04177e2/fofpy-1.0.9-py3-none-any.whl#sha256=60c61dda8a82b8ff3d3f130f926f2af71b4e0cdc053c1dc6f93bc3f2a968cfba" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/d9/9b0d5597e7bb4e21474e6c9a0b369bc46c1d470f4205bbcd3a36a7bbfa74/fofpy-1.0.9.tar.gz#sha256=ef427946a3d6c59f6e7d4ee5ba6e69db844b151d9a7c768a4f8a2202573749d2" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/68/81/5b15259f4a6f52963034e6d2d9e0d39bcfc04404d745111f0be42a957327/fofpy-1.0.10-py3-none-any.whl#sha256=4cfe22c72e8d51a742cf7bd36572a1144b0933b8e47debcd2b2e72f687455061" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/11/14a791a7e4e544eb289eeffe872daf97d0a43dcc1b802a96543cde58ecce/fofpy-1.0.10.tar.gz#sha256=bd7adbdf7fe07588047ef97f2b1ef82c95e953ea796da9d98d4e0c542fea97d1" data-requires-python="&gt;=3.10,&lt;3.12" >fofpy-1.0.10.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16240119-->
+<!--SERIAL 16833139-->

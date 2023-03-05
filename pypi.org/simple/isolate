@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for isolate</title>
   </head>
   <body>
@@ -29,6 +29,16 @@
     <a href="https://files.pythonhosted.org/packages/a3/60/5d388374d773e75b4a776749e7395aa50142365a17726e38effffa122a02/isolate-0.7.2.tar.gz#sha256=c4dc80e2cfa4f6dbc445ad71d7ca3446477af730a775381581128becb303e088" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.7.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/63/04/ab7c2163fc917e4c3494ded614269182e905ed27a1f0734c2946d01d1956/isolate-0.8.0-py3-none-any.whl#sha256=4cd0fd2d11be513dfb92c8407ce8a35f891c730b59e91d4a0cb4999783ad328d" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.8.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/ba/b9/b8c35dd70247de2b51a1facd8f4b6c49b61ce5765ef03c0ca5f39e003593/isolate-0.8.0.tar.gz#sha256=61fd2af9cfe4f3a918fee7b5b83b004282a93ec169ab8396a2e56e08c8c4d280" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.8.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ff/ef/1d801bf22723cae2f8874f709c3703b3676cdcb784b962056aa4b129c904/isolate-0.9.0-py3-none-any.whl#sha256=ab203c383eefa340aa2120244faf3f86f398e0ef641d43f855c53e0e7347e462" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f5/ca/45c039c784a751ce818c312eb43c81a38bcf23daaf486120803e35ee195a/isolate-0.9.0.tar.gz#sha256=d2c7daf9132caa44590ed1eb23073a785f110a1841a23406bd00cc8a5a6a1a1e" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/73/f98a3b16f97ed2c6682885aa6010b8014200879a9ff01ae79b55d2770cb8/isolate-0.9.1-py3-none-any.whl#sha256=847a24acebbd21b609bc1e47bb9d353f06e1f02cdab339c93347c3e90053d437" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/58/112dbe580b32e4cf57d17d8dc24139c74423b489b24bfd9b55a1f17568e7/isolate-0.9.1.tar.gz#sha256=fece8b7a0ad871ebc46dd1f7b24f3dfd363c8f3f8b9bda8e99ee792f97e2e183" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/85/17e895a83c0046cc64c080b30d609fd60b28d9f949cf05672370fc2557d8/isolate-0.9.2-py3-none-any.whl#sha256=c27f9185c26eeaf7669173582c8283dced054016f5bb6f8e3dd50f12dc462aa4" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/32/211fe725a3bf7449d63f5b9210aed9bebdc93f360ec91a4e8804c891e5dd/isolate-0.9.2.tar.gz#sha256=b3053061b3d7d74a29f785bebe61d60610062c0118e44d4cb3daf22f68d4d921" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/97/3b3afa5b9cbaff0e4bfec685927e05dcb83d025f3d63ad1ce7c3a20264cf/isolate-0.9.3-py3-none-any.whl#sha256=e2db58f5ff099a2394811dc3d339c4b01940eaafc4332ba136a5416ead786c6b" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/d5/1ab6e68b9f2f196a9982c5cab3879975f19e872887debadb439227f3e01b/isolate-0.9.3.tar.gz#sha256=7909071463cff0ce6d0d586b0bf77b48d14bfe39f27338cee42ac9fd3c900ad6" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.9.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4b/07/95b41dd184224fab88081c0716b0f2c52e1048a5603559c77bb2a71563cb/isolate-0.10.0-py3-none-any.whl#sha256=901ba0e40177bdfe83ef7dae6c4e0f358346fc2addcff4c89834db41a5d55bd8" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.10.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c2/76/0f349ed765901035adf4b0147e7cd93341c708677096fb0fea78ee75558d/isolate-0.10.0.tar.gz#sha256=01c6cb5fb803286e43002e1f165235402abe6c37ffe01aa929d5fc3c77abab45" data-requires-python="&gt;=3.7,&lt;4.0" >isolate-0.10.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16314584-->
+<!--SERIAL 16770314-->

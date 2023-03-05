@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for mixalime</title>
   </head>
   <body>
@@ -52,6 +52,18 @@
     <a href="https://files.pythonhosted.org/packages/64/24/dee957097cbf18561c02a39c1c247b07252231029b67d050f853b36c8fe2/mixalime-2.4.2.tar.gz#sha256=d93050c2de2f32ef916d4232bd53d9511dcef484ee44e1c14d028c105a363483" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/49/29eebc9377cbc25826c3feb7d7c8571b08655e649e94739bc67c67ae15d9/mixalime-2.4.3.tar.gz#sha256=840754b7ca1abd94c4facf4d0f142f29762158e4e848ade486a86200e644b364" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/dc/03/5e3455332d18eb670b36cd79d4cb03d3b677284709b6301bfda184fe3bd8/mixalime-2.4.4.tar.gz#sha256=48cffd1f18f2ffe707c2a0ad459797f7de4d761ad010302d53a42085d7151991" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/81/6b/14659717c75055aafd5882219cddff2ac44e2fdc079d6be456ac3b41d51b/mixalime-2.4.5.tar.gz#sha256=52d2e42885adc1ea27b7234b278a9eb732a499d2483fd57196f02aabed436133" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/0f/d14f1f2bf7c83db2ebe2f4b47f2d7d6d917be97d9e93c1e987d86b3fd571/mixalime-2.4.6.tar.gz#sha256=16505ba407d90faf97515d6234490f0f3c5f5d73773f4764a190eb0f54fd4924" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/3b/4783a514c286050830a960c2981f1800460e03ed0740abf057641bceb6cf/mixalime-2.4.7.tar.gz#sha256=6a13bd5bdd3561b65e815803e3c86fc845d45c0a64062cbbb615dedc134f9aef" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ca/40/0dbdfb7e9a73830c170b57f6745284650d15e5f9e98801e7538c404081e1/mixalime-2.4.8.tar.gz#sha256=a44da55f7945dd8f9012fedcd68a499ab8b7e6d0e10edaec833ed24973cb9331" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/66/172d1e6b7dd1a2844e35a730ad91f6d05019738203bc4b00b9f7d72ef247/mixalime-2.4.9.tar.gz#sha256=60a07f320b8de5e9e807c146f5cf7567b6af5c021df6c808bfb326c0be6f9388" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/15/0a/c0354305be838af745a03c1798523f2da9bb9c1fa5617df70a210739ad84/mixalime-2.4.10.tar.gz#sha256=62a733e86ed06a8f6bb0bbf258cf961c3ea8482af399a6d8d61c2a557cf2d929" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.4.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/ab/aa261c84457710fc6eb8cd4dd56036d93dcac904e18b1c66e5982c5591df/mixalime-2.5.0.tar.gz#sha256=c1c2e8e1422aeb166386de548dcbcd4c60a29f447bc3daa1d2452b27ceff9b05" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.5.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cd/b7/ed31f210ce89d7f760bab683a732982d9129e16cc916d15846752f130f0e/mixalime-2.5.1.tar.gz#sha256=9630fee928b58727ff3f8a37209bfcd69ff3ce06eba829dff70745e3ea363733" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/d8/a222c398f7c4c373593b540549b3bccb93c542189a953c707062e4749f5b/mixalime-2.5.2.tar.gz#sha256=0f8519f94bfd87c66af29538d3a74e489de5e0fec890037213c28af2b192cc99" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.5.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/d2/89353ea916ceda09a927c91f39c1a6db24b66483f529c8dbc250b4df8323/mixalime-2.6.0.tar.gz#sha256=dd6ccb28a6fa96d04bf0efd24aa3d6cd35785a2c9ba458601d77e7cad5beb132" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/77/a8f3d52cd4878d9cf5f1071cb59024a8f3920b06efd488f888089a53276b/mixalime-2.6.1.tar.gz#sha256=f773c6c575fb4ca133075a03dedd5b9ceebfca35188e83d74b5166e4a0be4e00" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b6/c8/b35d8bfc432d708bd43e75dbee0d1e078dae5c1813824de45890422f3eca/mixalime-2.7.0.tar.gz#sha256=c97e30fd902449c78e2589153378c9c6983930dd6b52028707f8b4e71019dc8c" data-requires-python="&gt;=3.6, &lt;3.10" >mixalime-2.7.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16406102-->
+<!--SERIAL 17156491-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dataquality</title>
   </head>
   <body>
@@ -283,6 +283,18 @@
     <a href="https://files.pythonhosted.org/packages/66/4e/bb18b92e9b0da710e42811dbc376c8b0755f9bb1a075baf0f530129b6599/dataquality-0.8.11.tar.gz#sha256=09fe01baa30a1a0f93cc2f19ce2780f113a19d891d26f6f2c4cf906af227e3a5" data-requires-python="&gt;=3.7" >dataquality-0.8.11.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1a/14/5b6729ff071a9244c04b6a609e55bb7ac31ff1c06a1c6e39aec9a2c616a7/dataquality-0.8.12-py3-none-any.whl#sha256=063bf62b0097b44003aecb075840445b27b4b6a2899bf5cdbb6c8feee8794394" data-requires-python="&gt;=3.7" >dataquality-0.8.12-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f7/a2/ddcfdb899213c65b68b84aab0dc16ede337232f0bed6a982dcad6507addd/dataquality-0.8.12.tar.gz#sha256=3bb9c2511de0d7cc54aa600e6ed0595ad966bade01029a393f73f00101c9748c" data-requires-python="&gt;=3.7" >dataquality-0.8.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/24/7bca2c11eab5aab57cff4a24cca2cdc136ba5573005f68363f3502058d33/dataquality-0.8.13a0-py3-none-any.whl#sha256=58c3f887df0f5b904cf80d203a258ac2c37d93215eb3c3aeac693a0127425b41" data-requires-python="&gt;=3.7" >dataquality-0.8.13a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/52/813ded438e13bfae67234ab69558dfa32c85100f79562ab19d8f3fae0cde/dataquality-0.8.13a0.tar.gz#sha256=5b56f548e6b59e0568a37aa88685457f4822e2dddebc0947016e532d0ea79900" data-requires-python="&gt;=3.7" >dataquality-0.8.13a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cf/6f/76b6dfec5fc699b75e9d8f20740681672666cc4549f9860747b1f5ce03e1/dataquality-0.8.13-py3-none-any.whl#sha256=3b91948b5bc268918e9a0e3259fc1f7e8c134f749263ce2ddd2bed3b178aa131" data-requires-python="&gt;=3.7" >dataquality-0.8.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/34/17b179414f57ff4b2d6f0206887d4f2b96cf38b64ec7f21b32f232cd57eb/dataquality-0.8.13.tar.gz#sha256=6cfc9adfb49157895fd20854f39c7316e12e5db734d7706fe5cc6617e8de6245" data-requires-python="&gt;=3.7" >dataquality-0.8.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1c/6a/66325f7b4eb067906c550155a9a9056b0329d0a72c1046aa5656ba77fff0/dataquality-0.8.14-py3-none-any.whl#sha256=64a9ea16dea79d4b55427a6651bdc33dd2f12584ac65a4a44793faf0b41be336" data-requires-python="&gt;=3.7" >dataquality-0.8.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b8/d6/9365894026570e945ca8e4d11e1d874921b881d8c753245b1742495de746/dataquality-0.8.14.tar.gz#sha256=06d1fb71b5270570030a869f9dcf39309db5e438443072df954f222b53ed1d08" data-requires-python="&gt;=3.7" >dataquality-0.8.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/32/8a61029cf77efa1d37852958baf9548700aecee7486977b70c033d9d2771/dataquality-0.8.15-py3-none-any.whl#sha256=85845f1765d704aeb154a5a63554c94bed10a544d421529f4bbcc4feacef2723" data-requires-python="&gt;=3.7" >dataquality-0.8.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/54/d3b57f7cca31cab7173c28dd0b886deb73672235fa6cb972efa2534bfe44/dataquality-0.8.15.tar.gz#sha256=a2a37bd8ef04e2261153d45639349bf5879c1dcd67da9bf809450ce671b75ec9" data-requires-python="&gt;=3.7" >dataquality-0.8.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/4d/5814115a70afb19f0257d26926e08bfd8e4ccc25e8ffa9c17a30023f23f2/dataquality-0.8.16a0-py3-none-any.whl#sha256=ee0c4b72dac4063c63981fa92ecad2650eee3333fccee5cbe82eafaf499a6f86" data-requires-python="&gt;=3.7" >dataquality-0.8.16a0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/f4/0adec832c54ce7e2c181536f484cf7753df246cd3a942b36a5ec3b4ad4a4/dataquality-0.8.16a0.tar.gz#sha256=5ddafd1a6280437a13b873301bc98e4db3fea6aa8c1f09e4c19a4ebe01a4317d" data-requires-python="&gt;=3.7" >dataquality-0.8.16a0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b9/cc/8fe9507567560f618478b9d72c5460b0630940d6168843a62c92c70e18e1/dataquality-0.8.16a1-py3-none-any.whl#sha256=7c57568fe1bd97fe3a12472a61d6bb6871b68b46a49ab7d5c36e94d50c975f0f" data-requires-python="&gt;=3.7" >dataquality-0.8.16a1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/2d/7aafaf15705d17992a41a0fde0bc6e50e2ff9148c23bc67de79e1aaff478/dataquality-0.8.16a1.tar.gz#sha256=b8fec0527013c05bb7d175f7cbefc80fd3dc545e41e7060ea195e1d7b111d6fa" data-requires-python="&gt;=3.7" >dataquality-0.8.16a1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16406447-->
+<!--SERIAL 17007014-->

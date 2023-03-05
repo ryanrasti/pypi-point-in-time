@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for aws-vpc-cli</title>
   </head>
   <body>
@@ -18,6 +18,24 @@
     <a href="https://files.pythonhosted.org/packages/d3/93/876aa36ae674244a6784eca9a035488833fcbc37062fc722976900387885/aws_vpc_cli-0.1.2-py3-none-any.whl#sha256=dcaebd3643aa12d6dd8d6c4f0fc94a2d0b12a8d01b6c2ad9871cc801b64068a4" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.1.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/85/29/ff39a844b616253eb0915747c84316217bee88834381c9357aa084d7d391/aws-vpc-cli-0.2.1.tar.gz#sha256=7e05c85aa80bd49fd0d59e98abff8268fa7e25b10c56f462135506ece5b0dff7" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/01/20/4b08a390d44eb24f6d1d0af7b61c472386e127c121bbdff285349f666309/aws_vpc_cli-0.2.1-py3-none-any.whl#sha256=95d7f078254b336214dd12ce8598d966b867584c6535ef1e2d3d88b3c2ba862d" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.2.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/27/7e749c05e38ab9ea2331f48757702197f462df9299da2c9e6f4e54bc99c5/aws-vpc-cli-0.3.1.tar.gz#sha256=67d8939c30cc9db73e2743c146e845981d2bb8ff1f48196bc5b59744ee838107" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.3.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/68/b03f3570100257b9a4e846759357567fb3c7a2e3712268a4e999543e7740/aws_vpc_cli-0.3.1-py3-none-any.whl#sha256=4b4a11aa09a62660f92457c36457ec56226ab08f59cff1ac8831f0eaae783b0d" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.3.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/7f/ab88c047756dc3e11a0667a4c5ad48cd5e4870516eb065d96a8db6b5a218/aws-vpc-cli-0.3.2.tar.gz#sha256=cd167e921be0defd47bc23e74542073c8ed7a88a1d80c33b4871159eabc8dae4" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.3.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/bc/c6/62a80f45ef8e3182bf89612f4f4ea4974e6f7f7400c9736f4280f6ddef09/aws_vpc_cli-0.3.2-py3-none-any.whl#sha256=08f479ac9a218fb8478212279d68e37aa5e7993adbad0cfcfbfcff0934110bcd" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.3.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ab/9c/412a3df63c9d6bc794751938259e1010ea24dab0d2b472af9e3ab8f4c85d/aws-vpc-cli-0.4.1.tar.gz#sha256=15b4b58e6799329e6225107b787465fd431bbdd766c4771eedbdcea18b73d4f5" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.4.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/79/15c720821a0cdbde051f5c91670696922f326638c578cca8ecd131c185ba/aws_vpc_cli-0.4.1-py3-none-any.whl#sha256=4032b018aec6ce2d33a764ebc048fcd2efc13877611175b6b26cba4d824679ac" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.4.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/7f/8c12803711cf5639fc95e09ab7770dc46bd5b8bdd465ed97be6837ec6616/aws-vpc-cli-0.4.2.tar.gz#sha256=9d1104bc3f747735b42a8716922b6c87c1c5991d671a8c95a96b1b1b70c91d4a" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.4.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/87/4e/db7ef117a369e7f4a550b5a16faca296caf3ab90c345200b54fe64a231c7/aws_vpc_cli-0.4.2-py3-none-any.whl#sha256=92bf8a221d28347d9f2ed703b163184ed619ffb2b9d72e749d04630db1dfd206" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.4.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/c7/4dcd0a3ec5582ff3b68ba196144cc1da5dc77d1343a4bf4b809e178213fe/aws-vpc-cli-0.4.3.tar.gz#sha256=4365c3219b78f1b0137647b56c27f906f4292aa04baf43d1e5e96ff5eab137ae" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.4.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/93/8ea6ce6c4893f761658201eb4d184fb7fac91f41dfb13939ec9007b4a13b/aws_vpc_cli-0.4.3-py3-none-any.whl#sha256=fafda40ba8defcea259e4bd1b5cae417b0764332e6f65798c04741a0b9d269fb" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.4.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/57/67/4ff71830ffcd831e312d1e098c3c2bd7f1ec2b0fa3767ce57334a42d481d/aws-vpc-cli-0.4.4.tar.gz#sha256=91ad64919ec491dc0c23ec62f798d198a1c701c51267e64ae8724cff1e3bcfba" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.4.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/a8/2fa1261ce35ba5288c178feec75a5fa0427800e3767e2303434e140704c7/aws_vpc_cli-0.4.4-py3-none-any.whl#sha256=d563cf3e4e531d0776b4f6109f971aa105d7fa05583d7045c9ac8392c57b7661" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.4.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9c/a7/480f67b74ecc53eac6b1b700c8e45bea56827cf191ebdc8704e22f72689a/aws-vpc-cli-0.4.5.tar.gz#sha256=f940db60f2c43fd057aec52120d257f6f8c60025ab96802b6c9b0c8f8c6dc018" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.4.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/92/d13da9322d354228fa68e952da6829abd73df17ad7b2af7f4ccea9fbfc91/aws_vpc_cli-0.4.5-py3-none-any.whl#sha256=b67dad2ce322a8ca8fec635c2bf5bd70b1c0422851e575af0e52f4984b91e978" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.4.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/47/e72e4218ace0610d2af9eec41ef605249db8c2651a4ff94d1eba3edf8fe1/aws-vpc-cli-0.5.1.tar.gz#sha256=3c6baa6530177d46d8aad800c712f91206e468c91d2cb1b3bb2c36c6064b8ae8" data-requires-python="&gt;=3.8" >aws-vpc-cli-0.5.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b7/94/aa0d5a704be4c686a0b0195abe35984bba6f117e0f6351f0fb9289fcc5a2/aws_vpc_cli-0.5.1-py3-none-any.whl#sha256=c87851434ac3804e06cd47790aa98bb80c34e1980ff943bce9693ba5ba9f0b73" data-requires-python="&gt;=3.8" >aws_vpc_cli-0.5.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/a7/a619f0e38a3610da3deea77bfe3be758946651cd26696c68c2d84900eebc/aws-vpc-cli-0.5.3.tar.gz#sha256=6e1a277f23750a9aaaf759196e7345bf171a3c1c99201bdfb59bfec50b7d0f60" data-requires-python="&gt;=3.7" >aws-vpc-cli-0.5.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/4a/46/0e9b2db5f23c0b86e7ffccdde8c642246a2258b2b2ffcafba4edecab197b/aws_vpc_cli-0.5.3-py3-none-any.whl#sha256=9db634601a38b8298f4fb25e05960f3596dd00ae546a9cdc2758e05d639ec2d1" data-requires-python="&gt;=3.7" >aws_vpc_cli-0.5.3-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 16372083-->
+<!--SERIAL 17103848-->

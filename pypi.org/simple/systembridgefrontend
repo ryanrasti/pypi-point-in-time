@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for systembridgefrontend</title>
   </head>
   <body>
@@ -284,6 +284,16 @@
     <a href="https://files.pythonhosted.org/packages/3c/a7/b1e78c44311fc6b32cb1da61b69c10885a984fe81d0fe2f4d57969177899/systembridgefrontend-3.6.1.tar.gz#sha256=f170f251c13596101354849e7ca64680a5d413753cdd7ce863db7309cfb88bdd" >systembridgefrontend-3.6.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/38/f065013138183761950616352257c973327efd1a3a56f0c0bd22cd0020d7/systembridgefrontend-3.6.2-py3-none-any.whl#sha256=72d4f954974f41eea931f683c67e57fe673b03b1ff5d1f195d0f51b976f1cacf" >systembridgefrontend-3.6.2-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/64/4a/e95ec464e3c81c9a89fd76802962743fdb956e78ccf5d009de159d524f5d/systembridgefrontend-3.6.2.tar.gz#sha256=d6d15ebda54490832dab5cf71a788cb129a99ef85b13c3b289e113d9997a6603" >systembridgefrontend-3.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e9/ee/f1ca48c801872ac4794a5280465b6e44d913266412ba154f76a989a2024f/systembridgefrontend-3.6.3.dev1-py3-none-any.whl#sha256=d0d4b9c37574fd9bf12d4aa90786ee8cc9ca5cc76df4f369d95c517389b67266" >systembridgefrontend-3.6.3.dev1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/8f/03aa360a8a1dc37b95d490cdf7e2fbbed465f626ca80e18f7679d666a829/systembridgefrontend-3.6.3.dev1.tar.gz#sha256=60b7d711ad720aff0a50d9765ac39bfd473526dc553c74988006be6457e60558" >systembridgefrontend-3.6.3.dev1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/55/a3/7c8472c8d7d08a878f25129f6c865ed7eb777fd4c69e9ace84dab2070b6e/systembridgefrontend-3.6.3.dev2-py3-none-any.whl#sha256=0c258100685e8b4ef12f140f9ec51617f508bf1c233c3b2b32ce6392ebe7984e" >systembridgefrontend-3.6.3.dev2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d8/d2/7b5cc022208d5d7a706b40c9e9c8088ff95c53053be6567f7546e7423f5f/systembridgefrontend-3.6.3.dev2.tar.gz#sha256=8c31ad9599fac5cfc7483e51a9aac1d979b0143e2a4e9971f5630a21e35d11e8" >systembridgefrontend-3.6.3.dev2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/71/c7/7a654f936546661848c3d84e244f9a54a5d79d6dba017ab783feb968aa13/systembridgefrontend-3.6.3.dev3-py3-none-any.whl#sha256=58a676e570655b7c043251064e7a5b0a10e66a2236f9b2c459f0d333fa63d90b" >systembridgefrontend-3.6.3.dev3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a6/5f/28122ca1812b9300ebc420027da9284ae98bb7fb90beb2d33423c8265bc6/systembridgefrontend-3.6.3.dev3.tar.gz#sha256=b71549eb532e1244b8301fe86916fa071a5111fb78e5f0ee34b26b06e055df9c" >systembridgefrontend-3.6.3.dev3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/47/d7642fbfd85dac0774a9e0a1ac0e2a54993c5740129a60785a0d53070bcc/systembridgefrontend-3.6.3.dev4-py3-none-any.whl#sha256=ec8c311257e2a135bb817ae48a40ba4713a7d42bce7f1f175df833c6a3496b72" >systembridgefrontend-3.6.3.dev4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/be/c7f6206952693ac78acacb5b852f476cb75b7f539b1f6a674fb990b53dd3/systembridgefrontend-3.6.3.dev4.tar.gz#sha256=11b15d8abcc6d838029a0d863daefb502eae561b1c3d8e5e0f68bbb02cba67f3" >systembridgefrontend-3.6.3.dev4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/18/2d/d67ef50c72be0a2d986383a4766c8edc10dedbbe9e4dbcd5793fe2f851d0/systembridgefrontend-3.6.3.dev5-py3-none-any.whl#sha256=449db2fb16a08381779b1d63c06876a5e27d76c3cc72c295d6a61588b9caf7f7" >systembridgefrontend-3.6.3.dev5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d9/29/8b3d3849cc8c550d357d71b39752ebbd28c24bacdd5392b666e95a4f2d16/systembridgefrontend-3.6.3.dev5.tar.gz#sha256=332da5173695b7c809db80917bb13a65e3af2e1f88f50bf30e53861cee40d4b9" >systembridgefrontend-3.6.3.dev5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16349851-->
+<!--SERIAL 16915545-->

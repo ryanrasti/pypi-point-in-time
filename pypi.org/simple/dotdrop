@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for dotdrop</title>
   </head>
   <body>
@@ -179,6 +179,16 @@
     <a href="https://files.pythonhosted.org/packages/79/c2/6dd54083a1c5afd30aca3ca4b7f149b62d7d97e113b754ca8da0ae636382/dotdrop-1.12.3.tar.gz#sha256=4d10608e218b3a187c481f0a58ef1007b528b13b630cc2293689adc0feaf2a00" data-requires-python="&gt;=3" >dotdrop-1.12.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6a/74/95a437287f948df0fb4b696817d03dc2f451f8e18b71542b74ca2e4b0590/dotdrop-1.12.4-py3-none-any.whl#sha256=ae3c7db1d85c260cdfce00695dfee1c5bab912c42ed5cc1d2db5f3125f035042" data-requires-python="&gt;=3" >dotdrop-1.12.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/a7/ed/6c24d9ab04e483b16dacf0fc4e7de26b90b9f46801537a69db4c62674aab/dotdrop-1.12.4.tar.gz#sha256=1630cd14aa3495b3de4eb3c1dbdc8f9566cfe52a1dbaaff127167215b798a0ba" data-requires-python="&gt;=3" >dotdrop-1.12.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3d/22/19c7a9933afb98f92c489c12085bd336a60e02f990f8c909201a7d24b4ee/dotdrop-1.12.7-py3-none-any.whl#sha256=d5df891c81ae4c0f54bde092a8dee2b85f0957c50f5b05140739a4fe9167c8b8" data-requires-python="&gt;=3" >dotdrop-1.12.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fa/a1/b7d3df3e5c48a82c7a299e943324fc98d01cb4c8e73fda1257ada9a611e9/dotdrop-1.12.7.tar.gz#sha256=053772bf06cfe845676bba4089fce9e66b37ebba9302307c6da68928ec6eb5da" data-requires-python="&gt;=3" >dotdrop-1.12.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a9/b6/6bd411ee240d3e660ed6c9b338439af23594ebba7343800e7432dd4f254b/dotdrop-1.12.8-py3-none-any.whl#sha256=38b86c80a6df79c7e8459c581b11b444b667d9416fe1e8e87a73bd70df7a2f14" data-requires-python="&gt;=3" >dotdrop-1.12.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/8c/e1/1da222fa60faf29758f5c8d0ce4a5cb4264b7f44d77588288e4ee6836468/dotdrop-1.12.8.tar.gz#sha256=6313d3d52699c8cee5b35d6138b0471575d299b107786086a258640a9bda7df8" data-requires-python="&gt;=3" >dotdrop-1.12.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8d/78/77e45f3fa450031c671a460e44c3426fde01f5b2726e44481ee556e727e0/dotdrop-1.12.9-py3-none-any.whl#sha256=46983c2db2ab6e5b55c3b203a3144446b8e3525268172b1d475e1d7549c7d6fd" data-requires-python="&gt;=3" >dotdrop-1.12.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/45/7f/a1c6ceae6a76bb15f9d05e5b72422ea47b4539da9bbb26d7c9bd46697273/dotdrop-1.12.9.tar.gz#sha256=2d76a63a28d60e583877e67b48955eb55d6a7e1483fa094600365c31af9105e8" data-requires-python="&gt;=3" >dotdrop-1.12.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/86/b9/d4bad4bfc45b15e9eccc2d5ab847b4dd8855bcbff73b9f0f845f053eaf0f/dotdrop-1.12.11-py3-none-any.whl#sha256=8fc78c7e28ac30e5a9d13a0d7aa16e9bf87cf8e320e349410ce18a19e8f1701b" data-requires-python="&gt;=3" >dotdrop-1.12.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/24/5ee874ea959151216778320b910c11b5d829066314e0fbeee5a2a7439958/dotdrop-1.12.11.tar.gz#sha256=6874134b5f023725a3553731ec4603e0064f0ca4f794acec5165c41f53fcdbe1" data-requires-python="&gt;=3" >dotdrop-1.12.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5b/38/bd030a2b00fc0a88e09ce7e453740fdd5f9f9038fe155d22333a4abe0604/dotdrop-1.12.13-py3-none-any.whl#sha256=907871c118855b0a3a8585d4695a7b7287e13170c93bbde9e62bf77fa4c1b560" data-requires-python="&gt;=3" >dotdrop-1.12.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f3/e4/0ec0ce2fa73dac7afd4ef16faa3b15dca7d2d87313f2c42c758b850c5e9e/dotdrop-1.12.13.tar.gz#sha256=13e8605d15752bb24af0aba6ed2752a226585000e9259026605440fa83d9efdf" data-requires-python="&gt;=3" >dotdrop-1.12.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16417264-->
+<!--SERIAL 17118064-->

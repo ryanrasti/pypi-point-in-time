@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tfkit</title>
   </head>
   <body>
@@ -884,6 +884,30 @@
     <a href="https://files.pythonhosted.org/packages/21/2b/8592ea66d05de408878d70facc2487b586644fcc198ec105112b0da76bd2/tfkit-0.8.3.tar.gz#sha256=2ea20f989ebb101f49217e43b28a4d4bc4ad9f543421a3002ff46250d3523597" data-requires-python="&gt;=3.5.0" >tfkit-0.8.3.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/c7/f0/6e2514266bea839511236ca1595612125b5532e1ef4514aaef4b22747c4e/tfkit-0.8.4-py3-none-any.whl#sha256=9d8e8d7cccb0b1b69405872b788de8d20df9b99ce81afbb5a1b8ae10aab3246f" data-requires-python="&gt;=3.5.0" >tfkit-0.8.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/20/ac/3d7843ffc7960befa60b9617b5da9793842b4c5fd70a143b9cc8086675cb/tfkit-0.8.4.tar.gz#sha256=b7f5b4635a91c689650b654815a971e736fd3adf6daae38db9711c81c5769403" data-requires-python="&gt;=3.5.0" >tfkit-0.8.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/8a/11c2818dd7b6436ee73e2938f1fc3d859e2f689589d51351b7309d691c39/tfkit-0.8.5-py3-none-any.whl#sha256=8e5e3554832805c71a8eda82b0b717b171a35bda2c711247804f2361051512af" data-requires-python="&gt;=3.5.0" >tfkit-0.8.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/95/0e/644bf4e71e204ad4169ef3e96d8dcca55f21a7f3b2bf85fb7ae290edc36a/tfkit-0.8.5.tar.gz#sha256=ee1bc2c9c0fe5f05a502e3114df2958ec50ff9cc9e6c5a79dc630ae2061c7ab5" data-requires-python="&gt;=3.5.0" >tfkit-0.8.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/28/fe894190b17d86a2d2f1b1a2818673a2d81ca8c6905bdfce58087af3f45d/tfkit-0.8.6-py3-none-any.whl#sha256=e43bebda2263b89124f9f277739082f2f644e0b69ec1c4cf86181b2776e102b0" data-requires-python="&gt;=3.5.0" >tfkit-0.8.6-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/11/f2/362723e6e605543acfede2150d4d62ada8c99e2f315c508ebc17e4de778a/tfkit-0.8.6.tar.gz#sha256=80ea409dca2b6bc562bb4f01deaee755920829a02b3eaba780500523b579455f" data-requires-python="&gt;=3.5.0" >tfkit-0.8.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/cc/3a/c4ea53642929126f7404b777be93987a501abaf9683a554c5c109015e6f0/tfkit-0.8.7-py3-none-any.whl#sha256=c667496934fa21d935a2589b1f61379ef4f8b7b2a2312f0178b65462dec91114" data-requires-python="&gt;=3.5.0" >tfkit-0.8.7-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/c4/93704e730268d4771798a5e0089eb93ccbfd0de03fb9ca37ca1dbd4928b2/tfkit-0.8.7.tar.gz#sha256=7cc160d48ef0073639b29c3fe2cac04d07c467ad8419324303e9ea5dc9976d2f" data-requires-python="&gt;=3.5.0" >tfkit-0.8.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c8/89/e4067b39544daa5d1b8289b5f8eb002c902bb313d0dd12d899aa7cd138fc/tfkit-0.8.8-py3-none-any.whl#sha256=938bf4e061dc7f64e41181f3fff223da620091aeb67f2be7be88e89c9e0086c0" data-requires-python="&gt;=3.5.0" >tfkit-0.8.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/3b/31f492e486c1e3b2ad0b51d10713bde94d5f8364c17ab9fc77329853156c/tfkit-0.8.8.tar.gz#sha256=28b01e4876de668ba4bfdc548ade54b59f053053a2657e8b2d5c041c3c336c86" data-requires-python="&gt;=3.5.0" >tfkit-0.8.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d4/b7/2ef05f1cd08fddea843d2425398f5fd9264eb67244468762abf99b5fe41c/tfkit-0.8.9-py3-none-any.whl#sha256=fec2a6c03e406ce48512442e246e8373060bcef88063fd4f1cf8ae0f8f2987f6" data-requires-python="&gt;=3.5.0" >tfkit-0.8.9-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/a9/90246bc993bb0185ae161c96023f3a5eb789cb491ee5ceecb294ab3100e1/tfkit-0.8.9.tar.gz#sha256=dd75195df1be96aee3cb23a31136b9d9166848f3fb234fabbe7a4ba74b50150e" data-requires-python="&gt;=3.5.0" >tfkit-0.8.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ac/25/df87027647e6a20187254cb57464945d196b56ec74d11319b398022f0b52/tfkit-0.8.10-py3-none-any.whl#sha256=ff306982955de4d132ea031dd453a6b7239bd502dd056111b4e835a40bc62ef4" data-requires-python="&gt;=3.5.0" >tfkit-0.8.10-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/aa/7ebbfbc54173657a5bdd13c8c3b5c562f29de78f71655b6a7c36ea15ae89/tfkit-0.8.10.tar.gz#sha256=3ace4edeace3c2319ba41bb89f5f3f476322cec66289c6ceb70cd330855d8a22" data-requires-python="&gt;=3.5.0" >tfkit-0.8.10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/2d/d1/4ea4df4f9742806aacd1ee44c97aec4478ed932326177655abfd307c729c/tfkit-0.8.11-py3-none-any.whl#sha256=099743c4b60bcbaa7ca036aef78b50fb2eeaa0c891489611d224298e1142e021" data-requires-python="&gt;=3.5.0" >tfkit-0.8.11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ee/41/858b5b67d8bdbd5953395db372877febc631f979550ead171ba4bdf438c6/tfkit-0.8.11.tar.gz#sha256=789e68c95ee7d865c70d9fb73a1504d6d142e3d08a80eb7145f94e3c6cd9ef55" data-requires-python="&gt;=3.5.0" >tfkit-0.8.11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/91/23f8f1d85002d43090a2ea961a1beccc0af31fc64af54efe0bf4dc4546e8/tfkit-0.8.12-py3-none-any.whl#sha256=d78a1d33602ba60023bed9d59ba89ed63e7c4b99ce6795dec6d699b40492da42" data-requires-python="&gt;=3.5.0" >tfkit-0.8.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/d6/5b85c427b7da648250b5405148579c2d4d6311cbaf4ff1a0c8f5c0ae7acb/tfkit-0.8.12.tar.gz#sha256=9e36ed2efa6535aac5785b61918a71f4cba3e6a65704f348bd2c5d6da200dfed" data-requires-python="&gt;=3.5.0" >tfkit-0.8.12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/5c/ff/a920c29961bcbca3df10ba0549d491f9a69d7067851ea7eca60cfe0b131a/tfkit-0.8.13-py3-none-any.whl#sha256=fcd1227bba5f9f0f6ccdb489c664ace4fde604bf6c48c711326fa0e85da0ea18" data-requires-python="&gt;=3.5.0" >tfkit-0.8.13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ef/94/7d266541a98e33d3dfc869d9ebb3b23f298eea6f9bebbff9f1ddb36050f0/tfkit-0.8.13.tar.gz#sha256=4be6fef5137183b731fce1d90b06ee7b836861cd402fae6d80bb885006b4a36e" data-requires-python="&gt;=3.5.0" >tfkit-0.8.13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8e/64/64b6f4b05bdb5cbd623eab196cd3950f70e894cc30d05edb42924e6466ba/tfkit-0.8.14-py3-none-any.whl#sha256=e1d78f2a9d78ebdbf958037f4ce6d8ef3d7c87d32ddfa52a0e2edd8c05f05dc1" data-requires-python="&gt;=3.5.0" >tfkit-0.8.14-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/eb/120605b6cb7030564e7ea1034cc9b27c1818b6d7ef12bdbc8b1a91430b59/tfkit-0.8.14.tar.gz#sha256=e3e851a2099f9036bbe0468f2cecd6323ee6d7ca97e1b9740bed2ea09befdfa3" data-requires-python="&gt;=3.5.0" >tfkit-0.8.14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a1/32/30c0a1c0e9a5b7a6455be746d0c2ac74d7bb8bc0c5a9592499724f171b47/tfkit-0.8.15-py3-none-any.whl#sha256=4ce2808e8cc77ad66f232a6d23f324044fb8a3a203015015a32f7ee5d0133ee3" data-requires-python="&gt;=3.5.0" >tfkit-0.8.15-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/33/45264b0e27aa4954b63fc4a64ca991ce050105852101f2c6835d3d1d01e4/tfkit-0.8.15.tar.gz#sha256=ff5a21f29d48ed9739218fa131180352965cffbf76e30151dad6ee9df325f6b2" data-requires-python="&gt;=3.5.0" >tfkit-0.8.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/85/c0/1dcae1a7953dc8264675e218bb774d97b28d1305faca0bf0db4521886439/tfkit-0.8.17-py3-none-any.whl#sha256=1de4e80684294f280ac1492c2bc2bde656aa09c062792e826530a6f60194f8f7" data-requires-python="&gt;=3.5.0" >tfkit-0.8.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/68/df77316485538244da80ad51faa28749ca08d8446c5a1894a89302f1c443/tfkit-0.8.17.tar.gz#sha256=c403203396dabcc3620a3e42fd6a8182ce471374c140c5ed30102708df2a2e7e" data-requires-python="&gt;=3.5.0" >tfkit-0.8.17.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16084033-->
+<!--SERIAL 16991979-->

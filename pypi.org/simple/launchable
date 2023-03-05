@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for launchable</title>
   </head>
   <body>
@@ -352,6 +352,18 @@
     <a href="https://files.pythonhosted.org/packages/72/e5/2eab7dd871e4249e5d107b49ebb559f3a2724bf296cd28d84a9fdd857470/launchable-1.57.0.tar.gz#sha256=f00333fe92c163a671e7710d3372526fd57d188f18a81356ad86cbdd1cf3ca2f" data-requires-python="&gt;=3.5" >launchable-1.57.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8f/92/a8455118283cef0b5cf2a9ff13a92ec396d7e00164a3e36f59356fdd5f87/launchable-1.57.1-py3-none-any.whl#sha256=54586c62e6c26efdb2652b54414a7efdaa78cdd3c58001744084471e4ca39468" data-requires-python="&gt;=3.5" >launchable-1.57.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/2c/cd02e9f21419c8701527bbdc1e51b57e2a6c612ce9442bcea005e67a8f2e/launchable-1.57.1.tar.gz#sha256=e9eec54b65a5b7fd66bd225bf53cbb4c16e6ed6b46e2bfc3d87d5b255238c139" data-requires-python="&gt;=3.5" >launchable-1.57.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/12/c0ff55b93ddafac28d52691f38b55baf0dc88c905cce7ffc8ac8abe5f8b0/launchable-1.58.0-py3-none-any.whl#sha256=49c8a044a3722e95b90b7fadde13542083e7d97912609722afe9382306fc2ef0" data-requires-python="&gt;=3.5" >launchable-1.58.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c3/8d/8aaaae599821071b5d916f99b15b21b2e5e2ec1e05398b1c88fdde034004/launchable-1.58.0.tar.gz#sha256=5f31eaed36e9c72fbcf444af0f0ae05e05862bd33f9f313d7e3563facba284d7" data-requires-python="&gt;=3.5" >launchable-1.58.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/96/93/179ce33640128eba064b18d4c60af6eb4b41609f4f87728760249c4e36ac/launchable-1.58.1-py3-none-any.whl#sha256=58583c96bed6394fdef0d376622431d3c73833472a1b5337b58321247d419f38" data-requires-python="&gt;=3.5" >launchable-1.58.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/44/bd/d1452aaada82c6f0c7d9c3c9d2a2c8fb9399c361607c431fd83b29948356/launchable-1.58.1.tar.gz#sha256=3b048d9dd976e81ceef54a4e4d11510695bcd61bf186a429cb948f98d35cddeb" data-requires-python="&gt;=3.5" >launchable-1.58.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/c3/9289870b14eeca994cf39d4018cf4a59b8f31f570cbf9d4d0ec2fecae884/launchable-1.59.0-py3-none-any.whl#sha256=a7ec63232aed6930482fcfd51cb53542f9198273cfb0b9514030b93584811b86" data-requires-python="&gt;=3.5" >launchable-1.59.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0a/a5/9c22313c1ed371bface273b8bf638e3b2dd5ee4d25f847d03d8eefe884f5/launchable-1.59.0.tar.gz#sha256=bed70742313549f9b229414dc2de2b9b1b86d48b42446d2aca14f8677c1f9563" data-requires-python="&gt;=3.5" >launchable-1.59.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ce/1c/22177d8f1a4af19fefe6b0cb93127e2db5c15f36f023ae6ad63364c9a6d4/launchable-1.60.0-py3-none-any.whl#sha256=92a8e4b7712130cc2e06869dcac6741170017b593aa4007d46e37c433cdf98df" data-requires-python="&gt;=3.5" >launchable-1.60.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/47/ce/b657fe917cf1be6591221e67bde6fa215a1207f071563f52ad1932005ea7/launchable-1.60.0.tar.gz#sha256=5c392000ac06764b3b895be604436d66ec2463ddc8cd7637736dfe233253b73f" data-requires-python="&gt;=3.5" >launchable-1.60.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a7/06/9eb6cca89e7064b9ea8a8f3ad4cb651a20b81e2490aa82d710304b556572/launchable-1.60.1-py3-none-any.whl#sha256=8f46be80e08508132f1f051edba0d67969c50d080e295a8669d2873699f20d8b" data-requires-python="&gt;=3.5" >launchable-1.60.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e4/64/b9f461297abc1cfb06ea1eb0ebf29e38b8231c0679649c70f9e3894b9f23/launchable-1.60.1.tar.gz#sha256=0514ad51d8fb679dd2fe25a9d7eaa4fa5fc15fe2506e29f53a7d279fa88ff83e" data-requires-python="&gt;=3.5" >launchable-1.60.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/04/fb388712d7153c59ac5646d9a4e0d812a438cafb07eab860fc4a10ec06f6/launchable-1.61.0-py3-none-any.whl#sha256=57d9d94bcca6d64eaf7adf7822dac705270ab65d8584e621a7a09f2cfeeffaa8" data-requires-python="&gt;=3.5" >launchable-1.61.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c7/05/4bedb387ffe83f34c1a1b433bc013e1aa68f29a4519503c1df9efcf5ed95/launchable-1.61.0.tar.gz#sha256=bf7525a80882994652c6271087cbcfaf9c5a0889451aaf47c25db7949469497d" data-requires-python="&gt;=3.5" >launchable-1.61.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16309401-->
+<!--SERIAL 17104444-->

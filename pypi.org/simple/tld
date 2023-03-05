@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for tld</title>
   </head>
   <body>
@@ -153,6 +153,17 @@
     <a href="https://files.pythonhosted.org/packages/b7/ef/b75f9850fa75372799765e621ca88974f97c25e20dba3d32ed5901e506ab/tld-0.12.6-py38-none-any.whl#sha256=266106ad9035f54cd5cce5f823911a51f697e7c58cb45bfbd6c53b4c2976ece2" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.6-py38-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/90/f1/aefda237a832e30c4eb12ce50188a2afe4d9b115670b935e6d01aad5efd2/tld-0.12.6-py39-none-any.whl#sha256=b6650f2d5392a49760064bc55d73ce3397a378ef24ded96efb516c6b8ec68c26" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.6-py39-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/39/68d5ecb596e02d235fc3b0914b1bf0840d8fbc155fa6ff194eee718469d9/tld-0.12.6.tar.gz#sha256=69fed19d26bb3f715366fb4af66fdeace896c55c052b00e8aaba3a7b63f3e7f0" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.6.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b5/f4/d745b9a77c0329be7088a518f93e73a3c496d0952bcebb647e53e4804491/tld-0.12.7-py27-none-any.whl#sha256=d1130e050e1de92b24928246d36847dadb8106fd9455f1903f2712d23ed654f3" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py27-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/b8/c69d24555c1a1b707918da847f6a790b57bef99bc2baf6b3e90416801d36/tld-0.12.7-py310-none-any.whl#sha256=728083653341819d7c1a76e3aaeb6bfc4bafebfaa3336384762a998320f14d1e" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py310-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0b/04/cb1cae08ca627b25b05d7af7229d073d89a88c2362b45d175af1fb75049e/tld-0.12.7-py311-none-any.whl#sha256=7e3d4c856c0d62484117f527f278bb5583849d71961d4fd062bcac0773b0984c" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py311-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4d/06/3cfa4c94f6a6e80e5dc972958a5993a985034c38ba019178cbe5df2b71a9/tld-0.12.7-py35-none-any.whl#sha256=da090e9a8706fa9107e451162c31f391c082b30c60b3f1afe94811daf559b0ae" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py35-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9f/70/4228952550f58f8e50b4df78127c06c121db982afe3e53231c769b33be2e/tld-0.12.7-py36-none-any.whl#sha256=982e1e35895e32b04777eba704d26d9aeb7cc31d10efc69466a346fac295d7aa" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py36-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9e/7f/663bafebe158190ffa95c65e3c07a8ceda3c39be5ef218a56b9d3afa1a57/tld-0.12.7-py37-none-any.whl#sha256=f8efb8d883398aa9ada8995a5a13f8e8d8e6694696dc7dda3e37dc7170b625e4" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py37-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5a/e9/7b3ad23ef14bfcdf8e011e3ea8a2011eaeff07cff9d98393359f92b2e3d4/tld-0.12.7-py38-none-any.whl#sha256=d16d2475383f0a78bc4faa2fa2c23417fe494d9b73081a0670dc4a1e5a32fba8" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py38-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/bf/d2/2186bf33a7d2a3436612cacba0f96b5dd67d9317b0d3ac6d8bc8158c3b42/tld-0.12.7-py39-none-any.whl#sha256=2157f36502c88e538c73e991fffbd2fb905fb8d87bbeef0feb7b24b03335c180" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7-py39-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0e/3d/a2d4daa269b583cd16c885cda5bb5ac63012cb4c08f680ea1acc8b6abcab/tld-0.12.7.tar.gz#sha256=b6f7729e19ce0ebc77ba0a65b70d6213aeb952c01ff605e1299aae5fb7621c5e" data-requires-python="&gt;=2.7, &lt;4" >tld-0.12.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/75/779ddeaf4d847ba0021ad99d1b615a853f2a5762bd5d118273c7f7673c38/tld-0.13-py2.py3-none-any.whl#sha256=f75b2be080f767ed17c2338a339eaa4fab5792586319ca819119da252f9f3749" data-requires-python="&gt;=3.7, &lt;4" >tld-0.13-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/19/2b/678082222bc1d2823ea8384c6806085b85226ff73885c703fe0c7143ef64/tld-0.13.tar.gz#sha256=93dde5e1c04bdf1844976eae440706379d21f4ab235b73c05d7483e074fb5629" data-requires-python="&gt;=3.7, &lt;4" >tld-0.13.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 10571553-->
+<!--SERIAL 17072442-->

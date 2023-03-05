@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for lir</title>
   </head>
   <body>
@@ -66,6 +66,18 @@
     <a href="https://files.pythonhosted.org/packages/c2/86/ea7bd46c1bf5cfc7e78faf7720bfd480ebb1c00814c332be503091dd32f0/lir-0.1.14.tar.gz#sha256=4db7d56e7a6eb998b1def7a33e3aa416dfe828b8956654eef7a27507a5454a83" >lir-0.1.14.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/71/cb/9abfba72d647d5e5492c5fc7f544bf349c967aeaa4973b9e2adae1322da2/lir-0.1.15-py3-none-any.whl#sha256=8a43616ce2831cd0359b2e6625c9f3ea1ad3eb7cf5bd28a592372abbb50081ef" >lir-0.1.15-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/2c/b7/1ddf6e6580a728db8ce1b9e224c81bfd62a9ba7a281781a934081b506efd/lir-0.1.15.tar.gz#sha256=2eb2d87b8aa4c9652346f95bfe9ceb2e0c517001a40e4d564a2cdfbc1a059ef6" >lir-0.1.15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/10/81/85e364e1708939882ec3279dff12c4c313ed94b668eb654107ad0b3bf926/lir-0.1.16-py3-none-any.whl#sha256=a5e12bec17f19962a20e349908cf4bda9658c7236b8d7440946078cea51a012e" >lir-0.1.16-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/72/2e/2f2dba29463e8c314a6fa6e6f0487f82996406d41b4e766c70617451e8cd/lir-0.1.16.tar.gz#sha256=acbeecd2ac57610ab5f4c2afb41cbb3a5c7204a1456d74f2be31d03b6492384c" >lir-0.1.16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/50/81/325ffc3730b55475833ebe133fd49ea1b1590938457008574e69dd6c86a3/lir-0.1.17-py3-none-any.whl#sha256=9f113b60274537ecc752d2958c2e9cd55f45ac4aa9b5eaae7d426078bbd7f684" >lir-0.1.17-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/4e/b3/2ec4a1077f6f2ea31ab9d195ac513f43ec744443b1e75589779cddf97962/lir-0.1.17.tar.gz#sha256=53f1f0030b259153133feb007682f4e3a8a0069a565ea5450aa34d4a5ea5322f" >lir-0.1.17.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/4b/0ad34593bcdf4d5204f5ed6394b9d1dfc09a7e3df339abca35fa3f518397/lir-0.1.18-py3-none-any.whl#sha256=678b569c6b4ac4a29adae8db58c02bbad917d9edcfee0ca9593cceb423a691de" >lir-0.1.18-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/28/83/ea9fbfacdc6b50f74101b15ad7ad091c08a2d7b3c854590509fac3845bac/lir-0.1.18.tar.gz#sha256=2ffbdb9d0b0a760af791fc8964dcbb597e925ed2c51529852750d0b38082f966" >lir-0.1.18.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/a0/35f3c975a01d118cbeed48c6d157da8f6861d8a84f0b59fb3bf17a4fd0e9/lir-0.1.19-py3-none-any.whl#sha256=29ca4cc98b55f2b8865123b854a17ebf5617b62b3427dfd1af9d4b5f3c061409" >lir-0.1.19-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/f1/b0/37ab50a07f5e33857846ee1e502a69f9b4d7e0ef3b86ffc2d1c24f983234/lir-0.1.19.tar.gz#sha256=a3fe162a02a408b8d358df069aca08c98b9abdb86b7f86fb59c71f2bb4d1d121" >lir-0.1.19.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/e7/03/e45c3fcc64e16c56beb03d60d1a20e360dfc7ebb1dc12b418df060c77fe3/lir-0.1.20-py3-none-any.whl#sha256=cdcb8209695c65eb751b1c80813848eb7d18327883037896e4554e22f3209e6b" >lir-0.1.20-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/32/71/5dcc5ac17596684b0e1c3115990257303be66d0155bfd018225074e0702b/lir-0.1.20.tar.gz#sha256=90de55e9e85bc4cc974cdf28706ff5b310d3b5b154a77f3c5e1d601f32114dc6" >lir-0.1.20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/b3/3f/77b46e9741be31c2076924c61742527cfe073f271ae57291e5c1a4745d55/lir-0.1.21-py3-none-any.whl#sha256=249aa9013b9a87216073836bde541a4bda29335eadb62edc9d8d9d58b12763dd" >lir-0.1.21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/03/0b/aa40e38b2651eb989b33ed6e08d7490296657041c377b32835f52e7b014b/lir-0.1.21.tar.gz#sha256=99a64c71cdd3a9aa1f6be159581e93edeb4d84f73a40bec29be724933d160118" >lir-0.1.21.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16048865-->
+<!--SERIAL 16500905-->

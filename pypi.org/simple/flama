@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for flama</title>
   </head>
   <body>
@@ -36,6 +36,16 @@
     <a href="https://files.pythonhosted.org/packages/db/76/628d3c557b4cf68d9f8eb43cc6d0e20adb0ba0f68e13149d73cef6d5f8a0/flama-0.15.0.tar.gz#sha256=28ff87fbb11d0c9bdadf70827b734e5e3c9426d05397dcfb6de79d9808cff329" data-requires-python="&gt;=3.6,&lt;4.0" >flama-0.15.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/90/d5/8247177af3dfbe146ce2c1fa115ddd7e961eca20db77d08c0f3ac2500fce/flama-0.16.0-py3-none-any.whl#sha256=47b78280bba59d6b07fcf5e5c5cd885224984aa8a284a9b96babcae64f86c0d9" data-requires-python="&gt;=3.6,&lt;4.0" >flama-0.16.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/93/88/c0b62b4ff1f411f7cb55ed393f70905153b9e3bb88228e3a63e6672e9b26/flama-0.16.0.tar.gz#sha256=8cf527f28a82bb3ac18c94b7917d14f9d30492bcd0b9c81569e2c7e9bbfb16f1" data-requires-python="&gt;=3.6,&lt;4.0" >flama-0.16.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/09/9637ab809a96cf898b83afaa17a4c08ac9d24cfb03d8ce18b8ceffb51347/flama-1.0.0-py3-none-any.whl#sha256=52b8aa574b5a3b6a4cf5a18613409a9cfda0db2df74443f4dda2bad65d31490f" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/26/65/11f4ee3d7d0201266f65e339606fac8e5766b13bca9846fbd0384ff57928/flama-1.0.0.tar.gz#sha256=544426193194644ccf46a822a4e80121ffeb7150eda86ba41ded4ddc47818d4f" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.0.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/84/93/d822912040a035c86169cf219737f73bce566b4347bdfbcca921d0ec0eb6/flama-1.0.1-py3-none-any.whl#sha256=45a1fb4feb9396debdc31b9e0ee1e3de4848ee96e87312fb456ccb7a88468a39" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.0.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/9a/ef/3f602be37d65bf347e7b57260038e1e20517468b343e4e31b3f6e7bea0de/flama-1.0.1.tar.gz#sha256=aca162535d592f314735370050dedf947ee592b87b558084c050a057e991c2f4" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.0.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/8f/a8/72808d6462383af186bf84cbc4f379da7baf6e4236082e0bbf65dcb52dec/flama-1.0.2-py3-none-any.whl#sha256=6ca57a1d5e480182d857f0da420439dc50a84ffe9c145df636ceb2bc34cab300" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/98/1e/83da6870e45509e2e7a666c4a67e5fffa0d8faa085631f90132524f22f11/flama-1.0.2.tar.gz#sha256=eee162431e626544613146bcab3b8f3ae3430f135cca56311a4cbb2f99399702" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.0.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3e/89/92655b0c2cbc62f10d08cbeb5e1c71ba36cae95c332ddfa5b8d60bd74788/flama-1.1.0-py3-none-any.whl#sha256=da40790592a2761064923c5200025b37b6fe8194f5a14984f93d8fb727931374" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/77/9a/c3c7c0e6c3df21159930bac12df12aaebddc204bfc986005efe402d3536d/flama-1.1.0.tar.gz#sha256=9e158809f0ba2822c26b598c049964772c2d97e6062a8a27700cb3a655fba496" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/3a/ec/ed945eda7b6296af78a25d6efee889d14c04b10b689866558e5b33b9cdbe/flama-1.2.0-py3-none-any.whl#sha256=2d0af7e8179ba5b31658abc47db324cf2cd24468d8711518df8a6653374dc8e1" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/5d/9e/5b9787541a14b2ce5ebf1ac12df4a9fc79ed2d5e1eeefa14cf7eacf95a2f/flama-1.2.0.tar.gz#sha256=c8fc90c3aa05af270b22ee6ab89591e3d1c40570c751f1cc5ffda2895563c956" data-requires-python="&gt;=3.7,&lt;3.12" >flama-1.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 8669945-->
+<!--SERIAL 17128678-->

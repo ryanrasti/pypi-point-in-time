@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for arcade</title>
   </head>
   <body>
@@ -275,6 +275,20 @@
     <a href="https://files.pythonhosted.org/packages/63/14/922562c6fe0c1aa3b99f474e2c1f16cd29a9ad7dbea3d69400b684c90632/arcade-2.7.1.dev9.tar.gz#sha256=9c11aa21bcdcab7fd97e76797b863c627fd92219e573fe848d9f28936538b7a1" data-requires-python="&gt;=3.8" >arcade-2.7.1.dev9.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/82/0d/d14eb37cffa3ac5abb55d8276e5143fee997fd9d5dc885ff4e3114b7949a/arcade-2.7.1.dev10-py3-none-any.whl#sha256=46bebd3498cf6ee59a6c9f2f65eed16542c87da06a1dfec839a149100d240639" data-requires-python="&gt;=3.8" >arcade-2.7.1.dev10-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/63/23/6d950fdb58272b0be13bc443271f594388a8894c28a46d662a762db77467/arcade-2.7.1.dev10.tar.gz#sha256=7d86637199d3134aedcd265dc438cfb4c979d314879fc023b90566178f73ae49" data-requires-python="&gt;=3.8" >arcade-2.7.1.dev10.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/02/cb/e3b0e49b0c17a590ae8474358d36e35133098c2df9b64806da9df7927208/arcade-2.7.1.dev11-py3-none-any.whl#sha256=50bb1ccc71f5a3d4b939074927e8c501d0a0315e6ebf9e0be6ab14e81d83bfdc" data-requires-python="&gt;=3.8" >arcade-2.7.1.dev11-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/0d/06/49e60e97aedec37c231e5bdd434bce250420636576114ef3a2f10a1c7bb6/arcade-2.7.1.dev11.tar.gz#sha256=c1fad1523b3fe2d8b4e4623b39ab856de5b4a88224f5669a7671225d8ca44ebe" data-requires-python="&gt;=3.8" >arcade-2.7.1.dev11.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/e7/0850bcf044442ed117357d1b8bc65cf9bf60b709c72a9b5476a14abfd324/arcade-3.0.0.dev12-py3-none-any.whl#sha256=9727bfa29862de7f2c4268443f29737d2d73ae479fb98d88a2fd01a923a622ba" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/a4/7891e77f23fd562271f47cec83944aa2a8ed18fccb09d0d708853fd08846/arcade-3.0.0.dev12.tar.gz#sha256=64bbdf4540923485dd83c97a4345f67c588e4e5b59b761b856f3ff35be429e03" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev12.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/ec/75/7ef562ae624769115f6d39905974288ff6d65524768ce190d5106afcb464/arcade-3.0.0.dev13-py3-none-any.whl#sha256=7475ac6b27121f8d69ef1b8e23cf21d1027653dcb5cc86596297a1a38366beef" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev13-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fd/45/2649674ed8ca81d7c872ccd1e468e1cb93815c9a0b0ba895a86e24005d19/arcade-3.0.0.dev13.tar.gz#sha256=f0b52088019eb3d61de1b9fcc1faecd5ad49e6656d46ff1abc3de6db296bdcee" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev13.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/20/cc/ed670e3aae04b00d941fe0e6f4e49e05eea67908791c66b2d6ad313143e1/arcade-3.0.0.dev14-py2.py3-none-any.whl#sha256=10f5f9fdc54685d5b766ead409f5cba87c96db168771ae99d809775e7bbe81d4" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev14-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/b1/6d/94724b853440b2a8146f2ea0260a59c818fb76e64bd968b149aa4e56fe0d/arcade-3.0.0.dev14.tar.gz#sha256=d18ce880632a70c242347038e49d782df49ba90474acef41bac03a284e486d3d" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev14.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/1a/d9/a9cc990ebb352761c69f8d6c1a5eff3007a06e63246887737b905ce29f31/arcade-3.0.0.dev15-py2.py3-none-any.whl#sha256=08d5197e1a6137fe72244a7a6e51ad174c7d967f851df94bca2aba4b5e50ae22" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev15-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/d7/e2/fdca32185d4b0615b5216928984ca1c6807fb2b9ceff602fb4e5a81010c2/arcade-3.0.0.dev15.tar.gz#sha256=61a15946cfa2d24318577daa6ca6d34c173bd181716fa74715eacff7ed21a350" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev15.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/f2/d4/c5ff83400befe740a15254a35c329a2f39b1526201c5364899f27785fd03/arcade-3.0.0.dev16-py2.py3-none-any.whl#sha256=a040aecf31783b289cacb03850bc6de12702606dc92457c9c7d904f39a54485b" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev16-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/da/3f/5d5eba713d140d05bf1f4051f4bc25a32761131708a201fd7196b3fbed82/arcade-3.0.0.dev16.tar.gz#sha256=f54854d86d4112cad57bbda59571b80a0d3dce62b6fe1f7e66181b681ae22a59" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev16.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/d1/e78e30f8ca4bc43b9e3a7386ecb10a0a4056eaa518bde5e2cb72726ba30f/arcade-3.0.0.dev17-py2.py3-none-any.whl#sha256=2a11dcec2122142722ff0412451473bece2066cc0382dd3a302c09d3df7f5381" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev17-py2.py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c1/0a/3d9c098d5d8a5b2b0a42a6bea8aa0aee74c5402506fe2a30d8421cad7a3f/arcade-3.0.0.dev17.tar.gz#sha256=f85a0f163088780cd24ff9315bbc773c739a9f1c616f227496886cccbca03c03" data-requires-python="&gt;=3.8" >arcade-3.0.0.dev17.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16421704-->
+<!--SERIAL 17158518-->

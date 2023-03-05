@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.0">
+    <meta name="pypi:repository-version" content="1.1">
     <title>Links for houston-client</title>
   </head>
   <body>
@@ -12,6 +12,8 @@
     <a href="https://files.pythonhosted.org/packages/c7/ae/0389ab7e7842920bf812da1c94eb47525be87cd7738d95c5cae36f3585d1/houston_client-1.1.0-py3-none-any.whl#sha256=e5fdc3da62ffb28b224a7a22737121b8689779a1d4c0fdcde077ef190a8af943" >houston_client-1.1.0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/fb/84/cc8e764c02b7fd9bf908fc31ebde5547bfec92929030a5223e70dc14c87e/houston-client-1.1.1.tar.gz#sha256=596fdbd3342bdd95815a9afc230fe7c4ed43d561229fd1d1682c86de9a1361cb" >houston-client-1.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d9/06/89379ba542456ea2d3f4a5f1d73114d1d9765448740375ddac35339a14a5/houston_client-1.1.1-py3-none-any.whl#sha256=ab731291d54b37099b811b1a9b9a972ed46ffe6db878430b87a45ba20f260bcd" >houston_client-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/64/c1/1c3ea9d010e64a1f4bab6a9e699c7c3e85c5a0d1002e69302c1e357becc3/houston-client-1.2.dev0.tar.gz#sha256=c8372e131659450957f0a3ccd8c19bb39eea7cb57a9cac7d43b0acd32d148a1b" data-requires-python="&gt;=3.7" >houston-client-1.2.dev0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/89/de/3bdf707cff9a57a843561c16fbece52ea905cc55a44df3f8782e2412fb8c/houston_client-1.2.dev0-py3-none-any.whl#sha256=fbb9148f5ed49f8743293c9183fada2ffeef2a38743724e9ae0d723415e1c0cc" data-requires-python="&gt;=3.7" >houston_client-1.2.dev0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/f4/3c/a327877c56a555c0ecd2e45c71559fe9204e4ac5ed568d64480583656d5f/houston-client-1.2.0b0.tar.gz#sha256=302d90cf862b6dd51dab863742377655b4e49a05056acc2f38dafb5e23c3a451" data-requires-python="&gt;=3.7" >houston-client-1.2.0b0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/99/11/01117b8d3f07b912924171ed42cb3ab3fa562fd2fa1388a7dd564aac949f/houston_client-1.2.0b0-py3-none-any.whl#sha256=bd793d4e9d6752093565957660e1079d0b31f71e304956e8fcc40ba52fe22bd4" data-requires-python="&gt;=3.7" >houston_client-1.2.0b0-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/27/c7/b28483388540d84a1e3a8f87e09f4a7241c2b78e31aeafaf9b437852fbc5/houston-client-1.2.0b1.tar.gz#sha256=468132992af60d2da63e5e9fc6c4bb3b3afeefe6d42a3244c000fa8c04c3708c" data-requires-python="&gt;=3.7" >houston-client-1.2.0b1.tar.gz</a><br />
@@ -22,6 +24,8 @@
     <a href="https://files.pythonhosted.org/packages/1a/e1/ad98bd7ea4c0b15791db5b236d5ec5e14936fa6ae0d6d0de288bcff422b7/houston_client-1.2.0b3-py3-none-any.whl#sha256=9d2d3a12cc2b7e8c498e3ea74fda31b5c2cf159e953d2d81e50bff34abe1f75e" data-requires-python="&gt;=3.7" >houston_client-1.2.0b3-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/e7/2747a1c3c409f678130b4399a0947d892764b931d2eeeae601d14806d70c/houston-client-1.2.0b4.tar.gz#sha256=183b6bd81618469ebcd9b40a89fd6f514cf6f01232bbcc498fcc6d54fb69afb4" data-requires-python="&gt;=3.7" >houston-client-1.2.0b4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3b/c0/42e1d580aa336dc0b599f24281f9ee8146429d9d8ec395bcdd63d007d322/houston_client-1.2.0b4-py3-none-any.whl#sha256=eac35afe5fc666447c70d82ffb3809936c67cc050559d6047e2afdf822e9160c" data-requires-python="&gt;=3.7" >houston_client-1.2.0b4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/b0/9f5a89c22858dab95611ba852a861a0ebe3370c8ad9216ef7d3c3ed62298/houston-client-1.2.0.tar.gz#sha256=181dd2efb0f5e3df3f71ae8527510d74c8484b7c9569256fbdc6b52e918eb7b9" data-requires-python="&gt;=3.7" >houston-client-1.2.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/a8/1b/901164c2cf9e7e291ec82e87e177174a39b224e9565b3a7cad76011d1716/houston_client-1.2.0-py3-none-any.whl#sha256=9379410559ef2acbc6c103c35f18edd12ed5162a39badd21c05abbf967061ded" data-requires-python="&gt;=3.7" >houston_client-1.2.0-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 15614041-->
+<!--SERIAL 17142581-->
