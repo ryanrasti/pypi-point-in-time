@@ -6,7 +6,6 @@
   </head>
   <body>
     <h1>Links for pdip</h1>
-    <a href="https://files.pythonhosted.org/packages/b2/02/43a3f6aae09683893ead4f2efc57ab1a654f1a9834929df65b54e2b487e6/pdip-0.1.0.tar.gz#sha256=63d8736eb2798845a364f38ced65e60e807831d107f3877d066f07371dd56fb2" >pdip-0.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/45/4d/e36abe7a30d916dd4be5dba08696b99817cfd92b162aab3921203f7d49af/pdip-0.1.1-py3-none-any.whl#sha256=0a9a8ecf2963e5d71d48c11ec07308ccb8c4b64bf06cea8bae452570d45ab362" >pdip-0.1.1-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/79/36/916e0b1a3957451bd0a49350b3e36d596a0e4f84c310ff2b450de2ed94c0/pdip-0.1.1.tar.gz#sha256=41c82de1f6065ce0f47efac4320282064de0a5028f4d8f584be4de63fd1f8a75" >pdip-0.1.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/5a/a0/ddae6241c4dbdb62c5054fccd5fba3d88e952b56c477cecdbab08014ce57/pdip-0.1.4-py3-none-any.whl#sha256=2d60c484276496ec0d941b95cd4988895cd6bba66d1ab06978c321b59af49237" >pdip-0.1.4-py3-none-any.whl</a><br />
@@ -71,6 +70,18 @@
     <a href="https://files.pythonhosted.org/packages/6a/7f/5b245ef065cba7a1b8d29c0f0abce99b4483739d7b1ca3cdf26c928da94f/pdip-0.5.7.tar.gz#sha256=2c52c50458007c74f7468573f68e0f131bc764cdbdc62d7f96833f7d80a6cb0f" data-requires-python="&gt;=3.6, &lt;3.10" >pdip-0.5.7.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/19/52/4776e7b5094d75213a6b06b7805eb31fb48a46f95e55c1564e25e627d775/pdip-0.5.8-py3-none-any.whl#sha256=738e5a884ba63145965111fe27f964b555e0910eeeabc57fe0832041633e95ff" data-requires-python="&gt;=3.6, &lt;3.10" >pdip-0.5.8-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1d/03/2fecd80734bbac2630449d3cd3784f6e9c79076750bb70f914c28cd6ee52/pdip-0.5.8.tar.gz#sha256=1e46a43f400a5e4308b87c99effbedbebe56a7dd4707100af2d885fed3281a1c" data-requires-python="&gt;=3.6, &lt;3.10" >pdip-0.5.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/01/fb/ccd886cd67ba905af9bfa7e5c22f85ef0489586d5fef337a5067a17a4058/pdip-0.6.0-py3-none-any.whl#sha256=cbb524c0e4f925ae7f64114c90176f8dcc05e5ab1a218f9d9d3debbf31ab8659" data-requires-python="&gt;=3.6, &lt;3.10" >pdip-0.6.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/29/e4/477d2a81ce6007095c6efc1c9023b13a0e785b82d573942429cdf464f806/pdip-0.6.0.tar.gz#sha256=51dcad45a77a77b32f386665c6d0852998b3104888fac49580f5d2eae4708574" data-requires-python="&gt;=3.6, &lt;3.10" >pdip-0.6.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/83/88/386e14f7246ac941c95d7c1c64bd9fa9d8ca12e36704a6b729079cdb1624/pdip-0.6.1-py3-none-any.whl#sha256=9ccf5838c1dea8d2d1f20e5aa633da2cf89c890e8427bb437bef165c791e0d4f" data-requires-python="&gt;=3.7, &lt;=3.11" >pdip-0.6.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/52/c2/d7d4e88a78e231cddfe36c784d6d914f525d8bfa561f8ac0fc1383e78814/pdip-0.6.1.tar.gz#sha256=c72e1fef2bd5af7f82276808afc8ec2782e86e6311427d535667b9bf90d271c2" data-requires-python="&gt;=3.7, &lt;=3.11" >pdip-0.6.1.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/38/98/49d4dd47431846c4ecbb0f691e2e21bbf18d672c9e49278015c770385c3b/pdip-0.6.2-py3-none-any.whl#sha256=2a68eefbc194e2da608d7abcc55221894c8e2ad517f56086418c7217560f77a4" data-requires-python="&gt;=3.7" >pdip-0.6.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/ae/f622af118b62eda53badd6be294d8ac667caaf31528d21148a4cc33d1787/pdip-0.6.2.tar.gz#sha256=3ced04d5638aa857f7d6b09dc1473e65c10ccb86e5630749e7e6de181d1e41b6" data-requires-python="&gt;=3.7" >pdip-0.6.2.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/9d/16/045408f1a28dba08f8b04448a3c6926c0ba7672b6c31baa5eaa209864533/pdip-0.6.3-py3-none-any.whl#sha256=3a230a61dd8b490323f6d965faed0b5622142684203d98cff248b3e0fec27739" data-requires-python="&gt;=3.8" >pdip-0.6.3-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/76/c1/f0c939bfa672cbb1a22573fcf87cd1945e638c626f2205b76e5305dd386c/pdip-0.6.3.tar.gz#sha256=b193e4aece704f786651ddd5bc6a925b3862fc26a4463d3899f148f051cca581" data-requires-python="&gt;=3.8" >pdip-0.6.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/34/a5/99a55d5fb27c124cdeb3a8df7fa00d717f4fb7d971920c983051421c8ad7/pdip-0.6.4-py3-none-any.whl#sha256=c9a5c445a25ec675efa888845b7b77b7d91fd2eefb90ae25d5131047a0583d56" data-requires-python="&gt;=3.8" >pdip-0.6.4-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/05/42/8de37eef4259bf19f4a3887505e2710f9f06fd433be9813ad4931f712095/pdip-0.6.4.tar.gz#sha256=89357e929ae3d96d5a3f6b8dddb5959471624ee1186decaada5c2501f301bd24" data-requires-python="&gt;=3.8" >pdip-0.6.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/31/e0/eadf838a1bf82bbc54b83700b07feb89e7ee42dd9446edbe2b6e052519fb/pdip-0.6.5-py3-none-any.whl#sha256=341b9f1486cb501a2ccc762f99cc108186a0151f405849e1d07aea0715dc7f11" data-requires-python="&gt;=3.8" >pdip-0.6.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/06/f3/683d5e68deee185919e923fef6ea13e129532f7f2164ce1430497ed44f91/pdip-0.6.5.tar.gz#sha256=b26e9f7c88c1e281856d50d8aa8244673d280f983ba79b3b799fed1b85933070" data-requires-python="&gt;=3.8" >pdip-0.6.5.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 12783652-->
+<!--SERIAL 17255908-->

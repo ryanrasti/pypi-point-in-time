@@ -6,18 +6,12 @@
   </head>
   <body>
     <h1>Links for weewx</h1>
-    <a href="https://files.pythonhosted.org/packages/02/b0/a252a62a607920bbdbaae8d6eee5f32f86c3541d5ce78795837755551f8b/weewx-5.0.0a15-py3-none-any.whl#sha256=0bdfd99edd4aa2eaa8be6ad2c30a38a505c68997d035c8ece6da88bc4f6390a7" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a15-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/15/79/19c5a5c8d4ca37268c9671471f3da02fcda10f7555f7dbd7bd149daa0685/weewx-5.0.0a15.tar.gz#sha256=a87271d93e9f3df3fd158e64d6384930158fd2cf4ec2dc75d729b16239b68bc2" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a15.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/c2/b1/87226d54f0b7e9e4d02dd9bad578250fddb3687f4f40cc6b6684ed042797/weewx-5.0.0a16-py3-none-any.whl#sha256=01811443bae4a09e543b763a2b91bfd537583fbfe26c03cf5a78d54af8541bf2" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a16-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e3/b9/085c6238a0007a86ab598e45685d4af1c0b39ba25c5515a51c3821110bb4/weewx-5.0.0a16.tar.gz#sha256=d42cb75a07b86b081f4da77e1edd3881ccc1e3830a4f4d8c6d316f9851fc78b7" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a16.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/cd/50/64dec4c5c44941aae0020445f9c145c45d051066ed919a6f48c232360b81/weewx-5.0.0a17-py3-none-any.whl#sha256=f312c73f905709a3c8420ecb4f61018251d5fa3fcd802c4acc949bd34a6eb64a" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a17-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/62/cb/d652f6ea4193a7c9fafb6131b4be5b76a6d4eaae0463dd84676eb743f5fb/weewx-5.0.0a17.tar.gz#sha256=b93a04639ccba4673fe8e608d9249b6dcaa6df49b0fd45aaf280898ef823de51" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a17.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/bf/54/8d044f49acd921211eeac3b7f133630e661f0e9a55b721c18ca40c2b22e6/weewx-5.0.0a18-py3-none-any.whl#sha256=d52c29a4c975a9df050f514553daba1902ea92c2c18bac91cc1fd54ed85c975a" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a18-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/00/0f/29fa377d176bfd8328d623baa8a95e93f321c384039e99701e084e385e4a/weewx-5.0.0a18.tar.gz#sha256=5a3f4d00a777442352d85e2aa56425363de55dc2ae8308455e6e54d95908c97c" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a18.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/79/da/edfd7584edacb36b1f0506f0d789778a9df3310db3d58d343ac1dc883d41/weewx-5.0.0a19-py3-none-any.whl#sha256=9b0680b2ed4b95c43ba23b132d8e7fd7a46e591fb9879501d1583a301e12e429" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a19-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/5b/8c/19c19d7d610352de852ad90a8c0342ad9f9820a4e503dfd8304f5d59e737/weewx-5.0.0a19.tar.gz#sha256=968d25ba79c6ed002caad2d50ce18ed848758db030d21ece112ceed889a68384" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a19.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/4b/38/f01733a9ff23831e578592f7dba12103bae224855cbdb3b9b15bf1da1547/weewx-5.0.0a20-py3-none-any.whl#sha256=2c02e0fc19873ddb25e2aeb56da7b50da41f1f2dc55c3e10f731dd56ba47ea61" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a20-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/1f/8f/9f2d9f56701127bc73614f31bce21645bc59039a26f8b7fdd411f10f8025/weewx-5.0.0a20.tar.gz#sha256=e5642cb84d2d4128ef6f71af2e82eb4fb669a47a12c27f202d9a9ffd1be506ba" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a20.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/70/c3/84e6c2aa8193e42d7107f231d4e6d7bea6fb8d003c9a04e28ffc244a19ad/weewx-5.0.0a21-py3-none-any.whl#sha256=db61beef0badaedae0484899d53b8cbac6512d38e9f124dc29cfea6d5c6e528d" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a21-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e1/f2/4e6c8109a7151d35067a7c11ecd869ad2d60a59ae193c36f70e172ae4df0/weewx-5.0.0a21.tar.gz#sha256=177b164f47b44c6934b79cda97326c2d62c67c9fc4efe4f38d444964b4384710" data-requires-python="&gt;=3.7,&lt;4.0" >weewx-5.0.0a21.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16967491-->
+<!--SERIAL 17215149-->
