@@ -6,14 +6,12 @@
   </head>
   <body>
     <h1>Links for llmapi-cli</h1>
-    <a href="https://files.pythonhosted.org/packages/5a/69/1a5de5faad499d5038c6efe64a8d76904c8a13c484114cba021bbd10434e/llmapi_cli-1.0.2-py3-none-any.whl#sha256=0a4e9d782609c271e7abecca83a46139f4f21d1852d5670ade74b89bc80bc2b5" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/75/47/02350b0682ef994c2973abe58a868a49c809ae31fce1d3ae5891ddfca728/llmapi_cli-1.0.2.tar.gz#sha256=68e3d3cbd48fdb1586d4bafb27cede2befdf872e481a91100c97aa091a60641f" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/4c/4b/cc3a624c99fb43cf88f22cf27e0c193d3b5fbf4734d0d4b2d250b55c2b2b/llmapi_cli-1.0.3-py3-none-any.whl#sha256=a3d38594a5467775fb655eac04849e11638765f3a91e93c1dac6e43b03b46c3f" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/be/ee/13b9d582c4a8079c72d8821d2f18db7ee99f61e38793c4b21fde6fe6449b/llmapi_cli-1.0.3.tar.gz#sha256=72f7eb63bdc79f81cc6416d7b725838b6eae3910abf4da6c06a3eb9b1a740dfb" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.3.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/a1/cc/312861d69ffbbe429ae854e479b63440fede645113f0a9682c2e45ab84d8/llmapi_cli-1.0.4.tar.gz#sha256=a57194df08e8c8f20994d620a47e525e4a8bdfe24a4ed11495361243f362fb73" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.4.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/04/39/b78b6aae607670cef6055ffb2ec9b5abdd6b28e9da562fddc4a278d77ce8/llmapi_cli-1.0.5.tar.gz#sha256=6b69128edda071015355d7622b210945b6ce2ef6faee4e00ee7aa5cdcef36e8a" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.5.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/24/de/b9b127a464d59a7d7f2ed636b3ed18352129e2f0339c5a7091d795a7b4d3/llmapi_cli-1.0.6.tar.gz#sha256=9f0fa056b695eb7d10919872578d4f182fbd4f98d441f7f3bf25076532478b7a" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.6.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/79/b7/eaf54eed9b97e69cd11e9ec80a36c45efb21a3e0c92fce77312a2aae2ea6/llmapi_cli-1.0.7.tar.gz#sha256=0068d210bb9edb448b530105284a8ee3fb7f451eacf859210724e20bb8a57ef3" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.7.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/af/c6/56564cd768cf29f908ad51d3ea4606d2a50969ab4e0cdbeda4c647ce0670/llmapi_cli-1.0.8-py3-none-any.whl#sha256=e591667d25e52933b2cc842d36a1fff46e1eeffb17aee21cec6059468474567d" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.8-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/fe/6e/5369eed7bca6d43ba16bb8281968ec6b3a579ed9ab1f9dc8b3f6bcb884d2/llmapi_cli-1.0.8.tar.gz#sha256=b263b2b92d1fb8588b5435b06c739a4b95edf60c82bb6dc239acaa1ece8ee572" data-requires-python="&gt;=3.6" >llmapi_cli-1.0.8.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/25/fb/1b5c8070c664e694ed3f5d0ad5d2976be73d7c044573a56719e082c43e1e/llmapi_cli-1.1.0-py3-none-any.whl#sha256=1809061711d51c77dff69c673fe63e5eb029c8c319cc60d5f4136eb9563e4161" data-requires-python="&gt;=3.6" >llmapi_cli-1.1.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/93/6e/2d3682eed5a6aec52ce609c9e8deea39b74131046dae7b56674ea73f1035/llmapi_cli-1.1.0.tar.gz#sha256=f5f2a244f45a8fa9595edff69145244068f9e42fa04dbf6bf1e94474781cbb00" data-requires-python="&gt;=3.6" >llmapi_cli-1.1.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/22/54/9a5343b40c8e24543be9d563c459f7215507401e94b1f14a71df63f09dfa/llmapi_cli-1.1.1-py3-none-any.whl#sha256=0d1ad5c0454ed2bc3954be8c22141a3e742197338d0c181be30ac7639c2259be" data-requires-python="&gt;=3.6" >llmapi_cli-1.1.1-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/73/bc/2f14eb55e45099491e371eeac53eb948d2e7efc958a1b6c3d8e1bfa8854b/llmapi_cli-1.1.1.tar.gz#sha256=c9a992c9cc4cea0e9949cada87477c5c93cf0e8471736714a969c6462eaf9568" data-requires-python="&gt;=3.6" >llmapi_cli-1.1.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 17433105-->
+<!--SERIAL 17591005-->
