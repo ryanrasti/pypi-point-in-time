@@ -6,12 +6,8 @@
   </head>
   <body>
     <h1>Links for pycapsid</h1>
-    <a href="https://files.pythonhosted.org/packages/c5/97/b31c71a4b0bf8383ce475a9d87b1449a8c3698c4bc8338ff4587ba69903c/pyCapsid-0.0.1-py3-none-any.whl#sha256=8b33a8a0fbe91b980edefb1c8f005babe3560f5a8ecdcb3be859e989e9be89a9" data-requires-python="&lt;3.11" >pyCapsid-0.0.1-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/41/73/0d567251741a46454d65678e0d66b0fc678ef42c38dbf21cbe9db9e3d9a8/pyCapsid-0.0.1.tar.gz#sha256=e6d98f5f54f34ba5b8207ec227d776733aa8cc87099997b9487649d4addfb75c" data-requires-python="&lt;3.11" >pyCapsid-0.0.1.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/82/a7/78697b8f9cfbedf962df30ce3502fa270a028b0931cb2bbddaba1e0c42d3/pyCapsid-0.0.2-py3-none-any.whl#sha256=002025a01900e1773c3b9ed655a311dd7b9922744bb5fd2d7d3b48c3ce5ed82c" data-requires-python="&lt;3.11" >pyCapsid-0.0.2-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/ea/f1/59e991f07c337b215d9cbd57413b06fe8ce5b666f929c0724674a557e4c1/pyCapsid-0.0.2.tar.gz#sha256=f2cc0dd73ae5deb2b8a167209479919b13d7c79caf255ab2993585bf9924d925" data-requires-python="&lt;3.11" >pyCapsid-0.0.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/d2/78/f637c18717299462a6cfb45be3831d4754e52f1caa5c1c4f84be9bed18fe/pyCapsid-0.0.3-py3-none-any.whl#sha256=d3440a27316dfa939ede59af5e0de99fccd6405b8177671d6a3a0993489b733f" data-requires-python="&lt;3.11" >pyCapsid-0.0.3-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/d8/5f/5eb6e98c7638ce7a97032260700df0d04818893c29cc7745f83fb5d71f4c/pyCapsid-0.0.3.tar.gz#sha256=83ab9e38633a38cf8b0b452338030e27ff167f448a00b2f47cbc061c0a1cdd85" data-requires-python="&lt;3.11" >pyCapsid-0.0.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/82/a7/78697b8f9cfbedf962df30ce3502fa270a028b0931cb2bbddaba1e0c42d3/pyCapsid-0.0.2-py3-none-any.whl#sha256=002025a01900e1773c3b9ed655a311dd7b9922744bb5fd2d7d3b48c3ce5ed82c" data-requires-python="&lt;3.11" data-yanked="" >pyCapsid-0.0.2-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/ea/f1/59e991f07c337b215d9cbd57413b06fe8ce5b666f929c0724674a557e4c1/pyCapsid-0.0.2.tar.gz#sha256=f2cc0dd73ae5deb2b8a167209479919b13d7c79caf255ab2993585bf9924d925" data-requires-python="&lt;3.11" data-yanked="" >pyCapsid-0.0.2.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/bd/82/a57d04d5286c56a8c1d81f425548e4e12c2b0f3e8ae518b6f286665286f9/pyCapsid-0.0.4-py3-none-any.whl#sha256=5277008cb39dfe07bc0cf329fb53da6f6c5eb2ccf56d4a588ce156e6d98a3c0f" data-requires-python="&lt;3.11" >pyCapsid-0.0.4-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/7f/9b/26f4d791d85bb622eb2ea8c3867ea63449540d338fefb5b3a4d1ec72c60f/pyCapsid-0.0.4.tar.gz#sha256=be60231af19b2701c2e3b4acab478c9984d830bc00873c6fa489a79c597a3cdd" data-requires-python="&lt;3.11" >pyCapsid-0.0.4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/88/2f/84cd40d468f6c6bc48cfc83b59a46d5066eb47b2104897949b645bf4a00c/pyCapsid-0.0.5-py3-none-any.whl#sha256=8720b61a6ebc2047ea06030d807feab497ea04c5a42cb42031dcb9509e5581b2" data-requires-python="&lt;3.11" >pyCapsid-0.0.5-py3-none-any.whl</a><br />
@@ -36,6 +32,8 @@
     <a href="https://files.pythonhosted.org/packages/31/a4/3fa87872591c40617908668f139c8a2778762e49db9ffc43622d5a0dbfa6/pyCapsid-0.1.8.tar.gz#sha256=53a501c6b3003b56c47b86651a9ff907f4c79f033292811e7406e5c25607d6d5" data-requires-python="&lt;3.11" >pyCapsid-0.1.8.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/3d/ec/81eea25dc328b6b17c0d79bdccef97b531f19b2caefe31d854bc03623e26/pyCapsid-0.1.9-py3-none-any.whl#sha256=aa2bb0839f5f3b3a5943152d6f667d9bf8885884f84cd29ced39f4a0977363bc" data-requires-python="&lt;3.11" >pyCapsid-0.1.9-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/83/33/2c119d17010d2cb241bed5d4ec5311c174b92a7dd1ac8c7da432c5462ae4/pyCapsid-0.1.9.tar.gz#sha256=acdb23696b2fc1bf2b2e47b0e02709227591dfdfdff292eb23af6d1d7a82dea4" data-requires-python="&lt;3.11" >pyCapsid-0.1.9.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/17/4a/9fef97a73370c9fd2c5613f6dc46a58d1fb612fec73b96a2f2dabee93d87/pyCapsid-0.2.0-py3-none-any.whl#sha256=beb3efd7a273ba924a9c22f33a8b02a019f45e09062011243f935284b5868466" data-requires-python="&lt;3.11" >pyCapsid-0.2.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/56/24/f69c599e0f0bca5443e38afbda5a5c76dec951846f35a075105cebda76e1/pyCapsid-0.2.0.tar.gz#sha256=6ae15db3280b77c4aa83cb91e7cf1972d39f461500be9b8d72b133d0f7342719" data-requires-python="&lt;3.11" >pyCapsid-0.2.0.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 16999662-->
+<!--SERIAL 18027759-->
