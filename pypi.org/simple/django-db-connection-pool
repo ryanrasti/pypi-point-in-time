@@ -15,7 +15,9 @@
     <a href="https://files.pythonhosted.org/packages/16/12/5c03c9655fe14724d48934fe3c88403ff9c26e3063512082ad4916bd1139/django-db-connection-pool-1.1.0.tar.gz#sha256=0dc161c164e7b8bda1b9656e093c1dc43434c7eddbeb987ebf2755c3783da5d8" >django-db-connection-pool-1.1.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/8c/e7/274a228537e66fe27623984f24c9d3d073b8312c07a8949f8d13b6491b90/django-db-connection-pool-1.2.1.tar.gz#sha256=c18d43ec22f98a109d575cea6786409719fdc1da06fd2453c6c44928dddf9d8a" >django-db-connection-pool-1.2.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/6f/b6/130ecee9613ee79b2e471c29ad894927b3f5339659ac31de7e2d6f5037a4/django-db-connection-pool-1.2.2.tar.gz#sha256=9e8da1eef5f77edca77a70a1e1e799d35f66fddd0e6120aa0a24fb54b3ab970a" >django-db-connection-pool-1.2.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/14/14/d721c085518b8f59b73f4cb86ce124d0e7959c2fdb5ab382927805bc2089/django-db-connection-pool-1.2.3.tar.gz#sha256=f73550ad9a70d695f3a66156cc6669e7d6efb2658164db4f581e806abb4511b4" >django-db-connection-pool-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/14/14/d721c085518b8f59b73f4cb86ce124d0e7959c2fdb5ab382927805bc2089/django-db-connection-pool-1.2.3.tar.gz#sha256=f73550ad9a70d695f3a66156cc6669e7d6efb2658164db4f581e806abb4511b4" data-yanked="This version has a BUG, which will be fixed in the next version" >django-db-connection-pool-1.2.3.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/59/b3/81687f66accdc8eadb39c37ca5e61099083bad31dbf0e8f9754303549197/django-db-connection-pool-1.2.4.tar.gz#sha256=edf0324805fee85d8f515be9dd292fbee661bafe5a3d951baf85f295cf8c2324" data-requires-python="&gt;=3.4" >django-db-connection-pool-1.2.4.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/51/f9/73546e245d681195be65fa6fb088257be383b4360e5e9c97b9083d46fe6c/django_db_connection_pool-1.2.4-py3-none-any.whl#sha256=1f5526174e61b8d7724dafa12c71abdfab618eb10d3eae90ce59c59ee065cf1a" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=74d034d929e8c569259fedee70c68210214f8e96cd827e525080fb8c24b1b0e2">django_db_connection_pool-1.2.4-py3-none-any.whl</a><br />
     </body>
 </html>
-<!--SERIAL 18243327-->
+<!--SERIAL 18448087-->
