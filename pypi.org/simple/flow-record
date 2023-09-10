@@ -6,9 +6,9 @@
   </head>
   <body>
     <h1>Links for flow-record</h1>
-    <a href="https://files.pythonhosted.org/packages/6f/32/e2832d5ad5a3d225f2fa43b66f2d86d2b6009abef42bc64ce5d95ed130f3/flow.record-0.0-py3-none-any.whl#sha256=104a0a0e5d6f05b6ee9e2f939edaf2ae97ac712c86b562c1a87c01e9884914ed" >flow.record-0.0-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/e6/b6/95d0d1c7e32fe61fc88ff0a6b9c98802d9ec451cb60869098ed7ac291ecb/flow.record-3.5-py3-none-any.whl#sha256=bc4669e4bf2caee04a203be131d2fc731e183633dcbba42a40d1420f7596888f" >flow.record-3.5-py3-none-any.whl</a><br />
-    <a href="https://files.pythonhosted.org/packages/42/c5/6470c7aecffaa47a4eb5eb2e3ef669848351f55096f7af7c1247d84bfe02/flow.record-3.5.tar.gz#sha256=f1c9c32b5697b282ccae052532275139a0836eb97bd5e962fca7fdec7881c33c" >flow.record-3.5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/6f/32/e2832d5ad5a3d225f2fa43b66f2d86d2b6009abef42bc64ce5d95ed130f3/flow.record-0.0-py3-none-any.whl#sha256=104a0a0e5d6f05b6ee9e2f939edaf2ae97ac712c86b562c1a87c01e9884914ed" data-yanked="Obsolete placeholder" >flow.record-0.0-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/e6/b6/95d0d1c7e32fe61fc88ff0a6b9c98802d9ec451cb60869098ed7ac291ecb/flow.record-3.5-py3-none-any.whl#sha256=bc4669e4bf2caee04a203be131d2fc731e183633dcbba42a40d1420f7596888f" data-yanked="Missing minimal Python requirement" >flow.record-3.5-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/42/c5/6470c7aecffaa47a4eb5eb2e3ef669848351f55096f7af7c1247d84bfe02/flow.record-3.5.tar.gz#sha256=f1c9c32b5697b282ccae052532275139a0836eb97bd5e962fca7fdec7881c33c" data-yanked="Missing minimal Python requirement" >flow.record-3.5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/97/2e/b976cdd1a21d67042be87128891750bc31573c36379693a51fe971ce2a0e/flow.record-3.6.dev5-py3-none-any.whl#sha256=7266726f0be872943a2a905e6addde7a1ed42f4ccd690d5267c3cb0135d7ba9c" >flow.record-3.6.dev5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/42/86/31e67acb4de5f5b2b5354e34ecfa68d1b0f15a41e68096d896ebb2097a80/flow.record-3.6.dev5.tar.gz#sha256=a55e23329f5962ddc902b5e8cad10da76c6a176162601506c6a4219602be4e9b" >flow.record-3.6.dev5.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/2e/6f/6365c580ed61ed6cc4929fed7de1d6305c6e309201079a77f1b9f3e156be/flow.record-3.6.dev6-py3-none-any.whl#sha256=cf140eab4be6041120c06c2d773a29a86e23a0ac75b30f3e7f4ec085193d30bc" data-requires-python="~=3.7" >flow.record-3.6.dev6-py3-none-any.whl</a><br />
@@ -86,6 +86,8 @@
     <a href="https://files.pythonhosted.org/packages/89/12/3dd850011bc161437707c4d0bcc166eedee06ec75eae68c588a262898d2c/flow.record-3.12.dev4.tar.gz#sha256=0f56c02d1a8895cf1230f2daa89b4a0c5d9dfea6f8f458b0d489dadef9e62089" data-requires-python="~=3.7" >flow.record-3.12.dev4.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/72/64/7892435f0113ef56e115383d40f3a6c6e523194c7adee43828624f4a0fbc/flow.record-3.12.dev5-py3-none-any.whl#sha256=f32d1c9d3570fc5f305dc124b3b00d1a25df3f6b6174945069ab1d54db7c3b81" data-requires-python="~=3.7" data-dist-info-metadata="sha256=c91e8b343ebdb92e473d7f81ea5703a21112edcbefe04e33c1052be5d2b1d8cf" data-core-metadata="sha256=c91e8b343ebdb92e473d7f81ea5703a21112edcbefe04e33c1052be5d2b1d8cf">flow.record-3.12.dev5-py3-none-any.whl</a><br />
     <a href="https://files.pythonhosted.org/packages/c1/db/4be125dbdfebdd4fbbd422cacc27a6fbf8e454b4f6bcceaa218ebca5b810/flow.record-3.12.dev5.tar.gz#sha256=c041f5f16c58c3821570ec1be90e742a0967bf430aa3691ad1b0e68ef75653f0" data-requires-python="~=3.7" >flow.record-3.12.dev5.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c5/4f/15e10e3f6fd8ea2614d512e806df22938593ee8933041a7427c985127615/flow.record-3.12-py3-none-any.whl#sha256=e154c85c5560f31a8b2c73e2394bf17b7e8bdd3a468947bd30e7bb86bbc23969" data-requires-python="~=3.7" data-dist-info-metadata="sha256=79cd28aa130c277db315c9e9510ef30b328eeb0a679e00eccb791d4b719cddd4" data-core-metadata="sha256=79cd28aa130c277db315c9e9510ef30b328eeb0a679e00eccb791d4b719cddd4">flow.record-3.12-py3-none-any.whl</a><br />
+    <a href="https://files.pythonhosted.org/packages/7b/c9/d4753fbb9683f56eb907218767911475e357b295052558527757d9412969/flow.record-3.12.tar.gz#sha256=c21c3396e60b20951e7e1b46c5e64f7ed9f607e0ca1c8a16344a6664765be10e" data-requires-python="~=3.7" >flow.record-3.12.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 19453297-->
+<!--SERIAL 19614388-->
