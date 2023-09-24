@@ -79,8 +79,8 @@
     <a href="https://files.pythonhosted.org/packages/10/20/6d975f4238f657371c8256fd33c2690818c79bdf500bbb6737b5da0ed76d/django-allauth-0.55.0.tar.gz#sha256=6b9dee8bbfa4b9e4c346a1cda3b880c230c98fbe71253d7c48ae0df0d86a2642" data-requires-python="&gt;=3.7" >django-allauth-0.55.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/a4/6e/3aae1323529a663881dc83bd5a6448c5736fc0c64cc896479a04e97df62a/django-allauth-0.55.1.tar.gz#sha256=f6f8d35579e0eb01a93bb45125656574bbd72ec943bb19d194e98d8e2efff4a6" data-requires-python="&gt;=3.7" >django-allauth-0.55.1.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/ed/00/7e23d8edc920de9c34e85708543cb8a5a32d2e6e9bc9e67f6cee49ed4ac4/django-allauth-0.55.2.tar.gz#sha256=7b713c9947f1917e5c1c5a106fd6208d2c2c71435542fec6d60b01fd7bada3a8" data-requires-python="&gt;=3.7" >django-allauth-0.55.2.tar.gz</a><br />
-    <a href="https://files.pythonhosted.org/packages/c9/f5/3f864575cc4ae53a5c0fbd53077eaff9ac3f77470ed515857771b0f3176a/django-allauth-0.56.0.tar.gz#sha256=53f2f38307d7a5446774b23e8ede55df8b96226ccc493cd5b66780b06cf4dc07" data-requires-python="&gt;=3.7" >django-allauth-0.56.0.tar.gz</a><br />
+    <a href="https://files.pythonhosted.org/packages/c9/f5/3f864575cc4ae53a5c0fbd53077eaff9ac3f77470ed515857771b0f3176a/django-allauth-0.56.0.tar.gz#sha256=53f2f38307d7a5446774b23e8ede55df8b96226ccc493cd5b66780b06cf4dc07" data-requires-python="&gt;=3.7" data-yanked="adapter.pre_login() security issue" >django-allauth-0.56.0.tar.gz</a><br />
     <a href="https://files.pythonhosted.org/packages/d6/78/096a33fe9df0a2a30fbf0156ed3f58a7d2609ce9eedd2383a95ec686cf2a/django-allauth-0.56.1.tar.gz#sha256=347044c4e268e085ef4b4b26ea5fdc9d40576872d55e630f1736e1c9a7761529" data-requires-python="&gt;=3.7" >django-allauth-0.56.1.tar.gz</a><br />
     </body>
 </html>
-<!--SERIAL 19668671-->
+<!--SERIAL 19763648-->
