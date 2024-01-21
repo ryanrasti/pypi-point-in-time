@@ -6,11 +6,6 @@
   </head>
   <body>
     <h1>Links for fortigate-api</h1>
-<a href="https://files.pythonhosted.org/packages/e5/18/2bfc84b50d9404ab21ac96817d16847468e475679ae407e4da9024df60ff/fortigate_api-0.1.1.tar.gz#sha256=91815b4533f15db1a2cda1cddc8afb57a3407bac8feb5b3c58438435a90c9e5f" data-requires-python="&gt;=3.8" >fortigate_api-0.1.1.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/ce/22/9f63358f6ef73b2a6aa15de8b5f6c2136c387512c148d46657a0b0c618c3/fortigate_api-0.2.1.tar.gz#sha256=a162c89427ab043f13ba0542b01e9df1396b573d339dba9ef5d52f436912dc7e" data-requires-python="&gt;=3.8" >fortigate_api-0.2.1.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/9b/f3/458c60cb3c756c41fcddb291ab53e996ce7c1226a216e93360257745a7d8/fortigate_api-0.2.2.tar.gz#sha256=4c38efe2c5d0010d4d262edf6dc0477a76434aae3a9e541962c66ee7cfc7488f" data-requires-python="&gt;=3.8" >fortigate_api-0.2.2.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/19/cb/2df57ef1fc8bcb30459a1a97b87d3e1751869aad26d770ff17004883a64a/fortigate_api-0.2.5.tar.gz#sha256=8fe78a829061f270213a47119e77ee2ccdf5b20227ff4df167d43269d3c93ac9" data-requires-python="&gt;=3.8" >fortigate_api-0.2.5.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/91/4c/d6e2da42761d4f545cb1b6871404fa300ae428e8cd487f87255e40339e0b/fortigate_api-0.2.6.tar.gz#sha256=4df87c33661c63eda08db8b0ce5babc6d74351ded2fce09ddff2202dc355969e" data-requires-python="&gt;=3.8" >fortigate_api-0.2.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5e/e9/b7b98bc686f3cf372742a73829385af36fe3fa2fdd2af4a3ac1cfebb5bd3/fortigate_api-1.0.1.tar.gz#sha256=c65692d64ecf1815d08758a3402f88faab2a7eb693d1ecbe1695d16ccb4ce2ca" data-requires-python="&gt;=3.8" >fortigate_api-1.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5f/4f/772c17d124dd5d155868291b919d6fc9bab41595f8245b3f88f1cb70f6fd/fortigate_api-1.0.2.tar.gz#sha256=443a922a5204b707ff2a197e9bff089278400ba413cd08e759f54045c1450ca7" data-requires-python="&gt;=3.8" >fortigate_api-1.0.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ce/08/21cf3db470d9c56c865dfc969d9ff56a537f2e22662aae014c44415440fd/fortigate_api-1.1.0.tar.gz#sha256=458aa84ff0b3759c402ad7953c137ac9ae4864ae0820480a9d7140547deb0ef0" data-requires-python="&gt;=3.8" >fortigate_api-1.1.0.tar.gz</a><br />
@@ -30,6 +25,8 @@
 <a href="https://files.pythonhosted.org/packages/d6/f8/bb2c84ddac1a6154fe1b3556f05f6ae1626df44a82250b6724e1061abbb6/fortigate_api-1.3.2.tar.gz#sha256=0bd5bbc362f3fd3e9535a92d62486730ba446305c242f5c4e285ed8adc6918c3" data-requires-python="&gt;=3.8,&lt;4.0" >fortigate_api-1.3.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a8/ff/5749c94cb6b2eed865a8eb2ad2c069b053813ccd725aa9df4494056d34ad/fortigate_api-1.4.0-py3-none-any.whl#sha256=df707312d12a09c620525553aac7fd342844b0a5378529a90bd1ce5751c6505f" data-requires-python="&gt;=3.8,&lt;4.0" data-dist-info-metadata="sha256=46607eba0760c0b60fdbb7b17d0f75adbcf4ca210a92613b9ae8c813862aba31" data-core-metadata="sha256=46607eba0760c0b60fdbb7b17d0f75adbcf4ca210a92613b9ae8c813862aba31">fortigate_api-1.4.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/90/e9/0705239839ce2b6562ff2790205c9acb8f4b6de8200e883670d680370bf4/fortigate_api-1.4.0.tar.gz#sha256=7d61c046c3320d73a11bb60882f66a971198dbaf7f1e2157e317c22d248f96e2" data-requires-python="&gt;=3.8,&lt;4.0" >fortigate_api-1.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4c/60/e275dfd44970e2d652ac1f3c8185b6652130c1c235196bbe3cfc443177e7/fortigate_api-2.0.0-py3-none-any.whl#sha256=93821936733b53902f3836b791de92a72ef44df87a308d3a032608c3f38f6926" data-requires-python="&gt;=3.8,&lt;4.0" data-dist-info-metadata="sha256=28359dad93be6b08e35517b1cabf636b07cb4b05c126371653a4b2692f7770c3" data-core-metadata="sha256=28359dad93be6b08e35517b1cabf636b07cb4b05c126371653a4b2692f7770c3">fortigate_api-2.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ac/6c/0be9ebe6357053843bb3aa9dcb12dd2fb630f8d851500d33eb2ea86a3d25/fortigate_api-2.0.0.tar.gz#sha256=e08afe6a2bbcb4a06087bbe66e41446ca5646371440c6d8225fccd6cc80a1a98" data-requires-python="&gt;=3.8,&lt;4.0" >fortigate_api-2.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21206405-->
+<!--SERIAL 21443257-->
