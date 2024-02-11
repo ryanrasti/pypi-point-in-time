@@ -6,8 +6,10 @@
   </head>
   <body>
     <h1>Links for nisupply</h1>
-<a href="https://files.pythonhosted.org/packages/92/9d/bc8584eae32fd41ca5e8216bbdaee15816c65e811f1c8ac5a88bd140a17b/nisupply-2023.3.10-py3-none-any.whl#sha256=354c7d51d11bb1b3523fc65fd4bcad2e11fc29f8f0a2955d02ca8923d29c260c" >nisupply-2023.3.10-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/ec/77/32c4faafbc1ff79b40915229cb28837f71b0c8c55c548c87552c2f65dbce/nisupply-2023.3.10.tar.gz#sha256=ec01b0b19e70577d1ff7b57f5b50c72c50bfee8705619488c459e172de0e62d5" >nisupply-2023.3.10.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f6/bd/e7712b7a52675e199166d022320757a3acedddbad472808921cee61c2b7f/nisupply-1.0.0-py3-none-any.whl#sha256=bf2eb42d0a0a139dca4581b1b690120e5554bb9fe792f7b3a7e0c51f43895bab" data-dist-info-metadata="sha256=139058b3faf3969d9b0d1796ea172a61a1b7588815c9d7a0c218290f8c954d31" data-core-metadata="sha256=139058b3faf3969d9b0d1796ea172a61a1b7588815c9d7a0c218290f8c954d31">nisupply-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b5/71/a19cb74c0c4c99511331860c3d1fdcc17d009793268f5c911a6f95b9e619/nisupply-1.0.0.tar.gz#sha256=a33fcaba6fc144037925f171d70761a9c9719627a8043ab1fd5e007144901e3a" >nisupply-1.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/92/9d/bc8584eae32fd41ca5e8216bbdaee15816c65e811f1c8ac5a88bd140a17b/nisupply-2023.3.10-py3-none-any.whl#sha256=354c7d51d11bb1b3523fc65fd4bcad2e11fc29f8f0a2955d02ca8923d29c260c" data-yanked="Nisupply now uses official versioning. Version 2023.3.10 refers to the date this version was uploaded which was a bad idea, because pip now thinks this is the newest version (right now, 1.0.0 is the newest version). This release will sooner or later be deleted." >nisupply-2023.3.10-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ec/77/32c4faafbc1ff79b40915229cb28837f71b0c8c55c548c87552c2f65dbce/nisupply-2023.3.10.tar.gz#sha256=ec01b0b19e70577d1ff7b57f5b50c72c50bfee8705619488c459e172de0e62d5" data-yanked="Nisupply now uses official versioning. Version 2023.3.10 refers to the date this version was uploaded which was a bad idea, because pip now thinks this is the newest version (right now, 1.0.0 is the newest version). This release will sooner or later be deleted." >nisupply-2023.3.10.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 17240475-->
+<!--SERIAL 21633727-->
