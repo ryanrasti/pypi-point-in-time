@@ -6,9 +6,9 @@
   </head>
   <body>
     <h1>Links for hsfs</h1>
-<a href="https://files.pythonhosted.org/packages/ae/bc/554dedf83fe8c96d56e5bfda71afbae486fa73211738f0eaeb5502d1cca3/hsfs-0.0.0.1-py3-none-any.whl#sha256=2564ee3fbf88aa6c475dc6481988b9d21dd246a28cbd716322f038e780f062a7" data-yanked="" >hsfs-0.0.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/bc/554dedf83fe8c96d56e5bfda71afbae486fa73211738f0eaeb5502d1cca3/hsfs-0.0.0.1-py3-none-any.whl#sha256=2564ee3fbf88aa6c475dc6481988b9d21dd246a28cbd716322f038e780f062a7" data-yanked="" data-dist-info-metadata="sha256=c6d1c6c4c398280339320279292221dd18a3f8d87577ed54faf9f3b1742edfc7" data-core-metadata="sha256=c6d1c6c4c398280339320279292221dd18a3f8d87577ed54faf9f3b1742edfc7">hsfs-0.0.0.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b9/23/6d5169455c4277dd06c2d7f97d2599c8de961343ec90ea2393ce173d43ee/hsfs-0.0.0.1.tar.gz#sha256=61ba8e76581e9cc01030d5175ed93b8873e00f294c11df3b15d4b668d4871407" data-yanked="" >hsfs-0.0.0.1.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/cb/7e/181f63d0f4cef3b387da9b15dbf226d10b69424ef4f33679b5ae1db2eb25/hsfs-0.0.0.2-py3-none-any.whl#sha256=8dd7e79b1112df9b2475562aab2ec785bea9b13aa471ff412deeeb81c295f1b8" >hsfs-0.0.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cb/7e/181f63d0f4cef3b387da9b15dbf226d10b69424ef4f33679b5ae1db2eb25/hsfs-0.0.0.2-py3-none-any.whl#sha256=8dd7e79b1112df9b2475562aab2ec785bea9b13aa471ff412deeeb81c295f1b8" data-dist-info-metadata="sha256=f4ff54a3926663b096e72e2522a2a5c541ecabcfd9a0b8295bb82a8d13e03147" data-core-metadata="sha256=f4ff54a3926663b096e72e2522a2a5c541ecabcfd9a0b8295bb82a8d13e03147">hsfs-0.0.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b2/33/9fd76813398fcb33bd09aeef5165d11091c2ed48c0d63948e58a19935f29/hsfs-0.0.0.2.tar.gz#sha256=fcc959609afb2099d57f7be1170866399f76e2838c6fbed9989ebf4645c6005d" >hsfs-0.0.0.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ae/e9/82ee320caefd232f883bd3a9e25c1410fbe2ec8443cb3d58e8b635706a71/hsfs-1.4.0.tar.gz#sha256=0bab9cf6af454181dbde940235470360708c3a535f586f976b3ec8a5f4017775" >hsfs-1.4.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f3/60/68c9a0eadd5219584866f14b94d74c7560435c881891cc19236f0d4ea55c/hsfs-2.0.0.tar.gz#sha256=17639e1dc7f926bb67008c3f20fb5227a7bad5cb4b749740c3d40b0efe76dc6f" >hsfs-2.0.0.tar.gz</a><br />
@@ -156,6 +156,10 @@
 <a href="https://files.pythonhosted.org/packages/4d/6f/d930bb3401edd510d59d6133eba2c0a5966c87373aeda4a1ab71c4fb55cf/hsfs-3.5.1rc2.tar.gz#sha256=00561cd95af20a7665865802f0c47ae36e5637679c4419dfda8985836f73455f" data-requires-python="&gt;=3.7,&lt;3.12" >hsfs-3.5.1rc2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/54/6d/364482eee19ee27dfe1ecf81f234193aed771448dad5707e8e1730b12159/hsfs-3.7.0rc0.tar.gz#sha256=e52c317b4491c413e30feb19e285420a54e97edd683f707ae848100f1cbb33b0" data-requires-python="&gt;=3.8,&lt;3.13" >hsfs-3.7.0rc0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/09/d9/9ab7fa30139459ff4a79bb546f36c29c105c378904a01471e16194d974cb/hsfs-3.7.0rc1.tar.gz#sha256=2877ec849a484cd5e7a428a1b14c99b2e4e14a1a6ba03e88f775c96d44e94054" data-requires-python="&gt;=3.8,&lt;3.13" >hsfs-3.7.0rc1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/10/7ec27bcb9f76644da7f6d2c053deb9ff3ac8d09d79215bfa80331371a5ad/hsfs-3.7.0rc2.tar.gz#sha256=a27c5cf7715a9356f37cc69fb6931ea17412e922e6354f1d5f9e588639634d44" data-requires-python="&gt;=3.8,&lt;3.13" >hsfs-3.7.0rc2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/86/60/f7630e69b5250de539f6a4e539dee369214cd885790948dc2bb45c2a9d7e/hsfs-3.7.0rc3.tar.gz#sha256=a81f8d0379ba726d7feb542b14c598e30a8694ee4ce69309f4208189f9cd6be9" data-requires-python="&gt;=3.8,&lt;3.13" >hsfs-3.7.0rc3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/08/86/283c3e0d0aa959256d3bfcb57dd61e8c7574a68514724e6897128f30f0fa/hsfs-3.7.0rc4.tar.gz#sha256=21dd50a8adbac2babb3e92d877f6976e7171c34a635397ca1ba80a182dcb9381" data-requires-python="&gt;=3.8,&lt;3.13" >hsfs-3.7.0rc4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/da/bf/40c2bbffd73ec42d9ea3411b9fd26856aa2e15ff592f044bee1384272716/hsfs-3.7.0rc5.tar.gz#sha256=257e5b0133b2b146ceaca7e5020d8166a9578489741ff652bc49fb8d71c05d18" data-requires-python="&gt;=3.8,&lt;3.13" >hsfs-3.7.0rc5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21760945-->
+<!--SERIAL 22115989-->

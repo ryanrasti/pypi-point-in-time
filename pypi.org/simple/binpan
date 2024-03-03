@@ -6,11 +6,11 @@
   </head>
   <body>
     <h1>Links for binpan</h1>
-<a href="https://files.pythonhosted.org/packages/6c/c8/e1d7f8eae75d6ca3a1668c83910169c58ffdb1b9f1f58c247a7c52304915/binpan-0.0.1-py3-none-any.whl#sha256=711e093ea51fd7b459b9626aebe7db0a52ba73d45e4ef7c609b7e757bab1718b" >binpan-0.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6c/c8/e1d7f8eae75d6ca3a1668c83910169c58ffdb1b9f1f58c247a7c52304915/binpan-0.0.1-py3-none-any.whl#sha256=711e093ea51fd7b459b9626aebe7db0a52ba73d45e4ef7c609b7e757bab1718b" data-dist-info-metadata="sha256=a6b2e4531b6cbfe2befdb41ffa4a98c07ad9510605b80c4118119d8cb36e3467" data-core-metadata="sha256=a6b2e4531b6cbfe2befdb41ffa4a98c07ad9510605b80c4118119d8cb36e3467">binpan-0.0.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/58/a6/46115f51ac792b561f6138c5635b048c3147dfc567cec04e99b38f5ce87e/binpan-0.0.1.tar.gz#sha256=a3e280e83a8d077408c2d0b99815503d148f5b601598816f66d084863f86b205" >binpan-0.0.1.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/1c/fe/aab45291dc14edc7c854235733f8d325639e6e528006ac32ed1b27d9ec35/binpan-0.0.2-py3-none-any.whl#sha256=7c78ca602c8e908f24be9453b3b8bea962375e1e8d018cea945fb64d22899645" >binpan-0.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1c/fe/aab45291dc14edc7c854235733f8d325639e6e528006ac32ed1b27d9ec35/binpan-0.0.2-py3-none-any.whl#sha256=7c78ca602c8e908f24be9453b3b8bea962375e1e8d018cea945fb64d22899645" data-dist-info-metadata="sha256=a78d0ceb61955835819e2e5abe07101d5be41ce24ab8b1ba2273097d2885dd6e" data-core-metadata="sha256=a78d0ceb61955835819e2e5abe07101d5be41ce24ab8b1ba2273097d2885dd6e">binpan-0.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/44/75/938275c961fb77335c093f7c3fcf873210070a5aac953fe368018c09d5b3/binpan-0.0.2.tar.gz#sha256=735946aff92c0b0763ee4c5e8d9149b8f0c3ec750a3e0ff1686470b4df5644c2" >binpan-0.0.2.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/6e/99/125ca8534e0261115ed19332a6641720094018b3767fd03d98f8f173d673/binpan-0.0.3-py3-none-any.whl#sha256=4f568ff5c4b48917e6ea47096e3a1e6e04e01a340cc3fcd6ec8658ea62465445" >binpan-0.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/99/125ca8534e0261115ed19332a6641720094018b3767fd03d98f8f173d673/binpan-0.0.3-py3-none-any.whl#sha256=4f568ff5c4b48917e6ea47096e3a1e6e04e01a340cc3fcd6ec8658ea62465445" data-dist-info-metadata="sha256=f397c7613f9737ea6dcd8c9b2c28f463f31ff052c89cbdaee7693f04d22f2512" data-core-metadata="sha256=f397c7613f9737ea6dcd8c9b2c28f463f31ff052c89cbdaee7693f04d22f2512">binpan-0.0.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f4/40/7fdf8398e0dd300a6e8d3cda22df160ed78a61c45f7b38453823a462bc6a/binpan-0.0.3.tar.gz#sha256=64cdd7765120515be6cb0c0d3bed3272a489ed2c3200c02c299690920979bcdc" >binpan-0.0.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5c/7a/70888c6abe389af0e6ce40a7b32e5bbe269e270823e0c51ed043a1954ae5/binpan-0.0.4.tar.gz#sha256=a9eb73c51c6af8fa141f059e4e243bc3c2ed0553e262b1034584f9bfbf7be362" >binpan-0.0.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/1d/0d/acaad33d8f8e8fdde931999c4c1b5abe5c86e5951268e00d1338804e56b6/binpan-0.0.5.tar.gz#sha256=011aaa1c4410683688beea6ddd192b6e7497b8a3b0c584d7a220aa18c80ae48d" >binpan-0.0.5.tar.gz</a><br />
@@ -231,6 +231,9 @@
 <a href="https://files.pythonhosted.org/packages/dc/9c/4a2aad359bf13c47e177c16324c7a7a507b018053af419bab474ad10de99/binpan-0.8.8.tar.gz#sha256=7c9c8f22d9e4001fc3ca0cffd2b105157afe776d6a85b207f607183c7099010b" data-requires-python="&gt;=3.10.0" >binpan-0.8.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/01/71/f9badbffa102fd2fe4424c1324b72e25aa677a181873f15712497f86534d/binpan-0.8.9.tar.gz#sha256=efb14968e55b700ba5da9ce4d97feb93a1f8a78087a8705ec650a39b6e1024e4" data-requires-python="&gt;=3.10.0" >binpan-0.8.9.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e1/48/990a2e6da1520ac7af4ee1825be88930414bb1455d410a201f34f812f3f5/binpan-0.8.10.tar.gz#sha256=e73075c76961a8462d193a69757b976308c85b83fd486a14ec2411aa2efac1da" data-requires-python="&gt;=3.10.0" >binpan-0.8.10.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/39/15/d6e0e9df7e9d365054dbdda5efcbfb42efc9622664308e011300975c87a4/binpan-0.8.11.tar.gz#sha256=59d1760ec23abaa368e8fc80037d8ec78de1b555f8d9b541c1402394b6458f97" data-requires-python="&gt;=3.10.0" >binpan-0.8.11.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e7/5e/22a3335ff119430bda1dbc7bfd0e1cfea3644cbcbdca431ca4bce3efcfde/binpan-0.8.12.tar.gz#sha256=745b699eb18d57eabd9c471c4ebac3bf7d5c06b23bb98cadf3246c1b1c85b5b8" data-requires-python="&gt;=3.10.0" >binpan-0.8.12.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7b/01/66a407437989c8c077a3e24cd2eb0e8d78d615751739feb9b01d4d413873/binpan-0.8.13.tar.gz#sha256=834d8b346a9d3a5bfab912ad6a434654232f2560475a6044357629df2b9f500e" data-requires-python="&gt;=3.10.0" >binpan-0.8.13.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21192149-->
+<!--SERIAL 21997938-->

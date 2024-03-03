@@ -46,7 +46,7 @@
 <a href="https://files.pythonhosted.org/packages/a8/40/1bba4aa6e76bb2967a40afd6f2f237118fdce5e5a8b208bb53e408398103/juju-2.6.2.tar.gz#sha256=63fb0484064bb039e0e81aadfb5a8290661c62d99775e459c0f93e1136b417df" >juju-2.6.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/18/f2/714e253e7a8a0c697b2ccd11bc42622cf4aca69eaa599e00e8aa976cb540/juju-2.6.3.tar.gz#sha256=cbf0ed3c317dc98b307f74ff1cb99978857c008aeb05d8206c7313a28fdc207e" >juju-2.6.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/7f/1a/e57e1e6b7e911099be362508af2d9b9ae6274b23f2564366d521b5987fc4/juju-2.7.0.tar.gz#sha256=7b9c562fa9454af964726ecfcc33ee13b2812b9378a7ba4475c7279b444cc433" >juju-2.7.0.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/be/5f/94d49605c9603a11df1bd2a9100fbfcbd45b262831309b69d5dbf09c0c28/juju-2.7.1-py3-none-any.whl#sha256=c2630cefea2499c02ff6f9fe1eeb135d298ce3bb68afbb788900777463228cc7" >juju-2.7.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/be/5f/94d49605c9603a11df1bd2a9100fbfcbd45b262831309b69d5dbf09c0c28/juju-2.7.1-py3-none-any.whl#sha256=c2630cefea2499c02ff6f9fe1eeb135d298ce3bb68afbb788900777463228cc7" data-dist-info-metadata="sha256=574ee0cd64d3422e1e56d4636b9d98436bb69b1e17d47e75959d7e7e4fa928e0" data-core-metadata="sha256=574ee0cd64d3422e1e56d4636b9d98436bb69b1e17d47e75959d7e7e4fa928e0">juju-2.7.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/cb/a1/55effbdc723fb8a4a6681b200aa8ae08a7320d30b276c49986006f9cf986/juju-2.7.1.tar.gz#sha256=0263128be884545a2bdd0d178e58809bcd68138dfd60278b1a28d1e5c40633f2" >juju-2.7.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/7c/be/2dfc3edcef15d4cb0e6788000024c74b70011c73aad681bcd4ab2f668a0d/juju-2.8.0.tar.gz#sha256=06a7167d1eb43dd89e39c21f1be1d40e1484e43e81d0f462caf91804a7650eaa" >juju-2.8.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b9/cd/ebe519d20d80d57667d6db0ca41180ccf2c4c1425088bb9aa97153eab7e9/juju-2.8.1.tar.gz#sha256=07f072069c9bd0695ee3bc14b96fe2717f9a5934f5aec672b001c7e916c64122" >juju-2.8.1.tar.gz</a><br />
@@ -78,6 +78,7 @@
 <a href="https://files.pythonhosted.org/packages/b9/78/9d116e1815d34845ca357b587c67414758fa5d34cc23cb5b724e4f93d34d/juju-2.9.44.1.tar.gz#sha256=ece49d708025602c9ad8e875dc47ac5ede8229e3d3ab82616da78973189846e3" >juju-2.9.44.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/36/ac/c3dbe349a5027c03e47945b86c2474c00fe7acba5dcc2f64fa98e238fa7d/juju-2.9.45.0.tar.gz#sha256=e48dffb5dd0b509d17b8923b264f6b5b439de161755031a3d28b8dcd1fceb40c" >juju-2.9.45.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bc/ec/46d6b9e1e80bebdbeb6d060e27aba904ea2004cf15b79077e0788d2991b4/juju-2.9.46.0.tar.gz#sha256=9dea8893e378249e06e5e257a7064a6780c658305cf5f6ce20096fe648c96660" >juju-2.9.46.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/71/99/d366f61718a72edb5cbf659a91282edbe9a0b20eaf781273305a8dc82e02/juju-2.9.46.1.tar.gz#sha256=742374beddc0badf41bffbc50e0ec61a4ac6aa1fedcee623eba9aa3a2554750c" >juju-2.9.46.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/af/00/adad52224a494fe74e55563b4d5641a10a5bb1c693dc77e5e2c4323e496b/juju-3.0.0.tar.gz#sha256=d11f0a71a2fa3d826a21a652e6781b97ff55137c2cc0dda7d1f0cc7839499267" >juju-3.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/72/0f/66f41f52b75dcbc3d1dca41a2d1e53359f4485a9c0cd49a818d460a657fd/juju-3.0.1.tar.gz#sha256=803f7e33f598e675d2a4690ffa4759b61f07d2c90f8540e4a3e13ca672aa0ca8" >juju-3.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/34/ba/39137bf9f1f155a4dac82f5e3557d5d3aa2e0dfeebe44e18ea280ef4fbda/juju-3.0.2-py3.10.egg#sha256=4e275bc9b256826f55a543216819ddd2d05b811b211caed57196b4d633bc502a" >juju-3.0.2-py3.10.egg</a><br />
@@ -94,6 +95,8 @@
 <a href="https://files.pythonhosted.org/packages/29/53/4301eca739d6f3bfe5c59a7f33c14083e9570b78bd21d89444a38c8f1fc8/juju-3.2.2.tar.gz#sha256=b6f51c62b605bc8bd56842892d31cdb91d26879e49641380cd67c423f69fb1bb" >juju-3.2.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/12/19/ae2682a9106dc24cb1f6a8d8b66a8a5102f470f0ae1a14c1af4cef51cc2b/juju-3.2.3.0.tar.gz#sha256=d24973a232b0bcd32aaa732f9367d199a133063cf85b2ebf2b8497e31490bf8a" >juju-3.2.3.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/89/8b/b33f8724b795596fc474771e4f3f1464465d8f5a66895c2e2221155b377c/juju-3.3.0.0.tar.gz#sha256=50e68a07a8ea337ed9962527e24bd7d7609e8aa3f43e3a8121418a7c9357d97e" >juju-3.3.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/e4/fe8ac068a53e1170acf50e8a436e41652d2d0468576fe3d4eeae45354049/juju-3.3.1.0.tar.gz#sha256=f886ad0e3219b60450546387e9f689ced52f3df96bc2a4e8381494eb511331ec" data-yanked="3.3.1.0 as packaged is missing some dependencies" >juju-3.3.1.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/50/63/3b1a279743b1b2518c3a0f81b2e3c42435ee09dd5784feec09621cfe5aaa/juju-3.3.1.1.tar.gz#sha256=b30b19051a1c394fa1b1a8c6d38c31d8acdceec2f95b33ffb46fab2d791a29fd" >juju-3.3.1.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 20940938-->
+<!--SERIAL 21887819-->
