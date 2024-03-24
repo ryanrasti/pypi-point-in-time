@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Links for trimesh</h1>
-<a href="https://files.pythonhosted.org/packages/f0/25/d9ba8c26d5244002bf3b4135046438adb9f3560c89b5aab434528d1d2889/trimesh-1.9.7-py2-none-any.whl#sha256=8f19f856fc25c4f414a8ba390b6fdadbd48d9fdc53303e3bbf1c30cba5f449ed" >trimesh-1.9.7-py2-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/25/d9ba8c26d5244002bf3b4135046438adb9f3560c89b5aab434528d1d2889/trimesh-1.9.7-py2-none-any.whl#sha256=8f19f856fc25c4f414a8ba390b6fdadbd48d9fdc53303e3bbf1c30cba5f449ed" data-dist-info-metadata="sha256=f974c51bc2d26f8fc7c95825b36374e3f588cb068468e936333f52c3ff0b9816" data-core-metadata="sha256=f974c51bc2d26f8fc7c95825b36374e3f588cb068468e936333f52c3ff0b9816">trimesh-1.9.7-py2-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/8e/fd/4bd5b68b93f9a0aecc8a445fc6143fffd1148d1ccd5a436ded2468dc7885/trimesh-1.9.7.tar.gz#sha256=83cc94c75dcc7ec2216c8b0853bc872f1540d3666130cbd2e1b7f25e3c8aef00" >trimesh-1.9.7.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ed/48/248bb8a8a6cd642898a5f83daaeaf9b23ab96d86d463669fbdc19faa7ba1/trimesh-1.9.10.tar.gz#sha256=67d7132e571383ddb61cee06b37b0c4823203d1a0b8ee2362cf6e7b6b4eb6a7f" >trimesh-1.9.10.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/04/e6/8b6d3de597add14de172e37d255d176c46e9605a1f08e466ecf32a17094c/trimesh-1.9.11.tar.gz#sha256=72d70cebe065d33627b984dc631add577b1ae634993bfd4dff853e07a67350ed" >trimesh-1.9.11.tar.gz</a><br />
@@ -1159,6 +1159,10 @@
 <a href="https://files.pythonhosted.org/packages/5f/ff/26df22b2551951ee2a48b91c76aefd4762f7cac51ce923c9c02f4f0cd024/trimesh-4.1.6.tar.gz#sha256=a6cf7dfb7243c8ab81db91b5861a3a302943169e3c37f7416ab1d95297192b7d" data-requires-python="&gt;=3.7" >trimesh-4.1.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/41/ca/deada79afce17e97b93dbb4802971be3330d7ecfc728fd4ed89c43776bf6/trimesh-4.1.7-py3-none-any.whl#sha256=83efc88e6c028d2f18bc278c72966cf52304a3b7f7bdc72f297483e896f139cf" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=33bd6a90a758b7680b3afa3c81cf051b78b49e2420a1dd0dee12d4677971cbdb" data-core-metadata="sha256=33bd6a90a758b7680b3afa3c81cf051b78b49e2420a1dd0dee12d4677971cbdb">trimesh-4.1.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/02/28/b1373e86da85299209ddfd63a4a3050a8e8fa6c68d5f7b72ce0364be4ea6/trimesh-4.1.7.tar.gz#sha256=6ceedf22b93e49c4afcf58b02cc74f37e7caf53e55848122b717594672c14b10" data-requires-python="&gt;=3.7" >trimesh-4.1.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/90/607b1c39f8e67d519c1d146082fd170132f39e3433092e88b36719380466/trimesh-4.1.8-py3-none-any.whl#sha256=58fc9c724cb803d487b325bf2138473bdc76772310559edb18cd21d13d3990f0" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=42443a963bf9cf19ce7f8317d1c9d2a89d7f65947ba6f6696e77f178ebcf64b2" data-core-metadata="sha256=42443a963bf9cf19ce7f8317d1c9d2a89d7f65947ba6f6696e77f178ebcf64b2">trimesh-4.1.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/69/b1a9559237a1784d4f43fb27dc0f1a9102c3394ea7f9c2a9ff5a17a1f23e/trimesh-4.1.8.tar.gz#sha256=a06d147a3a947bef0e72049917f2e7fd00bbd0689f8871e4908e447a53c5fb40" data-requires-python="&gt;=3.7" >trimesh-4.1.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/be/22/55fa05cdaa646756a9457184e7a00ae38da327a3af54d5d2c65b3b2888f3/trimesh-4.2.0-py3-none-any.whl#sha256=119673cb17749c078cc821b30651b71e6c66610ed1e34c79b73332951543152e" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=64f3bbf03a275a01193bfcbc22f28f639e70e1791bc16c3054fdc1f6697089fb" data-core-metadata="sha256=64f3bbf03a275a01193bfcbc22f28f639e70e1791bc16c3054fdc1f6697089fb">trimesh-4.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/00/a4/434e2e6da88c5e3388ac6c76816ff5a4cc4446fc517005eed4171ab1e650/trimesh-4.2.0.tar.gz#sha256=b92ea854d4be24137ad521150f02d00e809feb44b0a9757bf37d44d89fa16fb2" data-requires-python="&gt;=3.7" >trimesh-4.2.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 22103540-->
+<!--SERIAL 22272216-->
