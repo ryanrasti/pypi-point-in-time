@@ -46,6 +46,7 @@
 <a href="https://files.pythonhosted.org/packages/c7/2a/d058b5d09aa6f6181bd7b8b3927e7cd9e0c27c1f271a03dad785b5cf0926/kolena-0.99.0.tar.gz#sha256=c8a954fa22ab06defa6bafc5ad9714c029a28d9ae6e1d83d21f545cd5f8a6b29" data-requires-python="&gt;=3.7.1,&lt;3.12" >kolena-0.99.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/80/10/5da4502cdf8f9670f0ec8edbdaa31d1eb2ece88e34e2c211ec6ac0b8c449/kolena-0.99.1.tar.gz#sha256=fedb4c6b167770d2a07cbdee57db3ae680bf5f4fd226397f3421eac95f49c1d4" data-requires-python="&gt;=3.7.1,&lt;3.12" >kolena-0.99.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/fe/f7/c0024b238e7a42d3988ce1bdc2f39959d581463781230bd3ed6209257abc/kolena-0.100.0.tar.gz#sha256=02dac05d2bd1ad9befdfb1fa8569d305b0f095c1b8c821dc75e9f08e48cbebee" data-requires-python="&gt;=3.8,&lt;3.12" >kolena-0.100.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/41/d2/b5afbc1d6f6b260038f45e447246e549204be252253caee7ad7b1fdb0794/kolena-0.100.1.tar.gz#sha256=9ecac73f2d11e9917ad8b70a169f6a546679b91849188c827df9c03bf60a0d8d" data-requires-python="&lt;3.12,&gt;=3.8" >kolena-0.100.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/70/d3/98f75121593d15367ff02c85b67ff11fdebe860e78060c825250c9e9d9f2/kolena-1.0.0.tar.gz#sha256=beb13bb0791a1933d0f1f961af9fdc5e8a33d81820043b1d5dc9ae4e869cf44a" data-requires-python="&gt;=3.8,&lt;3.12" >kolena-1.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/20/75/5f52ec477b1c61c0f1673306418d9d3c72e9e8821b651fd0b12f9d3c9d39/kolena-1.0.1.tar.gz#sha256=02ee3b104ba020ad6ea0e6c715b7867051bed18adf8403a6d89e6cafb5b2ae7b" data-requires-python="&gt;=3.8,&lt;3.12" >kolena-1.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f2/f5/476b72ed4e005ce6a0f865c39a5940d3f8db4c88a963a9b2913d7926f569/kolena-1.1.0.tar.gz#sha256=15a7a99c3014835ff1cd026b8142a6717cf307b954dc4d127024ddcc78c37814" data-requires-python="&gt;=3.8,&lt;3.12" >kolena-1.1.0.tar.gz</a><br />
@@ -72,6 +73,9 @@
 <a href="https://files.pythonhosted.org/packages/5a/84/61e869a01f25746644c767e7e368932bb9623e86f51b9c70b1d19d7dda1d/kolena-1.18.0.tar.gz#sha256=36fe35507294ca3d7f112ac7ef885f814ff7f7bc17fb9dc1cbf97d0eaa06693e" data-requires-python="&lt;3.13,&gt;=3.8" >kolena-1.18.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/4b/e3/129d3c31dfcd94a460b0bca980da20475bd970c579071f082ed63f7acc4e/kolena-1.19.0.tar.gz#sha256=94f76bc6263ccfac796f22794ce0f488bbd098ba3bf7dc47a7f0f35f0cbf6ca8" data-requires-python="&lt;3.13,&gt;=3.8" >kolena-1.19.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3b/85/043e6c780ef5ba642f617df1f0b26b6f0e10f605dc6b00ea4777d02a5db9/kolena-1.20.0.tar.gz#sha256=debdbf89934b6c7bb1c1a60972cf35dd26a3351ac3d67d30dfb007a9cbc04603" data-requires-python="&lt;3.13,&gt;=3.8" >kolena-1.20.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/34/9e/30cc617610f13c42233785e5a72f1730859f70b79513c3dcfdb07dfbf925/kolena-1.21.0.tar.gz#sha256=b574a7893d7f627ba515f7047790279403d123a56c22cf170edb3ab19cdf34b0" data-requires-python="&lt;3.13,&gt;=3.8" >kolena-1.21.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/fd/3eacd841d0c8d455c2dd4b2b1832a8c9ecbb457e39ec380e8afbfcc145f8/kolena-1.22.0.tar.gz#sha256=1a2e0c31d1656d670e320301a1e2dd7cfa59331f3764854ec080846413117f99" data-requires-python="&lt;3.13,&gt;=3.8" >kolena-1.22.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4c/6d/843ddd2c8f0ba9c3d6415222a0619e73a548fa094075bd8453169c0243cb/kolena-1.23.0.tar.gz#sha256=77afe249ca8bc7b1dc6b7caeadf582c7c8f179539819ea4de45082b2150d2a37" data-requires-python="&lt;3.13,&gt;=3.8" >kolena-1.23.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23421311-->
+<!--SERIAL 23737664-->
