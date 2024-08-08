@@ -6,9 +6,9 @@
   </head>
   <body>
     <h1>Links for backports-socketpair</h1>
-<a href="https://files.pythonhosted.org/packages/02/9b/2873aec8aa4bd50067ae335158caccb4cf2ff20c5cc314f3c94452edf07d/backports.socketpair-3.5.0.2.zip#sha256=4e89d7738c893663cc5306593a2049e43c5fa52137b3a5dc462642d1d4ea702e" >backports.socketpair-3.5.0.2.zip</a><br />
-<a href="https://files.pythonhosted.org/packages/02/0c/d26a5fd0ee8c8c8025cc8da2c9ab0d95c367079222ea8d3ddfc3fccf5456/backports.socketpair-3.5.0.3-py2.py3-none-any.whl#sha256=0fc019e578c8868ec5598f4eef96a10d70fae25dcb5eae3a4a7dddabf00dc7e7" data-dist-info-metadata="sha256=48d0859c58d9cda5c30d00c2aa60d6075e137e49d9d18313129a5db53a6d9e07" data-core-metadata="sha256=48d0859c58d9cda5c30d00c2aa60d6075e137e49d9d18313129a5db53a6d9e07">backports.socketpair-3.5.0.3-py2.py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/b3/f7/e6a001d462631ffe7d2e459ff32f5ef534e3a443af47baf329060a6ef81f/backports.socketpair-3.5.0.4-py2.py3-none-any.whl#sha256=75178c83b3ff35dcd1972d37c7820d0c53b2616e085b61712a7e5849bf6c8ed1" data-dist-info-metadata="sha256=005e86f8be6177395632e3e3f85d45197a57d0c2b2ca3b0b971a5137da833db6" data-core-metadata="sha256=005e86f8be6177395632e3e3f85d45197a57d0c2b2ca3b0b971a5137da833db6">backports.socketpair-3.5.0.4-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/02/9b/2873aec8aa4bd50067ae335158caccb4cf2ff20c5cc314f3c94452edf07d/backports.socketpair-3.5.0.2.zip#sha256=4e89d7738c893663cc5306593a2049e43c5fa52137b3a5dc462642d1d4ea702e" data-yanked="CVE-2024-3219" >backports.socketpair-3.5.0.2.zip</a><br />
+<a href="https://files.pythonhosted.org/packages/02/0c/d26a5fd0ee8c8c8025cc8da2c9ab0d95c367079222ea8d3ddfc3fccf5456/backports.socketpair-3.5.0.3-py2.py3-none-any.whl#sha256=0fc019e578c8868ec5598f4eef96a10d70fae25dcb5eae3a4a7dddabf00dc7e7" data-yanked="CVE-2024-3219" data-dist-info-metadata="sha256=48d0859c58d9cda5c30d00c2aa60d6075e137e49d9d18313129a5db53a6d9e07" data-core-metadata="sha256=48d0859c58d9cda5c30d00c2aa60d6075e137e49d9d18313129a5db53a6d9e07">backports.socketpair-3.5.0.3-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b3/f7/e6a001d462631ffe7d2e459ff32f5ef534e3a443af47baf329060a6ef81f/backports.socketpair-3.5.0.4-py2.py3-none-any.whl#sha256=75178c83b3ff35dcd1972d37c7820d0c53b2616e085b61712a7e5849bf6c8ed1" data-yanked="CVE-2024-3219" data-dist-info-metadata="sha256=005e86f8be6177395632e3e3f85d45197a57d0c2b2ca3b0b971a5137da833db6" data-core-metadata="sha256=005e86f8be6177395632e3e3f85d45197a57d0c2b2ca3b0b971a5137da833db6">backports.socketpair-3.5.0.4-py2.py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 3411036-->
+<!--SERIAL 24368036-->
