@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for data-connectors</title>
   </head>
   <body>
@@ -54,6 +54,12 @@
 <a href="https://files.pythonhosted.org/packages/63/8e/3b88404bea8c825a6b78ddba8e0a0c0af6d9e9b206c61fd4819fbfbbdd4d/data_connectors-0.20.24-py3-none-any.whl#sha256=a105fc2fce0da6d35b93b7617c1f78cfee807d3b74809c2cf943489b755c65fd" data-requires-python="&gt;=3.8,&lt;3.11" data-dist-info-metadata="sha256=c38d1d708c4442b45a4ade0f58517124ffa1563591228c5d260fd12ac8996ebc" data-core-metadata="sha256=c38d1d708c4442b45a4ade0f58517124ffa1563591228c5d260fd12ac8996ebc">data_connectors-0.20.24-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c6/8e/ee7bb0cff9bbd6fa2da03929483f2982a86080be20f8e0b0cc9a41233aa7/data_connectors-0.20.25-py3-none-any.whl#sha256=6f23cd503b84d38923b9ae1361254ae6bbfa60552bf3048854e9e566b4a24d3b" data-requires-python="&gt;=3.8,&lt;3.11" data-dist-info-metadata="sha256=97fface23ca5500a688b3ec654b7afb96ff3355466d56721faa948d028514851" data-core-metadata="sha256=97fface23ca5500a688b3ec654b7afb96ff3355466d56721faa948d028514851">data_connectors-0.20.25-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/bb/ad/3a99b744120606c6fed1734f3d9c333f33fcbefd9643477f717172bd833f/data_connectors-0.20.25.tar.gz#sha256=592d08d6777484bcb0ee3d88906cf3efdbf83db8534882f0cc6923b1ee642f24" data-requires-python="&gt;=3.8,&lt;3.11" >data_connectors-0.20.25.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3a/0b/acf05baa6b0b45164b583391877d65154f6b183a5e7312fbd057ec547654/data_connectors-0.20.27-py3-none-any.whl#sha256=bbb05ecff8e2b0cb61059443ebdaa9371b311ed7c01ab275e417b24eac7a0a6b" data-requires-python="&lt;3.11,&gt;=3.8" data-dist-info-metadata="sha256=f8afcaae142bab70ad7547f3d241d95b8ef9942b8b4b2eef57aa47d10e68924f" data-core-metadata="sha256=f8afcaae142bab70ad7547f3d241d95b8ef9942b8b4b2eef57aa47d10e68924f">data_connectors-0.20.27-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7f/b7/97090413b258106051cd3eb88e1b1ac4487cff01b8c4ff9ce7b1876856ee/data_connectors-0.20.27.tar.gz#sha256=f75a00e5cd983e171cc5057d317c5dcefdace0241255e13c901013edb69793be" data-requires-python="&lt;3.11,&gt;=3.8" >data_connectors-0.20.27.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/79/61/90e3bce503b8f53a0d5f1dead2174f37b3572a9d9dc0bfa499d6d86310c2/data_connectors-0.20.28-py3-none-any.whl#sha256=f38043165e7141a34ad260338f662b0db9b84734ab5fb2072ba41924a8a76128" data-requires-python="&lt;3.11,&gt;=3.9" data-dist-info-metadata="sha256=bec5f25fa977417e7c2c47a505e60e37539d4d48fe7301401372b87d83166046" data-core-metadata="sha256=bec5f25fa977417e7c2c47a505e60e37539d4d48fe7301401372b87d83166046">data_connectors-0.20.28-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/44/10/845fa50cc0a2670d1da2f9ec79eac5f8fccc8042c6c0b27fbae793736212/data_connectors-0.20.28.tar.gz#sha256=c352d59d6bab0681d56fc53a29f567d0c6adcb6d6f4ac3c73f304d88e0e69d3c" data-requires-python="&lt;3.11,&gt;=3.9" >data_connectors-0.20.28.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0d/93/be0b587995e7e9dd2f46a122309e3e9baa1ee37b23c73ca3f94c51b8b6cc/data_connectors-0.20.29-py3-none-any.whl#sha256=c5146c5e94624f5928c2afd9e87b20a09f9dc4146121d126da176727aa146668" data-requires-python="&lt;3.11,&gt;=3.9" data-dist-info-metadata="sha256=964441aa072ba67e8516fd98b455be6467103f43c6dbfc6d35af9d5f4d28916c" data-core-metadata="sha256=964441aa072ba67e8516fd98b455be6467103f43c6dbfc6d35af9d5f4d28916c">data_connectors-0.20.29-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a8/65/8900c0aa340b6f888c178d763dacf1f8bd151224f47f6b8cb1b90361b776/data_connectors-0.20.29.tar.gz#sha256=f36d2b2f030d39a0f5bb5a403c7e926e58fa91b374689f2205f8cf0fb4d5e9b1" data-requires-python="&lt;3.11,&gt;=3.9" >data_connectors-0.20.29.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 20256194-->
+<!--SERIAL 25146671-->

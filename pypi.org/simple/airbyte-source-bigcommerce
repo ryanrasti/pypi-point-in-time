@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for airbyte-source-bigcommerce</title>
   </head>
   <body>
@@ -40,6 +40,12 @@
 <a href="https://files.pythonhosted.org/packages/cd/6e/7db8329d6257a7baff54733dc0253ef16adda297eec88ab83b3fa5655697/airbyte_source_bigcommerce-0.2.15.tar.gz#sha256=5a27155ade9b9b36fd811ad41f46772f63bb2381e5c635b60a8e5625850d7372" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_bigcommerce-0.2.15.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f0/a4/5211fd131fb31914f8e7a60ecdfd74a0a2e62966e9e7460cfbc3c942ca97/airbyte_source_bigcommerce-0.2.16-py3-none-any.whl#sha256=94bad376d3c8f4791a1c678b086cae5ee75b26fe832ca061570349e07162ccbc" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=d2fd635330eb01ea0f201164516dcd77df785654236e06492c0285ad0b4bcd78" data-core-metadata="sha256=d2fd635330eb01ea0f201164516dcd77df785654236e06492c0285ad0b4bcd78">airbyte_source_bigcommerce-0.2.16-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/4f/b8/5a0dcba8c1f728f0f15bf9f79c82ae9eab4653d400ddf3a7a22f5e07f4e3/airbyte_source_bigcommerce-0.2.16.tar.gz#sha256=a0902af4a16cadd635f36362483db3b54983de3af812305ab598e6ec9ab2444f" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_bigcommerce-0.2.16.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/cb/d1/7515f96dba01b106da72d3cb00f78427658c4bd98b18d882cc166a344b2b/airbyte_source_bigcommerce-0.2.17-py3-none-any.whl#sha256=43d8c7381b84cc4808484341d6af186cb7fbacf76ae32d2ae66fcd0d52da4815" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=90697fa0ff5c77671f183c40be1d494758221cfe514e6d64c04896709fdf054e" data-core-metadata="sha256=90697fa0ff5c77671f183c40be1d494758221cfe514e6d64c04896709fdf054e">airbyte_source_bigcommerce-0.2.17-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5d/33/4dcb0f9e831eee015e695d00a5a8821dde87f499a67a31e74eb188682f8d/airbyte_source_bigcommerce-0.2.17.tar.gz#sha256=2127c90e233e8fd1a831b488f3578b1d478e9649b58bcb654d8152dcc5096386" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_bigcommerce-0.2.17.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/11/86/c0cf3571ddb0f5e763290cd0f91d9e065a81ac18a5f1a8213a1d78882862/airbyte_source_bigcommerce-0.2.18-py3-none-any.whl#sha256=621506d1f17a1760f4f2b51b37c4175b7f90e2deef1eccb27b528c53d4c67067" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=080062880c1e4020fd75b57ac72de44eab5bb2e0578bf6c89c374c7fd4b7841b" data-core-metadata="sha256=080062880c1e4020fd75b57ac72de44eab5bb2e0578bf6c89c374c7fd4b7841b">airbyte_source_bigcommerce-0.2.18-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/da/94/dd18dfd19326f1e3adec8c1f8d43d2f806fa097b129f9ff43881b19f8761/airbyte_source_bigcommerce-0.2.18.tar.gz#sha256=b4af173126e56e105d0a5f92d08d29f602d287c8fae63bee0706c6a0cbd7d1ff" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_bigcommerce-0.2.18.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c6/83/4cd6b2bafe85c7f2e8b5396366cad122d889df9920bdb3795db9cc7e5802/airbyte_source_bigcommerce-0.2.19-py3-none-any.whl#sha256=efbf09c183416817b633ad33aded35e8a299310f6c864ed038c06c4fc206e64a" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=f07b1aee3997e60213f16d4154e64af045c6058827a57850d5bf41f8e6b5d07a" data-core-metadata="sha256=f07b1aee3997e60213f16d4154e64af045c6058827a57850d5bf41f8e6b5d07a">airbyte_source_bigcommerce-0.2.19-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fa/47/903bd68e243f1b9ebcc825ef31167a4ce20a1db83b444b2381a424eee915/airbyte_source_bigcommerce-0.2.19.tar.gz#sha256=e365349a1a9dd93460c3a0a8d64a0aa16ce873e14bc5b8011577ce5bbcb7e3f4" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_bigcommerce-0.2.19.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24927805-->
+<!--SERIAL 25238174-->

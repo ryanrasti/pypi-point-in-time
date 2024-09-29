@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for vaapi</title>
   </head>
   <body>
@@ -16,6 +16,16 @@
 <a href="https://files.pythonhosted.org/packages/88/ab/c556b7239339f3547bf3256e0c642c9784c34a8bac653f30fbd3b3a6eab2/vaapi-0.1.3.tar.gz#sha256=69dceb766752f292be151e453d7d1e3c2a6aedb99953bc256d9f9956fec052ea" data-requires-python="&gt;=3.6.9" >vaapi-0.1.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/24/43/f048b7512072d4ee5829d8f00bd60d950fa1a855a8656f8c872676de4c0f/vaapi-0.2.0-py3-none-any.whl#sha256=d66cd3ad34466994601351c2cd310e7b78cbf5421e3aa660019b41749204cf6a" data-requires-python="&gt;=3.6.9" data-dist-info-metadata="sha256=80821e7bd6b2bb3df3c982a9d4ea7df648a2dc3da3606bc5e02925223f7ff2bf" data-core-metadata="sha256=80821e7bd6b2bb3df3c982a9d4ea7df648a2dc3da3606bc5e02925223f7ff2bf">vaapi-0.2.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f7/1d/203b481ddac2ac3844b62e872cd7be5a780c68fddbc6cb35519f9e09c6c6/vaapi-0.2.0.tar.gz#sha256=5f2618363b770acafa92c4694093d4e5cc679b0996bc3418f2268d0395987b0e" data-requires-python="&gt;=3.6.9" >vaapi-0.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2e/d8/c3ed26e615901524440d05938514d16ad151b8458c4256dba0642b2adcd6/vaapi-0.3.0-py3-none-any.whl#sha256=1e4a97f400f13f5c2a026c17fb949e7cd88e82fa2804c9b06487f99b5da2dcbb" data-requires-python="&gt;=3.6.9" data-dist-info-metadata="sha256=094b4d2bea26a723102f9e9948a57b57756713bad18b85bf06602b90d667ab47" data-core-metadata="sha256=094b4d2bea26a723102f9e9948a57b57756713bad18b85bf06602b90d667ab47">vaapi-0.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d6/72/fad02d628db2d68762de415503d9c08def0a7e4285900d719fc3300045d2/vaapi-0.3.0.tar.gz#sha256=eadb13412428c2dd86fc1be47bd82898420c7617863ee7d80775e99eb39970a5" data-requires-python="&gt;=3.6.9" >vaapi-0.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9f/42/865c497de49e91b7d79f732524aab17b8a747c6ca73babdb972d35c75b9c/vaapi-0.3.1-py3-none-any.whl#sha256=9d91655f2d8cec38528318c58d6b792c77b3ed7ea6645d6a33cf46e1384c1bf2" data-requires-python="&gt;=3.6.9" data-dist-info-metadata="sha256=fe2997a65ef05fb6d9e0fcb74ac1fbdcdf0e6c29abf73fe21b180836c62ab421" data-core-metadata="sha256=fe2997a65ef05fb6d9e0fcb74ac1fbdcdf0e6c29abf73fe21b180836c62ab421">vaapi-0.3.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/33/21/1b04b11a9a40d6dc3067712f8b28669863ce844743759c3210c6f423dbac/vaapi-0.3.1.tar.gz#sha256=3132d64d2a76633440272aef472f8d3f5e9fc56b69aa996bd50861eef34781fe" data-requires-python="&gt;=3.6.9" >vaapi-0.3.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/9f/3c533d9b97fbbb28d128b8a489aca75033bfb4a730eec93cd4fe0a81b226/vaapi-0.3.2-py3-none-any.whl#sha256=f4d1cbb76f4c6f5364d04b2ce1e64ad0d693366a8c8cdbb6bb13b67cd6bcd50a" data-requires-python="&gt;=3.6.9" data-dist-info-metadata="sha256=e6c2c2179523a98dbcb3c2080da82e2cf52ca04b56a318c025a5c65c824b4ff2" data-core-metadata="sha256=e6c2c2179523a98dbcb3c2080da82e2cf52ca04b56a318c025a5c65c824b4ff2">vaapi-0.3.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/db/41/ac10af507db9d6f421629094a8f69e26271941821f19ed21a949e6ef487a/vaapi-0.3.2.tar.gz#sha256=6e440704f9e8c3636836b2af46648feb7e60db6ce72d5ba4dfb9ad0793f3e065" data-requires-python="&gt;=3.6.9" >vaapi-0.3.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/72/51/86ce4b1b5af4a9394116519adb8f9135a8c73bb99598199f99a9b87b0f36/vaapi-0.3.3-py3-none-any.whl#sha256=c851f0575c5be523ff7d84f4c9294b939bf2dc51d98b7008cb64467f2970adbc" data-requires-python="&gt;=3.6.9" data-dist-info-metadata="sha256=29335863c4647fee875b0253e927ac8435856da79888b1eb283c6f42bf2536c3" data-core-metadata="sha256=29335863c4647fee875b0253e927ac8435856da79888b1eb283c6f42bf2536c3">vaapi-0.3.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f4/c7/163dff3e613a5939c46efce1649f5f5221e8137be064c1912859074e2732/vaapi-0.3.3.tar.gz#sha256=800f736abdc5ce55cfbcef1d96d314b101598c36b493e87545ea067034fd2763" data-requires-python="&gt;=3.6.9" >vaapi-0.3.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f2/91/882795333ff4624568e6afe1d9ba5050053e3fdf3e7160c6d6bd55516266/vaapi-0.3.4-py3-none-any.whl#sha256=66817b65682b9f553ab3f8119a12e4baa40f6d0751b6ce5ee35846e34f850d9a" data-requires-python="&gt;=3.6.9" data-dist-info-metadata="sha256=3b1f6a59b52419dc586282bc763baebc2eb4d7682b353cb5596ba29da32601a6" data-core-metadata="sha256=3b1f6a59b52419dc586282bc763baebc2eb4d7682b353cb5596ba29da32601a6">vaapi-0.3.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/91/b9/1fb998ef2243f313509c6bc010e087240942cabfc08a59056042165eb10c/vaapi-0.3.4.tar.gz#sha256=e85c52667ae46072fe2de07d27cf6049d03448076f3b65b0ceed01efaf7229dd" data-requires-python="&gt;=3.6.9" >vaapi-0.3.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24947847-->
+<!--SERIAL 25218845-->

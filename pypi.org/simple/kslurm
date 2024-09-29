@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for kslurm</title>
   </head>
   <body>
@@ -46,6 +46,8 @@
 <a href="https://files.pythonhosted.org/packages/e6/9b/88c843c4f91999d5bb26ea5a1af361b9463d7a6d87f0d7f0ebe99ae29c8c/kslurm-0.6.2.tar.gz#sha256=0c6f2f25856dd89c499d7471765e9b98b8c6b5f27a8982f0a4853e62fb7cb1a0" data-requires-python="&gt;=3.9,&lt;4.0" data-yanked="Broken integration with neuroglia-helpers" >kslurm-0.6.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/dc/b7/5a71b0595325cf4ef6ab77c4ea2e39dc8695b92d49d6a93edbb69e6a397e/kslurm-0.6.3-py3-none-any.whl#sha256=c8054ecac1b13a5b2604e6bef090ec41fa7ff2f0de35488483c7e33d835f16c7" data-requires-python="&gt;=3.9,&lt;4.0" data-dist-info-metadata="sha256=4ad04704ea70d6d9a538b0e1758d80186f23b4baacdc0de3ce7e45a74b3ea6ea" data-core-metadata="sha256=4ad04704ea70d6d9a538b0e1758d80186f23b4baacdc0de3ce7e45a74b3ea6ea">kslurm-0.6.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/8a/d6/9787dd06398c8bb983d8430506416015ea69d620aaf66a771dab0dbef92b/kslurm-0.6.3.tar.gz#sha256=9809c5104f1a9fb8068c819f419dc884d4d813ed03ee182bce130c0077522b8d" data-requires-python="&gt;=3.9,&lt;4.0" >kslurm-0.6.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/6a/60af8e22694c4f748c9e7b27ba80b1e4a94f82f86160e33ea4896af28f3c/kslurm-0.6.4-py3-none-any.whl#sha256=bf30301527ed48568aac7d433bc78273ea486167c62dd418afb9058753fcf1e4" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=37509a049fa1baa7eddd39bc7904d6cc55df86014a55b6cd1dd85ffd565d5046" data-core-metadata="sha256=37509a049fa1baa7eddd39bc7904d6cc55df86014a55b6cd1dd85ffd565d5046">kslurm-0.6.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/47/80/9b26ec7901f3ddb21f29bb548468194c1953078f7cb59326525f84dc8280/kslurm-0.6.4.tar.gz#sha256=2710dbb6b18b71b28710284a2c49f33def90482ec40e46c55a054163fcacd612" data-requires-python="&lt;4.0,&gt;=3.9" >kslurm-0.6.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 18236451-->
+<!--SERIAL 25235410-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pulp-ansible-client</title>
   </head>
   <body>
@@ -158,6 +158,8 @@
 <a href="https://files.pythonhosted.org/packages/97/9c/942f9836517d1e40a8ee37909057877655daf3e629322d06ce2abf8e758e/pulp_ansible_client-0.16.2-py3-none-any.whl#sha256=fd812796763aa539f77c548738711caa1ed8ee45953dda492bb300ac688331ce" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=be923d6421ce9cd0d0f1e793c3b0e7addadccb6d54abe9af395ea9c893fe90d9" data-core-metadata="sha256=be923d6421ce9cd0d0f1e793c3b0e7addadccb6d54abe9af395ea9c893fe90d9">pulp_ansible_client-0.16.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/27/df/5f2b3ddad584d62d9c68beb2b322c54ea1d7527b71a4a157afaa2c03f594/pulp_ansible-client-0.16.3.tar.gz#sha256=43af9c0b2a7e4471b0c5e356ebf33829380b382b4f4754886f2b9f4437dbf429" data-requires-python="&gt;=3.4" >pulp_ansible-client-0.16.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f6/aa/b2067abf3cdd845931907ef66a58dac43f3839935ea47991abc82acc88fa/pulp_ansible_client-0.16.3-py3-none-any.whl#sha256=9aa95c89048dbaf34bee8179e2b1b17ace1e87b2d3384590e452a61cdca03f38" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=98b26aa94d91c7fa3cd1f35baaf402634dc3ba000c0036962b38606f46b060a6" data-core-metadata="sha256=98b26aa94d91c7fa3cd1f35baaf402634dc3ba000c0036962b38606f46b060a6">pulp_ansible_client-0.16.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/57/66/c980110fbb2dccf31021df4c721f4ce201b5885aee47cba45ebde60fbe0b/pulp_ansible-client-0.16.4.tar.gz#sha256=42d14139eb6f5133941023d866103618fe48364ab53507ab7516bf6589dba549" data-requires-python="&gt;=3.4" >pulp_ansible-client-0.16.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/39/1e/67ba7d7aaeaea794430430b55cb786e632d033d305258d2cc29399338eb6/pulp_ansible_client-0.16.4-py3-none-any.whl#sha256=1a74f5962b3cae4dbb455c73aa0ba63460b8c1a2aca7129d1a72983807fa0097" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=a9e6ac46db9d6d803acdc9b66b5c8957c862473b84b6c43a8ebb18d7eb5e7daa" data-core-metadata="sha256=a9e6ac46db9d6d803acdc9b66b5c8957c862473b84b6c43a8ebb18d7eb5e7daa">pulp_ansible_client-0.16.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/01/66/cafbaec9675e42f374a422a19a73386780ce0adfb6ce459cf5bbbd884468/pulp_ansible-client-0.17.0.tar.gz#sha256=1d8ad83627957fe717e232aacd7c39c0f4eabebba2c8855b5f728bc83b27735a" data-requires-python="&gt;=3.4" >pulp_ansible-client-0.17.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b5/7c/dd18774b06b43d6f1de36055b6fbcf997491e2a218e5e9130363f18e8843/pulp_ansible_client-0.17.0-py3-none-any.whl#sha256=ac317ad28508a97441a11f113300a027dc227fd7f51bec500d6cda47c6377bc0" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=3fbb078a83318ef3541092d5aca7b1c3754b5da233f4b7b9b2e312561cd1f295" data-core-metadata="sha256=3fbb078a83318ef3541092d5aca7b1c3754b5da233f4b7b9b2e312561cd1f295">pulp_ansible_client-0.17.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f1/60/4ed884c05ae35ff745e159f1282ba88f495a2e1e5cf660fa93c2d6bf8764/pulp_ansible-client-0.17.1.tar.gz#sha256=ed2601dfc3928007792ba44a11920e9ec6a1d1ad89e34b40a490a1ddbeaa2a0b" data-requires-python="&gt;=3.4" >pulp_ansible-client-0.17.1.tar.gz</a><br />
@@ -220,4 +222,4 @@
 <a href="https://files.pythonhosted.org/packages/58/f9/95a05e8737f1c61ab6850442ff6ead6d1a9dcd902377987093d33295d109/pulp_ansible_client-0.22.1-py3-none-any.whl#sha256=7d585ec553d01a948610de622dda0b3054353b1e429282b3053945379ff30437" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=96b8d4fd4081d78302f64532190b333e08089dc8c1d0f3ba02d1c57b80e13251" data-core-metadata="sha256=96b8d4fd4081d78302f64532190b333e08089dc8c1d0f3ba02d1c57b80e13251">pulp_ansible_client-0.22.1-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24566731-->
+<!--SERIAL 25187957-->

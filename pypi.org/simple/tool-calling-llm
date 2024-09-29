@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for tool-calling-llm</title>
   </head>
   <body>
@@ -10,6 +10,12 @@
 <a href="https://files.pythonhosted.org/packages/c7/8a/3b461454a8a53b23e5335674400d1ab6c72066354465106c0b8917d10804/tool_calling_llm-0.0.8.tar.gz#sha256=37093fb4f44fb09e02e67bfd1744f5ef8438b4696ea2534cb4c0f7abb6ca05fc" data-requires-python="&gt;=3.9" >tool_calling_llm-0.0.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/85/97/07b81715affc4b27542667450bd4d41ca0971766762f73ce886f269efca0/tool_calling_llm-0.0.9-py3-none-any.whl#sha256=09092d399cd3c3d9bc38db0aa053ff669fd794c33da5d41a1bb9b93955275eb6" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=c8fda9085629b0eedafa49053b4f4d0aa561f3224105c3f9eedbd6b33a782a08" data-core-metadata="sha256=c8fda9085629b0eedafa49053b4f4d0aa561f3224105c3f9eedbd6b33a782a08">tool_calling_llm-0.0.9-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/98/ab/5f3adff9858ba0ab541e7762807bb4718b888d2e2c1ce1058e5af78bc518/tool_calling_llm-0.0.9.tar.gz#sha256=6233b6af3936717f53c7e02fff25e3c4853ed7c9a22581d9e853c6b22a49166d" data-requires-python="&lt;4.0,&gt;=3.9" >tool_calling_llm-0.0.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1e/53/94a949d4c4d7d27bd2b5324b3a34c23d57573331f78f7feecd58bb72e6d8/tool_calling_llm-0.1.0-py3-none-any.whl#sha256=9cb54b6f6a73d704b448d9e7f42403741980f5e9b933bff5b35050e0cf1ced6b" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=e557eb141dab776d6dd9e936ffbfa5e1990945311818752e388ba1c2336d601e" data-core-metadata="sha256=e557eb141dab776d6dd9e936ffbfa5e1990945311818752e388ba1c2336d601e">tool_calling_llm-0.1.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/01/d0/e2d8009ddafd475c63052da8631ab1eb354cb8511be2b9a2af2b21577a7d/tool_calling_llm-0.1.0.tar.gz#sha256=045c904a76e9db9856022882013666b0252ecf6030ad274dc1359e95f25b7e56" data-requires-python="&lt;4.0,&gt;=3.9" >tool_calling_llm-0.1.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/91/6a/d4475f6ffd8f305b18f94c741408a1365d1974ba32d7d68590f8c47dd3a9/tool_calling_llm-0.1.1-py3-none-any.whl#sha256=5066aefd34c4e79c63c307bf5d2edb621b1a53752350781de98f09db08df0de2" data-requires-python="&lt;4.0,&gt;=3.9" data-yanked="json parsing is broken" data-dist-info-metadata="sha256=7dd1e8c7ac3fb7b30931729db76176bbb9ef31c9098a08a4db7356f1c5b3398e" data-core-metadata="sha256=7dd1e8c7ac3fb7b30931729db76176bbb9ef31c9098a08a4db7356f1c5b3398e">tool_calling_llm-0.1.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/cd/31b06ca1dae48c1b6c85c840c248f388dcf10848f0fcba9e0b841e3ebdf5/tool_calling_llm-0.1.1.tar.gz#sha256=2000ee069bcae8c4562011cc4dfa4cebeccb921275577c18d02c1bec8413a02c" data-requires-python="&lt;4.0,&gt;=3.9" data-yanked="json parsing is broken" >tool_calling_llm-0.1.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/75/bb/21d50be4cb02e64e2700bc2dbe26a0646bf74534f0b11c858d5bbc2fefad/tool_calling_llm-0.1.2-py3-none-any.whl#sha256=bc0aa3a1f9f522a0ca9d131e8241be6861233d5ebfb649a04ccf2a00f2ade50c" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=7c7f8f74e44c35996b9f56b187c9652607f8633c617655046f5d4af47b64c1b4" data-core-metadata="sha256=7c7f8f74e44c35996b9f56b187c9652607f8633c617655046f5d4af47b64c1b4">tool_calling_llm-0.1.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2a/be/0e7d3f4d75c49cfe672f408b5ca8e0bb24a4415570cd14c46e968958b5fb/tool_calling_llm-0.1.2.tar.gz#sha256=b558d0229b6cee840ca3b123673067c2c5fa9323590ed1dcbb5e2c06432c5d8a" data-requires-python="&lt;4.0,&gt;=3.9" >tool_calling_llm-0.1.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24433650-->
+<!--SERIAL 25104877-->

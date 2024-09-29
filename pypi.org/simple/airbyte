@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for airbyte</title>
   </head>
   <body>
@@ -92,6 +92,14 @@
 <a href="https://files.pythonhosted.org/packages/86/38/2d551d8a987929550ff40d184f1a1d3b9fd13ad308a163c4b846de4674ee/airbyte-0.17.4.tar.gz#sha256=b5b0b2634efc6a08a7c5269b59d6118644af2952fe1a539dffdfaf1d2636955b" data-requires-python="&lt;4.0,&gt;=3.10" >airbyte-0.17.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b9/cd/e949bee70592fd5c653ffbced181f0da7294d3f94b846781d781c865d9b0/airbyte-0.17.5-py3-none-any.whl#sha256=44f0389ff73fe8d3063a1a98211127e52c6a6a35e33f1f93839efbe64afdcfb5" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=bb4540b26fc716039145c866fbb165f95c54da5e92c7cc82e96cafc5983173c3" data-core-metadata="sha256=bb4540b26fc716039145c866fbb165f95c54da5e92c7cc82e96cafc5983173c3">airbyte-0.17.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/64/74/417a38002fde9d3bb61e18577d646b9edf4a3e95122d09662ed83a112112/airbyte-0.17.5.tar.gz#sha256=20dbfbb66916b7a7e5a61e71d9b6f60486b05e751c11ed1baf01efc9cb976050" data-requires-python="&lt;4.0,&gt;=3.10" >airbyte-0.17.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7d/9d/752f7167d9355bde945f12754b8eaa53df6a9eb6313b84c9a2504d5ee6f7/airbyte-0.17.6-py3-none-any.whl#sha256=b31d19f4f9d46fcebf0c81858bbb30aea832f169ebc2bdb1d3f6ef63980a6a3b" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=ec7edd58dff06a2532655ce4b70fbdb8021f7dd12256a782b498b070e2893f30" data-core-metadata="sha256=ec7edd58dff06a2532655ce4b70fbdb8021f7dd12256a782b498b070e2893f30">airbyte-0.17.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8c/85/af302e2a29e071dc8e62ff2e708eb8221e7cae84714e2e0a3711b739fed2/airbyte-0.17.6.tar.gz#sha256=025f6533090fb6850b16fdfcb325d549cffd62023a523f37d473561a47f2e8a2" data-requires-python="&lt;4.0,&gt;=3.10" >airbyte-0.17.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d3/c2/c4015e4389fe25805e46f9b4aae5879817e42b70e60a399e219a0275b116/airbyte-0.17.7-py3-none-any.whl#sha256=83d797f6a2c5faaef2182a50a883664d6b21cf001150c9f645c6ca3baacbe523" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=90049e4a9b937d5fe9a78ae9b1d786c112d954f74dec4be2ffc930c34567bccb" data-core-metadata="sha256=90049e4a9b937d5fe9a78ae9b1d786c112d954f74dec4be2ffc930c34567bccb">airbyte-0.17.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/52/cd/2e877e7f6a0c9708b76fafa87158b99d726bc43db3af968db16d8ced6c41/airbyte-0.17.7.tar.gz#sha256=c0eeecf9fed35953a0f2dd5a597adea72ecd93035ee2e17af09ca10869d012bb" data-requires-python="&lt;4.0,&gt;=3.10" >airbyte-0.17.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0c/bc/71c3caf55cb886eab2f51f09ba882558409be5bd548171c4528c9c9f79cb/airbyte-0.17.8-py3-none-any.whl#sha256=d32a4f9d40a5192d2b5cf699b66a5afa1ff599d3e0249b0f083d9d123ea61f27" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=ab2cf248d4dbe20ba3a6ddb4521831b830ea9dd9ce8483d6a66baaf6bfa7f498" data-core-metadata="sha256=ab2cf248d4dbe20ba3a6ddb4521831b830ea9dd9ce8483d6a66baaf6bfa7f498">airbyte-0.17.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2c/a0/84e937f04e16ca1f66b7799e6e84d381899a52ad40982814de997a723926/airbyte-0.17.8.tar.gz#sha256=f53b3269ee0e3bbad8720a14ada97a6b6edbc1577acb1ccbafc3ae37ea11a39f" data-requires-python="&lt;4.0,&gt;=3.10" >airbyte-0.17.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b1/6f/f7345bb428e202437c65f8ddb5803c4fa950b60338b42422a2e081dbf2a7/airbyte-0.17.9-py3-none-any.whl#sha256=8842337fb95524d4299de4972887e3dbc676d17ad4f830135290b7059276f767" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=ae7c994acd6035d1f1a751225d68d7eeb7f5efbee02ca24d85eb9f31e361854b" data-core-metadata="sha256=ae7c994acd6035d1f1a751225d68d7eeb7f5efbee02ca24d85eb9f31e361854b">airbyte-0.17.9-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/de/4c/570c38102a803e77ce18e2212991f6d216928a8ddac53d09370a3fcfadb5/airbyte-0.17.9.tar.gz#sha256=d89ddb705ac0531bee10ce9d7a5f685e2403afc0b437247f563a895fbd2036a0" data-requires-python="&lt;4.0,&gt;=3.10" >airbyte-0.17.9.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25010355-->
+<!--SERIAL 25162517-->

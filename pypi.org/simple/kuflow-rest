@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for kuflow-rest</title>
   </head>
   <body>
@@ -62,6 +62,14 @@
 <a href="https://files.pythonhosted.org/packages/28/a9/28055bdef427ed35a5f7b109d524f585772fa7329dccf084b18e294d20bd/kuflow_rest-1.5.0.tar.gz#sha256=dfbb6c198076b752ac05fe41845aa36b17cf3968225d773a3766089243477398" data-requires-python="&lt;4.0,&gt;=3.8" >kuflow_rest-1.5.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3b/cb/f6c1a6a84f95f5cf76a1ad5eedbe86127e8d557d424fa853ba37ea81ea4e/kuflow_rest-1.5.1-py3-none-any.whl#sha256=59541acec19b270c59a22736ff20594a765f90e916c6001b22ae18da1fbe3938" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=8a338677c61b2642ef3a4d0458f6af5f4b6169dc48176c5c8a28866e6f923532" data-core-metadata="sha256=8a338677c61b2642ef3a4d0458f6af5f4b6169dc48176c5c8a28866e6f923532">kuflow_rest-1.5.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/80/3a/c23a249abf3dc09053b76e0ad7075e90a5f4835bba8de880484af558cdd6/kuflow_rest-1.5.1.tar.gz#sha256=789168900b2670880e106e63731a4252030555ff3d63c1dc06b3a095006f6f24" data-requires-python="&lt;4.0,&gt;=3.8" >kuflow_rest-1.5.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/12/86/34624b00a9c743d1a7dbf3ec24b04671605bbdbcf28c01898aea6ce2e1c5/kuflow_rest-2.0.0-py3-none-any.whl#sha256=2c6518deb05a487ecdaabdb36ff67ed39ea40a9db9cfd968ea57ee07f9758fb2" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=9c7679da91bd25e57ae8a45c902c143fa082be132a1b80f5a6c0708a00a11b46" data-core-metadata="sha256=9c7679da91bd25e57ae8a45c902c143fa082be132a1b80f5a6c0708a00a11b46">kuflow_rest-2.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/44/f2/564288d33e86d9409d2926e32ae6a4972220385e2f197221c71bc7a46c46/kuflow_rest-2.0.0.tar.gz#sha256=440e77c96852d4c0fb90906bf0dcfda851525e6bc03cd2218627e695f3957839" data-requires-python="&lt;4.0,&gt;=3.8" >kuflow_rest-2.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e5/de/a556e837260722be213d04694fa0f3d89bfef26cb40fcf060c44a5bf596b/kuflow_rest-2.0.1-py3-none-any.whl#sha256=47b3f033e1f022f12e9dc8cf0ba2a461354fd06b4c02abf669df7bab96f22f0f" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=80f7f10c60a5beec94d892f020f0a8de45e20b10295136683d54f15f81c3a111" data-core-metadata="sha256=80f7f10c60a5beec94d892f020f0a8de45e20b10295136683d54f15f81c3a111">kuflow_rest-2.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ad/83/ae73ed7add6f3b818a220bf538daf45be8fef6cb16efdc8aaf0d4e423f9b/kuflow_rest-2.0.1.tar.gz#sha256=39095b6a97243066092d477f3705561c7026bec4df26b094c4cfb00fea83ee4f" data-requires-python="&lt;4.0,&gt;=3.8" >kuflow_rest-2.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/10/70/e8436045291721c19e8e4c12ebe4d969475284be5230cb57bb132bb63f33/kuflow_rest-2.0.3-py3-none-any.whl#sha256=4a3dd2c516d7a9e9ba0d8b81ed23d6d81759346797cd67cc3d1879f433986a82" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=e3d2de2f250ba3965ae58d2734ff70688b442812790aa5fc3700228691a8f9e9" data-core-metadata="sha256=e3d2de2f250ba3965ae58d2734ff70688b442812790aa5fc3700228691a8f9e9">kuflow_rest-2.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9b/9e/1e23f0eb70a9522bfc78c739d7873498a351a9a9e8e02a2b3b0dbe665d00/kuflow_rest-2.0.3.tar.gz#sha256=222e9d5de5be6fc372c77ae0598504b6efbcd9ad293248cd5d8cc0e961009119" data-requires-python="&lt;4.0,&gt;=3.8" >kuflow_rest-2.0.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/cf/18a6fd5c82010f14031ee0ad2742165305924770b565eb07067a978f8852/kuflow_rest-2.0.4-py3-none-any.whl#sha256=be02632c8999cc7c2777a8457bc7b2a58b3cabad58f1d7fd2f8b59c8a69de3e3" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=f7085ea28736adfeeacabcae7f8d7fc56ac445ee6148cc24435ea3e30a1d44f7" data-core-metadata="sha256=f7085ea28736adfeeacabcae7f8d7fc56ac445ee6148cc24435ea3e30a1d44f7">kuflow_rest-2.0.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2c/a6/ac8ab3b9d3366df474a5ad95d3afbf1cca350334670db7cc22473c098ab6/kuflow_rest-2.0.4.tar.gz#sha256=071f8c1c25e05550c5bd4afbec88ced1d68c23cffe71164071342d602ef763e2" data-requires-python="&lt;4.0,&gt;=3.8" >kuflow_rest-2.0.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 22929987-->
+<!--SERIAL 25050400-->

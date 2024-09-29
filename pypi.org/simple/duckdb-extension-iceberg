@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-iceberg</title>
   </head>
   <body>
@@ -22,6 +22,10 @@
 <a href="https://files.pythonhosted.org/packages/46/e3/13307cebf48daba49b196ae26f7e85ab3c7fd7d795616915777b4e116a78/duckdb_extension_iceberg-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=55f9953cb93add86242cb02cf685f2633b8f6d85e70f9066765a011f28b43d65" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=7a56b9cdd7dbede4e5e26f2545f2aed5080c647bf6ed3adfca6cac72d6a7861e" data-core-metadata="sha256=7a56b9cdd7dbede4e5e26f2545f2aed5080c647bf6ed3adfca6cac72d6a7861e">duckdb_extension_iceberg-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/7b/98/924044260585ce0024f2f188d8e5a020655a9c738f593d3f82aa01e539ce/duckdb_extension_iceberg-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=ccc652d6df9e80169d31a941991e5429aba9babba1bbc81f55a2bd938821f6d1" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=7a56b9cdd7dbede4e5e26f2545f2aed5080c647bf6ed3adfca6cac72d6a7861e" data-core-metadata="sha256=7a56b9cdd7dbede4e5e26f2545f2aed5080c647bf6ed3adfca6cac72d6a7861e">duckdb_extension_iceberg-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/4c/50/936f863c7fc94e9d088eff33beaea359ee8fe05fbdfb9b2e4fac6dad3f6b/duckdb_extension_iceberg-1.1.0-py3-none-win_amd64.whl#sha256=03da50a49618c20f9753d5cacc1f33b334a28245f0d12323ea97592b9a451408" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=7a56b9cdd7dbede4e5e26f2545f2aed5080c647bf6ed3adfca6cac72d6a7861e" data-core-metadata="sha256=7a56b9cdd7dbede4e5e26f2545f2aed5080c647bf6ed3adfca6cac72d6a7861e">duckdb_extension_iceberg-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/eb/85/01140700183857e2913061d0899e2eedf7582cd529ac19c9e81db8186d62/duckdb_extension_iceberg-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=7cd31e2cd741ac2a665b1ba1f5919d1141c33b6d76f2c2a5a1ca4fae498a1395" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd" data-core-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd">duckdb_extension_iceberg-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/eb/79/7efc4f0339dd52ca0e5dd008a67458cea9444b2baf56e57dda7aa815c154/duckdb_extension_iceberg-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=ecce6ae0553007cca8cc50fa306e0ab023698c8c827ff834ce39748dece086db" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd" data-core-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd">duckdb_extension_iceberg-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/0b/1157bec35ac1df104afb3321d7a32750897fd56697b4165ae4e8ea456159/duckdb_extension_iceberg-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=23942c95742b74dc974246575b4250c0bf4675f8a8e8b01eff171c7561a89d8d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd" data-core-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd">duckdb_extension_iceberg-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/60/5b5d0e139b67ab0493d58c22c41f412375aee0bedd8363339d2c64240a5b/duckdb_extension_iceberg-1.1.1-py3-none-win_amd64.whl#sha256=ba82df87f72b377a5d969d7714c4bf74a4e4c732646c416b5c58c7ddcf80fb98" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd" data-core-metadata="sha256=f2bb936788f9b3d99d53aa91348bd64104ac1771c97b3ab8f12f484a782ecdfd">duckdb_extension_iceberg-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956175-->
+<!--SERIAL 25201199-->

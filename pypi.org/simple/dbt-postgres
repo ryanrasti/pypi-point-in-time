@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for dbt-postgres</title>
   </head>
   <body>
@@ -487,6 +487,8 @@
 <a href="https://files.pythonhosted.org/packages/7f/f4/80c2fc24c2005ff3b1cbe02378bb54c64cb29be5989f17b76d91870e7ec5/dbt_postgres-1.8.1.tar.gz#sha256=1685989277c1222b7feec4c78a4bfcc4ad864d52072624a7db1e00c46c8b0c4b" data-requires-python="&gt;=3.8.0" >dbt_postgres-1.8.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/21/47/7c197563af138a39b226de5a14eec6edf98ea306e34040bcecee86cc2a17/dbt_postgres-1.8.2-py3-none-any.whl#sha256=b0d9f53b5927722cd22e8135e0b76181febf3cf89aef8caf039c59bfce78afc9" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=87ad3d17998b5e5d48eb08ed4deb219a8956efd7e49ceda2097e147a00816002" data-core-metadata="sha256=87ad3d17998b5e5d48eb08ed4deb219a8956efd7e49ceda2097e147a00816002">dbt_postgres-1.8.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/9e/5a/b137c0c23217dd72cddfe7f48199ca206b4979224ef07b64984053ecf92a/dbt_postgres-1.8.2.tar.gz#sha256=23b302626dd11e90594ccff0347148252c37af1a1e8c8710bc9c03b05337f3d3" data-requires-python="&gt;=3.8.0" >dbt_postgres-1.8.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/92/abb8c494f78220103681ba17d3cf888f274db1039ec2d9ea3fc37ef698ba/dbt_postgres-1.9.0b1-py3-none-any.whl#sha256=d9ad7c37bbf34fc7bfedf79bd1581b5746d66eb3855d137d921ebb6525838f88" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=b02ab73e4ece6f1c553023ac795844f775f8e0afb3a8ddc46d3faf4d08bfd9b9" data-core-metadata="sha256=b02ab73e4ece6f1c553023ac795844f775f8e0afb3a8ddc46d3faf4d08bfd9b9">dbt_postgres-1.9.0b1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/1c/2a741dae40516e751b53988aee7b1db1c87f87415d6d6bbaf809cd91d0af/dbt_postgres-1.9.0b1.tar.gz#sha256=51879b2c8b36a6c4e06683a4e60a23382ad008fc4a5928f56aab2464dc3fb242" data-requires-python="&gt;=3.8.0" >dbt_postgres-1.9.0b1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24474813-->
+<!--SERIAL 25190069-->

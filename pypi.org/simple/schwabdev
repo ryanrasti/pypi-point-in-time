@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for schwabdev</title>
   </head>
   <body>
@@ -36,6 +36,16 @@
 <a href="https://files.pythonhosted.org/packages/5e/9d/ba0d9c2861682add97a466516cdd12edb626bb24865a98ac7b3b52c558e1/schwabdev-2.2.0.tar.gz#sha256=35f4955f48b447de1b2ee55b1b685b9407dbd9eb13a50ed77904f11813468a2f" data-requires-python="&gt;=3.11" >schwabdev-2.2.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e3/97/f54145470dc4e953c7cdd7811d5bead3424dca269bfdf6f297cf8d5428fc/schwabdev-2.2.1-py3-none-any.whl#sha256=18ca15073b448506123851b6e00d8972023c9e49eb2cab2bc8a477cc9949c13c" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=1b801be8a34ec9182d8e34a85961079abcd8e0db58db394c8019985e55a71b23" data-core-metadata="sha256=1b801be8a34ec9182d8e34a85961079abcd8e0db58db394c8019985e55a71b23">schwabdev-2.2.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d2/74/607a89b08d74b917553f409d8a3639729d628e11435ca9aa4ea1340e4a43/schwabdev-2.2.1.tar.gz#sha256=11407f13a58210cf3a6db67f654d81e22170db46561a5b7a866fd044a3b914c1" data-requires-python="&gt;=3.11" >schwabdev-2.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e7/dc/8d4b7819e5e68f1a18d808c0799fdf7c6be3caa0d617e9c22d9df6757717/schwabdev-2.2.2-py3-none-any.whl#sha256=340e9c5bbc0374d55348784043f043cc1a8256a684f1313d5fa4357ea5a5e3f3" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=ce15b6412b326e31765412039cce91df6e05d6d37c01179c78f1a7c4e76eaa82" data-core-metadata="sha256=ce15b6412b326e31765412039cce91df6e05d6d37c01179c78f1a7c4e76eaa82">schwabdev-2.2.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fa/cc/a3902a5cce7a6edd1224388bea2ad768edb484df501865debc74d5d96c0b/schwabdev-2.2.2.tar.gz#sha256=896d77b44b3ea09b07aa322a56f42a004a1c4e581984668540d695cf0e168b58" data-requires-python="&gt;=3.11" >schwabdev-2.2.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8f/e8/573c7ade558fa8c1ae2343c90d305122edd8a115b04cd4944469a43b3d4b/schwabdev-2.2.3-py3-none-any.whl#sha256=a25beffb30da0b3cb327f447cb321d1197dceff710eeb7112ca43f7ca66dde4e" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=2db251069028d7533bb4a93e1bf57134c5e3f7714bb8f441598a3b2a011bce6e" data-core-metadata="sha256=2db251069028d7533bb4a93e1bf57134c5e3f7714bb8f441598a3b2a011bce6e">schwabdev-2.2.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/69/98/3b94e93646f9dc679e03d387646c67922874a49814f90de433329eca937c/schwabdev-2.2.3.tar.gz#sha256=41e6f5f1f4879b206e98be27c5e1e103c590d2cee5a6a1ce30f22f624be0a19b" data-requires-python="&gt;=3.11" >schwabdev-2.2.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b5/f3/caef1c0caa8568acb65dcc485581594b52eea43819f927b3a5defe2b0b18/schwabdev-2.2.4-py3-none-any.whl#sha256=5de4dfee65f940d053d17224f65d2b6ab4e22e5d8557f644f953d85982a122ce" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=adb50b18e98f32db1c20166a1e30160667c8d54c28f653b231df0af028cd3e20" data-core-metadata="sha256=adb50b18e98f32db1c20166a1e30160667c8d54c28f653b231df0af028cd3e20">schwabdev-2.2.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/87/16293b4a42cee872a9094c6b3a94506f93227d96c4b80326f79183d714d6/schwabdev-2.2.4.tar.gz#sha256=cfa5ec62b35d5c256ce196d7bc435405c594a275df181a4ee79178a95f53617e" data-requires-python="&gt;=3.11" >schwabdev-2.2.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/61/6f/2b308e18075b371cd0d34910f510ab1a5a663e542490cdfe37a2db8abeda/schwabdev-2.2.5-py3-none-any.whl#sha256=ee89e891c1b9fb9bd13e42a362ac0e5a5554fa7c23e33fb531c37cadd223dcee" data-requires-python="&gt;=3.11" data-yanked="issue with python 3.11 compatibility" data-dist-info-metadata="sha256=c87e26e7c7bd605ea2fe5416919cb641117a58c12c7fccac3382742d1706618e" data-core-metadata="sha256=c87e26e7c7bd605ea2fe5416919cb641117a58c12c7fccac3382742d1706618e">schwabdev-2.2.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/06/35/f43132d1b94e34e334ab2348925c90f51db2db926cdce3abc9e7a940da3d/schwabdev-2.2.5.tar.gz#sha256=c9ea06688a227d1613db793dd23d971613d9468e8e14f43fab96d03c407e7c04" data-requires-python="&gt;=3.11" data-yanked="issue with python 3.11 compatibility" >schwabdev-2.2.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/cf/13/5663133ceb47d81c31971379ee5b419a4e79f30f2538a91731625608cb3e/schwabdev-2.2.6-py3-none-any.whl#sha256=b21bc0a2bdab99eb44f6f8b8c955ff953665b8b1b110538da57fbf66ed88faec" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=cda7bb4903788f3e6e2b13c905abec5871670e50f08ac1804003e9ad7308c826" data-core-metadata="sha256=cda7bb4903788f3e6e2b13c905abec5871670e50f08ac1804003e9ad7308c826">schwabdev-2.2.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/15/c1/688eb31fe69de03a43c260f374902b008d65bc76137bfb489bc4f115bc53/schwabdev-2.2.6.tar.gz#sha256=4dcb0053bdbcf14b5b5c7d359b0ff5f4623287bbbd154acb68aa616ffa84f5d1" data-requires-python="&gt;=3.11" >schwabdev-2.2.6.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24817175-->
+<!--SERIAL 25229484-->

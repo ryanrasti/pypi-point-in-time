@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for bizon</title>
   </head>
   <body>
@@ -10,8 +10,14 @@
 <a href="https://files.pythonhosted.org/packages/05/e0/0095c5780a19aa450932e2db74b878f3ddf5398b5de7b32369384f192bef/bizon-0.0.1.tar.gz#sha256=75f5237d777bbf9f1c47c944628bd7f058fc1a26e26255fc2358930e25630aaf" data-requires-python="&lt;3.13,&gt;=3.9" >bizon-0.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3f/02/709a2299cd5ae660397630d02e6ad48bfe85e4a4f41d490939d1fd3dda73/bizon-0.0.2-py3-none-any.whl#sha256=ecf7f37826d34594afdc72423f9757ae330eb5e969aa48d77b7a8d2436bd945b" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=75f27b8fe3330bf59c8ab876fe4dcc4a9bc695bcfb2ca5c4f51ae95e6d0d8c32" data-core-metadata="sha256=75f27b8fe3330bf59c8ab876fe4dcc4a9bc695bcfb2ca5c4f51ae95e6d0d8c32">bizon-0.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c7/d1/d21a2df3fe72c32f1d0ed224ef309dcc03addd21f0a8ccc040c524369828/bizon-0.0.2.tar.gz#sha256=d71c2cad91fc35d0044b09ec6cbbf4b8d021a6b4ff6a6b2647623dcc46491026" data-requires-python="&lt;3.13,&gt;=3.9" >bizon-0.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/11/f7/e7697f1dd58edc3b090c1990fd63cbf896a7cec02b9b09a2357c6708f2e9/bizon-0.0.3.dev1-py3-none-any.whl#sha256=ea60a4da373e8b755c4a56e65daeb4fd9b6edff140003976b44001971ff85c66" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=800c532839cfb41003d416f50dafe0bbbcd6736a1f89a2ea6af87d6793391a35" data-core-metadata="sha256=800c532839cfb41003d416f50dafe0bbbcd6736a1f89a2ea6af87d6793391a35">bizon-0.0.3.dev1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f1/99/d7764d364b7726c6f12a0f225993dc32aec0f444d6e19db3000f9c2ebf33/bizon-0.0.3.dev1.tar.gz#sha256=6de74d59cce8a92a9a57f9d8e05defe01243d832f09b7cbb1d9939801c014a93" data-requires-python="&lt;3.13,&gt;=3.9" >bizon-0.0.3.dev1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/1d/cb/97df543922086c7bfde872af0c5a8e8c4d8d1850024cc0a7e13780c8cc48/bizon-0.0.3-py3-none-any.whl#sha256=c1af0e39414311b84fea42e57bd8e784e3bfb72f0dd74ca46445434ae92ce8cd" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=e2cf47ee2baa1a2a294feb80122402c2194a30957bd98eaee17865239c45f1bf" data-core-metadata="sha256=e2cf47ee2baa1a2a294feb80122402c2194a30957bd98eaee17865239c45f1bf">bizon-0.0.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/38/73/835b7703e8b2f7309fb5e260d1372cec98d3f5120b2462225b5f66ff3260/bizon-0.0.3.tar.gz#sha256=19d610777fea0f34832e1a53cf3b4b8c98a8a2ad038247a2d1c51949a5c8377d" data-requires-python="&lt;3.13,&gt;=3.9" >bizon-0.0.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b7/38/3bfcd6abfac7740090b09ee80bc263b0b23c85168aaf1bee7c96ef45f44a/bizon-0.0.4.dev1-py3-none-any.whl#sha256=97688fc25dba7102d94e0ad34a2a8bbe6d1c9c46b8398ef191b4b16511bad4bf" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=a88da58e50ecce983ebef12e12f1a5104a1f7c83b798a48c478831a7233d34ae" data-core-metadata="sha256=a88da58e50ecce983ebef12e12f1a5104a1f7c83b798a48c478831a7233d34ae">bizon-0.0.4.dev1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/8c/76a2f30c1e32c3c7c91c6e2eddf8d460f4d890c29a205430c3ce10d64852/bizon-0.0.4.dev1.tar.gz#sha256=27ffacd2864be87c8002f262e192e1852234589853bd84dab35913fa5df68f44" data-requires-python="&lt;3.13,&gt;=3.9" >bizon-0.0.4.dev1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b6/18/7f969eefedf06af03f84660b7740a053dbd1e8baf3cc417247f0f205c7c7/bizon-0.0.4.dev2-py3-none-any.whl#sha256=3e9fa937181d88650e79fba78454b5593e2993739661f1332e470b1f1068534c" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=fc0dfc4e2d9e1d908da53910b5654a0f277768d189c59630e94ae5e6cb248b3d" data-core-metadata="sha256=fc0dfc4e2d9e1d908da53910b5654a0f277768d189c59630e94ae5e6cb248b3d">bizon-0.0.4.dev2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/b7/67957f008bc860119f663c6a9808a53fabfe5193b5db0353786b531c7f5f/bizon-0.0.4.dev2.tar.gz#sha256=2c9cef0cfd556e8151c0cbfe0ed4cd753d678ff3ee47fe2e04ae706acdf788fd" data-requires-python="&lt;3.13,&gt;=3.9" >bizon-0.0.4.dev2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24705079-->
+<!--SERIAL 25205763-->

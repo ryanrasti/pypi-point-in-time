@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for buildbot</title>
   </head>
   <body>
@@ -256,12 +256,16 @@
 <a href="https://files.pythonhosted.org/packages/ec/ab/261381bc55d18f0cedf97fb1d10b5b74a622ada4689a48a90107933a811c/buildbot-3.11.6.tar.gz#sha256=e5d35d5609d1801a8305aa9c4e3e18982bd88a7d27bd6f6eacfd99017310906c" >buildbot-3.11.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/68/5a/d3803f55601382cfb045b72860b93e3705be98aed5a54bfb9ce7d9813e08/buildbot-3.11.7-py3-none-any.whl#sha256=a4684cbd031c9aecbc91e5c99d556da4aeef1fec678f3af581907036647274b7" data-dist-info-metadata="sha256=de316f53ed39e3c0da2d15fe6ec3c4588aed082d4a6fa92d75951f6af49494af" data-core-metadata="sha256=de316f53ed39e3c0da2d15fe6ec3c4588aed082d4a6fa92d75951f6af49494af">buildbot-3.11.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/35/85/6411555f38d8c86127363721a6bcbcd02aac70b852e4db748d4745788cfe/buildbot-3.11.7.tar.gz#sha256=b39ab0cc9f2ab12a0ccf7f5b97af626dde00fa98b9a7e1f810619a766bb640f8" >buildbot-3.11.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8e/ae/86e56af0414711ca66fb0a44ded15a25a325243e6e8c8f43cb64f199394d/buildbot-3.11.8-py3-none-any.whl#sha256=66d5655a13536dca48b6b2019d2d6f29c3b7f5426c9a4e55c7a7a13c75ad2dcf" data-dist-info-metadata="sha256=ec724472f2262a757e5e816de950b56bc77b4ad349939df4e2e8268618c424be" data-core-metadata="sha256=ec724472f2262a757e5e816de950b56bc77b4ad349939df4e2e8268618c424be">buildbot-3.11.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cd/0a/8a6698e073f52aab11995ad98ecc621d4210e7617a5c7c94fad7bcdbf788/buildbot-3.11.8.tar.gz#sha256=1990fc14c6e102c6cd00684c9061b1d7b3a6517f4c286f8ec50431ef386a4c85" >buildbot-3.11.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3e/8e/0eb91fc74024731a58a5ec401f80f1fbdb2b53aef3ab1ca0c7f9cffe7d25/buildbot-4.0.0-py3-none-any.whl#sha256=8af3372a64018ffef3229a9b1bbaed396d313eb0a68d9e29dab980e74ffc382c" data-dist-info-metadata="sha256=5376a9c4ba6e76a06d1696c19ada555f7c86c4b580f6b10847ae22ffe5fb780b" data-core-metadata="sha256=5376a9c4ba6e76a06d1696c19ada555f7c86c4b580f6b10847ae22ffe5fb780b">buildbot-4.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/de/34/72d217a2589cee64afbebb3b4823e0682512e8e60c169a649779ad03c7fd/buildbot-4.0.0.tar.gz#sha256=edeeeed370c08ebf0666644ed4e780f20032165a56cca15051ed7e9520844528" >buildbot-4.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/86/c0/f7cd4bd0a214a58b3908c44467a8887f48591622dc465cf51ae16636e04a/buildbot-4.0.1-py3-none-any.whl#sha256=befbd217613624175acaf6b79796471cc66f74ba28ad785b021c0532b990eb57" data-dist-info-metadata="sha256=c65984480c15197436c03c2d2f72f8a0e141d7360f56e006804e48e89ce87d44" data-core-metadata="sha256=c65984480c15197436c03c2d2f72f8a0e141d7360f56e006804e48e89ce87d44">buildbot-4.0.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/35/f1/53a4d56083c5e47fb0bde469e282655e52ad1335cc39d28d6d6526d6dbd5/buildbot-4.0.1.tar.gz#sha256=05bb8cebc360e073eb3253fd963f28f3a820ec13850dad39ae76c602b49cc57a" >buildbot-4.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/1e/b2/df487f40f9c2ff4b6e704ba0153dc5a0b5810ec43f264ebbc5105f4c9d47/buildbot-4.0.2-py3-none-any.whl#sha256=35516dcd99dd7459a208fc0b7755589a8c8cce6afbdde23e53c0bf7ee8c38ad6" data-dist-info-metadata="sha256=34df11cc5dca3ae4652709755ac5409e752240f299dc2fc7613c5cc33a562ff9" data-core-metadata="sha256=34df11cc5dca3ae4652709755ac5409e752240f299dc2fc7613c5cc33a562ff9">buildbot-4.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d5/b4/79dd788bc632ad586b059e7778d28dcc459cb883d6ad55dd4f50ae4ac927/buildbot-4.0.2.tar.gz#sha256=1e116a208f3488ed4ffa1ba400f963fcc4bf90498ecfab4a5ab0ec8981f4c516" >buildbot-4.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/82/b5/4867a41f1baabcdb80e6b3e3de0b0788eef52a1543cdca94c5c515ab650d/buildbot-4.0.3-py3-none-any.whl#sha256=d4d9223a3fd9801ef19bbc8f522afc0572e07e02d15cef6e434d0d1b005d09e0" data-dist-info-metadata="sha256=97e54e9dd7363ce68df4970f93ce49ef0bfa617b7e6262a4a8e1d1349269a947" data-core-metadata="sha256=97e54e9dd7363ce68df4970f93ce49ef0bfa617b7e6262a4a8e1d1349269a947">buildbot-4.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/76/08/87b53406e6b97f22968a264ae71be6f99c1cf10b7ececc27c037bb9ae2d4/buildbot-4.0.3.tar.gz#sha256=606a2bdb8e46b9833cb2b6ef2bd5a6fb462e972297572c5e08ac769346169b5f" >buildbot-4.0.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24396489-->
+<!--SERIAL 25233251-->

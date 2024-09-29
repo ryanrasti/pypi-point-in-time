@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for numpydantic</title>
   </head>
   <body>
@@ -42,6 +42,14 @@
 <a href="https://files.pythonhosted.org/packages/7e/fd/075ea7af2aaed0e55c4721116e9ff0578effdeba3c0c5a44d937a3837423/numpydantic-1.5.2.tar.gz#sha256=dda1546f0b15846b9a13a60891056688e6a16d8b49ce8b436f5987519eec022e" data-requires-python="&lt;4.0,&gt;=3.9" >numpydantic-1.5.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b1/40/b0359700d3736d0fb83e9c4a3bf9fe5586ed4974cdd6dcc8a6f4b50f1e66/numpydantic-1.5.3-py3-none-any.whl#sha256=9c6c59a1927fddfcccb35f605c8c7327cae644f3e766e2a2810741019ddc2e8b" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=0d81ac0e630b7d8ce5bc2c231cbcfc56e4605dbd234b57fdd8b03e3e58488f86" data-core-metadata="sha256=0d81ac0e630b7d8ce5bc2c231cbcfc56e4605dbd234b57fdd8b03e3e58488f86">numpydantic-1.5.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b0/c1/a026ac569a335f841bc6d400d59e68a66c32904900c88c60b37eea49b127/numpydantic-1.5.3.tar.gz#sha256=a4dd31958a43bdd6b562dd8177f413e6528aa85724f0babd310bed82c09a3d5e" data-requires-python="&lt;4.0,&gt;=3.9" >numpydantic-1.5.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a3/71/1b276b043db5ad43861f5bed6d8fc4b1205acf92aabaa9933161511185a3/numpydantic-1.6.0-py3-none-any.whl#sha256=72f3ef0bc8a5801bac6fb79920467d763d51cddec8476875efeb5064c11c04cf" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=167214d4f052b27df8743115748b4669b14ae42c9519d2758f91052c51c5cf8e" data-core-metadata="sha256=167214d4f052b27df8743115748b4669b14ae42c9519d2758f91052c51c5cf8e">numpydantic-1.6.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/73/f2/36bf5c8d943d03fa31246169c70b25522010f8db76cfd2de7fbc947b9332/numpydantic-1.6.0.tar.gz#sha256=9785ba7eb5489b9e5438109e9b2dcd1cc0aa87d1b6b5df71fb906dc0708df83c" data-requires-python="&lt;4.0,&gt;=3.9" >numpydantic-1.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/11/02/181241240e57e1ab8b936fe06f933367ffaba0fb3247d3c391ce26677673/numpydantic-1.6.1-py3-none-any.whl#sha256=448d6ecaa843f027c30bedda6c77c0990b1ae49d77b7dc4cb5e8b4bb10fba0cb" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=185ff42d5fda2fd78c81d68549012c0aacddb82f01b4e8b5454cf2abbf458648" data-core-metadata="sha256=185ff42d5fda2fd78c81d68549012c0aacddb82f01b4e8b5454cf2abbf458648">numpydantic-1.6.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c8/64/ba1871f5fa810ba3693c4104f1c892b77c8af66f600db111621dae91b195/numpydantic-1.6.1.tar.gz#sha256=67850d65ee78e1a6b71a965684fb06b27993cf5a9a1fd26b3b1344d4b184da0f" data-requires-python="&lt;4.0,&gt;=3.9" >numpydantic-1.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/29/8d/63da155ac640e3a2de300d00ae38c56e1be0fe70670978ed2bf804589ec8/numpydantic-1.6.2-py3-none-any.whl#sha256=a3d5f7f3707f8b11ef01ce713d7a4c24f1e137907b58054fe0f2ab6bfb6114b4" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=c384af91aad21b16f2a3520e49ea3b9360408e8c3acc090431c975d1e2c528b1" data-core-metadata="sha256=c384af91aad21b16f2a3520e49ea3b9360408e8c3acc090431c975d1e2c528b1">numpydantic-1.6.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/30/59760ea85c923b6fbd362b38a3d4d828fed7fda3b9a120f024650a554e18/numpydantic-1.6.2.tar.gz#sha256=6cb3ffa77d318528d568aa4c49a54f6d47855d21319d4ba014fe1539ca4735fd" data-requires-python="&lt;4.0,&gt;=3.9" >numpydantic-1.6.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c8/00/55d6aee6dca61e6f46b1d45192512e949112268fc7eb7af27a36e884bffa/numpydantic-1.6.3-py3-none-any.whl#sha256=a5efc21d34baed57405cd4a82d2f20756466c0562661fb4d2894f14b4f352dcd" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=fbd1a94fb8e17b377002d974e9160d7cd12ce67a1beb9f65724d1625946ca481" data-core-metadata="sha256=fbd1a94fb8e17b377002d974e9160d7cd12ce67a1beb9f65724d1625946ca481">numpydantic-1.6.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ec/fa/21bbac4c2c8f6779c302aabf7cdf78d76f2e45334278c6574b8bb46f3906/numpydantic-1.6.3.tar.gz#sha256=bb35a00eec60eb772cb8168fc2eeff5c860d81e3838e98f73d52b2789c18df30" data-requires-python="&lt;4.0,&gt;=3.9" >numpydantic-1.6.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24866023-->
+<!--SERIAL 25215343-->

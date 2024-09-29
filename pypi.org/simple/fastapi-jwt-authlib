@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for fastapi-jwt-authlib</title>
   </head>
   <body>
@@ -24,6 +24,14 @@
 <a href="https://files.pythonhosted.org/packages/05/e0/82738c5ce684702cc0873eaf7e16bb22ae9d9a2988b53f98aaa16e6a7179/fastapi_jwt_authlib-0.2.4.tar.gz#sha256=596dbfb21c30d94cf1c61ae3428ace059bb9486f9fe8469ea046c07d121159f0" data-requires-python="&lt;4.0,&gt;=3.12" >fastapi_jwt_authlib-0.2.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/39/97/bfc9f69237276022722f1d99d72f8933add3f2bb9fd3757af005238c317f/fastapi_jwt_authlib-0.2.5-py3-none-any.whl#sha256=d043f7c11245b6304c90bce927e8d6a3afa3e3654b430f71ae298073932da9e5" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=9951b6857a55153fa3db2c8e98144fe70c5efc8284f04941bc20006d18922564" data-core-metadata="sha256=9951b6857a55153fa3db2c8e98144fe70c5efc8284f04941bc20006d18922564">fastapi_jwt_authlib-0.2.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ef/3e/c46581550375b0d17408ad3dd0d975c489c2b4ad1bf35a42b56f9b24f21a/fastapi_jwt_authlib-0.2.5.tar.gz#sha256=3994fc9612b2f95c24d4e569cdfdb8c6a6273c9ce42d998a19da850af2d54639" data-requires-python="&lt;4.0,&gt;=3.12" >fastapi_jwt_authlib-0.2.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3e/c7/9be7b471f5d49c84d363053c1e0963e04435f3808d6a44a583f4319cb434/fastapi_jwt_authlib-0.3.0-py3-none-any.whl#sha256=4fe3b7acf6001a3979210d1b5acf51fd85a15cd3bd6312b18eb9f13df8ff14c6" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=50d758b1328cad00831361b03faddac10f6fb252055825fdb2906714a6906bee" data-core-metadata="sha256=50d758b1328cad00831361b03faddac10f6fb252055825fdb2906714a6906bee">fastapi_jwt_authlib-0.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/34/c2/50bb5d12febeefe27e440acc037bd319ab6f7efc3185c4696c65ed63c04d/fastapi_jwt_authlib-0.3.0.tar.gz#sha256=cfe89c84dceb099b60934a40d673f79d3838c662fa05557588d1e4146d583de7" data-requires-python="&lt;4.0,&gt;=3.12" >fastapi_jwt_authlib-0.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4d/3c/f545b0e9be9665fe8f720eac82cdb34c306eda8c65e7fb50f2edb8377013/fastapi_jwt_authlib-0.4.0-py3-none-any.whl#sha256=90fb2f0f14ca58553125a4e4a2fe11765d89a29c158fb2add2b15fe15945a8ae" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=ea73991e869402d4c02beaeadccf8b644d53cfd105e804afc451d54a7ec251da" data-core-metadata="sha256=ea73991e869402d4c02beaeadccf8b644d53cfd105e804afc451d54a7ec251da">fastapi_jwt_authlib-0.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/92/38/945db738ed3de765a89e547a9ab7d8ea2efe77f77fbfe08f3ecb9010a42b/fastapi_jwt_authlib-0.4.0.tar.gz#sha256=8060af6e148dc0acd378489aac9d152da8cd7362d2177fce71518648649aeeb6" data-requires-python="&lt;4.0,&gt;=3.12" >fastapi_jwt_authlib-0.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/22/7c/e9688d173254bcc0c3b66728723fe234774904fa6bdf030cc7db9d7f6f75/fastapi_jwt_authlib-0.4.1-py3-none-any.whl#sha256=7859f9312f722c476f4ea6719646cfd2887e6730edc2ef58feaaecc0cb27f045" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=6c02ad8725486a76366227842bff443dd1ceec8cbf6469d67ea74f38d1bd30e9" data-core-metadata="sha256=6c02ad8725486a76366227842bff443dd1ceec8cbf6469d67ea74f38d1bd30e9">fastapi_jwt_authlib-0.4.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/64/8f/a8679086dcbecaac62a28b0f6c11786f2da05eb154a82d933cbefdbc7ad3/fastapi_jwt_authlib-0.4.1.tar.gz#sha256=85e9943975866f515deef6c8126c10a41efbfb83438c34a4e3199b01d435fde3" data-requires-python="&lt;4.0,&gt;=3.12" >fastapi_jwt_authlib-0.4.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/50/a3/e76ac9c5a899288aeb960ea993c7bc52d5ef030eb29f2c6bccc349d38044/fastapi_jwt_authlib-0.5.0-py3-none-any.whl#sha256=0d12005ac1d98a02c2223670ba2e8bd71eb4a5aaaaf32ae5d67c92de2b89abba" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=2023a3ee03bd6e9ff5d6669de60a94bc06e5307277b281091362e7de7b5d5bcc" data-core-metadata="sha256=2023a3ee03bd6e9ff5d6669de60a94bc06e5307277b281091362e7de7b5d5bcc">fastapi_jwt_authlib-0.5.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e1/19/d6c1c179171b87da0c7c28f19b4de9c153e16480b8e98971a2239fddd549/fastapi_jwt_authlib-0.5.0.tar.gz#sha256=3bb56ed59802df96fb37e0dbc639c9ca713fcda04de21492777f4b8bfdf3e553" data-requires-python="&lt;4.0,&gt;=3.12" >fastapi_jwt_authlib-0.5.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25001351-->
+<!--SERIAL 25103626-->

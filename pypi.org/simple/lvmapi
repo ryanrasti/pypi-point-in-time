@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for lvmapi</title>
   </head>
   <body>
@@ -10,6 +10,14 @@
 <a href="https://files.pythonhosted.org/packages/e5/9d/5b80ac1c729b0b62f3ac5cbb1d95a3829b28d718584abe4e014b3bb956b6/lvmapi-0.1.0.tar.gz#sha256=1e848292113fe58382f2f567b89ba24380fc37a75181132cac2b4517a1460b5e" data-requires-python="&lt;4,&gt;=3.11" data-yanked="Function renamed in lvmopstools&gt;=0.3.5" >lvmapi-0.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/d6/99/6bae9206f89e768098d492f4c9337efd38bb13a17fd47e035cbc54bf959f/lvmapi-0.1.1-py3-none-any.whl#sha256=5f3804f69633c0ae1a9077e6048b2f0d511667c21a7c64a47597d1c5734f4a24" data-requires-python="&lt;4,&gt;=3.11" data-dist-info-metadata="sha256=42cd73dd1011e00f5de1e384aac5ac3964a83fe7c1ed862a127e090c5bcacda9" data-core-metadata="sha256=42cd73dd1011e00f5de1e384aac5ac3964a83fe7c1ed862a127e090c5bcacda9">lvmapi-0.1.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/dc/0f/0c1020b27eee9e1b6201c27d10cdb476b181546b8480d8fb70c996c90160/lvmapi-0.1.1.tar.gz#sha256=4b9a10c8ada12567bd44fec8680a31f2faad65b48a7367530adad8ef2cdf2db3" data-requires-python="&lt;4,&gt;=3.11" >lvmapi-0.1.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/78/31/72a89328fd89a9712b67cd21c6f355255b90cfcd7a89dfd1b2f736eb182f/lvmapi-0.1.2-py3-none-any.whl#sha256=a8d577dac36febbb8db4b56b1da91f7f6c8d5ed7a3cc5ad941484efb379c536b" data-requires-python="&lt;4,&gt;=3.11" data-dist-info-metadata="sha256=59bd25d39a20656320aef228eeeae877cc0562f958dc68f9610b4b2127ab4f71" data-core-metadata="sha256=59bd25d39a20656320aef228eeeae877cc0562f958dc68f9610b4b2127ab4f71">lvmapi-0.1.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7f/57/a56c8439dc5dc823aeabef91b1fb7a1f9f18f01361cc4b507b18fd271038/lvmapi-0.1.2.tar.gz#sha256=8e815a3e79380fbe81e5cf63784215129825c609a6e036dea348c34e882b83a7" data-requires-python="&lt;4,&gt;=3.11" >lvmapi-0.1.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/82/e9/7ca776f12dc844506a4dd511c8fd1b0f18f46282b2e7dcddf8d4cd741798/lvmapi-0.1.3-py3-none-any.whl#sha256=d068389e4642897c955360b4cfda37f6d05038d86c16810f63d3362bb721d217" data-requires-python="&lt;4,&gt;=3.11" data-dist-info-metadata="sha256=67375c38894d32719a4806a1f08df22bdc1f70c0a9162d99eb53689f9e20c8b3" data-core-metadata="sha256=67375c38894d32719a4806a1f08df22bdc1f70c0a9162d99eb53689f9e20c8b3">lvmapi-0.1.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/42/d3/7969e84822667cb0ca6fce2b9bbb7d1a2b954a35f650976fab1b66d09e58/lvmapi-0.1.3.tar.gz#sha256=4eab528813b9803f34199520da8825cc060e989528a1e2e30159d3f61b838353" data-requires-python="&lt;4,&gt;=3.11" >lvmapi-0.1.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/df/92/47e23097b535357a78baa53f26fed0fd5d9f34bc4a53b5d272a71f01828d/lvmapi-0.1.4-py3-none-any.whl#sha256=133db504372c72335e9377b8b21ee4d0e45b758d7b87a3391ff296d4f9c35c60" data-requires-python="&lt;4,&gt;=3.11" data-dist-info-metadata="sha256=418c325d432f4fff855b2aa9368060169aa55798d7809269c5b0bf39ede2fdc0" data-core-metadata="sha256=418c325d432f4fff855b2aa9368060169aa55798d7809269c5b0bf39ede2fdc0">lvmapi-0.1.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/29/4a/c063187d272602b05e0827aa4d001b76cc767cc3722b6867456385578144/lvmapi-0.1.4.tar.gz#sha256=3735e08a03871b7e371770fbd6537a9268e4f8289bd83d6ad50bf76c776e1fa0" data-requires-python="&lt;4,&gt;=3.11" >lvmapi-0.1.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/12/cb/47fa46778cf0d0e02ab54a04178e5556943e8a5ad420a78f68851f059ec6/lvmapi-0.1.5-py3-none-any.whl#sha256=0d7670424e67fdb7e5b48e1b4e08da712dd9c69c52080a51a346a1e177432d40" data-requires-python="&lt;4,&gt;=3.11" data-dist-info-metadata="sha256=1d1fa6bf2e47bc5151a22bcbac102606e8d4dcf67146baeefd3cc5f5dd5d3aa9" data-core-metadata="sha256=1d1fa6bf2e47bc5151a22bcbac102606e8d4dcf67146baeefd3cc5f5dd5d3aa9">lvmapi-0.1.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/e9/2a552a90191fcc7a084c1a8d08d35daa2e08ff990a20d90569ffc91e559d/lvmapi-0.1.5.tar.gz#sha256=cd32cfc91dc91afc3d5ccee3e7d5163bc58a9d1a5df2a166ebc7d81dc27ce66a" data-requires-python="&lt;4,&gt;=3.11" >lvmapi-0.1.5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25014639-->
+<!--SERIAL 25213242-->

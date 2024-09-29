@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for aiohttp-sqlalchemy</title>
   </head>
   <body>
@@ -136,6 +136,12 @@
 <a href="https://files.pythonhosted.org/packages/ab/7b/1ec81568a5f86fb299175594c14d7755f664355863c880baad151f160b6c/aiohttp_sqlalchemy-0.33.0-py3-none-any.whl#sha256=a98b950f4201f3ca624decb04a14c1faca2a2c75100c4daf58ffebc801bc2341" data-requires-python="&gt;=3.7,&lt;4.0" data-dist-info-metadata="sha256=8d4bb7c6de0b7d1d7b399bb994bc6f5835c29682a5ad7ff0ee6eabf266d5a227" data-core-metadata="sha256=8d4bb7c6de0b7d1d7b399bb994bc6f5835c29682a5ad7ff0ee6eabf266d5a227">aiohttp_sqlalchemy-0.33.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f3/5e/224a0b30c3c0b988f98d6b8e298ea0f7676d13f38968ed9d9c4b69751af1/aiohttp-sqlalchemy-0.34.0.tar.gz#sha256=e39bf603e519a551d085ea34de61ecb14386f6f56b59798d3b50b1419c5fd5a3" data-requires-python="&gt;=3.7,&lt;4.0" >aiohttp-sqlalchemy-0.34.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/99/6d/430ab2d836e35012f0a0d533b1a5789781011a8c5d073d190defa09dfd94/aiohttp_sqlalchemy-0.34.0-py3-none-any.whl#sha256=7a40f37464da44ca8d32dbc4aad7ca7ed47ab9d51384c480dea349d89cf80372" data-requires-python="&gt;=3.7,&lt;4.0" data-dist-info-metadata="sha256=c74a1678fc24c4b10a26c5c7b895108bed4a53c1424ef4619c525d82be045bec" data-core-metadata="sha256=c74a1678fc24c4b10a26c5c7b895108bed4a53c1424ef4619c525d82be045bec">aiohttp_sqlalchemy-0.34.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/72/8c/d2b9f4b6946cd26ebea02e0d37d7331ede880338db524087e6d02e78b2e2/aiohttp_sqlalchemy-0.35.0-py3-none-any.whl#sha256=120fe4670ee13d156220cb14171488f594d0ec600a80e15e5d23df100b800c64" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=c087ef0b9bce169544b8e953129b19239f990f6602f7c6164d6e5db8294d1cfa" data-core-metadata="sha256=c087ef0b9bce169544b8e953129b19239f990f6602f7c6164d6e5db8294d1cfa">aiohttp_sqlalchemy-0.35.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/70/a6/addf06b4baa0d80352bf42d7cc35e3b3a661b34cca3c9fc9c09f6358c4ed/aiohttp_sqlalchemy-0.35.0.tar.gz#sha256=fec830396231f913648d917098a0acb130357013e00b30159e0b82b0ce2a3a40" data-requires-python="&lt;4.0,&gt;=3.8" >aiohttp_sqlalchemy-0.35.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/40/f2/a9870321c97a2a2107e6d29b6c78f7dba0f0f104dfaecead21203823211d/aiohttp_sqlalchemy-1.0.0-py3-none-any.whl#sha256=99e5978c0f4ec6105fab1ab32dea0b2bccd58e5b67d2ef3483f94d5b1c47446a" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=0d8c870cb2c4275fedcd63bc245cb38ed1d4d88fd73c25e6193b39a35f5d8f8c" data-core-metadata="sha256=0d8c870cb2c4275fedcd63bc245cb38ed1d4d88fd73c25e6193b39a35f5d8f8c">aiohttp_sqlalchemy-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/47/05/b4fc1a7acb30c22cc82df456c1738b1f7225b0b68c8b6692d3430c98d234/aiohttp_sqlalchemy-1.0.0.tar.gz#sha256=e459d0cf6fc35d6c3d9b34b765173098a55d314c46d639330f65bc9106bfa8d5" data-requires-python="&lt;4.0,&gt;=3.8" >aiohttp_sqlalchemy-1.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/d2/dbb71c841ef84baad2be5a4039bc99dd42fe30ff27c257209f5a5aef51fc/aiohttp_sqlalchemy-1.0.post0-py3-none-any.whl#sha256=3fffd32e7bad10d7ee386d4ef47ec9de4dcf3925a19c0dadd3eea633ba64989d" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=36b2bee265003c2f1cf0b5f301550960dd2e2992869b3181ae05e3dc1c899964" data-core-metadata="sha256=36b2bee265003c2f1cf0b5f301550960dd2e2992869b3181ae05e3dc1c899964">aiohttp_sqlalchemy-1.0.post0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a7/06/fcc11f54c75fa7f62847fd2068a3e387241fb09d7b04bbfcf703b88bdd55/aiohttp_sqlalchemy-1.0.post0.tar.gz#sha256=1606e7114492a621d2a7ade4740fd4cd78d0d73937b6368adfc55cd4565de8ab" data-requires-python="&lt;4.0,&gt;=3.8" >aiohttp_sqlalchemy-1.0.post0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 12177702-->
+<!--SERIAL 25037704-->

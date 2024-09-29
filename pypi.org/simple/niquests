@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for niquests</title>
   </head>
   <body>
@@ -100,6 +100,8 @@
 <a href="https://files.pythonhosted.org/packages/84/94/14eea00cbb157dc690abf1c56df7df5ac0cbdcbc63216ce47d9951c1a0dd/niquests-3.7.1.tar.gz#sha256=d4055171cf5184819399268569b95d0f3eff90ac05152344010878b38487d562" data-requires-python="&gt;=3.7" data-yanked="asyncsession broken due to bad dummylock impl in cookies" >niquests-3.7.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/4c/38/bd3f4fbf44886fc3bc75f55af0f934c2baac86e6923c3138475de0b20d88/niquests-3.7.2-py3-none-any.whl#sha256=8215688149ede753728e94ca983100671f20c3acd492c40e48b5b4f80d5fbd2b" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=8a95d045a31da3fd95016e3ff200f608d36554af3f8330b95b096529ef80001e" data-core-metadata="sha256=8a95d045a31da3fd95016e3ff200f608d36554af3f8330b95b096529ef80001e">niquests-3.7.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/91/7c/d0dc058204b9b9238e917835d01797ef668ff83ade97289475da3d7a71db/niquests-3.7.2.tar.gz#sha256=c5ca9ed726e00db392b20ac64a37a2841ec71f4fb352996622a6cb693ca635a9" data-requires-python="&gt;=3.7" >niquests-3.7.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/58/b2/909c0d1ccc632d18dc8b7bfa77106d4fd45fb2a0df778e7d15a2a95f7302/niquests-3.8.0-py3-none-any.whl#sha256=f17dbf88bccf8888d99ba1e707ac675a6fc1c463bb62bacc2f3a09b58632aa55" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=668feeb460cfe968a132e5b99e9e0c9931d222221c6322371744c601bd8f702a" data-core-metadata="sha256=668feeb460cfe968a132e5b99e9e0c9931d222221c6322371744c601bd8f702a">niquests-3.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d7/dd/05a6d8638109447dd3c88b234b634f0f912b6a8b010dd1bb54d5db153da5/niquests-3.8.0.tar.gz#sha256=2d5dc5dee74dbff118100aadbf07e37a4ff74cf42eecd7b1a6ff2b446c47cbc1" data-requires-python="&gt;=3.7" >niquests-3.8.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24053172-->
+<!--SERIAL 25166583-->

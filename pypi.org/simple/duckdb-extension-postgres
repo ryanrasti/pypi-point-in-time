@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-postgres</title>
   </head>
   <body>
@@ -26,6 +26,10 @@
 <a href="https://files.pythonhosted.org/packages/a5/f1/8d06ba2386f3e2ed6648a5b84ac1261f64c5b2feb23ce0432cb4bd06bc46/duckdb_extension_postgres-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=435914b3dd669070b347f259148123cbfca738287b7a603ddec0d75901ec0801" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=1db671528d090b73231571b7a4af36368a4c5b62d9b574841ded3afa89ceada5" data-core-metadata="sha256=1db671528d090b73231571b7a4af36368a4c5b62d9b574841ded3afa89ceada5">duckdb_extension_postgres-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c3/71/a6631b95d14d7966aa2e2a12773044d4460c2e40acc7225e344a9f95b032/duckdb_extension_postgres-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=46d4601b21e699da237a6df3f1fd0b677e85533fe78b8c2742be0f239083a0e0" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=1db671528d090b73231571b7a4af36368a4c5b62d9b574841ded3afa89ceada5" data-core-metadata="sha256=1db671528d090b73231571b7a4af36368a4c5b62d9b574841ded3afa89ceada5">duckdb_extension_postgres-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/22/fa/b958efa0c76142420ccaf0bf0344f428c4ed88a4ac7369c8098ba204af87/duckdb_extension_postgres-1.1.0-py3-none-win_amd64.whl#sha256=601f66048e12a50451cfd1399e396f22543506f1d43e832759eb1ae961eb2368" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=1db671528d090b73231571b7a4af36368a4c5b62d9b574841ded3afa89ceada5" data-core-metadata="sha256=1db671528d090b73231571b7a4af36368a4c5b62d9b574841ded3afa89ceada5">duckdb_extension_postgres-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/89/0f/f4f5e89ff51cedeb5e8f5e720fa6673a2c865fa99b7782898d2236dc7057/duckdb_extension_postgres-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=d9be15feb609cb2120de5b076c0dd429ac0a269af8ba2d9411a01e819d35293c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385" data-core-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385">duckdb_extension_postgres-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/12/25/834a2e563d6a7b0bfcdf32de12266ff22c1fa2e4721e9e13e2c607ac034b/duckdb_extension_postgres-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=28bc0c5584c45e82dcfcd36bee9d451d7943d97fa12f9e44fefda0ffb973194c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385" data-core-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385">duckdb_extension_postgres-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b5/ab/07d91a09ad24465ffac458acdeecf1f518ca2133a97cb90e0e0c1dcd8b6e/duckdb_extension_postgres-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=a7956a817edfe22e566f9371f2c522b0a9846e61ca65e945fe6d5b08566ab21a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385" data-core-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385">duckdb_extension_postgres-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/51/c80f65bc4f5e6dec2510e5aa6c91b1bcf80c2e48dccde6e02b983d09539e/duckdb_extension_postgres-1.1.1-py3-none-win_amd64.whl#sha256=dcd8afd8298977e415cb992676883ef757e3fc04759db51341ec3656ca6913f8" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385" data-core-metadata="sha256=fc94c390f56716cc99c250c6c12e5d60b61f878748a7849467c2ef0c90699385">duckdb_extension_postgres-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956178-->
+<!--SERIAL 25201318-->

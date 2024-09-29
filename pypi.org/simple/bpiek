@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:alternate-locations" content="https://gitea.24example.ru/spavelit/bpiek_py">
     <title>Links for bpiek</title>
   </head>
   <body>
@@ -14,6 +15,10 @@
 <a href="https://files.pythonhosted.org/packages/8d/22/07e653c79271f0fc080dabed1b6f8d85f787ecd6b052dfc4b5319165a6b9/bpiek-1.1.1.tar.gz#sha256=55dee3d6413909e408055fd5fcedeede8a6d0d69244e315eb593126ff498512d" data-requires-python="&lt;4.0,&gt;=3.12" >bpiek-1.1.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/0f/43/bc45955ee49a9015a8f5ce36bfe76ca624aaa2973611803c2ab01110f71d/bpiek-1.1.2-py3-none-any.whl#sha256=effb036a5352679951c49c0c2e78b56041caf4cda5642550a3b378009ba43e1b" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=283cfcd40b3037871acd790f3329c50dc26070920824587d0bac2c0cd0cee380" data-core-metadata="sha256=283cfcd40b3037871acd790f3329c50dc26070920824587d0bac2c0cd0cee380">bpiek-1.1.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/9d/e0/29b16d0f43d6d3d28cd1c616d83b364c7765d700d2e20746f8690e8c8a2c/bpiek-1.1.2.tar.gz#sha256=0806c04b753d7ac0749c297a11679fd618a2a06a9dd084d6a94b9b60ed882a5c" data-requires-python="&lt;4.0,&gt;=3.12" >bpiek-1.1.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f3/77/fffa36374f26d5fe515cfa3054bf800a9a5447c3c065b02cee98e0b73a0c/bpiek-1.1.5-py3-none-any.whl#sha256=3d351e4d8925b221767981bd551ba02289b3385e6213f942b905c845c6abd4bc" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=f62008e13eaa37b6c4de75b383d4228f3c7da1dbc088592ca397a3f12e87f282" data-core-metadata="sha256=f62008e13eaa37b6c4de75b383d4228f3c7da1dbc088592ca397a3f12e87f282">bpiek-1.1.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e4/20/401f31ff176d9f6c01438a5d96afa72dbd9fdfb4ac4736c7b150426b631b/bpiek-1.1.5.tar.gz#sha256=df1707a2c8a5a3cab87d1ca36527769cb02c3611006acb72f40e9465d3fee871" data-requires-python="&lt;4.0,&gt;=3.12" >bpiek-1.1.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/61/a9300c3e4c27c82ef4faf6d6460e3ae9ef91cbe00292c26b401154b55fb5/bpiek-1.1.6-py3-none-any.whl#sha256=f5d5fe43ef629957f582dcf884613cbe89b5c2fc73c263b8eb3112b5be16ce3c" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=9d2aaa5c642b38bc73658e73a8cb9c085302c47cece720df2b6156710e3ef0dd" data-core-metadata="sha256=9d2aaa5c642b38bc73658e73a8cb9c085302c47cece720df2b6156710e3ef0dd">bpiek-1.1.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/2a/48816c56c5320104dd2f56f91cf7e8d0531a07b71a576e79a10fa4c5a2be/bpiek-1.1.6.tar.gz#sha256=db855b8fa832718eb92c71c052cecb54919467fc1dfe16dd4a80eddaf7f0294b" data-requires-python="&lt;4.0,&gt;=3.12" >bpiek-1.1.6.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24476196-->
+<!--SERIAL 25203606-->

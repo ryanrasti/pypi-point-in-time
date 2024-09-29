@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for textmentations</title>
   </head>
   <body>
@@ -32,6 +32,12 @@
 <a href="https://files.pythonhosted.org/packages/92/1a/3ea9d9140e8778b902967e75320d7b7115a0a2bdff7b411c53d14c88c5a1/textmentations-1.2.4.tar.gz#sha256=4293289f9699acda365773e7a3acdab1e139fdcb2a0cbc526b0d8f73c64d2c92" data-requires-python="&gt;=3.8" >textmentations-1.2.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/9b/bc/7d32cb8b9aab658e8698d3948d6e3a39b4687748d6e4d258f4691fcc84a3/textmentations-1.2.5-py3-none-any.whl#sha256=012abb77ce0afb0ba989847f4c25e3489666718378458ba4ab608955a169065e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=833a43e6bfaab36f4c7a524aa179a1314ea5074f9019ee67a421ad6d64cfcb7d" data-core-metadata="sha256=833a43e6bfaab36f4c7a524aa179a1314ea5074f9019ee67a421ad6d64cfcb7d">textmentations-1.2.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5d/55/fa812a6feb62bff35c48311fef121c145c0c8ec4f6595766f4c34cc01f65/textmentations-1.2.5.tar.gz#sha256=5b1615da6d3902d9ad87d928280779126df3ab85a0d0be399e51275e4345d4b7" data-requires-python="&gt;=3.8" >textmentations-1.2.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d9/82/929898ebdda62fd8266eed7af57ab2d498a0376276ad4d3427b251713268/textmentations-1.3.0-py3-none-any.whl#sha256=8bb40e145496bdf339da6ecdd5d7b89c3d10333e1be19ceaa8b727745ca42fd2" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=38470dcf22bf7d60bea55bfe3b0220aacb553c02f567c19385216654ced4ca94" data-core-metadata="sha256=38470dcf22bf7d60bea55bfe3b0220aacb553c02f567c19385216654ced4ca94">textmentations-1.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/a2/5f639fa0c52d16d6bbfadd8f31c292cf3abeb41d2dff1db3b0b012a2c817/textmentations-1.3.0.tar.gz#sha256=ca0e4932c0ec0e63494bf91dec50a1a0fae6447219100cce1bf755b85eefbda0" data-requires-python="&gt;=3.8" >textmentations-1.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2d/40/e4475f8534163728c456036f0a2fc9804f213ee7f77246156b0c2be42238/textmentations-1.3.1-py3-none-any.whl#sha256=abe8c43d8e8b7f81e6a220feee9d8356d0372fbc5cb530a6fcb371aa50f8b92d" data-requires-python="&gt;=3.8" data-yanked="Bug in ContextualInsertion. Resolved an issue where mask tokens [MASK] were inserted, but no predictions were made to replace them." data-dist-info-metadata="sha256=1394f129965c93c9a06a949fe490b88e51304a1e920da1936d4c2f9186b717bd" data-core-metadata="sha256=1394f129965c93c9a06a949fe490b88e51304a1e920da1936d4c2f9186b717bd">textmentations-1.3.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/67/e9/29c061451c19a132e892b4a5466e385cc110fe439091b9f0a933c9394908/textmentations-1.3.1.tar.gz#sha256=6dc33705c48c54aeb69ca9103f49b63976589cf293cb055cb8055e8e5b77338d" data-requires-python="&gt;=3.8" data-yanked="Bug in ContextualInsertion. Resolved an issue where mask tokens [MASK] were inserted, but no predictions were made to replace them." >textmentations-1.3.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/51/82/f0ef63adb516a670d0e8496800c43bbbf3566449830a20009bf8b9660b6e/textmentations-1.3.2-py3-none-any.whl#sha256=fcb3a5e540414cbd4b61348a3214c58516859e77cb3a47fa5a4f11f629a122cc" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=1624957d00be466be52f496395990a2046692e5fe5492ba8c8de06caade33029" data-core-metadata="sha256=1624957d00be466be52f496395990a2046692e5fe5492ba8c8de06caade33029">textmentations-1.3.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/53/d8/7b0d7c6ace8ead35c4fdd543981ef4d41fe258ca124339969b2f9ee5fa3c/textmentations-1.3.2.tar.gz#sha256=94cdf4fc3be3a60edbdc7573aaa075284e06c8e41e762e1bfdcf5bf489be39f9" data-requires-python="&gt;=3.8" >textmentations-1.3.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24919691-->
+<!--SERIAL 25166778-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for neobuilder</title>
   </head>
   <body>
@@ -16,6 +16,14 @@
 <a href="https://files.pythonhosted.org/packages/7b/7a/2aba1746d91c40c029d05c4f84f48f596e08afef759f104ede5bff86fcc4/neobuilder-5.1.1.tar.gz#sha256=274a99058a61b926e06d3afe4c6148deec2f50f900261c4b14eb4cc8c9c13b6f" >neobuilder-5.1.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/9a/49/10992065c5a982cb882fa18ba4d15ec3c59e35ad9a98cca952ec7f8bf629/neobuilder-5.1.2-py3-none-any.whl#sha256=c948aa2b625cd31c2f9969dbf84be12f1ecfee8cd00d1d6898b4837b30cb54f1" data-dist-info-metadata="sha256=74750eef27355c82d20f485756cb90d068a3565b94553dfb2a6bee44c0283a6d" data-core-metadata="sha256=74750eef27355c82d20f485756cb90d068a3565b94553dfb2a6bee44c0283a6d">neobuilder-5.1.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/1b/dd/d8193efff9e9f33b8a4a1b986f100200257b3ec2f1799ab2c1b12602f967/neobuilder-5.1.2.tar.gz#sha256=13dd328401ee89634360854e124b852398f34b7cabf557d5677528c4ef44d1a9" >neobuilder-5.1.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/43/f41bc25247852e3a72e9b53dcec728d8f2f8c09c6d2072d4062f1fc9d141/neobuilder-5.2.0rc1-py3-none-any.whl#sha256=5b5e2025ca573308856152e40df11282794afd99bbd0e26e662461c1e7bdf0bb" data-dist-info-metadata="sha256=62a942d5ee43dc4eae09bb78ef71a143b1e6864353609b416d5daf230a6139cb" data-core-metadata="sha256=62a942d5ee43dc4eae09bb78ef71a143b1e6864353609b416d5daf230a6139cb">neobuilder-5.2.0rc1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/27/7a5c2d5b2fbdb780bea872e38c7ec47fa1eb5bb3dd1dbb4452ce519922cb/neobuilder-5.2.0rc1.tar.gz#sha256=38309b4c17811a98630db2496d02830dc1110fa9bc0f79eb5d26143f1cc4fefc" >neobuilder-5.2.0rc1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4e/d6/de1cf7da1643913642709adffc865ae642f66ec5ae94e11f1fc2d7da3e8c/neobuilder-5.2.0-py3-none-any.whl#sha256=accfc4aad1c77cf63c3e3d9fdf9daf6e35f069da087e2a9ed8ed1373ac72af33" data-dist-info-metadata="sha256=81f3c9c92505ef2cd52941c5e394c248c8d29db272ca4d6234b9a4093c828699" data-core-metadata="sha256=81f3c9c92505ef2cd52941c5e394c248c8d29db272ca4d6234b9a4093c828699">neobuilder-5.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/aa/193d7bd37605c5912e331a2733deff68a2c0ac49e24a1f5a4d5fef4be9e3/neobuilder-5.2.0.tar.gz#sha256=2c4d9e53e92c1e51508f9cc3fa84a128bdd03dd5cea8779d740f9b8cd7c88165" >neobuilder-5.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4d/b3/7d733fe772a8172cfa6d8b9ba11262936bf266e0d89d958a8d5ecfe7643d/neobuilder-5.2.1-py3-none-any.whl#sha256=89d6f7fe541a0030c98db22567ef5f5e275e98d1ba0a268086802973c8c3cc48" data-dist-info-metadata="sha256=e0987f00c990ad78e77bc14a2ba2b0dd771dd8e42786e4807e6771032d284a67" data-core-metadata="sha256=e0987f00c990ad78e77bc14a2ba2b0dd771dd8e42786e4807e6771032d284a67">neobuilder-5.2.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ee/5b/c11392ae0ea7ee0fb25bdf20cd38e5eba08c5411b7684cdee64b6914b8a8/neobuilder-5.2.1.tar.gz#sha256=7f05c86fe7d26b5172d379d9bc2ee10238282b467ac9af9489e068e7f17c7053" >neobuilder-5.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/66/e1/2c04e9d0a9a1f6fee275ce7702ff419d7b4e7d1f2276a30da35cb5d7025c/neobuilder-5.3.0-py3-none-any.whl#sha256=745f625a1e421b70bdda106a1d907c9abc8993e6172fbf80c9b4013ec1982aff" data-dist-info-metadata="sha256=63edd622be82962429e62098fe9c5056252e80b7a3581058b8c947205bc7c2fe" data-core-metadata="sha256=63edd622be82962429e62098fe9c5056252e80b7a3581058b8c947205bc7c2fe">neobuilder-5.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/21/0ff7e1aace7cc8341565cf6544b2639eab962bc0fca73e075c549f0093bb/neobuilder-5.3.0.tar.gz#sha256=2fa3bfaa809558be4c074fbc827ff5a9353b7cf68fa55e1aa3e255e9ccb96871" >neobuilder-5.3.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23940543-->
+<!--SERIAL 25173047-->

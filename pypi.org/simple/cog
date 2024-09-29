@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for cog</title>
   </head>
   <body>
@@ -90,6 +90,8 @@
 <a href="https://files.pythonhosted.org/packages/88/7d/5d67c2a8579328601596fdc13571432a2876095a54d7789415482943291f/cog-0.9.22.tar.gz#sha256=e0d8e8c498c73d81c9fe9af75e478045a3d1573c252ae13a4dabed50cc9146f3" data-requires-python="&gt;=3.7" >cog-0.9.22.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bb/c3/bf0cbf5c9db0112bda27316ff0a831a60c066e0b964a7dc98e4e25bb6de3/cog-0.9.23-py3-none-any.whl#sha256=1ffa7c88d6bd58b5c648e16121d0d3cba1f8db188a17c7b35a2742b34a8b01ff" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=f31d7afa85047514c5d99c7ce4c76f5e3eb21bfbd73ec6be7d0d3b38115cfac7" data-core-metadata="sha256=f31d7afa85047514c5d99c7ce4c76f5e3eb21bfbd73ec6be7d0d3b38115cfac7">cog-0.9.23-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/17/3f/16d69d411396e099b7103c503a8a98bb6c62b04aa54de9ee8a2e6cf1f4bb/cog-0.9.23.tar.gz#sha256=4f059179c97221b1fedd9c19ed6e69f6ae18b9439f96707cdcdb7c346c5c825a" data-requires-python="&gt;=3.7" >cog-0.9.23.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/f1/a40b314b425667c8f0dbe9cc0289dd73055d9781619c09ea6a58cc9b4b2f/cog-0.9.24-py3-none-any.whl#sha256=b3814bfc4c32c5e59fcc569c863a37c98a8ad6bac84ea7485f0b1299ff075e02" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=aa8b35b741be92b64638e33c2dc80e09e2792a70bc858cfebde709f9c1b2e469" data-core-metadata="sha256=aa8b35b741be92b64638e33c2dc80e09e2792a70bc858cfebde709f9c1b2e469">cog-0.9.24-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5f/2d/e01e3a95e3a7a6cd92ae717835c308c515d6d132226b83cbe603a69a5ac5/cog-0.9.24.tar.gz#sha256=7c28589ab80af1563f552cf6fe57b72d14fbc6fb087f22820ae193ce1aabab62" data-requires-python="&gt;=3.7" >cog-0.9.24.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b7/8c/e53788d27216dfd3903a62f14e5445b667a2ba38c407939d4c05260ccadd/cog-0.10.0a1-py3-none-any.whl#sha256=fab24a892bca0e784099158fba563da8fbb976f9a27d3d6215e85803348f8a67" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=3aac50d5ca52fb6f3378f0d2e6127ea3d76388535cf1d04b9e0db6deaab7e406" data-core-metadata="sha256=3aac50d5ca52fb6f3378f0d2e6127ea3d76388535cf1d04b9e0db6deaab7e406">cog-0.10.0a1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/fe/15/d16bcdd470c06c07c11bb8963ab285fd32f4e7d89a19952012994d7c4a46/cog-0.10.0a3-py3-none-any.whl#sha256=ec87dd9b54cee7a19da696fc6d6abad3a015a76453b4f3d4bff89b12aae02200" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=52e742ccf482e2fee2516bddea01159216f33cbb6919b80a9b849c7adfd50b73" data-core-metadata="sha256=52e742ccf482e2fee2516bddea01159216f33cbb6919b80a9b849c7adfd50b73">cog-0.10.0a3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/de/36/27d05d8248e5f4a528b37795f1c5b1326524515ae3f8962d59d5bebfd92c/cog-0.10.0a5-py3-none-any.whl#sha256=d87f9c35aab9b70118a38de2683ca70103bab405873ced3c69ea7f0718d0e121" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=cd8012cd6ff3bcba01bb76026c779cdd9aefd5c2983a0385afe51925a18349dc" data-core-metadata="sha256=cd8012cd6ff3bcba01bb76026c779cdd9aefd5c2983a0385afe51925a18349dc">cog-0.10.0a5-py3-none-any.whl</a><br />
@@ -110,4 +112,4 @@
 <a href="https://files.pythonhosted.org/packages/50/7a/0644905cacde7bc02143be2c98c2ff5f3a9f67ebf36cac7bec723135c739/cog-0.10.0a21-py3-none-any.whl#sha256=2d2bc160c761314dc02c2cd47bd7e9d53be9d5d577ac0ddf2c65e2cb9771c9a6" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=edfac801e8e43b3e815328cc61c1e482bfb75ebf619486a4e1d71b1c450d50bc" data-core-metadata="sha256=edfac801e8e43b3e815328cc61c1e482bfb75ebf619486a4e1d71b1c450d50bc">cog-0.10.0a21-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 25016599-->
+<!--SERIAL 25184815-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pyedifice</title>
   </head>
   <body>
@@ -108,6 +108,14 @@
 <a href="https://files.pythonhosted.org/packages/14/e7/6245ec668bbc1c2731e73777c967bd486c7243236d2c25c420eb0fce5c1f/pyedifice-1.3.0.tar.gz#sha256=33014f9f3accfa3baa53594c9eaaeea9260f8e30d9bc16dea8af7ce4684ecb3e" data-requires-python="&lt;3.13,&gt;=3.10" >pyedifice-1.3.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5e/eb/91501562b89d6e7ea0713e5131150cae23c3cb934a3b2f78dc2b02b08ab4/pyedifice-1.4.0-py3-none-any.whl#sha256=1b4b0a65acebfe80650872b9f2b52d04ac7a81cb761e241872a8fb2243eab3df" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=d2eeb1e42d5ba525e66e60a48afa48d41897349a9a5186eb8f468325170c309c" data-core-metadata="sha256=d2eeb1e42d5ba525e66e60a48afa48d41897349a9a5186eb8f468325170c309c">pyedifice-1.4.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/64/2a/c746510f4c7c9f418abf41d7955dac69db7852077d1853f29529b2e3f2aa/pyedifice-1.4.0.tar.gz#sha256=bc81a36a191e04687c8c6127b0176bba58b1a48910df0d1f249abfbbe2e3d9bf" data-requires-python="&lt;3.13,&gt;=3.10" >pyedifice-1.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/75/ca/91982429e5fc78d112df60b2fbeb435ddc31fbb526faf7b05d4c16d52dc3/pyedifice-1.5.0-py3-none-any.whl#sha256=db06e4e735d892f513b39041c102bad279699e0536325b790fd60a5c35fa49b2" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=a78e1191ee7d8a94f94534d921fb7cef3fcf314ea3614223cdf79a65b411593a" data-core-metadata="sha256=a78e1191ee7d8a94f94534d921fb7cef3fcf314ea3614223cdf79a65b411593a">pyedifice-1.5.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0a/19/180a2f62787aee8059f3452fd3c74fa12f005549e0c412f9d7349b681002/pyedifice-1.5.0.tar.gz#sha256=d0864c41fb7505a7ab6d6af4bae4bcdf65bfcca0d22ee80a59807d85a74b66bb" data-requires-python="&lt;3.13,&gt;=3.10" >pyedifice-1.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8c/31/24e13cc6d38af64afa5d6eb37404db5fddeb4f00bc82d01d2173b245e65c/pyedifice-2.0.0-py3-none-any.whl#sha256=0283b35c573c419ea3327cab3235a15314e85efacefff40b43a989728836bc20" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=71c3943ec8829ad2badb3541ee42473a059782094c19b20b3f1f1198419bcf02" data-core-metadata="sha256=71c3943ec8829ad2badb3541ee42473a059782094c19b20b3f1f1198419bcf02">pyedifice-2.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f1/43/396ad95d43f6175aef0d58e41bba81b38e48ed27d8439cebfc6cf5b9b2be/pyedifice-2.0.0.tar.gz#sha256=752f70eedade2cb8b93921860aa8bfa490bcb09bfc68ebf531aed6014fffbf0b" data-requires-python="&lt;3.13,&gt;=3.10" >pyedifice-2.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/cc/b5/2cb2321583068b27438c21aca409dd001bb2578b4812e92417f0956642bc/pyedifice-2.0.1-py3-none-any.whl#sha256=a84a3bae7efbbaa556c7c3c47b26336a7ae5413c19974b905cb18efa800cd024" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=f01abf15d588e2b41ff28060999c22676c8c1964a6d67ee550d719ac16a258a7" data-core-metadata="sha256=f01abf15d588e2b41ff28060999c22676c8c1964a6d67ee550d719ac16a258a7">pyedifice-2.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/76/dd/cc608bf79fb7ec4730e154adbf16a2ff8a4e088272ddf5b9cb4401a4c301/pyedifice-2.0.1.tar.gz#sha256=5744b57d9f4d8383d5f33ac5eaea2c0d0e509d062bc113df36a20e71181faaf2" data-requires-python="&lt;3.13,&gt;=3.10" >pyedifice-2.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/bc/bf/154957971e7bda27523a1035f46296ed2a0b38aea3131c03f210c1334cba/pyedifice-2.1.0-py3-none-any.whl#sha256=f2686dd76ba8db6d84cae1f04d67438d7f0a8598bf3a33162657dabc8b3adc2b" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=c81289af8159bebb50be0deca541ad164a8d3b05f66f5854a9b07d3c4315115a" data-core-metadata="sha256=c81289af8159bebb50be0deca541ad164a8d3b05f66f5854a9b07d3c4315115a">pyedifice-2.1.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/be/bc/bbb95b3f53d82c96cb006cffc55b3567d53cb06020a7db1bc2710536f7bc/pyedifice-2.1.0.tar.gz#sha256=13220eda7c2f89f482e6dafc3dedfaa636e62600b5cf9092bd6d94468e7e9e4c" data-requires-python="&lt;3.13,&gt;=3.10" >pyedifice-2.1.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25011799-->
+<!--SERIAL 25213842-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for burla</title>
   </head>
   <body>
@@ -122,6 +122,14 @@
 <a href="https://files.pythonhosted.org/packages/5c/00/947d8f8ea546981daa4c895630cd866ad8650b803cf699e1fea83d408e1e/burla-0.7.3.tar.gz#sha256=a6eb72b481937e33faf81e8bcce5d5cdf8a4a2b76742d590b929e5b4b9b26395" data-requires-python="&gt;=3.9,&lt;3.12" data-yanked="" >burla-0.7.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/8a/24/a338dd110a19919a51de2ec12fa678bf08458e6e696ac2e9b80065c8a3e4/burla-0.7.4-py3-none-any.whl#sha256=48bede44fa11c7a0922994bd7d6660282091705628178d70153f65edd35cc361" data-requires-python="&gt;=3.9,&lt;3.12" data-yanked="" data-dist-info-metadata="sha256=20c7e7a1537f9604c19b22f65fa3aa5ec4673f417337f456403e45952a3dfee5" data-core-metadata="sha256=20c7e7a1537f9604c19b22f65fa3aa5ec4673f417337f456403e45952a3dfee5">burla-0.7.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/7b/81/b439fefe3a55970dc2c74e3a2aa9a865a4b2198fbed79db758c02c97bc81/burla-0.7.4.tar.gz#sha256=0ebd5258ab74ad9edbba32b52f4dbe119bf7ff9fce90e9a46b2cc888d7d0fda1" data-requires-python="&gt;=3.9,&lt;3.12" data-yanked="" >burla-0.7.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/dc/63/c14ecebe7ef1435da38b7f8ccb31cc8a4c0248203483a2f484a72f82890c/burla-0.8.0-py3-none-any.whl#sha256=d56b3cb217c3e7b0cfd22b4c2322bf6fc772ab3b79465c3b1b805c66e5c99330" data-requires-python="&lt;=3.12,&gt;=3.10" data-dist-info-metadata="sha256=c66f61b9f841e977af8bb629e0718cc43eaf56df8e79d860c765bdfe4507c5c9" data-core-metadata="sha256=c66f61b9f841e977af8bb629e0718cc43eaf56df8e79d860c765bdfe4507c5c9">burla-0.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/97/70/4574d135e5ca60ca402b635c1ae5ac3510968e70a478805403b0b93ff805/burla-0.8.0.tar.gz#sha256=3e6b6af4279b1cfbfbacfea3ec7b82e8291fac8309b358c1f4b3a8ccc3116d1d" data-requires-python="&lt;=3.12,&gt;=3.10" >burla-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4b/23/6903339aceda706585a2e631daae3d2bd8d8da5c018a96abc9a6d009bee9/burla-0.8.1-py3-none-any.whl#sha256=774c040fa462474117585fd4334aac953a4353b883b89ef4a6473cc2d99b11b6" data-requires-python="&lt;=3.12,&gt;=3.10" data-dist-info-metadata="sha256=4eb593e64ee56ac0883239349f4b862623e42422cb6cca80fdcdb06dbcb42b78" data-core-metadata="sha256=4eb593e64ee56ac0883239349f4b862623e42422cb6cca80fdcdb06dbcb42b78">burla-0.8.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d0/08/8f54bd01967478392625c82aee1aeca1de82cb55026ff547ca9b8c9266b7/burla-0.8.1.tar.gz#sha256=15c20d87aa1238238b0521457f2dcb3f4621f306fd34aac7dfdcb5597105df40" data-requires-python="&lt;=3.12,&gt;=3.10" >burla-0.8.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/17/2b14c891b53ee183d9a0ad834ac811d175507ea73c6f66a367337a031102/burla-0.8.2-py3-none-any.whl#sha256=77901b8c01d7fa9b1cf5f5f33a61a689adb80f328f1e967c1490e110bfe17511" data-requires-python="&lt;=3.12,&gt;=3.10" data-dist-info-metadata="sha256=b5c5b001a8fcc72f5549eef41e3c11ac1f191b9d2d318e3b9ce23072a36f08b5" data-core-metadata="sha256=b5c5b001a8fcc72f5549eef41e3c11ac1f191b9d2d318e3b9ce23072a36f08b5">burla-0.8.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/22/5c/78f271c5fe5950342d9acae1afac4385ef930e84479f0e2ded6d1665d6e7/burla-0.8.2.tar.gz#sha256=6f5f09e3a66507b88aaf572060232ce0cf349988cc0be2386e3ff75e07fb2d5b" data-requires-python="&lt;=3.12,&gt;=3.10" >burla-0.8.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b0/98/94b91b9250d8d40b4d030ff30586affe77def686ae137aed671cf2ec60a5/burla-0.8.3-py3-none-any.whl#sha256=e812cc2288dadfd5249c803e4d5f2da389621c29d2c1ae6455e5dd0aa8a1ce32" data-requires-python="&lt;=3.12,&gt;=3.10" data-dist-info-metadata="sha256=2d8867e8eed2b650daec5c0f3f9c2a18f43acfb04a5b24441a9a4592411f99b3" data-core-metadata="sha256=2d8867e8eed2b650daec5c0f3f9c2a18f43acfb04a5b24441a9a4592411f99b3">burla-0.8.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/66/33e70adb32b2ff292bab6e0cb2395b1d33f5e004a82dbd5d9aca97ba5574/burla-0.8.3.tar.gz#sha256=685acdcf421fe6ba43391a63a4b7f0651c7c2dc6f6b6bf6551c4a9cbcb44c3eb" data-requires-python="&lt;=3.12,&gt;=3.10" >burla-0.8.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25026413-->
+<!--SERIAL 25092446-->

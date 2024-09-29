@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for dbt-column-lineage</title>
   </head>
   <body>
     <h1>Links for dbt-column-lineage</h1>
 <a href="https://files.pythonhosted.org/packages/ff/3b/fe0ead9c81b001f280728b1fed04105779fde321580214243e4732bcd1a1/dbt_column_lineage-0.4.0-py3-none-any.whl#sha256=0b24da8940a5f7d23cf2d2a65c1f6efd29e39616e444815b7eca8a1da07d564c" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=34fcbc5a71e3b5eccd61861d6173140992b933fa3469687a91f473fd58ef1cf9" data-core-metadata="sha256=34fcbc5a71e3b5eccd61861d6173140992b933fa3469687a91f473fd58ef1cf9">dbt_column_lineage-0.4.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/2b/ec/58f6cc664755fb41633ffe7a3a3e2a8ce2f17343bcecf2853bd617e8eb2b/dbt_column_lineage-0.4.0.tar.gz#sha256=6641cef9d5f8d62af1e136e48abb8df122d1f4336640e21409cc4c63f7756fe8" data-requires-python="&gt;=3.11" >dbt_column_lineage-0.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/5f/6a4158869ec0710f95f86cee3732c6666ccf21fd4ccd997a17cb564694d7/dbt_column_lineage-0.5.0-py3-none-any.whl#sha256=bfa87fff29fbe663db09d248369ffa73419f162bbf1ae3a9ff9756ca54417863" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=fecc5007b3d4a01afd883534fb3af96e3c5c85d95849f08e7837b87f8418676c" data-core-metadata="sha256=fecc5007b3d4a01afd883534fb3af96e3c5c85d95849f08e7837b87f8418676c">dbt_column_lineage-0.5.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c9/21/0fe2e7f043e2a9c89b1cd41babcd38d164be5ed1e781446cf18dfe4f8041/dbt_column_lineage-0.5.0.tar.gz#sha256=33957210930656a5280a0f77b9d857b4d0dba298558e9f0de6a154976cdb7735" data-requires-python="&gt;=3.11" >dbt_column_lineage-0.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/18/de/4f051154bafdbff38ecf9c837783223f602c550394ea72556e9ccd3db69c/dbt_column_lineage-0.5.1-py3-none-any.whl#sha256=8ddef09c6337a79d50364a965f9f9cb35c45f5939c50639a26843132ed6c9bbc" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=3418ffaa90bc413f825903e74c8ca499cf9f94cf33883cc033847fa9c8f18c78" data-core-metadata="sha256=3418ffaa90bc413f825903e74c8ca499cf9f94cf33883cc033847fa9c8f18c78">dbt_column_lineage-0.5.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/02/5d/039f3b51e85c30bc236884f4d0ee2912c90360f1767c3044a4c7b37b4073/dbt_column_lineage-0.5.1.tar.gz#sha256=ca43e0015c059d09b05c10993d9d266a27572b3b5acf8e8007e419730f5440b3" data-requires-python="&gt;=3.11" >dbt_column_lineage-0.5.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/51/49/e5c2955d9e0d936b7e73eb25b3c5bc5e95779af99f3453601832071d93af/dbt_column_lineage-0.5.2-py3-none-any.whl#sha256=950d6341b87b2373f173029a5ce8272bb02396fc2b710ebf34e737d9c162552c" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=dafe47320795635341fe0d1a4779e87e3a5f359e508f0f13d82bf78afac6d80d" data-core-metadata="sha256=dafe47320795635341fe0d1a4779e87e3a5f359e508f0f13d82bf78afac6d80d">dbt_column_lineage-0.5.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/91/53/6d60e8b922b0ae14c4369e5f6c0c50860337b2d86d08c7e85a85f7963a30/dbt_column_lineage-0.5.2.tar.gz#sha256=f79e657c170af96c45367d81d0e76b11bc7dc85abb44da9af2bb06b9836a8864" data-requires-python="&gt;=3.11" >dbt_column_lineage-0.5.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e2/34/6e906fc233d03647ce8aded1bc7d9f2723750f21a953a25a4ea4c5e8cb50/dbt_column_lineage-0.5.4-py3-none-any.whl#sha256=7feaf70d1aea4e4df1e902a5cb2919399682379629c4ec0a92b93675750e9c8a" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=3e35d923bd147a587b7622634687d11fb46e0edcacc61b0811310a10c0ba9aa1" data-core-metadata="sha256=3e35d923bd147a587b7622634687d11fb46e0edcacc61b0811310a10c0ba9aa1">dbt_column_lineage-0.5.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/eb/c3/81d92413ed79e2860b277ce9debe812c37496d69481e202b3d4ea7c281a4/dbt_column_lineage-0.5.4.tar.gz#sha256=c41f23b44f36727af1d8d60ad6c0c441242a0afcf5fc32222f433210c3ddf8cc" data-requires-python="&gt;=3.11" >dbt_column_lineage-0.5.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24727881-->
+<!--SERIAL 25157787-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for catframes</title>
   </head>
   <body>
@@ -81,8 +81,12 @@
 <a href="https://files.pythonhosted.org/packages/df/2c/c2b2de42c1c914289bd8d7e10ae74942e83a93fccbacc728a1248c30ba6b/catframes-2024.3.1.tar.gz#sha256=37a0b79b706f4b348aa652b75358bbabb12c7416fa6cf901f4ab10f2989a364a" data-requires-python="&gt;=3.7" >catframes-2024.3.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/50/f3/ae76055ee0d415b1483958602c367532625b8f852a02d63ad04aa122848f/catframes-2024.4.0-py3-none-any.whl#sha256=a1e6b57062f4e09317d13029fc97df10499a8de7a71077273290685f5bcb8a5a" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=9681863ce6dffd36c8b6b85bb578b9ab8f767f1106d0e7ecf45de8cb5caf3f08" data-core-metadata="sha256=9681863ce6dffd36c8b6b85bb578b9ab8f767f1106d0e7ecf45de8cb5caf3f08">catframes-2024.4.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/dc/b0/d665fb394420afbe4e951842ca8056c977151c4e8ba7084f75c4b545b4d8/catframes-2024.4.0.tar.gz#sha256=7423f2dcbfbac17f83c850af70922db6bf72cb412e87322a33b5a7dea59efa82" data-requires-python="&gt;=3.7" >catframes-2024.4.0.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/80/56/684f27a3c8dc03976b75c62e8c015705013e4f0eb04a591809c6e9cbca3a/catframes-2024.8.0-py3-none-any.whl#sha256=8f0381cc9f96c481bc57b38c50b10251ba22ee5eb2ab05f3e766c5aaaf0ab4a2" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=e0853ba1a0153f900c7cd6679c575170f4f89b005e01406fc079ff9d7437a277" data-core-metadata="sha256=e0853ba1a0153f900c7cd6679c575170f4f89b005e01406fc079ff9d7437a277">catframes-2024.8.0-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/52/46/5040c409801e7eac956282fd070db2cbaa440d2317d5155030fe675aaff9/catframes-2024.8.0.tar.gz#sha256=1a09ed2b706307a5829a626308d6a724f5e3d293a0e819a3ddeb9312eae74aff" data-requires-python="&gt;=3.7" >catframes-2024.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/80/56/684f27a3c8dc03976b75c62e8c015705013e4f0eb04a591809c6e9cbca3a/catframes-2024.8.0-py3-none-any.whl#sha256=8f0381cc9f96c481bc57b38c50b10251ba22ee5eb2ab05f3e766c5aaaf0ab4a2" data-requires-python="&gt;=3.7" data-yanked="Poorly tested: SIGBREAK is not available on Linux" data-dist-info-metadata="sha256=e0853ba1a0153f900c7cd6679c575170f4f89b005e01406fc079ff9d7437a277" data-core-metadata="sha256=e0853ba1a0153f900c7cd6679c575170f4f89b005e01406fc079ff9d7437a277">catframes-2024.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/52/46/5040c409801e7eac956282fd070db2cbaa440d2317d5155030fe675aaff9/catframes-2024.8.0.tar.gz#sha256=1a09ed2b706307a5829a626308d6a724f5e3d293a0e819a3ddeb9312eae74aff" data-requires-python="&gt;=3.7" data-yanked="Poorly tested: SIGBREAK is not available on Linux" >catframes-2024.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/95/ec/fbc5193a31cf0600ad550d2b1e09146bbb7bb8586930029bcdcc2642f2f4/catframes-2024.8.1-py3-none-any.whl#sha256=3d7b585cf72e32b0923b3878497d4d2737c23aa0011e33f42da7794de50625cc" data-requires-python="&gt;=3.7" data-yanked="Poorly tested: SIGBREAK is not available on Linux" data-dist-info-metadata="sha256=857bfffc4c65c82cf531446de01ace82b9aac2f880e026f86661a5a1beac080b" data-core-metadata="sha256=857bfffc4c65c82cf531446de01ace82b9aac2f880e026f86661a5a1beac080b">catframes-2024.8.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/b1/f1e01764985f89aee8e29538a3700a816eddc296b1ffffea8f4cffdbe852/catframes-2024.8.1.tar.gz#sha256=5f54edaad21ec540b83613b9898f32425cdbf7c5d46cf981db80597effc723e7" data-requires-python="&gt;=3.7" data-yanked="Poorly tested: SIGBREAK is not available on Linux" >catframes-2024.8.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/99/df/9780830730b3ba0573af8de47d575f90b3db1a44bb536a881a5416eb3e0a/catframes-2024.8.2-py3-none-any.whl#sha256=92acd06dcc86b42a5dc54bfda750140832f5b569b1e9f1aa9abe4978503a5f7a" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=081fc7b090fc80b24a4b6e6d04cdb08c6df014cb983404bca0f5381361efd4d9" data-core-metadata="sha256=081fc7b090fc80b24a4b6e6d04cdb08c6df014cb983404bca0f5381361efd4d9">catframes-2024.8.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/15/e7/d18ce1f67cd86b8317c37c4fb314ae3526f5162a975bc651b74cc42e9002/catframes-2024.8.2.tar.gz#sha256=ae4cb2583489a7f12aed9676c011c37c8d167ac047f9e0e195cf38aec9811a45" data-requires-python="&gt;=3.7" >catframes-2024.8.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24824304-->
+<!--SERIAL 25051180-->

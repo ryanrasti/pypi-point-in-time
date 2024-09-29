@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for poppy-core</title>
   </head>
   <body>
@@ -16,6 +16,12 @@
 <a href="https://files.pythonhosted.org/packages/cd/24/26550b7dd03cdbf0b2a613d33f914a3ceb59d3d7ceb0a0b5b56c91ba8348/poppy_core-0.11.4-py3-none-any.whl#sha256=610904d94880aed913bdf369435d049d95ea9e0c415c98d8901331d4b09c593f" data-requires-python="&gt;=3.8,&lt;4" data-dist-info-metadata="sha256=ff4f52b1031ef8246155a9a9aa28755ca4bcd84d6014d5f7381c7509a4989743" data-core-metadata="sha256=ff4f52b1031ef8246155a9a9aa28755ca4bcd84d6014d5f7381c7509a4989743">poppy_core-0.11.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/26/cd/c0e604fe98d143860f242afccbd57cd7c88a662c1fa4664a325eb1d552ab/poppy_core-0.11.5-py3-none-any.whl#sha256=ea5122473e2c697aa0edddd310d938cf39c059d4462378db8a5c793b787edab1" data-requires-python="&lt;4,&gt;=3.8" data-dist-info-metadata="sha256=e3b6d6cc5730a50b875c9e0e65a55a93897edf4dd3923a1571d8f9334afb941c" data-core-metadata="sha256=e3b6d6cc5730a50b875c9e0e65a55a93897edf4dd3923a1571d8f9334afb941c">poppy_core-0.11.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c9/af/ed615a99b0ad54a6ff8b76ac3aeb85a415107bb30b26c4a5f4f227d620d5/poppy_core-0.11.5.tar.gz#sha256=e61bc205251ecc5d278356cba9be3140f9b26efa831bf1b0f950b83835746d9d" data-requires-python="&lt;4,&gt;=3.8" >poppy_core-0.11.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c4/7a/7394998108ff43e4804327565872737f05aa45af43c8df68fb46b876ce29/poppy_core-0.12.0-py3-none-any.whl#sha256=d53ece04fbbb5dd54165dfc006c3a032a2bda0feab3b8ed60428e3fa12e69702" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=726f45ff2b86e8bbc77f7531b33dfaaabb6419fd0231c049240c41afacb7afd8" data-core-metadata="sha256=726f45ff2b86e8bbc77f7531b33dfaaabb6419fd0231c049240c41afacb7afd8">poppy_core-0.12.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/51/e8/fdfa1825037f2f5932c962f63502c38d87889051281b835771a7f5e140b4/poppy_core-0.12.0.tar.gz#sha256=c3a190dcc9ef590c76cd69621daa40895ae5fdb14d897600e009e57339d9c354" data-requires-python="&lt;4,&gt;=3.9" >poppy_core-0.12.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/15/73/531aab61bd388a74f165c9be27e9514708a302562d127543e97da5a4adc0/poppy_core-0.12.1-py3-none-any.whl#sha256=ca095a7a014cea4059d0523f7005e5310cefb44436d06f2b4b5d5180f12bd3f6" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=036d8724a2f87d87109de288a361adb19a05861ac763ae44cfa9e4fca2a3f2d5" data-core-metadata="sha256=036d8724a2f87d87109de288a361adb19a05861ac763ae44cfa9e4fca2a3f2d5">poppy_core-0.12.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/8b/510e12e3d1190d027ac8a1c3b67eef5aca5033449efcf6dc1caed4affebf/poppy_core-0.12.1.tar.gz#sha256=1d2d37065cafe876b28a5e76b96f002dde431e09d102f8fa9eeaca64f50ab473" data-requires-python="&lt;4,&gt;=3.9" >poppy_core-0.12.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/ca/28dd6b9d7aca5da92deca0b6a2bdff66138e87650a860cb66333799e1303/poppy_core-0.12.2-py3-none-any.whl#sha256=3492e83b58c2621ca9ea5d7720eca95ac3b21d6ae456f129d231b8e62a09c80c" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=9d4f17f9840e8023c02df51ba130dc54628f229536e8b66617b8000f9ca94ad9" data-core-metadata="sha256=9d4f17f9840e8023c02df51ba130dc54628f229536e8b66617b8000f9ca94ad9">poppy_core-0.12.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c5/f8/08caf8f9f3d1b56e3c5362a06333aa6f4361ecbf0c5df857684acc89d942/poppy_core-0.12.2.tar.gz#sha256=955be7bfdb801aad5bcf61663fc46b2261603b738e1b20a84b59ee6f06ce6499" data-requires-python="&lt;4,&gt;=3.9" >poppy_core-0.12.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23411865-->
+<!--SERIAL 25222395-->

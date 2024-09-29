@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for weave</title>
   </head>
   <body>
@@ -114,6 +114,14 @@
 <a href="https://files.pythonhosted.org/packages/56/33/d521f72844b5f852eb3d7fb624a3063c305ef1b49857e9b1f1ff0d861889/weave-0.51.5.tar.gz#sha256=e5e4087bab834b8fcaecd19365a78b95b5a5175f58975df7f24648b395cf9c9e" data-requires-python="&gt;=3.9" >weave-0.51.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/80/38/a65cb9fab8f05bc5b8860b43e54954856ea9b919dcc5b46dccc14b319125/weave-0.51.6-py3-none-any.whl#sha256=d6c28022e65fc63ea8efaf589a1ebe2d6e1ed3aad381c66dd4f02327611b8d93" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=a9d63f63d4e163e1656349176892a7638aa381da9d0e6991347b2b785c202f4a" data-core-metadata="sha256=a9d63f63d4e163e1656349176892a7638aa381da9d0e6991347b2b785c202f4a">weave-0.51.6-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d6/6a/b0891bcf4fec6b3abb3d9cf8c9dc737662cce2029d11803dd3173ed41764/weave-0.51.6.tar.gz#sha256=7f6593c41d0a7d171326e168a465d804ee321246c3d1fc95ed47b447db2ed2e7" data-requires-python="&gt;=3.9" >weave-0.51.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/26/43/14f86445daeda89d2069b890ef7e4b3fe663b779490c4cc8956ac32ae854/weave-0.51.7-py3-none-any.whl#sha256=ecf02a068b6ad3c559b4992e0a3938181a3ab9336cde7b12299bce208828e1ef" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=d51ddd4bd605e4c48f3a1ec7b420cb8def8ebca03015bd322cb717c1bd050d09" data-core-metadata="sha256=d51ddd4bd605e4c48f3a1ec7b420cb8def8ebca03015bd322cb717c1bd050d09">weave-0.51.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/68/ed/09e78488dc22acd37e5d395cb62be5ba53c683859f91b3925f6a6ab17641/weave-0.51.7.tar.gz#sha256=d81d92978aacc5e508bf21cc53b417a35eaec8810141b48c8cf2d258594622bb" data-requires-python="&gt;=3.9" >weave-0.51.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8a/45/84172335fdf65ad8a5c22cfe8615384d2449908b2398598d0fd50b989c05/weave-0.51.8-py3-none-any.whl#sha256=fcc72470d94f897e8af4769275d563ecf2e956b1a29812736cb74f328c8bcd07" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=d80e80153bbd593a6d8fc927f747d529e228bdcc491171c345c0bda72569987d" data-core-metadata="sha256=d80e80153bbd593a6d8fc927f747d529e228bdcc491171c345c0bda72569987d">weave-0.51.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/55/88/33d520801edfc59aee3371b8f809399aa209e21fc35f6b5ec14656c46f88/weave-0.51.8.tar.gz#sha256=ff96bf3329690ac3d9a683367ea39bfa75456b876aeb35504a9440a9fb8f7894" data-requires-python="&gt;=3.9" >weave-0.51.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/aa/ec01e7ddaf75493b3b6c07a003fec7d9319bf90522a78348fffe0436e98d/weave-0.51.9-py3-none-any.whl#sha256=72ef515c4754e38ba238d330c2776758497921e85d81f59a987925a91e3cb4ff" data-requires-python="&gt;=3.9" data-yanked="bug with non-async openai calls" data-dist-info-metadata="sha256=e90ab58acbb6c8c8a5363f24b941a02792aa4ca1bf8848d2553bdc11da21cbb7" data-core-metadata="sha256=e90ab58acbb6c8c8a5363f24b941a02792aa4ca1bf8848d2553bdc11da21cbb7">weave-0.51.9-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/61/17/82dfa09aee57365ff0937d3a4dbc5cd4abf5fe044d0074ad60b990f97360/weave-0.51.9.tar.gz#sha256=b44fe9f07cb4da072dbe617749709ea8177e1789f762c0d7d08563992655a097" data-requires-python="&gt;=3.9" data-yanked="bug with non-async openai calls" >weave-0.51.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5b/9b/1c49a4082ec9b34b0334633d6b944d03085a7cb90302015793fbda175f6c/weave-0.51.10-py3-none-any.whl#sha256=b35642a1e4eb73f03c7d369164a9c7393b6a3f3fad8f5d7dea5827bcb632be21" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=423ac5d5e5864e8034d988689b33b39bc05a118735521d392e71b97dbaee159c" data-core-metadata="sha256=423ac5d5e5864e8034d988689b33b39bc05a118735521d392e71b97dbaee159c">weave-0.51.10-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/13/2a/db3317ef06adccb4addadd0688240da1bbc6785a857c299fe484111617e1/weave-0.51.10.tar.gz#sha256=406379b2a578ec0bc22dd2a464cbef9ac5ad8c59a48cea6b2de3ebb03e43a078" data-requires-python="&gt;=3.9" >weave-0.51.10.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25006703-->
+<!--SERIAL 25210571-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for sglang</title>
   </head>
   <body>
@@ -90,6 +90,16 @@
 <a href="https://files.pythonhosted.org/packages/14/f4/a528b44e2c70d3c0a9cb0142c3119f6da413d08ec8d6c1f54d5966382564/sglang-0.2.15.tar.gz#sha256=64d633051cad930724c510f41e689aecce7d9fceb1bc2b895d8936d334e72eeb" data-requires-python="&gt;=3.8" >sglang-0.2.15.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bb/8c/26f098aab3ab5b0a8015ff1e1e3fac3dcdca0fd1ea026bcc563b9a4e2d7e/sglang-0.3.0-py3-none-any.whl#sha256=1f7ee60fc5d4bf32371efaf4e16e3f5e868a35c885197ac327778e184758df8d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=9aeba406e37892aff89821bfaff44563de2942588371587e5ae5cd300a57a1a9" data-core-metadata="sha256=9aeba406e37892aff89821bfaff44563de2942588371587e5ae5cd300a57a1a9">sglang-0.3.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/4f/3a/39e531f2f200607e5097cb1b21c92a5c4d3012f3035c037a68be51ce37f9/sglang-0.3.0.tar.gz#sha256=3ff5ff2d09c3c5811330d49e273f9b323f6be846e92e9f1c289ff2b8ae3d027e" data-requires-python="&gt;=3.8" >sglang-0.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/29/59/39d7034d56d0f7f164e14a4f28642eab94e0e10e15e10876860d3ffd3672/sglang-0.3.1-py3-none-any.whl#sha256=d67acff166673910b898e4dd7fff49007f3346e34e816bcc875f6cd7b509cc89" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=40a650ecf8ee2b6db1fd0950cb52ea3d7eb2e332e0249f453e834d4a4c377049" data-core-metadata="sha256=40a650ecf8ee2b6db1fd0950cb52ea3d7eb2e332e0249f453e834d4a4c377049">sglang-0.3.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/65/da/d99ccb7e8bfd103b1924d261321a3aa9f8a938848ac2416fb909c48cf893/sglang-0.3.1.tar.gz#sha256=e18f31b0bbd0d6875982322e09412abb60fbe5242ee7a26b05b44c38ebb3eda2" data-requires-python="&gt;=3.8" >sglang-0.3.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/af/06/8ffb5616aa0c9ffd5c0e484d842871a187c879816af84eadc3a7636f1e78/sglang-0.3.1.post1-py3-none-any.whl#sha256=600224ddb1614cdf940cebff846017d6b2e83a82573f42e58ff0d1b0cd3524c6" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=cecc1dab95138b968b566a44ca39dced2cc88bad32738c3686532172477199c5" data-core-metadata="sha256=cecc1dab95138b968b566a44ca39dced2cc88bad32738c3686532172477199c5">sglang-0.3.1.post1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/65/f1/5aaf439097792fcdd1c132278a437d0a6edb8799acb8ef2251f4a201cf26/sglang-0.3.1.post1.tar.gz#sha256=c25f0a557122ce7bd9b726f9f5fe1f61c84d735265b391f7bf444e6cb721facb" data-requires-python="&gt;=3.8" >sglang-0.3.1.post1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/13/a81b429f36900cdec330f86f6ba1db56ba4f85cbee5a48f989bdf20042ff/sglang-0.3.1.post2-py3-none-any.whl#sha256=dc5e4d9563dfd124a4c0b6e8feae1c6c6b2e7f804c4d4e22913af89a0a6694da" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=5b1332f14affae33f1a953a85921683377811d6b7470a1b2aedc0e51f58bf957" data-core-metadata="sha256=5b1332f14affae33f1a953a85921683377811d6b7470a1b2aedc0e51f58bf957">sglang-0.3.1.post2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5a/93/a779783adb0663fc8c1fd29f1efe502b4df1844eea0db3a9b5ba4909df60/sglang-0.3.1.post2.tar.gz#sha256=290f4fc7d160edba11882b3289a7a63750f1f7e1bd97f0cb4ed75489cc2dddee" data-requires-python="&gt;=3.8" >sglang-0.3.1.post2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9e/f7/314ac54da3f35165d7c179b4ddf4910806bb9d9c59c1aff8aac086870702/sglang-0.3.1.post3-py3-none-any.whl#sha256=f63012da527ccbb59e83283aef039f7a3a5901e7a07bc87e402810919048ca37" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=ba1bc1fb3f5466c01a7c768f7d4f6a614ea82b1ac2e812dcc81b296eda05018f" data-core-metadata="sha256=ba1bc1fb3f5466c01a7c768f7d4f6a614ea82b1ac2e812dcc81b296eda05018f">sglang-0.3.1.post3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a6/87/923c0c2871636acef2c02a98244992259c5b385d46986b21af7e581bbcb2/sglang-0.3.1.post3.tar.gz#sha256=7cbf1cef6c6da0d50e80cd3169a4bcce52180dd927c608462e23df816a6e1eaf" data-requires-python="&gt;=3.8" >sglang-0.3.1.post3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/72/8a/323510d2efca4e5912edea6896f8476ad033beeb340a2288ea0bf12ef492/sglang-0.3.2-py3-none-any.whl#sha256=c1960d2887e66002fbf014f337b31c3f303a0c31b00b377e334e23dc5d65ee2a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f6368da4e48bfaf208596a62806554297fa64a84d8e8e895620d158709c3c222" data-core-metadata="sha256=f6368da4e48bfaf208596a62806554297fa64a84d8e8e895620d158709c3c222">sglang-0.3.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/64/2a/d6c651f7397bd60cf3c353a172b03b3f36260e0685ae504ce0722964a5ad/sglang-0.3.2.tar.gz#sha256=3a52ca87da75048aa305242e8f40c0f0c78079f2e090411c4c55c951e09536f6" data-requires-python="&gt;=3.8" >sglang-0.3.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24863669-->
+<!--SERIAL 25182608-->

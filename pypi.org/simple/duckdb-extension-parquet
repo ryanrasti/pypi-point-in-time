@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-parquet</title>
   </head>
   <body>
@@ -30,6 +30,10 @@
 <a href="https://files.pythonhosted.org/packages/c3/74/c7b083bb7f40e61813276d29c33caade1c52776133e04de7dbd26f9b6693/duckdb_extension_parquet-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=d0d144d0d21df54ae86bbb18117fcdbbbd90fac9dd7c1b255760795cfc9cc079" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e414130077d24b61a5f1ce6638e3e51e9e29351239c30d98d1562e2a13c4519a" data-core-metadata="sha256=e414130077d24b61a5f1ce6638e3e51e9e29351239c30d98d1562e2a13c4519a">duckdb_extension_parquet-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5e/e1/636b3e45761a9c90d1c1cea7cccf05dcee423d6ea96ffb39f898c4989094/duckdb_extension_parquet-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=311944cc26d89ff8cba171a3537fa692e0e67364c2710aa7baeed048f8dd4b99" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e414130077d24b61a5f1ce6638e3e51e9e29351239c30d98d1562e2a13c4519a" data-core-metadata="sha256=e414130077d24b61a5f1ce6638e3e51e9e29351239c30d98d1562e2a13c4519a">duckdb_extension_parquet-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/cf/37/5d2c90293d6cd2d60ea32145eda9fdb332d8d26ea4afb5321486e51f9220/duckdb_extension_parquet-1.1.0-py3-none-win_amd64.whl#sha256=aa8d4e714745b048c1902ae5930fc1815c236518af841b51c35c5faaae22049d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e414130077d24b61a5f1ce6638e3e51e9e29351239c30d98d1562e2a13c4519a" data-core-metadata="sha256=e414130077d24b61a5f1ce6638e3e51e9e29351239c30d98d1562e2a13c4519a">duckdb_extension_parquet-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/4b/9dffed106e8f292451c737fe327009cf470b14a92e9fc7b1822b8aac416d/duckdb_extension_parquet-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=7f9ab1ee2f68811706c3009bab064f115f164a5f7965acfa05eaea1efc6d52af" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd" data-core-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd">duckdb_extension_parquet-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/a7/eb3672d4ce81caeb01c2eba28ed477ef2e604fcfd38fdce7b5a8b45b1bf8/duckdb_extension_parquet-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=711c8216b4a734910bb957829323e90c8aa69a856e609aca459a7c77c63c15c9" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd" data-core-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd">duckdb_extension_parquet-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/16/3f/f56a164288dbe45e10f6c064ca86a35d6a7feb71213ba62fdea550d80225/duckdb_extension_parquet-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=917fb26ea955ccfb380a42ce2dc194594031fa5059a590ad6d18d88cc139615a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd" data-core-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd">duckdb_extension_parquet-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/6b/9bf0d40d6758aca16aa4307c673e07526a660347512fb439c1b56f14b7c0/duckdb_extension_parquet-1.1.1-py3-none-win_amd64.whl#sha256=532228961dddcbb3ac1b527d9f831def7a883fd26d4d8a8e604558992aaa6bb4" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd" data-core-metadata="sha256=e2608543de4a134a3e4945d12f3f4bcaec5c019d262a0b6a8fc6eb35a3e5e9dd">duckdb_extension_parquet-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956325-->
+<!--SERIAL 25201252-->

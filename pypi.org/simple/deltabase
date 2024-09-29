@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for deltabase</title>
   </head>
   <body>
@@ -44,6 +44,16 @@
 <a href="https://files.pythonhosted.org/packages/e1/4e/16f35cc35a31295ba2738d0ac1cd25344d1625b509198f623ad1395ed8b8/deltabase-0.8.2.tar.gz#sha256=1b800a2810cce07c839d2a49e0a90b507642d9fce1239f6da799caa6148365b3" data-requires-python="&lt;4.0,&gt;=3.12" >deltabase-0.8.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f0/4a/7e04e4390c897264564163c231fa7be1ac1321701f0d4219dded0f877c45/deltabase-0.9.0-py3-none-any.whl#sha256=48c9ebdfa908dd8c9b6c1ad1db92cb2bff9cea6dac6f464a3e27548d6386a4d5" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=6047de82b66261b2f1335f619078ef1a88d21982b026f62731f979057a975b4a" data-core-metadata="sha256=6047de82b66261b2f1335f619078ef1a88d21982b026f62731f979057a975b4a">deltabase-0.9.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/47/98/30297b109760cb98197c593fdb32920c9afb5c334451b84ae26f07105ae5/deltabase-0.9.0.tar.gz#sha256=2c9a55e11823b71c90ce521a34f5dbd7d1867813f6a8efd38da904d3a525735a" data-requires-python="&lt;4.0,&gt;=3.12" >deltabase-0.9.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/62/80cb35535350b82c1e1b27f7036b8d052b148769ad1e31d13c7e09f8f0ba/deltabase-0.10.0-py3-none-any.whl#sha256=7f49dba87b057c7e5a504b80956ad83d0d0a34d8023dd2b272e695af194ed6c4" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=e782d9423c23611e4780c3c81be60aaa43b0799066afcb2e23de05ebfdb0adf9" data-core-metadata="sha256=e782d9423c23611e4780c3c81be60aaa43b0799066afcb2e23de05ebfdb0adf9">deltabase-0.10.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/40/e5/3fd0776f5c4c446ce7709b408fc748a69390b4aa7f6de73651ae588017c2/deltabase-0.10.0.tar.gz#sha256=dd4ad1b67b1b565565980fff874ce8404b2d5670706ae0b0f248bb356b74236f" data-requires-python="&lt;4.0,&gt;=3.11" >deltabase-0.10.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/61/e6/12840f8f5ef82b79ada05f02fe67f5bf9255d567b017a7ce91f0bb871ff5/deltabase-0.11.0-py3-none-any.whl#sha256=500cc9f353f8556be40462ef3869eb9c728e24e1839b88fce8e56483d6ee4ed0" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=990e9c33e25a28eb856f2bbcb6182676bc723cc5ac17057bf92cf105979e43b9" data-core-metadata="sha256=990e9c33e25a28eb856f2bbcb6182676bc723cc5ac17057bf92cf105979e43b9">deltabase-0.11.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0a/b0/ca10a594ec0576a8f956d2c5289d2d681c45b10d00fdfc4c478a1a70bb83/deltabase-0.11.0.tar.gz#sha256=7abf33e20ca50740dc9868cec4dfda8d86e458b1615e691fb66ae5b8371cbc83" data-requires-python="&lt;4.0,&gt;=3.10" >deltabase-0.11.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/ba/7c173a534aafdece5015a28e29e8761db6079a68e38ebad75968b188b902/deltabase-0.11.1-py3-none-any.whl#sha256=8aab55bcdfa7afdd30f6756f7b3caa2b50d8469be74e7ee9fcd2f483e2dc57e9" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=19942fda5f675c9bac7931d774da6933a8e466e599686c756c55942d6afc0192" data-core-metadata="sha256=19942fda5f675c9bac7931d774da6933a8e466e599686c756c55942d6afc0192">deltabase-0.11.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/81/df/1c5354232985ce04982f1ed7d75a2bf4ec3c7f5af2618d8afa5ecacf426f/deltabase-0.11.1.tar.gz#sha256=54e87c4736322ad890cc4afa9e491d008b0b90584e964986696a1aa0f2bed65e" data-requires-python="&lt;4.0,&gt;=3.10" >deltabase-0.11.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/09/84/20e2e380608ad7f5d2578c9763a53333c8dab17bdcde8d73343c31631306/deltabase-0.12.0-py3-none-any.whl#sha256=ea3bd52d0d72241d0fad19649e0810ad8a8c14a44f0ef6b9acf0460668709aa4" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=5d1fab1631214641aa3a9f4d6b6e3e460f5cac974e239db3df56b8dd155f19fd" data-core-metadata="sha256=5d1fab1631214641aa3a9f4d6b6e3e460f5cac974e239db3df56b8dd155f19fd">deltabase-0.12.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/35/42/30c857e33b1f54bcaea61155a7d9e4096c9c80422266bff4da1701c9f4ac/deltabase-0.12.0.tar.gz#sha256=11ef18db001b1fb06ee3cea879808cb56c0079f64aaa534bd488fde839036737" data-requires-python="&lt;4.0,&gt;=3.11" >deltabase-0.12.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8f/34/f15398b9368db9fd60430161f1cc070508417161ab7973400187dcee4e60/deltabase-0.12.1-py3-none-any.whl#sha256=560d4d492b53a5dbabd3dc76c259eff93c799597c3ad9c9f9749fbfe8b2aca59" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=9707c6f408bc3b5ed019aefd1fbb28298ecdf82ad55a101d1fc5fbef52289aa3" data-core-metadata="sha256=9707c6f408bc3b5ed019aefd1fbb28298ecdf82ad55a101d1fc5fbef52289aa3">deltabase-0.12.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/de/60/a522f973f94a55d01cb20cf65818078a9e9073b3e0a0ff2c914968d39ebb/deltabase-0.12.1.tar.gz#sha256=f18527de655af0fbe9d8ae327fbedce29bbdd1d17089d3c50d921e6bd984cecf" data-requires-python="&lt;4.0,&gt;=3.11" >deltabase-0.12.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24926376-->
+<!--SERIAL 25181583-->

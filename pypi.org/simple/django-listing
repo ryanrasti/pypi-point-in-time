@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for django-listing</title>
   </head>
   <body>
@@ -184,6 +184,14 @@
 <a href="https://files.pythonhosted.org/packages/b0/8c/5fde38d49892fe971152ea0bc82f504bc138d8591cd73fc967e5f624ec1e/django_listing-0.9.0.tar.gz#sha256=e2689ab4c4071bf0d2c3c2ea570b8b39cd9334a618320e17c41e0e8709ac8a4f" >django_listing-0.9.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/61/34/ac8fd5a83a5ffc16e5826d2a507e92bf95480b235e013bd4f34a23f8bc85/django_listing-0.9.1-py2.py3-none-any.whl#sha256=bf389cfb408cc1f1f5c9f5f391fdd9acd74a73445d7d3c91918932b17f10d03e" data-dist-info-metadata="sha256=95921839c756daa463a8691e9d8b51cdf403b26f64cc912cd3c1b4b133f57c47" data-core-metadata="sha256=95921839c756daa463a8691e9d8b51cdf403b26f64cc912cd3c1b4b133f57c47">django_listing-0.9.1-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/af/46/077f31b135f6608e6f2c3ec2dd24f5f751bd08c9dc167814a4893588c299/django_listing-0.9.1.tar.gz#sha256=00967ff4b0eed5c94af7f7b45033c7b6e4e57de94336a447760b6885fa753832" >django_listing-0.9.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7f/dd/f0119f0033497c9dfe003e63dfa81247acedcffc9b3cf78153843b32f9ca/django_listing-0.9.2-py2.py3-none-any.whl#sha256=522af6ad0217fed60ba5352a82f2ad2009d5c91c56475f6201a62dafc5630307" data-dist-info-metadata="sha256=02a56c2f792e6d6c9ae42b264ee6ba51f6daf67e6fcc38a9dda434f677923114" data-core-metadata="sha256=02a56c2f792e6d6c9ae42b264ee6ba51f6daf67e6fcc38a9dda434f677923114">django_listing-0.9.2-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0a/cf/86e247cf58200dca4d6629ada19b426d7623481cb5ba394bd938efbba219/django_listing-0.9.2.tar.gz#sha256=6a93c370e8c5e8b6b6ad1cc11129f8e515856b3bee8c6e408f090be10aa7b502" >django_listing-0.9.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/94/34/92fbb6699973519fbee317fce5b0d82b555284a6b1ea70e7f3b66376f2fc/django_listing-0.9.3-py2.py3-none-any.whl#sha256=9c269ccc7bbd20ce77f59b2fdb8aeb5fd408c6e1dc48a8ffad35a7450b83c7cc" data-dist-info-metadata="sha256=e40a8016d68588bfe5a37ba0eb82dcfe3ca0a1323f7dab7bb9782936bce25175" data-core-metadata="sha256=e40a8016d68588bfe5a37ba0eb82dcfe3ca0a1323f7dab7bb9782936bce25175">django_listing-0.9.3-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/55/fe/5ee3ba005b093871eea6cddf932a26a48fa863a0b1c003c247be1fba0c2d/django_listing-0.9.3.tar.gz#sha256=bb7b3f7bd34114c0c518e862a7a2e490c8a05b8644829cd7e77ab3dc85ce7183" >django_listing-0.9.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/11/47c40d4852b3349c302faf0fe47ff85e5b6b699453f5f5558c2660075946/django_listing-0.9.4-py2.py3-none-any.whl#sha256=e2d8880451629983c2a632ff2d54856feb108a5622cbbff900c1c187ced62a9d" data-dist-info-metadata="sha256=c466299ed8a5f269c6afe060f8a54b3c1936aaec3fdd0971d86274bc754d738f" data-core-metadata="sha256=c466299ed8a5f269c6afe060f8a54b3c1936aaec3fdd0971d86274bc754d738f">django_listing-0.9.4-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e3/f7/4acedd11a9e18e195951fa2e3efc350a9c7971bd9f090f8b603630cb4c84/django_listing-0.9.4.tar.gz#sha256=9aa3a900cc7d475238d9ad6b4eb63c7739942d30b640faac35a5635d8aba33fb" >django_listing-0.9.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d7/11/2cae1bf39604dc68f1ba834ac8f51c5a32143f6e99be98d6e7548ead8fb6/django_listing-0.9.5-py2.py3-none-any.whl#sha256=6eb77c36f11c90aa0f7e2e481ebe3d7bafaeead5a8677a30b55dfe991e821dd6" data-dist-info-metadata="sha256=3e8e82dff82d4fa58d6d449fedf2f60e55d47fa5e567794eb31bb231bf3bb21a" data-core-metadata="sha256=3e8e82dff82d4fa58d6d449fedf2f60e55d47fa5e567794eb31bb231bf3bb21a">django_listing-0.9.5-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0d/38/638263323f3687429c466b9c49246dcdfac5a9bb5d8d11c1ac431c0d9cc5/django_listing-0.9.5.tar.gz#sha256=1c606f351f31ecd351f0e6dc582045df19202d325c5cd3df85f3055c1d480ec1" >django_listing-0.9.5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25020645-->
+<!--SERIAL 25189754-->

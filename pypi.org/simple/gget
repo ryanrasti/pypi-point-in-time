@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for gget</title>
   </head>
   <body>
@@ -99,6 +99,8 @@
 <a href="https://files.pythonhosted.org/packages/af/22/4c71f29a8b702c2bbc217544fcbb43f8c74a78c4bff920ec04b81765f2dc/gget-0.28.5.tar.gz#sha256=972d0f01d80c7ac83ac69140d125f81aa3cfb2e588495196f0d2f03fdd7105bc" data-requires-python="&gt;=3.6" data-yanked="Bug in gget.setup(&#34;alphafold&#34;) + inversion mutations in gget mutate did not take the complement" >gget-0.28.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f0/f9/418035b47ff4e2ca69afd92229560f94d025a89dc3f8b3607413a8567c39/gget-0.28.6-py3-none-any.whl#sha256=08900479cab5694ea2bc5a296119854fa621ddfca2c1591f1e378ebf14b05aff" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=bea64070689c03b595f12f698c9aa24250445e2ff48e1972f19193c9069bcb00" data-core-metadata="sha256=bea64070689c03b595f12f698c9aa24250445e2ff48e1972f19193c9069bcb00">gget-0.28.6-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/7b/b7/62e7d21000c01cbef27c38a867ceebccc9fa1e88ea7179832b2e4c207d36/gget-0.28.6.tar.gz#sha256=34cb0d0aec8d60d08bae6449af9b949076c1afefaafec6d360c2552b824d879b" data-requires-python="&gt;=3.6" >gget-0.28.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/db/4d/be965fecacefc9492912a26b4bd588580cc5daaca963587c505ec703e71e/gget-0.29.0-py3-none-any.whl#sha256=0c9961c55f16e0433004cc7b0447f9468f8930eba07d306df110022210b31e46" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=ac62c6667868627b4fcbcfd39f07434736a0b18fd764678e40c87f9db0317ee9" data-core-metadata="sha256=ac62c6667868627b4fcbcfd39f07434736a0b18fd764678e40c87f9db0317ee9">gget-0.29.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2d/2e/2d8b3637e4a3f5c53cc705dddf55c30edd8d667fdf43482af9c55d39ee17/gget-0.29.0.tar.gz#sha256=090f81992efea5762a81dfee7385e0df9394afaef4637fbc63ee929cfb8f15cb" data-requires-python="&gt;=3.7" >gget-0.29.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23497253-->
+<!--SERIAL 25197189-->

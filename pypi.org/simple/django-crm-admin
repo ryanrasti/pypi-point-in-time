@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:alternate-locations" content="https://sourceforge.net/projects/django-crm/">
     <title>Links for django-crm-admin</title>
   </head>
   <body>
@@ -10,6 +11,8 @@
 <a href="https://files.pythonhosted.org/packages/12/5d/e87b5f47688c9eda532074ae639e4f36779926871bcd453f2a7b39061401/django_crm_admin-0.90.tar.gz#sha256=66652a7d5f048606c343c9a9300ce2e30ec1afe975072c0948d790b269978d40" data-requires-python="&gt;=3.10" >django_crm_admin-0.90.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/93/f8/1bfd82a114e64ac5f83cbce573f946c963920029ffe3097a34990df71209/django_crm_admin-0.91-py3-none-any.whl#sha256=576636da8f2668b4c1c97d649651cc277ddad6f72140a19947c144f31a0c1feb" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=ca1a68ba87590bf03a85976e76366f6f39a75f9eaa53678e0429af4edb9290ea" data-core-metadata="sha256=ca1a68ba87590bf03a85976e76366f6f39a75f9eaa53678e0429af4edb9290ea">django_crm_admin-0.91-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/33/1b/cd5845321563810fb284aff70907b956d2a5d01efd7df5f6bae849df88d0/django_crm_admin-0.91.tar.gz#sha256=b7eb6cb7fe314ab9623894e88f366aa6a185347a4145d4acc4993c8679dce7c4" data-requires-python="&gt;=3.10" >django_crm_admin-0.91.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/72/94/82b1dd55fc7d3ead62fa14130f1dee1c8fec29c10a85ff4ef74fdd58054a/django_crm_admin-0.92-py3-none-any.whl#sha256=ed943837cd9f0c983176fe62441debca296e9282feacaa9a2e91b84da540700b" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=b21efe5d0dc4b2131b7e1e307bdc2bbb7f6f8591480399ee09d8470f71305041" data-core-metadata="sha256=b21efe5d0dc4b2131b7e1e307bdc2bbb7f6f8591480399ee09d8470f71305041">django_crm_admin-0.92-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/18/bf3c8e5ba032372d9d4977e69e9585be8cd9932cc59bd70fcb1435bf69e3/django_crm_admin-0.92.tar.gz#sha256=52133ca950bc2d2eb3825e1701e7510e5e515486ae3fddad2bb7a20074732d6f" data-requires-python="&gt;=3.10" >django_crm_admin-0.92.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24355802-->
+<!--SERIAL 25138874-->

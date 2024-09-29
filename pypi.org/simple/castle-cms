@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for castle-cms</title>
   </head>
   <body>
@@ -147,6 +147,8 @@
 <a href="https://files.pythonhosted.org/packages/1f/5b/b3591b85774a6a4a0942b9816211cfd7a8f5ba07de08cb2ca377ba8423da/castle.cms-2.23.1.tar.gz#sha256=88d744364c09070848d2c9b9f74f439c49def7fcf3eded064103d2c936e621c7" >castle.cms-2.23.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/1c/9f/c6339ba938bb1eeb1697cbfc477fa253dc647a83b24c782885e2bcb0e1a6/castle.cms-2.23.2.tar.gz#sha256=03df55965c37195701ace377edd537b9212a4faf21e04f3d20cef06ec8025aff" >castle.cms-2.23.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/82/5c/147900f623e89870f66a982e5faaed6694c144368009e87d49f7fb82654e/castle.cms-2.24.0.tar.gz#sha256=779e955cf327898a39eaa56f2426e1a42763e04b81cd0c82d37fd321a0fc52cd" >castle.cms-2.24.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ee/a7/d515751eac32385619b2ce37673b20fc2710b14d35387acaebe403202925/castle.cms-2.25.0-py2-none-any.whl#sha256=c76fb31d19659fa10be312c8da3e12900225e973d394a4611a14a3fd3a4b2f71" data-dist-info-metadata="sha256=043dc2e15ee05442f4aa761565a63d84cba857af367052ebfffb320eb1eff469" data-core-metadata="sha256=043dc2e15ee05442f4aa761565a63d84cba857af367052ebfffb320eb1eff469">castle.cms-2.25.0-py2-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ba/0a/6adbfd5bd733bea3a9f1d3899f7abf1919190ffbd4636291f4d83a94f417/castle.cms-2.25.0.tar.gz#sha256=6622cea8f7c98f85b3b174017006eee972722cfb418bddbbfa99833d25c4df23" >castle.cms-2.25.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5a/3c/043c4ee5d578aa0a2c89ca300ed41deffb9eee6e12740f954a220683e22b/castle.cms-3.0.0b0.tar.gz#sha256=28421b6cbff8e21d6d006ba36591fcfcc7e782236acb4e7235809589c5226158" >castle.cms-3.0.0b0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/8f/9b/387f6e1510d7dc3092f83162fb3510c872ef5e85e8859aa82a502cc20fe3/castle.cms-3.0.0b1.tar.gz#sha256=d69318e6931739856d4dcf582107969911ea7b64c34db839823cdf3ee2ad9549" >castle.cms-3.0.0b1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bd/60/03948e707eaffb27301d14c42dffff608837669b6e9cd0df8c38250e44fe/castle.cms-3.0.0b2.tar.gz#sha256=60ea1175cbeab6f18ca02335fe44cd570e1e4113fdf31ba19c2bc9b8e51f16f1" >castle.cms-3.0.0b2.tar.gz</a><br />
@@ -208,6 +210,12 @@
 <a href="https://files.pythonhosted.org/packages/0f/80/47fa89db0588158cd487ec0dd35c72e8b944d8cf468c30a40f040b213cb1/castle.cms-3.0.0b140.tar.gz#sha256=3f832b156f865841c82065dda28bdca32d522bffa38fb14ae877ab809fad602c" >castle.cms-3.0.0b140.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e9/0b/4ffd5661a2ee57e8822eeeae32d5ab50b6fab87a9fd27b2a8716219dbc71/castle.cms-3.0.0b141-py2-none-any.whl#sha256=7e22ffe90c539763cb0b06295cf7093bfc9d5516c00e9287c38d3fa1c8d72b6c" data-dist-info-metadata="sha256=280edfcc26f30d69a99fd9b8cf83952761609dae38a887cc5cab4ed1d0f8b207" data-core-metadata="sha256=280edfcc26f30d69a99fd9b8cf83952761609dae38a887cc5cab4ed1d0f8b207">castle.cms-3.0.0b141-py2-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/da/ad/f11fbf1f71710ccef812fe2aa8e42a34de22b0f6fb11b87cfe4757c2c0bf/castle.cms-3.0.0b141.tar.gz#sha256=fe7f11bc2e5657c7a373b0aa3d0ccd986887d5f120199807dbe5ed872e46acf9" >castle.cms-3.0.0b141.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1d/da/2ee981665ff33be2ccb8d452327da0c5f892073f0c150c73bbff90809ca6/castle.cms-3.0.0b142-py2-none-any.whl#sha256=1afc2f828b1887e42a6a3010a2cf7c4146ab1bd31ac8d2c1fd3e0164af40bee8" data-dist-info-metadata="sha256=d24cb1d3a7ba7d9175106604c182e2d8c73ba95893f7be32c2d2069ff3ae1d92" data-core-metadata="sha256=d24cb1d3a7ba7d9175106604c182e2d8c73ba95893f7be32c2d2069ff3ae1d92">castle.cms-3.0.0b142-py2-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7a/c0/edfa014e60574f2e9abec5de6f59122993aec86bc8bb3ff6ad220c578829/castle.cms-3.0.0b142.tar.gz#sha256=7bb3e5dd7f4327bffb8ccaada010100227ece5b133f18d3921af15a3e7e2acd0" >castle.cms-3.0.0b142.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/64/6ac3a9e5d43709883c99897665bd58eb123f67809bb353fd90c143e44dbc/castle.cms-3.0.0b143-py2-none-any.whl#sha256=066c019ced7738ad4858234f114373470647f7f74b51ef359ef20a3c1f7275d2" data-dist-info-metadata="sha256=7be1234ff6c7a4c350e27a3b530c15db0953c066973645a0f51a72e1f92a1c55" data-core-metadata="sha256=7be1234ff6c7a4c350e27a3b530c15db0953c066973645a0f51a72e1f92a1c55">castle.cms-3.0.0b143-py2-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/21/19e1936009a19206cfd5b807b95e5768da3a36e86db03f426aacaecc8fa5/castle.cms-3.0.0b143.tar.gz#sha256=ef1304236504a2632d42f1553193b451c35a8dd374a462e42d93973dd51cafff" >castle.cms-3.0.0b143.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b6/56/64b22c8ea7cead4bb6369f19378369d4e3df8a30d1a36a461d16b4bbed47/castle.cms-3.0.0b144-py2-none-any.whl#sha256=aa76fc0855899f1a485761a9e6438eb58d7a0ce34323c9ab3aae67410e40aaef" data-dist-info-metadata="sha256=25cb329b1741ec2e0533b7f16fbf4d412329985b2079c69cce638e81c02ba4bc" data-core-metadata="sha256=25cb329b1741ec2e0533b7f16fbf4d412329985b2079c69cce638e81c02ba4bc">castle.cms-3.0.0b144-py2-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9f/8a/4ed335d1ed69f6d3f77af38ad216ac377d371c4719461aa90a85817f5b94/castle.cms-3.0.0b144.tar.gz#sha256=2495fd91e558d1eb3759a9f1eceaf40d92acfbb6439abc38928950a6d3755a86" >castle.cms-3.0.0b144.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24106452-->
+<!--SERIAL 25169513-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pulp-glue</title>
   </head>
   <body>
@@ -106,6 +106,12 @@
 <a href="https://files.pythonhosted.org/packages/7b/eb/61da50df01d39877c7c6d19a66e851f044aa8dca327aad907143c7fdcc37/pulp_glue-0.28.3-py3-none-any.whl#sha256=ab4317af31ed9ccf20059727e9776ca922c57216468e5fc90ef75d4f92deba6a" data-requires-python="&lt;3.13,&gt;=3.8" data-dist-info-metadata="sha256=f22a43391cfbc3a1b9399b6cc1695d163b095858c63769f7cc7d7d682c09e65e" data-core-metadata="sha256=f22a43391cfbc3a1b9399b6cc1695d163b095858c63769f7cc7d7d682c09e65e">pulp_glue-0.28.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/98/f9/f7826f1bf2d8f6708a9560ed069d9cdd06a49f2decbe94a9930ed9826f31/pulp-glue-0.28.4.tar.gz#sha256=5c158979fd5ab3d40641d19e4003e8a3faf22275f85662bb14521081f31d4412" data-requires-python="&lt;3.13,&gt;=3.8" >pulp-glue-0.28.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/99/57/792d7dec57ffbb7d44e16cb3ac2629025e167d494fae514689c49e048752/pulp_glue-0.28.4-py3-none-any.whl#sha256=8457e2d6616be03121511e5f757fc215419a09f410490733e03610b386232a96" data-requires-python="&lt;3.13,&gt;=3.8" data-dist-info-metadata="sha256=9ccd9566e0d17fbbf5115e0bdc0af8fd120fafb718e4d69003b12c3297117b41" data-core-metadata="sha256=9ccd9566e0d17fbbf5115e0bdc0af8fd120fafb718e4d69003b12c3297117b41">pulp_glue-0.28.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/ca/8e71597c03bd1abd7534ae7be832b907000d411bcb9106f414267002a00a/pulp-glue-0.29.0.tar.gz#sha256=1bbd165e4fbc80a6cc8345dbeba9606edce06f7539dad0e9cc273eddfe97b530" data-requires-python="&lt;3.13,&gt;=3.8" >pulp-glue-0.29.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/57/88/9fe825d759d563ee10cfd28c5fbf038c8e672e49b8328d2d1e8a3eea4f9f/pulp_glue-0.29.0-py3-none-any.whl#sha256=f470e150bb155092564abf7c757b81174b4c4cd6d621c3191ce301c7a0c999a1" data-requires-python="&lt;3.13,&gt;=3.8" data-dist-info-metadata="sha256=062bbdb07cf1a7a6f88e0cfa7b28bfc9c2f74fd6ba9354ef83231a344e96e2bb" data-core-metadata="sha256=062bbdb07cf1a7a6f88e0cfa7b28bfc9c2f74fd6ba9354ef83231a344e96e2bb">pulp_glue-0.29.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c8/21/68726048f54b1decd7d2167c35813866594179192a5bb9c7342a01c98a59/pulp-glue-0.29.1.tar.gz#sha256=836a4c13c215348f4b82d919b4a88bc86c881389bbfb7784a6144438488cd00f" data-requires-python="&lt;3.14,&gt;=3.8" >pulp-glue-0.29.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/84/b756ba281e536d99493be3d95d22dde353c149ce03028ba272abec0804b2/pulp_glue-0.29.1-py3-none-any.whl#sha256=8d2cae3829a27b4df2559904aa8f5a508111636ffcab45d442a9d0cd0ab19e93" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=618800b1217c31fbc1d2a7b5ce143e2e1998c717ffe7d1ddaf5c5ca86f0c5f83" data-core-metadata="sha256=618800b1217c31fbc1d2a7b5ce143e2e1998c717ffe7d1ddaf5c5ca86f0c5f83">pulp_glue-0.29.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/21/f5/bd3b32e6eab4036974f6ef6ef8af8d668feb351fec58a4bb9db18c84d7d6/pulp-glue-0.29.2.tar.gz#sha256=4f6480105cafd7c22cdf0bb68e2752760c7593c01b962741125c725fbb987aac" data-requires-python="&lt;3.14,&gt;=3.8" >pulp-glue-0.29.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/dd/8f/edb25c52fde551ebfe28767dda69737926be7bff23518465de2a575a26d6/pulp_glue-0.29.2-py3-none-any.whl#sha256=d90ecfd0b4fd233705d4f5e87a55335db2ba8b1fc6e06c34a4275b9c928b903c" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=83b2410e6f56a752b12602b1b684beecbed8b922ff1adf0c00ca764ff4e1a124" data-core-metadata="sha256=83b2410e6f56a752b12602b1b684beecbed8b922ff1adf0c00ca764ff4e1a124">pulp_glue-0.29.2-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 25021831-->
+<!--SERIAL 25154628-->

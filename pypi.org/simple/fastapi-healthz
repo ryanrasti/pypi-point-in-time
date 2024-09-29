@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for fastapi-healthz</title>
   </head>
   <body>
@@ -38,6 +38,8 @@
 <a href="https://files.pythonhosted.org/packages/66/b5/3fe330383ef667a511948046d7d910a852d07546ea888626a333abe63eb7/fastapi_healthz-0.5.3.tar.gz#sha256=8765a8b783e3ffe78e86d918e583cd19be10b8080ebcb2a9f07db85a06aef8d0" data-requires-python="&lt;4.0,&gt;=3.9" >fastapi_healthz-0.5.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f8/6b/7b835d06ac3ed4d6a4a519d91cd7f4b703a04a42952e4282a85d82f01b33/fastapi_healthz-0.6.0-py3-none-any.whl#sha256=fc4cf03fad989949b56005db7b65089b7d5c0e40c636e4255d65e880057d1d1d" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=2604d9cd36423e7869dd8da626cfe3e7efee9c9ab7ea690673f8822025377300" data-core-metadata="sha256=2604d9cd36423e7869dd8da626cfe3e7efee9c9ab7ea690673f8822025377300">fastapi_healthz-0.6.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/71/52/67eade6555ff2103325505620290d3e80481914a092525e8d3c0793388ce/fastapi_healthz-0.6.0.tar.gz#sha256=857656122a1090c8dcc8be71f1d17f711d008b136a3f6f29daf840d5083ecace" data-requires-python="&lt;4.0,&gt;=3.10" >fastapi_healthz-0.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/82/03/2f4683051325463e450ff017a41c55bcc51fb4a7412ed75b1ffec8d4fced/fastapi_healthz-1.0.0-py3-none-any.whl#sha256=ed3a9e5c64743ae1a89329872ad0548e67f225e23f7a35612592e161ba05ed03" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=75f5c177fcdcf685d262ade0520b46bf23169e8d8732aba542bc508a5c1d56ed" data-core-metadata="sha256=75f5c177fcdcf685d262ade0520b46bf23169e8d8732aba542bc508a5c1d56ed">fastapi_healthz-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9b/9e/638c43bb44aaae64ec5a19e7bdce3295f81501700932e9bfbf779fb3d21b/fastapi_healthz-1.0.0.tar.gz#sha256=61531cbea5c9ce9f2bd5cb4e2389de399c9727eab47b7583cbaba26719e4df70" data-requires-python="&lt;4.0,&gt;=3.10" >fastapi_healthz-1.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24909156-->
+<!--SERIAL 25124557-->

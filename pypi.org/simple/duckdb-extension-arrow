@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-arrow</title>
   </head>
   <body>
@@ -22,6 +22,10 @@
 <a href="https://files.pythonhosted.org/packages/86/b5/1bf914f0133e7c705f1e1600020e73d43c84c87b8d427ad4bead0dfca66f/duckdb_extension_arrow-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=b3c20621af455b8bf2bc2041e406c272ac5d52bb142882dfa4080f2a14658591" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=19d721d1fd144b55d5cd84c2a728d80a7ad6308508ff43513decb612b3862327" data-core-metadata="sha256=19d721d1fd144b55d5cd84c2a728d80a7ad6308508ff43513decb612b3862327">duckdb_extension_arrow-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/51/7b/04eaeb95f1ecb9d2cea2131d631624cbff7692a9e1e68b08dcd07a9e2d02/duckdb_extension_arrow-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=9068556a6fc8e661720a20d9ed92daf61aad87e0d1b901b0d296f721a8ad2360" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=19d721d1fd144b55d5cd84c2a728d80a7ad6308508ff43513decb612b3862327" data-core-metadata="sha256=19d721d1fd144b55d5cd84c2a728d80a7ad6308508ff43513decb612b3862327">duckdb_extension_arrow-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/43/57/216c382d50c3110c68433d94bfaaa936b0a8bd9ce47ec5b281262fd24c4f/duckdb_extension_arrow-1.1.0-py3-none-win_amd64.whl#sha256=e320b47746b3e58f8b9c48170987d992f823c68e4991e70f741c301569238033" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=19d721d1fd144b55d5cd84c2a728d80a7ad6308508ff43513decb612b3862327" data-core-metadata="sha256=19d721d1fd144b55d5cd84c2a728d80a7ad6308508ff43513decb612b3862327">duckdb_extension_arrow-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d7/09/9dc0fbcf909f9a0f59025d41cbf78e803a00bcded49b2338dfe65ea8fd91/duckdb_extension_arrow-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=a917e292dde8934859d59faf0f32b80687740471d9e8f2c302c7364c4117abaf" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938" data-core-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938">duckdb_extension_arrow-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c4/e7/418f94d1a5000b903a7f7b6621a89eff33c5f0e265f9f0101bca09732872/duckdb_extension_arrow-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=24132c4aa6ddf2ed88863f17c50ba539fcebb8eb05b75daf3c2e4745ae56207a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938" data-core-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938">duckdb_extension_arrow-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/c8/3006a84b9c976a100a9b0136b2d29ca5100dd41095e7fd81a3d15a86b7c6/duckdb_extension_arrow-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=955d71c87481fd33c6f933c06d62a2e7f479e60fb41314a2631bb43899e9fc17" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938" data-core-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938">duckdb_extension_arrow-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/39/46/09432a6c42477f7ac3df39043a70ce985e3c841f41157693683141fadc1e/duckdb_extension_arrow-1.1.1-py3-none-win_amd64.whl#sha256=a8a5593ee665530971e7a632e5395e122ff51cbf0179b76aaf6c57ee8d40cbb7" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938" data-core-metadata="sha256=20f90f90f9303937e8389e8468658d66a34417d838fec7424ee0b3db76b5e938">duckdb_extension_arrow-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956305-->
+<!--SERIAL 25201245-->

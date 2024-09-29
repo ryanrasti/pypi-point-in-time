@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for martian-adapters</title>
   </head>
   <body>
@@ -112,6 +112,14 @@
 <a href="https://files.pythonhosted.org/packages/43/2c/daf6c79adf41549f09f7b0afd2ab8c7c2e175124bf434a60f63a9fe8269f/martian_adapters-5.22.0.tar.gz#sha256=a24cd52d061f0274a041f5c4e963ea6b706a7da6521cda80d8d7714878a1d408" data-requires-python="&lt;4.0,&gt;=3.11" >martian_adapters-5.22.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/27/ec/558fc62a423433d470e3b9d80c98d5048fbdc853dd75aafbec655f798086/martian_adapters-5.23.0-py3-none-any.whl#sha256=8323d268b09e9d7dd892ff46f8678620ddfc8834348ae956a998bc81ce3c813a" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=2077615ffad07f7772f3915dc24d76df9afe7ca82141464cc1277b574cf099ce" data-core-metadata="sha256=2077615ffad07f7772f3915dc24d76df9afe7ca82141464cc1277b574cf099ce">martian_adapters-5.23.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f7/a6/5c70b78d07dde6480f0a069c727f96faba110956c2c27997b3f173cad609/martian_adapters-5.23.0.tar.gz#sha256=e3dbe3f7dc46a2b42b738e4c8f92fa5dcccce24fbe3aedc07fd2d3e80e02b434" data-requires-python="&lt;4.0,&gt;=3.11" >martian_adapters-5.23.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/90/e9/18b366f9feb64fd7cbe2c7eaae67889c9032386b818744d5bc3f41428b5e/martian_adapters-5.24.0-py3-none-any.whl#sha256=375091bce5e1e2cbabbcba6cb8957e9a005552ee6dd3ddff374fc3cf85d25ba3" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=098053081e3f5024845d328201d5636670d27bf50f1af811b5d566f63b1b1e25" data-core-metadata="sha256=098053081e3f5024845d328201d5636670d27bf50f1af811b5d566f63b1b1e25">martian_adapters-5.24.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b3/75/f824dc420c559e13119e6462cffc4faabecea88ea390c6dbece110643ce0/martian_adapters-5.24.0.tar.gz#sha256=27ff2886ed38523ab351fb4367df333ac2b8ca9b250c4b6588194673223dc1bc" data-requires-python="&lt;4.0,&gt;=3.11" >martian_adapters-5.24.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6b/b4/8f35409f09ec3f72b58c657808ac5b74ae96ae09bd3234cbead96abc27f8/martian_adapters-5.24.1-py3-none-any.whl#sha256=4295ad7c7ea7120bf6072579be3d265a215186cf0132c7b789afea6ce7117ad3" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=ec8a99e2c955273eef95ab79d514d760f40478a2a5dd08bd2cad0444d97bf323" data-core-metadata="sha256=ec8a99e2c955273eef95ab79d514d760f40478a2a5dd08bd2cad0444d97bf323">martian_adapters-5.24.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/da/5d/4f794fbf960f138f1e927bbd8fb5a386bb68a37c76653760b4ef4d448a14/martian_adapters-5.24.1.tar.gz#sha256=2bbcafea531f4657c5efcd32964850bdb3f2913a7602493ce666f6aa6061181f" data-requires-python="&lt;4.0,&gt;=3.11" >martian_adapters-5.24.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1c/d6/efd377120f622bcbb1cc9f5ecc7223bb1e4f1f62f75f833bdea208041f9b/martian_adapters-6.0.0-py3-none-any.whl#sha256=b3dd43ffd4195fd08eaf893c68b2420782c8be72aa6ed656bafc9d31d238b385" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=1397b240c29238e165b7584bcbff41db35e2ff3bbc146a3e85a5425bdc7ff734" data-core-metadata="sha256=1397b240c29238e165b7584bcbff41db35e2ff3bbc146a3e85a5425bdc7ff734">martian_adapters-6.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/66/d4/75c49ccae8ae7b0463a860fe99c6c35994d8ac4edd1c05b9fca486c6b8b3/martian_adapters-6.0.0.tar.gz#sha256=f56d98d5fa40ff9c8f7efb906468a540dc0904ee620ccdb77679a3d46e596035" data-requires-python="&lt;4.0,&gt;=3.11" >martian_adapters-6.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/e9/2334b3071f4e3da1dd5e6fd2ceede10fa10c08d50a0af69d959a5a27c11d/martian_adapters-6.0.1-py3-none-any.whl#sha256=5d153d3aaf0a4675f557e738bb29babd30146e4c3d2828d27fd0505bbce04957" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=8a3a4937816af0c9f3f90657a1881d24b8b04a8fca2952ccc53830990b30dd1c" data-core-metadata="sha256=8a3a4937816af0c9f3f90657a1881d24b8b04a8fca2952ccc53830990b30dd1c">martian_adapters-6.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/90/15/ffa9917a0260c15896ac5ff99d38c5076b3fb08cfd9bea49508e35a74865/martian_adapters-6.0.1.tar.gz#sha256=5a897453119479c803907f6b4686fa878626a7e5b7df1f5f3dac4f10bdf0f56d" data-requires-python="&lt;4.0,&gt;=3.11" >martian_adapters-6.0.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25033492-->
+<!--SERIAL 25197141-->

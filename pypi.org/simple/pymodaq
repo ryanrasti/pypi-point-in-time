@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pymodaq</title>
   </head>
   <body>
@@ -179,8 +179,14 @@
 <a href="https://files.pythonhosted.org/packages/03/b1/7db972bbce35747a3998dfae7e659054cf182bcdcf52c74dcd255b8df2a3/pymodaq-4.3.1.tar.gz#sha256=db89b45b1b87996fedc61e55eae39ad9640323954771d17152cf73d30e3598bf" data-requires-python="&gt;=3.7" >pymodaq-4.3.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f4/7e/e3d640dbcc700c1759188c1accee7a309cb5228ae86ff01070260aa96771/pymodaq-4.3.2-py3-none-any.whl#sha256=b73848e69f40e1f60e98c5e7b54e4253ba93a7cc863158bd2638493c1bf62e1f" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=9a96ca5188ad92fa611dca5b0e8abec671de76c5c540798472557d5025722e00" data-core-metadata="sha256=9a96ca5188ad92fa611dca5b0e8abec671de76c5c540798472557d5025722e00">pymodaq-4.3.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/87/ea/8ea20de0643ce82367ea4afa1890090fddbdc5c373583e7c8564072bcaf3/pymodaq-4.3.2.tar.gz#sha256=c8f94ca6f0d8a56f7fcbf3e4924a4892f6908cadf00db53190dad4ee781f1325" data-requires-python="&gt;=3.7" >pymodaq-4.3.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/06/93/2e1b9fb50e1e53894bedba0b403c626cf526547c754522f579478e96c1be/pymodaq-4.3.3-py3-none-any.whl#sha256=6f4df176aba86cc95e0e18aa536cb476494a8d43c6f2030ad13aaf09cc56eadb" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=6638eeccd8af02c67d6eb76acf4536b5fbd0fade11e85aa5b84bd70cd6bbaa9a" data-core-metadata="sha256=6638eeccd8af02c67d6eb76acf4536b5fbd0fade11e85aa5b84bd70cd6bbaa9a">pymodaq-4.3.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/72/8d/e683fbbca6ad8dbd18163ab264bb4da5286c0b060239b618a315781060f0/pymodaq-4.3.3.tar.gz#sha256=acc1b005965ebdaa49cde40bac3b9006441dc77d7f9d34bb6a84b1353e12c435" data-requires-python="&gt;=3.7" >pymodaq-4.3.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/ff/92aaafde602bb58d5f4a5c26e9a7985dfcd6efdf63761fad91036a366b96/pymodaq-4.3.4-py3-none-any.whl#sha256=61fa741f83e6e04a7530e495457d747e4c5333eb9e2a8474158e7b28521e4eaf" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=826e459e079ef9afc568994928a4ed8c4cbcbb5ae5c315874e21816604ef6915" data-core-metadata="sha256=826e459e079ef9afc568994928a4ed8c4cbcbb5ae5c315874e21816604ef6915">pymodaq-4.3.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/50/c7/08befa3f630f1d508cfcb81190613af6b3590ced1f8cdc129a566e119212/pymodaq-4.3.4.tar.gz#sha256=4f7591de736fb1e22d3f22c797b26abec20106e4bc44a00d06604643573dbe80" data-requires-python="&gt;=3.7" >pymodaq-4.3.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d8/fe/138257ccff5325cd3cb74706cefe5a320230ab22988c69a6793539a3605e/pymodaq-4.3.5-py3-none-any.whl#sha256=41139aaa1c6932a710cbff0070674e23201a7ccd36e3c6aabe115ea6be0d64e9" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=45724f467b7ab799a01fe8a9902fff2ff11244f695dab4fe4abb4434d4d6bfbc" data-core-metadata="sha256=45724f467b7ab799a01fe8a9902fff2ff11244f695dab4fe4abb4434d4d6bfbc">pymodaq-4.3.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2c/1d/84f0c69bef90d19419e67145b43a0951de340e5a74ae97b0c4dc7146b651/pymodaq-4.3.5.tar.gz#sha256=6a99ad75323eec012c3316a126f5e87f57e7fdd26ce36b76dae7842a9907d9c1" data-requires-python="&gt;=3.7" >pymodaq-4.3.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/92/e8/dbd10912c2785319753511204c0bf263328120ef52119f25a7b5a678f716/pymodaq-5.0.0-py3-none-any.whl#sha256=dbf5f5094274ebf164e1ffbc9f2a4ee44aa12ad4b07954e015723e681ce3db3e" data-requires-python="&gt;=3.8" data-yanked="alpha version" data-dist-info-metadata="sha256=1f46b341221573758fb498dc339f0adf0cc6a12f9e060dcb7ea9bad033df183d" data-core-metadata="sha256=1f46b341221573758fb498dc339f0adf0cc6a12f9e060dcb7ea9bad033df183d">pymodaq-5.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ed/60/7798006a2d6a9f54665f56ddaac12b9ac91188fdb56bd1912d2d4b94a270/pymodaq-5.0.0.tar.gz#sha256=d845385206de660ed190e3eff6948d1d18361d6076014c4e8ffd816047ba12e5" data-requires-python="&gt;=3.8" data-yanked="alpha version" >pymodaq-5.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24959027-->
+<!--SERIAL 25122695-->

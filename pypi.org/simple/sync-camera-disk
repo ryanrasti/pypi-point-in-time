@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for sync-camera-disk</title>
   </head>
   <body>
@@ -18,6 +18,12 @@
 <a href="https://files.pythonhosted.org/packages/be/c4/9e51cce3787152f70d58fe5b91f262a6720f8d5c7b1730f9dbd6d47d390d/sync_camera_disk-0.6.0.tar.gz#sha256=a649f7375a42f74bb5d33bb62055f6c476be595d4a2a2065a6fea2ea02ea6ca3" data-requires-python="&lt;4.0,&gt;=3.11" >sync_camera_disk-0.6.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f1/89/a9dcaca540f656ef5bfe06649f9c09f358a99dc95ad3c07dfdb506f5a15c/sync_camera_disk-0.6.1-py3-none-any.whl#sha256=0c37db312ea08b065d718f972847740bdc06392bdaab1b5ffeba757106c6c611" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=a184453de18a6a3351d6cc84d37d5f538e9213e183451a29567fb66ade2f3975" data-core-metadata="sha256=a184453de18a6a3351d6cc84d37d5f538e9213e183451a29567fb66ade2f3975">sync_camera_disk-0.6.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/21/5a/038abc0d6c40a806a5dabfa71fc198c1e4e76e948865adb1100d981f4d29/sync_camera_disk-0.6.1.tar.gz#sha256=07341fe05977bb24070f4fa57169c131cde6093b564b91392a0183b6bd0f482b" data-requires-python="&lt;4.0,&gt;=3.11" >sync_camera_disk-0.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7b/7e/38c230dd5a64cfcb255e8f246fb4bbbad57a1e02fff0009dc79e59b522f6/sync_camera_disk-0.7.0-py3-none-any.whl#sha256=11002e6d1411be45c69409f474e3a26f5e968e2cb0c598251d2514497e422c07" data-requires-python="&lt;4.0,&gt;=3.11" data-yanked="Bug in ATEM ISO implementation (generates incorrect target paths)" data-dist-info-metadata="sha256=fa35436d232380cd69165454cc931c3b80a3cfa8e5ea078ca9c6a9de3487260a" data-core-metadata="sha256=fa35436d232380cd69165454cc931c3b80a3cfa8e5ea078ca9c6a9de3487260a">sync_camera_disk-0.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/71/cb/242b89d985d8cd8fa3a70c9bb93f81b54e6d1615878bb1f3623aeebbef2f/sync_camera_disk-0.7.0.tar.gz#sha256=3c95fe8020ab226c6f2dc6a47fee50bf1d3fe4e12829b04c70eacdb920788f8a" data-requires-python="&lt;4.0,&gt;=3.11" data-yanked="Bug in ATEM ISO implementation (generates incorrect target paths)" >sync_camera_disk-0.7.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7c/03/95a9607d613fb0f11823bcca8ce807de1cbd4e5e2f856f59529a125667bc/sync_camera_disk-0.8.0-py3-none-any.whl#sha256=d9ee495eb33273bd66a4918c6e18ccc186c6418513f24719a89cb50c50d5de9c" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=8e23662422d3592952407a3497f89b02164044a95edec86f50e2bd34f37683a4" data-core-metadata="sha256=8e23662422d3592952407a3497f89b02164044a95edec86f50e2bd34f37683a4">sync_camera_disk-0.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/bf/96/5ed3ee9bd2c326265a0e1aa9e47116c251967a1164e5257db815d6d6fcfa/sync_camera_disk-0.8.0.tar.gz#sha256=617c5096fca41a3896a6069e3e2d8572e59497a780471ba5411732e799a3fb5e" data-requires-python="&lt;4.0,&gt;=3.11" >sync_camera_disk-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/04/18/5a74d2499dcba46bd75f35b6254dd1a2f4926cf5faad0b248f426d8ec66d/sync_camera_disk-0.8.1-py3-none-any.whl#sha256=340e28cef009330c7d66fa72fcabdae2a7d29894f163c5f9654a20f94c69b6c4" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=6c235ab8a1cbe4c4df2444e95240ef7bf0a9b8d07dee296fb1f53d7c8aa0292a" data-core-metadata="sha256=6c235ab8a1cbe4c4df2444e95240ef7bf0a9b8d07dee296fb1f53d7c8aa0292a">sync_camera_disk-0.8.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/97/5b/e9bcc050a2d20c90284faf1032a85b3d6d9f8e982ae7bd436fd4216e8e91/sync_camera_disk-0.8.1.tar.gz#sha256=d5cc7118d81282f7897512e3f09721f128b7d9f52f80e2fa329c4682d9329a42" data-requires-python="&lt;4.0,&gt;=3.11" >sync_camera_disk-0.8.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24285073-->
+<!--SERIAL 25091951-->

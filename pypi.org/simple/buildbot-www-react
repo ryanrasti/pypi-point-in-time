@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for buildbot-www-react</title>
   </head>
   <body>
@@ -33,12 +33,16 @@
 <a href="https://files.pythonhosted.org/packages/3e/39/746aeedd56d93b0caf7aea1d20614b11c0f74d35b8e9d457349380dadc84/buildbot_www_react-3.11.6.tar.gz#sha256=67bd811e047c9f02c722725cd874a5c64b2821e34aca2d503f570a2352f07b06" >buildbot_www_react-3.11.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a1/3b/8381436337f6808ee4dfd62aae04d21afbf5f91426e4515818e64c2a3afa/buildbot_www_react-3.11.7-py3-none-any.whl#sha256=2f5d27b5df136c01cd948bfb99e6c980d9ca45e710535b58be2dc90bbeb09959" data-dist-info-metadata="sha256=fb773493028bc0a16054feaefda4b18d5f195f4583c67cb2d2095190025fa748" data-core-metadata="sha256=fb773493028bc0a16054feaefda4b18d5f195f4583c67cb2d2095190025fa748">buildbot_www_react-3.11.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/77/59/972eeaa7431992f6b05246a5518956260ded46ca24da680469eb90fc94c6/buildbot_www_react-3.11.7.tar.gz#sha256=b66acc373c7bb5c57bd8421c10d2a9576b49af0e0647bf2317201d5781243fc4" >buildbot_www_react-3.11.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/ce/aebc9f66c7693be2b0ea4f9f13be3e64caafe96d8f231e75d1ca508244ba/buildbot_www_react-3.11.8-py3-none-any.whl#sha256=009887bed07ee9d3224b6e984f0dd74a1a73a1ac7006c5cb716a33e050bfb013" data-dist-info-metadata="sha256=c0916282f85d32fa8771dd87509a5446584c34223dde692347cc6ef69d6c22e5" data-core-metadata="sha256=c0916282f85d32fa8771dd87509a5446584c34223dde692347cc6ef69d6c22e5">buildbot_www_react-3.11.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/88/b0/b7fdb2d2170cb8ecd3b767c8ad6212a1af79f7d51ebc8dfb2fc16017f3e4/buildbot_www_react-3.11.8.tar.gz#sha256=34b9887280c1a8936f29a8ad35d63479cec39a9a2040de3d2d60c64399ded772" >buildbot_www_react-3.11.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c6/4f/97a04011c15653efc2e64a8044483c50179b24ac7f5dc0dee7fb4c368035/buildbot_www_react-4.0.0-py3-none-any.whl#sha256=7f9c1bb08f3a0fbe0927d6e8b980a67aba20c30b405517d488117ee502afdb4b" data-dist-info-metadata="sha256=6f4e5942d143710ed3d13491b3cb710ad430a29acac3c9fc7a7089cf09d77cbb" data-core-metadata="sha256=6f4e5942d143710ed3d13491b3cb710ad430a29acac3c9fc7a7089cf09d77cbb">buildbot_www_react-4.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/df/e3/eb10284a5a383e0bfb2431d4bae95d368466407d806b488200357c303b3a/buildbot_www_react-4.0.0.tar.gz#sha256=95fbabce1349e43bee3c20ff589de4f9a8ee67384d17acc63a04aeb83d3ff98b" >buildbot_www_react-4.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/67/61/48641c8dde321fb3caf2b6f7a07505c35a08d24f893e7d20ba4f52f6dec5/buildbot_www_react-4.0.1-py3-none-any.whl#sha256=13902139dccbb93ae857889961a8b6c9bc0a288b751a00dd5c2a623e980b175f" data-dist-info-metadata="sha256=4262e25d41ff0054a222b4f965022a3cf3c0171e24cd34ee1dc9ff2ea804d8f5" data-core-metadata="sha256=4262e25d41ff0054a222b4f965022a3cf3c0171e24cd34ee1dc9ff2ea804d8f5">buildbot_www_react-4.0.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/6d/d2/e423ac0d1676f5711755b038fe9229183ca3b783b62a482a49c1e01e9d91/buildbot_www_react-4.0.1.tar.gz#sha256=fdf38716e1da02cd838ccdb86813ce54e1aeb626550918a703b1672825eb9b7d" >buildbot_www_react-4.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a8/ce/6fb847527cac88afa52183d01f0dcf6da6f98722d4ddcee0bf92e986edb8/buildbot_www_react-4.0.2-py3-none-any.whl#sha256=117678a99475b42d8fd2b8f48a1e81e20b5b35fdaa9548772a9ab6059b9b7ed4" data-dist-info-metadata="sha256=b7165845a73ac3e774d045bb4d35f02ecb32d6744fb2c71fd47cf6bdf3e748dd" data-core-metadata="sha256=b7165845a73ac3e774d045bb4d35f02ecb32d6744fb2c71fd47cf6bdf3e748dd">buildbot_www_react-4.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/11/52/b4c36f3eb9b4b071aed8e1919813d57a9d0f6e59821313cbf5b1e466d32f/buildbot_www_react-4.0.2.tar.gz#sha256=12d1b8be5b28c880dc7ca5af90bede8bf046548b45e709163e1ab86877e6276e" >buildbot_www_react-4.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e7/59/974fa826d07f0e34a0afeee220bfe55f45f4db096105ea0b6c062e11f95d/buildbot_www_react-4.0.3-py3-none-any.whl#sha256=3a1d1a8402917b7aaadef0579324e956d87cd0ca5e5394268d515850d0a42511" data-dist-info-metadata="sha256=dc7b9cb3f742b8e701f158a4ab9df7363e0280500a034ac8a57e6177f913282a" data-core-metadata="sha256=dc7b9cb3f742b8e701f158a4ab9df7363e0280500a034ac8a57e6177f913282a">buildbot_www_react-4.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ec/2d/606b4976c6778e480b7ee720aa76c70d3f181a60e50f822e528ecb35988f/buildbot_www_react-4.0.3.tar.gz#sha256=2492b5be64dd38898a20cd6096b4e3a361342a7a2d53640955cd8e2335504356" >buildbot_www_react-4.0.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24396502-->
+<!--SERIAL 25233265-->

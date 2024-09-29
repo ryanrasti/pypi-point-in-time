@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pywbt</title>
   </head>
   <body>
@@ -11,6 +11,14 @@
 <a href="https://files.pythonhosted.org/packages/5d/12/50b1f649e31ddb361f2ad52d2c3cf6e41d40ed67a194a30a5fb4b7e863f9/pywbt-0.1.1.tar.gz#sha256=0d9faab8cf61f732819b24029db22796b6a58cef255ec955c444b58339430ab2" data-requires-python="&gt;=3.9" >pywbt-0.1.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/2d/2c/8f92be54aa8218771bbfedb166cb8f80dc9102c6691470762c041aa519d1/pywbt-0.2.0-py3-none-any.whl#sha256=7f021a83b6f2d7c93bf90164d19239811cb3c6b44dd3549c4d5477447395e9ae" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=47abd98a2b3c9033609f76c2f1793fb245acb06c832979b249ca7d883c513f1b" data-core-metadata="sha256=47abd98a2b3c9033609f76c2f1793fb245acb06c832979b249ca7d883c513f1b">pywbt-0.2.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/10/df/71f98ac40549879480955c8635deaeed40ed7c296b6eba3f4b0f45cad301/pywbt-0.2.0.tar.gz#sha256=90899b6895beca184eab97d96b1a0acc0e1d3bda56a6dae9711586ae2e0293b4" data-requires-python="&gt;=3.9" >pywbt-0.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/76/73/e7c61461db1ad0d52442f5d853b6d14c56fb781127376105c9ac5feae577/pywbt-0.2.1-py3-none-any.whl#sha256=a7c60738f967ce6cf7c0752ef2026041c355ee8889fa047f4943c7c5a8108e71" data-requires-python="&gt;=3.9" data-yanked="There was an issue for cases where files_to_save was optional" data-dist-info-metadata="sha256=fa1cbc87712caf76d22d6594bd1fb5693f3636667f289a0702e829f61d3fc5f2" data-core-metadata="sha256=fa1cbc87712caf76d22d6594bd1fb5693f3636667f289a0702e829f61d3fc5f2">pywbt-0.2.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/87/9e/494a4d4c08066e4ed53613fbe5977e0d2afad5c914c8ce4f4d8f80989384/pywbt-0.2.1.tar.gz#sha256=b0f0778bee6bfcb625fc7031fb045a5e125737f1121d30e1b864ebd39aaa9a7c" data-requires-python="&gt;=3.9" data-yanked="There was an issue for cases where files_to_save was optional" >pywbt-0.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/60/ce/22f63ec19d1431dc783c27c3fa4e07b86bb07bbf56d047e3f0e46eee071e/pywbt-0.2.2-py3-none-any.whl#sha256=54b13fcddf2253ad59e8ccda246c2e087d26a6cbad55f5e067dbb671858a922a" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=42945b35a6fa0c003cfc6c8cef9248d852c7a28972aa0b8d0b23720627db3027" data-core-metadata="sha256=42945b35a6fa0c003cfc6c8cef9248d852c7a28972aa0b8d0b23720627db3027">pywbt-0.2.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/29/23/fb031e5303be56f2002dd81fa95fc769b89d48479fcb0ed9300e29bc218a/pywbt-0.2.2.tar.gz#sha256=1d582908e2849f13004dccd21e9d5cd003c964d9813fe46356f02762eb2d1b3b" data-requires-python="&gt;=3.9" >pywbt-0.2.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/06/2e1a89ed663a18252a5396c50f57284104bc4ac6703a0a365d31b3727ad3/pywbt-0.2.3-py3-none-any.whl#sha256=efba7ddec6b41d6cfcb7ee54ffc9a31d15a36d6705e08ec147239d17ef8b87b4" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=bce75e2282a20a15e6594165093c7a470045a72581c9990011d39d0703b00aec" data-core-metadata="sha256=bce75e2282a20a15e6594165093c7a470045a72581c9990011d39d0703b00aec">pywbt-0.2.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7a/62/82019d3c37c073092a0ae0605672c65517256ee5cc9133f79f98ebe251a0/pywbt-0.2.3.tar.gz#sha256=8a87bcedacd977036889ae6705e834d2965d57113679d6ccf6aeaae7499c6eaf" data-requires-python="&gt;=3.9" >pywbt-0.2.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f5/6d/1b87a192f3673869acfd2e299c35368eeabb6e0d5ddb246c334be4b3f8fc/pywbt-0.2.4-py3-none-any.whl#sha256=9c77da4ea1366b1e2c51297a088c4d296a357c24960da286514becb3f93ee6c9" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=434898e9390c13a1d07d4b52cdfead0a5fb228708bafd010ca28f5a1f4bb6e12" data-core-metadata="sha256=434898e9390c13a1d07d4b52cdfead0a5fb228708bafd010ca28f5a1f4bb6e12">pywbt-0.2.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b2/d4/0989c3f5f9be4a56fbccd260d8107aa3ff03ca128bcc32a1907794f181a7/pywbt-0.2.4.tar.gz#sha256=394569a963f5961d2dd0c5cd508c8f349cfd979a2db36f0c7e816149e51c6d9e" data-requires-python="&gt;=3.9" >pywbt-0.2.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24846358-->
+<!--SERIAL 25176325-->

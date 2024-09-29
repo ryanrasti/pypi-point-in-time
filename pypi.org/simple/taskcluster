@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for taskcluster</title>
   </head>
   <body>
@@ -722,6 +722,14 @@
 <a href="https://files.pythonhosted.org/packages/8c/95/62c67374d8448e5e2e3a9c858ca8da91338adcbf022f7df6fd47cefb788f/taskcluster-68.0.3.tar.gz#sha256=f3bcdaa2a0e188bb58665ff3c2353f96d12ddeaca8154da5f8d89c212110d213" >taskcluster-68.0.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b0/1a/65b7f9143ff3b15119bf0b1f3e6ff1200bf8b0961c99ac385e167b387bb7/taskcluster-68.0.4-py3-none-any.whl#sha256=b911708471416c47225110134dbb0b02fcd8a8d96d8f03a4467f5beb554e9cf5" data-dist-info-metadata="sha256=e3dec97c7bbcaa5b92ca109be558ef05bf23baa9060ad474f335351cc8c32ba1" data-core-metadata="sha256=e3dec97c7bbcaa5b92ca109be558ef05bf23baa9060ad474f335351cc8c32ba1">taskcluster-68.0.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c4/24/b2873057ec5bf876489a4a98b0a915f99a14e307da8a3a6bb3ff8037fcf2/taskcluster-68.0.4.tar.gz#sha256=f401f0c30b5f4d0c783b633ce55daabc78c5d004508a9b976756924e7a67727e" >taskcluster-68.0.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fe/59/6bbfb5eaf860eff99e58c359413c8ec3a9eea769cd2bb0d6c334c3289a41/taskcluster-69.0.0-py3-none-any.whl#sha256=9d8f8877608c69799be3d821333a478d06f7062b7967d5f96af9f8e6330492cc" data-dist-info-metadata="sha256=8cdfcde0a7f20d48e3c1da8cda967273ccd557ab2a8b140e263b76abb78570bc" data-core-metadata="sha256=8cdfcde0a7f20d48e3c1da8cda967273ccd557ab2a8b140e263b76abb78570bc">taskcluster-69.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d5/23/ab39dc145ee951f61dec6b51131a01097f015539de0e4965459f6d930c23/taskcluster-69.0.0.tar.gz#sha256=52e049e4b496e11c39ce0d3a7465c1b27a0ed31ca6927b43b508bb13830bbe09" >taskcluster-69.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/0e/659acfbaf2842fd754997d5c5b344f7e9fccf07e0f5c5618d71eafc873d7/taskcluster-69.0.1-py3-none-any.whl#sha256=bba7a3d72a0fab7733768210bae64eef1d56f8bcdc46d3e8d6eca6f9368c001e" data-dist-info-metadata="sha256=1a319f5441c0381e4e66ed2a939fb4427a33092e1a09d57c01d5316103888947" data-core-metadata="sha256=1a319f5441c0381e4e66ed2a939fb4427a33092e1a09d57c01d5316103888947">taskcluster-69.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e3/92/8f9699a43a588ebfe36c0024d68cb2da8e1047941ba40bae8e0b34283415/taskcluster-69.0.1.tar.gz#sha256=6605604753062238c9b3d3c29a726547feb78395bf84a551d5ea308b4dabf80d" >taskcluster-69.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/85/a55ad4c5c6ae6d9b9c399ae8166634f67486ddde087afddd176dae759bff/taskcluster-70.0.0-py3-none-any.whl#sha256=b401e8fad625c51bbbf05551db217f134d1bc566dfc49c2cd049bb4f18e248b7" data-dist-info-metadata="sha256=d7749b3704ea3dcb8b3db12a8d3201f11983441bdb2ff28d63943f390c9f8741" data-core-metadata="sha256=d7749b3704ea3dcb8b3db12a8d3201f11983441bdb2ff28d63943f390c9f8741">taskcluster-70.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3e/b1/f14cc42ca7202fd577970c69d227e2f51218f47a504b21c12b087c531e58/taskcluster-70.0.0.tar.gz#sha256=f7166f043a48c6ba363b114f2f96d5fed5a37ff165dba218565814a4019394c7" >taskcluster-70.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/7e/630d335e655b3ed7a760f2979e7cb44a1f25aed08fb9858cdda9693ba102/taskcluster-71.0.0-py3-none-any.whl#sha256=e3dce1df846fc5e8261d57186dbdbfdfae9f3ca540ecd647eb2b2629485b7b3c" data-dist-info-metadata="sha256=8b67836bc0f89653c9d00181e15b977cb4a86d83cd3537f122273de627a2fbad" data-core-metadata="sha256=8b67836bc0f89653c9d00181e15b977cb4a86d83cd3537f122273de627a2fbad">taskcluster-71.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f6/c2/e9b1a04c4da3d85e1d2a66774103ec4017fcaa9e1a199451a64dd728f512/taskcluster-71.0.0.tar.gz#sha256=fad50b46ecb5bfe082e79f612ddab8937d5265b179394b88aaea706f8f494fd5" >taskcluster-71.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24893565-->
+<!--SERIAL 25205351-->

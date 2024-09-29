@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pulp-ansible</title>
   </head>
   <body>
@@ -173,6 +173,8 @@
 <a href="https://files.pythonhosted.org/packages/97/99/36094234c0bbe55359c638134f3220991f4bfd3fe56e80b4a85d8bec5f8c/pulp_ansible-0.16.2-py3-none-any.whl#sha256=0c4c00339f8183430a915162146d20a051193ea93baee7ee2d90a6878cc93bb8" data-dist-info-metadata="sha256=fca3af75f05893bbfbb4a4704c55578f7f490d38150ff6b51a74cac48a516eeb" data-core-metadata="sha256=fca3af75f05893bbfbb4a4704c55578f7f490d38150ff6b51a74cac48a516eeb">pulp_ansible-0.16.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/fe/c5/dbd6c5da228ddfb05892690e1a1f307e503e054f149515b6d55a6b1cd04c/pulp-ansible-0.16.3.tar.gz#sha256=f38eed6a283069074d4bb200a576bebb9ea1cf439f41b86614653b6a7978257a" >pulp-ansible-0.16.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/7f/af/6f6455975f10672fc9306478097666b820f0a51e7fba004ed74229914f81/pulp_ansible-0.16.3-py3-none-any.whl#sha256=79039cb4b696c7ce72db938ec4e774640e4d75865d098712e19cc45e1ad36225" data-dist-info-metadata="sha256=360e7a383c33461294d0ef18563dc350b7a3aba41ba6881ac7a07e6adb6d75a8" data-core-metadata="sha256=360e7a383c33461294d0ef18563dc350b7a3aba41ba6881ac7a07e6adb6d75a8">pulp_ansible-0.16.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/a4/1972bdea2e3e45b06e52c38b46e118ea215009c5c501a3aa21d3cf937111/pulp-ansible-0.16.4.tar.gz#sha256=abb2b1a92dd460758c88ee2f39c24c4c97a11f02e02a6c6c5cea70d87d78cd84" >pulp-ansible-0.16.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/bc/7ebedd03dcf7abb0067811f589be109b1acf318a0e9c4b0d4187a7a71dde/pulp_ansible-0.16.4-py3-none-any.whl#sha256=ceaf98ca6b168c0f5a2da73bd701a834a2d574d8ea9ed993ede1655be80e86d2" data-dist-info-metadata="sha256=c2f1e4dd5e56d8b3c5f556c96288cf3872189e09ffadb2bacb2066516eff30c4" data-core-metadata="sha256=c2f1e4dd5e56d8b3c5f556c96288cf3872189e09ffadb2bacb2066516eff30c4">pulp_ansible-0.16.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/1b/15/93619e19395b1d3980af303ec27f53c3754581d33c1f1574fcedabad172f/pulp-ansible-0.17.0.tar.gz#sha256=38bdb6040a1c6f530e9c6ed589dc0727b7a6e1c331d49ad05cb2df555b5fa063" >pulp-ansible-0.17.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f5/33/2ef1f745778cc7fe27c80465b84be53d8baf91b9a30e418387066ae60ffb/pulp_ansible-0.17.0-py3-none-any.whl#sha256=2dca0745bf1780e9c0691569d7e0e8e0498ddb7bbe70f26576888d48280bf87b" data-dist-info-metadata="sha256=bc409787d21766de4a895a9b874591ce1864a9a9ef4a0e61d2ca8d751f782903" data-core-metadata="sha256=bc409787d21766de4a895a9b874591ce1864a9a9ef4a0e61d2ca8d751f782903">pulp_ansible-0.17.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/4c/2f/1ac1e6c8d3af74bf5ec62849c95d78ff69d1555d71ad4a87e6ad32a565ec/pulp-ansible-0.17.1.tar.gz#sha256=d8715f85b004015bd229922a9653488819abe2fda5306c2853728292b4d1fb69" >pulp-ansible-0.17.1.tar.gz</a><br />
@@ -235,4 +237,4 @@
 <a href="https://files.pythonhosted.org/packages/cf/bc/efee6d79625f61cb1c3efb62ed748e885cf17aa94618bd9fd86c5c628d54/pulp_ansible-0.22.1-py3-none-any.whl#sha256=3c86d816b89891c80fcd1c0a4a1ddd6c1323ebe7004de3e42ec3589dad13fcb5" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=dacbcf3abea7741a15b979962ccfdb01c9c90c9341e5b6ee7d8ff60aa26d4a37" data-core-metadata="sha256=dacbcf3abea7741a15b979962ccfdb01c9c90c9341e5b6ee7d8ff60aa26d4a37">pulp_ansible-0.22.1-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24566721-->
+<!--SERIAL 25187958-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for qcfinancial</title>
   </head>
   <body>
@@ -240,6 +240,7 @@
 <a href="https://files.pythonhosted.org/packages/db/2a/afac834fb56b47e866cc475bf0dca3f396000cd77010b356a1200062c47e/qcfinancial-0.14.0-cp39-cp39-win_amd64.whl#sha256=7c37ee790d05ceccf42f7a5990a66be68d738c6ff17b0bd9bec464bc6971e0eb" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f5fab7299aa53ea0976c37285033ca726bc75becd91dff37c606111e6e3445f0" data-core-metadata="sha256=f5fab7299aa53ea0976c37285033ca726bc75becd91dff37c606111e6e3445f0">qcfinancial-0.14.0-cp39-cp39-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e9/1d/e7e274b4ba6aa24cede12697f64f06e9f64aa4a0f695dffedae9a1a24fa5/qcfinancial-1.0.0-cp310-cp310-macosx_14_0_arm64.whl#sha256=43d8be0b830478870f376fc88e88ea4f66234adc45e09f272e170b156eb5f8e9" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980" data-core-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980">qcfinancial-1.0.0-cp310-cp310-macosx_14_0_arm64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/97/ae/a046277f14a5dff6dfc2f7af3fbb1d72740679d105049d754bfe0b43e87b/qcfinancial-1.0.0-cp310-cp310-macosx_14_0_x86_64.whl#sha256=3ed587dfc8adbed4a87286770e8432ccb246eff8f000c456189538e8e7fbf3c3" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980" data-core-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980">qcfinancial-1.0.0-cp310-cp310-macosx_14_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4e/16/32e4d0f744d47066cfeaf360bb85976dd3fd2e2802b9707b31bd4e3dfdf9/qcfinancial-1.0.0-cp310-cp310-manylinux_2_34_x86_64.whl#sha256=dd91d3d2fac659a83ae80a30a89fdf1fbfce15513c3374e6d40a6d38fe48a793" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=16d2e1259a6f52064bf06f0309d6e1004ef8051ea514c66403feb55fed752246" data-core-metadata="sha256=16d2e1259a6f52064bf06f0309d6e1004ef8051ea514c66403feb55fed752246">qcfinancial-1.0.0-cp310-cp310-manylinux_2_34_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/27/95/7ffb7aedbce0b9ab75aabbdb4f242d67680410894b48ece2f647f20f0b8c/qcfinancial-1.0.0-cp311-cp311-macosx_14_0_arm64.whl#sha256=f6a1630bd2cf3e3804f507a139462d543333a0ee197fd0724f46dc46025e344b" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980" data-core-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980">qcfinancial-1.0.0-cp311-cp311-macosx_14_0_arm64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/8e/b8/18f9447ccb761fb7380b98b80f96d68ad44008112402f55a5b77a2271afe/qcfinancial-1.0.0-cp311-cp311-macosx_14_0_x86_64.whl#sha256=7cd356e55d6e373345545008d3772ab53ffdb1147e49867647f3bc1491320139" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980" data-core-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980">qcfinancial-1.0.0-cp311-cp311-macosx_14_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c5/2b/0a6cfa9f09bcc3fa6ed67159dc9dd33f2579824d31bc2ea2164addcff8f7/qcfinancial-1.0.0-cp311-cp311-manylinux_2_27_x86_64.whl#sha256=a74bcbe3616cdd85134223a208aae808517af406759d25e9c81cb7fddc3b8336" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980" data-core-metadata="sha256=d0e02f649c3fdbcb6aa3b95f73402aedec0990a22ed8ed589f4d491ac9863980">qcfinancial-1.0.0-cp311-cp311-manylinux_2_27_x86_64.whl</a><br />
@@ -251,4 +252,4 @@
 <a href="https://files.pythonhosted.org/packages/10/fd/d6ef980103d71db9ac4ac40c0c839264f90844b731d8d306006a8fba472e/qcfinancial-1.0.0-cp39-cp39-macosx_14_0_x86_64.whl#sha256=29c4cfba5c320c2be383ce5f5c9c204890f9f0ce074f3d34abe99d5d162cf0f2" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=ce7fefcb0c6461658e4c6280d4d4e097f89ac13432a86b89c3a2bf87ad2b17e5" data-core-metadata="sha256=ce7fefcb0c6461658e4c6280d4d4e097f89ac13432a86b89c3a2bf87ad2b17e5">qcfinancial-1.0.0-cp39-cp39-macosx_14_0_x86_64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24620024-->
+<!--SERIAL 25138186-->

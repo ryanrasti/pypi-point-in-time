@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for clonellm</title>
   </head>
   <body>
@@ -22,6 +22,14 @@
 <a href="https://files.pythonhosted.org/packages/d2/06/29c2d73651d68e2aa4d569f9e4ad75d49a33fa8e3a32ac16405c3f2a1fa5/clonellm-0.0.7.tar.gz#sha256=af6241d18b1130b331b0727b6cdc2406ac4ebc9ec295dc43ab70dd9e0054ba6f" data-requires-python="&lt;3.13,&gt;=3.9" >clonellm-0.0.7.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c3/3a/b8627ac163166d1c1347641a7375757525c7ba244522402662db5baf6b8b/clonellm-0.0.8-py3-none-any.whl#sha256=1dd637cfbed605f99f37c93307f5bf2c2629ceb1084fd73393680968c6775d84" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=28a9f5192665d898f98c66b3f8c0e4849a7c9d66c4be02a62bfe9f596cbd733a" data-core-metadata="sha256=28a9f5192665d898f98c66b3f8c0e4849a7c9d66c4be02a62bfe9f596cbd733a">clonellm-0.0.8-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/73/28/c325ce08453ed606770af2512f8c80cfefd3b31f7862181b674f6a7d5b99/clonellm-0.0.8.tar.gz#sha256=f0d76dd030659aeae4d236b0cc8786a92d04fb182fbb492aa40462e219afa6b1" data-requires-python="&lt;3.13,&gt;=3.9" >clonellm-0.0.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e3/3b/163e24ac5adf57c844ae99bb350f05fb57a2242e19f4f433cb21c9e967da/clonellm-0.1.0-py3-none-any.whl#sha256=cc69dd804d9ac7727691223d2707fb09f4e828c3fa1ea41a66f5c5791a97e613" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=a2026fa777efc466866fa8f6292aa773c0b22a981b018a3f7ce6136da3e27a56" data-core-metadata="sha256=a2026fa777efc466866fa8f6292aa773c0b22a981b018a3f7ce6136da3e27a56">clonellm-0.1.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e4/ca/047d4876f0a11db39c51dc6cb8b67d9da110202158b3083c66dbf9cbe0e1/clonellm-0.1.0.tar.gz#sha256=656ebe9cd3c4b77cce35dc9604c0edb5e824508fcb4b0930a0174e48cbcf9320" data-requires-python="&lt;3.13,&gt;=3.9" >clonellm-0.1.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/02/68/6fb12d48eebfad50f271a61021788e41e42cf2fa6c369283962c223a96f8/clonellm-0.2.0-py3-none-any.whl#sha256=0890c031f6acc78001c9d2affe6aba41a93c76c6e274882783b02ec19349b994" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=9e91fdd10c17391231f56d0178117499aaa8a4413c01b8a889f2a0fed209252c" data-core-metadata="sha256=9e91fdd10c17391231f56d0178117499aaa8a4413c01b8a889f2a0fed209252c">clonellm-0.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/21/a0/aadc1638757cf900db59fb1fa56a3cf3b0a9eb84f20960d02449498dec06/clonellm-0.2.0.tar.gz#sha256=0af4884c096c77628fc93092a08e1cd075b0e901f58e365e6ae12b7f3b744801" data-requires-python="&lt;3.13,&gt;=3.9" >clonellm-0.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5b/cd/517575f589262d6122e4f75ff8f3f179932129f60fb6e3749a32a12634f1/clonellm-0.2.1-py3-none-any.whl#sha256=7e3281dccbb471dc050a2031376095aba9f96692de5511a4c81840fa79e8df98" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=f77cd6ca79835edc3ebb5372b5140a4fa958d590f9fe8c164e7352b823c2be37" data-core-metadata="sha256=f77cd6ca79835edc3ebb5372b5140a4fa958d590f9fe8c164e7352b823c2be37">clonellm-0.2.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/94/36/350c6723989389f68f9a3395607410eae3c73d7bbb56ea77ee3bf466d519/clonellm-0.2.1.tar.gz#sha256=727f6db7e19e437038c01304caebdab2fd9b88c8a9af6136d84ca8075abb2f19" data-requires-python="&lt;3.13,&gt;=3.9" >clonellm-0.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/62/8b/dcba85518b7fc3cdf7ff49e064b440816173c94351e9604ad47528ceb33d/clonellm-0.2.2-py3-none-any.whl#sha256=4c2f012eee348dad44ac54dd731a444f392cf651db2a1f8a2196b3567a120e1a" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=61b40b39789090d5c2a5dde7489984819951e12116f45a17bd1c49c2fd46901d" data-core-metadata="sha256=61b40b39789090d5c2a5dde7489984819951e12116f45a17bd1c49c2fd46901d">clonellm-0.2.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/83/b9/1186f6aed43205dfe2b5c157ac5f4c23fc53f238cd8e5478ea029889cdbb/clonellm-0.2.2.tar.gz#sha256=bf7efd1715128622f719a5879bb9210973a091c08b4076dd7f4cfbb7734ae28e" data-requires-python="&lt;3.13,&gt;=3.9" >clonellm-0.2.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24009162-->
+<!--SERIAL 25201631-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for esphome</title>
   </head>
   <body>
@@ -820,6 +820,16 @@
 <a href="https://files.pythonhosted.org/packages/54/2a/b57e21c5529c65a15f893b57a339fb75f6bec8c7e7c815b2b5268180e310/esphome-2024.8.3.tar.gz#sha256=62cf8d6440db064265b52adc895ce697fa268dd54ab1a71ca042d7bbcbb6570d" data-requires-python="&gt;=3.9.0" >esphome-2024.8.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/77/31/343b6fa18b4ee27a5d9e3a46d8c31db2385599d164fae9fbe6cf1de16d75/esphome-2024.9.0b1-py3-none-any.whl#sha256=b8bac3c3235152aeea517e5ad94583aa7c299c4ae6deb993a5a76f62d25a9a7d" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=9238b98e1e497a1f2d98f4a41903154aedba04c71d687dc50ba87d9791361b75" data-core-metadata="sha256=9238b98e1e497a1f2d98f4a41903154aedba04c71d687dc50ba87d9791361b75">esphome-2024.9.0b1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c8/a6/721f66bf858de43b6f0194a2b75a9b65a02fd805c3fc82fdbdc649a2d82b/esphome-2024.9.0b1.tar.gz#sha256=a3e00e2bcdeb0e71e53da2dd9111222a2bcbc5a04237b42252cc690d0eb64967" data-requires-python="&gt;=3.9.0" >esphome-2024.9.0b1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/19/eb/fcb9ef9e820ab2df0ff018b5f102fd951ccbe1c89e55dce97e10784ba69f/esphome-2024.9.0b2-py3-none-any.whl#sha256=56db563756c8a98765b9f63488b731dac432df5ff9a18243aae22bce21b5d58a" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=76ae3507605375f84c4c577c1f0ffe7a008c3bd69bfef8ff15a74e30b1f3a739" data-core-metadata="sha256=76ae3507605375f84c4c577c1f0ffe7a008c3bd69bfef8ff15a74e30b1f3a739">esphome-2024.9.0b2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3c/89/7fb93dd7814928b87a4ca95ebdd8fdaae4ec6a376fdaf26538cfed978bfc/esphome-2024.9.0b2.tar.gz#sha256=e5cfd5f49192ef142b078f18653d934762be4d2e5d285fd706a8827589c25e7f" data-requires-python="&gt;=3.9.0" >esphome-2024.9.0b2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0f/6d/501de0d3437980fecd7ebf7cc2b3050fa1f1a36f7d072ff7de3721f99884/esphome-2024.9.0b3-py3-none-any.whl#sha256=5a069cb151e034446c3f19b3cf1e2d49c7d4b74ccb9bbb44c123cfed35163e0b" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=88d81e5e3f64595ec8cf5b634e3d5a5dfa233623087ff378b9da5b8ba5334a07" data-core-metadata="sha256=88d81e5e3f64595ec8cf5b634e3d5a5dfa233623087ff378b9da5b8ba5334a07">esphome-2024.9.0b3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0c/65/45c145112f948f094e32e47f40328192ab4ddfc0819f619ffb51cbd5becf/esphome-2024.9.0b3.tar.gz#sha256=49b1948e943b3d622c66c1556ad55e5cd2d827469c94ae777106c8370cc80137" data-requires-python="&gt;=3.9.0" >esphome-2024.9.0b3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4d/fe/b0e240ddd7b4a5ecbe0de3339cd8ec8322b8e7358a4f8acb749cc23526b7/esphome-2024.9.0b4-py3-none-any.whl#sha256=49eca3e1a5c97d2912ab885394877905994977ebe34759ab8ee8b0a6a4349685" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=b53e06fcbb9aa518feefcee078f987ef3dbcc0c311c19a111d4e74c5db559250" data-core-metadata="sha256=b53e06fcbb9aa518feefcee078f987ef3dbcc0c311c19a111d4e74c5db559250">esphome-2024.9.0b4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/52/8b/5d452b8f4d6fd9b841ad4f8ddffb17ddc2d7c7837f66d62d9345471f4b57/esphome-2024.9.0b4.tar.gz#sha256=ce9146bed6f3157f8455f2eb694b63a3d3e7c4018397935546ece610171ef4d1" data-requires-python="&gt;=3.9.0" >esphome-2024.9.0b4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/dd/7f/75d102ff0f2bff955b255e5abfca817b0ead9a47dc9eb2b64d3e1c174430/esphome-2024.9.0-py3-none-any.whl#sha256=701b631b97ba942cf3b4d1b88aedb83d658c4d9308d7b32f3f35d6e87ca90bd2" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=fa0a28a01e80b0f2387fe9e229e27a937c48fc90ad62a9749d3a6d02119f3c94" data-core-metadata="sha256=fa0a28a01e80b0f2387fe9e229e27a937c48fc90ad62a9749d3a6d02119f3c94">esphome-2024.9.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/36/e1/716c81b22e91cb3a9abc764f6f4b7cc34b74088636185e8eb8fc598b48a6/esphome-2024.9.0.tar.gz#sha256=a3e032363b65798ad51ee8bfd33d705653f9824d081309d71927bd67a124cf13" data-requires-python="&gt;=3.9.0" >esphome-2024.9.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/cc/cf/730dc99669bbb38388605a542f01ed5831a7eb15bdd66aa27e46779dfa37/esphome-2024.9.1-py3-none-any.whl#sha256=b8c7f0e613bc9ad45364136eef706365f4595aeb06775811b06d2c3b95b6624a" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=665c052b8a3be0b7601cf1bd184277c65c04346619b03df96d8a5a913dc922eb" data-core-metadata="sha256=665c052b8a3be0b7601cf1bd184277c65c04346619b03df96d8a5a913dc922eb">esphome-2024.9.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/12/1a/a6653acc001531c63734c9653db5bd30868c557a37febe69cbe1bd7819a7/esphome-2024.9.1.tar.gz#sha256=dcc9de58dcb6b33268ddaeab4b78885063e8be35f6d8fa6a9af701855ee25b40" data-requires-python="&gt;=3.9.0" >esphome-2024.9.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24977895-->
+<!--SERIAL 25143634-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for huggingface-hub</title>
   </head>
   <body>
@@ -249,6 +249,14 @@
 <a href="https://files.pythonhosted.org/packages/65/24/b98fce967b7d63700e5805b915012ba25bb538a81fcf11e97f3cc3f4f012/huggingface_hub-0.24.6.tar.gz#sha256=cc2579e761d070713eaa9c323e3debe39d5b464ae3a7261c39a9195b27bb8000" data-requires-python="&gt;=3.8.0" >huggingface_hub-0.24.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/57/28/a0b0dd3cca63908045edc300360d6cd8758d4d86eee3fd2b08f00c5a41c4/huggingface_hub-0.24.7-py3-none-any.whl#sha256=a212c555324c8a7b1ffdd07266bb7e7d69ca71aa238d27b7842d65e9a26ac3e5" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=a5598546c7465cf43469119eae1383635efbcd22d6d686f9ebed4a1694e6ea17" data-core-metadata="sha256=a5598546c7465cf43469119eae1383635efbcd22d6d686f9ebed4a1694e6ea17">huggingface_hub-0.24.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/af/33/d252098a3b8d910065ad09cf318efb5dbe6c8bb586269bdfb47b7e021020/huggingface_hub-0.24.7.tar.gz#sha256=0ad8fb756e2831da0ac0491175b960f341fe06ebcf80ed6f8728313f95fc0207" data-requires-python="&gt;=3.8.0" >huggingface_hub-0.24.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d4/fc/93047a6205bde0186219bedbbc8b507c981ea99efc4d1dcabdd6964af164/huggingface_hub-0.25.0rc0-py3-none-any.whl#sha256=c4b43a4cea28d30edae963bfa93d2ec704f2d3a96fadfd2ce19da89f6e801e3b" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=f5daf3da1456946e2d6b7f5d1c7bf1288fb38bc1a806f4293345952b42140698" data-core-metadata="sha256=f5daf3da1456946e2d6b7f5d1c7bf1288fb38bc1a806f4293345952b42140698">huggingface_hub-0.25.0rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/bf/6e/a64c801655ae4d8d4b2bc23df1ebcc9225e475c9c97040bf1d35485d97b5/huggingface_hub-0.25.0rc0.tar.gz#sha256=52b86f497dee85724c549129dd906b2048ba785a893e7eff1ff30baee044ad97" data-requires-python="&gt;=3.8.0" >huggingface_hub-0.25.0rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ff/f1/b33d54778ea1332e02cf807a86785d92f280540fcd7efb1b81dad3ae52e7/huggingface_hub-0.25.0rc1-py3-none-any.whl#sha256=8a4c3ca7dbca766aa797ed1dc042a83823b3ac3060f69e3a5db7dcc385e513e0" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=24d5378ee01c273388bd5e4a2e95752a956cb412f35423d568e18b5c3f0eb3d4" data-core-metadata="sha256=24d5378ee01c273388bd5e4a2e95752a956cb412f35423d568e18b5c3f0eb3d4">huggingface_hub-0.25.0rc1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/6f/ea772d7f85cddac44d33d7c3e0a3be3be9061e6fefeb8677530fcd0d7f81/huggingface_hub-0.25.0rc1.tar.gz#sha256=5204f8725866faea3462b79684acbd93a0409f53c425a4b9db349dcde0183cec" data-requires-python="&gt;=3.8.0" >huggingface_hub-0.25.0rc1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d5/ce/1f8e61cd63175cc2e79233b954b1c4e85363c788fb3a1fa23c87a25c9b81/huggingface_hub-0.25.0-py3-none-any.whl#sha256=e2f357b35d72d5012cfd127108c4e14abcd61ba4ebc90a5a374dc2456cb34e12" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=0b37e4cc2ea7c1d2b04e0c668d5cd474b99e76d5271c0e999e0a132c25012ac7" data-core-metadata="sha256=0b37e4cc2ea7c1d2b04e0c668d5cd474b99e76d5271c0e999e0a132c25012ac7">huggingface_hub-0.25.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/81/18/52812091169325bf609feac958d5612e9c49788155a170352c7d55b6a74c/huggingface_hub-0.25.0.tar.gz#sha256=fb5fbe6c12fcd99d187ec7db95db9110fb1a20505f23040a5449a717c1a0db4d" data-requires-python="&gt;=3.8.0" >huggingface_hub-0.25.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5f/f1/15dc793cb109a801346f910a6b350530f2a763a6e83b221725a0bcc1e297/huggingface_hub-0.25.1-py3-none-any.whl#sha256=a5158ded931b3188f54ea9028097312cb0acd50bffaaa2612014c3c526b44972" data-requires-python="&gt;=3.8.0" data-dist-info-metadata="sha256=f1b4ace525e741bfbe401e2d3718a76aa5799e25924d545066024caa7fa67641" data-core-metadata="sha256=f1b4ace525e741bfbe401e2d3718a76aa5799e25924d545066024caa7fa67641">huggingface_hub-0.25.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3d/88/3598259f226c37279e219810cc47cdeec39da1d07ad2e8c146af410d2cc6/huggingface_hub-0.25.1.tar.gz#sha256=9ff7cb327343211fbd06e2b149b8f362fd1e389454f3f14c6db75a4999ee20ff" data-requires-python="&gt;=3.8.0" >huggingface_hub-0.25.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24998010-->
+<!--SERIAL 25153971-->

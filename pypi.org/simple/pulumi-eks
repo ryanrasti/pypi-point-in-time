@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pulumi-eks</title>
   </head>
   <body>
@@ -330,6 +330,14 @@
 <a href="https://files.pythonhosted.org/packages/d0/96/6f7e60c25477645a9a03feef984e8966feacbfb1974ca9aa69af81c2700a/pulumi_eks-2.8.0a1724256959.tar.gz#sha256=642bdb7624ef9eaaac520f1d6b1a7bb8d036e93b6833030e141976fc9b78c351" data-requires-python="&gt;=3.8" >pulumi_eks-2.8.0a1724256959.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/89/ca/ddee06069a8a5949c19b80f232636821be9039665d749b51af296d09d6e0/pulumi_eks-2.8.0a1724256982-py3-none-any.whl#sha256=25feb7ee1e6eec16d68402fc75088d49d04fc2923ade3943545234a98e09bacf" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=678e05b396c42c0989914c0a9c1db1ac3afc367f6deb6aed4f04f05a8bce2d01" data-core-metadata="sha256=678e05b396c42c0989914c0a9c1db1ac3afc367f6deb6aed4f04f05a8bce2d01">pulumi_eks-2.8.0a1724256982-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/23/36/7b1ec17a73c4a73a66fc0993f61648ee0935a8ea3d958d7c20b30f3b8a8a/pulumi_eks-2.8.0a1724256982.tar.gz#sha256=44b6e33bc67f63ebc92e895d2b49dbb9966a2c0ab17552ee39e7584aeca07d20" data-requires-python="&gt;=3.8" >pulumi_eks-2.8.0a1724256982.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ce/c1/e5aadd07ffa8a2d45ffc93e961ea6ce1b00d6b329216626ebeea88d83169/pulumi_eks-2.8.0a1726576356-py3-none-any.whl#sha256=f7e07d0e2246d0a035140a87ee442de0dbbf593711b846c69d71753dfda598a0" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f5fe86603988f78a62488ed3d35722201b8701a16819fd49b8609cd1713b966d" data-core-metadata="sha256=f5fe86603988f78a62488ed3d35722201b8701a16819fd49b8609cd1713b966d">pulumi_eks-2.8.0a1726576356-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/24/4b/03baabeb957bee6156e65244f433092e7776f708582bc7163305d68bfecd/pulumi_eks-2.8.0a1726576356.tar.gz#sha256=9fb32633ef954e145b07e25663b37bdb78fa2dc40edd40c2af547b70b5de14f3" data-requires-python="&gt;=3.8" >pulumi_eks-2.8.0a1726576356.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ff/c7/39a937db5c8c5e50b576c9a662c42a890a4b48f97deac4657e2e820dbe3c/pulumi_eks-2.8.1-py3-none-any.whl#sha256=b16ee7359e25b2e1f9beea12e08980c39141190ebe152ec15f2ba583ae97118a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e036d8674cb333a7be4aa62818e2181df9331fa393ef1a1607a335b709d806c4" data-core-metadata="sha256=e036d8674cb333a7be4aa62818e2181df9331fa393ef1a1607a335b709d806c4">pulumi_eks-2.8.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/17/79/e2e8b5f8d741f336eea0d926bd8df1e83ed1dfa94212473ae78e76d7bb8b/pulumi_eks-2.8.1.tar.gz#sha256=f259f016938898a6dee50a57fcfcb0e14ef5d9e9c998e222b2a888d4a27cb25b" data-requires-python="&gt;=3.8" >pulumi_eks-2.8.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/23/dd731aac8a37ce1e128bd5a42b5bfe653aa6514186ea1a20f831b2cec0c6/pulumi_eks-3.0.0a6-py3-none-any.whl#sha256=30409a4bca299bcb3a6a71611ba39f32f1f8e79af80a657f64c7da506e275d1a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=ec0a75a57b8f54364a46534437f078a6679b5e5908fcfa9cbe76e8eed17d37bb" data-core-metadata="sha256=ec0a75a57b8f54364a46534437f078a6679b5e5908fcfa9cbe76e8eed17d37bb">pulumi_eks-3.0.0a6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/87/ab/6f1479696c577cb022494e66a2a92626d2453c622006ac0747ed2a9e10e5/pulumi_eks-3.0.0a6.tar.gz#sha256=d43c606ba4f4f6428f41b88f3d65ec9f2b18277def80c3dd72ebcff6146ddeb0" data-requires-python="&gt;=3.8" >pulumi_eks-3.0.0a6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/bc/24/c7e06b4995cc7e515bf5b6eea08c487453f81abfbbf45b59161b0682fdd0/pulumi_eks-3.0.0a7-py3-none-any.whl#sha256=624c482053e844d94720559779dec29fc9ea8bd252b7047f78ae66b677bb4f33" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=44abf34f1637b0c9a7f15576b98e98225caa2160badff7cbee31a28c1e6cd530" data-core-metadata="sha256=44abf34f1637b0c9a7f15576b98e98225caa2160badff7cbee31a28c1e6cd530">pulumi_eks-3.0.0a7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3a/c3/ab7f096837971a3735921124fdc17ed85e15395dcda18baac394143d8548/pulumi_eks-3.0.0a7.tar.gz#sha256=8bfd4791f4995e58446c92eddabbb5f2df6bed5d4a3f92b548b01a25c40aba22" data-requires-python="&gt;=3.8" >pulumi_eks-3.0.0a7.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24695816-->
+<!--SERIAL 25214181-->

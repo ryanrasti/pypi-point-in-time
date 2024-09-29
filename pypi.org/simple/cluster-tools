@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for cluster-tools</title>
   </head>
   <body>
@@ -217,6 +217,10 @@
 <a href="https://files.pythonhosted.org/packages/4a/5a/4d333dcdadd0d5b562267ac4a966029d3b1b01e04dd1f8ce2c01e14b5b98/cluster_tools-0.15.2.tar.gz#sha256=6a2133a70e2746259b3b80b55991d28dcd2edb4711daee49930efac5f0b260ab" data-requires-python="&gt;=3.9" >cluster_tools-0.15.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/d4/e1/08305b7ed8d417f7809b5574c051afdad06500ab375f17d3d608d1f61e74/cluster_tools-0.15.3-py3-none-any.whl#sha256=80394be9daf73d974a3c908d037c400a3d4a09761fa9918b6a1ed3bf451210ba" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=33415d2001b55e7c99ca5511275f68bb5b856ca7cb77fd87c85f3e116b6a1323" data-core-metadata="sha256=33415d2001b55e7c99ca5511275f68bb5b856ca7cb77fd87c85f3e116b6a1323">cluster_tools-0.15.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/af/81/02dcca9db682311623965ed0d3daf3a31e96f2eee1384621dc1aee4acc29/cluster_tools-0.15.3.tar.gz#sha256=535f33033b344547bdeb7845c685cc37c57f53eba7c6641f7c013b2df8d65cc0" data-requires-python="&gt;=3.9" >cluster_tools-0.15.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/dc/06/98f147d461180a07b80b2c3181ae8ced104d174a5dc256469b8c421692cb/cluster_tools-0.15.4-py3-none-any.whl#sha256=b6feecff006fa8865f22e146b722ce22848ee0b500cafacd976ca5cae0b9d347" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=9105a47d4bb1bbc57a87f2c8ba1b4468665ca5f7515f12c4825c3c6ce06bc880" data-core-metadata="sha256=9105a47d4bb1bbc57a87f2c8ba1b4468665ca5f7515f12c4825c3c6ce06bc880">cluster_tools-0.15.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/dc/98/667e3398f06bd0000cea7f61d9a86dfb4930d93f8ba23368b8f62871f3fe/cluster_tools-0.15.4.tar.gz#sha256=f42aa5fb01322c0fec8a3c51c834f6598607aa34bf0ad63cb44911fbf287a19d" data-requires-python="&gt;=3.9" >cluster_tools-0.15.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b3/34/34e79c4fe885d360906a9acb9dfbd3459b33dec98707f61b96b7b925bb49/cluster_tools-0.15.5-py3-none-any.whl#sha256=8d7ac38bc935ecbc0fb14993e45d38087f5f5ccea31734d9ae4a4668876ff7f5" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=5a03aff49b97a51557f92aafb02b4099e06db8995882a6996b14483b35d2315a" data-core-metadata="sha256=5a03aff49b97a51557f92aafb02b4099e06db8995882a6996b14483b35d2315a">cluster_tools-0.15.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b5/bc/ca54ef1b6f87e3e880f6d2f4a21a6d34088ffce0efedb4e2961f0c08ff25/cluster_tools-0.15.5.tar.gz#sha256=1fddfe52187d52826dcdd2ff3b77643b064808307d37bdcfa1bd719c4e337a6a" data-requires-python="&gt;=3.9" >cluster_tools-0.15.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f9/a8/a583a4d6c8afb94a6e77580eb2b5c29f1633d7f1a0670e0cbd3b41da90df/cluster_tools-1.14.tar.gz#sha256=870629a6cb99892f2e7130887d08e12e98552120aacc323f486d9a7c3fb77a4c" >cluster_tools-1.14.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ec/b8/3cb283698200a75558e44be6ba87fc4f5a2f7b829e18048f693ab55b221b/cluster_tools-1.15.tar.gz#sha256=64cb0787d1cccc8544bac9a9e0f4608fbf704040665ecb9654ebced20cf282a4" >cluster_tools-1.15.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/0d/e1/f1520982b3a84f8783061388e04a0cd38d19b6ec9b9f51d0e19ea3fc01dd/cluster_tools-1.16.tar.gz#sha256=7d52892b40ea3d8dc7965acd3fb1a08f2ac95a9b9b740e44716f19da1b6dba01" >cluster_tools-1.16.tar.gz</a><br />
@@ -267,4 +271,4 @@
 <a href="https://files.pythonhosted.org/packages/f1/c8/cfa558d3aa9a9e9a7b5d923e1008b8553c75e12df34ecec1666b038ba0d1/cluster_tools-1.61.tar.gz#sha256=b6824087406e7ba96555c6ed86f510d23989cbff0948654bf9d7a98c9a2811da" >cluster_tools-1.61.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24981885-->
+<!--SERIAL 25203415-->

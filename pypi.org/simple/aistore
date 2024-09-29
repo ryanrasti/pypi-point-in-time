@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for aistore</title>
   </head>
   <body>
@@ -112,6 +112,14 @@
 <a href="https://files.pythonhosted.org/packages/a3/a5/f9bdca3b2ec88df6836ed5c66e2a48864c1b496f3e8d486192d255fe611e/aistore-1.6.0.tar.gz#sha256=03f759c82b4f94a7066d56494c53b96ba3e8febb829972721c3fba2f074792b2" data-requires-python="&gt;=3.7" >aistore-1.6.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/9d/ee/f18f9b880462bcc7800bb09461c6d6eca6fc469d9fb2254572c1872fce83/aistore-1.7.0-py3-none-any.whl#sha256=28cc5844c3854f54aaa3e12b91b7a9d87f2edfd1fa5a603e03c398c319ed8fd8" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=6bb61627ec1555aa3e93e7e138285d3b16230980d10dc72c89a2f493e81e7d99" data-core-metadata="sha256=6bb61627ec1555aa3e93e7e138285d3b16230980d10dc72c89a2f493e81e7d99">aistore-1.7.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ee/a7/b0a4d4368e76abbc39b3737dde809e2a07a5f5bb90400da92ad42266a214/aistore-1.7.0.tar.gz#sha256=9805528c37329daa0fe8deeb9c1780e40ab8f1e2e2a2de954379b3fd0357d17d" data-requires-python="&gt;=3.7" >aistore-1.7.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3e/34/d5cce174619ae236e4d08bfbfcbf796472d601762ada17f787a2ca0a2b91/aistore-1.7.1-py3-none-any.whl#sha256=d26df376bd534936722276b46d60e6370c236817386a8ee7f585278864395378" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=63772028d4b0664e9144b4288514dd2d80f8e6456b031952d3f75eeade14e633" data-core-metadata="sha256=63772028d4b0664e9144b4288514dd2d80f8e6456b031952d3f75eeade14e633">aistore-1.7.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1f/23/1ac19f4e86e470be26a620387a74e005bacbacea30714efe6b3e181ff3d3/aistore-1.7.1.tar.gz#sha256=47e1a5d414b67bcca661afd6f4279f7dd53f9f728d42ccab19a615b565fa0795" data-requires-python="&gt;=3.7" >aistore-1.7.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f7/f3/670fe6243c68a2a61075b5dd8fb7a77cae37d7e01ad93e835fc3ed5b06d7/aistore-1.7.2-py3-none-any.whl#sha256=5ace6baeb280e4715ce4e40a290f4455db42ee73df0c0502d60e862bba5e7fb0" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=e691402c3f394a0a76cffb07bbbe604cf846ebcf26574bd7fd79e794fd2c8921" data-core-metadata="sha256=e691402c3f394a0a76cffb07bbbe604cf846ebcf26574bd7fd79e794fd2c8921">aistore-1.7.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d6/89/0a1fbc7f07fc3fc16377af7c05dc4d7ab7677ce287b309b2b6b880df03f2/aistore-1.7.2.tar.gz#sha256=b269a957b977d2df39c02ea1649e39161a69946b152992014b7bd2c400bd81bd" data-requires-python="&gt;=3.7" >aistore-1.7.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ac/dd/cfc21f18d508ea639751a51fb07cd14a146e08deb39afa4c8d3687e49a66/aistore-1.7.3-py3-none-any.whl#sha256=a188585799bc5883e22d674318549273dd0ed84630eb7377e4980ca5da12d456" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=216e0441dc1226e1445b1e189b3d1875e87bddd44209534602ee9bc8068b7583" data-core-metadata="sha256=216e0441dc1226e1445b1e189b3d1875e87bddd44209534602ee9bc8068b7583">aistore-1.7.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1b/a3/c4b37e62cfff5c4373f661b3addf376d02eaf2388c96b5ff5dffa8942a60/aistore-1.7.3.tar.gz#sha256=a13b9937cb6285012769ebfcc31a94d7e84f16c967187d6454245a205c5588e7" data-requires-python="&gt;=3.7" >aistore-1.7.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b5/47/f01a169e432665fb90a5d90ca4ad0b7609c896af384364e7496dc102bdfe/aistore-1.8.0-py3-none-any.whl#sha256=0b5a59369d9125774f98832f35052e89f3d8b183f4159146bf6c8e1a74a4e7f3" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=94757c7405ab69fa362cb1d4ad9b34ef0d0aa917d7c6a596b307dc28d2881b89" data-core-metadata="sha256=94757c7405ab69fa362cb1d4ad9b34ef0d0aa917d7c6a596b307dc28d2881b89">aistore-1.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e4/91/ac690e98ed55fc6023cccb482c95476a520ca90ea261629f6ebd38ebdb2b/aistore-1.8.0.tar.gz#sha256=b35b6994659a2a25b46ae6f01f692319c4e86fdadd11c6f208356f54ffbc8146" data-requires-python="&gt;=3.7" >aistore-1.8.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24984235-->
+<!--SERIAL 25197144-->

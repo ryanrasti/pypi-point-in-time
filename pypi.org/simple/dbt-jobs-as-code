@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for dbt-jobs-as-code</title>
   </head>
   <body>
@@ -12,6 +12,12 @@
 <a href="https://files.pythonhosted.org/packages/59/d6/55489e0ddc0675adf912a37c5ecc0006fcbfa305851cbeccb27106a2c507/dbt_jobs_as_code-0.6.1.tar.gz#sha256=3db14f4d4b8e431ce3991db1a94df326b0e4cc5ea5ef54b2daedcaf9e55f1f39" data-requires-python="&lt;4.0,&gt;=3.8" >dbt_jobs_as_code-0.6.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/22/d1/93e025d5417bfba86aaa9d0a76b40b6bfb0cb48e013f5d59ed9c6d3c5df4/dbt_jobs_as_code-0.7.0-py3-none-any.whl#sha256=b06970b68bfcdbd30866a45167bdd179c7b57c3ad42f3d210ab1259aa1854405" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=07bfdf0f22ab91e4996a3d64b93954a8c7645ea3182d703d9ebc454f048cca56" data-core-metadata="sha256=07bfdf0f22ab91e4996a3d64b93954a8c7645ea3182d703d9ebc454f048cca56">dbt_jobs_as_code-0.7.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/3c/47/2cb4619551c147e0f2e5968278aa4081b3aeca3e0be7f8dd31c0165afd2b/dbt_jobs_as_code-0.7.0.tar.gz#sha256=30cb709701d2e9c3061ad2ff7b5c061aac80cc1690c20c7804fecb074ec73ee7" data-requires-python="&lt;4.0,&gt;=3.8" >dbt_jobs_as_code-0.7.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/44/ba/a2b4b81b3e2793d87459f8fe20b768781c66a21e297aaaef641199d8e950/dbt_jobs_as_code-0.8.0-py3-none-any.whl#sha256=0bf39af01c3352e8a995587e8d43ccd7d9868113ccaf2e60eb71e14f9eec6e2f" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=2d843f56b86e4c00af782f83cc859b927f7f296e3dbb6a65b432b7741f9e7e22" data-core-metadata="sha256=2d843f56b86e4c00af782f83cc859b927f7f296e3dbb6a65b432b7741f9e7e22">dbt_jobs_as_code-0.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/23/31/20c97de0bed479b3427b478b488f5b6eb64328e23a6bdbbee664f7ab9ef1/dbt_jobs_as_code-0.8.0.tar.gz#sha256=796dc1da87c601e89026c4bc6f4f4f446acc65e1341e55de7bd010c1b32dc2f3" data-requires-python="&lt;4.0,&gt;=3.8" >dbt_jobs_as_code-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a7/72/1541cefaf35e2a5c0a49ca5269ed7323302ff1e7d48372c2c0fcf343df38/dbt_jobs_as_code-0.8.1-py3-none-any.whl#sha256=caaef7de4b7434d6ade5cc01a9907d6f143cbb272b4bdd584cee092e19ae5fc1" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=f867378bb58be019d38589fb2fba42415a5efe9afa73b57d6b3c55864ae3ac79" data-core-metadata="sha256=f867378bb58be019d38589fb2fba42415a5efe9afa73b57d6b3c55864ae3ac79">dbt_jobs_as_code-0.8.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8a/8a/bc5ebe0675a27eacbb77a4c2fb511bedd49ed16d9d5d5708a9690505bbc5/dbt_jobs_as_code-0.8.1.tar.gz#sha256=6859d5e9e1bfe57a885e2b0bb4d8e97eb7ccd326edff4e9bb366185f10f8f8e7" data-requires-python="&lt;4.0,&gt;=3.8" >dbt_jobs_as_code-0.8.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a4/c8/0210ec44eb10744122a733db8287c0f64b433d3a2ae2a792461a4fe64144/dbt_jobs_as_code-0.8.2-py3-none-any.whl#sha256=bcdedab1fcfe8ece45fe4cb85ca1af067f7a87b9052fecfb4b375479308a7d50" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=f288fec3d93fe331e3a3fe98b3df488049d7ac02bf76edd9180f6c905cea1972" data-core-metadata="sha256=f288fec3d93fe331e3a3fe98b3df488049d7ac02bf76edd9180f6c905cea1972">dbt_jobs_as_code-0.8.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/14/46/42e091c788414e15c4da36eb36617343dda6f0804d8e1152acace8c8c8bb/dbt_jobs_as_code-0.8.2.tar.gz#sha256=ce3b59917523edafbfdd5434574bbbc450a036b2e4b617c4f9ffbfd02dcb271d" data-requires-python="&lt;3.13,&gt;=3.9" >dbt_jobs_as_code-0.8.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24156635-->
+<!--SERIAL 25096126-->

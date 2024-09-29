@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for lomas-client</title>
   </head>
   <body>
@@ -17,6 +17,7 @@
 <a href="https://files.pythonhosted.org/packages/6a/9a/fc056da3a38859827dfceac07df026d2a19750b9b194c817ddf1b039731a/lomas_client-0.3.0.tar.gz#sha256=4955f180c706fa7fcee77c5027fea3682e58ef369316c47b042389f97292fac7" data-requires-python="&lt;4,&gt;=3.10" >lomas_client-0.3.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/02/e8/90cdeff77f7f027ab0d7183e52485527351bdca4741b72c3c11502623c38/lomas_client-0.3.1.tar.gz#sha256=7415981c1b1456c5e26b9c2f253582d9cc420c0060cef22e9c5f20640393359f" data-requires-python="&lt;3.11,&gt;=3.10" >lomas_client-0.3.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/52/c1/5404268444d1b7ef45e1d6096a77bc35fdd3710e79b9db7665d1210e5de4/lomas_client-0.3.2.tar.gz#sha256=3f3c0ea4d71306a346b78a8a8a73fd7d8296d18ffa555b65b4a6a0976fccbf96" data-requires-python="&lt;3.11,&gt;=3.10" >lomas_client-0.3.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ee/f4/0defe179023bc18e44e95e741113646a944139ff519a37a395fe360b4897/lomas_client-0.3.3.tar.gz#sha256=d8d5e6a6907d3cd3ec3e8718a2d1acba479b11e77614409a69005574ee69d34e" data-requires-python="&lt;3.13,&gt;=3.11" >lomas_client-0.3.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25016145-->
+<!--SERIAL 25049772-->

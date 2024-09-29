@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for dbt-airflow</title>
   </head>
   <body>
@@ -52,6 +52,8 @@
 <a href="https://files.pythonhosted.org/packages/b0/90/f81d54f3e878c0df28452ef4530687625004c3fb5f9f71559b8499a4a2bd/dbt_airflow-2.9.1.tar.gz#sha256=49e9e55408fca18060f498f454a0a2b0d7729b3e5a01c18fc1e83a0c101dee7d" data-requires-python="&gt;=3.7.2,&lt;4" >dbt_airflow-2.9.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f0/40/35fdf25b2d1e1cc6d3081bd10a31d91a16fb52909315084d02c3ce9baa51/dbt_airflow-2.10.0-py3-none-any.whl#sha256=e95bdb4dc48ef5759d2cd4b47ff61e63610497ec5bb3a0296f4427225a784686" data-requires-python="&gt;=3.7.2,&lt;4" data-dist-info-metadata="sha256=70c963827d8942f0b6f2536bb73ee5cf6c2013e471dc0db7275c151f172912ec" data-core-metadata="sha256=70c963827d8942f0b6f2536bb73ee5cf6c2013e471dc0db7275c151f172912ec">dbt_airflow-2.10.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e9/5c/3232968376b337d683a05fbb6454334ab1f32c81038e2a40dbc71f6136fe/dbt_airflow-2.10.0.tar.gz#sha256=e7b19a60a59ab830fca51925aac24559ace5a2c9551d7e4eaef9661a8654e280" data-requires-python="&gt;=3.7.2,&lt;4" >dbt_airflow-2.10.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f1/00/e14def000d08dbbf4aff955a6eaa5c74706ba2810c99103d9345da19c269/dbt_airflow-3.0.1-py3-none-any.whl#sha256=b422f86d335ea284ec9692b2ef77bd17bc3e1356d92d35bce4080e489d5b1fb1" data-requires-python="&lt;4,&gt;=3.7.2" data-dist-info-metadata="sha256=660041b790f7f48c5ce0043ad2e63b694309817f71b962d69a9cc04ff406f390" data-core-metadata="sha256=660041b790f7f48c5ce0043ad2e63b694309817f71b962d69a9cc04ff406f390">dbt_airflow-3.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/88/32/711cb87ba0fe4381535bbc3d90760a367513ac5f4925b04032d2f1e1debc/dbt_airflow-3.0.1.tar.gz#sha256=dc8cd845f55f30a50de30a03752ba590744112310b763ec51ca97d09f503afdf" data-requires-python="&lt;4,&gt;=3.7.2" >dbt_airflow-3.0.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21170885-->
+<!--SERIAL 25155829-->

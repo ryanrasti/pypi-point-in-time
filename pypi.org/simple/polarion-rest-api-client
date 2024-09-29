@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for polarion-rest-api-client</title>
   </head>
   <body>
@@ -12,8 +12,12 @@
 <a href="https://files.pythonhosted.org/packages/f9/bc/1765846fcf2d1c01fd58c5e36e3a765998a184466c30109a12c44d92b842/polarion_rest_api_client-1.1.0.tar.gz#sha256=875e8a5c8c95dd200daba1ae0695910bae11659f1e210598b31382925b9f7972" data-requires-python="&lt;3.13,&gt;=3.10" >polarion_rest_api_client-1.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/7d/7a/f559f538a233d55b5b3cdff3c1201da8db1b2e69872f59fa830c0a55808b/polarion_rest_api_client-1.1.1-py3-none-any.whl#sha256=073484bfcd67608bf1d0f4ec4be2d5528011c03ebf34c73cc708507f0f7b3eb3" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=ebe4d6710c0c2eb7ff47b5e223139fde1cfc007218809a9e18bcf9733029510e" data-core-metadata="sha256=ebe4d6710c0c2eb7ff47b5e223139fde1cfc007218809a9e18bcf9733029510e">polarion_rest_api_client-1.1.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/fc/bd/c08190665e0c7e1f41cbdfa5c8defe645f3748758fc6aa1a6222a79da850/polarion_rest_api_client-1.1.1.tar.gz#sha256=523fd2bf10e218c52ca9e29073237dac041cc6322db72f47aa08327403829649" data-requires-python="&lt;3.13,&gt;=3.10" >polarion_rest_api_client-1.1.1.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/1c/2e/4a15e1954a2f4d9dd50ca701f6b5205710e9ec0e4516325501d7a3cb4861/polarion_rest_api_client-1.1.2-py3-none-any.whl#sha256=a35a506354966452b2fc7dd43e2486ba4d48bd071b7c2d0315704a92cc3bdbef" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=1bb44cabd59e6678e2c625e36e838dc21a48b9f35ac3ac76d8ca764d53ac720c" data-core-metadata="sha256=1bb44cabd59e6678e2c625e36e838dc21a48b9f35ac3ac76d8ca764d53ac720c">polarion_rest_api_client-1.1.2-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/1f/26/4522f669db60208e5f3966c5a54cedd7bee2245a8846f1929684e4c64eb6/polarion_rest_api_client-1.1.2.tar.gz#sha256=1ca9ce11d29eddae968bb7e26ba061708bfa42c9495626ef3e8388c03dfeec87" data-requires-python="&lt;3.13,&gt;=3.10" >polarion_rest_api_client-1.1.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1c/2e/4a15e1954a2f4d9dd50ca701f6b5205710e9ec0e4516325501d7a3cb4861/polarion_rest_api_client-1.1.2-py3-none-any.whl#sha256=a35a506354966452b2fc7dd43e2486ba4d48bd071b7c2d0315704a92cc3bdbef" data-requires-python="&lt;3.13,&gt;=3.10" data-yanked="Broken imports" data-dist-info-metadata="sha256=1bb44cabd59e6678e2c625e36e838dc21a48b9f35ac3ac76d8ca764d53ac720c" data-core-metadata="sha256=1bb44cabd59e6678e2c625e36e838dc21a48b9f35ac3ac76d8ca764d53ac720c">polarion_rest_api_client-1.1.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1f/26/4522f669db60208e5f3966c5a54cedd7bee2245a8846f1929684e4c64eb6/polarion_rest_api_client-1.1.2.tar.gz#sha256=1ca9ce11d29eddae968bb7e26ba061708bfa42c9495626ef3e8388c03dfeec87" data-requires-python="&lt;3.13,&gt;=3.10" data-yanked="Broken imports" >polarion_rest_api_client-1.1.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/93/df/7e83501892ef954dd32a2dde25e0f67071ddd33b56cca90ac993f38b344e/polarion_rest_api_client-1.1.3-py3-none-any.whl#sha256=097e819c368dd16ce4d99a6da58aef746e8b684fcf8bdaf091eea714867d99a1" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=ff4792e5f7970f1158f87acdb52f5e8df4522a797674c988a6c89ef65192d08c" data-core-metadata="sha256=ff4792e5f7970f1158f87acdb52f5e8df4522a797674c988a6c89ef65192d08c">polarion_rest_api_client-1.1.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/d9/39662242bd0e447754da1bc70b09e82d74eb2bb5e540c334b23eb1889b71/polarion_rest_api_client-1.1.3.tar.gz#sha256=3df83d733fb410cbbf3745f353d59e34309d891c3903598931d84b53b6bf2171" data-requires-python="&lt;3.13,&gt;=3.10" >polarion_rest_api_client-1.1.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/77/88/d946a7c1443285509587daf6fa42979b0c56c66007e1ffbf4b5f95f9d000/polarion_rest_api_client-1.1.4-py3-none-any.whl#sha256=631094d8d019c3bd30d1d772558e5f265e8f19329f4d9675bcb2ff67e6abc63f" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=f2443915d06b149657c603bb2e6ef8a5f28a3eaceed11ad1997f3592a6e61f19" data-core-metadata="sha256=f2443915d06b149657c603bb2e6ef8a5f28a3eaceed11ad1997f3592a6e61f19">polarion_rest_api_client-1.1.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/30/bb/a99b706ab0231489942429644cefdba844e6571d74c1e4c68e8cec0c2fd9/polarion_rest_api_client-1.1.4.tar.gz#sha256=8c6602c2f03451ffa3f5e6a68f58e12d4d23579651cefecbc5194764a46cf17c" data-requires-python="&lt;3.13,&gt;=3.10" >polarion_rest_api_client-1.1.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24756102-->
+<!--SERIAL 25117974-->

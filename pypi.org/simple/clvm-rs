@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for clvm-rs</title>
   </head>
   <body>
@@ -337,6 +337,12 @@
 <a href="https://files.pythonhosted.org/packages/ba/b5/cfca6f76dd03939b40208402ee9187713f46bd2ae9fd2be3505e00b0d13b/clvm_rs-0.8.0-cp38-abi3-manylinux_2_28_x86_64.whl#sha256=e5a4bd420c052c052032ca12003e1922cec509100b934fa60e3ce60601b149ff" data-dist-info-metadata="sha256=136d6cdf1222ed10da2705a7e87cf28e1dd18a6789bcc4c7a903482a90cec0a0" data-core-metadata="sha256=136d6cdf1222ed10da2705a7e87cf28e1dd18a6789bcc4c7a903482a90cec0a0">clvm_rs-0.8.0-cp38-abi3-manylinux_2_28_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c1/ac/11d02141c419f53a797b5aa05e93fcb6863eb8ae3088f3307f4c72a5890a/clvm_rs-0.8.0-cp38-abi3-win_amd64.whl#sha256=7cd13ce5ee4b29dfbe5a29cab4e88562dbf01d59bb2c8f7c78fb468ab5d2366b" data-dist-info-metadata="sha256=a6d679f6518a433ba83014b35660b254d22c81fc0c261ef4e23ce78fc94ae898" data-core-metadata="sha256=a6d679f6518a433ba83014b35660b254d22c81fc0c261ef4e23ce78fc94ae898">clvm_rs-0.8.0-cp38-abi3-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/92/2a/b88f5c4c772ef4b4edd428a45493e5760fb758e6b2927558ed57b780450b/clvm_rs-0.8.0.tar.gz#sha256=542b653c4cffdd86c0e292e9f71819829171246419800137b1cc937dcc748cb7" >clvm_rs-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/70/f4/08723d3aad3502079ccc698ef23690466208f36c4ae15708367fe9e07f35/clvm_rs-0.9.0-cp38-abi3-macosx_10_14_x86_64.whl#sha256=31494c5ae32a00f5d08e6bf90ae54058b599544d877011b1b5778262f4bfd17f" data-dist-info-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010" data-core-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010">clvm_rs-0.9.0-cp38-abi3-macosx_10_14_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/20/32/9857e3fc24e79f870c08721e44445e4a92dd80a738fb67f086e6374837c5/clvm_rs-0.9.0-cp38-abi3-macosx_11_0_arm64.whl#sha256=7da7a3aada2c3f98c3bff583202ec68d31ca4e2727423b129eb7f7f97d55f168" data-dist-info-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010" data-core-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010">clvm_rs-0.9.0-cp38-abi3-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7d/51/b36a72181801772f580fcf723c20f61ba297dd4bfbb9b4ceb9cfdb6f5b7f/clvm_rs-0.9.0-cp38-abi3-manylinux_2_28_aarch64.whl#sha256=fa32fd4eca917658f87ed2b40692ec588e6414234a96d3259dfbfcdb76769a87" data-dist-info-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010" data-core-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010">clvm_rs-0.9.0-cp38-abi3-manylinux_2_28_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/94/a8709766f00e251c395d7004082462dcbfcb894cb6676e7afb1ffc421793/clvm_rs-0.9.0-cp38-abi3-manylinux_2_28_x86_64.whl#sha256=0384ae6b86494465df41fa2b98aeca0323064feb4ca5a3b1af02ffff181d08ed" data-dist-info-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010" data-core-metadata="sha256=21ab1590b668f80bf38dce6a5efff10a176f1496e4653c104d802d75df6ff010">clvm_rs-0.9.0-cp38-abi3-manylinux_2_28_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/93/63/b3f9de7d6afb4d009d4cfbc5336acc6a4f6ffc84f131e3ed5c87c3c921f2/clvm_rs-0.9.0-cp38-abi3-win_amd64.whl#sha256=c20879bbd05dfc4bf21b82dceede6e4f631c400a79c163155d7127e69d3e81b2" data-dist-info-metadata="sha256=98e1331caf0188b02725df128a1397edb695b452c97f5c0922e5d70dfd7bff75" data-core-metadata="sha256=98e1331caf0188b02725df128a1397edb695b452c97f5c0922e5d70dfd7bff75">clvm_rs-0.9.0-cp38-abi3-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/73/0a/e7b1a53fc0102bd2b3f1befea65f812089272eb03a151b8773dcd80c463d/clvm_rs-0.9.0.tar.gz#sha256=3391a6a75476587b38541bcd0e144d6013434b9211c7733bc7988092fafd3714" >clvm_rs-0.9.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24138494-->
+<!--SERIAL 25120233-->

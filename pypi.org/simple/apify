@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for apify</title>
   </head>
   <body>
@@ -375,6 +375,14 @@
 <a href="https://files.pythonhosted.org/packages/f0/1b/145ff1eb846dbeb2cf1a0cb904f0b0b3e938b1c8938677d51ed20c6d633d/apify-2.0.0.tar.gz#sha256=b514eecd348b616cab103cc5dcfa69d33f91f2a696e0cee5df6b12e148bde88d" data-requires-python="&lt;4.0,&gt;=3.9" >apify-2.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e1/37/829d32fd7811d4df2775a7c549f1a8f2d518f84e89f219fcf6e49aae092d/apify-2.0.1b1-py3-none-any.whl#sha256=b9f23f93a298d44c11d37f0fd9f3c8dfda392647de354894064ae5e3f01648c2" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=18fc175231c0468b981d04e443c1c23a0327fab25c7fcb5a6ae80dbb96a85640" data-core-metadata="sha256=18fc175231c0468b981d04e443c1c23a0327fab25c7fcb5a6ae80dbb96a85640">apify-2.0.1b1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ea/25/59dc2de28988c16fc51d0818e84199a0dc36c555b7784675c1f09b1e50b6/apify-2.0.1b1.tar.gz#sha256=496a11036f09dd3b0990342e73d6340ee1ecdae8e1c399da2ec7f595a22ee535" data-requires-python="&lt;4.0,&gt;=3.9" >apify-2.0.1b1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0b/7f/b9cc2d4109624e345218df86cc3a8949575265f8c7310e619b68c197d29c/apify-2.0.1b2-py3-none-any.whl#sha256=93e17f37a8e5a176417007748411213b0571128ea20083b0c73fdbec1c768fd4" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=e7888f91181f414ca83dfebccf76ce6f58025329fab49b5d2552c132d0deaf43" data-core-metadata="sha256=e7888f91181f414ca83dfebccf76ce6f58025329fab49b5d2552c132d0deaf43">apify-2.0.1b2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/65/5f07e5bffd4bc3928a8bbafc5df6102413e6a56b12c80cb22fcb551ff110/apify-2.0.1b2.tar.gz#sha256=97dd617d463a0f4a13cd0c6a1cd54c6fcc89cff546a370e52d12e63c52663187" data-requires-python="&lt;4.0,&gt;=3.9" >apify-2.0.1b2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ad/4c/51d4329c49fc0a07d571ea8a69141e1cd5c4740b2c015c76afd7ea7750fd/apify-2.0.1b3-py3-none-any.whl#sha256=69b8ec356d2869673579982533b55df0273a6d622dac3a80580bf03452fa887e" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=2261fea059e25489a27aa222a2bfc7ee64ae8c93901dacf66afe7963c9c99d27" data-core-metadata="sha256=2261fea059e25489a27aa222a2bfc7ee64ae8c93901dacf66afe7963c9c99d27">apify-2.0.1b3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ce/1b/6ff8f6467bb7835e97ab7cbb3581e5ff0a971930c1f152a9b114f65e716e/apify-2.0.1b3.tar.gz#sha256=4e4ec37c18e16c8347b91e70db2ec02acb8a3b727bd51f84862fa1ce5ab0b6e2" data-requires-python="&lt;4.0,&gt;=3.9" >apify-2.0.1b3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/51/57/35f4ba03fcbc467d2f1e43db38a4ecebfaca8b67ef89bd95703e0737e642/apify-2.0.1b4-py3-none-any.whl#sha256=5fec64212d85cf74919b3942c204a3d8de71aeee92ea3fed707ef2022dc1e8ed" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=e0eaa7c8ac98cf50f38e31423ffb0ff51273bede20be5173abf1753fb745c942" data-core-metadata="sha256=e0eaa7c8ac98cf50f38e31423ffb0ff51273bede20be5173abf1753fb745c942">apify-2.0.1b4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d4/14/054a84e409dc610be6c7a28e56dec06ed298786bfb08309abf2911717398/apify-2.0.1b4.tar.gz#sha256=2ce89c5d73e4515461dad42a86b56216016e409aac90f61d731e2470c267e70a" data-requires-python="&lt;4.0,&gt;=3.9" >apify-2.0.1b4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f5/0e/2da419fba0de7dac0291ffb1345c424d86987103df3c86f03f94be98ff29/apify-2.0.1b5-py3-none-any.whl#sha256=3b183c151b66e46841be512c61cbc30715ff5d3d82928e4c2736d36554b6deb1" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=726e3bc7f5c2cc3899d605eea24699c4e73c4430c225153dd2db64af7380d694" data-core-metadata="sha256=726e3bc7f5c2cc3899d605eea24699c4e73c4430c225153dd2db64af7380d694">apify-2.0.1b5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8f/c0/6c5e8a46bced92c4acfa5a2d357d605ef1a67019ce8f2e5d74a7bf2a808a/apify-2.0.1b5.tar.gz#sha256=ccf2ffe9db39838fc920d0fc455aeff31f7e6567f7c2f708a8de4e4246aeac57" data-requires-python="&lt;4.0,&gt;=3.9" >apify-2.0.1b5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24964334-->
+<!--SERIAL 25150004-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for airbyte-source-hubspot</title>
   </head>
   <body>
@@ -98,6 +98,12 @@
 <a href="https://files.pythonhosted.org/packages/ed/d9/01d9853b3ebccb167697784f5971cbdd7e8634f5c883a31eb8b74dc35e6b/airbyte_source_hubspot-4.2.17.tar.gz#sha256=ae649f87501886958816526772221b9ffb136e2ee474829a51e7e0f3805c0e6a" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_hubspot-4.2.17.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/d3/1a/ffd78c082724313667874ac849746be00dc8c18aa1dbdbb5ce0020b4771b/airbyte_source_hubspot-4.2.18-py3-none-any.whl#sha256=fda6fe1a0304fcacce5aec46478ff611ff11701bf4c6178698f3926a8f66e328" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=804596f48a7f1c3439fdf8e0689705f92786051b6aa683b78469a05c0698fb4b" data-core-metadata="sha256=804596f48a7f1c3439fdf8e0689705f92786051b6aa683b78469a05c0698fb4b">airbyte_source_hubspot-4.2.18-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/fa/39/15f3aa21bd8d508fae58a841f62aaed06119499d9a43d698d060f2456289/airbyte_source_hubspot-4.2.18.tar.gz#sha256=a45ac96583b2e2acdd521f8e547688646a68b67244861224b59b55c8e27d8e3a" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_hubspot-4.2.18.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/95/65/8ed6f9ac6dded7ec630745aacff61b0ccd137b5b4bb3e5a7e378fb8d6a24/airbyte_source_hubspot-4.2.19-py3-none-any.whl#sha256=f84608bf0be8793baf2d6299191987af4b4dfca2149fd1379d39811fca20f895" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=bc0073767bf95084409a3bddd983d3dfd6f7bcbe6a7589f9e87302ec6209933e" data-core-metadata="sha256=bc0073767bf95084409a3bddd983d3dfd6f7bcbe6a7589f9e87302ec6209933e">airbyte_source_hubspot-4.2.19-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/90/283b0a7c21e462b0ba6a96235be692910d41a4850de3a65243bc77bd4f7f/airbyte_source_hubspot-4.2.19.tar.gz#sha256=d2da0246e4b78b21039e7ae08a597118d0d1cb2fc6879e03cc01e8bcbc74509f" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_hubspot-4.2.19.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/f6/97f56fe0f3a6badc72416b71e7cf9832a6c4a3743b1a806d76037b49ea99/airbyte_source_hubspot-4.2.20-py3-none-any.whl#sha256=eaf3828100973ba55b7ed64e6eb07a021379ae5062fe0a7e6506005f028e53b6" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=1f0ac8b02fec0c67d69083680f7d914ba5daa3d9ffedbff4d76e1fb0f7e2423d" data-core-metadata="sha256=1f0ac8b02fec0c67d69083680f7d914ba5daa3d9ffedbff4d76e1fb0f7e2423d">airbyte_source_hubspot-4.2.20-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/77/fb/f3a11ae221b47c6af960155b72acbd9d205f34e144406b02bddb1952327c/airbyte_source_hubspot-4.2.20.tar.gz#sha256=3c791920357ff39282029547f2a1ef849e1a56f73edb720709a98db1e46b5ea6" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_hubspot-4.2.20.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/57/8a/f06b73b5295a0b98bdd6b5215c9327da065f58ac53562f3b3423ca4d3924/airbyte_source_hubspot-4.2.21-py3-none-any.whl#sha256=85b49b7fd4135d5e032536a4ccf6e74f502dc88d95cc9e3a49e1637b2e9fe192" data-requires-python="&lt;3.12,&gt;=3.9" data-dist-info-metadata="sha256=9bc2149c85cfc0a3b8a6f51bbb956f49266accb3ba203991166dc6d55a34d403" data-core-metadata="sha256=9bc2149c85cfc0a3b8a6f51bbb956f49266accb3ba203991166dc6d55a34d403">airbyte_source_hubspot-4.2.21-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d5/18/94d478f17c8130a38cc6b1e36e6b7cf6cf477d0cc47dd5a50014fc45a493/airbyte_source_hubspot-4.2.21.tar.gz#sha256=d73d0d7cd6ae9083e6ab0f22972e0a928db76c270bfcb4de0a0a37659031530f" data-requires-python="&lt;3.12,&gt;=3.9" >airbyte_source_hubspot-4.2.21.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24723775-->
+<!--SERIAL 25164036-->

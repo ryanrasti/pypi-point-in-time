@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for podman</title>
   </head>
   <body>
@@ -48,6 +48,8 @@
 <a href="https://files.pythonhosted.org/packages/04/1e/c61f591c5aa7eaf419b6351937244bfc7ed93cbbc19c6d8249153e590526/podman-4.9.0.tar.gz#sha256=48683485a5bbcb3f6b2e9e93aa8647faadc5c27918f8b86e04bff1d0822691af" data-requires-python="&gt;=3.6" >podman-4.9.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/77/2f/d245a7a5d1c705cfd7e54af58dccc408fd5350e52ba320cff0303df10d07/podman-5.0.0-py3-none-any.whl#sha256=29e52a5bb10646ddf0cec34787c495dbb38851eb37cb151a62877fba34a17e8a" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=1bcffad46a2c2cf1ec0e228147b46da04a15e7e17c9d516c1c756fc95646b3f2" data-core-metadata="sha256=1bcffad46a2c2cf1ec0e228147b46da04a15e7e17c9d516c1c756fc95646b3f2">podman-5.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/0c/ab/8ddc43e1b00d541dc4062f6e0161a067f397e84d129a7d758b592bef1699/podman-5.0.0.tar.gz#sha256=23b5e60d8451e907b7e0aa5aca6aa52720792ec8ff0b0a74c5cc50064daa5d19" data-requires-python="&gt;=3.6" >podman-5.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/64/addf58bacbd3d566313003bf1edfbdaeccd0660cba13bdb3baea57b3068a/podman-5.2.0-py3-none-any.whl#sha256=e42e907b44af3e8578ac3bd4838040f7dd6b4af091f787e51462b979746703eb" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=d4dd46aba311a8e6a9a5b868b58877237105d1b92e2983f033b34aef18ee4cbd" data-core-metadata="sha256=d4dd46aba311a8e6a9a5b868b58877237105d1b92e2983f033b34aef18ee4cbd">podman-5.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/fe/076dea2614816ce55648c28634547fe7f801049bfefc87847d063cf6833e/podman-5.2.0.tar.gz#sha256=6a064a3e9dbfc4ee0ee0c51604164e1f58d9d00b10f702c3e570651aee722ec7" data-requires-python="&gt;=3.6" >podman-5.2.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 22447789-->
+<!--SERIAL 25084555-->

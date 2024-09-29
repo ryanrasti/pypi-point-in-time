@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for crds</title>
   </head>
   <body>
@@ -210,6 +210,8 @@
 <a href="https://files.pythonhosted.org/packages/3a/a7/7987f1441c425e8908bc0857c49c252bc1af95da29cda2fe532839629b36/crds-11.18.3.tar.gz#sha256=062a84f8ca5ae09a82823c7c71d83efe49aaa78b0d5f37c9dcf36c7f769d856a" >crds-11.18.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b3/dd/c600bf5df9512f48ad666416888516540d2d0bd7cf19f3c64f3e3c3b6bf4/crds-11.18.4-py3-none-any.whl#sha256=39dbae6985de44242cb18b015a93395cebfb2bbf95fac6ffb5fbe71af7529cf8" data-dist-info-metadata="sha256=c23be2cd18a9b0c1839f65c9cebc02908e5b760e40a45235a514edf0c50eefd8" data-core-metadata="sha256=c23be2cd18a9b0c1839f65c9cebc02908e5b760e40a45235a514edf0c50eefd8">crds-11.18.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5c/83/6f4a984ffb1b6f1655c901a6db6c7e5dd50f5263af908956d0d7bd6995bb/crds-11.18.4.tar.gz#sha256=2f6e39f8f70c320af87e4a44f0d2887b97087ec72e56712f1dd573a475bdcafc" >crds-11.18.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4c/dc/bb854bf8f59bdffefe9f1dfd5fdb11552fd2425c1cde3b624615e9a864a4/crds-12.0.0-py3-none-any.whl#sha256=2764b03e765afcc6b2b9456785fefb46cd51cf2ce5be297ef4cb95517b03c51a" data-yanked="breaks jwst" data-dist-info-metadata="sha256=1b643a6a49bd0b850534dd9039817a4e8060c760a4704c798d0e39ee6ad6ef81" data-core-metadata="sha256=1b643a6a49bd0b850534dd9039817a4e8060c760a4704c798d0e39ee6ad6ef81">crds-12.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/df/cc/b9a435b3372a81329a9a00c1f1609f112480e6ca5182f7a78ce2be99e31a/crds-12.0.0.tar.gz#sha256=ccbcc8833fa9046c34fdaf3d62241022e75c8729c8425d852751ce3b52e7664b" data-yanked="breaks jwst" >crds-12.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24963722-->
+<!--SERIAL 25196190-->

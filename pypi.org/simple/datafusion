@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for datafusion</title>
   </head>
   <body>
@@ -149,6 +149,12 @@
 <a href="https://files.pythonhosted.org/packages/7a/6e/1dcfaa911911c1ccada006968667b6a6f26a06fb7da95b2db0d056fc5287/datafusion-40.1.0-cp38-abi3-manylinux_2_28_aarch64.whl#sha256=fd8c3689e9d195a9603a00e399b995a6343587d0763358f2eee65b85d5f56a37" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=85836f7215781ed79182f43e3f6b3a17881f61bedb404f420fcbfc3d82cef762" data-core-metadata="sha256=85836f7215781ed79182f43e3f6b3a17881f61bedb404f420fcbfc3d82cef762">datafusion-40.1.0-cp38-abi3-manylinux_2_28_aarch64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/9f/12/3a6bf3baa1759315f14cbfb8006efee2ae8971c378e7363732342ff58417/datafusion-40.1.0-cp38-abi3-win_amd64.whl#sha256=2960871ce31ee489ef3b210e77c4048278e9ee873517eff9f46ca52c82eb166d" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=aa0d1ea3bce53eee4641b3b755ba11cd049559e7642daccc49579a70cc42980e" data-core-metadata="sha256=aa0d1ea3bce53eee4641b3b755ba11cd049559e7642daccc49579a70cc42980e">datafusion-40.1.0-cp38-abi3-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/a9/e3/1d560e4b121337afb973b2dbb5394a7bc5632e011b478add45c3ce81b1bc/datafusion-40.1.0.tar.gz#sha256=7c7cfd2bcf491adcf6580f0ff5882ca9fc658dbdab30802ad46889e417965cc6" data-requires-python="&gt;=3.6" >datafusion-40.1.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/38/cb/12657a3c08e99bf6214d6990c987b0b5fb9441d49aae01477d7e9dea5ef0/datafusion-41.0.0-cp38-abi3-macosx_10_12_x86_64.whl#sha256=4b484035765a4f239737d6313af3cc3822448dfa86738ec44db02dfc4e08057f" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66" data-core-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66">datafusion-41.0.0-cp38-abi3-macosx_10_12_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/38/5b/9d1c4de0b6b9af73899e40af07ed4a13019fa5e3e92e74bbbd6ce758a9fe/datafusion-41.0.0-cp38-abi3-macosx_11_0_arm64.whl#sha256=fe324048a63bf462d49cca3b046821fcb546cdab3a13b1fe860aab038c4e4ad4" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66" data-core-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66">datafusion-41.0.0-cp38-abi3-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/81/ae/9f0ec2e2d6e704e94630f6453ed443d4d34d8b8de79ee9c9dd7cddce2b31/datafusion-41.0.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=b7c6987ad20b238a555fac09851f2329cd8b7e829de98446159ea27a172a5f1f" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66" data-core-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66">datafusion-41.0.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e4/f6/911d8ecd1a2a9ef7342a79805fbaa1192c37ea175311e33c023db0cd4356/datafusion-41.0.0-cp38-abi3-manylinux_2_28_aarch64.whl#sha256=a10179610c8d211d215ff3533bbd8f5faf3b47b00c0e8371ca9656e98c420380" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66" data-core-metadata="sha256=fa5559b103e2e1179b8881d1dc94ab30fec2d501e77e8967f0c49b55365fdd66">datafusion-41.0.0-cp38-abi3-manylinux_2_28_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/ce/9be848dea0649e42ef073780ef0507ea74ca2c3f610c51480e47343f0842/datafusion-41.0.0-cp38-abi3-win_amd64.whl#sha256=a862f6667979a367c30ae58d8770bba044bab09d1da9012ee37cb3bb86fccdf2" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=bf0b1cb24e6ea6dcef7d02ec72bc05b7e29c721ed06b5144811a07313a67e6b6" data-core-metadata="sha256=bf0b1cb24e6ea6dcef7d02ec72bc05b7e29c721ed06b5144811a07313a67e6b6">datafusion-41.0.0-cp38-abi3-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3c/f2/b7c6fb37c54e4d4297adc18616e151236ddc6abff88557d55a851eefe6bd/datafusion-41.0.0.tar.gz#sha256=b2124bcd976520a8dbcb456c200f2cb8b1343285e9329fe757aa628bbd0b08f7" data-requires-python="&gt;=3.6" >datafusion-41.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24653037-->
+<!--SERIAL 25051758-->

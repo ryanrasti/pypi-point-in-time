@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for ezmsg-zmq</title>
   </head>
   <body>
     <h1>Links for ezmsg-zmq</h1>
+<a href="https://files.pythonhosted.org/packages/7c/89/64f39a5782c98dd259a55d83af252f4ab5f626fced2be7949b65c7af2124/ezmsg_zmq-0.2.0-py3-none-any.whl#sha256=b5ee90050e3582fb99aec0daa1a843d2da48e831349b0c3fb0770002049d884c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3260e44565f0d84163f88a8670328f3513cdcc3618eec15f0efb744978c00352" data-core-metadata="sha256=3260e44565f0d84163f88a8670328f3513cdcc3618eec15f0efb744978c00352">ezmsg_zmq-0.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d4/2a/182e322570aff31aaabd517a0b31fe51114e276406e29c4ae8e00ccbd2aa/ezmsg_zmq-0.2.0.tar.gz#sha256=f327c4a618d72e7a3b6be9a1753c09e7a3479f6e05464882fb63b68dd4cb8663" data-requires-python="&gt;=3.8" >ezmsg_zmq-0.2.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ac/d1/7890e82216db618f576e15b8d6673c9c53dbf69848758db53c0851dd6409/ezmsg-zmq-1.0.0.tar.gz#sha256=51b46c96022fc43d05052c9f10e77a4b159c307915642c0f82327fff65c55fbf" data-requires-python="&gt;=3.8" >ezmsg-zmq-1.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/7b/0a/3facf1cab9f1df589c8a25db9c1c42ad7beb53cb19f4b434db012a7b1483/ezmsg_zmq-1.0.0-py3-none-any.whl#sha256=86e87632f55c95b3791c907bcc861712dcdf341b7933bac8de05d210b6156ee0" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=1743bfa5792680b7dc7eeee8391749339f75778b42716ca7acb354ef519cccf5" data-core-metadata="sha256=1743bfa5792680b7dc7eeee8391749339f75778b42716ca7acb354ef519cccf5">ezmsg_zmq-1.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/27/eb/3bb142361e554cd7e0daf08200a69e799b9ba6aef145a2192a0c2d13fb19/ezmsg-zmq-1.1.0.tar.gz#sha256=b685dafd91813897c4b3f818fa5585dda24995c492075825f16bd7ab39a92e55" data-requires-python="&gt;=3.8" >ezmsg-zmq-1.1.0.tar.gz</a><br />
@@ -18,6 +20,8 @@
 <a href="https://files.pythonhosted.org/packages/f0/f1/b18223fc449f73eec17a715e8dc8fce1b92a8622f08980c49eb0c46e142a/ezmsg_zmq-1.1.4-py3-none-any.whl#sha256=a08c9b9854e764fce56afbe57cf32b9e0658e53082eaeaaddc7d6e1e04b452b5" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=c84823d190709847cbc1d56ff14e451c7d72c434874719f6812904f8ccc383f0" data-core-metadata="sha256=c84823d190709847cbc1d56ff14e451c7d72c434874719f6812904f8ccc383f0">ezmsg_zmq-1.1.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/1d/fa/c8b64cb1d7c1ebac430325152bbf2034414658908efe525e9881164713ad/ezmsg_zmq-1.1.5-py3-none-any.whl#sha256=75e664d24ec9f1a8288a8a7f83e711e1e1c246b7d8c2ee073748f10f39555934" data-requires-python="&gt;=3.8,&lt;4.0" data-dist-info-metadata="sha256=08ba04f5106d557ae4d3442fb4f655df23f1cbc123b779f96aff96917d50996e" data-core-metadata="sha256=08ba04f5106d557ae4d3442fb4f655df23f1cbc123b779f96aff96917d50996e">ezmsg_zmq-1.1.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5b/13/f434d078bddc807e05a0656d3867097feb8cc8cf7a492cb79b6ca221856b/ezmsg_zmq-1.1.5.tar.gz#sha256=f1fafc81150b44e532d4a15ffecb256da1c516dddc367f81181f9e6784968d2d" data-requires-python="&gt;=3.8,&lt;4.0" >ezmsg_zmq-1.1.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/23/b4/86bb09c34a26db344758f507677e9403e14b22f8801d318bdb31fd9cf7c4/ezmsg_zmq-1.2.0-py3-none-any.whl#sha256=14bcf38ac1cf7a6d9aed583026dcb6ad2d455819e39ec964f01fa28fbff1798a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fd88b8e89eebbb9be14cb81f146fe09624328073be23688f64da8f73015549fe" data-core-metadata="sha256=fd88b8e89eebbb9be14cb81f146fe09624328073be23688f64da8f73015549fe">ezmsg_zmq-1.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/5b/42605942a59124a8382977a4893a559bca2387c307e0d04481dd6d69fc19/ezmsg_zmq-1.2.0.tar.gz#sha256=1d3fce6115bd793b3266b465067daf5497194b86a2b8ee467a39674f9fa876cf" data-requires-python="&gt;=3.8" >ezmsg_zmq-1.2.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 22101345-->
+<!--SERIAL 25198748-->

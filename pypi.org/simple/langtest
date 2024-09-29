@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for langtest</title>
   </head>
   <body>
@@ -154,6 +154,16 @@
 <a href="https://files.pythonhosted.org/packages/2c/17/9a98bcd2f4ff0c6bab55bb28d17fc55c151fb25e2348f42879b51f9b354f/langtest-2.3.1rc8.tar.gz#sha256=8187f91cf365be01a10059a77481931a45c10ffbec3580b8c2bdf5b979660c3e" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.3.1rc8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a3/ad/97bde513b104d06b3a0f1b00d2dd6948448daea6769274029653546235bf/langtest-2.3.1-py3-none-any.whl#sha256=24845f7642bd7e48c666465e66bca61fa6e097e5ce967e6f2b877ed2f2222b9f" data-requires-python="&lt;4.0,&gt;=3.8.1" data-dist-info-metadata="sha256=375d45c0fa5b102e4fc809480ed6154a4bcf3fd2d40ae95faefcf09475496eef" data-core-metadata="sha256=375d45c0fa5b102e4fc809480ed6154a4bcf3fd2d40ae95faefcf09475496eef">langtest-2.3.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b8/c7/48db43d81589d1bb2921c96146c672fcc4c0bf921084f7c35acc17101af0/langtest-2.3.1.tar.gz#sha256=d037688911aa6398aebff90757c48d1065efc23cd273cddc331265f466395f94" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.3.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/47/8c/06c7c65dafed0e7c49a9e0c0d008e8cec5f23a4c48c04902c331f0cbd498/langtest-2.4.0rc1-py3-none-any.whl#sha256=be73a80a3a7f2819dc20eebc6c33b4d9abb510c824955133986b02030a0787cb" data-requires-python="&lt;4.0,&gt;=3.8.1" data-dist-info-metadata="sha256=75222f61c1b1c6f8e722628e2126723fa72a96cd3e5c411cae976369ee3439d0" data-core-metadata="sha256=75222f61c1b1c6f8e722628e2126723fa72a96cd3e5c411cae976369ee3439d0">langtest-2.4.0rc1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/4f/b1d845ed0ef34362d103b9ca77c4100baead7dd73aca1a7f52fce7d70f7d/langtest-2.4.0rc1.tar.gz#sha256=40d0a1c964c7357fe64b943e841dc5fff1fee6a71f94c82b715d1768e48a9eef" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.4.0rc1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f8/da/0095b5660bbd16c916e15e0c5d5dc43cabd66aef4f0eabe6397b1f066921/langtest-2.4.0rc2-py3-none-any.whl#sha256=4e7d4737e20aa05aba326754b161d5d22d4a96acb6c82356e2b01ebcb2e4aed4" data-requires-python="&lt;4.0,&gt;=3.8.1" data-dist-info-metadata="sha256=f69579f38e3760ea7cc55b118723b091f9871ddb3b8482d7fc763cd5c1d5d744" data-core-metadata="sha256=f69579f38e3760ea7cc55b118723b091f9871ddb3b8482d7fc763cd5c1d5d744">langtest-2.4.0rc2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0c/18/5018b1d8e6879c5acbbcd0e67d350a81a569da9c5f023cdc283ea81a801c/langtest-2.4.0rc2.tar.gz#sha256=c03b3afb0c8d27b0b1e34d78c5abb6792a872e6dae2fb51a024996ea4d911f31" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.4.0rc2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/44/d6/84b18de16f91d8b94d6eca325874c26ea84dbf6fa1659d96a841d989edf4/langtest-2.4.0rc3-py3-none-any.whl#sha256=695023261920b18d58993edabe1c325e66ebd37c35c163961fbfe3a7d704d354" data-requires-python="&lt;4.0,&gt;=3.8.1" data-dist-info-metadata="sha256=b10bdb2e53ffb14489fb0f50302ed93a636e3963338bcaece1d3d309c16a917f" data-core-metadata="sha256=b10bdb2e53ffb14489fb0f50302ed93a636e3963338bcaece1d3d309c16a917f">langtest-2.4.0rc3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/88/b2477455fd9f23703e39f0ec27ccdf4d2bdb5d9a1bbe238af2580582cc64/langtest-2.4.0rc3.tar.gz#sha256=3be430502a014ce8457b71d72ab5328065884840ca903611041503c8a794ccc4" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.4.0rc3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/91/cf/0430ebffcc79bba55cb1e03ae10e4d4817041a999c8bea574693ea99c1c1/langtest-2.4.0rc4-py3-none-any.whl#sha256=7f9e4f9500116e0f0af92f429827343e5758e87655755c92485ec76e7e9877cc" data-requires-python="&lt;4.0,&gt;=3.8.1" data-dist-info-metadata="sha256=d5f545edf2e02bc0a2dfeea43226fa16222f8430a98f4c4d80537810b9320042" data-core-metadata="sha256=d5f545edf2e02bc0a2dfeea43226fa16222f8430a98f4c4d80537810b9320042">langtest-2.4.0rc4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/00/a999213da6c0910530dbcb50059790747546224d47f1cc60342ea3079c60/langtest-2.4.0rc4.tar.gz#sha256=ad329ef9c46ea59ad1b9a9b9e002b1189a753b4174c4edcc025bd3c092a77583" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.4.0rc4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9b/f5/a84b05a9f5588d987491f216ba4444ddff5187cce526c6ad66d05751752f/langtest-2.4.0-py3-none-any.whl#sha256=8d40a47455dc18e5e0b1d4eb3eb9015190501a8c75a4b6111e7bd2a84ffd4419" data-requires-python="&lt;4.0,&gt;=3.8.1" data-dist-info-metadata="sha256=421e48189f4c747733d4088d59a995645a87388ec6120a94db842ea9e83d8a67" data-core-metadata="sha256=421e48189f4c747733d4088d59a995645a87388ec6120a94db842ea9e83d8a67">langtest-2.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f8/f3/45e6091659008f77d79f5a8a13ef3ed2f8158c978e493f4e8f01dc9b6d20/langtest-2.4.0.tar.gz#sha256=b94ff583734509e632a048366a7d233c9bf10dadd27519e0c8c6b8b678e5b8d0" data-requires-python="&lt;4.0,&gt;=3.8.1" >langtest-2.4.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24993181-->
+<!--SERIAL 25147435-->

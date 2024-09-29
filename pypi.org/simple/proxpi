@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for proxpi</title>
   </head>
   <body>
@@ -44,6 +44,8 @@
 <a href="https://files.pythonhosted.org/packages/e4/94/133452e69bed41df0877a222b07ed28dff3373e3f5a60e99ddce31793ae4/proxpi-1.1.0.tar.gz#sha256=82e6dd197c1fb6716c8c8674a496d112261d299c3ec86a3e564d62b293609e1a" data-requires-python="~=3.6" >proxpi-1.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e3/31/330b76a4dc08fadf1433fab5243c5615352af08fa9a5976a21b9a41b0083/proxpi-1.1.1rc0-py3-none-any.whl#sha256=878829d48f2681a0143be1876c9e429a175da19ea178a03567271797b46c792b" data-requires-python="~=3.6" data-dist-info-metadata="sha256=acdf92c2692d8315645ed52819b68f13d1c954f3d4b2851d373ca89cb1588b62" data-core-metadata="sha256=acdf92c2692d8315645ed52819b68f13d1c954f3d4b2851d373ca89cb1588b62">proxpi-1.1.1rc0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/02/bd/51ca522bb1cc9d2d3703c8f1b6fab20806f8276d7e4b05996e20a7803ccf/proxpi-1.1.1rc0.tar.gz#sha256=06b55466d507a0b7263c113e127d10cb68581cd8192547097b5da6585040b7e3" data-requires-python="~=3.6" >proxpi-1.1.1rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/da/0e/685fd8409fc663cca08890ced289ef0a6b92dac8a438b7a9c3c41966133e/proxpi-1.1.2rc0-py3-none-any.whl#sha256=a2c6fa58c7bb479a79b7dbf089a75b619e69cdd4f05863109383a327cdb64f44" data-requires-python="~=3.6" data-dist-info-metadata="sha256=4a681dd60c30a71fec551d0ecdbf932e9720d11e31beeb298ae9d5bf3d2ff48c" data-core-metadata="sha256=4a681dd60c30a71fec551d0ecdbf932e9720d11e31beeb298ae9d5bf3d2ff48c">proxpi-1.1.2rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/76/c5/ca2bbefe3d3ac879fe18b314a8fd20d533435d58b4f78f076712bb66b410/proxpi-1.1.2rc0.tar.gz#sha256=864706c5ec22642018e2f1bc73b30b65b9abf2e9c29fd7e198f41242544657b8" data-requires-python="~=3.6" >proxpi-1.1.2rc0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b0/24/4b5ba62404bdcb02fa2fec980fcd28dc876ae258fe4f81e28190bc39acb2/proxpi-1.2.0a0-py3-none-any.whl#sha256=58bdb6d1e91c5a9200a095612b2300c03b80dc0585dde71ee8bd041483d7b186" data-requires-python="~=3.6" data-dist-info-metadata="sha256=2231dab48f515cd8c3023b0f1e0bf6c4c47a573ffef86c7e957729c44b503143" data-core-metadata="sha256=2231dab48f515cd8c3023b0f1e0bf6c4c47a573ffef86c7e957729c44b503143">proxpi-1.2.0a0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/fb/44/0c4ce18ba9dabe6fda4325e5a1e781562ff15bb28459b763c2d6819a2416/proxpi-1.2.0a0.tar.gz#sha256=fbcdcc6c2458dc441a745f266ceea0517a58f0c0c8ba105105051842ecd80307" data-requires-python="~=3.6" >proxpi-1.2.0a0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/0f/28/e89c3b6148564d8d004e6325da6a839432a036127cd6d9de898902c3ec52/proxpi-1.2.0a1-py3-none-any.whl#sha256=133d6cbc2fb546040643cc0821e6665a0736b15947e96f679a8300d41a382e73" data-requires-python="~=3.6" data-dist-info-metadata="sha256=11da40eed5cf4913f781a297d8e5972d71a7abde37fc4cb08e5858baf516e49f" data-core-metadata="sha256=11da40eed5cf4913f781a297d8e5972d71a7abde37fc4cb08e5858baf516e49f">proxpi-1.2.0a1-py3-none-any.whl</a><br />
@@ -54,6 +56,8 @@
 <a href="https://files.pythonhosted.org/packages/e1/14/3752ea06da5ebecec6a74ab2c293e0e0db65528cfd977edf3f91db5fa286/proxpi-1.2.0rc0.tar.gz#sha256=ad4894ff424061a23f3bab4c762bf76de263c0f324d4e77405eae54a8fb0cc7e" data-requires-python="~=3.6" >proxpi-1.2.0rc0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e5/aa/81986e8b2d3d95b53017c5425e9112b1e7c8b903d4ae54b0871806ebb79f/proxpi-1.2.0-py3-none-any.whl#sha256=a5f0e2034e0cce946d268d7c1b586b02494279c872a5e0347beed634179c6f5d" data-requires-python="~=3.6" data-dist-info-metadata="sha256=e632e254a512c08f883d051ac4ba629d0e05ae5e76fdf65de705b16639d4f6cc" data-core-metadata="sha256=e632e254a512c08f883d051ac4ba629d0e05ae5e76fdf65de705b16639d4f6cc">proxpi-1.2.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/a0/8b/8aed4eaf60c0de00c3cb40a8ff3ffe16e8fe1b90e4a64dc1355a12a3978e/proxpi-1.2.0.tar.gz#sha256=ed9e0d74126b40af5c7786434cb4987e3b30e183678a8f61bd4a6d6a6533ae36" data-requires-python="~=3.6" >proxpi-1.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/44/c5/b251348e300acaf7f36ecce6ee6c8f853bc46cc7f3581771b20221461977/proxpi-1.2.1rc0-py3-none-any.whl#sha256=64bf143979924675ea91088e0742b7ffd8391dec7f7f84d35dec8ca475dc9853" data-requires-python="~=3.6" data-dist-info-metadata="sha256=09be76fa4cfa3a1f31380574f0d82311962a479d0c43e8b3a07e5f412b56d056" data-core-metadata="sha256=09be76fa4cfa3a1f31380574f0d82311962a479d0c43e8b3a07e5f412b56d056">proxpi-1.2.1rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/a4/483e808c2b4559fe84f510b65cfca6ce07af084947802dd01db2b4fd6124/proxpi-1.2.1rc0.tar.gz#sha256=ea5b57ac609f4c69daae5d8ec9152bcc06ef75743e070b1e19b84fea87208f6c" data-requires-python="~=3.6" >proxpi-1.2.1rc0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24591377-->
+<!--SERIAL 25181901-->

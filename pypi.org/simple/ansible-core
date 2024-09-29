@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for ansible-core</title>
   </head>
   <body>
@@ -334,6 +334,8 @@
 <a href="https://files.pythonhosted.org/packages/2a/5d/aefeedbb88427cb9045f311e51e534444cf45bbe9cfe6e2ec8b3ce511097/ansible_core-2.17.4rc1.tar.gz#sha256=a9863bf0ba93159f8dbdc786d8a9c5a83f78d4727f8192d1a0eb046dec9e47e4" data-requires-python="&gt;=3.10" >ansible_core-2.17.4rc1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/0e/dc/709ec31a443819e60b340f39b0123be9b5cdcca26c2c2d6048175607d56b/ansible_core-2.17.4-py3-none-any.whl#sha256=a36c9ab8e84d5d51f9fffe389d6ac7e81c8d0df6af8c12429ddbb71e8d69b21e" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=c364c72eb08344a647baba74e6a943e444a0f6fcb05bbd6df6d77fcde87903a3" data-core-metadata="sha256=c364c72eb08344a647baba74e6a943e444a0f6fcb05bbd6df6d77fcde87903a3">ansible_core-2.17.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/bd/69/86d9c9247f20ea2928195ed13d443aee410f32bcc45454ddf095bf25a140/ansible_core-2.17.4.tar.gz#sha256=44a1f30076796536ba2455cad18d36e62870f04e632e3ca2ebe970d7beacf24d" data-requires-python="&gt;=3.10" >ansible_core-2.17.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/80/26/62d634e6292c4ce9f942b556f127cf8e1a47487be7824ac7a3ac0a52e23e/ansible_core-2.18.0b1-py3-none-any.whl#sha256=eae1278d45a8ee4e2427807a8fa043f0805cc915146cd1f091c5862ef34da272" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=ceae1285f6033f8a4d54fb58f1daef5f47741e412eb38e1b00b927662c69a7b0" data-core-metadata="sha256=ceae1285f6033f8a4d54fb58f1daef5f47741e412eb38e1b00b927662c69a7b0">ansible_core-2.18.0b1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c4/7f/2414f8be2a883ce8d07b238ecbec43b34e4952d1ae5e66bdabc9603ed93b/ansible_core-2.18.0b1.tar.gz#sha256=2336d46e3651a7a802f4efe3e58d9c70a0d8966611c6240f513de780c7961803" data-requires-python="&gt;=3.11" >ansible_core-2.18.0b1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24949349-->
+<!--SERIAL 25178500-->

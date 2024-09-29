@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for runapy</title>
   </head>
   <body>
@@ -28,6 +28,14 @@
 <a href="https://files.pythonhosted.org/packages/c2/7c/7ac21bed3b69c240ec0731239198c3df221dfb9c8724799497bf80eabffc/runapy-0.4.1.tar.gz#sha256=630041bdb7fdd0be8efad85db08d33aa8e81380b507dc68f85d901442548ba74" data-requires-python="&lt;4.0,&gt;=3.11" >runapy-0.4.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/71/b8/26b075ea6237c0d63c092660716d5a8f5276161d5e6fb3b68793af11c3f9/runapy-0.5.0-py3-none-any.whl#sha256=5418549ff22ef44f1b68bd9f45c7f13d6136a73de924a2149b433dfa55959edc" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=c11d5c95d8fd8499772b50c3434cba8835fb3e13971a4897f42292022cc8e942" data-core-metadata="sha256=c11d5c95d8fd8499772b50c3434cba8835fb3e13971a4897f42292022cc8e942">runapy-0.5.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d2/96/796bbb93f880893a2e856dc267e4c1abeb603196faf2638da13d76c89790/runapy-0.5.0.tar.gz#sha256=ea2c3f124050950abf76b4fa31da11b0f33fde2e33322d3252cbddf89fe67740" data-requires-python="&lt;4.0,&gt;=3.11" >runapy-0.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/52/77/772a1b3425088e5241bc9aa00bc8d41542b7dfcce83b9667794760444018/runapy-0.5.1-py3-none-any.whl#sha256=0223ae84b84762bdaf3b45e576748e8b705d9af21aad00e58b2f3bae62773ff7" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=8fd05ba09a55f6e7663eacaca062184d351393072557f379596b5b40cf4c4243" data-core-metadata="sha256=8fd05ba09a55f6e7663eacaca062184d351393072557f379596b5b40cf4c4243">runapy-0.5.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ba/36/74191a3593474ed1c388868d6f9f271ac481b436f00c3fc221f6af0dab2c/runapy-0.5.1.tar.gz#sha256=622d06cb0a40d5ab4b584cf6cf6bab30b6a90cc07d3b64ffc5450ffd6be0172d" data-requires-python="&lt;4.0,&gt;=3.11" >runapy-0.5.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/95/64/816a1a12c5428fd8d419b43f6e42ed6ebc774630fba483e30799bb486183/runapy-0.6.0-py3-none-any.whl#sha256=bfd4fc98d0fd88315c57efb2b88cda380e70e8d49040f5631987c5a2cd685183" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=5f9b8fd6e603af1f59014ae0b0b91999166e2e3572ad877f9c08f0d90f435cca" data-core-metadata="sha256=5f9b8fd6e603af1f59014ae0b0b91999166e2e3572ad877f9c08f0d90f435cca">runapy-0.6.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6b/c0/a9dcd322b50738a6226565bf3215f434b3f56d332820aa17efbf8977df23/runapy-0.6.0.tar.gz#sha256=554c029e2da3c2d16206eccae9bd4cd4749ce1483e33a78f48a7b4c61fb95ce4" data-requires-python="&lt;4.0,&gt;=3.11" >runapy-0.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e2/9d/191663cae386673dc405b5cf71036079ef6a6e9965ee19797d3d8d050ea0/runapy-0.7.0-py3-none-any.whl#sha256=957581092dd8ef83eb4033397836a4c08a806c876603a24695ff0e6040695a07" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=c66ee207a6d04112956d2eadc73c568cd6350f10ca61992936bc627c3e9c2a34" data-core-metadata="sha256=c66ee207a6d04112956d2eadc73c568cd6350f10ca61992936bc627c3e9c2a34">runapy-0.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/fa/58d61a8eb5a0d3c378f442c5766e8e34e0eba05d2787dc5ebcf655933de0/runapy-0.7.0.tar.gz#sha256=e2ad0220b76f5c9e611c508fdf061b4547cd29fb4b4f67fdf17b338d434391d9" data-requires-python="&lt;4.0,&gt;=3.11" >runapy-0.7.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/48/ed/6ac91fd972221ed2d350d20a1c3c9e72e2ea4cbd142fc62f992a18aae33b/runapy-0.7.1-py3-none-any.whl#sha256=8be3e462c02e2741928396a32cefa85538d0b8c9cf546585cf015741e42aec9f" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=1b7ee3dc7a269eeca88b13a5d64b713b014fd77513881973712be10cabde6a80" data-core-metadata="sha256=1b7ee3dc7a269eeca88b13a5d64b713b014fd77513881973712be10cabde6a80">runapy-0.7.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/72/c5/cc99501f11145eadd9d1bcdae3d1f9f87263d429b8b7fccb7fdfda84dad0/runapy-0.7.1.tar.gz#sha256=ccb64fc8c679807ee715d18cbaf66fe0e951d9aa63127f99f3d7dd9689bc7c3f" data-requires-python="&lt;4.0,&gt;=3.11" >runapy-0.7.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24959133-->
+<!--SERIAL 25203424-->

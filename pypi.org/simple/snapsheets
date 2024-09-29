@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for snapsheets</title>
   </head>
   <body>
@@ -50,6 +50,14 @@
 <a href="https://files.pythonhosted.org/packages/6c/c4/8615db6002b11eee196846c8c20a7a83212903a6cf1a523fbc466c805859/snapsheets-0.6.6.tar.gz#sha256=b06324f9c2bab86bbf16782fefdaa803b423123586d69304bbcfd9b8d1558029" data-requires-python="&gt;=3.10,&lt;4.0" >snapsheets-0.6.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/93/95/ceb701fa61de930850f8beef9a10e6839ea162308fc329e32299a523d729/snapsheets-0.6.7-py3-none-any.whl#sha256=0374a8047ba44d873318a956b9ce48d25e5822206cb84251154b0d33be785875" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=8cbd06ebd5c05679caecc57f0723b8ff58dfccf61e32b9be6676d0dd75d3dca3" data-core-metadata="sha256=8cbd06ebd5c05679caecc57f0723b8ff58dfccf61e32b9be6676d0dd75d3dca3">snapsheets-0.6.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/2c/49/1b656bc4017f91cf7adff8cd4046861f108517c3f44e10349eda2d9ba66b/snapsheets-0.6.7.tar.gz#sha256=204f630db58bcb3c3b193ae329303ea19ab58f7d21e10ceeae4427c0c16c827a" data-requires-python="&lt;4.0,&gt;=3.10" >snapsheets-0.6.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/24/a9f2f62155fef90e7f5ff82db10dade7fa18489259065bde5d920247f5ef/snapsheets-0.7.0-py3-none-any.whl#sha256=119c44c801591193e21eccd38089c86b30a2239caff821fb36b850daa6a210d8" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=d1aeeaaef8d3d04e6157595adc2dec40c0fd50abf461eafd06fdcf87f2f2fe40" data-core-metadata="sha256=d1aeeaaef8d3d04e6157595adc2dec40c0fd50abf461eafd06fdcf87f2f2fe40">snapsheets-0.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/af/d9/3c2ffd9ce5813d59349574b7740ac65b14c5f291bb0d0c7e81dbf4aa4f31/snapsheets-0.7.0.tar.gz#sha256=fc600c88e96f12b83d1d573117e83bc7111c38c48b4d6c30c5999533ddc74fa4" data-requires-python="&lt;4.0,&gt;=3.10" >snapsheets-0.7.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/46/d8/72a9f57d67d360686082e1b07c164b0ba02d21eeca9b759e719f110ed99c/snapsheets-0.7.1-py3-none-any.whl#sha256=7f267047ff302ff0f5edbb228c2f4161626f7406931685bb8fef1d038a2449ba" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=c99b27cadb3e9528ea176d5647d1e700fae1f08c23b8f0520572da0ced1a4928" data-core-metadata="sha256=c99b27cadb3e9528ea176d5647d1e700fae1f08c23b8f0520572da0ced1a4928">snapsheets-0.7.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/37/5f/4107aee7c7382cf2c37058ccb0fbcf81befd1fbb1d3effd0da27fe35accc/snapsheets-0.7.1.tar.gz#sha256=5ea18dc4cad0ebfd4ae3ddf1dbe1fd9519153b3e957405f2b0b62167a94bba1c" data-requires-python="&lt;4.0,&gt;=3.10" >snapsheets-0.7.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d9/4c/85cf73e75cf69a06ba6b5ddb78f18515504442215802561926af6ec07555/snapsheets-0.7.2-py3-none-any.whl#sha256=ab42ed852a55b41794ab30539fea54fb7e595e7c41fd7767bcdec81581161254" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=877f16f721852c43b3529f5e3af396d43dd5f2f1ed6e0b23e4b1cc5fef21e583" data-core-metadata="sha256=877f16f721852c43b3529f5e3af396d43dd5f2f1ed6e0b23e4b1cc5fef21e583">snapsheets-0.7.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/34/46/7a1366e30f55842be6ab2fd1bab8a076315c54fa661a4e40ade9a8529245/snapsheets-0.7.2.tar.gz#sha256=54deaca02843d5be975379e385aae2ccdeb8ba2ba735c08f32eabd3e4708e6bd" data-requires-python="&lt;4.0,&gt;=3.10" >snapsheets-0.7.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6b/6b/0972cd8eb14ac186e6152c540e7eab0c3a2f9dfbfcd86b3c13618b654a06/snapsheets-1.0.0-py3-none-any.whl#sha256=07869c511aee34074e2cc10c82bc90397ec379008deb17916ad6fd60509ba268" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=8a7592a0da2ab23c4561a1744585217ae68319535420137c1804e7fd49965c3d" data-core-metadata="sha256=8a7592a0da2ab23c4561a1744585217ae68319535420137c1804e7fd49965c3d">snapsheets-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1b/e8/c9d689d5d5f2be2830e5c74d90e8c3e6d58fcb8a6218771b94ef810a8c4d/snapsheets-1.0.0.tar.gz#sha256=82e09e5b07e27557484eff05704b0196b83adbe6f7440a70a66055bfec4eb2aa" data-requires-python="&lt;4.0,&gt;=3.10" >snapsheets-1.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25001116-->
+<!--SERIAL 25065618-->

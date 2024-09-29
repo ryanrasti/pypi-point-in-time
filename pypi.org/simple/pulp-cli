@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pulp-cli</title>
   </head>
   <body>
@@ -142,6 +142,12 @@
 <a href="https://files.pythonhosted.org/packages/3a/27/e5665549cb10d3943b9821088e97cfb7e9afea39262b4eabefc14d53fb02/pulp_cli-0.28.3-py3-none-any.whl#sha256=c7e7be264df44d2eb6e87e41a814441c3057493bf3368830a9b63351e087cc07" data-requires-python="&lt;3.13,&gt;=3.8" data-dist-info-metadata="sha256=16241d2af18f6d722396c2d880a9bf28aefcae4ef6afafd36bbcd2780d29f138" data-core-metadata="sha256=16241d2af18f6d722396c2d880a9bf28aefcae4ef6afafd36bbcd2780d29f138">pulp_cli-0.28.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/86/4f/535c988bddf2063419726cd9eb664f900a1a69c83e0015bd9e4f4fbb8df8/pulp-cli-0.28.4.tar.gz#sha256=bc1bf9d45dac9039b5cb40641e8ea160ec1213cb4e5364f5e6e31f7e92d6c834" data-requires-python="&lt;3.13,&gt;=3.8" >pulp-cli-0.28.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/0a/ff/a66578b6b97e3dfb46940f37c2509b6ace3ab7202b703cbd1bae9568c931/pulp_cli-0.28.4-py3-none-any.whl#sha256=fbf9345887e128bafc410d9d928e02fe7cd01cc92382c8a146efefcb6e7fcc11" data-requires-python="&lt;3.13,&gt;=3.8" data-dist-info-metadata="sha256=c3fd63ec7da8e6404cf4f6f200e346c45b6f0866ea62f01212e6abf236959695" data-core-metadata="sha256=c3fd63ec7da8e6404cf4f6f200e346c45b6f0866ea62f01212e6abf236959695">pulp_cli-0.28.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6b/b3/0893a9847ca4a3489e74900f9091858f72e95f2501fed1e82578c1979d3e/pulp-cli-0.29.0.tar.gz#sha256=5c8e3170a0d1733665f8837bcb37ce253ddedd34d075c0222de7dcb9aabee158" data-requires-python="&lt;3.13,&gt;=3.8" >pulp-cli-0.29.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/be/e2/cc8494505537318a07ea5a7e2fe67747760f2e38ea5fe55af9356a0cfaae/pulp_cli-0.29.0-py3-none-any.whl#sha256=b7e3da56ec2f951856adbdbdc092d16b3ee07a1cdf6930773d259b93ecdb0376" data-requires-python="&lt;3.13,&gt;=3.8" data-dist-info-metadata="sha256=d943dbc32d7ed8c2e3fca3d62fab1a38ce2c099a3a91d31667303ccec9aba7cc" data-core-metadata="sha256=d943dbc32d7ed8c2e3fca3d62fab1a38ce2c099a3a91d31667303ccec9aba7cc">pulp_cli-0.29.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/44/d8/2567d4e1d61ba9d4e043cfed841d01ee03b7fb36b8b4b278a9691e9b33f4/pulp-cli-0.29.1.tar.gz#sha256=38ef9d1f62c0130c58d7c2adad9a3803c0dd45c8730bac699b694633a61adaa9" data-requires-python="&lt;3.14,&gt;=3.8" >pulp-cli-0.29.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a7/ce/b71054b30377df61993bf38994f4b439016dac769fc675d8222ab725e55a/pulp_cli-0.29.1-py3-none-any.whl#sha256=25cfd67424cfc760fd5d0d9718b40036f35c8647e71d801deeac321b8eb99b24" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=916bb3ac00d640b846e63246ae8e29adce708e4b8a4885eb0e339bab241abd2f" data-core-metadata="sha256=916bb3ac00d640b846e63246ae8e29adce708e4b8a4885eb0e339bab241abd2f">pulp_cli-0.29.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/65/dc/f7d87c691d77bb4413e83ed613094856c96378db3e37e67b978e778bbc98/pulp-cli-0.29.2.tar.gz#sha256=8a8497cc15a1d4b1102fac1ead23194c848a3c604ee865f23c72ff7f13199e26" data-requires-python="&lt;3.14,&gt;=3.8" >pulp-cli-0.29.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/57/30/8d3ec89b7a219cda68424ba7991e07d5339d28b93778752fc1f1f107d6af/pulp_cli-0.29.2-py3-none-any.whl#sha256=5641abe0e04ebe8a33f478e82926e013cb623382cf847c4e000c6460058e46a9" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=7212ee0cc32a0abd553fb84cb06420228dbcdec11bc46e496a640569549b8e04" data-core-metadata="sha256=7212ee0cc32a0abd553fb84cb06420228dbcdec11bc46e496a640569549b8e04">pulp_cli-0.29.2-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 25021834-->
+<!--SERIAL 25154631-->

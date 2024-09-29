@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for ai2-olmo-core</title>
   </head>
   <body>
@@ -22,6 +22,16 @@
 <a href="https://files.pythonhosted.org/packages/e3/34/b29a6af394c1a31bd655f910cd31e562da8bd0492b6ee8e1f4ec1a044c30/ai2_olmo_core-1.0.5.tar.gz#sha256=cae5b34da0a50ac19ce8492731fd01a68d4412660ec283e011838b96df289693" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.0.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/65/46/b4e79dd699adfaa0b4bb11f78051e58d785360e15aeb19777329c0c5f8c2/ai2_olmo_core-1.0.6-py3-none-any.whl#sha256=0ed6d9c04097890cf53b843b83f2e7e94ed5337365f41c5e0b0289b4e5070657" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=237d540dade587d3cb8dca31210cb164b5a6ac9adbe04f64239db387466004c7" data-core-metadata="sha256=237d540dade587d3cb8dca31210cb164b5a6ac9adbe04f64239db387466004c7">ai2_olmo_core-1.0.6-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/67/13/7dd3271fe36f3e965e55112d6299337a7df431fcbd6db6d7d6c3148671bb/ai2_olmo_core-1.0.6.tar.gz#sha256=d10c7b428302041337683798c5e23e8421575793c780f80b854138e2bffd968f" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.0.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/50/12/9404bcd78c46f72d8b695932913667b5f052400bb546a40d711dade8ab0b/ai2_olmo_core-1.1.0-py3-none-any.whl#sha256=34d3f37dc769617314425be2c0d2f0f2b62d9dd4a8f4ceed88e7c168f0939bb8" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=0309b573344c30c67da043e3f2e9309135be0c97f809ab82848138a391ddaaed" data-core-metadata="sha256=0309b573344c30c67da043e3f2e9309135be0c97f809ab82848138a391ddaaed">ai2_olmo_core-1.1.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/44/33/7b1f5ce7e981742f4dcd68f859da543ba750495ddb69e2c878d67bfb9fcd/ai2_olmo_core-1.1.0.tar.gz#sha256=c05010fc039d20f4b2d0fd8073b978cff2b44035b6cf2bb47f251106e6fe0341" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.1.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ed/99/3ecdda62544cb0f018bfe9a0dc40df2522944ec6158d5ae356189672ccd0/ai2_olmo_core-1.2.0-py3-none-any.whl#sha256=378ff5ed1b96d91faa8c18dfc99226a0b765a70a98042477d0a11c4086553280" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=5872800eeeae7252e69e5151af3775d9d903c110fd3365b7cdf66c0be67e8a5b" data-core-metadata="sha256=5872800eeeae7252e69e5151af3775d9d903c110fd3365b7cdf66c0be67e8a5b">ai2_olmo_core-1.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/75/da/7e399c4708b5f3c6ebfbd7996be30b45689a36230103b733c59bd7681be9/ai2_olmo_core-1.2.0.tar.gz#sha256=443b82de7435791f51cc1b34b51d8ba967d6cb3632fcef75e00ea457cdef10d9" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/8f/0211b2d14844572c724ca8ef79e667df7ceb3fc79a513c6707ca5cf9db75/ai2_olmo_core-1.3.0-py3-none-any.whl#sha256=6f6dd85fda1414d0203ef0af3cf1f9fff04f223c80879deba543a6d1f0fe2e3f" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=ae7d0058ac7f2d14d86b91970e4d1a68b09f079cdc3d42a9acdf79c5c9d9c802" data-core-metadata="sha256=ae7d0058ac7f2d14d86b91970e4d1a68b09f079cdc3d42a9acdf79c5c9d9c802">ai2_olmo_core-1.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1e/57/d6df285a262f5932eac2647bd13139197882cca5a2dfd16aee6d9395d826/ai2_olmo_core-1.3.0.tar.gz#sha256=25878291f95518360b488c5d03440240403ca9044f0d7bb7d3cab51d24f2c762" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/b8/40f6969c5e8ef358be73733807a96343258e010a2f280bfd79aeb1d84358/ai2_olmo_core-1.3.1-py3-none-any.whl#sha256=fb2b5b57149ab6f2583f9c96cd3f9c4d20d431465174bd32f3621d522f22d259" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=7e25eb62ec388ed69f854529f52253fbc8a197a7d68a1b284032ec617f6d3f05" data-core-metadata="sha256=7e25eb62ec388ed69f854529f52253fbc8a197a7d68a1b284032ec617f6d3f05">ai2_olmo_core-1.3.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/10/14/7527df9f1b529594e961bd8e172a8abf18e071a1ab02b7869ce161371f86/ai2_olmo_core-1.3.1.tar.gz#sha256=99b2634fc08d757a766ee2968158018b91e432a32fd39bceab1bb111424e8e55" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.3.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/63/33/098436b8907ebe9c1d2a2d3949d45e79fa032da79ba0722799243fedf304/ai2_olmo_core-1.3.2-py3-none-any.whl#sha256=8310ea3d3b071b00f04712f8c25aff5c647fdf5121f7a4d4652e0958c6bac7df" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=6a7de8dfbff9120b0d195f954849585d99017024e98a293963a7a2cbf26cb895" data-core-metadata="sha256=6a7de8dfbff9120b0d195f954849585d99017024e98a293963a7a2cbf26cb895">ai2_olmo_core-1.3.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/97/c6/d0c209f49bd16c7f3cf709e4173f4637b82aef1b2728a166fd61c44596e1/ai2_olmo_core-1.3.2.tar.gz#sha256=d05d804edb98268e31c462cd7f941f2cc9218cb5161323f646bea198732f1c5c" data-requires-python="&gt;=3.9" >ai2_olmo_core-1.3.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24896491-->
+<!--SERIAL 25228034-->

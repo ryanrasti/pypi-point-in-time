@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for onnx-extended</title>
   </head>
   <body>
@@ -35,6 +35,11 @@
 <a href="https://files.pythonhosted.org/packages/c2/34/fc0ae8dc2faf76406be277c1c6ce9a3c9947958be46a34e7a461369b5378/onnx_extended-0.2.4-cp310-cp310-win_amd64.whl#sha256=b6643f8e6714874db44c5b8975d7b7a5f34bba20bc774639eb9d86193549afc0" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=ab7dc2af61c8af64018190e94981f040a74cbd4b8fd6b0c395056040699de77b" data-core-metadata="sha256=ab7dc2af61c8af64018190e94981f040a74cbd4b8fd6b0c395056040699de77b">onnx_extended-0.2.4-cp310-cp310-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/21/44/badf45b5853474e7e5f55c1091072eb19ab6c01c279f594f9e85d9789532/onnx_extended-0.2.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=477beefd27ac5b0c97038cb11f53c6b4f0501c1ae324fdbc4f718783f06b50a6" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=cda7a088aea8a0859f2c6af348175eb7c961d2213ba4a5cd8213fdf44144c2b0" data-core-metadata="sha256=cda7a088aea8a0859f2c6af348175eb7c961d2213ba4a5cd8213fdf44144c2b0">onnx_extended-0.2.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5b/be/c74a69639ce452aded5a5ec5a05ba265c49da940a69981d20eb68a30a5b4/onnx_extended-0.2.4-cp311-cp311-win_amd64.whl#sha256=e1027ad886eb0dffca66a893c2817b7d8b2e56460bec966adc227d4b083903b0" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=ab7dc2af61c8af64018190e94981f040a74cbd4b8fd6b0c395056040699de77b" data-core-metadata="sha256=ab7dc2af61c8af64018190e94981f040a74cbd4b8fd6b0c395056040699de77b">onnx_extended-0.2.4-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/2d/5fc4e338e47513f5c23a867611e984148b5c8be52f349ba1f77381c08e13/onnx_extended-0.3.0-cp310-cp310-manylinux_2_28_x86_64.whl#sha256=a4929cf2469bf54e414466bf012ff5b57d6526321682cecde64ce900944ae9d4" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=3a61b63a0d3afd11cc1e2c835d7596512b3b69db69f5c06e8eb90bce64311055" data-core-metadata="sha256=3a61b63a0d3afd11cc1e2c835d7596512b3b69db69f5c06e8eb90bce64311055">onnx_extended-0.3.0-cp310-cp310-manylinux_2_28_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/58/11/2e6738f7529e0056fe3d45cfa53ce701fae2e11f4a96793e3993e9a3d0f8/onnx_extended-0.3.0-cp310-cp310-win_amd64.whl#sha256=8ddb75ef99f7fc795be4ab7b717f78dd5455df6c54605865e9dec69799632f3d" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=2c14d0ec2a7e8973f5e17891bb337023c82130903a6c47d0ad89fb3630c63bb1" data-core-metadata="sha256=2c14d0ec2a7e8973f5e17891bb337023c82130903a6c47d0ad89fb3630c63bb1">onnx_extended-0.3.0-cp310-cp310-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d3/c8/17f8012bb2acbeb350f257ba9b60b1c521d360c8a79c4e07210018c9c55d/onnx_extended-0.3.0-cp311-cp311-manylinux_2_28_x86_64.whl#sha256=cc6b0d22fccc6e0657c25d8e11a40f4383ffae88854ca9d0caab043ab03fb6d8" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=3a61b63a0d3afd11cc1e2c835d7596512b3b69db69f5c06e8eb90bce64311055" data-core-metadata="sha256=3a61b63a0d3afd11cc1e2c835d7596512b3b69db69f5c06e8eb90bce64311055">onnx_extended-0.3.0-cp311-cp311-manylinux_2_28_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/13/01/b9db129a7b9e2b36d7f82648bac2cc633835420c596f4685c591e8faefe4/onnx_extended-0.3.0-cp311-cp311-win_amd64.whl#sha256=6c30631cb7b71919e4bd7437ef8fe13215ffbb362ed7883d93af8541f520032f" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=2c14d0ec2a7e8973f5e17891bb337023c82130903a6c47d0ad89fb3630c63bb1" data-core-metadata="sha256=2c14d0ec2a7e8973f5e17891bb337023c82130903a6c47d0ad89fb3630c63bb1">onnx_extended-0.3.0-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cb/7d/cd45358a907c8cd6de3db91e8881e1d5915292ffbdf3365705e0e5b48960/onnx_extended-0.3.0.tar.gz#sha256=add7f769b7b5d6590a807ec40a4abdb192ee4e2899222480f5182699fb34bb19" data-requires-python="&gt;=3.10" >onnx_extended-0.3.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21283854-->
+<!--SERIAL 25107180-->

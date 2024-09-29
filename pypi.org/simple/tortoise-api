@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for tortoise-api</title>
   </head>
   <body>
@@ -60,6 +60,16 @@
 <a href="https://files.pythonhosted.org/packages/e8/2c/9d2da106d87e25d040e3d2151ae94526eae3ee2f5add794103cdce75ac2c/tortoise_api-0.10.5.tar.gz#sha256=333ef1d051f9c31433380648bce1299a0456912e90518edf82a9f7b8d89730a7" data-requires-python="&gt;=3.10" >tortoise_api-0.10.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c0/88/0cd5710cd85755ccf842aa7c899990c7afe521a489dfbcd54acc7dabae41/tortoise_api-0.10.6-py3-none-any.whl#sha256=7d0a78a9f987e58892d6d3d86d6a9d44a6259c37dbcc675ecc9541207bca722a" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=c8e0ab8d475de4a73d5a3b1ba565ad79f29584d41bcc166807753065b04b6efd" data-core-metadata="sha256=c8e0ab8d475de4a73d5a3b1ba565ad79f29584d41bcc166807753065b04b6efd">tortoise_api-0.10.6-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/42/15/daae4bb3336e603bf24a9b8b62b8079ef5b3b682141a23b0e667704ee885/tortoise_api-0.10.6.tar.gz#sha256=e4b4252981432becd531fcffe2180dded08344d5c89c779f170011a7d8154641" data-requires-python="&gt;=3.10" >tortoise_api-0.10.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/ce/ce2d5a1d2328ffe1600b952fb89e86598f8a8636f96d3474401b9fdc30da/tortoise_api-0.10.8-py3-none-any.whl#sha256=5e6326aeb8b6ecdf5d9f47fb321a4607982d613e58a6d71f44922930d773f87d" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=4454c48691cb15b51d1eb51feb3cac5fb772fcdd86077f07e3c19ad998ac7b99" data-core-metadata="sha256=4454c48691cb15b51d1eb51feb3cac5fb772fcdd86077f07e3c19ad998ac7b99">tortoise_api-0.10.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/92/54/b0885a3cbbcea2b57eacb0ec4860264af7087d3d814b2ef4672be93ef688/tortoise_api-0.10.8.tar.gz#sha256=f220b9c9e81ab0bc1bd20c0204d953c4ea508c626929d7eeca6314aac09c4cec" data-requires-python="&gt;=3.10" >tortoise_api-0.10.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6c/21/cb274002d78905739a6cee5b40d8a84d4e05cf724000bc681f1682e0d0e8/tortoise_api-0.10.9-py3-none-any.whl#sha256=5ded39fff6962e7569518f8ee2591d62cb7a3778b465829ca0e3cbf3cb63f4c8" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=c56db0c9c8cabaa4136b2e72172444e1067ca4d3f5e082464c48a37083874c9a" data-core-metadata="sha256=c56db0c9c8cabaa4136b2e72172444e1067ca4d3f5e082464c48a37083874c9a">tortoise_api-0.10.9-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0d/cd/042153c7752d7fa59fd58498cf1c556077ec2282fbf1f8d14f4e30aaffb7/tortoise_api-0.10.9.tar.gz#sha256=64bba77ab01871c32836d00dbb7ee49b75cf0ed7204da28a98cb1a4ed7031381" data-requires-python="&gt;=3.11" >tortoise_api-0.10.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/94/f1/17144f5781af83cbc1d4fce423aed2e409980bdb10e8926ae4b9894d28b0/tortoise_api-0.10.10-py3-none-any.whl#sha256=f2d8fff00c117685cf29eae3c060840c9f15026db8ff8097c1a73d2623f178a8" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=25a78119172e780e66869a191ef8ed641064dbc06669f4ddb99f5ae9922339d7" data-core-metadata="sha256=25a78119172e780e66869a191ef8ed641064dbc06669f4ddb99f5ae9922339d7">tortoise_api-0.10.10-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/75/71/4e1f9960d24c693e89c4781e7e8297139c97492985d8802aceeb53e01871/tortoise_api-0.10.10.tar.gz#sha256=f3fc696bcf81b8a1a58b21fb4456071cad3aaf50e816c275f89c150143847c0a" data-requires-python="&gt;=3.11" >tortoise_api-0.10.10.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0b/51/30cf2978b073e968b018830b0e6b61e2a14e942f354d0c81e6d5a12a9eb0/tortoise_api-0.10.11-py3-none-any.whl#sha256=d348a0ee01308d7757137a8cc6a048a9f95c60c6277751a62b2aac29f5b4ed73" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=ce809e8c6d0cb46c40ec3a7fda9781ea731e272fd8736aedc3134603b2d7314f" data-core-metadata="sha256=ce809e8c6d0cb46c40ec3a7fda9781ea731e272fd8736aedc3134603b2d7314f">tortoise_api-0.10.11-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cb/1e/1d1a04cab2bd9771a3eca60ff48398ef6659b0144120c4dbe060bfbff230/tortoise_api-0.10.11.tar.gz#sha256=76affbe30e1bec23def6e0fc1b6576a9066711e355d1b0d07e294a53e45bc229" data-requires-python="&gt;=3.11" >tortoise_api-0.10.11.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/47/e8/194e5715951df242edae5a08eeb276c75dd16d36c45bf236cd58f0a6fa38/tortoise_api-0.10.12-py3-none-any.whl#sha256=3bb7f1c3e37bf26436fee5b0d911463e47bdcd51b3406389f726317563ab8676" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=00f27607b03c0774e90421ec7807ee8e17e7c7e6dfc501ddf57db562890758c6" data-core-metadata="sha256=00f27607b03c0774e90421ec7807ee8e17e7c7e6dfc501ddf57db562890758c6">tortoise_api-0.10.12-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/97/c2/19e718d0bec75740b122a6bdf221d0f1b163830da3342b1d2dfa9048ac29/tortoise_api-0.10.12.tar.gz#sha256=1cd837989fcb9c5582542be13547f64a24b28f578edbb275af547e359a1859e6" data-requires-python="&gt;=3.11" >tortoise_api-0.10.12.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25000387-->
+<!--SERIAL 25179083-->

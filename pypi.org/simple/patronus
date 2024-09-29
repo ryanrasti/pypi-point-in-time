@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for patronus</title>
   </head>
   <body>
@@ -22,6 +22,14 @@
 <a href="https://files.pythonhosted.org/packages/09/01/e589bed1e1142504590498d9a3ab580eb02dcb1c44d437b913f846a79301/patronus-0.0.6.tar.gz#sha256=f008c7114f4c4bdcfb1e6823d4ce8374b873e5cbf3069562e258cc920ee8c5b2" data-requires-python="&gt;=3.11" >patronus-0.0.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bf/12/57a243858e16680e5571c74e33366439a7cd917d238a281dc371da665722/patronus-0.0.7-py3-none-any.whl#sha256=d2097550a45e77a5e0f2ff022f55fedd4e21d3a1d69758edff19dce7107f6552" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=4c7f59fa79be9aaec72591f01332de5ec75312a01e580ede278d4a8fd7930f5c" data-core-metadata="sha256=4c7f59fa79be9aaec72591f01332de5ec75312a01e580ede278d4a8fd7930f5c">patronus-0.0.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b1/47/4ef82e4981f72f79d1bacec2bee19c6881787002ad2d82502f8e83c6097b/patronus-0.0.7.tar.gz#sha256=4898b52a1aa92cc0a310251789e2740bb9edc7406363143a6ad3655003413a4f" data-requires-python="&gt;=3.11" >patronus-0.0.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8e/37/997d18138cfd0626495ee26317eec8b20a9ad645b69e0de0baf984bf162c/patronus-0.0.8rc0-py3-none-any.whl#sha256=f49d8468cb119fce592670e695762cffbed8888efe7df32898df6c8e7bd3aa07" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=2749f1084f7365515f950765830c1805ad9f7680933d3b11e21bbe7fc10624e6" data-core-metadata="sha256=2749f1084f7365515f950765830c1805ad9f7680933d3b11e21bbe7fc10624e6">patronus-0.0.8rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/12/b5/b665b58977fb26cfe08bd5501acd3d493f78c47ad3c808141621634a50c3/patronus-0.0.8rc0.tar.gz#sha256=6d35fce9651cec1501c5e64666c2155f48a26522e4c9dc0ca80cdc65a0474000" data-requires-python="&gt;=3.11" >patronus-0.0.8rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/0b/693c743407c42a4fb1719da13532e98436a196048b1cee895716245d637f/patronus-0.0.8rc1-py3-none-any.whl#sha256=89ce0988d863c396d4391e7ca95cabb96775b1387b18a0b7f28a5b533ab54771" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=fb489847c8470d1b639362ea210501f2f0541ab12ee590e824e7c496e774d222" data-core-metadata="sha256=fb489847c8470d1b639362ea210501f2f0541ab12ee590e824e7c496e774d222">patronus-0.0.8rc1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/15/3b/8ad90be452a646a62f8f7f7eba731f229785a4796548c0b72440bfa4c968/patronus-0.0.8rc1.tar.gz#sha256=c48c8987e3b9b847d7828dd961a36b1550d34e6754ea9c9a7822007d0412262a" data-requires-python="&gt;=3.11" >patronus-0.0.8rc1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/03/bf/25e00773b867fd6594762a1a69670fa7379b2b9c123d19558af443718891/patronus-0.0.8rc2-py3-none-any.whl#sha256=5d3343da2f8710543656dc320cd019fd624c3159ec9c18545e2d8a805f51f5f9" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=cef86e1fd8c9bfd6ee2eb434308cf2fd1c26a2e0de51ea69ef44f66a754fc289" data-core-metadata="sha256=cef86e1fd8c9bfd6ee2eb434308cf2fd1c26a2e0de51ea69ef44f66a754fc289">patronus-0.0.8rc2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d0/f6/88c3e3825564e0e619a6cc237555d51d42c71cad76053280745a64997bdd/patronus-0.0.8rc2.tar.gz#sha256=c073c59708f775421dd8fe3376d730e941c383e5775a21c9dca82a7ead0d5fa1" data-requires-python="&gt;=3.11" >patronus-0.0.8rc2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/86/35/b35ee534b9e51a3de327e513f48b219c69029cc7ba08404852e66564ccad/patronus-0.0.8rc3-py3-none-any.whl#sha256=2988991f3c3482b0c8f1932e612c4da4245c948c9021b5f685c411a427cac00b" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=9166c81ff983609f45e20acb1859c1bc35762ba2d09b7cca95c2f21ab01f82c0" data-core-metadata="sha256=9166c81ff983609f45e20acb1859c1bc35762ba2d09b7cca95c2f21ab01f82c0">patronus-0.0.8rc3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/31/4c/a38f404b30ec158361f794c1132f6b8a4500cbf55ca57ddd625e0331fe5a/patronus-0.0.8rc3.tar.gz#sha256=20aabd342b393fcaffe39b4cd794ef15a12f3a6c0ca7124e45a64fd43d0fb656" data-requires-python="&gt;=3.11" >patronus-0.0.8rc3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24967748-->
+<!--SERIAL 25223102-->

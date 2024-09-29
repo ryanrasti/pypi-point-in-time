@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for nlevo</title>
   </head>
   <body>
@@ -18,6 +18,14 @@
 <a href="https://files.pythonhosted.org/packages/45/e2/323552c6b538abdefd42ef4c7dc41acf9518bb583b35a7b0d389ce76281b/nlevo-0.0.5.tar.gz#sha256=b80bedef4836a6eb257cf20692d79abf05da964f12f636e5ad894c4a262d3070" data-requires-python="&gt;=3.12" >nlevo-0.0.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/82/a3/399dafa58bcf343526726d1e050fc6640715dd5802175fa57baec306903f/nlevo-0.0.7-py3-none-any.whl#sha256=e69a93b855befdd3c8466bd5411d72772b42a319b5500b7906a2e269c3680b20" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f4fed94b0bc404d60b8bd0efef1bf9b70042fda7c452dc6b26c22e03f228cfc4" data-core-metadata="sha256=f4fed94b0bc404d60b8bd0efef1bf9b70042fda7c452dc6b26c22e03f228cfc4">nlevo-0.0.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/68/f7/cb11532d39a1329992596a6047bd205aeab5669644cc2eb7feabaecf7f1c/nlevo-0.0.7.tar.gz#sha256=1c0be658d85da5ab33877398f44ed9303b1274034e0561a5de5a8f2a14bd2e95" data-requires-python="&gt;=3.8" >nlevo-0.0.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/df/8f/c362f60aa33f72de2c74ad2aeb1c0e1ecc95c5d79c29289b8f414772957f/nlevo-0.0.8-py3-none-any.whl#sha256=ed730d56ef2f91c687dd9a87bc7a8f9658a07bb49c4a3008f254a1ce2e61d2a6" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e0cad183bcee593fa3dc7622410901701e96d092c7d94635dead46f85c7f7987" data-core-metadata="sha256=e0cad183bcee593fa3dc7622410901701e96d092c7d94635dead46f85c7f7987">nlevo-0.0.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2f/e7/b9e18d48b43609c4b087b6a9e41872c36060440285ccb130108580717331/nlevo-0.0.8.tar.gz#sha256=0cafb906eea372f7f851ce5d241857b138f83fbff530d4b369f7fb986dddaedd" data-requires-python="&gt;=3.8" >nlevo-0.0.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9f/95/69f17790f90133efb8ee393bba37a8a18af0b90e522a6029cd5a9b11c88c/nlevo-0.0.9-py3-none-any.whl#sha256=3191daad05559ba03322cc0d40858362b90f9999aa78d899a0efbb13104035a3" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=a454aa97fe1865750a491bd936c38464a20a7896f15242657b0357d583770ebe" data-core-metadata="sha256=a454aa97fe1865750a491bd936c38464a20a7896f15242657b0357d583770ebe">nlevo-0.0.9-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d9/66/5bfb93e4f54b4543ee15b325e8d16848eeb1424b536b0963a9acb4e7ec44/nlevo-0.0.9.tar.gz#sha256=639e30a18ee07d0b5ef3dd55741b472c1a06b3c28217d96c01b87020b6b2ad43" data-requires-python="&gt;=3.8" >nlevo-0.0.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/66/c8/ced10711712658a2ca492908877dfa0e59e86517b4d630e7fbe2873fc9fd/nlevo-0.0.10-py3-none-any.whl#sha256=faf60237c130ef00008ae405269f204d5a9b9b3ff41a1106699f52ef381eaa1b" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=84a79152def2a449a01b04dfd8ed964af0378eca880efa49fdaca9b32a3aae2d" data-core-metadata="sha256=84a79152def2a449a01b04dfd8ed964af0378eca880efa49fdaca9b32a3aae2d">nlevo-0.0.10-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/93/4a/62a2401bf29b4612617f87045d59a2f3295297907aa2c54f58d1e590efad/nlevo-0.0.10.tar.gz#sha256=5c10645083a201c22d4af683795c485bb5fb365d31c9edd9dbfe883e7836e714" data-requires-python="&gt;=3.8" >nlevo-0.0.10.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/e5/cabf342a80bb52bf5c7fef2af8b5f43ac0856f41a64576f4ae893f17b639/nlevo-0.0.11-py3-none-any.whl#sha256=7192f775378011eecc56f8d3e1566d9e8f54dc1d102092a3feb07c817363e10e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=92d6687ac00ba86b6eb550412777c35997a5d86f0a93ac13491c0cddab5d5ebf" data-core-metadata="sha256=92d6687ac00ba86b6eb550412777c35997a5d86f0a93ac13491c0cddab5d5ebf">nlevo-0.0.11-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4e/10/1c851434cc38889a86e7589043d5cb89520c48676c80a6ff168fef26ff92/nlevo-0.0.11.tar.gz#sha256=c2ef718f58f3ad79c6acee7db3688c59d6fa6934ba89e7f9d9df6d71deda02f7" data-requires-python="&gt;=3.8" >nlevo-0.0.11.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24975122-->
+<!--SERIAL 25094821-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pytest-httpx</title>
   </head>
   <body>
@@ -96,6 +96,14 @@
 <a href="https://files.pythonhosted.org/packages/1c/2c/ac24ee71a486bae499228e455aa99d7c49571ce1d86c57c8277ef03916ba/pytest_httpx-0.29.0.tar.gz#sha256=ed08ed802e2b315b83cdd16f0b26cbb2b836c29e0fde5c18bc3105f1073e0332" data-requires-python="&gt;=3.9" >pytest_httpx-0.29.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/84/82/28ae814b16ac7c756d4a53797fbec98965b7d84dad3e50c3b4d56d3c0c77/pytest-httpx-0.30.0.tar.gz#sha256=755b8edca87c974dd4f3605c374fda11db84631de3d163b99c0df5807023a19a" data-requires-python="&gt;=3.9" >pytest-httpx-0.30.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/14/60/ba9895a260e16c1115e40f8ae6f615c7e8ccdfa5d55418078391dd30b476/pytest_httpx-0.30.0-py3-none-any.whl#sha256=6d47849691faf11d2532565d0c8e0e02b9f4ee730da31687feae315581d7520c" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=5f79e5cc4d874a55ff273d1985cab9381b0854499c5080d7ef8fb5860b91914d" data-core-metadata="sha256=5f79e5cc4d874a55ff273d1985cab9381b0854499c5080d7ef8fb5860b91914d">pytest_httpx-0.30.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/dd/55e9aa9961636500e93497b9279ede1cbf9b9b6dc417aca972b3a530dd89/pytest_httpx-0.31.0-py3-none-any.whl#sha256=9ca001951fe7a08e7b08674c05904e0f148b4df28849a721f33a9ed404810e7b" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=e1c54669d641e6dd89b2d4f1923be763723f00f8fa67fedf8f5fa79da5df04a6" data-core-metadata="sha256=e1c54669d641e6dd89b2d4f1923be763723f00f8fa67fedf8f5fa79da5df04a6">pytest_httpx-0.31.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/af/e8/a190b20a6daae447ae065d0fff4dd911e9251b5efe8a640621d43b70ecf9/pytest_httpx-0.31.0.tar.gz#sha256=bfe133be94ec5b46b44233d3644d97f15d33660c91e94ac4b11d12d77795eb54" data-requires-python="&gt;=3.9" >pytest_httpx-0.31.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/54/91/2e0f2df4c1a49e9e4e64541b6f86975e2b3da5f4612fd201948245394118/pytest_httpx-0.31.1-py3-none-any.whl#sha256=a54699123c5149c456d8ef7b9844075566f6e74050b3af71700aba94c7b62ef0" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=7d7e6d24a5dc9ed4b419ef0becd4a4ed908932d4ec7160faeab62a0c59db7b4e" data-core-metadata="sha256=7d7e6d24a5dc9ed4b419ef0becd4a4ed908932d4ec7160faeab62a0c59db7b4e">pytest_httpx-0.31.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c9/49/de38aa442b2b1d45a91d93397009aba05739c9d2e77d106c75246f8ab794/pytest_httpx-0.31.1.tar.gz#sha256=f90399e83988ab511444eb1a95a3ca8a98cde04e64b530070bc560cee0258340" data-requires-python="&gt;=3.9" >pytest_httpx-0.31.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/49/cc/3ac4c9d91d881672b3759b6dde46f35d1582170ee246f7a844c5fc8e0376/pytest_httpx-0.31.2-py3-none-any.whl#sha256=aa996241bfc82e409a5c53f2a3dd14f395e7506f3883dbcd1d9de182df987510" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=5dcbea1f9f990ef8a8e6643b619187d60e965107d2128cb6feff6ce0a9627fd9" data-core-metadata="sha256=5dcbea1f9f990ef8a8e6643b619187d60e965107d2128cb6feff6ce0a9627fd9">pytest_httpx-0.31.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/c3/d01ccfb5b81a9ec57854e864ec8aa4c7177d0ce5802970179c864b4b498e/pytest_httpx-0.31.2.tar.gz#sha256=a44cc59bdb67c78d495d4349d96af18146bd09d5ff2f2f7f93523fd5cfcb0115" data-requires-python="&gt;=3.9" >pytest_httpx-0.31.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ce/bc/40125bd2f1b22707bac1b5fcaeca27299e2bc7429bd3aff41924a8f5fa18/pytest_httpx-0.32.0-py3-none-any.whl#sha256=685d93ce5e5edb5e52310b72342cdc190bebf83aab058328943dd8bd8f6ac790" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=c1300e660c5df30d582725bee879f361f5502ae9b2cde5878e22dd2b0ca80739" data-core-metadata="sha256=c1300e660c5df30d582725bee879f361f5502ae9b2cde5878e22dd2b0ca80739">pytest_httpx-0.32.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/0b/162d006764896837cd31297610bf8d14333088fe7fce0cc1851efda254d0/pytest_httpx-0.32.0.tar.gz#sha256=7807647e8254e5cff79bf2041ae272449ce915d3cf1bbecaa581c384163adb87" data-requires-python="&gt;=3.9" >pytest_httpx-0.32.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21975721-->
+<!--SERIAL 25220977-->

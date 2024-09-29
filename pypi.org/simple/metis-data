@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for metis-data</title>
   </head>
   <body>
     <h1>Links for metis-data</h1>
-<a href="https://files.pythonhosted.org/packages/5f/87/dbc5f7f1a4bb39edf6cc7027e58be09208e5aa7e536bdfee0ed30acf68d3/metis_data-0.1.2-py3-none-any.whl#sha256=34969ac1ebae95001b05c19e2dab6db6c7a8d0af136400b0867149869eb7f088" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=b80f7d046286c1e0abd094b5a7e062e7e34f01a50d8c9e48ea20ce948e73d969" data-core-metadata="sha256=b80f7d046286c1e0abd094b5a7e062e7e34f01a50d8c9e48ea20ce948e73d969">metis_data-0.1.2-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/25/0c/0f44bff47bc5c55cf34c3621e1c6787fddce83a23c9913547ebf27958484/metis_data-0.1.2.tar.gz#sha256=97a07d10af4742666fe63e654abc078ed4601ced531fd6df8e16a0465f44f06f" data-requires-python="&lt;4.0,&gt;=3.10" >metis_data-0.1.2.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/94/fb/ade5e8e0296d64849b274e534fa8036706fc6fd0bcdab871445397cc645c/metis_data-0.1.3-py3-none-any.whl#sha256=1e7f54ce39558561bbc8aede01431674f30fddb3765d1eeddd45cc19cb1a570b" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=3890d6a92bd158aee0f99837ec0976ddc24b8e87d8a404699cb9188e54d674d6" data-core-metadata="sha256=3890d6a92bd158aee0f99837ec0976ddc24b8e87d8a404699cb9188e54d674d6">metis_data-0.1.3-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/c5/4e/d6620120aa7186669cfa7747ca5c95c2ad4ed5ced775c116cd1b0968bc87/metis_data-0.1.3.tar.gz#sha256=6e5ca114f9245f7fab00a5d33455695b7bdd34f90e108420562d62d98513fb73" data-requires-python="&lt;4.0,&gt;=3.10" >metis_data-0.1.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/91/5b/0663a26d5068c930b64d7ef622584d37ba40b66a6fbe248fb99a5a6130ef/metis_data-0.6.6-py3-none-any.whl#sha256=c7e038f81e7433063558272a9a0fa81922f55a54ce0154c93fa55e4a67668f34" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=5cf243cf97a25116b54a4334d35e113b18af52a8e7182dc63e2f37b4db9ecb94" data-core-metadata="sha256=5cf243cf97a25116b54a4334d35e113b18af52a8e7182dc63e2f37b4db9ecb94">metis_data-0.6.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/02/05/6dfc8acd618c16ea5ed5a832a4ea3467d84c138876c71755f1aacb6be197/metis_data-0.6.6.tar.gz#sha256=877f84a269c2a4059758b2a55e8e7e22afdf0d22c6d8e4f53cb61310561413c1" data-requires-python="&lt;4.0,&gt;=3.10" >metis_data-0.6.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/43/11/25402d2b82e7d4ab628c9c3165ec402cc9ad23b840c73aec9842320bda20/metis_data-0.6.7-py3-none-any.whl#sha256=93be47678750a61c595b30cd4f7c6082dc57c60c9a4bf14ff8cff0850759d031" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=0f70295c653560d85f062aa7c4b496dfc76448e1ef353093d007302d0e06ae4d" data-core-metadata="sha256=0f70295c653560d85f062aa7c4b496dfc76448e1ef353093d007302d0e06ae4d">metis_data-0.6.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/14/00/ec0bbd5b944db46393bc141616a9761ecf8aa10e43fb06d5eb09c1e32a54/metis_data-0.6.7.tar.gz#sha256=a82650a07c29d839a6f0bacac196de7952adcedf9e97deda2c946677b4fceb2d" data-requires-python="&lt;4.0,&gt;=3.10" >metis_data-0.6.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/27/75/5d8b9381d4b0dd090e984752d2ee86f4f0335850e435df4d0705ea768ee1/metis_data-0.6.8-py3-none-any.whl#sha256=631c27aff81067b1e013c6146d15d4ffd7c568823a78710dbfadcec4c6713ebf" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=7ef832ede401ddce002f7f9d461b49d5b63bf1f65b11aff2be6cdbbefdd4eb89" data-core-metadata="sha256=7ef832ede401ddce002f7f9d461b49d5b63bf1f65b11aff2be6cdbbefdd4eb89">metis_data-0.6.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/3f/8ddc07bc9f91167728a9b430b4490bc2dbd8924d72fe5d17f0f8717d27d7/metis_data-0.6.8.tar.gz#sha256=064057e1d202b382f8cddbb61b8a6f00331c39473fd65028d3df949a3f37724d" data-requires-python="&lt;4.0,&gt;=3.10" >metis_data-0.6.8.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24544579-->
+<!--SERIAL 25215867-->

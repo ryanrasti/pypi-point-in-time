@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for openshift-python-wrapper</title>
   </head>
   <body>
@@ -441,6 +441,8 @@
 <a href="https://files.pythonhosted.org/packages/82/e0/6facbc91dabc4525e678007265c8b75d3e37f144b494d3d3d1b534e1bd15/openshift_python_wrapper-4.15.69.tar.gz#sha256=79efba7fe2875c30279f28113a440ab19216109772a5be5dd2a8a6a4a542e45a" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.15.69.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/50/b2/0cbae8e46a48714266b179c156504b49e2968bd25f165910cff07dd0ba00/openshift_python_wrapper-4.15.70.tar.gz#sha256=5f9fe9a9e5e648735d16f7870eef3d37cc2d8e7cfc56aa5129c48e6d8c067d1e" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.15.70.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/0b/1b/e0938ec8369ff6cc49fb3a361c2e25a2857ffa78ce6f5e179fdc649737f5/openshift_python_wrapper-4.15.71.tar.gz#sha256=70e4d475cc5d3d39869b38128ba0b58d44a120a9cb9b253b9a2d873984b82895" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.15.71.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/99/fc/6818973a10e08eb79129b77a31cfed8f826b30207edf2aa1ad4e0a094cc9/openshift_python_wrapper-4.15.72.tar.gz#sha256=a9c56ed81031634bc4f80d998985afbfff5c1d99de95c2c727eeb2e4a0243cba" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.15.72.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/80/224ab4513bf63ea91a4a80adcd18f038453180c8ebad89e587d3cb3babc1/openshift_python_wrapper-4.15.73.tar.gz#sha256=66e8987fd701871b11ff1fd52aeacfae772e963b47bbad9071b89acce8760e2e" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.15.73.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b4/ff/67c008e3112dc8d2abf80346dc3523024952f77be3ad1362570b5ac5d86d/openshift_python_wrapper-4.16.1.tar.gz#sha256=f483669606a01e422db02ebcf7272d2b1acd518ffb009b78ccedf4d9698919dc" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.16.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c1/f2/7734a5c9d0c8e9c2ca09fb3c4187bafb37434d3a1edbe825685fa591a429/openshift_python_wrapper-4.16.2.tar.gz#sha256=50563391020c907fc9869a957b64a6cddd8f66d7db03ce0e7dabd657bdf5503a" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.16.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/87/de/ce0cea140dec2adc6ec9eeb2e867bfc9f0b91b1dc749bbf935ddb89c3e94/openshift_python_wrapper-4.16.3.tar.gz#sha256=8ae74b30830fa2cbb6d6a0449615ab2d6c3ff968c7e74e2a066611a5f6f8ab19" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-4.16.3.tar.gz</a><br />
@@ -523,6 +525,10 @@
 <a href="https://files.pythonhosted.org/packages/60/04/70434e109b3e91e60c1b9413bc54ab760433044bfc0a9f638ebbf9369cc7/openshift_python_wrapper-10.0.81.tar.gz#sha256=4511d1d1d66b4539e5f5be5c58d507a35baf9f1b37688c7ebf50bf599f3a1b7c" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.81.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/43/78/fbbb5061c3926e07683851021300be7bc8f8747f609bc7025c2640aa0595/openshift_python_wrapper-10.0.82.tar.gz#sha256=faf8d9c7faca600f4c487150deb44b2c1b663816989e73cf8dfb3aad6e62fa0a" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.82.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e4/91/14f8ff627ba43338a3735643fa58d34658b312e393cab77a340782377d59/openshift_python_wrapper-10.0.83.tar.gz#sha256=656d64ad7d67b40bdf3728e6225565562e37b396b5804b38cfb9c6a472d28069" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.83.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/db/9971e7e3b4fc5f4645b1a309e9725f90cc056116498f6995e8b3acd7208e/openshift_python_wrapper-10.0.84.tar.gz#sha256=11b54d7aa4f5719e76b6bf9a7dfc48ea0b1d32b0b24dcbcdc09402e9cf37aa2d" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.84.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a7/c1/2837bd5afba6e6e4a32af61b3fdbc8fba0aa6cf87b3543c1bf1ffa0e2594/openshift_python_wrapper-10.0.85.tar.gz#sha256=4c27fe1c44b5895b5a12513af460b56956fe53ac98591d63b2b72adb0c3f0362" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.85.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f6/1a/4895d894c0083e0ca75a7e1d5a4ec1a8828b4a42bbacfcda1ecc448a6807/openshift_python_wrapper-10.0.86.tar.gz#sha256=f1e7a323551370adfa8b88e95c1a63b739c81d5e66e1fac7ca70ed029855fa94" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.86.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ee/60/b71bfe003018628744f467fb9e7612de5d9f1c9ceae1a06fb81ba862f365/openshift_python_wrapper-10.0.87.tar.gz#sha256=c390057e84cad80303525106771ee14e37d888fd637e5d1bd10e35bc6dbb2045" data-requires-python="&lt;4.0,&gt;=3.8" >openshift_python_wrapper-10.0.87.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24931033-->
+<!--SERIAL 25152824-->

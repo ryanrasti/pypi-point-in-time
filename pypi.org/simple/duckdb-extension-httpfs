@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-httpfs</title>
   </head>
   <body>
@@ -30,6 +30,10 @@
 <a href="https://files.pythonhosted.org/packages/9b/1e/61121b4393eadea808dc2f265971e65cdf094235c908cfb16dcc317b47c8/duckdb_extension_httpfs-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=4f18c05d7f50d7a5cf0e339f1c8ad188360fdafc3bf70da2de2db2724413b797" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=88505950b440b4abee3498d40d5590065747eeca23f868d43a054f927a622df9" data-core-metadata="sha256=88505950b440b4abee3498d40d5590065747eeca23f868d43a054f927a622df9">duckdb_extension_httpfs-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ba/5b/4530a8a1b2c847832e4e2f067e33cb7741032f98ff1cdd6e0890ae3f1bab/duckdb_extension_httpfs-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=e0220d8e2b552437b694e531362f819c9bfa18d050d6add5d57bfd72f3012626" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=88505950b440b4abee3498d40d5590065747eeca23f868d43a054f927a622df9" data-core-metadata="sha256=88505950b440b4abee3498d40d5590065747eeca23f868d43a054f927a622df9">duckdb_extension_httpfs-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/3a/c3/6976c9fb82be16ba9c80e3b42d38c6e37c883c984e81d3c73442a17e67d3/duckdb_extension_httpfs-1.1.0-py3-none-win_amd64.whl#sha256=c57eecc380a6c5b5e7542a0a74b5e97b11fd8c927cf963e28c1ac6fb9f8bc68e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=88505950b440b4abee3498d40d5590065747eeca23f868d43a054f927a622df9" data-core-metadata="sha256=88505950b440b4abee3498d40d5590065747eeca23f868d43a054f927a622df9">duckdb_extension_httpfs-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d3/69/e4677573160ef30b4930e9f5bf802e1266c81fc98600513de90e0cb0ba77/duckdb_extension_httpfs-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=9c3abe8dd03d852f34739a42f17af9a95e8a665a330db2bb51fd22840277cc53" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9" data-core-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9">duckdb_extension_httpfs-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/02/1f/778ac938e5964db8291fbbe32aff68fbbed66009400927862df5d48f43fc/duckdb_extension_httpfs-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=d7c8cd6aee540d6479939cb825cc67e0eca203bd6b2b00edab44eead0aa83b66" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9" data-core-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9">duckdb_extension_httpfs-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9c/f6/21b92f1ce140c169438785586c52b4310443381abb787bbe76b66a7e763e/duckdb_extension_httpfs-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=b0e35939783a9b93dd48b5ba3b9c6205d8475adfbb511aafbfa83b15973ff47e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9" data-core-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9">duckdb_extension_httpfs-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1a/25/469af054612c2bddc06c0358a5ffc7e2e3d2b2264e9b7fc0b62b7beac268/duckdb_extension_httpfs-1.1.1-py3-none-win_amd64.whl#sha256=17c9ec499a91bd915d12707ac15d1b860123e4e5625ab6771a8e9177b20ad8a3" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9" data-core-metadata="sha256=3b7757ddbfd280113f94dab8df2bd783bab077b2914bc64defde40ad5b77fdf9">duckdb_extension_httpfs-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956215-->
+<!--SERIAL 25201334-->

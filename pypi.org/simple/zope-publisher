@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for zope-publisher</title>
   </head>
   <body>
@@ -92,6 +92,8 @@
 <a href="https://files.pythonhosted.org/packages/92/bb/5fdaf6b09c5992972e4c4a997ead94c17420d0b5fb6fe686980d7487df01/zope.publisher-6.1.0.tar.gz#sha256=77a6df5f997036ce7616bf032c43c3bfec0bcc92f85cd4a60bf226324cecf9f0" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*" >zope.publisher-6.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5e/5e/3716350a425147ba1c4c73d3fc1ba740d97e581683a9daa95736128f8d70/zope.publisher-7.0-py3-none-any.whl#sha256=11cdab1ed98780b3c3d54455088041cb47beae49b9e73c3f0bbf94f886b9a89e" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=48d1db90d101c12835420ca3547c88827520b100cae7ec34b93ecbed5ee3d48f" data-core-metadata="sha256=48d1db90d101c12835420ca3547c88827520b100cae7ec34b93ecbed5ee3d48f">zope.publisher-7.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c5/a6/f95a2706223b573f6252072dac24ef8a34d77e6f582efd14ed0a2a9d3e62/zope.publisher-7.0.tar.gz#sha256=3d1238de4cecc2c96b95c9c6d29fd3d1aaf28d860c182d59c45a2ee6acaf714e" data-requires-python="&gt;=3.7" >zope.publisher-7.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/11/23/9c19d4b040873b7e538e091898dbed0001b22bd0ca4187e9c812cd26a75f/zope.publisher-7.1-py3-none-any.whl#sha256=26b933a36a6fe692a38c817389ce392fa983fcd01bf538e2abe29aaf07a6396c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=52d2817c2f83317feff6e00caa95eea3c22db39cd72c3ca4721b19f11a821819" data-core-metadata="sha256=52d2817c2f83317feff6e00caa95eea3c22db39cd72c3ca4721b19f11a821819">zope.publisher-7.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/5f/e7888789257c02d97d12c4ed9a3cc39116ac3c2f70f7e66d85e656c62bc8/zope.publisher-7.1.tar.gz#sha256=a6bcb1c27c0a4571f2e2ca47334002df7fff0a754bdda251171b7be72baa6ba4" data-requires-python="&gt;=3.8" >zope.publisher-7.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23415558-->
+<!--SERIAL 25216600-->

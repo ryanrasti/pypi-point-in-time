@@ -1,21 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for maoto-agent</title>
   </head>
   <body>
     <h1>Links for maoto-agent</h1>
-<a href="https://files.pythonhosted.org/packages/3c/86/85b763b8b989fa850c8a23bb7ef838ec950bb015a1597571ad4d0e89dadc/maoto_agent-0.0.0-py3-none-any.whl#sha256=d4813d2c37cefe33762ff4dd010805c374683b5102c23c3aa013ff170591252c" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=d2731d27ee045adabf8b0b86191ef24160e5609d90fa7962ae28b7c12e9cb9f9" data-core-metadata="sha256=d2731d27ee045adabf8b0b86191ef24160e5609d90fa7962ae28b7c12e9cb9f9">maoto_agent-0.0.0-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/f1/a3/241930023b2eb3dde844d6d875c1e5e3e36b1f56acbb606e604d6053039c/maoto_agent-0.0.0.tar.gz#sha256=04a48dc34aed353860d8c4c7bc9d666c04a53f65a1f1b510f52b6af40b0cc7bc" data-requires-python="&lt;3.12,&gt;=3.10" >maoto_agent-0.0.0.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/b1/84/edcc3247709002f3fb777198c506a3e79a2348a0bb1f1259817122d36513/maoto_agent-1.0.1-py3-none-any.whl#sha256=5e0e50715682a5cbe449b351d9e7cb2bf7b0bb09a7fddc940ff4ef2aec6a8ac7" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=978099505c6e1babacfee34f1008ef85a1011d783eeebee84a6b743fba66601a" data-core-metadata="sha256=978099505c6e1babacfee34f1008ef85a1011d783eeebee84a6b743fba66601a">maoto_agent-1.0.1-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/54/d6/4fcc799592f72d1d28a8331f73a49b38b73e303b2b116a1d655fa4ec0bc9/maoto_agent-1.0.1.tar.gz#sha256=46e3710d24c99f99197ae75f03b4909b16d0e01db3d3c1ce9f81b72547b49704" data-requires-python="&gt;=3.8" >maoto_agent-1.0.1.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/c6/34/0d3bab016842f7788ce3a2db2f66ca8027d5eb89425ad115881f01e561b2/maoto_agent-1.0.2-py3-none-any.whl#sha256=0ef9da8847d80002c379585a4cc24ffeff887d8c6b3c186314fec69afc671896" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=70ea7cbb686081ce8c5e632c394fe24102c7da07ba6c974a60623318ec80defb" data-core-metadata="sha256=70ea7cbb686081ce8c5e632c394fe24102c7da07ba6c974a60623318ec80defb">maoto_agent-1.0.2-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/92/dd/99f8dda2ac1fc292c8a87b9b7a370a47f0d75b512f07455e3ef21ea70728/maoto_agent-1.0.2.tar.gz#sha256=22cd6b88a8af3791f82171c9f76c582d39683b7579fe53b2b7b7700c805e85ee" data-requires-python="&lt;3.12,&gt;=3.10" >maoto_agent-1.0.2.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/fa/5f/fa70f25a737f22aeee03f60aa579d021a4580d5aa0f1e294db5b06b07f6d/maoto_agent-1.0.3-py3-none-any.whl#sha256=f2034cb680d2cd204a1692be199d28abb895e846c45d9c39252147dcce7efd28" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=a95a1c3f274835f9c7f5eec3b60582551e93dcb609178e688b2318d74904df84" data-core-metadata="sha256=a95a1c3f274835f9c7f5eec3b60582551e93dcb609178e688b2318d74904df84">maoto_agent-1.0.3-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/5e/4b/919ffeff010012ba8991c17ce8fdf0aee92e55a75c2ab5ca4237cfb4fccb/maoto_agent-1.0.3.tar.gz#sha256=0aa295bb499f46f81f10c74cf0cd52d6779e143dbc6a2adbcbbab5fac26a5715" data-requires-python="&lt;3.12,&gt;=3.10" >maoto_agent-1.0.3.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/b8/d8/359d3de9fd49b1129e9b616ef6acfca64d71d054725457ec983c6a7a5c5b/maoto_agent-1.0.4-py3-none-any.whl#sha256=11ec6b72cc77adc19443f5087e43c1940d60bf4c7866c989984a6d68b2ea4ecd" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=af94bd514803b4e79668ab7db220aca15e92806d8ec1e872f1872f9bde370cbf" data-core-metadata="sha256=af94bd514803b4e79668ab7db220aca15e92806d8ec1e872f1872f9bde370cbf">maoto_agent-1.0.4-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/ba/6c/7c9738b242270e04d5e2951bbad2324ab68d0216913db3742f17c58c91de/maoto_agent-1.0.4.tar.gz#sha256=24f1cb76284d650f2f9121103c9baf3089c11070b5b8181c73571c7665765ed4" data-requires-python="&lt;3.12,&gt;=3.10" >maoto_agent-1.0.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24981513-->
+<!--SERIAL 25176477-->

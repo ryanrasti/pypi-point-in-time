@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for diffcheck</title>
   </head>
   <body>
@@ -38,6 +38,13 @@
 <a href="https://files.pythonhosted.org/packages/26/24/13fc3abd03ecf4382e5426b5a04a03a47b3f43d63e76105e97e8af584692/diffCheck-0.0.16.tar.gz#sha256=0340ae549f19a006b414179cc54110d74d4cfaee1f09b5ecc6f78a4525586c24" >diffCheck-0.0.16.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6e/2b/d3ded0bd88cda7d50ec59b377750938be55a355f8f354ca5d6f169cebf13/diffCheck-0.0.17-py3-none-any.whl#sha256=24024d7f5526b32d88198e45bc883980bd158747cf72ba1a640d62c57c1daaea" data-dist-info-metadata="sha256=278bc49997115bb00f83a6ebdf3d10ab78295fb9f5232a766717059563a02d3d" data-core-metadata="sha256=278bc49997115bb00f83a6ebdf3d10ab78295fb9f5232a766717059563a02d3d">diffCheck-0.0.17-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/53/79/2302f9c6f9121d771300a3ffcb2524768fd2973be07808dc90c4cba397d0/diffcheck-0.0.17.tar.gz#sha256=8a91f400742b0614e94419ac949f7a6a3c6de3dc026f338bac3f8e98dc979b13" >diffcheck-0.0.17.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f2/d5/3302befeb93c4bf93451f94f5926a0e57d2f6b7ce14a5a15347c66c7cdce/diffCheck-0.0.32-py3-none-any.whl#sha256=fbaec644f364e7dba5c527c4c63c8f70ba38323347adcac9bf25d8d9fe6de544" data-dist-info-metadata="sha256=d32365664dacec7b1abe3ea08120105781f0f5a446ed7b74184f2cf010f0794b" data-core-metadata="sha256=d32365664dacec7b1abe3ea08120105781f0f5a446ed7b74184f2cf010f0794b">diffCheck-0.0.32-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/27/72/2e0e79ff5ad687a303cdf05835bc1b9fa51da6ed4ca6aa554601303b0681/diffCheck-0.0.33-py3-none-any.whl#sha256=997d35b31e94d7edbde9b0d9ff87e6008799cfcd7be1c06e35db85c8754b788b" data-dist-info-metadata="sha256=7ee96e97b84b76fc6fafcde411a0fd54056174283335efd236609c9e67b3628f" data-core-metadata="sha256=7ee96e97b84b76fc6fafcde411a0fd54056174283335efd236609c9e67b3628f">diffCheck-0.0.33-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3f/80/388003f287109df599bc8c081bfcf5ed4763a8448b10c1415ac6fa2eeaf8/diffCheck-0.0.36-py3-none-any.whl#sha256=d0636e382bf3133c1ebc056fe769fcf60b3485671529906d182be6e4e317a990" data-dist-info-metadata="sha256=96125259574eb08142833d31ee0e4f1e8fd56ce359ea7069f1dfc8fe76eae539" data-core-metadata="sha256=96125259574eb08142833d31ee0e4f1e8fd56ce359ea7069f1dfc8fe76eae539">diffCheck-0.0.36-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/95/a9/98531fa2a8733684442d2f0f4fcc37f2bb53bbf7595c1bcbc4ff667dedc3/diffCheck-0.0.40-py3-none-any.whl#sha256=51ddbf6b56c3396d82854597a577ea712d3964d25fe6da50ea10908e1c604bd9" data-dist-info-metadata="sha256=abbc75d916d7e9b21dc0c82ca777886dff05885dc06fc46ccdef248d00bfb03f" data-core-metadata="sha256=abbc75d916d7e9b21dc0c82ca777886dff05885dc06fc46ccdef248d00bfb03f">diffCheck-0.0.40-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c2/96/1ef90b54d2b532b6ea4daca97653db2667db1e6aeb3eaffec4bfdb720881/diffCheck-0.0.41-py3-none-any.whl#sha256=2cd1ac8ddb4051b95e56c705ac7c845e47b5422ed3649940bb63e7277b994af0" data-dist-info-metadata="sha256=0fdefa6f8e3a750c084abca899a57b70c1a7542af684abdd4b14e18d3b65e380" data-core-metadata="sha256=0fdefa6f8e3a750c084abca899a57b70c1a7542af684abdd4b14e18d3b65e380">diffCheck-0.0.41-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d2/db/c0dc6f9156ed9abe5e2a428c90ff323d1d3693be91f61bc6ce2b95890381/diffCheck-0.0.45-py3-none-any.whl#sha256=230ffac86dfb7b77d536f4611799d8799bdba430eca83bb4829b1035aecdede8" data-dist-info-metadata="sha256=2400b83225d71004abcd3a9813f2a3edbcbde01897588e1ada1fe6ca812a342f" data-core-metadata="sha256=2400b83225d71004abcd3a9813f2a3edbcbde01897588e1ada1fe6ca812a342f">diffCheck-0.0.45-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/89/d0/6efb16f4cb45fd3e5ea10ad0bd122682f45654312fed124625b44764c619/diffCheck-1.0.0-py3-none-any.whl#sha256=7333005262da700abac1ba406c0d4dfc547e0645c3de97fc905ead95a2c4e1da" data-dist-info-metadata="sha256=72ca5de572de0ed99dca30987aace604c5cf8ab135c4f49f9c6a741b41b6ada2" data-core-metadata="sha256=72ca5de572de0ed99dca30987aace604c5cf8ab135c4f49f9c6a741b41b6ada2">diffCheck-1.0.0-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 23003673-->
+<!--SERIAL 25205686-->

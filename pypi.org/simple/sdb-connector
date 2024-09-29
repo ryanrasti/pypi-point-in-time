@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for sdb-connector</title>
   </head>
   <body>
@@ -38,6 +38,14 @@
 <a href="https://files.pythonhosted.org/packages/22/94/4c44daaf4069c3f7cec942410c0bf7bac4ea5f636afdee2115ff05fa7b7e/sdb_connector-0.2.2.tar.gz#sha256=60885102e8db9b13cb413c9b50e4fc2d656d8906a324b27efc887c503bc13081" data-requires-python="&gt;=3.11" >sdb_connector-0.2.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bd/f8/8bffa5f564ebcd64f6798063f1f505c634bddbd736c05174ec9ce4e009dc/sdb_connector-0.2.3-cp311-cp311-manylinux_2_34_aarch64.whl#sha256=bc486715cec4a307682963b12fdc8a0caf1b1e881e667381ba492b47a23bc314" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=69424979a40d29afd228213bf9d3886c1ca7007362f7247b09651e9d0999a7cf" data-core-metadata="sha256=69424979a40d29afd228213bf9d3886c1ca7007362f7247b09651e9d0999a7cf">sdb_connector-0.2.3-cp311-cp311-manylinux_2_34_aarch64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b6/ef/c55d661c95e47712d20b7a6dcd285e71316a544f43da1f3527e4a68e8ba4/sdb_connector-0.2.3.tar.gz#sha256=cb42b7f368a3f9fdd9fa3bc9818ed079ed388d1fb23ea093ca6e2afc5fe85d5e" data-requires-python="&gt;=3.11" >sdb_connector-0.2.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/84/98/b85b8071bc29186ef8052eb2ae5e4cdbd7b2f6ec9f53a90f95d7da46c849/sdb_connector-0.2.4-cp311-cp311-manylinux_2_34_aarch64.whl#sha256=865a9b67b1c4952e30862f8a6ecdde3f858c92cd4330e6eba33f74f0de5b5995" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=7528d5cda7e8d7f955daabaf503bdb86be9a5f634803b1a970650e50a733353f" data-core-metadata="sha256=7528d5cda7e8d7f955daabaf503bdb86be9a5f634803b1a970650e50a733353f">sdb_connector-0.2.4-cp311-cp311-manylinux_2_34_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/42/76/1774dc9b474e2dae76badfd07b47582e33b16c23a1ebdccbe5d8f5fda2b3/sdb_connector-0.2.4.tar.gz#sha256=7023ede30570073b003aa77bd21a1c8cb0d991646cc199349e820fc2b0f9c6a9" data-requires-python="&gt;=3.11" >sdb_connector-0.2.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/bc/8e/05e1774eed40bb92beadcc814270a59078bc44853157a5ea58b3d8e8d55c/sdb_connector-0.2.5-cp311-cp311-manylinux_2_34_aarch64.whl#sha256=91d0c00b754064a744a7cd2db5d6cb04cc062797c06537ccaf1f95e8d6defbb1" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=6583ffcb43b4ad2fc08dc721642714196c9c6881a6b26500feda94873ce756de" data-core-metadata="sha256=6583ffcb43b4ad2fc08dc721642714196c9c6881a6b26500feda94873ce756de">sdb_connector-0.2.5-cp311-cp311-manylinux_2_34_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/50/113b3e3c1652479fb26d51a8bff6551a7c3b53e5e543e26b09c0c7271b65/sdb_connector-0.2.5.tar.gz#sha256=144f1f65f017da96ae615d52a4064b9a56e5248739fbb4ea7739c6986d66dedd" data-requires-python="&gt;=3.11" >sdb_connector-0.2.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/74/2d/2b5b9e3398a16183f8d48a20799cf6e658ac4954820aca041031bc96df99/sdb_connector-0.2.6-cp311-cp311-manylinux_2_34_aarch64.whl#sha256=c4501097519d12d6e53eeddc38b214200f9ee75913661a4c616a66fdda5ab6ee" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=db37468293648015524d19a7d20c4fa3b1cc8a08d7c0cc5c4ff5ddc6205755bf" data-core-metadata="sha256=db37468293648015524d19a7d20c4fa3b1cc8a08d7c0cc5c4ff5ddc6205755bf">sdb_connector-0.2.6-cp311-cp311-manylinux_2_34_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/34/32/03844ba0516bf398c51f98fe002ffa171e58e1f9333d8dd646ad076fd93a/sdb_connector-0.2.6.tar.gz#sha256=81d3ebae2d519b7c134b70528cd9283154f16fe65d788639ebf54d32e1bd3b11" data-requires-python="&gt;=3.11" >sdb_connector-0.2.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/87/b9/321cbbb35bec15ecddcbb61e4207077151f21f528d93cb59aa51eef62c5c/sdb_connector-0.2.7-cp311-cp311-manylinux_2_34_aarch64.whl#sha256=5e7f495e69d79305261acfd4dfe45f2ba67daa59a27f3a1d23c99ad2103e82dd" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=f7b9c35e9a9ec19d1e917a3e4b2f975b7480868870f13b527a38f3d524ec219b" data-core-metadata="sha256=f7b9c35e9a9ec19d1e917a3e4b2f975b7480868870f13b527a38f3d524ec219b">sdb_connector-0.2.7-cp311-cp311-manylinux_2_34_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/af/25/1fbd5b933174c661e2188f5ee6bd994a044a5c843cbc87652395f8606fae/sdb_connector-0.2.7.tar.gz#sha256=ade91e8cbd5ddb19c205cc5048da17f48ba799b1c7650e473ea5635efdcda54a" data-requires-python="&gt;=3.11" >sdb_connector-0.2.7.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25020411-->
+<!--SERIAL 25130259-->

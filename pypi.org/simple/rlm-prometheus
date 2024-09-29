@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for rlm-prometheus</title>
   </head>
   <body>
@@ -32,6 +32,12 @@
 <a href="https://files.pythonhosted.org/packages/14/a9/d347fb858d21b124be1fd0a0385e4b34c1c9a7ee072d98a8e0de795c91ca/rlm_prometheus-0.3.1-py3-none-any.whl#sha256=33368316b499c0a238daf81a6da17739597eb0277aa37afde931f57cbfb7d478" data-requires-python="&gt;=3.8,&lt;4.0" data-dist-info-metadata="sha256=bd6df0f5f46dabdccb3654f208dff26c12cb9cc068172e03d4d924f30ccd8ebe" data-core-metadata="sha256=bd6df0f5f46dabdccb3654f208dff26c12cb9cc068172e03d4d924f30ccd8ebe">rlm_prometheus-0.3.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/2f/0e/6f3ae6268b24bff5a11b2622c8de56a5c594d02c7c22eb807e5098f6feba/rlm_prometheus-0.3.2-py3-none-any.whl#sha256=d904b1aee9f4faa6010843857f332392d92a03dbb80244de5311635c2e01b17e" data-requires-python="&gt;=3.8,&lt;4.0" data-dist-info-metadata="sha256=5dc81584a623ef87a5daac1596149c1bd5f5cf4d871f0b7c667541cddd21901a" data-core-metadata="sha256=5dc81584a623ef87a5daac1596149c1bd5f5cf4d871f0b7c667541cddd21901a">rlm_prometheus-0.3.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/84/24/7073ca4cd7cdac0051a7cb8c34bf49316bf22d63485f9f8d2e595a35d4e5/rlm_prometheus-0.3.2.tar.gz#sha256=02c49c7f93041e9388ae3c5bbde88901ab7a919e1172ee54ee84f9ac0246187a" data-requires-python="&gt;=3.8,&lt;4.0" >rlm_prometheus-0.3.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/40/f4/b83db5b31d8e68cf95376083c804eba3181be8691ddf4220f41bb4bf2558/rlm_prometheus-0.4.0a0-py3-none-any.whl#sha256=aa438cb525a0cee8054b885c519c87d99da456ff56dbf669785928e5e7d24011" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=6163a096f8314f7bc4d3b9576c5b638a55e1e0987fd616d096161c173423009c" data-core-metadata="sha256=6163a096f8314f7bc4d3b9576c5b638a55e1e0987fd616d096161c173423009c">rlm_prometheus-0.4.0a0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4e/83/744313cf084671d1dd4be7dc60c7c04b4c084b9c40f3f29fbaeba5109d67/rlm_prometheus-0.4.0a0.tar.gz#sha256=ef4b312fc58fc220c7ab8177b1e725efe8876ee28f647346b8b1b742e5b54e90" data-requires-python="&lt;4.0,&gt;=3.8" >rlm_prometheus-0.4.0a0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/d9/83147d2e277f2d55f315043f10abb45e883a09d94e2427ea232148683ff6/rlm_prometheus-0.4.0a1-py3-none-any.whl#sha256=c82a4ba3e65ac12c927f5865446641bbe3a30f8a3e78e5c67efbd537a62be93a" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=39c25f4f6d4e95609a123ee737a6e90234139d8f1b2cfffa3937eeba15d958f6" data-core-metadata="sha256=39c25f4f6d4e95609a123ee737a6e90234139d8f1b2cfffa3937eeba15d958f6">rlm_prometheus-0.4.0a1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/24/ab/3a6ff6546ec5ce75c250d1346a414581b3ecb91b8d5703547a8f6c5ed357/rlm_prometheus-0.4.0a1.tar.gz#sha256=259c2d5d924b1beb75743ca5efdb60e350744982166ca3b1358008d2e9ec495a" data-requires-python="&lt;4.0,&gt;=3.9" >rlm_prometheus-0.4.0a1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/e1/583676ae32eb6b6606448ec6585bb20f0b1a8d85fa7fc97fa089ff85fcd6/rlm_prometheus-0.4.0-py3-none-any.whl#sha256=097f361232089b4142a974a0166c861da7d1df04967779f814bdd7238aa2a734" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=493ac90c6a94c3aba2f0849230b40211f7347cbe5a87811f6ec194eed30d86d6" data-core-metadata="sha256=493ac90c6a94c3aba2f0849230b40211f7347cbe5a87811f6ec194eed30d86d6">rlm_prometheus-0.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/59/ee/e074685811de043642a1e9874964a7a9c345a4be9f270f6374987aec4361/rlm_prometheus-0.4.0.tar.gz#sha256=7f153c6b40a22a8dd278c5200ac72274f20531831a0ecfb5cc244e99a90314f8" data-requires-python="&lt;4.0,&gt;=3.9" >rlm_prometheus-0.4.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 17288495-->
+<!--SERIAL 25122638-->

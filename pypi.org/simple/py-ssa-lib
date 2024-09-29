@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:alternate-locations" content="https://github.com/K-Ibadullaev/py-ssa-lib">
     <title>Links for py-ssa-lib</title>
   </head>
   <body>
@@ -20,6 +21,8 @@
 <a href="https://files.pythonhosted.org/packages/7c/b1/375c20cfc234e31163fc0ad125ba3d77610c0653704a8eb1aaf2b6fc8d1d/py_ssa_lib-1.0.1.4.tar.gz#sha256=4a084882338ee6692799d199642421a71a161e9bedc8e5bdd41b66b484ff08f7" data-requires-python="&gt;=3.10.0" >py_ssa_lib-1.0.1.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/98/b4/ba9e94928b49af6edbcd1d15c14ecb7625e844fc13a03f03db0bddadd977/py_ssa_lib-1.0.1.5-py3-none-any.whl#sha256=606f63f9971eead572d72b0d31c399c7386f1867235745d1890d8707b30ff5d8" data-requires-python="&gt;=3.10.0" data-dist-info-metadata="sha256=bac2f19629f721212b3242c0d32415c7c4cb99d82192ec17ad6df664b0d743dd" data-core-metadata="sha256=bac2f19629f721212b3242c0d32415c7c4cb99d82192ec17ad6df664b0d743dd">py_ssa_lib-1.0.1.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/53/3d/cee6dfe2c986cfd57a42c716c006af31444a14b6c1274581863270243c03/py_ssa_lib-1.0.1.5.tar.gz#sha256=dfe959ad335fade3e79c5077ca129c111539e2f56cc23e60dd3a5217b8ef4aae" data-requires-python="&gt;=3.10.0" >py_ssa_lib-1.0.1.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/cf/dc314f3884acc9f4bc50bf51005182c5f848c2551b54f0860dd43b47ceb8/py_ssa_lib-1.0.2-py3-none-any.whl#sha256=2be461ec7f560d53f7c1306117fe259b89a3f1ff6a6ce0d554d732a80d03be1d" data-requires-python="&gt;=3.10.0" data-dist-info-metadata="sha256=e17e5e7f5f942294fd7e3c241bdd47995c582b730a36d692b852d25e8a470195" data-core-metadata="sha256=e17e5e7f5f942294fd7e3c241bdd47995c582b730a36d692b852d25e8a470195">py_ssa_lib-1.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ff/48/a9b773f4f9aef4350b541546dec701043ebf70c63d90d3ec0fb86784f019/py_ssa_lib-1.0.2.tar.gz#sha256=16f76a091fe38bd09f6e9c51c76ad57cc7f67d445881844047cabb356cdb494c" data-requires-python="&gt;=3.10.0" >py_ssa_lib-1.0.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24466470-->
+<!--SERIAL 25184348-->

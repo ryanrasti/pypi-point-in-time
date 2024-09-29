@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for buildbot-wsgi-dashboards</title>
   </head>
   <body>
@@ -167,12 +167,16 @@
 <a href="https://files.pythonhosted.org/packages/b8/f3/67a6cff135aa324f394b84d5b3b694ffe28c006fa9eb4989fc72db48312c/buildbot_wsgi_dashboards-3.11.6.tar.gz#sha256=5c695ea15a211c9a7481a5e28c4665255604f6c4e7368afae7fcf97e565b5623" >buildbot_wsgi_dashboards-3.11.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b6/07/1a4d4ea077170fcedff6c1f89919c43b2dace2a0078c1e3ef6a51e3c094a/buildbot_wsgi_dashboards-3.11.7-py3-none-any.whl#sha256=d6cf1dd632f70b893d0a6f2602dae7581eb26d263f2ca8ce3c7333c6b8c71881" data-dist-info-metadata="sha256=98ba9eaefdef6040eadceda4501312370777c0cb925f635d3708955cde23a063" data-core-metadata="sha256=98ba9eaefdef6040eadceda4501312370777c0cb925f635d3708955cde23a063">buildbot_wsgi_dashboards-3.11.7-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/23/51/81ed433329d2970dbda4523b1f9c175810ea7f69d0c9a4f81f46b53af14d/buildbot_wsgi_dashboards-3.11.7.tar.gz#sha256=6e97f7253045980360d1e97937fb771008b1f9c754402ef789a08111438e2ebb" >buildbot_wsgi_dashboards-3.11.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/17/a3/12be3485a88584cecf1d6981637d65a87051883b976073bf3f49312a881a/buildbot_wsgi_dashboards-3.11.8-py3-none-any.whl#sha256=765576fc59d77a048e78f6aaeb34f851e694ec3c6a894e52dd25edd76c657c29" data-dist-info-metadata="sha256=4a0b4d82fe32fd1794aa56e71630b207690b98f33aad0d37bed35e2409292957" data-core-metadata="sha256=4a0b4d82fe32fd1794aa56e71630b207690b98f33aad0d37bed35e2409292957">buildbot_wsgi_dashboards-3.11.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/57/8f/7485e0969a33654a3e675d8858a577afffa4273b08b2fa15ee8972376c2b/buildbot_wsgi_dashboards-3.11.8.tar.gz#sha256=ec509fee26ca5bf1aaaf359e5cb75999f1e5cecdeff6161f4940bf4d677d094a" >buildbot_wsgi_dashboards-3.11.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/70/52/734fdc5904920311b5efdca6869afef8ad7d9bfb31a430124b3ea7cd3d1e/buildbot_wsgi_dashboards-4.0.0-py3-none-any.whl#sha256=c2ce7df98ed91eb2e924ba3c4484ba7405d45f4a9357304a0fac1bce0d6d7eb8" data-dist-info-metadata="sha256=31623c6b32a65c184e829ed502e7dd040db47e393790f92a007b549de5c9b59d" data-core-metadata="sha256=31623c6b32a65c184e829ed502e7dd040db47e393790f92a007b549de5c9b59d">buildbot_wsgi_dashboards-4.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/05/7f/188bdb76cafe3ae127376ff4ba616f0155c0725c7b3721d18e4bd5d159da/buildbot_wsgi_dashboards-4.0.0.tar.gz#sha256=324acc71a7f651e5188e4c1c7618f8ae107012d54448910cb466bb440acd2f3d" >buildbot_wsgi_dashboards-4.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/d5/fe/eb2a0c7f5481030f972a19a2de57f8df060fd25d3d83d809f0c74cb62ef9/buildbot_wsgi_dashboards-4.0.1-py3-none-any.whl#sha256=573585726fbaaac49a84b46aef88717012e3f5f8875bdb0c5cf6bb8bb670a4bd" data-dist-info-metadata="sha256=d9908809a3be830474d698abd847d3a64024fd756b992dfcc5150ca07a0764fb" data-core-metadata="sha256=d9908809a3be830474d698abd847d3a64024fd756b992dfcc5150ca07a0764fb">buildbot_wsgi_dashboards-4.0.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5f/d4/3ac4be72bb962fcbfd32551b67f2a2bd1544fd9f1841ab530dc506326e80/buildbot_wsgi_dashboards-4.0.1.tar.gz#sha256=76df3ca816e7b003f6815622595b8eb560b453f36de5a66f2092973ee170abc0" >buildbot_wsgi_dashboards-4.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/8b/fd/41db83e90e63afa6144445364f089c0a92e53b3a1afcfe74f45802311c64/buildbot_wsgi_dashboards-4.0.2-py3-none-any.whl#sha256=4825511c6e36d159a4d8e56f489a28517682019dda6eb85213c8dd6e0cb4ddd4" data-dist-info-metadata="sha256=208b41bd407267862fc3eff44c0adf3c675a5517954a1721820db2ca2240ea97" data-core-metadata="sha256=208b41bd407267862fc3eff44c0adf3c675a5517954a1721820db2ca2240ea97">buildbot_wsgi_dashboards-4.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/72/9a/11c18b86ac84bf2306f254c9af0e38265daeda61588af3e26ed9e6e8ff72/buildbot_wsgi_dashboards-4.0.2.tar.gz#sha256=a44eb00cc2d81ad0e06918eabff492f5b9ba179f26a253bda102375e495c59f8" >buildbot_wsgi_dashboards-4.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f4/54/2f4dc55ae052ece639459592955bd448623b04837ce046bfd68070b6270f/buildbot_wsgi_dashboards-4.0.3-py3-none-any.whl#sha256=c1acf6027f25ea2fdbf27864df582777031fdc198b3cae3554c8d47ef13a234f" data-dist-info-metadata="sha256=51a3d044021059bb7483337c89de60e29d25e93750fbb07874b999e0c7240d10" data-core-metadata="sha256=51a3d044021059bb7483337c89de60e29d25e93750fbb07874b999e0c7240d10">buildbot_wsgi_dashboards-4.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c9/37/07f5b5847b3d77931e627c384dbe478a855dd9677f5704bee47d2329f041/buildbot_wsgi_dashboards-4.0.3.tar.gz#sha256=7732b85af051c56a007e1b1d2a86149ec1bdece2a633c260af852fecd3e98959" >buildbot_wsgi_dashboards-4.0.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24396500-->
+<!--SERIAL 25233263-->

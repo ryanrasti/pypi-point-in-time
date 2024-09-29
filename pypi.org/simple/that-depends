@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for that-depends</title>
   </head>
   <body>
@@ -100,6 +100,16 @@
 <a href="https://files.pythonhosted.org/packages/24/dd/f2b49631fef2c1b82d50a9e0c31de1aa7c75b5a5add7de3ffa57e44c850f/that_depends-1.18.0.tar.gz#sha256=d16c14f52299ad853a8fddca20d247c474fb58392f253f55fc95132ac5cd92d8" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.18.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bf/0a/b9d19fb50a2707c645717b2ca17a60107f0842e402a8c1f0c68899e9004c/that_depends-1.18.1-py3-none-any.whl#sha256=811044c2ecf621325c5e17944f9e133dbb3d4481cf8d4a86cfa95207adba7b6d" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=f27d33a4086176fa1288274d9f0e4b9ec8ada2e72d627bdb1a44b0784afa73c4" data-core-metadata="sha256=f27d33a4086176fa1288274d9f0e4b9ec8ada2e72d627bdb1a44b0784afa73c4">that_depends-1.18.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c3/eb/a2190456e2b8bb79a93a9d415cf38cdfd2010f1b573be1fa7779b1e05904/that_depends-1.18.1.tar.gz#sha256=22ae5e1ac37b94191d5793a34b984c9abc5fe79c20484305d3fe5f8b2fafc881" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.18.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b2/f6/04b9fcd37440f1abd874b29e5549901366c31b561dc7ad05099602334e79/that_depends-1.19.0-py3-none-any.whl#sha256=0a8edf780bd93b5b834e8d013cc44921c08372456522ef9593907d45e954540a" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=a6177901c696014099bce9ec9454c17bcb2a039b572f1fd4b44b72e14718be2d" data-core-metadata="sha256=a6177901c696014099bce9ec9454c17bcb2a039b572f1fd4b44b72e14718be2d">that_depends-1.19.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/1e/31c80595ee0c2eaee00262949c9d1dcf5e7648960be86c335d6af13f1ed9/that_depends-1.19.0.tar.gz#sha256=339c7606c325ef33331b57e9f29effbd2fd8f37eef1b41865c1d967886c37b3e" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.19.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0a/74/1897e8ef0056c1f5c1390f6cc41d1bb5f60f49246024c8a3b944a7de4e74/that_depends-1.19.1-py3-none-any.whl#sha256=a44e17c14f05a6351f6cfac43d019b2cdb1ded3296959ed4ae6d3883e96d2ab9" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=2262ed35b47dff90ea34199d352be2d8de0b596dffbf8e0461efe50081e8280a" data-core-metadata="sha256=2262ed35b47dff90ea34199d352be2d8de0b596dffbf8e0461efe50081e8280a">that_depends-1.19.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e4/2d/cf65d70c9b14b2aef0f102f3b92d5185d95a9e5a1aa772e469b6f193a406/that_depends-1.19.1.tar.gz#sha256=9771fe09e6215810d3a6dedd80629066378c872b8845ca7462d36f84d7c8ff7c" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.19.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/be/a7/ddd3a4b48853163fdd947ecb2061b4d2633d65deaa89ab4c7725e3bdac2d/that_depends-1.19.2-py3-none-any.whl#sha256=5aec5597a62936da54fe99e47b6785dee7f1e089bb73517999caeb41fed90c2d" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=222eb7c0c93b92d8ff09899656e4010293aeb57801f8da5367a1d3da1197bad1" data-core-metadata="sha256=222eb7c0c93b92d8ff09899656e4010293aeb57801f8da5367a1d3da1197bad1">that_depends-1.19.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ec/e3/13ce3db59e5bb1b4c80f861257e432a16234e030131251954a808dba2f85/that_depends-1.19.2.tar.gz#sha256=36fed0b1ec6d658af797adf03b50b3374bc5da679dd126ef54968affcc4b152f" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.19.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7b/8d/ee0f3dcae30712cf2473ce10601d58dbf2f468e87306f48b737b6a2aaf77/that_depends-1.19.3-py3-none-any.whl#sha256=c4fb7231866f7565ed10beecbb06e97693efd4f8d298de09eb7af58e52d7b301" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=27983e9345bb1db9218bd66436edfbadba40bc52cb49937efefdffc45397327f" data-core-metadata="sha256=27983e9345bb1db9218bd66436edfbadba40bc52cb49937efefdffc45397327f">that_depends-1.19.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ea/d4/d53cb9c4e651dc41d2727bfa2bca913ba29c41eba33e216614ac535677b3/that_depends-1.19.3.tar.gz#sha256=f82f57e26040157ed97f838cfff1f3ae154387e2a30d0d50a2e54cc2c3840c31" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.19.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/80/e6/d0efa1be386a96139441bcfe25f2913fdcf033220b6672ecc6eed5a3e87f/that_depends-1.19.5-py3-none-any.whl#sha256=adabbb55ab6d744718d3774a0f6f36d7c862a376d1be37b3ba44f5bdfc93fbd3" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=cadd42b16d19908fd48cb8b882033cdd1f2181f37fc10c5e58049871f9250497" data-core-metadata="sha256=cadd42b16d19908fd48cb8b882033cdd1f2181f37fc10c5e58049871f9250497">that_depends-1.19.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ef/3a/9f6eda25c2ab9469ed8218d4999c23467fe484baf77b7db803db68bcba52/that_depends-1.19.5.tar.gz#sha256=374d11bf90c0edb9d718f8970b553c40b12a87294bb5c7aa19c3dc1f28035b3d" data-requires-python="&lt;4,&gt;=3.10" >that_depends-1.19.5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25018727-->
+<!--SERIAL 25236344-->

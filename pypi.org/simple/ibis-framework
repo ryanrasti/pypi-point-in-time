@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for ibis-framework</title>
   </head>
   <body>
@@ -171,6 +171,8 @@
 <a href="https://files.pythonhosted.org/packages/b2/39/c1c69f56af7b8d22c68a2817637a7de4b2f73a418fe60d8f4fbc7719cb1d/ibis_framework-10.0.0.dev52.tar.gz#sha256=143982d79f4f639be6bbe3662e57ab413e39039ec24eaeed13c5db8cf8b28821" data-requires-python="&lt;4.0,&gt;=3.9" >ibis_framework-10.0.0.dev52.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/99/f0/86b7bd8d5029dc5aa4391ca5b90d4dc4851b2662665a6bb3bd8a4efe98d9/ibis_framework-10.0.0.dev55-py3-none-any.whl#sha256=cd32ccd0f28f72091ae87e6d14b2f2b9fb970fe5156a4601f924e6e616a9c8ee" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=9e0b660da94d25e9b981183c1629f4d9110bf28218a373cad2e71fe094439ef6" data-core-metadata="sha256=9e0b660da94d25e9b981183c1629f4d9110bf28218a373cad2e71fe094439ef6">ibis_framework-10.0.0.dev55-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/da/38/1afc5d8b52d3940273e5813f31f61b54f0b17342eea0b2289968033aaea6/ibis_framework-10.0.0.dev55.tar.gz#sha256=2d678f16f49f0175547f8a0861559f03482b1a684814f7226777761b09962454" data-requires-python="&lt;4.0,&gt;=3.10" >ibis_framework-10.0.0.dev55.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/80/2b/3c91c4db96b379646ced3bc9067d97ed479e7ffeb6d1bf72ad07a0c62787/ibis_framework-10.0.0.dev69-py3-none-any.whl#sha256=43bf0d5f14ded575d36a65b647815af20806e6e1402006bf64839d3941d7004e" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=bcf60e8b2cd6cda25b11ea62954e6740d9082ec01e58ea4f6e4e81c1e1e5a8c0" data-core-metadata="sha256=bcf60e8b2cd6cda25b11ea62954e6740d9082ec01e58ea4f6e4e81c1e1e5a8c0">ibis_framework-10.0.0.dev69-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/38/99/e524a3bc7037d65c09be94381c58e2f3d23ce03f0635edcc4f0f0f3882eb/ibis_framework-10.0.0.dev69.tar.gz#sha256=304c89194e714fdce1415d267f42f51308d01843446f2521b897c0d76cc91e77" data-requires-python="&lt;4.0,&gt;=3.10" >ibis_framework-10.0.0.dev69.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/95/d9/a40e6ce4501585e4b63dfd49fdf22d9721b37d0f1f0e1703f81b003ca582/ibis_framework-10.0.0.dev71-py3-none-any.whl#sha256=65761eb4ca1d31c4f9946d752366780e0de1efb8df4504fc19566d65fb711deb" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=2a7a0c4df2595931a550ddb0b41eaf975d9161c591875b1f59c233141657c4ee" data-core-metadata="sha256=2a7a0c4df2595931a550ddb0b41eaf975d9161c591875b1f59c233141657c4ee">ibis_framework-10.0.0.dev71-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/56/39/ea59780bb925739e81b1484f4cbd64bc23a62fcaab6dc7214a57b3c5ce4e/ibis_framework-10.0.0.dev71.tar.gz#sha256=b01e4bb703ab1dd79e67eacac0f092a8c77356afb1374a1876b538761aa74f04" data-requires-python="&lt;4.0,&gt;=3.9" >ibis_framework-10.0.0.dev71.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5c/05/968146eb2dabec7bb1376a82ec5bf580ccab8314a261ac2e724ab12aaa90/ibis_framework-10.0.0.dev77-py3-none-any.whl#sha256=151dc1c412cf1b72f670263e3f37a72b896cbc360ab44b8cd71f43d38dcee658" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=e853ac62fb09e288b3f9e6d48b83ccb2daa75ab959c54a72c7b8a8c7a5191782" data-core-metadata="sha256=e853ac62fb09e288b3f9e6d48b83ccb2daa75ab959c54a72c7b8a8c7a5191782">ibis_framework-10.0.0.dev77-py3-none-any.whl</a><br />
@@ -189,4 +191,4 @@
 <a href="https://files.pythonhosted.org/packages/5c/41/7b0e8be6b005410dcb2085c4f6027f71a2c9935af1eace4dd2c002d3fef9/ibis_framework-10.0.0.dev145.tar.gz#sha256=0cc92d13e240b902c0d2ea5d347196e9d1d98c30ae9d0c0f002c44306e4d517c" data-requires-python="&lt;4.0,&gt;=3.10" >ibis_framework-10.0.0.dev145.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25035429-->
+<!--SERIAL 25133747-->

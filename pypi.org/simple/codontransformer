@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for codontransformer</title>
   </head>
   <body>
@@ -42,6 +42,14 @@
 <a href="https://files.pythonhosted.org/packages/eb/7f/fcab4048847612c37b53005ef2eab6cccb2c8497a8cc630b2d6cc851fed0/CodonTransformer-1.5.1.tar.gz#sha256=149186ca42bfe41b0cadcd41f1385ac8f934ce8f6912867869d37faaa6269931" data-requires-python="&gt;=3.9" >CodonTransformer-1.5.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e4/24/2fead9f3144a744365778493c6b85f10656892720b72886f37ecdb876ff4/CodonTransformer-1.5.2-py3-none-any.whl#sha256=6b15e831b5fe551bc3644efda39396e78ece720275d4f6a3d0bbbffc56e41e2f" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=be89b35f63d7f69f4463cd46a234fe54828f6791cdf4c82e8c12035483f19b69" data-core-metadata="sha256=be89b35f63d7f69f4463cd46a234fe54828f6791cdf4c82e8c12035483f19b69">CodonTransformer-1.5.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f5/47/7445a288195f6a8fb817a9b8b13f6e200f134d8bd5af46a17b0a4b621d9f/CodonTransformer-1.5.2.tar.gz#sha256=f451de4bed506c3b98e0fa225fabcc6f61c459a407f67a3a3d4e25a78d591fff" data-requires-python="&gt;=3.9" >CodonTransformer-1.5.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c2/c6/17832868bf72bfcf7ec25c2b2a0754fe02db69795050330a6a404120562a/codontransformer-1.6.1-py3-none-any.whl#sha256=99e407b3265e2d4aa160773a7c8c083da580b25efe97a5eea912fd83cff6e9ad" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=b55ead628a85ead3188957ad2dd3c837812c89123de4790fdd7413e214207086" data-core-metadata="sha256=b55ead628a85ead3188957ad2dd3c837812c89123de4790fdd7413e214207086">codontransformer-1.6.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9e/84/2968950ba873209ded7545376e86e1d3b4e57bed48fe2b60bd3b1ea7da73/codontransformer-1.6.1.tar.gz#sha256=d6739a7addf43d44357a2ffd165d617e65a2b9aa661ad0eadb400e2137a64f5d" data-requires-python="&lt;4.0,&gt;=3.9" >codontransformer-1.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3a/92/17c925eaea60aa30f51647f39391d34c03cdfa5105c93198a05efa8e353a/codontransformer-1.6.2-py3-none-any.whl#sha256=0fe9fbca34f0ee36ca31bb4fa6aa7b9e8e19268869ea9e7d514a247ff49ef53e" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=19538a47d178955a53e1b66d736e68dc285d5f192de5234c4f8a96025b81d965" data-core-metadata="sha256=19538a47d178955a53e1b66d736e68dc285d5f192de5234c4f8a96025b81d965">codontransformer-1.6.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/cd/828bc5887113b497f9923e7c48a833f55c3cdee4d1f8e6885bd9f52d5bd2/codontransformer-1.6.2.tar.gz#sha256=9da1f16cb79e707b88deb6b70f41ffaab9415ea453d71e5968cf34c9394c4cba" data-requires-python="&lt;4.0,&gt;=3.9" >codontransformer-1.6.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/00/0d6b944f2434c8c3c93f3ebd7d822c6284be534c8c039bbb6bf84b38a540/codontransformer-1.6.3-py3-none-any.whl#sha256=704dc19f3395e33fc3cb4c69802a52b095a3b465c483d6ad1816564bf9736642" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=7fbdd8eeb73b6cf7a7c05598aaf2c508b14283f0b8c3697e5f08b753c158be00" data-core-metadata="sha256=7fbdd8eeb73b6cf7a7c05598aaf2c508b14283f0b8c3697e5f08b753c158be00">codontransformer-1.6.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/80/8c/9edbd7a8fc71c61a93be7d2489e4c0682aeef30714ad91822e5d101aeacd/codontransformer-1.6.3.tar.gz#sha256=e8c72b3f829910862c455d0a1b6aae4c54e038f98d44c4d7c3a7fb5810fbdafa" data-requires-python="&lt;4.0,&gt;=3.9" >codontransformer-1.6.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c1/ae/2974c866f67c7ba4c6fed16df4e68cd1b1854fab3c0c87a913502d419e42/codontransformer-1.6.4-py3-none-any.whl#sha256=bc40d347415b558e4f234d92d730ee3408e17e17a4a5b20404c380d7d0c9fc7a" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=db7c8bf677d26d9f5ab13023b5613a21027cee721208de8bbe059c1f8e5e3d1d" data-core-metadata="sha256=db7c8bf677d26d9f5ab13023b5613a21027cee721208de8bbe059c1f8e5e3d1d">codontransformer-1.6.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0a/62/05d08d78ad772a5d5642d78ffda4f6c721d906c627d78c17ea69a986e0e3/codontransformer-1.6.4.tar.gz#sha256=beb2a9d8ba62e72a1dc2f31febea237c5b46ceb38ebc5ff540c21c6aa7d35eba" data-requires-python="&lt;4.0,&gt;=3.9" >codontransformer-1.6.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25031958-->
+<!--SERIAL 25132267-->

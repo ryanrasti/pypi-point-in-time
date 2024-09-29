@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for pysqueezebox</title>
   </head>
   <body>
@@ -63,6 +63,14 @@
 <a href="https://files.pythonhosted.org/packages/9d/ce/02ab09fc130553a9a0030f6732a1fcfd77d5247a079b7af522e694029117/pysqueezebox-0.8.0.tar.gz#sha256=49df2fcf6cb8ad67a210261a0da347200f7ab99d9f0943a2f22494b542b5a474" data-requires-python="&gt;=3.6" >pysqueezebox-0.8.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/62/40/ac4724412c7f41080b43eaee1ddd41fa55189f4cf787a082478bb0d7005e/pysqueezebox-0.8.1-py3-none-any.whl#sha256=1d596e0755c2711335ce71e95e80e9156e05ee4d39aa37af5f275f6e05fb5e07" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=a7efd3c041f45849781d0eb84750f370efa099f744288cd6934c45024077082e" data-core-metadata="sha256=a7efd3c041f45849781d0eb84750f370efa099f744288cd6934c45024077082e">pysqueezebox-0.8.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/0f/cb/613fa0db76feea9c966ba293720cd27c0cafb9da33dc798b728cb9a3e4ad/pysqueezebox-0.8.1.tar.gz#sha256=4b95d4a0dbee7fe059199a754e6e691702c9abbc6f6cc90d7f42539f15f923be" data-requires-python="&gt;=3.6" >pysqueezebox-0.8.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/87/27/3850f60e449eb23f9ea7f814e43ff0e4af324f0210fa85974b0815c931a7/pysqueezebox-0.9.0-py3-none-any.whl#sha256=020ec88beaa5abaca7f02f97ef2a967e959c6b4c523cee026472fe9d69fae1b2" data-requires-python="&gt;=3.10" data-yanked="errors in alarm support" data-dist-info-metadata="sha256=5844b19e71bfe98437b8623e726d0a1c151061a7dc821f4c2b2468541248f06a" data-core-metadata="sha256=5844b19e71bfe98437b8623e726d0a1c151061a7dc821f4c2b2468541248f06a">pysqueezebox-0.9.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/04/43/6a93436bbe76701b1fa4e2b5915209c11c42efadd831da47a41825c614fc/pysqueezebox-0.9.0.tar.gz#sha256=27771c717f1522b547a4953c522a782a1c5a375c0e6dc6f2569cb0bdbb5b1423" data-requires-python="&gt;=3.10" data-yanked="errors in alarm support" >pysqueezebox-0.9.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/05/cd/be7f34c5a060bddd7c6bba0f9b60c1af9ecaaa95e9fa98f4f6b7e5b95919/pysqueezebox-0.9.1-py3-none-any.whl#sha256=0c134076101751ebc6a88fc96d9b462e5b838ea3e745b5e49046f6d186f4c1cb" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=d7ff50e82ba7422a488a09c18e9cf3ad5b506ae72cd056a75a7e98b52def7c6d" data-core-metadata="sha256=d7ff50e82ba7422a488a09c18e9cf3ad5b506ae72cd056a75a7e98b52def7c6d">pysqueezebox-0.9.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a1/fb/d8ee0790577b33ed27d150d3678d5afaa8d6d1d4d086a88d9a2f6566518f/pysqueezebox-0.9.1.tar.gz#sha256=3a9a7f27227426e490b452be61f104d69775380ef8dbea36091c4d30225dc345" data-requires-python="&gt;=3.10" >pysqueezebox-0.9.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2c/94/43cac27f92313dc6dac99bf72cd8aec538551c19267f9596c4443c7e2520/pysqueezebox-0.9.2-py3-none-any.whl#sha256=eb86025fc03edcce06f13833e161e1abf1544e4fd90696123b12199b356ec058" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=00eae77d956acff4f44cec187ba1b34de5da93f61df45724a6aa8163eb6b80e8" data-core-metadata="sha256=00eae77d956acff4f44cec187ba1b34de5da93f61df45724a6aa8163eb6b80e8">pysqueezebox-0.9.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3d/8e/d195d034bdee6c18deb7ffd252ad5909da4fc3602057fa998c2d87b11233/pysqueezebox-0.9.2.tar.gz#sha256=5c356ca55a1382e6e6b40874bf2b8689821652192d3c9ff5740ae493a474f83c" data-requires-python="&gt;=3.10" >pysqueezebox-0.9.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/43/f2/9b731c90dc96e57bf1053b91c7535ed5127d43598d760cb5d7629ec1deb3/pysqueezebox-0.9.3-py3-none-any.whl#sha256=6640ff31178a5bb820150b7b58b0042afb6dedc50978a57080d9ad196cf83dd3" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=4706f93e4c94861fd397aed78cc8fc50e9eae312757938b5f15a14bc2aa318c0" data-core-metadata="sha256=4706f93e4c94861fd397aed78cc8fc50e9eae312757938b5f15a14bc2aa318c0">pysqueezebox-0.9.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a3/72/afaa1dfc3d88f527df6ad1c60cf6e020eaaa312e7799c8781c0564cc0408/pysqueezebox-0.9.3.tar.gz#sha256=49622d8c486aee301be649568ff2e686e7407835ad344f419f2ed444d5ab4270" data-requires-python="&gt;=3.10" >pysqueezebox-0.9.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24743447-->
+<!--SERIAL 25222445-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for amz-extractor</title>
   </head>
   <body>
@@ -14,6 +14,18 @@
 <a href="https://files.pythonhosted.org/packages/06/b9/1c1d353ef42a62de03b3467737e667253993482652fdfb8fc462e9d55394/amz_extractor-1.0.1.tar.gz#sha256=ebcb9bd24a26cd26e018aad61493fe154045c1c824eb7403e4ad912496083c51" >amz_extractor-1.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/20/c3/4a9a9947ed1a05921b7651724d8216f852d09798cf64b70faa3fc0d70a12/amz_extractor-1.0.2-py3-none-any.whl#sha256=3ff9ce0506a3817efb4bb26dad7b58fc5d1139c84af0aca3021b7d9f633fe182" data-dist-info-metadata="sha256=71865179ee71848f4a1437f31ea89b932031c6a0626a9dc90a7a8472089f691f" data-core-metadata="sha256=71865179ee71848f4a1437f31ea89b932031c6a0626a9dc90a7a8472089f691f">amz_extractor-1.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/8c/5a/a9346cd0aba533003b60584829027d0d5559cb0c42b5cd2b650ae321c22a/amz_extractor-1.0.2.tar.gz#sha256=5cb576e41a7a64776bb58e7394b8007d8a952e85a41123644ada91ddc2e15da6" >amz_extractor-1.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e7/9d/b9c4c5a73600061e521a0bb9d280e296d8f258a64c5d5a2ff8b0bb97689d/amz_extractor-1.0.3-py3-none-any.whl#sha256=391001f08ea153c7eb1b5d65c303f344021931572ed23a3312eeda1d1341a977" data-dist-info-metadata="sha256=9a6cf43fb18eec567b899813217ec99b6b37afdb9d9390d5967215a82028228a" data-core-metadata="sha256=9a6cf43fb18eec567b899813217ec99b6b37afdb9d9390d5967215a82028228a">amz_extractor-1.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/41/067a7193be92eaaac232eab0a318e5a7e26e9e6c2a377712d2693ca433db/amz_extractor-1.0.3.tar.gz#sha256=a759e2dd49ae225a2cf4562e20f95aea7d8d00c91a1949362165b4b1db888213" >amz_extractor-1.0.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8a/c6/453de6d15c1fc1b9d5754bba0a113265b25ccd7db3be3760b40d59047b4f/amz_extractor-1.0.4-py3-none-any.whl#sha256=7dae2250e0dcbdf3a5336590550ae20d6cf779f9108c1c9aa5c66b5a71c3d176" data-dist-info-metadata="sha256=b793a64a8c34514f272333937e5972064d6c767e3404e7302b33c9e6f4dc7ae9" data-core-metadata="sha256=b793a64a8c34514f272333937e5972064d6c767e3404e7302b33c9e6f4dc7ae9">amz_extractor-1.0.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/77/95b7deeebccaef11922c4f01dc21f7c6e6bb8bf07e629dfc81c1610e3d92/amz_extractor-1.0.4.tar.gz#sha256=605d0a5f5b5bf8dd6ae4ac23f50d45babe83f4fa1aa8945bb2d12f5a8127922d" >amz_extractor-1.0.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7f/f1/efe83a7fdf64428a82f9d95c305269b1d5e082a2fd6ccf5e91340cd45745/amz_extractor-1.0.5-py3-none-any.whl#sha256=56e8a9deca85e51fd6e21efa06fbb87c542fe2b6318da8f6ffe2f6f9a332a214" data-dist-info-metadata="sha256=78d2eb8c6ae2afd4489010521c618eb7e5f16316505a41710c9f994b04a21fad" data-core-metadata="sha256=78d2eb8c6ae2afd4489010521c618eb7e5f16316505a41710c9f994b04a21fad">amz_extractor-1.0.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/24/3e07c7506b5063bb02f5a9b47935ae793dd35db6cde501bf70e3700bd989/amz_extractor-1.0.5.tar.gz#sha256=d3f17e6edc82a152422b28b54ee4f357c4c8f87216aae40ef9166588aa674912" >amz_extractor-1.0.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/37/7b1b4f2d953dd3c1e4fcaada05e867d86ffc9334331ada87b4db87c777c5/amz_extractor-1.0.6-py3-none-any.whl#sha256=754faeae7dbd47e9113786929db55c7766e077f83d601f481e27ca84b3e774c3" data-dist-info-metadata="sha256=bf8bb97cc6e436d286f946a56f115df024d1a731701a37ae73fee8ed2412f629" data-core-metadata="sha256=bf8bb97cc6e436d286f946a56f115df024d1a731701a37ae73fee8ed2412f629">amz_extractor-1.0.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/73/fa/507ea5f4cccf65405a4f17e177236f7b025647e41ff8d9fdb45503690b2d/amz_extractor-1.0.6.tar.gz#sha256=5ff54a9619caba886dbb844858fefb4d2abd9ee7d839e8f88a58176df94b661b" >amz_extractor-1.0.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d5/e2/e91bf9e341c7d6a2c53046c8ca04e7f9e4518e5e0c502a2b4d036ecf48e0/amz_extractor-1.0.7-py3-none-any.whl#sha256=77076b0041a58be51fcc7fc434ac09d2a348e385cba5708e60bc668f98b06d10" data-dist-info-metadata="sha256=1c8dcda81b0d8f8fd7cf4746aa1adeca73640737e96f1a0e8f9600168f7e5625" data-core-metadata="sha256=1c8dcda81b0d8f8fd7cf4746aa1adeca73640737e96f1a0e8f9600168f7e5625">amz_extractor-1.0.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/87/d9/7611acbe94bb582751d2802c332115902057d3d6757bd12c0dc2f264d889/amz_extractor-1.0.7.tar.gz#sha256=797e086ee3b3bb215c424b2746c1a7258bd1d7304fa373e12e00c17250248ab3" >amz_extractor-1.0.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e4/df/1781a93c734f54979b22ae52e76c8df433998dc31d8061fea648cebafa9b/amz_extractor-1.0.8-py3-none-any.whl#sha256=592902069d3be46b9e9f8e1358c97278bf59d6e157a290e441c36fa3fe4d82ed" data-dist-info-metadata="sha256=6cfeb27900e9e48d821bb0cb26a7ad2571e819e62e19c8dd5c3c8df7fca0d2c8" data-core-metadata="sha256=6cfeb27900e9e48d821bb0cb26a7ad2571e819e62e19c8dd5c3c8df7fca0d2c8">amz_extractor-1.0.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/e9/bfecb00514d381d8e6022b77448d5dcc23fa0f077f30db3732ff55ef341a/amz_extractor-1.0.8.tar.gz#sha256=d1dcbee87dc02a431d80f610b6b99e928a187de332534befe5de4f22915dcadc" >amz_extractor-1.0.8.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25029176-->
+<!--SERIAL 25216522-->

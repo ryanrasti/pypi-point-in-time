@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for devpi-server</title>
   </head>
   <body>
@@ -165,6 +165,8 @@
 <a href="https://files.pythonhosted.org/packages/3d/09/9d5c3dfc33d9e6e37e6f393744f0558aaaad4abb45b33f7c789a849eee41/devpi_server-6.12.0.tar.gz#sha256=31e916f06562d6c29edb926e01a94800666afe6333a84c95c8e11285549212d1" data-requires-python="&gt;=3.7" >devpi_server-6.12.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c1/cd/722e084bc5dfb2a598d1dffb3fb178d6a50a2617bbdf5e4e49e7b369aa78/devpi-server-6.12.1.tar.gz#sha256=72bb14b545b2dda6f1b279da3885475b0eb3a763152442abcd41ce39219310c5" data-requires-python="&gt;=3.7" >devpi-server-6.12.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ec/2a/46707c8a8fb0c79c3e64a15ca71827f03e665beaf4ccc509f4f2bbd51c05/devpi_server-6.12.1-py3-none-any.whl#sha256=1bf0859784441a902ec264754569ffb78fcac2250a923ba03948dd64b5f05283" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=4ff58ecad46bc478ec4fdc29381431d6fee6aad7df418977472b4fae985b5c16" data-core-metadata="sha256=4ff58ecad46bc478ec4fdc29381431d6fee6aad7df418977472b4fae985b5c16">devpi_server-6.12.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1a/96/722081aec89931f3e7e97f1e91ad4baa79b150982abed22ab39d808a44ce/devpi-server-6.13.0.tar.gz#sha256=4301e2c52747866138080570a9140f96fe91ae5678a54ee7de025ab4eaeb7836" data-requires-python="&gt;=3.7" >devpi-server-6.13.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9c/0a/b1d953eca9a5d12c5195b6cbe1fb6aeb9f5c4e96c85deb6e351aa4b75f7d/devpi_server-6.13.0-py3-none-any.whl#sha256=fb06bed9b4a40b950683df501e72444f4f4e8d8345e390482e7781017bfa79ff" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=ce25d46dd5963b50f704aae2aa4f1b4edfaa40a8074f68fb3f1f78f532b1fd2d" data-core-metadata="sha256=ce25d46dd5963b50f704aae2aa4f1b4edfaa40a8074f68fb3f1f78f532b1fd2d">devpi_server-6.13.0-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24267284-->
+<!--SERIAL 25103689-->

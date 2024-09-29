@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for arches</title>
   </head>
   <body>
@@ -122,6 +122,8 @@
 <a href="https://files.pythonhosted.org/packages/eb/0c/5518479cd252f86e581765ee1955a6472b97058585bfa34b21ba4a4b570f/arches-7.5.3.tar.gz#sha256=aa2cfb354cc105132bf3dd85bc2e88a785b796237bed22e7bd9dfe5c628f9dae" data-requires-python="&gt;=3.8" >arches-7.5.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bc/5f/643f6340faefa9bfa40335154424e78b96caf84be56c4d288526fdccb3f0/arches-7.5.4-py3-none-any.whl#sha256=c68a770a258bec0f359b37271214ed4ff4132278a307bdaabbcca5b779c191b3" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=6a7e9b844b40991c0aee57936810f32e3ef1fd631dfdcd46ebd6d4de6b9aae37" data-core-metadata="sha256=6a7e9b844b40991c0aee57936810f32e3ef1fd631dfdcd46ebd6d4de6b9aae37">arches-7.5.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/a4/63/9c834505d27368847f350ffb9caf63c54b535bd394ec1665e682f67a90b0/arches-7.5.4.tar.gz#sha256=60a0a4faaa5d832f97b2dce1eb900b0e3958d218f0592ceef95f3b2dc23032f4" data-requires-python="&gt;=3.8" >arches-7.5.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ba/9e/c9121e0e5cb4eb261b1f92a5698431b085f90a44bef97f800b2d344cd1e6/arches-7.5.5-py3-none-any.whl#sha256=cfe35ef67ac50a404576d0d6e7d4a036d21f20ebd71c3e85373f3de61bbf5988" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=4c32646bff3ee980d811d269c850c1449f871c4e3443ebb836547d4dc5580b39" data-core-metadata="sha256=4c32646bff3ee980d811d269c850c1449f871c4e3443ebb836547d4dc5580b39">arches-7.5.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/6c/60d3c99b18873bb262a46770d12fe7875e501db710790a7bb97dfca2dda4/arches-7.5.5.tar.gz#sha256=bcecfbd5c9224ceb6a08769582bd90900972b0654e7bbf7fce9a335797d2d205" data-requires-python="&gt;=3.8" >arches-7.5.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ce/10/3509cbea4bbe68f0a0d0251b9c531ccfc52a419fe5c3242d9a10f5b5f938/arches-7.6.0a0-py3-none-any.whl#sha256=e52b69963599de84905fb52807c6eb2a73a6336c09ce64150bd071b86742aef6" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=6fee1bb161e3242f54de59d0edc49ef7e9c0614b7205cf0e7593459a9d4594db" data-core-metadata="sha256=6fee1bb161e3242f54de59d0edc49ef7e9c0614b7205cf0e7593459a9d4594db">arches-7.6.0a0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/24/2e/6da16b70b507fe77ea22f6c495e766dd0153d9b8137c44d0839bb64168f5/arches-7.6.0a0.tar.gz#sha256=572b7f77b2db06076780fd4d6f56751ed6d44a33d1bda2d5eccbf751821b9fbd" data-requires-python="&gt;=3.10" >arches-7.6.0a0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ce/7d/9007c000acbad60bfa6e0ccb131c0bf499faa72ea051503bed4e39ba89f4/arches-7.6.0a1-py3-none-any.whl#sha256=78fd986f5992f3cec657cc6f33e6ee861d65d8e3dd937408bbe5385dce9d8789" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=8f56519807cc37f946a82caba1403e25fe212946e5bf412e89692f90f7a67a11" data-core-metadata="sha256=8f56519807cc37f946a82caba1403e25fe212946e5bf412e89692f90f7a67a11">arches-7.6.0a1-py3-none-any.whl</a><br />
@@ -143,4 +145,4 @@
 <a href="https://files.pythonhosted.org/packages/c1/7e/c23197e598f6e8eb4daa887ba41fc3cf03b04d21381166ca8d18eaa01491/arches-7.6.0a10.tar.gz#sha256=d0461589059cc055af1c3da9ee390289d1ab00f2281da05cd79fb0e3ca0ca094" data-requires-python="&gt;=3.10" >arches-7.6.0a10.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24817513-->
+<!--SERIAL 25163304-->

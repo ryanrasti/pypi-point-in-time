@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for reloader-py</title>
   </head>
   <body>
@@ -60,6 +60,14 @@
 <a href="https://files.pythonhosted.org/packages/58/5b/038a38b71e5369a34baa54a987eaa11e81aa48bbc6ac66a013e2f2c52692/reloader_py-0.14.3.tar.gz#sha256=0ad35cbf4ffa92327dd145e926b34721b07ee6423d1afa697526bf4124f62523" data-requires-python="&lt;4.0,&gt;=3.10" >reloader_py-0.14.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/16/af/c87c54435c981700f911ee4edbd2d39e3e10a1f14aba4176bd1a68570ef1/reloader_py-0.15.0-py3-none-any.whl#sha256=d289ef0df81b7dba068f75e8a7073bc59d9c4e9adf9d0932418f2c47f5e85e4c" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=da43ae4cb1f7b48196038c2a07a786395ffc1c91e22eddaafad89db7b7c00899" data-core-metadata="sha256=da43ae4cb1f7b48196038c2a07a786395ffc1c91e22eddaafad89db7b7c00899">reloader_py-0.15.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ef/4f/998aa97ae97efa59509d9e3bdc3b589497dda504a1741c5c516b4eb01d13/reloader_py-0.15.0.tar.gz#sha256=3546a383223167776cd9b957e8cb0894165bf3a0ebd547af421c4f71313e5e39" data-requires-python="&lt;4.0,&gt;=3.10" >reloader_py-0.15.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/37/ab/aa45f0de756cb68a1daa3393b03caf38582a7d0071d7f444d9532511d71e/reloader_py-0.15.1-py3-none-any.whl#sha256=4e1892eefb602c146d33fd0d119e6811bb8e265a67f27d93eece3e11169fc2ae" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=c330b2241a3ea7f163192a0accbe175bda43cf57061317ba740809b9c30f4349" data-core-metadata="sha256=c330b2241a3ea7f163192a0accbe175bda43cf57061317ba740809b9c30f4349">reloader_py-0.15.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/15/63/0a49584460084dc30f2d549d4dabb27f1d1d6467de4d716363cf32a252d5/reloader_py-0.15.1.tar.gz#sha256=55b979562f285ebe0d6e141145e2b02959f7dcddd1a07c223289d21856c7f751" data-requires-python="&lt;4.0,&gt;=3.10" >reloader_py-0.15.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/83/6c/e3160771025f6db514cced633b3886298fa22b9b6956d46a90b408601f5b/reloader_py-0.16.0-py3-none-any.whl#sha256=80eb52352892e774ca69db38b5341cbcf634b73e04296e406a27c2734be0ad41" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=b78c98463b6c2ff5a3fc97ad3bb447a89587753aae3101bc8b550050f19350db" data-core-metadata="sha256=b78c98463b6c2ff5a3fc97ad3bb447a89587753aae3101bc8b550050f19350db">reloader_py-0.16.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/74/40/f5f9c47a61ff78a0e5e1a4871e066a462ecfa4c53236a849a84ea1714259/reloader_py-0.16.0.tar.gz#sha256=4eee2814b1872b2475252c88079e56f166db431e99ecca366df1b12258858ec0" data-requires-python="&gt;=3.10" >reloader_py-0.16.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/00/88/caa0cdd99add80856cc4b6f06bb9a29176963a6e4d20706de438f7c1c742/reloader_py-0.16.1-py3-none-any.whl#sha256=a6499e6f3a8be85717f49fa548d436cb9a82391f27e78f487f21d74031db8002" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=4cda0d7ec1b5c542f76ec3f15bfd81af26197d2adca067532791a70189d88bb6" data-core-metadata="sha256=4cda0d7ec1b5c542f76ec3f15bfd81af26197d2adca067532791a70189d88bb6">reloader_py-0.16.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ad/a1/393fd3f4c27fa2c720c027a5c59504060af758949b7aa3097a65c6eee6b7/reloader_py-0.16.1.tar.gz#sha256=81ac641bf14d3e873188adecb311a346e64fb88435645d492eb4c04bc8ca1b4a" data-requires-python="&gt;=3.10" >reloader_py-0.16.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/e6/3a1964532c3ba2a77d88d8b75e2143865efda42843f1cc91c8153d5c8bd5/reloader_py-0.16.2-py3-none-any.whl#sha256=91852479fe3910e56320c4ec7ad2bbfdaf8081d9465d4d728bca426e86626ac5" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=376245be8de995f85208e057778bfae50c69ccf38858b00d94d68d0d886c2ecd" data-core-metadata="sha256=376245be8de995f85208e057778bfae50c69ccf38858b00d94d68d0d886c2ecd">reloader_py-0.16.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/73/59/33b350a9eb2e3722de4b1503b862b8b8a181b5030c47d45aebfcd57441c0/reloader_py-0.16.2.tar.gz#sha256=cf0146c79cab9d9cb7f6464426f6a68b0daa355bbe2d1d3c31405236c44daea0" data-requires-python="&gt;=3.10" >reloader_py-0.16.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24827860-->
+<!--SERIAL 25116405-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for shiboken6</title>
   </head>
   <body>
@@ -156,6 +156,10 @@
 <a href="https://files.pythonhosted.org/packages/57/ba/3e38bb62b285d73e46a86f44e7765cea5c42a79b0bba867dfabbdd12b54d/shiboken6-6.7.2-cp39-abi3-manylinux_2_28_x86_64.whl#sha256=70e80737b27cd5d83504b373013b55e70462bd4a27217d919ff9a83958731990" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=d116178ebe48213c4304253abd76021748e0517cfca5eb1693ce1d2c1573727b" data-core-metadata="sha256=d116178ebe48213c4304253abd76021748e0517cfca5eb1693ce1d2c1573727b">shiboken6-6.7.2-cp39-abi3-manylinux_2_28_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/7c/bb/06a19d1b00d46b3840595e43d7fa648b21683e4e98c4a69d0ea06aaf5e7f/shiboken6-6.7.2-cp39-abi3-manylinux_2_31_aarch64.whl#sha256=98bedf9a15f1d8ba1af3e4d1e7527f7946ce36da541e08074fd9dc9ab5ff1adf" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=d116178ebe48213c4304253abd76021748e0517cfca5eb1693ce1d2c1573727b" data-core-metadata="sha256=d116178ebe48213c4304253abd76021748e0517cfca5eb1693ce1d2c1573727b">shiboken6-6.7.2-cp39-abi3-manylinux_2_31_aarch64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/11/9f/50ed659cbce4664374707bf416e2fac2ff94de3253ab093d5dee7f53e02f/shiboken6-6.7.2-cp39-abi3-win_amd64.whl#sha256=9024e6afb2af1568ebfc8a5d07e4ff6c8829f40923eeb28901f535463e2b6b65" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=e047860d95027a5d303ac4f2d0912d1b3895ab974e15a4da3d2dd03fcdf68749" data-core-metadata="sha256=e047860d95027a5d303ac4f2d0912d1b3895ab974e15a4da3d2dd03fcdf68749">shiboken6-6.7.2-cp39-abi3-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ef/7f/85d2234371fd260393760656e1f5977c0b6e270a0a6aca6bf7231a3e60de/shiboken6-6.7.3-cp39-abi3-macosx_11_0_universal2.whl#sha256=285fe3cf79be3135fe1ad1e2b9ff6db3a48698887425af6aa6ed7a05a9abc3d6" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=0e5c85c283cecdc791a626d2bf739b4820acea09b94545fb13758732e3422d65" data-core-metadata="sha256=0e5c85c283cecdc791a626d2bf739b4820acea09b94545fb13758732e3422d65">shiboken6-6.7.3-cp39-abi3-macosx_11_0_universal2.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b2/e9/5c0c67de510da7818703d01123f7998cc495e99c0e6979a6ed6eb2ee09d0/shiboken6-6.7.3-cp39-abi3-manylinux_2_28_x86_64.whl#sha256=f0852e5781de78be5b13c140ec4c7fb9734e2aaf2986eb2d6a224363e03efccc" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=0e5c85c283cecdc791a626d2bf739b4820acea09b94545fb13758732e3422d65" data-core-metadata="sha256=0e5c85c283cecdc791a626d2bf739b4820acea09b94545fb13758732e3422d65">shiboken6-6.7.3-cp39-abi3-manylinux_2_28_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ef/3c/bb524437df11ae79845b230d682b162935c7226b1fb7be2544dceca01e0f/shiboken6-6.7.3-cp39-abi3-manylinux_2_31_aarch64.whl#sha256=f0dd635178e64a45be2f84c9f33dd79ac30328da87f834f21a0baf69ae210e6e" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=0e5c85c283cecdc791a626d2bf739b4820acea09b94545fb13758732e3422d65" data-core-metadata="sha256=0e5c85c283cecdc791a626d2bf739b4820acea09b94545fb13758732e3422d65">shiboken6-6.7.3-cp39-abi3-manylinux_2_31_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3e/cc/e2b95aedb5e5f900c20325ef347e51c7750d18369d157f9b7da99943dae1/shiboken6-6.7.3-cp39-abi3-win_amd64.whl#sha256=5f29325dfa86fde0274240f1f38e421303749d3174ce3ada178715b5f4719db9" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=5805bcd450f8e9b74675897f751842f896cf548ac874202deab9675a70dfd415" data-core-metadata="sha256=5805bcd450f8e9b74675897f751842f896cf548ac874202deab9675a70dfd415">shiboken6-6.7.3-cp39-abi3-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 23732185-->
+<!--SERIAL 25217073-->

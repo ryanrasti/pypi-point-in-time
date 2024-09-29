@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for openepd</title>
   </head>
   <body>
@@ -153,8 +153,10 @@
 <a href="https://files.pythonhosted.org/packages/5e/94/c79f07ecebc427b9a3d03be7e19e6d67874096e5884d25b395f143bb3daa/openepd-5.2.0.tar.gz#sha256=2e0b5cd95060b112667b76b40ab7535e26a258d7021a209030353a38b57b9353" data-requires-python="&lt;4.0,&gt;=3.11" >openepd-5.2.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/db/15/84275ebf952c1318f80b895d94cf2a640c3a4c612fb9cdaa34433602fdc0/openepd-5.3.0-py3-none-any.whl#sha256=e15d71d5634484fe4a7bd7c8eaa7f508c2ab1d137137fcfc857a8ac6ec25fad2" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=b701abe2e19c038467d28b0d446630d08756782e77c95cb93656f385934b67a7" data-core-metadata="sha256=b701abe2e19c038467d28b0d446630d08756782e77c95cb93656f385934b67a7">openepd-5.3.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/81/81/6c09e38300fa9781275ca6c72a5baa29beb7d39b8c65fbb7dac10f54ea25/openepd-5.3.0.tar.gz#sha256=8ed0834d347ceb9089d620d8e9d8686355cf5f2e50de87831fa69be4157ad3d2" data-requires-python="&lt;4.0,&gt;=3.11" >openepd-5.3.0.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/ef/df/a153e2e2e02d44ce09e987121d269f2594a754e5760c3b3bc9bfd5be27e3/openepd-6.0.0-py3-none-any.whl#sha256=198dd49dfc3ee04608a5b2d1ffddf3342d2e95d81ba742a96d092b33ee687832" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=9e12ad5013151b38d783742c358aeb55b27333b1c276b1e0f36f2b5b920fc25b" data-core-metadata="sha256=9e12ad5013151b38d783742c358aeb55b27333b1c276b1e0f36f2b5b920fc25b">openepd-6.0.0-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/77/d5/b1c47ae448ec79b274073bb9cdad05918e568ba5278a1a4d661a75e4c084/openepd-6.0.0.tar.gz#sha256=81359c0b1b50515c80d17ade166b3d7a43a868751e59b0db447cb55300330e8c" data-requires-python="&lt;4.0,&gt;=3.11" >openepd-6.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ef/df/a153e2e2e02d44ce09e987121d269f2594a754e5760c3b3bc9bfd5be27e3/openepd-6.0.0-py3-none-any.whl#sha256=198dd49dfc3ee04608a5b2d1ffddf3342d2e95d81ba742a96d092b33ee687832" data-requires-python="&lt;4.0,&gt;=3.11" data-yanked="Incompatible typing in materials/RangeSpecs quickfix - use 6.0.1" data-dist-info-metadata="sha256=9e12ad5013151b38d783742c358aeb55b27333b1c276b1e0f36f2b5b920fc25b" data-core-metadata="sha256=9e12ad5013151b38d783742c358aeb55b27333b1c276b1e0f36f2b5b920fc25b">openepd-6.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/77/d5/b1c47ae448ec79b274073bb9cdad05918e568ba5278a1a4d661a75e4c084/openepd-6.0.0.tar.gz#sha256=81359c0b1b50515c80d17ade166b3d7a43a868751e59b0db447cb55300330e8c" data-requires-python="&lt;4.0,&gt;=3.11" data-yanked="Incompatible typing in materials/RangeSpecs quickfix - use 6.0.1" >openepd-6.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3a/3f/30ee14b9f04de3aa76de3a6950334e6f30e3329dc0794593d6fea00ca36e/openepd-6.0.1-py3-none-any.whl#sha256=4654570a3f8216b473436bc7274384fef218d6c3e527cfebe3bd00f5862326fd" data-requires-python="&lt;4.0,&gt;=3.11" data-dist-info-metadata="sha256=dc97c67f3acc950d70cb12036104d9fa5d420e8f27aee486a104028fb9beb217" data-core-metadata="sha256=dc97c67f3acc950d70cb12036104d9fa5d420e8f27aee486a104028fb9beb217">openepd-6.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a6/71/e8a1116a6f6c616655d76013607f81e5748d06fe65e9cc88dc5584f1b5f3/openepd-6.0.1.tar.gz#sha256=7b12b6fa93834ff4b56a95570253708a6404454acaf03a27f36b6cc67f12aa89" data-requires-python="&lt;4.0,&gt;=3.11" >openepd-6.0.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25021413-->
+<!--SERIAL 25119680-->

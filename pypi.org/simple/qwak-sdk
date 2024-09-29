@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for qwak-sdk</title>
   </head>
   <body>
@@ -188,6 +188,8 @@
 <a href="https://files.pythonhosted.org/packages/ef/fe/ae23d1c692ee18edf9e8586840079f5de62021ffe56f732a6db912146f27/qwak_sdk-0.5.80.tar.gz#sha256=6393ded9dd2665f7605b3c768b804cef5fbce4e63f865dd256be856d1b5fe3f7" data-requires-python="&lt;3.12,&gt;=3.7.1" >qwak_sdk-0.5.80.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/05/3e/e67843f95ba583c309ea6ee686912ab07d8ba7492441521d77e3bf334985/qwak_sdk-0.5.81-py3-none-any.whl#sha256=c0343b63ca69ee717ee84dc284b4a333591ee4555a0ef702c103c189e4948607" data-requires-python="&lt;3.12,&gt;=3.7.1" data-dist-info-metadata="sha256=5cef3c5526a404c8c265c5a6b45b3be7383b15c4a56934d6c3a96f1a50153365" data-core-metadata="sha256=5cef3c5526a404c8c265c5a6b45b3be7383b15c4a56934d6c3a96f1a50153365">qwak_sdk-0.5.81-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/5c/3f/9d64712a00b799c1f7e547b11bcb9b9728311b6c8357e11a884bedee6732/qwak_sdk-0.5.81.tar.gz#sha256=c623e497907ef06857e17c084315c60c0c00cb5c57519fe3bbc3cae8ca4f13e0" data-requires-python="&lt;3.12,&gt;=3.7.1" >qwak_sdk-0.5.81.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/77/ae/31c5de8debe9b7706a769559f859c3e5beb18196e60765d192ededa297b9/qwak_sdk-0.5.82-py3-none-any.whl#sha256=d96853ab514d7f157648bdd3170f19b183a99627e0249ac3175673aaa9f6d61b" data-requires-python="&lt;3.12,&gt;=3.7.1" data-dist-info-metadata="sha256=bf74e4a9ff46eb9e7a801397fe37d0096e3281776049bd0dec3d92f0b8b0e1f1" data-core-metadata="sha256=bf74e4a9ff46eb9e7a801397fe37d0096e3281776049bd0dec3d92f0b8b0e1f1">qwak_sdk-0.5.82-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e3/fd/ae42c1993f7f5463166ad83784a47d612f324e9c4bdc3fa8dd1300a82fa0/qwak_sdk-0.5.82.tar.gz#sha256=d8d231d5b40dcbf7d80e8dd5688fe2d44ea7091368eb0bc978ee78c2be2067dc" data-requires-python="&lt;3.12,&gt;=3.7.1" >qwak_sdk-0.5.82.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/d3/db/43aadacb2f0bd8c603cb2cbb87cb82cb660d7af2b179a2b10e0301c1b53d/qwak_sdk-0.10.0-py3-none-any.whl#sha256=c8e53a3ab7424f4b33b4a2127474a23a1b2a7fb63e378746bce08449d035da33" data-requires-python="&gt;=3.7.1,&lt;3.10" data-yanked="Please install qwak-sdk==0.5.3" data-dist-info-metadata="sha256=0f44e0ae52ed23db59cb124680aadfba31671468c657823bdc0d601652e1744e" data-core-metadata="sha256=0f44e0ae52ed23db59cb124680aadfba31671468c657823bdc0d601652e1744e">qwak_sdk-0.10.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/18/2f/d61705b81eed2210a12cef7445498464d0a42308e8a39756079b371a9ae5/qwak_sdk-0.10.0.tar.gz#sha256=cb19d7d568c3a8422df5a9971c1283343317d89a04492a851d7e94d570cf5858" data-requires-python="&gt;=3.7.1,&lt;3.10" data-yanked="Please install qwak-sdk==0.5.3" >qwak_sdk-0.10.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/88/92/f95ec61ff1afc66e6066096be169f306ed0cb90d831cf59583a6373b0d92/qwak_sdk-0.10.1-py3-none-any.whl#sha256=e759599397acc44908aa1ee9e0c1318b37bfcb72b0d1a1e42e74c342ef6008a1" data-requires-python="&gt;=3.7.1,&lt;3.10" data-yanked="Please install qwak-sdk==0.5.3" data-dist-info-metadata="sha256=f059f63641eed47593f319019c2a5fa7b9456441bcb01d7c4eec6402821a25f9" data-core-metadata="sha256=f059f63641eed47593f319019c2a5fa7b9456441bcb01d7c4eec6402821a25f9">qwak_sdk-0.10.1-py3-none-any.whl</a><br />
@@ -196,4 +198,4 @@
 <a href="https://files.pythonhosted.org/packages/63/c6/e3a1555d99b7312dc95f352739f9ec8788ab11afd90db648a5918c93ea1d/qwak_sdk-0.10.2.tar.gz#sha256=4f615cda86fd8b05d35a7c817c5895b15cc2f48759687ba054691b9a4fa86fae" data-requires-python="&gt;=3.7.1,&lt;3.10" data-yanked="Please install qwak-sdk==0.5.3" >qwak_sdk-0.10.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24763359-->
+<!--SERIAL 25049184-->

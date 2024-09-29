@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for eudplib</title>
   </head>
   <body>
@@ -141,6 +141,12 @@
 <a href="https://files.pythonhosted.org/packages/65/7d/778367e37514df08fb3511d2c20d6eaa39ce1fd86f88a892dbd72652cb8e/eudplib-0.77.4-cp311-cp311-win_amd64.whl#sha256=19c619047a362facf70f58deea007ba45ccc0600f830aca237463a771f7ae014" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=35ae4e6117b6373af23f4fc209e567670722dda6883e51fd41ae433605509c9f" data-core-metadata="sha256=35ae4e6117b6373af23f4fc209e567670722dda6883e51fd41ae433605509c9f">eudplib-0.77.4-cp311-cp311-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/30/b8/7e2b89c76e26a10190998f5f36618538c942ad7b3d444ffd3acbea3f1497/eudplib-0.77.8-cp311-cp311-win_amd64.whl#sha256=7ead35a69377b71677dc096ccb153d82703ae14d0f53d1cf2da4d0232b651893" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=809d6cf3ae2e8eb614fc37be83664a3b8b376e3b80829b9b020c7dbcdee7505d" data-core-metadata="sha256=809d6cf3ae2e8eb614fc37be83664a3b8b376e3b80829b9b020c7dbcdee7505d">eudplib-0.77.8-cp311-cp311-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/11/8d/c98821e8b08b4f8c7ba2a124e76ad98b1c8ce2bcecd5861afcfe92c5452f/eudplib-0.77.9-cp311-cp311-win_amd64.whl#sha256=8177887a0f75e83056c49c19cad2cb3cdf0d1a473e7d7fbac36ea0b348b02938" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=7c6128dce570516e155c41f8429a7fb8aa7a4a26f0fd1c5678b49e60815ff744" data-core-metadata="sha256=7c6128dce570516e155c41f8429a7fb8aa7a4a26f0fd1c5678b49e60815ff744">eudplib-0.77.9-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/51/d8/b0b3a9241a3946db41273cbc4dc500d3f262370425d7acb731ccd16b2224/eudplib-0.78.2-cp311-cp311-win_amd64.whl#sha256=256d6594584e710410e2439c21548a05c1b4edf8f3d439554d6dc8d0f4c0bb48" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=c5e77a52be4ba1f15f4f01a04b34351a41cbfa750028cba609e617b5e9b2155b" data-core-metadata="sha256=c5e77a52be4ba1f15f4f01a04b34351a41cbfa750028cba609e617b5e9b2155b">eudplib-0.78.2-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2c/2a/ae622fdaaf39d4421a3ec9d5203d857aa473e45f3cf3ff23673cfa77bffe/eudplib-0.78.2.tar.gz#sha256=2be83b2a9383bed0e416f8d8d473c836b56554ddcdc40c81411878b6fc396d55" data-requires-python="&lt;3.12,&gt;=3.10" >eudplib-0.78.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/74/62/62141ac8420a47d00cbbfdd1723c888e52707494ae32259158ceb327faf5/eudplib-0.78.3-cp311-cp311-win_amd64.whl#sha256=3f90878a7806261bc396e23fd3156959e69c45c8d4f4f6c8d3b8c244b8c9bc12" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=4e5ac6f6bbadac1926016dc69323f186901042295d240ab439b0e3d152c31ce7" data-core-metadata="sha256=4e5ac6f6bbadac1926016dc69323f186901042295d240ab439b0e3d152c31ce7">eudplib-0.78.3-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/84/43/d33a36d9701dadcf9a6cc33d4b39c154236dcbd472e54c27ce9183536931/eudplib-0.78.3.tar.gz#sha256=e997b93a826f3163bcdccd8b8aa4f8d4f8f24fcda21cd3ea371853a78254e490" data-requires-python="&lt;3.12,&gt;=3.10" >eudplib-0.78.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/a8/b92b95b937b142a90ae76e07631feb6a648018fa956f136fb64b704abcbf/eudplib-0.78.4-cp311-cp311-win_amd64.whl#sha256=820231235d0add3897a7c2e7d60687d2e1847abd9f5a39627342d4fca9c00c7f" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=875bfd1e5a5fa79b49d498761e31f8c5139ea2b7cd8c19b39ff78bd240ca77d7" data-core-metadata="sha256=875bfd1e5a5fa79b49d498761e31f8c5139ea2b7cd8c19b39ff78bd240ca77d7">eudplib-0.78.4-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8a/3c/482cb97a1ca5a0d9948f71065713965c22981c5e3db31b789b0bb4798281/eudplib-0.78.4.tar.gz#sha256=422049b941c16473fb98c59f387fbba7d10e390e4a8e7847934dd4357d25118a" data-requires-python="&lt;3.12,&gt;=3.10" >eudplib-0.78.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24919329-->
+<!--SERIAL 25191707-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for airbyte-source-google-ads</title>
   </head>
   <body>
@@ -78,6 +78,12 @@
 <a href="https://files.pythonhosted.org/packages/e0/40/262ecdfc77d769c27a1f3d2bbfe91c67a02044e4cee2e3a79a6ba0f03620/airbyte_source_google_ads-3.7.1.tar.gz#sha256=2e57a9bad6f0f3c3f474d2b3ea52c4246f381e9791415903e14b9bee80e37313" data-requires-python="&lt;3.12,&gt;=3.10" >airbyte_source_google_ads-3.7.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e6/5d/9ae2ca834b1d1b81157275265f4183399b3f3b586b76a781b8f6e58d1dbf/airbyte_source_google_ads-3.7.2-py3-none-any.whl#sha256=a20920ef05289a64f94a2c52d24a00aaf37a3c69855a627a9db9c624999e1061" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=6ec05148038984fbb604bc1732d4e4a5fdc8c5335a5278365ba9534698abacc6" data-core-metadata="sha256=6ec05148038984fbb604bc1732d4e4a5fdc8c5335a5278365ba9534698abacc6">airbyte_source_google_ads-3.7.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/a9/01/c5570b51525e9f931a6bd32c8686ee43aab55faf0b2c747ad13b34e06db4/airbyte_source_google_ads-3.7.2.tar.gz#sha256=f43ba9bd3c2d9570a06b8f6559dcbf3c7334d52f539e3e1712b85adfc0678e79" data-requires-python="&lt;3.12,&gt;=3.10" >airbyte_source_google_ads-3.7.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/50/af/634c68737afca18f5cc06432a69e8732a72c2d58b5386dc34d5f4514ab52/airbyte_source_google_ads-3.7.3-py3-none-any.whl#sha256=2c70f0f2eb375c196ba682fe27dfa8900aa48271578912c3071c36c76ae35365" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=12426052393cc56a60c66eb20d1e7446f13d0c5ee28d88f1aae8970fa9e7de2a" data-core-metadata="sha256=12426052393cc56a60c66eb20d1e7446f13d0c5ee28d88f1aae8970fa9e7de2a">airbyte_source_google_ads-3.7.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1b/24/7585626eae87e5a3dd2ba9e67cb824b757b9445b80aa2fecdb8a4bed0c81/airbyte_source_google_ads-3.7.3.tar.gz#sha256=5ae366c6d9b296dc5e2655ebf119ea4615a86df6bb8bef901899557399e72204" data-requires-python="&lt;3.12,&gt;=3.10" >airbyte_source_google_ads-3.7.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2f/b5/00e197d1fde79fb429b794dc70dacf7f209a75aa677dfac4ff570d7da3ed/airbyte_source_google_ads-3.7.4-py3-none-any.whl#sha256=887108daa4c4f7172456b807ac22ef0247f3873febfb8a77aa63844009b62ee8" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=da700f443013ea46aea76e6c5adb99ef194b381693b64470c1629e86e9d4ec25" data-core-metadata="sha256=da700f443013ea46aea76e6c5adb99ef194b381693b64470c1629e86e9d4ec25">airbyte_source_google_ads-3.7.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/88/4d/432246101e2a27e47ad0eb24e6066ae671c615d566e5e7cff63f54868b1a/airbyte_source_google_ads-3.7.4.tar.gz#sha256=4ca54054bee43ea958ea437fed2fad67509369596e48b02702c7047fc585370f" data-requires-python="&lt;3.12,&gt;=3.10" >airbyte_source_google_ads-3.7.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/89/d9/71aabc5e080d1a7ea61ebf54cca275f9038ff508c037b2724fa53aa878b4/airbyte_source_google_ads-3.7.5-py3-none-any.whl#sha256=68272b6a04d570ea974200bf4cc1c3a922212469cf5a204ace35d97fb6d673f6" data-requires-python="&lt;3.12,&gt;=3.10" data-dist-info-metadata="sha256=10dd6c5acb485ee93145139f678cd8d9aef0e08930899a282d84ddf316ebd574" data-core-metadata="sha256=10dd6c5acb485ee93145139f678cd8d9aef0e08930899a282d84ddf316ebd574">airbyte_source_google_ads-3.7.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/bf/b6/70f8c7fb33e8da8afd600620ba49917dbf3c4025ec87a6b629ff5ab3730e/airbyte_source_google_ads-3.7.5.tar.gz#sha256=d143132710b24059a7cdf408148e1e7320a205be32fc2a63c5866afb61e8f308" data-requires-python="&lt;3.12,&gt;=3.10" >airbyte_source_google_ads-3.7.5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24927503-->
+<!--SERIAL 25134862-->

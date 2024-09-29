@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for cyclonedx-bom</title>
   </head>
   <body>
@@ -194,6 +194,12 @@
 <a href="https://files.pythonhosted.org/packages/d9/80/00b178f03b3c6ef9e84747fa2f432f9c45126bab8828f555a197e84ea439/cyclonedx_bom-4.4.3.tar.gz#sha256=088dfff2084e9df60924975ec82b15f5e44ec5bd8ef2a29ed43905ee2b84a6e2" data-requires-python="&lt;4.0,&gt;=3.8" >cyclonedx_bom-4.4.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e4/d1/0baf99db24b6a32db992e58d0441afc53c2226aaf9415477d02573faf0e4/cyclonedx_bom-4.5.0-py3-none-any.whl#sha256=c3f16ad26dc93202cd4c2fccdf392e8d24f086782b0f111473664c4663f5aeb3" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=0ed4d119e27393b9ff6e1461e24bb5ee66899890de924d54823b0f457dfede0a" data-core-metadata="sha256=0ed4d119e27393b9ff6e1461e24bb5ee66899890de924d54823b0f457dfede0a">cyclonedx_bom-4.5.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/fd/19/1ea340c603724c36726ce562144eaf7517498564185bd978f59c50e57fbc/cyclonedx_bom-4.5.0.tar.gz#sha256=09a9a6c3b86e1a143f2d89a4955a8e303abed7106adc4f5f0207ae0e3416ff86" data-requires-python="&lt;4.0,&gt;=3.8" >cyclonedx_bom-4.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/83/80/1d043b3a32bf8fca2d85ab4f4f10d7c2dd0a9ed74a1695b255680567d218/cyclonedx_bom-4.5.1-py3-none-any.whl#sha256=df1ae65873fa7b5c2ce3292a6f002356dfb4589154972a55dfd895a6715a8445" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=ef3df8b4e919334abec2e7de74f3bb40eac1225397697bb2d05990bdb1c69d7e" data-core-metadata="sha256=ef3df8b4e919334abec2e7de74f3bb40eac1225397697bb2d05990bdb1c69d7e">cyclonedx_bom-4.5.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/92/8f/eeff1e00cc2bca1091d2a92c0d75bb9b4f3bb235f862d4c748513a88b809/cyclonedx_bom-4.5.1.tar.gz#sha256=d4db99b61ac7a7bf3d0621c9188227412406206529c32c6d463caf97424f020f" data-requires-python="&lt;4.0,&gt;=3.8" >cyclonedx_bom-4.5.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/50/e5/9ed596fdc416234de69cf06dc00f1e788ebb4e1d2a6a3d3c04fdab7e379d/cyclonedx_bom-4.6.0-py3-none-any.whl#sha256=565a6b0cf6d08c5771fd3920789b7760ef515b206a14dd51130bd0bf69031d9c" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=3a2d1f2ab03de5158d7904bda5ba4c89fae4455c5f47fe2643ef5b874803c443" data-core-metadata="sha256=3a2d1f2ab03de5158d7904bda5ba4c89fae4455c5f47fe2643ef5b874803c443">cyclonedx_bom-4.6.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/07/d0/370757bc5274f3c2c897f94f6ea4516b812259f9a3a80339add37b7ac3ff/cyclonedx_bom-4.6.0.tar.gz#sha256=80f8b308cb61d77bdb1cc3b8c85209d59b5bfd93b54b85469c14b0c6c0b7ee87" data-requires-python="&lt;4.0,&gt;=3.8" >cyclonedx_bom-4.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/f8/a711dc770acb31e850590cf374cb33a8f6f25e1159367ef8fc1c5c781dc2/cyclonedx_bom-4.6.1a1-py3-none-any.whl#sha256=2e9f9d94478957a2b10a3c16eb3610a9c6b4aa4f627aa1d6e30e133741bd59e5" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=7e1cb237c3f701de50c5aa7beec241116bc3f6bb0a835ca98f3d6e19218e6719" data-core-metadata="sha256=7e1cb237c3f701de50c5aa7beec241116bc3f6bb0a835ca98f3d6e19218e6719">cyclonedx_bom-4.6.1a1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/63/a9/eb529b9776938c27a2716494831f0ae14d8e1bd1d4932692aa7ba0fcb705/cyclonedx_bom-4.6.1a1.tar.gz#sha256=443eb41d2ae7253e40e359840494670551ea1d70bd63ec1f7122122ab6a17014" data-requires-python="&lt;4.0,&gt;=3.8" >cyclonedx_bom-4.6.1a1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23613380-->
+<!--SERIAL 25151025-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for mailman</title>
   </head>
   <body>
@@ -61,6 +61,10 @@
 <a href="https://files.pythonhosted.org/packages/ab/2d/860baa885a8c3b2d5c6a308407bf0acc5c8daec3ec6249c5a73cab8cff7d/mailman-3.3.7.tar.gz#sha256=e4c19b89ac3bd01ac1f96ab0fb587d51fdf6a73b1d76db4bc3252c79a20810c6" >mailman-3.3.7.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/96/b1/4863d865cc76c981e584c6de99d57697135b587bdcf36a436b6fccea3817/mailman-3.3.8.tar.gz#sha256=83ac07ee55ea2b4c89f00c4ed4717132f06270127d3465a53de3c5cb197d41ce" >mailman-3.3.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/2a/65/687194b7096751d86999f971520350764a66447f0222d498ff885c3ef211/mailman-3.3.9.tar.gz#sha256=19b95723a23090b97e5758046cc01ed5b695c9938731a61a6084d7713929d8ca" >mailman-3.3.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/db/da/2c7ef78a235f20de84adebc5bcae2c5bd2bafd3cd3a93b6369224e991ed6/mailman-3.3.10b1-py3-none-any.whl#sha256=e038f1df9a81e0a768388c40e37c096b63d155d3ef9ce8c0d61cbd3a4988ea21" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=7f6327fe2394f73fdb4bd887645151727fddedec70d6c04c929d3bbea8f3e1fa" data-core-metadata="sha256=7f6327fe2394f73fdb4bd887645151727fddedec70d6c04c929d3bbea8f3e1fa">mailman-3.3.10b1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/be/f6/8f81d2f71f5ef6c435b2764ff95d61528fbe729331b9fc18b1be7535a78c/mailman-3.3.10b1.tar.gz#sha256=053f01ba45680fd7309891a2a82c0bb9a49babd1b6c5375ad740d7654ebdd876" data-requires-python="&gt;=3.9" >mailman-3.3.10b1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/dc/44f4d00fc99bd69a18f083e703dd3b06f3676cebced6636041b6b12829fc/mailman-3.3.10b2-py3-none-any.whl#sha256=5f29c13b91dfd0cf59882bee6f15eb0f830f5a9c1dab1449346d8adbda3bd8fc" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=8eed383120442be0f99a0370d7cef1cd5b63e0ea9ba3e10de3f43d1d73e740d5" data-core-metadata="sha256=8eed383120442be0f99a0370d7cef1cd5b63e0ea9ba3e10de3f43d1d73e740d5">mailman-3.3.10b2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6e/2c/48fdec4f42aa75268d98a9f7112203a4e896ef585d0f626615509c88661c/mailman-3.3.10b2.tar.gz#sha256=cb53e33e7b32d889da17f533177f9995bab64a11d4a341f1af3b2cf065cb1d97" data-requires-python="&gt;=3.9" >mailman-3.3.10b2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 20262355-->
+<!--SERIAL 25183937-->

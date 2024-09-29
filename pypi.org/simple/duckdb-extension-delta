@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-delta</title>
   </head>
   <body>
@@ -26,6 +26,10 @@
 <a href="https://files.pythonhosted.org/packages/46/82/9c6f65c5620529ffec4cbbf0fe31bd62273017bfeb82a93ea8773804c74f/duckdb_extension_delta-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=43470176347538a5ba37402dd02a5975b5e28bc04933275a336755c84d321ec7" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=587ea206d6c4f2ccd33cd035c2832508bd7668f8adf5eaaec2a1ce31a6d3ea40" data-core-metadata="sha256=587ea206d6c4f2ccd33cd035c2832508bd7668f8adf5eaaec2a1ce31a6d3ea40">duckdb_extension_delta-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b5/dd/b76dbf5b347fbea11619c2200e25e133c4c48d0d301544c3528ec41f1cb4/duckdb_extension_delta-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=0e97c148011f6bb9f2e0bba28b021161734eb2d5043baa5eae9b25c32d4d28ef" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=587ea206d6c4f2ccd33cd035c2832508bd7668f8adf5eaaec2a1ce31a6d3ea40" data-core-metadata="sha256=587ea206d6c4f2ccd33cd035c2832508bd7668f8adf5eaaec2a1ce31a6d3ea40">duckdb_extension_delta-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/cb/6a/e6ef51e03a4d00315909fd16e6a652c687c690289cefc9a27d67f32b44af/duckdb_extension_delta-1.1.0-py3-none-win_amd64.whl#sha256=ab864451bc734103ee68620d8346cc4b7e631d77f1a50765171e84325fdbfaec" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=587ea206d6c4f2ccd33cd035c2832508bd7668f8adf5eaaec2a1ce31a6d3ea40" data-core-metadata="sha256=587ea206d6c4f2ccd33cd035c2832508bd7668f8adf5eaaec2a1ce31a6d3ea40">duckdb_extension_delta-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e2/cd/bb48332794233d64a20b9db0802fd844db44f3991f1fbdd295846d903a8f/duckdb_extension_delta-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=9f4bb5dc1ab9d6fa5679c4ed62144d536f9a92de5836ee3ccccae3aa007dfb23" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d" data-core-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d">duckdb_extension_delta-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7c/b1/ab89fe5a3f3f60b008947c43aead1d5eb0b7009f1a26dde2ec2e4613f7b2/duckdb_extension_delta-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=a4e9c2884cc09053303f301d9c67ba95bedcd2c64a5b3c55efe2a4d9c669b295" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d" data-core-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d">duckdb_extension_delta-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/90/96/52444ad37ff5665c2c7c71ce60e045a8e624f65ec25458445186de9f9f04/duckdb_extension_delta-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=c54dfdf6e68f86871129f1a0992079fc40043ff23a35d89bf6da46c73089556c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d" data-core-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d">duckdb_extension_delta-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ac/fc/d3476c4ac2f1183989655f8922407b4ffaeb0f36d4b79f313e47628f36cb/duckdb_extension_delta-1.1.1-py3-none-win_amd64.whl#sha256=6645849f7af7cc6ab12639af5816c5b44e6d2d2fee7818bbba0cfd2b91c8d5ee" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d" data-core-metadata="sha256=2817cc96743e9c8af228e7e8ae8e284fe1beb5163143b49f767a00dbc6b64e5d">duckdb_extension_delta-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956176-->
+<!--SERIAL 25201287-->

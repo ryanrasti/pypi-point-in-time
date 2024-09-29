@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for qiskit-ibm-transpiler</title>
   </head>
   <body>
@@ -12,6 +12,14 @@
 <a href="https://files.pythonhosted.org/packages/a0/bc/ca89bda9f1f3c0ff0e2d39df6757217b9117fc404c6a6dcb0cfbcea4079a/qiskit_ibm_transpiler-0.5.1.tar.gz#sha256=0a8551262cf8702d7ff486307533bf63939b373c4bd919019c7a489f23a84716" data-requires-python="&gt;=3.8" >qiskit_ibm_transpiler-0.5.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/13/f5/81534d11af747d5535474f0c033a8d0d54f2c39fca220752ef73ccbdb844/qiskit_ibm_transpiler-0.5.2-py3-none-any.whl#sha256=c7ab7ea98762e762cf5e7d17866387327ba80fefed97f3282248d2931d2e95e1" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=4cc8c9fd3cb06efc6b2168f302e5d701a6c97f4b1909e03482c627293ba54e6a" data-core-metadata="sha256=4cc8c9fd3cb06efc6b2168f302e5d701a6c97f4b1909e03482c627293ba54e6a">qiskit_ibm_transpiler-0.5.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/98/cf/6c0c3c6644aec65d59a7eb11f44a74af427644b1b61f0b21245620acde1d/qiskit_ibm_transpiler-0.5.2.tar.gz#sha256=e9ee0093a172f78a22c4d06f4a23bcf2d844e260011550035411e13deced16bf" data-requires-python="&gt;=3.8" >qiskit_ibm_transpiler-0.5.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/99/57/253b549fe2b716377cbfbe17f9a805559ad63f6969996c72afa67ea2cffa/qiskit_ibm_transpiler-0.5.3-py3-none-any.whl#sha256=58690eebc0c815c5afc43324a9d84907ef5847146c3020276be533065ec3bb5b" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=a4eaae4639852bef989065ad3b0eb7d07641081f95c0f0ed9c14a8700be98b6d" data-core-metadata="sha256=a4eaae4639852bef989065ad3b0eb7d07641081f95c0f0ed9c14a8700be98b6d">qiskit_ibm_transpiler-0.5.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/67/03/28aeea0e11c505bf756b21e57798154db4752590c749e3e37efd030d54af/qiskit_ibm_transpiler-0.5.3.tar.gz#sha256=528f0599c9e91fe488cc5b0b9798f63383f48a44033a3c0551e01842c6d43963" data-requires-python="&gt;=3.8" >qiskit_ibm_transpiler-0.5.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/10/90/50fc58a20ca3ff89decec1b126664f59c761af365132f6f68ec487ee8cf2/qiskit_ibm_transpiler-0.6.0-py3-none-any.whl#sha256=a9025896cac0cce3904d5308eb58fe89a7c35a4c090356a5554747611ed0dac3" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=40aa3093d0887f4638a6b3cae093cd04f517b2e0ca2ca714fc9987dda4c5fe26" data-core-metadata="sha256=40aa3093d0887f4638a6b3cae093cd04f517b2e0ca2ca714fc9987dda4c5fe26">qiskit_ibm_transpiler-0.6.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/71/68/4407f947587005809a5b58468cefc3398981aa6aec73ccc4657f4b6ac3a4/qiskit_ibm_transpiler-0.6.0.tar.gz#sha256=f65796e25a8d5b75598f3dcefe2ca849c434cb257f26a3bb715b16dfcc428888" data-requires-python="&gt;=3.8" >qiskit_ibm_transpiler-0.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/cc/ddb7a62cecc660e684126331859a66cdb3d9a33a6d4218cafa7a95a35ae9/qiskit_ibm_transpiler-0.6.1-py3-none-any.whl#sha256=03d965a6fafc6334e627530051f933ceba834675d1326a659fe36c9162a749cb" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=be35c9ec21635f81538fa8cb7ef8a6a3acf4d75405912be1e6956344c1d3ff05" data-core-metadata="sha256=be35c9ec21635f81538fa8cb7ef8a6a3acf4d75405912be1e6956344c1d3ff05">qiskit_ibm_transpiler-0.6.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ad/b6/b3fa8d3965994e2f4555105d8e45a89c79101962c0ec3c1e3f4d4fde8664/qiskit_ibm_transpiler-0.6.1.tar.gz#sha256=c0c1df5eec38e72c3242be231c5e231abc3556df9f6bde399b6a3e0d162807de" data-requires-python="&gt;=3.8" >qiskit_ibm_transpiler-0.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/dd/2565a65d8341726ac4a869045a6fcb2ce5d1d1ecaaa64ab77757642dc971/qiskit_ibm_transpiler-0.7.0-py3-none-any.whl#sha256=e55cb38872afb96e99a333010b1487f76ff843725defc2318c344f607e301e07" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=6d40b8b720fac6b977679eb7f8b81a01f0f6c0a6ab9d1f2aa06e9f5269c8fc64" data-core-metadata="sha256=6d40b8b720fac6b977679eb7f8b81a01f0f6c0a6ab9d1f2aa06e9f5269c8fc64">qiskit_ibm_transpiler-0.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/14/46/efe20a8095758c1758156913835b6e5b0c91d6b33318446d8202f1711d16/qiskit_ibm_transpiler-0.7.0.tar.gz#sha256=d30928df21d1c8368f1b7dd30a6a72d5f859be87907c771b4d90becacb1d8b00" data-requires-python="&gt;=3.8" >qiskit_ibm_transpiler-0.7.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25004831-->
+<!--SERIAL 25085069-->

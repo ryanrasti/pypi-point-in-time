@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for duckdb-extension-vss</title>
   </head>
   <body>
@@ -22,6 +22,10 @@
 <a href="https://files.pythonhosted.org/packages/f9/17/df84468bc8bcfd698c3675594d606775f2e98cab6f0d74dc72731d0f6d18/duckdb_extension_vss-1.1.0-py3-none-macosx_11_0_x86_64.whl#sha256=47f162767e62657b1b3fcd52117520868d6363a705af4b7429e9f537a8e72a95" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=16db0d50d5a1975e5a21fc1a705f56c4be7420686ebc1450b06a6c7a375fd6bf" data-core-metadata="sha256=16db0d50d5a1975e5a21fc1a705f56c4be7420686ebc1450b06a6c7a375fd6bf">duckdb_extension_vss-1.1.0-py3-none-macosx_11_0_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/be/50/915d54943007022936a5240b4e0c66141a4f81b5b267c9a2b737a27a021e/duckdb_extension_vss-1.1.0-py3-none-manylinux2014_x86_64.whl#sha256=162c189b0683b34c2fe3ed7412929d88cdeb6a963061780c552111567f7deabd" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=16db0d50d5a1975e5a21fc1a705f56c4be7420686ebc1450b06a6c7a375fd6bf" data-core-metadata="sha256=16db0d50d5a1975e5a21fc1a705f56c4be7420686ebc1450b06a6c7a375fd6bf">duckdb_extension_vss-1.1.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/43/2c/73daddbafb9b7934ebc8b134c3a71b039293b0c6dea83bd541f86d21eb23/duckdb_extension_vss-1.1.0-py3-none-win_amd64.whl#sha256=0a7898991fe3036cc775a91cbd11d0942fd3c80c2a4d142463a0ad1df3c1a93e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=16db0d50d5a1975e5a21fc1a705f56c4be7420686ebc1450b06a6c7a375fd6bf" data-core-metadata="sha256=16db0d50d5a1975e5a21fc1a705f56c4be7420686ebc1450b06a6c7a375fd6bf">duckdb_extension_vss-1.1.0-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4e/ee/e1c194efadd474fa3ae30582baf8642492cf4f1b7062ed934b77ef0c51ba/duckdb_extension_vss-1.1.1-py3-none-macosx_11_0_arm64.whl#sha256=2c4c24cc27f7af8fc4b30d9d389b7903af402cc22e317abaf7b9d9d956fed09b" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce" data-core-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce">duckdb_extension_vss-1.1.1-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a7/24/5c9c6f6ca87b4f92b68404fcfdafd8296bb3d4246c80fe2c5d4c73b0962b/duckdb_extension_vss-1.1.1-py3-none-macosx_11_0_x86_64.whl#sha256=4aa4f877fca380f56c03725b2f12428f747306a81b00dcc2104d96da4377e5ad" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce" data-core-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce">duckdb_extension_vss-1.1.1-py3-none-macosx_11_0_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3f/79/77f568065fe17387329feaea9b796147047066b1e08174e5a87efea25542/duckdb_extension_vss-1.1.1-py3-none-manylinux2014_x86_64.whl#sha256=95bab4b695839c7b4c9bc6084f4c35577311a04e6933928e673d8df01c54e5f4" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce" data-core-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce">duckdb_extension_vss-1.1.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9f/18/61c812ffec0a7614ba0f729133af5a5e6041839cf76f951870e01c7c95a2/duckdb_extension_vss-1.1.1-py3-none-win_amd64.whl#sha256=1e96e0ee542490848acfadf3079e3b2b5be2708918fe67846ed0326185cac958" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce" data-core-metadata="sha256=d9049a2e2284c5223c53b9d76dd460a94ee57fbfc6c21153b18a0c40393ba7ce">duckdb_extension_vss-1.1.1-py3-none-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24956154-->
+<!--SERIAL 25201246-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for dask-geopandas</title>
   </head>
   <body>
@@ -36,6 +36,8 @@
 <a href="https://files.pythonhosted.org/packages/5b/fe/b4f39dd23c13163aee6923a4c7a2ccb84a33e6ca0b3a8c8cfdfda31628ae/dask_geopandas-0.4.0.tar.gz#sha256=b12b89d3845cd32feb4d3040881a1e1a8537dad48c77457194f0653089458837" data-requires-python="&gt;=3.9" >dask_geopandas-0.4.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/8c/ad/91bac856de37ea61055c66e97dce76c69a1313ac62c4046ca312d031ea51/dask_geopandas-0.4.1-py3-none-any.whl#sha256=00e8484d4692317f330f5fb8e76e7d63e7d591d6597e130d6a90d289dddb2c88" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=24d00043dfa945fd9d3a6a16600c5b6f97c795f96bf86848bf75f930b7b24a88" data-core-metadata="sha256=24d00043dfa945fd9d3a6a16600c5b6f97c795f96bf86848bf75f930b7b24a88">dask_geopandas-0.4.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/8d/e9/daf58a429ae91019fe0c1b9df18d9ac64701f618b554470b80985f3c4220/dask_geopandas-0.4.1.tar.gz#sha256=d63cd39cbc25d724cf804e10fa935eea90eb7d7a006517f5f23ab0b5c340beb4" data-requires-python="&gt;=3.9" >dask_geopandas-0.4.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/de/2d/c1b3576db429fb97c98c0c03f4026c76b30533c050dd10bee107d8f7cd7e/dask_geopandas-0.4.2-py3-none-any.whl#sha256=84985d7453887a1416cb2602d1f6a8f9b10246f1d958306a4241214f9fa44a5f" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=069b9a95954123387a657ef1f976bddaf9ac2be64f525ee08f355cd5e072462a" data-core-metadata="sha256=069b9a95954123387a657ef1f976bddaf9ac2be64f525ee08f355cd5e072462a">dask_geopandas-0.4.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/96/59/8bb1d3a4ab60445faf09085835d6202b023be4346b8e5980a4cacca09b13/dask_geopandas-0.4.2.tar.gz#sha256=0c9b35f9b81506fe30e88d7b9ca38efda1829aae2336ba284706a5302b117a6a" data-requires-python="&gt;=3.9" >dask_geopandas-0.4.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23838682-->
+<!--SERIAL 25168177-->

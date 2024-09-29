@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for dsw-storage</title>
   </head>
   <body>
@@ -116,6 +116,8 @@
 <a href="https://files.pythonhosted.org/packages/5e/4d/2b06a9de61e8c7cd898d92823746e278d5775716d4bae1985cde4decdd6c/dsw_storage-4.9.4.tar.gz#sha256=bc659e00a2aca1c1f32aaf65120b98e60b3644144db9450a990adc9767bcce67" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.9.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ca/13/ec405ddd67dc6960b4e0b1d7f4f494cfb75c10ac18ad2a261f39357d20a0/dsw_storage-4.9.5-py2.py3-none-any.whl#sha256=84b7de90ed2770890740d5281f88eef70ad09ae0d30b951795de86bc188c7405" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=3aef66607897e287b19c73356b339da0f51465fbe289aaf7bd7f196ff9f14482" data-core-metadata="sha256=3aef66607897e287b19c73356b339da0f51465fbe289aaf7bd7f196ff9f14482">dsw_storage-4.9.5-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/12/b7/40bd87b219a039eba7ab1d49db0f26d5fec31f606220ebbb446b0dae169d/dsw_storage-4.9.5.tar.gz#sha256=69a234b4ba6310ac540e2819bcf0a15e2f994935b44ecc99088c229681724d46" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.9.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/82/6a/7940d41a13fbf809816d8511e44edb672922767118af0b639b6b054a2170/dsw_storage-4.9.6-py2.py3-none-any.whl#sha256=72d98355a9e0df8b462ce08092e195212e64212f7ce064d79ac5041f3a09ca0d" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=891a91ec9f513fff9644fc33b08bd19465d419a681b383b2015e2e1eb3460cad" data-core-metadata="sha256=891a91ec9f513fff9644fc33b08bd19465d419a681b383b2015e2e1eb3460cad">dsw_storage-4.9.6-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6c/c2/b79c3cd3b9e7ca8568bdeafb5d6ace3a5d592b45e30b5319cc872d46ddc6/dsw_storage-4.9.6.tar.gz#sha256=02c344cc60ad63963490da6bb57b305fe15a1570f8c51766a0f9946a2afa3a00" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.9.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/30/30/c10571905ab12ff9d9d22c0f3b697923e1b54025322720ab82de14b7c120/dsw_storage-4.10.0-py2.py3-none-any.whl#sha256=9d273a4836b5a87bc44cd0982e9d894b8545384e326adf0375cd9bd1fa79f38d" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=4c509b07f3a2d76d70d4abba2d2cff2a0aac3cf023fcb48e76513ca73c36926d" data-core-metadata="sha256=4c509b07f3a2d76d70d4abba2d2cff2a0aac3cf023fcb48e76513ca73c36926d">dsw_storage-4.10.0-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ad/40/5ba9bfe140dcddcf4a2b54a43e38c3d887f2946d1a18c9288490dd57eedd/dsw_storage-4.10.0.tar.gz#sha256=d22c65c825e8f330097f430cd10e198a79f7bd0b85ac0a3c1b1fa17253220097" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.10.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/cb/29/4e9d1becaf7aa8a9fc53385610c07887ff4014576212599c7c5aff2485a3/dsw_storage-4.10.1-py2.py3-none-any.whl#sha256=298490d41d4555cfcec1efd48846091d5719dec885a98362d93d5953860b4165" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=d015022c0088b5a9a63208f612f002644f33e29aca2e75ca19eb02628cf431cf" data-core-metadata="sha256=d015022c0088b5a9a63208f612f002644f33e29aca2e75ca19eb02628cf431cf">dsw_storage-4.10.1-py2.py3-none-any.whl</a><br />
@@ -128,6 +130,8 @@
 <a href="https://files.pythonhosted.org/packages/c5/5b/312b96d27d01af4c47cf2bc0a28a928078b6034547fdd4cdc63bf1355936/dsw_storage-4.10.4.tar.gz#sha256=7a9464dd7535919743b185dc534652807a890588389444b5fe9c7d4e8e335f75" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.10.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/9a/2f/388d4aeae690453e29c4dacd8c3b299b037d79ebf253d190922ca2b422da/dsw_storage-4.10.5-py2.py3-none-any.whl#sha256=5553c4ffab80d8d78e3411d454deca9ee21a27de6527e6d7c15505e343f7071f" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=7b7a4a752083af5ec0c8139c4b45a4739c29aba6a1c1560afdfdde7452a9bba8" data-core-metadata="sha256=7b7a4a752083af5ec0c8139c4b45a4739c29aba6a1c1560afdfdde7452a9bba8">dsw_storage-4.10.5-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/6c/fb/7680d3417e92451def8c047645d84d94e40cda336a2fe3f5c2b105c3117a/dsw_storage-4.10.5.tar.gz#sha256=16494c53d82073e1589d7ec5b2097aa5ce5ba098e293290ec9b8cd7a9c3308ee" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.10.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/ee/bc694abd7e65719bc36163e4d05bd37c3407a767dcd2cc3d3320d361db15/dsw_storage-4.10.6-py2.py3-none-any.whl#sha256=f1b2f9ae2dd0397ef2fc0fd590290c8d9c46109ffc7beb5030bb125c38299168" data-requires-python="&lt;4,&gt;=3.10" data-dist-info-metadata="sha256=2fd7056376b0a328cccff3f0323530f1c6fd37e5cf49fd8f7d2a8d8832fbad85" data-core-metadata="sha256=2fd7056376b0a328cccff3f0323530f1c6fd37e5cf49fd8f7d2a8d8832fbad85">dsw_storage-4.10.6-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/34/d6/f4511e8daf67704b7e3e1527b0d3c9d081fc208cf39eea4698048b6b5437/dsw_storage-4.10.6.tar.gz#sha256=1eec73abdd299d873a960b94a612cac90f964a2c18ca687dacd7b2ff824881e5" data-requires-python="&lt;4,&gt;=3.10" >dsw_storage-4.10.6.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25016656-->
+<!--SERIAL 25051128-->

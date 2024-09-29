@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for circuitpython-stubs</title>
   </head>
   <body>
@@ -639,10 +639,14 @@
 <a href="https://files.pythonhosted.org/packages/f0/9a/0b19f67cd93be2705cdeeaec0d2f2b8a5f7f709072f344eb9de3946e5f0a/circuitpython_stubs-9.1.2.tar.gz#sha256=cf439cd850de6c1d9077d6aa97c826d7c09dcdbe76d35bc7bf432fcccc40e35c" >circuitpython_stubs-9.1.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ae/56/a0781ac0f6aba63cad0edb7e70fd9ccff406ea17a54bb7aa0d273a625d8e/circuitpython_stubs-9.1.3-py3-none-any.whl#sha256=90a053e65218ffe7fc4ef2ad72d741791ac5748a8cd38957006c84b67ed1d892" data-dist-info-metadata="sha256=a19ffa546818a8daa7a04c83fb72e6960336d41e602e23acebe1ba562963c0d3" data-core-metadata="sha256=a19ffa546818a8daa7a04c83fb72e6960336d41e602e23acebe1ba562963c0d3">circuitpython_stubs-9.1.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e5/2d/4b26c3d286e4ae9b7e91ba79952f1384cb7d7c71b0e7988ef33d56447295/circuitpython_stubs-9.1.3.tar.gz#sha256=6939273f8716c10e680536d58ac22e77a6b90fbdf1969d1dc3819be2b836ee4d" >circuitpython_stubs-9.1.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/67/54/6ba54b8d28c8f5126098bbd696b1c6eaae027c379c0fc85d6d39d23db2a8/circuitpython_stubs-9.1.4-py3-none-any.whl#sha256=5429561165a13711033075461c226a0fbed1c5abd892d1ba02c23f42ae65feaf" data-dist-info-metadata="sha256=1ad911099cbe87f9cf116f3a50bbbce4597ec15ac737a321da77787c26816cbc" data-core-metadata="sha256=1ad911099cbe87f9cf116f3a50bbbce4597ec15ac737a321da77787c26816cbc">circuitpython_stubs-9.1.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/04/fa/eb4ccfe56660f9a2238567c69ece47689eeb63d442ff331661bc82464133/circuitpython_stubs-9.1.4.tar.gz#sha256=49cb3546c31340c9a664135d685ff06cb0e41e6f60c9c61b1342dd6259f8fa6f" >circuitpython_stubs-9.1.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bc/2d/ce867de71f3a9969500195db8366890255bcb99951b2e34fe24df4a523ec/circuitpython_stubs-9.2.0a2350-py3-none-any.whl#sha256=36deae0feb1bb82462baaab90fe883e8b7234e8f91ea7967ce20ca4d57f56b58" data-dist-info-metadata="sha256=b59435c467edcad545521d673bc882cc09973debce97ae9ed48dcd63d99e8ed9" data-core-metadata="sha256=b59435c467edcad545521d673bc882cc09973debce97ae9ed48dcd63d99e8ed9">circuitpython_stubs-9.2.0a2350-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f1/44/948b85da8b917058e0fa6c664fb0c803221906c8e0f0a54d0364516ff465/circuitpython_stubs-9.2.0a2350.tar.gz#sha256=4f804adc187d276cc3a00e9fe4de567a389bb24d880956f07af2b8b26d6a5174" >circuitpython_stubs-9.2.0a2350.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/43/15/70d96b2e8c2fb2b4899ccd6be63ef08a97fddbb2a5700f8fd67dc4ac9bd4/circuitpython_stubs-9.2.0a2351-py3-none-any.whl#sha256=70abbf3e49efe67dfadab252e85a5c10b9cf5b90998898044468ea3f46d6cc9c" data-dist-info-metadata="sha256=356d61a7aa3ff9084532e8f21017714de139709a20e6545da3542729138ea6a4" data-core-metadata="sha256=356d61a7aa3ff9084532e8f21017714de139709a20e6545da3542729138ea6a4">circuitpython_stubs-9.2.0a2351-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e9/cb/418094148ab8d9335b0f3ca5cb838ee49fa2232150be03bf03463fd6e567/circuitpython_stubs-9.2.0a2351.tar.gz#sha256=15efb940cd938fde63763202db288f5e915ea12040a6d479b7a4d3acfcf82117" >circuitpython_stubs-9.2.0a2351.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3d/4d/0202da57fc9a40b1407234b6157f0dc9d85941378f8ce56ad0cb57f088ef/circuitpython_stubs-9.2.0b0-py3-none-any.whl#sha256=7a41c9c835cbdec6987a9e46ce25f6cb61487e98c910dade13c357b6a6371824" data-dist-info-metadata="sha256=d09c81946cc3d3ca20f87154afc1ef851455bf051201921db1467c9f16c92027" data-core-metadata="sha256=d09c81946cc3d3ca20f87154afc1ef851455bf051201921db1467c9f16c92027">circuitpython_stubs-9.2.0b0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7b/cf/3fbd7e8df050db1a4e2a44c237c3515f26e40728fbf868eb1adbedd172a2/circuitpython_stubs-9.2.0b0.tar.gz#sha256=5bd437bedee2d56579ec090003c852defe4b2acb7f0b1c30257fa5343f2f50e4" >circuitpython_stubs-9.2.0b0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24801729-->
+<!--SERIAL 25071136-->

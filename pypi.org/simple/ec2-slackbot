@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for ec2-slackbot</title>
   </head>
   <body>
@@ -28,6 +28,14 @@
 <a href="https://files.pythonhosted.org/packages/5d/97/26077c635a81c008aa2e9ca68d2911ad4143e99e6f9350ebff204d18c166/ec2_slackbot-0.1.9.tar.gz#sha256=8c58ad9d66095de908088a6ddabfdf0face133ed28e665f509fb09d622a2bd08" data-requires-python="&lt;4.0,&gt;=3.10" >ec2_slackbot-0.1.9.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/4a/ff/44d90553c7c31f5eaa1b76dde3764285be05003e16595b0b1f768a4c2461/ec2_slackbot-0.1.10-py3-none-any.whl#sha256=8cb55c02d7f9c04629c798f9c0b2e5014755967f3ea774bcc872688f81c63171" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=74b71ff17fff6d2c786fc544331174880c6afe1a11d5da26406cbd734c1d7656" data-core-metadata="sha256=74b71ff17fff6d2c786fc544331174880c6afe1a11d5da26406cbd734c1d7656">ec2_slackbot-0.1.10-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ff/69/85101a56919163372ddb8d26d2577fc7792fcf7b5daff8f97860c2acd86e/ec2_slackbot-0.1.10.tar.gz#sha256=914a8e4b66f34774db538efa885d20756a69481f6ad9a0fe99fdb37a7cff341a" data-requires-python="&lt;4.0,&gt;=3.10" >ec2_slackbot-0.1.10.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/5f/6c6fd87bf1f55500c891fdfdd14723a9d05a37ae83a30227ac4a4f6c79f2/ec2_slackbot-0.1.11-py3-none-any.whl#sha256=4f26a514d807b1033f95230b20c564dfd7af1f9e6220b47a319d30597206e0f5" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=544b2614629381a59fde700228deac2a4f01e633afc0f1d1074f5f7445b5ce79" data-core-metadata="sha256=544b2614629381a59fde700228deac2a4f01e633afc0f1d1074f5f7445b5ce79">ec2_slackbot-0.1.11-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8e/77/86f2173e850db9bbcac23f192a3b908c5e84fb30357b2e654f7a25c23e95/ec2_slackbot-0.1.11.tar.gz#sha256=80f3e0396945d87526552f0d9b0ce78d7b90d9521fbd2352fd08168884c77de5" data-requires-python="&lt;4.0,&gt;=3.10" >ec2_slackbot-0.1.11.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/89/b1/8d89ab431b23f9e6323b6396fdc4be6929461a1ee53f6b70876d42b6f464/ec2_slackbot-0.1.12-py3-none-any.whl#sha256=fea36a769abdb3a3c3e0e178b24c28cfb641067aa33f68760c1d4f137366448f" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=4319a232c1362323cbe0510a66d80628d71b60bab292e259a6a49d373c58b84f" data-core-metadata="sha256=4319a232c1362323cbe0510a66d80628d71b60bab292e259a6a49d373c58b84f">ec2_slackbot-0.1.12-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/00/46/96969288b27a5dbebf8de88c2a6e5bf1b26a309931958f78eb0381120d6d/ec2_slackbot-0.1.12.tar.gz#sha256=c9c36f47969cf1a230ae919fcb0f939e16567d5c8cd3d704b6dfbd4d206c8e1b" data-requires-python="&lt;4.0,&gt;=3.10" >ec2_slackbot-0.1.12.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a1/21/5725a7815d4e539ded3cc9a55f99bbef2ebd21dde0406d9b2cbbcf4f7c96/ec2_slackbot-0.1.13-py3-none-any.whl#sha256=3b61e0b407e5f86ffdfb1a82c0bbc9f92759a5e45402462f24511919180608ed" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=cc1532ae9cd0a638a8b621fb83555b9b9f4ad53d305b84e0e16e565b869d30a1" data-core-metadata="sha256=cc1532ae9cd0a638a8b621fb83555b9b9f4ad53d305b84e0e16e565b869d30a1">ec2_slackbot-0.1.13-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/07/8405e66f9b87b0cfacd982d5372550bd571544885f68e1bf2ff53accd9f6/ec2_slackbot-0.1.13.tar.gz#sha256=c730f1867a09d25370d0515737a21bab491e3864b36a43f770f1010d1f39ca6a" data-requires-python="&lt;4.0,&gt;=3.10" >ec2_slackbot-0.1.13.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/66/ee/c8ff632b80908d0d41c4ed756fe5fe575869d43b987e589ec1a300f8ce8f/ec2_slackbot-0.1.14-py3-none-any.whl#sha256=f7b1e5a1cf532b57afcf172511801a07169f2bfb2dd53801b192d5bf61bd7ed2" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=b3e9ada98e7a84d6e8486d8470e8f42cd07589969186285df443692bc1230e68" data-core-metadata="sha256=b3e9ada98e7a84d6e8486d8470e8f42cd07589969186285df443692bc1230e68">ec2_slackbot-0.1.14-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e3/8b/6618282900ddb1ead0178de1e7cf0d80383e189b2e5414b70f6a301e85be/ec2_slackbot-0.1.14.tar.gz#sha256=8ac81a34610c4d4e30bbba93d9c39d05c41822f5214f7566fa75e78ad6cb9993" data-requires-python="&lt;4.0,&gt;=3.10" >ec2_slackbot-0.1.14.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24205508-->
+<!--SERIAL 25153845-->

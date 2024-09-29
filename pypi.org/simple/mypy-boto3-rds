@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for mypy-boto3-rds</title>
   </head>
   <body>
@@ -1212,6 +1212,14 @@
 <a href="https://files.pythonhosted.org/packages/12/32/94ac8516b28ef48730ddbf7f9661fb954a4f78f0ff83e963a36e27b66820/mypy_boto3_rds-1.35.0.tar.gz#sha256=c252857561219ecc0a03b2d3936081d7a54a59d1caa01e69deb8cdea761dab76" data-requires-python="&gt;=3.8" >mypy_boto3_rds-1.35.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/53/11/819231ca83025ca60e1f1fd788b529367ac59f752de7cbb57e0d30b0df92/mypy_boto3_rds-1.35.18-py3-none-any.whl#sha256=7757694db5a3e67c18018721a7a13df8b78eb428aff459a2969dde8385172522" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=9b32af700fec340d37d2ee55c872f442f6c29546d40c97d33c88576a12a8dd65" data-core-metadata="sha256=9b32af700fec340d37d2ee55c872f442f6c29546d40c97d33c88576a12a8dd65">mypy_boto3_rds-1.35.18-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/20/1d/28d888f75c009ce57b5b5d6452375f5ddaa7a213d0fd239ffd8d40839ee3/mypy_boto3_rds-1.35.18.tar.gz#sha256=cd1bb22807f999f28328764f36260dcdb05a53e71505324acfea550ba2d29c3f" data-requires-python="&gt;=3.8" >mypy_boto3_rds-1.35.18.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/0a/f9a11e495bd4f11fccc3a05ca1ea35563fc190c23de557066352f240a2f5/mypy_boto3_rds-1.35.20-py3-none-any.whl#sha256=83ee8372f8380e799b2b8abf576092bfe6534f15c2c9937e412a04dd7f77503d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f1b09236b522fa560d37d7472c0a54fbfa06dff54ae93cca901efcc2f0452c4c" data-core-metadata="sha256=f1b09236b522fa560d37d7472c0a54fbfa06dff54ae93cca901efcc2f0452c4c">mypy_boto3_rds-1.35.20-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/43/d4/3a839a20462124fb3732b5812ead19522419abb59679cacc53c6b5a9f0ad/mypy_boto3_rds-1.35.20.tar.gz#sha256=b2301a6857f92ef6f61176e3c4136806c90d2c64485f175d695676ce090899b5" data-requires-python="&gt;=3.8" >mypy_boto3_rds-1.35.20.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ae/ca/e82cd95402f4c3b44bc972f25faf99b1a93d740867ae65b14e0c6e0bf59a/mypy_boto3_rds-1.35.21-py3-none-any.whl#sha256=5ab0975db3860d02ba7a46cf5c5d16c79c1e3f7b44bcdcc82fbb635e0b08c666" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=853dc0b3c76223070d249f67c1bfb888a9685622fc068325a2ccb4ccab3f8e73" data-core-metadata="sha256=853dc0b3c76223070d249f67c1bfb888a9685622fc068325a2ccb4ccab3f8e73">mypy_boto3_rds-1.35.21-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ff/c5/7d6e356f957532e10d74e2676aed8cc7754add1eb8100526539aa3d261fe/mypy_boto3_rds-1.35.21.tar.gz#sha256=9cab234a2bf656868d6547ef55c8331e29847bb115a8077ca38e514795e06a86" data-requires-python="&gt;=3.8" >mypy_boto3_rds-1.35.21.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/78/8b72f23fe81c3a07a253763784b4f4809614a257f6c9b6e7a69a3795da76/mypy_boto3_rds-1.35.22-py3-none-any.whl#sha256=67c77bf248fbde94858c2b77a867345e374f322af02b332423922c4b47d1a65d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=5b24e2cca41fa60f04b25bd2260b41f945cad82d539c641765816193243cf446" data-core-metadata="sha256=5b24e2cca41fa60f04b25bd2260b41f945cad82d539c641765816193243cf446">mypy_boto3_rds-1.35.22-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f1/b5/8ea971a07504901c1b070f1cbd223ebd54b76af5c15c7a928b58c640a26f/mypy_boto3_rds-1.35.22.tar.gz#sha256=9a853444bbd01649c73deace41cbd7499c3ef42759ff961e9e8e1d655a177cda" data-requires-python="&gt;=3.8" >mypy_boto3_rds-1.35.22.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/36/1d/ce5edddbad93abdc420ea1ef94033916e0769299fbb1e64c503236852566/mypy_boto3_rds-1.35.25-py3-none-any.whl#sha256=eddd222b6d3107e7e6825e314510d217e02874aed4f6b59d786ea5b0995a5f09" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=d123d1fc97261717d60d0d140acfd6da69727cfc7e5dd0ac20c2b2c445c8336d" data-core-metadata="sha256=d123d1fc97261717d60d0d140acfd6da69727cfc7e5dd0ac20c2b2c445c8336d">mypy_boto3_rds-1.35.25-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/03/5b8f6a8d283d3165c35ff3a9875743e233a80679aaf80e4746636bd0c90b/mypy_boto3_rds-1.35.25.tar.gz#sha256=238953116b2591696b6b24674c6f7065c49d8a14840dde75177edaff375a318f" data-requires-python="&gt;=3.8" >mypy_boto3_rds-1.35.25.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25007570-->
+<!--SERIAL 25160864-->

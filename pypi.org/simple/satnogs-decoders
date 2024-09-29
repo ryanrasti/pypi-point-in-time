@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for satnogs-decoders</title>
   </head>
   <body>
@@ -260,6 +260,14 @@
 <a href="https://files.pythonhosted.org/packages/5f/74/22337e941befdfdb31c73dc4e749a1c64f51e6112b37709d65d8d3f820e7/satnogs_decoders-1.77.0.tar.gz#sha256=c70f5614c85aa3f5e773f8e8c5b9728900162742244120372e91de3857c359c1" >satnogs_decoders-1.77.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/40/2e/055e4cbcdb87cb5dbb1879f19c84d4915a4810cf151ea5d10601112abafe/satnogs_decoders-1.77.1-py3-none-any.whl#sha256=fba2a491ac7f89910638274a082dd9e6bd8d8a2e6d85010eced76882c69a904c" data-dist-info-metadata="sha256=91ed59539b074e54767829fe313659aa58342a85e08cd11d6a7d1f823035584e" data-core-metadata="sha256=91ed59539b074e54767829fe313659aa58342a85e08cd11d6a7d1f823035584e">satnogs_decoders-1.77.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/19/d7/e03803f7e58953337bad60e0a731159467d45b5864ab92e9b3a9ebd543de/satnogs_decoders-1.77.1.tar.gz#sha256=9624ce3c77482a3f96dd3541037d41fd1f57beb6df6a3422e9adaf07a8776837" >satnogs_decoders-1.77.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/77/7a/040fb362f1a99c1cd699826e46e2b7beaf2c4a38bcda810f25944f32f349/satnogs_decoders-1.78.0-py3-none-any.whl#sha256=5d0a11529baada38f94906c5a22c66a7ca3804d4287c7b02d40177c055ec050a" data-dist-info-metadata="sha256=e283a2cc8dada86237787292f786e8e6cb51ce1169a63092995ee5a3b9bfe60a" data-core-metadata="sha256=e283a2cc8dada86237787292f786e8e6cb51ce1169a63092995ee5a3b9bfe60a">satnogs_decoders-1.78.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/65/7c/9bdbbe15d6a5d8032323bb4f5e7d741ee37d3d4478e9ea30093b9bb9437f/satnogs_decoders-1.78.0.tar.gz#sha256=89357f80c48e53d01318bc51b6f87d63e70ef41ff9767251b8726dcd7a1183fc" >satnogs_decoders-1.78.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/91/9d/f53f8481a90b0c4da5eec47c39e2a02f9ff02cc3907cab33735003102769/satnogs_decoders-1.79.0-py3-none-any.whl#sha256=d6f589f5540c7527e8704aa878fe64d2b45758449ad4b3fd9b63af68f43a3ce5" data-dist-info-metadata="sha256=51c60cab4b5a3cf5cba227f363a0f7622c28cd08994d6fd883c877f5ce1010f0" data-core-metadata="sha256=51c60cab4b5a3cf5cba227f363a0f7622c28cd08994d6fd883c877f5ce1010f0">satnogs_decoders-1.79.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3f/78/1d126d6d74505583e40947cdc062215c5e2b32a666b142468868d33e20d5/satnogs_decoders-1.79.0.tar.gz#sha256=5753ece9725fc2c4312d31c320a811ff7f7e0a8c5c8683c06e4aea7e1d5ef970" >satnogs_decoders-1.79.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/13/ad/09a6ac8d76339a4735a61798cd6236efdce8c4b937978080c2d6635fc5d7/satnogs_decoders-1.80.0-py3-none-any.whl#sha256=986187da9e0c3c62de19df2ae862dd0ae60a2942056d938d577cc0dc6c517706" data-dist-info-metadata="sha256=26fead2a7ba9936f180c99eca2abca0c015db06f5c76d276ebdbdebff5c8254c" data-core-metadata="sha256=26fead2a7ba9936f180c99eca2abca0c015db06f5c76d276ebdbdebff5c8254c">satnogs_decoders-1.80.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/a6/df5816c16d6b113000ed7bd52041a25f480b5748f37f39e070a79fb5eed6/satnogs_decoders-1.80.0.tar.gz#sha256=351306f84bf95bcd9b6ba96f21849c9d87445d505074fa061384a099601cf0dc" >satnogs_decoders-1.80.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f4/4f/efd103363d63343ca4a5811afb612289efc7a502a02716337cc73dc2ec18/satnogs_decoders-1.80.1-py3-none-any.whl#sha256=519087702b3c18e54b97826c1b18fb04b8e2a7227e52809bb07f72d8501d7239" data-dist-info-metadata="sha256=41a4f5fc258ea352e2f592c4e1ce72aa7bffeddb5f3296b97254b99a1bb015bd" data-core-metadata="sha256=41a4f5fc258ea352e2f592c4e1ce72aa7bffeddb5f3296b97254b99a1bb015bd">satnogs_decoders-1.80.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/3f/fa8355548a0f562314fbb50b117ea0c60ee969dd6e60c65dc2f0403501d8/satnogs_decoders-1.80.1.tar.gz#sha256=bf1535ec53d85ed07db4c7915cfe72742e435b1b64bc17a2e14aed8419c05852" >satnogs_decoders-1.80.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24683818-->
+<!--SERIAL 25232835-->

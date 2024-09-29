@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for multidimio</title>
   </head>
   <body>
@@ -76,8 +76,12 @@
 <a href="https://files.pythonhosted.org/packages/d8/8b/6c56050cc21589b1cb7b6904b9c8ffef17b60d03d04d4d39b1ddf62ce62f/multidimio-0.7.3.tar.gz#sha256=54d42e97073386708bc0f184cb9eec17ee91d6934358ab026918a0d860df9a85" data-requires-python="&lt;3.13,&gt;=3.9" >multidimio-0.7.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/7f/1a/af2a9c4986a64a9e1bb1e542f29ec80db30aa0fe9bfd582f425d9defd018/multidimio-0.7.4-py3-none-any.whl#sha256=871a16197d5ffa830537c850ccfa43a7873ea639d11bece5bde5c998b2b2c3b9" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=55bd179914ba538d0bdea67e9c3d445d04cb83d485e15efb5d37c8891d01e1d8" data-core-metadata="sha256=55bd179914ba538d0bdea67e9c3d445d04cb83d485e15efb5d37c8891d01e1d8">multidimio-0.7.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/24/b7/76400fec7d956c27d6fd18406e9b3ab1541a3413d7a9c9551a0f1f186e4f/multidimio-0.7.4.tar.gz#sha256=89a6cff310ee15ea3a5213d25460b38118c909e5fedda7ad8f997f15efaada1c" data-requires-python="&lt;3.13,&gt;=3.9" >multidimio-0.7.4.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/de/c6/d393030af57c8863e4cce062eb56e6fcf1c6e1480a71752485532d0eb410/multidimio-0.8.0-py3-none-any.whl#sha256=279cffb99d19a460582f4dbe1a260f7fa4566c5bb1f70faf5afd474e8ac8ef8f" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=66b42ebf32d86759557029d9b3d5f1b6fba1684cf37bda977cc4a9fbeecacb58" data-core-metadata="sha256=66b42ebf32d86759557029d9b3d5f1b6fba1684cf37bda977cc4a9fbeecacb58">multidimio-0.8.0-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/72/8a/225f97b827a1da5ca7e62f0bfca6a7b71085249b291f7934032b725f3feb/multidimio-0.8.0.tar.gz#sha256=43f180306171e8943d2940273c73999a6527cba66a892bc2546525e3da87366a" data-requires-python="&lt;3.13,&gt;=3.9" >multidimio-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/de/c6/d393030af57c8863e4cce062eb56e6fcf1c6e1480a71752485532d0eb410/multidimio-0.8.0-py3-none-any.whl#sha256=279cffb99d19a460582f4dbe1a260f7fa4566c5bb1f70faf5afd474e8ac8ef8f" data-requires-python="&lt;3.13,&gt;=3.9" data-yanked="critical regressions" data-dist-info-metadata="sha256=66b42ebf32d86759557029d9b3d5f1b6fba1684cf37bda977cc4a9fbeecacb58" data-core-metadata="sha256=66b42ebf32d86759557029d9b3d5f1b6fba1684cf37bda977cc4a9fbeecacb58">multidimio-0.8.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/72/8a/225f97b827a1da5ca7e62f0bfca6a7b71085249b291f7934032b725f3feb/multidimio-0.8.0.tar.gz#sha256=43f180306171e8943d2940273c73999a6527cba66a892bc2546525e3da87366a" data-requires-python="&lt;3.13,&gt;=3.9" data-yanked="critical regressions" >multidimio-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ff/69/b3e67f528b356f2128cb264f381cb7d9684f66cad39ef4061e4135512d82/multidimio-0.8.0.post1-py3-none-any.whl#sha256=144c8f99caa72085ff7012fbba5bc8f261d4ae187c4e017d57fa18967397c3d7" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=7448e2a7f4287e806dce5659fa094c8a0217d501f316d6278631ca4736e0f1c9" data-core-metadata="sha256=7448e2a7f4287e806dce5659fa094c8a0217d501f316d6278631ca4736e0f1c9">multidimio-0.8.0.post1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5a/45/39403c86d52d7ded26937f3169680ed61046586d2a9ff337a00d67833068/multidimio-0.8.0.post1.tar.gz#sha256=5e8a6ccb92e36fcf78907bed9f28c48f1c21172854611d83cbfb863de7b3b15e" data-requires-python="&lt;3.13,&gt;=3.9" >multidimio-0.8.0.post1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f7/ab/63554937b74e9cba655cf7969cdf8d4612957f6ac1a6ed302c5ac39589ee/multidimio-0.8.1-py3-none-any.whl#sha256=c5bb620aab7559a0f17d5142e4085f9c57c1350b752d72288f7253668fff9d4b" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=8e6a4689242787327dadd1dde898382594fef76d2558dddf217bca55cf154c46" data-core-metadata="sha256=8e6a4689242787327dadd1dde898382594fef76d2558dddf217bca55cf154c46">multidimio-0.8.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/30/93/bed514b6f1c3be0981eb40eeaad4494024f2e57ccaf9e65ec47e31f37735/multidimio-0.8.1.tar.gz#sha256=251bf8aea1d5cc1d212fc1eae2a6e67a10c6c73bb436765d2770e4be05e732a9" data-requires-python="&lt;3.13,&gt;=3.9" >multidimio-0.8.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23842837-->
+<!--SERIAL 25212764-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for codegenai</title>
   </head>
   <body>
@@ -23,6 +23,16 @@
 <a href="https://files.pythonhosted.org/packages/46/ca/53c5c3283da4140ef38b7506819e0c1dc99a28d5ce5745a4d4889cfe14ff/codegenai-5.2.tar.gz#sha256=c15c8aa36985ae0396a51e2fa287a8641b58016b975f679eb9f1e8ced500c05b" >codegenai-5.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/1b/af/7e40bb9653f913135fda50e3a76057c124b78ede747bfeee30ed1c9383c1/codegenai-5.3-py3-none-any.whl#sha256=d37876ace64afa867d068803a62d4a53a56577b4acd093abde6def967bd19d9f" data-dist-info-metadata="sha256=017e0104c2c1beb45dcc32cade0cdaaf0ac185c4def87dcf143c3e49d8528198" data-core-metadata="sha256=017e0104c2c1beb45dcc32cade0cdaaf0ac185c4def87dcf143c3e49d8528198">codegenai-5.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d7/2b/76d9cbd06f8d438b9f64fe63e18884b8b7a8bf265cb59c3b515ba2ba0155/codegenai-5.3.tar.gz#sha256=5ad34cd1bd4ca8a88aa8b82e1d4b717d14abf1a2db7c4dbd6a8e5283ee21a775" >codegenai-5.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a8/d2/14968e834019cb00da1fe1cb2dc2e81304faee7e21b9e08e72a87fee0815/codegenai-5.4-py3-none-any.whl#sha256=0cd4fb2a2dcf6d74e03b087d0d5e2ad94330aaf22e0f3db798616848adb4459e" data-dist-info-metadata="sha256=6a1c0fa107b325383d4e304eefdabd788e746e806c76932e0f880268dd6f51d0" data-core-metadata="sha256=6a1c0fa107b325383d4e304eefdabd788e746e806c76932e0f880268dd6f51d0">codegenai-5.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7c/d5/8a33ed421c5b8d1c034aa30f2c2faa0ce285b9b22fed46fe42f4d96a7f59/codegenai-5.4.tar.gz#sha256=e3b68af5ced12257e8a6597e5c3f466e92830606e73b85bb2ea27349e4dd5b37" >codegenai-5.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e0/0d/8bbbc1de709155f49ddf44b76d09e6303a722a306ec2a722c58fca1f215b/codegenai-5.5-py3-none-any.whl#sha256=4fd9dbac780c5d16c3f00fa5eee6d19775745413e62ac63f43d18223c8fbf62a" data-dist-info-metadata="sha256=ad6da0ce3c817a5946a5db5e7ffd560154558f54f8322bf153e8413d69d56073" data-core-metadata="sha256=ad6da0ce3c817a5946a5db5e7ffd560154558f54f8322bf153e8413d69d56073">codegenai-5.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/59/19/d7e223919be8714fc8448194ea0a078a778f588f304d5a6bc499bf0ff594/codegenai-5.5.tar.gz#sha256=ab676a895e4052e5b51c804ad340e130384e7723f65510cf33754a618ab2632b" >codegenai-5.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/40/30/99e475f604c3e642681708f673da87b7b47e913766e6567c382254eb4f12/codegenai-5.6-py3-none-any.whl#sha256=e2a70e72b910c1be8b9166e6931483a1fb70c8ffc83d8ae7262de2ca38ed474d" data-dist-info-metadata="sha256=4719f2af4c190f51ee6b787a57cda9378b2c87420048a74f1b7356a154f62f4b" data-core-metadata="sha256=4719f2af4c190f51ee6b787a57cda9378b2c87420048a74f1b7356a154f62f4b">codegenai-5.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c9/71/442238f114adb481ec44b8d45404c7299a84c3c7c787ff830169673cd494/codegenai-5.6.tar.gz#sha256=3cfd052ce2abc1097c65ffb3bcf9bf8e8e5ecb331d2b91b69eb32f5138a830d4" >codegenai-5.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/86/a1/57c0a35a92d807cfd2339ffcd1827a98491b84bf2c19188f8c1ed937948f/codegenai-5.6.1-py3-none-any.whl#sha256=90386e4379bbb08b6266d8dc8903c17ee823c0698e4944482231f4f45088b964" data-dist-info-metadata="sha256=72b5c2efb0aa8ff6d80594a79dde0beecc2902593f9a1ee03c046035eb234605" data-core-metadata="sha256=72b5c2efb0aa8ff6d80594a79dde0beecc2902593f9a1ee03c046035eb234605">codegenai-5.6.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0d/bf/555ea1a6aa6e70b844dab60bedf018a812748bf094d2d993e7fbe68160e7/codegenai-5.6.1.tar.gz#sha256=6841432921057c7ae76ea0bbc21cc0cd04e3cb05140942160f4fc65666db0d24" >codegenai-5.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ba/36/cc41947be0833a37d95e4e1d3c0f53b2bb2c6eef9f30c6bf1362ee4145a1/codegenai-5.6.2-py3-none-any.whl#sha256=7489df0ec2e1047db39aafbc1412f65df89ea19399aafed758701febf15504b5" data-dist-info-metadata="sha256=c7b90013d990a97af9796d2209aa9150f19e06c3a009d730dec4a205c0cbb86d" data-core-metadata="sha256=c7b90013d990a97af9796d2209aa9150f19e06c3a009d730dec4a205c0cbb86d">codegenai-5.6.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/be/a79d111331ef6ae46439e3ad492e45aa2909176d9a075d463f045b0e866d/codegenai-5.6.2.tar.gz#sha256=9f55b0470d973296a32f2b53b2538db47301907655c58dccdc3616610bcd40a4" >codegenai-5.6.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24959105-->
+<!--SERIAL 25214774-->

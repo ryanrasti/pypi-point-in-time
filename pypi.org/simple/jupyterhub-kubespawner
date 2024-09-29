@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.1">
+    <meta name="pypi:repository-version" content="1.2">
     <title>Links for jupyterhub-kubespawner</title>
   </head>
   <body>
@@ -80,6 +80,8 @@
 <a href="https://files.pythonhosted.org/packages/80/ea/e68066ac078cfbf314d429bcb0c2b34270b82ea1e5862987934548c1ceaf/jupyterhub_kubespawner-6.1.0.tar.gz#sha256=0ad2bb4232670870531900906ebe9fc081b3327fd65921cf87661661ad1eda7b" data-requires-python="&gt;=3.7" >jupyterhub_kubespawner-6.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/4a/e0/64f86849348ada3ba94652e17ddd0852342e920a53cde6486110ef310b95/jupyterhub_kubespawner-6.2.0-py3-none-any.whl#sha256=f7a7e9fa4ef9a5f35cadfb0c369ed345b816c04bb2c3228c61762e13c09670cd" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=c304bb526341b8ede3d5fd9b691f5c96fd59e5338721dd6488a53134724195d8" data-core-metadata="sha256=c304bb526341b8ede3d5fd9b691f5c96fd59e5338721dd6488a53134724195d8">jupyterhub_kubespawner-6.2.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ac/ef/897f71d5cdd0859acb8b875b7849663849ce658f8ff9375ee3710a07ec7d/jupyterhub_kubespawner-6.2.0.tar.gz#sha256=38815cb83ff5cba78e916efc4164e8899bfacab4423628029cd4867968b89b18" data-requires-python="&gt;=3.7" >jupyterhub_kubespawner-6.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e2/4b/d953066db844d3e9161ef4e8e5ef5ba8dbc1c26b203d663c85a4ac43b57c/jupyterhub_kubespawner-7.0.0b1-py3-none-any.whl#sha256=265e0053acc6fa9744dcbd38f52e254020444c58894ab475f978c2b3bb6a32ab" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=44a79860e8782beca9aac4d20861e18ed7183decd04469a79ac7441078cd41c0" data-core-metadata="sha256=44a79860e8782beca9aac4d20861e18ed7183decd04469a79ac7441078cd41c0">jupyterhub_kubespawner-7.0.0b1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0d/17/7076f82ba2742db7e3c3e4600ac955f32c690262ade33c5d13092e10e7be/jupyterhub_kubespawner-7.0.0b1.tar.gz#sha256=fc6791ba7245b0dbde2694efcc1ae1aa3b0badbc231bf4c398d44e26efb8a004" data-requires-python="&gt;=3.7" >jupyterhub_kubespawner-7.0.0b1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 20764356-->
+<!--SERIAL 25148204-->
