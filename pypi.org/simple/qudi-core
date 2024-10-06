@@ -6,8 +6,8 @@
   </head>
   <body>
     <h1>Links for qudi-core</h1>
-<a href="https://files.pythonhosted.org/packages/54/84/7f0c4856b98bf64a6db659862b9ac1a79723fdb7cdea0820c44639a701b2/qudi-core-1.0.0.tar.gz#sha256=ac7f633db2ff10b9c72e0e8334d49fb00daf45f63e7ba6fca2816d086b1d07f9" data-requires-python="~=3.8" >qudi-core-1.0.0.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/f2/36/39600cdb1ddc2fd7a2674056556227dd4b772ae9adc6d4683c093f44d8b3/qudi_core-1.0.0-py3-none-any.whl#sha256=55710162ed2c5ffdc7419a5c9788b58cb70f058f99485e2da71d1f965929b10e" data-requires-python="~=3.8" data-dist-info-metadata="sha256=612b81cc77aeb0f15c505cba634b1de232fb1abe06015691b940192caa20ccbb" data-core-metadata="sha256=612b81cc77aeb0f15c505cba634b1de232fb1abe06015691b940192caa20ccbb">qudi_core-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/54/84/7f0c4856b98bf64a6db659862b9ac1a79723fdb7cdea0820c44639a701b2/qudi-core-1.0.0.tar.gz#sha256=ac7f633db2ff10b9c72e0e8334d49fb00daf45f63e7ba6fca2816d086b1d07f9" data-requires-python="~=3.8" data-yanked="Python version requirement was not properly defined and causes problems for Python &gt;= 3.10" >qudi-core-1.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f2/36/39600cdb1ddc2fd7a2674056556227dd4b772ae9adc6d4683c093f44d8b3/qudi_core-1.0.0-py3-none-any.whl#sha256=55710162ed2c5ffdc7419a5c9788b58cb70f058f99485e2da71d1f965929b10e" data-requires-python="~=3.8" data-yanked="Python version requirement was not properly defined and causes problems for Python &gt;= 3.10" data-dist-info-metadata="sha256=612b81cc77aeb0f15c505cba634b1de232fb1abe06015691b940192caa20ccbb" data-core-metadata="sha256=612b81cc77aeb0f15c505cba634b1de232fb1abe06015691b940192caa20ccbb">qudi_core-1.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/34/0e/fda836c33e89453fd063ead53921adaaee54fcef69b866bced0a3989dda7/qudi-core-1.0.1.tar.gz#sha256=5adffec6312e968c53030f1d7f4ce10281b734d4f1f4925c012b336fb6fde69e" data-requires-python="&gt;=3.8, &lt;=3.9" >qudi-core-1.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/de/98/916c056d71730c6ba3f3b1bd1068a5cfbc80ef7fc53456bc141cb0849ea5/qudi_core-1.0.1-py3-none-any.whl#sha256=b49e7b5258b4f3548d3264603d0ca3eb43fa8fea011ff7dbe0f1f2d1d4bbee41" data-requires-python="&gt;=3.8, &lt;=3.9" data-dist-info-metadata="sha256=fdb43550fc8174a125e01f51c6d796670c20c95b6242f326778125270b6beb23" data-core-metadata="sha256=fdb43550fc8174a125e01f51c6d796670c20c95b6242f326778125270b6beb23">qudi_core-1.0.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c3/e0/1952de1ef2b2eb7f4073068547b0ca8f8ab3d4460d8f52953777e17cee7a/qudi-core-1.1.0.tar.gz#sha256=18d0372e8771f2ef485c3516b8355420e392a823234c53e50cff24985f47e924" data-requires-python="&gt;=3.8, &lt;3.10" >qudi-core-1.1.0.tar.gz</a><br />
@@ -26,4 +26,4 @@
 <a href="https://files.pythonhosted.org/packages/80/79/721e21ab795109cd60285366b0f31a8a100a57222ec6ccfae8862538bcb5/qudi_core-1.5.1.tar.gz#sha256=b635ff4b593524a1858c1b7fef2e6735aa6672412d189a87da99d3747e99139a" data-requires-python="&lt;3.11,&gt;=3.8" >qudi_core-1.5.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24615433-->
+<!--SERIAL 25331792-->
