@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:alternate-locations" content="https://git.videolan.org/?p=vlc/bindings/python.git">
+    <meta name="pypi:alternate-locations" content="https://github.com/oaubert/python-vlc">
     <title>Links for python-vlc</title>
   </head>
   <body>
@@ -40,6 +42,10 @@
 <a href="https://files.pythonhosted.org/packages/0e/eb/f7ecdfd403a7fa73eb19b152e17858db229280bb43f684a9eb93ec4f178a/python_vlc-3.0.18122-py3-none-any.whl#sha256=00e5133886a956ded7362b48926818e5486dfd73b2f9319b76d977acefe6042c" data-dist-info-metadata="sha256=138cb58511bc8912ccc8193ca3de93d32dd125d5605aa5def9f2a67c3f33f0c9" data-core-metadata="sha256=138cb58511bc8912ccc8193ca3de93d32dd125d5605aa5def9f2a67c3f33f0c9">python_vlc-3.0.18122-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f5/fc/6e4f1dd5ee3a86db172d7100f5a28cd9d8a57ad65cfda09eb114d3b9aaaa/python-vlc-3.0.20123.tar.gz#sha256=244fbb9e392a0326841fca926d6d12a2a36c546982191f493f148fa19e66b1d4" >python-vlc-3.0.20123.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/31/c0/00eb4c1ac241835224e34b7005143a0788353b8b56286660317cb82cdf94/python_vlc-3.0.20123-py3-none-any.whl#sha256=903b3dc3602804958837c69907f3d3485921ef8424c254c7314db3d6037f8d62" data-dist-info-metadata="sha256=00313b12c4f07769626b0207c38e29c143baa5df1bfb92aca178c9c1200a958c" data-core-metadata="sha256=00313b12c4f07769626b0207c38e29c143baa5df1bfb92aca178c9c1200a958c">python_vlc-3.0.20123-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/20/50/517d13e00842b20c5959c73a15196874d712e190d94ba05584c82cb7f03c/python_vlc-3.0.21201-py3-none-any.whl#sha256=c58920d25c9e0550650440a9071044f6da653b9b290fb8835b40fbba4a42402b" data-dist-info-metadata="sha256=076e7186b593c14ff2ba8c84843c50ca4ae7dfebffd569c1484b4d7822eb9c6e" data-core-metadata="sha256=076e7186b593c14ff2ba8c84843c50ca4ae7dfebffd569c1484b4d7822eb9c6e">python_vlc-3.0.21201-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/d6/9dc61200e82702026dc4d7a7e30c7d8eb87c1520ec8d206ef92efcc83211/python_vlc-3.0.21201.tar.gz#sha256=8787840e0d319cac3eadb3b7bc99609f90e21c300a58cf3799a275c24f6c38f4" >python_vlc-3.0.21201.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5b/ee/7d76eb3b50ccb1397621f32ede0fb4d17aa55a9aa2251bc34e6b9929fdce/python_vlc-3.0.21203-py3-none-any.whl#sha256=1613451a31b692ec276296ceeae0c0ba82bfc2d094dabf9aceb70f58944a6320" data-dist-info-metadata="sha256=65c880343e46da459b2a134a2b7b2638e53f7e638c00c836c5ec79abcb3f3c06" data-core-metadata="sha256=65c880343e46da459b2a134a2b7b2638e53f7e638c00c836c5ec79abcb3f3c06">python_vlc-3.0.21203-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4b/5b/f9ce6f0c9877b6fe5eafbade55e0dcb6b2b30f1c2c95837aef40e390d63b/python_vlc-3.0.21203.tar.gz#sha256=52d0544b276b11e58b6c0b748c3e0518f94f74b1b4cd328c83a59eacabead1ec" >python_vlc-3.0.21203.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 20483263-->
+<!--SERIAL 25358188-->
