@@ -2,6 +2,10 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:alternate-locations" content="https://github.com/pyhedgehog/pysaltcorn">
+    <meta name="pypi:alternate-locations" content="https://github.com/pyhedgehog/pysaltcorn/issues">
+    <meta name="pypi:alternate-locations" content="https://github.com/pyhedgehog/pysaltcorn/releases">
+    <meta name="pypi:alternate-locations" content="https://github.com/pyhedgehog/pysaltcorn/wiki">
     <title>Links for pysaltcorn</title>
   </head>
   <body>
