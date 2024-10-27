@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for abacus-minimal</title>
   </head>
   <body>
@@ -10,6 +10,14 @@
 <a href="https://files.pythonhosted.org/packages/8b/06/035b9a5999f4a3230724b2b5991460631ddd9484e5e8e9083d8b93e8d2e8/abacus_minimal-0.9.0.tar.gz#sha256=52b385c620d249a6d42041ab83b84fbcfeb9eb1caa8111c12fb9d4ce0264a304" data-requires-python="&lt;4.0,&gt;=3.12" >abacus_minimal-0.9.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/87/f1/8b6e4e252f8fd934812f7bd32655d2fa0b08ab74bc54cc1154287a49ed53/abacus_minimal-0.9.1-py3-none-any.whl#sha256=c629ccd577bd6ca4a239490ac24f516fe630d219aaf1cc626cd9fa5cdc4e7310" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=633b34367db8f261e068916569991d321b9d52b67f8044794901fc414dd68ac8" data-core-metadata="sha256=633b34367db8f261e068916569991d321b9d52b67f8044794901fc414dd68ac8">abacus_minimal-0.9.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/21/d6/976861bd080c7ee12d55de1e303e44846c95ffd999948d2555f5782f8142/abacus_minimal-0.9.1.tar.gz#sha256=b5fd45b3e0cac84281308237b12358d284cbd4186464c1abb5f2b0eee192b575" data-requires-python="&lt;4.0,&gt;=3.12" >abacus_minimal-0.9.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4d/c9/c8d4027259dc8599f42062501510c754d83361642a368af132a47c6501a1/abacus_minimal-0.10.0-py3-none-any.whl#sha256=11bac955d9d46a8ca3fe23e90d83aae20d8a2b39f5e24614241328caf5a32f6f" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=c96dfb0d87bba6bfa536728102ea841efc1f4681ed8f6542d48743eeaec48c58" data-core-metadata="sha256=c96dfb0d87bba6bfa536728102ea841efc1f4681ed8f6542d48743eeaec48c58">abacus_minimal-0.10.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cc/27/e14b9669cfa435d4f997dc26d5d8f61a7cf97625cefb5788cf76907ded8a/abacus_minimal-0.10.0.tar.gz#sha256=40911c4b2f7f64bbf09f0c8df3b92687e225ae6854953db8c040bbde8ad81205" data-requires-python="&lt;4.0,&gt;=3.10" >abacus_minimal-0.10.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e0/ca/4aea5c2d4254f6c61636ee05d11a8ccd12bf316e470ee60d924bd61180fb/abacus_minimal-0.10.1-py3-none-any.whl#sha256=2a474c19f8e6da33d24a180a59d7f76b739bc817e0b782d7c49dd6e998f6241e" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=6d1fac4ea7c824deda38c2c84fbb461c6f9dc357770c1ba1c892afe1eef5f707" data-core-metadata="sha256=6d1fac4ea7c824deda38c2c84fbb461c6f9dc357770c1ba1c892afe1eef5f707">abacus_minimal-0.10.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0b/dd/3985c05fe5f31344cf81581a9433913a2d9219d60bfbe6212415b874b81e/abacus_minimal-0.10.1.tar.gz#sha256=69ff5813234abb9aacd7d0f0f045025c777f1c33444606b6ce9fc46516d366aa" data-requires-python="&lt;4.0,&gt;=3.10" >abacus_minimal-0.10.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fe/d0/9b22c26613b25c5f411a4be7d8d01981dfb1e891709a12c8904366ec962d/abacus_minimal-0.10.2-py3-none-any.whl#sha256=69470365c5e5eba462c7ced6ed88354d7ce588e47b3e4c84e3c3f64e8e349354" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=406bb80a25ac6dc560450300b2793ebe941095d93458aef8409a20cddeaea0af" data-core-metadata="sha256=406bb80a25ac6dc560450300b2793ebe941095d93458aef8409a20cddeaea0af">abacus_minimal-0.10.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f1/41/daaa1deedae937af181af4756b2a4e1428e666e4e9d64371dd5b3487d2f8/abacus_minimal-0.10.2.tar.gz#sha256=ae9ade11e3f91ae1210afe690643844849651e48ccec4d8b07e71bc587938ec6" data-requires-python="&lt;4.0,&gt;=3.10" >abacus_minimal-0.10.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/48/be/adb84ca68fb39ad34204e324eab8abf9d26e123f456deb3766dff3c30afa/abacus_minimal-0.10.4-py3-none-any.whl#sha256=cf2314702ff02686917b8da88d046ab5d3e5864f00f6351cae7e416bf2df3af9" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=e5a936d4d1f9ffcd084c9f5a40bc20a2ea1dce2febd392b82cde8dd025d08ea9" data-core-metadata="sha256=e5a936d4d1f9ffcd084c9f5a40bc20a2ea1dce2febd392b82cde8dd025d08ea9">abacus_minimal-0.10.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d2/60/4660a96c0a548544307d7a82be7f3218ce85df2712f46098049958a75089/abacus_minimal-0.10.4.tar.gz#sha256=6cc241704a3c9f54eba3a3c345e6051030ba51ec354d8ee2085f55990a72db4d" data-requires-python="&lt;4.0,&gt;=3.10" >abacus_minimal-0.10.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25516638-->
+<!--SERIAL 25685056-->

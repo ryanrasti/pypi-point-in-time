@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for nmass</title>
   </head>
   <body>
@@ -16,6 +16,14 @@
 <a href="https://files.pythonhosted.org/packages/a5/da/cff1f94d04e93ff5283f6e5bcc35b886e9957d440c436934ee1a5dc0ed65/nmass-0.1.3.tar.gz#sha256=7e79949657e1dbb92333784e00264bbc0a8ac674bdfb7b6e48651af5cb5e3321" data-requires-python="&gt;=3.11" >nmass-0.1.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ff/bc/dc3c39f2c62df3f85020b6095721ce6ff8a3c582226aaf4a0c512b88c163/nmass-0.1.4-py3-none-any.whl#sha256=3fe5a29cf3aec96da3e5a04c8f9d66a5440ddd6235ceac5ac4a56f9a12b05ab6" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=966697e9084fc098f9facf8ef0a05d9495b7602cd1b262e2188789485fd2be80" data-core-metadata="sha256=966697e9084fc098f9facf8ef0a05d9495b7602cd1b262e2188789485fd2be80">nmass-0.1.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/bd/09/7c4b8e5395047e1bce765bc8c063cdfb2917c5ea6169b81cb7acea21745b/nmass-0.1.4.tar.gz#sha256=e8be0149447cc22d21168851a606ced75bad36e3f6780ba0fa6601cb83f6b45a" data-requires-python="&gt;=3.9" >nmass-0.1.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/99/fb/66d7dc6943dc3108cd9e241541ad77ac010f03887a445738c4a6b1c32050/nmass-0.1.5.post1-py3-none-any.whl#sha256=3e745d87d433067d3a3fb49c09ead5538eaac42d3b8a0e34f6580f0cc4a7630a" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=e95dfc90d464ab86fdd1f35b841de87d896b33ae535afdc9098632ab79b4d80e" data-core-metadata="sha256=e95dfc90d464ab86fdd1f35b841de87d896b33ae535afdc9098632ab79b4d80e">nmass-0.1.5.post1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b3/fc/6523864e4e8c61e4c42e872c5fa31d3a1872e720304d3639ed7ce6a19176/nmass-0.1.5.post1.tar.gz#sha256=62b2b2958e0851f5e6a3ea12e8047046f4710cd5a9a003ec345862320f1dca2b" data-requires-python="&lt;4.0,&gt;=3.9" >nmass-0.1.5.post1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/81/43/c5a7a3f42688909503241919da8a213e521f5bc824306f68bcbcf6c76ef8/nmass-0.1.5.post2-py3-none-any.whl#sha256=604a3e5fbd55f2adf456b0325b8b6c2c31ce70f96e44133d430fab0cb67f2c7d" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=ced3acdb7bca70375387586caa6eb9db5caa9007ae57a687bbde66218b788b82" data-core-metadata="sha256=ced3acdb7bca70375387586caa6eb9db5caa9007ae57a687bbde66218b788b82">nmass-0.1.5.post2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/e3/a5d0aabd9436614b7c3657c7a977adc879e67f3fb8e7b8e4857b2cbd1a87/nmass-0.1.5.post2.tar.gz#sha256=b7556f834b9c503e9a54ff118543bd7356ecc4973fb95c1362e285b81202079d" data-requires-python="&lt;4.0,&gt;=3.9" >nmass-0.1.5.post2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/dd/cf01bf50d5f35f326fbcb1978e584194e9cf87f8fd98cfb903c7aebc3964/nmass-0.1.5.post3-py3-none-any.whl#sha256=fa4196d78438562fa67b1805a73d52f4bce9669d294615178783a50474a49857" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=7d22f3ecc2ce532186e2d5f5f3d0acd895e53fcdbd8fab051e0605a7c29e6443" data-core-metadata="sha256=7d22f3ecc2ce532186e2d5f5f3d0acd895e53fcdbd8fab051e0605a7c29e6443">nmass-0.1.5.post3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/2c/fa88bf0e18e1935e50e2f16df2a85eb978f896052ebc8754a80ca0d62d36/nmass-0.1.5.post3.tar.gz#sha256=c97d55fdd444837182be8a50418c3f01cddcbfc0bcb34dabaa17d0bb712a25fa" data-requires-python="&lt;4.0,&gt;=3.9" >nmass-0.1.5.post3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/90/2b/12ac1f7571c800f53fba1116ab6543af07f52d8e00443fc844bb176ce208/nmass-0.1.5.post4-py3-none-any.whl#sha256=b1f5a15d50e9a0a9fb10a0231bb71bf3b1464cb3b8d1b8894d77be4b13a28375" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=df46083f9bf2de82ee56b41d6eb285ceca954d6a377ff7efa680a3f24f656506" data-core-metadata="sha256=df46083f9bf2de82ee56b41d6eb285ceca954d6a377ff7efa680a3f24f656506">nmass-0.1.5.post4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/79/f6/50da4c86365e6a7357608b743328d3bdf8a230ae4bc3b6a8e6f01bf2a31c/nmass-0.1.5.post4.tar.gz#sha256=685cd64b1410d9ffc80b3611538c96252aeaae57e93c991cb757ec4f829e2657" data-requires-python="&lt;4.0,&gt;=3.9" >nmass-0.1.5.post4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25201041-->
+<!--SERIAL 25666145-->

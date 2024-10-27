@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for gooddata-api-client</title>
   </head>
   <body>
@@ -172,6 +172,14 @@
 <a href="https://files.pythonhosted.org/packages/5e/21/e5a5fbcae1446249cc983cc1adbd6394a1d74ffd5bc1ca376b685b4ee02f/gooddata_api_client-1.29.0.tar.gz#sha256=75e129b037ddd6e88f782c63b739013ef900e2f5b52fd3333532b4a74a3ee0fd" data-requires-python="&gt;=3.6" >gooddata_api_client-1.29.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/21/fc/f0b9ceab9487dedcc01d53079ad3f478260d83a5182d44f6a6f435a5dc0f/gooddata_api_client-1.29.1-py3-none-any.whl#sha256=924c8f208e55406ca18dad85e6088149c861a3a570ad6785ccda3fe2098ea8bb" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=185a93120232c94a13ef6276a1af753a1bf40ffad33d2e7826ed22edebc022fc" data-core-metadata="sha256=185a93120232c94a13ef6276a1af753a1bf40ffad33d2e7826ed22edebc022fc">gooddata_api_client-1.29.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/81/a0/9d8e69992b77406d351194eec972c55933bdaaca3b00f129c15620963c09/gooddata_api_client-1.29.1.tar.gz#sha256=dba06076ad58a3e806c298585add5e62866f79e1ff189b6667136079a48fdac6" data-requires-python="&gt;=3.6" >gooddata_api_client-1.29.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/54/94/d8b3af78ebbc76c5c3e4d088931a8b87d788fe46422f6206ebb6bbc90574/gooddata_api_client-1.29.2.dev1-py3-none-any.whl#sha256=7c7ccd448452624a76176b76c85f8b23a9910d6654e43a5d9c23a9706d4e9797" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=9b92b9d034b29588537f181afe69a9f5af7c152c3cec1c3d93f35104f02a4699" data-core-metadata="sha256=9b92b9d034b29588537f181afe69a9f5af7c152c3cec1c3d93f35104f02a4699">gooddata_api_client-1.29.2.dev1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/df/16532382aceb5470af3af34f707b94d2b979b881e3977fb621fe1138695c/gooddata_api_client-1.29.2.dev1.tar.gz#sha256=d16b6ff40a4607a0fa277337dc5c62b30ec788c0892b170290468af773dd6fb1" data-requires-python="&gt;=3.6" >gooddata_api_client-1.29.2.dev1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/cb/1d/0880fa908ab9f96b913de9970c94d7ee74363c670d084dda3f68509669c0/gooddata_api_client-1.29.2.dev2-py3-none-any.whl#sha256=944ac8ad312f51a9d6acd0cb67ad54c9468ef794e93cc881d7685dfc74592138" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=50eb72bbb05ff57f58b4d498071b225c4c32b60c9bc0ba235e12f41964da4370" data-core-metadata="sha256=50eb72bbb05ff57f58b4d498071b225c4c32b60c9bc0ba235e12f41964da4370">gooddata_api_client-1.29.2.dev2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ad/f7/9d64ba35609ff8da7cfa7227626c86ca464acb1c18bd28b953176b073574/gooddata_api_client-1.29.2.dev2.tar.gz#sha256=c10da06a7e57a626fecb8597ba1c457749fcc8579444d904c2dd9475d3d31ec9" data-requires-python="&gt;=3.6" >gooddata_api_client-1.29.2.dev2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/45/14/13e823cb5028657f9e84eff27b4f0ee93d60dfe0cfc705df0128596cb70b/gooddata_api_client-1.29.2.dev3-py3-none-any.whl#sha256=a75235f38379fc2a01dcc70a50bc2ffaa22c688a6812de0b97e7e5d6e0a7614d" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=9903dccaad1490eb1630597b75ce022b658a36acb24b53f183c7120f1e02adeb" data-core-metadata="sha256=9903dccaad1490eb1630597b75ce022b658a36acb24b53f183c7120f1e02adeb">gooddata_api_client-1.29.2.dev3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/71/07/238c43062225c46e690e304d89b5ce2f7a9a00b99b58372d69028795da3e/gooddata_api_client-1.29.2.dev3.tar.gz#sha256=b5d059c554dd081e8f8e89f80d3384ab7a53db8ae58354ceba4d4d7f78e9de08" data-requires-python="&gt;=3.6" >gooddata_api_client-1.29.2.dev3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/5e/2734ded715462283f547cebca6473ed95a7a53ac1ab1f187c1d8554f2929/gooddata_api_client-1.29.2.dev4-py3-none-any.whl#sha256=633d6534a0e585530ec431ce241785e6e35a9292a30bceb722b24acb5639447d" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=460cf4449076efd440186631a37e81afe2da09763efd4a4ad110aa1a9eaad1f7" data-core-metadata="sha256=460cf4449076efd440186631a37e81afe2da09763efd4a4ad110aa1a9eaad1f7">gooddata_api_client-1.29.2.dev4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d9/57/b5cabce86c83e5908ac1956cfe1a6a48eab0e56601624f7034d6f5cf659a/gooddata_api_client-1.29.2.dev4.tar.gz#sha256=e7c97c35010d03832df0ca24196f74a8df70833a9b187fbfdd4e4098062b7df3" data-requires-python="&gt;=3.6" >gooddata_api_client-1.29.2.dev4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25531310-->
+<!--SERIAL 25663056-->

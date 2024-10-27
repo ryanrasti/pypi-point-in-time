@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for lttbc</title>
   </head>
   <body>
@@ -31,6 +31,12 @@
 <a href="https://files.pythonhosted.org/packages/5b/01/1dd7f31840dc5e755a205abc6d35a2f28ad081e59e187bce8dd5b07175f4/lttbc-0.2.1-cp39-cp39-win_amd64.whl#sha256=398d8df1073094764508c15be585bdaab99040e7c202c802aaebae7f4649ff41" data-requires-python="&gt;=3.5" data-dist-info-metadata="sha256=840002472f49e8ce8a845d965634b359a3f6879a87acd3947262be6c3c3e628d" data-core-metadata="sha256=840002472f49e8ce8a845d965634b359a3f6879a87acd3947262be6c3c3e628d">lttbc-0.2.1-cp39-cp39-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/52/cd/e2967ba6757a614c9b8ff103c82b8c05e5a3ac88fb263283a73042e48920/lttbc-0.2.1.tar.gz#sha256=8ee634437b8a265d73de758bb81354aee4206698caa0e65fdd33568dc2373d47" data-requires-python="&gt;=3.5" >lttbc-0.2.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/14/4d/054943e7c37a70e7a6201a5c404e08ddc5faf7e5755da8dc58bac4e671bd/lttbc-0.2.4.tar.gz#sha256=dff2539ecdd8ba1500c09be22ffd52fd5146f98c12dc7290b6b938a5b656b474" data-requires-python="&gt;=3.8" >lttbc-0.2.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/69/f3/1549df12144a914dddd0e7dd1fd709da9e9408033d31351bbb719b4fa763/lttbc-0.3.0-cp310-cp310-win_amd64.whl#sha256=a2bc3dfdf8f7bed57803e90e52ab9dc07dd889d3962ca03095eef0037199234d" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=cd4b711d3f93ab75b35e36eedf99f353648ca1199f4d9ea0c9c41822df7481a7" data-core-metadata="sha256=cd4b711d3f93ab75b35e36eedf99f353648ca1199f4d9ea0c9c41822df7481a7">lttbc-0.3.0-cp310-cp310-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/07/ba/859878518dbc14d92e06835c8a05e0909068f072492b9dcb6b1b728e5f96/lttbc-0.3.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=9b7865e705f590d6dca2e2e7ed64a763bbcf1a3c47daff94ec1deb3646bb2513" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=1576e8ba391dc419fd698229e9b51b0554cf8663016da5d04c53cb9d96dc476d" data-core-metadata="sha256=1576e8ba391dc419fd698229e9b51b0554cf8663016da5d04c53cb9d96dc476d">lttbc-0.3.0-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fc/fc/d6c3c5a9dadf9c6bbba1520329e142d0d0b182ad2c333ae9de482f0894eb/lttbc-0.3.0-cp311-cp311-win_amd64.whl#sha256=573daf16ef466bce59c0e357534766db96ec99b18021db58bd9b80a8843a730f" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=cd4b711d3f93ab75b35e36eedf99f353648ca1199f4d9ea0c9c41822df7481a7" data-core-metadata="sha256=cd4b711d3f93ab75b35e36eedf99f353648ca1199f4d9ea0c9c41822df7481a7">lttbc-0.3.0-cp311-cp311-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/22/96bb74852f49c7b85450f48b2de1464022b53d016874ad7dc42fd26ca7e2/lttbc-0.3.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.whl#sha256=e626ae7ab2a046303fb5663ee02c079637dad243ad90b54a3d84ec69d357469c" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=1576e8ba391dc419fd698229e9b51b0554cf8663016da5d04c53cb9d96dc476d" data-core-metadata="sha256=1576e8ba391dc419fd698229e9b51b0554cf8663016da5d04c53cb9d96dc476d">lttbc-0.3.0-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f8/07/412ac37f4560768048d73476ddf0a654cf6bd4910d32377def0d51988023/lttbc-0.3.0-cp312-cp312-win_amd64.whl#sha256=640163f7337c43cdb4b3545d8f7670a18a29bcc8a9e1c7f2182a2d5d07055b51" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=cd4b711d3f93ab75b35e36eedf99f353648ca1199f4d9ea0c9c41822df7481a7" data-core-metadata="sha256=cd4b711d3f93ab75b35e36eedf99f353648ca1199f4d9ea0c9c41822df7481a7">lttbc-0.3.0-cp312-cp312-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1a/a2/a5a2b4f7839ca9ed5e226fbd6062e0f279449bd83fd9f0faf55123b2b0b0/lttbc-0.3.0.tar.gz#sha256=eecffefddf8883091070cbde460011c5301c9291ab61b707c87260071588a897" data-requires-python="&gt;=3.10" >lttbc-0.3.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 18450338-->
+<!--SERIAL 25622279-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for botocore-stubs</title>
   </head>
   <body>
@@ -1572,6 +1572,16 @@
 <a href="https://files.pythonhosted.org/packages/e5/b5/d8e2906b837d0a9bb729474709010c825ad9f31232eac9d70cb62962121e/botocore_stubs-1.35.43.tar.gz#sha256=f72326ddc0d79baea615d26cbe87d07a6496469bd9d704a9cab8e7a79e6b0b22" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.43.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/21/c7/c4e5bfc8ebc07599997b45d15ac7b7ef700041c88a94d9d54b6304d00241/botocore_stubs-1.35.44-py3-none-any.whl#sha256=09e499ac11d4e63abf7c847da2d3c2e24c31a9ec18db01f6db97a3953585b8e6" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=22f03d210468a00f96e9c3cca9e87b48d8192bbe765facbeb3339885640bf833" data-core-metadata="sha256=22f03d210468a00f96e9c3cca9e87b48d8192bbe765facbeb3339885640bf833">botocore_stubs-1.35.44-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b2/28/eb3da50690b9a81888f366890a2035933a8a3360de7cd5681b3f28804838/botocore_stubs-1.35.44.tar.gz#sha256=96172c75186cd63658c4f130d993db7da52f0df5f248799e87b70c374ee16739" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.44.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f1/42/d341c21e41c5d8c9431ccf3c53cc10059c1e9b996347b0a6b51d2af80c62/botocore_stubs-1.35.45-py3-none-any.whl#sha256=1e5f2f99db44d9655ee231ce4d4a7d7cea1a263184e897c8b9446020f4fd1a44" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=5660c439693fea358909ef042756c17e678bd40146a25e8f1c018ec8c1c33575" data-core-metadata="sha256=5660c439693fea358909ef042756c17e678bd40146a25e8f1c018ec8c1c33575">botocore_stubs-1.35.45-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/54/a3/40d37c0c287883782685642cd4b08676cb1794b085e7d136764396b1d3a6/botocore_stubs-1.35.45.tar.gz#sha256=94b2a0254f8d49c1b8bb3b3fd614ef2acab64a60e0e9e384b577b07b0f548304" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.45.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/32/ce/93517c7d9bcae123fc2d088b71852650bef01a8049938231d9b49a41c8fe/botocore_stubs-1.35.46-py3-none-any.whl#sha256=218ba6da1d76eb372d86e444bd0c6af006e613404cf37e4c754ce0734ef6f131" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fe3805cee6990d787e0887482a0d6ad0f90f4893a0d9cacf71ee3cb05b5b89f5" data-core-metadata="sha256=fe3805cee6990d787e0887482a0d6ad0f90f4893a0d9cacf71ee3cb05b5b89f5">botocore_stubs-1.35.46-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e5/c0/9b01b93a06e03a186c7c40e6e5b24d15dd6799b5fe3805e51ced34d4c9f7/botocore_stubs-1.35.46.tar.gz#sha256=6d9c521b774e62bcbaa383755f10b6cb720202eb357b0b191a195b538b19b817" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.46.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/dc/64/651cf1b7866abd1d5120e7de17ffea1269adba35c582b8dc7e0389927ef1/botocore_stubs-1.35.47-py3-none-any.whl#sha256=f1ef0cd7c263f02f5ad3583f3ab99106e519b0d04d94f84c64c6afe146f83dff" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3d1e1587690ed795f3e5d8fb22822a80a9c0fd7e196714d4b90b5629372c0916" data-core-metadata="sha256=3d1e1587690ed795f3e5d8fb22822a80a9c0fd7e196714d4b90b5629372c0916">botocore_stubs-1.35.47-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/c1/68c1bf263480f9a625d9aba173c9e5aa8b5135993f9f7a0c6bb974df72cf/botocore_stubs-1.35.47.tar.gz#sha256=397f78e5c9ed951fbb576cc0c544e29b626bd7a3742d463c015c0cc71e1d292c" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.47.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c6/c7/24caccb5af43ab6fe9934351f39a6c9605c98d4631db5876830a688b08b7/botocore_stubs-1.35.48-py3-none-any.whl#sha256=af110f0003e867c1febadd6cab49f64e0a25580155b3326e977ebd3e07590096" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=b9b2e8c02accfaff4f6008522ee10321e3e9826b3e647d0c8e3bba8d25f6f21d" data-core-metadata="sha256=b9b2e8c02accfaff4f6008522ee10321e3e9826b3e647d0c8e3bba8d25f6f21d">botocore_stubs-1.35.48-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/2b/52b2d1c777236dee0b49f4630262ffb6d4ff0ad3219c5898472f621d631c/botocore_stubs-1.35.48.tar.gz#sha256=fdb7557fb13a584c5d15263692ed89de8d6bec802c7feb0cd211224384f709e7" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.48.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b0/92/b895334118b3856f463bcda3deeb2fbe5f6052d962921704d4cd1d538b7e/botocore_stubs-1.35.49-py3-none-any.whl#sha256=367ce067e003de7e9b76320f551ba4fc8369a4b7ef10210f6071d3593fea2605" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=bc1a2ccdaddf7c81484f35a2927563267c9edadccff5decf44379650f3080a3d" data-core-metadata="sha256=bc1a2ccdaddf7c81484f35a2927563267c9edadccff5decf44379650f3080a3d">botocore_stubs-1.35.49-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/91/a60415d7ed02a13c920a42237be617547820761670e223539b0e061639fe/botocore_stubs-1.35.49.tar.gz#sha256=c5006e31d77e290eca215e6a71292ea7b029b54900310ed0f87da8e844f1db38" data-requires-python="&gt;=3.8" >botocore_stubs-1.35.49.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25554911-->
+<!--SERIAL 25675690-->

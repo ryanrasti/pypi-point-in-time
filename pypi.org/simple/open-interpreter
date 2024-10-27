@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for open-interpreter</title>
   </head>
   <body>
@@ -258,6 +258,14 @@
 <a href="https://files.pythonhosted.org/packages/49/44/ad425af6f613a5fc482941bebe4172a57bb6f0048ac03af204f42b1f28de/open_interpreter-0.3.13.tar.gz#sha256=b495079aa2dd5f3b08331e7a4a3a8f0909cffa22b03fdaafdad2b07b5097293e" data-requires-python="&lt;4,&gt;=3.9" >open_interpreter-0.3.13.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/9f/0b/808e96a73003ef4d253ebf19504e9036f2b5d47bd9e65864a98074e2b461/open_interpreter-0.3.14-py3-none-any.whl#sha256=e2322d6ec748d9995cfb47f3046d1851d7a24dc4fff3b88d69fa01848e44080b" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=d5cd2a3ccb7685793f66d0a95ae5e6c10d99ccd150ca04d274e09228aa8d27fd" data-core-metadata="sha256=d5cd2a3ccb7685793f66d0a95ae5e6c10d99ccd150ca04d274e09228aa8d27fd">open_interpreter-0.3.14-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f7/1a/20559e945297dd4fc8f41bc3d49689016ca5d65eb34bb6e7e845691e06a0/open_interpreter-0.3.14.tar.gz#sha256=9efa0e28f87f905a0132ae29582a8a1d1edf93a384cf281c4a027ae25447c4b9" data-requires-python="&lt;4,&gt;=3.9" >open_interpreter-0.3.14.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4d/f5/3d8be42c33332247a3817837365b1d7f0a5fc6b2947dcc3a48079d64b9df/open_interpreter-0.4.0-py3-none-any.whl#sha256=1a2f3766918752eba38d6e8bdafaae222dba99fcf5dba3caf114fee4bafa5587" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=c6ee4628729aa0addc19b7f522a4f80196f28610847912c1d0f9aceaa03c0229" data-core-metadata="sha256=c6ee4628729aa0addc19b7f522a4f80196f28610847912c1d0f9aceaa03c0229">open_interpreter-0.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a5/b2/e51edec0c8fe903491f461be4e7cd2ff59571f19d1d03403152045a34e1a/open_interpreter-0.4.0.tar.gz#sha256=ea56ebe70e1961cae6d8bf6cf67cc8e99b6b4bf02cae4bf05c8a5c06345bf73d" data-requires-python="&lt;4,&gt;=3.9" >open_interpreter-0.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d1/dd/ec25e69a11e7383d4df15cfb02b33ab8d76c0c013d5d2a57611527054629/open_interpreter-0.4.1-py3-none-any.whl#sha256=e3527949a1e713df34c357eae00b046a2cc08ebd1087bf672a410e87818377ff" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=3097df4c8a86309e83c01bac5d0c39e742b11dbc68b0442c6f46d2a0d0f0c32c" data-core-metadata="sha256=3097df4c8a86309e83c01bac5d0c39e742b11dbc68b0442c6f46d2a0d0f0c32c">open_interpreter-0.4.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/d8/9b49c1b1d2242a09ce0d71f34e1659c36c9fcf5bfbdbd3b7979d669aac09/open_interpreter-0.4.1.tar.gz#sha256=5bb34fdb31fb60338d401e1950459a8c6a05f9baa340245d2b9e8236e60381b6" data-requires-python="&lt;4,&gt;=3.9" >open_interpreter-0.4.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/a3/a1403e0df6d7b1ce851879f957706d64bfa95d2f68856f7e0e58047d36c7/open_interpreter-0.4.2-py3-none-any.whl#sha256=8809388ae28253ed9f944d8cc84cc9c8a44f05459ccdf4445d60e822779dd91d" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=516816c479d1dd25c0cb0f999a3b8d158ee673def044c093d9a8821b74c63a8a" data-core-metadata="sha256=516816c479d1dd25c0cb0f999a3b8d158ee673def044c093d9a8821b74c63a8a">open_interpreter-0.4.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e0/31/94084fc495c46dcc904e3b975a32636b54170983023887878d33dcc9e77e/open_interpreter-0.4.2.tar.gz#sha256=977cec2a16b218f55d54256e4fa166eb5da3869b75014a582fe6accc0531bca6" data-requires-python="&lt;4,&gt;=3.9" >open_interpreter-0.4.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/37/193d392bc8428509739f22f07902ff7e3daee6ee3e7c176c08ef3f0c0a8a/open_interpreter-0.4.3-py3-none-any.whl#sha256=bb694b826b11986a305b7d34acbabae830481bb1180b52fe1b912e882a21b590" data-requires-python="&lt;4,&gt;=3.9" data-dist-info-metadata="sha256=f838a92505742d9d8a6f49f9b03024223c938c2573df0bcb1a646a753b7a2b86" data-core-metadata="sha256=f838a92505742d9d8a6f49f9b03024223c938c2573df0bcb1a646a753b7a2b86">open_interpreter-0.4.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/65/da/9142b8d28d7d586d66304311829cb8880dc8715afc5ef61717a12abc6b2f/open_interpreter-0.4.3.tar.gz#sha256=cd81d0a6bc5bc9bed6a3f35010da71421b435dc9479f4ac867db80fdc29fa11b" data-requires-python="&lt;4,&gt;=3.9" >open_interpreter-0.4.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25494624-->
+<!--SERIAL 25679075-->

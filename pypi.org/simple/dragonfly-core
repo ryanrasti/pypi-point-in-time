@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for dragonfly-core</title>
   </head>
   <body>
@@ -1452,6 +1452,14 @@
 <a href="https://files.pythonhosted.org/packages/6c/7a/dab6c9efd8cc7679c8c49d0e646d2bbefcf442db2f4e34b3bbd318e94193/dragonfly_core-1.53.5.tar.gz#sha256=79cc8e553948a2fefc48f13f6ee8abf121797783ea47603a75e82938027c46d4" >dragonfly_core-1.53.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f4/39/6703ef1810c9ebb00fc1f75759b74b2ca9bf2f9c6b59e64833ec64a7a330/dragonfly_core-1.53.6-py2.py3-none-any.whl#sha256=8d4902c39f1798a9c14470834a6821fd311e4ce5e2b3673ce08ec05d113de50f" data-dist-info-metadata="sha256=45464a15c2f4e27dd6344c0b0ce9e7260c0790cf8b6c07c6d3cda88427663326" data-core-metadata="sha256=45464a15c2f4e27dd6344c0b0ce9e7260c0790cf8b6c07c6d3cda88427663326">dragonfly_core-1.53.6-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/68/5d/ae942f8c15c1be0c69cb265afc0705939be1047e6c83ac54828defcbd241/dragonfly_core-1.53.6.tar.gz#sha256=67fa0d32196927aca50f24d6d1dfde40ae88d11f5f79ec4bd812c38189a4382f" >dragonfly_core-1.53.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/e4/f2ffc1bbdfe5d08de282e964664f0df84900de29c61693578c108b534dc9/dragonfly_core-1.54.0-py2.py3-none-any.whl#sha256=60a15d206a40348e029e6d6c2290a337c34aca3465c6cdc0da20db87313078c3" data-dist-info-metadata="sha256=6e1df14a4d6bc76c4bee0dce8d1c9cb6bf1489cd7622c96ce007a1761f0242cf" data-core-metadata="sha256=6e1df14a4d6bc76c4bee0dce8d1c9cb6bf1489cd7622c96ce007a1761f0242cf">dragonfly_core-1.54.0-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4c/19/8f8d2b9350fe6136ecbaea0529305c9622a93cd72cd9940ed4dcc81372ff/dragonfly_core-1.54.0.tar.gz#sha256=71224d513eac5ed04b702723dbcf0e393d7748f1ec265e5ca9243af4abff3bfb" >dragonfly_core-1.54.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5a/84/93809d156dabab9bd76ddcd69454f552e4f5718345db1344b1a6c7051858/dragonfly_core-1.54.1-py2.py3-none-any.whl#sha256=fae7da29a3ebb685fff666c8de9dc812c6f6c5ef767ac7bb88baa2e6b20b8463" data-dist-info-metadata="sha256=19a0f4fce8712e1cf611cb25ce00774178b18fa1707f6ffed9dfde286a52a001" data-core-metadata="sha256=19a0f4fce8712e1cf611cb25ce00774178b18fa1707f6ffed9dfde286a52a001">dragonfly_core-1.54.1-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/78/b2d921fe5a5015f9776782c4e9b58c35055c79ff6c008e4b6d574e865006/dragonfly_core-1.54.1.tar.gz#sha256=db63b4545a09d7e6c50ef3415ef4c983010aab2b9b8435109817a1184ce8bc20" >dragonfly_core-1.54.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d7/03/b7f38498101ff93840e578530639ed449561f8dba1848bbf58a9325a8a82/dragonfly_core-1.54.2-py2.py3-none-any.whl#sha256=a9b1234dc82ef13d95b50629d20eb19d8d971fb18efdfbdad836186b437a7eac" data-dist-info-metadata="sha256=b7685472693f392e60ae4ea83ed38f79830f638f18ef59072769c97dde6e1534" data-core-metadata="sha256=b7685472693f392e60ae4ea83ed38f79830f638f18ef59072769c97dde6e1534">dragonfly_core-1.54.2-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c6/00/195c1661c5eb7081012ac0f3115251dad90be3e11f6642a62114b24cf339/dragonfly_core-1.54.2.tar.gz#sha256=877a3e765c79c4a282ba03b4f17991cb2d8c1d3cba9df9d272bb4eee4e842555" >dragonfly_core-1.54.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2d/16/b54fbf4bc3c22231ce80dce6cd020e3ee9dd6865f45b1ab94179e74e467d/dragonfly_core-1.54.3-py2.py3-none-any.whl#sha256=3daff143a56dd6e317246bbfcc6d7589983f1b4fc05c882cd32189a4364d6166" data-dist-info-metadata="sha256=bd4c23cb8969410abcacdfdb32b2b27b20c96873e553b92a4a4a90ae4964ea67" data-core-metadata="sha256=bd4c23cb8969410abcacdfdb32b2b27b20c96873e553b92a4a4a90ae4964ea67">dragonfly_core-1.54.3-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/18/1d/e43239629f8b558bf5679f5d4795c75bfed52263b90b5500bd9d29cfc137/dragonfly_core-1.54.3.tar.gz#sha256=2cd25e220f5e47ad58c4b6bf0eb82fa279c7a3745d2eb665ae73ecbbf62e2683" >dragonfly_core-1.54.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25565036-->
+<!--SERIAL 25674043-->

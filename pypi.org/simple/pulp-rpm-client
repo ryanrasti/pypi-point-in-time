@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pulp-rpm-client</title>
   </head>
   <body>
@@ -322,6 +322,8 @@
 <a href="https://files.pythonhosted.org/packages/94/5e/8e7e2299d4229c048c0e9e84e6e1ff7daa66e7f7854f62716443f8e80eff/pulp_rpm_client-3.26.1-py3-none-any.whl#sha256=89096bcdd837167f3887be205e36278232da21e8d5ebac3080c2d6e8df633c9b" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=4ef8ebafecff475531b8801e0dbb89fd10d6ad91ded49ce6d53e1e3d2f0f0b45" data-core-metadata="sha256=4ef8ebafecff475531b8801e0dbb89fd10d6ad91ded49ce6d53e1e3d2f0f0b45">pulp_rpm_client-3.26.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/bf/da/a234019aadf6296d7ec03845d2a4595faaf6c33c50de95cf2ad3978879aa/pulp_rpm-client-3.26.2.tar.gz#sha256=d50900326ea63846267f61c1edb62c7541bf76e1384901739d6d8b988701340f" data-requires-python="&gt;=3.4" >pulp_rpm-client-3.26.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/9b/2f/012e5b95a8e3e04fe4e5bde69264c871bc8a4b22ca7ce69dc74d2542811f/pulp_rpm_client-3.26.2-py3-none-any.whl#sha256=1eaf55496e991f521900e4ead2df929e4c13b2174ee5366bcfe465e7a88f70dc" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=51b25baf57fcbae88b4cd9a873e09f48893f9cfd72d064ccd6adb596c9c26484" data-core-metadata="sha256=51b25baf57fcbae88b4cd9a873e09f48893f9cfd72d064ccd6adb596c9c26484">pulp_rpm_client-3.26.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9d/9f/e48790af4e7259bb49633006ffe5376d410a578255d581ca7e68d177ebfa/pulp_rpm-client-3.26.3.tar.gz#sha256=2887022ac560df68dfbaf3eb986d880ed4ce4da4871e4cc04a97d164569fa2ca" data-requires-python="&gt;=3.4" >pulp_rpm-client-3.26.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/33/bcb9b7b9297ef4ec9ac895c6ebe0f2baef1a7b1d1d4a2c8039c2b225a5a9/pulp_rpm_client-3.26.3-py3-none-any.whl#sha256=991b1b0a6f8162892fafda3fa09f052a7f1e14075afcb0d63f0d7039830268f0" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=97755a1202ad38298174a9ecee59c98c4d474113c806e8fc478c76cfc0907b50" data-core-metadata="sha256=97755a1202ad38298174a9ecee59c98c4d474113c806e8fc478c76cfc0907b50">pulp_rpm_client-3.26.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f0/14/38c086706949e634423b2dd9b3e8ca2310d0f34be29957ac8b1e7d7db024/pulp_rpm-client-3.27.0.tar.gz#sha256=7602bdac5cc33df6e13539f02653bb0149a692dbaf8a931ef905c0820229efb3" data-requires-python="&gt;=3.4" >pulp_rpm-client-3.27.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b0/f3/4d4fa4fbab64507e6c7be1e1ba83db2b71fa0276170fdf0a354287950386/pulp_rpm_client-3.27.0-py3-none-any.whl#sha256=82228af7210b9802d4b09c0455f0ba0dce5b8cf0b1e2185c93514ef413a32ce8" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=6c8239f8acb45846b781f85e67ae2c405d3223291ed400878451e5ff4efc65ee" data-core-metadata="sha256=6c8239f8acb45846b781f85e67ae2c405d3223291ed400878451e5ff4efc65ee">pulp_rpm_client-3.27.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b2/24/8fec309a674ff8fe66d6a58102f83b04681028363dea90027ee19fbc9be6/pulp_rpm-client-3.27.1.tar.gz#sha256=a5e4a3a9b227bf075175e919928653f9d8130bae331cee50a651029c5677d449" data-requires-python="&gt;=3.4" >pulp_rpm-client-3.27.1.tar.gz</a><br />
@@ -330,4 +332,4 @@
 <a href="https://files.pythonhosted.org/packages/07/28/3d1924fa7596c11176f200c10e99e7fad9f07f360fb0b696cb18621b3e7f/pulp_rpm_client-3.27.2-py3-none-any.whl#sha256=29a88874176fc6ce8bed176307c960f68d7dd8d160d39449f57fd833a4ccbade" data-requires-python="&gt;=3.4" data-dist-info-metadata="sha256=795f058de205b1c5df6e7d8cda2728d960b8e0e23ed77db0850bac3ca55474ed" data-core-metadata="sha256=795f058de205b1c5df6e7d8cda2728d960b8e0e23ed77db0850bac3ca55474ed">pulp_rpm_client-3.27.2-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 25564314-->
+<!--SERIAL 25598855-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for ironic</title>
   </head>
   <body>
@@ -146,6 +146,8 @@
 <a href="https://files.pythonhosted.org/packages/86/f8/50941c20d5dc91915a20de13a3df928ad2dc8421d9715b43bc7c88c0a52b/ironic-21.4.2.tar.gz#sha256=0850b93e97b01cd81d0eb50ab135e42765415062eb081c2c7225c81c3ffe63f1" data-requires-python="&gt;=3.8" >ironic-21.4.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/72/e5/8888a4bb6bc5b844931ef5adc6bd35d6f3591056a665157eadbb137601b9/ironic-21.4.3-py3-none-any.whl#sha256=e0089c40147d153dd0c8a1b333d65ae37569b7b6acd507a8a94e651deea4d8ac" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=90d34d9eeed436fe54604e1267a15ec6b0db6fd35b997f5eceb59ca4b9ebdff6" data-core-metadata="sha256=90d34d9eeed436fe54604e1267a15ec6b0db6fd35b997f5eceb59ca4b9ebdff6">ironic-21.4.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ac/ce/7fcf6183ceff195459fac24c525edaec34e2ed03352f74ef6296a948bc57/ironic-21.4.3.tar.gz#sha256=169c7c2b6cdfb80134c7240ade9570dd35658ef33f784bc8e512844669149d21" data-requires-python="&gt;=3.8" >ironic-21.4.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5f/14/9c51faafc7ed20a8032ee55515b3b139d87fa7afe006a6f2fc4bbcb344e6/ironic-21.4.4-py3-none-any.whl#sha256=897d44fc9afc064dfe93e98ce81264bbb9de06d62d95bcc17bec6e52c4731890" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=482002e5cc96bdb0516b441297ded140e0f4b1f30e845daebc15dd0555096257" data-core-metadata="sha256=482002e5cc96bdb0516b441297ded140e0f4b1f30e845daebc15dd0555096257">ironic-21.4.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ad/72/7dd19b9f909411157fed542f66573c7aed0eee490b8bb10da54ea750f27a/ironic-21.4.4.tar.gz#sha256=b0f621d0de76f4467aaae2fb1b78503beb58109d9dff95c2d55445cea000d595" data-requires-python="&gt;=3.8" >ironic-21.4.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e8/f2/ad09403608b6987d217310027ff4d8fea1f9eaeb5de74e4fbc927d49321b/ironic-22.0.0-py3-none-any.whl#sha256=dadff65c6b7a3358d2aaa7801e52130b99d5cd8e9b94466b650ad569ae5e5299" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=b41f5921a94ee510b817f11001a3f2c816392df4362afba22d7586e2caa05947" data-core-metadata="sha256=b41f5921a94ee510b817f11001a3f2c816392df4362afba22d7586e2caa05947">ironic-22.0.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/21/97/fef0b4558281271b49d949204f43b0af33b5537784aff42675c4df6da0c0/ironic-22.0.0.tar.gz#sha256=38599f7a91ef4e6dd7b6c2c7255bfb3db97829c00c21d9e1ac338cbe96604835" data-requires-python="&gt;=3.8" >ironic-22.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f5/ac/e78c087b4f516720821753d04a2d604ee4eb6e53f27bad32e6c675ce1cb4/ironic-22.1.0-py3-none-any.whl#sha256=4f2fa5936dc41194b65eb0ad5b0f25c15e84a34ed5699babf21c40914bbf6c2e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=a3286a40d85f711c5e021b32624303c9744d2329f89cadb407f55bb82de14e27" data-core-metadata="sha256=a3286a40d85f711c5e021b32624303c9744d2329f89cadb407f55bb82de14e27">ironic-22.1.0-py3-none-any.whl</a><br />
@@ -180,4 +182,4 @@
 <a href="https://files.pythonhosted.org/packages/cb/10/be1b3aecddf753aeb33d10d6d10ef880d670add89e2bb45a5082a6ecde9f/ironic-26.1.1.tar.gz#sha256=15045841306e544552d2a854fc979179f3d2687046ffffc23ae219bc69a76b1d" data-requires-python="&gt;=3.8" >ironic-26.1.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25314229-->
+<!--SERIAL 25587737-->

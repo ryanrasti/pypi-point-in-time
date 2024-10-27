@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for apify-client</title>
   </head>
   <body>
@@ -372,6 +372,8 @@
 <a href="https://files.pythonhosted.org/packages/1c/7b/68c1f84e7e93f46c20f4e5258c83a722911315aee19dae0df10fe0fd950f/apify_client-1.8.1b2.tar.gz#sha256=32fe1726cdb42d690b1cc7842ff116dc3da658b60fedfd0ca9db327febfbf82a" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.1b2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b4/39/d80f1373e56df442e0a1a4971df42fa32dab0590f11af069e5b726a0a925/apify_client-1.8.1b3-py3-none-any.whl#sha256=aa63850a08320fd9c39eee7540efd8039d20609427fea82ab276760094602165" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=1c4f5588340972529ea4073538bbd99f55b957b406e83922e9cadf99c577ff1a" data-core-metadata="sha256=1c4f5588340972529ea4073538bbd99f55b957b406e83922e9cadf99c577ff1a">apify_client-1.8.1b3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/23/aa/1319765ba4d4e59bb7e79583ec406cc2fadb7bebbce50c4bf75cefdcfffb/apify_client-1.8.1b3.tar.gz#sha256=d5c4cbdcd4f814560e26e1453efb6f271a092fdb1f609871f1ce16b0a3c4e498" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.1b3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ec/31/695d6692ccd802baa81104c75dc7e8d0d0588f5cdbf2423f84a7d8d0994e/apify_client-1.8.1b4-py3-none-any.whl#sha256=fbd46b3f21a9e52ee8ff0631a805846708ff8bfa44e416c46689548e187b5719" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=e58506d54790cc3c207f062809cb1f0872f7e2f842b6a057af0f6af12e9c1ebb" data-core-metadata="sha256=e58506d54790cc3c207f062809cb1f0872f7e2f842b6a057af0f6af12e9c1ebb">apify_client-1.8.1b4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/36/6b/d80aaf80a40a343ef1341d2c1d98c912554cc1aa32242641374d99f9054d/apify_client-1.8.1b4.tar.gz#sha256=1fd8024643143783527ec2136bd8882dfc8611d3aa62d1bc84e3c501578f378d" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.1b4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/15/0b/42bb740ba9ff4cd540cc3c22687e3c07a823a5bdecb18a714de6df183a3a/apify_client-1.8.1-py3-none-any.whl#sha256=cfa6df3816c436204e37457fba28981a0ef6a7602cde372463f0f078eee64747" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=461fad4826916a509c47521101cb4cfca7a80a456704d592c7440c63e51996c3" data-core-metadata="sha256=461fad4826916a509c47521101cb4cfca7a80a456704d592c7440c63e51996c3">apify_client-1.8.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/9c/d7/37d955bff90f6dfc353642e4b4075db3dd9abf8f5111ed35152be3dfc3da/apify_client-1.8.1.tar.gz#sha256=2be1be7879570655bddeebf126833efe94cabb95b3755592845e92c20c70c674" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/88/bf/42a2116b6b225148ac40ba60108f6c7769710576b78994637347a925dd45/apify_client-1.8.2b1-py3-none-any.whl#sha256=78ee53fa5929ecd2f172c8813464e711a36f186f2d72dee16c475b35a1fa91be" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=ecf978eb1c611f4bb081e6489d121cb5d5456d486810122914db5485abdefc6d" data-core-metadata="sha256=ecf978eb1c611f4bb081e6489d121cb5d5456d486810122914db5485abdefc6d">apify_client-1.8.2b1-py3-none-any.whl</a><br />
@@ -380,6 +382,8 @@
 <a href="https://files.pythonhosted.org/packages/22/47/5671eb68c1fbc991f3afbcd99952f7686506aabb1eccee44ac59020d4f85/apify_client-1.8.2b2.tar.gz#sha256=4226a650b5276e729041867ce3594c82ed1ff241fdd9256db35d9de76902f41a" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.2b2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/8d/0b/779170001281503a90874b026ea59b6efdb9da49750af0dc05d214dbf3f3/apify_client-1.8.2b3-py3-none-any.whl#sha256=48ce7d4a97aa4f8e798da83883c128eb6efdcd555d35fc78c7f9a0a7bd1b39e1" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=2f170cfff167f41fcf4ac06eaa855575b2225515794c01d94c509cb50e861052" data-core-metadata="sha256=2f170cfff167f41fcf4ac06eaa855575b2225515794c01d94c509cb50e861052">apify_client-1.8.2b3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c7/c7/6a5b89cc74b4158e220c516c02771b9ae0e2ed8849080aeda33ed638b054/apify_client-1.8.2b3.tar.gz#sha256=a17adf994a93930f609b802f66b2dafc8ec42774b89283c93968b8fc2eeb7658" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.2b3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/70/46/28f1b1cb9cba360682ac4dea3219605cc3bfaed57519f5a2f58d614fe5ca/apify_client-1.8.2b4-py3-none-any.whl#sha256=91bfb4774afe785c936ff923866f09f908b83157ce7c4f7821809890225bcdcf" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=93aeb85bf532f509ee3f6bc7556f2b91c18b394c45257f52121d179f777b3989" data-core-metadata="sha256=93aeb85bf532f509ee3f6bc7556f2b91c18b394c45257f52121d179f777b3989">apify_client-1.8.2b4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/93/8d/faf75684c2ab1e225081b953ede70e9bc8f5519ebcb95a6f9f57ea9ed380/apify_client-1.8.2b4.tar.gz#sha256=6eb1be038ed5ba3a0bb99fdd87f77e387e7b85d546155bb3083f5de0a08db11d" data-requires-python="&lt;4.0,&gt;=3.9" >apify_client-1.8.2b4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25511161-->
+<!--SERIAL 25646316-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for diffpy-structure</title>
   </head>
   <body>
@@ -31,6 +31,14 @@
 <a href="https://files.pythonhosted.org/packages/4b/6c/99e1c047abd00fa1d5c33f7e67473568ac097e3cbd30e40d72e250911dcc/diffpy_structure-3.2.2rc1.tar.gz#sha256=7a819f563768a041fe6315b2e015077a90a5eecb696722772907f0fd4c21d835" data-requires-python="&gt;=3.10" >diffpy_structure-3.2.2rc1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a8/1f/effe2bfe0a5d7e161b8841b73b166b4ea5bc33561730810b489e5c885757/diffpy.structure-3.2.2-py3-none-any.whl#sha256=9d583502c448a5b0836d9326215dab015f8c4ed67ac16c76aa74f7d3dbe69805" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=58c4c86cb93829d86d11805a0600ab0565b0dfca705e5a8721d183386265d9cd" data-core-metadata="sha256=58c4c86cb93829d86d11805a0600ab0565b0dfca705e5a8721d183386265d9cd">diffpy.structure-3.2.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ef/73/51b21dfa3303c16148427e7027cc3ba63f3a201b97a7ef41601027936205/diffpy_structure-3.2.2.tar.gz#sha256=fec2acf9c03668935702ad9fba082fb887d33a1a0ca587987a65cf055783a1d0" data-requires-python="&gt;=3.10" >diffpy_structure-3.2.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ee/00/54826e6e5fa181d72a730754eb9c0ae0209614f72d2c69f48c1099a97f0e/diffpy.structure-3.2.3rc0-py3-none-any.whl#sha256=988fd61facc27d72aef1c978b06220f75be57fca23d494960719bae39522f441" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=30a9f74953998823cda02589496935ac4236aa79d457eaabe00b92704783984c" data-core-metadata="sha256=30a9f74953998823cda02589496935ac4236aa79d457eaabe00b92704783984c">diffpy.structure-3.2.3rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a2/b6/eba5acca953063423956484639344a1667f504a22c1b691d24fef0ef4ace/diffpy_structure-3.2.3rc0.tar.gz#sha256=279393883b9e9bc6f6fcb2524ad186b22bb0ba9454abfce039138bc239d4bc8e" data-requires-python="&lt;3.13,&gt;=3.10" >diffpy_structure-3.2.3rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/47/1e/be8ce6c08de4743640e5b40db5abfbe707b0dcc23f29e3c068e857c87e91/diffpy.structure-3.2.3-py3-none-any.whl#sha256=056e3e0fc592955256c5dabb23fa15f8afd63cc82855bcbff0cd8525a8129844" data-requires-python="&lt;3.13,&gt;=3.10" data-dist-info-metadata="sha256=6d37b449af65afbd4efbfde82e1a9d7f55a14f76cf22385b1b92090eeb4d76bb" data-core-metadata="sha256=6d37b449af65afbd4efbfde82e1a9d7f55a14f76cf22385b1b92090eeb4d76bb">diffpy.structure-3.2.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1d/bd/6ed8eb463623aec759bc8613262d9a4479f5e770a20c746ef2bc09af18be/diffpy_structure-3.2.3.tar.gz#sha256=43bdf97e51210bb5443fd7f253e96f1f82d38eb6ed5b73f0b656b8444554444e" data-requires-python="&lt;3.13,&gt;=3.10" >diffpy_structure-3.2.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f7/38/7d7e954e721ed34df324154e139c92d2b48fad648d1ddc42ff66f3b0ff5f/diffpy.structure-3.3.0rc0-py3-none-any.whl#sha256=6b2608f12933b954cad19cde6762d69f0bd3f5d3a6eb43b6632bf41d4716ee8c" data-requires-python="&lt;3.14,&gt;=3.11" data-dist-info-metadata="sha256=a4596972c32bdc302678dd5cf0033180051b12d57b4b2de31a92ba0b410f2f71" data-core-metadata="sha256=a4596972c32bdc302678dd5cf0033180051b12d57b4b2de31a92ba0b410f2f71">diffpy.structure-3.3.0rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7a/a5/1f08c8412d9e0a440a0b9ced3de90b776409da61cf9cb15255363c2447d8/diffpy_structure-3.3.0rc0.tar.gz#sha256=c269c4f9a0bda7a635123fb0c2555695807cc1161b92227dba9c30c183c99279" data-requires-python="&lt;3.14,&gt;=3.11" >diffpy_structure-3.3.0rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6b/f4/a75be38d9ee8ddbb184c7ba5005286e276816e9a4705efe0920d90a96eab/diffpy.structure-3.3.0-py3-none-any.whl#sha256=dcef71ce79133d711d24ba196922100d631749b74a62e967360c21ff4275f7e4" data-requires-python="&lt;3.14,&gt;=3.11" data-dist-info-metadata="sha256=7c33280c319b358f42886f2eb41ec097bff3fa1defc38b4bb4b1ed6a1585262b" data-core-metadata="sha256=7c33280c319b358f42886f2eb41ec097bff3fa1defc38b4bb4b1ed6a1585262b">diffpy.structure-3.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c4/94/4ded43a236b79b21327343eeb6beb610cb3c93fab894e5ed50d00cfede8f/diffpy_structure-3.3.0.tar.gz#sha256=b334deedb1781b0542edac3eff0f47a68a92aa5f633418747ebbcc5d2e9575cb" data-requires-python="&lt;3.14,&gt;=3.11" >diffpy_structure-3.3.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25329150-->
+<!--SERIAL 25686178-->

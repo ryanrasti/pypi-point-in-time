@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pyscemu</title>
   </head>
   <body>
@@ -114,6 +114,16 @@
 <a href="https://files.pythonhosted.org/packages/f3/52/6b9d81c331ee482a125d1770c80052c25f84fb9f30a7505b5e252644a8c8/pyscemu-0.7.7.tar.gz#sha256=f26bf30b813fbf62cbd38b5b008e7631ed83c7ee3f0ab713405cb20fbaad0b64" data-requires-python="&gt;=3.7" >pyscemu-0.7.7.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/81/b6/b32612a2284655e13dd9c3b79a1037b49df6e7c626614063715780c79468/pyscemu-0.7.8-cp39-cp39-macosx_11_0_arm64.whl#sha256=d2fc93182f1e52124e82035f84b12c7cf39f0f11dafe5494f17bef91b5f233c0" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=3a32b60ae2bff331c23200b623402893106faebc110d7684e13e6898bdb4ce3e" data-core-metadata="sha256=3a32b60ae2bff331c23200b623402893106faebc110d7684e13e6898bdb4ce3e">pyscemu-0.7.8-cp39-cp39-macosx_11_0_arm64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d8/ff/59efe6817d862fec9915f9ce3290a35bba5ca3a9f7916e405094637b8a6c/pyscemu-0.7.8.tar.gz#sha256=a772931837a8872d87260a236447226ed4a43dbf233d92f5368ce3c716ba603d" data-requires-python="&gt;=3.7" >pyscemu-0.7.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/03/4f/c3fc88a408de588cf8fea9eb3606579e55bbdf228de33a4b2062ea29fc81/pyscemu-0.7.9-cp39-cp39-macosx_11_0_arm64.whl#sha256=273f951f90460e90fb37382da02dbe787f435b548d9b8d71371ef6c9ba6aaea7" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=4196c1e8a7b27e07bd58a99b8fef0674bff6895bd2ff3a25e06e45f61cf5a9c1" data-core-metadata="sha256=4196c1e8a7b27e07bd58a99b8fef0674bff6895bd2ff3a25e06e45f61cf5a9c1">pyscemu-0.7.9-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cf/fb/c6760ad377f330bdea8f5e8149e1d1cd89b78f56b6518818fcfb24d8e43f/pyscemu-0.7.9.tar.gz#sha256=2b9809be63a7717a4b0f55e1318a011a16360afc2f157de434bdfe2905dc1b21" data-requires-python="&gt;=3.7" >pyscemu-0.7.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/28/a5/60110768e3c40992204bc4139ceb521bb65cb3d2d410a836abe459f2fbdc/pyscemu-0.8.0-cp39-cp39-macosx_11_0_arm64.whl#sha256=d831b849178555c80f6c238a7d8df7875c60a3c850dd25baa38d1b0615cb67de" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=9173471b91357fd75fcbefb214db67cafedb72f5813899334ed08bb3b1b5779f" data-core-metadata="sha256=9173471b91357fd75fcbefb214db67cafedb72f5813899334ed08bb3b1b5779f">pyscemu-0.8.0-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ce/bc/32bc44cd2e7f12afa8cad053ba9dbc9f2a065fc8e1f8d42eb6e2fb48f3c1/pyscemu-0.8.0.tar.gz#sha256=6840e1ab346597d39e30a90558dbb712471128e5967c73be83ebf2324444ca45" data-requires-python="&gt;=3.7" >pyscemu-0.8.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/14/19/0587d4faa4b928f25a97cae9622f56091b3ea1d42fcff7ed8de62a00a2aa/pyscemu-0.8.1-cp39-cp39-macosx_11_0_arm64.whl#sha256=7cea29aa6c1fa6258a36e70c60ecccb630f6815828ca61e9b2aa5e2352c501c7" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=af7c68959ea07ac3e9d9f92dad6399e755c0148c0e95e747dcf4f0e8c26a1c9c" data-core-metadata="sha256=af7c68959ea07ac3e9d9f92dad6399e755c0148c0e95e747dcf4f0e8c26a1c9c">pyscemu-0.8.1-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7d/fc/4f98c54291d889649b6d4e9a796accc4283f98196978c996e98c16b4959d/pyscemu-0.8.1.tar.gz#sha256=91118848ab7c70312f6f8db987020a759f547883d7d1b7f0980b6b516be588b1" data-requires-python="&gt;=3.7" >pyscemu-0.8.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/9a/5cd844efd1ca40f76a57a7fb7f741a53fb114092fd2d409b47a9e56a9c8a/pyscemu-0.8.2-cp39-cp39-macosx_11_0_arm64.whl#sha256=8c8dfe2a993349a4eac9bb81c3ede0311571ad41ae9cae39c115c450bdbab8e7" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=4415312075bdf36b9bf13329f19137a6b1d693bdc392455c77c13e93ab371633" data-core-metadata="sha256=4415312075bdf36b9bf13329f19137a6b1d693bdc392455c77c13e93ab371633">pyscemu-0.8.2-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/db/9f/6dc2c6341c2b867a25ad3c1d37083cecfbf8d84e5c27565c1ed3d4a3f641/pyscemu-0.8.2.tar.gz#sha256=9b29a0f4b43b3b715b3339446401e696deb1fdc61db23560576aa653176d1673" data-requires-python="&gt;=3.7" >pyscemu-0.8.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/96/3152777624b8bb86dff1ed32a94db47c0f1e03f066c09903b3bef62aea66/pyscemu-0.8.3-cp39-cp39-macosx_11_0_arm64.whl#sha256=29e0db59efb0f82990a24b344d4ae063792749dd7797533378c833c487645372" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=e2f1eaf1503028777c45e927d53f41d05dfcb08360d09de0cff156cb125af4c5" data-core-metadata="sha256=e2f1eaf1503028777c45e927d53f41d05dfcb08360d09de0cff156cb125af4c5">pyscemu-0.8.3-cp39-cp39-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b2/36/939438bfe05746470e2332978016664d6b7bcb926c6bd50b57d0b20e441b/pyscemu-0.8.3.tar.gz#sha256=b31142e603416323247697cbdc6b20786976b8a9a40073a04127486258446031" data-requires-python="&gt;=3.7" >pyscemu-0.8.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25473656-->
+<!--SERIAL 25624278-->

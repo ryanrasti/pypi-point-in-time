@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for gns3-server</title>
   </head>
   <body>
@@ -193,6 +193,7 @@
 <a href="https://files.pythonhosted.org/packages/49/d5/c1f12c0630ce2011e09d110d4dd2dbe83d06b96fc7be0870e7ac743876e5/gns3-server-2.2.48.tar.gz#sha256=3cbab556c04f9212a29ae1b407130dfaac39e37b4e22144f813c4c654daba29e" data-requires-python="&gt;=3.7" >gns3-server-2.2.48.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/24/a7/ca595860167de86f1004403a1e663ab0be3686133a3fff2428942a1d847b/gns3-server-2.2.48.1.tar.gz#sha256=786acdedd76d62f49abfaa42749a09cc99dcda3ed22e1f9688778ae38aeb0f67" data-requires-python="&gt;=3.7" >gns3-server-2.2.48.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/2d/37/bfe471bcaa44a25f510d195d32a43a6f5aea89e56dadfcd9ebcad33e4bef/gns3-server-2.2.49.tar.gz#sha256=285a249787b7be8d795c822fb2dedb50042e40bc910f04f81e96ffc9a92c7fbf" data-requires-python="&gt;=3.8" >gns3-server-2.2.49.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c6/35/62ca7ae77146aceaed7ddef3593cb1613651b661c3fd15f2be1c65853666/gns3_server-2.2.50.tar.gz#sha256=7123cf7cd857e1ef945d808ddd661b8a77279971e95348c402a12337b24c617b" data-requires-python="&gt;=3.8" >gns3_server-2.2.50.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ef/1e/873b233bd64aac9fffee5926798c29d85ebb31eac12cd4e317ba8175986e/gns3-server-3.0.0a1.tar.gz#sha256=e529ff83a6beb1ca3481ebdb84db19e5e6dbfa5286cd6fb86c0502065153d30d" data-requires-python="&gt;=3.7.0" >gns3-server-3.0.0a1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/76/9f/37cd34b9d2adaa1f623deb3512df6985042e29a59f172df45233f2978436/gns3-server-3.0.0a2.tar.gz#sha256=a1beacffb8a4e27277310c7cf6ba20ce90ac60652e61018bdd5b3442d1dc054a" data-requires-python="&gt;=3.7.0" >gns3-server-3.0.0a2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f4/e4/e5d4fcda0a50f8ab81dc51a408ab6086f4c2b3245040e2d97e118cb5ca3d/gns3-server-3.0.0a3.tar.gz#sha256=b7c54c2800c4e87de8084b4190d941ddb5d99e11f3f7217da10f0e56a837c7b2" data-requires-python="&gt;=3.7.0" >gns3-server-3.0.0a3.tar.gz</a><br />
@@ -212,4 +213,4 @@
 <a href="https://files.pythonhosted.org/packages/6e/b5/90afed86ac12536d562e52b21ab34c9770305801312fb35187c826dde594/gns3_server-3.0.0rc1.tar.gz#sha256=2516390549a7dff9af97e3522f06737e482ba9feaea73261906bc176a79ebe33" data-requires-python="&gt;=3.8" >gns3_server-3.0.0rc1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24524472-->
+<!--SERIAL 25585342-->

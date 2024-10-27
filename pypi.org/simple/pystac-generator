@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pystac-generator</title>
   </head>
   <body>
@@ -30,6 +30,14 @@
 <a href="https://files.pythonhosted.org/packages/be/f6/6ed59b64d688a7f62dc379ce5d59f61b553c4b51305cc17a098269c3be14/pystac_generator-0.1.10.tar.gz#sha256=d63dae99ed8a4a0dc8e05f3938e876c2ba91f5b337eacd52d88d1dedf499e4da" data-requires-python="&gt;=3.11" >pystac_generator-0.1.10.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5d/eb/08bd04879ee3607b12fb61645e9cbaaf0f6cb36bfc01773f4137a7f88ecd/pystac_generator-0.1.11-py3-none-any.whl#sha256=3a32afe521d70fd43d82342c517bbf292b4abb604355d4843f804e05fa01627c" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=c3181b136a69491ea01a2654ca558152271824ea42a184dba035633677903981" data-core-metadata="sha256=c3181b136a69491ea01a2654ca558152271824ea42a184dba035633677903981">pystac_generator-0.1.11-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ed/78/a9214f57e651dfb7dea3846260d804b40047e39ec7af3ac1c04cc6325cf9/pystac_generator-0.1.11.tar.gz#sha256=ae307f0a0af7df56ab5a2a55b9ba76e0236a684db627150bbe3b9dd01c4c8ff4" data-requires-python="&gt;=3.11" >pystac_generator-0.1.11.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d2/fc/b7d3d42c16564adbe025984d804f7829e3f3588f910dc1fcb0c8420f4313/pystac_generator-0.1.12-py3-none-any.whl#sha256=9d75e7fcdd67c9d3fb30b6d4eda91fc74f75b6c52f1d67becd84b0493bac4ae1" data-requires-python="==3.11.*" data-dist-info-metadata="sha256=1a01dc297bbbd799f1552d46c12f48bf7ae07ac2959f4b56431ad21c74dc5c7d" data-core-metadata="sha256=1a01dc297bbbd799f1552d46c12f48bf7ae07ac2959f4b56431ad21c74dc5c7d">pystac_generator-0.1.12-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/68/c5/f4e943234f53218bb4ed32e1fbe0d2131f1cba7ee69b7d6961235abaf323/pystac_generator-0.1.12.tar.gz#sha256=a61b5be39ec0f2c4f143437e51e9026820fc906c2840079c71dde705f243f53d" data-requires-python="==3.11.*" >pystac_generator-0.1.12.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/66/02/4ef869534cfd927a1a707ef87e709618de974bf39575bcf3a3492a933227/pystac_generator-0.1.13-py3-none-any.whl#sha256=70621eb7c1eb72373eb2c563bf425847344ee2600297ea63778b6160d29badd3" data-requires-python="==3.11.*" data-dist-info-metadata="sha256=2be879d5f0b441899253d78810290d50f5b7c198a4749784fca353ea83eb3622" data-core-metadata="sha256=2be879d5f0b441899253d78810290d50f5b7c198a4749784fca353ea83eb3622">pystac_generator-0.1.13-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/35/61/f81f95890d55920a5c4e637bd3f1af4a5a7c9331736bef1c692b9ebef22e/pystac_generator-0.1.13.tar.gz#sha256=cb2ef27386319ee6f85041aa889ba2891ec1192b5a63974dd6c2a3952092eda6" data-requires-python="==3.11.*" >pystac_generator-0.1.13.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3e/b5/478cb400b0ca32a9c618d0c04997d1e702bcb2df0018efccad83b2a347f4/pystac_generator-0.1.14-py3-none-any.whl#sha256=9b5a293681f4b47fbac23fc16ad37b2d6b8d4ba62e5cc88afa5609a1945f0b74" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=74230df82a15aac0e150ed798bde0ecca3d6f8f6036dd2ac27d57895fe045272" data-core-metadata="sha256=74230df82a15aac0e150ed798bde0ecca3d6f8f6036dd2ac27d57895fe045272">pystac_generator-0.1.14-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/8e/0f43beb54819f7344182733fc2f4b87a22ad46c74598c7e784ef0dcb54b5/pystac_generator-0.1.14.tar.gz#sha256=09750f5abaabbc5f41c177b199fd6c96762b2452096adcf2a712c52837fa3756" data-requires-python="&gt;=3.11" >pystac_generator-0.1.14.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/90/71/42da05b6cb96508a4e32e6f3c24c6ba40cc66dfe5457f1f6bbd57002a4d4/pystac_generator-0.1.15-py3-none-any.whl#sha256=17be6c3222838bc447594f0161ee44993dbcd68d5dc653bfe4884adf5082d1f7" data-requires-python="&gt;=3.11" data-dist-info-metadata="sha256=5b83687b0cabce4173a3f9d485176add0e92472630ddc45d3e066c1b2abd94e5" data-core-metadata="sha256=5b83687b0cabce4173a3f9d485176add0e92472630ddc45d3e066c1b2abd94e5">pystac_generator-0.1.15-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fb/a9/0fdb22f25160c2b596e844d8d6d62bfac7f1c1d6a984a9650e5b1164bdab/pystac_generator-0.1.15.tar.gz#sha256=c1eca4bdad41c1d6a4117b81d9593c243d247ee221d3ec7f2ba71dfff12cd1c9" data-requires-python="&gt;=3.11" >pystac_generator-0.1.15.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25537762-->
+<!--SERIAL 25586674-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pyswitchbot</title>
   </head>
   <body>
@@ -267,6 +267,14 @@
 <a href="https://files.pythonhosted.org/packages/4a/c0/721e840e2ebcaa8209f4aa03120edbb0c6508ce1f8c0b815dcc7be656514/pyswitchbot-0.48.1.tar.gz#sha256=4afef7aea010e2e6282f3246b309d6db6a4790a933b13dfd0c342e87757be857" >pyswitchbot-0.48.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f4/ec/447d9f773e5578062f389ac59ba94c875573ff2a3feed8e884125b445706/PySwitchbot-0.48.2-py3-none-any.whl#sha256=a65b455e5866f0c819d56b8595e302f4bd1e8acf5b6b7141b9538fc64551b429" data-dist-info-metadata="sha256=81cffd5b22a52d7e4552bc7cef4c5c9e25cd93d69ee1025fa0f34b2097bd70c8" data-core-metadata="sha256=81cffd5b22a52d7e4552bc7cef4c5c9e25cd93d69ee1025fa0f34b2097bd70c8">PySwitchbot-0.48.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/68/23/d56a4770a99a866626b3caca61cc623f75315e98031fb6d79eaa12dc976b/pyswitchbot-0.48.2.tar.gz#sha256=aa7587baff7040115bc3739fa048bc0e702ad422de0898d7b6c2b289b9b46cee" >pyswitchbot-0.48.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/28/83/697b3bca4a475654d60eb518ed66243a7b1547be38241a91c10c11300139/PySwitchbot-0.49.0-py3-none-any.whl#sha256=2de8f94718dae3aafc8bca17fd227fc2f7d31b45ce7889b957d99a0fa50a0ab8" data-dist-info-metadata="sha256=88feb5bda60c867df6d5f9941376357d7fa92392249e48ad1afdab7107b2988a" data-core-metadata="sha256=88feb5bda60c867df6d5f9941376357d7fa92392249e48ad1afdab7107b2988a">PySwitchbot-0.49.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/70/85/06e1119395f70db98b90ddd5b86e366458145577a1ff5fb54b9e64d37320/pyswitchbot-0.49.0.tar.gz#sha256=13302d51564fba988cfb790d9d38bc9e69672666d123a80a3cd0ad87cc255942" >pyswitchbot-0.49.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5c/31/44970cb63ba9bf360c3a97f8a1881d8a81ff28ca76228a9b568b1056e943/PySwitchbot-0.50.0-py3-none-any.whl#sha256=3c1fa81c3a895a64aaec6007f380421bc494212d73a32d9225198b559cf9eabc" data-dist-info-metadata="sha256=efed0e81a7097274a2c6f7c88ec5de9aab7472c8e9a0ed8252427990691d3ff7" data-core-metadata="sha256=efed0e81a7097274a2c6f7c88ec5de9aab7472c8e9a0ed8252427990691d3ff7">PySwitchbot-0.50.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/23/51/8b0e2770f5c20958c0524cf5b9522e95f2a1e1722df91e6ff7f3360282b7/pyswitchbot-0.50.0.tar.gz#sha256=0e67c85eb48ad773aa36b155bd82e57931d88aaf49a4da8e1c688e6802bea70e" >pyswitchbot-0.50.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/98/35/e082a9a13d35cfea2d66045c1f3db91cf96d55f0894699005bce58d9e759/PySwitchbot-0.50.1-py3-none-any.whl#sha256=ce5eb05dbf5f511767935d232a13fa67fb383dc47d36945a554f7ab274a92b77" data-dist-info-metadata="sha256=b8d8c84c210eef5e78014598153528e465fc8a022aff2b5bc100a5e1d3edfd2c" data-core-metadata="sha256=b8d8c84c210eef5e78014598153528e465fc8a022aff2b5bc100a5e1d3edfd2c">PySwitchbot-0.50.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/23/b2/502b27b539c119e61421471bdf806d3e4ee720894e31f28fef6bbf693e2f/pyswitchbot-0.50.1.tar.gz#sha256=91fe64a1a515c8c5fd476cf92b04dfa12647b76b01db9b4b15cc0d3409ec4f83" >pyswitchbot-0.50.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/96/b7/63f2353842dfcb367beece0752e7b7bc4eb54215fbac6e0a7a1c56bebfa4/PySwitchbot-0.51.0-py3-none-any.whl#sha256=9b032b3b9edfaac11f97d6c2d8a1a9cf9d58350ae42f22c60b9c61a3ad8ab111" data-dist-info-metadata="sha256=24c0c8d005fb9bb4d664693a4e29bfa2e0fbb27c9f7351b54b9e933f9a8ead90" data-core-metadata="sha256=24c0c8d005fb9bb4d664693a4e29bfa2e0fbb27c9f7351b54b9e933f9a8ead90">PySwitchbot-0.51.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2e/a3/c8a25d9cee07f593ae9cbe25bac43238b91f8843f67588dc7a5cd7b2c399/pyswitchbot-0.51.0.tar.gz#sha256=2311691933ad2a2af958721736716b54c7dde642c7f8b035eab808ff0a0a4a3b" >pyswitchbot-0.51.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24696882-->
+<!--SERIAL 25614632-->

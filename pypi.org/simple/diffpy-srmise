@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for diffpy-srmise</title>
   </head>
   <body>
@@ -13,6 +13,14 @@
 <a href="https://files.pythonhosted.org/packages/fa/1e/474ce885cde15ea217539a161d911d713c36e95ab7c3d4296e3ba40fdc17/diffpy.srmise-0.5.2.tar.gz#sha256=02d80a182ea19e300dda5d199c0a5a5345b14a3089a7d51b1a7a9d21ee370523" >diffpy.srmise-0.5.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f9/c0/e4765ed2e6ed29f11c0d331153a08652cf4d5c9c58ec24c4bd01471e057f/diffpy.srmise-0.6.0-py3-none-any.whl#sha256=f3bbbbfa4e6d3e625700acac1e6693a837027bfd8bb0a961d9667c56b69615f6" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=408d1ba4182df70a581385a5c272a70a2f0e0f14d97dc222c375136dbce6bc02" data-core-metadata="sha256=408d1ba4182df70a581385a5c272a70a2f0e0f14d97dc222c375136dbce6bc02">diffpy.srmise-0.6.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/10/06/04131471ba739b89503d4e6d9c4cd652f695955871e498ce42fd49202b53/diffpy_srmise-0.6.0.tar.gz#sha256=b4f0078121ef71ba696202123df8016fbc3b7251a939496187a41b091ed33428" data-requires-python="&gt;=3.10" >diffpy_srmise-0.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1f/62/6ee78b1b6288857763c2a9e2cf996ed76a56c3adc63dc95fc76986dbf85e/diffpy.srmise-0.6.1rc3-py3-none-any.whl#sha256=8206384cb245d3313ea7c94588f978f5a0420eb8d3a44ff8082c94e70955460d" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=15348818bc5ac11ae12c47a2f1e2c9a6d3d271cea663503af16b7ba6b0025aa5" data-core-metadata="sha256=15348818bc5ac11ae12c47a2f1e2c9a6d3d271cea663503af16b7ba6b0025aa5">diffpy.srmise-0.6.1rc3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9f/0c/a495f20183cf1ff74e663e715b8ca8e401cc6979042e2d517d7deb02f91b/diffpy_srmise-0.6.1rc3.tar.gz#sha256=afd54386a56a201c0150246d2f2dbf883a4808a6ab607db73d92373efb1024c7" data-requires-python="&gt;=3.10" >diffpy_srmise-0.6.1rc3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/28/d2/f51993556b58b9797d5179208a481cf2c0a714b6c186b6cb83d1de50ddf4/diffpy.srmise-0.6.1-py3-none-any.whl#sha256=6280e099602ce9dc95766c4e470c2a89d7fb88cafcf79e2f536af62b6fdbd801" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=f1e67d4e09cb6bb625aae2328514fa48285b5d8326fb60166e2f3c69367da3bd" data-core-metadata="sha256=f1e67d4e09cb6bb625aae2328514fa48285b5d8326fb60166e2f3c69367da3bd">diffpy.srmise-0.6.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/77/89/cc32d2a07bbee2834578f6af0f7c64bc6fbc7566dc54efc874d7c5eec32b/diffpy_srmise-0.6.1.tar.gz#sha256=5d964385ac1abfae56dd63fc5f920e3a8b07e5311b9b4498fd58b278511cadd2" data-requires-python="&gt;=3.10" >diffpy_srmise-0.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/5a/038c48e9ef93f051e210da60e224167f655b15c314eed98faac2ee1f2c50/diffpy.srmise-0.7.0rc0-py3-none-any.whl#sha256=4d5232c94930f761029fdd2fc52796714b4fb654e58b113c61886c4373534b73" data-requires-python="&lt;3.14,&gt;=3.11" data-dist-info-metadata="sha256=a30c7aea66f3c9e4cae9091e72fb679af7ee5a4c9ad8cca93cb6551a47c0710a" data-core-metadata="sha256=a30c7aea66f3c9e4cae9091e72fb679af7ee5a4c9ad8cca93cb6551a47c0710a">diffpy.srmise-0.7.0rc0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/75/6b0f5224de247fb4594a3a4b86a0e580b999b467eef99a215715a622e5c0/diffpy_srmise-0.7.0rc0.tar.gz#sha256=f53ce9685f47ba9f17e5522b75532f3e81e8757ecbc245b817fb0f3fff5dd73c" data-requires-python="&lt;3.14,&gt;=3.11" >diffpy_srmise-0.7.0rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/01/28/9e9c2b1815a6381e3e452a8e73c8c0433e2e8b0ec97941ffa44a05f4af17/diffpy.srmise-0.7.0-py3-none-any.whl#sha256=137945aff99369f768a53378bd77adfbe919f6b25ae8afba82ced96b8bd33660" data-requires-python="&lt;3.14,&gt;=3.11" data-dist-info-metadata="sha256=08d4678d9a31bcda05194a1e5e164b35a5a9210e85b018dc50127e2e1dd92bc5" data-core-metadata="sha256=08d4678d9a31bcda05194a1e5e164b35a5a9210e85b018dc50127e2e1dd92bc5">diffpy.srmise-0.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/79/8e/9be7c9411c0028dc874f0c8aa2105edf94fc20d1aed3941187f81eab49f2/diffpy_srmise-0.7.0.tar.gz#sha256=5dfd80268d129242091bd740c4ec37f7eb30d2ab88a4e61f49c5a8a36c558995" data-requires-python="&lt;3.14,&gt;=3.11" >diffpy_srmise-0.7.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25313351-->
+<!--SERIAL 25659989-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for gooddata-sdk</title>
   </head>
   <body>
@@ -189,6 +189,14 @@
 <a href="https://files.pythonhosted.org/packages/61/9e/438abcce26d0ed0549d9a2439a44bc3b703ef1c35c3d478fb6550748d4ff/gooddata_sdk-1.29.0.tar.gz#sha256=68de4ba536c2931f69b678ba615c548a4ccf89c492d9f6e40a52479420c118ea" data-requires-python="&gt;=3.9.0" >gooddata_sdk-1.29.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bc/ad/8e9a6c4a0c68ac0afaed93af779bf717fee545008395db0bea807115c40e/gooddata_sdk-1.29.1-py3-none-any.whl#sha256=75541831065362773e2b339a109fbea6ca93903874ac61c628875255f002a071" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=5034094c3d906a876cbbf2c545fb3caa73fb7f115fa01410cd87fce975397dfa" data-core-metadata="sha256=5034094c3d906a876cbbf2c545fb3caa73fb7f115fa01410cd87fce975397dfa">gooddata_sdk-1.29.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/70/eb/1b7b11a515e0a8f5d13652357b0cbfe1aa86b3ad27074be9e9d51981bf6e/gooddata_sdk-1.29.1.tar.gz#sha256=ddb60ecb2833fa27ceee3b4f49579695282c8a2b5d4a1175e71c73902135da1b" data-requires-python="&gt;=3.9.0" >gooddata_sdk-1.29.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e7/3b/02689d986ebef6b3a77c681eae036cb2d5723b23a9696e2f963d6a82e727/gooddata_sdk-1.29.2.dev1-py3-none-any.whl#sha256=2b8f703f5b5cf64a8d19a28a8a334f194398acd0e637679a11f9beb3f67b6056" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=d137cc6829948b27a6fbf72ab0da7c105560322557da9a40b112e67fe18354c6" data-core-metadata="sha256=d137cc6829948b27a6fbf72ab0da7c105560322557da9a40b112e67fe18354c6">gooddata_sdk-1.29.2.dev1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/0f/ab438a576eb3f20fe2e7e9bd230bf9de023ec105e427950b82ea6dfa163b/gooddata_sdk-1.29.2.dev1.tar.gz#sha256=2163a1a88730f307e225f0461348cf5a03d5b938225edd97ab0fae681b988210" data-requires-python="&gt;=3.9.0" >gooddata_sdk-1.29.2.dev1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2f/e7/6235de9e7181b2c13e7bf10865b47304697abaed2e705d6ab861d7851a23/gooddata_sdk-1.29.2.dev2-py3-none-any.whl#sha256=79eb4a6ce9efdaf7d9c2edbd91c2fc9ff396baa217f0b078c519cc26b5c129d9" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=63715c3973c66c89a7cf6734a9a9ae40c48c74fdf7f39a0287f3e589a76a4254" data-core-metadata="sha256=63715c3973c66c89a7cf6734a9a9ae40c48c74fdf7f39a0287f3e589a76a4254">gooddata_sdk-1.29.2.dev2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8e/bc/fd9c283445d72c6c8f331ee14e3e6dfbacf7aaed7131a83d952cb639337f/gooddata_sdk-1.29.2.dev2.tar.gz#sha256=776eb525d79123d685641313a634a49e72620b7f7d3b439f420d5e1d7f09dee1" data-requires-python="&gt;=3.9.0" >gooddata_sdk-1.29.2.dev2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/05/89/de0bdf02a79de54802248fd38b90d74f0f71b9ddbeaba2ce40aeb2e4a176/gooddata_sdk-1.29.2.dev3-py3-none-any.whl#sha256=dcb3883d32e7be15d23ddb6340f80292e791753268871dc776246e6c0756a176" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=bb50b6b757f3634f4ae5b59b003b4a90e3cff379c8d5a6c8c1427d0f2cfc45a8" data-core-metadata="sha256=bb50b6b757f3634f4ae5b59b003b4a90e3cff379c8d5a6c8c1427d0f2cfc45a8">gooddata_sdk-1.29.2.dev3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/86/89/35c403586e7775b130fa35a3c68d929a7056ba04317c1cf6b5fb5bb39f2a/gooddata_sdk-1.29.2.dev3.tar.gz#sha256=f13ea57c869633cf3a23d34ce0f7d4e0f95af2cff107b5be6fde434c971627d6" data-requires-python="&gt;=3.9.0" >gooddata_sdk-1.29.2.dev3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/82/cd407d2bc586cf8cc065937ca2b8fe47b278cc2323a82b0aef2b94095895/gooddata_sdk-1.29.2.dev4-py3-none-any.whl#sha256=449f416b4ec541e5ec10c9d06cbc1ba76c1dc978759ea6557dc44821efcedc2f" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=8165fe0457acb80d1c174810165be383be63ff4f87721b4faf47878d222db854" data-core-metadata="sha256=8165fe0457acb80d1c174810165be383be63ff4f87721b4faf47878d222db854">gooddata_sdk-1.29.2.dev4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/24/7b/d2770f29814e7d005fc8261de710d227be247c88cbf3cc1cf5643d94fa3b/gooddata_sdk-1.29.2.dev4.tar.gz#sha256=a8db566ba9e5db8ea872fc5f5966cfa72bcbd7af894bae2c18b8fef9ef4fdc14" data-requires-python="&gt;=3.9.0" >gooddata_sdk-1.29.2.dev4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25531308-->
+<!--SERIAL 25663048-->

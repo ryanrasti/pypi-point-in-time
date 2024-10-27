@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for wagtail</title>
   </head>
   <body>
@@ -481,6 +481,10 @@
 <a href="https://files.pythonhosted.org/packages/6d/97/97b59c6bcd913f394e9f475dd952466954e9959ca9e10a45d4b251141eae/wagtail-6.2.1.tar.gz#sha256=0f136ef23b157997a44fa46543a320a31437350951cf13add8ea8b69cc5e8385" data-requires-python="&gt;=3.8" >wagtail-6.2.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ee/98/9f528bd41b8a3ba21fd3eeb0f869758bd807cc5e54dd5b8eec8cbe465c44/wagtail-6.2.2-py3-none-any.whl#sha256=d0382603aef5d7e4a46529aa125857774a317c2870c9b6836767932969829429" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=af14c9a8b3a76755a40104ff5e60f9cf6c48bb61efba4f81e85090337b9ce15e" data-core-metadata="sha256=af14c9a8b3a76755a40104ff5e60f9cf6c48bb61efba4f81e85090337b9ce15e">wagtail-6.2.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/75/cb/7fca6daf7b11b15e0457fa58d1c5ef705bad6048403624a5079f386bb4a6/wagtail-6.2.2.tar.gz#sha256=506ac2b59dae85069ae754b45bc13b91cbd86e92d4f5d663658773b0ed7a16b9" data-requires-python="&gt;=3.8" >wagtail-6.2.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1b/89/ed4d642a69fc87b5ee5bf07c82895da37678cbb92e12cd0155918d8bbb6e/wagtail-6.3rc1-py3-none-any.whl#sha256=1696bd76d604b66eac4417dc08831e49efc19de20d11908103874a89b4e1109e" data-requires-python="&gt;=3.9" data-yanked="Retracted due to packaging issues breaking Django 4.2 compatibility" data-dist-info-metadata="sha256=4c42cd7a88259dbc8fa511f572a1fac05543c868998f6ce5b6d9d83fe76a7bda" data-core-metadata="sha256=4c42cd7a88259dbc8fa511f572a1fac05543c868998f6ce5b6d9d83fe76a7bda">wagtail-6.3rc1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6f/d5/a691beee9de4575d9c392cb05958d7ec5bcc320091338cf7dd57a929e9c6/wagtail-6.3rc1.tar.gz#sha256=02238de8fe990ac0f4edde25387592db6e6a945204c077ca3b3db0bf42f0f70a" data-requires-python="&gt;=3.9" data-yanked="Retracted due to packaging issues breaking Django 4.2 compatibility" >wagtail-6.3rc1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/58/44/1a4cb0fd16f63efee5d748c86fe31503ab0d7a0b02b7c3e054eb5903747d/wagtail-6.3rc2-py3-none-any.whl#sha256=36864da59a657100369b95e53963c5573eeb542da2db7eecbccda7bbc1097a16" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=24d3db1f6c3d3998e5504bf9b8e478200095e2167885dd4ca7f4651c6d801680" data-core-metadata="sha256=24d3db1f6c3d3998e5504bf9b8e478200095e2167885dd4ca7f4651c6d801680">wagtail-6.3rc2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/bb/9a/7db0b5c02abeffc9c26db2e1a4c96c6c33c33510820a964f45e07659921e/wagtail-6.3rc2.tar.gz#sha256=773992bc87a53c4b421302b6dfe62f7f68d2473a470cdd4d35fd721e5030f8d5" data-requires-python="&gt;=3.9" >wagtail-6.3rc2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25167998-->
+<!--SERIAL 25597490-->

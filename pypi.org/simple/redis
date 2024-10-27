@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for redis</title>
   </head>
   <body>
@@ -232,6 +232,8 @@
 <a href="https://files.pythonhosted.org/packages/9b/b6/7a4b49eadff6bdd1904ef96b7e1dede8754673fe4724969bfae3d418ad8d/redis-5.1.0.tar.gz#sha256=b756df1e4a3858fcc0ef861f3fc53623a96c41e2b1f5304e09e0fe758d333d40" data-requires-python="&gt;=3.8" >redis-5.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/15/f1/feeeaaaac0f589bcbc12c02da357cf635ee383c9128b77230a1e99118885/redis-5.1.1-py3-none-any.whl#sha256=f8ea06b7482a668c6475ae202ed8d9bcaa409f6e87fb77ed1043d912afd62e24" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=ae56b8f623ff475d724e6e758ba1bc957bb4504b65145f9a3daf280bf0bf41ff" data-core-metadata="sha256=ae56b8f623ff475d724e6e758ba1bc957bb4504b65145f9a3daf280bf0bf41ff">redis-5.1.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e0/58/dcf97c3c09d429c3bb830d6075322256da3dba42df25359bd1c82b442d20/redis-5.1.1.tar.gz#sha256=f6c997521fedbae53387307c5d0bf784d9acc28d9f1d058abeac566ec4dbed72" data-requires-python="&gt;=3.8" >redis-5.1.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/12/f5/ffa560ecc4bafbf25f7961c3d6f50d627a90186352e27e7d0ba5b1f6d87d/redis-5.2.0-py3-none-any.whl#sha256=ae174f2bb3b1bf2b09d54bf3e51fbc1469cf6c10aa03e21141f51969801a7897" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=ab0823a7d3b0c0b356a971e5a4e352ad31858855f5138de3113f4ad143628575" data-core-metadata="sha256=ab0823a7d3b0c0b356a971e5a4e352ad31858855f5138de3113f4ad143628575">redis-5.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/53/17/2f4a87ffa4cd93714cf52edfa3ea94589e9de65f71e9f99cbcfa84347a53/redis-5.2.0.tar.gz#sha256=0b1087665a771b1ff2e003aa5bdd354f15a70c9e25d5a7dbf9c722c16528a7b0" data-requires-python="&gt;=3.8" >redis-5.2.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25324624-->
+<!--SERIAL 25651806-->

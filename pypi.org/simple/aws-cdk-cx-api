@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for aws-cdk-cx-api</title>
   </head>
   <body>
@@ -1050,6 +1050,14 @@
 <a href="https://files.pythonhosted.org/packages/ca/95/ffa21defce75f04f2e2b673f3baa7adfe33cb49c698da5ee1063d491db71/aws_cdk_cx_api-2.162.0.tar.gz#sha256=d72987b0c3b723b57f68bab49bbbe01ac74be80cc9540af0ae70b3b6e186179b" data-requires-python="~=3.8" >aws_cdk_cx_api-2.162.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a3/f5/5740f731899a21d6361322f985002be2c9da5c1a1c44678442a29e6f9562/aws_cdk.cx_api-2.162.1-py3-none-any.whl#sha256=e355bb356e9e4a9b3413474e6b45ddcbf29f19032e4b6c6c9249454a21e545af" data-requires-python="~=3.8" data-dist-info-metadata="sha256=631713d2f8c29f3c62fa0c32f10ed364c955edf309c47ce0178037491bba9370" data-core-metadata="sha256=631713d2f8c29f3c62fa0c32f10ed364c955edf309c47ce0178037491bba9370">aws_cdk.cx_api-2.162.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/53/4d/6d4057c2225469a6c38a4198d3aa2662e61f3da1b5ed6401d722ad4e4bf8/aws_cdk_cx_api-2.162.1.tar.gz#sha256=0c3584c29c619c0ea4ce545c78a51aa8371b4543969a9bcabf1af297c4ab53a1" data-requires-python="~=3.8" >aws_cdk_cx_api-2.162.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/da/5c/c29259a1410e400ecda55f80f896316ab683fad1f5b69dbcfe2be4ad3fec/aws_cdk.cx_api-2.163.0-py3-none-any.whl#sha256=9a279ced83f17a829b910dd5c6880598de92e0ac9f98d97afcd587a2975803a8" data-requires-python="~=3.8" data-dist-info-metadata="sha256=87fd7c896cee4334dc03cd72bb233616d4609f43ab01c84730f8c593d4628fd9" data-core-metadata="sha256=87fd7c896cee4334dc03cd72bb233616d4609f43ab01c84730f8c593d4628fd9">aws_cdk.cx_api-2.163.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a8/40/5ecc96e8f5d80e024dd98a6aaabf7c90578f76dcbd1932d884f5d2fde26d/aws_cdk_cx_api-2.163.0.tar.gz#sha256=ce5552434ada9cdfd2c18196ce69d92617c51c6da5aea20f8f802159852188c8" data-requires-python="~=3.8" >aws_cdk_cx_api-2.163.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/25/29/43168ee5a4c0a011db81238cb4fd7f07669e5766b153d3feec3c6f935822/aws_cdk.cx_api-2.163.1-py3-none-any.whl#sha256=c41bde21c1258d8295b206999d0a3518f07cc5ba9b5d9221d44ecc638483e755" data-requires-python="~=3.8" data-dist-info-metadata="sha256=b4787882f7de00a84a6dbc1dcd597b7ff263703ce95301f91e5e1fe3bb817ab3" data-core-metadata="sha256=b4787882f7de00a84a6dbc1dcd597b7ff263703ce95301f91e5e1fe3bb817ab3">aws_cdk.cx_api-2.163.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/18/2f/ed51b00bbe15e2fe0be15faee6a0d5184b629aee697c9f68d6b479c05236/aws_cdk_cx_api-2.163.1.tar.gz#sha256=25f109d3035901a879381ad26bb08f0b64156c250a0643ce049390e4c3868e7d" data-requires-python="~=3.8" >aws_cdk_cx_api-2.163.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/59/24/d3aa36b8e8ab7021c74c6139a72552c38a362ec782f44c2e6079acb70477/aws_cdk.cx_api-2.164.0-py3-none-any.whl#sha256=e1c3efe20748eed3ff2c013f234bb5b01743bba1941a06c1a6622dc0f8276efb" data-requires-python="~=3.8" data-dist-info-metadata="sha256=318010cb24771a93cd7a61300c18c500ef3e36c56cc66f3e3ffe63438eb7958b" data-core-metadata="sha256=318010cb24771a93cd7a61300c18c500ef3e36c56cc66f3e3ffe63438eb7958b">aws_cdk.cx_api-2.164.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/de/2d/798f5626b496da4751d9b3c6fc2540a9bdfa249404dfa85e142bf7a40e2e/aws_cdk_cx_api-2.164.0.tar.gz#sha256=2017f33408f87e5d8a55b63f87dcc84a9482374d974b28e6cc667f83cc889e31" data-requires-python="~=3.8" >aws_cdk_cx_api-2.164.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/2e/89/ae23d6b7a57dd1d04e8b45105b65b61f16a821676306cd43f4f2f386872a/aws_cdk.cx_api-2.164.1-py3-none-any.whl#sha256=398777608e7b4930de053bda2174d33bdc55e4e11661eb6bb8438fd1e8d77ba0" data-requires-python="~=3.8" data-dist-info-metadata="sha256=064ab96be482a7c1132d632d0c30625e504eb3af11061aa26625420accecb67f" data-core-metadata="sha256=064ab96be482a7c1132d632d0c30625e504eb3af11061aa26625420accecb67f">aws_cdk.cx_api-2.164.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/84/de/83748fa7ba1fb537781ead31ca175ebef87d6ca8fab35574b9340442a5e0/aws_cdk_cx_api-2.164.1.tar.gz#sha256=15f6406df74ec3b02ec6ab165677ad492a6653f5146e66d082a997c26a961f23" data-requires-python="~=3.8" >aws_cdk_cx_api-2.164.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25437964-->
+<!--SERIAL 25674587-->

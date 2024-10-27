@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for django-ausleihe</title>
   </head>
   <body>
@@ -26,6 +26,16 @@
 <a href="https://files.pythonhosted.org/packages/3b/83/81f763968cbf7da24670d534287751954cfa7aa869853e15c938ef550048/django_ausleihe-0.2.3.tar.gz#sha256=c22360f79b676236b41a568930e2fe089c07e3f88b3672a15355516a4ccdd1dc" data-requires-python="&gt;=3.9" >django_ausleihe-0.2.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/48/a1/f10327869874c2b0cc02a1201a388ac4dde712fe528e246bb65c4d9a7083/django_ausleihe-0.3.0-py3-none-any.whl#sha256=4b50a7801080b9eebd624358df4f6c21e85727f5ff36159a9d837bd5f76404a9" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=590c367ae42ff4da1edb8e60c046c4b5f627cac84db99ec4e4694238a1d235f1" data-core-metadata="sha256=590c367ae42ff4da1edb8e60c046c4b5f627cac84db99ec4e4694238a1d235f1">django_ausleihe-0.3.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/f3/57/13e15daf565f2a894a64f302e631ad4e5feb7bbaa10f1d65681744a53ea6/django_ausleihe-0.3.0.tar.gz#sha256=6f8ac8d0a54cc47c0ecff67776f655eb40bee9b2963c759051e6d63ae0d4bb31" data-requires-python="&gt;=3.9" >django_ausleihe-0.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6d/54/a4a0025d4e114f823efbab18fd0034eed7c398bda4dd689d7e23d14ddfb6/django_ausleihe-0.3.1-py3-none-any.whl#sha256=edb4db8e48e9b8fe69a5cfafb4dd3e6d1f873c89b27cc223c2cd40cebf16153f" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=bd0dab9118ac1316b7fdabc35f894b90d6a4a3c35e33d626277c2b26ebc5d885" data-core-metadata="sha256=bd0dab9118ac1316b7fdabc35f894b90d6a4a3c35e33d626277c2b26ebc5d885">django_ausleihe-0.3.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a4/ce/815c1f9a8a02e39f92a0c62ae330e882e2b01edd69e2c0e429b0c1305395/django_ausleihe-0.3.1.tar.gz#sha256=e1e51b805efe3de7a70162e01d339818a37b4ef0aaf83f8231222699f6ff769b" data-requires-python="&gt;=3.9" >django_ausleihe-0.3.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/04/ab/047a36188f0e8a3dac013f87000e594b33bc1aa85d5e10c09c5152807e92/django_ausleihe-0.3.2-py3-none-any.whl#sha256=daf98c24b4367415e00da9091d68914d8fc588962a523420835a0275a0d1cc06" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=c0a6d3abd8f7ce947b11993f3b92e6f8922886969fbf84f0dd541ca52a6d63ce" data-core-metadata="sha256=c0a6d3abd8f7ce947b11993f3b92e6f8922886969fbf84f0dd541ca52a6d63ce">django_ausleihe-0.3.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1e/e8/eafbecb17c5c0e932fb11cd61d8d4fc0e7dc1dcfdf72ac51ae11b1f14a52/django_ausleihe-0.3.2.tar.gz#sha256=1e8392ba8f6576811f95bd8d1c24ac4e33cb4e755c0c9be83b8430c7d17ccacb" data-requires-python="&gt;=3.9" >django_ausleihe-0.3.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/e0/bb441ea4157ce29f0fbe87f7dd187274a42043825769396904e4cb987fd9/django_ausleihe-0.3.3-py3-none-any.whl#sha256=637ba1a4994a14e36d449f4d694d60ce8c0c18ffcce8a6735c4ab00054e42af1" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=00a050c2457a65507d398ee190521cae3ef72bf359399eb33b2d486db3c71351" data-core-metadata="sha256=00a050c2457a65507d398ee190521cae3ef72bf359399eb33b2d486db3c71351">django_ausleihe-0.3.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/a2/8d9fb5d45080931ce7086a7f9f443cf60b55788d187d4591b7756cc0baf3/django_ausleihe-0.3.3.tar.gz#sha256=86f2922f898bbe06053ec0e22f0e202a60e4971b758deec7df9c9a9b4d2392f1" data-requires-python="&gt;=3.9" >django_ausleihe-0.3.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/59/3f66531d4181ded3bb64dd6e39aabdffdb616de252fc260c74d379ab4b92/django_ausleihe-0.3.4-py3-none-any.whl#sha256=5cdb5b433ef3fa31b90db9fa842ac60d301b10a692c4c67ae73ff9028794e7a0" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=d0e0fbccd2c118f9de6b0f65ede9af4d24a255d0f83956f81d869de856780307" data-core-metadata="sha256=d0e0fbccd2c118f9de6b0f65ede9af4d24a255d0f83956f81d869de856780307">django_ausleihe-0.3.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ee/6e/7511822a6862145e236869577b8c1cb837bdc4ce17061f92e4a9fffafd54/django_ausleihe-0.3.4.tar.gz#sha256=c8dc733941292800bf18e3f2c990f438e6fa257f846f9fcde1889064c534a5d3" data-requires-python="&gt;=3.9" >django_ausleihe-0.3.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/37/44/d0061a709bd44c7af26f9d618407e44c53d889bc7a96beda2bcfc398dc89/django_ausleihe-0.3.5-py3-none-any.whl#sha256=4ce95006124a6987be25803ac74f0c24cb3e2cf21a35618a0d421d616f5ddfcb" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=0ef9fd86299fc3562b7044f9f7aca6dcff5e117a4c70beba5d033994b59a8a9f" data-core-metadata="sha256=0ef9fd86299fc3562b7044f9f7aca6dcff5e117a4c70beba5d033994b59a8a9f">django_ausleihe-0.3.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d1/87/bdb9051626698060554b785380d5c0c51e1320ed960e1773fb15211d0ab4/django_ausleihe-0.3.5.tar.gz#sha256=e75b35dce1c1680c65a623801ffbcf2d1d8cd6c9c3051a8a68b07454e90670e1" data-requires-python="&gt;=3.9" >django_ausleihe-0.3.5.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25436294-->
+<!--SERIAL 25668441-->

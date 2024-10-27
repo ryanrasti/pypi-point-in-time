@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pulumi-tailscale</title>
   </head>
   <body>
@@ -407,6 +407,10 @@
 <a href="https://files.pythonhosted.org/packages/d6/08/fde27883445c0f6f2ba1c46e289d7ca98a0a36e10c0a1808dde6898d1d2b/pulumi_tailscale-0.17.2.tar.gz#sha256=5109eb415d59f7c39ff591e52b6d07e80f9e10de5af2669057cf08869ba71266" data-requires-python="&gt;=3.8" >pulumi_tailscale-0.17.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/19/88/b28267cd7b95fe32121da743e884c12588e35723e6f01d0d78be78dd0542/pulumi_tailscale-0.17.3-py3-none-any.whl#sha256=6ec517bc7b0a290c87736eeab2614e4f8877f2e1f27bf23ab0cda7286da0905b" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=006d149b8b50d053049aaf606743aaa2041c9d1b28a1724fad3b9ef2aed276f7" data-core-metadata="sha256=006d149b8b50d053049aaf606743aaa2041c9d1b28a1724fad3b9ef2aed276f7">pulumi_tailscale-0.17.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/11/19/3376853e492dbab9a25412da53427bfd28f55945e91cf4fc551360a313d7/pulumi_tailscale-0.17.3.tar.gz#sha256=085f10f9bbab28ae0f2196d904b69bbc5bb9dafe9e918af57cfc8392c21ef255" data-requires-python="&gt;=3.8" >pulumi_tailscale-0.17.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7b/7c/db056f96a0ae40920d6a5f2acae787de41766d0baea5731a52875dc80456/pulumi_tailscale-0.17.4a1729802609-py3-none-any.whl#sha256=f57a21af0a41c3807b2023e319021c8c0da2ec1954b63ff7ba96271928452c9d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=3ad8e15284b6c6f1d061933b1b4062e8f3a750312a98d187a275fd335de1085e" data-core-metadata="sha256=3ad8e15284b6c6f1d061933b1b4062e8f3a750312a98d187a275fd335de1085e">pulumi_tailscale-0.17.4a1729802609-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/e5/8a6e4818064a4fb1613e661e0e157fcd65c9bb89fc343b1d8ddb7f9b6415/pulumi_tailscale-0.17.4a1729802609.tar.gz#sha256=20d8af74845f7e87b2bc5fd244644e7af7f682d440dac577c984f5f035933863" data-requires-python="&gt;=3.8" >pulumi_tailscale-0.17.4a1729802609.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/07/14/beadbe8ff85708b41dd1c4bf3ba13bc1dbded2a2acf92fa23e85b54ce1be/pulumi_tailscale-0.17.4-py3-none-any.whl#sha256=46adb9d6d69f31fef1650b558d83a6c672c9258d9f2c297ac33abe9e8bc9661c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=63bbaf2b8c200cc5de52411e9d025ba2789ad410d3451bbb7217fd60fd4b4fff" data-core-metadata="sha256=63bbaf2b8c200cc5de52411e9d025ba2789ad410d3451bbb7217fd60fd4b4fff">pulumi_tailscale-0.17.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e0/12/2830fcfaa4084e9129dc09d846f314b26bd91490bdf4acce5e06fe2a2659/pulumi_tailscale-0.17.4.tar.gz#sha256=dea933df6ea5ef2e445ec72dfd89cf969467e8d02f2106af6f562542e7194751" data-requires-python="&gt;=3.8" >pulumi_tailscale-0.17.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/70/43/c37872ba36bafceb1ad9401a48ab9445c324ef3b8522996998cac38dc9d0/pulumi_tailscale-0.18.0a1726726315-py3-none-any.whl#sha256=2cdf95f318975a7694a6402eb52e6643786d42476a3fd11caf9f9719e7627f26" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=227afd34a961cc097013708cc339eba481ffd8445abce560e3d9c7ee981b8824" data-core-metadata="sha256=227afd34a961cc097013708cc339eba481ffd8445abce560e3d9c7ee981b8824">pulumi_tailscale-0.18.0a1726726315-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/30/d4/d6e6ba1028794eddc02f85c13afe197b83a4dccbad62082503fe88f04cfe/pulumi_tailscale-0.18.0a1726726315.tar.gz#sha256=cdfbba39ddf8805869f6ad37f07a1c4b1c8b458d9aa5370e7d9a83432d3a0869" data-requires-python="&gt;=3.8" >pulumi_tailscale-0.18.0a1726726315.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/2f/a3/a5569d4f446fa88bd6b6c8d5a3309e8131c4d23f97df53af9e50c1ce7166/pulumi_tailscale-0.18.0a1726827402-py3-none-any.whl#sha256=302ade5a364f794378196422e845c0f56b078b353390a0e82eb043e89355422d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=023ca681fc7fdd59e7bca1f57fc8b4851ba708ae1d1c27424a23cfa536dbb497" data-core-metadata="sha256=023ca681fc7fdd59e7bca1f57fc8b4851ba708ae1d1c27424a23cfa536dbb497">pulumi_tailscale-0.18.0a1726827402-py3-none-any.whl</a><br />
@@ -431,4 +435,4 @@
 <a href="https://files.pythonhosted.org/packages/e7/4e/170bb2ccbcf16be1be481888a3c6c7fdad3e33414ad8b82bdacedcb00372/pulumi_tailscale-0.18.0a1729195883.tar.gz#sha256=099146694545c22e725d3422b7423643c5b5ab8ada6005cd0938a83854e42363" data-requires-python="&gt;=3.8" >pulumi_tailscale-0.18.0a1729195883.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25535087-->
+<!--SERIAL 25657313-->

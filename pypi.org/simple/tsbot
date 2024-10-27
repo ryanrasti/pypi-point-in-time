@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for tsbot</title>
   </head>
   <body>
@@ -50,8 +50,10 @@
 <a href="https://files.pythonhosted.org/packages/a4/93/e6d4544be7d1b741d745ed1bc20ac3e5e24baada34707a1fe58d1fde795d/tsbot-1.2.1.tar.gz#sha256=d1588237cc5cead67dd5eaa01b474d09a572e50f3141f9b264eb2b84f6917696" data-requires-python="&gt;=3.10" >tsbot-1.2.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/5e/91/4799520f2403d7a6eeea0e41474485011e0bd9749156111f686410020748/tsbot-1.2.2-py3-none-any.whl#sha256=bbf312b7a264584a56faddbf6f09f5e09cd538d6dc726c3ff6293964f8fadb27" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=0eeae49378bf7ace3d2a495c055e6cd43e5d0410db9d0c90b51527f71200a941" data-core-metadata="sha256=0eeae49378bf7ace3d2a495c055e6cd43e5d0410db9d0c90b51527f71200a941">tsbot-1.2.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/0c/b9/791dd0d16ef815e8972006174080a521a8e52ae39f76d508b1e3ab87a157/tsbot-1.2.2.tar.gz#sha256=d2b79bb38aca75e6de132e14df1cacbfe402a9f706fc3a49bf5dad0f889878d5" data-requires-python="&gt;=3.10" >tsbot-1.2.2.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/68/4a/a54a0823381f9bc825a816c18661103632d4d3ddb3d65578fbc2b8ce116b/tsbot-1.3.0-py3-none-any.whl#sha256=65be499d115f03f76f4f261a8613519cb75f1a6d4530d7b4f76681461e8bc799" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=c4c36b5b995db4b9053c9d8ad18a842f5682171f3cf055feb9f196af3dc776d3" data-core-metadata="sha256=c4c36b5b995db4b9053c9d8ad18a842f5682171f3cf055feb9f196af3dc776d3">tsbot-1.3.0-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/43/69/1bc8563e66b253443b08e6f6a3b52d4f2fb1afbb4d4c987e68b2d74fc013/tsbot-1.3.0.tar.gz#sha256=44de98becdb127a5e16c5252d59d913fc6b968fdc142ff6c17bce9b2ab27079a" data-requires-python="&gt;=3.10" >tsbot-1.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/68/4a/a54a0823381f9bc825a816c18661103632d4d3ddb3d65578fbc2b8ce116b/tsbot-1.3.0-py3-none-any.whl#sha256=65be499d115f03f76f4f261a8613519cb75f1a6d4530d7b4f76681461e8bc799" data-requires-python="&gt;=3.10" data-yanked="Race condition when sending queries" data-dist-info-metadata="sha256=c4c36b5b995db4b9053c9d8ad18a842f5682171f3cf055feb9f196af3dc776d3" data-core-metadata="sha256=c4c36b5b995db4b9053c9d8ad18a842f5682171f3cf055feb9f196af3dc776d3">tsbot-1.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/43/69/1bc8563e66b253443b08e6f6a3b52d4f2fb1afbb4d4c987e68b2d74fc013/tsbot-1.3.0.tar.gz#sha256=44de98becdb127a5e16c5252d59d913fc6b968fdc142ff6c17bce9b2ab27079a" data-requires-python="&gt;=3.10" data-yanked="Race condition when sending queries" >tsbot-1.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/28/18/a981cde75baea259793e61f8b522e41bcfcc90b69ad4e5832f2ec188a1df/tsbot-1.3.1-py3-none-any.whl#sha256=7042a567d28ba7aaa179cd96abc5ab1b44857b894947d295a47f888c81409b14" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=7437df8ba35210f847864268be45dd28710bd62581d669375c790c12c6d10b4b" data-core-metadata="sha256=7437df8ba35210f847864268be45dd28710bd62581d669375c790c12c6d10b4b">tsbot-1.3.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5d/a1/79a3f573aa65318f2be56f27ccd2816ee1875591f808ca7a72fdc4b9ea5e/tsbot-1.3.1.tar.gz#sha256=073e9bd7c28aac3c7a4e70dea3e51bf8fbef5973c97d20834f93fcc53e4eccde" data-requires-python="&gt;=3.10" >tsbot-1.3.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25551609-->
+<!--SERIAL 25687487-->

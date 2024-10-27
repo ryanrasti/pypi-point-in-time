@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for opendapi</title>
   </head>
   <body>
@@ -126,6 +126,14 @@
 <a href="https://files.pythonhosted.org/packages/97/16/fce4ef33c5675f6d90e1e8dba43584cc0c6940be6b79af365c78a2aceb7e/opendapi-0.0.59.tar.gz#sha256=e52099b47042832b907ef5f6b9baa40e1b2d4244edb98bb1988ae1ffdcaf3799" data-requires-python="&lt;4.0,&gt;=3.8" >opendapi-0.0.59.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/82/f1/eecbf842fd9485baee3656faa71fd92fcdd2971c4af2a3837931023a16d5/opendapi-0.0.60-py3-none-any.whl#sha256=62c9150f4e8bce10ca8a941dd8f6cffe0b88c10fada495dddcec3f3c6eb8b1a1" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=06780f03b06ccac7516187b5b1b27ec0114684c762eb8867008b936a03aa6fc8" data-core-metadata="sha256=06780f03b06ccac7516187b5b1b27ec0114684c762eb8867008b936a03aa6fc8">opendapi-0.0.60-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/92/67/62f193e014839f376ed5c4df968a9814a40ebeac02bde2c4f0e63c09e759/opendapi-0.0.60.tar.gz#sha256=0804aa40516ecee9e59c037a80f72eb3b96db10fcfa17535a9d29879a34843ee" data-requires-python="&lt;4.0,&gt;=3.8" >opendapi-0.0.60.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/77/62/47d1a9b1c24a92aa7b2c2352a608683098c7075cd220a253f0d7170698c9/opendapi-0.0.61-py3-none-any.whl#sha256=7a82d6f7675a7f6f05a297852e505b31ce5b6636ef17303fd9812e00589ef67a" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=6e25e24d7a09fbcff7d3035a9faf3660134563d957f7fcbee98db44c69a213d3" data-core-metadata="sha256=6e25e24d7a09fbcff7d3035a9faf3660134563d957f7fcbee98db44c69a213d3">opendapi-0.0.61-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b7/ad/e1a264bc80ab5d3f7f9fb2e8af8fa039b8145b79065ed3a9620cfbbd0fe7/opendapi-0.0.61.tar.gz#sha256=29cf71648490c8911482f84dd05ad7ca9e0cda96085ba6a9e24b0671eb0c10ad" data-requires-python="&lt;4.0,&gt;=3.8" >opendapi-0.0.61.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8d/3e/d8869154e8201001f6d2275a4873cd9d85722417ca2a477b80d8b75c121c/opendapi-1.0.0-py3-none-any.whl#sha256=617d7e0d1724d10eb96ac8bd0528d4cf046ea34a298c4791604822adb8b4ea13" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=ca6a9814fdd6a2ae52fbf4f19699316e27625f474c2f70e797c963c3d1e08a59" data-core-metadata="sha256=ca6a9814fdd6a2ae52fbf4f19699316e27625f474c2f70e797c963c3d1e08a59">opendapi-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/76/f3/b851b063a88f95062d712ba790268a70c87c1b918412ddfdefd7371351b0/opendapi-1.0.0.tar.gz#sha256=7be7587ff40d133dc67710f96183787c41d32a62277f005d12b8d6b4195d64c0" data-requires-python="&lt;4.0,&gt;=3.8" >opendapi-1.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a1/8c/e2f407995b88bc770e9d68f84b44a3314beb9121dbd8436d9f64f6674247/opendapi-1.0.1-py3-none-any.whl#sha256=9e6e56b2183278f98237b36632fed70bd2d93c619bc052e4b524735ce0854520" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=2aecb600adce27e058c44ab6fb3f8a7f52251e2ccbeed8477ff5473c9acaf5b3" data-core-metadata="sha256=2aecb600adce27e058c44ab6fb3f8a7f52251e2ccbeed8477ff5473c9acaf5b3">opendapi-1.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/67/50/adaa1fcc024c0cc46ffdcc91f1d6d7c744d755720d2474e765b0b9fa97c3/opendapi-1.0.1.tar.gz#sha256=b1a1a80ea9637365e5b512e2f292bd6f753e550ccc75a24ee162e3be003eed8f" data-requires-python="&lt;4.0,&gt;=3.8" >opendapi-1.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/e3/9ab9f832abae179b50e244af74d470e93e72ba039fc00c76ae859e1d34c4/opendapi-1.0.2-py3-none-any.whl#sha256=8d20e8700cef5bca00642e957ef9de18d5b832d3e8a9a499522c1f50246b2113" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=2d3d3de8c47ee7fab4fdd173f9a4bd18e31f272a3857ce7d2473df39e82daaaf" data-core-metadata="sha256=2d3d3de8c47ee7fab4fdd173f9a4bd18e31f272a3857ce7d2473df39e82daaaf">opendapi-1.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/37/19401350f5de926ced9c9cc60a2c1ab45b36c9be108ee0a321dc7f81dd46/opendapi-1.0.2.tar.gz#sha256=349e0b7addd6d1b2e4d461d5d8ca11c2febb3ab4d1176e785afe632f5b00687e" data-requires-python="&lt;4.0,&gt;=3.8" >opendapi-1.0.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25426409-->
+<!--SERIAL 25642984-->

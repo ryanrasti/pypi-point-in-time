@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for crewai</title>
   </head>
   <body>
@@ -228,6 +228,16 @@
 <a href="https://files.pythonhosted.org/packages/74/33/fdcc75e2ccd044bf5792f609bac1ca2105fe9a64437ca1cef9dc75835eec/crewai-0.74.1.tar.gz#sha256=4378b968a8d53236ea3433bef38056b95ade401ddbc70e0f5a5e1a5992143a2b" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.74.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a3/ef/5fae2f28d634c146cd06da118b50f3b9c7213ef9649e20f4ba1e7b6d2f06/crewai-0.74.2-py3-none-any.whl#sha256=4f0acd839ac604da1ad8efea67394166700e02ae643ee829b0f8eb22f2129ef2" data-requires-python="&lt;=3.13,&gt;=3.10" data-dist-info-metadata="sha256=934752f1c35b04bdb319da87a78db494d723e7a6ffc3038e89de79c87581e635" data-core-metadata="sha256=934752f1c35b04bdb319da87a78db494d723e7a6ffc3038e89de79c87581e635">crewai-0.74.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/27/7f/998b084d1ebfca9739f7e26e0c97eab6e4f35391689a2836c04497430dd8/crewai-0.74.2.tar.gz#sha256=de8c70bda1862ee52f52202d0f2afb53cae3e5849ecaee3c6bdcb774bac2358f" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.74.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d1/39/0df8ebc98d30b24b3404cbcf8d646526e84fde8cf7d572f0174fd8d4403e/crewai-0.75.0-py3-none-any.whl#sha256=9348fd3c44fd95dc7ba123a1f2047585fdd59a8f29f2b938c39a12f79e6ba04f" data-requires-python="&lt;=3.13,&gt;=3.10" data-dist-info-metadata="sha256=00c489277cb1af1d2b162f926432f00acf9e0fa47093853789e8f0f8d333ba37" data-core-metadata="sha256=00c489277cb1af1d2b162f926432f00acf9e0fa47093853789e8f0f8d333ba37">crewai-0.75.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8c/81/e6809406539e05d6c965b9712915449b8ffafe686ed3d3c52b7f629c54c9/crewai-0.75.0.tar.gz#sha256=72c9af559405c2062ab3cbabcb812f5b96da0eca59fc8c2e4299a0b01adc0661" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.75.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3d/b8/c4865ac3d81afa6a499c01a63efde5cefef9581804a4ea45bd407fa996ec/crewai-0.75.1-py3-none-any.whl#sha256=89f68589858e21a72afc62ec45ab6f907746ba6dc50aa3a943ffbd644507d4f8" data-requires-python="&lt;=3.13,&gt;=3.10" data-dist-info-metadata="sha256=0639599b6beb6fa4c509683ebdcdc7e7e25803cea61bed910aa4202d86ec84c8" data-core-metadata="sha256=0639599b6beb6fa4c509683ebdcdc7e7e25803cea61bed910aa4202d86ec84c8">crewai-0.75.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b7/c3/7466c5848bd739da6d3a66bc06f2e2039d89fad6cba24ff22099a981b39d/crewai-0.75.1.tar.gz#sha256=6b7eb04fc3330522bee797455049489d6aeecca2a332f6839aa7fca743b59331" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.75.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3b/75/797b9a13f2cabbc8d01abd5018b03c6596c29acba9ce7c1617b1de3aaed9/crewai-0.76.0-py3-none-any.whl#sha256=ee401b64e776cf4749546eddd2ade9d20c0fbed47a64a4f2f7ac98992c556283" data-requires-python="&lt;=3.13,&gt;=3.10" data-dist-info-metadata="sha256=ba13d7f7ab0c35a2b4862f575e048bd5ab93e2dcb158b7a4fc08245180dd175e" data-core-metadata="sha256=ba13d7f7ab0c35a2b4862f575e048bd5ab93e2dcb158b7a4fc08245180dd175e">crewai-0.76.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/57/528dfdb35544501409bf38f91dcd1d6f1e268c8b9196372918c1b7d27c43/crewai-0.76.0.tar.gz#sha256=6ccc77d24562e9b8499b3135580e5924264d27fa8f8f53d87965ef28c9fa5e01" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.76.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/34/0f/a7ee6d63623e652fc2a30000bbba858e10170ebebf7d7233847960592331/crewai-0.76.1-py3-none-any.whl#sha256=dedbfeb2d8c1eccf272e7bba9860de7ac4ecf8e1fc0035bfbaa0597c4d878799" data-requires-python="&lt;=3.13,&gt;=3.10" data-dist-info-metadata="sha256=408273e55c26c615156e3068dba5caeaa26e7c2115fd15b97a023f34956ff336" data-core-metadata="sha256=408273e55c26c615156e3068dba5caeaa26e7c2115fd15b97a023f34956ff336">crewai-0.76.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/01/bc810be444c912487253317e7f98e4fa44a1d3e94c317b64ca7b2c3594b5/crewai-0.76.1.tar.gz#sha256=73c1de581144de451ee39619ab1379f44941a73d36059d3703633d9935cef053" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.76.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/27/1b/8a5fe479e582db030064ec6fac5291bc2c8860af18c7d6aa3b9c6ac5e729/crewai-0.76.2-py3-none-any.whl#sha256=d1d0bea95aa3ad499d4fa6ace214d95ac22ea75e1b42d2b9dc2af4a4dd64f472" data-requires-python="&lt;=3.13,&gt;=3.10" data-dist-info-metadata="sha256=642015b06f83a60ae365616b2094e442752ad9d6410b8c8cc53cf9524bdcab48" data-core-metadata="sha256=642015b06f83a60ae365616b2094e442752ad9d6410b8c8cc53cf9524bdcab48">crewai-0.76.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/a2/385d6b54818b70aeca6ea743fe2049aee0ab159a92cda9e80f1643904e79/crewai-0.76.2.tar.gz#sha256=8792b8299e7122d066d7b3f63053a7fd6df4bca3c4c1ed646e6e6fcc88b26db6" data-requires-python="&lt;=3.13,&gt;=3.10" >crewai-0.76.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25555499-->
+<!--SERIAL 25639248-->

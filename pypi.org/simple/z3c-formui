@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for z3c-formui</title>
   </head>
   <body>
@@ -38,6 +38,8 @@
 <a href="https://files.pythonhosted.org/packages/4a/1a/b15c7b18acc6569922b3fe35f4a11467fbed4e632651f417c42349cc1e5d/z3c.formui-3.1.tar.gz#sha256=f64e53fd2facb6779f49a705a513a57c5cbc9c72c960b8e17d492a7bd794230d" data-requires-python="&gt;=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*" >z3c.formui-3.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/fc/a8/17e83b688d303a7fd4f0624d036fccd4f91ebf85dda88fb99d812d282abf/z3c.formui-4.0-py3-none-any.whl#sha256=67f2348c44b20242ec53a38dd2cf3876250a84a84defadb41de087c73b8f1532" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=dcd64fa8c3493f3513b5b62fef34a8549347ca2d7415d31d2cc82bef3c8795fb" data-core-metadata="sha256=dcd64fa8c3493f3513b5b62fef34a8549347ca2d7415d31d2cc82bef3c8795fb">z3c.formui-4.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/55/3b/59414e3ff83e403b072591d03e22ee5a437f2c2720a2cbc7f85e3547f8d2/z3c.formui-4.0.tar.gz#sha256=855777a94713cdc628cff0f10f190246acedb28e4aac1ab7085d1aec71f92ad9" data-requires-python="&gt;=3.7" >z3c.formui-4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8d/0d/f7d49880b0fa114b2bdca78623ed542870774048b5a923318a2d03504428/z3c.formui-4.1-py3-none-any.whl#sha256=0c62848fb344a6e2ab2c8eed367d13328185970d7a001d7d12ef6b7608b1a6f3" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=02678e5bd1fca8f891dfc28b20843a8afcae2c2dde1d5573d98b498c2b9d1892" data-core-metadata="sha256=02678e5bd1fca8f891dfc28b20843a8afcae2c2dde1d5573d98b498c2b9d1892">z3c.formui-4.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/31/25/137165cd69dfd55c71211024cacd8429043a7d0ed75bc88f20913adab61c/z3c.formui-4.1.tar.gz#sha256=982762ab7b5aa5473706c057b0a667e799b65068a30f68d00dbf980d28dcc613" data-requires-python="&gt;=3.8" >z3c.formui-4.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23498588-->
+<!--SERIAL 25605887-->

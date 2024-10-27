@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for actipy</title>
   </head>
   <body>
@@ -58,6 +58,14 @@
 <a href="https://files.pythonhosted.org/packages/11/c6/61d7618680990011cb18f5fd6d18c080a7d2b3b5ce2f0eab76852081d01e/actipy-3.0.8.tar.gz#sha256=cb6eae530cac486b0ed8974ab2186e919a28e5aeb3965fe8c329bd97fe2d4084" data-requires-python="&gt;=3.8" >actipy-3.0.8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/26/56/2903c090269e2d9cb2543ff647143413fb1fef17298fc88360957203b217/actipy-3.1.0-py3-none-any.whl#sha256=73a5a81cab4542821fdcf628634db64b4a2a24020f3de24b7191863365c4da92" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=533f418f600a38491f475d8f03e4a9f63a2ff6cc2c75dd34b79f3beabc747dbf" data-core-metadata="sha256=533f418f600a38491f475d8f03e4a9f63a2ff6cc2c75dd34b79f3beabc747dbf">actipy-3.1.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/33/2b/660ba9fe959f08b0ea7f30954eddd0869d7585a3e6883e5f98f7de995072/actipy-3.1.0.tar.gz#sha256=efce955361e694134fac7960dae803eec0bf78aca2138aae69ce5c213c08b7cd" data-requires-python="&gt;=3.8" >actipy-3.1.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/89/87/9e71a0591110f230146f661099ce9686f30b409817eb1868929dd2c6a569/actipy-3.2.0-py3-none-any.whl#sha256=605295380c71c5870a71cb4013076a8a576c7ed44cd8cbb5dfcfee9557be6424" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=13173543de69fe6d352918c44964519b80d58c1991f755141d97ec9bee7286b2" data-core-metadata="sha256=13173543de69fe6d352918c44964519b80d58c1991f755141d97ec9bee7286b2">actipy-3.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c4/7e/b6c4edd72c05be8c88447a39eb354097909e40e97f1d475ef68bf1bfe18e/actipy-3.2.0.tar.gz#sha256=e7415ba83a50f78d942c56619be632c42226930e554c6ff5951612d78dd53ddd" data-requires-python="&gt;=3.8" >actipy-3.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6b/4c/d886960f3acab21f80b88104f1fecfce50e196d3b51ed875058cf8ab154b/actipy-3.2.1-py3-none-any.whl#sha256=da5c51486628204ab76d0ea45d0da7ee385b0cc76d273b6737a6f25af0b259dd" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=32d83c266a7bd57f1a03d560da226b7355e73f623dc7d96d8de507272bf8f1c4" data-core-metadata="sha256=32d83c266a7bd57f1a03d560da226b7355e73f623dc7d96d8de507272bf8f1c4">actipy-3.2.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/46/f0/aaac0be7a20a86f047dd327655f125b316cfdac7c4680818620dac3532b2/actipy-3.2.1.tar.gz#sha256=387ac32058039cabf632a73dd24a83610e4343c05810434f027239bd0ac89465" data-requires-python="&gt;=3.8" >actipy-3.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f9/14/dfd119de30d97955ce74d784ec465a2e7386da6d11a17c1662399a174cbd/actipy-3.3.0-py3-none-any.whl#sha256=29c4dc21f2e7563c212f571fb3c4b1a1d219bde70eaeddf0c45723a489ee161d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fab5349fbd33d27f04e669b457c4cf552d50909e40814e31822c22621f290d04" data-core-metadata="sha256=fab5349fbd33d27f04e669b457c4cf552d50909e40814e31822c22621f290d04">actipy-3.3.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/df/89/1763f987e7df85ab07fb86f7a1099780660f8031bf3dbde775b07f8f4ff6/actipy-3.3.0.tar.gz#sha256=ba95c170a0019d783dbca4e5bccc7c313856491b6dc878ab73ff088d8ae2ec41" data-requires-python="&gt;=3.8" >actipy-3.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/04/0a/11b367c83678fda72d7126f0bdd9cff2e767887a4165845da4fcd4127dd0/actipy-3.4.0-py3-none-any.whl#sha256=1ffa03ac946f9b78c972f4d26e4c2fa01490191f27dd90702792f9710d27117d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=11c4934e9010950a4f98bb1727482e906e797baa70bb78e74b7a5d2ec521434c" data-core-metadata="sha256=11c4934e9010950a4f98bb1727482e906e797baa70bb78e74b7a5d2ec521434c">actipy-3.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/01/eb/dced6272ceed6d89edae43db46498116bb112b8d064e2a86b443b44fd666/actipy-3.4.0.tar.gz#sha256=50dcaba8af128ff5829b8ba0db1aa0ddc2952d9e04e2b9f05f5bb41df2d77fb5" data-requires-python="&gt;=3.8" >actipy-3.4.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24276156-->
+<!--SERIAL 25668491-->

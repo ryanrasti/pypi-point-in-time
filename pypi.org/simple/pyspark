@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pyspark</title>
   </head>
   <body>
@@ -47,6 +47,7 @@
 <a href="https://files.pythonhosted.org/packages/0c/66/3cf748ba7cd7c6a4a46ffcc8d062f11ddc24b786c5b82936c857dc13b7bd/pyspark-3.4.1.tar.gz#sha256=72cd66ab8cf61a75854e5a753f75bea35ee075c3a96f9de4e2a66d02ec7fc652" data-requires-python="&gt;=3.7" >pyspark-3.4.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6f/bb/fc3f8e3d306a91ad65d33385b13ce0b9b7b653dbc369a55023e30c8f7e6d/pyspark-3.4.2.tar.gz#sha256=088db1b8ff33a748b802f1710ff6f6dcef0e0f2cca7d69bbbe55b187a0d55c3f" data-requires-python="&gt;=3.7" >pyspark-3.4.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6d/fe/3d8f6190536c4d3ed24540872c00f13ab9beb27b78dbae1703b5368838d4/pyspark-3.4.3.tar.gz#sha256=8d7025fa274830cb6c3bd592228be3d9345cb3b8b1e324018c2aa6e75f48a208" data-requires-python="&gt;=3.7" >pyspark-3.4.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/46/6c/48fdd43909f6f0425b068cb676c7510694a56a323a83a696f429760f598c/pyspark-3.4.4.tar.gz#sha256=b831a99c1aeb058bc4a2498665de10006b899b2438ba15470cc88f577755ebf8" data-requires-python="&gt;=3.7" >pyspark-3.4.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/92/11/5c0f24537fa68624cb6271d2a8a8982e81bd05f5cb51e9d2d2a89baa0e1a/pyspark-3.5.0.tar.gz#sha256=d41a9b76bd2aca370a6100d075c029e22ba44c5940927877e9435a3a9c566558" data-requires-python="&gt;=3.8" >pyspark-3.5.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/73/e5/c9eb78cc982dafb7b5834bc5c368fe596216c8b9f7c4b4ffa104c4d2ab8f/pyspark-3.5.1.tar.gz#sha256=dd6569e547365eadc4f887bf57f153e4d582a68c4b490de475d55b9981664910" data-requires-python="&gt;=3.8" >pyspark-3.5.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/31/12/461c29d25f91c246842fb09e9cfb21ab82a9ab8ea8dd35667cc8b708f715/pyspark-3.5.2.tar.gz#sha256=bbb36eba09fa24e86e0923d7e7a986041b90c714e11c6aa976f9791fe9edde5e" data-requires-python="&gt;=3.8" >pyspark-3.5.2.tar.gz</a><br />
@@ -55,4 +56,4 @@
 <a href="https://files.pythonhosted.org/packages/70/53/01520eae5a4e9d28ba9ef57f591f18f4d1939848e1b29adf89960b50075c/pyspark-4.0.0.dev2.tar.gz#sha256=2d2552abe22816bf7cc7e08efebf480263c1c083e16de7e68869ede1d429b508" data-requires-python="&gt;=3.9" >pyspark-4.0.0.dev2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25222510-->
+<!--SERIAL 25664052-->

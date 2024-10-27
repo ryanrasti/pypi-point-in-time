@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for payments-py</title>
   </head>
   <body>
@@ -44,6 +44,14 @@
 <a href="https://files.pythonhosted.org/packages/82/27/7461055fade9a1c2e0cb8d534d383bc87799892875a8d6adb2696fb3e3f3/payments_py-0.4.3.tar.gz#sha256=e6d44b1df81b8cc9cc313f6a9f34c91ab9f29908d3cbc51b346947df427e579d" data-requires-python="&lt;4.0,&gt;=3.10" >payments_py-0.4.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/19/d0/697087e8d08dc44a060239fab2132b7722654b40f85ebbf2b925d3b7058a/payments_py-0.4.4-py3-none-any.whl#sha256=82c9ad815f911fb30f60273f4107ced270aebb1fe7b18ac29128862edd465094" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=8e3d5a484904303fb9e7026d4aef3db1d9a468bdb3ba93f6ba7155cb1e39c07d" data-core-metadata="sha256=8e3d5a484904303fb9e7026d4aef3db1d9a468bdb3ba93f6ba7155cb1e39c07d">payments_py-0.4.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/6f/3d/25a0264bf5f6ab850b468be3bfafd2337a576f5f02a84e17cee72562eda8/payments_py-0.4.4.tar.gz#sha256=e5d718fe46d3b6184eef82df864db6b87f2c2e03d0af92186d74a959b70df297" data-requires-python="&lt;4.0,&gt;=3.10" >payments_py-0.4.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/40/20/72b0cf44c45e1668d1d071d4ff9969fc1ab3e4e138d5c3aabb0e07e8d17d/payments_py-0.4.5-py3-none-any.whl#sha256=3ec9f88a9754908cb51bc8f589113566fcb4b967a6ceba510d1806822b954956" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=e03dbad23ab8a85c5fe342252db70a5caf5bd2548fdda7c97f91e55054011e35" data-core-metadata="sha256=e03dbad23ab8a85c5fe342252db70a5caf5bd2548fdda7c97f91e55054011e35">payments_py-0.4.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3f/dd/66d5f8404637c3957628732d4e935fd8bc5baf5e0a1cc2433c442c3a7fb7/payments_py-0.4.5.tar.gz#sha256=5f17148dfea371c7ded1c753c9a4f0417695e3ed8382c81b2105b713f2b192f0" data-requires-python="&lt;4.0,&gt;=3.10" >payments_py-0.4.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/42/6c/b5e274b422988c1461c1b6c1802806424891f97eba19d22f0ebb3e315160/payments_py-0.4.6-py3-none-any.whl#sha256=e147d3effcaa983401c2ff5b242d2890f591725dc3997b42e616b078b3cba096" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=4b0173ea5fd05d6c272cc4edd6194642c76a2a3027d8e099943c1e937dd2e1b2" data-core-metadata="sha256=4b0173ea5fd05d6c272cc4edd6194642c76a2a3027d8e099943c1e937dd2e1b2">payments_py-0.4.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9a/5d/f62399fbcb5d17c945105ca332232b58eef750acc57c8cccf13a551d624e/payments_py-0.4.6.tar.gz#sha256=984a30c9ee65d70953f63192f3793b5ae0b047c6156c8606113d54ba0dfddee8" data-requires-python="&lt;4.0,&gt;=3.10" >payments_py-0.4.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/19/b00e2df7138eadf47f364fdf5510e0d39176be98a53d73322994f3195ddb/payments_py-0.4.7-py3-none-any.whl#sha256=46f1bbab8c45557ffef8161f66d61bb9da3bd227ebb208693bb26ee6064e55ea" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=a1cb056a81ac0aabc84a62398de815cec911a461588fc4e250584b4eeca9920e" data-core-metadata="sha256=a1cb056a81ac0aabc84a62398de815cec911a461588fc4e250584b4eeca9920e">payments_py-0.4.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b4/2e/b18398a2a1955a8d6576dfc88dd5a069c1b3a195647840b2f2b91f46dd73/payments_py-0.4.7.tar.gz#sha256=d31642021362ac9234660addc5a17a4bb526c0e0ed24f703de5fe77fe37d8f9c" data-requires-python="&lt;4.0,&gt;=3.10" >payments_py-0.4.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d4/aa/4af8ee7bcead100fd4da960b8b98abcae69f8d34372fc01e262d40d6abc2/payments_py-0.4.8-py3-none-any.whl#sha256=996ce3a1b5ec76ae8ea9583f4f4b5714c4fd31e6c58b2980cdac5a1125479064" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=cf2dad35cbda2b31d879ceee202fb78917f495e42276504794f7df5da04501b9" data-core-metadata="sha256=cf2dad35cbda2b31d879ceee202fb78917f495e42276504794f7df5da04501b9">payments_py-0.4.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/07/cbd3afb8ca87e04d87f81a90aab479593fe461c9f136cd8b3f8c691e69ec/payments_py-0.4.8.tar.gz#sha256=15d13eb224c85cda58a5b23452f21e6093ac7dea8e8382bf1708099d328502cc" data-requires-python="&lt;4.0,&gt;=3.10" >payments_py-0.4.8.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25543231-->
+<!--SERIAL 25627791-->

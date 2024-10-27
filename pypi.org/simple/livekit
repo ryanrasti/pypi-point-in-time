@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for livekit</title>
   </head>
   <body>
@@ -299,6 +299,12 @@
 <a href="https://files.pythonhosted.org/packages/2d/fe/5e68f13ab41c9f261ebc1ea3e8087598831155b7b273b4e45ed51a01cb64/livekit-0.17.5-py3-none-manylinux_2_28_x86_64.whl#sha256=32b9436d6e02f1a1ba1be33dedcb8257cd8d297fb3e5615a21426e4b0b7b27c9" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=0d52540b8aca118f7df19c4e563c619edb875f822d2675f25be0fb7dc3aa28df" data-core-metadata="sha256=0d52540b8aca118f7df19c4e563c619edb875f822d2675f25be0fb7dc3aa28df">livekit-0.17.5-py3-none-manylinux_2_28_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/90/74/4c785d545fbaf5dbfe685352a1a1c1c51ae1e34b9f01311b5321ff9ba83d/livekit-0.17.5-py3-none-win_amd64.whl#sha256=f19f7d884ffc75a1c37dd518d72e01e3a0a85a361817260c88a6753e1403ec53" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=dc198ca2818f9e08e9fe1b8dfd901145090944cc8cff1c21a6bfcdc4b1ff90ce" data-core-metadata="sha256=dc198ca2818f9e08e9fe1b8dfd901145090944cc8cff1c21a6bfcdc4b1ff90ce">livekit-0.17.5-py3-none-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/19/94/17133601f0cf09ac7819e5bd868fc6ea84ff552d1243f7b7b02a56ffae29/livekit-0.17.5.tar.gz#sha256=fc5fb7b6fb99d84722bc3c02dc0658adaf28c8bc1212c5555600688fd6a9f380" data-requires-python="&gt;=3.9.0" >livekit-0.17.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/10/45/e615aafb06542f0c16f5c3e7b8a25ab56c58e173242deb065cf8235381e6/livekit-0.17.6-py3-none-macosx_10_9_x86_64.whl#sha256=f72fff17ca905e9238ebda374de605998d506751834f576d93d5755be3ba9b79" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e" data-core-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e">livekit-0.17.6-py3-none-macosx_10_9_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3e/8d/20216394f397cac01b41efa57283ff842818017fdd81143275b34aa7512a/livekit-0.17.6-py3-none-macosx_11_0_arm64.whl#sha256=c251c42f3c3fc76aeff7188929909eda5f186a2a734202bbf32eebe3e87a22aa" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e" data-core-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e">livekit-0.17.6-py3-none-macosx_11_0_arm64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c2/c2/ebade9f315716df13bbbb59160edda44b21e326cbc33264bd5f00ea41a94/livekit-0.17.6-py3-none-manylinux_2_28_aarch64.whl#sha256=6a08b61e3f44e4c034be9a525153ce7d0b469324e96d8e706b0ea9b2a20ec5d5" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e" data-core-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e">livekit-0.17.6-py3-none-manylinux_2_28_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/29/f7/ee5175b19016cbad750ad67424fd93b4e5c8302df7f6736bb57d555011c6/livekit-0.17.6-py3-none-manylinux_2_28_x86_64.whl#sha256=70e554ac9e555945f5f9a76d3ae2c4a7b1c2cb42905821cfe8e182419c39f343" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e" data-core-metadata="sha256=373e148d03647ffc93dd6e1e41acaa9a57834826440173b66594cfc9753cb74e">livekit-0.17.6-py3-none-manylinux_2_28_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/85/d7/d7d5db97ae103b674692f126cc8491708730ad2cedca1cb898d9fc46ea20/livekit-0.17.6-py3-none-win_amd64.whl#sha256=3ebf39890759fee93ebf3443c2da24281f9f6e59a8f39ebda0f3001279a90dda" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=e45c344d89e19f78bca1fcb46ea43e3ff1a797f33c22f82f7fda34d16c717933" data-core-metadata="sha256=e45c344d89e19f78bca1fcb46ea43e3ff1a797f33c22f82f7fda34d16c717933">livekit-0.17.6-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e9/c6/903e1733b6c4eab7ef0016d704a6b4f33d517495d23acea8f68c593e1103/livekit-0.17.6.tar.gz#sha256=541076691dd214a3b89b9becb8e508c7276340e073ada74ba0883e7c97d5f991" data-requires-python="&gt;=3.9.0" >livekit-0.17.6.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25404986-->
+<!--SERIAL 25660004-->

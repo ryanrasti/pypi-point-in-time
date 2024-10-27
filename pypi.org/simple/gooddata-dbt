@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for gooddata-dbt</title>
   </head>
   <body>
@@ -132,6 +132,14 @@
 <a href="https://files.pythonhosted.org/packages/48/52/109399be9abc2c751a39f6a3f23d4961ab9b53ce74ee38acb4beec9d2a7b/gooddata_dbt-1.29.0.tar.gz#sha256=c685dd8ac3c8e73b07cfc330ff1511d8b3739c75fc14cc4f4fba3a5d32e12aa9" data-requires-python="&gt;=3.9.0" >gooddata_dbt-1.29.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/28/c5/7de2c99d3f6cb6be989349a80df7eec4a73fff021384403073f793079aec/gooddata_dbt-1.29.1-py3-none-any.whl#sha256=9415dd5bab58b19a8f6ffcb3a0dc4d3ce258818d0d9be89f3a3f61db09e0fa03" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=582378f9f2db169414534cd94c800e0b4f165c2333cc32c1820b68e2f9ece11c" data-core-metadata="sha256=582378f9f2db169414534cd94c800e0b4f165c2333cc32c1820b68e2f9ece11c">gooddata_dbt-1.29.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/9a/8f/ca90bb4f4c3784bb777c409ea0be1cb2910c90e5a4efc28237eed29b4916/gooddata_dbt-1.29.1.tar.gz#sha256=21687710d87fe6e695d15b000f2f70bc8df32e01cf3ca8d0135c0a37274f489b" data-requires-python="&gt;=3.9.0" >gooddata_dbt-1.29.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5d/62/679306560571182694c6856ec1cdaec9f052cf9cba92ca3541a6fbfa1b5e/gooddata_dbt-1.29.2.dev1-py3-none-any.whl#sha256=87c3b0bb9ef7038467086bf0776a080022fd51d5cb7f7af9494fccbf17712d7b" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=f18421f2759b721bf096f23417286bd12b08c7dffdd6d4acf27f9a23454b960d" data-core-metadata="sha256=f18421f2759b721bf096f23417286bd12b08c7dffdd6d4acf27f9a23454b960d">gooddata_dbt-1.29.2.dev1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/11/b8/c7a1d4051d52f58bfbbf0051d6ff091f1d4e52e59c045b5295865cb43efc/gooddata_dbt-1.29.2.dev1.tar.gz#sha256=b76988d222806f6a2802587193dbfee114bbe45f467bc93152a1edec2c7301b1" data-requires-python="&gt;=3.9.0" >gooddata_dbt-1.29.2.dev1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/26/6f/4d2daa084581934740297f9e0e2c2faa37324d2010781129dec8ce30855c/gooddata_dbt-1.29.2.dev2-py3-none-any.whl#sha256=255635dbb5c580115e4f0a0aff788478848d9e71494e32a26898d47a92f6525c" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=b8a17b8f7ea8031de8914291e5445490f40c33f37bc0cc0a45184d2bfe4fd675" data-core-metadata="sha256=b8a17b8f7ea8031de8914291e5445490f40c33f37bc0cc0a45184d2bfe4fd675">gooddata_dbt-1.29.2.dev2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/07/b2/49c381c52d318b9a50d9e177425193538373a5f35c44ca3407be88f3baaa/gooddata_dbt-1.29.2.dev2.tar.gz#sha256=a73e7b33b5b9eb025dd18583c97729953945e1b24bceec78a979c0e171f2426f" data-requires-python="&gt;=3.9.0" >gooddata_dbt-1.29.2.dev2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/36/9f/807997ffde93f4a665da05ea5bfb18abf1cc7c57ef71ad5d7778fd730f9d/gooddata_dbt-1.29.2.dev3-py3-none-any.whl#sha256=82fa9715232496690c29df6139ec34e61e431b2ee2769e0d99a23191f8724998" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=31329cf50c2d4570c43acb8dd5e8bf309e34b46d1eb35252a5d93a5cf510a302" data-core-metadata="sha256=31329cf50c2d4570c43acb8dd5e8bf309e34b46d1eb35252a5d93a5cf510a302">gooddata_dbt-1.29.2.dev3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/87/c3/65748fb12a2d0d98d1eab5630bf8dfb7c0a681193c8b4918adef749e82ec/gooddata_dbt-1.29.2.dev3.tar.gz#sha256=126c1a56f9f9ac71d18eb23a07b79eeeca94d6079f545b9e34b9d49834693938" data-requires-python="&gt;=3.9.0" >gooddata_dbt-1.29.2.dev3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/e2/f3dfd9e517b9305392e96257770e9cc285a7996c2ee4f2b11148e5368744/gooddata_dbt-1.29.2.dev4-py3-none-any.whl#sha256=6d315ee175d308f966b86799284bf6618b3d029501224852118b93aea76b8e48" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=f93f04443418fd65c59df71cc22256f6b7c521a9b1bbbcba1c6d32637b5c4612" data-core-metadata="sha256=f93f04443418fd65c59df71cc22256f6b7c521a9b1bbbcba1c6d32637b5c4612">gooddata_dbt-1.29.2.dev4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/71/8c/b688f6e25ee116f242285eb0c94f08cd1ecfb639a9e8cd932cf1a5b30486/gooddata_dbt-1.29.2.dev4.tar.gz#sha256=a0c179c140737c167254e33b5f1263ff4b19d7b38198445f0fab6c5aec31ea80" data-requires-python="&gt;=3.9.0" >gooddata_dbt-1.29.2.dev4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25531305-->
+<!--SERIAL 25663053-->

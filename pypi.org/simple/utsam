@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for utsam</title>
   </head>
   <body>
@@ -50,6 +50,14 @@
 <a href="https://files.pythonhosted.org/packages/31/63/d2e4cded15716e01b445a079610c4f03f7c934475df28e5b5bcc9b0bb5ca/utsam-0.1.20.tar.gz#sha256=6464c8009628dfdbc49bd67b361b6a704c9698d2172cc8ef78348e6c1eaa9715" data-requires-python="&lt;3.11,&gt;=3.10" >utsam-0.1.20.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/91/2b/6f84dbd8e2210bac5915da5c107105b80f5658e1097b2950e99c39d40c62/utsam-0.1.21-py3-none-any.whl#sha256=85e3aa3032ba5cf11b9edb60468f295c9c48146e7294dfa18836a253366083b2" data-requires-python="&lt;3.11,&gt;=3.10" data-dist-info-metadata="sha256=c4b6f670acf538b9310706055e49e5965064644e46fe792de9196e705cabb5d4" data-core-metadata="sha256=c4b6f670acf538b9310706055e49e5965064644e46fe792de9196e705cabb5d4">utsam-0.1.21-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/29/96/578e168e0c04099730b31bb1adac75e0139d3ea0a7da1f63c07202fbe47a/utsam-0.1.21.tar.gz#sha256=e2c1af73b05fb220ffd40c946355b356399806ae6f2e2594ec23e164ef7d7bfc" data-requires-python="&lt;3.11,&gt;=3.10" >utsam-0.1.21.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/a6/04cc0b5196ddf0e430388c081393e565c4656d92b06a4968da9d045a64bf/utsam-0.1.22-py3-none-any.whl#sha256=7e36896f0f8698298a4c6bbafe747e0f903725d7c1cdb91efb796950f6974914" data-requires-python="&lt;3.11,&gt;=3.10" data-dist-info-metadata="sha256=ab0174b2f891244fc84c6620bf225a02e5f75a5cfec6c1e4a21c81ee89cdc3f8" data-core-metadata="sha256=ab0174b2f891244fc84c6620bf225a02e5f75a5cfec6c1e4a21c81ee89cdc3f8">utsam-0.1.22-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/02/2c/f8184442936251ecd8ddda06782022842702b2c3ad962736ae0fd7a9c387/utsam-0.1.22.tar.gz#sha256=b2683ddff10c8b73f4b9b0e362dc6dfce6f4c27e1658cef98c79bdd503d92a3d" data-requires-python="&lt;3.11,&gt;=3.10" >utsam-0.1.22.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/66/04/ed83297b885802350437f5ed4418ab941795136c8e139cdd6b150b8d8e75/utsam-0.1.23-py3-none-any.whl#sha256=e39e854aa305fd40f72b6938ca343cc059f1c900c0fb8d94dc873cf56800552a" data-requires-python="&lt;3.11,&gt;=3.10" data-dist-info-metadata="sha256=a0c1b2565e224eacb8c1d973f43d088e94da3a4e2382619e4dd7ca614043100e" data-core-metadata="sha256=a0c1b2565e224eacb8c1d973f43d088e94da3a4e2382619e4dd7ca614043100e">utsam-0.1.23-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/28/d8/946de14bb6e1fe3704d2e27c772a6bd516dd6ca4f4f5b8bfd401897ea7ff/utsam-0.1.23.tar.gz#sha256=0836b96dea6f96840ede7783d0526c07935af9722b224db9d6fa429af470100d" data-requires-python="&lt;3.11,&gt;=3.10" >utsam-0.1.23.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/04/26/001f795d4cea7e92f895d51188ae93cb0a5f5d1fd5382b1f32b314517502/utsam-0.1.24-py3-none-any.whl#sha256=1e62ad5b0e0055f20b5a8565f4a361b6758f4b3e59f1a5e8723914c27d37110a" data-requires-python="&lt;3.11,&gt;=3.10" data-dist-info-metadata="sha256=81ccbb6ac4a3dfc85370ed0e7dbc90bedfdf012c8a503e4df6587fe943faf2c2" data-core-metadata="sha256=81ccbb6ac4a3dfc85370ed0e7dbc90bedfdf012c8a503e4df6587fe943faf2c2">utsam-0.1.24-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7c/fc/7fc7c00a813774b66eceb992da6df583090b240759812ec62d06d419c5df/utsam-0.1.24.tar.gz#sha256=7242e450c24d3ade9a687d2a6de38d53a6f8e710808226a6f089912294af0c60" data-requires-python="&lt;3.11,&gt;=3.10" >utsam-0.1.24.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/83/fd/71ba3c7d1d6ab81057b860af3b0107fb1f394aacc8fd8ff16d70eb14c3a9/utsam-0.1.25-py3-none-any.whl#sha256=bac0edfdb46a1333e445093572992010bd1b9fcb250a29441da0122e94f14bac" data-requires-python="&lt;3.11,&gt;=3.10" data-dist-info-metadata="sha256=ea90578453a32986350d87cda55e76aa7fe54b031d98e70a2b747de39d40d010" data-core-metadata="sha256=ea90578453a32986350d87cda55e76aa7fe54b031d98e70a2b747de39d40d010">utsam-0.1.25-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9e/0e/18a4e93d1dfc599f20fdbbc6fd7009348fbdf0cccb98680c248982626ebd/utsam-0.1.25.tar.gz#sha256=643ec81e462634a3873bddc5df37b1658e5d6f656d7765615effc7a806dfec27" data-requires-python="&lt;3.11,&gt;=3.10" >utsam-0.1.25.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25432548-->
+<!--SERIAL 25575974-->

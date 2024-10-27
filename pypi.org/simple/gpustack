@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for gpustack</title>
   </head>
   <body>
@@ -48,6 +48,11 @@
 <a href="https://files.pythonhosted.org/packages/96/3a/8e8bb1073fac0c531a10c5205777b19adbd8067a36640fca17d699a23ec5/gpustack-0.3.0-py3-none-manylinux2014_x86_64.whl#sha256=1043b9bc27e0a2eb0d50b2e419cbefb354e9679cc2e9764e4212d955ca07436b" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=6e66b22914a2754e32c738d7b92937c6e3decc6241991fd96385d91a42fab1a9" data-core-metadata="sha256=6e66b22914a2754e32c738d7b92937c6e3decc6241991fd96385d91a42fab1a9">gpustack-0.3.0-py3-none-manylinux2014_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/a9/ce/24f665d0fe948c5c54f867eda7a40c007f4e373d69df75c7abd8904c3f4c/gpustack-0.3.0-py3-none-win_amd64.whl#sha256=2b4fe4b39a287d49312c8074d4a67545d8936f79f822390b0720b25ee2e6d817" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=6e66b22914a2754e32c738d7b92937c6e3decc6241991fd96385d91a42fab1a9" data-core-metadata="sha256=6e66b22914a2754e32c738d7b92937c6e3decc6241991fd96385d91a42fab1a9">gpustack-0.3.0-py3-none-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/59/66/223ce7cc04be9c311d1c01eb13b661dc469ddbf6f13bf60519775f090856/gpustack-0.3.0.tar.gz#sha256=f8f00207822bc960d380c063a467b148b40cf13590f49902a8cf0a72fac2863d" data-requires-python="&lt;4.0,&gt;=3.10" >gpustack-0.3.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/6d/8aa521f565ccafb4595a29786561da3c413f4cf9403f2b9d91b7e8bee75a/gpustack-0.3.1-py3-none-macosx_11_0_universal2.whl#sha256=324818014fae8be882bed5df12e457ca9edf173edd3f53c7639cfd9f2d541f87" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=1ac3920ee5e96f692820319c28b011511cbcbeb33d90733ec68938975bfa7ea0" data-core-metadata="sha256=1ac3920ee5e96f692820319c28b011511cbcbeb33d90733ec68938975bfa7ea0">gpustack-0.3.1-py3-none-macosx_11_0_universal2.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5d/bd/abfb1e73ef1b4d809e680b9ab94c8660b6151a928d6cbdf30bd3aad7b76b/gpustack-0.3.1-py3-none-manylinux2014_aarch64.whl#sha256=a288fae02aec5d3432697e091f22df7ced53968a3e71c6b2ade00d69a77e24c9" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=1fc98a9c9c0856764ac4c7008808a3c95cde44988568a0ccb7994a1a8ea4aa99" data-core-metadata="sha256=1fc98a9c9c0856764ac4c7008808a3c95cde44988568a0ccb7994a1a8ea4aa99">gpustack-0.3.1-py3-none-manylinux2014_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/07/b2/705b0173e2bd9f052d50838b04f0b6389c56b702b75a7a562366a13ebb5e/gpustack-0.3.1-py3-none-manylinux2014_x86_64.whl#sha256=730d36938d4390490b62c03bc9e1857e179557f1062cc3085bc403491398753c" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=76ce4d9a68fde9add7fbceb5ccf9b5375943a819a8ae2c7d42d598abcfaf05c0" data-core-metadata="sha256=76ce4d9a68fde9add7fbceb5ccf9b5375943a819a8ae2c7d42d598abcfaf05c0">gpustack-0.3.1-py3-none-manylinux2014_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/08/94/e656860bf85f3a18f15752ff31b6caaa0dc82e40e00feb45beab5cf2a765/gpustack-0.3.1-py3-none-win_amd64.whl#sha256=8aed81a84cc5956cac8b784fac6001a0d77ca1644c72b31ff57b53c8a24b56db" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=1ac3920ee5e96f692820319c28b011511cbcbeb33d90733ec68938975bfa7ea0" data-core-metadata="sha256=1ac3920ee5e96f692820319c28b011511cbcbeb33d90733ec68938975bfa7ea0">gpustack-0.3.1-py3-none-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/54/79/18ab23cf75e505942f4b7246a19d516ce8789cea4979511f2f73655af3da/gpustack-0.3.1.tar.gz#sha256=e30aa149cd9167850c45db713dd151f0c581181f499d917c38ef64a49c6b8b35" data-requires-python="&lt;4.0,&gt;=3.10" >gpustack-0.3.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25255808-->
+<!--SERIAL 25672119-->

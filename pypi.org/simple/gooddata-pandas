@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for gooddata-pandas</title>
   </head>
   <body>
@@ -190,6 +190,14 @@
 <a href="https://files.pythonhosted.org/packages/b5/bd/d99e83ddefd051708a0deecee07de6e448c149284adabd7f5247cbb8eb6e/gooddata_pandas-1.29.0.tar.gz#sha256=63a5a567c4ef90c19c20452a6097d95a52b7c669142ca4de0199a02793581e80" data-requires-python="&gt;=3.9.0" >gooddata_pandas-1.29.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/1b/30/73acd8677ec46f05f5ba59c6c3d79719de121c5217e0717cefabc7a84ce5/gooddata_pandas-1.29.1-py3-none-any.whl#sha256=759c5f491e836dd24f2ce57e335932c126cff6ccb4e2146228a6088bbb4db285" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=83b41072a9dfa4284c52b9ebfca75e8d5a470ee6597f53163714fdf9982ce3e1" data-core-metadata="sha256=83b41072a9dfa4284c52b9ebfca75e8d5a470ee6597f53163714fdf9982ce3e1">gooddata_pandas-1.29.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/52/5e/f40a5f8ad9b4d06db83daf326bf222fd21580a5f76b7640bd4354da96359/gooddata_pandas-1.29.1.tar.gz#sha256=c2f76e8ed0881a794c37b67b9b146c1bcee1b8b2a82354ce5bf98826c34944a5" data-requires-python="&gt;=3.9.0" >gooddata_pandas-1.29.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c8/30/e05952296b0d4b1d8bf094f60e462ebda971acfd2624ec848129d0f96562/gooddata_pandas-1.29.2.dev1-py3-none-any.whl#sha256=44cd9159ee26f3f5a11a38b1d2f67932eb0df2b61595dba8f9d0c8b408173a43" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=af203acbf038140fc8a7b55d9ab721f6375f096740d72041e5c0878340ab507c" data-core-metadata="sha256=af203acbf038140fc8a7b55d9ab721f6375f096740d72041e5c0878340ab507c">gooddata_pandas-1.29.2.dev1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/95/ab/8a530283f9eb30c85a693cde41db4fcbdb7f8309d10ecdcdc8fe116bdf47/gooddata_pandas-1.29.2.dev1.tar.gz#sha256=74463d3a3343e8fde7195ee9860d53f5866dffbaebc325f2a2b93f8c6833cb7c" data-requires-python="&gt;=3.9.0" >gooddata_pandas-1.29.2.dev1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/c1/42/2a46ba583403a33ae2fd30712f478338777a7c09babba97fffc59939f3ab/gooddata_pandas-1.29.2.dev2-py3-none-any.whl#sha256=0c9119b919912d46cbc751674f2d043089a7127a5836cbfec501211662221b45" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=b02eb2ab0b565c3e64993c8b85fecbe4c4be53eda4f1a64096318a2e8672f77f" data-core-metadata="sha256=b02eb2ab0b565c3e64993c8b85fecbe4c4be53eda4f1a64096318a2e8672f77f">gooddata_pandas-1.29.2.dev2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fe/a1/d2cfb5949791a2844e45c60767b9010e146b7ae618568b5d47fe80d5de64/gooddata_pandas-1.29.2.dev2.tar.gz#sha256=3f6fe1add7a132810aaac92217c2d9b782ce1256ddfea8722d85406bcbe371b9" data-requires-python="&gt;=3.9.0" >gooddata_pandas-1.29.2.dev2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/69/c1/beae8dea1578d75766fb11d9500c414cfc7ce7ee2c444f7da98fd355f737/gooddata_pandas-1.29.2.dev3-py3-none-any.whl#sha256=4bc7f5fb7987f93d51893f97c246ed61046d44bab3012044bf892713f983d68a" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=541f81307655d9aa131c4e9bf868c12619a64b4a4806a009e08353d9af8617dc" data-core-metadata="sha256=541f81307655d9aa131c4e9bf868c12619a64b4a4806a009e08353d9af8617dc">gooddata_pandas-1.29.2.dev3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c7/87/3c315f528bcc8a0b66e448fbead74c0bfcf0f26439a6cd0605ecd270daba/gooddata_pandas-1.29.2.dev3.tar.gz#sha256=89d9bb5563f8c8e650a0f5602c2c72f8b6c91d029723984ddd30d1c4ba5f7db3" data-requires-python="&gt;=3.9.0" >gooddata_pandas-1.29.2.dev3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8d/96/31eb172c6ad234c73ea9337b6cb0d1a3e1d7592e13f0b0a15bd07a82a633/gooddata_pandas-1.29.2.dev4-py3-none-any.whl#sha256=4474c832504591cc7245604c7fd2d42728aae157624c2dcf8745ed648ab6ef4d" data-requires-python="&gt;=3.9.0" data-dist-info-metadata="sha256=95a9568dca0d0d03f01180e6f4027831be21d77ced0dffc8ff928f21c6fa50f8" data-core-metadata="sha256=95a9568dca0d0d03f01180e6f4027831be21d77ced0dffc8ff928f21c6fa50f8">gooddata_pandas-1.29.2.dev4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ef/53/7e27384756495af5efc55b0779083c618a06527903142b5655226229cad4/gooddata_pandas-1.29.2.dev4.tar.gz#sha256=c7a6abb0b6bbe222f5d7dd438b740c92a0325284c2b952172b10192723f71960" data-requires-python="&gt;=3.9.0" >gooddata_pandas-1.29.2.dev4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25531325-->
+<!--SERIAL 25663046-->

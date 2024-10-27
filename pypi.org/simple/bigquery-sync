@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for bigquery-sync</title>
   </head>
   <body>
@@ -16,6 +16,14 @@
 <a href="https://files.pythonhosted.org/packages/76/62/9449e2f01f2c5ef84c319320657cd9d1a85dca8eb562e31576ae8892b023/bigquery_sync-0.1.4.tar.gz#sha256=82d1f6ae7e24177cfef46f89999c55488c6110b2890d499b28200312f4cb406f" data-requires-python="&lt;4.0,&gt;=3.8" >bigquery_sync-0.1.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b0/66/a7dac44773f17fa42a648184cdb58b2208342481dcec30db727887581e9d/bigquery_sync-0.1.5-py3-none-any.whl#sha256=cfb9a41ac9296f72a1e3a054d6bcb98c87f7dadcb91b22a0e21fc2b46d3c4c0c" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=20aa053c72e2117c8582c6778da280f0e4d0e59a70dddbd47e4f8f3f0a24bf08" data-core-metadata="sha256=20aa053c72e2117c8582c6778da280f0e4d0e59a70dddbd47e4f8f3f0a24bf08">bigquery_sync-0.1.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/81/1e/3272bedb7e98d0ce3ed4f02831bc3962c62c1307054254f700f5d07c6a01/bigquery_sync-0.1.5.tar.gz#sha256=4d08782a9c60cefb4aadfd1e45671e41da35329c922b6e34a52ddee69d553225" data-requires-python="&lt;4.0,&gt;=3.8" >bigquery_sync-0.1.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7f/e1/33615593e63ed213ec4531903b69d12da2685e31550184bfc305326e219b/bigquery_sync-0.1.6-py3-none-any.whl#sha256=4f4a99a331e42ebd070924396e9a43cb637efae3e7bc389d01780ef6c047d275" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=d9a4a8d8518dd16b5f8946d7bec7065b3ec9a03eb754df6e544089165de1cbfe" data-core-metadata="sha256=d9a4a8d8518dd16b5f8946d7bec7065b3ec9a03eb754df6e544089165de1cbfe">bigquery_sync-0.1.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/f8/5ed13c773ee6544c5b88ff2d6791a7896233e799fb131c6f64aaacb739a8/bigquery_sync-0.1.6.tar.gz#sha256=34493d3b92af8d8724c3cc7c26bda7aee86b754a2d859831e828df7ced6b3ade" data-requires-python="&lt;4.0,&gt;=3.8" >bigquery_sync-0.1.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/97/af/7118b005aaff372000ce1cc89d8d5445b56b81a1adb4f5c5bf7c7fac8a49/bigquery_sync-0.1.7-py3-none-any.whl#sha256=b65ffd32de9ce43f222ba35f3762327fd5d0e3869388f0c08aeb96729e89f95f" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=774de648fcccfa24a3020b3d5ce652e4f01d5fe014c945055696efa4ca2bbf7f" data-core-metadata="sha256=774de648fcccfa24a3020b3d5ce652e4f01d5fe014c945055696efa4ca2bbf7f">bigquery_sync-0.1.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/91/b7/35ee37beb6113631e91d3d5db6076c4bf22b550d1d5ddb16e72f59f504e3/bigquery_sync-0.1.7.tar.gz#sha256=b02c7c35a8a43a0a6fb64cac0967ce02f09ace5b057cc8a3bf2d6ea8de426d7e" data-requires-python="&lt;4.0,&gt;=3.8" >bigquery_sync-0.1.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/35/53/5c08cf020317784fbda82eaac8ce7efbacc15031b78beca7b84791cfae8a/bigquery_sync-0.1.8-py3-none-any.whl#sha256=2218e37ed4e7384bef562ee341e7ad28d99de5900322ae1e501457904a5f87d4" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=5b614897496742ed4dafff2e340d82bdc41808d92755c9b7449ae80d4d26fdce" data-core-metadata="sha256=5b614897496742ed4dafff2e340d82bdc41808d92755c9b7449ae80d4d26fdce">bigquery_sync-0.1.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/14/59/4514f44bbe025406652777e389e87106dbac52bdf3edc64fec3ee43893c5/bigquery_sync-0.1.8.tar.gz#sha256=1a1194309c50c0c45868d2becdcbbe752a5e3d936878536a900bf662085d1640" data-requires-python="&lt;4.0,&gt;=3.8" >bigquery_sync-0.1.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/df/73/6b8c6136c4c04b96db43a98dd995e2b3687f93e08accf2830c9661573542/bigquery_sync-0.1.9-py3-none-any.whl#sha256=9e0407a5b118fda44fafdd8f3f99996b10858cbb543e0e0c6a88756cf871d19e" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=67118c0cf0bec70ee4e1b87dee2ee021d8dd51bf874c0f594507a697ccc1e1fe" data-core-metadata="sha256=67118c0cf0bec70ee4e1b87dee2ee021d8dd51bf874c0f594507a697ccc1e1fe">bigquery_sync-0.1.9-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b2/63/3d151f3a3f60ff633a1ef779e5fe67491324c006eddfb610dbc26748ed05/bigquery_sync-0.1.9.tar.gz#sha256=bc3fda6e8a3a4f84c74ed201ed88caa06e1171b8d4f8f0dc42459efa43902d49" data-requires-python="&lt;4.0,&gt;=3.8" >bigquery_sync-0.1.9.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25517171-->
+<!--SERIAL 25598408-->

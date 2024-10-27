@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for starlette</title>
   </head>
   <body>
@@ -232,6 +232,8 @@
 <a href="https://files.pythonhosted.org/packages/4b/cb/244daf0d7be4508099ad5bca3cdfe8b8b5538acd719c5f397f614e569fff/starlette-0.40.0.tar.gz#sha256=1a3139688fb298ce5e2d661d37046a66ad996ce94be4d4983be019a23a04ea35" data-requires-python="&gt;=3.8" >starlette-0.40.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/35/c6/a4443bfabf5629129512ca0e07866c4c3c094079ba4e9b2551006927253c/starlette-0.41.0-py3-none-any.whl#sha256=a0193a3c413ebc9c78bff1c3546a45bb8c8bcb4a84cae8747d650a65bd37210a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=c31334d820376f6edb88ae457b741a0a3eb8d61d59c149a0329bdad43fa284d4" data-core-metadata="sha256=c31334d820376f6edb88ae457b741a0a3eb8d61d59c149a0329bdad43fa284d4">starlette-0.41.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/78/53/c3a36690a923706e7ac841f649c64f5108889ab1ec44218dac45771f252a/starlette-0.41.0.tar.gz#sha256=39cbd8768b107d68bfe1ff1672b38a2c38b49777de46d2a592841d58e3bf7c2a" data-requires-python="&gt;=3.8" >starlette-0.41.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/16/8b3f707d959cd2b189fbbf416826e5900abfc86384afaa4f6ce67c8e2fa2/starlette-0.41.1-py3-none-any.whl#sha256=eea797e3cd183a9fb10ac57c3d90610319aee7c34d2998fc0a8d71d27b59aae6" data-requires-python="&gt;=3.8" data-yanked="python-multipart release was broken" data-dist-info-metadata="sha256=6720d1a491c0be5edf10a4c2ce0064bc246f2d2cebea9d711b5908f280351f32" data-core-metadata="sha256=6720d1a491c0be5edf10a4c2ce0064bc246f2d2cebea9d711b5908f280351f32">starlette-0.41.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/df/6b/e62680be4ddad1b06a85cb4dd8c91b35c4222d6572017f73b258dc1216f0/starlette-0.41.1.tar.gz#sha256=639536aed7ab70ab3e98742371a80d86a5c26bf6f811f0cb040ae560117ecdc5" data-requires-python="&gt;=3.8" data-yanked="python-multipart release was broken" >starlette-0.41.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25493558-->
+<!--SERIAL 25652319-->

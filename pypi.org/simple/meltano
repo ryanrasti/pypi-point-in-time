@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for meltano</title>
   </head>
   <body>
@@ -356,6 +356,8 @@
 <a href="https://files.pythonhosted.org/packages/af/48/919a3a57608998310f92ca286559875e66beb10bc50c27d3b0514f01d073/meltano-3.5.4.tar.gz#sha256=c513408ed233fe781366771873aa70575bc017b644547f9878ca0bda06a205b1" data-requires-python="&lt;3.13,&gt;=3.8" >meltano-3.5.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/70/cc/7b873d0a22f0049ea640d445607238c962a2b4d0d8cbe10914b0270ca438/meltano-3.6.0b1-py3-none-any.whl#sha256=fa005f9b9fb1fdd30b33aed61a1b3ab6954a42d9dd8ecbd3bd167d38f14b799a" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=ffa3bece6c0dd0e9fe63c31c7cec6bdabfb94b9d702da201938677aa14d9fdd0" data-core-metadata="sha256=ffa3bece6c0dd0e9fe63c31c7cec6bdabfb94b9d702da201938677aa14d9fdd0">meltano-3.6.0b1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/76/8a/98155de6533c0651d6ed7aa062142609f826822702027670f0bc1fa0a7ea/meltano-3.6.0b1.tar.gz#sha256=696f7dabb26af1642934a7955b2fa0decfa668839db2ebee78bd1b1e7b569217" data-requires-python="&lt;3.14,&gt;=3.8" >meltano-3.6.0b1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ac/7c/50493b2a01f95da28ce36a02e61dd1d5e87e342bf2485beb78a7105ebfa2/meltano-3.6.0b2-py3-none-any.whl#sha256=b4eb5d896a2057da2445d8e19aec26c2d95f81ababe7946e8b1cb06fdb5e3bdd" data-requires-python="&lt;3.14,&gt;=3.9" data-dist-info-metadata="sha256=16b97b3b86e97418ad478c58c3e903591e5f90f2350e0c230dc350a2796123f9" data-core-metadata="sha256=16b97b3b86e97418ad478c58c3e903591e5f90f2350e0c230dc350a2796123f9">meltano-3.6.0b2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/da/01/8311c08e3a3c325ded6bd3acc475504bb7c556c153f110cf5b0bcb363c16/meltano-3.6.0b2.tar.gz#sha256=05ba9290eb7d9fdb25bfa1bc390e04d51ca9655ab4af64258c66fb0626aa7ad6" data-requires-python="&lt;3.14,&gt;=3.9" >meltano-3.6.0b2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25518359-->
+<!--SERIAL 25675227-->

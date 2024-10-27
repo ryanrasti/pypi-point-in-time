@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for async-elastic-logger</title>
   </head>
   <body>
@@ -14,6 +14,14 @@
 <a href="https://files.pythonhosted.org/packages/76/11/f31086b65de8b396ddd9eaf98ddfe7d5de72c610df2de32d17a2d509f5ff/async_elastic_logger-0.4.tar.gz#sha256=fb759afbcd480ae0c745ee55484b1068944776049f3237694017f4c8d9fdc1b4" >async_elastic_logger-0.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c0/0c/65c9a8081e04ec80a55110f4cb961e32dfbcad29cafbf64f3eecf24d9f08/async_elastic_logger-0.4.1-py3-none-any.whl#sha256=0bda71573d51e4ffe90f0a097ec437b3af4071a2b5b18402362b6658bd73aac7" data-dist-info-metadata="sha256=55e773568f67b7538f86cb2e3fd603290aa02838a2e1c62d305cea5cfbe9ac79" data-core-metadata="sha256=55e773568f67b7538f86cb2e3fd603290aa02838a2e1c62d305cea5cfbe9ac79">async_elastic_logger-0.4.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/40/e8/1d3388cf2f82ce24040f1962e7d19ba6b09cafbe24e11c7274796821d2a3/async_elastic_logger-0.4.1.tar.gz#sha256=891f1623f187e7b283cf697d16f966da3c8e3ffae90766d5b17aaab598c8ed47" >async_elastic_logger-0.4.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/de/c2/b08ae6f44f4b4bce7ca68bce2b56c88e2b9fa4bf2b77e757162c2c4c7675/async_elastic_logger-0.4.2-py3-none-any.whl#sha256=842ea28d467b6e2deb475f9f7df73e6688e479fc4cf73cb5d5b74462d2da0515" data-dist-info-metadata="sha256=284fa3e63404f2ce5c81c28d6a66cc0f5482b78b461d8d4de5c68c1037bb0a43" data-core-metadata="sha256=284fa3e63404f2ce5c81c28d6a66cc0f5482b78b461d8d4de5c68c1037bb0a43">async_elastic_logger-0.4.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2d/19/15d7765390ce737b5f377b153d30ec3fc5be342c3c1ff23c304b1e9a4f3a/async_elastic_logger-0.4.2.tar.gz#sha256=1565780ff7b2f035edaee465efb82a7620a36ad25ca0d814a67316024acb42b9" >async_elastic_logger-0.4.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d0/ba/e3e3dde78b3372131bef78712d7670b03204a65b192c18cb18f4b6227672/async_elastic_logger-0.4.3-py3-none-any.whl#sha256=61a8a8984d0d784caf2e87f4b40887e0b54a46443749cde1d336f33d710f700f" data-dist-info-metadata="sha256=628a0159cccb6781fa19c7a4fe755f0cf6cdd4b2ee670a71531432c0b1272572" data-core-metadata="sha256=628a0159cccb6781fa19c7a4fe755f0cf6cdd4b2ee670a71531432c0b1272572">async_elastic_logger-0.4.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c1/82/c0f36dbaf469753152988eee5418c070544b04099ff191173b1042129daf/async_elastic_logger-0.4.3.tar.gz#sha256=1c6e4a32560fe66e789cd28b95fe8b87c77d7df1d0a9ecff726830bcc92bb372" >async_elastic_logger-0.4.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/79/bb/8a43a1b27e0ad207fd9658701a13541f3ded028641628856d4aa51750ad6/async_elastic_logger-0.4.4-py3-none-any.whl#sha256=fb2c7be39fc189348850e3cf1e3d4074c107e7be84b4f93cec6472d6351a9fd2" data-dist-info-metadata="sha256=2a24301775bf1af0ff1e3d41f07ecbd90c76345ec284bd12d26f6d7d4ee2e25d" data-core-metadata="sha256=2a24301775bf1af0ff1e3d41f07ecbd90c76345ec284bd12d26f6d7d4ee2e25d">async_elastic_logger-0.4.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4d/f6/8a0feefb840abb530bcfc07fd46e9979a81c442934c6984ba2f31173f089/async_elastic_logger-0.4.4.tar.gz#sha256=db59fc628a68ed23b80a6b5070e060aa0355522065c597e0415101f5e9535d10" >async_elastic_logger-0.4.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5f/49/165e0637932337a9e21beee0b25d3dc94d51c45892008fc1ceb4bfd6cca3/async_elastic_logger-0.4.4.1-py3-none-any.whl#sha256=ffce6ef2214aa1290d6f45bddf14287ddedfdd09fbae77106e9b83c1e9484ca5" data-dist-info-metadata="sha256=e8175dfd49fc172ff1806b440013a37c48281998373c8815873f56e56ae66d9c" data-core-metadata="sha256=e8175dfd49fc172ff1806b440013a37c48281998373c8815873f56e56ae66d9c">async_elastic_logger-0.4.4.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/40/1f/12b68f4c070cb0e9e6d013a8757ad3c63129a3ede374e3b6f4f210189ce5/async_elastic_logger-0.4.4.1.tar.gz#sha256=f0831a05bd3edf71202d73bc6fadb057c64fedd3394240de055714989a65deab" >async_elastic_logger-0.4.4.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25559491-->
+<!--SERIAL 25670514-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for invenio-rdm-records</title>
   </head>
   <body>
@@ -764,6 +764,8 @@
 <a href="https://files.pythonhosted.org/packages/9a/33/7d424848e7fd7727b4c67564ade1c1abbb698c3757ccaf8bb52eaf85af0e/invenio_rdm_records-10.8.5-py2.py3-none-any.whl#sha256=834d71bce68ca295236716b11767ac38c548434a63193f46f5f898cefe8577b5" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=6c8c7850e986d9f321d8f9dc347bf81a4433469ce1b26be04533d51431fdc6d6" data-core-metadata="sha256=6c8c7850e986d9f321d8f9dc347bf81a4433469ce1b26be04533d51431fdc6d6">invenio_rdm_records-10.8.5-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/21/a8/17400060b02278f3814aa8012885f3627cf288d40e124934388724a3344f/invenio-rdm-records-10.8.6.tar.gz#sha256=b3e9c45588859c00cf8742791e8feb1cf1057da6fe9048ad631d58ecfff4fb3d" data-requires-python="&gt;=3.7" >invenio-rdm-records-10.8.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bc/2e/7eadfe6363ffc0bbb665f9bc0c0cf89c21c308e4118ac7545b43afec4dd9/invenio_rdm_records-10.8.6-py2.py3-none-any.whl#sha256=13838847948d60cd58aae259c7bc8b759af2fdfa8a1fb59dbb1ad3afcceb234a" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=bd03147d4fe1457f92b8976c8195721db60247b83ce8c2f729dd52ae7612d0bc" data-core-metadata="sha256=bd03147d4fe1457f92b8976c8195721db60247b83ce8c2f729dd52ae7612d0bc">invenio_rdm_records-10.8.6-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cc/92/160386b44163f499446c70faa629cf85ab45af4302ed367ef2360a2ad406/invenio-rdm-records-10.8.7.tar.gz#sha256=0d2590c5b8c7dfa9d9653e887b8865cbe2a2bb714223cf9a531d71ff9553cbbe" data-requires-python="&gt;=3.7" >invenio-rdm-records-10.8.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5b/6e/7e9eed7657c715cec54461981a5304dec52fc69b0cd0ca26a7cf2dbb59ff/invenio_rdm_records-10.8.7-py2.py3-none-any.whl#sha256=52374ded2e6090982c533ccbfa4cca9bc0852abbd9c01ec01fbf07e09a2a297c" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=c6309fe577c236ed60270120cf1442cdc62408246467aabccb48d7e371ca02cc" data-core-metadata="sha256=c6309fe577c236ed60270120cf1442cdc62408246467aabccb48d7e371ca02cc">invenio_rdm_records-10.8.7-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/39/20/9bfd8cee6db3b193438aef3809ee2c6949393f070d087831f9e0143ee7f2/invenio-rdm-records-11.0.0.tar.gz#sha256=579b53665700b4ef63ba699735a793b38112c69e375bfcf368ab882aa74a82a3" data-requires-python="&gt;=3.7" >invenio-rdm-records-11.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/eb/f4/b10af4b27ef8409a38572dc366da1aa27beae683d9d9f09cf93be4680f68/invenio_rdm_records-11.0.0-py2.py3-none-any.whl#sha256=322a49445019f64fe8400fdab82a6deefefd4e3b8bfb611a48f0dfec73edd50a" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=52f172d1d108b4928241bb0f0fdbc748e692b7047cae45f8265c587c03508f91" data-core-metadata="sha256=52f172d1d108b4928241bb0f0fdbc748e692b7047cae45f8265c587c03508f91">invenio_rdm_records-11.0.0-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/cc/8e/d146e0fd9fdfb170fb460728e6bebc463b21a6dc48124b081dd697dbe3d6/invenio-rdm-records-11.1.0.tar.gz#sha256=0fce9ad41e4ea2de9e5de49fd609fb99891bc436c6a7e8c90e01327a50b46c1e" data-requires-python="&gt;=3.7" >invenio-rdm-records-11.1.0.tar.gz</a><br />
@@ -822,4 +824,4 @@
 <a href="https://files.pythonhosted.org/packages/d3/ff/a08c13f6e2a55f1f50619a031cad72d5262117f92bff3b3aeea6c254eceb/invenio_rdm_records-15.6.0-py2.py3-none-any.whl#sha256=a5cc6b659b757e79cc0d769a25eef5e6acb86eaaf66869ace555adf388b83153" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=396f86e5c8683a05dc973749621888a8f52c88b34f10a7f6efce4130891281a8" data-core-metadata="sha256=396f86e5c8683a05dc973749621888a8f52c88b34f10a7f6efce4130891281a8">invenio_rdm_records-15.6.0-py2.py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 25554954-->
+<!--SERIAL 25632281-->

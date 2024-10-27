@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for jupyter-collaboration</title>
   </head>
   <body>
@@ -74,6 +74,8 @@
 <a href="https://files.pythonhosted.org/packages/7e/7d/23ed99dadecfa0fbd86e597977b99d7a52769322459369767f06e78b6444/jupyter_collaboration-2.1.3.tar.gz#sha256=3a35fb0bbf9e45eae0810c0a11ca85d429941f9c06b45f196afb6ebd36133539" data-requires-python="&gt;=3.8" >jupyter_collaboration-2.1.3.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ff/46/56ba31999df007340b3034a02c1e338189c6236928deeb4e10e9f339e0e0/jupyter_collaboration-2.1.4-py3-none-any.whl#sha256=ea7b66f4c54d9b4bc09863865989b97541fc8d45c82399c4dd7f6d82c5407b59" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=5dc508a43fc52962943771832322812bc8257bc308dec464c471c08b36ada1db" data-core-metadata="sha256=5dc508a43fc52962943771832322812bc8257bc308dec464c471c08b36ada1db">jupyter_collaboration-2.1.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/08/ae/5aa48eed76ef62ff4f41acac3f378e66623b864c486fedf15b2decf85559/jupyter_collaboration-2.1.4.tar.gz#sha256=613df0ad343c8a6b932bccde25bc2c707b5ac2daaca5fd6822d1b330c7e0e62a" data-requires-python="&gt;=3.8" >jupyter_collaboration-2.1.4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1d/d6/77113abf721701c0a675be1a15f6c864c81d1acf60d7be9b75371aa38a46/jupyter_collaboration-2.1.5-py3-none-any.whl#sha256=276362a9ed2adacf47887b31a8973ea754c3fb128657b6ba8febb4e394ada89c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=c5fd161a95dace7ea324c3499a91056d66b2589fa374e32be19d407bc7f76d4e" data-core-metadata="sha256=c5fd161a95dace7ea324c3499a91056d66b2589fa374e32be19d407bc7f76d4e">jupyter_collaboration-2.1.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2c/92/2a12f66eb19d53997da3e8fd6587f20ca1deb548e4ce2c82b798336622d8/jupyter_collaboration-2.1.5.tar.gz#sha256=24d0db0124786850e82342e7d74ce694eb548e0aef29024227131e30d0fbae1d" data-requires-python="&gt;=3.8" >jupyter_collaboration-2.1.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/01/0f/fdb803b3d377aff7d00fdcc4e1d0363fd66d945ded4be1ba618c03d43d89/jupyter_collaboration-3.0.0a1-py3-none-any.whl#sha256=42adc284163a9beb7b83af5872dccd5c64b984d3abbd38e1a3299c3b2c5fea6e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=b8f405c3b5bc4836b2df63df4ca60e82e850c781544f1227654aefbd4474cdde" data-core-metadata="sha256=b8f405c3b5bc4836b2df63df4ca60e82e850c781544f1227654aefbd4474cdde">jupyter_collaboration-3.0.0a1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/3d/6b/ce5e1e3955dc5e280d60ea7d699390694bd1222124b36c62fce7fbd55370/jupyter_collaboration-3.0.0a1.tar.gz#sha256=8702362c386ddc67ab993045c07d9bfd491064b564ddd1d28bc3d12aee78de50" data-requires-python="&gt;=3.8" >jupyter_collaboration-3.0.0a1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a8/be/48c7d2afa018437a446a845e219d102ff1dd608d3becc687a784540a68ec/jupyter_collaboration-3.0.0a2-py3-none-any.whl#sha256=cc9eedc5aa9b9f4751e67171cac1c65dc64f9c20310e7a41b3359097c16543b9" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=4e33ac5476b2977a0e925effcc1981322d66273d26548cd84681eddbdc92fdab" data-core-metadata="sha256=4e33ac5476b2977a0e925effcc1981322d66273d26548cd84681eddbdc92fdab">jupyter_collaboration-3.0.0a2-py3-none-any.whl</a><br />
@@ -96,6 +98,8 @@
 <a href="https://files.pythonhosted.org/packages/dc/fb/380d7427bc7a77505a7f496e2b87d40c75a9a1709f223252735bdc7f2882/jupyter_collaboration-3.0.0b8.tar.gz#sha256=64c55c1fd549b53796aec2922886b371f007c823cc70191c5a0037a61f3ce846" data-requires-python="&gt;=3.8" >jupyter_collaboration-3.0.0b8.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/45/6d/bc61ce3baff3d61590d49100285cee7d7d53b5428f67a1c2abbe23b3e7b1/jupyter_collaboration-3.0.0rc0-py3-none-any.whl#sha256=5cd3d4f6f748c0a246ef45256e337b8b526213f2a402e344fc44b6786d2bd7b4" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=b4fd9403855913af3303d1884293269e5d41411bbec6574acb5926770e007121" data-core-metadata="sha256=b4fd9403855913af3303d1884293269e5d41411bbec6574acb5926770e007121">jupyter_collaboration-3.0.0rc0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ec/0d/852b3a4885ef7f721730354f84b25e8b148de329f8690aee3e3bc1701fb7/jupyter_collaboration-3.0.0rc0.tar.gz#sha256=7927b35a894dc58d7984f918a19262aa5ce2f6514385f6be9ee5a0d47d5b1364" data-requires-python="&gt;=3.8" >jupyter_collaboration-3.0.0rc0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e5/23/b3caff879a998254102eeb087cc30447f80cf3688cf267edbb686d27a7b7/jupyter_collaboration-3.0.0rc1-py3-none-any.whl#sha256=0bfbd9b92e11c0406abdf8464956b4c43d6d3561ea7a5d0084e08991b09750e5" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=bcb9b5c0a43df6b6171530102dabb97be973b20e0aa76460367367a42375c929" data-core-metadata="sha256=bcb9b5c0a43df6b6171530102dabb97be973b20e0aa76460367367a42375c929">jupyter_collaboration-3.0.0rc1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3d/cd/28a353bdeb23eb67aee46148d6d0f660d21bdddc149120c61166cfd5c41e/jupyter_collaboration-3.0.0rc1.tar.gz#sha256=10ded79675f9c652f1c15362467a797b31f06d0ea2d82265c94b0f9557991c12" data-requires-python="&gt;=3.8" >jupyter_collaboration-3.0.0rc1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25543434-->
+<!--SERIAL 25650333-->

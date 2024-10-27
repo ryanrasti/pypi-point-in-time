@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for nnetsauce</title>
   </head>
   <body>
@@ -176,6 +176,16 @@
 <a href="https://files.pythonhosted.org/packages/2e/82/32f51a2f7bc54a54d008eb29f0e71537e36cb3c58012d0f2085d6b253e02/nnetsauce-0.25.5.tar.gz#sha256=96350065f2bf67af4b622670689d927d4d0a1cdf7e6e6dc47b30a62de9c8a9cc" >nnetsauce-0.25.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/96/9a/6fe0a89779045d1571d8dbda3d24f5251c7a2732d73bcf096f12db2d154f/nnetsauce-0.25.6-py3-none-any.whl#sha256=4b7974c3e9737e8b8f25199da0149ecbcfdd09f771b3ed46c757f3c82c1596b1" data-dist-info-metadata="sha256=5da2e0da3b172ad5dc585cef193c47a2e5f584de03fb13508459772be435b14e" data-core-metadata="sha256=5da2e0da3b172ad5dc585cef193c47a2e5f584de03fb13508459772be435b14e">nnetsauce-0.25.6-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/14/54/02b77b1a1cb48583d3b40cad6c36a26b68621ac304c84a377a159678dea6/nnetsauce-0.25.6.tar.gz#sha256=e71d24c073821b04599578d1ea1b078b0f74e2fa89a9bc8d5674fc110e998b88" >nnetsauce-0.25.6.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6c/af/b2e30341b481d40aaa0b33d9c1ce26ee2524b5db72b9cf17bacefcc89195/nnetsauce-0.25.7-py3-none-any.whl#sha256=e7d00fd83e1bdd7bcd24ece6af574695478044159296e7346188438cada6efc6" data-dist-info-metadata="sha256=4577620de3d2a6ba196015b2d671415a58fd10283d151afa649e51f90a90197b" data-core-metadata="sha256=4577620de3d2a6ba196015b2d671415a58fd10283d151afa649e51f90a90197b">nnetsauce-0.25.7-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/16/fd/025898c2fe2c524d95203549857606a0712dc648d1d6c5f9ee350f39387c/nnetsauce-0.25.7.tar.gz#sha256=4c35b854e1adda83419f0b05bd2c3a0d9774c86cdd8b8b7790b0b0eea95a2bc8" >nnetsauce-0.25.7.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/35/9d/b93b1ad91c1008e77fe8741e274c1df011cb8b7bd4275a22aabeba703656/nnetsauce-0.25.8-py3-none-any.whl#sha256=229ab5d175163842adff7f0abf57678c10b181aa694b26d8f96258de12859716" data-dist-info-metadata="sha256=478d55b40e482758f188b1d78f29ebd789f84785fe3ea9d34b370e574936109a" data-core-metadata="sha256=478d55b40e482758f188b1d78f29ebd789f84785fe3ea9d34b370e574936109a">nnetsauce-0.25.8-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9d/ca/05056eee9cd90d27eea7bcc14d64e1b58a7bc06fdf39513676055ac219d5/nnetsauce-0.25.8.tar.gz#sha256=b7c0fdb9f44e5e5c4278cd3b4f0eb7a09b1f3afacc088cd7e20d3701ba02693d" >nnetsauce-0.25.8.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d5/98/4f9242968e7cfd9bfab1bda3e600e0e16ba335e8739d49ac3ae5435e0119/nnetsauce-0.25.9-py3-none-any.whl#sha256=57d2c9384534b8cd3289e98b6aa3e5f2ddda4f30dbed611c06fd7efce2f46939" data-dist-info-metadata="sha256=ec2e1deeba4b12b562a703a57cc63c1f9ba9bf35dc985e335a8cde18550224b0" data-core-metadata="sha256=ec2e1deeba4b12b562a703a57cc63c1f9ba9bf35dc985e335a8cde18550224b0">nnetsauce-0.25.9-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/37/d8/cfb1daa6e491448697938a72c800c9628a84631337604e08b04914d0827e/nnetsauce-0.25.9.tar.gz#sha256=4c55d46f80f447286b3abb74b0e84174c344b95e99bd2524d8ecbb49d5bc0717" >nnetsauce-0.25.9.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f4/72/2a288ea735e355193c8ed7629bc6db5a4befafed6c9e79b6795643201bed/nnetsauce-0.25.10-py3-none-any.whl#sha256=4532317f005d1400018cd0c48c4bd4b2e24c4c3833cc6ca7597b5c2f82d59ed3" data-dist-info-metadata="sha256=aac670268144cf3955e93cf179a1c40d56db944d474a6062b0c985161f448bf7" data-core-metadata="sha256=aac670268144cf3955e93cf179a1c40d56db944d474a6062b0c985161f448bf7">nnetsauce-0.25.10-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/8a/ac/284b018cbac38fc58929db4c0e068ec2ecaa289efb6d4a6b11b8e42bc112/nnetsauce-0.25.10.tar.gz#sha256=de21f5b5a581a3fab72764cca777418eeef64d1823530f7b28497bfe3f29cdc2" >nnetsauce-0.25.10.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f0/f4/051e9e7e1a50e74f8e045649aa742b1a81a3ad852ae8193960c5696691a2/nnetsauce-0.26.0-py3-none-any.whl#sha256=ae4337a80f7743959e29f5a7031e96b78c653d943e1fb3cd7bce7abddba9b809" data-dist-info-metadata="sha256=6b5454d3b380dbf36d0ed800dd99d912dabaad89cb511f3e86015c4bfeffc51a" data-core-metadata="sha256=6b5454d3b380dbf36d0ed800dd99d912dabaad89cb511f3e86015c4bfeffc51a">nnetsauce-0.26.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/01/14/17e32aa0bd564b2bd00a8e13151d908111128cc5c4f11d9eb803fb62e99d/nnetsauce-0.26.0.tar.gz#sha256=db39ec0a089b0231bba4b92ce9bff955fa2a09b2f36a400a9f71682d380f37aa" >nnetsauce-0.26.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25562730-->
+<!--SERIAL 25680423-->

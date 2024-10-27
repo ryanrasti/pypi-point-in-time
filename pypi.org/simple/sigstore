@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for sigstore</title>
   </head>
   <body>
@@ -100,8 +100,12 @@
 <a href="https://files.pythonhosted.org/packages/f3/63/daee649bc4e97048474fbc184300dfcf511dadfa422875b42226efd3a9fc/sigstore-3.2.0.tar.gz#sha256=25c8a871a3a6adf959c0cde598ea8bef8794f1a29277d067111eb4ded4ba7f65" data-requires-python="&gt;=3.8" >sigstore-3.2.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e3/6f/ba2270d10b360687ac21de839e70b238e441a3de25fc2baf67d8acb139d1/sigstore-3.3.0-py3-none-any.whl#sha256=0a4c9cd3efc0f01ac053dc9dfba95bfdc998a14c59c80342ef40a290b406758d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=46f599d28bd18d60e023a3102a55aaf855a07604905325eab233634bff1c3c8d" data-core-metadata="sha256=46f599d28bd18d60e023a3102a55aaf855a07604905325eab233634bff1c3c8d">sigstore-3.3.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d9/f4/c4ae408a49250f47614f44584c73a7bbe3d1cebedf8a7c89aa5a7f7eb97b/sigstore-3.3.0.tar.gz#sha256=931e9913996ceace713d28e2431989414e711af30606f0b1e8bdc30fcbdd3fbe" data-requires-python="&gt;=3.8" >sigstore-3.3.0.tar.gz</a><br />
-<a href="https://files.pythonhosted.org/packages/7f/fe/64b03258cf82e9d056b17f620e90347fafe31e95f06393f855e05d5d4c01/sigstore-3.4.0-py3-none-any.whl#sha256=f5202e6e3a5a371bcf6f3705f4fefb6f828f3c2ec82d58effa65a98a97c5bfd2" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=bbf451f68eeae23ac2e6d6ca6ab3f0ffcd460906ea1adf0005d4f4b13612f4ab" data-core-metadata="sha256=bbf451f68eeae23ac2e6d6ca6ab3f0ffcd460906ea1adf0005d4f4b13612f4ab">sigstore-3.4.0-py3-none-any.whl</a><br />
-<a href="https://files.pythonhosted.org/packages/5b/6b/08dc39d131d6b4106a327e2619b6dd017543bb79e9fc632abd442375d989/sigstore-3.4.0.tar.gz#sha256=71038afff4e0254aadc562cc725f6a1ccad7d32ff62abb3305c698737ee0a546" data-requires-python="&gt;=3.9" >sigstore-3.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7f/fe/64b03258cf82e9d056b17f620e90347fafe31e95f06393f855e05d5d4c01/sigstore-3.4.0-py3-none-any.whl#sha256=f5202e6e3a5a371bcf6f3705f4fefb6f828f3c2ec82d58effa65a98a97c5bfd2" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=bbf451f68eeae23ac2e6d6ca6ab3f0ffcd460906ea1adf0005d4f4b13612f4ab" data-core-metadata="sha256=bbf451f68eeae23ac2e6d6ca6ab3f0ffcd460906ea1adf0005d4f4b13612f4ab" data-provenance="https://pypi.org/integrity/sigstore/3.4.0/sigstore-3.4.0-py3-none-any.whl/provenance">sigstore-3.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5b/6b/08dc39d131d6b4106a327e2619b6dd017543bb79e9fc632abd442375d989/sigstore-3.4.0.tar.gz#sha256=71038afff4e0254aadc562cc725f6a1ccad7d32ff62abb3305c698737ee0a546" data-requires-python="&gt;=3.9"  data-provenance="https://pypi.org/integrity/sigstore/3.4.0/sigstore-3.4.0.tar.gz/provenance">sigstore-3.4.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/30/7f/297f3c9160f0a0f1bb5ec0f0639ebf52139f1e8116847c67abd00d9ba06c/sigstore-3.5.0-py3-none-any.whl#sha256=b5c2480b1c91cd47754fc32f631a82bbac516b7cc3d103cb4888dbed38f31785" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=a13944e339f3a3505a2217efcc64c129cd864059b3b25ed8d5f4965eb5a58488" data-core-metadata="sha256=a13944e339f3a3505a2217efcc64c129cd864059b3b25ed8d5f4965eb5a58488" data-provenance="https://pypi.org/integrity/sigstore/3.5.0/sigstore-3.5.0-py3-none-any.whl/provenance">sigstore-3.5.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/38/21/d9159ad71dc45267b637d84b1165e07f88bd2ffe30116d6a3944fc6302f2/sigstore-3.5.0.tar.gz#sha256=bf49aaad29252f50f6f02c04b31070421524e8b00491ec6b402cb4eff4cfbc50" data-requires-python="&gt;=3.9"  data-provenance="https://pypi.org/integrity/sigstore/3.5.0/sigstore-3.5.0.tar.gz/provenance">sigstore-3.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/f9/ffa0b32438061e838224f7a52bfa09feda294076a03832d3802e9eba2bb7/sigstore-3.5.1-py3-none-any.whl#sha256=e7023aef4e574120712c16c6bb151f4caee55791c4677fe30c92ef4e50800204" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=226f8255711c95388112c031df99588ae6c4437da694d2737bcfd9ef1d36b51a" data-core-metadata="sha256=226f8255711c95388112c031df99588ae6c4437da694d2737bcfd9ef1d36b51a" data-provenance="https://pypi.org/integrity/sigstore/3.5.1/sigstore-3.5.1-py3-none-any.whl/provenance">sigstore-3.5.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/61/21/56261dca07b560131b03d8659f6ba39cf30dc2af96269f3982098aa6bb83/sigstore-3.5.1.tar.gz#sha256=88f73c8edf1662ff9b86ef6fe0870bb6af4ac99ff808b84995e6a41957b7b3d2" data-requires-python="&gt;=3.9"  data-provenance="https://pypi.org/integrity/sigstore/3.5.1/sigstore-3.5.1.tar.gz/provenance">sigstore-3.5.1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25418899-->
+<!--SERIAL 25671666-->

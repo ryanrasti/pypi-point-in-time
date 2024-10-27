@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for cycode</title>
   </head>
   <body>
@@ -354,6 +354,14 @@
 <a href="https://files.pythonhosted.org/packages/5b/62/45768c70acdc977a0c30226ac5645190bdad078cb28ef5e26d8f3cc8d150/cycode-1.11.1.dev1.tar.gz#sha256=e6305267f611cc4e25dcc0c81d97ded56d30237c5e13aeb7d14ab8826c072866" data-requires-python="&lt;3.13,&gt;=3.7" >cycode-1.11.1.dev1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/f9/c8/0461d7f49381af335b637795472b48f550a651adf994696571ea13f6d8a8/cycode-1.11.1.dev2-py3-none-any.whl#sha256=b8bee076322e89ec531585aaeb6a09b11df38e4a98f8e705620f06b25ee8ac67" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=7864944c0633bc45837d0bc38c229836ff743bac9bba71a019608520528ec22d" data-core-metadata="sha256=7864944c0633bc45837d0bc38c229836ff743bac9bba71a019608520528ec22d">cycode-1.11.1.dev2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/1d/0c/dafe9f06a5ebb40cf1330fba065b994093cbe1c0110bce8589ce116ff2e3/cycode-1.11.1.dev2.tar.gz#sha256=6eb30cee80c49d045de333ae37af5ded24381dce2f8fde75d683d042c1fabd2c" data-requires-python="&lt;3.14,&gt;=3.8" >cycode-1.11.1.dev2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/26/39/87d9085744217fd7be1970e3e8e054c96116ce965560cd912e52c05f2722/cycode-1.11.1.dev3-py3-none-any.whl#sha256=0614acf5612e2970558538ebbcddd33c2264453caa86d414176e902e4510cf98" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=09d40e9c6adcf8d5b8b23ae5f113d82f783b2bac4efa412076d3a3a70df31e4d" data-core-metadata="sha256=09d40e9c6adcf8d5b8b23ae5f113d82f783b2bac4efa412076d3a3a70df31e4d">cycode-1.11.1.dev3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/de/83/2b684e58a287138018980926a10fce5dc16e84034bfc88c3cb7646758917/cycode-1.11.1.dev3.tar.gz#sha256=6498763841af8a899e04eb4da48a179f46deb217154a47e8c6ab09af2912bce3" data-requires-python="&lt;3.14,&gt;=3.8" >cycode-1.11.1.dev3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/57/7b/9e93189b473b7b4ca44a3d33e4e69de39a94dc4aa68e9fd5e1fb0eac4c7c/cycode-1.11.1.dev4-py3-none-any.whl#sha256=c6246c1c224b3cc5c280c88a742dcb3043b107d97ef43132ef974e915ac2d145" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=31e0e934e92c7ba1a3b73a6a889165080ebcf6cf758bae2a11b97b35d8db6232" data-core-metadata="sha256=31e0e934e92c7ba1a3b73a6a889165080ebcf6cf758bae2a11b97b35d8db6232">cycode-1.11.1.dev4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/89/e5/6dda70d4b0592a4239b1b27cb3e2f34037ec42d7e114004509932b288b95/cycode-1.11.1.dev4.tar.gz#sha256=a7d21845875a055fb3a52fb19c8c8a849faa2d54928828c907336b947afc0cc6" data-requires-python="&lt;3.14,&gt;=3.8" >cycode-1.11.1.dev4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/87/76/a34a0553ceeb298001e0d99878ef133449a5a74fe6ee3f53ea434294251e/cycode-1.11.1.dev5-py3-none-any.whl#sha256=e57987ebea38f5787be6351cb64ffe22dc644376bc4ef3f83c5905b0e3c2bcb3" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=692b6e6d484c77a2132410785784550511352ebfcbb60394493ff0e29b146c21" data-core-metadata="sha256=692b6e6d484c77a2132410785784550511352ebfcbb60394493ff0e29b146c21">cycode-1.11.1.dev5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fc/36/a4c81a88a74a46d7b083f6e16f68ea488dce86a0aec325285aeb668540c6/cycode-1.11.1.dev5.tar.gz#sha256=534b17419022c77cbbfe1409456501696bfe3a131d22e7ff24b11dfe556a6162" data-requires-python="&lt;3.14,&gt;=3.8" >cycode-1.11.1.dev5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9c/cd/8d2a3906b5b519efa8fc98c27eedc4a9304b0b425916e75386eb34baa834/cycode-1.11.1.dev6-py3-none-any.whl#sha256=670fdd5a68631b941d2ca2c626454a15f6c21c8d4a58048959eb15a5d52948d9" data-requires-python="&lt;3.14,&gt;=3.8" data-dist-info-metadata="sha256=e2e92ae7c3ff66a9b52cf90f1361f2121587d677260007b106640cae9bc4e38a" data-core-metadata="sha256=e2e92ae7c3ff66a9b52cf90f1361f2121587d677260007b106640cae9bc4e38a">cycode-1.11.1.dev6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/93/81/012009a0f75438c93c63d517fd6931924425b09968184fecac772225d876/cycode-1.11.1.dev6.tar.gz#sha256=e0360739751536d19bc407e30d1be417c435c73ad6b25475761c61e7e0a38882" data-requires-python="&lt;3.14,&gt;=3.8" >cycode-1.11.1.dev6.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25469494-->
+<!--SERIAL 25610460-->

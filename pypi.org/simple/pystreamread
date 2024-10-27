@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pystreamread</title>
   </head>
   <body>
@@ -18,6 +18,14 @@
 <a href="https://files.pythonhosted.org/packages/c5/92/4bab791acbbd2770ccbe407d3927c43425b9b5154587692e43db3cf925c8/pystreamread-2.0.1.tar.gz#sha256=48ba015fe67373bba23298f0459a7c7fa821b4f8f23e532c4353c21766870e1a" >pystreamread-2.0.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/25/c3/ee1ebfbc970d748950268a80cd4bc848e1ed8ea8a0f451b7633c6c704051/pyStreamRead-2.0.2-py3-none-any.whl#sha256=84e3a49ac56919c8bb6cac4bbaaa312df211986fd2e16d298ddcafb8b2503590" data-dist-info-metadata="sha256=23f2f190b6676dcd8cf3e9bd9285094b864dd2e1933e3cb9d879935644f7f82b" data-core-metadata="sha256=23f2f190b6676dcd8cf3e9bd9285094b864dd2e1933e3cb9d879935644f7f82b">pyStreamRead-2.0.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/d0/28/834e62c49b4eb6930ddbbcdd7e93cd6c51871cb5ea8479b6dd6ce32e9771/pystreamread-2.0.2.tar.gz#sha256=9cf4c8a395f2b84c270a107743506fdebffeee43396bdd474cefe4a446ed8092" >pystreamread-2.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/de/6c/f595132a8341426a1d7ad79e2f9367986dc680ee5edd126893eb50c377e3/pyStreamRead-2.0.3-py3-none-any.whl#sha256=c6f42c38f031f5935b39cfdda4c07984d26b7282b8eb599309a694e4d8ec8db9" data-requires-python="&lt;3.9,&gt;=3.7" data-dist-info-metadata="sha256=572ae22c45b961cd4ffa31ced253961c647ce086123a59bba8ac132f633b8415" data-core-metadata="sha256=572ae22c45b961cd4ffa31ced253961c647ce086123a59bba8ac132f633b8415">pyStreamRead-2.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9f/72/5d86011ccc7e9bd4d7727fadf5b7422502decdecfd98828bafdc8f7eafd7/pystreamread-2.0.3.tar.gz#sha256=5ca15dc0452522978c96ddc664225e57aa88cff82a8ed4e9288771d7fe11f3e0" data-requires-python="&lt;3.9,&gt;=3.7" >pystreamread-2.0.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/9d/63/1c1a4b4fcf3e4db059d75e40d1d57fc64c5dc120f0997752f76281be7acd/pyStreamRead-3.0.1-py3-none-any.whl#sha256=0561f7fba9cef392c272ab1fd24ba3c27376829ce02cb6e65c016a1d0dee3ab5" data-requires-python="==3.12" data-dist-info-metadata="sha256=14bd591100be1857d9df8c7eed42658e8aa907ee2892f5d6ad5262a2afc3b251" data-core-metadata="sha256=14bd591100be1857d9df8c7eed42658e8aa907ee2892f5d6ad5262a2afc3b251">pyStreamRead-3.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/df/69/5f94fabc301737d55035810df80697992d6369e410c189336d3fb55aab96/pystreamread-3.0.1.tar.gz#sha256=7464ad921af36ac232e142c6a55b96db6353dad49e0fd0cac9718877ca21bc0d" data-requires-python="==3.12" >pystreamread-3.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/90/29/111d16cc2769920c09460872f08345c7598b2f8e36504abd2510dc4a2ae7/pyStreamRead-3.0.2-py3-none-any.whl#sha256=f5520cf4c34a222c90724192c0f41936ea7125715b54ca5a7a873f7daa7a41a3" data-requires-python="==3.12" data-dist-info-metadata="sha256=c7d9970b7dd20508e2a97fd1fc19eb3d449535a8676bbd366215452b7ed2b75d" data-core-metadata="sha256=c7d9970b7dd20508e2a97fd1fc19eb3d449535a8676bbd366215452b7ed2b75d">pyStreamRead-3.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0f/e3/cbc62ea95bb6f1845afe195ebc13afa3490e52ef76d6ab3d9afd8ee89619/pystreamread-3.0.2.tar.gz#sha256=73e3235e80c795845a2bcb76d425e1410f0553a90769b22214383085a80518bc" data-requires-python="==3.12" >pystreamread-3.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/75/00b4cd47514b49db5692e231752d6987d0b326292946397907f4e2183efb/pyStreamRead-3.0.3-py3-none-any.whl#sha256=3042a12b976b80e538976be0ab9df7b187c34b4ca588f0f83360fc6a61c375f2" data-requires-python="&gt;=3.12" data-dist-info-metadata="sha256=15c7bca8f73310b98f882e6b6b0edef181f538b072c45154dab1ee4132d9b2d7" data-core-metadata="sha256=15c7bca8f73310b98f882e6b6b0edef181f538b072c45154dab1ee4132d9b2d7">pyStreamRead-3.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d7/43/69877e3de720597f1643d4b2662cf6a804289534df43715b12c34dec4869/pystreamread-3.0.3.tar.gz#sha256=5efbd3bf844d7c06709711a16c45e4e5147ead78ff0f0fbc92b5c5a7bd4a2ca9" data-requires-python="&gt;=3.12" >pystreamread-3.0.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25484175-->
+<!--SERIAL 25660170-->

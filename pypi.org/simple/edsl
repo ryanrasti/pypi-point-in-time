@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for edsl</title>
   </head>
   <body>
@@ -136,6 +136,16 @@
 <a href="https://files.pythonhosted.org/packages/db/08/c49d9c44fb3a8ceffe81932e43c2bff85e4cf927eb60824984beea47f5a0/edsl-0.1.35.tar.gz#sha256=11629913329aaa6117ec76fd81d5920c30d98add6dab7aabc425cedda7f9b739" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.35.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3f/c2/db0e9966fb273379886e28688f3a37c4af18702bb003f02537491eb4ad69/edsl-0.1.36.dev1-py3-none-any.whl#sha256=4974ac452292e298d07306911ad4d3d7807f7d5bcfd81c76a72df5174ffcaa75" data-requires-python="&lt;3.13,&gt;=3.9.1" data-dist-info-metadata="sha256=75371b5f63da7e58398278ecb1441569fa15616b361430022da49fda780e01cf" data-core-metadata="sha256=75371b5f63da7e58398278ecb1441569fa15616b361430022da49fda780e01cf">edsl-0.1.36.dev1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c2/03/d8312fac82dff50f35e801c602d61e13dc13b2a8381def1ab95a80ae5450/edsl-0.1.36.dev1.tar.gz#sha256=a4cc6381740e7f58fbd736771f614fe2b6d8e815ca6113895dca6694e6c2af86" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.36.dev1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/16/9b/680a99f9a6c5d0c2450aa54bd2420896a9d594b07d815c8e41d5dd40b526/edsl-0.1.36.dev2-py3-none-any.whl#sha256=4e1260a8dee06c9ffadac0df447b59aaf5164094ae9f4e2f76b0f2449857e217" data-requires-python="&lt;3.13,&gt;=3.9.1" data-dist-info-metadata="sha256=78ce3588f8f5b86f3ae6cd40c4ddcd0a4725d077ba287b2c8c8aa57c5191add8" data-core-metadata="sha256=78ce3588f8f5b86f3ae6cd40c4ddcd0a4725d077ba287b2c8c8aa57c5191add8">edsl-0.1.36.dev2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6d/c6/316a30fbd31ad243ffb3006d83a52a0e8bfca94f0e166dbc14f38e5eb1a5/edsl-0.1.36.dev2.tar.gz#sha256=b645393a9b0eb6c7dda8368523e8f2f646d5e22454a0839935959349d5aea862" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.36.dev2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/24/25/e56242bc60e7bbf1915ca04ff1af9c7f7f72f6d746e4cdc246f12096ab22/edsl-0.1.36.dev3-py3-none-any.whl#sha256=2cc854b0dd0d83c8a3c0bc63c5a3dc01154927e964faea20878f527c2f1ce3c0" data-requires-python="&lt;3.13,&gt;=3.9.1" data-dist-info-metadata="sha256=c292e694b4d58b5e8d437808ab7f3cc459a5bd83819dcfe247cce93940c38912" data-core-metadata="sha256=c292e694b4d58b5e8d437808ab7f3cc459a5bd83819dcfe247cce93940c38912">edsl-0.1.36.dev3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/41/15/437f0070982c75fe1143a5fecf49dd076ee839149ad76d58f2214a28321a/edsl-0.1.36.dev3.tar.gz#sha256=8070cfa674b8658ff2974dbf56bccdd2ff37a6ac1fe582063a12b7648be5d503" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.36.dev3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/89/5e/b7167e35362fab8b74a6f71880b46edbf0fdac6b961f00e8c281952726e5/edsl-0.1.36.dev4-py3-none-any.whl#sha256=0bd78b087f94c3ada7d20eaa8ecf431d2ce32b28fc3e9c3c2979199aba23533a" data-requires-python="&lt;3.13,&gt;=3.9.1" data-dist-info-metadata="sha256=86d59e674a533d6dcbcdbe18830d78ed2847e5dd0eaa5a395ab95878f94ba1b7" data-core-metadata="sha256=86d59e674a533d6dcbcdbe18830d78ed2847e5dd0eaa5a395ab95878f94ba1b7">edsl-0.1.36.dev4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/11/a0/cd50bbbfff76c8db73010bedefe92ad10c192b8b2b8119d1f6254b766e47/edsl-0.1.36.dev4.tar.gz#sha256=abe11d338e910f86d122f97f79e59b434c816d00b86681876a729be337e25bff" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.36.dev4.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/48/2c/b87e6d8ed739dc5aac9234de079d0b534c877c7cd4ed42626d4edd74020f/edsl-0.1.36.dev5-py3-none-any.whl#sha256=70be23e307fa10645738515eb773d01c044b8e720a3c672be6afdc85899b81b6" data-requires-python="&lt;3.13,&gt;=3.9.1" data-dist-info-metadata="sha256=ffa65d4e0069defa444de2f4b55160f7325d59e8e3f791cbb48c125cf7234009" data-core-metadata="sha256=ffa65d4e0069defa444de2f4b55160f7325d59e8e3f791cbb48c125cf7234009">edsl-0.1.36.dev5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/19/f5/4bb6adab260531df98563559da2a71fc242da4f6a090d20d7390f95bd37f/edsl-0.1.36.dev5.tar.gz#sha256=1ff5dcd37a0192f5ec22867e5dcfae4f366b65761a3cc4385481bc002e66eaea" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.36.dev5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/40/a2/619f8e76ae0c6abd1a7d16dce6ecf488f2b8c22b5474b2426a1e8d15d2c5/edsl-0.1.36.dev6-py3-none-any.whl#sha256=44996967edd5122dbc1673a9051bab656b3ae033a613ed080e36498b40d8dc55" data-requires-python="&lt;3.13,&gt;=3.9.1" data-dist-info-metadata="sha256=7bdb554cee1acac3a4adb408c8efd2ed0b269ab594bc10ed2a532d34fe73b25e" data-core-metadata="sha256=7bdb554cee1acac3a4adb408c8efd2ed0b269ab594bc10ed2a532d34fe73b25e">edsl-0.1.36.dev6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/78/65/b131ca39632baf2cafde236051e6bc8b0a69e6aa7073077620a5e392dbae/edsl-0.1.36.dev6.tar.gz#sha256=20b34f2957b1b354cae96436324ddf13901edbdabe2c38af09c8493a6fab2fac" data-requires-python="&lt;3.13,&gt;=3.9.1" >edsl-0.1.36.dev6.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25553079-->
+<!--SERIAL 25686402-->

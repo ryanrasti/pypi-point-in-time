@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for wmill-pg</title>
   </head>
   <body>
@@ -1532,6 +1532,14 @@
 <a href="https://files.pythonhosted.org/packages/cd/a3/f12b236bbeaa27fc9069218afc509d56731ed1a9026521e5cd5001aaf837/wmill_pg-1.410.1.tar.gz#sha256=efc3ab2a0b4bc1178e8a4ad1525cedd7265349a27e208ba810ab1e98771dbce1" data-requires-python="&lt;4.0,&gt;=3.7" >wmill_pg-1.410.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/15/18/afa72da83d88658f3fc4d7168fe2836bccbd8fe8d0b1d2053c22958d448f/wmill_pg-1.410.2-py3-none-any.whl#sha256=786e4ac87704335e5de4adec4d11ba90336c9a45ad5169ec705235185e2fe26b" data-requires-python="&lt;4.0,&gt;=3.7" data-dist-info-metadata="sha256=191edb9cd736b9eb6076ebffc416d0c472d3edd7aa2c65dd7bbcf786062e0ec6" data-core-metadata="sha256=191edb9cd736b9eb6076ebffc416d0c472d3edd7aa2c65dd7bbcf786062e0ec6">wmill_pg-1.410.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/1a/a5/6bda494385164cdb2ea0d38ce9e04d99bffd2ea1986de68ef68514ad3996/wmill_pg-1.410.2.tar.gz#sha256=d5f700c530fca8e4ca777a76e8165dcc3bc0c2f5bfafc2e0bb707e5d7bde11f1" data-requires-python="&lt;4.0,&gt;=3.7" >wmill_pg-1.410.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e1/8d/d2715fca266412ee545a3a18dcf84fbe0896047dcdbfd40e725cf451aff5/wmill_pg-1.410.3-py3-none-any.whl#sha256=df0da6fd1ef009a3f86864c62f017458c532e0a2534f6219ea86323b5777c36e" data-requires-python="&lt;4.0,&gt;=3.7" data-dist-info-metadata="sha256=89e8866738add4dac9948dfc76ca353d64099f465ec23da910377003c2b666cc" data-core-metadata="sha256=89e8866738add4dac9948dfc76ca353d64099f465ec23da910377003c2b666cc">wmill_pg-1.410.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ec/c4/4a9360d7d24a6af47a0d3bad308a60718a25ceab5c45aeae76220780ef7e/wmill_pg-1.410.3.tar.gz#sha256=c564266fa57efbb3b11c7bade208f8863a9bab9771565609406c7e9e005593dc" data-requires-python="&lt;4.0,&gt;=3.7" >wmill_pg-1.410.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/44/8c/9b0a91700de36f20a1986f5378b1bed520025ed1399c2dd326ee222f8b59/wmill_pg-1.411.0-py3-none-any.whl#sha256=030698e3f1375136125520702e53cb1e965f342ce3bb8b5dca966d9060be3164" data-requires-python="&lt;4.0,&gt;=3.7" data-dist-info-metadata="sha256=f4388a1b257073786218b4dee9a1243b6f4e39bd5acdc46438284f7100d17b8d" data-core-metadata="sha256=f4388a1b257073786218b4dee9a1243b6f4e39bd5acdc46438284f7100d17b8d">wmill_pg-1.411.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/56/f6/ef2dea277dc43ce30fd6425b3a900815c3760d3ac38ce0925c31c262dba7/wmill_pg-1.411.0.tar.gz#sha256=1f162e7abf59b2697ca4002b1683a94299df30f3e86c3a36205245ae18b5ce53" data-requires-python="&lt;4.0,&gt;=3.7" >wmill_pg-1.411.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/1c/83fe78ec86e02c2f8ac7af44a6de86a430554da6a415f0bd3951a33a7d37/wmill_pg-1.411.1-py3-none-any.whl#sha256=8abc9f8b476f7ae8eca280210ce62275e2fdb1a863b1d8df9034db353d9096ee" data-requires-python="&lt;4.0,&gt;=3.7" data-dist-info-metadata="sha256=7746044894e030cf99523d40b7908ec930c9c1bd2aee1baa4d71e23d1207c15a" data-core-metadata="sha256=7746044894e030cf99523d40b7908ec930c9c1bd2aee1baa4d71e23d1207c15a">wmill_pg-1.411.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ed/58/836e5193510b8446706c9944b42bfbab7e9b8bbf2dbb4d4cc0fe2c54f2eb/wmill_pg-1.411.1.tar.gz#sha256=5b7ae4a0b137c70da695691c448edb433a77af36c3abb0e5e02001dee3e1a525" data-requires-python="&lt;4.0,&gt;=3.7" >wmill_pg-1.411.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ab/ef/c65ae73b06799c81e32d723771f0f0a6454c9d41dd217eade43d94737610/wmill_pg-1.412.0-py3-none-any.whl#sha256=d7040c837a6038191f9185e8ba3d6cbd819209bb7f3f7a7a629d54ab103a8c13" data-requires-python="&lt;4.0,&gt;=3.7" data-dist-info-metadata="sha256=249f6dfb68660a73781ff72e14fd851e1b1325a3ebc4c5b7d97ddd560589aa49" data-core-metadata="sha256=249f6dfb68660a73781ff72e14fd851e1b1325a3ebc4c5b7d97ddd560589aa49">wmill_pg-1.412.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e0/7b/27e6fdef40160e61b52ef3548ff7bcc1024a3dc40684958b60e6d283da2e/wmill_pg-1.412.0.tar.gz#sha256=d6b92eb9d3587e56fd48ef4ef6fd5da5055071d8a674006466de192476c7abb9" data-requires-python="&lt;4.0,&gt;=3.7" >wmill_pg-1.412.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25563176-->
+<!--SERIAL 25674198-->

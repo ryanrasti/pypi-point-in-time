@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for scalellm</title>
   </head>
   <body>
@@ -62,6 +62,10 @@
 <a href="https://files.pythonhosted.org/packages/5c/df/61d265e281e4157465130bea5d4edfee876aa826236319aa562e56c7b69b/scalellm-0.2.1-cp312-cp312-manylinux1_x86_64.whl#sha256=ac57c1724f09c23942625db1e10a9e0b54411546495e76adf7a09ea295688979" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=912d088638202af8f5a0a5ee938d0e20da2d7e087b4b7ec9e4650e8e161e1ee3" data-core-metadata="sha256=912d088638202af8f5a0a5ee938d0e20da2d7e087b4b7ec9e4650e8e161e1ee3">scalellm-0.2.1-cp312-cp312-manylinux1_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e2/67/f71e56cb6d3f18db95aa1bd1f061ba36ea918bd2f7856e11e5a79c1e4e7f/scalellm-0.2.1-cp38-cp38-manylinux1_x86_64.whl#sha256=1999aa9ad62402fecbc31e404c52e3d329dfa2f386f9419eb11d3565a4446459" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=912d088638202af8f5a0a5ee938d0e20da2d7e087b4b7ec9e4650e8e161e1ee3" data-core-metadata="sha256=912d088638202af8f5a0a5ee938d0e20da2d7e087b4b7ec9e4650e8e161e1ee3">scalellm-0.2.1-cp38-cp38-manylinux1_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/64/90/5dc0ec8ca8e626802158f1b8d3b1c43d867b7bc84df78c911d4de72ed13e/scalellm-0.2.1-cp39-cp39-manylinux1_x86_64.whl#sha256=8f9b6ef38a61e81d6793e39a5698a9b6c6230a0e708ed32a12114e6f60fae570" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=912d088638202af8f5a0a5ee938d0e20da2d7e087b4b7ec9e4650e8e161e1ee3" data-core-metadata="sha256=912d088638202af8f5a0a5ee938d0e20da2d7e087b4b7ec9e4650e8e161e1ee3">scalellm-0.2.1-cp39-cp39-manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/15/ae/f4167f47eaa7d61b131db2848075c5dc1b9deb2b26dfa4f2dab82c78ac79/scalellm-0.2.2-cp310-cp310-manylinux1_x86_64.whl#sha256=347fb012f2c95ad1089f91b9ffab98ddf875ccfe39187e3e1425101ab6b39bdc" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b" data-core-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b">scalellm-0.2.2-cp310-cp310-manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/97/0d/83ab3a9662207bef073717769aa7693fd3e171965a71557a8d8e39db12ee/scalellm-0.2.2-cp311-cp311-manylinux1_x86_64.whl#sha256=decd8bb1cba307a8660acfc90b9298b70751b89a687ad62058dada4cf8594f0e" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b" data-core-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b">scalellm-0.2.2-cp311-cp311-manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b9/f5/e0f2ec5c267f78581be3e47eeeea6ab017a87722a8c4ddbeaf3003f47053/scalellm-0.2.2-cp312-cp312-manylinux1_x86_64.whl#sha256=b3dbebfa1b166bd8b7bf75c934bce038627e6c2e9c940b00ff4fc8e16490cc68" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b" data-core-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b">scalellm-0.2.2-cp312-cp312-manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a5/49/e14a4c96c812f64e07c9bf13b9a33295ff97bdd235f9b9894933f8ecc5b7/scalellm-0.2.2-cp39-cp39-manylinux1_x86_64.whl#sha256=d68f75aae56407af1e55a1680d6808a2273605f125cdde090858885445f92e69" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b" data-core-metadata="sha256=e68e554c5af54c4c5dd6835801f4284fcf05bdde52f67e46fd77c694f702545b">scalellm-0.2.2-cp39-cp39-manylinux1_x86_64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 24880361-->
+<!--SERIAL 25677443-->

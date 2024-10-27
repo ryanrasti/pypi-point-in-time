@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pdep</title>
   </head>
   <body>
@@ -86,6 +86,14 @@
 <a href="https://files.pythonhosted.org/packages/49/7c/d53972ecd4f8e43ad226a609b1a00b2d9357f6fec36c35668ab79791adfb/pdep-0.0.0.dev39.tar.gz#sha256=0e582aa01d5047ba33bae8c67fa32e9a714feb17556f8592b71baf46ac8e8a68" data-requires-python="&gt;=3.10" >pdep-0.0.0.dev39.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/e4/89/cac3a492582f68ef96045d376ce17b08485b818e87adf8fc89312fe0ed60/Pdep-0.0.0.dev40-py3-none-any.whl#sha256=5f6a7db48735a2f28e99277825c469001dbfcf940abb3d860eb45d59b834ab16" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=ee91462cf61178ebc92bb76a7f5fc92bcf994a30996f30a26ca89f88f7ef42b9" data-core-metadata="sha256=ee91462cf61178ebc92bb76a7f5fc92bcf994a30996f30a26ca89f88f7ef42b9">Pdep-0.0.0.dev40-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/23/0c/cfdaeaa372727aef7bd30a4eab1ecc45689282753d5766ac8b93b8d94c06/pdep-0.0.0.dev40.tar.gz#sha256=3c8d446eadfc576e5162e5a1fc10a58917d0ae79d1f8414931f668dc3f5895bd" data-requires-python="&gt;=3.10" >pdep-0.0.0.dev40.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/bd/05/1bcc2d1b43bfd0cfe4e1268206a8ffbe3459235f402bc0e1caf045172514/Pdep-0.0.0.dev41-py3-none-any.whl#sha256=52795fddfec6db47bc8e8e24d9b3c74ac3d18119cd7986c415d5376fbae036dc" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=468782e02532a1687b9e87ee6b3394ce9d1de90511d8a56dc14704d4bcea335c" data-core-metadata="sha256=468782e02532a1687b9e87ee6b3394ce9d1de90511d8a56dc14704d4bcea335c">Pdep-0.0.0.dev41-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a2/e3/dacd2fbfb39ea47b35a5a267ac26596a8eb36917281246b7497705683ad9/pdep-0.0.0.dev41.tar.gz#sha256=c1e43d2471e782a32e56cf3e77a6baa44227abb4070737feda56c05f4412ac4d" data-requires-python="&gt;=3.10" >pdep-0.0.0.dev41.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/76/2e/7e02d2b5110484f90fababeeb3942b6ca3de63bf56368671c040746afc45/Pdep-0.0.0.dev42-py3-none-any.whl#sha256=b9dde1c77a602de1219682af807679b7523a7b76910a397ff26dbd311bdd8ae2" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=f66d18895dac942ade1e7b69156ab9742cc306cac00c7d96bc9970d178459735" data-core-metadata="sha256=f66d18895dac942ade1e7b69156ab9742cc306cac00c7d96bc9970d178459735">Pdep-0.0.0.dev42-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d6/a8/a54d081480a385dae9ffcbe0f381c9adb1a7279f9037ff905f799c7079dd/pdep-0.0.0.dev42.tar.gz#sha256=62205c024b80fcd5322477f768649f030cf88f2d637718ba9087bda5c650a941" data-requires-python="&gt;=3.10" >pdep-0.0.0.dev42.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1f/8f/402c6bb376fc05b82f670373747175324629e70b4693e800bec46a5f38ce/Pdep-0.0.0.dev43-py3-none-any.whl#sha256=c4dcf3eca5aeee4004b3ba7c9ea81d9d79ba0ef2737e6ff400b3d110760fdf22" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=b63f2581823ad097499b651032062311ace7a4fa1c30f98fcbe727096f50f40d" data-core-metadata="sha256=b63f2581823ad097499b651032062311ace7a4fa1c30f98fcbe727096f50f40d" data-provenance="https://pypi.org/integrity/pdep/0.0.0.dev43/Pdep-0.0.0.dev43-py3-none-any.whl/provenance">Pdep-0.0.0.dev43-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0b/91/96280da9a97629a17824a877375b06bba1375a9fca76a4e59823ae51e964/pdep-0.0.0.dev43.tar.gz#sha256=0e21f1b4bf8a1931cd9f3ef634b2839d662f9803cdec70fe526c19732528c164" data-requires-python="&gt;=3.10"  data-provenance="https://pypi.org/integrity/pdep/0.0.0.dev43/pdep-0.0.0.dev43.tar.gz/provenance">pdep-0.0.0.dev43.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8d/8c/f0870f400657b14e67ce00abe80f4472fcfbbdff3e31f2b2c9b0dd750eb5/Pdep-0.0.0.dev44-py3-none-any.whl#sha256=d158ef4176aa08b7438896ee089628d5c631a50d9544a2d0ba342e3d2a0627f8" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=d248b934fa33d620f881543e481b1bae468b3a53a2611daab17efe1ae28d4fd1" data-core-metadata="sha256=d248b934fa33d620f881543e481b1bae468b3a53a2611daab17efe1ae28d4fd1" data-provenance="https://pypi.org/integrity/pdep/0.0.0.dev44/Pdep-0.0.0.dev44-py3-none-any.whl/provenance">Pdep-0.0.0.dev44-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3d/f5/6652215c743499a0cb275323b4c477b2827d181fb1b6a39cb0d1933ca205/pdep-0.0.0.dev44.tar.gz#sha256=57ebc2e18fd4462f5272499310aafca132bc8f874bfd8c22e5ec2297b70931b3" data-requires-python="&gt;=3.10"  data-provenance="https://pypi.org/integrity/pdep/0.0.0.dev44/pdep-0.0.0.dev44.tar.gz/provenance">pdep-0.0.0.dev44.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25525516-->
+<!--SERIAL 25672782-->

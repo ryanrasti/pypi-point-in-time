@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pex</title>
   </head>
   <body>
@@ -591,6 +591,8 @@
 <a href="https://files.pythonhosted.org/packages/57/91/1587136daa587ba812d4196a2f084c6565513ba3a8aefb9ada5d38a2f511/pex-2.20.2.tar.gz#sha256=ed691c64b26def01168e960804e74dc13d38654598ae40579be2f971d0393a84" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,&lt;3.14,&gt;=2.7" >pex-2.20.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/17/6f/5bc8739c9b1bb6ddd9885606278740d6f2b84b457730886fc17a46cb34e3/pex-2.20.3-py2.py3-none-any.whl#sha256=f9bb815340481f58276e641fcac84a0b2b6d9327fe675e1ec620d11062636003" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,&lt;3.14,&gt;=2.7" data-dist-info-metadata="sha256=48d468ea222c82e9ff53f539890dacd8d4cfecbaf3638a8374fd7aaf4314dd8e" data-core-metadata="sha256=48d468ea222c82e9ff53f539890dacd8d4cfecbaf3638a8374fd7aaf4314dd8e">pex-2.20.3-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/77/fe/10da6c9403dff50f839bff726b9554f51c5789561e7c8cb005ab2bcadd3b/pex-2.20.3.tar.gz#sha256=3aa7a2646407a1133303d0dfe37c1cb1312dc1a420b5df4da75aefdb184ca657" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,&lt;3.14,&gt;=2.7" >pex-2.20.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/89/f5/27f28b1e9af5b6923a9a20d5021df9d337c92e266a0e488d9f8bc0de8aa5/pex-2.20.4-py2.py3-none-any.whl#sha256=5fc128f7bed004bc4ec8aa44da39c878f2d7ba1d1e4c2f38ee14b32f73059c80" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,&lt;3.14,&gt;=2.7" data-dist-info-metadata="sha256=3f52cc40fdc4d89ee763e306417839ed2614bbdb74cecdcbc03f33dcbfb60af6" data-core-metadata="sha256=3f52cc40fdc4d89ee763e306417839ed2614bbdb74cecdcbc03f33dcbfb60af6">pex-2.20.4-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/71/fa/fa618f8cc5c885301ed56771300c023240ba4cf0731a80a6651710395812/pex-2.20.4.tar.gz#sha256=ac1918a7023b06e9b7a88ce9ae0e09d863a580c4f2c11687143b24eaa4178d94" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,&lt;3.14,&gt;=2.7" >pex-2.20.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25404797-->
+<!--SERIAL 25662013-->

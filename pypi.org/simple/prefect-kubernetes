@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for prefect-kubernetes</title>
   </head>
   <body>
@@ -82,6 +82,8 @@
 <a href="https://files.pythonhosted.org/packages/54/1e/fd1cb24411dac90d68540b726d998a4713d7dfb0b118328aac631e013e02/prefect_kubernetes-0.4.4.tar.gz#sha256=e527729e29ebe2065cb6d0eebc82ba2db9ab04bfdf3a81adbb47547bf79753dc" data-requires-python="&gt;=3.8" >prefect_kubernetes-0.4.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/8b/22/296303d9bf2dfa609205a159935aa49171d7949ec4200eff2e886aaf8d0d/prefect_kubernetes-0.4.5-py3-none-any.whl#sha256=85d876c2e9f02a663debcdea5268dc1a0fb9e597596d95574eecb00118af8335" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=fcc5cb42fda3e6d4f4e5cd0ede409dde8f82788358add154ef2cd271bd43be49" data-core-metadata="sha256=fcc5cb42fda3e6d4f4e5cd0ede409dde8f82788358add154ef2cd271bd43be49">prefect_kubernetes-0.4.5-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/26/fa/4c95f8a542b13a35cc82c06d9d4d4bc73d95ecec1b0da59871b870d3e2ff/prefect_kubernetes-0.4.5.tar.gz#sha256=8880dbf6cefcfb059c4098c45ac1cd21d10532ef8cdd9d607edd70cdaf108476" data-requires-python="&gt;=3.8" >prefect_kubernetes-0.4.5.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/f6/4e/2006ca835a8dabf60ce0b78d779bc39494c9b64c2a9bfc43ef8d8cc75178/prefect_kubernetes-0.4.6-py3-none-any.whl#sha256=3db37a0d1d41ad828aed8e07ea0e0045f415ca22c5cd61d4afd80f5c350fcbb1" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f206fa689f02f59883f672330aa77d17f3fa8b39c3b8bdcce4d8cca08dd3db35" data-core-metadata="sha256=f206fa689f02f59883f672330aa77d17f3fa8b39c3b8bdcce4d8cca08dd3db35">prefect_kubernetes-0.4.6-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/88/66/48448c62f6978a81b5651dfafed2c7fab93ac893f767d384e42f55eddd7a/prefect_kubernetes-0.4.6.tar.gz#sha256=c4ba5d6b98f4366defa41b30760b287f94ad6f62283d18845d0c0a23067b2392" data-requires-python="&gt;=3.8" >prefect_kubernetes-0.4.6.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/35/bf/6fbcb4f2d0e3d4a2dc9b8e3b2e6b7b6fb702792d97a35654e769ec95bd97/prefect_kubernetes-0.5.0rc1-py3-none-any.whl#sha256=3b448cf51ee7110c424d54a7439211a506423441a20b9b5bc1253b2d294c8892" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=db2b65b27eae49cab62cf988c192706d9c473ae1348b36068ca8b94387624207" data-core-metadata="sha256=db2b65b27eae49cab62cf988c192706d9c473ae1348b36068ca8b94387624207">prefect_kubernetes-0.5.0rc1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/03/d8/2ec422721bb8d66b40d5fc8ba29a3f5c3cbcb9256da553ae6b821172feb4/prefect_kubernetes-0.5.0rc1.tar.gz#sha256=55e7a05934b021020262587ca08385a163ddc1b24dd55835f71be1c55ce76e2f" data-requires-python="&gt;=3.9" >prefect_kubernetes-0.5.0rc1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/44/fa/5b518472d86d56b6cc58d4985c0d406eb5787182da210495212c6a7d4bcf/prefect_kubernetes-0.5.0rc2-py3-none-any.whl#sha256=b7dcef9d6125c2b2a337a667bfbcc027846cce3fcce0e8f43fc434a35627a3c2" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=25f9a1a4e35bb65ef8b46d9de09db9cd4de989232cb5e58e372dfd6e6a9be9a1" data-core-metadata="sha256=25f9a1a4e35bb65ef8b46d9de09db9cd4de989232cb5e58e372dfd6e6a9be9a1">prefect_kubernetes-0.5.0rc2-py3-none-any.whl</a><br />
@@ -90,6 +92,8 @@
 <a href="https://files.pythonhosted.org/packages/c8/e1/9ae49fd4659020397db85ba927fe2f5be76e73d55e4b439d19e704b3ca68/prefect_kubernetes-0.5.0.tar.gz#sha256=04da474d5884498498a95cabf42901ed535e575dc36f449fa8bef490db059ce5" data-requires-python="&gt;=3.9" >prefect_kubernetes-0.5.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/05/25/5ef845439bc6927f9ad689f7786d7c6a5a290fb954d5d1d39967242ebe81/prefect_kubernetes-0.5.1-py3-none-any.whl#sha256=3ae33920239f6844580054abdb396c99e2bf86b78889ef86dea05573dee2eea3" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=54f3e53204a7353199933f8491e4c7b26fd8f0352b5e8aee71849b21013bfec7" data-core-metadata="sha256=54f3e53204a7353199933f8491e4c7b26fd8f0352b5e8aee71849b21013bfec7">prefect_kubernetes-0.5.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/88/15/6c094d553a85946fe66694f601c1e58403ffd7ba28c0e14532df255ec071/prefect_kubernetes-0.5.1.tar.gz#sha256=26cb9c73992fd289e0de728e17101393fd48ad74d267ef124807fa5a47016d77" data-requires-python="&gt;=3.9" >prefect_kubernetes-0.5.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/da/ec/5588f77817bbef2bdb8a7a93d9b249006980b1ccca5ed892a39587d2de5d/prefect_kubernetes-0.5.2-py3-none-any.whl#sha256=9e87cc0e1a34c084d13558ac15afd62640a406a1ce899f6166b415e99185fde1" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=6a9354900b74946baf243b6ae00285b5c77aa2195f73684e054df681d6e4a152" data-core-metadata="sha256=6a9354900b74946baf243b6ae00285b5c77aa2195f73684e054df681d6e4a152">prefect_kubernetes-0.5.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/22/e3/bea8644b9cd18e787ae0a4447c0ac97a847bf00621ebc6c56e8af3f6c700/prefect_kubernetes-0.5.2.tar.gz#sha256=2275c11265b61d04db86a8759630b892f644eaa59a02f70ad16f4549f00e29e0" data-requires-python="&gt;=3.9" >prefect_kubernetes-0.5.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25538101-->
+<!--SERIAL 25614606-->

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for feanor</title>
   </head>
   <body>
@@ -34,6 +34,14 @@
 <a href="https://files.pythonhosted.org/packages/c0/61/4eaf648c7e67d144f140a214eb3fab220697ae24647362948c758bcea099/feanor-1.1.4.tar.gz#sha256=c14f713f5814c757babe8e3d4ab57afc35f886032576b0a6b9f084fe43f86e42" data-requires-python="&gt;=3.10" >feanor-1.1.4.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6a/6a/c6e7ed7557d9864f98b26d4d75d4f27b62afac54599382384da95270c8b3/feanor-1.2.0-py3-none-any.whl#sha256=f30b13463188f25033f645a037002bf2284cb949018671c3600cd0ab2311f364" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=74170ce4293b66a9ff03cb89b8dbc9b5b1a2ce9719360e3d18ef3e1e3d3bcce0" data-core-metadata="sha256=74170ce4293b66a9ff03cb89b8dbc9b5b1a2ce9719360e3d18ef3e1e3d3bcce0">feanor-1.2.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e2/8f/80f3928a281a711b0ce5b81fd466d331e2adf54bce285a8994734d55cd72/feanor-1.2.0.tar.gz#sha256=ee4ea7b5db9d7d7d963cd73e67022d38ae651365fd39824ce2873bcc45c444e1" data-requires-python="&gt;=3.10" >feanor-1.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8a/b0/e578a6a33ed36937591c307b6be16bbf81393d3a5f17b84239f88a2892ed/feanor-1.2.1-py3-none-any.whl#sha256=ca446c72ab171ad4a4e44d63da01ce1fb117d50b2c3a7c602d624ef0b99a29e3" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=0116715472a2824859796eebabef398b81f4c639bc3bf69b2644e2257aa87283" data-core-metadata="sha256=0116715472a2824859796eebabef398b81f4c639bc3bf69b2644e2257aa87283">feanor-1.2.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9e/4a/39547902c611097f7584f453c128cfd63d96cbee715762de0bf4a2fdcfe1/feanor-1.2.1.tar.gz#sha256=8b41489889fee5abfabb246f57f9eeae894e0b888528f60462857237357757d5" data-requires-python="&gt;=3.10" >feanor-1.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/09/5347bd881e6b1bf09c67bbea665d2982a7b9061057773966abfc79027088/feanor-1.2.2-py3-none-any.whl#sha256=88312fc57849633dfbcf1d9764c7d18eba31f190c1ad3a1c2e2e51f67756ba05" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=3445e00fac1216dc96f06346e0624e8f9f269815379669dcadf8e09b587c7a53" data-core-metadata="sha256=3445e00fac1216dc96f06346e0624e8f9f269815379669dcadf8e09b587c7a53">feanor-1.2.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/90/ca/1098a8b9e9fb5fd57cae19bb5b88de3d834b303740692a69d313611c800b/feanor-1.2.2.tar.gz#sha256=02e0005da2892d5e3351c21b9d64e54e54cb5fcdea2c4bdb6482b739a685324f" data-requires-python="&gt;=3.10" >feanor-1.2.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/50/cb/3009f15516648563a80755757b52550615b0f652dec1b305a0fd323c72d9/feanor-1.2.3-py3-none-any.whl#sha256=580a497080ab6bb594213b933233431ada949c4a82227b1755cbe5e06edba645" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=25065c81e36e8a2169e55310d73803d90d218be00eac5e023b7ad9d572801c3e" data-core-metadata="sha256=25065c81e36e8a2169e55310d73803d90d218be00eac5e023b7ad9d572801c3e">feanor-1.2.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9e/3b/2102b708f32803c53df5b6a93faec90ce2cf950881d7351a7ba053187667/feanor-1.2.3.tar.gz#sha256=0f5c2e88b88f334191edd8e47deb2ebcf3ac7b5ffe685139db8d4f5ad6e0d03a" data-requires-python="&gt;=3.10" >feanor-1.2.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/27/ec106aa68f7106fd6e767515f9258c2b054b72a1155fd0843c657b2ca708/feanor-1.2.4-py3-none-any.whl#sha256=cb043edbf7a66dcb5a021b23824426ee9896e6af54768c75220d9d00e10233ff" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=982d823d1256e4ac59662fdce0f3d393fac6c30047e96b546e47376c624a3f5c" data-core-metadata="sha256=982d823d1256e4ac59662fdce0f3d393fac6c30047e96b546e47376c624a3f5c">feanor-1.2.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/bf/3f/e813958ba981ec1e24691e558b1bc0ca5b8c0b33966534c472f1e81ca526/feanor-1.2.4.tar.gz#sha256=bae6395b41947bde554d5a8e059a1b1e7950e7da17146f55ce9d26ea79e5ad69" data-requires-python="&gt;=3.10" >feanor-1.2.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25492403-->
+<!--SERIAL 25651785-->

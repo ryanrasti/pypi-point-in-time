@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for great-expectations</title>
   </head>
   <body>
@@ -540,6 +540,8 @@
 <a href="https://files.pythonhosted.org/packages/ce/0b/271276bfd11db2d8969fb826251094923a770de94a80efc1b5c7f2ea4951/great_expectations-0.18.20.tar.gz#sha256=3fd0193dc27f0d94b9c52156005b8ed4988c07676bdff5d12f4ddc112ee347a6" data-requires-python="&gt;=3.8" >great_expectations-0.18.20.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/bf/8e/1e4d03f8abf04947796ebcb45f3d4dc2702f6c3a700ff64b7b354962bd46/great_expectations-0.18.21-py3-none-any.whl#sha256=b4f1b6946966349d9d4cc7e1cd7c13284659cbcc16ba122138c867be18132c81" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=dbe0b1f9f4ae69a4321bf2adb1de61743d62ad8c7029314d0c537a9c17f33d84" data-core-metadata="sha256=dbe0b1f9f4ae69a4321bf2adb1de61743d62ad8c7029314d0c537a9c17f33d84">great_expectations-0.18.21-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/4b/58/2c749a2272525e23775297a8303eed5f143e47f4247bb81a328bc7cb98b2/great_expectations-0.18.21.tar.gz#sha256=6ba4a722109db3308c5f4fbea4cb26097d2372d35a28634be4d39d331aab0d72" data-requires-python="&gt;=3.8" >great_expectations-0.18.21.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/48/ad/68c55d2b0df64f843306446a49b4a5edda251248b2fce122b43e6aeebbec/great_expectations-0.18.22-py3-none-any.whl#sha256=2980bb31172d1f5ae741cc99992e7a9fbacb55d60d503d8ffed57f3ebd5b3a5f" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=704b029f1c5f77cba58a867254905728feb87a7d116806cfba8d76a9f30d1068" data-core-metadata="sha256=704b029f1c5f77cba58a867254905728feb87a7d116806cfba8d76a9f30d1068">great_expectations-0.18.22-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/93/c2/020af2512b0482ccdb833b816568bb66ad41d8a4386252a3161323b656cc/great_expectations-0.18.22.tar.gz#sha256=fc7008ddb55bda37ff9e8f3e3030e65cda2b73eb0e3b0f346454385f7f9e918b" data-requires-python="&gt;=3.8" >great_expectations-0.18.22.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/28/22/39039d90401023b9f0d60a1e185f80db0a9d7910473456880c4b662f129c/great_expectations-1.0.0a1-py3-none-any.whl#sha256=38762dc202f0e1442808585dd4362fde302322182d6f1674b13180356afbb909" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=8e45bd77b06e5b113507a78896c9fd891435559cfeeb1b85f1e11cc2c5472445" data-core-metadata="sha256=8e45bd77b06e5b113507a78896c9fd891435559cfeeb1b85f1e11cc2c5472445">great_expectations-1.0.0a1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/6f/58/071d97ff75905da8056b6d5c072b6086ca63fd11c4ba4539878fe1fe2412/great_expectations-1.0.0a1.tar.gz#sha256=3697a3a1d7e6d8dbc8ce9c067f5fe3c97b808c6856919375bc802aab2363458f" data-requires-python="&gt;=3.8" >great_expectations-1.0.0a1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/4b/f5/696953158b1cebd176c1357b6cda646862ce9e878a0badb86c8bf075c5ef/great_expectations-1.0.0a2-py3-none-any.whl#sha256=60117c5249418f85c2ee72226fdfbd5609bd58ad86bcd1de9f04ba73af45f02d" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f713fb00f3975ab0e2a520a03fb93069b37832b263059fccef51e740b878d603" data-core-metadata="sha256=f713fb00f3975ab0e2a520a03fb93069b37832b263059fccef51e740b878d603">great_expectations-1.0.0a2-py3-none-any.whl</a><br />
@@ -574,6 +576,8 @@
 <a href="https://files.pythonhosted.org/packages/bd/fc/3f61f181c259d09224007c0e226871845ccb2d093be79a707a7f2bd6a5ee/great_expectations-1.1.2.tar.gz#sha256=c45d3133198d3682837b6a05bf6adfa3142d031abe7e97e7c736a2ae16a59087" data-requires-python="&lt;3.12,&gt;=3.9" >great_expectations-1.1.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a3/1a/67ee00e6292e337f8d68b16969963d53f16e03dda2341237acf91ada283c/great_expectations-1.1.3-py3-none-any.whl#sha256=d2c28b40be39e15edebb27ad1627c02519ca64e68a1bcd4fa6dcb23395777d08" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=c6a19a53319202fae92ce0ed84ea617c4f10070d835464aac9b807782e25c8cc" data-core-metadata="sha256=c6a19a53319202fae92ce0ed84ea617c4f10070d835464aac9b807782e25c8cc">great_expectations-1.1.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/2f/59/e8b8126ea94e50aab1fe6582d8fe7221297510fbe66eb927563d04434576/great_expectations-1.1.3.tar.gz#sha256=5f1051eb3ba251a68f3bda3f043796c81f2aafffb935abeae62d584421d4a1f4" data-requires-python="&lt;3.13,&gt;=3.9" >great_expectations-1.1.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/02/1f/00e0b23b633b058bb310f0d54422dbf488745a7c49ec817bf9b51f8b1a7b/great_expectations-1.2.0-py3-none-any.whl#sha256=f54eec5e9dee809edb26959feeeae4af2a5c29d05767806da91eda36df90435b" data-requires-python="&lt;3.13,&gt;=3.9" data-dist-info-metadata="sha256=afa480f2d3fe35d7cb2b4a862604285da05fc46c90d9d8198862e5d3caf5a773" data-core-metadata="sha256=afa480f2d3fe35d7cb2b4a862604285da05fc46c90d9d8198862e5d3caf5a773">great_expectations-1.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/58/fe/5b034f56358945e5533f04b99a7f0d399bf3250c710e0a9b65f63c2a944b/great_expectations-1.2.0.tar.gz#sha256=77c0813a711254c7dbcbe1d70e89761a58027e7010c570920f680e78c5d6c9d0" data-requires-python="&lt;3.13,&gt;=3.9" >great_expectations-1.2.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25496871-->
+<!--SERIAL 25673780-->

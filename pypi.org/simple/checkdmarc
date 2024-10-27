@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for checkdmarc</title>
   </head>
   <body>
@@ -204,6 +204,14 @@
 <a href="https://files.pythonhosted.org/packages/62/36/d6c60dd39dab96cbd9e5621da9723d3375d371bfe0f66cb3da709d026482/checkdmarc-5.4.0.tar.gz#sha256=ede39e1b34356b3d54f36782970b3c77bc3866348362587b61be5d88e8e7b460" >checkdmarc-5.4.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6f/86/3cb18b95b39c9fe7893c7a016bc8c2a1983e60dc90754db91a13847fc337/checkdmarc-5.5.0-py2.py3-none-any.whl#sha256=a97da2061c2774370fd7e4ea56b2387f08b2d34c618a83607f453219b7108853" data-dist-info-metadata="sha256=8c8a0a461988982f89d5da4de5fbe5c9225c2273a19f1c2d27f789a478c51f65" data-core-metadata="sha256=8c8a0a461988982f89d5da4de5fbe5c9225c2273a19f1c2d27f789a478c51f65">checkdmarc-5.5.0-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b4/f3/0e4108ec0939ed21524e8fb2638725cca48ae750a837b09d3f6695092419/checkdmarc-5.5.0.tar.gz#sha256=d775f566f8fdd584adb9a26e792cfe1565cdf6bd50c54fe7b6d8443ce6db68cf" >checkdmarc-5.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7e/7f/dc76999683cc223e895bfb0988372be99e10d7727da265c21b371c735f0a/checkdmarc-5.5.1-py2.py3-none-any.whl#sha256=6bfd64c6db837c86e3b5c9268576585adb9f5bfcf3e9c5e9a3db104c27f8a3ff" data-dist-info-metadata="sha256=32c1443d084b08862587f14b60d91a37a9e72650d62c46bff66d86f6df7f94f8" data-core-metadata="sha256=32c1443d084b08862587f14b60d91a37a9e72650d62c46bff66d86f6df7f94f8">checkdmarc-5.5.1-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/49/e6/5b7db5d9ac471ab6d6666f5e0b4c2a05cb75055463ad3153e9db0a02b998/checkdmarc-5.5.1.tar.gz#sha256=be568c1b2bb939fa450ecf21e9437a224d8c41f39112e5005addcec8a5e75ef5" >checkdmarc-5.5.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/31/34/dcab8e98c43799642638ef2876ebf4dd29729fcbae83ecfa398e9cc6c71f/checkdmarc-5.6.0-py2.py3-none-any.whl#sha256=1b3da6ff8dfe7dc60d7c60cd5679a935a82984ac6e9d1b7df43e083eef281202" data-dist-info-metadata="sha256=df3dc0dd421c2bb8f42e31ac52bb67bc150925ca51add417ce79233d592a981c" data-core-metadata="sha256=df3dc0dd421c2bb8f42e31ac52bb67bc150925ca51add417ce79233d592a981c">checkdmarc-5.6.0-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/18/30/0bdb0b73aea1fa638e249c938e37edd2133ba049c3e8535bdcda163a93ec/checkdmarc-5.6.0.tar.gz#sha256=4c6e03358ad3ba31c970327dd2a4feb2131684079e60c0463f7e501e9ea4b19c" >checkdmarc-5.6.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/5a/71/9cc6161c6b4e44dc77c62464b8d28446175d4df1b0081c21bf6cec75a4d1/checkdmarc-5.6.1-py2.py3-none-any.whl#sha256=9e056cde75ddfd4c281b38cd9614611ab67eb0a54547300323067494573121a0" data-dist-info-metadata="sha256=9bd5f7ca11edb97ddd95b52c65c4a42523fed046666a13e215ce288a01510aca" data-core-metadata="sha256=9bd5f7ca11edb97ddd95b52c65c4a42523fed046666a13e215ce288a01510aca">checkdmarc-5.6.1-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/ee/d1d51de316e7fc33aecd68e6dd54936daa8047c59928bb8b4e9ea28a06b5/checkdmarc-5.6.1.tar.gz#sha256=df96a46ae5bc9624615467f0e327a10a38e55c8ab2ddbd6517360888ad5e63ea" >checkdmarc-5.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ce/a4/ef83b1c727320ef141743d2ba0916dfa59f3af686ffe9e74b552415a4bca/checkdmarc-5.6.2-py2.py3-none-any.whl#sha256=ae29739b130f5f53b7c7a7a83a6834f604ad233d43e0be5d5b444fdb2ef12a26" data-dist-info-metadata="sha256=1871c8a078f06a308ac3edeb643e89d8649e6af7e692939a9f1ea2c5ec5cc50f" data-core-metadata="sha256=1871c8a078f06a308ac3edeb643e89d8649e6af7e692939a9f1ea2c5ec5cc50f">checkdmarc-5.6.2-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/93/a4/376826eff1d7ed93a2b50c9909551a1d700b7faabfa2171a91319c23a29d/checkdmarc-5.6.2.tar.gz#sha256=e4b3aed8d77597c03f2c67629c06ff82845ef05b6331c268590f3f80184d5897" >checkdmarc-5.6.2.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 24587663-->
+<!--SERIAL 25686815-->

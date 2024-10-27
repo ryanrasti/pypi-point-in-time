@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for devsim</title>
   </head>
   <body>
@@ -109,6 +109,10 @@
 <a href="https://files.pythonhosted.org/packages/52/74/c312bd2b5bd6a4aaead53510c715cc27c1156ab67ac96178a6b9fc48ca3e/devsim-2.8.4-cp37-abi3-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl#sha256=0d80a19b2c561e78c3d11ba11cfc7e5a9c160aaf58977f7e98c215c22342b4bb" data-dist-info-metadata="sha256=9204d79616e59538faddc6b2b7be35d5e4f029d528c8b14b16adc775aa4f60e6" data-core-metadata="sha256=9204d79616e59538faddc6b2b7be35d5e4f029d528c8b14b16adc775aa4f60e6">devsim-2.8.4-cp37-abi3-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/be/1d/f01e847999c250034ae003b4e82109c93ff2f957de65674e4a02fc91b71e/devsim-2.8.4-cp37-abi3-manylinux_2_28_x86_64.whl#sha256=80f35aa4c0fadc59146ef440c54208a2347cb74f458591342565a61c4e0fcae9" data-dist-info-metadata="sha256=9204d79616e59538faddc6b2b7be35d5e4f029d528c8b14b16adc775aa4f60e6" data-core-metadata="sha256=9204d79616e59538faddc6b2b7be35d5e4f029d528c8b14b16adc775aa4f60e6">devsim-2.8.4-cp37-abi3-manylinux_2_28_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/16/a2/3bba022d35d4ff78e654f158d1053f0b89a5b3c43a9fac74d6719ff8b992/devsim-2.8.4-cp37-abi3-win_amd64.whl#sha256=8d1a70856a53872e61c6630c635016e3b193e3f37756d36827e09c4b81e6a5fc" data-dist-info-metadata="sha256=428dbdb7f1d3b64855b72b20f42d75bb74cd21f38df10039d7cde94a15db607f" data-core-metadata="sha256=428dbdb7f1d3b64855b72b20f42d75bb74cd21f38df10039d7cde94a15db607f">devsim-2.8.4-cp37-abi3-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/2b/0f/77957c5d67ad20876067b619f1d88cd8ccdc659f7b9c0f0fa0e32ad22c68/devsim-2.9.0-cp37-abi3-macosx_12_0_universal2.whl#sha256=3d06a1791157a53cf0b0ee15dd310d46ef557075b54ae2eed1cefbe951a3549c" data-dist-info-metadata="sha256=9f5f69240edbd9e89146f1b98647197e4dd45f575cdf0b94c2fd9e8925a40d74" data-core-metadata="sha256=9f5f69240edbd9e89146f1b98647197e4dd45f575cdf0b94c2fd9e8925a40d74">devsim-2.9.0-cp37-abi3-macosx_12_0_universal2.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/69/14/b45e0e6f3ece8dcda6040b0b8dff078f29ea280d2cc63151bc08ab668e63/devsim-2.9.0-cp37-abi3-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl#sha256=8a86f89ce3c9672d3bcde2b02edf9dff55eb7699aae56afd9de0f565aa73fce1" data-dist-info-metadata="sha256=9f5f69240edbd9e89146f1b98647197e4dd45f575cdf0b94c2fd9e8925a40d74" data-core-metadata="sha256=9f5f69240edbd9e89146f1b98647197e4dd45f575cdf0b94c2fd9e8925a40d74">devsim-2.9.0-cp37-abi3-manylinux_2_27_aarch64.manylinux_2_28_aarch64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ed/4b/5a046753b67a797c7ccc2c8ad28a901bebc0cba12f5f0aa3e427e4f916dd/devsim-2.9.0-cp37-abi3-manylinux_2_28_x86_64.whl#sha256=28e3aadfdb546a012e78d528f18eb97e465ae1993d26e97052bab36e09213c43" data-dist-info-metadata="sha256=9f5f69240edbd9e89146f1b98647197e4dd45f575cdf0b94c2fd9e8925a40d74" data-core-metadata="sha256=9f5f69240edbd9e89146f1b98647197e4dd45f575cdf0b94c2fd9e8925a40d74">devsim-2.9.0-cp37-abi3-manylinux_2_28_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/20/a2/a012f52d7ff1a0253d280244d2bbe9f889e693ef4f0c34b467d1e65ffa93/devsim-2.9.0-cp37-abi3-win_amd64.whl#sha256=8e734f7e698cb6984628bb336f6479d7acff29479701a3e68d4f9cb54453ba0f" data-dist-info-metadata="sha256=d6de24b371931bdde76ec218429f127a56308d4ef832c7b99c39d998eefbba85" data-core-metadata="sha256=d6de24b371931bdde76ec218429f127a56308d4ef832c7b99c39d998eefbba85">devsim-2.9.0-cp37-abi3-win_amd64.whl</a><br />
 </body>
 </html>
-<!--SERIAL 25163894-->
+<!--SERIAL 25581268-->

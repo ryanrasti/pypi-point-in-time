@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pulumi-docker</title>
   </head>
   <body>
@@ -632,6 +632,8 @@
 <a href="https://files.pythonhosted.org/packages/f9/1a/2276005ea8ea079c5ddb0c471b1c91bfa4a18fd8c525103fecbb3542a543/pulumi_docker-4.6.0a1729186940.tar.gz#sha256=70de8bd73c7260a8605605077f51da45e177073b172044ac28d2000cc606a26a" data-requires-python="&gt;=3.8" >pulumi_docker-4.6.0a1729186940.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/4c/e0/bf5e34c51a334dd2be5792e342d3ebd585f8755c8b185dc3c963625913ec/pulumi_docker-4.6.0a1729195671-py3-none-any.whl#sha256=6d224fb387739a918fbd2c0e56860616662b9a7fb21dfa97c4e4bfca68395f30" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=b0b68f4f128b3750ed94bee89b916ed120cde1682b5aefa7a451a7d86354a7f6" data-core-metadata="sha256=b0b68f4f128b3750ed94bee89b916ed120cde1682b5aefa7a451a7d86354a7f6">pulumi_docker-4.6.0a1729195671-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ff/2c/a258822f2e4c0f8492dce8e152b2aa0a405ddbc80b096aea4ee8af86a3bc/pulumi_docker-4.6.0a1729195671.tar.gz#sha256=1ab1fb591e4533e2d5ce557464de3be9c4047a51bd24340996f34f986af21e1f" data-requires-python="&gt;=3.8" >pulumi_docker-4.6.0a1729195671.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/19/c5/00325c9d0e26fed60a63bd2e23db8b5b2d25af7c2073337fac2acd246c67/pulumi_docker-4.6.0a1729881707-py3-none-any.whl#sha256=9ac13afe38a01e1e783c4b8c23b9a6fb15fd6639770a033ae55d60c8c52b9c1b" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=08c62df7cfa7e1125e858dbcbb4d552bbb7f16c198e164d3d5ce03c46ee8c7a3" data-core-metadata="sha256=08c62df7cfa7e1125e858dbcbb4d552bbb7f16c198e164d3d5ce03c46ee8c7a3">pulumi_docker-4.6.0a1729881707-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0e/c9/5fc51ef0bb22735a3a0c637bca9d0d97d59d7a36e4c34c7740ea5b486659/pulumi_docker-4.6.0a1729881707.tar.gz#sha256=c68f68db7bdabbf2ee54d209b65b467ef9f75c3e9dc840289aaf61b12717fb21" data-requires-python="&gt;=3.8" >pulumi_docker-4.6.0a1729881707.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c0/b4/3ed6291c4dcf86da79b8d913dbf83ad5f82a27cc5560f98de45a2448193f/pulumi_docker-4.6.0b1-py3-none-any.whl#sha256=0e62fa2dffffc81ff29b99f863ae21f6e5116e700b3a45e6074c9cce6d5346c1" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=83dea9d0033567e0c9b0f53fd8ef49118c6c127a00bab97b72edba11497dbd3c" data-core-metadata="sha256=83dea9d0033567e0c9b0f53fd8ef49118c6c127a00bab97b72edba11497dbd3c">pulumi_docker-4.6.0b1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/c6/d9/2d25d175f8ab3d160096e262df511fadcc8b247db1fa02af9493198a0e59/pulumi_docker-4.6.0b1.tar.gz#sha256=b2860038987258c7bd9a13a98cc0e50646cf2fb5e47d19ef72aa7fadc5db9de4" data-requires-python="&gt;=3.8" >pulumi_docker-4.6.0b1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a4/25/18c438f32ee23f722bd38d08579cb2ce1a7f6e29beffa006fdc2a3b8dbb0/pulumi_docker-4.6.0b2-py3-none-any.whl#sha256=fda4fe1cedabb2073bcb3ca9e3c3d37fcfe27ec2c5f2fb79a3993933534fd948" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=f1a63096eecc3404f445082b1ccc2d426c82904035d410128bcf2d75fd92efec" data-core-metadata="sha256=f1a63096eecc3404f445082b1ccc2d426c82904035d410128bcf2d75fd92efec">pulumi_docker-4.6.0b2-py3-none-any.whl</a><br />
@@ -696,4 +698,4 @@
 <a href="https://files.pythonhosted.org/packages/3a/93/a866b50173039bae813e131505cf7ed97c33cb79c113926b2b63dfd1caf2/pulumi_docker-4.7.0a1705628423.tar.gz#sha256=692d96cd604f475579a98540858f79e3e9114332ba0028f074f8e42b2ae6adfd" data-requires-python="&gt;=3.7" >pulumi_docker-4.7.0a1705628423.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25535107-->
+<!--SERIAL 25674774-->

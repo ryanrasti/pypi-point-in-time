@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for memprocfs</title>
   </head>
   <body>
@@ -182,6 +182,12 @@
 <a href="https://files.pythonhosted.org/packages/81/24/ca6c567d91b8b3d7220b754a1bc4f6d26858915797b4a3ec04c763105fdc/memprocfs-5.12.0-cp36-abi3-manylinux1_x86_64.whl#sha256=8600600c659daaad6331dd78936186be914af7fea02eb5287e634afdb636265d" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=9608ff9193e3a77d50c4a99cfcebe89c37a665e2430ac355146ad82ced7298c6" data-core-metadata="sha256=9608ff9193e3a77d50c4a99cfcebe89c37a665e2430ac355146ad82ced7298c6">memprocfs-5.12.0-cp36-abi3-manylinux1_x86_64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b2/2e/ff663c5d7c8f49dfc2adce25e36492b72d61ed62d00be364015de14acf20/memprocfs-5.12.0-cp36-abi3-win_amd64.whl#sha256=5199e94936e067c042dcc9ea369657a1a23fbd5cbf9b29967afe6caccfc1bd71" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=94fc3ec533f75e80c4956561797cd84077122996820bc411009dc6483b723180" data-core-metadata="sha256=94fc3ec533f75e80c4956561797cd84077122996820bc411009dc6483b723180">memprocfs-5.12.0-cp36-abi3-win_amd64.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/3a/55/05c949505df472e6e57fb40f7cc350a5731793d31272cdc8f73efe518a9b/memprocfs-5.12.0.tar.gz#sha256=739160ca0c09488e0572240bab462c2e7c55f3e38f46f3c5e6a76fe3e3b289a7" data-requires-python="&gt;=3.6" >memprocfs-5.12.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/07/e0/8cd3d87b51f80a58aec89e3539311dbd20a1bcc0d0185419fac0fe0f1e7f/memprocfs-5.12.2-cp36-abi3-manylinux1_x86_64.whl#sha256=db70e3a8e07b1f4e5b489e3faf89bf1abb3435fdbbc5e243d38c39bd265fab80" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=54439e2ab08a92631d2d0d387d8986e51ad739bc0d8d44e9b3380a8d9c5f1ca6" data-core-metadata="sha256=54439e2ab08a92631d2d0d387d8986e51ad739bc0d8d44e9b3380a8d9c5f1ca6">memprocfs-5.12.2-cp36-abi3-manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5b/ba/86fab28855311a58ad6b7a0651c31e9e6c29311940f5b6adb9a74cdb4896/memprocfs-5.12.2-cp36-abi3-win_amd64.whl#sha256=f8ee7a97c2fbde61ededcc4ad4326388bde1cd5efef1a79ea0c0e379d8683250" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=411ada4605f16c997f369389f2fc400d25fe37af585e1921a0036d6dc46178a0" data-core-metadata="sha256=411ada4605f16c997f369389f2fc400d25fe37af585e1921a0036d6dc46178a0">memprocfs-5.12.2-cp36-abi3-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d0/e6/3d9626edd84b2ceb9c34b7ca8d20bbc100ec7a134b543ec578c05c67d576/memprocfs-5.12.2.tar.gz#sha256=b6309e31314cac24dcbd5f70e92010a80f8bc03f8d25e4d9dca7820fb0b5b073" data-requires-python="&gt;=3.6" >memprocfs-5.12.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/33/fb/c41f7e5d6c6759f471b77469cd1820c2f93ef3c60010c022b26a3f88ecc8/memprocfs-5.12.4-cp36-abi3-manylinux1_x86_64.whl#sha256=19de97d21755fed6b61be96a2b37d9753594030848d71c880c85db82f8f4ed0f" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=c30f6d5f0b9af1c1c10fe529bd5994d303fccf9ed39531d683c1867f924539a0" data-core-metadata="sha256=c30f6d5f0b9af1c1c10fe529bd5994d303fccf9ed39531d683c1867f924539a0">memprocfs-5.12.4-cp36-abi3-manylinux1_x86_64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/13/6b/fe6cf2193880cf35693901f59044a626fec06175d2a9aac409510e451a38/memprocfs-5.12.4-cp36-abi3-win_amd64.whl#sha256=1cca5dc3d90821628267e2dbd095659725f61014e6facacd31f6cb5bab461d98" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=4d622a38bb6e228fafdf057fecd9422784f0b173266a2ae70d17689f53d60b92" data-core-metadata="sha256=4d622a38bb6e228fafdf057fecd9422784f0b173266a2ae70d17689f53d60b92">memprocfs-5.12.4-cp36-abi3-win_amd64.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/0a/fe/9069014b7d1f5b0063e0ca7455d01489fd1831d5d632733b73c8ebfc7001/memprocfs-5.12.4.tar.gz#sha256=bd3182d1f3c8a85e8e55f6bd1ee5b95b607b3c1201d6379e567a0b1222a38489" data-requires-python="&gt;=3.6" >memprocfs-5.12.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25404102-->
+<!--SERIAL 25616032-->

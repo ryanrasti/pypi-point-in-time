@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for pyquocca</title>
   </head>
   <body>
@@ -24,6 +24,14 @@
 <a href="https://files.pythonhosted.org/packages/6b/fc/2f52d5dccc4714dae0d384910e3823aebf2c3eb0d6a98f62dd7ad9c787f5/pyquocca-0.0.13.tar.gz#sha256=c6c983303af6f29487aea4f0bad45fa7a3777f5c3cd15a85d6e84878ed8bbeae" data-requires-python="&lt;4.0,&gt;=3.9" >pyquocca-0.0.13.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3c/2d/d8661a4230a9ce8eaffa8401934c64dcb7485454544eb044c1bee2f54e70/pyquocca-0.0.14-py3-none-any.whl#sha256=0adaa09ce8719a49ddc5805d3b3bbe8a295e1a6ebb9924d8d550cc034facaa9a" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=1b3a7e4e04c8884a4e91e500c3efc7eb44dc47d24369acbc0b2d704a9153c793" data-core-metadata="sha256=1b3a7e4e04c8884a4e91e500c3efc7eb44dc47d24369acbc0b2d704a9153c793">pyquocca-0.0.14-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/74/24/533215b9c0d9ded7449026972fa7e0047c752408f1bd849b8c80cf50d95f/pyquocca-0.0.14.tar.gz#sha256=b599c2e58851ae6c28d23ee538e40d574422cefc5807d41fa8d2af3c747a31b1" data-requires-python="&lt;4.0,&gt;=3.9" >pyquocca-0.0.14.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/d6/6c/b25430fff5105f61ad47eb3f11fc9bf2efcbdf051433442a2b3a0154f7f0/pyquocca-0.0.15-py3-none-any.whl#sha256=235212f073b2a9f23b9ff65197bfeb07851f0daf02e293fa2966d42379ce33d6" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=27bae7fa3b35b6845c2f1e6536cfdbe7795d6d926f54b383d918cd73297c486f" data-core-metadata="sha256=27bae7fa3b35b6845c2f1e6536cfdbe7795d6d926f54b383d918cd73297c486f">pyquocca-0.0.15-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/ca/b4/d9c94048ec59b9b8634cd804a770ea47f49d23654cfeacd6a741286f7ad5/pyquocca-0.0.15.tar.gz#sha256=54b1894d73f75c479f94a8b5a968ecd317231a9ac8209210d6e58fdb4b02b80a" data-requires-python="&lt;4.0,&gt;=3.9" >pyquocca-0.0.15.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fc/62/f027e81ab219106c07451d317deeb5a4db76c98932ef658b584e2b0995fa/pyquocca-0.0.16-py3-none-any.whl#sha256=5450ece4654a37a9f88e3c5275f0607d6f0e888f5eb0752ccaef4d40aa6bdd54" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=fb54bac819fed7bb14f423b871ef82df396cf702bd8109989b2842841b82bde9" data-core-metadata="sha256=fb54bac819fed7bb14f423b871ef82df396cf702bd8109989b2842841b82bde9">pyquocca-0.0.16-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/28/ce/fa7d6cf23a5472c93e072549053710c8ee0255a74cf899f7510522e60d90/pyquocca-0.0.16.tar.gz#sha256=236de1124e6b4f4e1b357ea67c985158004ff431536ab0b2c1830c839660b185" data-requires-python="&lt;4.0,&gt;=3.9" >pyquocca-0.0.16.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/22/cd31904d7b1131371962d62f93992417a9a20e91468924b9c600a16930e1/pyquocca-0.0.17-py3-none-any.whl#sha256=b5d135f74f54cd180ca0fbd292d3ca010ca7a56600853d083bf3dd798d7d8cea" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=f163d61e4d5abd95685378563f31ca1445cdac166ff010fe01503767edfe5231" data-core-metadata="sha256=f163d61e4d5abd95685378563f31ca1445cdac166ff010fe01503767edfe5231">pyquocca-0.0.17-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/e2/e1/f257a0aed8f5da2041e8e20c1a8dd482c8c32962b0c5a3cb4820930f5b90/pyquocca-0.0.17.tar.gz#sha256=fb5a773efe317b2a89ee97ac3d200c255504048a199e14255f5ba7f191227d6e" data-requires-python="&lt;4.0,&gt;=3.9" >pyquocca-0.0.17.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/86/7d16515e40d7964756b09d291c3a5bd3c73410e697e3f43a72dcaed6659b/pyquocca-0.0.18-py3-none-any.whl#sha256=054098463bfbbda9421510513379d881415baf6c2065c3e1cac6972450cca8de" data-requires-python="&lt;4.0,&gt;=3.9" data-dist-info-metadata="sha256=8db17a0a06b75a7763d751d3ebc9a14756982525254d2ffbfa35a4aefe2e0027" data-core-metadata="sha256=8db17a0a06b75a7763d751d3ebc9a14756982525254d2ffbfa35a4aefe2e0027">pyquocca-0.0.18-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/7d/73/4dfbf60dd4a445d22ab6d2911cdb3f0af9aec2ecf2cec74f7d23186d4edb/pyquocca-0.0.18.tar.gz#sha256=2ecb1b6c6de258186bbe48f18e2582624623d7536a9fff372e3c12600e39c9ae" data-requires-python="&lt;4.0,&gt;=3.9" >pyquocca-0.0.18.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 22664486-->
+<!--SERIAL 25663192-->

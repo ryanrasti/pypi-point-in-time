@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for latexcor</title>
   </head>
   <body>
@@ -44,6 +44,16 @@
 <a href="https://files.pythonhosted.org/packages/84/8e/8dbc3ed0f2b4ca521243bba273b2934539b3bc1553ccc006c82b50d2bfbe/latexcor-0.1.17.tar.gz#sha256=83ebc3e5f050a3e29958bb4bcb0058b90cc4f16a03e23d24b42ea03812ef00b3" data-requires-python="&lt;4.0,&gt;=3.8" >latexcor-0.1.17.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/22/55/9403c5a6a5f163bf7abd6a4a5d021770afe42c781e2d64ad553447347979/latexcor-0.1.18-py3-none-any.whl#sha256=b5eeb4fd8b7f072ad5a157eca0eb87e0cd7605b924097777543597d39b6577e5" data-requires-python="&lt;4.0,&gt;=3.8" data-dist-info-metadata="sha256=8cf76ff8130dfef4a1e4e07b6f7d4ae3740daec6b0a0141606a9be29b877f933" data-core-metadata="sha256=8cf76ff8130dfef4a1e4e07b6f7d4ae3740daec6b0a0141606a9be29b877f933">latexcor-0.1.18-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/cd/c7/b255d39e664da94d63a22c3d71ceb061a281a1b9ce9dd02ca554b89ffaba/latexcor-0.1.18.tar.gz#sha256=8ba745db38fa3ca64041b383e709e6a1a926ac2828dd46ec452438e65a486a78" data-requires-python="&lt;4.0,&gt;=3.8" >latexcor-0.1.18.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/8c/e0/90745ef6b845daba269694e0e45ee0c575c190552ba64783694ae3584b40/latexcor-0.2.0-py3-none-any.whl#sha256=9a8ba92c533eb8159d0d7fadc2a90c51d1ea613714a0744a16679465ceb09bc5" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=3a81ea99cde6f3d2b359f7322fe835b96ed9ed833393a6e1ba4aab624c5ec182" data-core-metadata="sha256=3a81ea99cde6f3d2b359f7322fe835b96ed9ed833393a6e1ba4aab624c5ec182">latexcor-0.2.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b8/93/8c124e59256ce0753ea2503e49b34a9a5d3c74cc0a0019b66a4229c62f66/latexcor-0.2.0.tar.gz#sha256=3c3a53c4549d1129c1dfdc8626d7b4c0a276a5ff31d0e684966eccc8f6396af5" data-requires-python="&lt;4.0,&gt;=3.12" >latexcor-0.2.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/33/0c/e227cedcdbcb35a454563df9a12f073f3e84fa0c3c7f0af6280dcbbc9ae4/latexcor-0.2.1-py3-none-any.whl#sha256=c263b01ef0585cc12b9755426778db9619424bb25f258f7bdf557c3f3a432e23" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=bfcf47c351ff2530325fbe666fa9e069c07dc0c7a94208cb81f877750ebe5bff" data-core-metadata="sha256=bfcf47c351ff2530325fbe666fa9e069c07dc0c7a94208cb81f877750ebe5bff">latexcor-0.2.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/d2/19/8b341ffbde7cdafc0b05e1cbebb56897e02aaa1610e2a4e665497e2a414f/latexcor-0.2.1.tar.gz#sha256=2ee55abfb13c5b9a6a0a72b2b777e532c75793e55376b1810b665f635d5b7c5d" data-requires-python="&lt;4.0,&gt;=3.12" >latexcor-0.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/ac/17/e95a449bee8a356b225fb55ffeccce588114e4f7769654070b7a0b4936a8/latexcor-0.2.2-py3-none-any.whl#sha256=996b9c2714ef1d0347561d1d694dec95977b4176d01fb632e853cb35285c1685" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=b1e6dc33b7dd05f333479a1606d48806bb99def03b0ae8936051aabb11c88986" data-core-metadata="sha256=b1e6dc33b7dd05f333479a1606d48806bb99def03b0ae8936051aabb11c88986">latexcor-0.2.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/52/89/c6ed39b0f8a9e9e1c364ae3d99f9136dc4a7353401d0a82b0a200c3dc36d/latexcor-0.2.2.tar.gz#sha256=22461738699afac4ed7b454136989a1c331d93bff12a2d3034c0f4d52520698d" data-requires-python="&lt;4.0,&gt;=3.12" >latexcor-0.2.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/e8/58/46ae584380cb2f95fbb9f70d377e41421d02b09b4abff2723be8b6c1740d/latexcor-0.2.3-py3-none-any.whl#sha256=58cd8be716398acb640a24fb3fe13706b114856d7a0e98e96bfbe7f8d3d4d30a" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=4294eec562f60b11eabd612992b3a085efb4a3b0ffb3b0df469d3ea22c655322" data-core-metadata="sha256=4294eec562f60b11eabd612992b3a085efb4a3b0ffb3b0df469d3ea22c655322">latexcor-0.2.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/56/90/08ecdac71a00791f953665a66489bc98ac465d69a378381902fa57f88157/latexcor-0.2.3.tar.gz#sha256=6ca17b522dbbbf01877beef79b91ce313855e2a87c93c67ff9c0fe3892853b93" data-requires-python="&lt;4.0,&gt;=3.12" >latexcor-0.2.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/bc/2d/fb96b96f3ea353f3719fd158b473e1103b27eae5271edea9d9e6a2c454ce/latexcor-0.2.4-py3-none-any.whl#sha256=e120ec69104cd6720b32da4c6c6de54fecc5d4f61de2e7eb2c39c9532dc9d796" data-requires-python="&lt;4.0,&gt;=3.12" data-dist-info-metadata="sha256=43a78048d3abf2843409edf6ea8f1e4f60824a57c903943cf8e941d447c10859" data-core-metadata="sha256=43a78048d3abf2843409edf6ea8f1e4f60824a57c903943cf8e941d447c10859">latexcor-0.2.4-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/10/98/0d149466015fcb7c0596fd5d9e18a08386f8e4b211fee738191cf67ee878/latexcor-0.2.4.tar.gz#sha256=e47cf0e17c4e9ed0588b5357243fd64187b158b646364e8f4310e18272c15a32" data-requires-python="&lt;4.0,&gt;=3.12" >latexcor-0.2.4.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25379558-->
+<!--SERIAL 25664383-->

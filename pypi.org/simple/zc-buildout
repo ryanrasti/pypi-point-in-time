@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for zc-buildout</title>
   </head>
   <body>
@@ -213,6 +213,8 @@
 <a href="https://files.pythonhosted.org/packages/26/a7/2f5a7d753804f143ae25e5649f8035698909ca46d523deff3ac5e95f0c42/zc.buildout-3.2.0.tar.gz#sha256=3f95e9b4923ad1bba48f628f1dac632770b83009299ed4208ebd1c522b148b7a" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,&gt;=2.7" >zc.buildout-3.2.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/85/47/30efd82f566276aa2bab655c82accdb46ac124507c3e1b3f9cb767798e94/zc.buildout-3.3-py2.py3-none-any.whl#sha256=85b32c6bc917359301e8efcfa48fc0bb1a4c603f9395267b9dcb79bd4c57affc" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,&gt;=2.7" data-dist-info-metadata="sha256=745b8ea2acda546adbfda6b814b69ceaa2cd81105ff36f455bd5c211ce73f0b3" data-core-metadata="sha256=745b8ea2acda546adbfda6b814b69ceaa2cd81105ff36f455bd5c211ce73f0b3">zc.buildout-3.3-py2.py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b1/90/f291b2052b0a24b661ee8a5967c42abe4020ff7be23b4d39d1aad9a4b403/zc.buildout-3.3.tar.gz#sha256=9b89ad69caafa9d87afe94d2d81263baddbf05436ade1138d7bd6437475cb2c7" data-requires-python="!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,!=3.5.*,&gt;=2.7" >zc.buildout-3.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fe/5d/25f05e60bda19820e55743cb996310284fff95dfc1bc3508266f9f61fe32/zc.buildout-4.0.0a1-py3-none-any.whl#sha256=5d35768da2455cdd7acfd58b60cbb71ee765f244c1f4dc69a5662d8444adf44a" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=4dcccb7cff915451a34f619bd0d26e06ab8fad878b5aa473ea1851b12d2785a5" data-core-metadata="sha256=4dcccb7cff915451a34f619bd0d26e06ab8fad878b5aa473ea1851b12d2785a5">zc.buildout-4.0.0a1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/ea/89a084d998294bec983594a281b5a9ca40d784a453f8440dce78e1b48711/zc.buildout-4.0.0a1.tar.gz#sha256=dfd05cc9127c2dcac9163c3cb74da9f8f4aa94d2ccedc61947bb5dcd3a86da0a" data-requires-python="&gt;=3.8" >zc.buildout-4.0.0a1.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25522164-->
+<!--SERIAL 25614662-->

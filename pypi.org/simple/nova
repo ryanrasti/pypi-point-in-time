@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for nova</title>
   </head>
   <body>
@@ -212,6 +212,8 @@
 <a href="https://files.pythonhosted.org/packages/ec/2e/d1368e819fc24ec5a33406bebc2b72444f235738b26a1306255249a67164/nova-27.4.0.tar.gz#sha256=05ee73b3e494b06a973c3ce2600cb3893cf3a5821eb1c9a3dc71984d746a4caa" data-requires-python="&gt;=3.8" >nova-27.4.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/b2/87/0c6e4965d02f9ebfb90ce2de698b606cfac26e407938990173df84cf6b4b/nova-27.5.0-py3-none-any.whl#sha256=2e2cf319ac9e6ee899df9ef929f53c2a31b9c261cec32d12e238659a796793c0" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=8ed4b0a6bfdad6771de4df93e46ca8e0920cd41b4ad377da0763a06083025e1f" data-core-metadata="sha256=8ed4b0a6bfdad6771de4df93e46ca8e0920cd41b4ad377da0763a06083025e1f">nova-27.5.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/e6/f4/b8ec7cc3153204d3316f182567eaf75b733e8f8b0e92980d4daa1bf80889/nova-27.5.0.tar.gz#sha256=33601ccb9228539c146ed53d594249bc7325ec158978c5b6f0932e8527827b66" data-requires-python="&gt;=3.8" >nova-27.5.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/02/ca/242774efdf8e002fb13b612135464eea2d055cfbfdfa6f5a1fd7180cbe26/nova-27.5.1-py3-none-any.whl#sha256=f90d3ec99719d82b08f0395b9294844b3ed40aa00a0d316f1061f11612bfaaf5" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=64c50a892afb9a77e6c058dade32fc68b5fc85fcac9c1dd5bc115d2aa974e57f" data-core-metadata="sha256=64c50a892afb9a77e6c058dade32fc68b5fc85fcac9c1dd5bc115d2aa974e57f">nova-27.5.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/6a/14/c530f838030d6ab069c9934edcce91726b4776809278c7d2f57d8b0470b4/nova-27.5.1.tar.gz#sha256=9c6703964030bce0b8b2f759a84668609c322e44db300e3aaad1132486335e61" data-requires-python="&gt;=3.8" >nova-27.5.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ea/9c/7abc9a82c66bf7591d685f4e49e20c313d3a90d1b7bc09aa87f5d9191924/nova-28.0.0.0rc1-py3-none-any.whl#sha256=d356d977405069273e1159265432fe8fa1ed46d9242e4a475a84c35d99adb8c8" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=ddf6bd722d6db22f6f746c3ac6cbc55b1741b1c5494ff051b152971f0c4a13ca" data-core-metadata="sha256=ddf6bd722d6db22f6f746c3ac6cbc55b1741b1c5494ff051b152971f0c4a13ca">nova-28.0.0.0rc1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/39/4f/c74d968bd9416706696bc8d3a177bebbdd3b11aba89cc94ab840b0e198c9/nova-28.0.0.0rc1.tar.gz#sha256=53f2683af3f8e7c57c8182ee8186c73576e7c6bc172d18e41fa7afefc527aa82" data-requires-python="&gt;=3.8" >nova-28.0.0.0rc1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6e/52/d38e9d93035462edc150ab3ea2577d70d207790c37456ff2b201a2259a59/nova-28.0.0-py3-none-any.whl#sha256=e8652ec094444ba2676c32d9e8ab6414b57b31347ed58b5d0a9f2d5fe785d9da" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=095fcca2a9cfb3df7345afd89efe2c4dad9faeaf95acee5abf4e154fa6a7dcda" data-core-metadata="sha256=095fcca2a9cfb3df7345afd89efe2c4dad9faeaf95acee5abf4e154fa6a7dcda">nova-28.0.0-py3-none-any.whl</a><br />
@@ -241,4 +243,4 @@
 <a href="https://files.pythonhosted.org/packages/a9/3d/acc68124609928fdb954c93add1ef4384c9faa01668aac758a327cce2556/nova-30.0.0.tar.gz#sha256=0afc47aca19a957ffd14c1555f5e019b8eec8e0a903607d55fa39d7f620c82a4" data-requires-python="&gt;=3.8" >nova-30.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25288821-->
+<!--SERIAL 25645229-->

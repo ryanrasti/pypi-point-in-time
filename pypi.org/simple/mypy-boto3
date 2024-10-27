@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="pypi:repository-version" content="1.2">
+    <meta name="pypi:repository-version" content="1.3">
     <title>Links for mypy-boto3</title>
   </head>
   <body>
@@ -2433,6 +2433,14 @@
 <a href="https://files.pythonhosted.org/packages/0b/b5/def792d2e7e6960acbdafba31b62770347fa448ef8d81746e2a793498387/mypy_boto3-1.35.43.tar.gz#sha256=5740d654bab486d35ba92139a7ac7346e2799ccc6772c113eaa56668f30364bc" data-requires-python="&gt;=3.8" >mypy_boto3-1.35.43.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/a1/36/9125f08b0149cd880acf5ee8ccdc67baa78dad6b7a67d1cf92f8832c592d/mypy_boto3-1.35.44-py3-none-any.whl#sha256=7339957d00b5cf4f5410c25983f2c0e7450a12a8267c759444d6d5190d31a9c2" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=19532501e6d0d9681b53322e28b3af9a497a314185971a2b298884adbf6f7c63" data-core-metadata="sha256=19532501e6d0d9681b53322e28b3af9a497a314185971a2b298884adbf6f7c63">mypy_boto3-1.35.44-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/a7/90/058884abaf5133a5df15f57b0cf31b74d75811771b342d0b2b838ab719c2/mypy_boto3-1.35.44.tar.gz#sha256=4d64071b7561f498305d2403848788c67064cc659c00104194569b10e277759e" data-requires-python="&gt;=3.8" >mypy_boto3-1.35.44.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/99/12/814247b517dce89b608428440090e4d675bf0e29edc77e88e12b6d3186d8/mypy_boto3-1.35.45-py3-none-any.whl#sha256=de0b674914101af70e7e892bf87c58fa3011385ee67424f47173e62df5ee484c" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=762b85f75575215172813acee2e9f1b98f0cff325786777bea21bb3379f15d45" data-core-metadata="sha256=762b85f75575215172813acee2e9f1b98f0cff325786777bea21bb3379f15d45">mypy_boto3-1.35.45-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/cb/62/677c4668e9bd2289b8530da2ee483674e1edf74fa522fddf7196747085d0/mypy_boto3-1.35.45.tar.gz#sha256=7a59729ad3af6b06c7bbd7a53832bfe2f8be5c7c97962bf541e058d9a5037abc" data-requires-python="&gt;=3.8" >mypy_boto3-1.35.45.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/0d/ae/5e4088ae96f11fca3a2fac8d0a60fa038cfb504ae698dcf94e02f1721625/mypy_boto3-1.35.46-py3-none-any.whl#sha256=e2eaf47b0f62749ff21a87eb3ec1aa3325f63a47c3e59e217782cc80ffd59e47" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=49f4dd67d7bd0fa85bc2b105536381a8ef228435d4401b570d3dffe0a4bd6a20" data-core-metadata="sha256=49f4dd67d7bd0fa85bc2b105536381a8ef228435d4401b570d3dffe0a4bd6a20">mypy_boto3-1.35.46-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/91/34/c031f56288177d5f743c6931cf3064cdbc8151048e75419ff9a05a9e0dc1/mypy_boto3-1.35.46.tar.gz#sha256=af81d99c1e8e4d3322560dacc5724e68e9706073ccfec64725e21bd88f63c13e" data-requires-python="&gt;=3.8" >mypy_boto3-1.35.46.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/54/84/a896f597db0155e1c534935bf23635fe09c7d4e08c8ce52bd4ac19f00f6d/mypy_boto3-1.35.48-py3-none-any.whl#sha256=b873a4867e6327096a70aadc8c602770fc0e6373d9b30488e0035afa5af2cdca" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=9cea32d05b27e031523a4cec499d9e7896e0268d396db897ffac7d21243f6413" data-core-metadata="sha256=9cea32d05b27e031523a4cec499d9e7896e0268d396db897ffac7d21243f6413">mypy_boto3-1.35.48-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b2/2a/1b976f3180ab507a17ebbad7eb80c55f98673830b56c0f50790c380b7087/mypy_boto3-1.35.48.tar.gz#sha256=f02df09544789cf1c7df82f263f35ff6a9884d8ccd1b9e1583342a491f33f416" data-requires-python="&gt;=3.8" >mypy_boto3-1.35.48.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/19/37/af6cf656604f34efd7048fae1361da4a8f0563eee810c29ae5f016d8b4d7/mypy_boto3-1.35.49-py3-none-any.whl#sha256=f243fb9bd52d236338d38e1ca31005bf00e8800805817d6182a6f0c003028ed4" data-requires-python="&gt;=3.8" data-dist-info-metadata="sha256=42211005a28b504de17535e97eeb1b108b416a057beb0743198a47dac0fc9fb7" data-core-metadata="sha256=42211005a28b504de17535e97eeb1b108b416a057beb0743198a47dac0fc9fb7">mypy_boto3-1.35.49-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/a0/51/cb3746be7886e500ec51d6aae41f49198bb288ed1499cc33c4bb4debae46/mypy_boto3-1.35.49.tar.gz#sha256=4bac2a0b93bdf37529998b4f857de3bdf36a2fa97dd9e8687f42da1e1496394b" data-requires-python="&gt;=3.8" >mypy_boto3-1.35.49.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25554348-->
+<!--SERIAL 25675388-->
