@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://github.com/CheeseCake87/flask-imp">
     <title>Links for flask-bigapp</title>
   </head>
   <body>
@@ -38,6 +39,8 @@
 <a href="https://files.pythonhosted.org/packages/6f/6f/9532e550bd26373345b1360eb438962709d2f1cbcbd157f8f08744f35c50/Flask_BigApp-2.3.4-py3-none-any.whl#sha256=094ecee2ed14bd42b1d7bce8adf8c3ef38672ed609b9b22c3917886d90b2c0e3" data-dist-info-metadata="sha256=d597658262823b2b7a85fd6f2296d9b65d9115f46934ab994f0d25c7dde3cc00" data-core-metadata="sha256=d597658262823b2b7a85fd6f2296d9b65d9115f46934ab994f0d25c7dde3cc00">Flask_BigApp-2.3.4-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/b0/32/33e1bdf3094bb126065c9185c9b6a64d344753c3806bff063ed20b098e71/Flask-BigApp-2.3.5.tar.gz#sha256=e2d4359229a324a32cb54a304698c53540eb73491504297baf0dbea09487a79d" >Flask-BigApp-2.3.5.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/6e/b4/4e54d6acd3d0d34b3e69103e6a3548cef0d041c1a5d416ba9e2efe745c8a/Flask_BigApp-2.3.5-py3-none-any.whl#sha256=8770013fd181024a07cc7366c3f09fa7c8f2f75c8eb2bac58488255043860b84" data-dist-info-metadata="sha256=2b3a543c46af1cad5471634f8b9fbc65e35a0960f66411ac73b7d56262c30d84" data-core-metadata="sha256=2b3a543c46af1cad5471634f8b9fbc65e35a0960f66411ac73b7d56262c30d84">Flask_BigApp-2.3.5-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1b/cb/a0eed318818e5abcf9befdb8ead9384eb17609378af812b8bf6c6c741627/Flask_BigApp-2.4.0-py3-none-any.whl#sha256=e2be2f61bc3c93393fe69c75caefde4b8a81097dc72d465b9703fed23bd0896a" data-dist-info-metadata="sha256=15e328ebfb58333ed8e13f75676b0fe7de6e92597f0ffe2b94c9cc231c04c75b" data-core-metadata="sha256=15e328ebfb58333ed8e13f75676b0fe7de6e92597f0ffe2b94c9cc231c04c75b">Flask_BigApp-2.4.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c0/09/86e19d8a252fb75915945a7170d1aa0721c05e853c6543b65401993e7753/flask_bigapp-2.4.0.tar.gz#sha256=a355536415ccc8db30e9799593d908b398e9c62a03cab3772b2116ed19bfd129" >flask_bigapp-2.4.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/02/e1/1c3a36cd2b966bbd45f94929313eff3d6c78f2740d5ee871ba86cf76b755/Flask-BigApp-2023.1.0.tar.gz#sha256=c2ca1e5c6fe624c02ddbd38d5a12175c6bbe8bfd65bd2ffe94755b2ca36bdff0" data-yanked="Changing version number structure" >Flask-BigApp-2023.1.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/dc/c5/ef44d0ed4a769d4ccf557af3235bb22970379e5826820f38ac9a9ee0f7be/Flask_BigApp-2023.1.0-py3-none-any.whl#sha256=96d25502b6c07d5f36b7c5aaf035d6a01b017f0856c59be5676acfb444614b8d" data-yanked="Changing version number structure" data-dist-info-metadata="sha256=1c9b108417ba5473e2f928281a23eba6422e4d4cd0032378c4be76d1e83dd8e9" data-core-metadata="sha256=1c9b108417ba5473e2f928281a23eba6422e4d4cd0032378c4be76d1e83dd8e9">Flask_BigApp-2023.1.0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/8f/19/a58f910ad68037a286c16fe9930c592abb8ba30c6d506ff3b03b946139f3/Flask-BigApp-2023.1.1.tar.gz#sha256=e05dc80f494eda5a39a65899548e25af6e546119020016df7c864115f2ba2f1c" data-yanked="Changing version number structure" >Flask-BigApp-2023.1.1.tar.gz</a><br />
@@ -92,4 +95,4 @@
 <a href="https://files.pythonhosted.org/packages/28/fe/f31f27fd64fce8884806b1353758d25cbfc00e28c45444b1ec658605c4e2/Flask_BigApp-2023.1.9.7-py3-none-any.whl#sha256=1c55d0b4394b42aa9d3a6dff0cc79fbc567114ce0d3b01691af951937b814ce4" data-yanked="Changing version number structure" data-dist-info-metadata="sha256=f2eec87dcb1304f7e191551ed4cb1cb6b2cbf217fd2d1b5706d534fe14f936b0" data-core-metadata="sha256=f2eec87dcb1304f7e191551ed4cb1cb6b2cbf217fd2d1b5706d534fe14f936b0">Flask_BigApp-2023.1.9.7-py3-none-any.whl</a><br />
 </body>
 </html>
-<!--SERIAL 19607959-->
+<!--SERIAL 26349711-->

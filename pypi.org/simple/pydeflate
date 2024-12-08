@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://github.com/jm-rivera/pydeflate">
     <title>Links for pydeflate</title>
   </head>
   <body>
@@ -98,6 +99,14 @@
 <a href="https://files.pythonhosted.org/packages/e7/3a/5882f7dffe50704968e63ab692febb841a99f6e77d3fa2568db7fbdcddee/pydeflate-1.4.1.tar.gz#sha256=a9549482c3e82057c87e50668091c34733ea3e7a707a3e003fcff735654018e7" data-requires-python="&lt;4.0,&gt;=3.10" >pydeflate-1.4.1.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/c8/15/34f5886e94bfd10407bce1111d19ff14276cb0d887d65c9b5c62a98a85c0/pydeflate-1.4.2-py3-none-any.whl#sha256=e011ee01f9c6aead7feee9eaf91c08556afa68b0c1cc041930d5e7e1afd8eafd" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=cfbfcfc73561d2756ee4fc3d4ac9ff7073334a6ddf47615d7e1947d0537b64a9" data-core-metadata="sha256=cfbfcfc73561d2756ee4fc3d4ac9ff7073334a6ddf47615d7e1947d0537b64a9">pydeflate-1.4.2-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/97/88/94199ffc3e42ef346d32d26387c8425933d2e93187ec25e92481757f05b4/pydeflate-1.4.2.tar.gz#sha256=65c532fb8db377d988aaada287ee94cf4e44486b6f35f8176319856d7863f5b1" data-requires-python="&lt;4.0,&gt;=3.10" >pydeflate-1.4.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/3c/78/ec07cfb921d1ea8bd407d57963c1c9362b00d188ae2b41fac79f22a9e832/pydeflate-2.0.0-py3-none-any.whl#sha256=c8c7e9a0c4a813427b5747e89a5248e0f4e2a382d80375d0d8ce2badfdf84b93" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=33157f35d0752585f7a2bde4d44a0c4b99c3b98d9d22d48d1e065508922babfa" data-core-metadata="sha256=33157f35d0752585f7a2bde4d44a0c4b99c3b98d9d22d48d1e065508922babfa">pydeflate-2.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3c/06/4117033367aa7d2e7e34940e2dca1946f8444b8d33165b961cdf7b7659cb/pydeflate-2.0.0.tar.gz#sha256=e86f9e9244e2b8679b785a2dff67f990d53cb46e332dda02df126775b577c55d" data-requires-python="&lt;4.0,&gt;=3.10" >pydeflate-2.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/16/e6/18cc70eccaa91607008c6598997cd3a40afdb7f9ba7f8d393f05dd7aeaa5/pydeflate-2.0.1-py3-none-any.whl#sha256=ba82634653304de3bd2d2cf2ef11b7323cdf9382026c265cb51e503084b18448" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=a28d648188d41da23d11c00821ba82ff2793f94200bc4ca69fcad3af64a71b18" data-core-metadata="sha256=a28d648188d41da23d11c00821ba82ff2793f94200bc4ca69fcad3af64a71b18">pydeflate-2.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/aa/36/f29ee351f567c880f681b10113fbdbe37f18a57fd20253cad8fc28329748/pydeflate-2.0.1.tar.gz#sha256=8c6bbfc4cffd3cbff593b552fa65196598cd20513214f055e0ab18c0cb82fcb5" data-requires-python="&lt;4.0,&gt;=3.10" >pydeflate-2.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/fd/38/a26d28d700a5c078b97b76ec659bf856d9ea72afba26b747cb5e8160eabf/pydeflate-2.0.2-py3-none-any.whl#sha256=b200320295d5540ae7ab8396ffbb11424ad24a07826903cc1f7b75a76d257534" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=9b2675051014fb3226dcde2e2d752c94c26ec86150356986982708aa574e09ff" data-core-metadata="sha256=9b2675051014fb3226dcde2e2d752c94c26ec86150356986982708aa574e09ff">pydeflate-2.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/f8/3f/4884a71bfcb5e141719b3de747d569fabe27a454a61d0c9bc65b6dbdf835/pydeflate-2.0.2.tar.gz#sha256=3ca1c7a9d643ccf6f6779ab8ae27ae388e0f879d3baf8d2a7f73a99f7360fd7b" data-requires-python="&lt;4.0,&gt;=3.10" >pydeflate-2.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/14/d2/7abf456b8b7a1aa46dc582359e41c7635e4033fcc808fed71117cd414ea6/pydeflate-2.1.0-py3-none-any.whl#sha256=e5775935d2d2d2f8f390c3198ba81f0fea2267a06f3ef4b2148194f999a049fb" data-requires-python="&lt;4.0,&gt;=3.10" data-dist-info-metadata="sha256=3aeda2a4cd9deb1a72b04a0bc580af51cf58a0d1950948888ceb3e4565a660e4" data-core-metadata="sha256=3aeda2a4cd9deb1a72b04a0bc580af51cf58a0d1950948888ceb3e4565a660e4">pydeflate-2.1.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/9e/ca/a354e5b416f3f1f22de646eb20a14bb7832b58290d7bb65efcd538a0cc44/pydeflate-2.1.0.tar.gz#sha256=06acd5ce54681da158411e0c2670d2b0416af336cf720c3004ea1abc44e1d597" data-requires-python="&lt;4.0,&gt;=3.10" >pydeflate-2.1.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 23900330-->
+<!--SERIAL 26045913-->
