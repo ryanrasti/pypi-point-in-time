@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://github.com/xinetzone/tao">
     <title>Links for d2py</title>
   </head>
   <body>
@@ -84,6 +85,8 @@
 <a href="https://files.pythonhosted.org/packages/a9/3d/8e86c4b9dc08c221a9ee595a89f7558d2c491cf8d28423363c432cd0931e/d2py-0.6.2.tar.gz#sha256=8cc8b8318530826838f90be566ae2a23d4a6b8d22de56930cced8fe089c1269f" data-requires-python="&gt;=3.9" >d2py-0.6.2.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/d8/29/3a10ab6a43664ae63198a7da1d2671f2521ec9c3a56b6566c90248d7dce9/d2py-0.6.3-py3-none-any.whl#sha256=cfa65ba3cb9fccd0d42f302dbae6dd3c20c5f7a81dfeca16e44d36d5a345c108" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=262c9a45d5e85a60ad4a3ae6765f92fa1c461809d85349f121f5774a2e1cb98e" data-core-metadata="sha256=262c9a45d5e85a60ad4a3ae6765f92fa1c461809d85349f121f5774a2e1cb98e">d2py-0.6.3-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/ad/81/6bedb9817e0e401678294641e7193602aa179ce27f1687ad06a44ca8fcc4/d2py-0.6.3.tar.gz#sha256=79ac331a359d3afc87a9c037802cfd863caba98a07b4a2e0880772248f41d91c" data-requires-python="&gt;=3.9" >d2py-0.6.3.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7d/cc/e13588e01d0baef8589d7a165d83c432afd23113d04333ed785b3ee7cf15/d2py-0.7.0-py3-none-any.whl#sha256=39ace7c01d5fbc100e6d6f59942c881f71ea22f6c75d6adefe6a543d8fb068e6" data-requires-python="&gt;=3.10" data-dist-info-metadata="sha256=c91b977a13bb354cefe96d336fb243a2aef3b83c1cd9799f646348d97c2921c3" data-core-metadata="sha256=c91b977a13bb354cefe96d336fb243a2aef3b83c1cd9799f646348d97c2921c3">d2py-0.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/3b/fb/e02ea600fe5e696269e4b8cb2315ba31f9adfd6131e4c359d4b21c780779/d2py-0.7.0.tar.gz#sha256=2ae99ae1a6ccd76174548ce90ce905b1d60b6eeed034342b46d7d590d89b8032" data-requires-python="&gt;=3.10" >d2py-0.7.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 25863944-->
+<!--SERIAL 26473714-->
