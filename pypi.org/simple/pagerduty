@@ -2,11 +2,14 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://github.com/PagerDuty/python-pagerduty">
     <title>Links for pagerduty</title>
   </head>
   <body>
     <h1>Links for pagerduty</h1>
-<a href="https://files.pythonhosted.org/packages/1c/19/86a9313ff9376591ef3f16da6cb2b806e3127b072ee8c9aaba54636d0527/pagerduty-0.2.1.tar.gz#sha256=e8c237239d3ffb061069aa04fc5b3d8ae4fb0af16a9713fe0977f02261d323e9" >pagerduty-0.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/1c/19/86a9313ff9376591ef3f16da6cb2b806e3127b072ee8c9aaba54636d0527/pagerduty-0.2.1.tar.gz#sha256=e8c237239d3ffb061069aa04fc5b3d8ae4fb0af16a9713fe0977f02261d323e9" data-yanked="Old version is unsupported/abandonware" >pagerduty-0.2.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/a9/f6/2449a3e0b97258076d0dbeb7a9eeb11ceb7a4890f63ec2c5f3d3fa96accc/pagerduty-0.9.0-py2.py3-none-any.whl#sha256=545c19348cc545923ef2f8170a9c370fb793db42f820d3845103fd90511e4cb9" data-requires-python="&gt;=3.6" data-dist-info-metadata="sha256=a908e3d5643dbf17ec81473c807a0c47ef816fe0d339cd3818ed3d99c66f9181" data-core-metadata="sha256=a908e3d5643dbf17ec81473c807a0c47ef816fe0d339cd3818ed3d99c66f9181">pagerduty-0.9.0-py2.py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5a/3d/d8d77fcbd177fb2ad98344c24e51521dae504849a3e908bea187a3cc33ff/pagerduty-0.9.0.tar.gz#sha256=7d505e3cbdfce0641167bb411104abe3f440535bd89ecf40091e13122cbda447" data-requires-python="&gt;=3.6" >pagerduty-0.9.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 26541680-->
+<!--SERIAL 26648147-->
