@@ -2,12 +2,21 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://pypi.org/project/jklm/">
     <title>Links for jklm-client</title>
   </head>
   <body>
     <h1>Links for jklm-client</h1>
 <a href="https://files.pythonhosted.org/packages/4c/39/c1cf66ead24a79c76013e3ae9d2c4df70e0e77742df531393c77241d736f/jklm-client-0.0.0.tar.gz#sha256=c6325f52e7b5fdc9c7cb29e35ef645e7fdac61d06268eb62046c566b2f9db7ba" data-requires-python="&gt;=3.9" >jklm-client-0.0.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/72/21/914821e2bfd5cfaeedbf4421822454a8602d42cf93e6957244e68a65fad1/jklm_client-0.0.0-py3-none-any.whl#sha256=769cf25cf780d5a7105a60e686e9534c7ada48903e860a1bc0ed478a0477bc7f" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=7b7be0b9a7a817cbda548f4755b44e7b9a5d5c4cead3e3d0fd003eaf499f2cbe" data-core-metadata="sha256=7b7be0b9a7a817cbda548f4755b44e7b9a5d5c4cead3e3d0fd003eaf499f2cbe">jklm_client-0.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/c1/86/5b1abe69034a1f52e081b048c3116c42db4e5be6fe54a3ee5e72745c7c7d/jklm_client-1.0.0-py3-none-any.whl#sha256=2c25a6a9df25e5f38eb01eb45348e6626b33c343a9054bbeb6391dff1e7a87b7" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=63cc493dd2bc4c8fbeaaf898b518684371b104aa5ebcaa0ec2e470a940c78d56" data-core-metadata="sha256=63cc493dd2bc4c8fbeaaf898b518684371b104aa5ebcaa0ec2e470a940c78d56">jklm_client-1.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5f/e6/b9978f67309211382f5f8a54769a2f53fcf65e0b9d5e6d46ae68e2ff6e63/jklm_client-1.0.0.tar.gz#sha256=b9bf2279fa1bfb1d52667566f491b8fbc452b011fcbe04ebd5db382d998560df" data-requires-python="&gt;=3.9" >jklm_client-1.0.0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/7b/73/e4e6acac6ee86c3cc60d4c5f2364223e1d74f8b1c0fd036f2c0d044897f1/jklm_client-1.0.1-py3-none-any.whl#sha256=9fc6fb72b8653fa06dc459472676cd4aaacf51635e200e44007e0daae8c40d4e" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=ec42d21936e2afa6057d1d43eb2eb2e6a576383b79f2e43865a5d11e077b2a0d" data-core-metadata="sha256=ec42d21936e2afa6057d1d43eb2eb2e6a576383b79f2e43865a5d11e077b2a0d">jklm_client-1.0.1-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/5d/7c/51ff9e0552044c7eee9b1bd993609656dacf7a49d8ce9a1f8ac66bcafb24/jklm_client-1.0.1.tar.gz#sha256=8860ec890e805fe448b8fa8b581f350c273d0a60462b30d7172181fbd9474e1a" data-requires-python="&gt;=3.9" >jklm_client-1.0.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/4a/07/ce810a3ab0d0e85e7de65151a1ee039a1ccf5eb200a5d4908e76deb33d5b/jklm_client-1.0.2-py3-none-any.whl#sha256=5af6cef11d9697fc72eebe7d9af4bf8a27473cfaa2312388e2f4d624ea03dd97" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=e21b2c99bc057b69c41a32f4b2c2fd69715d0f98562af0cfdd2cff0cb15c5ec4" data-core-metadata="sha256=e21b2c99bc057b69c41a32f4b2c2fd69715d0f98562af0cfdd2cff0cb15c5ec4">jklm_client-1.0.2-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/b7/ef/9ceb167eeb40e36a8241d9b2da0805521e4c9677b5733a93c8ec77d4f632/jklm_client-1.0.2.tar.gz#sha256=e8b3c16bcb58d0b8a0095e9fdd7f17317aa4e22845b34a399043450a811492bd" data-requires-python="&gt;=3.9" >jklm_client-1.0.2.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/67/78/7ce95be878f87e8e165424287047f1ce55fb95118244c3154c079958f34e/jklm_client-1.0.3-py3-none-any.whl#sha256=213f68d3f672694b443c6208eca022090a5ad1b0100b6bca216245cd64540ab3" data-requires-python="&gt;=3.9" data-dist-info-metadata="sha256=a8a1c39091ac8e3b5722cc7cfc285311729e16f85b8ba6a3c1a0c26d4e203e26" data-core-metadata="sha256=a8a1c39091ac8e3b5722cc7cfc285311729e16f85b8ba6a3c1a0c26d4e203e26">jklm_client-1.0.3-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/1d/e9/ba4b62b57d95970eefb0bc44808e2bb39f5364aba937c55d973ecf06bb72/jklm_client-1.0.3.tar.gz#sha256=4bb20a40549c6bf15c1cbe1e4446e0872bf6352485844bdbbc1480323b386e12" data-requires-python="&gt;=3.9" >jklm_client-1.0.3.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21990968-->
+<!--SERIAL 27581860-->

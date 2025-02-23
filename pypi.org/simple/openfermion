@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://github.com/quantumlib/OpenFermion">
     <title>Links for openfermion</title>
   </head>
   <body>
@@ -49,6 +50,8 @@
 <a href="https://files.pythonhosted.org/packages/44/db/ef21f4796f58199d25fd1c943fdf17d9eb25e6ab1b5c0cfc755992ecc5a0/openfermion-1.6.0.tar.gz#sha256=b41280b3f07cd4c23db486639d27a3e89e6f801c2044e7459c74f5b6aaedfaae" >openfermion-1.6.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/3b/a8/3d6942f7c25ec9f0b58c5d7864743c43d6a7a65052795b343be46019cf85/openfermion-1.6.1-py3-none-any.whl#sha256=9cc65558ac4915ab25a3366f71b80acf22b16116c9f6132c08990fd2f59b557e" data-dist-info-metadata="sha256=24c87f9fcb66eeea9439e07f0e248e23a136c70f552cc0d91dc9f25567e5cff5" data-core-metadata="sha256=24c87f9fcb66eeea9439e07f0e248e23a136c70f552cc0d91dc9f25567e5cff5">openfermion-1.6.1-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/12/cb/479729416a560a51ab5ed9c02d5576e639c13512f013e7fc80bca6e6db4e/openfermion-1.6.1.tar.gz#sha256=d7f1df4cf98feaa577a070cb432e3d05863c73a4f3bc1f7d112914cf2a3c9bcb" >openfermion-1.6.1.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/29/ae/ea1513af715a7533ade2a78ca5924bb10de7fb961d5dfccd0f113e6a2bd8/openfermion-1.7.0-py3-none-any.whl#sha256=8df138cc46b2d248882a12392d40d813e4da98700453c83b9da500dcba847322" data-requires-python="&gt;=3.10.0" data-dist-info-metadata="sha256=ddde68729fc21fb2a4de2fb3ceb0989a7a18ea706f701d182668e28808b871c2" data-core-metadata="sha256=ddde68729fc21fb2a4de2fb3ceb0989a7a18ea706f701d182668e28808b871c2">openfermion-1.7.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/4f/3b/8e1811ce313a8e7b75be37d83afb4fac0d47b91f134ea01b7d0bbf4d9a71/openfermion-1.7.0.tar.gz#sha256=1728768c318b50e58a888a4657c2e87a39111022eff32f7729f3eda729da81a8" data-requires-python="&gt;=3.10.0" >openfermion-1.7.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 21797526-->
+<!--SERIAL 27406806-->

@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta name="pypi:repository-version" content="1.3">
+    <meta name="pypi:alternate-locations" content="https://pypi.org/project/openelectricity/">
     <title>Links for opennem</title>
   </head>
   <body>
@@ -478,6 +479,8 @@
 <a href="https://files.pythonhosted.org/packages/5a/65/86dafd0f52993687809a61b31573ed20ed89b60b6b64f16078775786e805/opennem-3.8.0.tar.gz#sha256=a0d8fbcff7c6371c9bbba669fac171916dcff6786db927af5352417088e048cb" data-requires-python="&gt;=3.8,&lt;4.0" >opennem-3.8.0.tar.gz</a><br />
 <a href="https://files.pythonhosted.org/packages/ee/95/626b169b2e407b1c6a526534f87d93e4add29409cf3a6b449bc4ba5b4e11/opennem-3.8.1a0-py3-none-any.whl#sha256=9b44a2b9cef906c9cb22bb32434b37180dabfcea67679db00c4cd401ce11e2e3" data-requires-python="&gt;=3.10,&lt;4.0" data-dist-info-metadata="sha256=53837731c9a7a70f4378b194367d13e1bab318596ade9e41803b8307f98203c2" data-core-metadata="sha256=53837731c9a7a70f4378b194367d13e1bab318596ade9e41803b8307f98203c2">opennem-3.8.1a0-py3-none-any.whl</a><br />
 <a href="https://files.pythonhosted.org/packages/1c/45/f4d63252c464f5840b128f23039da22425a67d670701754ea47a86090d92/opennem-3.8.1a0.tar.gz#sha256=301e65a4db2f3483a442806b7d60f89d8d8e0e474057db01a1f16434e76896d0" data-requires-python="&gt;=3.10,&lt;4.0" >opennem-3.8.1a0.tar.gz</a><br />
+<a href="https://files.pythonhosted.org/packages/03/d1/7550609b09817e1407dc638755e8625cfac2ffbf17baff5fa3f7ed664540/opennem-10.0.0-py3-none-any.whl#sha256=3c525936fc9bd6dc956f5a64555441886ab4ef8c3dd8afcb7ae47dce7c29d966" data-requires-python="&gt;=3.7" data-dist-info-metadata="sha256=6234ce970862970d7b963ba034b59578527768ad6da79d640efe56d2d5c46bf2" data-core-metadata="sha256=6234ce970862970d7b963ba034b59578527768ad6da79d640efe56d2d5c46bf2">opennem-10.0.0-py3-none-any.whl</a><br />
+<a href="https://files.pythonhosted.org/packages/fe/43/c0abbba174fcfeeedf9273bb980bc3e6602e484a4536b03af7b4c2193eeb/opennem-10.0.0.tar.gz#sha256=4f8c87402a8b1bfd6a61587672f526e6c20a3f0a9f76b07ea5c8dd511cf287ca" data-requires-python="&gt;=3.7" >opennem-10.0.0.tar.gz</a><br />
 </body>
 </html>
-<!--SERIAL 15704225-->
+<!--SERIAL 27502467-->
